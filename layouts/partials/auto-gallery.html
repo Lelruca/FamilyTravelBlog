@@ -1,0 +1,30 @@
+{{- $page := . -}}
+{{- $hero := $page.Params.hero_image | default "" -}}
+{{- $images := $page.Resources.ByType "image" -}}
+{{- $gallery := slice -}}
+{{- range $images -}}
+  {{- if ne .Name $hero -}}
+    {{- $gallery = $gallery | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- if gt (len $gallery) 0 -}}
+<section class="mt-12" aria-label="Photo gallery">
+  <h2 class="text-sm font-semibold uppercase tracking-widest text-neutral-400 mb-4">Gallery</h2>
+  <div class="grid grid-cols-2 md:grid-cols-3 gap-2">
+    {{- range $gallery -}}
+      {{- $thumb := .Resize "600x webp" -}}
+      {{- $full  := .Resize "1400x webp" -}}
+      <a href="{{ $full.RelPermalink }}" class="block aspect-square overflow-hidden rounded group" data-gallery>
+        <img
+          src="{{ $thumb.RelPermalink }}"
+          alt="{{ .Title | default .Name }}"
+          class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+          loading="lazy"
+          width="{{ $thumb.Width }}"
+          height="{{ $thumb.Height }}"
+        />
+      </a>
+    {{- end -}}
+  </div>
+</section>
+{{- end -}}

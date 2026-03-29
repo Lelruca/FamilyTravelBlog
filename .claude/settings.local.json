@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"c:/GitHub/Family Travel Block\" log --oneline -10)",
+      "Bash(hugo version:*)",
+      "Bash(npm --version)"
+    ]
+  }
+}

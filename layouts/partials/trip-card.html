@@ -1,0 +1,38 @@
+{{- $trip := . -}}
+{{- $accent := $trip.Params.accent_color | default site.Params.defaultAccent | default "#4f7396" -}}
+{{- $coverFile := $trip.Params.cover_image -}}
+{{- $coverURL := "" -}}
+{{- if $coverFile -}}
+  {{- if hasPrefix $coverFile "http" -}}
+    {{- $coverURL = $coverFile -}}
+  {{- else -}}
+    {{- $img := $trip.Resources.GetMatch $coverFile -}}
+    {{- if $img -}}
+      {{- $thumb := $img.Resize "800x450 webp Smart" -}}
+      {{- $coverURL = $thumb.RelPermalink -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<a href="{{ $trip.RelPermalink }}" class="trip-card block group" style="--accent: {{ $accent }};">
+  <div class="aspect-video bg-neutral-200 overflow-hidden">
+    {{- if $coverURL -}}
+    <img
+      src="{{ $coverURL }}"
+      alt="{{ $trip.Title }}"
+      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+      loading="lazy"
+    />
+    {{- else -}}
+    <div class="w-full h-full flex items-center justify-center text-neutral-400 text-4xl">🌍</div>
+    {{- end -}}
+  </div>
+  <div class="p-4 bg-white">
+    <div class="flex items-center gap-2 text-xs text-neutral-500 mb-1">
+      <span>{{ $trip.Params.country }}</span>
+      <span>·</span>
+      <span>{{ $trip.Params.trip_year }}</span>
+    </div>
+    <h3 class="font-serif text-lg font-semibold text-accent leading-snug">{{ $trip.Title }}</h3>
+    <p class="text-sm text-neutral-600 mt-1 line-clamp-2">{{ $trip.Params.summary }}</p>
+  </div>
+</a>

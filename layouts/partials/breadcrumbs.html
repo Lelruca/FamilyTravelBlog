@@ -1,0 +1,16 @@
+{{- /* Renders: Home › Europe › Spain › Madrid 2006 › Day 1 */}}
+<nav aria-label="Breadcrumb" class="text-sm text-neutral-500 mb-6">
+  <ol class="flex flex-wrap items-center">
+    <li class="breadcrumb-item">
+      <a href="{{ "/" | relURL }}" class="hover:text-accent transition-colors">Home</a>
+    </li>
+    {{- range .Ancestors | reverse }}
+    <li class="breadcrumb-item">
+      <a href="{{ .RelPermalink }}" class="hover:text-accent transition-colors">{{ .Title }}</a>
+    </li>
+    {{- end }}
+    <li class="breadcrumb-item font-medium text-neutral-800" aria-current="page">
+      {{ .Title }}
+    </li>
+  </ol>
+</nav>

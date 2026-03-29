@@ -1,0 +1,72 @@
+{{ define "main" }}
+{{- $ch := . -}}
+
+{{ partial "hero.html" $ch }}
+
+<div class="max-w-5xl mx-auto px-4 py-10">
+  {{ partial "breadcrumbs.html" $ch }}
+
+  <div class="lg:grid lg:grid-cols-[260px_1fr] lg:gap-10">
+
+    <aside class="lg:sticky lg:top-24 lg:self-start hidden lg:block">
+      {{ partial "chapter-nav.html" $ch }}
+    </aside>
+
+    <article>
+      <header class="mb-8">
+        <div class="flex flex-wrap items-center gap-2 text-xs text-neutral-400 uppercase tracking-wide mb-3">
+          <span>{{ $ch.Params.chapter_kind | default "chapter" }}</span>
+          {{- with $ch.Params.day_num }}<span>· Day {{ . }}</span>{{ end }}
+          {{- with $ch.Params.city }}<span>· {{ . }}</span>{{ end }}
+          {{- with $ch.Params.date }}<span>· {{ . | time.Format "2 January 2006" }}</span>{{ end }}
+        </div>
+        <h1 class="font-serif text-3xl md:text-4xl font-bold text-accent leading-tight">{{ $ch.Title }}</h1>
+      </header>
+
+      <div class="prose prose-travel prose-neutral max-w-none">
+        {{ $ch.Content }}
+      </div>
+
+      {{ partial "auto-gallery.html" $ch }}
+
+      {{- /* Prev / Next navigation */}}
+      <nav class="flex justify-between gap-4 mt-16 pt-8 border-t border-neutral-200" aria-label="Chapter navigation">
+        {{- with $ch.PrevInSection }}
+        <a href="{{ .RelPermalink }}" class="group flex-1 text-left">
+          <span class="text-xs text-neutral-400 block mb-1">← Previous</span>
+          <span class="font-medium group-hover:text-accent transition-colors">{{ .Title }}</span>
+        </a>
+        {{- else }}<div class="flex-1"></div>{{ end }}
+        {{- with $ch.NextInSection }}
+        <a href="{{ .RelPermalink }}" class="group flex-1 text-right">
+          <span class="text-xs text-neutral-400 block mb-1">Next →</span>
+          <span class="font-medium group-hover:text-accent transition-colors">{{ .Title }}</span>
+        </a>
+        {{- end }}
+      </nav>
+
+      {{- /* Optional Giscus comments */}}
+      {{- with site.Params.giscusRepo -}}
+      <section class="mt-12">
+        <script src="https://giscus.app/client.js"
+          data-repo="{{ site.Params.giscusRepo }}"
+          data-repo-id="{{ site.Params.giscusRepoId }}"
+          data-category="{{ site.Params.giscusCategory }}"
+          data-category-id="{{ site.Params.giscusCategoryId }}"
+          data-mapping="pathname"
+          data-strict="1"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="bottom"
+          data-theme="light"
+          data-lang="en"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </section>
+      {{- end }}
+
+    </article>
+  </div>
+</div>
+{{ end }}

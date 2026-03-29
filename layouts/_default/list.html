@@ -1,0 +1,36 @@
+{{ define "main" }}
+<div class="max-w-5xl mx-auto px-4 py-12">
+  {{ partial "breadcrumbs.html" . }}
+
+  <header class="mb-10">
+    <p class="text-xs uppercase tracking-widest text-neutral-400 mb-2">
+      {{- with .Parent }}{{ .Title }}{{ end -}}
+    </p>
+    <h1 class="font-serif text-4xl font-bold text-neutral-900">{{ .Title }}</h1>
+    {{ with .Content }}<div class="mt-4 text-neutral-600 prose max-w-none">{{ . }}</div>{{ end }}
+  </header>
+
+  {{- $depth := len .SectionsPath -}}
+
+  {{- if eq $depth 1 -}}
+    {{- /* Continent page — list countries */}}
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+      {{- range .Sections }}
+      <a href="{{ .RelPermalink }}" class="p-4 rounded-lg border border-neutral-200 hover:border-accent hover:text-accent transition-colors font-medium">
+        {{ .Title }}
+        <span class="block text-xs text-neutral-400 font-normal mt-1">{{ len .Sections }} trip{{ if ne (len .Sections) 1 }}s{{ end }}</span>
+      </a>
+      {{- end }}
+    </div>
+  {{- else -}}
+    {{- /* Country page — list trips */}}
+    {{- $trips := sort .Sections "Params.trip_year" "desc" -}}
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {{- range $trips }}
+        {{ partial "trip-card.html" . }}
+      {{- end }}
+    </div>
+  {{- end }}
+
+</div>
+{{ end }}

@@ -1,0 +1,31 @@
+{{- $page := . -}}
+{{- $heroFile := $page.Params.hero_image | default $page.Params.cover_image -}}
+{{- if $heroFile -}}
+  {{- if hasPrefix $heroFile "http" -}}
+    <div class="relative w-full h-64 md:h-96 overflow-hidden bg-neutral-200">
+      <img src="{{ $heroFile }}" alt="{{ $page.Title }}" class="w-full h-full object-cover" loading="eager" fetchpriority="high" />
+      <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
+    </div>
+  {{- else -}}
+    {{- $img := $page.Resources.GetMatch $heroFile -}}
+    {{- if $img -}}
+      {{- $lg := $img.Resize "1600x webp" -}}
+      {{- $md := $img.Resize "900x webp" -}}
+      {{- $sm := $img.Resize "600x webp" -}}
+      <div class="relative w-full h-64 md:h-96 overflow-hidden bg-neutral-200">
+        <img
+          src="{{ $md.RelPermalink }}"
+          srcset="{{ $sm.RelPermalink }} 600w, {{ $md.RelPermalink }} 900w, {{ $lg.RelPermalink }} 1600w"
+          sizes="100vw"
+          alt="{{ $page.Params.hero_alt | default $page.Title }}"
+          class="w-full h-full object-cover"
+          loading="eager"
+          fetchpriority="high"
+          width="{{ $md.Width }}"
+          height="{{ $md.Height }}"
+        />
+        <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
+      </div>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

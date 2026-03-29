@@ -1,0 +1,42 @@
+{{- /* Usage: {{< photo src="img.jpg" size="wide|two-col|three-col" alt="..." caption="..." >}} */}}
+{{- $src     := .Get "src" -}}
+{{- $size    := .Get "size" | default "two-col" -}}
+{{- $alt     := .Get "alt"  | default "" -}}
+{{- $caption := .Get "caption" | default "" -}}
+
+{{- $sizeClass := "photo-two-col" -}}
+{{- if eq $size "wide"      }}{{- $sizeClass = "photo-wide"      -}}{{- end -}}
+{{- if eq $size "three-col" }}{{- $sizeClass = "photo-three-col" -}}{{- end -}}
+
+{{- $imgURL     := $src -}}
+{{- $srcset     := "" -}}
+{{- $widthAttr  := "" -}}
+{{- $heightAttr := "" -}}
+
+{{- if not (hasPrefix $src "http") -}}
+  {{- $img := .Page.Resources.GetMatch $src -}}
+  {{- if $img -}}
+    {{- $sm  := $img.Resize "480x webp" -}}
+    {{- $md  := $img.Resize "800x webp" -}}
+    {{- $lg  := $img.Resize "1200x webp" -}}
+    {{- $imgURL     = $md.RelPermalink -}}
+    {{- $srcset     = printf "%s 480w, %s 800w, %s 1200w" $sm.RelPermalink $md.RelPermalink $lg.RelPermalink -}}
+    {{- $widthAttr  = $md.Width -}}
+    {{- $heightAttr = $md.Height -}}
+  {{- end -}}
+{{- end -}}
+
+<figure class="{{ $sizeClass }} my-4">
+  <img
+    src="{{ $imgURL }}"
+    {{ with $srcset }}srcset="{{ . }}" sizes="(max-width: 768px) 100vw, 50vw"{{ end }}
+    alt="{{ $alt }}"
+    {{ with $widthAttr }}width="{{ . }}"{{ end }}
+    {{ with $heightAttr }}height="{{ . }}"{{ end }}
+    class="w-full h-auto rounded-md"
+    loading="lazy"
+  />
+  {{- with $caption -}}
+  <figcaption class="text-sm text-neutral-500 text-center mt-2 italic">{{ . }}</figcaption>
+  {{- end -}}
+</figure>

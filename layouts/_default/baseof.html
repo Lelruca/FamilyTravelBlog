@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}" class="h-full">
+  <head>
+    {{- block "head" . }}{{ partial "head.html" . }}{{ end -}}
+  </head>
+  {{- /* Resolve accent color: walk ancestors root→page, last write wins (most specific) */}}
+  {{- $accent := .Site.Params.defaultAccent | default "#4f7396" -}}
+  {{- range .Ancestors -}}
+    {{- with .Params.accent_color -}}{{- $accent = . -}}{{- end -}}
+  {{- end -}}
+  {{- with .Params.accent_color -}}{{- $accent = . -}}{{- end -}}
+  <body class="min-h-full flex flex-col" style="--accent: {{ $accent }};">
+    {{- block "header" . }}{{ partial "header.html" . }}{{ end -}}
+    <main class="flex-1">
+      {{- block "main" . }}{{ end -}}
+    </main>
+    {{- block "footer" . }}{{ partial "footer.html" . }}{{ end -}}
+  </body>
+</html>

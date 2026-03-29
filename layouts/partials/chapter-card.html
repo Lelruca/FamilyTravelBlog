@@ -1,0 +1,30 @@
+{{- $ch := . -}}
+{{- $heroFile := $ch.Params.hero_image -}}
+{{- $thumbURL := "" -}}
+{{- if $heroFile -}}
+  {{- if hasPrefix $heroFile "http" -}}
+    {{- $thumbURL = $heroFile -}}
+  {{- else -}}
+    {{- $img := $ch.Resources.GetMatch $heroFile -}}
+    {{- if $img -}}
+      {{- $thumb := $img.Resize "400x250 webp Smart" -}}
+      {{- $thumbURL = $thumb.RelPermalink -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<a href="{{ $ch.RelPermalink }}" class="chapter-card group">
+  {{- if $thumbURL -}}
+  <div class="w-24 h-16 shrink-0 overflow-hidden rounded">
+    <img src="{{ $thumbURL }}" alt="" class="w-full h-full object-cover" loading="lazy" />
+  </div>
+  {{- end -}}
+  <div class="flex-1 min-w-0">
+    <div class="flex items-center gap-2 text-xs text-neutral-400 mb-1">
+      <span class="uppercase tracking-wide">{{ $ch.Params.chapter_kind | default "chapter" }}</span>
+      {{- with $ch.Params.day_num }}<span>· Day {{ . }}</span>{{ end -}}
+      {{- with $ch.Params.city }}<span>· {{ . }}</span>{{ end -}}
+    </div>
+    <h3 class="font-medium text-neutral-800 group-hover:text-accent transition-colors truncate">{{ $ch.Title }}</h3>
+    <p class="text-sm text-neutral-500 mt-0.5 line-clamp-1">{{ $ch.Summary }}</p>
+  </div>
+</a>

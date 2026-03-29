@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --accent: #4f7396; /* site default; overridden per-trip via <body style=""> */
+  }
+
+  html {
+    @apply scroll-smooth;
+  }
+
+  body {
+    @apply bg-white text-neutral-800 font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer components {
+  .trip-card {
+    @apply relative overflow-hidden rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300;
+  }
+
+  .chapter-card {
+    @apply flex gap-4 p-4 rounded-lg border border-neutral-200 hover:border-accent transition-colors;
+  }
+
+  .nav-link-active {
+    @apply text-accent border-b-2 border-accent;
+  }
+
+  .breadcrumb-item + .breadcrumb-item::before {
+    content: "›";
+    @apply mx-2 text-neutral-400;
+  }
+}
+
+@layer utilities {
+  .text-accent   { color: var(--accent, #4f7396); }
+  .bg-accent     { background-color: var(--accent, #4f7396); }
+  .border-accent { border-color: var(--accent, #4f7396); }
+  .ring-accent   { --tw-ring-color: var(--accent, #4f7396); }
+
+  /* Photo grid layouts (used by photo shortcode) */
+  .photo-wide      { @apply col-span-full; }
+  .photo-two-col   { @apply col-span-1; }
+  .photo-three-col { @apply col-span-1; }
+}

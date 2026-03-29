@@ -1,0 +1,46 @@
+baseURL: "https://olgau-travels.github.io/family-travel-block/"
+languageCode: "ru"
+title: "Наши путешествия"
+
+# Taxonomy: time navigation (Geography uses sections natively)
+taxonomies:
+  trip_year: "trip_year"
+
+# Image processing
+imaging:
+  quality: 85
+  resampleFilter: "Lanczos"
+  anchor: "Smart"
+
+# Allow raw HTML in markdown
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+# Hugo build stats (used by Tailwind PurgeCSS in production)
+build:
+  writeStats: true
+
+# Site params
+params:
+  defaultAccent: "#4f7396"
+  giscusRepo: ""
+  giscusRepoId: ""
+  giscusCategory: ""
+  giscusCategoryId: ""
+
+# Auto-set type: "trips" on all pages that are 3+ levels deep
+# (continent/country/trip/chapter) so they use layouts/trips/
+cascade:
+  - _target:
+      path: "{europe,asia,americas,africa,oceania,australia}/*/*/**"
+    params:
+      type: "trips"
+  - _target:
+      path: "{europe,asia,americas,africa,oceania,australia}/*/**"
+      kind: "section"
+    params:
+      type: "trips"

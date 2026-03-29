@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{- $trip := . -}}
+
+{{ partial "hero.html" $trip }}
+
+<div class="max-w-5xl mx-auto px-4 py-10">
+  {{ partial "breadcrumbs.html" $trip }}
+
+  <header class="mb-8">
+    <div class="flex flex-wrap items-center gap-3 text-sm text-neutral-500 mb-2">
+      <span class="uppercase tracking-widest text-xs">{{ $trip.Params.continent }}</span>
+      <span>·</span>
+      <span>{{ $trip.Params.country }}</span>
+      <span>·</span>
+      <span>{{ $trip.Params.trip_year }}</span>
+    </div>
+    <h1 class="font-serif text-4xl font-bold text-accent mb-4">{{ $trip.Title }}</h1>
+    <p class="text-lg text-neutral-600 max-w-2xl">{{ $trip.Params.summary }}</p>
+    {{ with $trip.Content }}<div class="mt-4 prose prose-neutral max-w-none">{{ . }}</div>{{ end }}
+  </header>
+
+  <section>
+    <h2 class="text-xs font-semibold uppercase tracking-widest text-neutral-400 mb-4">Chapters</h2>
+    <div class="space-y-3">
+      {{- range $trip.Pages.ByWeight }}
+        {{ partial "chapter-card.html" . }}
+      {{- end }}
+    </div>
+  </section>
+</div>
+{{ end }}
