@@ -2,6 +2,8 @@
 title: "Eating Through Madrid"
 chapter_kind: "theme"
 weight: 50
+places:
+  - madrid
 hero_image: "hero.jpg"
 ---
 A thematic look at everything we ate — from churros con chocolate at San Ginés at midnight to a Sunday lunch that lasted four hours.

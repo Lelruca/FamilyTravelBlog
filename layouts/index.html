@@ -6,21 +6,24 @@
     {{ with .Content }}<div class="text-lg text-neutral-600 max-w-2xl mx-auto">{{ . }}</div>{{ end }}
   </header>
 
-  {{- /* Navigation entry points */}}
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-16">
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
     <a href="{{ "/europe/" | relURL }}" class="group p-6 rounded-xl border-2 border-neutral-200 hover:border-accent transition-colors">
       <div class="text-3xl mb-2">🗺️</div>
-      <h2 class="font-serif text-xl font-semibold group-hover:text-accent transition-colors">Путешествия по географии</h2>
+      <h2 class="font-serif text-xl font-semibold group-hover:text-accent transition-colors">Путешествия по Странам</h2>
       <p class="text-neutral-500 text-sm mt-1">Континент → Страна → Поездка</p>
     </a>
     <a href="{{ "/trip-year/" | relURL }}" class="group p-6 rounded-xl border-2 border-neutral-200 hover:border-accent transition-colors">
       <div class="text-3xl mb-2">📅</div>
-      <h2 class="font-serif text-xl font-semibold group-hover:text-accent transition-colors">Путешествия по годам</h2>
+      <h2 class="font-serif text-xl font-semibold group-hover:text-accent transition-colors">Путешествия по Годам</h2>
       <p class="text-neutral-500 text-sm mt-1">Десятилетие → Год → Поездка</p>
+    </a>
+    <a href="{{ "/places/" | relURL }}" class="group p-6 rounded-xl border-2 border-neutral-200 hover:border-accent transition-colors">
+      <div class="text-3xl mb-2">📍</div>
+      <h2 class="font-serif text-xl font-semibold group-hover:text-accent transition-colors">Места</h2>
+      <p class="text-neutral-500 text-sm mt-1">Список, поиск и названия на двух языках</p>
     </a>
   </div>
 
-  {{- /* All trips sorted by trip_year descending */}}
   <section>
     <h2 class="font-serif text-2xl font-semibold text-neutral-800 mb-8">Все поездки</h2>
     {{- $trips := where site.Pages "Params.trip_year" "!=" nil -}}

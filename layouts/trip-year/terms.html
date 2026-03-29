@@ -21,7 +21,7 @@
     {{- $decadeKeys = $decadeKeys | append $k -}}
   {{- end -}}
 
-  {{- range sort $decadeKeys | reverse -}}
+  {{- range collections.Reverse (sort $decadeKeys) -}}
     {{- $terms := index $decades . -}}
     <section class="mb-10">
       <h2 class="font-serif text-2xl font-semibold text-neutral-700 mb-4">{{ . }}s</h2>

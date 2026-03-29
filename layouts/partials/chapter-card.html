@@ -25,6 +25,8 @@
       {{- with $ch.Params.city }}<span>· {{ . }}</span>{{ end -}}
     </div>
     <h3 class="font-medium text-neutral-800 group-hover:text-accent transition-colors truncate">{{ $ch.Title }}</h3>
-    <p class="text-sm text-neutral-500 mt-0.5 line-clamp-1">{{ $ch.Summary }}</p>
+    {{- with $ch.Params.summary }}
+    <p class="text-sm text-neutral-500 mt-0.5 line-clamp-1">{{ . }}</p>
+    {{- end }}
   </div>
 </a>

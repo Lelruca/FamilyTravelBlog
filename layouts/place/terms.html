@@ -1,0 +1,59 @@
+{{ define "main" }}
+<div class="max-w-5xl mx-auto px-4 py-12">
+  <header class="mb-10">
+    <h1 class="font-serif text-4xl font-bold text-neutral-900">Места</h1>
+    <p class="text-neutral-600 mt-2">Каталог мест с поиском по русскому и локальному названию.</p>
+  </header>
+
+  <div class="mb-8">
+    <label for="place-search" class="block text-sm font-medium text-neutral-700 mb-2">Найти место</label>
+    <input
+      id="place-search"
+      type="search"
+      placeholder="Например: Madrid, Мадрид, Köln, Кёльн"
+      class="w-full rounded-xl border border-neutral-300 px-4 py-3 text-base outline-none focus:border-accent"
+    />
+  </div>
+
+  <div id="places-list" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+    {{- range .Data.Terms.Alphabetical }}
+      {{- $termPage := .Page -}}
+      {{- $searchText := printf "%s %s" $termPage.Title (.Term | default "") | lower -}}
+      <a
+        href="{{ $termPage.RelPermalink }}"
+        data-place-item
+        data-search="{{ $searchText }}"
+        class="p-4 rounded-xl border border-neutral-200 hover:border-accent transition-colors"
+      >
+        <h2 class="font-serif text-xl font-semibold text-neutral-900">{{ $termPage.Title }}</h2>
+        <p class="text-sm text-neutral-500 mt-3">{{ .Count }} стр.</p>
+      </a>
+    {{- end }}
+  </div>
+
+  <p id="places-empty" class="hidden text-neutral-500 mt-6">Ничего не найдено.</p>
+</div>
+
+<script>
+  (function () {
+    const input = document.getElementById('place-search');
+    const items = Array.from(document.querySelectorAll('[data-place-item]'));
+    const empty = document.getElementById('places-empty');
+    if (!input || !items.length) return;
+
+    const filter = () => {
+      const q = input.value.trim().toLowerCase();
+      let visible = 0;
+      for (const item of items) {
+        const text = item.dataset.search || '';
+        const match = !q || text.includes(q);
+        item.classList.toggle('hidden', !match);
+        if (match) visible++;
+      }
+      empty.classList.toggle('hidden', visible !== 0);
+    };
+
+    input.addEventListener('input', filter);
+  })();
+</script>
+{{ end }}

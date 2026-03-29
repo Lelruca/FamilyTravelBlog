@@ -4,7 +4,7 @@
     <li class="breadcrumb-item">
       <a href="{{ "/" | relURL }}" class="hover:text-accent transition-colors">Home</a>
     </li>
-    {{- range .Ancestors | reverse }}
+    {{- range collections.Reverse .Ancestors }}
     <li class="breadcrumb-item">
       <a href="{{ .RelPermalink }}" class="hover:text-accent transition-colors">{{ .Title }}</a>
     </li>

@@ -2,6 +2,9 @@
 title: "Getting Around Japan"
 chapter_kind: "logistics"
 weight: 5
+places:
+  - tokyo
+  - narita
 ---
 ## The IC Card
 

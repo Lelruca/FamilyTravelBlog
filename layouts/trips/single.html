@@ -27,7 +27,9 @@
         {{ $ch.Content }}
       </div>
 
+      {{- if ne $ch.Params.auto_gallery false }}
       {{ partial "auto-gallery.html" $ch }}
+      {{- end }}
 
       {{- /* Prev / Next navigation */}}
       <nav class="flex justify-between gap-4 mt-16 pt-8 border-t border-neutral-200" aria-label="Chapter navigation">

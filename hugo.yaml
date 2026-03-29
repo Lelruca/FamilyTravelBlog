@@ -1,10 +1,11 @@
-baseURL: "https://olgau-travels.github.io/family-travel-block/"
+baseURL: "/"
 languageCode: "ru"
 title: "Наши путешествия"
 
 # Taxonomy: time navigation (Geography uses sections natively)
 taxonomies:
-  trip_year: "trip_year"
+  trip_year: "trip-year"
+  place: "places"
 
 # Image processing
 imaging:

@@ -4,6 +4,10 @@ chapter_kind: "day"
 weight: 10
 day_num: 1
 city: "Tokyo"
+places:
+  - tokyo
+  - shinjuku
+  - narita
 hero_image: "hero.jpg"
 date: 2023-10-21
 ---

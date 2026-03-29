@@ -4,9 +4,11 @@ chapter_kind: "day"
 weight: 20
 day_num: 1
 city: "Madrid"
+places:
+  - madrid
 hero_image: "hero.jpg"
 date: 2006-04-14
----
+--- 
 We landed at Barajas in the early afternoon. The metro from the airport was clean, fast, and mercifully straightforward — four stops to Nuevos Ministerios, a transfer, and we were at Retiro station by 3pm.
 
 The hotel was on a quiet street off the Paseo del Prado. We dropped the bags and immediately walked to the park.

@@ -2,6 +2,8 @@
 title: "Planning the Trip"
 chapter_kind: "preparation"
 weight: 10
+places:
+  - zurich
 ---
 We booked through a travel agent — this was 2006, before booking sites were truly reliable for international flights.
 

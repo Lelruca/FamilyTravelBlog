@@ -2,14 +2,20 @@
 {{- $accent := $trip.Params.accent_color | default site.Params.defaultAccent | default "#4f7396" -}}
 {{- $coverFile := $trip.Params.cover_image -}}
 {{- $coverURL := "" -}}
+{{- $coverClass := "w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" -}}
 {{- if $coverFile -}}
   {{- if hasPrefix $coverFile "http" -}}
     {{- $coverURL = $coverFile -}}
   {{- else -}}
     {{- $img := $trip.Resources.GetMatch $coverFile -}}
     {{- if $img -}}
-      {{- $thumb := $img.Resize "800x450 webp Smart" -}}
-      {{- $coverURL = $thumb.RelPermalink -}}
+      {{- if gt $img.Height $img.Width -}}
+        {{- $coverURL = $img.RelPermalink -}}
+        {{- $coverClass = "w-full h-full object-contain bg-neutral-50 p-2" -}}
+      {{- else -}}
+        {{- $thumb := $img.Resize "800x450 webp Smart" -}}
+        {{- $coverURL = $thumb.RelPermalink -}}
+      {{- end -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
@@ -19,7 +25,7 @@
     <img
       src="{{ $coverURL }}"
       alt="{{ $trip.Title }}"
-      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+      class="{{ $coverClass }}"
       loading="lazy"
     />
     {{- else -}}

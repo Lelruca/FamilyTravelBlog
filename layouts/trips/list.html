@@ -15,14 +15,22 @@
       <span>{{ $trip.Params.trip_year }}</span>
     </div>
     <h1 class="font-serif text-4xl font-bold text-accent mb-4">{{ $trip.Title }}</h1>
-    <p class="text-lg text-neutral-600 max-w-2xl">{{ $trip.Params.summary }}</p>
+    {{- with $trip.Params.summary }}
+    <p class="text-lg text-neutral-600 max-w-2xl">{{ . }}</p>
+    {{- end }}
     {{ with $trip.Content }}<div class="mt-4 prose prose-neutral max-w-none">{{ . }}</div>{{ end }}
   </header>
 
   <section>
     <h2 class="text-xs font-semibold uppercase tracking-widest text-neutral-400 mb-4">Chapters</h2>
     <div class="space-y-3">
-      {{- range $trip.Pages.ByWeight }}
+      {{- $pages := slice -}}
+      {{- range site.RegularPages -}}
+        {{- if and (hasPrefix .RelPermalink $trip.RelPermalink) (ne .RelPermalink $trip.RelPermalink) -}}
+          {{- $pages = $pages | append . -}}
+        {{- end -}}
+      {{- end -}}
+      {{- range sort $pages "Weight" "asc" -}}
         {{ partial "chapter-card.html" . }}
       {{- end }}
     </div>
