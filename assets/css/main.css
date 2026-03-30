@@ -112,6 +112,25 @@
     scrollbar-width: thin;
   }
 
+  .photo-scroller-shell {
+    @apply my-4;
+  }
+
+  .photo-scroller-shell-enhanced {
+    @apply relative;
+  }
+
+  .photo-scroller-enhanced {
+    @apply gap-3 pb-0 px-8 md:px-10;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .photo-scroller-enhanced::-webkit-scrollbar {
+    display: none;
+  }
+
 .photo-scroller-link {
   @apply block shrink-0 overflow-hidden rounded-lg;
   scroll-snap-align: start;
@@ -133,17 +152,47 @@
   width: 13rem;
 }
 
-}
+  .photo-scroller-button {
+    @apply absolute top-1/2 -translate-y-1/2 z-10 flex h-9 w-9 items-center justify-center rounded-full bg-neutral-900/55 text-xl text-white transition-opacity;
+  }
 
-.prose.prose-travel p {
-  margin-top: 0.55em;
-  margin-bottom: 0.55em;
-}
+  .photo-scroller-button:hover {
+    @apply bg-neutral-900/75;
+  }
 
-.prose.prose-travel .photo-scroller,
-.prose.prose-travel .travel-photo {
-  margin-top: 0.75rem;
-  margin-bottom: 0.75rem;
+  .photo-scroller-shell-enhanced:hover .photo-scroller-button,
+  .photo-scroller-shell-enhanced:focus-within .photo-scroller-button {
+    @apply opacity-100;
+  }
+
+  .photo-scroller-shell-enhanced.is-static .photo-scroller-button {
+    @apply opacity-0 pointer-events-none;
+  }
+
+  .photo-scroller-button.is-hidden {
+    @apply opacity-0 pointer-events-none;
+  }
+
+  .photo-scroller-button-prev {
+    @apply left-1 md:left-2;
+  }
+
+  .photo-scroller-button-next {
+    @apply right-1 md:right-2;
+  }
+
+  @media (hover: hover) {
+    .photo-scroller-button {
+      @apply opacity-0;
+    }
+  }
+
+  @media (hover: none) {
+    .photo-scroller-button {
+      @apply opacity-60;
+    }
+  }
+
 }
 
 @layer utilities {

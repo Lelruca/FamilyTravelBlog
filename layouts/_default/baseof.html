@@ -58,5 +58,56 @@
         });
       })();
     </script>
+    <script>
+      (() => {
+        document.querySelectorAll('[data-scroller]').forEach((scroller) => {
+          const shell = scroller.closest('.photo-scroller-shell');
+          const prev = shell?.querySelector('[data-scroller-prev]');
+          const next = shell?.querySelector('[data-scroller-next]');
+          if (!shell || !prev || !next) return;
+
+          const cards = () => Array.from(scroller.querySelectorAll('.photo-scroller-link'));
+
+          const scrollToCard = (direction) => {
+            const items = cards();
+            const current = scroller.scrollLeft;
+            if (direction > 0) {
+              const target = items.find((card) => card.offsetLeft > current + 16) || items.at(-1);
+              if (target) scroller.scrollTo({ left: target.offsetLeft, behavior: 'smooth' });
+            } else {
+              const target = [...items].reverse().find((card) => card.offsetLeft < current - 16) || items[0];
+              if (target) scroller.scrollTo({ left: target.offsetLeft, behavior: 'smooth' });
+            }
+          };
+
+          prev.addEventListener('click', () => scrollToCard(-1));
+          next.addEventListener('click', () => scrollToCard(1));
+
+          const updateButtons = () => {
+            const hasOverflow = scroller.scrollWidth - scroller.clientWidth > 8;
+            shell.classList.toggle('is-static', !hasOverflow);
+            if (!hasOverflow) {
+              prev.classList.add('is-hidden');
+              next.classList.add('is-hidden');
+              return;
+            }
+            const atStart = scroller.scrollLeft <= 4;
+            const atEnd = scroller.scrollLeft >= scroller.scrollWidth - scroller.clientWidth - 4;
+            prev.classList.toggle('is-hidden', atStart);
+            next.classList.toggle('is-hidden', atEnd);
+          };
+
+          scroller.addEventListener('scroll', updateButtons, { passive: true });
+          window.addEventListener('resize', updateButtons, { passive: true });
+          cards().forEach((card) => {
+            const image = card.querySelector('img');
+            if (image && !image.complete) {
+              image.addEventListener('load', updateButtons, { once: true });
+            }
+          });
+          updateButtons();
+        });
+      })();
+    </script>
   </body>
 </html>

@@ -8,7 +8,7 @@
     }
   },
   "scripts": {
-    "dev": "hugo server --buildDrafts --disableFastRender",
+    "dev": "hugo server --buildDrafts --disableFastRender --config hugo.yaml --environment development --baseURL http://127.0.0.1:1313/ --bind 127.0.0.1 --appendPort=false --renderToMemory",
     "build": "hugo --minify --environment production --config hugo.yaml,hugo.prod.yaml"
   },
   "devDependencies": {

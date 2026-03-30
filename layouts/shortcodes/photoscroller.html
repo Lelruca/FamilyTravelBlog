@@ -1,22 +1,31 @@
 {{- $items := split (.Get "items") "," -}}
-<div class="photo-scroller" tabindex="0" aria-label="Дополнительные фотографии">
-  {{- range $raw := $items -}}
-    {{- $src := trim $raw " " -}}
-    {{- $imgURL := $src -}}
-    {{- $fullURL := $src -}}
-    {{- $alt := $src -}}
-    {{- if not (hasPrefix $src "http") -}}
-      {{- $img := $.Page.Resources.GetMatch $src -}}
-      {{- if $img -}}
-        {{- $sm := $img.Resize "720x webp" -}}
-        {{- $lg := $img.Resize "1600x webp" -}}
-        {{- $imgURL = $sm.RelPermalink -}}
-        {{- $fullURL = $lg.RelPermalink -}}
-        {{- $alt = $img.Name -}}
+{{- $enhanced := ne (.Get "enhanced") "false" -}}
+<div class="photo-scroller-shell{{ if $enhanced }} photo-scroller-shell-enhanced{{ end }}">
+  {{- if $enhanced }}
+    <button type="button" class="photo-scroller-button photo-scroller-button-prev" data-scroller-prev aria-label="Назад">‹</button>
+  {{- end }}
+  <div class="photo-scroller{{ if $enhanced }} photo-scroller-enhanced{{ end }}" tabindex="0" aria-label="Дополнительные фотографии" {{ if $enhanced }}data-scroller{{ end }}>
+    {{- range $raw := $items -}}
+      {{- $src := trim $raw " " -}}
+      {{- $imgURL := $src -}}
+      {{- $fullURL := $src -}}
+      {{- $alt := $src -}}
+      {{- if not (hasPrefix $src "http") -}}
+        {{- $img := $.Page.Resources.GetMatch $src -}}
+        {{- if $img -}}
+          {{- $sm := $img.Resize "720x webp" -}}
+          {{- $lg := $img.Resize "1600x webp" -}}
+          {{- $imgURL = $sm.RelPermalink -}}
+          {{- $fullURL = $lg.RelPermalink -}}
+          {{- $alt = $img.Name -}}
+        {{- end -}}
       {{- end -}}
+      <a href="{{ $fullURL }}" data-photo-lightbox data-photo-alt="{{ $alt }}" class="photo-scroller-link">
+        <img src="{{ $imgURL }}" alt="{{ $alt }}" class="photo-scroller-image" loading="lazy" />
+      </a>
     {{- end -}}
-    <a href="{{ $fullURL }}" data-photo-lightbox data-photo-alt="{{ $alt }}" class="photo-scroller-link">
-      <img src="{{ $imgURL }}" alt="{{ $alt }}" class="photo-scroller-image" loading="lazy" />
-    </a>
-  {{- end -}}
+  </div>
+  {{- if $enhanced }}
+    <button type="button" class="photo-scroller-button photo-scroller-button-next" data-scroller-next aria-label="Вперёд">›</button>
+  {{- end }}
 </div>
