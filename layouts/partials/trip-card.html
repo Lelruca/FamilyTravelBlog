@@ -3,6 +3,7 @@
 {{- $coverFile := $trip.Params.cover_image -}}
 {{- $coverURL := "" -}}
 {{- $coverClass := "w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" -}}
+{{- $country := $trip.Params.country | default "" -}}
 {{- if $coverFile -}}
   {{- if hasPrefix $coverFile "http" -}}
     {{- $coverURL = $coverFile -}}
@@ -29,7 +30,9 @@
       loading="lazy"
     />
     {{- else -}}
-    <div class="w-full h-full flex items-center justify-center text-neutral-400 text-4xl">🌍</div>
+    <div class="w-full h-full flex items-center justify-center">
+      {{ partial "country-flag.html" $country }}
+    </div>
     {{- end -}}
   </div>
   <div class="p-4 bg-white">

@@ -1,15 +1,64 @@
 {{ define "main" }}
 <div class="max-w-5xl mx-auto px-4 py-12">
-  <header class="mb-10">
-    <p class="text-xs uppercase tracking-widest text-neutral-400 mb-2">Year</p>
-    <h1 class="font-serif text-4xl font-bold text-neutral-900">{{ .Title }}</h1>
-    <p class="text-neutral-500 mt-2">{{ len .Pages }} trip{{ if ne (len .Pages) 1 }}s{{ end }}</p>
-  </header>
+  {{- $isRoot := eq .RelPermalink "/trip-year/" -}}
+  {{- if $isRoot -}}
+    <header class="mb-10">
+      <h1 class="font-serif text-4xl font-bold text-neutral-900">{{ .Title }}</h1>
+      <p class="text-neutral-600 mt-2">Все поездки по десятилетиям</p>
+    </header>
 
-  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-    {{- range .Pages.ByParam "country" }}
-      {{ partial "trip-card.html" . }}
-    {{- end }}
-  </div>
+    {{- $trips := where site.Pages "Params.trip_year" "!=" nil -}}
+    {{- $years := slice -}}
+    {{- range $trips -}}
+      {{- $year := printf "%v" .Params.trip_year -}}
+      {{- if not (in $years $year) -}}
+        {{- $years = $years | append $year -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- $decades := dict -}}
+    {{- range $years -}}
+      {{- $yearNum := int . -}}
+      {{- $decade := mul (div $yearNum 10) 10 -}}
+      {{- $decadeKey := printf "%d" $decade -}}
+      {{- $existing := index $decades $decadeKey | default slice -}}
+      {{- $decades = merge $decades (dict $decadeKey ($existing | append .)) -}}
+    {{- end -}}
+
+    {{- $decadeKeys := slice -}}
+    {{- range $k, $_ := $decades -}}
+      {{- $decadeKeys = $decadeKeys | append $k -}}
+    {{- end -}}
+
+    {{- range collections.Reverse (sort $decadeKeys) -}}
+      {{- $decadeYears := collections.Reverse (sort (index $decades .)) -}}
+      <section class="mb-10">
+        <h2 class="font-serif text-2xl font-semibold text-neutral-700 mb-4">{{ . }}s</h2>
+        <div class="flex flex-wrap gap-3">
+          {{- range $decadeYears -}}
+            <a href="{{ printf "/trip-year/%s/" . | relURL }}"
+               class="px-4 py-2 rounded-full border border-neutral-300 text-sm font-medium hover:border-accent hover:text-accent transition-colors">
+              {{ . }}
+            </a>
+          {{- end -}}
+        </div>
+      </section>
+    {{- end -}}
+  {{- else -}}
+    {{- $year := int .Title -}}
+    {{- $trips := where site.Pages "Params.trip_year" $year -}}
+    {{- $trips = sort $trips "Params.country" -}}
+    <header class="mb-10">
+      <p class="text-xs uppercase tracking-widest text-neutral-400 mb-2">Год</p>
+      <h1 class="font-serif text-4xl font-bold text-neutral-900">{{ .Title }}</h1>
+      <p class="text-neutral-500 mt-2">{{ len $trips }} поезд{{ if or (eq (len $trips) 0) (gt (len $trips) 1) }}ки{{ else }}ка{{ end }}</p>
+    </header>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {{- range $trips }}
+        {{ partial "trip-card.html" . }}
+      {{- end }}
+    </div>
+  {{- end -}}
 </div>
 {{ end }}

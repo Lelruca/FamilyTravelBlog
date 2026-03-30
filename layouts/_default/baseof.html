@@ -15,5 +15,48 @@
       {{- block "main" . }}{{ end -}}
     </main>
     {{- block "footer" . }}{{ partial "footer.html" . }}{{ end -}}
+    <div id="photo-lightbox" class="photo-lightbox" hidden>
+      <div class="photo-lightbox-inner">
+        <button type="button" id="photo-lightbox-close" class="photo-lightbox-close" aria-label="Close">×</button>
+        <img id="photo-lightbox-image" class="photo-lightbox-image" alt="" />
+        <div id="photo-lightbox-caption" class="photo-lightbox-caption"></div>
+      </div>
+    </div>
+    <script>
+      (() => {
+        const lightbox = document.getElementById('photo-lightbox');
+        const image = document.getElementById('photo-lightbox-image');
+        const caption = document.getElementById('photo-lightbox-caption');
+        const closeBtn = document.getElementById('photo-lightbox-close');
+        if (!lightbox || !image || !closeBtn) return;
+
+        const close = () => {
+          lightbox.hidden = true;
+          document.body.classList.remove('photo-lightbox-open');
+          image.removeAttribute('src');
+          image.alt = '';
+          caption.textContent = '';
+        };
+
+        document.addEventListener('click', (event) => {
+          const trigger = event.target.closest('[data-photo-lightbox]');
+          if (!trigger) return;
+          event.preventDefault();
+          image.src = trigger.getAttribute('href') || '';
+          image.alt = trigger.dataset.photoAlt || '';
+          caption.textContent = trigger.dataset.photoAlt || '';
+          lightbox.hidden = false;
+          document.body.classList.add('photo-lightbox-open');
+        });
+
+        closeBtn.addEventListener('click', close);
+        lightbox.addEventListener('click', (event) => {
+          if (event.target === lightbox) close();
+        });
+        document.addEventListener('keydown', (event) => {
+          if (event.key === 'Escape' && !lightbox.hidden) close();
+        });
+      })();
+    </script>
   </body>
 </html>

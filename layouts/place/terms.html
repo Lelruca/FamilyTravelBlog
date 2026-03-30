@@ -1,8 +1,35 @@
 {{ define "main" }}
+{{- $entries := slice -}}
+{{- range .Data.Terms.Alphabetical }}
+  {{- $termPage := .Page -}}
+  {{- $title := $termPage.Title -}}
+  {{- $country := $termPage.Params.country -}}
+  {{- if not $country -}}
+    {{- $parts := split $title ", " -}}
+    {{- if ge (len $parts) 2 -}}
+      {{- $country = index $parts (sub (len $parts) 1) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if eq $country "Лондон" -}}
+    {{- $country = "Англия" -}}
+  {{- end -}}
+  {{- if not $country -}}
+    {{- $country = "Без страны" -}}
+  {{- end -}}
+  {{- $entries = $entries | append (dict
+    "title" $title
+    "country" $country
+    "rel" $termPage.RelPermalink
+    "count" .Count
+    "search" (printf "%s %s %s" $termPage.Title (.Term | default "") $country | lower)
+  ) -}}
+{{- end -}}
+{{- $entries = sort (sort $entries "title") "country" -}}
+
 <div class="max-w-5xl mx-auto px-4 py-12">
   <header class="mb-10">
     <h1 class="font-serif text-4xl font-bold text-neutral-900">Места</h1>
-    <p class="text-neutral-600 mt-2">Каталог мест с поиском по русскому и локальному названию.</p>
+    <p class="text-neutral-600 mt-2">Список мест с поиском по русскому и локальному названию.</p>
   </header>
 
   <div class="mb-8">
@@ -10,25 +37,30 @@
     <input
       id="place-search"
       type="search"
-      placeholder="Например: Madrid, Мадрид, Köln, Кёльн"
+      placeholder="Например: Köln, Кёльн, London, Лондон"
       class="w-full rounded-xl border border-neutral-300 px-4 py-3 text-base outline-none focus:border-accent"
     />
   </div>
 
-  <div id="places-list" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-    {{- range .Data.Terms.Alphabetical }}
-      {{- $termPage := .Page -}}
-      {{- $searchText := printf "%s %s" $termPage.Title (.Term | default "") | lower -}}
-      <a
-        href="{{ $termPage.RelPermalink }}"
-        data-place-item
-        data-search="{{ $searchText }}"
-        class="p-4 rounded-xl border border-neutral-200 hover:border-accent transition-colors"
-      >
-        <h2 class="font-serif text-xl font-semibold text-neutral-900">{{ $termPage.Title }}</h2>
-        <p class="text-sm text-neutral-500 mt-3">{{ .Count }} стр.</p>
-      </a>
+  <div id="places-list" class="space-y-8">
+    {{- $state := newScratch -}}
+    {{- range $entries }}
+      {{- $lastCountry := $state.Get "country" -}}
+      {{- if ne .country $lastCountry }}
+        {{- if $lastCountry }}</ul></section>{{ end -}}
+        <section data-place-group class="space-y-3">
+          <h2 class="font-serif text-2xl font-semibold text-neutral-900">{{ .country }}</h2>
+          <ul class="space-y-2">
+        {{- $state.Set "country" .country -}}
+      {{- end }}
+      <li data-place-item data-search="{{ .search }}">
+        <a href="{{ .rel }}" class="text-neutral-800 hover:text-accent transition-colors">
+          {{ .title }}
+        </a>
+        <span class="text-neutral-400"> · {{ .count }} стр.</span>
+      </li>
     {{- end }}
+    {{- if gt (len $entries) 0 }}</ul></section>{{ end -}}
   </div>
 
   <p id="places-empty" class="hidden text-neutral-500 mt-6">Ничего не найдено.</p>
@@ -37,20 +69,32 @@
 <script>
   (function () {
     const input = document.getElementById('place-search');
-    const items = Array.from(document.querySelectorAll('[data-place-item]'));
+    const groups = Array.from(document.querySelectorAll('[data-place-group]'));
     const empty = document.getElementById('places-empty');
-    if (!input || !items.length) return;
+    if (!input || !groups.length) return;
 
     const filter = () => {
       const q = input.value.trim().toLowerCase();
-      let visible = 0;
-      for (const item of items) {
-        const text = item.dataset.search || '';
-        const match = !q || text.includes(q);
-        item.classList.toggle('hidden', !match);
-        if (match) visible++;
+      let visibleItems = 0;
+
+      for (const group of groups) {
+        const items = Array.from(group.querySelectorAll('[data-place-item]'));
+        let groupVisible = 0;
+
+        for (const item of items) {
+          const text = item.dataset.search || '';
+          const match = !q || text.includes(q);
+          item.classList.toggle('hidden', !match);
+          if (match) {
+            groupVisible++;
+            visibleItems++;
+          }
+        }
+
+        group.classList.toggle('hidden', groupVisible === 0);
       }
-      empty.classList.toggle('hidden', visible !== 0);
+
+      empty.classList.toggle('hidden', visibleItems !== 0);
     };
 
     input.addEventListener('input', filter);

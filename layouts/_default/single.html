@@ -1,8 +1,8 @@
 {{ define "main" }}
 <div class="max-w-3xl mx-auto px-4 py-12">
-  {{ partial "breadcrumbs.html" . }}
-  <h1 class="font-serif text-3xl font-bold text-neutral-900 mb-6">{{ .Title }}</h1>
-  <div class="prose prose-neutral max-w-none">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="font-serif text-3xl font-bold text-neutral-900 mb-6">{{ .Title }}</h1>
+  <div class="prose prose-neutral prose-lg max-w-none">
     {{ .Content }}
   </div>
 </div>

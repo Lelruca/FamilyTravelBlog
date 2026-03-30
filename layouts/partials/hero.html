@@ -1,9 +1,10 @@
 {{- $page := . -}}
 {{- $heroFile := $page.Params.hero_image | default $page.Params.cover_image -}}
+{{- $heroPos := $page.Params.hero_position | default $page.Params.cover_position | default "center center" -}}
 {{- if $heroFile -}}
   {{- if hasPrefix $heroFile "http" -}}
     <div class="relative w-full h-64 md:h-96 overflow-hidden bg-neutral-200">
-      <img src="{{ $heroFile }}" alt="{{ $page.Title }}" class="w-full h-full object-cover" loading="eager" fetchpriority="high" />
+      <img src="{{ $heroFile }}" alt="{{ $page.Title }}" class="w-full h-full object-cover" style="object-position: {{ $heroPos }};" loading="eager" fetchpriority="high" />
       <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
     </div>
   {{- else -}}
@@ -19,6 +20,7 @@
           sizes="100vw"
           alt="{{ $page.Params.hero_alt | default $page.Title }}"
           class="w-full h-full object-cover"
+          style="object-position: {{ $heroPos }};"
           loading="eager"
           fetchpriority="high"
           width="{{ $md.Width }}"

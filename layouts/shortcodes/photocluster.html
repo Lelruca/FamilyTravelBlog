@@ -1,0 +1,26 @@
+{{- $items := split (.Get "items") "," -}}
+{{- $count := len $items -}}
+{{- $cols := .Get "cols" | default (cond (ge $count 3) "2" "1") -}}
+<div class="photo-cluster photo-cluster-cols-{{ $cols }} photo-cluster-count-{{ $count }}">
+  <div class="photo-cluster-grid photo-cluster-cols-{{ $cols }} photo-cluster-count-{{ $count }}">
+    {{- range $raw := $items -}}
+      {{- $src := trim $raw " " -}}
+      {{- $imgURL := $src -}}
+      {{- $fullURL := $src -}}
+      {{- $alt := $src -}}
+      {{- if not (hasPrefix $src "http") -}}
+        {{- $img := $.Page.Resources.GetMatch $src -}}
+        {{- if $img -}}
+          {{- $sm := $img.Resize "520x webp" -}}
+          {{- $lg := $img.Resize "1400x webp" -}}
+          {{- $imgURL = $sm.RelPermalink -}}
+          {{- $fullURL = $lg.RelPermalink -}}
+          {{- $alt = $img.Name -}}
+        {{- end -}}
+      {{- end -}}
+      <a href="{{ $fullURL }}" data-photo-lightbox data-photo-alt="{{ $alt }}" class="photo-cluster-link">
+        <img src="{{ $imgURL }}" alt="{{ $alt }}" class="photo-cluster-image" loading="lazy" />
+      </a>
+    {{- end -}}
+  </div>
+</div>

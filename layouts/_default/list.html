@@ -14,9 +14,16 @@
 
   {{- if eq $depth 1 -}}
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-      {{- range .Sections }}
+      {{- range sort .Sections "Title" }}
       {{- $countryKey := "" -}}
       {{- with .File }}{{- $countryKey = .ContentBaseName -}}{{- end -}}
+      {{- $flag := "📍" -}}
+      {{- if eq $countryKey "belgium" }}{{- $flag = "🇧🇪" -}}{{- end -}}
+      {{- if eq $countryKey "france" }}{{- $flag = "🇫🇷" -}}{{- end -}}
+      {{- if eq $countryKey "germany" }}{{- $flag = "🇩🇪" -}}{{- end -}}
+      {{- if eq $countryKey "netherlands" }}{{- $flag = "🇳🇱" -}}{{- end -}}
+      {{- if eq $countryKey "switzerland" }}{{- $flag = "🇨🇭" -}}{{- end -}}
+      {{- if eq $countryKey "england" }}{{- $flag = "🇬🇧" -}}{{- end -}}
       {{- $tagged := slice -}}
       {{- range site.Pages -}}
         {{- if and .Params.trip_year (in (.Params.geo_countries | default (slice)) $countryKey) -}}
@@ -25,6 +32,7 @@
       {{- end -}}
       {{- $count := add (len .Sections) (len $tagged) -}}
       <a href="{{ .RelPermalink }}" class="p-4 rounded-lg border border-neutral-200 hover:border-accent hover:text-accent transition-colors font-medium">
+        <span class="block text-2xl mb-2" aria-hidden="true">{{ $flag }}</span>
         {{ .Title }}
         <span class="block text-xs text-neutral-400 font-normal mt-1">{{ $count }} trip{{ if ne $count 1 }}s{{ end }}</span>
       </a>
@@ -40,7 +48,7 @@
       {{- end -}}
     {{- end -}}
     {{- $trips = uniq $trips -}}
-    {{- $trips = sort $trips "Params.trip_year" "desc" -}}
+    {{- $trips = sort $trips "Title" -}}
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
       {{- range $trips }}
         {{ partial "trip-card.html" . }}

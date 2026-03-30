@@ -4,7 +4,6 @@ title: "Наши путешествия"
 
 # Taxonomy: time navigation (Geography uses sections natively)
 taxonomies:
-  trip_year: "trip-year"
   place: "places"
 
 # Image processing

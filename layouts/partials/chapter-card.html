@@ -1,5 +1,6 @@
 {{- $ch := . -}}
 {{- $heroFile := $ch.Params.hero_image -}}
+{{- $heroPos := $ch.Params.hero_card_position | default "center center" -}}
 {{- $thumbURL := "" -}}
 {{- if $heroFile -}}
   {{- if hasPrefix $heroFile "http" -}}
@@ -15,7 +16,7 @@
 <a href="{{ $ch.RelPermalink }}" class="chapter-card group">
   {{- if $thumbURL -}}
   <div class="w-24 h-16 shrink-0 overflow-hidden rounded">
-    <img src="{{ $thumbURL }}" alt="" class="w-full h-full object-cover" loading="lazy" />
+    <img src="{{ $thumbURL }}" alt="" class="w-full h-full object-cover" style="object-position: {{ $heroPos }};" loading="lazy" />
   </div>
   {{- end -}}
   <div class="flex-1 min-w-0">

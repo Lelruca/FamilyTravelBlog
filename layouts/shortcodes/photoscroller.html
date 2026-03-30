@@ -1,0 +1,22 @@
+{{- $items := split (.Get "items") "," -}}
+<div class="photo-scroller" tabindex="0" aria-label="Дополнительные фотографии">
+  {{- range $raw := $items -}}
+    {{- $src := trim $raw " " -}}
+    {{- $imgURL := $src -}}
+    {{- $fullURL := $src -}}
+    {{- $alt := $src -}}
+    {{- if not (hasPrefix $src "http") -}}
+      {{- $img := $.Page.Resources.GetMatch $src -}}
+      {{- if $img -}}
+        {{- $sm := $img.Resize "720x webp" -}}
+        {{- $lg := $img.Resize "1600x webp" -}}
+        {{- $imgURL = $sm.RelPermalink -}}
+        {{- $fullURL = $lg.RelPermalink -}}
+        {{- $alt = $img.Name -}}
+      {{- end -}}
+    {{- end -}}
+    <a href="{{ $fullURL }}" data-photo-lightbox data-photo-alt="{{ $alt }}" class="photo-scroller-link">
+      <img src="{{ $imgURL }}" alt="{{ $alt }}" class="photo-scroller-image" loading="lazy" />
+    </a>
+  {{- end -}}
+</div>

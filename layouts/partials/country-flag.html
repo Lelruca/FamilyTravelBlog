@@ -1,0 +1,42 @@
+{{- $country := . | default "" -}}
+{{- if eq $country "Belgium" -}}
+<svg viewBox="0 0 60 40" class="w-14 h-10 rounded shadow-sm" aria-hidden="true">
+  <rect width="20" height="40" x="0" y="0" fill="#111111"/>
+  <rect width="20" height="40" x="20" y="0" fill="#f2c300"/>
+  <rect width="20" height="40" x="40" y="0" fill="#ef3340"/>
+</svg>
+{{- else if eq $country "England" -}}
+<svg viewBox="0 0 60 40" class="w-14 h-10 rounded shadow-sm" aria-hidden="true">
+  <rect width="60" height="40" fill="#ffffff"/>
+  <rect x="25" y="0" width="10" height="40" fill="#ce1126"/>
+  <rect x="0" y="15" width="60" height="10" fill="#ce1126"/>
+  <rect x="0.5" y="0.5" width="59" height="39" fill="none" stroke="#d9d9d9"/>
+</svg>
+{{- else if eq $country "France" -}}
+<svg viewBox="0 0 60 40" class="w-14 h-10 rounded shadow-sm" aria-hidden="true">
+  <rect width="20" height="40" x="0" y="0" fill="#0055a4"/>
+  <rect width="20" height="40" x="20" y="0" fill="#ffffff"/>
+  <rect width="20" height="40" x="40" y="0" fill="#ef4135"/>
+</svg>
+{{- else if eq $country "Germany" -}}
+<svg viewBox="0 0 60 40" class="w-14 h-10 rounded shadow-sm" aria-hidden="true">
+  <rect width="60" height="13.34" x="0" y="0" fill="#111111"/>
+  <rect width="60" height="13.33" x="0" y="13.34" fill="#dd0000"/>
+  <rect width="60" height="13.33" x="0" y="26.67" fill="#ffce00"/>
+</svg>
+{{- else if eq $country "Netherlands" -}}
+<svg viewBox="0 0 60 40" class="w-14 h-10 rounded shadow-sm" aria-hidden="true">
+  <rect width="60" height="13.34" x="0" y="0" fill="#ae1c28"/>
+  <rect width="60" height="13.33" x="0" y="13.34" fill="#ffffff"/>
+  <rect width="60" height="13.33" x="0" y="26.67" fill="#21468b"/>
+  <rect x="0.5" y="0.5" width="59" height="39" fill="none" stroke="#d9d9d9"/>
+</svg>
+{{- else if eq $country "Switzerland" -}}
+<svg viewBox="0 0 60 40" class="w-14 h-10 rounded shadow-sm" aria-hidden="true">
+  <rect width="60" height="40" fill="#d52b1e"/>
+  <rect x="26" y="8" width="8" height="24" fill="#ffffff"/>
+  <rect x="18" y="16" width="24" height="8" fill="#ffffff"/>
+</svg>
+{{- else -}}
+<div class="w-14 h-10 rounded shadow-sm bg-neutral-300"></div>
+{{- end -}}

@@ -4,19 +4,23 @@
 
 @layer base {
   :root {
-    --accent: #4f7396; /* site default; overridden per-trip via <body style=""> */
+    --accent: #4f7396;
   }
 
   html {
-    @apply scroll-smooth;
+    @apply scroll-smooth overflow-x-hidden;
   }
 
   body {
-    @apply bg-white text-neutral-800 font-sans antialiased;
+    @apply bg-white text-neutral-800 font-sans antialiased overflow-x-hidden;
   }
 
   h1, h2, h3, h4, h5, h6 {
     @apply font-serif;
+  }
+
+  .photo-lightbox-open {
+    overflow: hidden;
   }
 }
 
@@ -37,6 +41,109 @@
     content: "›";
     @apply mx-2 text-neutral-400;
   }
+
+  .travel-photo {
+    @apply w-full my-5;
+  }
+
+  .travel-photo-link {
+    @apply block overflow-hidden rounded-lg;
+  }
+
+  .travel-photo-image {
+    @apply block w-full h-auto;
+  }
+
+  .travel-photo-caption {
+    @apply text-xs text-neutral-500 mt-1 px-1;
+  }
+
+  .photo-cluster {
+    @apply my-6;
+  }
+
+  .photo-cluster-grid {
+    @apply grid gap-3 md:gap-4;
+  }
+
+  .photo-cluster-cols-1 {
+    @apply grid-cols-1 md:grid-cols-2;
+  }
+
+  .photo-cluster-cols-2 {
+    @apply grid-cols-2;
+  }
+
+  .photo-cluster-count-3 .photo-cluster-link:first-child {
+    @apply col-span-2;
+  }
+
+  .photo-cluster-link {
+    @apply block overflow-hidden rounded-lg;
+  }
+
+  .photo-cluster-image {
+    @apply block w-full h-auto;
+  }
+
+  .photo-lightbox {
+    @apply fixed inset-0 z-50 bg-black/80 p-4 md:p-8 flex items-center justify-center;
+  }
+
+  .photo-lightbox-inner {
+    @apply relative max-w-6xl max-h-full w-full flex items-center justify-center;
+  }
+
+  .photo-lightbox-image {
+    @apply max-w-full max-h-[88vh] w-auto h-auto rounded-lg shadow-2xl;
+  }
+
+  .photo-lightbox-close {
+    @apply absolute top-3 right-3 md:top-4 md:right-4 text-white/90 hover:text-white text-3xl leading-none;
+  }
+
+  .photo-lightbox-caption {
+    @apply absolute left-4 right-4 bottom-3 md:bottom-4 text-center text-sm text-white/90;
+  }
+
+  .photo-scroller {
+    @apply my-4 flex gap-3 overflow-x-auto pb-2;
+    scroll-snap-type: x proximity;
+    scrollbar-width: thin;
+  }
+
+.photo-scroller-link {
+  @apply block shrink-0 overflow-hidden rounded-lg;
+  scroll-snap-align: start;
+}
+
+.photo-scroller-link-rotated {
+  @apply flex items-center justify-center;
+  width: 15rem;
+}
+
+.photo-scroller-image {
+  @apply block h-52 md:h-60 w-auto max-w-none;
+}
+
+.photo-scroller-image-rotate-90 {
+  transform: rotate(90deg);
+  transform-origin: center;
+  height: auto;
+  width: 13rem;
+}
+
+}
+
+.prose.prose-travel p {
+  margin-top: 0.55em;
+  margin-bottom: 0.55em;
+}
+
+.prose.prose-travel .photo-scroller,
+.prose.prose-travel .travel-photo {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
 }
 
 @layer utilities {
@@ -45,8 +152,13 @@
   .border-accent { border-color: var(--accent, #4f7396); }
   .ring-accent   { --tw-ring-color: var(--accent, #4f7396); }
 
-  /* Photo grid layouts (used by photo shortcode) */
-  .photo-wide      { @apply col-span-full; }
-  .photo-two-col   { @apply col-span-1; }
-  .photo-three-col { @apply col-span-1; }
+  .photo-wide      { @apply w-full md:w-[86%] md:mx-auto; }
+  .photo-two-col   { @apply w-full; }
+  .photo-three-col { @apply w-full; }
+}
+
+@layer base {
+  .photo-lightbox[hidden] {
+    display: none !important;
+  }
 }

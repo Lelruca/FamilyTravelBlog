@@ -11,6 +11,8 @@ geo_countries:
   - belgium
   - switzerland
   - france
-cover_image: "cover.jpg"
+  - england
+cover_image: "https://drive.google.com/thumbnail?id=19U9alydDexn4juaZ61ZIyJjgbvFHbaoN&sz=w2000"
+cover_position: "center 32%"
 accent_color: "#5f7d4f"
 ---

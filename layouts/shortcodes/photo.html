@@ -1,4 +1,4 @@
-{{- /* Usage: {{< photo src="img.jpg" size="wide|two-col|three-col" alt="..." caption="..." >}} */}}
+{{- /* Usage: {{< photo src="img.jpg" size="wide|two-col|three-col" alt="..." caption="..." >}} */ -}}
 {{- $src     := .Get "src" -}}
 {{- $size    := .Get "size" | default "two-col" -}}
 {{- $alt     := .Get "alt"  | default "" -}}
@@ -9,6 +9,7 @@
 {{- if eq $size "three-col" }}{{- $sizeClass = "photo-three-col" -}}{{- end -}}
 
 {{- $imgURL     := $src -}}
+{{- $fullURL    := $src -}}
 {{- $srcset     := "" -}}
 {{- $widthAttr  := "" -}}
 {{- $heightAttr := "" -}}
@@ -18,25 +19,28 @@
   {{- if $img -}}
     {{- $sm  := $img.Resize "480x webp" -}}
     {{- $md  := $img.Resize "800x webp" -}}
-    {{- $lg  := $img.Resize "1200x webp" -}}
+    {{- $lg  := $img.Resize "1400x webp" -}}
     {{- $imgURL     = $md.RelPermalink -}}
-    {{- $srcset     = printf "%s 480w, %s 800w, %s 1200w" $sm.RelPermalink $md.RelPermalink $lg.RelPermalink -}}
+    {{- $fullURL    = $lg.RelPermalink -}}
+    {{- $srcset     = printf "%s 480w, %s 800w, %s 1400w" $sm.RelPermalink $md.RelPermalink $lg.RelPermalink -}}
     {{- $widthAttr  = $md.Width -}}
     {{- $heightAttr = $md.Height -}}
   {{- end -}}
 {{- end -}}
 
-<figure class="{{ $sizeClass }} my-4">
-  <img
-    src="{{ $imgURL }}"
-    {{ with $srcset }}srcset="{{ . }}" sizes="(max-width: 768px) 100vw, 50vw"{{ end }}
-    alt="{{ $alt }}"
-    {{ with $widthAttr }}width="{{ . }}"{{ end }}
-    {{ with $heightAttr }}height="{{ . }}"{{ end }}
-    class="w-full h-auto rounded-md"
-    loading="lazy"
-  />
+<figure class="travel-photo {{ $sizeClass }}">
+  <a href="{{ $fullURL }}" data-photo-lightbox data-photo-alt="{{ $alt }}" class="travel-photo-link">
+    <img
+      src="{{ $imgURL }}"
+      {{ with $srcset }}srcset="{{ . }}" sizes="(max-width: 768px) 100vw, 50vw"{{ end }}
+      alt="{{ $alt }}"
+      {{ with $widthAttr }}width="{{ . }}"{{ end }}
+      {{ with $heightAttr }}height="{{ . }}"{{ end }}
+      class="travel-photo-image"
+      loading="lazy"
+    />
+  </a>
   {{- with $caption -}}
-  <figcaption class="text-sm text-neutral-500 text-center mt-2 italic">{{ . }}</figcaption>
+  <figcaption class="travel-photo-caption">{{ . }}</figcaption>
   {{- end -}}
 </figure>
