@@ -1,4 +1,4 @@
 ---
-title: "Family Travel Archive"
+title: "Наши путешествия"
 ---
-Years of adventures, one page at a time.
+С семьей и друзьями через годы и континенты.

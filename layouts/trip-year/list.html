@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="max-w-5xl mx-auto px-4 py-12">
-  {{- $isRoot := eq .RelPermalink "/trip-year/" -}}
+  {{- $isRoot := not (findRE `^[0-9]{4}$` .Title) -}}
   {{- if $isRoot -}}
     <header class="mb-10">
       <h1 class="font-serif text-4xl font-bold text-neutral-900">{{ .Title }}</h1>
@@ -21,7 +21,7 @@
       {{- $yearNum := int . -}}
       {{- $decade := mul (div $yearNum 10) 10 -}}
       {{- $decadeKey := printf "%d" $decade -}}
-      {{- $existing := index $decades $decadeKey | default slice -}}
+      {{- $existing := index $decades $decadeKey | default (slice) -}}
       {{- $decades = merge $decades (dict $decadeKey ($existing | append .)) -}}
     {{- end -}}
 

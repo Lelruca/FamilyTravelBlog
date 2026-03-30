@@ -36,14 +36,14 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "0.128.0"
+          hugo-version: "0.159.1"
           extended: true           # REQUIRED: image processing + PostCSS pipe
 
       - name: Build
         env:
           NODE_ENV: production
           HUGO_ENVIRONMENT: production
-        run: hugo --minify --gc
+        run: npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
