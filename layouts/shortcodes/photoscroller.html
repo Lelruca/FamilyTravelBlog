@@ -21,7 +21,7 @@
         {{- end -}}
       {{- end -}}
       <a href="{{ $fullURL }}" data-photo-lightbox data-photo-alt="{{ $alt }}" class="photo-scroller-link">
-        <img src="{{ $imgURL }}" alt="{{ $alt }}" class="photo-scroller-image" loading="lazy" />
+        <img referrerpolicy="no-referrer" src="{{ $imgURL }}" alt="{{ $alt }}" class="photo-scroller-image" loading="lazy" />
       </a>
     {{- end -}}
   </div>

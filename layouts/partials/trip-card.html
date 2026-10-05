@@ -23,7 +23,7 @@
 <a href="{{ $trip.RelPermalink }}" class="trip-card block group" style="--accent: {{ $accent }};">
   <div class="aspect-video bg-neutral-200 overflow-hidden">
     {{- if $coverURL -}}
-    <img
+    <img referrerpolicy="no-referrer"
       src="{{ $coverURL }}"
       alt="{{ $trip.Title }}"
       class="{{ $coverClass }}"

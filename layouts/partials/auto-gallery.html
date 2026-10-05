@@ -15,7 +15,7 @@
       {{- $thumb := .Resize "600x webp" -}}
       {{- $full  := .Resize "1400x webp" -}}
       <a href="{{ $full.RelPermalink }}" class="block aspect-square overflow-hidden rounded group" data-gallery>
-        <img
+        <img referrerpolicy="no-referrer"
           src="{{ $thumb.RelPermalink }}"
           alt="{{ .Title | default .Name }}"
           class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"

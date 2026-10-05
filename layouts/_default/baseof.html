@@ -42,7 +42,7 @@
       <div class="photo-lightbox-inner">
         <button type="button" id="photo-lightbox-close" class="photo-lightbox-close" aria-label="Закрыть">×</button>
         <button type="button" id="photo-lightbox-prev" class="photo-lightbox-nav photo-lightbox-prev" aria-label="Предыдущее фото">‹</button>
-        <img id="photo-lightbox-image" class="photo-lightbox-image" alt="" />
+        <img referrerpolicy="no-referrer" id="photo-lightbox-image" class="photo-lightbox-image" alt="" />
         <button type="button" id="photo-lightbox-next" class="photo-lightbox-nav photo-lightbox-next" aria-label="Следующее фото">›</button>
         <div id="photo-lightbox-counter" class="photo-lightbox-counter"></div>
       </div>
@@ -70,7 +70,7 @@
           // warm up the neighbours so paging feels instant
           [current - 1, current + 1].forEach((j) => {
             const n = items[(j + items.length) % items.length];
-            if (n) new Image().src = n.getAttribute('href');
+            if (n) { const preload = new Image(); preload.referrerPolicy = 'no-referrer'; preload.src = n.getAttribute('href'); }
           });
         };
 

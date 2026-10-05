@@ -30,7 +30,7 @@
 
 <figure class="travel-photo {{ $sizeClass }}">
   <a href="{{ $fullURL }}" data-photo-lightbox data-photo-alt="{{ $alt }}" class="travel-photo-link">
-    <img
+    <img referrerpolicy="no-referrer"
       src="{{ $imgURL }}"
       {{ with $srcset }}srcset="{{ . }}" sizes="(max-width: 768px) 100vw, 50vw"{{ end }}
       alt="{{ $alt }}"

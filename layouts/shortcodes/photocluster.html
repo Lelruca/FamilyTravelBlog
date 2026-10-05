@@ -19,7 +19,7 @@
         {{- end -}}
       {{- end -}}
       <a href="{{ $fullURL }}" data-photo-lightbox data-photo-alt="{{ $alt }}" class="photo-cluster-link">
-        <img src="{{ $imgURL }}" alt="{{ $alt }}" class="photo-cluster-image" loading="lazy" />
+        <img referrerpolicy="no-referrer" src="{{ $imgURL }}" alt="{{ $alt }}" class="photo-cluster-image" loading="lazy" />
       </a>
     {{- end -}}
   </div>

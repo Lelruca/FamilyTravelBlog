@@ -4,7 +4,7 @@
 {{- if $heroFile -}}
   {{- if hasPrefix $heroFile "http" -}}
     <div class="relative w-full h-64 md:h-96 overflow-hidden bg-neutral-200">
-      <img src="{{ partial "gimg.html" (dict "url" $heroFile "size" "w2000") }}" alt="{{ $page.Title }}" class="w-full h-full object-cover" style="object-position: {{ $heroPos }};" loading="eager" fetchpriority="high" />
+      <img referrerpolicy="no-referrer" src="{{ partial "gimg.html" (dict "url" $heroFile "size" "w2000") }}" alt="{{ $page.Title }}" class="w-full h-full object-cover" style="object-position: {{ $heroPos }};" loading="eager" fetchpriority="high" />
       <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
     </div>
   {{- else -}}
@@ -14,7 +14,7 @@
       {{- $md := $img.Resize "900x webp" -}}
       {{- $sm := $img.Resize "600x webp" -}}
       <div class="relative w-full h-64 md:h-96 overflow-hidden bg-neutral-200">
-        <img
+        <img referrerpolicy="no-referrer"
           src="{{ $md.RelPermalink }}"
           srcset="{{ $sm.RelPermalink }} 600w, {{ $md.RelPermalink }} 900w, {{ $lg.RelPermalink }} 1600w"
           sizes="100vw"
