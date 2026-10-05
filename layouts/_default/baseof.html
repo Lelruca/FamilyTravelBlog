@@ -15,6 +15,29 @@
       {{- block "main" . }}{{ end -}}
     </main>
     {{- block "footer" . }}{{ partial "footer.html" . }}{{ end -}}
+    <script id="photo-retry">
+      // Google sometimes refuses an image when a page asks for many at once.
+      // Retry a failed photo a few times, switching between the two Google addresses.
+      (() => {
+        const delays = [1500, 4000, 9000, 20000, 40000, 60000];
+        const idOf = (src) => (src.match(/googleusercontent\.com\/d\/([A-Za-z0-9_-]+)/) || src.match(/[?&]id=([A-Za-z0-9_-]+)/) || [])[1];
+        const sizeOf = (src) => (src.match(/=([wh]\d+)(#|$)/) || src.match(/[?&]sz=([wh]\d+)/) || [null, 'w1600'])[1];
+        window.addEventListener('error', (e) => {
+          const img = e.target;
+          if (!(img instanceof HTMLImageElement)) return;
+          const id = idOf(img.currentSrc || img.src || '');
+          if (!id) return;
+          const n = +(img.dataset.retry || 0);
+          if (n >= delays.length) return;
+          img.dataset.retry = n + 1;
+          const size = sizeOf(img.src);
+          const next = n % 2 === 0
+            ? 'https://drive.google.com/thumbnail?id=' + id + '&sz=' + size
+            : 'https://lh3.googleusercontent.com/d/' + id + '=' + size + '#r' + n;
+          setTimeout(() => { img.src = next; }, delays[n]);
+        }, true);
+      })();
+    </script>
     <div id="photo-lightbox" class="photo-lightbox" hidden>
       <div class="photo-lightbox-inner">
         <button type="button" id="photo-lightbox-close" class="photo-lightbox-close" aria-label="Закрыть">×</button>

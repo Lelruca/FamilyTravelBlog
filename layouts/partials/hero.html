@@ -4,7 +4,7 @@
 {{- if $heroFile -}}
   {{- if hasPrefix $heroFile "http" -}}
     <div class="relative w-full h-64 md:h-96 overflow-hidden bg-neutral-200">
-      <img src="{{ $heroFile }}" alt="{{ $page.Title }}" class="w-full h-full object-cover" style="object-position: {{ $heroPos }};" loading="eager" fetchpriority="high" />
+      <img src="{{ partial "gimg.html" (dict "url" $heroFile "size" "w2000") }}" alt="{{ $page.Title }}" class="w-full h-full object-cover" style="object-position: {{ $heroPos }};" loading="eager" fetchpriority="high" />
       <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
     </div>
   {{- else -}}

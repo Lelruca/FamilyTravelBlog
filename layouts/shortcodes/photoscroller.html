@@ -7,9 +7,9 @@
   <div class="photo-scroller{{ if $enhanced }} photo-scroller-enhanced{{ end }}" tabindex="0" aria-label="Дополнительные фотографии" {{ if $enhanced }}data-scroller{{ end }}>
     {{- range $raw := $items -}}
       {{- $src := trim $raw " " -}}
-      {{- $imgURL := $src -}}
-      {{- $fullURL := $src -}}
-      {{- $alt := $src -}}
+      {{- $imgURL := partial "gimg.html" (dict "url" $src "size" "h480") -}}
+      {{- $fullURL := partial "gimg.html" (dict "url" $src "size" "w2000") -}}
+      {{- $alt := "" -}}
       {{- if not (hasPrefix $src "http") -}}
         {{- $img := $.Page.Resources.GetMatch $src -}}
         {{- if $img -}}

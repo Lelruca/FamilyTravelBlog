@@ -1,0 +1,9 @@
+{{- /* Google Drive photo URL -> direct Google image URL of the given size (e.g. "h480", "w2000").
+       Other URLs are returned unchanged. Usage: partial "gimg.html" (dict "url" $u "size" "h480") */ -}}
+{{- $u := .url | default "" -}}
+{{- $m := findRESubmatch `[?&]id=([A-Za-z0-9_-]+)` $u 1 -}}
+{{- if and $m (strings.Contains $u "drive.google.com") -}}
+  {{- return printf "https://lh3.googleusercontent.com/d/%s=%s" (index (index $m 0) 1) .size -}}
+{{- else -}}
+  {{- return $u -}}
+{{- end -}}

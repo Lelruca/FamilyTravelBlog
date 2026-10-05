@@ -4,7 +4,7 @@
 {{- $thumbURL := "" -}}
 {{- if $heroFile -}}
   {{- if hasPrefix $heroFile "http" -}}
-    {{- $thumbURL = $heroFile -}}
+    {{- $thumbURL = partial "gimg.html" (dict "url" $heroFile "size" "w400") -}}
   {{- else -}}
     {{- $img := $ch.Resources.GetMatch $heroFile -}}
     {{- if $img -}}

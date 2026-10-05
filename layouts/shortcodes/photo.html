@@ -8,8 +8,8 @@
 {{- if eq $size "wide"      }}{{- $sizeClass = "photo-wide"      -}}{{- end -}}
 {{- if eq $size "three-col" }}{{- $sizeClass = "photo-three-col" -}}{{- end -}}
 
-{{- $imgURL     := $src -}}
-{{- $fullURL    := $src -}}
+{{- $imgURL     := partial "gimg.html" (dict "url" $src "size" "w1200") -}}
+{{- $fullURL    := partial "gimg.html" (dict "url" $src "size" "w2000") -}}
 {{- $srcset     := "" -}}
 {{- $widthAttr  := "" -}}
 {{- $heightAttr := "" -}}

@@ -6,7 +6,7 @@
 {{- $country := $trip.Params.country | default "" -}}
 {{- if $coverFile -}}
   {{- if hasPrefix $coverFile "http" -}}
-    {{- $coverURL = $coverFile -}}
+    {{- $coverURL = partial "gimg.html" (dict "url" $coverFile "size" "w900") -}}
   {{- else -}}
     {{- $img := $trip.Resources.GetMatch $coverFile -}}
     {{- if $img -}}
