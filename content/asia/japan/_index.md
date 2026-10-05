@@ -1,5 +1,5 @@
 ---
-title: "Japan"
+title: "Япония"
 country: "Japan"
 continent: "Asia"
 ---
