@@ -6,7 +6,7 @@ city: "Белем и Лиссабон"
 places:
   - lisbon
   - belem
-hero_image: "https://drive.google.com/thumbnail?id=1g5WhO1d7Ydgoh8gekv01WWhCnqfz9Voa&sz=w2000"
+hero_image: "https://drive.google.com/thumbnail?id=11MSkHg6ZnVaP6xyTHtVT97Xbfc5oNZeK&sz=w2000"
 date: 2016-08-20
 auto_gallery: false
 ---

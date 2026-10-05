@@ -7,7 +7,7 @@ places:
   - lucerne
   - pilatus
   - lauterbrunnen
-hero_image: "https://drive.google.com/thumbnail?id=1RjCpeLFox9JkwaaPuZci0xGL8q5WZggv&sz=w2000"
+hero_image: "https://drive.google.com/thumbnail?id=11nkWYSnyAbSGHLsQfIGD_EMi5b2Bhz-F&sz=w2000"
 date: 2011-08-23
 auto_gallery: false
 ---

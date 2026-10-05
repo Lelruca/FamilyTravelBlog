@@ -10,31 +10,32 @@ places:
   - villandry
   - chenonceau
   - blois
+hero_image: "https://drive.google.com/thumbnail?id=1fV5Ib0LYosnpmGdVRWZX4_NXz1n4QwE5&sz=w2000"
 ---
 
 <p>Завтрак в этом Шатэ был наверное самый приличный за всю поездку. Бруно нас заранее спросил во сколько мы будем завтракать чтобы круасаны теплыми доставили и кроме станднатных круасанов-масла-джема-сока-кофе нам даже дали фрукты и йогурты :-) Митька аж две штуки слопал, так устал «жить на бутербродах».</p>
 
-{{< photoscroller items="https://lh5.googleusercontent.com/-xuk5KeAmWgU/UQmkrLyf3AI/AAAAAAAAEpg/ZaOWuyF3txc/s640/IMG_1530.JPG" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1xPBXHy_1hU3tU3ZhEI9rrCt9AmaS9bIM&sz=w1600" >}}
 
 <p>С утра у нас была запланирована очередная «лошадиная экскурсия», на этот раз в de l'Ecole Nationale d'Equitation et du Cadre Noir, а по нашему «национальная школа верховой езды». Это опять же государственная организация (если я не ошибаюсь), раньше там только военных кавалеристов тренировали, теперь это больше гражданская школа, хотя несколько военных офицеров там всегда есть, у них форма другая немножко. Вообще после конезавода я с опаской думала об этом посещении, но Бруно нас поддержал, сказал что его отец был этим  Кадр Нуар (это специальная группа наездников, которые выступают и проделывают очень сложные трюки), даже книгу показал где есть фото его отца. Мы его спросили, а что же он не занимается этим. Он сказал что они с братом все детство провели на канюшне и на лошадях, и больше он не может :-) Но нам очень рекомендовал.  И действительно это было очень интересно и зрелищно!  Во-первых, мы попали утром и видели как кадеты тренируются. </p>
 
-{{< photoscroller items="https://lh3.googleusercontent.com/-qG_m-u99ceI/UQmk6YxoL5I/AAAAAAAAEpw/81rFORhQINA/s640/IMG_1544.JPG" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1CMjCTcdebufWDMuJrxgz-VTY-GeMOiZM&sz=w1600" >}}
 
 <p>Во-вторых, группа была англоязычной, или наполовину, не помню точно, но нам много и подробно на англ. все рассказывали. Было интересно. Плюс у них хорошо продумана и приготовлена экскурсия. Рассказывают и об истории этой школы, и  распорядке дня кадетов и лошадей, о форме, о том как заплетают гривы и хвосты для выступлений, о специальных седлах для шоу... Разрешают лошадей гладить :-) </p>
 
-{{< photoscroller items="https://lh6.googleusercontent.com/-CQVEfmVrB_g/UQmkt3_lo8I/AAAAAAAAEpo/lQnBj899zUg/s640/IMG_1559.JPG,https://lh4.googleusercontent.com/-hiRcI8ZJirc/UQmk_QU9jgI/AAAAAAAAEqA/xNTXLO6d3ds/s640/IMG_1565.JPG" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1aYoREeLK6xTETKpWzZUBmJxvEqdoMZXI&sz=w1600,https://drive.google.com/thumbnail?id=1FS9ewdLwD-MATb1LxDuUB7TIUXsde-BK&sz=w1600" >}}
 
 <p>Потом рассказвают об основных трюках и показывают фильм с выступлением. Основных труков 3 (попробую найти фото в интернете, т.к. мы видели это своими глазами, случайно попали на репетицию какую-то серьезную, но снимать там не разрешили). Самый «простой» это когда лошадь встает на задние ноги:</p>
 
-{{< photoscroller items="https://lh5.googleusercontent.com/-Zh5YJVbyUfs/UQmm7wxAmKI/AAAAAAAAEsw/XD8iESgRJwU/s400/Cadre&#37;2520Noir&#37;25201.jpg" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1fV5Ib0LYosnpmGdVRWZX4_NXz1n4QwE5&sz=w1600" >}}
 
 <p>Более сложный когда лошадь встает и вытягивает задние ноги:</p>
 
-{{< photoscroller items="https://lh5.googleusercontent.com/-p6-1_UC4uJY/UQmm7_ic2II/AAAAAAAAEss/VUOPW4DijsU/s400/Cadre&#37;2520Noir&#37;25202.jpg" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1Ki4lx3FnbQdm8cLQt5pp3EK98DUT0UtG&sz=w1600" >}}
 
 <p>И супер сложный, который в текущий момент выполняют у них только 3 лошади, это прыжок 4 ногами одновременно, причем задние ноги должны быть вытянуты параллельно земле:</p>
 
-{{< photoscroller items="https://lh4.googleusercontent.com/-zs2c8Gqvd8I/UQmm7g1ENPI/AAAAAAAAEsk/OAKpZ1as0B0/s800/CADRE&#37;2520NOIR&#37;25203.jpg" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1AkgCMlqmUZQFfdjXlIZt0YrW_dH7dj3c&sz=w1600" >}}
 
 <p>Мои дети оба были в восторге, мы с Серегой в не меньшем. Так что это посещение получилось очень стоящим и интересным.</p>
 
@@ -42,40 +43,40 @@ places:
 
 <p>Начали мы с замка Villandry, который знаменит своими садами. Сам замок интереса не представляет, но мы прошли по нему с наушниками. Он был построен министром Франциска I и особой истории в нем нет, но мне было интересно что в начале 20 века один испанец, женится на богатой американке, они покупают этот замок и посвящают свои жизнь его восстановлению. Этот замок всегда славился садами и они по документам все восстановили и воссоздали. Сейчас этим замков владеют из потомки, но он открыт для публики.  Сады конечно красивы.</p>
 
-{{< photoscroller items="https://lh6.googleusercontent.com/-AnoQaOUkjcw/UQmlY0rh_BI/AAAAAAAAEqc/umRNTOICMNI/s640/IMG_1576.JPG,https://lh4.googleusercontent.com/-XAFSF2OnPIY/UQmloxHzRfI/AAAAAAAAEqs/YGmE96hUb4c/s640/IMG_1577.JPG,https://lh5.googleusercontent.com/-k-JPCpi3AV4/UQmlikCZf-I/AAAAAAAAEqk/U6lbsRRd1y4/s640/IMG_1578.JPG" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1eLJrtQkZbZ21swJ5i62YM9ERsZ8yP_cw&sz=w1600,https://drive.google.com/thumbnail?id=1u72-nM6mjUOOXm0ndYOeSDm2JqggOeek&sz=w1600,https://drive.google.com/thumbnail?id=1qMsUAosbHFBjIHsPisPSIWnhQb9QXBAo&sz=w1600" >}}
 
 <p> Наверное это идеальный образчик французских регулярных парков. Там 3 уровня терасс, и на каждой все разное. Мы забрались на верхушку замка и сверху все изучили, а вот в сам сад... не пошли. Было ужастно жарко, клумбы огорожены и близко не рассмотришь, а ходить под палящим солнцем никакого желания не было. Наверное мы не правы, и надо было отработать по полной, но мы посчитали что вид сверху дает нам полную картину :-) И смылись. Честно говоря я как-то ожидала большего в своих впечатлениях, но с другой стороны может быть это опять же связано с развитием техники. Я видела эти картинки в интернете и вживую ничего нового не почуствовала. Тенистые английские парки как-то больше к себе притягивают ;-)</p>
 
 <p>Следующим нашим замком был признанный «номер 1»  - Chenonceau. И надо опять же признать, что не просто так туристы ломятся в одни места и игнорируют другие. И для нас этот замок Шанонсо оказался самым интересным. Все фото обычно показывают замок в профиль, со стороны воды, т.к. он является не просто замком, но и мостом одновременно. </p>
 
-{{< photoscroller items="https://lh4.googleusercontent.com/-3avNtFqH8ro/UQmqFmMoe4I/AAAAAAAAEtE/KHT7TaJUWfI/s800/Chenonceau.jpg" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1aVB92uZE6ab0UWI5JPboP2SQC1fFDGjC&sz=w1600" >}}
 
 <p>Однако обычному посетителю такой вид не открывается :-) В торец замок смотрится очень маленьким, да он и есть небольшой на самом деле. </p>
 
-{{< photoscroller items="https://lh6.googleusercontent.com/-e6tG8dwnqvM/UQmlw-sBsPI/AAAAAAAAEq0/G3V5CvPzLlo/s640/IMG_1588.JPG" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1rniBUTo-s2pIX3cjP-t8p76fz5FOM1BE&sz=w1600" >}}
 
 <p>Замок называется «замок Дам», самые известные его владеницы Диана де Пуатье, Екатерина Медичи и госожа Дюпен, которая спасла его во время Французской революции. Каждый зал замка посвящен одной из них (всего 6 кажется) и представляет апартаменты этой дамы, хотя коненчо одновременно они там не жили :-) Но каждая историческая эпоха воспроизведена отдельно, ОЧЕНЬ хороший аудио гид, в том числе на русском языке. И при этом если подробно все слушать и ходить,  то не больше 2 часов получается. Там еще интересная кухня в подвале из множества комнат, что дает возможность понять и представить как раньше готовили. Даже моим детям этот замок понравился :-) Так что от души всем кто попадет в эти места рекомендую именно Шенонсо (я помню как я долго мучалась какой выбрать).</p>
 
-{{< photoscroller items="https://lh5.googleusercontent.com/-YztEwAdRO60/UQmmBd2KhYI/AAAAAAAAErU/Ge-hvagpP3g/s640/IMG_1597.JPG,https://lh4.googleusercontent.com/-6tJzDnEDIns/UQml-rkQYLI/AAAAAAAAErE/63YeZCwsQuM/s640/IMG_1594.JPG,https://lh6.googleusercontent.com/-5EPkOhdxH-k/UQmmA7r9RAI/AAAAAAAAErM/J-GkJZRgOaU/s640/IMG_1601.JPG,https://lh6.googleusercontent.com/-sJrIZHYwZg4/UQmmMiJKtGI/AAAAAAAAErg/mz1e_WChyy0/s640/IMG_1609.JPG,https://lh4.googleusercontent.com/-uL92_FUi6I8/UQmlyH-qp-I/AAAAAAAAEq8/btUbE3fh-q4/s640/IMG_1582.JPG" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1Q8sofwhIpmFy5KDdbtT4HaFTCnnMmZ-3&sz=w1600,https://drive.google.com/thumbnail?id=13Po5pjUU7oii4h0RJ0fdpwAMcfOOLI9E&sz=w1600,https://drive.google.com/thumbnail?id=1FeyT1DcFIrnm__U-5F-vYBHGli-2qlBq&sz=w1600,https://drive.google.com/thumbnail?id=1a_feUon3_-7RpiaW33tb3_--srRzNJ2N&sz=w1600,https://drive.google.com/thumbnail?id=1uXR1GVGYhaG5Za_ed0ysz9tpSu4J2r66&sz=w1600" >}}
 
 <p>Лабиринт в парке</p>
 
 <p>У меня на вечер еще была опция - замок в Блуа (Blois), там еще ночное красочное лазарное шоу на стенах делают про историю замка (а история там богатая), но опять же рассказ на франц. языке (один раз в неделю на англ. но мы не попадали) и кроме Наташки не кому не было бы понятно. Да и устали, проголодались. Мы расположились в другой гостинице-шатэ Château de La Rozelle. Я бы сказала что эта гостиница уже не то... Хотя в чем-то она вроде круче, у нее земельные угодья громадные, все отделано тоже идеально, но это уже просто гостиница. Первый этаж да, много залов красивых, мы с Наташкой там фото сессию устроили, а наверху уже коридоры с номерами. Номера тоже хорошо обставлены, стильно, но с современной техникой, у нас был большой номер один на всех.  По сравнению с тем как мы останавливались в Самюре... уже не то :-)  Так что я рада что мы в 2 разных местах останавливались, есть с чем сравнивать. </p>
 
-{{< photoscroller items="https://lh4.googleusercontent.com/-seaXXnBcKYA/UQmmRutsoqI/AAAAAAAAEro/5eumX6x2-g8/s640/IMG_1625.JPG,https://lh6.googleusercontent.com/-r-hxo-177n4/UQmmTM-QhiI/AAAAAAAAErw/9Q1xQFOFlbU/s640/IMG_1637.JPG,https://lh3.googleusercontent.com/-2i_V1xTzaMU/UQmmbsvTmgI/AAAAAAAAEr8/viljqpKKbjo/s640/IMG_1643.JPG" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1i2IjRvBH8jkykNtgvCF5t6W5EXZ691RM&sz=w1600,https://drive.google.com/thumbnail?id=1BLAc9F-B5-D5tp-ICGSGeNvpBraq_l7J&sz=w1600,https://drive.google.com/thumbnail?id=1C3D_v-Osk9aKtIS3myQejkcJGRQEmZY2&sz=w1600" >}}
 
 <p>И вообще как-то с Блуа у нас не сложилось. Мы опять же поехали в центр на машине, Блуа город побольше, замок мы даже объехали, но вот с рестораном нам не повезло. Мы несколько раз по кругу обошли все улицы, хотелось все-таки франц. еды, а город большой и было уже более разнообразно: итальянская кухня, суши и т.п., франц. еда была, но очень дорогая. Поэтому мы остановились на кафе, где подавали гречишные блины, бретонская национальная еда, о которой я много читала и которую мы не успели попробовать в Бретани.  Ну что сказать? Как вы думаете, насколько вкусны гречишные блины? Ну вот настолько они и вкусны :-) Не шибко, я бы сказала :-)) Ну или они в Долине Луары не умеют их готовить :-) А вообще подавали их как у нас тут омлет, т.е. выбираешь начинку любую: сыр, ветчину, грибы.... и тебе этот блин складывают пополам с этой начинкой и запекают.  Не устрицы короче (устриц уже не предлагали :-( ). Но зато гречишные блины мы «отработали» :-)</p>
 
-{{< photoscroller items="https://lh3.googleusercontent.com/-_6vlrBn7hSM/UQmmgplzGLI/AAAAAAAAEsE/jEnvN8CePa4/s640/IMG_1682.JPG" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=11MAiUYBpAUWR4kezjBzt7wHPLqwAYpvP&sz=w1600" >}}
 
 <p>Пришлось догонять десертом:</p>
 
-{{< photoscroller items="https://lh4.googleusercontent.com/-lXPtFkSMXdI/UQmmhXmpX1I/AAAAAAAAEsM/pXEe4fs_g3s/s640/IMG_1687.JPG" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1WcW61S3dxlyk91OjTtVky1g_z1l8Zbnd&sz=w1600" >}}
 
 <p>А потом еще погуляли по городу:</p>
 
-{{< photoscroller items="https://lh6.googleusercontent.com/-V1L0tU3diec/UQmmpR2nZEI/AAAAAAAAEsU/9Mh4xaZW4lg/s640/IMG_1689.JPG" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1KZ8CCf0zMHmu94ZEg-z_gsw_lCK3AmEk&sz=w1600" >}}
 
 <p>И упали без сил:</p>
 
-{{< photoscroller items="https://lh6.googleusercontent.com/-IxkN_efzLs0/UQmmpoCa3gI/AAAAAAAAEsY/cjWUGarXYlE/s640/IMG_1693.JPG" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1JAAuU-TLORjFDXZy0Cmb_UC3ktYPBED1&sz=w1600" >}}

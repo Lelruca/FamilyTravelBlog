@@ -6,7 +6,7 @@ city: "Ремушам и Дюрбюи"
 places:
   - remouchamps
   - durbuy
-hero_image: "https://drive.google.com/thumbnail?id=1pwxs_n0savQNJOnrGbY5nsI7TZX9Aq2R&sz=w2000"
+hero_image: "https://drive.google.com/thumbnail?id=1sRkVpdL4W2DHDE5YRHB-02Kj8MdQAUp8&sz=w2000"
 hero_card_position: "center 30%"
 date: 2011-08-17
 auto_gallery: false

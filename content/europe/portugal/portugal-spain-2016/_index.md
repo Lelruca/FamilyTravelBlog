@@ -8,7 +8,7 @@ summary: ""
 geo_countries:
   - portugal
   - spain
-cover_image: "https://drive.google.com/thumbnail?id=1FVnRB0Ac3-mmb7YP_BnvpFaBiOnM-N-k&sz=w2000"
+cover_image: "https://drive.google.com/thumbnail?id=1IvuF6Dvs1uzzJNc_QRcdAaGqYGA5kIhv&sz=w2000"
 accent_color: "#2f6f8f"
 ---
 

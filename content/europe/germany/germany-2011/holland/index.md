@@ -6,7 +6,7 @@ city: "Амстердам и Заандам"
 places:
   - amsterdam
   - zaandam
-hero_image: "https://drive.google.com/thumbnail?id=1732wWhGywTzXxGkmYmfudn5IZX5hpH-W&sz=w2000"
+hero_image: "https://drive.google.com/thumbnail?id=1w3EsvCIskQpdInF97aR9y-9sWIdlX157&sz=w2000"
 hero_card_position: "center 22%"
 date: 2011-08-14
 auto_gallery: false
