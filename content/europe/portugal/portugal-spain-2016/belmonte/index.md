@@ -5,6 +5,7 @@ weight: 140
 city: "Белмонте"
 places:
   - belmonte
+hero_image: "https://drive.google.com/thumbnail?id=1d9ICmiMbw8hW3r9dG3ZxCWaD6UoxdKqY&sz=w2000"
 date: 2016-09-01
 auto_gallery: false
 ---

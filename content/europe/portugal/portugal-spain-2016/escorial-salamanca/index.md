@@ -6,6 +6,7 @@ city: "Эскориал и Саламанка"
 places:
   - el-escorial
   - salamanca
+hero_image: "https://drive.google.com/thumbnail?id=1q4h3hNYmyR5gx6ktlzoVRs5YsdZ5yX4t&sz=w2000"
 date: 2016-09-01
 auto_gallery: false
 ---
