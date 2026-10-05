@@ -22,8 +22,6 @@ places:
 
 <p>Были мы, во-первых, в <b>Аквариуме </b>Вирджинии Бич. Ну так… Не плохо, но ничего выдающегося. Нормальный, средний аквариум. Погулять часик-другой вполне так, но не ах.</p>
 
-<p class="missing-photo">[Фото 1: DSC00989.JPG — требуется восстановление]</p>
-
 {{< photoscroller items="https://drive.google.com/thumbnail?id=14Fd8H5Kuu5S8gA2tP_HgLSSsCdqrZtgx&sz=w1600,https://drive.google.com/thumbnail?id=1jc-Nks3LySPk2wchRNPhlWcoCdtKmCps&sz=w1600,https://drive.google.com/thumbnail?id=1iT7WI90m1ui-v00c0s5ETYNuvU-3_Wo1&sz=w1600,https://drive.google.com/thumbnail?id=1VTS2-Rp2draGT7KJYhaYwHCih7zdr7Ey&sz=w1600" >}}
 
 <p>Неожиданно интересным оказался <b>военно-исторический авиационный музей</b> (military aviation museum)! </p>

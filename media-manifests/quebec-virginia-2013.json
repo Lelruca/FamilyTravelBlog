@@ -910,8 +910,9 @@
           "finalURL": "https://accounts.google.com/v3/signin/identifier?continue=https://lh3.google.com/fife/ALs6j_EnmJnvs5KbsR-VkFci8x19_4s4DpqMmj-ZizOqmgMdiCK4D-NCxKGV6sY6PETbaFi2G_eEPEIsYMqhEMDLEO4Sh-dCw6AgTBvfRYD_nCKMe9Uv-aDV6026xeZIN2rYr2TZsOCglURqAJ-dctQw6nouBpTDBY3QDKj6a15kz5t8RuTFISkucPAcbJSgCabSC8TDS0oB6w4qZlYYAOAwYgNBEu3w1C7t2V45mWPtNQiW5Y1SuawKbxjiPXq4FXIsqsVz4xWLqPQ4b8q5JgHliRoO-Mi0nRY0xCDM_4q9O-3qkbI5KGVTfOU7D8equXr-rBOeC5i0l2YCwIrx9bAZiTEpodRCl-biYbTPbmIy3w6FkfIC-MLZZg5SRwg3CFMGqD3i2z06JSmD_vCnGhTdv_p6rxbOA8uuX1pw6dzmZldfRkmPhFdMfc4UiHK8X_0IyVvyYui3c6mw9rfv-hxgDoVfe6c0nHHrH7yvTxVRXMLmrVk0NKrPRN-bXGaUI6JSAShq-sD1vVU_%3Ds357-w357-h195-p-no&hl=en&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1978761073:1791219128578323"
         }
       ],
-      "status": "unavailable",
-      "restoreCandidates": []
+      "status": "omitted",
+      "restoreCandidates": [],
+      "omissionReason": "Владелец подтвердила завершение поездки без пропавших фотографий."
     },
     {
       "chapter": 2,
@@ -1138,8 +1139,9 @@
           "finalURL": "https://accounts.google.com/v3/signin/identifier?continue=https://lh3.google.com/fife/ALs6j_EK_2T0mvjp_FKKolEqerqyR7n-3Ps1QytXWmFgIwc7Dh6RwklQmGX8ipMYSWH2sPA_4jTX1cXz5k2cXH1Q7ut_RhjTaJcQOapHdErAcd-uSm_V2o1g0_OrkjuEeCzTD-ul4CsaVOJizxmYYXuaVRECBlbrGoD_pLiGENcPaEeyI4_x8B3jvVYkWRUVNXTHJXUWr8DwGUSw9WcSTBC8qZoh0zIdb4xZJVDii2i5pyjhlzdRm5TEsmwg_weI0N86d11a8rv0i6QFP918O-ivcp9Ix3Jmc3sCRFepkqrjqm2xWlL9M8DDMh4yw7uFINnALa82xjzBg3eOLmHDFzUC5d-BJyXI74lZon10Bti28kYmxisJxwt1NC3ZaklVeXCpPxG-DdzB6TkwBjd90ANOQxYCL6-h5IijspRCUViUzXmHSh8qCHUoVQOgDZH8vKHHivkZv4AcjHBCJNl1srAFSsQ6qnYEgp4DNtGrAlAiuGWvMUcPqFhTBVxp8yeLSvnC5Hs0q0W4w4fj%3Ds769-w769-h577-no&hl=en&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1707734957:1791219129506473"
         }
       ],
-      "status": "unavailable",
-      "restoreCandidates": []
+      "status": "omitted",
+      "restoreCandidates": [],
+      "omissionReason": "Владелец подтвердила завершение поездки без пропавших фотографий."
     },
     {
       "chapter": 2,
@@ -2127,8 +2129,9 @@
           "finalURL": "https://accounts.google.com/v3/signin/identifier?continue=https://lh3.google.com/fife/ALs6j_HUq5eWM3Izw6LzlWOuL8ke2DziMyZjeNgvypRe6kDMtgDbxZrRCwV6MoHerUeWOj1X9FVGqnV79hW1px_UAhYQ6YR9wShse_2YIlCML4_egsPk1h5dUxlYAkaR_iKIrgSAh9p_LBrKGSvk885e80oVUO0CwS2Y4tVWLni4Wq_-budPe42C1MN7BoDaAQLFAKNw4-nV5bTESDtTjbBQ7Uue-u31sQkUUic36CnrSViLRh3uJshYlV7DtfV-kM20XeB0jFBM4-3GK7KusxdunWiQpr-BaWlCJAnzo6hsyB2Zjj_aN-aUl6GOMRT9CDwzjLAHf7Uzj_1TTJijMHlFXxCRMYmlmuZrp83y_He3MfoKWJ67A1byK-ulBc0l5Xhy7DBxFv9Ohege5CAHRE3QYbESytaRrSZ08CPkyv2Q%3Ds945-w945-h709-no&hl=en&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1143507558:1791219132703664"
         }
       ],
-      "status": "unavailable",
-      "restoreCandidates": []
+      "status": "omitted",
+      "restoreCandidates": [],
+      "omissionReason": "Владелец подтвердила завершение поездки без пропавших фотографий."
     },
     {
       "chapter": 5,
