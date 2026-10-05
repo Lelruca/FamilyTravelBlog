@@ -15,6 +15,9 @@ imaging:
 # Allow raw HTML in markdown
 markup:
   goldmark:
+    extensions:
+      typographer:
+        disable: true
     renderer:
       unsafe: true
   highlight:
