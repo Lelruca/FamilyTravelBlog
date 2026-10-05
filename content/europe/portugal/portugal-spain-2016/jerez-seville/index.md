@@ -44,7 +44,7 @@ auto_gallery: false
 
 И еще ОЧЕНЬ интересная система урн! Туда кладешь мусор, закрываешь, и мусор засасывается в единую систему, типа канализационной! И действительно, если задуматься - узкие улочки, жара за +45... Сплошная антисанитария!
 
-<!-- фото недоступно (мёртвая ссылка LJ): https://lh3.googleusercontent.com/uC9eYkFVCgmZobIKGOoZXqSBXr1r6Fv1vc-l-fWSgKvsoYnQA8sukr5ytdf_qdoaZAkxdd_WZ6rQq5V7FRVZzgyvJlSPkBm19HZq9I2uI711zpR4TLWKoemYExw9uUp1og_Hyf7zAvn0HLow1n7up4BuKaoo03Wh3VGs0r7WzP5fmBeOWtCdwJDzGH1pFn6UZ3Znwrhppb899TLK4vi_Rba_gAT9nRhk6IedZrIbc7876CxmY5Szne89TpMCVx627cIkObBN6LfG_Cv2rgWyW4EO5KZgLVxsIm8zn97yotBTVCEWmVe-hWRbJaaXlztkBuhmmkRz4zLgOq6WKgz_o37ddsWyoJnvKvZv4vtviX8U3Rq8BZA80Qv3IS2HVVOnLrZ7nqkYzaU-aM0BoCYXV__1zqKLjFJDq3NeA-_m9WuQ9l1JqbC96Iz5oPZugy4zUjSZqLpZWwTwq-IeKC4f9LT65nLfI61FiBuwRpm5N4poAtKgWBF9Vg-MtJ3SOdsbVVSWrtV01iy_uU9fQ4P2FlHQfOYwPFczdaEfN5ADQX68ChPCE56f4k1629N2P_ZiQOPiKmVPNeJUC8fk42mKpF7sosnM_oM6XzmCs0iJ-6ktiHVg=s929-no -->
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1EwRcyjOMLTuzlVdYD42ecx13BBuB03tD&sz=w1600" >}}
 
 А вот ФИКУС, который обычно в горшках!
 
