@@ -23,7 +23,7 @@ auto_gallery: false
 
 А дальше пошли гулять, то в церковь зайдем, то на разных площадях погуляем (там везде даже под ногами красота все время!), то выйдем на набережную, где народ загорает!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1W0rikuNqMxcSfgeYeG4kQzFwmisZ-dSh&sz=w1600,https://drive.google.com/thumbnail?id=1VZMr7_meH19MxkAkBur5dZKBf7ivx8JY&sz=w1600,https://drive.google.com/thumbnail?id=1c1g8n1qGpyY2h8UNME10_H_YubjaLfTu&sz=w1600,https://drive.google.com/thumbnail?id=1pusteq70O52uVnW16yBfrcClsQa4o79f&sz=w1600,https://drive.google.com/thumbnail?id=1BaphNpaxEI9v4V22EPKMpwTUceO4Xa8M&sz=w1600,https://drive.google.com/thumbnail?id=1xUWhbYn_eYFru0HUrnCWCyFA1ZibchTt&sz=w1600,https://drive.google.com/thumbnail?id=1ZT0oFWN1pZHl0Fyt5tX6IIeLEELgLpki&sz=w1600,https://drive.google.com/thumbnail?id=1aQhrrVToDDYI4VfJLfAq60fxUG8Pwvnb&sz=w1600,https://drive.google.com/thumbnail?id=1VMgBqUq_pXrgCNRi-ZAPcSZnZDQVZYO2&sz=w1600,https://drive.google.com/thumbnail?id=1damkTFR5kyiBGCS8-vhpaRSn3w5-5amI&sz=w1600" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1W0rikuNqMxcSfgeYeG4kQzFwmisZ-dSh&sz=w1600,https://drive.google.com/thumbnail?id=1c1g8n1qGpyY2h8UNME10_H_YubjaLfTu&sz=w1600,https://drive.google.com/thumbnail?id=1pusteq70O52uVnW16yBfrcClsQa4o79f&sz=w1600,https://drive.google.com/thumbnail?id=1BaphNpaxEI9v4V22EPKMpwTUceO4Xa8M&sz=w1600,https://drive.google.com/thumbnail?id=1xUWhbYn_eYFru0HUrnCWCyFA1ZibchTt&sz=w1600,https://drive.google.com/thumbnail?id=1ZT0oFWN1pZHl0Fyt5tX6IIeLEELgLpki&sz=w1600,https://drive.google.com/thumbnail?id=1aQhrrVToDDYI4VfJLfAq60fxUG8Pwvnb&sz=w1600,https://drive.google.com/thumbnail?id=1VMgBqUq_pXrgCNRi-ZAPcSZnZDQVZYO2&sz=w1600,https://drive.google.com/thumbnail?id=1damkTFR5kyiBGCS8-vhpaRSn3w5-5amI&sz=w1600" >}}
 
 А потом зашли в “музей” вина, где покупаешь карточку и потом из автоматов можно пробовать вино разных регионов. Здесь мы наконец попробовали очень дорогой и выдержанный портвейн. КАКОЙ аромат!!!! Придется возвращаться и делать специальный тур посвященный портвейну!
 
@@ -31,7 +31,7 @@ auto_gallery: false
 
 Чудесно погуляли.
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=12hISIvoArjCAz95711KT97HsWA_KkbY0&sz=w1600,https://drive.google.com/thumbnail?id=1g5ToviFYAgtjV6oWm6jbsjM2cOqzZq57&sz=w1600" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1VZMr7_meH19MxkAkBur5dZKBf7ivx8JY&sz=w1600,https://drive.google.com/thumbnail?id=12hISIvoArjCAz95711KT97HsWA_KkbY0&sz=w1600,https://drive.google.com/thumbnail?id=1g5ToviFYAgtjV6oWm6jbsjM2cOqzZq57&sz=w1600" >}}
 
 Потом дети куда-то пошли (даже не знаю!), а мы с Серегой решили съездить еще раз в Балем, который мы так суматошно посмотрели в первый день прилета. Начали с дворца Ажура - королевский дворец, построенный в 1802-1862 гг. Сейчас это музей, открытый для туристов (в Португалии нет монархов).  Не самое популярное место, но очень романтичная история любви последних монархов с ним связана - http://www.izuminki.com/2013/01/18/dvorec-azhuda-zhili-korol-s-korolevoj/ И внутри на одном этаже это семеный особняк, с фотографиями, музыкальными инструментами. А на другом официальные тронные и бальные залы, большой банкетный зал для приемов. Туристов практически никого и мы с удовольствием побродили. Интересно, меня большие толпы особенно не беспокоят, но все-таки когда попадаешь практически один в какие-то места, то атмосфера и восприятие другие конечно.
 
@@ -39,7 +39,7 @@ auto_gallery: false
 
 Потом пешком дошли опять до монастыря Jerónimos, зашли внутрь, погуляли вокруг, видели кафе со знаменитыми пирожными, но очередь… нам была совсем не в настроение.
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=17q5sr9ONSo52i7uNndxA1jYPuMLN4-I6&sz=w1600,https://drive.google.com/thumbnail?id=1MP36vg5YNtYIjgs24ShIHWIOSnJr5iok&sz=w1600,https://drive.google.com/thumbnail?id=1JO2Uw6rnu0V5D_x_f7IVMYSsy262Ntic&sz=w1600,https://drive.google.com/thumbnail?id=1DdhjcUZjyGHQ9yPNB_zdEPIXNkJMQfdO&sz=w1600,https://drive.google.com/thumbnail?id=1japNcRfSjsbK-0a9L-KUU07_4dZ-j_bf&sz=w1600,https://drive.google.com/thumbnail?id=1vqDCvPezvjsVgzuF7s8hs_tZfyrVcXnV&sz=w1600,https://drive.google.com/thumbnail?id=1G_KZ6d942c42j1SabvQGlhT357xS4v23&sz=w1600,https://drive.google.com/thumbnail?id=1SQLL58a0ztmfZ9G274lMXv5LtT71dogp&sz=w1600,https://drive.google.com/thumbnail?id=1Vox9jEglJvRmw4fDnlJAW4qveDS0Iz45&sz=w1600,https://drive.google.com/thumbnail?id=1uI5HAOh7RfOLap2eOOttb88t6-4wgbxv&sz=w1600,https://drive.google.com/thumbnail?id=1DZoNxjeVdbfY7uz1ZCS_HjTHGl8jQUv5&sz=w1600" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=17q5sr9ONSo52i7uNndxA1jYPuMLN4-I6&sz=w1600,https://drive.google.com/thumbnail?id=1MP36vg5YNtYIjgs24ShIHWIOSnJr5iok&sz=w1600,https://drive.google.com/thumbnail?id=1JO2Uw6rnu0V5D_x_f7IVMYSsy262Ntic&sz=w1600,https://drive.google.com/thumbnail?id=1DdhjcUZjyGHQ9yPNB_zdEPIXNkJMQfdO&sz=w1600,https://drive.google.com/thumbnail?id=1japNcRfSjsbK-0a9L-KUU07_4dZ-j_bf&sz=w1600,https://drive.google.com/thumbnail?id=1vqDCvPezvjsVgzuF7s8hs_tZfyrVcXnV&sz=w1600,https://drive.google.com/thumbnail?id=1G_KZ6d942c42j1SabvQGlhT357xS4v23&sz=w1600,https://drive.google.com/thumbnail?id=1SQLL58a0ztmfZ9G274lMXv5LtT71dogp&sz=w1600,https://drive.google.com/thumbnail?id=1Vox9jEglJvRmw4fDnlJAW4qveDS0Iz45&sz=w1600,https://drive.google.com/thumbnail?id=1uI5HAOh7RfOLap2eOOttb88t6-4wgbxv&sz=w1600" >}}
 
 Зашли в музей карет, но не сильно впечатлились.
 
@@ -51,4 +51,4 @@ auto_gallery: false
 
 Но ехать обязательно надо!!! Везде!!! И может быть помедленнее. В каждом городе хотелось еще и еще остановиться. Но в целом я считаю, что ознакомительно это было хорошо продуманное путешествие, позволило нам составить свое представление об этих двух странах, полюбить их и я думаю это наш первый, но точно не последний визит!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1DJQSXZvrBsLpHu68qu-82vHfY5a8t0MZ&sz=w1600,https://drive.google.com/thumbnail?id=1Kfq-2xxHfkGfZlGD142_vLMofMSIew--&sz=w1600" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1DZoNxjeVdbfY7uz1ZCS_HjTHGl8jQUv5&sz=w1600,https://drive.google.com/thumbnail?id=1DJQSXZvrBsLpHu68qu-82vHfY5a8t0MZ&sz=w1600,https://drive.google.com/thumbnail?id=1Kfq-2xxHfkGfZlGD142_vLMofMSIew--&sz=w1600" >}}
