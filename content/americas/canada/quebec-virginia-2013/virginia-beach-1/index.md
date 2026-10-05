@@ -1,6 +1,7 @@
 ---
 title: "Virginia Beach - 1"
 type: "trips"
+layout: "photo-story-2013"
 weight: 30
 chapter_kind: "day"
 auto_gallery: false
@@ -15,7 +16,7 @@ places:
 
 <p>Выбирала куда ехать я не слишком долго т.к. все решалось в последнюю минуту и в итоге прогноз погоды сделал а нас выбор (сначала мы планировали ехать южнее, в Северную Каролину, но там ожидались обложные дожди). Virginia Beach – штат Вирджиния :-) </p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1VVvgQ98dL6ScUxAn7wFvzzV9UzTSe28-&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1VVvgQ98dL6ScUxAn7wFvzzV9UzTSe28-&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:1;flex:1.3333333333333333 1 0;aspect-ratio:2048/1536"><img src="https://drive.google.com/thumbnail?id=1VVvgQ98dL6ScUxAn7wFvzzV9UzTSe28-&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p>От Торонто это ровно 1000 км., от Квебека  чуть больше. Но мы рано-рано утром забрали Наташку и сразу выдвинулись в сторону государственной границы, которая оказалась чуть ли не в 30 минутах от нас. Кстати это первая граница между Канадой и Штатами, которая не разделена водой. Мы уже через многие пограничные пункты ездили, но всегда это были мосты, а тут «на пустом месте». Мы так и не поняли, как вообще граница проходит дальше «в лесу», есть ли какие-то сетки, ограждения… Но зато народу никого не было и мы проехали почти без остановки.  И попали в леса штата Вермонт! Очень красиво, но очень глухо :-) Нет, мы каждый раз себе напоминаем, что переезжая границу мы попадаем из «центра канадской жизни» в «самое северное захолустье штатов», но все равно разница бросается в глаза. Даже в мелочах, типа отсутствия туристических центров с туалетами на дорогах. И вообще поскольку это лесистая и довольно безлюдная местность, даже какую-то забегаловку по дороге было сложно найти. Редко-редко были… и только Макдональдсы. Мы их в обычной жизни стороной обходим, но тут выбирать не приходилось. В этом путешествии, кстати, мы несколько раз столкнулись с ситуациями, которые в фильмах принято показывать, но мне казалось этого нет в реальной жизни. В одном из таких Макдональдсов, например, мы увидели маму с взрослым сыном (лет 20ти), очень крупных габаритов, которые при нас заказали больше десятка гамбургеров на двоих, потом сели за столик и стали их есть один за одним. Не видела бы своими глазами – не поверила бы!</p>
 
@@ -23,10 +24,10 @@ places:
 
 <p>Мы как приехали вечером, с Наташкой сразу побежали к океану и к Нептуну:</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1-N9ZWRGisAeAm27U0U85TBxjQwuY1cEr&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1-N9ZWRGisAeAm27U0U85TBxjQwuY1cEr&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:1;flex:0.75 1 0;aspect-ratio:1536/2048"><img src="https://drive.google.com/thumbnail?id=1-N9ZWRGisAeAm27U0U85TBxjQwuY1cEr&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p> Надо сказать, что самый дешевый вариант такого отдыха - это снимать квартиру.  В курортных местах это развернутый бизнес, куча квартир, все с мебелью и кухонной утварью сдаются. Можно по интернету выбрать, посмотреть фото, списаться с хозяином и договориться. Но сдают строго по неделям, с воскресенья по субботу (кажется). Мы же как-то в эти рамки не укладывались и поэтому заказали просто гостиницу. </p>
 
 <p>Курортная часть города Вирджиния Бич, это длинный пляж с хорошим песком, потом чуть в глубине пляжа идет широкий деревянный настил – набережная, и с другой стороны этой набережной натыканы гостиницу. Почти все высотки, наша была «маленькая», всего этажей 7.  Т.е. все эти гостиницы одной стороной выходят прямо на пляж (он общий и бесплатный), а другой выходят на улицу, где всякие рестораны и развлечения. </p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1_l-epxpy5Xuf7kVgiIfojgDOSNnguZ-8&sz=w1600,https://drive.google.com/thumbnail?id=16Qn2CxfsmMURix1kKLuu1y_xB6o_5wPw&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1_l-epxpy5Xuf7kVgiIfojgDOSNnguZ-8&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:1.3333333333333333 1 0;aspect-ratio:4896/3672"><img src="https://drive.google.com/thumbnail?id=1_l-epxpy5Xuf7kVgiIfojgDOSNnguZ-8&sz=w1600" alt="" loading="lazy"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=16Qn2CxfsmMURix1kKLuu1y_xB6o_5wPw&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:1.3333333333333333 1 0;aspect-ratio:4896/3672"><img src="https://drive.google.com/thumbnail?id=16Qn2CxfsmMURix1kKLuu1y_xB6o_5wPw&sz=w1600" alt="" loading="lazy"></a></div></div>

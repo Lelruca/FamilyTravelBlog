@@ -1,6 +1,7 @@
 ---
 title: "Virginia Beach - 3"
 type: "trips"
+layout: "photo-story-2013"
 weight: 50
 chapter_kind: "day"
 auto_gallery: false
@@ -22,67 +23,67 @@ places:
 
 <p>Были мы, во-первых, в <b>Аквариуме </b>Вирджинии Бич. Ну так… Не плохо, но ничего выдающегося. Нормальный, средний аквариум. Погулять часик-другой вполне так, но не ах.</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=14Fd8H5Kuu5S8gA2tP_HgLSSsCdqrZtgx&sz=w1600,https://drive.google.com/thumbnail?id=1jc-Nks3LySPk2wchRNPhlWcoCdtKmCps&sz=w1600,https://drive.google.com/thumbnail?id=1iT7WI90m1ui-v00c0s5ETYNuvU-3_Wo1&sz=w1600,https://drive.google.com/thumbnail?id=1VTS2-Rp2draGT7KJYhaYwHCih7zdr7Ey&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1jc-Nks3LySPk2wchRNPhlWcoCdtKmCps&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:1;flex:1.3333333333333333 1 0;aspect-ratio:2048/1536"><img src="https://drive.google.com/thumbnail?id=1jc-Nks3LySPk2wchRNPhlWcoCdtKmCps&sz=w1600" alt="" loading="lazy"></a></div><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=14Fd8H5Kuu5S8gA2tP_HgLSSsCdqrZtgx&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.64;flex:1.3333333333333333 1 0;aspect-ratio:2048/1536"><img src="https://drive.google.com/thumbnail?id=14Fd8H5Kuu5S8gA2tP_HgLSSsCdqrZtgx&sz=w1600" alt="" loading="lazy"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1iT7WI90m1ui-v00c0s5ETYNuvU-3_Wo1&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.36000000000000004;flex:0.75 1 0;aspect-ratio:1536/2048"><img src="https://drive.google.com/thumbnail?id=1iT7WI90m1ui-v00c0s5ETYNuvU-3_Wo1&sz=w1600" alt="" loading="lazy"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1VTS2-Rp2draGT7KJYhaYwHCih7zdr7Ey&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:1;flex:1.3333333333333333 1 0;aspect-ratio:2048/1536"><img src="https://drive.google.com/thumbnail?id=1VTS2-Rp2draGT7KJYhaYwHCih7zdr7Ey&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p>Неожиданно интересным оказался <b>военно-исторический авиационный музей</b> (military aviation museum)! </p>
 
 <p>Там собраны военные самолеты от самых-самых первых, до второй мировой войны. И ВСЕ они в рабочем состоянии! Один раз летом их всех поднимают в воздух, но мы не попали в нужные даты.  </p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1k7WDj8ESE2rIVTj_pNN6MbrJhboxYrgy&sz=w1600,https://drive.google.com/thumbnail?id=1zeOLp6wDZ_FrLjlIQbChv1_LhhfK9e7P&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1k7WDj8ESE2rIVTj_pNN6MbrJhboxYrgy&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.36000000000000004;flex:0.75 1 0;aspect-ratio:1536/2048"><img src="https://drive.google.com/thumbnail?id=1k7WDj8ESE2rIVTj_pNN6MbrJhboxYrgy&sz=w1600" alt="" loading="lazy"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1zeOLp6wDZ_FrLjlIQbChv1_LhhfK9e7P&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.64;flex:1.3333333333333333 1 0;aspect-ratio:2048/1536"><img src="https://drive.google.com/thumbnail?id=1zeOLp6wDZ_FrLjlIQbChv1_LhhfK9e7P&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p>И конечно в музее главное – экскурсовод! И нам несказанно повезло! Когда мы вошли, нас спросили, хотим ли мы ходить самостоятельно, или хотим, чтобы нам рассказали. Мы попросили рассказать. Почти все работники, как мы поняли, это волонтеры, они же бывшие военные пилоты (в этих местах большая военная база, над пляжем тоже пару раз в день пролетают с бешенным ревом военные двойки), «пенсионеры» лет так 40-50 :-) Они же и летают на этих музейных самолетах, они же (или пенсионеры-механики) их чинят и возятся с ними. Вот один такой волонтёр повел нас в зал самолетов 2 мировой войны. И сколько там НАШИХ самолетов! Серега заценил нашу «Чайку» (Поликарпов И-153):</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=17VZMiueXHVkU1HOquhksizM32UHksw2z&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=17VZMiueXHVkU1HOquhksizM32UHksw2z&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:1;flex:1.3333333333333333 1 0;aspect-ratio:2048/1536"><img src="https://drive.google.com/thumbnail?id=17VZMiueXHVkU1HOquhksizM32UHksw2z&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p>А мы с Наташкой и Митькой (фанаты «Небесного тихохода») зависли около самолета ПО-2. Нам рассказали, что далеко не всегда они имеют возможность отследить историю конкретного самолета, а вот про этот ПО-2 они знают, что он принадлежал женскому полку ночных бомбардировщиков:</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1vChoIeDcm0i1Ev8Szf0Msri--gJlRTqA&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1vChoIeDcm0i1Ev8Szf0Msri--gJlRTqA&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:1;flex:1.3333333333333333 1 0;aspect-ratio:2048/1536"><img src="https://drive.google.com/thumbnail?id=1vChoIeDcm0i1Ev8Szf0Msri--gJlRTqA&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p>Ну и конечно самый «крутой» истребитель к концу войны, наш ЯК- 3:</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1yqFw-TFzoBp2V27YqCjWPtHIvyZwzgq1&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1yqFw-TFzoBp2V27YqCjWPtHIvyZwzgq1&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:1;flex:1.3333333333333333 1 0;aspect-ratio:2048/1536"><img src="https://drive.google.com/thumbnail?id=1yqFw-TFzoBp2V27YqCjWPtHIvyZwzgq1&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p>И много других:</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1ZdvklOzTh2n5XkyDfxL8UXwx50SuIIn9&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1ZdvklOzTh2n5XkyDfxL8UXwx50SuIIn9&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:1;flex:1.3333333333333333 1 0;aspect-ratio:2048/1536"><img src="https://drive.google.com/thumbnail?id=1ZdvklOzTh2n5XkyDfxL8UXwx50SuIIn9&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p>А потом нас прервали, т.к. наш волонтёр должен был проводить экскурсию для всех желающих про самолеты 1 мировой войны. Ну и мы конечно тоже пошли.  Экскурсовод начал свой рассказ со слов: «Я фанат самолетостроения времен первой мировой и могу рассказывать об этом часами, т.ч. как только вы устанете, не стесняйтесь, уходите…» Группа была большая, человек 40-60 набралось. Через 2 часа осталась только наша семья и еще двое самых стойких. Да, долго, но ТАК интересно! Я конечно не возьмусь пересказывать, но это та редкая экскурсия, которая просто «открыла мне глаза». Когда мы зашли в ангар, где одни этажерки, казалось как скучно… Ну 10 минут на все посмотреть и все. А вместе со специалистом мы ходили от одного самолета до другого. Уму не постижимо какими ТЕМПАМИ развивалось самолетостроение! Первый самолет появился в начале века, а уже во время 1 мировой он встал на вооружение!</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1cl6cU_yG6jpl8bKIHcmNyi2g_xvp1qqp&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1cl6cU_yG6jpl8bKIHcmNyi2g_xvp1qqp&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:1;flex:1.3333333333333333 1 0;aspect-ratio:2048/1536"><img src="https://drive.google.com/thumbnail?id=1cl6cU_yG6jpl8bKIHcmNyi2g_xvp1qqp&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p> Сначала никто их всерьез не воспринимал, а они летали и разведывали, вели огонь. Потом начали их сбивать, пилоты перестали махать друг другу руками и в сами самолеты стали вставлять пулеметы. А СКОЛЬКО времени потратили чтобы найти способ синхронизовать работу пропеллера и пулемета (чтобы собственный самолет не расстрелять!). И вот так мы ходили от англ. самолетов (у которых были более мощные двигатели) к немецким (у немцев в то время было плохо с ресурсами и они могли двигаться вперед только за счет маневренности…) «А эти тогда придумали триплан, а Фоккер придумал в ответ….» </p>
 
 <p>(Смотрите, было и по 3 крыла, но не пошло):</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1xBBIgDXFvk9S4J0cE6Gj35EIyve9pIMq&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1xBBIgDXFvk9S4J0cE6Gj35EIyve9pIMq&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:1;flex:1.3333333333333333 1 0;aspect-ratio:2048/1536"><img src="https://drive.google.com/thumbnail?id=1xBBIgDXFvk9S4J0cE6Gj35EIyve9pIMq&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p>И не только вся «война в воздухе» перед нами предстала, но именно борьба науки и техники. Начали войну с самолета братьев Райт, а закончили уже с самолетами, с которыми вторую мировую начинали!  </p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1XrinzrB3bpqUwK2KAlRc-rNhvvTI9GR1&sz=w1600,https://drive.google.com/thumbnail?id=1xH74PBaSoh6ol1gZGNmjuGfqda0d75mo&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1XrinzrB3bpqUwK2KAlRc-rNhvvTI9GR1&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:1.3333333333333333 1 0;aspect-ratio:2048/1536"><img src="https://drive.google.com/thumbnail?id=1XrinzrB3bpqUwK2KAlRc-rNhvvTI9GR1&sz=w1600" alt="" loading="lazy"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1xH74PBaSoh6ol1gZGNmjuGfqda0d75mo&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:1.3333333333333333 1 0;aspect-ratio:4896/3672"><img src="https://drive.google.com/thumbnail?id=1xH74PBaSoh6ol1gZGNmjuGfqda0d75mo&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p>Так что рекомендую сам музей, но так же еще раз замечу КАК важно и интересно, когда рассказывает что-то знающий и интересующийся человек! Потом мы до самого закрытия пытались досмотреть самолеты 2 мировой и позже. Нам времени еле-еле хватило :-)</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1tWXQEX2XOB8e4ShDqrNpPpDa_nsqDnar&sz=w1600,https://drive.google.com/thumbnail?id=1gjnMhOgv1maOJwchNrjnu7i6JJiWtSX2&sz=w1600,https://drive.google.com/thumbnail?id=1aVf9S-lyYFR68QD8T5t2ltJsyxOh4vwK&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1tWXQEX2XOB8e4ShDqrNpPpDa_nsqDnar&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:1.3333333333333333 1 0;aspect-ratio:2048/1536"><img src="https://drive.google.com/thumbnail?id=1tWXQEX2XOB8e4ShDqrNpPpDa_nsqDnar&sz=w1600" alt="" loading="lazy"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1gjnMhOgv1maOJwchNrjnu7i6JJiWtSX2&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:1.3333333333333333 1 0;aspect-ratio:2048/1536"><img src="https://drive.google.com/thumbnail?id=1gjnMhOgv1maOJwchNrjnu7i6JJiWtSX2&sz=w1600" alt="" loading="lazy"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1aVf9S-lyYFR68QD8T5t2ltJsyxOh4vwK&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:1;flex:1.3333333333333333 1 0;aspect-ratio:4896/3672"><img src="https://drive.google.com/thumbnail?id=1aVf9S-lyYFR68QD8T5t2ltJsyxOh4vwK&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p>А вот еще один «военно-исторический» наш поход оказался не таким зрелищным и интересным. Может потому что не было кому рассказывать. Хотя нельзя не восхититься размерами и мощью <b>Линкора «Висконсин»</b> (USS Wiscinsin). Это последний линкор военно-морских сил США, который находится на вечной стоянке в музее "Наутикус" в городе Норфолк (фото из интернета стянула, мой объектив не мог вместить):</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1S8CYPQm8a7wdoToCf4j66e3BqGlvV13q&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1S8CYPQm8a7wdoToCf4j66e3BqGlvV13q&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:1;flex:1.471264367816092 1 0;aspect-ratio:2048/1392"><img src="https://drive.google.com/thumbnail?id=1S8CYPQm8a7wdoToCf4j66e3BqGlvV13q&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p>Музей простенький, но для детей интересный. Там можно было и форму на себя примерить (Митька не впечатлился, а вот Наташка отрывалась :-)):</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1BR47kblVKubvKjmq518wehMGzOQQFMOe&sz=w1600,https://drive.google.com/thumbnail?id=12sg3kBwqH_uHjEE4gaZMkQp2gkP7BP7k&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1BR47kblVKubvKjmq518wehMGzOQQFMOe&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:0.75 1 0;aspect-ratio:1536/2048"><img src="https://drive.google.com/thumbnail?id=1BR47kblVKubvKjmq518wehMGzOQQFMOe&sz=w1600" alt="" loading="lazy"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=12sg3kBwqH_uHjEE4gaZMkQp2gkP7BP7k&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:0.75 1 0;aspect-ratio:1536/2048"><img src="https://drive.google.com/thumbnail?id=12sg3kBwqH_uHjEE4gaZMkQp2gkP7BP7k&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p>Можно было морзянку учить:</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1R3jvZKyQKoRwWYRAw9W9cmLvt_eIfgBo&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1R3jvZKyQKoRwWYRAw9W9cmLvt_eIfgBo&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:1;flex:0.75 1 0;aspect-ratio:1536/2048"><img src="https://drive.google.com/thumbnail?id=1R3jvZKyQKoRwWYRAw9W9cmLvt_eIfgBo&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p>Можно было завязывать морские узлы:</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1qImMZ3kw4-OqTgKlCMQ7v5acQikcXzoU&sz=w1600,https://drive.google.com/thumbnail?id=1gQTClv2QPn-xZfgSgH1KhCOoMY1TkCAl&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1qImMZ3kw4-OqTgKlCMQ7v5acQikcXzoU&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:0.75 1 0;aspect-ratio:1536/2048"><img src="https://drive.google.com/thumbnail?id=1qImMZ3kw4-OqTgKlCMQ7v5acQikcXzoU&sz=w1600" alt="" loading="lazy"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1gQTClv2QPn-xZfgSgH1KhCOoMY1TkCAl&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:0.75 1 0;aspect-ratio:1536/2048"><img src="https://drive.google.com/thumbnail?id=1gQTClv2QPn-xZfgSgH1KhCOoMY1TkCAl&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p>Или в специальной камере почувствовать себя в ураганной зоне:</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1jFjJIZbxJ7_fzqjMVdbAIOlfuk-dygic&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1jFjJIZbxJ7_fzqjMVdbAIOlfuk-dygic&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:1;flex:0.75 1 0;aspect-ratio:1536/2048"><img src="https://drive.google.com/thumbnail?id=1jFjJIZbxJ7_fzqjMVdbAIOlfuk-dygic&sz=w1600" alt="" loading="lazy"></a></div></div>
 
 <p>Но лично меня больше всего впечатлила история самого линкора! Линкор был спроектирован в 1938 году, а спущен на воду в 1943. Он был одним из самых крупных кораблей когда-либо построенных. Успел он поучаствовать в войне с Японией, но уже 1948 году был отправлен в резерв – все-таки экипаж был 2000 человек!</p>
 
@@ -92,4 +93,4 @@ places:
 
 <p>Прикольно конечно, познавательно, но как-то не легло…</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1cqpGr2wOUyqHzPjApiEm9BCgiW9zoP1s&sz=w1600,https://drive.google.com/thumbnail?id=1XwhI5JfHXdq4WzOrkiiWaXiPGe_aTzUw&sz=w1600,https://drive.google.com/thumbnail?id=1trs_wo9e8As_iBRJer6h6VHlWoWyoJa2&sz=w1600,https://drive.google.com/thumbnail?id=1WwBSqvKB9Y9Bqt7itD7CFP2nzRP4LqnO&sz=w1600" >}}
+<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1cqpGr2wOUyqHzPjApiEm9BCgiW9zoP1s&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:1.3333333333333333 1 0;aspect-ratio:4896/3672"><img src="https://drive.google.com/thumbnail?id=1cqpGr2wOUyqHzPjApiEm9BCgiW9zoP1s&sz=w1600" alt="" loading="lazy"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1XwhI5JfHXdq4WzOrkiiWaXiPGe_aTzUw&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:1.3333333333333333 1 0;aspect-ratio:2048/1536"><img src="https://drive.google.com/thumbnail?id=1XwhI5JfHXdq4WzOrkiiWaXiPGe_aTzUw&sz=w1600" alt="" loading="lazy"></a></div><div class="essay-row essay-narrow"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1trs_wo9e8As_iBRJer6h6VHlWoWyoJa2&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:0.75 1 0;aspect-ratio:1536/2048"><img src="https://drive.google.com/thumbnail?id=1trs_wo9e8As_iBRJer6h6VHlWoWyoJa2&sz=w1600" alt="" loading="lazy"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1WwBSqvKB9Y9Bqt7itD7CFP2nzRP4LqnO&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:0.75 1 0;aspect-ratio:1536/2048"><img src="https://drive.google.com/thumbnail?id=1WwBSqvKB9Y9Bqt7itD7CFP2nzRP4LqnO&sz=w1600" alt="" loading="lazy"></a></div></div>
