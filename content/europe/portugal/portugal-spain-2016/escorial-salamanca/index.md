@@ -10,8 +10,6 @@ hero_image: "https://drive.google.com/thumbnail?id=1q4h3hNYmyR5gx6ktlzoVRs5YsdZ5
 date: 2016-09-01
 auto_gallery: false
 ---
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1q4h3hNYmyR5gx6ktlzoVRs5YsdZ5yX4t&sz=w1600" >}}
-
 Наш обратный путь в Португалию опять же получился более быстрым. Чем запланировано, вместо двух ночевок по дороге, мы уложились в одну и поэтому оказалась она не в выбранных заранее “по уму” местах, а в “первой попавшейся деревне”, в которой нашлась хорошая гостиница. Но наш довольно насыщенный день по порядку.
 
 Мы решили наши пол-дня в Мадриде променять на посещение Эскориала, называется он монастырь Эскориал, хотя является загородной королевской резиденцией (1 час езды от Мадрида). Я поэтому даже затрудняюсь как его определить. По мне все-таки это загородная резиденция больше, монастырь там мало что напоминает. Но с другой стороны, может быть поэтому там нет “садов с фонтанами” как принято во всех подобных аналогах. Но главное - нам ОЧЕНЬ понравилось (5/5/5/5). Какое-то все очень… испанское, по архитектура :-) Так как это мне бы представлялось. Внутри такой же замечательный аудио-видео гид на таблетке, как и во дворце был. Разделено как-бы на две части и две исторические эпохи. Одно крыло - непосредственно сам дворец Филиппа II, другое более современные апартаменты. Очень впечатляющая библиотека!  Очень большая картинная галерея собрана.Среди картин музея работы Босха, Тинторетто, Веронезе, Ван Дейка, Тициана, Эль Греко.
@@ -20,7 +18,7 @@ auto_gallery: false
 
 Но в целом наше впечатление не испортилось. И наше прощание с испанской столицей оказалось на самом высоком уровне!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1j_CTJbvqDrqD9SYGy2S9QGWZL3m5oWdV&sz=w1600,https://drive.google.com/thumbnail?id=1kx7dvh1pGy043gRRFHx5dwu5cBcXyw6a&sz=w1600,https://drive.google.com/thumbnail?id=1DMFdGF2sLhJRKdzRniPL93U3VxJl9ovk&sz=w1600,https://drive.google.com/thumbnail?id=138MWmaZsbokmbd-eKT43hNQs_5R82eTP&sz=w1600,https://drive.google.com/thumbnail?id=1c4gjY8qXRpjt2PWVb81OWWHmRT-yP6P4&sz=w1600,https://drive.google.com/thumbnail?id=13kQJWej1Vmvc_lTTrQh89uhSjXAJYi4i&sz=w1600,https://drive.google.com/thumbnail?id=1DwydyMNF454omnFhTAbKBEVFZCZbFY73&sz=w1600,https://drive.google.com/thumbnail?id=12BLvFaiNZwULpmDP9ZsS0hlavp54UNIV&sz=w1600,https://drive.google.com/thumbnail?id=1q48lDMWh2LsSpIkOZDicQd76o91e_xOw&sz=w1600" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1j_CTJbvqDrqD9SYGy2S9QGWZL3m5oWdV&sz=w1600,https://drive.google.com/thumbnail?id=1kx7dvh1pGy043gRRFHx5dwu5cBcXyw6a&sz=w1600,https://drive.google.com/thumbnail?id=1DMFdGF2sLhJRKdzRniPL93U3VxJl9ovk&sz=w1600,https://drive.google.com/thumbnail?id=138MWmaZsbokmbd-eKT43hNQs_5R82eTP&sz=w1600,https://drive.google.com/thumbnail?id=1c4gjY8qXRpjt2PWVb81OWWHmRT-yP6P4&sz=w1600,https://drive.google.com/thumbnail?id=13kQJWej1Vmvc_lTTrQh89uhSjXAJYi4i&sz=w1600,https://drive.google.com/thumbnail?id=1q4h3hNYmyR5gx6ktlzoVRs5YsdZ5yX4t&sz=w1600,https://drive.google.com/thumbnail?id=1DwydyMNF454omnFhTAbKBEVFZCZbFY73&sz=w1600,https://drive.google.com/thumbnail?id=12BLvFaiNZwULpmDP9ZsS0hlavp54UNIV&sz=w1600,https://drive.google.com/thumbnail?id=1q48lDMWh2LsSpIkOZDicQd76o91e_xOw&sz=w1600" >}}
 
 Всемирно известная статуя Христа из белого мрамора работы Бенвенуто Челлини - прикрыта тряпицей - церковь...
 

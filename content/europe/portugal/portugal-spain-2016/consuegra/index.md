@@ -9,8 +9,6 @@ hero_image: "https://drive.google.com/thumbnail?id=1BxfaUnhgAdalkrg7CI_Gl61KYJnf
 date: 2016-08-29
 auto_gallery: false
 ---
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1BxfaUnhgAdalkrg7CI_Gl61KYJnfgEiB&sz=w1600" >}}
-
 Изначально планируя свое путешествие по югу Португалии и Испании (Андалусии), мы не думали забираться на север в глубь страны. Но чем больше я знакомилась с такой необычной культурой Андалусии, тем больше у меня возникал вопрос: “А не сложится ли у нас “неправильное” впечатление об Испании, после просмотра в основном арабской архитектуры?” Ведь это была наша первая поездка на Иберийский полуостров и мы хотели сделать ее именно “обще-ознакомительной”. Поэтому, думая как “закольцевать” маршрут, не возвращаясь тем же путем, мы стали смотреть в сторону столицы! Мадрид расположен прямо в центре страны и какими кругами вдоль побережья не ездий, он все “не попадает”. А что лучше всего может дать представление о стране, как не столица?
 
 И вот, сразу после Альгамбры, мы выдвинулись на север!
@@ -29,7 +27,7 @@ auto_gallery: false
 
 Кстати, обратите внимание, я всю дорогу смотрела на эту красную землю и выжженную траву и мне сразу вспоминались цвета (и оттенки!) испанского флага.
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1dTxu8jJqiXBkXLJwRDyUy-f274JdGDx3&sz=w1600,https://drive.google.com/thumbnail?id=1bI7fj5FJpJ5p_bJ1E5fddMdTpaRYt2mX&sz=w1600,https://drive.google.com/thumbnail?id=1eQqNhMNdWMhgLQQGKMFcYm2MEaFl-HjD&sz=w1600,https://drive.google.com/thumbnail?id=1ABSa_BWSOjnUJJKJORwARIpsHCUD3h_5&sz=w1600,https://drive.google.com/thumbnail?id=1Lle6MiSrMm2ucpzLE2sdvzNCuOcrhuOF&sz=w1600,https://drive.google.com/thumbnail?id=1ygWoGeCdQCCH-4w3PYu7get3Sv5xKLJo&sz=w1600,https://drive.google.com/thumbnail?id=1QqGOqvcAS813y3kVyFCNi_TLFBSaTypG&sz=w1600,https://drive.google.com/thumbnail?id=1qYKeS67I4GsjbdNxnoaCdVRz1XLuOsat&sz=w1600,https://drive.google.com/thumbnail?id=1e0w0N4jc8ISR7_Fm3hwVo8A8KE1XCJzL&sz=w1600" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1dTxu8jJqiXBkXLJwRDyUy-f274JdGDx3&sz=w1600,https://drive.google.com/thumbnail?id=1bI7fj5FJpJ5p_bJ1E5fddMdTpaRYt2mX&sz=w1600,https://drive.google.com/thumbnail?id=1eQqNhMNdWMhgLQQGKMFcYm2MEaFl-HjD&sz=w1600,https://drive.google.com/thumbnail?id=1ABSa_BWSOjnUJJKJORwARIpsHCUD3h_5&sz=w1600,https://drive.google.com/thumbnail?id=1Lle6MiSrMm2ucpzLE2sdvzNCuOcrhuOF&sz=w1600,https://drive.google.com/thumbnail?id=1ygWoGeCdQCCH-4w3PYu7get3Sv5xKLJo&sz=w1600,https://drive.google.com/thumbnail?id=1QqGOqvcAS813y3kVyFCNi_TLFBSaTypG&sz=w1600,https://drive.google.com/thumbnail?id=1qYKeS67I4GsjbdNxnoaCdVRz1XLuOsat&sz=w1600,https://drive.google.com/thumbnail?id=1e0w0N4jc8ISR7_Fm3hwVo8A8KE1XCJzL&sz=w1600,https://drive.google.com/thumbnail?id=1BxfaUnhgAdalkrg7CI_Gl61KYJnfgEiB&sz=w1600" >}}
 
 Каждая мельница имеет свое имя, в одну из них можно зайти и посмотреть изнутри, видео расскажет как мельницу “запускают”, как она устроена и работает. На все надо минут 30, не больше, но заехать по дороге очень рекомендую!
 

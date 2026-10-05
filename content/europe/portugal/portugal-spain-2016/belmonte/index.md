@@ -9,8 +9,6 @@ hero_image: "https://drive.google.com/thumbnail?id=1d9ICmiMbw8hW3r9dG3ZxCWaD6Uox
 date: 2016-09-01
 auto_gallery: false
 ---
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1d9ICmiMbw8hW3r9dG3ZxCWaD6UoxdKqY&sz=w1600" >}}
-
 Переехав бывшую границу мы вдруг для себя заметили, что появились деревья вокруг дороги! В испании в основном “выжженная земля”, хотя конечно все ухожено, поля и все такое. Но это красная земля и желтые поля - цвета флага. А тут вдруг опять по сторонам появилась зелень, деревья, то ли оливковые рощи, то ли дубы пробковые... Мы не различаем :-)
 
 А вот и такие интересные попутчики на дороге попадаются. Колорит!
@@ -31,4 +29,4 @@ auto_gallery: false
 
 Утром, перед отъездом мы зашли даже в музей оливкового масла  (3/3/3/3) (в этой деревне несколько музеев!), очень простенький, одна комната, где показано как масло производилось традиционно. Познавательно. А заодно по улицам прошлись и увидели как народ уже во всю работает, кругом стройки, современная техника… Португальская глубинка нас не разочаровала :-)
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1FrB1Dl1tw7JKddV7cWhxqpdnY6RYnoW6&sz=w1600,https://drive.google.com/thumbnail?id=1e9AvfXU7k7D5c3-D1iB5_3lKxbztXM4g&sz=w1600,https://drive.google.com/thumbnail?id=1kWGiFTVwjz7Gy5S9lDYZt9aBfyBKer2I&sz=w1600,https://drive.google.com/thumbnail?id=1x0XHjrOeIc9yiSa_IhaJKEOVFKVixNuI&sz=w1600" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1FrB1Dl1tw7JKddV7cWhxqpdnY6RYnoW6&sz=w1600,https://drive.google.com/thumbnail?id=1d9ICmiMbw8hW3r9dG3ZxCWaD6UoxdKqY&sz=w1600,https://drive.google.com/thumbnail?id=1e9AvfXU7k7D5c3-D1iB5_3lKxbztXM4g&sz=w1600,https://drive.google.com/thumbnail?id=1kWGiFTVwjz7Gy5S9lDYZt9aBfyBKer2I&sz=w1600,https://drive.google.com/thumbnail?id=1x0XHjrOeIc9yiSa_IhaJKEOVFKVixNuI&sz=w1600" >}}

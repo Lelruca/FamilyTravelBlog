@@ -9,8 +9,6 @@ hero_image: "https://drive.google.com/thumbnail?id=1IvuF6Dvs1uzzJNc_QRcdAaGqYGA5
 date: 2016-09-03
 auto_gallery: false
 ---
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1IvuF6Dvs1uzzJNc_QRcdAaGqYGA5kIhv&sz=w1600" >}}
-
 И вот наш последний день в Лиссабоне, бонусный, который не был запланирован заранее, а который получился по просьбе трудящихся в процессе поездки.
 
 И провели его мы так, как хотела Наташа - бесцельно шатаясь по городу :-) ОЧЕНЬ классно получилось кстати. А уж Лиссабон, это город который как нельзя лучше располагает к такому времяпрепровождению.
@@ -23,7 +21,7 @@ auto_gallery: false
 
 А дальше пошли гулять, то в церковь зайдем, то на разных площадях погуляем (там везде даже под ногами красота все время!), то выйдем на набережную, где народ загорает!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1W0rikuNqMxcSfgeYeG4kQzFwmisZ-dSh&sz=w1600,https://drive.google.com/thumbnail?id=1c1g8n1qGpyY2h8UNME10_H_YubjaLfTu&sz=w1600,https://drive.google.com/thumbnail?id=1pusteq70O52uVnW16yBfrcClsQa4o79f&sz=w1600,https://drive.google.com/thumbnail?id=1BaphNpaxEI9v4V22EPKMpwTUceO4Xa8M&sz=w1600,https://drive.google.com/thumbnail?id=1xUWhbYn_eYFru0HUrnCWCyFA1ZibchTt&sz=w1600,https://drive.google.com/thumbnail?id=1ZT0oFWN1pZHl0Fyt5tX6IIeLEELgLpki&sz=w1600,https://drive.google.com/thumbnail?id=1aQhrrVToDDYI4VfJLfAq60fxUG8Pwvnb&sz=w1600,https://drive.google.com/thumbnail?id=1VMgBqUq_pXrgCNRi-ZAPcSZnZDQVZYO2&sz=w1600,https://drive.google.com/thumbnail?id=1damkTFR5kyiBGCS8-vhpaRSn3w5-5amI&sz=w1600" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1W0rikuNqMxcSfgeYeG4kQzFwmisZ-dSh&sz=w1600,https://drive.google.com/thumbnail?id=1c1g8n1qGpyY2h8UNME10_H_YubjaLfTu&sz=w1600,https://drive.google.com/thumbnail?id=1pusteq70O52uVnW16yBfrcClsQa4o79f&sz=w1600,https://drive.google.com/thumbnail?id=1BaphNpaxEI9v4V22EPKMpwTUceO4Xa8M&sz=w1600,https://drive.google.com/thumbnail?id=1xUWhbYn_eYFru0HUrnCWCyFA1ZibchTt&sz=w1600,https://drive.google.com/thumbnail?id=1ZT0oFWN1pZHl0Fyt5tX6IIeLEELgLpki&sz=w1600,https://drive.google.com/thumbnail?id=1IvuF6Dvs1uzzJNc_QRcdAaGqYGA5kIhv&sz=w1600,https://drive.google.com/thumbnail?id=1aQhrrVToDDYI4VfJLfAq60fxUG8Pwvnb&sz=w1600,https://drive.google.com/thumbnail?id=1VMgBqUq_pXrgCNRi-ZAPcSZnZDQVZYO2&sz=w1600,https://drive.google.com/thumbnail?id=1damkTFR5kyiBGCS8-vhpaRSn3w5-5amI&sz=w1600" >}}
 
 А потом зашли в “музей” вина, где покупаешь карточку и потом из автоматов можно пробовать вино разных регионов. Здесь мы наконец попробовали очень дорогой и выдержанный портвейн. КАКОЙ аромат!!!! Придется возвращаться и делать специальный тур посвященный портвейну!
 
