@@ -5,7 +5,7 @@ weight: 120
 city: "Мадрид"
 places:
   - madrid
-hero_image: "https://drive.google.com/thumbnail?id=1y9_ws1Dynejk8cmFFx5WMF65O0N8qPEP&sz=w2000"
+hero_image: "https://drive.google.com/thumbnail?id=16OLiTwE-g-5ZHwZIWxKUpbxjHkTpNdFO&sz=w2000"
 date: 2016-08-30
 auto_gallery: false
 ---

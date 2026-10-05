@@ -5,7 +5,7 @@ weight: 80
 city: "Альмуньекар"
 places:
   - almunecar
-hero_image: "https://drive.google.com/thumbnail?id=1WnPQCMDdKIwE1BF9fMeToOSPD7vBZN5X&sz=w2000"
+hero_image: "https://drive.google.com/thumbnail?id=1HVxtyKNOFpos7qiPIxoDe0Y4I5qBym_h&sz=w2000"
 date: 2016-08-27
 auto_gallery: false
 ---

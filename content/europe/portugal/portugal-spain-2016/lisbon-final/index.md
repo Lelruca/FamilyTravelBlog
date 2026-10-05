@@ -5,17 +5,17 @@ weight: 160
 city: "Лиссабон"
 places:
   - lisbon
-hero_image: "https://drive.google.com/thumbnail?id=1BaphNpaxEI9v4V22EPKMpwTUceO4Xa8M&sz=w2000"
+hero_image: "https://drive.google.com/thumbnail?id=1IvuF6Dvs1uzzJNc_QRcdAaGqYGA5kIhv&sz=w2000"
 date: 2016-09-03
 auto_gallery: false
 ---
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1BaphNpaxEI9v4V22EPKMpwTUceO4Xa8M&sz=w1600" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1IvuF6Dvs1uzzJNc_QRcdAaGqYGA5kIhv&sz=w1600" >}}
 
 И вот наш последний день в Лиссабоне, бонусный, который не был запланирован заранее, а который получился по просьбе трудящихся в процессе поездки.
 
 И провели его мы так, как хотела Наташа - бесцельно шатаясь по городу :-) ОЧЕНЬ классно получилось кстати. А уж Лиссабон, это город который как нельзя лучше располагает к такому времяпрепровождению.
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=15LFOeaSi76U0IU9YgjneJizWvCAQh9X2&sz=w1600,https://drive.google.com/thumbnail?id=1PKsECjfqjOgXGBMottfcb34CMQE86Pyq&sz=w1600,https://drive.google.com/thumbnail?id=1WHacAXH7N2AiBs6BKSrXQlj9Xpy6W7Yo&sz=w1600" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=15LFOeaSi76U0IU9YgjneJizWvCAQh9X2&sz=w1600,https://drive.google.com/thumbnail?id=1PKsECjfqjOgXGBMottfcb34CMQE86Pyq&sz=w1600,https://drive.google.com/thumbnail?id=1WHacAXH7N2AiBs6BKSrXQlj9Xpy6W7Yo&sz=w1600,https://drive.google.com/thumbnail?id=1P5uZ3-HmQ5H2GiR8_JT2eZ4Q1KpX-IeH&sz=w1600" >}}
 
 Начали мы с неспешного завтрака в знаменитом кафе «Бразилейра» - гулять так гулять! Это одно из самых известных кафе в Лиссабоне было открыто в 1905 году. Оно внутри выполнено в стиле арт-нуво, а славится тем, что в начале 20 века здесь тусовалась местная богема. Среди посетителей можно заметить фигуру Фернандо Пессоа.
 
@@ -23,7 +23,7 @@ auto_gallery: false
 
 А дальше пошли гулять, то в церковь зайдем, то на разных площадях погуляем (там везде даже под ногами красота все время!), то выйдем на набережную, где народ загорает!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1W0rikuNqMxcSfgeYeG4kQzFwmisZ-dSh&sz=w1600,https://drive.google.com/thumbnail?id=1VZMr7_meH19MxkAkBur5dZKBf7ivx8JY&sz=w1600,https://drive.google.com/thumbnail?id=1c1g8n1qGpyY2h8UNME10_H_YubjaLfTu&sz=w1600,https://drive.google.com/thumbnail?id=1pusteq70O52uVnW16yBfrcClsQa4o79f&sz=w1600,https://drive.google.com/thumbnail?id=1xUWhbYn_eYFru0HUrnCWCyFA1ZibchTt&sz=w1600,https://drive.google.com/thumbnail?id=1ZT0oFWN1pZHl0Fyt5tX6IIeLEELgLpki&sz=w1600,https://drive.google.com/thumbnail?id=1IvuF6Dvs1uzzJNc_QRcdAaGqYGA5kIhv&sz=w1600,https://drive.google.com/thumbnail?id=1aQhrrVToDDYI4VfJLfAq60fxUG8Pwvnb&sz=w1600,https://drive.google.com/thumbnail?id=1VMgBqUq_pXrgCNRi-ZAPcSZnZDQVZYO2&sz=w1600,https://drive.google.com/thumbnail?id=1damkTFR5kyiBGCS8-vhpaRSn3w5-5amI&sz=w1600" >}}
+{{< photoscroller items="https://drive.google.com/thumbnail?id=1W0rikuNqMxcSfgeYeG4kQzFwmisZ-dSh&sz=w1600,https://drive.google.com/thumbnail?id=1VZMr7_meH19MxkAkBur5dZKBf7ivx8JY&sz=w1600,https://drive.google.com/thumbnail?id=1c1g8n1qGpyY2h8UNME10_H_YubjaLfTu&sz=w1600,https://drive.google.com/thumbnail?id=1pusteq70O52uVnW16yBfrcClsQa4o79f&sz=w1600,https://drive.google.com/thumbnail?id=1BaphNpaxEI9v4V22EPKMpwTUceO4Xa8M&sz=w1600,https://drive.google.com/thumbnail?id=1xUWhbYn_eYFru0HUrnCWCyFA1ZibchTt&sz=w1600,https://drive.google.com/thumbnail?id=1ZT0oFWN1pZHl0Fyt5tX6IIeLEELgLpki&sz=w1600,https://drive.google.com/thumbnail?id=1aQhrrVToDDYI4VfJLfAq60fxUG8Pwvnb&sz=w1600,https://drive.google.com/thumbnail?id=1VMgBqUq_pXrgCNRi-ZAPcSZnZDQVZYO2&sz=w1600,https://drive.google.com/thumbnail?id=1damkTFR5kyiBGCS8-vhpaRSn3w5-5amI&sz=w1600" >}}
 
 А потом зашли в “музей” вина, где покупаешь карточку и потом из автоматов можно пробовать вино разных регионов. Здесь мы наконец попробовали очень дорогой и выдержанный портвейн. КАКОЙ аромат!!!! Придется возвращаться и делать специальный тур посвященный портвейну!
 
@@ -46,8 +46,6 @@ auto_gallery: false
 {{< photoscroller items="https://drive.google.com/thumbnail?id=112i5cw1_Op3jOwc2XmDtKt9NvRRCbGwA&sz=w1600,https://drive.google.com/thumbnail?id=1FVI0OZCBYAxJySPQphQzsxn8GMtlzA-J&sz=w1600,https://drive.google.com/thumbnail?id=1P8enJfUE3iEcgYnmo8r82fgDM8Z580PM&sz=w1600,https://drive.google.com/thumbnail?id=1DCiz318206YAykDTPwNMlJgTI8jAuTqf&sz=w1600" >}}
 
 И все-таки шикарный город Лиссабон! Прекрасная, интересная и самобытная стран Португалия! И не сильно дорогая ;-) Поэтому от всей души рекомендую!!! Сюда нас тянет возвращаться и просто на пляжный отдых, и  север досмотреть надо.
-
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1P5uZ3-HmQ5H2GiR8_JT2eZ4Q1KpX-IeH&sz=w1600" >}}
 
 Испания - это ДЕРЖАВА другого уровня наверно. Там еще столько культурных жемчужин осталось, начиная с Барселоны и конечно мы туда вернемся, она нам очень понравилась, но… душа прикипела к Португалии :-)
 

@@ -6,7 +6,7 @@ city: "Гранада"
 places:
   - granada
   - alhambra
-hero_image: "https://drive.google.com/thumbnail?id=14z-mJ6sMte63oRsXYuTVDaakuUPbqj_Z&sz=w2000"
+hero_image: "https://drive.google.com/thumbnail?id=1NKw8jMjf89yP_q7WKEcMFivRxG7HaLje&sz=w2000"
 date: 2016-08-28
 auto_gallery: false
 ---

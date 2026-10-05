@@ -6,7 +6,7 @@ city: "Херес и Севилья"
 places:
   - jerez
   - seville
-hero_image: "https://drive.google.com/thumbnail?id=1QtG-pWwcbZaWsY_O6jC3aFBpUsV0DjPm&sz=w2000"
+hero_image: "https://drive.google.com/thumbnail?id=1hPCpbe_cSFBPwwb-c3eetlTkuAIYcbSJ&sz=w2000"
 date: 2016-08-24
 auto_gallery: false
 ---

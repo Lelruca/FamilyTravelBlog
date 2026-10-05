@@ -5,7 +5,7 @@ weight: 70
 city: "Севилья"
 places:
   - seville
-hero_image: "https://drive.google.com/thumbnail?id=1jYyG_faV99aHtsqFNodWo3gAgPLakVsW&sz=w2000"
+hero_image: "https://drive.google.com/thumbnail?id=1wHd450dK-I5f2VhVgmhv4Mg8PflIdjh3&sz=w2000"
 date: 2016-08-25
 auto_gallery: false
 ---

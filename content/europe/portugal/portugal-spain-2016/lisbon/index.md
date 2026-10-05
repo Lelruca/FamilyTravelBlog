@@ -5,7 +5,7 @@ weight: 20
 city: "Лиссабон"
 places:
   - lisbon
-hero_image: "https://drive.google.com/thumbnail?id=1O3hqvRnhhVcFh35jfeVj_0ragUsVOiWN&sz=w2000"
+hero_image: "https://drive.google.com/thumbnail?id=1plnyPhseSPX17bCV-vC2Zd6Gr-GDC1fd&sz=w2000"
 date: 2016-08-21
 auto_gallery: false
 ---

@@ -5,7 +5,7 @@ weight: 40
 city: "Аррайолуш"
 places:
   - arraiolos
-hero_image: "https://drive.google.com/thumbnail?id=1ztC4jnP6Ke3EpwOMygoLy-7su4gh2EkD&sz=w2000"
+hero_image: "https://drive.google.com/thumbnail?id=1fv0oSoqx2AobnvdsGC8Py1tbuo1koelf&sz=w2000"
 date: 2016-08-22
 auto_gallery: false
 ---

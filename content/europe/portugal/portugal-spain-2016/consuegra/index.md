@@ -5,7 +5,7 @@ weight: 100
 city: "Консуэгра"
 places:
   - consuegra
-hero_image: "https://drive.google.com/thumbnail?id=1eVIhdg_Sve9ujBqlRJZGfBFGop2ZpePq&sz=w2000"
+hero_image: "https://drive.google.com/thumbnail?id=1BxfaUnhgAdalkrg7CI_Gl61KYJnfgEiB&sz=w2000"
 date: 2016-08-29
 auto_gallery: false
 ---
