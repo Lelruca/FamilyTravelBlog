@@ -21,9 +21,10 @@
   {{- end -}}
   <div class="flex-1 min-w-0">
     <div class="flex items-center gap-2 text-xs text-neutral-400 mb-1">
-      <span class="uppercase tracking-wide">{{ $ch.Params.chapter_kind | default "chapter" }}</span>
-      {{- with $ch.Params.day_num }}<span>· Day {{ . }}</span>{{ end -}}
-      {{- with $ch.Params.city }}<span>· {{ . }}</span>{{ end -}}
+      {{- /* chapter number within its trip (by weight) */ -}}
+      {{- $num := 0 -}}
+      {{- with $ch.Parent -}}{{- range $i, $p := .Pages.ByWeight -}}{{- if eq $p.RelPermalink $ch.RelPermalink -}}{{- $num = add $i 1 -}}{{- end -}}{{- end -}}{{- end -}}
+      {{- if $num }}<span class="uppercase tracking-wide">Глава {{ $num }}</span>{{ end -}}
     </div>
     <h3 class="font-medium text-neutral-800 group-hover:text-accent transition-colors truncate">{{ $ch.Title }}</h3>
     {{- with $ch.Params.summary }}

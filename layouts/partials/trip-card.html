@@ -37,7 +37,7 @@
   </div>
   <div class="p-4 bg-white">
     <div class="flex items-center gap-2 text-xs text-neutral-500 mb-1">
-      <span>{{ $trip.Params.country }}</span>
+      <span>{{ with $trip.Parent }}{{ .Title }}{{ else }}{{ $trip.Params.country }}{{ end }}</span>
       <span>·</span>
       <span>{{ $trip.Params.trip_year }}</span>
     </div>

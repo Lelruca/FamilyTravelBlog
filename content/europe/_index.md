@@ -1,3 +1,3 @@
 ---
-title: "Europe"
+title: "Европа"
 ---

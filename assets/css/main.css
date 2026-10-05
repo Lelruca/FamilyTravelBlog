@@ -102,8 +102,15 @@
     @apply absolute top-3 right-3 md:top-4 md:right-4 text-white/90 hover:text-white text-3xl leading-none;
   }
 
-  .photo-lightbox-caption {
-    @apply absolute left-4 right-4 bottom-3 md:bottom-4 text-center text-sm text-white/90;
+  .photo-lightbox-nav {
+    @apply absolute top-1/2 -translate-y-1/2 z-10 flex h-12 w-12 items-center justify-center rounded-full bg-black/40 text-3xl leading-none text-white/90 hover:bg-black/60 hover:text-white;
+  }
+
+  .photo-lightbox-prev { @apply left-1 md:left-2; }
+  .photo-lightbox-next { @apply right-1 md:right-2; }
+
+  .photo-lightbox-counter {
+    @apply absolute left-0 right-0 -bottom-7 text-center text-sm text-white/70;
   }
 
   .photo-scroller {

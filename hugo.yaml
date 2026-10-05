@@ -38,12 +38,10 @@ params:
 # Auto-set type: "trips" on all pages that are 3+ levels deep
 # (continent/country/trip/chapter) so they use layouts/trips/
 cascade:
-  - _target:
-      path: "{europe,asia,americas,africa,oceania,australia}/*/*/**"
-    params:
-      type: "trips"
-  - _target:
-      path: "{europe,asia,americas,africa,oceania,australia}/*/**"
+  - target:
+      path: "{/europe,/asia,/americas,/africa,/oceania,/australia}/*/*/**"
+    type: "trips"
+  - target:
+      path: "{/europe,/asia,/americas,/africa,/oceania,/australia}/*/**"
       kind: "section"
-    params:
-      type: "trips"
+    type: "trips"

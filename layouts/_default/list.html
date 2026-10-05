@@ -36,7 +36,7 @@
       <a href="{{ .RelPermalink }}" class="p-4 rounded-lg border border-neutral-200 hover:border-accent hover:text-accent transition-colors font-medium">
         <span class="block text-2xl mb-2" aria-hidden="true">{{ $flag }}</span>
         {{ .Title }}
-        <span class="block text-xs text-neutral-400 font-normal mt-1">{{ $count }} trip{{ if ne $count 1 }}s{{ end }}</span>
+        <span class="block text-xs text-neutral-400 font-normal mt-1">{{ $count }} {{ $m10 := mod $count 10 }}{{ $m100 := mod $count 100 }}{{ if and (eq $m10 1) (ne $m100 11) }}поездка{{ else if and (ge $m10 2) (le $m10 4) (or (lt $m100 12) (gt $m100 14)) }}поездки{{ else }}поездок{{ end }}</span>
       </a>
       {{- end }}
     </div>

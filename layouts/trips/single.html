@@ -1,5 +1,11 @@
 {{ define "main" }}
 {{- $ch := . -}}
+{{- $trip := $ch.Parent -}}
+{{- $chapters := $trip.Pages.ByWeight -}}
+{{- $idx := -1 -}}
+{{- range $i, $p := $chapters -}}{{- if eq $p.RelPermalink $ch.RelPermalink -}}{{- $idx = $i -}}{{- end -}}{{- end -}}
+{{- $prev := cond (gt $idx 0) (index $chapters (sub $idx 1)) nil -}}
+{{- $next := cond (and (ge $idx 0) (lt (add $idx 1) (len $chapters))) (index $chapters (add $idx 1)) nil -}}
 
 {{ partial "hero.html" $ch }}
 
@@ -14,11 +20,9 @@
 
     <article>
       <header class="mb-8">
-        <div class="flex flex-wrap items-center gap-2 text-xs text-neutral-400 uppercase tracking-wide mb-3">
-          <span>{{ $ch.Params.chapter_kind | default "chapter" }}</span>
-          {{- with $ch.Params.day_num }}<span>· Day {{ . }}</span>{{ end }}
-          {{- with $ch.Params.city }}<span>· {{ . }}</span>{{ end }}
-          {{- with $ch.Params.date }}<span>· {{ . | time.Format "2 January 2006" }}</span>{{ end }}
+        <div class="flex flex-wrap items-center gap-2 text-sm text-neutral-400 mb-3">
+          <a href="{{ $trip.RelPermalink }}" class="hover:text-accent transition-colors">{{ $trip.Title }}</a>
+          {{- if ge $idx 0 }}<span class="text-xs uppercase tracking-wide">· Глава {{ add $idx 1 }} из {{ len $chapters }}</span>{{ end }}
         </div>
         <h1 class="font-serif text-3xl md:text-4xl font-bold text-accent leading-tight">{{ $ch.Title }}</h1>
       </header>
@@ -32,19 +36,20 @@
       {{- end }}
 
       {{- /* Prev / Next navigation */}}
-      <nav class="flex justify-between gap-4 mt-16 pt-8 border-t border-neutral-200" aria-label="Chapter navigation">
-        {{- with $ch.PrevInSection }}
-        <a href="{{ .RelPermalink }}" class="group flex-1 text-left">
-          <span class="text-xs text-neutral-400 block mb-1">← Previous</span>
+      <nav class="grid grid-cols-3 items-start gap-4 mt-16 pt-8 border-t border-neutral-200" aria-label="Навигация по главам">
+        {{- with $prev }}
+        <a href="{{ .RelPermalink }}" class="group text-left">
+          <span class="text-xs text-neutral-400 block mb-1">← Предыдущая глава</span>
           <span class="font-medium group-hover:text-accent transition-colors">{{ .Title }}</span>
         </a>
-        {{- else }}<div class="flex-1"></div>{{ end }}
-        {{- with $ch.NextInSection }}
-        <a href="{{ .RelPermalink }}" class="group flex-1 text-right">
-          <span class="text-xs text-neutral-400 block mb-1">Next →</span>
+        {{- else }}<div></div>{{ end }}
+        <a href="{{ $trip.RelPermalink }}" class="text-center text-sm text-neutral-500 hover:text-accent transition-colors pt-4">Оглавление</a>
+        {{- with $next }}
+        <a href="{{ .RelPermalink }}" class="group text-right">
+          <span class="text-xs text-neutral-400 block mb-1">Следующая глава →</span>
           <span class="font-medium group-hover:text-accent transition-colors">{{ .Title }}</span>
         </a>
-        {{- end }}
+        {{- else }}<div></div>{{ end }}
       </nav>
 
       {{- /* Optional Giscus comments */}}
@@ -61,7 +66,7 @@
           data-emit-metadata="0"
           data-input-position="bottom"
           data-theme="light"
-          data-lang="en"
+          data-lang="ru"
           crossorigin="anonymous"
           async>
         </script>

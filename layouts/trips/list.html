@@ -8,9 +8,9 @@
 
   <header class="mb-8">
     <div class="flex flex-wrap items-center gap-3 text-sm text-neutral-500 mb-2">
-      <span class="uppercase tracking-widest text-xs">{{ $trip.Params.continent }}</span>
+      <span class="uppercase tracking-widest text-xs">{{ with $trip.Parent }}{{ with .Parent }}{{ .Title }}{{ end }}{{ end }}</span>
       <span>·</span>
-      <span>{{ $trip.Params.country }}</span>
+      <span>{{ with $trip.Parent }}{{ .Title }}{{ end }}</span>
       <span>·</span>
       <span>{{ $trip.Params.trip_year }}</span>
     </div>
@@ -22,7 +22,7 @@
   </header>
 
   <section>
-    <h2 class="text-xs font-semibold uppercase tracking-widest text-neutral-400 mb-4">Chapters</h2>
+    <h2 class="text-xs font-semibold uppercase tracking-widest text-neutral-400 mb-4">Главы</h2>
     <div class="space-y-3">
       {{- $pages := slice -}}
       {{- range site.RegularPages -}}
