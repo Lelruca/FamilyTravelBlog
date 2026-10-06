@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Тамплиеры — прототип</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#f8f6f1; --ink:#23241f; --muted:#77736a; --line:#e7e3da; --tile:#e8e5dd; --accent:#a8552e;
+  --text-w:660px; --wide-w:1160px; --gap:8px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){--paper:#1a1a17; --ink:#ebe7de; --muted:#9a958a; --line:#302e29; --tile:#2a2925; --accent:#e0905f}
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 18px/1.75 "Golos Text",Arial,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+
+/* header + hero: title beside the whole (square) photo, nothing cropped */
+.site{max-width:var(--wide-w);margin:0 auto;padding:22px;display:flex;justify-content:space-between;font:600 15px Manrope,sans-serif}
+.site nav{display:flex;gap:22px;font-weight:500;font-size:13px;color:var(--muted)}
+.site a{text-decoration:none}
+.hero{max-width:var(--text-w);margin:20px auto 0;padding:0 22px}
+.hero .ph{aspect-ratio:var(--ar);margin-top:24px}
+.kicker{font:600 12px Manrope,sans-serif;letter-spacing:.18em;text-transform:uppercase;color:var(--accent)}
+.hero h1{font:600 clamp(34px,4.6vw,60px)/1.06 Manrope,sans-serif;letter-spacing:-.02em;margin:12px 0 16px}
+.hero .meta{display:flex;flex-wrap:wrap;gap:8px 22px;font:500 14px Manrope,sans-serif;color:var(--muted)}
+.hero .meta a{color:var(--ink);border-bottom:1px solid var(--line);padding-bottom:1px;text-decoration:none}
+
+/* story */
+main{padding:40px 0 24px}
+main p{max-width:var(--text-w);margin:0 auto 1.2em;padding:0 22px}
+
+.ph{position:relative;display:block;overflow:hidden;background:var(--tile);border-radius:2px;cursor:zoom-in}
+.ph img{display:block;width:100%;height:100%;object-fit:cover;transition:filter .2s}
+.ph:hover img{filter:brightness(.93)}
+.cap{position:absolute;left:0;right:0;bottom:0;padding:40px 16px 14px;color:#fff;font:500 15px/1.4 Manrope,sans-serif;background:linear-gradient(transparent,rgba(0,0,0,.62))}
+
+/* justified rows */
+.mosaic{max-width:var(--wide-w);margin:34px auto 42px;padding:0 22px;display:flex;flex-wrap:wrap;justify-content:center;gap:var(--gap)}
+main p.rowcap{max-width:var(--wide-w);margin:-30px auto 42px;font:italic 400 14px/1.5 Manrope,sans-serif;color:var(--muted);text-align:left}
+main p.rowcap::before{content:"— "}
+.rows{margin:34px 0 42px}
+.rows .mosaic{margin:0 auto var(--gap)}
+.mosaic.narrow,main p.rowcap.narrow{max-width:var(--text-w)}
+
+/* bento for square photos */
+.bento{max-width:var(--wide-w);margin:34px auto 42px;padding:0 22px;display:grid;grid-template-columns:repeat(4,1fr);grid-auto-flow:row dense;gap:var(--gap)}
+.bento .ph{aspect-ratio:1}
+.bento .big{grid-column:span 2;grid-row:span 2}
+.bento .big.L{grid-column:1 / span 2}
+.bento .big.R{grid-column:3 / span 2}
+.bento .tall{grid-row:span 2;aspect-ratio:auto}
+
+.single{max-width:var(--text-w);margin:30px auto 38px;padding:0 22px}
+.single .ph{aspect-ratio:var(--ar)}
+
+/* wide photo: same width as the mosaics, whole frame, never cropped */
+div.bleed{max-width:var(--wide-w);margin:40px auto var(--gap);padding:0 22px}
+div.bleed + .mosaic,div.bleed + .rows,div.bleed + .bento{margin-top:0}
+.bleed .ph{aspect-ratio:var(--ar)}
+
+/* chapter end */
+.chapnav{max-width:var(--text-w);margin:60px auto 0;padding:30px 22px 90px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:24px;font:500 15px/1.4 Manrope,sans-serif}
+.chapnav a{text-decoration:none}
+.chapnav small{display:block;color:var(--muted);font-size:12px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:6px}
+
+/* Было */
+#classic{display:none;max-width:860px;margin:0 auto;padding:40px 22px 90px;font:400 17px/1.7 Inter,Arial,sans-serif}
+#classic h1{font:600 32px Manrope,sans-serif}
+#classic p{margin:0 0 1.1em}
+.strip{display:flex;gap:8px;overflow-x:auto;margin:18px 0 26px;padding-bottom:6px}
+.strip img{height:280px;border-radius:6px;flex:none}
+body.old #classic{display:block}
+body.old #modern{display:none}
+
+.switch{position:fixed;z-index:20;bottom:16px;left:50%;transform:translateX(-50%);display:flex;background:rgba(30,29,26,.7);backdrop-filter:blur(10px);border-radius:999px;padding:4px;font:600 13px Manrope,sans-serif;box-shadow:0 4px 20px rgba(0,0,0,.2)}
+.switch button{border:0;background:none;color:#fff;padding:7px 15px;border-radius:999px;cursor:pointer;font:inherit}
+.switch button[aria-pressed="true"]{background:#fff;color:#222}
+
+/* lightbox */
+.lb{position:fixed;inset:0;z-index:50;background:rgba(18,18,16,.97);display:none;align-items:center;justify-content:center}
+.lb.open{display:flex}
+.lb img{max-width:94vw;max-height:86vh;object-fit:contain}
+.lb button{position:absolute;width:46px;height:46px;border:0;border-radius:50%;background:rgba(255,255,255,.1);color:#fff;font:400 26px Manrope,sans-serif;cursor:pointer}
+.lb .prev{left:14px;top:50%}.lb .next{right:14px;top:50%}.lb .close{top:14px;right:14px}
+.lb .count{position:absolute;bottom:16px;left:0;right:0;text-align:center;color:#bbb;font:13px Manrope,sans-serif}
+
+@media (max-width:700px){
+  body{font-size:17px}
+  :root{--gap:5px}
+  .site nav{display:none}
+  .mosaic,.bento{padding:0 12px;margin:24px auto 32px}
+  .bento{grid-template-columns:repeat(2,1fr)}
+  .bento .big.L,.bento .big.R{grid-column:1 / span 2;grid-row:span 1}
+  .bento .tall{aspect-ratio:1/2}
+  .single .ph{width:100%}
+  .hero{margin-top:12px}
+  .hero .ph{margin:26px -10px 0}
+  .single{padding:0 12px}
+  div.bleed{padding:0 12px}
+  .cap{font-size:13px;padding:30px 12px 10px}
+  main p.rowcap{margin-top:-22px}
+  .strip img{height:200px}
+}
+</style>
+</head>
+<body>
+<div class="switch" role="group" aria-label="Сравнение">
+  <button type="button" data-v="old" aria-pressed="false">Было</button>
+  <button type="button" data-v="new" aria-pressed="true">Стало</button>
+</div>
+
+<div id="modern">
+  <div class="site"><a href="#">Наши путешествия</a><nav><a href="#">По странам</a><a href="#">По годам</a><a href="#">Места</a></nav></div>
+  <header class="hero">
+    <div class="hero-text">
+      <div class="kicker">Португалия — Испания · 2016</div>
+      <h1>Тамплиеры! (Томар - Баталья - Назаре)</h1>
+      <div class="meta"><span>Глава 15 из 16</span><span>2 сентября 2016</span><a href="#">Оглавление поездки</a></div>
+    </div>
+    <div class="ph" style="--ar:1;cursor:default"><img src="https://lh3.googleusercontent.com/d/1_-J1Z1wYgO0zUahfxl8J2Y4bWE1KWbYH=w1400" alt=""></div>
+  </header>
+
+  <main>
+<p>Convent of Christ (5/5/5/4) - “Главная твердыня португальских тамплиеров и их наследников, ордена Христа. Заложена в качестве орденского замка в XII веке, позднее обращена в монастырь.”</p>
+<p>Еще одно чрезвычайно романтичное место, которое мы все мечтали посетить! Замок Тамплиеров!!! КАК звучит!!! Когда тамплиеров разогнали во Франции и распустили в целом, то именно в Португалии они нашли поддержку и там же был основан Орден</p>
+<p>Христа с центром как раз в Томаре!</p>
+<div class="mosaic"><a class="ph " href="https://lh3.googleusercontent.com/d/1bEz9pv88jw2TGkvmIhJtPM6xQ47w7Ton=w2000" data-i="0" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1bEz9pv88jw2TGkvmIhJtPM6xQ47w7Ton=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1Y-BymM2YNyL1Mw2zWUL1axo4c7l7wmjA=w2000" data-i="1" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1Y-BymM2YNyL1Mw2zWUL1axo4c7l7wmjA=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1laoH7uHszdIuT_mP92e0TjQhZDd6R4cT=w2000" data-i="2" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1laoH7uHszdIuT_mP92e0TjQhZDd6R4cT=w900" alt=""></a></div>
+<p>Я бы сказала, что мы прибыли в Замок Христа с чувством некого благоговения, когда ты чувствуешь соприкосновение с чем-то особенным. Тем более не раз экскурсоводы в начале нашего путешествия и в Лиссабоне, и в Синтре ссылались на это место, что вот и тот, и этот архитектурный фрагмент имеет корни в тамарском замке. И еще говорили, что в замке можно легко запутаться.</p>
+<div class="rows"><div class="mosaic fill"><a class="ph " href="https://lh3.googleusercontent.com/d/18H6KRE4bbB3EoYgj-xbKnhUvFAzoGVwv=w2000" data-i="3" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/18H6KRE4bbB3EoYgj-xbKnhUvFAzoGVwv=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1yarGowI4-gQcp1JYmw0nk_5YvI5rQpdu=w2000" data-i="4" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1yarGowI4-gQcp1JYmw0nk_5YvI5rQpdu=w900" alt=""></a></div></div>
+<p>А вот организация посещения оставляет желать лучшего. Тут тебе не Испания с аудио-видео гидами… Тут аудиогидов всего то ли 5, то ли 10, короче к нашему приходу их уже не было (кстати народу не так и много для такого места). Мы КУПИЛИ план замка, но он был очень поверхностный и никакой информации не давал, как и минимальное количество каких-то табличек внутри. И в итоге мы оказались в довольно пустынном замке, без плана, тут же как-то растерялись друг с другом и каждый бродил почти в одиночестве по залам и дворикам полным символических крестов и других знаков, я думаю 90% которых мы даже не замечали. И удивительное дело, с одной стороны это могло бы показаться скучным, в принципе никаких особо шикарных интерьеров или красот, но… завораживает! Магия этого места чувствуется в этих камнях, в запутанных переходах и лесенках. В том, что мы порой могли услышать друг друга, но не увидеть :-)</p>
+<div class="bento"><a class="ph big L" href="https://lh3.googleusercontent.com/d/1_nHT-UbIFYeJ3-XaD84PxFyvX0vt3S2u=w2000" data-i="5" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1_nHT-UbIFYeJ3-XaD84PxFyvX0vt3S2u=w1600" alt=""><span class="cap">мы порой могли услышать друг друга, но не увидеть :-)</span></a><a class="ph " href="https://lh3.googleusercontent.com/d/1tki2FQkuaidlT3M2expwXKeAwF8s1rhF=w2000" data-i="6" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1tki2FQkuaidlT3M2expwXKeAwF8s1rhF=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1T6bOXr99HVJCUMkZeyPyNsWc4eljMnKg=w2000" data-i="7" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1T6bOXr99HVJCUMkZeyPyNsWc4eljMnKg=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1mocIxHoXP-RMvELPpVRnfcC0c4XO39qu=w2000" data-i="8" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1mocIxHoXP-RMvELPpVRnfcC0c4XO39qu=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1nTo6mh4-vbOMHRqpw7MTNbK_a8zYrwtw=w2000" data-i="9" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1nTo6mh4-vbOMHRqpw7MTNbK_a8zYrwtw=w900" alt=""></a><a class="ph big R" href="https://lh3.googleusercontent.com/d/13oWVi9F8pXgXgWsZl5lmy0QZtFU2vSMd=w2000" data-i="10" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/13oWVi9F8pXgXgWsZl5lmy0QZtFU2vSMd=w1600" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1lGRv8Hty1I7B2dLlFM3nxQyk-2loM6CO=w2000" data-i="11" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1lGRv8Hty1I7B2dLlFM3nxQyk-2loM6CO=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/15GJ7Zin7_piXEVuXIIEq3Y3KmVpBzamK=w2000" data-i="12" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/15GJ7Zin7_piXEVuXIIEq3Y3KmVpBzamK=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1NNd5Ucbs0Gj2U-S-fCSZ2veovIEHyUXI=w2000" data-i="13" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1NNd5Ucbs0Gj2U-S-fCSZ2veovIEHyUXI=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1yOZlEq7-j4XaFwSb0evHTo_nH0ZwzVuH=w2000" data-i="14" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1yOZlEq7-j4XaFwSb0evHTo_nH0ZwzVuH=w900" alt=""></a><a class="ph big L" href="https://lh3.googleusercontent.com/d/17yTatWadUG516EYqAci24u6AW6tL0Gsy=w2000" data-i="15" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/17yTatWadUG516EYqAci24u6AW6tL0Gsy=w1600" alt=""></a><a class="ph big R" href="https://lh3.googleusercontent.com/d/1BatPXeoShns5jYr0V5WkCzBiP826WxcA=w2000" data-i="16" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1BatPXeoShns5jYr0V5WkCzBiP826WxcA=w1600" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1sqW30m-wR94uYQNRyVe-xsAwX2Sngzkw=w2000" data-i="17" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1sqW30m-wR94uYQNRyVe-xsAwX2Sngzkw=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1dwkYRwJA6tI6JGgH230Nm2w8QOiRk9pp=w2000" data-i="18" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1dwkYRwJA6tI6JGgH230Nm2w8QOiRk9pp=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1-bO922xt-02yZqdfKnJf2u8FCQbFzg6F=w2000" data-i="19" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1-bO922xt-02yZqdfKnJf2u8FCQbFzg6F=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1_-J1Z1wYgO0zUahfxl8J2Y4bWE1KWbYH=w2000" data-i="20" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1_-J1Z1wYgO0zUahfxl8J2Y4bWE1KWbYH=w900" alt=""></a></div>
+<p>И в заключении мы встретились у знаменитого окна, которое по преданию содержит в себе тайну сокровищ тамплиеров. Вроде даже Англия обещала Португалии простить все долги за это окно… Не отдали :-) И долго ходили вокруг, рассматривали, там СТОЛЬКО деталей!</p>
+<div class="bento"><a class="ph big L" href="https://lh3.googleusercontent.com/d/1NrkXkpkZCtjUoGxxlI7H--1v5-alysI2=w2000" data-i="21" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1NrkXkpkZCtjUoGxxlI7H--1v5-alysI2=w1600" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1KbSojcB7Go_FNWtIFGx5ldbMQ6-tgNZP=w2000" data-i="22" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1KbSojcB7Go_FNWtIFGx5ldbMQ6-tgNZP=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1B90YeHhLlBXGuetmehd7LegFTnri4Wzx=w2000" data-i="23" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1B90YeHhLlBXGuetmehd7LegFTnri4Wzx=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1XvRMfg36RIUQxK8Jy7nZ4W38TCyQtr1i=w2000" data-i="24" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1XvRMfg36RIUQxK8Jy7nZ4W38TCyQtr1i=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1k0gcQWrKnggJuokmqezg-Gtdw0Z4oz_x=w2000" data-i="25" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1k0gcQWrKnggJuokmqezg-Gtdw0Z4oz_x=w900" alt=""></a></div>
+<p>Очень хорошее посещение получилось. Такое спокойное, без толп туристов, без объяснений и понимания того что видишь, но “впитывающее” атмосферу. Я думаю для путешествия хорошо включать вот именно такие моменты…</p>
+<p>Мы вышли такие расслабленные и одухотворенные. На выходе стояли лавченки с фруктами.</p>
+<div class="single"><a class="ph " href="https://lh3.googleusercontent.com/d/1N0CPm5M1XZ1E_WA4nMi8JUvVn3wqqQu0=w2000" data-i="26" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1N0CPm5M1XZ1E_WA4nMi8JUvVn3wqqQu0=w900" alt=""></a></div>
+<p>Доброжелательные дамы дали нам попробовать сначала все что душа просила (мы практически наелись) и потом мы с благодарностью купили себе ФИГИ, причем двух сортов - зеленые побольше и фиолетовые поменьше. Никто из нас раньше фиги сырые и не ел. А эти были такие сладкие, сочные… Короче в настроение нам все совпало.</p>
+<p>На дороге у нас еще был Монастырь Баталья (4/3/4/4), который я выбрала из нескольких других возможных (там просто утыкано все памятниками всемирного наследия ЮНЕСКО!). Но после Томара он нам не пошел. Просто в настроение не попал. Там очень величественная архитектура, внутри красиво, усыпальница… Но… все это мы уже видели в этом путешествии. Поэтому не так впечатлил.</p>
+<div class="bleed"><a class="ph bleed" href="https://lh3.googleusercontent.com/d/1uJH51Pev5P-y56iDJB6CrJWpptYqFir6=w2000" data-i="27" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1uJH51Pev5P-y56iDJB6CrJWpptYqFir6=w1600" alt=""></a></div>
+<div class="bento"><a class="ph big L" href="https://lh3.googleusercontent.com/d/1iaeQCJw2D4NcYZnRbkgbcCAEvHRW4qdS=w2000" data-i="28" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1iaeQCJw2D4NcYZnRbkgbcCAEvHRW4qdS=w1600" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1Rit7IhQq3CN10mjYuo2KNnKXmmETwVkC=w2000" data-i="29" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1Rit7IhQq3CN10mjYuo2KNnKXmmETwVkC=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1bvO76g4FvMTPs9MuPJOYXNiieKBx3yto=w2000" data-i="30" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1bvO76g4FvMTPs9MuPJOYXNiieKBx3yto=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1qwjp1EUyV-shxrFmaKZiWuQdGJvhHGq9=w2000" data-i="31" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1qwjp1EUyV-shxrFmaKZiWuQdGJvhHGq9=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1KjFgvpkwbT10uzhaBoZcjSECnd-3fqp7=w2000" data-i="32" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1KjFgvpkwbT10uzhaBoZcjSECnd-3fqp7=w900" alt=""></a><a class="ph tall" href="https://lh3.googleusercontent.com/d/1-Q5OD5-4AGuBp0-8q7HcZW2S8rMcr4wJ=w2000" data-i="33" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1-Q5OD5-4AGuBp0-8q7HcZW2S8rMcr4wJ=w900" alt=""></a><a class="ph tall" href="https://lh3.googleusercontent.com/d/1X9hnhO8iDEjCWXTxF1K9UomZNfyqh_jr=w2000" data-i="34" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1X9hnhO8iDEjCWXTxF1K9UomZNfyqh_jr=w900" alt=""></a><a class="ph big R" href="https://lh3.googleusercontent.com/d/1XK2v2U2dT72SOVpAN7olTirMEAxk3n3c=w2000" data-i="35" style="--ar:1"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1XK2v2U2dT72SOVpAN7olTirMEAxk3n3c=w1600" alt=""></a></div>
+<p>Нам захотелось еще раз перед отъездом увидеть океан и мы направились в город Назаре (3/4/4/4) просто чтобы посидеть, посмотреть на волны (а именно тут зафиксирован рекорд самых высоких волн) и пообедать. Мы заехали сразу на верхнюю площадку, там куча зазывал - пытаются продать туристам комнату, много лавочек с сувенирами, Наташка купила себе куртку на память. Мы откушали тридионное блюдо - горшочек с “сегодняшним уловом” с картошечкой, выпили сангрии и насладились видами. Ветер был сильный и было даже прохладно. За одно зашли в местную рыбацкую церковь. Все как и положено в Португалии в изразцах :-) Но большее впечатление произвели вдовы, которых было много молящихся, все в черном, много кружевов, солидные сеньоры… Поэтому мы конечно не фотками, а тихо помолились и вышли.</p>
+<div class="bleed"><a class="ph bleed" href="https://lh3.googleusercontent.com/d/1NDeier5yDuVViUG9C859qlfsUW9jWqPK=w2000" data-i="36" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1NDeier5yDuVViUG9C859qlfsUW9jWqPK=w1600" alt=""></a></div>
+<div class="mosaic"><a class="ph " href="https://lh3.googleusercontent.com/d/19iYk1-puSZdwmEA3ynt-qLcqtQ8W20Vy=w2000" data-i="37" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/19iYk1-puSZdwmEA3ynt-qLcqtQ8W20Vy=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1rvaaLBsQLs-tNYZtBRY3VwYdNij7Cdgy=w2000" data-i="38" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1rvaaLBsQLs-tNYZtBRY3VwYdNij7Cdgy=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1Mg8G89W8Z1PnEmMFoZdyaP3wbQ3gfZAZ=w2000" data-i="39" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1Mg8G89W8Z1PnEmMFoZdyaP3wbQ3gfZAZ=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1h3xPWTd8PFQ8h0D5COz85Fb7c31C_ByQ=w2000" data-i="40" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1h3xPWTd8PFQ8h0D5COz85Fb7c31C_ByQ=w900" alt=""></a></div><p class="rowcap" data-for="40">Наташка купила себе куртку на память</p>
+<p>Поехали в Лиссабон, сдавать машинку, которая нас ни разу не подвела за две недели путешествия и заселяться в очередную квартиру. Поскольку заказывали за несколько дней, вышла она нам в 2 раза дороже первой, хотя была не лучше, но и не хуже.</p>
+<div class="mosaic"><a class="ph " href="https://lh3.googleusercontent.com/d/1eIZz7v3fxxBx7XjD_24D8ZX5L7EIA8C8=w2000" data-i="41" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1eIZz7v3fxxBx7XjD_24D8ZX5L7EIA8C8=w900" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/18OaXE_WTdaz9gcSjJ2P4blh9rOjqX9Dp=w2000" data-i="42" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/18OaXE_WTdaz9gcSjJ2P4blh9rOjqX9Dp=w900" alt=""></a></div>
+
+  </main>
+
+  <nav class="chapnav">
+    <a href="#"><small>← Предыдущая</small>Белмонте</a>
+    <a href="#" style="text-align:right"><small>Следующая →</small>Лиссабон - заключительное</a>
+  </nav>
+</div>
+
+<div id="classic">
+  <h1>Тамплиеры! (Томар - Баталья - Назаре)</h1>
+<p>Convent of Christ (5/5/5/4) - “Главная твердыня португальских тамплиеров и их наследников, ордена Христа. Заложена в качестве орденского замка в XII веке, позднее обращена в монастырь.”</p>
+<p>Еще одно чрезвычайно романтичное место, которое мы все мечтали посетить! Замок Тамплиеров!!! КАК звучит!!! Когда тамплиеров разогнали во Франции и распустили в целом, то именно в Португалии они нашли поддержку и там же был основан Орден</p>
+<p>Христа с центром как раз в Томаре!</p>
+<p>Я бы сказала, что мы прибыли в Замок Христа с чувством некого благоговения, когда ты чувствуешь соприкосновение с чем-то особенным. Тем более не раз экскурсоводы в начале нашего путешествия и в Лиссабоне, и в Синтре ссылались на это место, что вот и тот, и этот архитектурный фрагмент имеет корни в тамарском замке. И еще говорили, что в замке можно легко запутаться.</p>
+<p>А вот организация посещения оставляет желать лучшего. Тут тебе не Испания с аудио-видео гидами… Тут аудиогидов всего то ли 5, то ли 10, короче к нашему приходу их уже не было (кстати народу не так и много для такого места). Мы КУПИЛИ план замка, но он был очень поверхностный и никакой информации не давал, как и минимальное количество каких-то табличек внутри. И в итоге мы оказались в довольно пустынном замке, без плана, тут же как-то растерялись друг с другом и каждый бродил почти в одиночестве по залам и дворикам полным символических крестов и других знаков, я думаю 90% которых мы даже не замечали. И удивительное дело, с одной стороны это могло бы показаться скучным, в принципе никаких особо шикарных интерьеров или красот, но… завораживает! Магия этого места чувствуется в этих камнях, в запутанных переходах и лесенках. В том, что мы порой могли услышать друг друга, но не увидеть :-)</p>
+<div class="strip"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1bEz9pv88jw2TGkvmIhJtPM6xQ47w7Ton=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1Y-BymM2YNyL1Mw2zWUL1axo4c7l7wmjA=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1laoH7uHszdIuT_mP92e0TjQhZDd6R4cT=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/18H6KRE4bbB3EoYgj-xbKnhUvFAzoGVwv=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1yarGowI4-gQcp1JYmw0nk_5YvI5rQpdu=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1tki2FQkuaidlT3M2expwXKeAwF8s1rhF=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1T6bOXr99HVJCUMkZeyPyNsWc4eljMnKg=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1mocIxHoXP-RMvELPpVRnfcC0c4XO39qu=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1_nHT-UbIFYeJ3-XaD84PxFyvX0vt3S2u=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1nTo6mh4-vbOMHRqpw7MTNbK_a8zYrwtw=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1lGRv8Hty1I7B2dLlFM3nxQyk-2loM6CO=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/17yTatWadUG516EYqAci24u6AW6tL0Gsy=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/15GJ7Zin7_piXEVuXIIEq3Y3KmVpBzamK=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/13oWVi9F8pXgXgWsZl5lmy0QZtFU2vSMd=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1NNd5Ucbs0Gj2U-S-fCSZ2veovIEHyUXI=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1yOZlEq7-j4XaFwSb0evHTo_nH0ZwzVuH=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1sqW30m-wR94uYQNRyVe-xsAwX2Sngzkw=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1dwkYRwJA6tI6JGgH230Nm2w8QOiRk9pp=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1BatPXeoShns5jYr0V5WkCzBiP826WxcA=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1-bO922xt-02yZqdfKnJf2u8FCQbFzg6F=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1_-J1Z1wYgO0zUahfxl8J2Y4bWE1KWbYH=h480" alt=""></div>
+<p>И в заключении мы встретились у знаменитого окна, которое по преданию содержит в себе тайну сокровищ тамплиеров. Вроде даже Англия обещала Португалии простить все долги за это окно… Не отдали :-) И долго ходили вокруг, рассматривали, там СТОЛЬКО деталей!</p>
+<div class="strip"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1KbSojcB7Go_FNWtIFGx5ldbMQ6-tgNZP=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1NrkXkpkZCtjUoGxxlI7H--1v5-alysI2=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1B90YeHhLlBXGuetmehd7LegFTnri4Wzx=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1XvRMfg36RIUQxK8Jy7nZ4W38TCyQtr1i=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1k0gcQWrKnggJuokmqezg-Gtdw0Z4oz_x=h480" alt=""></div>
+<p>Очень хорошее посещение получилось. Такое спокойное, без толп туристов, без объяснений и понимания того что видишь, но “впитывающее” атмосферу. Я думаю для путешествия хорошо включать вот именно такие моменты…</p>
+<p>Мы вышли такие расслабленные и одухотворенные. На выходе стояли лавченки с фруктами.</p>
+<div class="strip"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1N0CPm5M1XZ1E_WA4nMi8JUvVn3wqqQu0=h480" alt=""></div>
+<p>Доброжелательные дамы дали нам попробовать сначала все что душа просила (мы практически наелись) и потом мы с благодарностью купили себе ФИГИ, причем двух сортов - зеленые побольше и фиолетовые поменьше. Никто из нас раньше фиги сырые и не ел. А эти были такие сладкие, сочные… Короче в настроение нам все совпало.</p>
+<p>На дороге у нас еще был Монастырь Баталья (4/3/4/4), который я выбрала из нескольких других возможных (там просто утыкано все памятниками всемирного наследия ЮНЕСКО!). Но после Томара он нам не пошел. Просто в настроение не попал. Там очень величественная архитектура, внутри красиво, усыпальница… Но… все это мы уже видели в этом путешествии. Поэтому не так впечатлил.</p>
+<div class="strip"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1uJH51Pev5P-y56iDJB6CrJWpptYqFir6=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1iaeQCJw2D4NcYZnRbkgbcCAEvHRW4qdS=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1Rit7IhQq3CN10mjYuo2KNnKXmmETwVkC=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1bvO76g4FvMTPs9MuPJOYXNiieKBx3yto=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1-Q5OD5-4AGuBp0-8q7HcZW2S8rMcr4wJ=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1qwjp1EUyV-shxrFmaKZiWuQdGJvhHGq9=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1KjFgvpkwbT10uzhaBoZcjSECnd-3fqp7=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1XK2v2U2dT72SOVpAN7olTirMEAxk3n3c=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1X9hnhO8iDEjCWXTxF1K9UomZNfyqh_jr=h480" alt=""></div>
+<p>Нам захотелось еще раз перед отъездом увидеть океан и мы направились в город Назаре (3/4/4/4) просто чтобы посидеть, посмотреть на волны (а именно тут зафиксирован рекорд самых высоких волн) и пообедать. Мы заехали сразу на верхнюю площадку, там куча зазывал - пытаются продать туристам комнату, много лавочек с сувенирами, Наташка купила себе куртку на память. Мы откушали тридионное блюдо - горшочек с “сегодняшним уловом” с картошечкой, выпили сангрии и насладились видами. Ветер был сильный и было даже прохладно. За одно зашли в местную рыбацкую церковь. Все как и положено в Португалии в изразцах :-) Но большее впечатление произвели вдовы, которых было много молящихся, все в черном, много кружевов, солидные сеньоры… Поэтому мы конечно не фотками, а тихо помолились и вышли.</p>
+<div class="strip"><img loading="lazy" src="https://lh3.googleusercontent.com/d/19iYk1-puSZdwmEA3ynt-qLcqtQ8W20Vy=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1NDeier5yDuVViUG9C859qlfsUW9jWqPK=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1rvaaLBsQLs-tNYZtBRY3VwYdNij7Cdgy=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1Mg8G89W8Z1PnEmMFoZdyaP3wbQ3gfZAZ=h480" alt=""></div>
+<p>Поехали в Лиссабон, сдавать машинку, которая нас ни разу не подвела за две недели путешествия и заселяться в очередную квартиру. Поскольку заказывали за несколько дней, вышла она нам в 2 раза дороже первой, хотя была не лучше, но и не хуже.</p>
+<div class="strip"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1h3xPWTd8PFQ8h0D5COz85Fb7c31C_ByQ=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1eIZz7v3fxxBx7XjD_24D8ZX5L7EIA8C8=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/18OaXE_WTdaz9gcSjJ2P4blh9rOjqX9Dp=h480" alt=""></div>
+
+</div>
+
+<div class="lb" role="dialog" aria-modal="true" aria-label="Фото">
+  <img alt="">
+  <button class="close" aria-label="Закрыть">×</button>
+  <button class="prev" aria-label="Назад">‹</button>
+  <button class="next" aria-label="Вперёд">›</button>
+  <div class="count"></div>
+</div>
+
+<script>
+// Rows (see DESIGN_PHOTOS.md): every row fills exactly the photo column or the text column, nothing in between.
+function layout(){
+  const target = innerWidth < 700 ? 170 : innerWidth < 1000 ? 240 : 300;
+  const MAX_ROW = 600;
+  document.querySelectorAll('.mosaic').forEach(box=>{
+    const cap=box.nextElementSibling&&box.nextElementSibling.classList.contains('rowcap')?box.nextElementSibling:null;
+    box.classList.remove('narrow'); cap&&cap.classList.remove('narrow');
+    const items=[...box.children], ar=el=>+el.style.getPropertyValue('--ar');
+    const measure=()=>{const cs=getComputedStyle(box);return box.clientWidth-parseFloat(cs.paddingLeft)*2};
+    const gap=parseFloat(getComputedStyle(box).columnGap)||8;
+    let W=measure();
+    const fullH=r=>(W-gap*(r.length-1)-1)/r.reduce((s,el)=>s+ar(el),0);
+    let rows;
+    if(box.classList.contains('fill')) rows=[items];
+    else{
+      rows=[]; let row=[];
+      items.forEach(el=>{row.push(el); if(fullH(row)<=target){rows.push(row);row=[]}});
+      if(row.length){
+        if(rows.length){ // never a lonely short last row: re-split the last two rows evenly
+          const all=rows.pop().concat(row); let best=null;
+          for(let k=1;k<all.length;k++){const p=all.slice(0,k),q=all.slice(k),d=Math.abs(fullH(p)-fullH(q));if(!best||d<best.d)best={d,p,q}}
+          rows.push(best.p,best.q);
+        } else rows.push(row);
+      }
+      // a single row that would be too tall in the photo column goes to the text column
+      if(innerWidth>=700 && rows.length===1 && fullH(rows[0])>MAX_ROW){
+        box.classList.add('narrow'); cap&&cap.classList.add('narrow'); W=measure();
+      }
+    }
+    rows.forEach(r=>{const h=Math.floor(fullH(r)*10)/10;
+      r.forEach(el=>{el.style.width=Math.floor(ar(el)*h*10)/10+'px';el.style.height=h+'px'})});
+  });
+}
+// put each caption exactly under its photo
+function placeCaptions(){
+  document.querySelectorAll('.rowcap[data-for]').forEach(c=>{
+    c.style.paddingLeft=c.style.paddingRight='';
+    const p=document.querySelector('.ph[data-i="'+c.dataset.for+'"]'); if(!p) return;
+    const cr=c.getBoundingClientRect(), pr=p.getBoundingClientRect();
+    c.style.paddingLeft=Math.max(0,pr.left-cr.left)+'px'; c.style.paddingRight=Math.max(0,cr.right-pr.right)+'px';
+  });
+}
+const relayout=()=>{layout();placeCaptions()};
+addEventListener('resize',()=>{clearTimeout(window._t);window._t=setTimeout(relayout,80)});
+relayout();
+
+// Google sometimes refuses an image on first try: retry a few times
+document.querySelectorAll('img').forEach(img=>{let t=0;img.addEventListener('error',()=>{if(t++<3)setTimeout(()=>{img.src=img.src.replace(/=([wh])(\d+)$/,(m,a,w)=>'='+a+(+w+t))},700*t)})});
+
+// lightbox follows the order you see on the page: top to bottom, left to right
+let links=[...document.querySelectorAll('#modern [data-i]')];
+const visualOrder=()=>{links.sort((a,b)=>{const p=a.getBoundingClientRect(),q=b.getBoundingClientRect();return Math.abs(p.top-q.top)>4?p.top-q.top:p.left-q.left})};
+const lb=document.querySelector('.lb'), lbImg=lb.querySelector('img'), cnt=lb.querySelector('.count');
+let cur=0;
+const show=i=>{cur=(i+links.length)%links.length;lbImg.src=links[cur].href;cnt.textContent=(cur+1)+' / '+links.length};
+links.forEach(l=>l.addEventListener('click',e=>{e.preventDefault();visualOrder();show(links.indexOf(l));lb.classList.add('open')}));
+lb.querySelector('.close').onclick=()=>lb.classList.remove('open');
+lb.querySelector('.prev').onclick=()=>show(cur-1);
+lb.querySelector('.next').onclick=()=>show(cur+1);
+lb.addEventListener('click',e=>{if(e.target===lb)lb.classList.remove('open')});
+addEventListener('keydown',e=>{if(!lb.classList.contains('open'))return;if(e.key==='Escape')lb.classList.remove('open');if(e.key==='ArrowLeft')show(cur-1);if(e.key==='ArrowRight')show(cur+1)});
+
+document.querySelectorAll('.switch button').forEach(b=>b.onclick=()=>{
+  document.body.classList.toggle('old',b.dataset.v==='old');
+  document.querySelectorAll('.switch button').forEach(x=>x.setAttribute('aria-pressed',x===b));
+  scrollTo(0,0); if(b.dataset.v==='new') relayout();
+});
+</script>
+</body>
+</html>

@@ -1,2 +1,12 @@
 # Screen-quality photo copies: uploaded to Cloudflare R2, not kept in git
 static/r2/
+
+# Local build and working files
+.dev-server.log
+.hugo_build.lock
+hugo_stats.json
+.tmp/
+tmp/
+public/
+resources/
+node_modules/

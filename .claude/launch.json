@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "site",
+      "runtimeExecutable": "hugo",
+      "runtimeArgs": ["server", "--source", "C:\\Claude\\FamilyTravelBlog", "--disableFastRender", "--config", "hugo.yaml", "--environment", "development", "--baseURL", "http://127.0.0.1:1314/", "--bind", "127.0.0.1", "--port", "1314", "--appendPort=false", "--renderToMemory"],
+      "port": 1314
+    }
+  ]
+}

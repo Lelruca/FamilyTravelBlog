@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Лиссабон — прототип</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lora:ital,wght@0,400;0,600;1,400;1,500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#fbf9f5; --ink:#24231f; --muted:#7a756b; --line:#e6e1d8; --accent:#b4572d;
+  --text-w:680px; --wide-w:1180px; --gap:6px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){--paper:#1b1a18; --ink:#ece7dd; --muted:#9a9488; --line:#33302b; --accent:#e08a5c}
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 19px/1.75 Lora,Georgia,serif;-webkit-font-smoothing:antialiased}
+a{color:var(--accent)}
+
+/* toggle */
+.switch{position:fixed;z-index:20;bottom:16px;left:50%;transform:translateX(-50%);box-shadow:0 4px 20px rgba(0,0,0,.2);display:flex;background:rgba(20,18,15,.55);backdrop-filter:blur(10px);border-radius:999px;padding:4px;font:500 13px Inter,sans-serif}
+.switch button{border:0;background:none;color:#fff;padding:7px 14px;border-radius:999px;cursor:pointer;font:inherit}
+.switch button[aria-pressed="true"]{background:#fff;color:#222}
+.topbar{position:absolute;z-index:10;top:0;left:0;right:0;padding:18px 22px;font:600 15px Inter,sans-serif;color:#fff;text-shadow:0 1px 8px rgba(0,0,0,.4)}
+
+/* hero */
+.hero{position:relative;height:92vh;min-height:520px;overflow:hidden;color:#fff;background:#222}
+.hero img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transform:scale(1.04);animation:settle 2.4s ease-out forwards}
+@keyframes settle{to{transform:scale(1)}}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.25) 0%,rgba(0,0,0,0) 30%,rgba(0,0,0,0) 45%,rgba(0,0,0,.72) 100%)}
+.hero-text{position:absolute;z-index:2;left:0;right:0;bottom:0;padding:0 24px 56px;max-width:var(--wide-w);margin:0 auto}
+.kicker{font:600 12px Inter,sans-serif;letter-spacing:.16em;text-transform:uppercase;opacity:.9}
+.hero h1{font:600 clamp(40px,7vw,88px)/1.02 Lora,serif;margin:12px 0 14px;letter-spacing:-.01em}
+.meta{font:400 15px Inter,sans-serif;opacity:.9}
+.scroll-cue{position:absolute;z-index:2;left:50%;bottom:16px;width:22px;height:22px;margin-left:-11px;border-right:2px solid #fff;border-bottom:2px solid #fff;transform:rotate(45deg);opacity:.7;animation:bob 1.8s infinite}
+@keyframes bob{50%{transform:translateY(6px) rotate(45deg)}}
+
+/* story */
+main{padding:64px 0 40px}
+main p{max-width:var(--text-w);margin:0 auto 1.25em;padding:0 22px}
+main > p:first-of-type::first-letter,.story > p:first-of-type::first-letter{float:left;font:600 4.1em/0.82 Lora,serif;margin:.06em .1em 0 0;color:var(--accent)}
+.mosaic{max-width:var(--wide-w);margin:36px auto 44px;padding:0 22px;display:flex;flex-wrap:wrap;justify-content:center;gap:var(--gap)}
+.mosaic:empty{display:none}
+.ph{display:block;position:relative;overflow:hidden;border-radius:3px;background:var(--line);cursor:zoom-in}
+.ph img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .6s ease,opacity .5s;opacity:0}
+.ph img.ok{opacity:1}
+.ph:hover img{transform:scale(1.03)}
+.bleed-fig{margin:56px 0;}
+.bleed-fig .ph{border-radius:0;height:min(88vh,56.25vw)}
+.bleed-fig figcaption{max-width:var(--wide-w);margin:10px auto 0;padding:0 22px;font:italic 400 15px Lora,serif;color:var(--muted)}
+.bleed-fig figcaption::before{content:"— "}
+
+/* reveal */
+.rv{opacity:0;transform:translateY(18px);transition:opacity .8s ease,transform .8s ease}
+.rv.in{opacity:1;transform:none}
+
+/* ending */
+.ending{position:relative;height:100vh;min-height:520px;overflow:hidden;color:#fff;margin-top:40px;display:flex;align-items:center;justify-content:center;text-align:center;cursor:zoom-in}
+.ending img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.ending::after{content:"";position:absolute;inset:0;background:rgba(0,0,0,.42)}
+.ending blockquote{position:relative;z-index:2;margin:0;padding:0 24px;max-width:900px;font:italic 500 clamp(30px,5vw,62px)/1.2 Lora,serif;text-shadow:0 2px 20px rgba(0,0,0,.35)}
+.ending blockquote span{display:block;margin-top:22px;font:600 12px Inter,sans-serif;letter-spacing:.16em;text-transform:uppercase;font-style:normal;opacity:.85}
+.chapnav{max-width:var(--wide-w);margin:0 auto;padding:36px 22px 70px;display:flex;justify-content:space-between;gap:20px;font:500 15px Inter,sans-serif}
+.chapnav a{text-decoration:none;color:var(--ink)}
+.chapnav small{display:block;color:var(--muted);font-weight:400;font-size:12px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:4px}
+
+/* classic (old) */
+#classic{display:none;max-width:860px;margin:0 auto;padding:90px 22px 60px;font:400 17px/1.7 Inter,sans-serif}
+#classic h1{font:600 34px Lora,serif}
+#classic p{margin:0 0 1.1em}
+.strip{display:flex;gap:8px;overflow-x:auto;margin:18px 0 26px;padding-bottom:6px}
+.strip img{height:280px;border-radius:6px;flex:none}
+body.old #classic{display:block}
+body.old #modern{display:none}
+
+/* lightbox */
+.lb{position:fixed;inset:0;z-index:50;background:rgba(10,10,10,.96);display:none;align-items:center;justify-content:center}
+.lb.open{display:flex}
+.lb img{max-width:94vw;max-height:88vh;object-fit:contain;box-shadow:0 10px 40px rgba(0,0,0,.5)}
+.lb button{position:absolute;background:none;border:0;color:#fff;font:300 46px Inter,sans-serif;cursor:pointer;padding:14px 20px;opacity:.75}
+.lb button:hover{opacity:1}
+.lb .prev{left:4px}.lb .next{right:4px}.lb .close{top:4px;right:6px;font-size:36px}
+.lb .count{position:absolute;bottom:14px;left:0;right:0;text-align:center;color:#bbb;font:13px Inter,sans-serif}
+
+@media (max-width:640px){
+  body{font-size:17.5px}
+  :root{--gap:4px}
+  .mosaic{padding:0 10px;margin:26px auto 32px}
+  .hero-text{padding-bottom:48px}
+  .bleed-fig .ph{height:auto;aspect-ratio:var(--ar)}
+  .strip img{height:200px}
+}
+</style>
+</head>
+<body>
+<div class="switch" role="group" aria-label="Сравнение">
+  <button type="button" data-v="old" aria-pressed="false">Было</button>
+  <button type="button" data-v="new" aria-pressed="true">Стало</button>
+</div>
+
+<div id="modern">
+  <div class="topbar">Наши путешествия</div>
+  <header class="hero">
+    <img src="https://lh3.googleusercontent.com/d/1IvuF6Dvs1uzzJNc_QRcdAaGqYGA5kIhv=w2400" alt="">
+    <div class="hero-text">
+      <div class="kicker">Португалия–Испания 2016 · Глава 16</div>
+      <h1>Лиссабон —<br>заключительное</h1>
+      <div class="meta">3 сентября 2016 · Лиссабон, Белем</div>
+    </div>
+    <div class="scroll-cue"></div>
+  </header>
+
+  <main class="story">
+<p>И вот наш последний день в Лиссабоне, бонусный, который не был запланирован заранее, а который получился по просьбе трудящихся в процессе поездки.</p>
+<p>И провели его мы так, как хотела Наташа - бесцельно шатаясь по городу :-) ОЧЕНЬ классно получилось кстати. А уж Лиссабон, это город который как нельзя лучше располагает к такому времяпрепровождению.</p>
+<div class="mosaic"><a class="ph " href="https://lh3.googleusercontent.com/d/15LFOeaSi76U0IU9YgjneJizWvCAQh9X2=w2000" data-i="0" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/15LFOeaSi76U0IU9YgjneJizWvCAQh9X2=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1PKsECjfqjOgXGBMottfcb34CMQE86Pyq=w2000" data-i="1" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1PKsECjfqjOgXGBMottfcb34CMQE86Pyq=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1WHacAXH7N2AiBs6BKSrXQlj9Xpy6W7Yo=w2000" data-i="2" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1WHacAXH7N2AiBs6BKSrXQlj9Xpy6W7Yo=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1P5uZ3-HmQ5H2GiR8_JT2eZ4Q1KpX-IeH=w2000" data-i="3" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1P5uZ3-HmQ5H2GiR8_JT2eZ4Q1KpX-IeH=w1000" alt=""></a></div>
+
+<p>Начали мы с неспешного завтрака в знаменитом кафе «Бразилейра» - гулять так гулять! Это одно из самых известных кафе в Лиссабоне было открыто в 1905 году. Оно внутри выполнено в стиле арт-нуво, а славится тем, что в начале 20 века здесь тусовалась местная богема. Среди посетителей можно заметить фигуру Фернандо Пессоа.</p>
+<div class="mosaic"><a class="ph " href="https://lh3.googleusercontent.com/d/1Bq3amn7hW8SUiTigGvV6h7v3kUJquzZT=w2000" data-i="4" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1Bq3amn7hW8SUiTigGvV6h7v3kUJquzZT=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/149RQ9ZfseGRoIl6xNssjV9juY3JB8y4C=w2000" data-i="5" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/149RQ9ZfseGRoIl6xNssjV9juY3JB8y4C=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1sIicyXOKGT84AMpH_QYXOPgTrlrNm1Wm=w2000" data-i="6" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1sIicyXOKGT84AMpH_QYXOPgTrlrNm1Wm=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1F6OswIrCdKFWZLmAOosWpYO1ppR3UMsT=w2000" data-i="7" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1F6OswIrCdKFWZLmAOosWpYO1ppR3UMsT=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1WhXv9SEWSZRNRLih4ArCNpt59drvM2YK=w2000" data-i="8" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1WhXv9SEWSZRNRLih4ArCNpt59drvM2YK=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1fsQc3322GlAu_a2mFPxXDAcXr4h8dbDv=w2000" data-i="9" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1fsQc3322GlAu_a2mFPxXDAcXr4h8dbDv=w1000" alt=""></a></div>
+
+<p>А дальше пошли гулять, то в церковь зайдем, то на разных площадях погуляем (там везде даже под ногами красота все время!), то выйдем на набережную, где народ загорает!</p>
+<div class="mosaic"><a class="ph " href="https://lh3.googleusercontent.com/d/1W0rikuNqMxcSfgeYeG4kQzFwmisZ-dSh=w2000" data-i="10" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1W0rikuNqMxcSfgeYeG4kQzFwmisZ-dSh=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1c1g8n1qGpyY2h8UNME10_H_YubjaLfTu=w2000" data-i="11" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1c1g8n1qGpyY2h8UNME10_H_YubjaLfTu=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1pusteq70O52uVnW16yBfrcClsQa4o79f=w2000" data-i="12" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1pusteq70O52uVnW16yBfrcClsQa4o79f=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1BaphNpaxEI9v4V22EPKMpwTUceO4Xa8M=w2000" data-i="13" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1BaphNpaxEI9v4V22EPKMpwTUceO4Xa8M=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1xUWhbYn_eYFru0HUrnCWCyFA1ZibchTt=w2000" data-i="14" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1xUWhbYn_eYFru0HUrnCWCyFA1ZibchTt=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1ZT0oFWN1pZHl0Fyt5tX6IIeLEELgLpki=w2000" data-i="15" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1ZT0oFWN1pZHl0Fyt5tX6IIeLEELgLpki=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1IvuF6Dvs1uzzJNc_QRcdAaGqYGA5kIhv=w2000" data-i="16" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1IvuF6Dvs1uzzJNc_QRcdAaGqYGA5kIhv=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1aQhrrVToDDYI4VfJLfAq60fxUG8Pwvnb=w2000" data-i="17" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1aQhrrVToDDYI4VfJLfAq60fxUG8Pwvnb=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1VMgBqUq_pXrgCNRi-ZAPcSZnZDQVZYO2=w2000" data-i="18" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1VMgBqUq_pXrgCNRi-ZAPcSZnZDQVZYO2=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1damkTFR5kyiBGCS8-vhpaRSn3w5-5amI=w2000" data-i="19" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1damkTFR5kyiBGCS8-vhpaRSn3w5-5amI=w1000" alt=""></a></div>
+
+<p>А потом зашли в “музей” вина, где покупаешь карточку и потом из автоматов можно пробовать вино разных регионов. Здесь мы наконец попробовали очень дорогой и выдержанный портвейн. КАКОЙ аромат!!!! Придется возвращаться и делать специальный тур посвященный портвейну!</p>
+<div class="mosaic"><a class="ph " href="https://lh3.googleusercontent.com/d/1lm6ZULXsB-rtaJHhnp5e_3YToMNiSEBh=w2000" data-i="20" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1lm6ZULXsB-rtaJHhnp5e_3YToMNiSEBh=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1dIMoHnhcmAr_NKJU7LpnU7HpPAlkQsjs=w2000" data-i="21" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1dIMoHnhcmAr_NKJU7LpnU7HpPAlkQsjs=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1WDjCgF7mJOzVBPDzwWtkicqq4MjO1HFd=w2000" data-i="22" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1WDjCgF7mJOzVBPDzwWtkicqq4MjO1HFd=w1000" alt=""></a></div>
+
+<p>Чудесно погуляли.</p>
+<div class="mosaic"><a class="ph " href="https://lh3.googleusercontent.com/d/1VZMr7_meH19MxkAkBur5dZKBf7ivx8JY=w2000" data-i="23" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1VZMr7_meH19MxkAkBur5dZKBf7ivx8JY=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/12hISIvoArjCAz95711KT97HsWA_KkbY0=w2000" data-i="24" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/12hISIvoArjCAz95711KT97HsWA_KkbY0=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1g5ToviFYAgtjV6oWm6jbsjM2cOqzZq57=w2000" data-i="25" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1g5ToviFYAgtjV6oWm6jbsjM2cOqzZq57=w1000" alt=""></a></div>
+
+<p>Потом дети куда-то пошли (даже не знаю!), а мы с Серегой решили съездить еще раз в Балем, который мы так суматошно посмотрели в первый день прилета. Начали с дворца Ажура - королевский дворец, построенный в 1802-1862 гг. Сейчас это музей, открытый для туристов (в Португалии нет монархов).  Не самое популярное место, но очень романтичная история любви последних монархов с ним связана - <a href="http://www.izuminki.com/2013/01/18/dvorec-azhuda-zhili-korol-s-korolevoj/" target="_blank" rel="noopener">http://www.izuminki.com/2013/01/18/dvorec-azhuda-zhili-korol-s-korolevoj/</a> И внутри на одном этаже это семеный особняк, с фотографиями, музыкальными инструментами. А на другом официальные тронные и бальные залы, большой банкетный зал для приемов. Туристов практически никого и мы с удовольствием побродили. Интересно, меня большие толпы особенно не беспокоят, но все-таки когда попадаешь практически один в какие-то места, то атмосфера и восприятие другие конечно.</p>
+<div class="mosaic"><a class="ph " href="https://lh3.googleusercontent.com/d/1WxMZJr9ZK6-9w1hdxOAJz_xOaGkFGYSY=w2000" data-i="26" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1WxMZJr9ZK6-9w1hdxOAJz_xOaGkFGYSY=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1UFTd5IIpeJtZ7Y8tg63-EyL2PfICafJr=w2000" data-i="27" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1UFTd5IIpeJtZ7Y8tg63-EyL2PfICafJr=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1z645gPtZOd7kgvkfKJX2td_YvRmxfmth=w2000" data-i="28" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1z645gPtZOd7kgvkfKJX2td_YvRmxfmth=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/10Zm1ekZj-WLF2wBhvsUYVxhM0Dnj22Qj=w2000" data-i="29" style="--ar:1.77"><img loading="lazy" src="https://lh3.googleusercontent.com/d/10Zm1ekZj-WLF2wBhvsUYVxhM0Dnj22Qj=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1wKXkhc2NIzSpJqOI5LwyCv59GpKZX5Q-=w2000" data-i="30" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1wKXkhc2NIzSpJqOI5LwyCv59GpKZX5Q-=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1rFhYVduKycLUQeS8jujrXBs1PmrQsWSO=w2000" data-i="31" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1rFhYVduKycLUQeS8jujrXBs1PmrQsWSO=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1qs_QXAKEJ8mcxEeZ4Ldd139jJZv61v2y=w2000" data-i="32" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1qs_QXAKEJ8mcxEeZ4Ldd139jJZv61v2y=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1Ui3XqugyyXRHMd6nvd9R_l6HNvBk2Zn5=w2000" data-i="33" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1Ui3XqugyyXRHMd6nvd9R_l6HNvBk2Zn5=w1000" alt=""></a></div>
+<figure class="bleed-fig"><a class="ph bleed" href="https://lh3.googleusercontent.com/d/1D3HAGLh3GWl1-_csjKNRAv3jEvdwVc0S=w2000" data-i="34" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1D3HAGLh3GWl1-_csjKNRAv3jEvdwVc0S=w2000" alt=""></a><figcaption>большой банкетный зал для приемов</figcaption></figure>
+<p>Потом пешком дошли опять до монастыря Jerónimos, зашли внутрь, погуляли вокруг, видели кафе со знаменитыми пирожными, но очередь… нам была совсем не в настроение.</p>
+<div class="mosaic"><a class="ph " href="https://lh3.googleusercontent.com/d/17q5sr9ONSo52i7uNndxA1jYPuMLN4-I6=w2000" data-i="35" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/17q5sr9ONSo52i7uNndxA1jYPuMLN4-I6=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1MP36vg5YNtYIjgs24ShIHWIOSnJr5iok=w2000" data-i="36" style="--ar:1.77"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1MP36vg5YNtYIjgs24ShIHWIOSnJr5iok=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1JO2Uw6rnu0V5D_x_f7IVMYSsy262Ntic=w2000" data-i="37" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1JO2Uw6rnu0V5D_x_f7IVMYSsy262Ntic=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1DdhjcUZjyGHQ9yPNB_zdEPIXNkJMQfdO=w2000" data-i="38" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1DdhjcUZjyGHQ9yPNB_zdEPIXNkJMQfdO=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1japNcRfSjsbK-0a9L-KUU07_4dZ-j_bf=w2000" data-i="39" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1japNcRfSjsbK-0a9L-KUU07_4dZ-j_bf=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1vqDCvPezvjsVgzuF7s8hs_tZfyrVcXnV=w2000" data-i="40" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1vqDCvPezvjsVgzuF7s8hs_tZfyrVcXnV=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1G_KZ6d942c42j1SabvQGlhT357xS4v23=w2000" data-i="41" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1G_KZ6d942c42j1SabvQGlhT357xS4v23=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1SQLL58a0ztmfZ9G274lMXv5LtT71dogp=w2000" data-i="42" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1SQLL58a0ztmfZ9G274lMXv5LtT71dogp=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1Vox9jEglJvRmw4fDnlJAW4qveDS0Iz45=w2000" data-i="43" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1Vox9jEglJvRmw4fDnlJAW4qveDS0Iz45=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1uI5HAOh7RfOLap2eOOttb88t6-4wgbxv=w2000" data-i="44" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1uI5HAOh7RfOLap2eOOttb88t6-4wgbxv=w1000" alt=""></a></div>
+
+<p>Зашли в музей карет, но не сильно впечатлились.</p>
+<div class="mosaic"><a class="ph " href="https://lh3.googleusercontent.com/d/112i5cw1_Op3jOwc2XmDtKt9NvRRCbGwA=w2000" data-i="45" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/112i5cw1_Op3jOwc2XmDtKt9NvRRCbGwA=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1FVI0OZCBYAxJySPQphQzsxn8GMtlzA-J=w2000" data-i="46" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1FVI0OZCBYAxJySPQphQzsxn8GMtlzA-J=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1P8enJfUE3iEcgYnmo8r82fgDM8Z580PM=w2000" data-i="47" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1P8enJfUE3iEcgYnmo8r82fgDM8Z580PM=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1DCiz318206YAykDTPwNMlJgTI8jAuTqf=w2000" data-i="48" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1DCiz318206YAykDTPwNMlJgTI8jAuTqf=w1000" alt=""></a></div>
+
+<p>И все-таки шикарный город Лиссабон! Прекрасная, интересная и самобытная стран Португалия! И не сильно дорогая ;-) Поэтому от всей души рекомендую!!! Сюда нас тянет возвращаться и просто на пляжный отдых, и  север досмотреть надо.</p>
+<p>Испания - это ДЕРЖАВА другого уровня наверно. Там еще столько культурных жемчужин осталось, начиная с Барселоны и конечно мы туда вернемся, она нам очень понравилась, но… душа прикипела к Португалии :-)</p>
+<p>Но ехать обязательно надо!!! Везде!!! И может быть помедленнее. В каждом городе хотелось еще и еще остановиться. Но в целом я считаю, что ознакомительно это было хорошо продуманное путешествие, позволило нам составить свое представление об этих двух странах, полюбить их и я думаю это наш первый, но точно не последний визит!</p>
+<div class="mosaic"><a class="ph " href="https://lh3.googleusercontent.com/d/1DJQSXZvrBsLpHu68qu-82vHfY5a8t0MZ=w2000" data-i="49" style="--ar:0.56"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1DJQSXZvrBsLpHu68qu-82vHfY5a8t0MZ=w1000" alt=""></a><a class="ph " href="https://lh3.googleusercontent.com/d/1Kfq-2xxHfkGfZlGD142_vLMofMSIew--=w2000" data-i="50" style="--ar:1.78"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1Kfq-2xxHfkGfZlGD142_vLMofMSIew--=w1000" alt=""></a></div>
+
+
+  </main>
+
+  <section class="ending" data-i="51" data-full="https://lh3.googleusercontent.com/d/1DZoNxjeVdbfY7uz1ZCS_HjTHGl8jQUv5=w2000">
+    <img loading="lazy" src="https://lh3.googleusercontent.com/d/1DZoNxjeVdbfY7uz1ZCS_HjTHGl8jQUv5=w2400" alt="">
+    <blockquote>И все-таки шикарный город Лиссабон!<span>Конец поездки</span></blockquote>
+  </section>
+  <nav class="chapnav">
+    <a href="#"><small>← Предыдущая глава</small>Тамплиеры (Томар - Баталья - Назаре)</a>
+    <a href="#" style="text-align:right"><small>Поездка</small>Все главы ↑</a>
+  </nav>
+</div>
+
+<div id="classic">
+  <h1>Лиссабон - заключительное</h1>
+<p>И вот наш последний день в Лиссабоне, бонусный, который не был запланирован заранее, а который получился по просьбе трудящихся в процессе поездки.</p>
+<p>И провели его мы так, как хотела Наташа - бесцельно шатаясь по городу :-) ОЧЕНЬ классно получилось кстати. А уж Лиссабон, это город который как нельзя лучше располагает к такому времяпрепровождению.</p>
+<div class="strip"><img loading="lazy" src="https://lh3.googleusercontent.com/d/15LFOeaSi76U0IU9YgjneJizWvCAQh9X2=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1PKsECjfqjOgXGBMottfcb34CMQE86Pyq=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1WHacAXH7N2AiBs6BKSrXQlj9Xpy6W7Yo=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1P5uZ3-HmQ5H2GiR8_JT2eZ4Q1KpX-IeH=h480" alt=""></div>
+<p>Начали мы с неспешного завтрака в знаменитом кафе «Бразилейра» - гулять так гулять! Это одно из самых известных кафе в Лиссабоне было открыто в 1905 году. Оно внутри выполнено в стиле арт-нуво, а славится тем, что в начале 20 века здесь тусовалась местная богема. Среди посетителей можно заметить фигуру Фернандо Пессоа.</p>
+<div class="strip"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1Bq3amn7hW8SUiTigGvV6h7v3kUJquzZT=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/149RQ9ZfseGRoIl6xNssjV9juY3JB8y4C=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1sIicyXOKGT84AMpH_QYXOPgTrlrNm1Wm=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1F6OswIrCdKFWZLmAOosWpYO1ppR3UMsT=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1WhXv9SEWSZRNRLih4ArCNpt59drvM2YK=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1fsQc3322GlAu_a2mFPxXDAcXr4h8dbDv=h480" alt=""></div>
+<p>А дальше пошли гулять, то в церковь зайдем, то на разных площадях погуляем (там везде даже под ногами красота все время!), то выйдем на набережную, где народ загорает!</p>
+<div class="strip"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1W0rikuNqMxcSfgeYeG4kQzFwmisZ-dSh=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1c1g8n1qGpyY2h8UNME10_H_YubjaLfTu=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1pusteq70O52uVnW16yBfrcClsQa4o79f=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1BaphNpaxEI9v4V22EPKMpwTUceO4Xa8M=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1xUWhbYn_eYFru0HUrnCWCyFA1ZibchTt=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1ZT0oFWN1pZHl0Fyt5tX6IIeLEELgLpki=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1IvuF6Dvs1uzzJNc_QRcdAaGqYGA5kIhv=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1aQhrrVToDDYI4VfJLfAq60fxUG8Pwvnb=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1VMgBqUq_pXrgCNRi-ZAPcSZnZDQVZYO2=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1damkTFR5kyiBGCS8-vhpaRSn3w5-5amI=h480" alt=""></div>
+<p>А потом зашли в “музей” вина, где покупаешь карточку и потом из автоматов можно пробовать вино разных регионов. Здесь мы наконец попробовали очень дорогой и выдержанный портвейн. КАКОЙ аромат!!!! Придется возвращаться и делать специальный тур посвященный портвейну!</p>
+<div class="strip"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1lm6ZULXsB-rtaJHhnp5e_3YToMNiSEBh=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1dIMoHnhcmAr_NKJU7LpnU7HpPAlkQsjs=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1WDjCgF7mJOzVBPDzwWtkicqq4MjO1HFd=h480" alt=""></div>
+<p>Чудесно погуляли.</p>
+<div class="strip"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1VZMr7_meH19MxkAkBur5dZKBf7ivx8JY=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/12hISIvoArjCAz95711KT97HsWA_KkbY0=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1g5ToviFYAgtjV6oWm6jbsjM2cOqzZq57=h480" alt=""></div>
+<p>Потом дети куда-то пошли (даже не знаю!), а мы с Серегой решили съездить еще раз в Балем, который мы так суматошно посмотрели в первый день прилета. Начали с дворца Ажура - королевский дворец, построенный в 1802-1862 гг. Сейчас это музей, открытый для туристов (в Португалии нет монархов).  Не самое популярное место, но очень романтичная история любви последних монархов с ним связана - <a href="http://www.izuminki.com/2013/01/18/dvorec-azhuda-zhili-korol-s-korolevoj/" target="_blank" rel="noopener">http://www.izuminki.com/2013/01/18/dvorec-azhuda-zhili-korol-s-korolevoj/</a> И внутри на одном этаже это семеный особняк, с фотографиями, музыкальными инструментами. А на другом официальные тронные и бальные залы, большой банкетный зал для приемов. Туристов практически никого и мы с удовольствием побродили. Интересно, меня большие толпы особенно не беспокоят, но все-таки когда попадаешь практически один в какие-то места, то атмосфера и восприятие другие конечно.</p>
+<div class="strip"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1WxMZJr9ZK6-9w1hdxOAJz_xOaGkFGYSY=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1UFTd5IIpeJtZ7Y8tg63-EyL2PfICafJr=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1z645gPtZOd7kgvkfKJX2td_YvRmxfmth=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/10Zm1ekZj-WLF2wBhvsUYVxhM0Dnj22Qj=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1wKXkhc2NIzSpJqOI5LwyCv59GpKZX5Q-=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1rFhYVduKycLUQeS8jujrXBs1PmrQsWSO=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1qs_QXAKEJ8mcxEeZ4Ldd139jJZv61v2y=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1Ui3XqugyyXRHMd6nvd9R_l6HNvBk2Zn5=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1D3HAGLh3GWl1-_csjKNRAv3jEvdwVc0S=h480" alt=""></div>
+<p>Потом пешком дошли опять до монастыря Jerónimos, зашли внутрь, погуляли вокруг, видели кафе со знаменитыми пирожными, но очередь… нам была совсем не в настроение.</p>
+<div class="strip"><img loading="lazy" src="https://lh3.googleusercontent.com/d/17q5sr9ONSo52i7uNndxA1jYPuMLN4-I6=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1MP36vg5YNtYIjgs24ShIHWIOSnJr5iok=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1JO2Uw6rnu0V5D_x_f7IVMYSsy262Ntic=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1DdhjcUZjyGHQ9yPNB_zdEPIXNkJMQfdO=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1japNcRfSjsbK-0a9L-KUU07_4dZ-j_bf=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1vqDCvPezvjsVgzuF7s8hs_tZfyrVcXnV=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1G_KZ6d942c42j1SabvQGlhT357xS4v23=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1SQLL58a0ztmfZ9G274lMXv5LtT71dogp=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1Vox9jEglJvRmw4fDnlJAW4qveDS0Iz45=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1uI5HAOh7RfOLap2eOOttb88t6-4wgbxv=h480" alt=""></div>
+<p>Зашли в музей карет, но не сильно впечатлились.</p>
+<div class="strip"><img loading="lazy" src="https://lh3.googleusercontent.com/d/112i5cw1_Op3jOwc2XmDtKt9NvRRCbGwA=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1FVI0OZCBYAxJySPQphQzsxn8GMtlzA-J=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1P8enJfUE3iEcgYnmo8r82fgDM8Z580PM=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1DCiz318206YAykDTPwNMlJgTI8jAuTqf=h480" alt=""></div>
+<p>И все-таки шикарный город Лиссабон! Прекрасная, интересная и самобытная стран Португалия! И не сильно дорогая ;-) Поэтому от всей души рекомендую!!! Сюда нас тянет возвращаться и просто на пляжный отдых, и  север досмотреть надо.</p>
+<p>Испания - это ДЕРЖАВА другого уровня наверно. Там еще столько культурных жемчужин осталось, начиная с Барселоны и конечно мы туда вернемся, она нам очень понравилась, но… душа прикипела к Португалии :-)</p>
+<p>Но ехать обязательно надо!!! Везде!!! И может быть помедленнее. В каждом городе хотелось еще и еще остановиться. Но в целом я считаю, что ознакомительно это было хорошо продуманное путешествие, позволило нам составить свое представление об этих двух странах, полюбить их и я думаю это наш первый, но точно не последний визит!</p>
+<div class="strip"><img loading="lazy" src="https://lh3.googleusercontent.com/d/1DZoNxjeVdbfY7uz1ZCS_HjTHGl8jQUv5=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1DJQSXZvrBsLpHu68qu-82vHfY5a8t0MZ=h480" alt=""><img loading="lazy" src="https://lh3.googleusercontent.com/d/1Kfq-2xxHfkGfZlGD142_vLMofMSIew--=h480" alt=""></div>
+
+</div>
+
+<div class="lb" role="dialog" aria-modal="true" aria-label="Фото">
+  <img alt="">
+  <button class="close" aria-label="Закрыть">×</button>
+  <button class="prev" aria-label="Назад">‹</button>
+  <button class="next" aria-label="Вперёд">›</button>
+  <div class="count"></div>
+</div>
+
+<script>
+// Justified mosaic: pack photos into rows of equal height that fill the width exactly.
+function layout(){
+  const target = innerWidth < 640 ? 190 : innerWidth < 1000 ? 260 : 320;
+  document.querySelectorAll('.mosaic').forEach(box=>{
+    const items=[...box.children]; if(!items.length) return;
+    const gap=parseFloat(getComputedStyle(box).columnGap)||6;
+    const W=box.clientWidth-parseFloat(getComputedStyle(box).paddingLeft)*2;
+    const ar=el=>+el.style.getPropertyValue('--ar');
+    const fullH=row=>(W-gap*(row.length-1)-2)/row.reduce((s,el)=>s+ar(el),0);
+    const rows=[]; let row=[];
+    items.forEach(el=>{ row.push(el); if(fullH(row)<=target){rows.push(row);row=[]} });
+    if(row.length){
+      if(rows.length && fullH(row)>target*1.25){
+        // lonely short last row: re-split the last two rows into two balanced full-width rows
+        const all=rows.pop().concat(row); let best=null;
+        for(let k=1;k<all.length;k++){const a=all.slice(0,k),b=all.slice(k),d=Math.abs(fullH(a)-fullH(b));if(!best||d<best.d)best={d,a,b}}
+        rows.push(best.a,best.b);
+      } else rows.push(row);
+    }
+    rows.forEach(r=>{
+      const h=Math.floor(Math.min(fullH(r),target*1.6)*10)/10;
+      r.forEach(el=>{el.style.width=Math.floor(ar(el)*h*10)/10+'px';el.style.height=h+'px'});
+    });
+  });
+}
+addEventListener('resize',()=>{clearTimeout(window._t);window._t=setTimeout(layout,80)});
+layout();
+
+document.querySelectorAll('.ph img,.hero img,.ending img').forEach(img=>{
+  const ok=()=>img.classList.add('ok');
+  if(img.complete&&img.naturalWidth) ok(); else img.addEventListener('load',ok);
+  let tries=0; img.addEventListener('error',()=>{ if(tries++<3) setTimeout(()=>{img.src=img.src.replace(/=w(\d+)$/,(m,w)=>'=w'+(+w+tries))},700*tries)});
+});
+
+// Gentle reveal of text and photo blocks while scrolling
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{rootMargin:'0px 0px -8% 0px'});
+document.querySelectorAll('main > p, .mosaic, .bleed-fig').forEach(el=>{el.classList.add('rv');io.observe(el)});
+
+// Lightbox across the whole chapter
+const links=[...document.querySelectorAll('[data-i]')].sort((a,b)=>a.dataset.i-b.dataset.i);
+const lb=document.querySelector('.lb'), lbImg=lb.querySelector('img'), cnt=lb.querySelector('.count');
+let cur=0;
+const show=i=>{cur=(i+links.length)%links.length;const l=links[cur];lbImg.src=l.dataset.full||l.href;cnt.textContent=(cur+1)+' / '+links.length};
+links.forEach(l=>l.addEventListener('click',e=>{e.preventDefault();show(+l.dataset.i);lb.classList.add('open')}));
+lb.querySelector('.close').onclick=()=>lb.classList.remove('open');
+lb.querySelector('.prev').onclick=e=>{e.stopPropagation();show(cur-1)};
+lb.querySelector('.next').onclick=e=>{e.stopPropagation();show(cur+1)};
+lb.addEventListener('click',e=>{if(e.target===lb)lb.classList.remove('open')});
+addEventListener('keydown',e=>{if(!lb.classList.contains('open'))return;if(e.key==='Escape')lb.classList.remove('open');if(e.key==='ArrowLeft')show(cur-1);if(e.key==='ArrowRight')show(cur+1)});
+
+// Было / Стало
+document.querySelectorAll('.switch button').forEach(b=>b.onclick=()=>{
+  document.body.classList.toggle('old',b.dataset.v==='old');
+  document.querySelectorAll('.switch button').forEach(x=>x.setAttribute('aria-pressed',x===b));
+  scrollTo(0,0); if(b.dataset.v==='new') layout();
+});
+</script>
+</body>
+</html>
