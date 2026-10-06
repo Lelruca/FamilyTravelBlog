@@ -33,7 +33,9 @@
       "start": 186,
       "end": 206,
       "title": "Наше освоение Новой Англии: Американская революция",
-      "folder": "05 - Американская революция"
+      "folder": "05 - Американская революция",
+      "photoSelectionComplete": true,
+      "photoSelectionNote": "Владелец выбрала фотографии; все семь кадров использованы рядом с рассказом об экскурсии, без обрезки."
     },
     {
       "start": 206,
@@ -2535,7 +2537,8 @@
       "driveId": "1-x_iYd75ugkB-6nin1pnOqbeLQH5mMuX",
       "displayURL": "https://drive.google.com/thumbnail?id=1-x_iYd75ugkB-6nin1pnOqbeLQH5mMuX&sz=w1600",
       "slug": "american-revolution",
-      "orientation": 1
+      "orientation": 1,
+      "displayOrder": 1
     },
     {
       "chapter": 5,
@@ -2564,7 +2567,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 30
+      "reviewNumber": 30,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 5,
@@ -2593,7 +2597,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 31
+      "reviewNumber": 31,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 5,
@@ -2622,7 +2627,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 32
+      "reviewNumber": 32,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 5,
@@ -2651,7 +2657,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 33
+      "reviewNumber": 33,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 5,
@@ -2680,7 +2687,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 34
+      "reviewNumber": 34,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 5,
@@ -2709,7 +2717,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 35
+      "reviewNumber": 35,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 6,
@@ -5093,6 +5102,126 @@
       "driveId": "14Zcn53GH2lJ7Nt4boNL8I5tqXaw_1UjW",
       "displayURL": "https://drive.google.com/thumbnail?id=14Zcn53GH2lJ7Nt4boNL8I5tqXaw_1UjW&sz=w1600",
       "placement": "7"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "Наше освоение Новой Англии: Американская революция",
+      "slug": "american-revolution",
+      "filename": "20150815_135027.jpg",
+      "originalFilename": "20150815_135027.jpg",
+      "order": 2,
+      "folder": "05 - Американская революция",
+      "archiveFile": "05 - Американская революция/02_20150815_135027.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 5312,
+      "height": 2988,
+      "orientation": 1,
+      "bytes": 9327248,
+      "sha256": "4164de687304c27fa319feb839765f089c7ba576b0ee9c9acef66288298de3a9",
+      "driveId": "1yO7GAqOmG9PsQN14uiHEJ-elkAv_HmZA",
+      "displayURL": "https://drive.google.com/thumbnail?id=1yO7GAqOmG9PsQN14uiHEJ-elkAv_HmZA&sz=w1600",
+      "placement": 2
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "Наше освоение Новой Англии: Американская революция",
+      "slug": "american-revolution",
+      "filename": "20150815_135147.jpg",
+      "originalFilename": "20150815_135147.jpg",
+      "order": 3,
+      "folder": "05 - Американская революция",
+      "archiveFile": "05 - Американская революция/03_20150815_135147.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 2988,
+      "height": 5312,
+      "orientation": 1,
+      "bytes": 2628675,
+      "sha256": "a8135c19db1aac6166491d85d9e9134839ce6de2cca5fc2e11215ec48657b2a1",
+      "driveId": "1xdJNbu86jTmiVx1dDnNz6tNOPFIOErrM",
+      "displayURL": "https://drive.google.com/thumbnail?id=1xdJNbu86jTmiVx1dDnNz6tNOPFIOErrM&sz=w1600",
+      "placement": 2
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "Наше освоение Новой Англии: Американская революция",
+      "slug": "american-revolution",
+      "filename": "20150815_135343.jpg",
+      "originalFilename": "20150815_135343.jpg",
+      "order": 4,
+      "folder": "05 - Американская революция",
+      "archiveFile": "05 - Американская революция/04_20150815_135343.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 2988,
+      "height": 5312,
+      "orientation": 1,
+      "bytes": 4034766,
+      "sha256": "c2ca32dfe11bf8d65622f7de8b95b6201910b3438b473e266ba59bf76e94fed8",
+      "driveId": "1lUhHgVVJOQfQJbz-J9aWlfe6sg1OTkim",
+      "displayURL": "https://drive.google.com/thumbnail?id=1lUhHgVVJOQfQJbz-J9aWlfe6sg1OTkim&sz=w1600",
+      "placement": 2
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "Наше освоение Новой Англии: Американская революция",
+      "slug": "american-revolution",
+      "filename": "20150815_135327.jpg",
+      "originalFilename": "20150815_135327.jpg",
+      "order": 5,
+      "folder": "05 - Американская революция",
+      "archiveFile": "05 - Американская революция/05_20150815_135327.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 5312,
+      "height": 2988,
+      "orientation": 1,
+      "bytes": 9521080,
+      "sha256": "a64b9cbc4ca95b7d2fa5d78e66651ba2ac35de37b7c92f975da6d4c8c17e46d5",
+      "driveId": "1__uIZEKKRdDITLo_zjvA7Qjb0ZK1Xqgx",
+      "displayURL": "https://drive.google.com/thumbnail?id=1__uIZEKKRdDITLo_zjvA7Qjb0ZK1Xqgx&sz=w1600",
+      "placement": 2
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "Наше освоение Новой Англии: Американская революция",
+      "slug": "american-revolution",
+      "filename": "20150815_135422.jpg",
+      "originalFilename": "20150815_135422.jpg",
+      "order": 6,
+      "folder": "05 - Американская революция",
+      "archiveFile": "05 - Американская революция/06_20150815_135422.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 5312,
+      "height": 2988,
+      "orientation": 1,
+      "bytes": 5990452,
+      "sha256": "c53d482fc40ac1788a1a830e38ad5f59417a2ffa820289d646e3b3d442a48e8e",
+      "driveId": "1zlg5VoMhagyhh4gMi8Xj3823JzpTb0A7",
+      "displayURL": "https://drive.google.com/thumbnail?id=1zlg5VoMhagyhh4gMi8Xj3823JzpTb0A7&sz=w1600",
+      "placement": 2
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "Наше освоение Новой Англии: Американская революция",
+      "slug": "american-revolution",
+      "filename": "20150815_135756.jpg",
+      "originalFilename": "20150815_135756.jpg",
+      "order": 7,
+      "folder": "05 - Американская революция",
+      "archiveFile": "05 - Американская революция/07_20150815_135756.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 2988,
+      "height": 5312,
+      "orientation": 1,
+      "bytes": 2791206,
+      "sha256": "f812bd3690d5553c4cdcd38bc764dc8dfe22e637b2bccd6449ad1ad66026b881",
+      "driveId": "11RNisgwH8_jfr9vWCM4vvvuztZjTXnzb",
+      "displayURL": "https://drive.google.com/thumbnail?id=11RNisgwH8_jfr9vWCM4vvvuztZjTXnzb&sz=w1600",
+      "placement": 2
     }
   ],
   "unusedPhotos": [
