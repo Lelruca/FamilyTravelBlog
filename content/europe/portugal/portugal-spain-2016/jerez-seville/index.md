@@ -31,7 +31,7 @@ auto_gallery: false
 
 {{< row "20160825_181521.jpg 20160825_154855.jpg IMG_7967.jpg IMG_7975.jpg" >}}
 
-{{< mosaic "L:IMG_7853.jpg IMG_7862.jpg IMG_7880.jpg IMG_7848.jpg IMG_7840.jpg" >}}
+{{< mosaic "L:IMG_7840.jpg IMG_7862.jpg IMG_7880.jpg IMG_7848.jpg IMG_7853.jpg" >}}
 
 {{< mosaic "R:IMG_7846.jpg IMG_7856.jpg IMG_7857.jpg IMG_7881.jpg IMG_7868.jpg" >}}
 
@@ -49,7 +49,7 @@ auto_gallery: false
 
 А уж площадь Испании покорила нас всех!
 
-{{< mosaic "L:IMG_7924.jpg IMG_7919.jpg IMG_7908.jpg IMG_7910.jpg IMG_7911.jpg" >}}
+{{< mosaic "L:IMG_7919.jpg IMG_7924.jpg IMG_7908.jpg IMG_7910.jpg IMG_7911.jpg" >}}
 
 {{< row "20160825_184119.jpg IMG_7914.jpg" >}}
 

@@ -35,15 +35,15 @@ auto_gallery: false
 
 {{< row "20160901_145524.jpg IMG_8742.jpg" >}}
 
-{{< mosaic "L:IMG_8675.jpg IMG_8681.jpg IMG_8682.jpg IMG_8686.jpg IMG_8687.jpg" >}}
+{{< mosaic "L:IMG_8686.jpg IMG_8681.jpg IMG_8682.jpg IMG_8675.jpg IMG_8687.jpg" >}}
 
 {{< mosaic "R:IMG_8688.jpg IMG_8693.jpg IMG_8694.jpg IMG_8695.jpg IMG_8697.jpg" >}}
 
-{{< mosaic "L:IMG_8700.jpg IMG_8706.jpg IMG_8707.jpg IMG_8714.jpg IMG_8717.jpg" >}}
+{{< mosaic "L:IMG_8707.jpg IMG_8706.jpg IMG_8700.jpg IMG_8714.jpg IMG_8717.jpg" >}}
 
 {{< mosaic "R:IMG_8720.jpg IMG_8722.jpg IMG_8726.jpg IMG_8728.jpg IMG_8729.jpg" >}}
 
-{{< mosaic "L:IMG_8731.jpg IMG_8732.jpg IMG_8738.jpg IMG_8739.jpg IMG_8740.jpg" >}}
+{{< mosaic "L:IMG_8732.jpg IMG_8731.jpg IMG_8738.jpg IMG_8739.jpg IMG_8740.jpg" >}}
 
 {{< row "20160901_152650.jpg 20160901_154945.jpg 20160902_125050.jpg" >}}
 

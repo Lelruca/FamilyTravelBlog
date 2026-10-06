@@ -28,7 +28,7 @@ Convent of Christ (5/5/5/4) - “Главная твердыня португа�
 
 {{< mosaic items="L:IMG_8787.jpg IMG_8780.jpg IMG_8781.jpg IMG_8782.jpg IMG_8789.jpg" caption="мы порой могли услышать друг друга, но не увидеть :-)" capfor="IMG_8787.jpg" >}}
 
-{{< mosaic "R:IMG_8810.jpg IMG_8799.jpg IMG_8806.jpg IMG_8813.jpg IMG_8817.jpg" >}}
+{{< mosaic "R:IMG_8817.jpg IMG_8799.jpg IMG_8806.jpg IMG_8813.jpg IMG_8810.jpg" >}}
 
 {{< mosaic "L:IMG_8805.jpg R:IMG_8848.jpg" >}}
 

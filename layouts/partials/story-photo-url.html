@@ -2,7 +2,10 @@
        photoBase is the local copy folder in development and Cloudflare R2 in production.
        Full http(s) URLs are returned as they are. Usage: partial "story-photo-url.html" (dict "page" .Page "name" "IMG_7284.jpg") */ -}}
 {{- $url := .name -}}
-{{- if not (hasPrefix .name "http") -}}
+{{- $resource := .page.Resources.GetMatch .name -}}
+{{- if $resource -}}
+  {{- $url = $resource.RelPermalink -}}
+{{- else if not (hasPrefix .name "http") -}}
   {{- $url = printf "%s%s/%s/%s" (site.Params.photoBase | default "r2/") .page.Parent.File.ContentBaseName .page.File.ContentBaseName .name -}}
   {{- if not (hasPrefix $url "http") -}}{{- $url = $url | absURL -}}{{- end -}}
 {{- end -}}
