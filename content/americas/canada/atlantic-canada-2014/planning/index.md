@@ -2,10 +2,11 @@
 title: "Атлантика - планирование"
 type: "trips"
 chapter_kind: "preparation"
+layout: "photo-story"
 weight: 10
 auto_gallery: false
 source_url: "https://olgau.livejournal.com/181954.html"
-hero_image: "https://drive.google.com/thumbnail?id=1lbvpuEZXeyHZPwPah3pHd6ZNmWQI78ae&sz=w2000"
+hero_image: "IMG_4558.jpg"
 ---
 
 <p>Интересно проанализировать КАК зарождается идея того или иного путешествия. Почему в этом году мы поехали на машине по Канаде в сторону Атлантики? Ну, о таких поездках мы слышали еще когда только в Торонто приехали, и всегда думали: «Ну когда-нибудь...» Но всегда были другие планы :-)</p>
@@ -14,7 +15,7 @@ hero_image: "https://drive.google.com/thumbnail?id=1lbvpuEZXeyHZPwPah3pHd6ZNmWQI
 
 <p>Чтобы не канадцам было понятно, таких провинций у нас 4: New Brunswick - Нью-Брансуик, Nova Scotia - Новая Шотландия, PEI - Остров Принца Эдуарда  и Labrador and Newfoundland - провинции Ньюфаундленд и Лабрадор.</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=13rPx2IghZph-pLXT7FWOO9ozqItOqD8J&sz=w1600" >}}
+{{< row "maritime_provinces_map.jpg" >}}
 
 <p>Мы решили посетить три «маленьких» провинции. Ньюфаундленд тоже выглядит очень привлекательно (там даже есть экскурссии смотреть на айзберги!), но... за две недели все охватить невозможно. </p>
 

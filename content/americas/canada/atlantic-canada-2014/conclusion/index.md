@@ -2,10 +2,11 @@
 title: "Атлантика 2014 - заключение"
 type: "trips"
 chapter_kind: "reflections"
+layout: "photo-story"
 weight: 160
 auto_gallery: false
 source_url: "https://olgau.livejournal.com/185615.html"
-hero_image: "https://drive.google.com/thumbnail?id=1QfWxGRh4rLxXLog6XrVY349vfZqp9-sl&sz=w2000"
+hero_image: "IMG_4220.jpg"
 ---
 
 <p>Ну вот и все :-)</p>

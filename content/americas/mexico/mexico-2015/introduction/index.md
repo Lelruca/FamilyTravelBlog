@@ -1,11 +1,11 @@
 ---
 title: "Мексика - вступление, флора и фауна"
 type: "trips"
-layout: "photo-story-mexico"
+layout: "photo-story"
 weight: 10
 chapter_kind: "day"
 auto_gallery: false
-hero_image: "https://drive.google.com/thumbnail?id=1P-xG5-d1OrowQ0DS9DrmEv-oyJHWpTXo&sz=w2000"
+hero_image: "DSC03989.jpg"
 
 ---
 
@@ -19,8 +19,14 @@ hero_image: "https://drive.google.com/thumbnail?id=1P-xG5-d1OrowQ0DS9DrmEv-oyJHW
 
 <p>Одна флора и фауна чего стоят!</p>
 
-<div class="essay-group"><div class="essay-mosaic" style="--cols:4;--cell-ratio:1.7777777777777777"><a class="essay-photo essay-cell essay-large" href="https://drive.google.com/thumbnail?id=1jOKpPkX4qNmF3ax_OAaMlG2Rh9eyu-63&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1jOKpPkX4qNmF3ax_OAaMlG2Rh9eyu-63=w1600" width="5312" height="2988" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1zIO1ieJ19kuduTZdzL8I_g-GOW97y1xa&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1zIO1ieJ19kuduTZdzL8I_g-GOW97y1xa=w1600" width="5312" height="2988" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1ZKtnp5njzYjVY2FPeQMvO9mh2WAkxoQP&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1ZKtnp5njzYjVY2FPeQMvO9mh2WAkxoQP=w1600" width="5312" height="2988" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1LGSnoBG4q7lOBlFDy1IuhxjVFSP-kOX3&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1LGSnoBG4q7lOBlFDy1IuhxjVFSP-kOX3=w1600" width="5312" height="2988" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1jxFWEsBxUW_RUYCnJahRH0Los-EtXhAJ&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1jxFWEsBxUW_RUYCnJahRH0Los-EtXhAJ=w1600" width="5312" height="2988" alt="" loading="lazy"></a></div>
-<div class="essay-mosaic" style="--cols:3;--cell-ratio:1.7777777777777777"><a class="essay-photo essay-cell essay-large" href="https://drive.google.com/thumbnail?id=1mEDlox8W9BZE3oZZY-O2iKxD6gENN7M4&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1mEDlox8W9BZE3oZZY-O2iKxD6gENN7M4=w1600" width="5312" height="2988" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=15p8qaofkQBk43J9XU3OYhMU5M2Ijmt-I&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/15p8qaofkQBk43J9XU3OYhMU5M2Ijmt-I=w1600" width="5312" height="2988" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1xkT4Vsrhlvr-0IftClM7Zqz1aSJpgGlq&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1xkT4Vsrhlvr-0IftClM7Zqz1aSJpgGlq=w1600" width="5312" height="2988" alt="" loading="lazy"></a></div>
-<div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1F4q6Q--QrsoxphGQpLVoXwEkWH960YCc&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.333333 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1F4q6Q--QrsoxphGQpLVoXwEkWH960YCc=w1600" width="4896" height="3672" alt="" loading="lazy"></a></div>
-<div class="essay-row"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=10R5ypv9FugOHVRpZTxMJdjDX0sJlqPHw&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.750000 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/10R5ypv9FugOHVRpZTxMJdjDX0sJlqPHw=w1600" width="3672" height="4896" alt="" loading="lazy"></a><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1GKa_aoRiauxo8TpmuTNWIdYAEb_Drqwd&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.562500 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1GKa_aoRiauxo8TpmuTNWIdYAEb_Drqwd=w1600" width="2988" height="5312" alt="" loading="lazy"></a><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1ai23G9zzmZh537xF0KLIiBRnwFuD1CnM&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.562500 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1ai23G9zzmZh537xF0KLIiBRnwFuD1CnM=w1600" width="2988" height="5312" alt="" loading="lazy"></a></div></div>
+{{< row "20150704_125531.jpg 20150704_202117.jpg 20150705_150600.jpg" >}}
 
+{{< row "20150704_202920.jpg" >}}
+
+{{< row "20150708_131257.jpg 20150709_122300.jpg" >}}
+
+{{< row "20150708_131439.jpg 20150708_131559.jpg" >}}
+
+{{< row "DSC03995.jpg" >}}
+
+{{< row "DSC03998.jpg 20150707_190318.jpg 20150704_201734.jpg" >}}

@@ -2,6 +2,7 @@
 title: "День 12 - Joggins Fossil Cliffs, Shediac"
 type: "trips"
 chapter_kind: "day"
+layout: "photo-story"
 weight: 130
 day_num: 12
 auto_gallery: false
@@ -9,12 +10,10 @@ source_url: "https://olgau.livejournal.com/185020.html"
 places:
   - joggins
   - shediac
-hero_image: "https://drive.google.com/thumbnail?id=1z9FbIO_5uuJU7bI8IS8Z3gpM_qNt9qWx&sz=w2000"
+hero_image: "IMG_4928.jpg"
 ---
 
 <p>Что мне нравилось в нашей поездке, что было много очень разнообразных развлечений. Скалы с окаменелостями в Джоггинсе    – уникальнейший палеонтологический объект на побережье залива Фанди, внесенный в список Всемирного наследия ЮНЕСКО. (<b>Joggins Fossil Cliffs  - (4/3/3/5)</b>) </p>
-
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1z9FbIO_5uuJU7bI8IS8Z3gpM_qNt9qWx&sz=w1600" >}}
 
 <p> Я побаиваюсь немножко описывать столь научное место :-)  Но попробую. Мы возвратились в тот же известный залив Фанди, только сейчас с южной стороны Новой Шотландии. Поскольку тут дважды в сутки происходят очень высокие приливы и отливы, то каждый день на скалах открываются все новые и новые слои и каждый может найти что-то новое и уникальное :-)</p>
 
@@ -24,26 +23,32 @@ hero_image: "https://drive.google.com/thumbnail?id=1z9FbIO_5uuJU7bI8IS8Z3gpM_qNt
 
 <p>В музее есть копия, вот так он выглядел:</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1_t2FAlt1YLCFylry00EX3Qj0RZL1utxX&sz=w1600" >}}
+{{< row "IMG_4921.jpg" >}}
 
 <p>Ну вроде с научной частью покончено :-) Теперь как это выглядело в реальной жизни. Доступ на побережье со скалами зависит от расписания приливов и отливов.  Мы приехали не очень задолго до прилива.  Поэтому сначала быстро пробежались по музею, там общая информация и интересные находки. </p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1Hbx_g818zoOSJxsgViqhz0gzcAi9MDGD&sz=w1600,https://drive.google.com/thumbnail?id=1PKrb7MzpIc09TG88hdwLdUtP95dJyXLz&sz=w1600" >}}
+{{< row "IMG_4919.jpg IMG_4920.jpg" >}}
 
 <p>А потом спустились вниз. Мы опоздали на бесплатную экскурсию, но издалека немножко послушали. </p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1dtz9HO6nc-oTrQSi-a_YEsCqukzmsYNh&sz=w1600" >}}
+{{< row "IMG_4923.jpg" >}}
 
 <p>Но что было удивительно и неожиданно, что мы действительно увидели разные окаменелости своими глазами! Вот так бредя по берегу и смотря себе под ноги мы нашли такие интересные «камешки». Брать их с собой нельзя, поэтому мы их зафотографировали на память.</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1BRBz8MWqgTpazcnMB46C-idNmg0L8Ubw&sz=w1600,https://drive.google.com/thumbnail?id=1f_MPcYvwG8kw9XTm4N2mJDSAjbZIQnp9&sz=w1600,https://drive.google.com/thumbnail?id=1YIuzQZ4KrP6qZsW0h5Z6Pq3EBFdlRD6l&sz=w1600,https://drive.google.com/thumbnail?id=1wXGhuYRa7hbcHSd9Fz20jwiWkHZ616OC&sz=w1600" >}}
+{{< row "IMG_4934.jpg" >}}
+
+{{< row "IMG_4932.jpg" >}}
+
+{{< row "IMG_4936.jpg IMG_4944.jpg" >}}
 
 <p>Мне трудно описать свое впечатление в целом. Я бы сказала очень необычный опыт. Не похожий ни на что другое. Нельзя сказать, что что-то прямо «ах», но с другой стороны не было скучно и было какое-то чувство прикосновения к чему-то особенному :-) </p>
 
 <p>А потом мы встали на путь в обратном направлении. И направились в сторону границы с Нью Брансвиком. Поскольку я так в душе и оставалась верной именно этой провинции, то я очень боялась возвращаться :-) Вдруг это было только «первое впечатление» и вернувшись я пойму, что нет там ничего особенного? Но Нью Брансвик меня не подвел :-) Мы въехали уже в родной нам городок Shediac и пошли на ланч во франц. кафешку, где нам предложили интересный кофе, вкусный горячий шоколад и кучу вкуснейшей выпечки! Ну КАК такое не любить ;-) Мне показалось что я еще лучше поняла в чем тот шарм именно этой провинции. В ее французскости, есть можно так сказать. Она не полностью французская как Квебек, она где-то посередине и это очень приятная и комфортная середина :-) А потом мы пошли на пляж, уже наш знакомый и любимый Parlee Beach. Было весело, мы закопали Митьку в песок и сделали из него русалочку.</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1Y2znmeKJOsAzDx7JLTeixa72fB_4eEYT&sz=w1600,https://drive.google.com/thumbnail?id=1ukmFDSEgpD-xbMEtvu6VmSQ_afcgKy8_&sz=w1600" >}}
+{{< row "10576909_10204045782972331_7555025734096136684_n.jpg" >}}
+
+{{< row "10570504_10204045782692324_5125040832322600415_n.jpg" >}}
 
 <p> А потом с Наташкой гуляли по городку, я же еще не говорила, что Шедиак это столица лобстеров? </p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1bSxFRx864RAdDcFrmOlJ3VBFuQKkvrd6&sz=w1600" >}}
+{{< row "20140813_184242.jpg" >}}

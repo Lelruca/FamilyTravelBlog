@@ -1,18 +1,17 @@
 ---
 title: "Мексика - прелести пакетного отдыха"
 type: "trips"
-layout: "photo-story-mexico"
+layout: "photo-story"
 weight: 20
 chapter_kind: "day"
 auto_gallery: false
-hero_image: "https://drive.google.com/thumbnail?id=1xSiZjIh4W2q4LBmcTBuSSp9JMdaOwHVC&sz=w2000"
+hero_image: "20150708_123923.jpg"
 
 ---
 
 <p>Теперь про отель отдельно хочу написать (<b>Grand Sirenis Riviera Maya</b>). Чем же нас так «пробрали»? Еще замечу, что первый раз у меня довольно много фотографий получилось «с моря». Обычно их раз-два и все, т.к. на пляж с фотоаппаратом ну один раз за отпуск специально выйдешь и все. А в наши дни человек без телефона... ну это как без плавок выйти! Поэтому гуляешь по территории и снимаешь все что кажется интересным :-)</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1GIRoNgi0uVm7S9nuKGfEVDE9TlZnu7uw&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.777778 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1GIRoNgi0uVm7S9nuKGfEVDE9TlZnu7uw=w1600" width="5312" height="2988" alt="" loading="lazy"></a></div>
-<div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1VRTCuBWHgSb9HIbIEPxvAgGsH_aiRAoF&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.333522 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1VRTCuBWHgSb9HIbIEPxvAgGsH_aiRAoF=w1600" width="4722" height="3541" alt="" loading="lazy"></a></div></div>
+{{< row "20150704_203420.jpg DSC03991.jpg" >}}
 
 <p>Если вы заметили, то я все про нас с Сережей пишу, а детей не упоминаю. Это потому что они все время были где-то заняты без нас :-) Что хорошо, развлекают постоянно и любой возраст. Наши оба попадают в категорию... «подростки» (один почти, другая тоже почти ;-)) Но большинство времени они проводили вместе. Один вечер Наташка спрашивает Митьку: «Мить, что ты завтра делать будешь?» Он удивленно отвечает: «Ну что придумаешь, то и буду делать...»  Короче такой идеальный будущий супруг :-) Он и за напитками ей бегал все время, и за мороженым ;-)</p>
 
@@ -20,54 +19,62 @@ hero_image: "https://drive.google.com/thumbnail?id=1xSiZjIh4W2q4LBmcTBuSSp9JMdaO
 
 <p>Мы просыпались и подкатывали туда же, купались вместе, ходили или на пляж окунуться в океане, или на «ленивую речку» (это где на кругах тебя возят – чтобы ни в коем случае не перенапряглись отдыхающие!).</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1j1Dxk7_raBkYnaVwQ-tU5EbGwYbWXbhB&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.562500 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1j1Dxk7_raBkYnaVwQ-tU5EbGwYbWXbhB=w1600" width="2988" height="5312" alt="" loading="lazy"></a></div></div>
+{{< row "20150704_173028.jpg" >}}
 
 <p> Потом мы с Серегой еще гуляли сами по себе. Из «лежаний» мы только гамаки освоили немножко. Оказывается очень удобно! Моя больная спина была в полном восторге, и главное не жарко, т.к. тебя обдувает со всем сторон!</p>
 
-<div class="essay-group"><div class="essay-row"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=10G3237grWh23f04jL5Jkxo9oOoHjZWOi&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.777778 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/10G3237grWh23f04jL5Jkxo9oOoHjZWOi=w1600" width="5312" height="2988" alt="" loading="lazy"></a><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1xEO9KatkZXqbkv8viW68-C7O2PdE24UM&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.777778 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1xEO9KatkZXqbkv8viW68-C7O2PdE24UM=w1600" width="5312" height="2988" alt="" loading="lazy"></a></div>
-<div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1Pyri07qd2f_3_-jAmPttpsJ-3zCJeI2c&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.562500 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1Pyri07qd2f_3_-jAmPttpsJ-3zCJeI2c=w1600" width="2988" height="5312" alt="" loading="lazy"></a><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1mjh65A11PxdyLvsObcGVKf_dtKH5iLq4&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.562500 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1mjh65A11PxdyLvsObcGVKf_dtKH5iLq4=w1600" width="2988" height="5312" alt="" loading="lazy"></a></div>
-<div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1F2JyC-TisVi4_oPfiRHwuwRXSBvAChFw&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.562500 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1F2JyC-TisVi4_oPfiRHwuwRXSBvAChFw=w1600" width="2988" height="5312" alt="" loading="lazy"></a><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1XpL2nRI1zuNeJiN8RaOb3qNRF9NaP_6h&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.562500 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1XpL2nRI1zuNeJiN8RaOb3qNRF9NaP_6h=w1600" width="2988" height="5312" alt="" loading="lazy"></a><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1ff_PBfdfi_p-3u0srlBAZ_Uk6B4shALQ&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.562500 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1ff_PBfdfi_p-3u0srlBAZ_Uk6B4shALQ=w1600" width="2988" height="5312" alt="" loading="lazy"></a></div></div>
+{{< row "20150708_124223.jpg" >}}
+
+{{< row "20150708_135932.jpg" >}}
+
+{{< row "20150708_180908.jpg 20150708_123836.jpg" >}}
+
+{{< row "20150709_123615.jpg 20150708_124129.jpg 20150708_135721.jpg" >}}
 
 <p>Еще нашли станцию, где выжимали полезные соки из разных овощей и фруктов, даже удалось своего мужа заставить попробовать напиток со шпинатом ;-) Да, он явно сильно расслабился к этому времени.</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1sCaY2VhMZuGCkH4rxlQhy2KpPrxNcvFQ&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.562500 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1sCaY2VhMZuGCkH4rxlQhy2KpPrxNcvFQ=w1600" width="2988" height="5312" alt="" loading="lazy"></a></div></div>
+{{< row "20150708_130541.jpg" >}}
 
 <p>Один день мы решили сделать себе сувенир на память. Я раньше «магниты» собирала, но... их много, вешать не куда (современные холодильники это не приветствуют)... Поэтому у нас  новая идея – мы стали покупать елочные игрушки! Весь год лежат в коробке, а когда вся семья наряжает елку, то каждая игрушка – воспоминание о какой-то поездке. А тут предлагалось разукрасить игрушку и потом нам ее обожгли и покрыли лаком. Хороший сувенир.</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1LgvgSWcgBpnbW3v0hextSVeLwIv0sKjt&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.777778 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1LgvgSWcgBpnbW3v0hextSVeLwIv0sKjt=w1600" width="5312" height="2988" alt="" loading="lazy"></a></div>
-<div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1ePYxnfQZDj8IGLT5l5cEIYDrXNBF5iPr&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.742729 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1ePYxnfQZDj8IGLT5l5cEIYDrXNBF5iPr=w1600" width="2988" height="4023" alt="" loading="lazy"></a></div></div>
+{{< row "20150708_171059.jpg" >}}
+
+{{< row "20150709_124832.jpg" >}}
 
 <p>Еда... Кормили очень разнообразно! Т.е. ряды огромные с едой и мало что повторялось изо дня в день, плюс через день были «тематические дни». Мы застали – итальянский, японский и мексиканский.  Вот кусочек японского я захватила, а так как-то стеснялась снимать. Но... нам не понравилось :-О Я понимаю, что звучит очень странно, но... тяжелая пища и какая-то безвкусная. Я думаю это специально сделано, т.к. огромный выбор соусов на все вкусы, но мы с ними не освоились :-( Больше всего понравились мексиканские лепешки с сыром (когда были), а так самый стандартный вариант – омлет утром и макароны, которые при тебе делают с выбранными добавками, - вечером.  Вроде и жаловаться не на что, но и как-то не пошло (зато похудели ;-)).</p>
 
-<div class="essay-group"><div class="essay-mosaic" style="--cols:3;--cell-ratio:1.7777777777777777"><a class="essay-photo essay-cell essay-large" href="https://drive.google.com/thumbnail?id=1Ye3HyMtV4QP1YhFzmlVXSxiW13__brN5&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1Ye3HyMtV4QP1YhFzmlVXSxiW13__brN5=w1600" width="5312" height="2988" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1KJh18SrAXWbvproBQxhew9qEjURSMOl3&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1KJh18SrAXWbvproBQxhew9qEjURSMOl3=w1600" width="5312" height="2988" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=19wHgGc0oOmsdkbhI3A4ZAvdwSMnJ0XNl&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/19wHgGc0oOmsdkbhI3A4ZAvdwSMnJ0XNl=w1600" width="5312" height="2988" alt="" loading="lazy"></a></div>
-<div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1rHOWUOwMZTWk65NVX1Kr2MDmNU0jSgFm&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.738872 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1rHOWUOwMZTWk65NVX1Kr2MDmNU0jSgFm=w1600" width="2988" height="4044" alt="" loading="lazy"></a><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1iCYujU0blFwmFCcsGF9qNH41H93vW2iL&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.562500 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1iCYujU0blFwmFCcsGF9qNH41H93vW2iL=w1600" width="2988" height="5312" alt="" loading="lazy"></a></div></div>
+{{< row "20150706_191906.jpg" >}}
+
+{{< row "20150705_192316.jpg 20150705_192325.jpg 20150707_193510.jpg 20150706_192358.jpg" >}}
 
 <p>Вечером сначала были детские конкурсы, потом взрослые и представление. Наши дети очень активные и оба хотят во всем участвовать! Но Митька по возрасту для детей «переросток». Хотя ему 11 еще, но там больше дети +-лет 6... Но Наташка его как-то уговорила, что это нормально и он каждый день бежал на детские конкурсы  и нас торопил, чтобы не опоздать :-) И мы втроем дисциплинированно сидели и смотрели, правда все время говорили друг другу «это не наш мальчик», т.к. его на сцене совершенно не смущало, что она выше всех на голову и он отрабатывал по полной! В итоге почти каждый день завоевывал призы. И вроде неловко и неправильно это, но... ему так нравилось... что не будешь же не пускать.</p>
 
-<div class="essay-group"><div class="essay-mosaic" style="--cols:3;--cell-ratio:1.3333333333333333"><a class="essay-photo essay-cell essay-large" href="https://drive.google.com/thumbnail?id=1IOqlRs-vJViFwW1W4WU98dgUotGb7JMw&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1IOqlRs-vJViFwW1W4WU98dgUotGb7JMw=w1600" width="4896" height="3672" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1Z7AGGSrmOHekvcYBloI3mgzb_5_ErzUG&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1Z7AGGSrmOHekvcYBloI3mgzb_5_ErzUG=w1600" width="4896" height="3672" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1LaJqKO-AKZ0VdVKJQOSxEBk9Z2lo6q5J&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1LaJqKO-AKZ0VdVKJQOSxEBk9Z2lo6q5J=w1600" width="4896" height="3672" alt="" loading="lazy"></a></div>
-<div class="essay-mosaic" style="--cols:3;--cell-ratio:1.7777777777777777"><a class="essay-photo essay-cell essay-large" href="https://drive.google.com/thumbnail?id=1FICUe1HdthDwqpHf2oXUuwwZ0DJCXuBg&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1FICUe1HdthDwqpHf2oXUuwwZ0DJCXuBg=w1600" width="5312" height="2988" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1dmkLtKJj8BEWUA8LCA0ashYyz_7NDxti&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1dmkLtKJj8BEWUA8LCA0ashYyz_7NDxti=w1600" width="5312" height="2988" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1CpggZggahkKUJurAfIv0Ssc4HnjZvYv2&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1CpggZggahkKUJurAfIv0Ssc4HnjZvYv2=w1600" width="5312" height="2988" alt="" loading="lazy"></a></div></div>
+{{< row "DSC04000.jpg" >}}
+
+{{< row "DSC04006.jpg DSC04012.jpg" >}}
+
+{{< row "20150706_214536.jpg" >}}
+
+{{< row "20150706_214644.jpg 20150706_221758.jpg" >}}
 
 <p>После вечерних шоу (которые были вполне приемлемы для своего уровня и свою функцию – занять народ вечером, прекрасно выполняли) наступало время танцев. Были и какие-то специальные вечера, типа «латинских танцев», где наша дочь блистала.</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1GxAzF1IbuJzkCdG7wkdbBJ-mXIuLaNmV&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.777778 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1GxAzF1IbuJzkCdG7wkdbBJ-mXIuLaNmV=w1600" width="5312" height="2988" alt="" loading="lazy"></a></div>
-<div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1O1VX-rtG4H7v-ClG6twwjINWWKv3qGcM&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.562500 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1O1VX-rtG4H7v-ClG6twwjINWWKv3qGcM=w1600" width="2988" height="5312" alt="" loading="lazy"></a><a class="essay-photo " href="https://drive.google.com/thumbnail?id=13fKbfCbL2m4VS66E1AMnPC8cSJPY6nXm&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.562500 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/13fKbfCbL2m4VS66E1AMnPC8cSJPY6nXm=w1600" width="2988" height="5312" alt="" loading="lazy"></a></div></div>
+{{< row "20150707_000427.jpg 20150707_000826.jpg 20150707_001156.jpg" >}}
 
 <p> А так каждый вечер желающие удалялись в ночной клуб (тоже на территории отеля) и там танцевали до 2-3 утра. Наша дочь там тусовалась в одиночестве. Я пару раз пыталась составить ей компанию, но... слаба :-) Наташка очень много общалась с местной молодежью, с аниматорами (действительно ОЧЕНЬ достойные ребята все и работают «на износ» с 10 утра и до конца этих ночных танцев! Живут они там же. Я думаю именно они создают эту волшебную атмосферу отдыха), и с парнем-консьержем познакомилась и все время общалась. Полезно, я бы сказала. Т.к. этот ее новый знакомый очень интересный парень, учится в университете, один семестр был в Штатах по обмену, работает... Короче работает изо всех сил, чтобы достичь чего-то в жизни. И общались они, по словам Наташи о книгах, о фильмах.... и т.д. Он ее ровесник и у нее не было проблем с общением с ним, в Канаде ее ровесники ей совсем не интересны. Мы с ней тоже это обсудили, что «легкая жизнь канадскую молодежь расхолаживает» ;-)</p>
 
 <p>Еще мы после ужина гуляли. Заказывали на вечер тематические рестораны, но сходили только один раз и поняли, что не лучше «буфета» и отказались от всех остальных. Один вечер была дегустация разного мохито и если мы с Серегой прошли мимо «зазывал» даже не думая остановиться, то наша дочь нас затащила :-) </p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1-YbJcVyhBqiZAbIWslh1F7Tm4jBIAjoI&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.562500 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1-YbJcVyhBqiZAbIWslh1F7Tm4jBIAjoI=w1600" width="2988" height="5312" alt="" loading="lazy"></a></div></div>
+{{< row "20150704_204908.jpg" >}}
 
 <p class="missing-photo">[Фото 30: имя файла неизвестно — требуется восстановление]</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1dzMqbnvLJ7dWcPVqWolMLhkYC48FSCXQ&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.777778 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1dzMqbnvLJ7dWcPVqWolMLhkYC48FSCXQ=w1600" width="5312" height="2988" alt="" loading="lazy"></a></div>
-<div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1OkofR3vxBmWBHO1YS5Rq-jaPYrMl6dhH&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.902446 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1OkofR3vxBmWBHO1YS5Rq-jaPYrMl6dhH=w1600" width="2988" height="3311" alt="" loading="lazy"></a></div></div>
+{{< row "20150708_203122.jpg 20150709_204733.jpg" >}}
 
 <p>Митька к этому времени нашел «игровую комнату» с бильярдом, хоккеем и т.п. и убегал туда при первой возможности :-) </p>
 
-<div class="essay-group"><div class="essay-mosaic" style="--cols:3;--cell-ratio:1.7777777777777777"><a class="essay-photo essay-cell essay-large" href="https://drive.google.com/thumbnail?id=1LH7YhMGiECPJPMfECy_4q6LpFuEV-F2s&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1LH7YhMGiECPJPMfECy_4q6LpFuEV-F2s=w1600" width="5312" height="2988" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1AwRgNnH5_kOTTelL3j78nUzusUSLmG4D&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1AwRgNnH5_kOTTelL3j78nUzusUSLmG4D=w1600" width="5312" height="2988" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1uaELnb0xbqhwsHZYmvvAeQ-TDbenZzX6&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1uaELnb0xbqhwsHZYmvvAeQ-TDbenZzX6=w1600" width="5312" height="2988" alt="" loading="lazy"></a></div></div>
+{{< row "20150709_202359.jpg 20150709_203922.jpg 20150709_202246.jpg" >}}
 
 <p>C морем, еще раз повторюсь, – не повезло. Саргассы эти... Мало того что в воду не войдешь, но еще их выносит на берег и они на солнце начинают вонять :-( Но правда мы только в первый день с этим столкнулись, а так они работают постоянно – вытаскивают из воды сетями, потом вывозят все с пляжа... Наташкин приятель рассказывал, что ему никак нельзя телефон достать на рабочем месте, а то увидят, отберут, и заставят пляж чистить чтобы вернуть :-)</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1jfyuC15VRGIBMhPkBA0qV7EtpAHS3bHI&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.777778 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1jfyuC15VRGIBMhPkBA0qV7EtpAHS3bHI=w1600" width="5312" height="2988" alt="" loading="lazy"></a></div></div>
-
+{{< row "20150709_122802.jpg" >}}

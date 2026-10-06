@@ -53,7 +53,7 @@
 <a href="{{ $trip.RelPermalink }}" class="text-accent">{{ $trip.Title }}</a>
 <h1 class="font-serif">{{ .Title }}</h1>
 <div class="essay-meta"><span>Глава {{ add $idx 1 }} из {{ len $chapters }}</span><a href="{{ $trip.RelPermalink }}">Оглавление</a></div>
-{{ with .Params.hero_image }}{{ $u := partial "story-photo-url.html" (dict "page" $ "name" .) }}{{ if strings.Contains $u "drive.google.com" }}{{ $u = partial "gimg.html" (dict "url" $u "size" "w2000") }}{{ end }}<a href="{{ $u }}" data-photo-lightbox><img referrerpolicy="no-referrer" class="essay-cover" src="{{ $u }}" alt="{{ $.Title }}" loading="eager" fetchpriority="high"></a>{{ end }}
+{{ with .Params.hero_image }}{{ $u := partial "story-photo-url.html" (dict "page" $ "name" . "size" "w2000") }}{{ if strings.Contains $u "drive.google.com" }}{{ $u = partial "gimg.html" (dict "url" $u "size" "w2000") }}{{ end }}{{ $info := index (index site.Data.photos $.Parent.File.ContentBaseName | default dict) (printf "%s/%s" $.File.ContentBaseName .) | default dict }}<a href="{{ $u }}" data-photo-lightbox><img referrerpolicy="no-referrer" class="essay-cover" src="{{ $u }}"{{ if and $info.w (lt $info.w 616) }} style="max-width:{{ $info.w }}px;margin-inline:auto"{{ end }} alt="{{ $.Title }}" loading="eager" fetchpriority="high"></a>{{ end }}
 </header>
 <div class="essay-body">{{ .Content }}</div>
 <nav class="essay-navigation" aria-label="Навигация по главам">

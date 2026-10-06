@@ -2,16 +2,17 @@
 title: "День 8 - Cape Breton, Skyline trail, Cabot trail"
 type: "trips"
 chapter_kind: "day"
+layout: "photo-story"
 weight: 90
 day_num: 8
 auto_gallery: false
 source_url: "https://olgau.livejournal.com/183936.html"
 places:
   - cape-breton
-hero_image: "https://drive.google.com/thumbnail?id=1u20LL_OdfEkRy8x4Tkb7DNNVxP9lTm3W&sz=w2000"
+hero_image: "IMG_4555.jpg"
 ---
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1NMK7VgZjTvX3-MxzXljTn_Lwb_1ahs6U&sz=w1600" >}}
+{{< row "capebreton.jpg" >}}
 
 <p>Вот карта Cape Breton-а, так рассказывать будет проще. Красное кольцо это Cabot Trail (3/3/3/3).</p>
 
@@ -23,59 +24,73 @@ hero_image: "https://drive.google.com/thumbnail?id=1u20LL_OdfEkRy8x4Tkb7DNNVxP9l
 
 <p>Весь план на день был расчитан примерно на 11 часов и поэтому встали мы рано, позавтракали и поехали по «самой живописной дороге». И... конечно же дети тут же заснули :-) Мы переодически их будили на смотровых площадках, которых много вдоль всего этого кольца и заставляли наслаждаться вот такими видами:</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1u20LL_OdfEkRy8x4Tkb7DNNVxP9lTm3W&sz=w1600,https://drive.google.com/thumbnail?id=1l7M6RJVdymiYFboIFYnqinAndV1sLs5S&sz=w1600,https://drive.google.com/thumbnail?id=17e6TCLwEnoD71oeZtqs6XOj9mLfHOcfF&sz=w1600" >}}
+{{< row "IMG_4554.jpg IMG_4557.jpg" >}}
 
 <p>Потом мы доехали до нашего туристического маршрута. Были рано и мы без труда запарковались (когда мы вернулись мест не было совсем, народ в лесу как-то притыкивался, и номера были со ВСЕЙ северной Америки! Даже из Калифорнии (что ОЧЕНЬ не близко), Британской Колумбии и т.д.)</p>
 
 <p>Вход на тропу перегораживал вот этот знак, предупреждающий о возможном столкновении с медведями. Рядом был стенд, объясняющий как вести себя в подобной ситуации. Смех, смехом, а на этой тропе несколько лет назад кайоты загрызли одинокую девушку насмерть... Так что мы изучили все стенды внимательно. </p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1WeJLoayfu_FkirIy7W2m_QkPJ8gX1K2H&sz=w1600" >}}
+{{< row "IMG_4559.jpg" >}}
 
 <p> По тропе можно пройти двумя путями. Или «кольцом» в 10 км, или «туда-обратно» (по одному пути) где-то 7 км. Мы конечно выбрали 10. Идти так идти (отрабатывали по полной). И... прогадали. Никому я не рекомендую идти этим кольцом. И дело не в  нескольких лишних км. или более пересеченной местности («туда-обратно» идет хорошая дорожка, по которой можно легко даже коляску катить), а в скучности пейзажа! Ты идешь по какому-то сухому лесу:</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1JDGsR7PNw5vJjcrHNU3GdrQUNmGxkk3V&sz=w1600,https://drive.google.com/thumbnail?id=1ERm6x032jzU4m5-OWsEKaqaiHeNJoUyG&sz=w1600" >}}
+{{< row "IMG_4561.jpg IMG_4564.jpg" >}}
 
 <p>Единственный проблеск океана:</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1k-tZI3O2QvYSzw0rsxcAZ5zjn8oluTzb&sz=w1600" >}}
+{{< row "IMG_4563.jpg" >}}
 
 <p>Ну и приходишь ты в конечную точку, где и есть те красивые виды, на которые я купилась на фотографиях :-) Ну мы тоже, раз дошли, сделали фотосессию. Честно, мне кажется мои первые фото «из машины» не намного менее интересны :-) Т.ч. наше мнение - можно смело опустить эту прогулку (2/2/2/4). </p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1G4kEesRC0jBHfJ23C_eUaMvET3iLakxh&sz=w1600,https://drive.google.com/thumbnail?id=1-dVYHtteHgwOqLftjPIZ1pESUetDGL_5&sz=w1600,https://drive.google.com/thumbnail?id=1eNwuyPS4feQp7Txlk8LfKNGSde8CAMb8&sz=w1600,https://drive.google.com/thumbnail?id=1xAQyoAd6LtenFOObK1LwlMDnsrZ1VEyJ&sz=w1600,https://drive.google.com/thumbnail?id=1jFuVzwUkCRMQRBcZkbSQb8CoFS2DmFlD&sz=w1600,https://drive.google.com/thumbnail?id=1Aqo7axmXLOa45NOPg8XLJ1dMg9XNw1kx&sz=w1600" >}}
+{{< row "IMG_4565.jpg IMG_4571.jpg" >}}
+
+{{< row "IMG_4570.jpg IMG_4573.jpg" >}}
+
+{{< row "IMG_4579.jpg" >}}
+
+{{< row "IMG_4586.jpg" >}}
 
 <p>Дальше мы продолжили путешествие по «живописной дороге», переодически тормоша детей, чтобы они посмотрели в окошко. А я вот так из машины выскакивала с фотоаппаратом:</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1U1Ns12I5SLjOzmnWBYH8062UpehqMJRY&sz=w1600,https://drive.google.com/thumbnail?id=199HBkrAH7TqrHWCs2WF-dgxN9hS5dw0z&sz=w1600,https://drive.google.com/thumbnail?id=1MHFg3mcdWEpNp1ksqnLUjV-O508TmIz_&sz=w1600,https://drive.google.com/thumbnail?id=1SBj6TW1JrA2PgUVCb6guw4MSBoMm_mlE&sz=w1600,https://drive.google.com/thumbnail?id=17l8XNYCXRWARTYpAyzmoAQuDH4Tny1yE&sz=w1600,https://drive.google.com/thumbnail?id=1_dHS77Q_jNRmJAsC7z_i4YBjhfz9mJc5&sz=w1600" >}}
+{{< row "IMG_4596.jpg IMG_4587.jpg" >}}
+
+{{< row "IMG_4588.jpg IMG_4590.jpg" >}}
+
+{{< row "IMG_4594.jpg IMG_4595.jpg" >}}
 
 <p>Следующим номером нашей программы были киты. Разнообразные круизы на «посмотреть китов» есть почти во всех местах, где мы были, но как я вычитала, лучшим местом является залив - Pleasant Bay. </p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1aIE_HkmugNPIJEHWgwhbWeFSDDMi5TSE&sz=w1600" >}}
+{{< row "IMG_4591.jpg" >}}
 
 <p>Единственное, что я не сделала, так это не заказала места заранее. Во-первых, погода была очень переменчивая и мы до последнего дня не знали когда мы поездем по этой дороге, а, во-вторых, не было понятно сколько у нас займет пешеходная тропа и во сколько мы попадем в этот залив. Короче, когда мы приехали в этот залив – мест не было :-( Причем на все круизы, что там предлагаются. Вернее были, но надо было ждать часа 3 или 4. А ждать там абсолютно негде! И хотя туристов много, никто не подсуетился хоть какую-нибудь кафешку или лавченку поставить... Короче настроения ждать у нас не было. Мы решили поехать дальше и с другой стороны острова найти какие-нибудь круизы. И это у нас получилось! Следуя указателям мы приехали в Neil's Harbour и там попали на круиз: <a href="http://www.dixonszodiacseafari.com/">http://www.dixonszodiacseafari.com/</a>  (4/3/3/5)</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1yZGSsaMXg1tVEJBkq1A0KDFtIB3A0OVc&sz=w1600" >}}
+{{< row "IMG_4602.jpg" >}}
 
 <p>Я еще специально искала круиз на лодке типа Zodiac, т.к. все пишут, что только на ней можно подойти к киту очень близко... Я и не поняла до конца, что это вот такая надувная лодка!</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=17I0XWEEICQxj9F5-dOQS86f8D8vTcTEm&sz=w1600" >}}
+{{< row "IMG_4606.jpg" >}}
 
 <p>У нас оставалось время пообедать. «Опять эти рыбопродукты» - ныли мои дети ;-)</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1EvJSkbGsyp13RrAiPXZX3Pj-DOolIiuN&sz=w1600" >}}
+{{< row "IMG_4601.jpg" >}}
 
 <p>Погода к нашему отправлению была хорошая, солнышко во всю светило, т.ч. нам выдали только непромокаемые куртки и спас. жилеты. Предыдущая группа уезжала в дождь и им еще штаны давали. </p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1fYpPAwqhH2Q8X1jCTV9Ay9oJcx5mNohx&sz=w1600,https://drive.google.com/thumbnail?id=1cxupKkMwTTSiFjN1D5Te__CQbw2sHzv5&sz=w1600" >}}
+{{< row "IMG_4605.jpg IMG_4609.jpg" >}}
 
 <p>Я с детьми села «на носу» и с первых же секунд об этом пожалела, т.к. нос задирался и больно ударялся о воду (моя спина возмутилась и мне пришлось потом всю дорогу держать ноги в напряжении и смягчать удары). Правда, когда в конце поездки я увидела тех, кто сидела на корме – мокрых с ног до головы, то подумала что может быть нос был и не так плох... Но в целом Zodiac это как-то очень... близко к природе :-) В начале (еще светит солнце) мы проплыли вдоль берега, нам показали всякие гроты... </p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=15zLo0UCjqRex86GOlwmZCQhEpLXqvB_f&sz=w1600,https://drive.google.com/thumbnail?id=1eM_kDnKKKkz7ZamvMYkoQlyEjCp85y1P&sz=w1600,https://drive.google.com/thumbnail?id=1t3ke4wtrmQEyB8su4HEU_uBJyshYjGnN&sz=w1600,https://drive.google.com/thumbnail?id=1pNTxyewpBo68fHH_AR-jGO06Xcb08iQ1&sz=w1600" >}}
+{{< row "IMG_4612.jpg" >}}
+
+{{< row "IMG_4614.jpg" >}}
+
+{{< row "IMG_4619.jpg IMG_4622.jpg" >}}
 
 <p>А потом мы поехали искать китов. </p>
 
 <p>А киты не хотели находиться! Пару раз мы видели плавающих тюленей, но не китов. А погода начала портиться... Сначала темнота и ветер, а потом дождь. Мы натянули на себя капюшоны, солнечные очки спасали от брызг и создавали эффект «защищенности». И... очень хотелось на берег! Китов уже не очень хотелось ;-) Но капитан был неумолим :-) «Ну что, ребята, давайте еще кружочек вон туда сплаваем, мы с предыдущей группой там видели китов...» «Давайте...» - канадцы очень вежливые люди :-) От непогоды и волны поднялись, т.е. нас качало конкретно, а тех кто на корме просто «заливало»! Потом еще кружочек, и еще... Берега не видно толком... </p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1atlhfiWX7DxGt4CsawgDbByi2iUASDoF&sz=w1600,https://drive.google.com/thumbnail?id=1EDMtHybtrw-CnBsg0llZZIwYIRHlMGr3&sz=w1600" >}}
+{{< row "IMG_4631.jpg IMG_4634.jpg" >}}
 
 <p>Короче после 3 часов болтания в океане на надувной лодке нас вернули на землю! Ура! Киты в такую погоду нам так и не показались. </p>
 

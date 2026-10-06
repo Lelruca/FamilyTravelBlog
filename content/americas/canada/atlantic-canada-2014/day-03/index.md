@@ -2,22 +2,23 @@
 title: "День 3 - Hopewell Rocks"
 type: "trips"
 chapter_kind: "day"
+layout: "photo-story"
 weight: 40
 day_num: 3
 auto_gallery: false
 source_url: "https://olgau.livejournal.com/182595.html"
 places:
   - hopewell-rocks
-hero_image: "https://drive.google.com/thumbnail?id=1QfWxGRh4rLxXLog6XrVY349vfZqp9-sl&sz=w2000"
+hero_image: "IMG_4220.jpg"
 ---
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1HZGMAfhegBtBKA3lqUFuOGqelTYwLUPx&sz=w1600" >}}
+{{< row "IMG_4227.jpg" >}}
 
 <p>Третий день в моих планах имел несколько вариантов :-)</p>
 
 <p>Официально он был назначет пляжным днем. Надо же все-таки в отпуске просто отдыхать :-) Однако пляж на целый день... Это не наше :-) Поэтому мы неторопясь выспались, пошли пешком покупались сколько хотелось, поиграли в морской бой, а потом поехали смотреть Залив Фанди, который положил основу нашему путешествию. (В планах у нас был он на обратной дороге, но пока погода позволяла, то мы решили, что надо ехать, тем более расписание отливов-приливов было для нас удачным). </p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1YKXpTzUStqhy81SayF0qxcKmywo_rrjR&sz=w1600,https://drive.google.com/thumbnail?id=1Qs2FfZpuMsFLBK1lj0QKrhtF_Bof56Lm&sz=w1600" >}}
+{{< row "DSC02139.jpg DSC02141.jpg" >}}
 
 <p>Итак, что нам интернет подсказывает: «Фанди известен своими рекордными приливами (до 18 м).» Ну и каждый, кто собирается путешествовать в этот регион (или просто когда-то видел календари или фото с видами Канады), знает, что самое живописное место для наблюдения этого природного явления - <b>Hopewell Rocks (3/3/2/4)</b> Сначала советуют приехать во время отлива и погулять по дну залива, а потом посмотеть на это же место при «высокой воде».  Так мы и распланировали.</p>
 
@@ -25,11 +26,15 @@ hero_image: "https://drive.google.com/thumbnail?id=1QfWxGRh4rLxXLog6XrVY349vfZqp
 
 <p>Может быть в другой раз...</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1eCLTyb8C8ueAmqOzzBW7NQGk_NY1KZEJ&sz=w1600,https://drive.google.com/thumbnail?id=1TBUV3JQIYhtJBKaXahiiKEA4v1hucA4N&sz=w1600,https://drive.google.com/thumbnail?id=16DxL3EPHPqYxjH8Ou4lROFCvGb4GI7P8&sz=w1600,https://drive.google.com/thumbnail?id=10pvimxrmuhyM5FZmz6z-xgddivhKJLCT&sz=w1600,https://drive.google.com/thumbnail?id=1rZBNbZqzUgcGSOGdFXWV2admn2Xlb3gK&sz=w1600,https://drive.google.com/thumbnail?id=1Lib4p6DxQ8ZncleddSUnfcgh1tsKpFgp&sz=w1600,https://drive.google.com/thumbnail?id=1QfWxGRh4rLxXLog6XrVY349vfZqp9-sl&sz=w1600" >}}
+{{< row "IMG_4229.jpg" >}}
+
+{{< row "IMG_4179.jpg" >}}
+
+{{< mosaic "L:IMG_4211.jpg T:IMG_4193.jpg IMG_4202.jpg IMG_4206.jpg" >}}
 
 <p>Вот фото с сайта туристического - прилив:</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1ey17S9-WuxrgEG_H9jf8NexM_kTwWGbj&sz=w1600" >}}
+{{< row "6a014e5f914cd8970c01910343ba75970c-500wi.jpg" >}}
 
 <p>(Кстати когда разбирали фотографии, Серега сказал что на фото смотрится интереснее, чем когда мы там бродили ;-)).</p>
 
@@ -37,6 +42,6 @@ hero_image: "https://drive.google.com/thumbnail?id=1QfWxGRh4rLxXLog6XrVY349vfZqp
 
 <p>Позорно сбежав, мы поехали ужинать. Везде предлагались лобстеры на ужин, но моя семья... не догоняет! Поэтому мне пришлось брать удар на себя и заказывать лобстера самостоятельно. Когда его принесли с набором щипцов и крючков для еды, то я немножко запаниковала и в полушутку сказала, что надо было спросить инструкцию. А мои дети тут же позвали официантку и она без вопросов принесла мне «методичку». Я почуствовала себя намного увереннее.</p>
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1fHJjibPw7lUjCn4bZErAjeeT0kjWgPVA&sz=w1600" >}}
+{{< row "20140804_170636.jpg" >}}
 
 <p> Как потом оказалось, лобстеров едят по тому же алгоритму что и раков, только не везде можно управиться руками и зубами ;-) Но я, как волжанка, которая в детстве не одно ведро раков умяла, отрывала клешни и панцирь и выскребывала из них все с большим удовольствием, а мои дети брезгливо морщились и старались не смотреть в мою сторону. Явная недоработка в воспитании, лобстеров не любят, может они и рябчиков не уважают?! О горе мне, горе :-)</p>

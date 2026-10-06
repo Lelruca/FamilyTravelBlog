@@ -10,6 +10,8 @@
     {{- if $img -}}
       {{- $thumb := $img.Resize "400x250 webp Smart" -}}
       {{- $thumbURL = $thumb.RelPermalink -}}
+    {{- else -}}
+      {{- $thumbURL = partial "story-photo-url.html" (dict "page" $ch "name" $heroFile "size" "w400") -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}

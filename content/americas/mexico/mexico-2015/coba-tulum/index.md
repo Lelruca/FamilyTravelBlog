@@ -1,11 +1,11 @@
 ---
 title: "Мексика - Коба и Тулум"
 type: "trips"
-layout: "photo-story-mexico"
+layout: "photo-story"
 weight: 40
 chapter_kind: "day"
 auto_gallery: false
-hero_image: "https://drive.google.com/thumbnail?id=1t8LyeM6hGV2TaqyM7cY9ezrc5LgnNc2w&sz=w2000"
+hero_image: "f80e46b689324b36ade623ab48d74350.jpg"
 places:
   - coba
   - tulum
@@ -16,50 +16,49 @@ places:
 
 <p>Первый день мы сделали выезд не очень далеко. После завтрака взяли машину, нам оба раза давали одинаковые, только 1 раз она была новая, мы первые на ней ехали, а второй раз не первые, и уже и радио не работало, и вообще ;-) </p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1_2xdi_vzzEAqahR44YNhzkQdOwzdxy9j&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.777778 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1_2xdi_vzzEAqahR44YNhzkQdOwzdxy9j=w1600" width="5312" height="2988" alt="" loading="lazy"></a></div></div>
+{{< row "20150705_101951.jpg" >}}
 
 <p>Наташка нам сказала, что она приехала отдыхать, а не по пирамидам по жаре лазить, и мы сошлись на совместной поездке в Чичен-Ицу, а в свое первое путешествие ее не потащили. А вот Митьке такого выбора не дали :-) Надавили на “совесть”, что мол он же у нас такой любитель истории, как же он может не хотеть посмотреть города майя!.. Поэтому поехали втроем. Кстати все очень цивильно! И паркинги, и билеты по кредиткам… Только на заправке пытались нас с курсом обдурить, но вполне так доброжелательно :-) Не получилось и ладно.</p>
 
 <p>Зато было ТАК интересно! Вокруг дорог разные лавочки с сувенирами, всякими кафе (мы не решились) и все такое яркое и цветное!!! Я прямо заставила Серегу остановиться, чтобы сделать фото. Наверное вот именно такая картина у меня в голове возникает, когда я вспоминаю Мексику - буйство красок!</p>
 
-<div class="essay-group"><div class="essay-row"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=16B4kw2RjLpcJWBePGg0Z3htOaJhwyOKf&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.777778 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/16B4kw2RjLpcJWBePGg0Z3htOaJhwyOKf=w1600" width="5312" height="2988" alt="" loading="lazy"></a><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1z6Cac6a5amHGkWXnU7e_ybcGAj2Vx7ti&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.777778 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1z6Cac6a5amHGkWXnU7e_ybcGAj2Vx7ti=w1600" width="5312" height="2988" alt="" loading="lazy"></a></div></div>
+{{< row "20150705_140650.jpg 20150705_140656.jpg" >}}
 
 <p>Первым, посещенным нами, дневним городом майя стал - Коба (Coba). Это не самый главный или крупный город, вообще на полуострове Юкатан очень много архиологических достопримечательностей и я выбирала долго куда именно поехать. Коба привлекла меня тем, что там можно на пирамиду большую забраться (во многих местах уже нельзя, т.к. это разрушает памятники) - пирамида Эль-Кастильо (El Castillo) высотой в 42 м, самая высокая на Юкатане. К вершине пирамиды ведут 120 ступеней. Плюс особенность Кобы в том, что она находится прямо в джунглях. Т.е. расчищены сами постройки, но не территория между ними.  А территория огромная! И расчищено далеко не все, т.к. древних городов много и конечно у государство до всего руки не доходят. Там можно конечно и ногами ходить, а можно взять велики на прокат или рикшу :-) Мы взяли велосипеды.</p>
 
-<div class="essay-group"><div class="essay-row"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1ZJhOpG8rfmRLQjuSYR0gWkAtc34rz0IS&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.333333 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1ZJhOpG8rfmRLQjuSYR0gWkAtc34rz0IS=w1600" width="4896" height="3672" alt="" loading="lazy"></a><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1boq9i6UjnownHfx5-i5CHM_MIPHBzhk_&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.333333 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1boq9i6UjnownHfx5-i5CHM_MIPHBzhk_=w1600" width="4896" height="3672" alt="" loading="lazy"></a></div></div>
+{{< row "DSC04040.jpg DSC04055.jpg" >}}
 
 <p> Но сначала, на входе, мы взяли гида. Я читала, что везде на месте предлагаются услуги гида, они все специально обучены и сертифицированы. Стоят порядка 50$ (цены за входные билеты какие-то невысокие). На входе стоят и предлагают свои услуги, мы сразу согласились (т.к. заранее на это настраивались). Другое дело, что рекламирует один, очень говорливый, а как заплатил, то подгоняют следующего из очереди…</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1_2GyzP78CJ3BSeLWgG5Z1aQtzfnP6nRd&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.750000 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1_2GyzP78CJ3BSeLWgG5Z1aQtzfnP6nRd=w1600" width="3672" height="4896" alt="" loading="lazy"></a></div></div>
+{{< row "DSC04024.jpg" >}}
 
 <p> Нам попался коренастый майя, ростом чуть выше Митьки и такой… простой. Он оттарабанил нам стандартную лекцию, очень неплохую! Я (как самая в семье непродвинутая в истории) узнала для себя кучу нового! И как череп детям аристократия формировала в виде “пули” (зажимали череп тисками специальным), что было ОЧЕНЬ круто, т.к. беднота носила все на голове и у них они были очень плоские :-) Или как в зубах дырки сверлили и вставляли туда драгоценные камни… Ну и конечно об истории майя, о самом короде Коба, который находился на середине пути между побережьем и Чичен-Ицой, а все товары доставлялись ПЕШКОМ. Майя не изобрели колесо, поэтому таскали все на голове… По ночам (жара же), а днем в городах отдыхали… Митька меня поразил своими знаниями, он с экскурсоводом стал обсуждать методы, которыми майя себя умерщвляли (ритуально) типа под языком там специальный надрез… Я так и не стала до конца вслушиваться ;-) Но короче Митька был в курсе последних исследований в этом вопросе :-О  Еще в Кобе есть поле для игра в мяч, оно довольно “узкое”, если сравнить с тем что в Чичен-Ице и опять же последние исследования показывают что не факт что победителей/проигравших потом приносили в жертву (как принято считать). (Потом мы с интересом смогли сравнить его с тем что в Чичен-Ице):</p>
 
-<div class="essay-group"><div class="essay-row"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1DVPXkRgd9tgUqgV-9y9qVCAhN_caslgV&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.333333 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1DVPXkRgd9tgUqgV-9y9qVCAhN_caslgV=w1600" width="4896" height="3672" alt="" loading="lazy"></a><a class="essay-photo " href="https://drive.google.com/thumbnail?id=10s5dXVFZInioHXnB9Ji_lFDSIX05LBOC&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.333333 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/10s5dXVFZInioHXnB9Ji_lFDSIX05LBOC=w1600" width="4896" height="3672" alt="" loading="lazy"></a></div>
-<div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1Uq7zdWwsy4H6raxztzDOgb3d89PP4tmD&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.750000 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1Uq7zdWwsy4H6raxztzDOgb3d89PP4tmD=w1600" width="3672" height="4896" alt="" loading="lazy"></a></div></div>
+{{< row "DSC04031.jpg DSC04032.jpg DSC04036.jpg" >}}
 
 <p>Экскурсовод провел нас по самым первым достопримечательностям, показал много разных картинок и документов в своей папке и довел до велосипедной станции. Я считаю что мы очень правильно сделали, что взяли гида, т.к. общую вводную мы получили и хоть какую-то картинку в голове сложили.  А иначе… пирамиды конечно прикольные, но… довольно одинаковые.</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1H78a-N_x4xtfX2L36ISmABqqr2SdUxNI&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.750000 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1H78a-N_x4xtfX2L36ISmABqqr2SdUxNI=w1600" width="3672" height="4896" alt="" loading="lazy"></a></div></div>
+{{< row "DSC04042.jpg" >}}
 
 <p>А вот еще какие импозантные гиды попадались:</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1i3csNMt653-CPkQympPwh4tbngBNHbve&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.750000 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1i3csNMt653-CPkQympPwh4tbngBNHbve=w1600" width="3672" height="4896" alt="" loading="lazy"></a></div></div>
+{{< row "DSC04044.jpg" >}}
 
 <p>Сели мы на велики и поехали к главной пирамиде - чтобы на нее залезть! А жарища… Градусов под 40! В тенечке еще ничего, а как стали мы с Митькой ползти на пирамиду… Серега сказал что не полезет, а мне же надо “галочку поставить”! Кстати пирамида довольно крутая и ступени раздолбаны, поэтому посередине канат сделали, чтобы туристы держались. Я так волновалась, что даже забыла запечатлеть саму пирамиду, пришлось в интернете чужие фото искать! </p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1iE3Ip8d7mYOsiZkFBALyLsjO2rmqzh7N&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.667143 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1iE3Ip8d7mYOsiZkFBALyLsjO2rmqzh7N=w1600" width="467" height="700" alt="" loading="lazy"></a></div></div>
+{{< row "66e57dc73472cf2b352c37ca42dcf798.jpg" >}}
 
 <p>А вот Митька весело лез впереди и даже смог меня сфоткать в процессе подъема:</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1dOKnEQr7zPoHEBgXDBmA-tNJUdssNFq2&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.333333 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1dOKnEQr7zPoHEBgXDBmA-tNJUdssNFq2=w1600" width="4896" height="3672" alt="" loading="lazy"></a></div></div>
+{{< row "DSC04046.jpg" >}}
 
 <p>Короче забралась я на верх и чуствую у меня голова кружится, того и гляди потеряю сознание :-( СТРАШНО! Не то слово, а тут еще Митька прыгает вокруг (того и гляди сорвется). Не успела я подумать что мне делать, появилась голова моего мужа. Фуууу. Как-то мне сразу поспокойнее стало, хорошо что он решил все-таки нас не бросать, как почуствовал :-) А там даже сесть толком негде… Ну постояла, постепенно вроде отдышалась и полегчало.</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1h1joLg2xEtNO_vKHbb15qbMHyTFfKRGl&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.333333 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1h1joLg2xEtNO_vKHbb15qbMHyTFfKRGl=w1600" width="4896" height="3672" alt="" loading="lazy"></a></div></div>
+{{< row "DSC04048.jpg" >}}
 
 <p> Вниз по пирамиде намного труднее чем вверх! Но, существует проверенный туристический способ - попой :-) Т.е. садишься на ступеньку, перебираешь ногами, и попой со ступеньки на ступеньку прыгаешь :-) При том ,что рукой ты еще за канат страхуешься, вполне так реально… </p>
 
-<div class="essay-group"><div class="essay-row"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=10kYTpDDPtzAsr90IS3pVpJheBlRbxkc8&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.333333 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/10kYTpDDPtzAsr90IS3pVpJheBlRbxkc8=w1600" width="4896" height="3672" alt="" loading="lazy"></a><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1OVY_s1pYLFk-eURJZPb3BzbeqaVWeca4&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.333333 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1OVY_s1pYLFk-eURJZPb3BzbeqaVWeca4=w1600" width="4896" height="3672" alt="" loading="lazy"></a></div></div>
+{{< row "DSC04051.jpg DSC04053.jpg" >}}
 
 <p>Сползли мы, купили на троих 2 литра холодной воды, сели на скамейку, посидели и покатили в сторону выхода :-)</p>
 
@@ -67,18 +66,18 @@ places:
 
 <p>А впереди нас ждал город Тулум (Tulum). Это уникальное место, полностью отличается от всех других. </p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1dSmk88OIWUFo-o_inUF48WDX-v30bsGf&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.333333 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1dSmk88OIWUFo-o_inUF48WDX-v30bsGf=w1600" width="4896" height="3672" alt="" loading="lazy"></a></div></div>
+{{< row "DSC04073.jpg" >}}
 
 <p>Это один из поздних городов майя, порт, находится прямо на берегу и обнесен толстенной “крепостной стеной”.</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1CEdLpgYr3bQZiMtX6uHNFI_kZbyqBytd&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.750000 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1CEdLpgYr3bQZiMtX6uHNFI_kZbyqBytd=w1600" width="3672" height="4896" alt="" loading="lazy"></a></div></div>
+{{< row "DSC04058.jpg" >}}
 
 <p> И он другой... Если все остальные археологические сайты, которые мы посетили это были нежилые постройки, т.к. пирамиды несли ритуальный характер, то это именно город. Вот не знаю почему, но у меня в голове возникла параллель с римскими развалинами. Не судите строго, но вот такие ассоциации возникли, видимо после джунглей открытое пространство с древними постройками... :-) ОЧЕНЬ красиво! Но вот сюда мы попали в самый зной, без гида и… вынесли намного меньше информации :-( Хотя посмотрели все с большим удовольствием!</p>
 
-<div class="essay-group"><div class="essay-mosaic" style="--cols:4;--cell-ratio:1.3333333333333333"><a class="essay-photo essay-cell essay-large" href="https://drive.google.com/thumbnail?id=1p5YILLzf1DtwjXbWCI54tu8RRfwp2mSq&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1p5YILLzf1DtwjXbWCI54tu8RRfwp2mSq=w1600" width="4896" height="3672" alt="" loading="lazy"></a><a class="essay-photo essay-cell essay-large" href="https://drive.google.com/thumbnail?id=101FN30P35UmPXfj70DaXZxBCWfS_21PJ&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/101FN30P35UmPXfj70DaXZxBCWfS_21PJ=w1600" width="4896" height="3672" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1TPCHuSs-P1CNpiwd5_wF_KZZbAYnb4mv&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1TPCHuSs-P1CNpiwd5_wF_KZZbAYnb4mv=w1600" width="4896" height="3672" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1rdviaNR_PI8dp_GLcKlxpFo7Y9LB3VZo&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1rdviaNR_PI8dp_GLcKlxpFo7Y9LB3VZo=w1600" width="4896" height="3672" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1zYUcBraFNV0lAbyrVKI6Vn01tT1G1oP2&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1zYUcBraFNV0lAbyrVKI6Vn01tT1G1oP2=w1600" width="4896" height="3672" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1B_wIyIuEHWOFuuV52nyqmjuMMvW0v3HD&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1B_wIyIuEHWOFuuV52nyqmjuMMvW0v3HD=w1600" width="4896" height="3672" alt="" loading="lazy"></a></div>
-<div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1Q115hXB5igkphQa-PMKW0o7w1yz088q1&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.750000 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1Q115hXB5igkphQa-PMKW0o7w1yz088q1=w1600" width="3672" height="4896" alt="" loading="lazy"></a></div></div>
+{{< mosaic "L:DSC04080.jpg DSC04069.jpg DSC04065.jpg DSC04077.jpg DSC04060.jpg" >}}
+
+{{< row "DSC04075.jpg DSC04081.jpg" >}}
 
 <p>Местный житель:</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1lqcxFQsJBvpMbkNwOD7pOMgsvIVLjcWj&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.333333 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1lqcxFQsJBvpMbkNwOD7pOMgsvIVLjcWj=w1600" width="4896" height="3672" alt="" loading="lazy"></a></div></div>
-
+{{< row "DSC04084.jpg" >}}

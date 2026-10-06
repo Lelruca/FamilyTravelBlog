@@ -1,11 +1,11 @@
 ---
 title: "Мексика - Дельфины"
 type: "trips"
-layout: "photo-story-mexico"
+layout: "photo-story"
 weight: 30
 chapter_kind: "day"
 auto_gallery: false
-hero_image: "https://drive.google.com/thumbnail?id=1e8hBYQS1_B3Krws9YbWwVoBpCGC452Tu&sz=w2000"
+hero_image: "DSC_0111.jpg"
 
 ---
 
@@ -13,25 +13,28 @@ hero_image: "https://drive.google.com/thumbnail?id=1e8hBYQS1_B3Krws9YbWwVoBpCGC4
 
 <p>Короче мы решили, что бесплатного представления нам более чем достаточно. Собрали детей, которые по жаре тащиться не так чтобы хотели, но… отрабатывали время с родителями.  Поэтому пришли только-только к началу и места нам достались в самом конце… близко к “тренерам”. И ПОВЕЗЛО! Они тут же подошли к Наташке (молодой, красивой и спортивной :-)) и спросили есть ли у нее купальник и хочет ли она поучаствовать в шоу в виде волонтера. Конечно хочет! Их выбрали 3-их, каждого научили показывать какой-то “трюк”. </p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1cDQTsaBsum4fG5LFVz3CYh7WF9FWhgU3&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.750000 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1cDQTsaBsum4fG5LFVz3CYh7WF9FWhgU3=w1600" width="3672" height="4896" alt="" loading="lazy"></a></div></div>
+{{< row "DSC04105.jpg" >}}
 
 <p>Наташке достался самый сложный! Она должна была в виде звезды лежать на воде, ДВА дельфина подплывали к ней сзади, тыкались носами ей с ноги и поднимали ее из воды! Не очень понимаю как координируют дельфины свою работу, но получилось у Наташки довольно достойно!</p>
 
-<div class="essay-group"><div class="essay-mosaic" style="--cols:3;--cell-ratio:1.5056179775280898"><a class="essay-photo essay-cell essay-large" href="https://drive.google.com/thumbnail?id=1rW5fQU6eGYh7tDnVbgr_aTokoTRXsipA&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1rW5fQU6eGYh7tDnVbgr_aTokoTRXsipA=w1600" width="3216" height="2136" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1iNojAjHDoiJZp9cHXMY-jmcZR-MbD711&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1iNojAjHDoiJZp9cHXMY-jmcZR-MbD711=w1600" width="3216" height="2136" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1_xgXTmoeHx49criXkucf6zWJOgKDABN8&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1_xgXTmoeHx49criXkucf6zWJOgKDABN8=w1600" width="3216" height="2136" alt="" loading="lazy"></a></div>
-<div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1exJDegpugsODtAPgeGpbS5FxXaDYzK0l&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.505618 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1exJDegpugsODtAPgeGpbS5FxXaDYzK0l=w1600" width="3216" height="2136" alt="" loading="lazy"></a></div></div>
+{{< row "DSC_0045.jpg" >}}
+
+{{< row "DSC_0043.jpg DSC_0044.jpg DSC_0048.jpg" >}}
 
 <p class="missing-photo">[Фото 7: имя файла неизвестно — требуется восстановление]</p>
 
-<div class="essay-group"><div class="essay-row"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1WabPHqBR3V6cMhvqXVEpmlJQwPqdKMN4&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.505618 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1WabPHqBR3V6cMhvqXVEpmlJQwPqdKMN4=w1600" width="3216" height="2136" alt="" loading="lazy"></a><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1Of7_FkG5aHHdrfJLirRMFr1GoPRCgX8o&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.505618 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1Of7_FkG5aHHdrfJLirRMFr1GoPRCgX8o=w1600" width="3216" height="2136" alt="" loading="lazy"></a></div></div>
+{{< row "DSC_0050.jpg DSC_0053.jpg" >}}
 
 <p> Ну и само шоу было очень интересным. И прыгали дельфины, и мячик кидали и пр. Мы конечно фоткали как могли и выступление и Наташу…</p>
 
-<div class="essay-group"><div class="essay-mosaic" style="--cols:3;--cell-ratio:1.4953271028037383"><a class="essay-photo essay-cell essay-large" href="https://drive.google.com/thumbnail?id=1WWBOWJrLf3nZqBjkEBpQn1hq7e7TeuR4&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1WWBOWJrLf3nZqBjkEBpQn1hq7e7TeuR4=w1600" width="1280" height="856" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1UBTQarRjPCachNV4s-oQyvNEWmojQWcw&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1UBTQarRjPCachNV4s-oQyvNEWmojQWcw=w1600" width="3216" height="2136" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=13LZrFSLH2gkvnMaOW0INL3wlD4KcFO-e&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/13LZrFSLH2gkvnMaOW0INL3wlD4KcFO-e=w1600" width="3216" height="2136" alt="" loading="lazy"></a></div>
-<div class="essay-row essay-narrow"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1cD4gyfsMjrbOqkTdfxKMIyILPp7KFY3I&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:0.664179 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1cD4gyfsMjrbOqkTdfxKMIyILPp7KFY3I=w1600" width="2136" height="3216" alt="" loading="lazy"></a></div></div>
+{{< row "CSC_0017.jpg DSC_0060.jpg" >}}
+
+{{< row "DSC_0063.jpg DSC_0056.jpg" >}}
 
 <p>А после окончания подошел к нам фотограф профессиональный и говорит, мол я сделал снимки вашей дочери и если хотите, то можете их купить, а в эту цену входит еще и 3 разных “позы” дополнительно с дельфинами.  Как нам объяснили (и мы согласны), в итоге этой фото сессии ты получаешь столько же времени общения с дельфинами, сколько и при “плавании с ними”, но дешевле и еще фото на диске! Мы говорим, что согласны, но можно фото сессию с Митькой (раз у Наташки и так получилось поплавать). Короче так сговорились, что они каждого по 3 позы пощелкали :-) Т.ч. с дельфинами у нас получилось по полной программе удовольствие :-)</p>
 
-<div class="essay-group"><div class="essay-mosaic" style="--cols:4;--cell-ratio:1.5056179775280898"><a class="essay-photo essay-cell essay-large" href="https://drive.google.com/thumbnail?id=1KZsoy3f3cmjJEVfq_qF8YPm7sskO20rJ&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1KZsoy3f3cmjJEVfq_qF8YPm7sskO20rJ=w1600" width="3216" height="2136" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1bxTYzZYztdbw9maWa-0eCx4fAwM-cjgn&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1bxTYzZYztdbw9maWa-0eCx4fAwM-cjgn=w1600" width="3216" height="2136" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=16gL3MufUNCk0-v7vZPYYKLWchtTST_uJ&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/16gL3MufUNCk0-v7vZPYYKLWchtTST_uJ=w1600" width="3216" height="2136" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1UBiu5fZMN9TfdFd4bHDO8cZq6mglCUcT&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1UBiu5fZMN9TfdFd4bHDO8cZq6mglCUcT=w1600" width="3216" height="2136" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1j1IgeKmoUImWWorLqDXgsgwlUqhUjy50&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1j1IgeKmoUImWWorLqDXgsgwlUqhUjy50=w1600" width="3216" height="2136" alt="" loading="lazy"></a></div>
-<div class="essay-mosaic" style="--cols:3;--cell-ratio:1.5056179775280898"><a class="essay-photo essay-cell essay-large" href="https://drive.google.com/thumbnail?id=1TJvlcpDPjuUOkO0PXOJtmZ8sX-iHJCW9&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1TJvlcpDPjuUOkO0PXOJtmZ8sX-iHJCW9=w1600" width="3216" height="2136" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=174fJgv5Fe9hWu-DpW73BiDnXZd0Upg1w&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/174fJgv5Fe9hWu-DpW73BiDnXZd0Upg1w=w1600" width="3216" height="2136" alt="" loading="lazy"></a><a class="essay-photo essay-cell" href="https://drive.google.com/thumbnail?id=1_giLhKdMJGYSNFzkWsnuyoeyo_3_zCoE&sz=w2000" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1_giLhKdMJGYSNFzkWsnuyoeyo_3_zCoE=w1600" width="3216" height="2136" alt="" loading="lazy"></a></div>
-<div class="essay-row"><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1VsaGi8yL8jY-zLpDuoPTDqeuJSvy3jJr&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.333333 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1VsaGi8yL8jY-zLpDuoPTDqeuJSvy3jJr=w1600" width="4896" height="3672" alt="" loading="lazy"></a><a class="essay-photo " href="https://drive.google.com/thumbnail?id=1F1j-dmtIyxGkqeldJd4AErjmbgUSdC_i&sz=w2000" data-photo-lightbox data-photo-alt="" style="flex:1.333333 1 0;--mobile-share:0.5"><img referrerpolicy="no-referrer" src="https://lh3.googleusercontent.com/d/1F1j-dmtIyxGkqeldJd4AErjmbgUSdC_i=w1600" width="4896" height="3672" alt="" loading="lazy"></a></div></div>
+{{< mosaic "L:DSC_0087.jpg DSC_0100.jpg DSC_0115.jpg DSC_0075.jpg DSC_0132.jpg" >}}
 
+{{< row "DSC_0090.jpg DSC_0096.jpg" >}}
+
+{{< row "DSC_0109.jpg DSC04133.jpg DSC04136.jpg" >}}

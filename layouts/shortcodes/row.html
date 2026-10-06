@@ -8,9 +8,12 @@
 {{- $page := .Page -}}
 {{- $items := slice -}}
 {{- $sum := 0.0 -}}
+{{- $minHeight := 100000.0 -}}
 {{- range $names -}}
   {{- if . -}}
     {{- $r := partial "story-photo-ratio.html" (dict "page" $page "name" .) -}}
+    {{- $info := index (index site.Data.photos $page.Parent.File.ContentBaseName) (printf "%s/%s" $page.File.ContentBaseName .) -}}
+    {{- $minHeight = math.Min $minHeight (float $info.h) -}}
     {{- $items = $items | append (dict "name" . "r" $r) -}}
     {{- $sum = add $sum $r -}}
   {{- end -}}
@@ -53,7 +56,9 @@
   {{- end -}}
   {{- $lines = $lines | append (slice (dict "items" $cur "sum" $acc)) -}}
 {{- end -}}
-<div class="essay-group"><div class="essay-row{{ if $narrow }} essay-narrow{{ end }}">
+{{- /* Keep small maps and archive illustrations at their native size. */ -}}
+{{- $nativeWidth := add (mul $minHeight $sum) (mul $gap (sub $n 1)) -}}
+<div class="essay-group"><div class="essay-row{{ if $narrow }} essay-narrow{{ end }}"{{ if lt $nativeWidth (cond $narrow 616.0 1116.0) }} style="max-width:min(100%,{{ $nativeWidth }}px)"{{ end }}>
 {{- range $line := $lines -}}
   {{- range $line.items -}}
     {{- $url := partial "story-photo-url.html" (dict "page" $page "name" .name) -}}

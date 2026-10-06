@@ -1,6 +1,7 @@
 ---
 title: "Европа 2012 - планирование"
 chapter_kind: "preparation"
+layout: "photo-story"
 weight: 10
 auto_gallery: false
 ---

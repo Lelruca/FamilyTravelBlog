@@ -1,6 +1,7 @@
 ---
 title: "Заключение"
 chapter_kind: "reflections"
+layout: "photo-story"
 weight: 90
 auto_gallery: false
 ---
