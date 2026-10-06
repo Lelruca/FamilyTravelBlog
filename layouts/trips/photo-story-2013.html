@@ -10,7 +10,7 @@
 <a href="{{ $trip.RelPermalink }}" class="text-accent">{{ $trip.Title }}</a>
 <h1 class="font-serif">{{ .Title }}</h1>
 <div class="essay-meta"><span>Глава {{ add $idx 1 }} из {{ len $chapters }}</span><a href="{{ $trip.RelPermalink }}">Оглавление</a></div>
-{{ with .Params.hero_image }}<a href="{{ . }}" data-essay-cover><img class="essay-cover" src="{{ partial "gimg.html" (dict "url" . "size" "w2000") }}" alt="{{ $.Title }}" loading="eager" fetchpriority="high"></a>{{ end }}
+{{ with .Params.hero_image }}<a href="{{ . }}" data-photo-lightbox><img class="essay-cover" src="{{ partial "gimg.html" (dict "url" . "size" "w2000") }}" alt="{{ $.Title }}" loading="eager" fetchpriority="high"></a>{{ end }}
 </header>
 <div class="essay-body">{{ .Content }}</div>
 <nav class="essay-navigation" aria-label="Навигация по главам">
@@ -20,6 +20,6 @@
 </nav>
 </article>
 <script>
-document.addEventListener("DOMContentLoaded",()=>{const rotations={"1a6Qa6WKwmJnrIOR4WZfWlbNtZKD62uR8":90,"1wsOmsw110t_SAGqMknwo_COmA1DVN2n3":90};const photo=document.getElementById("photo-lightbox-image");const update=()=>{const id=(photo.src.match(/[?&]id=([^&]+)/)||photo.src.match(/\/d\/([^=]+)/)||[])[1];const rotation=rotations[id]||0;photo.style.transform=rotation?"rotate("+rotation+"deg)":"";photo.style.maxWidth=rotation?"86vh":"";photo.style.maxHeight=rotation?"94vw":"";};if(photo)new MutationObserver(update).observe(photo,{attributes:true,attributeFilter:["src"]});const cover=document.querySelector("[data-essay-cover]");if(cover)cover.addEventListener("click",event=>{event.preventDefault();const id=(cover.href.match(/[?&]id=([^&]+)/)||[])[1];const target=Array.from(document.querySelectorAll(".essay-photo")).find(a=>a.href.includes(id));if(target)target.click();});});
+document.addEventListener("DOMContentLoaded",()=>{const rotations={"1a6Qa6WKwmJnrIOR4WZfWlbNtZKD62uR8":90,"1wsOmsw110t_SAGqMknwo_COmA1DVN2n3":90};const photo=document.getElementById("photo-lightbox-image");const update=()=>{const id=(photo.src.match(/[?&]id=([^&]+)/)||photo.src.match(/\/d\/([^=]+)/)||[])[1];const rotation=rotations[id]||0;photo.style.transform=rotation?"rotate("+rotation+"deg)":"";photo.style.maxWidth=rotation?"86vh":"";photo.style.maxHeight=rotation?"94vw":"";};if(photo)new MutationObserver(update).observe(photo,{attributes:true,attributeFilter:["src"]});});
 </script>
 {{ end }}
