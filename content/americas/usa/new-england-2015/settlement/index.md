@@ -2,7 +2,7 @@
 title: "Наше освоение Новой Англии: расселение"
 type: "trips"
 layout: "photo-story"
-draft: true
+draft: false
 weight: 30
 chapter_kind: "theme"
 auto_gallery: false

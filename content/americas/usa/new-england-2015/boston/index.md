@@ -2,7 +2,7 @@
 title: "Наше освоение Новой Англии: Бостон"
 type: "trips"
 layout: "photo-story"
-draft: true
+draft: false
 weight: 40
 chapter_kind: "theme"
 auto_gallery: false

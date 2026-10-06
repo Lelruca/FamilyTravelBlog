@@ -1,7 +1,7 @@
 ---
 title: "2015 лето: Наше освоение Новой Англии"
 type: "trips"
-draft: true
+draft: false
 trip_year: 2015
 continent: "Северная Америка"
 country: "США"

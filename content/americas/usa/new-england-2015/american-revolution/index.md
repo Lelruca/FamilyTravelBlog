@@ -2,7 +2,7 @@
 title: "Наше освоение Новой Англии: Американская революция"
 type: "trips"
 layout: "photo-story"
-draft: true
+draft: false
 weight: 50
 chapter_kind: "theme"
 auto_gallery: false
