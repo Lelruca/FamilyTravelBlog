@@ -2,7 +2,7 @@
 title: "Наше освоение Новой Англии - вступление (Кейп Код)"
 type: "trips"
 layout: "photo-story"
-draft: true
+draft: false
 weight: 10
 chapter_kind: "preparation"
 auto_gallery: false

@@ -2,7 +2,7 @@
 title: "Наше освоение Новой Англии: отцы-пилигримы"
 type: "trips"
 layout: "photo-story"
-draft: true
+draft: false
 weight: 20
 chapter_kind: "theme"
 auto_gallery: false

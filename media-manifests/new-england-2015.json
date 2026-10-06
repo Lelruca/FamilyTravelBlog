@@ -51,13 +51,16 @@
       "title": "Наше освоение Новой Англии: Позолоченный век",
       "folder": "07 - Позолоченный век",
       "photoSelectionComplete": true,
-      "photoSelectionNote": "Владелец выбрала семь новых фотографий; вместе с четырьмя сохранившимися иллюстрациями все кадры размещены по эпизодам The Breakers, The Elms и Ньюпорт."
+      "photoSelectionNote": "Владелец выбрала семь новых фотографий; вместе с четырьмя сохранившимися иллюстрациями все кадры размещены по эпизодам The Breakers, The Elms и Ньюпорт.",
+      "photoGroupingNote": "Фасады проверены по официальным изображениям Newport Mansions: 20.jpg и кадры с флагом — разные стороны The Breakers. Входные виды и балюстрада собраны отдельно от фасада к океану и газона. Сфинкс с надписью The Elms остаётся в своём эпизоде."
     },
     {
       "start": 294,
       "end": 329,
       "title": "Наше освоение Новой Англии - культурное наследие",
-      "folder": "08 - культурное наследие"
+      "folder": "08 - культурное наследие",
+      "photoSelectionComplete": true,
+      "photoSelectionNote": "Владелец выбрала девять фотографий: Tanglewood и семейный пикник, два кадра у авторской подписи «Трудно иметь старшую сестру», виды The Clark. Все использованы по одному разу, целиком."
     }
   ],
   "photos": [
@@ -3319,19 +3322,19 @@
       "width": 1155,
       "height": 768,
       "filename": "20.jpg",
-      "archiveFile": "07 - Позолоченный век/02_20.jpg",
+      "archiveFile": "07 - Позолоченный век/05_20.jpg",
       "status": "downloaded",
       "driveCandidates": [
         {
           "id": "1xr4CG8Ouk3NJzb5pnIMujMYGfyNgcMCV",
-          "local_title": "02_20.jpg"
+          "local_title": "05_20.jpg"
         }
       ],
       "driveId": "1xr4CG8Ouk3NJzb5pnIMujMYGfyNgcMCV",
       "displayURL": "https://drive.google.com/thumbnail?id=1xr4CG8Ouk3NJzb5pnIMujMYGfyNgcMCV&sz=w1600",
       "slug": "gilded-age",
       "orientation": 1,
-      "displayOrder": 2
+      "displayOrder": 5
     },
     {
       "chapter": 7,
@@ -3798,7 +3801,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 65
+      "reviewNumber": 65,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 8,
@@ -3827,7 +3831,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 66
+      "reviewNumber": 66,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 8,
@@ -3856,7 +3861,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 67
+      "reviewNumber": 67,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 8,
@@ -3885,7 +3891,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 68
+      "reviewNumber": 68,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 8,
@@ -3914,7 +3921,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 69
+      "reviewNumber": 69,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 8,
@@ -3943,7 +3951,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 70
+      "reviewNumber": 70,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 8,
@@ -3972,7 +3981,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 71
+      "reviewNumber": 71,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 8,
@@ -4001,7 +4011,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 72
+      "reviewNumber": 72,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 8,
@@ -4030,7 +4041,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 73
+      "reviewNumber": 73,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 8,
@@ -4059,7 +4071,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 74
+      "reviewNumber": 74,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 8,
@@ -4088,7 +4101,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 75
+      "reviewNumber": 75,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 8,
@@ -4117,7 +4131,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 76
+      "reviewNumber": 76,
+      "recoveryStatus": "replaced-by-owner-selection"
     }
   ],
   "addedPhotos": [
@@ -5287,9 +5302,9 @@
       "slug": "gilded-age",
       "filename": "20150817_131343.jpg",
       "originalFilename": "20150817_131343.jpg",
-      "order": 4,
+      "order": 2,
       "folder": "07 - Позолоченный век",
-      "archiveFile": "07 - Позолоченный век/04_20150817_131343.jpg",
+      "archiveFile": "07 - Позолоченный век/02_20150817_131343.jpg",
       "status": "owner-selected",
       "selectedBy": "owner",
       "width": 5312,
@@ -5307,9 +5322,9 @@
       "slug": "gilded-age",
       "filename": "20150817_131426.jpg",
       "originalFilename": "20150817_131426.jpg",
-      "order": 5,
+      "order": 4,
       "folder": "07 - Позолоченный век",
-      "archiveFile": "07 - Позолоченный век/05_20150817_131426.jpg",
+      "archiveFile": "07 - Позолоченный век/04_20150817_131426.jpg",
       "status": "owner-selected",
       "selectedBy": "owner",
       "width": 5312,
@@ -5380,6 +5395,186 @@
       "driveId": "1n85oaHIFW1odt6wd9ZmnnruX7Rt5hEEH",
       "displayURL": "https://drive.google.com/thumbnail?id=1n85oaHIFW1odt6wd9ZmnnruX7Rt5hEEH&sz=w1600",
       "placement": 5
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "Наше освоение Новой Англии - культурное наследие",
+      "slug": "cultural-heritage",
+      "filename": "20150822_200950.jpg",
+      "originalFilename": "20150822_200950.jpg",
+      "order": 1,
+      "folder": "08 - культурное наследие",
+      "archiveFile": "08 - культурное наследие/01_20150822_200950.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 5312,
+      "height": 2988,
+      "orientation": 1,
+      "bytes": 6201586,
+      "sha256": "1375428aa30e6d22b7bd4cdda2f959287ef5ac2da009aa006a653631247e1333",
+      "driveId": "19CaRbh2cFRKT5hPT33npW7xlGdYsBF1w",
+      "displayURL": "https://drive.google.com/thumbnail?id=19CaRbh2cFRKT5hPT33npW7xlGdYsBF1w&sz=w1600",
+      "placement": "hero"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "Наше освоение Новой Англии - культурное наследие",
+      "slug": "cultural-heritage",
+      "filename": "20150822_191629.jpg",
+      "originalFilename": "20150822_191629.jpg",
+      "order": 2,
+      "folder": "08 - культурное наследие",
+      "archiveFile": "08 - культурное наследие/02_20150822_191629.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 5312,
+      "height": 2988,
+      "orientation": 1,
+      "bytes": 6083710,
+      "sha256": "aae82575a173424b271d579e05e3fa867ad6e44982049237216338b198c80709",
+      "driveId": "1Aq4-UKed_pWO3iLh2dkJDBfTEaXLn3BC",
+      "displayURL": "https://drive.google.com/thumbnail?id=1Aq4-UKed_pWO3iLh2dkJDBfTEaXLn3BC&sz=w1600",
+      "placement": 0
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "Наше освоение Новой Англии - культурное наследие",
+      "slug": "cultural-heritage",
+      "filename": "20150822_192245.jpg",
+      "originalFilename": "20150822_192245.jpg",
+      "order": 3,
+      "folder": "08 - культурное наследие",
+      "archiveFile": "08 - культурное наследие/03_20150822_192245.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 5312,
+      "height": 2988,
+      "orientation": 1,
+      "bytes": 9251840,
+      "sha256": "4984b418c2a0fe74707a93822c6e8e139c8afa6974790d8ab36b8c56a3c0cd1d",
+      "driveId": "1fvTF3R0lE2_gSk87Q4tPscx5K_IU5fCZ",
+      "displayURL": "https://drive.google.com/thumbnail?id=1fvTF3R0lE2_gSk87Q4tPscx5K_IU5fCZ&sz=w1600",
+      "placement": 0
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "Наше освоение Новой Англии - культурное наследие",
+      "slug": "cultural-heritage",
+      "filename": "20150822_195713.jpg",
+      "originalFilename": "20150822_195713.jpg",
+      "order": 4,
+      "folder": "08 - культурное наследие",
+      "archiveFile": "08 - культурное наследие/04_20150822_195713.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 5312,
+      "height": 2988,
+      "orientation": 1,
+      "bytes": 6175560,
+      "sha256": "fc1f59521a75b42daa6d70c68b1a52990aa50990df19fe3a4e50cb5a3a07580a",
+      "driveId": "187zmK63KQbKeXV7yhw0wPvsfopsaIfCP",
+      "displayURL": "https://drive.google.com/thumbnail?id=187zmK63KQbKeXV7yhw0wPvsfopsaIfCP&sz=w1600",
+      "placement": 1
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "Наше освоение Новой Англии - культурное наследие",
+      "slug": "cultural-heritage",
+      "filename": "20150822_200738.jpg",
+      "originalFilename": "20150822_200738.jpg",
+      "order": 5,
+      "folder": "08 - культурное наследие",
+      "archiveFile": "08 - культурное наследие/05_20150822_200738.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 2988,
+      "height": 5312,
+      "orientation": 1,
+      "bytes": 3536529,
+      "sha256": "3a68697a325b6df0bd6dcc6bab63b3e4b58a586a22582ac7692c629826e0a196",
+      "driveId": "1YBMo0JXQfxTEipuC1_NKHrB-_tjoVzP2",
+      "displayURL": "https://drive.google.com/thumbnail?id=1YBMo0JXQfxTEipuC1_NKHrB-_tjoVzP2&sz=w1600",
+      "placement": 1
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "Наше освоение Новой Англии - культурное наследие",
+      "slug": "cultural-heritage",
+      "filename": "20150822_195804.jpg",
+      "originalFilename": "20150822_195804.jpg",
+      "order": 6,
+      "folder": "08 - культурное наследие",
+      "archiveFile": "08 - культурное наследие/06_20150822_195804.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 2988,
+      "height": 5312,
+      "orientation": 1,
+      "bytes": 3134980,
+      "sha256": "b5b71e15e22fad1e3b87f377e96c7e45cf486e52fa05054e73bd363a06977632",
+      "driveId": "1jGLAL7oaaXXaxj4NNcJF3voQdUl6fstZ",
+      "displayURL": "https://drive.google.com/thumbnail?id=1jGLAL7oaaXXaxj4NNcJF3voQdUl6fstZ&sz=w1600",
+      "placement": 2
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "Наше освоение Новой Англии - культурное наследие",
+      "slug": "cultural-heritage",
+      "filename": "20150822_195935.jpg",
+      "originalFilename": "20150822_195935.jpg",
+      "order": 7,
+      "folder": "08 - культурное наследие",
+      "archiveFile": "08 - культурное наследие/07_20150822_195935.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 2988,
+      "height": 5312,
+      "orientation": 1,
+      "bytes": 3342428,
+      "sha256": "c7efcbbaa16788257b087c17a0f7f9a71c19c5ceb82876fa1c6ad0fcd5c4f400",
+      "driveId": "1v4c3G28e2nHILxBK2zBLtqjiqAKPw_KO",
+      "displayURL": "https://drive.google.com/thumbnail?id=1v4c3G28e2nHILxBK2zBLtqjiqAKPw_KO&sz=w1600",
+      "placement": 2
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "Наше освоение Новой Англии - культурное наследие",
+      "slug": "cultural-heritage",
+      "filename": "20150823_122153.jpg",
+      "originalFilename": "20150823_122153.jpg",
+      "order": 8,
+      "folder": "08 - культурное наследие",
+      "archiveFile": "08 - культурное наследие/08_20150823_122153.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 5312,
+      "height": 2988,
+      "orientation": 1,
+      "bytes": 5504114,
+      "sha256": "d6aec581860c94aa5b6a6d5d927e51f5bd3323f79bb0ab9cff9ca41be13043a5",
+      "driveId": "1ILMnzzHEcYUzox6-37qox6dDdJ0sVuXd",
+      "displayURL": "https://drive.google.com/thumbnail?id=1ILMnzzHEcYUzox6-37qox6dDdJ0sVuXd&sz=w1600",
+      "placement": 3
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "Наше освоение Новой Англии - культурное наследие",
+      "slug": "cultural-heritage",
+      "filename": "20150823_122203.jpg",
+      "originalFilename": "20150823_122203.jpg",
+      "order": 9,
+      "folder": "08 - культурное наследие",
+      "archiveFile": "08 - культурное наследие/09_20150823_122203.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 5312,
+      "height": 2988,
+      "orientation": 1,
+      "bytes": 4826270,
+      "sha256": "c5a4961025c803327167f2a2a5ba991243ed02dc99da883a9f271d08a05e9f15",
+      "driveId": "1dLeZndsm5xcq7qLizMQl6jbFMKyIiusl",
+      "displayURL": "https://drive.google.com/thumbnail?id=1dLeZndsm5xcq7qLizMQl6jbFMKyIiusl&sz=w1600",
+      "placement": 3
     }
   ],
   "unusedPhotos": [
@@ -5411,5 +5606,6 @@
     "driveId": "1ltJJAwqE8wQfk4H8bwlX341E-ExJN416",
     "displayURL": "https://drive.google.com/thumbnail?id=1ltJJAwqE8wQfk4H8bwlX341E-ExJN416&sz=w2000",
     "placement": "trip-cover"
-  }
+  },
+  "photoSelectionComplete": true
 }
