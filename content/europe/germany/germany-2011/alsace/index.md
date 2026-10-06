@@ -1,13 +1,14 @@
 ---
 title: "Эльзас"
 chapter_kind: "part"
+layout: "photo-story"
 weight: 40
 city: "Haut-Koenigsbourg, Riquewihr и Colmar"
 places:
   - haut-koenigsbourg
   - riquewihr
   - colmar
-hero_image: "https://drive.google.com/thumbnail?id=1SeL390lOoaJWbKKIeMexJhpT6eK7hp6R&sz=w2000"
+hero_image: "2011-08-22_02.15.37.jpg"
 date: 2011-08-22
 auto_gallery: false
 ---
@@ -27,7 +28,15 @@ auto_gallery: false
 
 Так что просто рекомендую!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1SeL390lOoaJWbKKIeMexJhpT6eK7hp6R&sz=w1600,https://drive.google.com/thumbnail?id=1_3_0czgKt1jMsqUHxjAE2IX3wrEjR9R7&sz=w1600,https://drive.google.com/thumbnail?id=1CHVjfOLlJU12mDD2XEX_zJz9IP0rZjki&sz=w1600,https://drive.google.com/thumbnail?id=1Q64G1F1ZJquo6RY3V-UKvJaHol2VnR4e&sz=w1600,https://drive.google.com/thumbnail?id=1yk44hQBTqniNy6PWS3DwuD14jJG8EOYU&sz=w1600,https://drive.google.com/thumbnail?id=13oqLdztF2W2QJa1OBjOiqKdiVrc5O_hk&sz=w1600,https://drive.google.com/thumbnail?id=19ukSkYkv1Dl-3X1iUjsPL3K6OIau9MiL&sz=w1600,https://drive.google.com/thumbnail?id=1cfyCccnpe9RSx5izjgOjOw3P4M2VBI6e&sz=w1600,https://drive.google.com/thumbnail?id=1MaTBkf4PgG9QxLCGQkksfoxR2ETb4e-F&sz=w1600,https://drive.google.com/thumbnail?id=1Ps2ZWbGYm-UFcLFeZO1lc40imJkWN-sp&sz=w1600,https://drive.google.com/thumbnail?id=1QL3Q4BmeRmqCSyvKrAV3fcsJMBaDiJPu&sz=w1600,https://drive.google.com/thumbnail?id=15p8KYkWrVL6RINNM8UJN9uCSSc-odsub&sz=w1600,https://drive.google.com/thumbnail?id=18jKmKkudSdkWuuxaBlkj0xfyoNzl2KyY&sz=w1600,https://drive.google.com/thumbnail?id=1mg6LQqx5976LXxoO09PJBy9V7mdbrFw0&sz=w1600,https://drive.google.com/thumbnail?id=1DLMvIuQxV95xXqKqFkYjHMhAQ_jUsupC&sz=w1600,https://drive.google.com/thumbnail?id=1Gn0xEX40-T5soKLPxLYQaNd3n-hPLr5o&sz=w1600,https://drive.google.com/thumbnail?id=1oCknfUAcRw1KODKQBaYyMs4vF7PBPw4r&sz=w1600,https://drive.google.com/thumbnail?id=17IXOA6GdWG7_JZV9F3Q_9HAPHkjLGY6h&sz=w1600" >}}
+{{< mosaic "L:P8221962.jpg P8221961.jpg P8221963.jpg P8221967.jpg P8221968.jpg" >}}
+
+{{< row "P8221994.jpg P8221998.jpg P8221999.jpg" >}}
+
+{{< mosaic "L:P8222002.jpg T:P8221977.jpg P8221975.jpg P8221980.jpg" >}}
+
+{{< row "P8221966.jpg P8221971.jpg P8221997.jpg" >}}
+
+{{< row "P8221988.jpg P8221990.jpg" >}}
 
 Дальше мы вырулили на «винную дорогу Эльзаса». Из многочисленных городков и деревень на этой «дороге» нами был выбран Riquewihr. Это старинный средневековый городок, который не пострадал во время войны, и который почти не изменился внутри своих крепостных стен. Машины остаются за пределами города и в город, через настоящие городские ворота мы входим уже пешком.
 
@@ -39,13 +48,17 @@ auto_gallery: false
 
 Я описываю это случай как раз потому, что он, вместе с рядом других, просто заставил нас задуматься о разных правилах сервиса (именно правилах, а не уровня!) и главное о НАШЕМ восприятии.
 
-{{< photo src="https://drive.google.com/thumbnail?id=1uzAXpBiLjSsbFeA2OaFjO7FsjgwKjcIc&sz=w2000" size="wide" >}}
+{{< row "P8222009.jpg" >}}
 
 Ну и потом мы «пошли по кабакам» :-)
 
 По всему городу расположены винные подвальчики, заходишь в них и начинаешь дегустировать ;-) Эльзас славится своими белыми винами, городок Riquewihr знаменит Riesling-ом, но я больше по сладенькому и поэтому открыла для себя Gewürztraminer и Pinot Gris. В подвальчике прохладно, вино охлажденное и вроде пробуешь себе и пробуешь, а потом выходишь на улицу где за 30 и... голова кружится ;-) «Клюкали» мы в основном с Наташкой, т.к. Серега был за рулем и тоже конечно попробовал, но чуть-чуть. А ребенок наш с удовольствием пробовал, чувствуя себя достаточно взрослой в свой 16 лет, тем более что французы никаких документов не требуют ;-) Таким образом мы прошли где-то 3-4 подвальчика, купили несколько бутылок вина и я, человек мало и редко пьющий, в удивлением стала отличать один вид вина от другого :-)
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1usCcflTMbrEr_K2OO7jEHZwqf1HmFCRa&sz=w1600,https://drive.google.com/thumbnail?id=1Y3hg6t8pai5Lw6yM3oFTAi3Ah_kkVomi&sz=w1600,https://drive.google.com/thumbnail?id=1zm25-XosL9tfJkuT_XzwEad3YKoDEgJH&sz=w1600,https://drive.google.com/thumbnail?id=1uBHg0jBIU4E6QNjHTQY0fhTbPmvdglsF&sz=w1600,https://drive.google.com/thumbnail?id=1pXYkukfmPmmd-kHrAZooxn74RsYZTpsc&sz=w1600,https://drive.google.com/thumbnail?id=1MPL1Em3Xo0yBAyJcyljc0SaIHYelZsnd&sz=w1600,https://drive.google.com/thumbnail?id=1l2QXY9NQfmP01oYA3KpnoXo1a_0eODWm&sz=w1600,https://drive.google.com/thumbnail?id=1mZQzOLEN0b2nUNtXG2fDc8qXlDFT0ec6&sz=w1600,https://drive.google.com/thumbnail?id=1ILnIE4raV-rnTp-HYa45Y1Ia3OeoQhFp&sz=w1600,https://drive.google.com/thumbnail?id=1ItXrsuR9LonEkSmBwUSIosKGZnj7r2Id&sz=w1600" >}}
+{{< mosaic "L:2011-08-22_09.20.14.jpg T:P8222018.jpg 2011-08-22_09.20.20.jpg P8222013.jpg" >}}
+
+{{< mosaic "R:P8222003.jpg T:P8222017.jpg P8222015.jpg P8222010.jpg" >}}
+
+{{< row "P8222011.jpg P8222014.jpg" >}}
 
 После Риквира мы отправились в Кольмар (Colmar), где расположились в гостинице Kyriad Hotel Colmar Cite Administrative. Две соединенные комнаты, бесплатный паркинг и 10 минут до исторического центра. Казалось что еще надо? Оказалось что я не подумала что без кондиционера на юге Франции нам будет ОЧЕНЬ не просто :-) Но если путешествовать в другое время года, то вполне приличное место для ночлега. Но мы бросили вещи и побежали обследовать старый город и КУШАТЬ :-) Потому что в течении всего дня мы не тратили время на еду, но правда у нас весь багажник был забит соками, водой, сухими немецкими колбасками и т.п. Все это мы заранее закупили в «дешевых» немецкий магазинах и все 5 дней нас это ОЧЕНЬ выручало! Завтрак обычно был в гостинице, ужинали мы в ресторанах, а вот в течении дня перекусывали своими запасами. Это съэкономило нам много времени и ДЕНЕГ! Особенно на питье ;-)
 
@@ -53,10 +66,16 @@ auto_gallery: false
 
 Экскурсия по городу оказалась очень интересной и познавательной! Архитектура у города очень разнообразная и интересная, и какое-то настроение праздника...
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=158iq7AD3J6NDRz-nHK4lwRVfDIyTDb2m&sz=w1600,https://drive.google.com/thumbnail?id=1BKCDTGI0De0RnYtlYa-r-Sw1KhOHoeSJ&sz=w1600,https://drive.google.com/thumbnail?id=1xr5gSTm6s3OJkcdrTPaOU70DA2SnXtEu&sz=w1600,https://drive.google.com/thumbnail?id=1ZaIWKkqcdy24wIwGOAi0VbquxEVEcKtH&sz=w1600,https://drive.google.com/thumbnail?id=1qB6Gel0MzTTGv5hvLpYG06O1V6bhhDst&sz=w1600,https://drive.google.com/thumbnail?id=1rwUHHgtLBp_T8qw-IP7sRu0KFndUkEoh&sz=w1600,https://drive.google.com/thumbnail?id=1m3p0UBvYMqFtXh2j_Y88hZV7xTGZasRh&sz=w1600,https://drive.google.com/thumbnail?id=1K9vChEK-MTSC5me-JCEzq29a2p5Wz4KP&sz=w1600,https://drive.google.com/thumbnail?id=1b3zhi_A0XHoTvxHM97KMoTvzIp082KPa&sz=w1600,https://drive.google.com/thumbnail?id=1UAFYJaYtnEO7Tn1iL0ngbageAYysuwZj&sz=w1600,https://drive.google.com/thumbnail?id=1MbW-Xc0-31e3kiy4E0OpkhxV40QY2SI0&sz=w1600,https://drive.google.com/thumbnail?id=18mR0PxOONh-5l7A17v05nwvjQ1IMjm1p&sz=w1600" >}}
+{{< mosaic "L:P8222022.jpg P8222036.jpg P8222040.jpg P8222021.jpg P8222026.jpg" >}}
+
+{{< mosaic "R:P8222035.jpg T:P8222039.jpg P8222034.jpg P8222038.jpg" >}}
+
+{{< row "P8222024.jpg P8222031.jpg" >}}
 
 Объехав историческую часть города, мы пошли по нему гулять и потом присели на улице в уютном ресторанчике опробовать эльзаскую кухню. Рядом фонтан, уличные музыканты играют, Митька танцевал на славу (развлекая публику)...
 
 Наташка переводила нам меню и делала заказ, а мы с Серегой на двоих распили бутылочку местного вина :-) ТАК много в один день я еще не пила ;-) Может быть и поэтому от Эльзаса у меня остались самые солнечные и радужные впечатления. Мы и сейчас вспоминаем свою французскую часть путешествия с каким-то особым теплом :-) Наша любовь с Францией, и особенно с Эльзасом сложилась :-)
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1dL3wkTjstRjzKanMTCj4ieeP7QP2m_HB&sz=w1600,https://drive.google.com/thumbnail?id=14wmy81Phvm98Who33gtBXmz0xkj9FGhj&sz=w1600,https://drive.google.com/thumbnail?id=1NeM0gNHl-lcTgGmvaikthy9m6dY-shs3&sz=w1600" >}}
+{{< row "P8222045.jpg P8222047.jpg" >}}
+
+{{< row "P8222041.jpg P8222042.jpg" >}}

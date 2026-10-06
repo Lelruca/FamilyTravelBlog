@@ -1,6 +1,7 @@
 ---
 title: "У бабушки, Кельн и окрестности"
 chapter_kind: "part"
+layout: "photo-story"
 weight: 10
 city: "Кельн и окрестности"
 places:
@@ -8,7 +9,7 @@ places:
   - cologne
   - bruhl
   - solingen
-hero_image: "https://drive.google.com/thumbnail?id=1H-uetFrQEXTGAllxwhlIXmspEpr2s37f&sz=w2000"
+hero_image: "2011-08-19_08.12.13.jpg"
 date: 2011-08-19
 auto_gallery: false
 ---
@@ -24,19 +25,23 @@ auto_gallery: false
 
 Но на самом деле таких «свободных дней» у детей было не много :-) Даже когда мы были у бабушки, мы старались куда-то выезжать днем.
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1XxMbkVr0RvXee6QSuH36sx78EWw3MISy&sz=w1600,https://drive.google.com/thumbnail?id=1H-uetFrQEXTGAllxwhlIXmspEpr2s37f&sz=w1600,https://drive.google.com/thumbnail?id=1eDsrveO1V8veJ1xHfdHP7pMp_7vAKHRc&sz=w1600" >}}
+{{< row "2011-08-19_08.16.19.jpg 2011-08-19_08.28.33.jpg" >}}
 
 Были и наши традиционные походы в зоопарк, в парк атракционов Phantasialand.
 
 Прокатились мы вместе с бабушкой и в Брюль - Дворец Augustusburg, погуляли там в парке
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1c28Ogv209e2qMA142746Fu1zF4ZdvbPe&sz=w1600,https://drive.google.com/thumbnail?id=1JCdmDPkOjONx1kRcBDG82l8cRRQu6RcQ&sz=w1600,https://drive.google.com/thumbnail?id=17J1ObzGp-dLNWmSVjo-2Zx60cNVur6Ve&sz=w1600,https://drive.google.com/thumbnail?id=15bIrFZ2B07pgC-FSmCYMiGQB2pZX4E32&sz=w1600" >}}
+{{< row "P8211948.jpg P8211958.jpg" >}}
+
+{{< row "P8211957.jpg P8211956.jpg" >}}
 
 Из нового была поездка Сереги с детьми в Немецкий музей клинков (Deutsches Klingenmuseum) в г. Золинген.
 Вроде им понравилось :-)
 Скульптуры там в саду прикольные:
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1aU4IYDHr3kVVNfU0n8hr7hDVzU3XvI7u&sz=w1600,https://drive.google.com/thumbnail?id=1w-ZiwuSuZhjT6CatpextXG0NSzxOB5lP&sz=w1600,https://drive.google.com/thumbnail?id=1Z87zYpPC0GxYnh-GNwdhoMQ9BOmnQCa0&sz=w1600,https://drive.google.com/thumbnail?id=1FBgdEBAtFJtiJZAEssZTBW-iwdKc6jHb&sz=w1600,https://drive.google.com/thumbnail?id=13LiPASm66ZEtTWVij5kwB94MuJBCdDk8&sz=w1600,https://drive.google.com/thumbnail?id=1-cwjxni7B0xIsnMxAdfxGG5PEYqCrVFJ&sz=w1600,https://drive.google.com/thumbnail?id=1hmjUu2xcIUl-4-aN1GHuRNcw51zR5kcq&sz=w1600" >}}
+{{< mosaic "L:P8181944.jpg P8181926.jpg P8181925.jpg P8181943.jpg P8181946.jpg" >}}
+
+{{< row "P8181933.jpg P8181936.jpg" >}}
 
 А еще мы первый раз за все годы посещений Кельна решили подняться на колокольню. Заплатили деньги и пошли на "вход", там лестница винтовая, ну мы с шутками-прибаутками стали подниматься, не веря что нас на самый верх так и отправят. И того 556 ступенек, 120 метров и винтовая лестница без каких-нибудь "площадок". Причем узкая и по ней около "стержня" поднимаются люди вверх, а около перил (по внешнему диаметру) спускаются вниз.
 
@@ -46,7 +51,9 @@ auto_gallery: false
 
 Вид на город с колокольни
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=19U9alydDexn4juaZ61ZIyJjgbvFHbaoN&sz=w1600,https://drive.google.com/thumbnail?id=1odie8OntHX7Fv8M2OiUClVRM0gMjIOIC&sz=w1600,https://drive.google.com/thumbnail?id=17uhxdt1499qO8EWdeo8bnmWYLI9Vg6Dg&sz=w1600,https://drive.google.com/thumbnail?id=1CZqK3iB_tu_wFArSglpjrPu2sCIxEEqQ&sz=w1600,https://drive.google.com/thumbnail?id=11rLLRClysg7dDX70ukHVlu_uGccRDUuH&sz=w1600,https://drive.google.com/thumbnail?id=15KiHWo8P-n2OjWRtDpNgy0NJt5LDJF00&sz=w1600,https://drive.google.com/thumbnail?id=1MB67DISM24IKu1zHokSknN9HR6Fryuuc&sz=w1600" >}}
+{{< mosaic "L:2011-08-20_07.24.55.jpg 2011-08-20_07.23.37.jpg 2011-08-20_07.26.15.jpg 2011-08-20_07.25.43.jpg 2011-08-20_07.27.07.jpg" >}}
+
+{{< row "2011-08-20_07.23.53.jpg 2011-08-20_07.31.15.jpg" >}}
 
 А еще мы никогда не ходили в сокровищницу собора, а зря!
 
@@ -54,8 +61,12 @@ auto_gallery: false
 
 Ларец, в котором кажется перевозили главную святыню Храма - мощи волхвов, теперь они в церкви в другом виде находятся, а ларец в сокровищнице.
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1gS3rEkxIpq1jEwxcWV82kXcHl2QDVuvU&sz=w1600,https://drive.google.com/thumbnail?id=1qqcfbfvveEEBM9ZohrhxpImGcyTNA7hK&sz=w1600,https://drive.google.com/thumbnail?id=12UZXmHV24HSZUWw-anAXqV7YwEfr6GzZ&sz=w1600" >}}
+{{< row "2011-08-20_08.15.05.jpg 2011-08-20_08.15.14.jpg 2011-08-20_08.16.16.jpg" >}}
 
 И еще фото...
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1qvdx7_niHVA4I85Ddwt3gyXg8lwiFkq5&sz=w1600,https://drive.google.com/thumbnail?id=1iK8ySWhtrrtckIjAGNagjzkqHpsT6tpG&sz=w1600,https://drive.google.com/thumbnail?id=1EiPRQhPMLYcpHeZpqYtFfkhl2TB2Fhd8&sz=w1600,https://drive.google.com/thumbnail?id=1fwBX0lO2nrQCf1Rro9yXFq5jBxMxj64O&sz=w1600,https://drive.google.com/thumbnail?id=1NFphqa2jWwTox-8JLFpGLl7aCACRQDHX&sz=w1600,https://drive.google.com/thumbnail?id=19ximcgmiJltByELj_SvJHwg5b0IdHaLI&sz=w1600,https://drive.google.com/thumbnail?id=1jZUDPRn2ZgX6vCponhei69fs5X6rhokv&sz=w1600,https://drive.google.com/thumbnail?id=11TcFlrWMKw_CEtLBHP7Hho4WoQEdhs3d&sz=w1600,https://drive.google.com/thumbnail?id=1dz3px1L3Q6rxOAI9mzEF3gKGO97rBLeY&sz=w1600" >}}
+{{< mosaic "L:2011-08-29_04.27.55.jpg T:2011-08-20_14.26.21.jpg 2011-08-31_04.30.53.jpg 2011-08-29_09.22.48.jpg" >}}
+
+{{< row "2011-08-10_22.25.00.jpg 2011-08-12_06.04.48.jpg 2011-08-16_13.31.12.jpg" >}}
+
+{{< row "2011-08-27_06.05.03.jpg 2011-08-15_10.15.43.jpg" >}}

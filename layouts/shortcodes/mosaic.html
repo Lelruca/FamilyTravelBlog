@@ -1,0 +1,22 @@
+{{- /* Mosaic in the photo column (DESIGN_PHOTOS.md §2): 4 columns of square cells.
+       {{< mosaic "L:IMG_7309.jpg IMG_7255.jpg IMG_7274.jpg R:IMG_7282.jpg T:IMG_7270.jpg" >}}
+         L:name / R:name — large tile (2×2 cells) on the left / right half
+         T:name          — tall tile (1×2 cells)
+         name            — small tile (1 cell)
+       Optional: caption="short phrase from the text" capfor="IMG_7309.jpg" — written over that large tile.
+       Lay tiles out so every row is full: a large tile + 4 small, or large + tall + 2 small, or two large. */ -}}
+{{- $page := .Page -}}
+{{- $capfor := .Get "capfor" -}}
+{{- $caption := .Get "caption" -}}
+<div class="essay-group"><div class="essay-mosaic">
+{{- range split (trim (.Get "items" | default (.Get 0)) " ") " " -}}
+  {{- if . -}}
+    {{- $kind := "" -}}{{- $name := . -}}
+    {{- with findRESubmatch `^([LRT]):(.+)$` . 1 -}}{{- $kind = index (index . 0) 1 -}}{{- $name = index (index . 0) 2 -}}{{- end -}}
+    {{- $url := partial "story-photo-url.html" (dict "page" $page "name" $name) -}}
+    {{- $cls := cond (eq $kind "L") "essay-tile essay-large at-left" (cond (eq $kind "R") "essay-tile essay-large at-right" (cond (eq $kind "T") "essay-tile essay-tall" "essay-tile")) -}}
+    {{- $ignore := partial "story-photo-ratio.html" (dict "page" $page "name" $name) -}}
+    <a class="essay-photo {{ $cls }}" href="{{ $url }}" data-photo-lightbox data-photo-alt=""><img referrerpolicy="no-referrer" src="{{ $url }}" alt="" loading="lazy">{{ if and $caption (eq $name $capfor) }}<span class="essay-overlay">{{ $caption }}</span>{{ end }}</a>
+  {{- end -}}
+{{- end -}}
+</div></div>

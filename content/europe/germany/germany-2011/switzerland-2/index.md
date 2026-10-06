@@ -1,6 +1,7 @@
 ---
 title: "Швейцария 2"
 chapter_kind: "part"
+layout: "photo-story"
 weight: 60
 city: "Mürren, Allmendhubel и Meiringen"
 places:
@@ -10,7 +11,7 @@ places:
   - trummelbachfaelle
   - aareschlucht
   - meiringen
-hero_image: "https://drive.google.com/thumbnail?id=1yYd0mLHb83brKMvGkYysvnuhZRTynss7&sz=w2000"
+hero_image: "P8242138.jpg"
 date: 2011-08-24
 auto_gallery: false
 ---
@@ -20,15 +21,17 @@ auto_gallery: false
 
 Порассуждали на тему КАК в эту деревню доставляются (и доставлялись раньше) материалы для строительства, а потом пересели на «железную дорогу» и поднялись еще выша в местечко Allmendhubel, которое находится на высоте 1907m. Если вспомнить, то накануне мы поднимались на пик 2100 метров и мы «парили» над всем вокруг и испытывали от этого некоторые неприятные ощущения :-) Здесь же, почти на той же высоте, мы были окружены гораздо более высокими вершинами, верхушки которых уже были покрыты снегом и некоторые из них скрывались в облаках.
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1_Y-A5L4__vorhWEferHSnjHHueeCm0GN&sz=w1600,https://drive.google.com/thumbnail?id=1F92hJKnDxxHmDvvkL1ECr9_xHdpZZE65&sz=w1600,https://drive.google.com/thumbnail?id=17EQNUXwXZ9w88FUYe3fVIB3qTyaAwl1V&sz=w1600,https://drive.google.com/thumbnail?id=176Jap52nqVVOvWpbZNiGH7dKOw35O-q-&sz=w1600,https://drive.google.com/thumbnail?id=1CcF58PSoeubkOYWoPlI8veffjMUjxj-o&sz=w1600" >}}
+{{< mosaic "L:P8242132.jpg P8242129.jpg P8242128.jpg P8242154.jpg P8242155.jpg" >}}
 
 А сам Allmendhubel был покрыт зеленым лугом, на котором паслись коровки и ты ощущал себя совершеннено спокойно и безопасно. Для меня лично это место наверное было самым «идеальным» - наконец я увидела коровок с колокольчиками вблизи, горы вроде рядом, но как-то безопасно рядом и главное выше меня, что приятно, и кругом луга, луга, с какими-то пестрыми цветочками. КРАСОТИЩА!!!!
+
+{{< mosaic "L:2011_28.jpg T:P8242141.jpg P8242142.jpg P8242137.jpg" >}}
 
 Правда мой «добрый сын» меня очень хорошо подставил. Коровки мирно пасуться на лугу и загорожены только двумя рядами тонкой проволки. Вдруг Митька ко мне подбегает и звет: «Мама, пойдем, вот, дотронься до проволки...» И мама, вся такая в возвышенном созерцательном настроении, дотронулась... И получила хороший разряд тока :-( Причем если Митьке, который конечно дотронулся первым, как-то это прошло легко, то у меня потом весь день рука очень болела (видимо емкость у меня другая ;-)) Но зато мы знаем теперь точно про то как утроены загородки. (Митьке я потом много дней напоминала и проводила беседы на тему что он должен маму защищать, а не подставлять :-))
 
 Нагулявшись по альпийским лугам, поиграв на детской площадке, где были деревянные качели и прочие традиционные детские развлечения, мы спустились в свою долину и по дороге в гостиницу поехали смотреть Трюммельбахский водопад (Trümmelbachfälle). Это уникальное место потому что это единственный в Европе водопад, расположенный внутри горы и состоящий из 10 каскадов, к которому есть доступ. Сначала в огромном лифте, который движется под углом внутрь горы, а потом по освещенным тунелям вверх и вверх... Там достаточно темно (поэтому у меня почти совсем нет фото), очень сыро т.к. вода бьется о скалы и рассыпается во все стороны, и почти ничего не слышно из-за напора воды, и просто холодно :-) Но впечатляет! Я бы сказала очень необычное зрелище, единственное в своем роде.
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1yYd0mLHb83brKMvGkYysvnuhZRTynss7&sz=w1600,https://drive.google.com/thumbnail?id=1MiiiPvQCJGdZgUpk_biRSrVqy_rU6Qeq&sz=w1600,https://drive.google.com/thumbnail?id=1oouZm_RMNYkbbpD_QKyrW-FlTGFq6wUD&sz=w1600,https://drive.google.com/thumbnail?id=1hvmHaXea10Y9YP0BlIITs_qR0qzvFVqV&sz=w1600,https://drive.google.com/thumbnail?id=1n8Kztmly9mm2rkkAwkb5BgTQflMyxJhS&sz=w1600,https://drive.google.com/thumbnail?id=1eMnSis48v1Wg5pnUfOFWpW_ujN5clZaF&sz=w1600,https://drive.google.com/thumbnail?id=1a7nqgiSRwmRnsO34bNSaKHSV9F6iw2JQ&sz=w1600,https://drive.google.com/thumbnail?id=1ImV1ewQ1QfPj7MICjgKwPOxybvxgY8aR&sz=w1600" >}}
+{{< row "P8242152.jpg P8242146.jpg P8242153.jpg" >}}
 
 Во второй половине дня дети заныли и хотели остаться в гостинице, тем более что Наташку так и подташнивало после утреннего подъема, но в последний момент они решили все-таки присоединиться к нашему дальнейшему путешествию. А мы уж точно не могли никак пропусть возможность пройти путем Шерлока Холмса :-) Рейхенбахский водопад – неправда ли ЭТО название вам знакомо?
 
@@ -40,7 +43,7 @@ auto_gallery: false
 
 Вот тут-то мы погуляли и пофотографировали на славу! Очень приятная прогулка по каньену, и красиво, и поражаешься инженерной мысли швейцарцев, которые такие сооружения строили уже давным-давно, и просто скалы-вода, но без ошеломляющей мощи водопадов...
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1m5yyOKOGjSGdonhMpSHP1p0gqH9BGyj6&sz=w1600,https://drive.google.com/thumbnail?id=1k0CRMw4md9su59LuYl5Uc5LmBemmjc1s&sz=w1600,https://drive.google.com/thumbnail?id=1RqxBj2nYno0n1D5bZMo7D0eXQnzbKuc7&sz=w1600,https://drive.google.com/thumbnail?id=1L0U1_DA72dIGQ_R-59WQ6otP7A6UtqrV&sz=w1600,https://drive.google.com/thumbnail?id=1lDvY20EolYDQ1ttcz4cPuH26o4mbYyOj&sz=w1600,https://drive.google.com/thumbnail?id=1eLvzWtrtOvFyDS2CWp8gVkK5ShF4uqe9&sz=w1600" >}}
+{{< mosaic "L:P8242160.jpg R:P8242170.jpg P8242161.jpg P8242163.jpg P8242165.jpg P8242166.jpg" >}}
 
 Машину мы оставили около центрального входа и купили билет, который предусматривал проезд на электричке от конца каньена до начала :-) И вот вышли мы из каньена, и пошли по указателям на станцию. Подходим, а станция это – закрытая дверь в скале!
 
@@ -50,29 +53,20 @@ auto_gallery: false
 
 А я вдруг увидела в кустах заросли дикой ежевики и полезла по буреломам. Зато набрала целую пригоршню, правда моя семья не оценила, но я сама с удовольствием ее съела :-)
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1zstnLGebNyq7AgIYxvGMuKWrmJeBG4VW&sz=w1600,https://drive.google.com/thumbnail?id=14MXpYvOkK_3sBKKfL-MTuRz4sw_jVd-E&sz=w1600,https://drive.google.com/thumbnail?id=1rSrwNOQIQOeL0RF8lqshSjrU97wgoN20&sz=w1600,https://drive.google.com/thumbnail?id=1wz9156m4g6mqtFVVP1MbIZq7tsQ6MXuW&sz=w1600,https://drive.google.com/thumbnail?id=1mHDl1IAACSFyo0jqpSnKoqTBoxXLCQjy&sz=w1600" >}}
+{{< row "P8242186.jpg P8242188.jpg P8242192.jpg" >}}
+
+{{< row "P8242190.jpg P8242191.jpg" >}}
 
 Потом волшебные двери в скале открылись, мы затолкались в довольно старый и переполненный вогон, проехали свою остановку и... отправились дальше! В деревушку Майринген (Meiringen), где жил Конан Дойль когда писал «Последнее дело Холмса» (ну или как там называется книга в которой его убивают?) В этой деревне есть даже музей Шерлока Холмса, а главное его памятник на центральной площади.
+
+{{< row "P8242195.jpg P8242194.jpg" >}}
 
 Второй достопремечательностью Майрингена является то, что тут по легенде были изобретены майренги, или по нашему безе :-) Рядом с кафе Backerei Konditorei, в котором произошло это историческое событые даже стоит «памятник» безе!
 
 Естественно туда мы и отправились испробовать это лакомство! Заказали одну порцию на всех и... еще с собой унесли, ну невозможно столько сладкого съесть. Но зато приобщились, ВКУСНО!
 
-<div class="photo-scroller">
-  <a class="photo-scroller-link" href="https://drive.google.com/thumbnail?id=1oanYPXoh_eHgu717Jaxv-zl-NqgU55Xb&sz=w2000" target="_blank" rel="noreferrer">
-    <img class="photo-scroller-image" src="https://drive.google.com/thumbnail?id=1oanYPXoh_eHgu717Jaxv-zl-NqgU55Xb&sz=w1600" alt="">
-  </a>
-  <a class="photo-scroller-link" href="https://drive.google.com/thumbnail?id=1YCxmL-1T8CRDEJ0_2wwhh1aSI1UsT_8B&sz=w2000" target="_blank" rel="noreferrer">
-    <img class="photo-scroller-image" src="https://drive.google.com/thumbnail?id=1YCxmL-1T8CRDEJ0_2wwhh1aSI1UsT_8B&sz=w1600" alt="">
-  </a>
-  <a class="photo-scroller-link" href="https://drive.google.com/thumbnail?id=10LNl4tNUN4XASFpD3SQ6E45aWdr0D_Gb&sz=w2000" target="_blank" rel="noreferrer">
-    <img class="photo-scroller-image" src="https://drive.google.com/thumbnail?id=10LNl4tNUN4XASFpD3SQ6E45aWdr0D_Gb&sz=w1600" alt="">
-  </a>
-  <a class="photo-scroller-link photo-scroller-link-rotated" href="https://drive.google.com/thumbnail?id=1xUs4jIDehcMD4HEPTlhBqh57IlDwqJSo&sz=w2000" target="_blank" rel="noreferrer">
-    <img class="photo-scroller-image photo-scroller-image-rotate-90" src="https://drive.google.com/thumbnail?id=1xUs4jIDehcMD4HEPTlhBqh57IlDwqJSo&sz=w1600" alt="">
-  </a>
-</div>
+{{< row "P8242199.jpg P8242200.jpg" >}}
 
 После этого я захотела пройтись по магазинчикам, а моя семья пошла играть в шахматы в парке. Кстати, я обратила внимание что шахматы весьма популярны в Швейцарии. Правда ходила по магазинам я не долго, т.к. цены меня просто сразили наповал! Нет, не понятно что для туристов все, но те же швейцарские ножи или шоколад (те же фирмы) в Германии продают не то чтобы в 2 раза дешевле, а раз в 5-10! Так что мой порыв шопоголизма был очень быстро пресечен на корню и я пошла играть со всеми в шахматы.
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1NEHWznsVQFDyV5jPLNLoAi1qSNTb86lE&sz=w1600,https://drive.google.com/thumbnail?id=1ajcNyKgu2kkpY9OJ-S3Rxg6Z1lraQBrW&sz=w1600" >}}
+{{< row "P8242207.jpg P8242206.jpg" >}}

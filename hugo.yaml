@@ -30,6 +30,8 @@ build:
 # Site params
 params:
   defaultAccent: "#4f7396"
+  # Screen-quality photo copies (layout photo-story). Locally: static/r2. On the published site: Cloudflare R2 (hugo.prod.yaml).
+  photoBase: "r2/"
   giscusRepo: ""
   giscusRepoId: ""
   giscusCategory: ""

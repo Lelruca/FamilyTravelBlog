@@ -1,0 +1,9 @@
+{{- /* Width/height ratio of a chapter photo, from data/photos/<trip>.json (written by scripts/make-display-copies.cjs).
+       Usage: partial "story-photo-ratio.html" (dict "page" .Page "name" "IMG_7284.jpg") */ -}}
+{{- $trip := .page.Parent.File.ContentBaseName -}}
+{{- $chapter := .page.File.ContentBaseName -}}
+{{- $info := index (index site.Data.photos $trip | default dict) (printf "%s/%s" $chapter .name) -}}
+{{- if not $info -}}
+  {{- errorf "Photo %s/%s/%s is missing from data/photos/%s.json — run scripts/make-display-copies.cjs" $trip $chapter .name $trip -}}
+{{- end -}}
+{{- return (div (float $info.w) $info.h) -}}

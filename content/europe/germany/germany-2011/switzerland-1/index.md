@@ -1,13 +1,14 @@
 ---
 title: "Швейцария 1"
 chapter_kind: "part"
+layout: "photo-story"
 weight: 50
 city: "Люцерн, Mt Pilatus и Lauterbrunnen"
 places:
   - lucerne
   - pilatus
   - lauterbrunnen
-hero_image: "https://drive.google.com/thumbnail?id=11nkWYSnyAbSGHLsQfIGD_EMi5b2Bhz-F&sz=w2000"
+hero_image: "P8232050.jpg"
 date: 2011-08-23
 auto_gallery: false
 ---
@@ -17,37 +18,41 @@ auto_gallery: false
 
 Для Швейцарии у меня было расписание на все 3 дня, но вот последовательность этих дней я не определяла, т.к. во многом мы зависили от погоды. В первый день, как мы выехали из Франции, погода была замечательная! Солнце, малооблачно... Самое время поднятся на гору! В Швейцарии множество 2000 и 3000 пиков, на которые можно подняться на фаникулерах или даже железной дороге и каждый по своему интересен. Я долго выбирала между Jungfrau, Schilthorn, Mt Titlis, но остановилась на Mt Pilatus, т.к. подъем на эту гору можно было сделать как часть «золотого тура». Прямо из центра Люцерна (по которому мы успели немножко погулять)
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=11nkWYSnyAbSGHLsQfIGD_EMi5b2Bhz-F&sz=w1600,https://drive.google.com/thumbnail?id=1n12OdEkECxYkjtMHjsAr9fm8D9z4NcKD&sz=w1600,https://drive.google.com/thumbnail?id=12XssYRwA7KiEaHQ4yGUP0QtqRFRoMyyz&sz=w1600,https://drive.google.com/thumbnail?id=1SUB0qmHh_snbMtHSoYQCfXYRymg2c0pj&sz=w1600,https://drive.google.com/thumbnail?id=1HF77ZXel6ystAc5r_T4eUhg5AhCLLB3a&sz=w1600,https://drive.google.com/thumbnail?id=1EA0AXuUx2jMWEZ-mARkrTOKCxrTY6J8t&sz=w1600,https://drive.google.com/thumbnail?id=1_r0H-rei0yhXLNBqBU4gBMzk8vC6icHB&sz=w1600" >}}
+{{< mosaic "L:P8232059.jpg R:P8232063.jpg P8232054.jpg P8232056.jpg P8232058.jpg P8232065.jpg" >}}
 
 мы сели на параходик и где-то около часа прокатились по озеру. Виды ОЧЕНЬ красивые, хотя было немножко жарко.
 
 Потом мы пересели на самую крутую в мире зубчатую железную дорогу. Поезд останавливается на платформе с наклоном порядка 45 градусов, каждое следующее «купе» находится выше предыдущего, очень необычно.
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1lzdlyGtppqdv3yFHbwCeqhTKXRj_OElb&sz=w1600,https://drive.google.com/thumbnail?id=1CPGM9sFT4pFn6LnJJLc-22H8H6fdWMKy&sz=w1600,https://drive.google.com/thumbnail?id=1LEoL0M4k8Tx-34opzEIvEfNAFuMN3Eht&sz=w1600" >}}
+{{< row "4_1288184065_mount-pilatus.jpg P8232069.jpg P8232083.jpg" >}}
 
 Поднявшись на самый верх (2100 метров) мы оказались выше всех окружающих гор. На самом деле 2 тыс. для Швейцарии не высоко, но этот пик окружен более низкими горами. Не знаю... как-то наверное я ожидала большего в своих ощущениях... Может быть раньше, когда не было цветного телевидения и интернета, и когда только поднявшись лично на гору ты мог увидеть такой вид, то это было нечто. Сейчас же... мы все видели подобные картины и фотографии не раз.
 
 Но вот что нас потрясло, так это наблюдение за площадкой старта парапланеристов! Мрак! Не понимаю зачем люди это делают... но я вообще боюсь высоты :-) А так, специальная площадка, где они раскладывают свое крыло, потом подписывают что-то в каком-то журнале, потом разбегаются, дергают свой парашют, он немножко приподнимается над землей и... они прыгают с горы...
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=17QAm6GfDAH8nm2uEy4YGWbLXBx8oxrlp&sz=w1600,https://drive.google.com/thumbnail?id=1gCXOwdVWRZYVr8-2kvYaLMuSk2U1CvAl&sz=w1600" >}}
+{{< row "P8232087.jpg P8232088.jpg" >}}
 
 С большой площадки, на которую мы попали было можно пройти по нескольким тропам и подняться еще выше на гребни. Ну... раз надо так надо и мы тоже пошли на самую высокую смотровую площадку. Вот где адреалина то!!!! Подъем по спиральной тропинке, довольно узкой, под ногами довольно скользко, а люди идут и вверх, и вниз одновременно. С внутренней стороны гора, а с внешней как-бы загородка... Такая как в деревнях загон для скота, столбики (правда металлически) и на них в два ряда необструганные доски, которые очень свободно качаются. Одна доска на высоте где-то 50 см. и вторая где-то 1.20...
 
 Серега вцепился Митьке в руку и тащил его близко-близко рядом с собой. Потому что реально, если бы Митька подскользнулся, то он вылетел бы под нижнюю загородку только так (на фото только внутренняя часть видна, а с обратной стороны там именно обрыв!)... Короче нам, американцам, которые привыкли к излишней безопасности везде, было непонятно и страшно. Больше всего мой муж ругался, хотя он обычно ничего не боится. Я просто боюсь такие вещи и поэтому от страха и адреалина я как-то тоже не насладилась видами :-)
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1Fgq4msWJ9CHxdzmvp_WDPfjwb98HfuIK&sz=w1600,https://drive.google.com/thumbnail?id=1hrq1qvzGTfrP-sxTvL78z0RvnfRS0zur&sz=w1600,https://drive.google.com/thumbnail?id=1LUz-GITY2f9gva8hY39SonUDNH_04FuC&sz=w1600,https://drive.google.com/thumbnail?id=1kKraSn-jkVbbzJbje263Lxo2tKY5LGve&sz=w1600,https://drive.google.com/thumbnail?id=17LQqwOrUx8QjKBGflm9aVOP4by-YTbvq&sz=w1600,https://drive.google.com/thumbnail?id=1YlbGsmQ8pv33mHuBGdmGOMVAAspdhC05&sz=w1600,https://drive.google.com/thumbnail?id=1oIxMWsRmwKXN3iORlOnDTlHFI7509-uA&sz=w1600,https://drive.google.com/thumbnail?id=1zIS3urKT2UGloiT4X20amahpSZdXLaPZ&sz=w1600,https://drive.google.com/thumbnail?id=1y4wjP6uqKXnvMg_2-eyXNVLMPKs2E50N&sz=w1600,https://drive.google.com/thumbnail?id=1DbIz5nBS2H7tktbBchpdI-UUWKGR6aqm&sz=w1600,https://drive.google.com/thumbnail?id=1myuXHmotblME10Y1b7Z7Tf41nUaOJM-T&sz=w1600" >}}
+{{< mosaic "L:P8232090.jpg R:P8232102.jpg P8232091.jpg P8232093.jpg P8232094.jpg P8232100.jpg" >}}
+
+{{< row "P8232097.jpg P8232098.jpg P8232112.jpg" >}}
+
+{{< row "2011_26.jpg P8232099.jpg" >}}
 
 Ну фотки сделали, прогулялись и отправились в обратный путь на этот раз по канатной дороге.
 
 Сначала в большой такой «стоячей» кабине мы сделали большой скачок вниз, а потом на маленьком фаникулере, где мы вчетвером только поместились, мы уже более медленно споскались вдлоль горы.
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1vp-2TR0wLOXYFhxrXeo5xzcTa0VTHR3w&sz=w1600,https://drive.google.com/thumbnail?id=1HW79zn9sfCLzkRKO41eAtDDauer5sAZP&sz=w1600,https://drive.google.com/thumbnail?id=1V6HFu2d7AsCPeyOEOV2CFINYv6z6VWV2&sz=w1600" >}}
+{{< row "P8232117.jpg P8232115.jpg P8232110.jpg" >}}
 
 Потом по городу мы прошлись до остановки автобуса, проехали на швейцарском автобусе (очень современном, с телевизионными экранами внутри) и закольцевали свой тур на вокзале, где нас ждала наша машина.
 
 Ну и поехали заселяться в гостиницу в Lauterbrunnen. Надо сказать что очень хорошая гостиница! У нас было две смежных комнаты, в одной был полный туалет, в другом только раковина, но для семьи это достаточно. А главное КАКОЙ вид!!! Прямо на водопад! Сама деревня хоть и довольно высоко в горах, но окружена другими пиками и кажется что ты находишь в долине, можно даже сказать «в каменном мешке» :-)
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1RjCpeLFox9JkwaaPuZci0xGL8q5WZggv&sz=w1600,https://drive.google.com/thumbnail?id=1ABZ0gqgDQcTsyUpm70d2m5unXVaeHk_7&sz=w1600,https://drive.google.com/thumbnail?id=13ldF1sb4jMfwDVfhLqDJiiweJh4v7vW_&sz=w1600,https://drive.google.com/thumbnail?id=16W5INoo_HEZ5w0QqYC-xdpNDYvwufZ5A&sz=w1600" >}}
+{{< mosaic "L:2011-08-25_03.08.50.jpg T:P8232121.jpg P8232120.jpg 2011-08-25_03.09.02.jpg" >}}
 
 Заселились и сразу побежали кушать. Искать ресторан с местной кухней не пришлось, т.к. они все были такие. Я конечно подготовилась и рассказала своей семье, что существует 3 основных национальных блюда: Raclette – жаренный сыр (после бельгийского опыта пробовать не хотелось, хотя наверное это разные вещи), Rösti – жаренная картошка (мелко очень нарезанная и жарится общим «блином») и конечно Fondue.
 
@@ -55,8 +60,8 @@ auto_gallery: false
 
 И вот Сереге с Наташкой на двоих принесли одну кастрюльку с сыром (правда она внутри разделена на две части и в каждой свой сыр) и не очень большую плошку с кусками вчерашнего хлеба (я так понимаю что хлеб специально должен быть чуть суховатый?). И это за 36 франков (примерно равен евро) за каждого!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1jTNscIyzW03JgjsHtFivQ8GC8HNz6PmW&sz=w1600,https://drive.google.com/thumbnail?id=1SLEStx7txy9R2k1Q3sCWzKtUnmGdfgO2&sz=w1600" >}}
+{{< row "2011-08-23_13.20.41.jpg 2011-08-23_13.21.13.jpg" >}}
 
 Хорошо что я успела на картошку переметнуться, этой картошкой мы втроем и поужинали :-) Сыр в фандю был очень специфический и как-то мы все... не очень. И даже хлеб сам по себе был не очень апетитный :-) Но зато мы в настоящей Швейцарии попробовали настоящее фандю :-)))) Вечером дома «добрали» немецкими колбасками ;-) Дети остались в гостинице, там на первом этаже очень уютные залы, где есть столы с шахматные столы, настольные игры, маленькая библиотека, можно попить кофе или чай, и главное комьютеры с интернетом. Кстати единственная гостинца в которой не было телевизоров в номерах, но это было даже к лучшему. А я потащила Серегу осматривать вблизи водопад, на который у нас выходили окна. А дети утомились и легли спать :-)
 
-{{< photo src="https://drive.google.com/thumbnail?id=1GIV6z75txJx-tQTqwdeMFbi6RMecnwgm&sz=w2000" >}}
+{{< row "2011-08-24_01.44.51.jpg" >}}

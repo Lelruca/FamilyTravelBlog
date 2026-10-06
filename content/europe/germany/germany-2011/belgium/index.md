@@ -1,12 +1,13 @@
 ---
 title: "Бельгия"
 chapter_kind: "part"
+layout: "photo-story"
 weight: 30
 city: "Ремушам и Дюрбюи"
 places:
   - remouchamps
   - durbuy
-hero_image: "https://drive.google.com/thumbnail?id=1sRkVpdL4W2DHDE5YRHB-02Kj8MdQAUp8&sz=w2000"
+hero_image: "P8171937.jpg"
 hero_card_position: "center 30%"
 date: 2011-08-17
 auto_gallery: false
@@ -21,12 +22,20 @@ auto_gallery: false
 
 Было очень интересно. Гроты глубокие, подсвечены красиво! Но как и везде в Европе все «натурально», т.е. я больше всего боялась что там будет холодно, а бояться надо было... грязи :-) Т.к. мы там ползали и по наклонам, и по лужам, и потом по железным винтовым лестницам (капая друг на друга с грязных ботинок). И так мы шли довольно долго и глубоко, наслаждаясь если не объяснениями экскурсовода, так просто видами :-) А потом нас посадили в большие лодки (очень аккуратно балансируя весом каждого!) и по подземной реке Рубикон мы поплыли в обратном направлении. Правил лодкой работник с шестом, он же и говорил когда надо было сильно наклониться вперед или вправо-влево, там были ОЧЕНЬ низкие участки. Учитывая что эти команды еще сначала Наташка должна была расслышать, а потом только нам передать... А так темно и сам не увидишь... Но ничего, справились! И получили большое удовольствие!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1pwxs_n0savQNJOnrGbY5nsI7TZX9Aq2R&sz=w1600,https://drive.google.com/thumbnail?id=16XuCkRDV0lUoUBjP1ClN60jlJBF9E_au&sz=w1600,https://drive.google.com/thumbnail?id=1N6Nmj2voszzmUdZq2pu1XmtUFRzVABqc&sz=w1600,https://drive.google.com/thumbnail?id=1cJw7-GThHEs6D9GUAjYtXP1V0MOkn7Mw&sz=w1600,https://drive.google.com/thumbnail?id=1IhD7ctrTmEqpX8w7Yn2Ud6Q3vB1Yly6Q&sz=w1600,https://drive.google.com/thumbnail?id=1gJaXFLUdSq6B0zxZwWxNv4CnPgkbekfv&sz=w1600,https://drive.google.com/thumbnail?id=1sRkVpdL4W2DHDE5YRHB-02Kj8MdQAUp8&sz=w1600,https://drive.google.com/thumbnail?id=1Vn61t4LmxQGcYQmYjElS2PKT83NvFhA5&sz=w1600,https://drive.google.com/thumbnail?id=1ELBFwNs4JdGU6hULbz-nywSIPIrJiUmk&sz=w1600,https://drive.google.com/thumbnail?id=1JZNOTEajR5Z7uRcR0usfzCeS5EUg2aJx&sz=w1600" >}}
+{{< mosaic "L:P8171923.jpg P8171928.jpg P8171934.jpg P8171935.jpg P8171936.jpg" >}}
+
+{{< mosaic "R:P8171938.jpg T:P8171957(1).jpg P8171939.jpg P8171960.jpg" >}}
 
 Но на этом наш «набег» на Бельгию не закончился и мы направились в сторону самого маленького города на земле (по мнению многих путеводителей, но я так понимаю без особых доказательств) - Durbuy. Этот средневековый городок интересен сам по себе, но рядом с ним находится и парк Topiaires. Как мне подсказывает интернет: «Топиар - одно из старейших садово-парковых искусств, очень популярно на Западе, но малоизвестно в России.» А своими словами я скажу, это когда деревья обрезают и придают им форму различных животных или людей. В этом парке многим деревьям больше 120 лет!!! Погода была замечательная и мы с большим удовольствием погуляли по этому очень красивому парку. Что тут скажешь, надо просто видеть :-)
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1w_Kcq48VVmxWVpIlZWubTMmMGBkuS1xW&sz=w1600,https://drive.google.com/thumbnail?id=1OuW8CvdoEz7bNUtkOsfpfnVaAEAX7gqy&sz=w1600,https://drive.google.com/thumbnail?id=1Wy0jYZvO0v5ag-2XhDiAmdynXd487BoK&sz=w1600,https://drive.google.com/thumbnail?id=1rApY7tXkowsUTptbHPFA-Uds8iiLIMcb&sz=w1600,https://drive.google.com/thumbnail?id=11Ti2M2IopFrp8do3vMNx9uVR-_IEoiKM&sz=w1600,https://drive.google.com/thumbnail?id=1KtF6n1yI_WypfZ0hAed9yvqTgBtyw5Kz&sz=w1600,https://drive.google.com/thumbnail?id=11mb3nW6_u0niBZjUs9tKd0OEEOzwmiEX&sz=w1600,https://drive.google.com/thumbnail?id=1EX15IIQJHGcrWbMvY0ZZYQ2PAE0WaX77&sz=w1600,https://drive.google.com/thumbnail?id=1cymRJxLogQ4jkKeFjdM_KT9gTvd1nVbG&sz=w1600,https://drive.google.com/thumbnail?id=1m5Pw9-jX9TIAZV6KZuQby5cyxI3PGKP_&sz=w1600,https://drive.google.com/thumbnail?id=1IR1G8T_3MQ7TNStGljJNk2zY9LPfXwG7&sz=w1600,https://drive.google.com/thumbnail?id=1Xd__wmgmT0OflmAIEpkq8F0t6MRbpK6I&sz=w1600,https://drive.google.com/thumbnail?id=1Y0F_MPnV2DeNqH6jsi4MgwFDWSlwO_LY&sz=w1600,https://drive.google.com/thumbnail?id=1mddJyezFCY7PRVmL3y6xg3D9xqN7VX73&sz=w1600" >}}
+{{< mosaic "L:P8172002.jpg R:P8171992.jpg P8171979.jpg P8171982.jpg P8171981.jpg P8171985.jpg" >}}
+
+{{< mosaic "R:P8171987.jpg T:P8171990.jpg P8172017.jpg P8172018.jpg" >}}
+
+{{< row "P8172006.jpg P8171991.jpg P8171993.jpg P8172007.jpg" >}}
 
 После этого мы направились в сам город, который скорее крепость. Мои дети с удовольствием побродили по очень узким средневековым улочкам, пошлялись мы и по магазинчикам, в которых продают всякую антикварную утварь. Но даже «современный» почтовый ящик был для нас интересен :-) А потом мы сели в открытом ресторане и с помощью Наташиного франц. заказали себе разную «национальную еду». Это было еще одной новой целью нашей поездки, в каждой стране пробовать национальную кухню. В Бельгии это были жаренные соски, и главным образом «жаренный сыр», который готовят прямо вот в такой круглой коробе из «фанеры». Ну... необычно, но я как-то не очень, сосиски были лучше :-) Митька как обычно заказал себе суп, а Наташка что-то менее экзотичное :-)
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1ZhPOnK2xm97ypoJUft4FRabtlPoERtl_&sz=w1600,https://drive.google.com/thumbnail?id=1ETO3jf6H57gx27B3o8EI1rEPQi1UaDUc&sz=w1600,https://drive.google.com/thumbnail?id=1BINu6JOieO0ybWc5L5NBt66DCfOvE6qk&sz=w1600,https://drive.google.com/thumbnail?id=1xP3Cs3yB3xFO54d2KM12nos0957jqdMw&sz=w1600,https://drive.google.com/thumbnail?id=1glGBFV_cxZhARTrl4g_qCXDOPn92_KIi&sz=w1600" >}}
+{{< row "P8172024.jpg P8172031.jpg P8172033.jpg" >}}
+
+{{< row "P8172035.jpg P8172034.jpg" >}}

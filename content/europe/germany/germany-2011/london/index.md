@@ -1,13 +1,14 @@
 ---
 title: "Лондон"
 chapter_kind: "part"
+layout: "photo-story"
 weight: 90
 city: "Лондон и Windsor"
 places:
   - london
   - legoland-windsor
   - national-gallery
-hero_image: "https://drive.google.com/thumbnail?id=1y2APceeD6M89jVroz3Dvh4spLd2VIK15&sz=w2000"
+hero_image: "DSCF0094.jpg"
 date: 2011-08-27
 auto_gallery: false
 ---
@@ -30,4 +31,4 @@ auto_gallery: false
 Вот такая у нас насыщенная поездка получилась! У Митьки собрались значки-фраги всех стран, которые мы посетили:
 Германия, Голландия, Бельгия, Франция, Швейцария и Англия!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1y2APceeD6M89jVroz3Dvh4spLd2VIK15&sz=w1600,https://drive.google.com/thumbnail?id=17R8kBX3xTz1KUSss86WO7jYRhVadVT7K&sz=w1600,https://drive.google.com/thumbnail?id=1UFUy7faIKrOZspAurilQaL74j-V1RIjH&sz=w1600" >}}
+{{< row "DSCF0389.jpg DSCF0558.jpg" >}}

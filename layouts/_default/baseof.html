@@ -84,7 +84,11 @@
           const trigger = event.target.closest('[data-photo-lightbox]');
           if (!trigger) return;
           event.preventDefault();
-          items = Array.from(document.querySelectorAll('[data-photo-lightbox]'));
+          // in the order the photos are seen on the page: top to bottom, left to right (DESIGN_PHOTOS.md 5а)
+          items = Array.from(document.querySelectorAll('[data-photo-lightbox]')).sort((a, b) => {
+            const p = a.getBoundingClientRect(), q = b.getBoundingClientRect();
+            return Math.abs(p.top - q.top) > 4 ? p.top - q.top : p.left - q.left;
+          });
           lightbox.hidden = false;
           document.body.classList.add('photo-lightbox-open');
           show(items.indexOf(trigger));

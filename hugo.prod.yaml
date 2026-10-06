@@ -1,1 +1,5 @@
 baseURL: "https://lelruca.github.io/FamilyTravelBlog/"
+
+params:
+  # Screen-quality photo copies on Cloudflare R2 (bucket family-travel-photos), see TEAM_HANDOFF.md
+  photoBase: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/"
