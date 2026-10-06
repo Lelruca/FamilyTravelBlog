@@ -5,7 +5,9 @@
       "start": 0,
       "end": 35,
       "title": "Наше освоение Новой Англии - вступление (Кейп Код)",
-      "folder": "01 - Вступление (Кейп Код)"
+      "folder": "01 - Вступление (Кейп Код)",
+      "photoSelectionComplete": true,
+      "photoSelectionNote": "Владелец выбрала 10 фотографий вместо восстановления 13 безымянных ссылок."
     },
     {
       "start": 35,
@@ -78,7 +80,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 1
+      "reviewNumber": 1,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 1,
@@ -107,7 +110,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 2
+      "reviewNumber": 2,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 1,
@@ -136,7 +140,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 3
+      "reviewNumber": 3,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 1,
@@ -165,7 +170,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 4
+      "reviewNumber": 4,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 1,
@@ -194,7 +200,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 5
+      "reviewNumber": 5,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 1,
@@ -223,7 +230,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 6
+      "reviewNumber": 6,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 1,
@@ -252,7 +260,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 7
+      "reviewNumber": 7,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 1,
@@ -281,7 +290,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 8
+      "reviewNumber": 8,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 1,
@@ -310,7 +320,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 9
+      "reviewNumber": 9,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 1,
@@ -339,7 +350,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 10
+      "reviewNumber": 10,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 1,
@@ -368,7 +380,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 11
+      "reviewNumber": 11,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 1,
@@ -397,7 +410,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 12
+      "reviewNumber": 12,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 1,
@@ -426,7 +440,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 13
+      "reviewNumber": 13,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 2,
@@ -4039,6 +4054,208 @@
       ],
       "status": "unavailable",
       "reviewNumber": 76
+    }
+  ],
+  "addedPhotos": [
+    {
+      "chapter": 1,
+      "chapterTitle": "Наше освоение Новой Англии - вступление (Кейп Код)",
+      "slug": "cape-cod",
+      "filename": "DSC04418.JPG",
+      "originalFilename": "DSC04418.JPG",
+      "order": 1,
+      "folder": "01 - Вступление (Кейп Код)",
+      "archiveFile": "01 - Вступление (Кейп Код)/01_DSC04418.JPG",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 4896,
+      "height": 3672,
+      "orientation": 1,
+      "bytes": 5183841,
+      "sha256": "0a34771cf8f5a37bc43486f3f984f38832b099e7663942b15bf98c42ca9dd667",
+      "driveId": "1P1mla52mJtN4uQJ25qmsaCZB_oFI4nSA",
+      "displayURL": "https://drive.google.com/thumbnail?id=1P1mla52mJtN4uQJ25qmsaCZB_oFI4nSA&sz=w1600",
+      "placement": "hero"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "Наше освоение Новой Англии - вступление (Кейп Код)",
+      "slug": "cape-cod",
+      "filename": "DSC04438.JPG",
+      "originalFilename": "DSC04438.JPG",
+      "order": 2,
+      "folder": "01 - Вступление (Кейп Код)",
+      "archiveFile": "01 - Вступление (Кейп Код)/02_DSC04438.JPG",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 4896,
+      "height": 3672,
+      "orientation": 1,
+      "bytes": 4934596,
+      "sha256": "32d9365d0bef80ad22cbe77a6e1563992493ba383211d8fb1afe25eea9b523c9",
+      "driveId": "1Fatlevv1UBfEWZiDJdXEmm2nE4gkT4Em",
+      "displayURL": "https://drive.google.com/thumbnail?id=1Fatlevv1UBfEWZiDJdXEmm2nE4gkT4Em&sz=w1600",
+      "placement": "cottage-and-beach"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "Наше освоение Новой Англии - вступление (Кейп Код)",
+      "slug": "cape-cod",
+      "filename": "DSC04441.JPG",
+      "originalFilename": "DSC04441.JPG",
+      "order": 3,
+      "folder": "01 - Вступление (Кейп Код)",
+      "archiveFile": "01 - Вступление (Кейп Код)/03_DSC04441.JPG",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 4896,
+      "height": 3672,
+      "orientation": 1,
+      "bytes": 5532165,
+      "sha256": "7745415cceb38d199cd3415e983b1c8e24a5517b917508fbe591c73660f55d6a",
+      "driveId": "1zTdg8kYxGvqmEzHXvjyuBe0xSVdxCiVg",
+      "displayURL": "https://drive.google.com/thumbnail?id=1zTdg8kYxGvqmEzHXvjyuBe0xSVdxCiVg&sz=w1600",
+      "placement": "cottage-and-beach"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "Наше освоение Новой Англии - вступление (Кейп Код)",
+      "slug": "cape-cod",
+      "filename": "20150816_175724.jpg",
+      "originalFilename": "20150816_175724.jpg",
+      "order": 4,
+      "folder": "01 - Вступление (Кейп Код)",
+      "archiveFile": "01 - Вступление (Кейп Код)/04_20150816_175724.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 2988,
+      "height": 5312,
+      "orientation": 6,
+      "bytes": 4729240,
+      "sha256": "6b28c0fa3fb7a37afc4aa1d9bb4fa0c3ea94dd378c3f8c60d8bb604cf43ddd04",
+      "driveId": "1FGalhInu7ld1zA-s76i2wKj9eGLLZUsZ",
+      "displayURL": "https://drive.google.com/thumbnail?id=1FGalhInu7ld1zA-s76i2wKj9eGLLZUsZ&sz=w1600",
+      "placement": "cottage-and-beach"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "Наше освоение Новой Англии - вступление (Кейп Код)",
+      "slug": "cape-cod",
+      "filename": "DSC04446.JPG",
+      "originalFilename": "DSC04446.JPG",
+      "order": 5,
+      "folder": "01 - Вступление (Кейп Код)",
+      "archiveFile": "01 - Вступление (Кейп Код)/05_DSC04446.JPG",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 4896,
+      "height": 3672,
+      "orientation": 1,
+      "bytes": 5300943,
+      "sha256": "2c92438100a0dc9a74ab39e839f655289cd7e5211c755fb954bec64949bfb81e",
+      "driveId": "1oto9iwdZJnfRDABEW_Agdi65HXWGj9_2",
+      "displayURL": "https://drive.google.com/thumbnail?id=1oto9iwdZJnfRDABEW_Agdi65HXWGj9_2&sz=w1600",
+      "placement": "cottage-and-beach"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "Наше освоение Новой Англии - вступление (Кейп Код)",
+      "slug": "cape-cod",
+      "filename": "20150815_185742.jpg",
+      "originalFilename": "20150815_185742.jpg",
+      "order": 6,
+      "folder": "01 - Вступление (Кейп Код)",
+      "archiveFile": "01 - Вступление (Кейп Код)/06_20150815_185742.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 5312,
+      "height": 2988,
+      "orientation": 1,
+      "bytes": 2955848,
+      "sha256": "4d1591604b902a6caa5b6de097d07a2527bf7f73ddeaa7115202be4544094e19",
+      "driveId": "19YVpyVw9TI53AlT5mTL-U5TrMOLZcKaE",
+      "displayURL": "https://drive.google.com/thumbnail?id=19YVpyVw9TI53AlT5mTL-U5TrMOLZcKaE&sz=w1600",
+      "placement": "cottage-and-beach"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "Наше освоение Новой Англии - вступление (Кейп Код)",
+      "slug": "cape-cod",
+      "filename": "DSC04391.JPG",
+      "originalFilename": "DSC04391.JPG",
+      "order": 7,
+      "folder": "01 - Вступление (Кейп Код)",
+      "archiveFile": "01 - Вступление (Кейп Код)/07_DSC04391.JPG",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 4896,
+      "height": 3672,
+      "orientation": 1,
+      "bytes": 4644520,
+      "sha256": "29041c872189e4f980124f7faaff3e9767b279e3d82fe9c666fc76c9eba8cb67",
+      "driveId": "1PJuip44ftohgJDVSDI-kHzRLB9EeWMIG",
+      "displayURL": "https://drive.google.com/thumbnail?id=1PJuip44ftohgJDVSDI-kHzRLB9EeWMIG&sz=w1600",
+      "placement": "boat-trip"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "Наше освоение Новой Англии - вступление (Кейп Код)",
+      "slug": "cape-cod",
+      "filename": "DSC04408.JPG",
+      "originalFilename": "DSC04408.JPG",
+      "order": 8,
+      "folder": "01 - Вступление (Кейп Код)",
+      "archiveFile": "01 - Вступление (Кейп Код)/08_DSC04408.JPG",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 3672,
+      "height": 4896,
+      "orientation": 1,
+      "bytes": 4882393,
+      "sha256": "adcee163fbbd2f4f66e5fc991982c607427eb90f15ccd9021ce0d2c73964a19d",
+      "driveId": "1NWCALa5hOFGFRedR7FASGslKqVJW31pK",
+      "displayURL": "https://drive.google.com/thumbnail?id=1NWCALa5hOFGFRedR7FASGslKqVJW31pK&sz=w1600",
+      "placement": "boat-trip"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "Наше освоение Новой Англии - вступление (Кейп Код)",
+      "slug": "cape-cod",
+      "filename": "DSC04432.JPG",
+      "originalFilename": "DSC04432.JPG",
+      "order": 9,
+      "folder": "01 - Вступление (Кейп Код)",
+      "archiveFile": "01 - Вступление (Кейп Код)/09_DSC04432.JPG",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 4896,
+      "height": 3672,
+      "orientation": 1,
+      "bytes": 4381400,
+      "sha256": "d8b182400a81c7de6b20c104422740c5a7462567ced10f25c4c5ae0eec5ab92f",
+      "driveId": "1UexRbCcmPUQmKzQDI_-wkNRrTF8Y5NVD",
+      "displayURL": "https://drive.google.com/thumbnail?id=1UexRbCcmPUQmKzQDI_-wkNRrTF8Y5NVD&sz=w1600",
+      "placement": "boat-trip"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "Наше освоение Новой Англии - вступление (Кейп Код)",
+      "slug": "cape-cod",
+      "filename": "DSC04436.JPG",
+      "originalFilename": "DSC04436.JPG",
+      "order": 10,
+      "folder": "01 - Вступление (Кейп Код)",
+      "archiveFile": "01 - Вступление (Кейп Код)/10_DSC04436.JPG",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 4896,
+      "height": 3672,
+      "orientation": 1,
+      "bytes": 4855955,
+      "sha256": "9db19bb8eeb982d2ec1ad4b7fbb01608e8df6f66580d598323bbb7e5efdecd03",
+      "driveId": "1JuntL-rfJwmWqYu3F_6suRMx1NzbesVS",
+      "displayURL": "https://drive.google.com/thumbnail?id=1JuntL-rfJwmWqYu3F_6suRMx1NzbesVS&sz=w1600",
+      "placement": "boat-trip"
     }
   ]
 }
