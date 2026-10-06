@@ -27,7 +27,8 @@
       src="{{ $coverURL }}"
       alt="{{ $trip.Title }}"
       class="{{ $coverClass }}"
-      loading="lazy"
+      loading="lazy"{{ with $trip.Params.cover_position }}
+      style="object-position: {{ . }};"{{ end }}
     />
     {{- else -}}
     <div class="w-full h-full flex items-center justify-center">

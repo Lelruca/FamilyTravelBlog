@@ -1,12 +1,13 @@
 ---
 title: "Альгамбра - \"Только аллах победитель\""
 chapter_kind: "part"
+layout: "photo-story"
 weight: 90
 city: "Гранада"
 places:
   - granada
   - alhambra
-hero_image: "https://drive.google.com/thumbnail?id=1NKw8jMjf89yP_q7WKEcMFivRxG7HaLje&sz=w2000"
+hero_image: "20160829_121808.jpg"
 date: 2016-08-28
 auto_gallery: false
 ---
@@ -18,16 +19,24 @@ auto_gallery: false
 
 Сразу скажу, что нас разочаровало - отсутствие информации :-( Т.е. мы с Серегой посмотрели фильм заранее, а детей не заставляли, надеялись как обычно на аудиогиды. И ОБЛОМ. Они как раз решили перейти на “новые технологии”, отказались от аудиогидов, врубили везде бесплатный WiFi и идея в том, что ты должен скачать себе их “приложение” и потом искать специальные стенды - сканировать код и слушать. Ну… как всегда, когда что-то только начинается… Во-первых, это просто неудобно и достаточно времязатратно - всем что-то устанавливать, ну и, во-вторых, закончилась наша попытка даже не от лени, а от очень слабого сигнала, по которому огромное приложение закачать просто не представилось возможным :-) Но мы потом обратили внимание, что и “стендов с кодами” на нашем пути попалось всего 2 штуки.  Короче мы попали во “время перемен” :-) Я думаю потихоньку они все конечно наладят.  Ну и мы для разнообразия гуляли “просто так” и впитывали историю и культуру просто глазами. А что?! Тоже иногда очень правильный подход!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1BlKmN5XKq5REAtFIvXZ7dMJL3DucGccA&sz=w1600,https://drive.google.com/thumbnail?id=1u7EcSJyGpEwDsZmTcGxWNEP216arpptB&sz=w1600,https://drive.google.com/thumbnail?id=1Adu7olRN3tqO6eXmhDc423JPEynLLy_H&sz=w1600" >}}
+{{< row "IMG_8361.jpg IMG_8381.jpg IMG_8410.jpg" >}}
 
 Если очень-очень честно, то после Севильи как-то… чуть меньше понравилось. Хотя нехорошо так сравнивать “оригинал” с “копией”, но… так получилось. Я думаю на это много причин. И то, что в Севильи было наше первое знакомство с такой архитектурой и культурой, и то, что был очень интересный аудиогид, и сама организация. Мы минут за 15 до назначенного времени пришли ко входу (боишься опоздать), там все на солнцепеке стоят в очереди и потом двери распахиваются и запускают всю эту толку (раз в полчаса). И все мы скученно оказывается в одних и тех же залах… У меня даже по фотографиям видно разницу. А Альгамбре нет фото залов целиком, только “поверх голов”, потому что везде просто “живая масса”. Я обычно спокойно отношусь к толпам народа, но тут даже мне мешало сосредоточиться на созерцании…  И ведь и так ограничивают поток как могут…
 
 Красота конечно немыслимая! И первое что бросается в глаза - надписи на арабском! Вот их в Севильи не было - "Только аллах победитель"!  Вся эта вязь такая разная, такая красивая, такая необычная нашему глазу и такая… успокаивающая что-ли… Я вообще очень люблю геометрические и подобные узоры! С удовольствием прошли через все дворцы охая и ахая. Альгамбра - (4/5/4/5).
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=14z-mJ6sMte63oRsXYuTVDaakuUPbqj_Z&sz=w1600,https://drive.google.com/thumbnail?id=1NKw8jMjf89yP_q7WKEcMFivRxG7HaLje&sz=w1600,https://drive.google.com/thumbnail?id=1vUblf-9C75Q4BD-cQj3E5UT2rwyDhOlz&sz=w1600,https://drive.google.com/thumbnail?id=14FjcEy5omDPnjUdO6uuyfpvQLqt7y4lR&sz=w1600,https://drive.google.com/thumbnail?id=1TXnriYTlfUNRHejD9qpPlgUkJS398dQU&sz=w1600,https://drive.google.com/thumbnail?id=1CKHSc4fptxrgB8c5y3R1JttITLPOl2HD&sz=w1600,https://drive.google.com/thumbnail?id=1l3JWewltRa2fY9wv2YZxZa0pueuDgq9A&sz=w1600,https://drive.google.com/thumbnail?id=132uU_6i1bi5M5YfDu-LcfeavT5Lfdr0g&sz=w1600,https://drive.google.com/thumbnail?id=1vkD1Pqhd_VXwwsv250wyIq8SpfQQR9Ai&sz=w1600,https://drive.google.com/thumbnail?id=1kMr-m1BGt08MdWBjuVwWWhOZ7s1SF8bx&sz=w1600,https://drive.google.com/thumbnail?id=1TUa_m7rqlGdxms4pZET7LCMsNFGdGIN7&sz=w1600,https://drive.google.com/thumbnail?id=1QT4-SDY9tIXGdymFfu_XgaIGw8Bv1dkm&sz=w1600,https://drive.google.com/thumbnail?id=1clhan1wSZbL05aFRyarcE1CA0MDxuoOu&sz=w1600,https://drive.google.com/thumbnail?id=1_CZCZ5phfP7pPZ91NzB8OHTM1ZhzrKTm&sz=w1600,https://drive.google.com/thumbnail?id=18DEL0ySTLlUNJVg4wg99QxSn9pt-zyA2&sz=w1600,https://drive.google.com/thumbnail?id=1ZipIL9xejFUCc7PcuXI26Qn14iMWTqna&sz=w1600" >}}
+{{< mosaic "L:IMG_8452.jpg IMG_8440.jpg IMG_8469.jpg IMG_8483.jpg IMG_8475.jpg" >}}
+
+{{< mosaic "R:IMG_8474.jpg IMG_8467.jpg IMG_8460.jpg IMG_8457.jpg IMG_8434.jpg" >}}
+
+{{< row "IMG_8459.jpg 20160829_122626.jpg 20160829_121423.jpg 20160829_121454.jpg" >}}
+
+{{< row "20160829_123017.jpg" >}}
 
 Сады занимают огромное пространство, множество фонтанов (а ведь воду тянули очень издалека и для мусульман очень важно чтобы она все время текла, а не стояла)! Тенистые аллеи (а жара там дай Бог!). И я наконец увидела как растут обожаемые мной гранаты!
 
 Трудно добавить что-то еще, когда речь идет о таких “знаковых” местах - просто надо ехать и смотреть!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1hlZj1S0XSOoN8rPgnDyCu8OtjUb3tc6q&sz=w1600,https://drive.google.com/thumbnail?id=1mdnx2PlVzMShyDVaIW6ucbooE4bR7-XR&sz=w1600,https://drive.google.com/thumbnail?id=1soc2AQ6r89YjfkuBdTsuGbB_yqmz63Ou&sz=w1600,https://drive.google.com/thumbnail?id=1QMdDgoLAt9x-w3I5LYvD82IT3aB9sk4N&sz=w1600,https://drive.google.com/thumbnail?id=1do6MOkkqFnuFW3FwAzd712tXkNpe7g5v&sz=w1600,https://drive.google.com/thumbnail?id=16_Lx3GiH4l3S_1q04tltz9f_SG844Y1c&sz=w1600,https://drive.google.com/thumbnail?id=1z3xyVXBQAYJyQBYy7-9OEJyB9ugShBO-&sz=w1600,https://drive.google.com/thumbnail?id=1mHZPfG9qAcyvTmZNt4jRHcPPvbMJXP4H&sz=w1600" >}}
+{{< mosaic "L:IMG_8380.jpg IMG_8372.jpg IMG_8352.jpg IMG_8363.jpg IMG_8364_-_Copy.jpg" >}}
+
+{{< row "IMG_8379.jpg IMG_8390.jpg 20160829_104024.jpg" >}}

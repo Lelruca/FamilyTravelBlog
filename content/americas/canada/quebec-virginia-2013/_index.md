@@ -8,5 +8,5 @@ geo_countries:
   - canada
   - usa
 source_url: "https://umina.livejournal.com/13121.html"
-cover_image: "https://drive.google.com/thumbnail?id=1YT5c6JhrfBtAVqSJ4_MJZy_Ca98Y2XVu&sz=w2000"
+cover_image: "https://drive.google.com/thumbnail?id=1VVvgQ98dL6ScUxAn7wFvzzV9UzTSe28-&sz=w2000"
 ---

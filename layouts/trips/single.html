@@ -7,8 +7,6 @@
 {{- $prev := cond (gt $idx 0) (index $chapters (sub $idx 1)) nil -}}
 {{- $next := cond (and (ge $idx 0) (lt (add $idx 1) (len $chapters))) (index $chapters (add $idx 1)) nil -}}
 
-{{ partial "hero.html" $ch }}
-
 <div class="max-w-5xl mx-auto px-4 py-10">
   {{ partial "breadcrumbs.html" $ch }}
 
@@ -26,6 +24,8 @@
         </div>
         <h1 class="font-serif text-3xl md:text-4xl font-bold text-accent leading-tight">{{ $ch.Title }}</h1>
       </header>
+
+      <div class="hero-in-article">{{ partial "hero.html" $ch }}</div>
 
       <div class="prose prose-travel prose-neutral md:prose-lg max-w-none">
         {{ $ch.Content }}

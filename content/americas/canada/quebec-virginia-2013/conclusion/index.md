@@ -1,7 +1,7 @@
 ---
 title: "Заключение"
 type: "trips"
-layout: "photo-story-2013"
+layout: "photo-story"
 weight: 60
 chapter_kind: "reflections"
 auto_gallery: false

@@ -1,17 +1,14 @@
 ---
 title: "Virginia Beach - 1"
 type: "trips"
-layout: "photo-story-2013"
+layout: "photo-story"
 weight: 30
 chapter_kind: "day"
 auto_gallery: false
-hero_image: "https://drive.google.com/thumbnail?id=1VVvgQ98dL6ScUxAn7wFvzzV9UzTSe28-&sz=w2000"
+hero_image: "DSC00893.jpg"
 places:
   - virginia-beach
 ---
-
-
-
 <p>Поскольку времени у нас было очень мало на отдых и всякие Кубы никак не вставали в расписание, то мы первый раз за годы жизни в Северной Америке отправились на «наше» (вернее штатовское) атлантическое побережье. Это наверное самый доступный по ценам «морской» отдых, особенно для большой семьи (чем больше народу, тем дешевле на человека получается, т.к. самый большой расход обычно на авиабилеты, а тут одна машина всех везет).</p>
 
 <p>Выбирала куда ехать я не слишком долго т.к. все решалось в последнюю минуту и в итоге прогноз погоды сделал а нас выбор (сначала мы планировали ехать южнее, в Северную Каролину, но там ожидались обложные дожди). Virginia Beach – штат Вирджиния :-) </p>
@@ -22,10 +19,14 @@ places:
 
 <p>Мы как приехали вечером, с Наташкой сразу побежали к океану и к Нептуну:</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1-N9ZWRGisAeAm27U0U85TBxjQwuY1cEr&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:1;flex:0.75 1 0;aspect-ratio:1536/2048"><img src="https://drive.google.com/thumbnail?id=1-N9ZWRGisAeAm27U0U85TBxjQwuY1cEr&sz=w1600" alt="" loading="lazy"></a></div></div>
+{{< row "20130818_232622.jpg 20130820_230221.jpg DSC00944.jpg" >}}
 
 <p> Надо сказать, что самый дешевый вариант такого отдыха - это снимать квартиру.  В курортных местах это развернутый бизнес, куча квартир, все с мебелью и кухонной утварью сдаются. Можно по интернету выбрать, посмотреть фото, списаться с хозяином и договориться. Но сдают строго по неделям, с воскресенья по субботу (кажется). Мы же как-то в эти рамки не укладывались и поэтому заказали просто гостиницу. </p>
 
+{{< row "20130820_131558.jpg 20130823_064924.jpg" >}}
+
 <p>Курортная часть города Вирджиния Бич, это длинный пляж с хорошим песком, потом чуть в глубине пляжа идет широкий деревянный настил – набережная, и с другой стороны этой набережной натыканы гостиницу. Почти все высотки, наша была «маленькая», всего этажей 7.  Т.е. все эти гостиницы одной стороной выходят прямо на пляж (он общий и бесплатный), а другой выходят на улицу, где всякие рестораны и развлечения. </p>
 
-<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1_l-epxpy5Xuf7kVgiIfojgDOSNnguZ-8&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:1.3333333333333333 1 0;aspect-ratio:4896/3672"><img src="https://drive.google.com/thumbnail?id=1_l-epxpy5Xuf7kVgiIfojgDOSNnguZ-8&sz=w1600" alt="" loading="lazy"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=16Qn2CxfsmMURix1kKLuu1y_xB6o_5wPw&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:1.3333333333333333 1 0;aspect-ratio:4896/3672"><img src="https://drive.google.com/thumbnail?id=16Qn2CxfsmMURix1kKLuu1y_xB6o_5wPw&sz=w1600" alt="" loading="lazy"></a></div></div>
+{{< row "DSC00871.jpg DSC00889.jpg DSC00965.jpg" >}}
+
+{{< row "DSC00945.jpg DSC01066.jpg" >}}

@@ -218,3 +218,28 @@
     display: none !important;
   }
 }
+
+/* Header photo: whole, never cropped (DESIGN_PHOTOS.md). Aligned with the page column below it
+   (max-w-5xl + px-4); square/vertical photos keep the text-column width and the same left edge. */
+.hero-photo {
+  max-width: 64rem;
+  margin: 24px auto 0;
+  padding: 0 1rem;
+  box-sizing: border-box;
+}
+.hero-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  background: #e8e5dd;
+}
+.hero-photo.hero-photo-upright img {
+  max-width: 616px;
+}
+/* In a chapter the header photo sits under the title, in the article column */
+.hero-in-article .hero-photo {
+  max-width: none;
+  margin: 0 0 2rem;
+  padding: 0;
+}

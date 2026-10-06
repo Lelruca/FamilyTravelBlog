@@ -1,12 +1,13 @@
 ---
 title: "Эскориал - Саламанка"
 chapter_kind: "part"
+layout: "photo-story"
 weight: 130
 city: "Эскориал и Саламанка"
 places:
   - el-escorial
   - salamanca
-hero_image: "https://drive.google.com/thumbnail?id=1q4h3hNYmyR5gx6ktlzoVRs5YsdZ5yX4t&sz=w2000"
+hero_image: "20160901_105816.jpg"
 date: 2016-09-01
 auto_gallery: false
 ---
@@ -18,15 +19,33 @@ auto_gallery: false
 
 Но в целом наше впечатление не испортилось. И наше прощание с испанской столицей оказалось на самом высоком уровне!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1j_CTJbvqDrqD9SYGy2S9QGWZL3m5oWdV&sz=w1600,https://drive.google.com/thumbnail?id=1kx7dvh1pGy043gRRFHx5dwu5cBcXyw6a&sz=w1600,https://drive.google.com/thumbnail?id=1DMFdGF2sLhJRKdzRniPL93U3VxJl9ovk&sz=w1600,https://drive.google.com/thumbnail?id=138MWmaZsbokmbd-eKT43hNQs_5R82eTP&sz=w1600,https://drive.google.com/thumbnail?id=1c4gjY8qXRpjt2PWVb81OWWHmRT-yP6P4&sz=w1600,https://drive.google.com/thumbnail?id=13kQJWej1Vmvc_lTTrQh89uhSjXAJYi4i&sz=w1600,https://drive.google.com/thumbnail?id=1q4h3hNYmyR5gx6ktlzoVRs5YsdZ5yX4t&sz=w1600,https://drive.google.com/thumbnail?id=1DwydyMNF454omnFhTAbKBEVFZCZbFY73&sz=w1600,https://drive.google.com/thumbnail?id=12BLvFaiNZwULpmDP9ZsS0hlavp54UNIV&sz=w1600,https://drive.google.com/thumbnail?id=1q48lDMWh2LsSpIkOZDicQd76o91e_xOw&sz=w1600" >}}
+{{< row "20160901_103555.jpg 20160901_103606.jpg 20160901_103627.jpg 20160901_103740.jpg" >}}
+
+{{< row "20160901_105358.jpg 20160901_105428.jpg" >}}
+
+{{< row "20160901_105824.jpg 20160901_110743.jpg 20160901_112114.jpg" >}}
 
 Всемирно известная статуя Христа из белого мрамора работы Бенвенуто Челлини - прикрыта тряпицей - церковь...
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1KWVgPhUkMHscE-bDSFO-DeM8MvLc9l3D&sz=w1600,https://drive.google.com/thumbnail?id=11uIVp5JoK-LM0YAfikZyQFc7mn1qkBfn&sz=w1600,https://drive.google.com/thumbnail?id=1R_Xn2Buv4_EBq9XeXEpI73xsko-HiYvo&sz=w1600,https://drive.google.com/thumbnail?id=173Hxa2TwXg2Zrihl5acN9-o5MEfQnHB7&sz=w1600,https://drive.google.com/thumbnail?id=1Xs9YAWsHJHjkkM2x781VPP7wwro8Qur6&sz=w1600,https://drive.google.com/thumbnail?id=1sO5SSSe6NxanzkiTruAgBXJLnfeZk1Ow&sz=w1600,https://drive.google.com/thumbnail?id=1Cv6cHO_2mqtDASR1X5IywoSIuCnH7atG&sz=w1600,https://drive.google.com/thumbnail?id=14xxFYGda88ji8VsBOBUFCkcLqQOtzrn_&sz=w1600,https://drive.google.com/thumbnail?id=1g5r3aMIFf7EDQrsLjkJoVNgc_GhH4C6k&sz=w1600" >}}
+{{< row "20160901_111209.jpg 20160901_110904.jpg 20160901_111022.jpg 20160901_110054.jpg" >}}
+
+{{< row "20160901_110218.jpg 20160901_110302.jpg 20160901_110519.jpg 20160901_112408.jpg 20160901_112915.jpg" >}}
 
 Саламанка (5/5/4/3)… КАК я мечтала посетить этот город, с каким удовольствием читала об этом удивительном “желтом” городе (занесенном в список ЮНЕСКО), в котором можно насладиться удивительным испанским архитектурным стилем платереско (архитектурный стиль, занимающий господствующее положение в испанской культуре XVI века. От испанского platero, — ювелирный, подразумевается тонкое, подобное ювелирному, украшение зданий.) Это некая лепнина на фасаде зданий. Очень красиво!!!  Один из самых красивых фасадов -  Университéт Саламáнки — самый древний университет Испании, который вместе с Болонским, Оксфордским и Сорбонной входит в четвёрку старейших университетов Европы. Там прекрасные новый и старые соборы, несколько монастырей… Мы должны были ночевать в этом прекрасном студенческом городке и гулять, гулять. Но… именно тут все не сложилось. Ночевка перенеслась, а попали мы в этот город как раз к началу сиесты! И это не столица, не работало НИЧЕГО! Даже туристический офис, в котором мы планировали взять карту и т.п. был закрыт.  А так же были закрыты все рестораны. И… можете представить моих уставших после Эскориала а дороги подростков, которых негде покормить, в разгар жары и закрытых музеев :-( Они мужественно (тихо поднывая с кислыми лицами) со мной сделали намеченный круг по городу (хорошо у меня всегда закачены карты на телефоне и все подготовлено), но насладиться видам и впитать дух этого необычного города не дали :-( Под конец мы набрели на центральной площади на открытую пиццерию (кто-то все-таки делает деньги!) и поехали дальше. Так и остался этот самый желанный мной пункт путешествия до конца не раскрытым. Но это ОЧЕНЬ особенный и солнечный город, который требует обязательного посещения.
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1kwBkmJfifVvoxANLwW0bJbhQPOnQkcFn&sz=w1600,https://drive.google.com/thumbnail?id=1JPHPRHVI0ZdLM6JIK7I0vpMivGGssUsQ&sz=w1600,https://drive.google.com/thumbnail?id=1kbqedzVPTOWk_QKZlBYL5D0ts5bvPqS3&sz=w1600,https://drive.google.com/thumbnail?id=1tukDqTiU2KVa79OwfZ3iww9IO0M2U8ik&sz=w1600,https://drive.google.com/thumbnail?id=1nC_bq8li0Z1nBicduK1qXtUQVXk9ifUU&sz=w1600,https://drive.google.com/thumbnail?id=1ifTZUkpDSBcNeG1yFfpCe2n5pXOg4gNM&sz=w1600,https://drive.google.com/thumbnail?id=17pPtnQ8MCFzlalBMOkzjPuVI20X7G2cx&sz=w1600,https://drive.google.com/thumbnail?id=1dIaz6KLbebEoM1_TS1_viq89VNVE4EaC&sz=w1600,https://drive.google.com/thumbnail?id=1WXFL7oiV557I1JmRU7ydijEPAO0liHTi&sz=w1600,https://drive.google.com/thumbnail?id=12tefed1Nd002j2okxsE1jC9l3DpnsRJo&sz=w1600,https://drive.google.com/thumbnail?id=1xPFGETLgJQpmAFkZ-boPFhWVMea-tSh-&sz=w1600,https://drive.google.com/thumbnail?id=1HT1q3BDslOzobR_e3li3nXXGWZB3I2Z4&sz=w1600,https://drive.google.com/thumbnail?id=12XEnKbaNQIMlHQbMQLWj4wEO4U86khTa&sz=w1600,https://drive.google.com/thumbnail?id=1O9nD6isMmgDLsZDsySsELYou7D3Za7gH&sz=w1600,https://drive.google.com/thumbnail?id=1ZW_I-41vT5ym12-GxOr6AsZOKAYIFV-C&sz=w1600,https://drive.google.com/thumbnail?id=1e1RgSylfhbvLQpM8m9vvMD-EkO6NOe-1&sz=w1600,https://drive.google.com/thumbnail?id=1rNvZ4RWahLexJJiMBWwaAJKuqy7TlMCV&sz=w1600,https://drive.google.com/thumbnail?id=1AHPHAgWQrYPUBayNIArPA4YRMvvF_p-7&sz=w1600,https://drive.google.com/thumbnail?id=1mHnms4t1_WbBU8VJdnqyXGWrcfa0Pydc&sz=w1600,https://drive.google.com/thumbnail?id=1pvDiB8bRZo2EUUklVoDapG2fMG2nNcsX&sz=w1600,https://drive.google.com/thumbnail?id=1BALpLLbOm8KNgRHYM5WHvQdfj7uG-V01&sz=w1600,https://drive.google.com/thumbnail?id=1lvVCuP4pheHqDWX8YcSbM1VnpjiwwDXM&sz=w1600,https://drive.google.com/thumbnail?id=1qrfXQ7a4Co4h_AfOsMZJ3z6Ff89N9MHx&sz=w1600,https://drive.google.com/thumbnail?id=1tbQT3ix6lb2b4-KLQoWHtawC1TQNugpm&sz=w1600,https://drive.google.com/thumbnail?id=15uQzSOAtE58hLKm7SQkvSGhJ48QbqDtP&sz=w1600,https://drive.google.com/thumbnail?id=14jpfdq-UqfNtNpUiabBsgwjcBORxipND&sz=w1600,https://drive.google.com/thumbnail?id=1Z2GhE_ZbEEvJkmH78FfM5QMyOeK27FQu&sz=w1600,https://drive.google.com/thumbnail?id=1BAOcb4PVBMck9P4vekRQI-ND_zWONwpH&sz=w1600,https://drive.google.com/thumbnail?id=1FE_2f-idmA70MAw9uNr0kdVWSONB54Ed&sz=w1600,https://drive.google.com/thumbnail?id=1REFgeOVCt28FqLwEJinjA_lbVuvgYbdY&sz=w1600" >}}
+{{< row "20160901_145524.jpg IMG_8742.jpg" >}}
+
+{{< mosaic "L:IMG_8675.jpg IMG_8681.jpg IMG_8682.jpg IMG_8686.jpg IMG_8687.jpg" >}}
+
+{{< mosaic "R:IMG_8688.jpg IMG_8693.jpg IMG_8694.jpg IMG_8695.jpg IMG_8697.jpg" >}}
+
+{{< mosaic "L:IMG_8700.jpg IMG_8706.jpg IMG_8707.jpg IMG_8714.jpg IMG_8717.jpg" >}}
+
+{{< mosaic "R:IMG_8720.jpg IMG_8722.jpg IMG_8726.jpg IMG_8728.jpg IMG_8729.jpg" >}}
+
+{{< mosaic "L:IMG_8731.jpg IMG_8732.jpg IMG_8738.jpg IMG_8739.jpg IMG_8740.jpg" >}}
+
+{{< row "20160901_152650.jpg 20160901_154945.jpg 20160902_125050.jpg" >}}
 
 Ну а мы отправились в сторону Португальской границы! Как я уже сказала, скорей всего потому что Португалия была нашей первой, мы все отдали ей предпочтение в этом путешествии и скомкав пребывание в Испании на всех парусах бежали обратно. Сейчас, когда я пишу свой отчет, я думаю Испания была несомненно богаче в плане культурно-художественных ценностей, разноплановости. Но… Португалия просто покорила наше сердца.
 

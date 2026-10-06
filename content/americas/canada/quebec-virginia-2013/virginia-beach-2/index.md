@@ -1,24 +1,23 @@
 ---
 title: "Virginia Beach - 2"
 type: "trips"
-layout: "photo-story-2013"
+layout: "photo-story"
 weight: 40
 chapter_kind: "day"
 auto_gallery: false
-hero_image: "https://drive.google.com/thumbnail?id=1StFISZNMo6Uv-Z_tzxVqWxBdVON3ex2V&sz=w2000"
+hero_image: "We.jpg"
 places:
   - virginia-beach
 ---
-
-
-
 <p><b><u>Океан</u></b></p>
 
 <p>Главное конечно из-за чего мы приехали - это океан. Надо сказать что купание там замечательное! Во-первых, погода была хорошая, облачно в основном, поэтому не жарко, но 27-28, т.е. приятно, тепло. Вода идеальной температуры, не жаркая, но при этом не прохладная. Даже мне, мерзлячке, входить было не тяжело. А потом в воде приятно было находиться и можно было сидеть часами. Очень большие волны!</p>
 
 <p> И это классно! (Может для совсем маленьких детей не очень). Зато для всех остальных, купание с волнами это удовольствие (и физическая нагрузка!). Все дети от 4 и выше там с досками купаются, «ловят волну» и если поймали – летят на ней до берега. Мы Митьке тоже такую купили, и он потом часами в воде был занят :-) Научился под конец вполне сносно ловить волну, хотя раз на раз не приходилось и это то и было интересным. Все кто без досок, в волнах просто прыгали или качались на них. Мы втроем любили отплыть немного от берега (где волны не захлестывают) и просто лежать на воде. Т.ч. пляжу я ставлю 10 баллов из 10! Народу конечно не мало, но не так чтобы и уж совсем много. Терпимо. Всегда можно себе место найти. А еще дельфины чуть на глубине плавали и выпрыгивали. Там даже специальные кораблики возят вблизи их смотреть, но кайф именно в том что их хорошо видно невооруженным глазом прямо вот так пока купаешься!</p>
 
-<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1Z9TYrUlFCVMaAmsYmDD1jSreIppxtwb_&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.36000000000000004;flex:0.75 1 0;aspect-ratio:3672/4896"><img src="https://drive.google.com/thumbnail?id=1Z9TYrUlFCVMaAmsYmDD1jSreIppxtwb_&sz=w1600" alt="" loading="lazy"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1s0y0CcqkXVP8FFCPRRTInyKqNekttBdl&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.64;flex:1.3333333333333333 1 0;aspect-ratio:4896/3672"><img src="https://drive.google.com/thumbnail?id=1s0y0CcqkXVP8FFCPRRTInyKqNekttBdl&sz=w1600" alt="" loading="lazy"></a></div><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1ph2nLIGsIQEASO9fq_7JVAfEafhVhyvA&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:1.3333333333333333 1 0;aspect-ratio:4896/3672"><img src="https://drive.google.com/thumbnail?id=1ph2nLIGsIQEASO9fq_7JVAfEafhVhyvA&sz=w1600" alt="" loading="lazy"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1W7r0KeFIXpWtUsXjywbupAzsjL8UEfNL&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:1.3333333333333333 1 0;aspect-ratio:4896/3672"><img src="https://drive.google.com/thumbnail?id=1W7r0KeFIXpWtUsXjywbupAzsjL8UEfNL&sz=w1600" alt="" loading="lazy"></a></div></div>
+{{< row "DSC00972.jpg DSC00961.jpg DSC00959.jpg" >}}
+
+{{< row "DSC00949.jpg DSC00952.jpg DSC00956.jpg" >}}
 
 <p><b><u>Еда</u></b></p>
 
@@ -28,11 +27,11 @@ places:
 
 <p>Основная наша проблема была в том, что мы привыкли к активному отдыху. Т.е. купались мы где-то 2 раза по 2 часа в день, а вот проводить время на пляже мы не умеем совсем :-) Вот так чтобы лежать загорать или книжечку читать под зонтиком – никто из нас не может и не любит. Поэтому нам нужны были другие развлечения. И казалось бы туристическая индустрия предлагает кучу всего. Как только темнеет, то вся «жизнь» перемещается с набережной, на центральную улицу. На каждом углу там выступают артисты, музыканты, клоуны. Т.е. такая сплошная улица-праздник! Даже театральные постановки. Всякие комнаты-страха, игровые автоматы, лавочки с сувенирами и мороженым работают почти круглые сутки! Т.е. жизнь бурлит!  Мы тоже поучаствовали - сходили в комнату страха. Наорались! Там ты идешь по коридору темному, а живые люди(!) тебя то за плечо трогают сзади, то шепчут на ухо… Я настолько не ожидала (обычно же автоматы кругом в современных заведениях ;-)), что вначале не поняла и испугалась. Короче мы все втроем уткнулись в Серегу (Наташка впереди, а мы с Митькой сзади), повисли на нем и орали всю дорогу, а он нас на себе до выхода тащил.  Без Сереги мы на троих взяли велосипед кататься по набережной. А он оказался ТАКОЙ тяжелый! Мы с Наташкой еле педали докрутили до одного конца набережной, а в обратный путь Митька у нас работал «моторчиком» - бежал и толкал сзади. </p>
 
-<div class="essay-group"><div class="essay-row"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1qOxiG_rmrj4kGvJjUlsWQEDJ2N2VyHHF&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:1.3333333333333333 1 0;aspect-ratio:4896/3672"><img src="https://drive.google.com/thumbnail?id=1qOxiG_rmrj4kGvJjUlsWQEDJ2N2VyHHF&sz=w1600" alt="" loading="lazy"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1CuI0e7bnMj0d3z05Ri0O8vV3ytVlhBuU&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5;flex:1.3333333333333333 1 0;aspect-ratio:4896/3672"><img src="https://drive.google.com/thumbnail?id=1CuI0e7bnMj0d3z05Ri0O8vV3ytVlhBuU&sz=w1600" alt="" loading="lazy"></a></div></div>
+{{< row "DSC00890.jpg DSC00895.jpg DSC00881.jpg DSC00897.jpg" >}}
 
 <p>Еще дети нас вытащили сфотографироваться всей семьей в костюмах. Мы как-то на эту забаву никогда не решались, а тут надо же было как-то развлекать всех. Интересно, я никогда не задумывалась, как наряжают для этих фото. Оказывается все платья и мужские костюмы сшиты целиком и имеют разрез сзади. Надевают тебе его вперед руками, а сзади затягивают по твоим габаритам :-)</p>
 
-<div class="essay-group"><div class="essay-row essay-narrow"><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1a6Qa6WKwmJnrIOR4WZfWlbNtZKD62uR8&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.4982630576936353;flex:0.7048321828136158 1 0;aspect-ratio:2961/4201"><img src="https://drive.google.com/thumbnail?id=1a6Qa6WKwmJnrIOR4WZfWlbNtZKD62uR8&sz=w1600" alt="" loading="lazy" style="width:141.87774400540357%;max-width:none;position:absolute;left:50%;top:50%;transform:translate(-50%,-50%) rotate(90deg)"></a><a class="essay-photo" href="https://drive.google.com/thumbnail?id=1wsOmsw110t_SAGqMknwo_COmA1DVN2n3&sz=w2000" data-photo-lightbox data-photo-alt="" style="--mobile-share:0.5017369423063648;flex:0.709746265117382 1 0;aspect-ratio:2993/4217"><img src="https://drive.google.com/thumbnail?id=1wsOmsw110t_SAGqMknwo_COmA1DVN2n3&sz=w1600" alt="" loading="lazy" style="width:140.89542265285667%;max-width:none;position:absolute;left:50%;top:50%;transform:translate(-50%,-50%) rotate(90deg)"></a></div></div>
+{{< row "We2.jpg We3.jpg" >}}
 
 <p>Вот такие вот незамысловатые развлечения, я бы сказала такого же «потребительского уровня» как еда ;-) Короче опять «не наше», хотя на неделю вечером погулять хватило.</p>
 

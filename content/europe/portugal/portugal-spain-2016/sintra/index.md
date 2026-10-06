@@ -1,11 +1,12 @@
 ---
 title: "Синтра"
 chapter_kind: "part"
+layout: "photo-story"
 weight: 30
 city: "Синтра"
 places:
   - sintra
-hero_image: "https://drive.google.com/thumbnail?id=10bYuQJBwGUT6t8hW9t990JowVPRS4l8M&sz=w2000"
+hero_image: "20160822_110026.jpg"
 date: 2016-08-22
 auto_gallery: false
 ---
@@ -13,16 +14,28 @@ auto_gallery: false
 
 Дворец Пена произвел на нас сначала не самое лучшее впечатление - “новодел”. Этакий“игрушечный замок” (4/5/4/5), и если бы с нами не было гида, я думаю понравился бы он нам еще меньше. Во-первых, Зинаида обращала наше внимание на нюансы и архитектурные детали. Откуда что взялось и что значит! Это большая разница. Одно дело просто посмотрел - “ну красиво”, а другое знать что вот эта черепаха означает вот это, а вот этот “узелок” это вообще из замка тамплиеров в Томаре (куда мы попали позже)... Ну и плюс куча очередей внутри было в августе :-( А мы пока стояли, нам еще добавили к нашему знанию истории Португалии деталей и исторических периодов :-) И именно замок Пена оказался тем местом, которое может быть не проняло сразу, по жаре, но сейчас вспоминается приятной сказкой :-)
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=14l0sxHvUSKLszV75aWf5Rk0J-IU4BDPB&sz=w1600,https://drive.google.com/thumbnail?id=1MRHQ_QrMi2NalBfDMEbQXk2lSecqSDYt&sz=w1600,https://drive.google.com/thumbnail?id=1h08iDw6Tar-4t446MBhUgULjnlOn4dEr&sz=w1600,https://drive.google.com/thumbnail?id=1SeIyuDCsLNkYDpGm0pK0WcgHrXjtv_0g&sz=w1600,https://drive.google.com/thumbnail?id=10bYuQJBwGUT6t8hW9t990JowVPRS4l8M&sz=w1600,https://drive.google.com/thumbnail?id=1A6ko4fHNag0VC0IHR0K22HFi4Z7XCoOt&sz=w1600,https://drive.google.com/thumbnail?id=1QY3cQlXtPyFCyu13t4f2wht6W0qkI9TX&sz=w1600,https://drive.google.com/thumbnail?id=1JcT2UBLELoWZUz0I1AOJW3dqDA9-j4pF&sz=w1600,https://drive.google.com/thumbnail?id=1iGxEABOmzAiOLy7EcZBNOqe3Wao268rZ&sz=w1600,https://drive.google.com/thumbnail?id=1mluS9DZAB6oK8_-Wg6DdpM1VDpi-1Z8V&sz=w1600,https://drive.google.com/thumbnail?id=1faIp7T15FxlmBDgPoKP14vWk15wPtToG&sz=w1600,https://drive.google.com/thumbnail?id=1D1Pm50axWZmBZq9LvdSsqR8KQjybtrQx&sz=w1600" >}}
+{{< row "20160822_110003.jpg 20160822_105507.jpg 20160822_105244.jpg" >}}
+
+{{< row "20160822_121416.jpg 20160822_110805.jpg 20160822_110625.jpg 20160822_110014.jpg" >}}
+
+{{< row "20160822_110446.jpg 20160822_113809.jpg 20160822_110830.jpg" >}}
+
+{{< row "20160822_120506.jpg 20160822_121935.jpg" >}}
 
 Наш гид все пыталась нас еще в центр города “затащить” и в королевский дворец успеть, но мы с упорством (как обычно достойным лучшего применения) были нацелены на Ригалейру. А надо было довериться профессионалу. Ригалейра нам тоже не шибко понравилась (3/4/3/5), тоже “новодел”. Без гида совсем бы мы потерялись, а она нам рассказывала и про масонские обряды (и вообще не доказано достоверно, что они там были), и заворачивала на совсем неприметные тропы и мы оказывались на мини театральных площадка, и рассказывала что у нее самой уже 3-ее видение этого поместья (она все время собирает новую информацию). А вот Митьку вся эта мистика, подземелья, “висящая библиотека” очень даже проняла :-) А мы пожалели, что не выбрали королевский дворец :-)
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1nZXpFIGftptmBAucqpRDnkvOOTDehp1v&sz=w1600,https://drive.google.com/thumbnail?id=1S7TDYinFHC_7LB4cPz1sl-vRLWnanG0q&sz=w1600,https://drive.google.com/thumbnail?id=1gQ3vMHmZhacpReK_yu9uD92DNPDFZCpw&sz=w1600,https://drive.google.com/thumbnail?id=1jhBfWOOqRdEcXoubL7BeTI3jEYKjRyJg&sz=w1600,https://drive.google.com/thumbnail?id=1x33NdBKIKK7nY9sdgtIUq9dxUzuIYxsW&sz=w1600,https://drive.google.com/thumbnail?id=1sPXymE6AYK-BvVFSz_hSoz63dGokGGLv&sz=w1600,https://drive.google.com/thumbnail?id=1_c5lplXNEcYMZhvPwTAaCzFk4Mbxtmli&sz=w1600,https://drive.google.com/thumbnail?id=1bZsg4sxAhuv52ML5Akij3BDSum7Ihf6Z&sz=w1600,https://drive.google.com/thumbnail?id=1-6lej_vTv22tfW2kXZmkMHjz7zzcn1dq&sz=w1600,https://drive.google.com/thumbnail?id=1DTbcR6_nWexDVKo6P2R4mUgkG0WvtZ9Z&sz=w1600" >}}
+{{< mosaic "L:IMG_7634.jpg IMG_7630.jpg IMG_7607.jpg IMG_7641.jpg IMG_7613.jpg" >}}
+
+{{< mosaic "L:IMG_7644.jpg R:IMG_7648.jpg IMG_7652.jpg IMG_7636.jpg IMG_7615.jpg IMG_7639.jpg" >}}
 
 Общаясь с гидом, мы также поинтересовались фактами местной жизни и узнали, что 3-комнатная квартира в жилом районе Синтры стоит порядка 55 тыс. Евро. Дом будет стоить порядка 150 тыс. А вот домик где-нибудь в центре Португалии можно прикупить за 25-30 тыс. Часто можно купить недвижимость от банка более дешево, т.к. многие люди, теряя работу, теряют и уже почти выплаченные дома и квартиры (это как-то обидно). А кризис по Португалии (и Испании) ударил очень сильно. Безработица. Бюджетникам (врачам, учителям, пенсионерам) выплаты снизили на 30% три года назад! Средняя пенсия в деревне 250 евро, в городе 300-350. Вдова получает около 600 евро (т.е. расчет все-таки на 2 пенсии видимо). Про школу как-то не совсем понятно нам объясняли, что она частично платная (вроде в зависимости от дохода родителей). Платные учебники у всех, в старших классах до 300 евро за учебники (что при их зарплатах существенная сумма).
 
 После обеда нас ждали лошади :-)  Ну нельзя же все дворцы и церкви (иначе меня закопают). И поэтому еще из Канады, с помощью гида Юли из Лиссабона, мы заказали себе катание на португальских лошадях - лузитано. Там огромная конюшня в национальном парке! И можно кататься 1 час или 2  - прямо вдоль океана! 40 евро за человека, поэтому мы ограничились 1 часом. У нас в семье два опытных наездника - Наташа и Серега, ну мы и Митьке попросили что-то найти на это время. Однако ему просто выдали очень спокойную лошадь и отправили вместе со всеми (5/-/5/5+)! Их троих девушка сопровождала, с которой Наташка всю дорогу трепалась. А я гуляла по ферме и фоткала все вокруг. Нас всех вид национального парка потряс - прямо саванна - желтая трава и деревья “зонтиками”.
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=17I5w4qns1bKhoDJb9d98VXqq7Aaw8aAe&sz=w1600,https://drive.google.com/thumbnail?id=1K763Lfp7-pESkj3oqOsMk91cLPZQ1Ijw&sz=w1600,https://drive.google.com/thumbnail?id=132ANWYVdMH6Kn64e0bzVMabrsXLpH_LO&sz=w1600,https://drive.google.com/thumbnail?id=1UbJreous6makgGD0lrruXG9EITuG9OTI&sz=w1600,https://drive.google.com/thumbnail?id=1wG5IkaPlY7dbTRx2mXTx2cuKaW_5TTo-&sz=w1600" >}}
+{{< row "20160822_162259.jpg 20160822_162128.jpg" >}}
+
+{{< row "20160822_163011.jpg 20160822_163124.jpg 20160822_163014.jpg 20160822_163118.jpg" >}}
+
+{{< row "IMG_7672.jpg" >}}
 
 Довольных и уставших, нас ждала португальская глубинка!

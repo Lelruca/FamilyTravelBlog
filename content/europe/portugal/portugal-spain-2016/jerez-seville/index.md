@@ -1,22 +1,25 @@
 ---
 title: "Испания - Херес и Севилья"
 chapter_kind: "part"
+layout: "photo-story"
 weight: 60
 city: "Херес и Севилья"
 places:
   - jerez
   - seville
-hero_image: "https://drive.google.com/thumbnail?id=1hPCpbe_cSFBPwwb-c3eetlTkuAIYcbSJ&sz=w2000"
+hero_image: "20160825_102946.jpg"
 date: 2016-08-24
 auto_gallery: false
 ---
 Наш переезд в Испанию был не самым лучшим логистическим решением в этой поездке, но единственно возможным, т.к. “вынь да положь” нам надо было попасть на представление андалузских лошадей в Хересе, а дальше у нас по плану была Севилья. Я поясню, что чтобы попасть в Херес из Португалии надо сначала проехать ЧЕРЕЗ Севилью. Короче вот такая лишняя петля у нас получилась, но мы зависели от расписания представлений. Еще мы ОЧЕНЬ жалели, что не можем по дороге заехать в Уэльву (Huelva)- место старта Колумба в Америку с соответствующим музеем и сделанными не так давно полноразмерными копиями его кораблей, по которым можно лазить! Уж и так и так крутились - не вошло :-(
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1pXcQXJCDCjDdfoFt41SII91fQetou_kh&sz=w1600,https://drive.google.com/thumbnail?id=1hPCpbe_cSFBPwwb-c3eetlTkuAIYcbSJ&sz=w1600" >}}
+{{< row "20160825_075433.jpg" >}}
 
 Подъем у нас был очень ранний (я успела одна еще раз посидеть на балконе и выпить кофе встречая рассвет) и переезд сразу в Херес. Издалека кажется, что две страны рядом и должны быть похожи друг с другом, но первое же наше знакомство с Испанией подсказало, что негоже серьезную державу сравнивать с какой-то там провинцией. Испания это такая… имперская держава, где все солидно, широко и… строго :-) Началось все с поиска парковочного места, да, тоже на улица, но уже за деньги. И надо разобраться с автоматом (и без всякого тебе англ), и надо иметь ровное кол-во мелочи, т.к. если надо кинуть 3.20, то 3.50 не подойдет :-)  Потом все очень строго было на самом представлении - нельзя фотографировать (это объявили языках на 5-6), но в наш век фейсбуков и пр. кто же удержится ;-) Так молодые девушки-билетерши как коршуны следили, ходили по рядам и сначала грозили пальцем, а потом выводили из зала! :-О Я тоже сделала пару “выстрелов” с колен, вспомнив сколько у меня в жизни “списано” ;-)  Но первое впечатление у меня было… воспоминание о советском детстве :-) Само представление тоже вызвало противоречивые чувства. Это школа верховой езды и уровень выездки и дрессировки животных там необычайно велик (по словам нашего специалиста Наташки), но как шоу малек скучновато ;-) По сравнению с нашим лошадиным цирком - Cavalia, представление не захватывает, а спокойно один номер сменяется другим. В каждом номере показывают что-то выдающиеся, другое, но… несколько раз подряд одно и то же :-) И еще… мне показалось что они с лошадьбы довольно жестко обращаются. Не жестоко, нет, но жестко. Лошадь когда встает на дыбы - ей палкой в морду тычут и видно что ей реально страшно/неприятно. Такие у меня впечатления, но с другой стороны это классическая дрессура видимо. Мне очень выбор музыки понравился :-) Такое все классическо-монументальное. Хорошее в целом представление (5/5/4/4).
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1iO3LhCqBuPGMBnkS-HhtoK9xI0oAZaCe&sz=w1600,https://drive.google.com/thumbnail?id=1Dbyl6nAcQkldhymk90i1McP-x0mPv8Yn&sz=w1600,https://drive.google.com/thumbnail?id=1y490W7bxXrQxDTstyZjtMnAFFISdAyC9&sz=w1600,https://drive.google.com/thumbnail?id=1lMlXzyZGCCvNrzsJjRlO4T-cPCacd9FC&sz=w1600" >}}
+{{< row "20160825_114022.jpg 20160825_133045.jpg" >}}
+
+{{< row "20160825_120121.jpg 20160825_115344.jpg" >}}
 
 А после, не глотнув даже местного напитка херес ;-), мы поехали в обратном направлении, в Севилью. Но задумка была в том, чтобы поставить машину на паркинг и больше о ней не думать, пока мы знакомимся с этим старинным городом. Что мы и сделали. Немного отдохнув в хорошо остужаемой кондиционером квартире, мы пошли на вечернюю экскурсию по городу. Надо сказать, что Севилью я боялась больше всего, уж сколько про нее написано, что “сковородка Европы”, что все выходят только после захода солнца… да и просто прогноз погоды +42 как-то пугает. Но оказалось все не так смертельно! Нет, +42 это +42, и особенно на солнце находиться тяжко, но… по моим ощущениям сильно приятнее чем в Торонто летом. У нас влажность 80%, а тут только 20%. Я, как человек, выросший летом в Волгограде (примерно при таких же температурах), чувствовала себя вообще прекрасно, Митька по молодости лет тоже. Сереге с Наташкой самая жара далась не так легко, но на самом деле там не постоянно эта жара. Ночью вообще чуть ли не до 15 опускается, т.ч. Утренние часы вполне терпимы и только после 2 часов дня… начинается сиеста :-)
 
@@ -26,24 +29,32 @@ auto_gallery: false
 
 Но! Севилья это ТАКОЙ город, который говорит сам за себя! Лично я очень люблю такие города - полностью старинные в центре и при этом все “с иголочки” отреставрированные и подкрашенные! И когда на каждом углу, то церковь интересная, то просто какой-то балкон необычный, то купол… Короче можно идти и не переставая любоваться, куда не кинь взгляд! Я бы там гуляла бы и гуляла (что я и делала, когда мои прятались от жары). Дети мои конечно до такого восприятия еще не доросли ;-) Отсюда и оценки городу - 5/5/4/4.
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1XhdUU96nTZz95EAIXi_wYDJj4gJIHjRf&sz=w1600,https://drive.google.com/thumbnail?id=18-sKFVuof_GmEV4PrRM-VlvK17o8c7gs&sz=w1600,https://drive.google.com/thumbnail?id=1SA9koSx4GVSfyhEAdNvfMqvpx0qSoSnh&sz=w1600,https://drive.google.com/thumbnail?id=1Lr3gw8uHelsGWEfDAm1inRHyT4mpGVkW&sz=w1600,https://drive.google.com/thumbnail?id=1vDj3PGO6TD5IuQx02nM5bi_dESHDSGon&sz=w1600,https://drive.google.com/thumbnail?id=1GDN_3l4anL5rlYy2Dm-rixt4P__AAZ7g&sz=w1600,https://drive.google.com/thumbnail?id=152WPlCt91gPiSqVKfJ0okfE2h6kkunN9&sz=w1600,https://drive.google.com/thumbnail?id=13idGwthza3AEX1SMJMZgUGP-PyMleP0s&sz=w1600,https://drive.google.com/thumbnail?id=1OIUXlxfzrDF5-2YtnESmftJFRx0hXSaN&sz=w1600,https://drive.google.com/thumbnail?id=1_8UxdKY__Eq-8wDshFjUJ6-XMEOVTXkD&sz=w1600,https://drive.google.com/thumbnail?id=11kxGUcF4enGWTTv2LVLoofEaM1lFVp8g&sz=w1600,https://drive.google.com/thumbnail?id=1p9A69xXY-fLsAfu_W8nvVRf6_qw-Wpk0&sz=w1600,https://drive.google.com/thumbnail?id=1FPuFINDNMLUdzC-rqhe1hOEtuo9ZhCXc&sz=w1600,https://drive.google.com/thumbnail?id=1o5GGwSIKt21ENJ2-Sc7vwqE0l-JXIg1z&sz=w1600" >}}
+{{< row "20160825_181521.jpg 20160825_154855.jpg IMG_7967.jpg IMG_7975.jpg" >}}
+
+{{< mosaic "L:IMG_7853.jpg IMG_7862.jpg IMG_7880.jpg IMG_7848.jpg IMG_7840.jpg" >}}
+
+{{< mosaic "R:IMG_7846.jpg IMG_7856.jpg IMG_7857.jpg IMG_7881.jpg IMG_7868.jpg" >}}
 
 Экскурсовод обратила наше внимание на сложное плетение решетки!!!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1MDQyToIpdy-aZbVc0pqJDaeSD66tvyQ5&sz=w1600,https://drive.google.com/thumbnail?id=1QJBJ3k8Eosvj6f1l8wICii1YpTHiYRyu&sz=w1600" >}}
+{{< row "IMG_7960.jpg IMG_7956.jpg" >}}
 
 И еще ОЧЕНЬ интересная система урн! Туда кладешь мусор, закрываешь, и мусор засасывается в единую систему, типа канализационной! И действительно, если задуматься - узкие улочки, жара за +45... Сплошная антисанитария!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1EwRcyjOMLTuzlVdYD42ecx13BBuB03tD&sz=w1600" >}}
+{{< row "IMG_7962.jpg" >}}
 
 А вот ФИКУС, который обычно в горшках!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=15tVbVI3K6bHQxXLuYmqqWHrpYl046i_w&sz=w1600,https://drive.google.com/thumbnail?id=1qrHlSZPnoNyvhMCYF9xiauAa3EXvDWzS&sz=w1600" >}}
+{{< row "IMG_7931.jpg IMG_7943.jpg" >}}
 
 А уж площадь Испании покорила нас всех!
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1QtG-pWwcbZaWsY_O6jC3aFBpUsV0DjPm&sz=w1600,https://drive.google.com/thumbnail?id=10NSWGqSSMfyE4tSGsPjd6bZcsmpUlNB6&sz=w1600,https://drive.google.com/thumbnail?id=1rvFNH0kDIZQF2kEWXxE-X_t3Um5w2nDJ&sz=w1600,https://drive.google.com/thumbnail?id=13RTdhP-1wCcGLc0XnV-WXyrsrZrbNZk4&sz=w1600,https://drive.google.com/thumbnail?id=1hYJT6ck3IvXvguxOvAvTSkAL0cbwPmqn&sz=w1600,https://drive.google.com/thumbnail?id=1MxeE5HnClrlsTbG4edVwgykI-eWK_k24&sz=w1600,https://drive.google.com/thumbnail?id=1gw34a7Kcr2DJGN9jmZH7Ag_J5TXFeb5t&sz=w1600,https://drive.google.com/thumbnail?id=1WR7hmTgKo-7j6NbF18tac4-bxcPxhcWs&sz=w1600,https://drive.google.com/thumbnail?id=1pEOwZJWl_9CC67THowwLEogGrKQJ3qCj&sz=w1600,https://drive.google.com/thumbnail?id=10GORT4lzGojjaEBaD7e_JDcjbWWXDcWe&sz=w1600" >}}
+{{< mosaic "L:IMG_7924.jpg IMG_7919.jpg IMG_7908.jpg IMG_7910.jpg IMG_7911.jpg" >}}
+
+{{< row "20160825_184119.jpg IMG_7914.jpg" >}}
+
+{{< row "IMG_7921.jpg IMG_7929.jpg IMG_7879.jpg" >}}
 
 Ознакомившись с городом мы пошли знакомиться с испанской кухней. Сил что-то искать не было, т.ч. мы прямо в туристическом центре сели (что все знают неверно и дорого),  и хотя меню на англ. нам нашли, но разговаривали все только на испанском. Мы по совету экскурсовода стали брать “тапазы”. В меню были написаны блюда и 2 колонки - цена за тапаз, и за полную порцию. Не для каждого блюда была опция тапаз, но для большинства. По цене 3 тапаза примерно равны одному блюду. Мы так и решили набрать - 3 каждому и почти все разные! Размер порций тапаза мне показался очень достойным, такая хорошая пиала. Т.е. Суп - нормальная по нашим мерками порция, салат - тоже вполне, да и горячее более чем. Мы пробовали друг у друга, было интересно. А на десерт, когда я попросила тоже “пробники”, мне просто принесли поднос из которого можно было взять что хочешь и даже специальную ложечку маленькую :-) Тоже классно, никогда не знаешь что хочешь, а тут по чуть-чуть все поднадкусал ;-)
 
-{{< photoscroller items="https://drive.google.com/thumbnail?id=1CtnYXNoPtHpeDzV3g04lFA9EFBQBGGMs&sz=w1600,https://drive.google.com/thumbnail?id=1L_ib5Wc5XGn0NR2qi-Y5GN0NZhgrIv8S&sz=w1600" >}}
+{{< row "20160826_144509.jpg 20160825_210513.jpg" >}}
