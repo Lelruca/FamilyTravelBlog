@@ -1,5 +1,5 @@
 ---
-title: "2013 - Квебек, Канада и Вирджиния Бич, США"
+title: "Canada Games и Вирджиния Бич, США"
 type: "trips"
 trip_year: 2013
 continent: "Северная Америка"
