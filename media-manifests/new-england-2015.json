@@ -49,7 +49,9 @@
       "start": 252,
       "end": 294,
       "title": "Наше освоение Новой Англии: Позолоченный век",
-      "folder": "07 - Позолоченный век"
+      "folder": "07 - Позолоченный век",
+      "photoSelectionComplete": true,
+      "photoSelectionNote": "Владелец выбрала семь новых фотографий; вместе с четырьмя сохранившимися иллюстрациями все кадры размещены по эпизодам The Breakers, The Elms и Ньюпорт."
     },
     {
       "start": 294,
@@ -3292,7 +3294,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 53
+      "reviewNumber": 53,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 7,
@@ -3327,7 +3330,8 @@
       "driveId": "1xr4CG8Ouk3NJzb5pnIMujMYGfyNgcMCV",
       "displayURL": "https://drive.google.com/thumbnail?id=1xr4CG8Ouk3NJzb5pnIMujMYGfyNgcMCV&sz=w1600",
       "slug": "gilded-age",
-      "orientation": 1
+      "orientation": 1,
+      "displayOrder": 2
     },
     {
       "chapter": 7,
@@ -3356,7 +3360,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 54
+      "reviewNumber": 54,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 7,
@@ -3385,7 +3390,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 55
+      "reviewNumber": 55,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 7,
@@ -3414,7 +3420,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 56
+      "reviewNumber": 56,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 7,
@@ -3443,7 +3450,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 57
+      "reviewNumber": 57,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 7,
@@ -3478,7 +3486,8 @@
       "driveId": "18ehEdgjpTiQqn_HqhPX-wR-gyyXW8AWa",
       "displayURL": "https://drive.google.com/thumbnail?id=18ehEdgjpTiQqn_HqhPX-wR-gyyXW8AWa&sz=w1600",
       "slug": "gilded-age",
-      "orientation": 1
+      "orientation": 1,
+      "displayOrder": 7
     },
     {
       "chapter": 7,
@@ -3513,7 +3522,8 @@
       "driveId": "1ziW0JXePWzQb_8rdt8oJbHHyJ4dETfBg",
       "displayURL": "https://drive.google.com/thumbnail?id=1ziW0JXePWzQb_8rdt8oJbHHyJ4dETfBg&sz=w1600",
       "slug": "gilded-age",
-      "orientation": 1
+      "orientation": 1,
+      "displayOrder": 8
     },
     {
       "chapter": 7,
@@ -3542,7 +3552,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 58
+      "reviewNumber": 58,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 7,
@@ -3571,7 +3582,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 59
+      "reviewNumber": 59,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 7,
@@ -3600,7 +3612,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 60
+      "reviewNumber": 60,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 7,
@@ -3629,7 +3642,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 61
+      "reviewNumber": 61,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 7,
@@ -3658,7 +3672,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 62
+      "reviewNumber": 62,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 7,
@@ -3687,7 +3702,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 63
+      "reviewNumber": 63,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 7,
@@ -3716,7 +3732,8 @@
         }
       ],
       "status": "unavailable",
-      "reviewNumber": 64
+      "reviewNumber": 64,
+      "recoveryStatus": "replaced-by-owner-selection"
     },
     {
       "chapter": 7,
@@ -3740,18 +3757,19 @@
       "width": 308,
       "height": 425,
       "filename": "91dfc0dd6ed0373cff02d3ed55fa5558.jpg",
-      "archiveFile": "07 - Позолоченный век/16_91dfc0dd6ed0373cff02d3ed55fa5558.jpg",
+      "archiveFile": "07 - Позолоченный век/10_91dfc0dd6ed0373cff02d3ed55fa5558.jpg",
       "status": "downloaded",
       "driveCandidates": [
         {
           "id": "1-dz_cBcyMEKrxVzTH5mGjaAE4OLk4ULp",
-          "local_title": "16_91dfc0dd6ed0373cff02d3ed55fa5558.jpg"
+          "local_title": "10_91dfc0dd6ed0373cff02d3ed55fa5558.jpg"
         }
       ],
       "driveId": "1-dz_cBcyMEKrxVzTH5mGjaAE4OLk4ULp",
       "displayURL": "https://drive.google.com/thumbnail?id=1-dz_cBcyMEKrxVzTH5mGjaAE4OLk4ULp&sz=w1600",
       "slug": "gilded-age",
-      "orientation": 1
+      "orientation": 1,
+      "displayOrder": 10
     },
     {
       "chapter": 8,
@@ -5222,6 +5240,146 @@
       "driveId": "11RNisgwH8_jfr9vWCM4vvvuztZjTXnzb",
       "displayURL": "https://drive.google.com/thumbnail?id=11RNisgwH8_jfr9vWCM4vvvuztZjTXnzb&sz=w1600",
       "placement": 2
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "Наше освоение Новой Англии: Позолоченный век",
+      "slug": "gilded-age",
+      "filename": "20150817_131529.jpg",
+      "originalFilename": "20150817_131529.jpg",
+      "order": 1,
+      "folder": "07 - Позолоченный век",
+      "archiveFile": "07 - Позолоченный век/01_20150817_131529.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 5312,
+      "height": 2988,
+      "orientation": 1,
+      "bytes": 6466878,
+      "sha256": "ea96a61799d4e4e952f407bc2c353b9cbffaa54fa86fa3237e0f989a2d19603f",
+      "driveId": "1zGKLUJ6MNS-aSD5vjki0GXbgUA1g_XtI",
+      "displayURL": "https://drive.google.com/thumbnail?id=1zGKLUJ6MNS-aSD5vjki0GXbgUA1g_XtI&sz=w1600",
+      "placement": "hero"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "Наше освоение Новой Англии: Позолоченный век",
+      "slug": "gilded-age",
+      "filename": "20150817_131327.jpg",
+      "originalFilename": "20150817_131327.jpg",
+      "order": 3,
+      "folder": "07 - Позолоченный век",
+      "archiveFile": "07 - Позолоченный век/03_20150817_131327.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 2988,
+      "height": 5312,
+      "orientation": 6,
+      "bytes": 5498306,
+      "sha256": "312ed5ed03ea9dc7e069d80c3ec3e2b81009fafb5c3d0ad565b4ebc13506504b",
+      "driveId": "1Yj-7BZ5vIEz5ygHJQ3hRJ_YbxcnZWrYj",
+      "displayURL": "https://drive.google.com/thumbnail?id=1Yj-7BZ5vIEz5ygHJQ3hRJ_YbxcnZWrYj&sz=w1600",
+      "placement": 3
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "Наше освоение Новой Англии: Позолоченный век",
+      "slug": "gilded-age",
+      "filename": "20150817_131343.jpg",
+      "originalFilename": "20150817_131343.jpg",
+      "order": 4,
+      "folder": "07 - Позолоченный век",
+      "archiveFile": "07 - Позолоченный век/04_20150817_131343.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 5312,
+      "height": 2988,
+      "orientation": 1,
+      "bytes": 5292616,
+      "sha256": "50bf32bb1a512fdcf0cc4ded295a82c6013ca6b8fc33c3ccf7e3e126ccd697fe",
+      "driveId": "1SqCS7W7qdNB066Fvf2Y-Xfnn2ddu2Mcb",
+      "displayURL": "https://drive.google.com/thumbnail?id=1SqCS7W7qdNB066Fvf2Y-Xfnn2ddu2Mcb&sz=w1600",
+      "placement": 3
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "Наше освоение Новой Англии: Позолоченный век",
+      "slug": "gilded-age",
+      "filename": "20150817_131426.jpg",
+      "originalFilename": "20150817_131426.jpg",
+      "order": 5,
+      "folder": "07 - Позолоченный век",
+      "archiveFile": "07 - Позолоченный век/05_20150817_131426.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 5312,
+      "height": 2988,
+      "orientation": 1,
+      "bytes": 5477716,
+      "sha256": "3dfbd1400a468c2ac55e5b05599ab61dfbc746ecf6c0c8508b5134d436ca162b",
+      "driveId": "1DcNEspyKXuw-plCuCXPYK-x1OJqyoQXU",
+      "displayURL": "https://drive.google.com/thumbnail?id=1DcNEspyKXuw-plCuCXPYK-x1OJqyoQXU&sz=w1600",
+      "placement": 3
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "Наше освоение Новой Англии: Позолоченный век",
+      "slug": "gilded-age",
+      "filename": "20150817_135537.jpg",
+      "originalFilename": "20150817_135537.jpg",
+      "order": 6,
+      "folder": "07 - Позолоченный век",
+      "archiveFile": "07 - Позолоченный век/06_20150817_135537.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 5312,
+      "height": 2988,
+      "orientation": 1,
+      "bytes": 5375692,
+      "sha256": "84a5c50b9398cac3ca42f0b17cccd95786879cfccd67ccfa89a24a1c20d50684",
+      "driveId": "1A9yt68Kki0sb5iNeF8IzmIpSqH8soV_U",
+      "displayURL": "https://drive.google.com/thumbnail?id=1A9yt68Kki0sb5iNeF8IzmIpSqH8soV_U&sz=w1600",
+      "placement": 3
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "Наше освоение Новой Англии: Позолоченный век",
+      "slug": "gilded-age",
+      "filename": "20150817_144055.jpg",
+      "originalFilename": "20150817_144055.jpg",
+      "order": 9,
+      "folder": "07 - Позолоченный век",
+      "archiveFile": "07 - Позолоченный век/09_20150817_144055.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 2988,
+      "height": 5312,
+      "orientation": 6,
+      "bytes": 7422392,
+      "sha256": "a4e61298685224363959b1f28e6af743d572b921a862cc57ac916db5240d1c9e",
+      "driveId": "1ub8OzgMWVFXM23ScU7IOprUpiUt4vCcP",
+      "displayURL": "https://drive.google.com/thumbnail?id=1ub8OzgMWVFXM23ScU7IOprUpiUt4vCcP&sz=w1600",
+      "placement": 4
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "Наше освоение Новой Англии: Позолоченный век",
+      "slug": "gilded-age",
+      "filename": "20150817_164259.jpg",
+      "originalFilename": "20150817_164259.jpg",
+      "order": 11,
+      "folder": "07 - Позолоченный век",
+      "archiveFile": "07 - Позолоченный век/11_20150817_164259.jpg",
+      "status": "owner-selected",
+      "selectedBy": "owner",
+      "width": 5312,
+      "height": 2988,
+      "orientation": 1,
+      "bytes": 4058456,
+      "sha256": "05dee33cc001572f1834b806eedeec12164502e2b9d62437fb8b81fdfa7b7291",
+      "driveId": "1n85oaHIFW1odt6wd9ZmnnruX7Rt5hEEH",
+      "displayURL": "https://drive.google.com/thumbnail?id=1n85oaHIFW1odt6wd9ZmnnruX7Rt5hEEH&sz=w1600",
+      "placement": 5
     }
   ],
   "unusedPhotos": [
@@ -5235,5 +5393,23 @@
       "status": "duplicate",
       "duplicateOf": "DSC04279.JPG"
     }
-  ]
+  ],
+  "tripCover": {
+    "chapter": 0,
+    "slug": "cover",
+    "filename": "DSC04370.JPG",
+    "originalFilename": "DSC04370.JPG",
+    "folder": "2015 - Новая Англия",
+    "archiveFile": "00_DSC04370.JPG",
+    "status": "owner-selected",
+    "selectedBy": "owner",
+    "width": 4896,
+    "height": 3672,
+    "orientation": 1,
+    "bytes": 5394316,
+    "sha256": "69c6e2a7d8f0837f6f8dac9ed0b471592be6f8ebef04f0cd93635d50e1407347",
+    "driveId": "1ltJJAwqE8wQfk4H8bwlX341E-ExJN416",
+    "displayURL": "https://drive.google.com/thumbnail?id=1ltJJAwqE8wQfk4H8bwlX341E-ExJN416&sz=w2000",
+    "placement": "trip-cover"
+  }
 }

@@ -7,5 +7,5 @@ continent: "Северная Америка"
 country: "США"
 geo_countries:
   - usa
-cover_image: "https://drive.google.com/thumbnail?id=1E7afInoA9OA_fPp8pRkUEGJU-Ey92UBL&sz=w2000"
+cover_image: "https://drive.google.com/thumbnail?id=1ltJJAwqE8wQfk4H8bwlX341E-ExJN416&sz=w2000"
 ---
