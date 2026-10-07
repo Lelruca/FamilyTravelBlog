@@ -1,5 +1,7 @@
 # Travel Archive Website Prompt
 
+This is the original architecture/scaffolding reference. For current work, first read `AGENTS.md`, `TEAM_HANDOFF.md`, `NEW_TRIPS_WORKFLOW.md` and `DESIGN_PHOTOS.md`. Every new trip must first have a correctly organized, verified archive of full originals on Google Drive, including its manifest and cloud sync. Only then create display copies and upload them to Cloudflare R2. Preserve the original-to-copy mapping so the site can be rebuilt on another host without access to R2.
+
 You are a senior static-site architect and frontend developer.
 
 Design and scaffold a production-ready **static travel archive website** using:
@@ -7,7 +9,8 @@ Design and scaffold a production-ready **static travel archive website** using:
 - Hugo (Static Site Generator)
 - Tailwind CSS (styling)
 - GitHub Pages (hosting)
-- optional Google Drive (media storage)
+- Google Drive (primary archive of full originals, prepared and verified first)
+- Cloudflare R2 (display copies for the site, prepared only after the archive)
 - optional Giscus (comments)
 
 This is **not a blog**.  
@@ -154,15 +157,19 @@ Structure:
 
 ## 7. Images
 
-### Local
-- Hugo resources
-- responsive
-- WebP
-- srcset
+### Primary archive: Google Drive first
+- Full originals in the standard trip/chapter folders; never replace them with display copies.
+- Verify file counts, dimensions, SHA-256 and cloud sync before preparing R2 copies.
+- Keep a manifest on Drive and in the project with relative original paths, filenames, chapter mapping and checksums.
 
-### Google Drive (optional)
-Use:
-https://drive.google.com/thumbnail?id={ID}&sz=s1600
+### Site delivery: Cloudflare R2 second
+- Generate separate display copies from verified archived originals, at most 2000 px on the long side, with correct rotation and no upscaling.
+- Upload to `family-travel-photos`; verify public URLs, image types and bytes against the display copies.
+- Include trip covers, chapter covers, cards and lightbox images. Do not use active Google Drive photo URLs as a substitute for this stage.
+- Record original-to-copy paths, conversion details, R2 keys and checksums so migration does not depend on R2 remaining available.
+
+### Agreed chapter resources
+- Owner-approved local resources are allowed separately; preserve their originals.
 
 ---
 
@@ -210,8 +217,10 @@ User should:
 1. create trip folder
 2. add metadata
 3. create chapter folders
-4. add images
-5. write markdown
+4. archive full originals on Drive and verify organization, manifest, integrity and cloud sync
+5. create and upload display copies to R2; verify covers and all selected images
+6. place images and the unchanged author text in markdown
+7. verify the archive, rendered pages and production build before marking the trip ready
 
 No manual wiring needed.
 
