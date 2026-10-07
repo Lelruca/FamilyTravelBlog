@@ -10,5 +10,6 @@ geo_countries:
   - belgium
   - germany
   - netherlands
-cover_image: "https://drive.google.com/thumbnail?id=18xWA7IOGZ5gfVWJRknsK1HzkTzftYouk&sz=w2000"
+cover_image: "https://drive.google.com/thumbnail?id=1OQV3cV384sssn7tUvxAocUeyB3jDxZWc&sz=w2000"
+cover_position: "center 30%"
 ---
