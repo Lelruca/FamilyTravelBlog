@@ -25,9 +25,15 @@ ConvertTo-Json -InputObject $paragraphs -Depth 4 -Compress
 const source = JSON.parse(execFileSync('powershell.exe', ['-NoProfile', '-Command', extract], {encoding:'utf8', maxBuffer:8*1024*1024}));
 const manifest = JSON.parse(fs.readFileSync('media-manifests/atlantic-canada-2014.json', 'utf8'));
 const photoData = JSON.parse(fs.readFileSync('data/photos/atlantic-canada-2014.json', 'utf8'));
-const photoID = url => url.match(/[?&]id=([\w-]+)/)?.[1] || url.match(/\/d\/([\w-]+)=/)?.[1];
+const photoID = url => {
+ const driveID = url.match(/[?&]id=([\w-]+)/)?.[1] || url.match(/\/d\/([\w-]+)=/)?.[1];
+ if (driveID) return driveID;
+ const pathname = new URL(url, 'http://local.invalid').pathname;
+ return manifest.r2?.photos.find(p => new URL(p.url).pathname === pathname)?.driveId;
+};
+const photoURL = key => photoData[key].url || `${manifest.r2.publicBase}atlantic-canada-2014/${key}`;
 const decode = s => s.replace(/&quot;/g, '"').replace(/&#39;|&#x27;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
-const textContent = s => decode(s.replace(/<[^>]*>/g, ''));
+const textContent = s => decode(s.replace(/<[^>]*>/g, '')).replace(/\r\n/g, '\n');
 const titleStarts = source.filter(p=>/^(Атлантика|День \d)/.test(p.text.trim())).map(p=>p.index);
 assert.equal(manifest.chapters.length, titleStarts.length);
 assert.equal(manifest.photos.length, 300);
@@ -68,11 +74,11 @@ async function page(route) {
   const actual=[];
   for(const m of md.matchAll(/<p>([\s\S]*?)<\/p>|\{\{< (?:row|mosaic) "([^"]+)" >\}\}/g)) {
    if(m[1]!==undefined)actual.push({type:'text',text:textContent(m[1])});
-   else actual.push(...m[2].split(' ').map(name=>({type:'photo',url:photoData[path.basename(path.dirname(ch.file))+'/'+name.replace(/^[LRT]:/,'')].url})));
+   else actual.push(...m[2].split(' ').map(name=>({type:'photo',url:photoURL(path.basename(path.dirname(ch.file))+'/'+name.replace(/^[LRT]:/,''))})));
   }
   const hero=JSON.parse(md.match(/^hero_image: (.*)$/m)[1]);
   const chapter=path.basename(path.dirname(ch.file));
-  const heroURL=photoData[chapter+'/'+hero].url;
+  const heroURL=photoURL(chapter+'/'+hero);
   const id=photoID(heroURL);
   assert.deepEqual(actual.filter(e=>e.type==='text'),expected.filter(e=>e.type==='text'),'Verbatim text and paragraph boundaries: '+sourceTitle);
   // Photo order within a group is free; its anchor in the author's text is preserved.
@@ -103,7 +109,7 @@ async function page(route) {
   assert.equal(id,photoID(ch.heroImage),'Selected hero preserved');
   const selected=manifest.photos.find(p=>p.driveFileId===id);
   assert.ok(selected.width>selected.height,'Horizontal hero: '+route);
-  assert.ok(html.includes('/d/'+id+'=w2000'),'Full-size hero');
+  assert.ok(html.includes(manifest.r2 ? heroURL : '/d/'+id+'=w2000'),'Full-size hero');
   const placeSlugs=md.match(/^places:\n((?:  - [^\n]+\n)+)/m)?.[1].match(/(?<=  - )[^\n]+/g)??[];
   for(const slug of placeSlugs)assert.ok((await page('places/'+slug+'/')).includes('/'+route),'Place association '+slug);
   paragraphs+=renderedParagraphs.length;
@@ -114,7 +120,8 @@ async function page(route) {
  const trip='americas/canada/atlantic-canada-2014/';
  for(const route of ['', 'americas/canada/', 'trip-year/2014/', trip])assert.ok((await page(route)).includes(trip),'Trip discovery: '+route);
  const tripHTML=await page(trip);
- assert.ok(tripHTML.includes('1QfWxGRh4rLxXLog6XrVY349vfZqp9-sl'),'Owner-selected cover preserved');
+ const coverURL = manifest.r2?.photos.find(p => p.key === manifest.r2.verification.coverKey)?.url;
+ assert.ok(tripHTML.includes(coverURL || '1QfWxGRh4rLxXLog6XrVY349vfZqp9-sl'),'Owner-selected cover preserved');
  assert.equal(manifest.coverImage,'https://drive.google.com/thumbnail?id=1QfWxGRh4rLxXLog6XrVY349vfZqp9-sl&sz=w2000');
  for(const photo of manifest.photos) {
   assert.match(photo.displayURL,/^https:\/\/drive\.google\.com\/thumbnail\?id=[^&]+&sz=w1600$/);

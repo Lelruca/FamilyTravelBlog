@@ -6,5 +6,5 @@ continent: "Европа"
 country: "Франция"
 geo_countries:
   - france
-cover_image: "https://drive.google.com/thumbnail?id=1hAfgFDUowyIsT4wsbksZ_sAWS7wzFsTN&sz=w2000"
+cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/france-2012/paris-1/IMG_0925.jpg"
 ---
