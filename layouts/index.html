@@ -24,6 +24,10 @@
   .trip-tile:hover .trip-tile-where{margin-bottom:8px}
   .trip-tile:hover .trip-tile-meta{margin-top:10px}
 }
+.trip-tile-cell[hidden]{display:none}
+.trip-more{display:flex;justify-content:center;padding:8px 0 48px}
+.trip-more button{font:500 15px Inter,sans-serif;color:#262626;background:#fff;border:1px solid #d4d4d4;border-radius:999px;padding:12px 28px;cursor:pointer}
+.trip-more button:hover{border-color:var(--accent);color:var(--accent)}
 /* keyboard: the same as hover */
 .trip-tile:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
 .trip-tile:focus-visible .trip-tile-where,.trip-tile:focus-visible .trip-tile-meta{max-height:60px;opacity:1;transform:none}
@@ -49,10 +53,26 @@
   {{- range where site.Pages "Params.trip_year" "!=" nil -}}
     {{- $rows = $rows | append (dict "key" (.Params.trip_start | default (printf "%v-00" .Params.trip_year)) "page" .) -}}
   {{- end -}}
-  <section class="trip-tiles" aria-label="Путешествия">
-    {{- range sort $rows "key" "desc" }}
-      {{ partial "trip-tile.html" .page }}
+  {{- /* the newest 12 first; «Показать ещё» shows 12 more at a time */ -}}
+  {{- $step := 12 -}}
+  <section class="trip-tiles" aria-label="Путешествия" data-step="{{ $step }}">
+    {{- range $i, $r := sort $rows "key" "desc" }}
+      <div class="trip-tile-cell"{{ if ge $i $step }} hidden{{ end }}>{{ partial "trip-tile.html" $r.page }}</div>
     {{- end }}
   </section>
+  {{- if gt (len $rows) $step }}
+  <div class="trip-more"><button type="button" id="trip-more">Показать ещё</button></div>
+  <script>
+    (() => {
+      const btn = document.getElementById('trip-more');
+      const step = +document.querySelector('.trip-tiles').dataset.step;
+      btn.addEventListener('click', () => {
+        const rest = [...document.querySelectorAll('.trip-tile-cell[hidden]')];
+        rest.slice(0, step).forEach((c) => { c.hidden = false; });
+        if (rest.length <= step) btn.parentElement.remove();
+      });
+    })();
+  </script>
+  {{- end }}
 </div>
 {{ end }}
