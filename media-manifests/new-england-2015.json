@@ -5612,8 +5612,8 @@
     "bucket": "family-travel-photos",
     "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "longSideLimit": 2000,
-    "preparedFrom": "Original archived files; EXIF rotation applied; no upscaling; four small illustrations copied unchanged.",
-    "verifiedAt": "2026-10-07T00:01:29.298Z",
+    "preparedFrom": "Archived originals (archiveFile); EXIF rotation applied; no upscaling.",
+    "verifiedAt": "2026-10-08T13:19:27.528Z",
     "photos": [
       {
         "key": "new-england-2015/pilgrims/DSC04351.JPG",
@@ -6984,6 +6984,18 @@
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/new-england-2015/gilded-age/20150817_164259.jpg"
       },
       {
+        "key": "new-england-2015/cover/DSC04370.JPG",
+        "slug": "cover",
+        "filename": "DSC04370.JPG",
+        "archiveFile": "00_DSC04370.JPG",
+        "originalSha256": "69c6e2a7d8f0837f6f8dac9ed0b471592be6f8ebef04f0cd93635d50e1407347",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 694972,
+        "sha256": "db8a1ad3f1c93e9da1dbbb62f5d6fb699fd516881eecd2f53fb9f878637abb48",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/new-england-2015/cover/DSC04370.JPG"
+      },
+      {
         "key": "new-england-2015/cultural-heritage/20150822_200950.jpg",
         "slug": "cultural-heritage",
         "filename": "20150822_200950.jpg",
@@ -7090,18 +7102,1532 @@
         "bytes": 689282,
         "sha256": "e6ce14c7a02b0fe02c06efd9866fbc85a78a10f9e302db26dfba218c48986ac2",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/new-england-2015/cultural-heritage/20150823_122203.jpg"
+      }
+    ],
+    "verification": {
+      "tripRoute": "americas/usa/new-england-2015",
+      "coverKey": "new-england-2015/cover/DSC04370.JPG",
+      "chapters": [
+        {
+          "slug": "american-revolution",
+          "file": "content/americas/usa/new-england-2015/american-revolution/index.md",
+          "route": "americas/usa/new-england-2015/american-revolution",
+          "mdSha256": "1259ef908fa89751a0b336490833d443fe91979c2454bba9e80055ee2a85f9e2",
+          "keys": [
+            "american-revolution/20150815_135816.jpg",
+            "american-revolution/20150815_135027.jpg",
+            "american-revolution/20150815_135147.jpg",
+            "american-revolution/20150815_135343.jpg",
+            "american-revolution/20150815_135327.jpg",
+            "american-revolution/20150815_135422.jpg",
+            "american-revolution/20150815_135756.jpg"
+          ],
+          "paragraphHashes": [
+            "82c5fb2149a3678580f78b61451a9f5f287cdcae9e964341cbbd18ed3a9c8de3",
+            "5173ea1a88844642b8765c8397693ecaf0dcf5cda3488f273b055778b0d55830",
+            "c8f2f18777fd64dc9b1b62958db5f5e272d74fb7598fc6e792fbac4d3d6e2acc",
+            "63137fdaf28cc7ea781039c0eb6999b2f9741881a04f1f7c08ac8cb18d16eacd"
+          ]
+        },
+        {
+          "slug": "boston",
+          "file": "content/americas/usa/new-england-2015/boston/index.md",
+          "route": "americas/usa/new-england-2015/boston",
+          "mdSha256": "89c15e704f61f97ee2a5c8ae3039c2a6a70cc964c362163c76674c7e917fe5b8",
+          "keys": [
+            "boston/20150814_102359.jpg",
+            "boston/20150814_095322.jpg",
+            "boston/20150814_105125.jpg",
+            "boston/20150814_120047.jpg",
+            "boston/20150814_121948.jpg",
+            "boston/20150814_120252.jpg",
+            "boston/20150814_094639.jpg",
+            "boston/20150814_095200.jpg",
+            "boston/20150814_143753.jpg",
+            "boston/20150814_143056.jpg",
+            "boston/20150814_143940.jpg",
+            "boston/20150814_145202.jpg",
+            "boston/20150814_150859.jpg",
+            "boston/20150814_150903.jpg",
+            "boston/20150814_151546.jpg",
+            "boston/20150814_123612.jpg"
+          ],
+          "paragraphHashes": [
+            "3210b543cffcafd1f69bb24a7e2cbc8f92cccecc06418aac42a86502e3f6241b",
+            "c34ebc0f0290c4b11c95677307584e39cce9f063be09de889166366df864f39d",
+            "e3863a56183bca721b46dcdd628060428e93be2aa75726f9fa488782ccc7615e",
+            "c03131d7e2112e76a36a8440f747319fdea90073f51b948bb1c8a2f27c71889a",
+            "30189060c5cbeeae23595590bda161a53f434e8dc842d9e2208ad70e1a94163e",
+            "3656eda4a8894e33325073ca0e19db1bf5bad1b1d693262fe3857637e40eca54",
+            "f0c488dfbbdae6126cf4084158ea712652426e70e02ae5630a05d6f4eeade795",
+            "02101f604ed366e86d6e28b2f4e5d3879d3c93d6846300c6c4774530e71a660e",
+            "47395100f568b111c77f01159f83a088599179d17044ee940d69d5900e07486f",
+            "cb1b2a6d8203ac25fbd9a339da82f685576f9fcdd08fb3d4027685ce76a373b0"
+          ]
+        },
+        {
+          "slug": "cape-cod",
+          "file": "content/americas/usa/new-england-2015/cape-cod/index.md",
+          "route": "americas/usa/new-england-2015/cape-cod",
+          "mdSha256": "c6b0a1600b01b483cd49f08c4e8497ec78f993cb21751d602d5a2b2d5f88be49",
+          "keys": [
+            "cape-cod/DSC04418.JPG",
+            "cape-cod/DSC04438.JPG",
+            "cape-cod/DSC04441.JPG",
+            "cape-cod/20150816_175724.jpg",
+            "cape-cod/DSC04446.JPG",
+            "cape-cod/20150815_185742.jpg",
+            "cape-cod/DSC04391.JPG",
+            "cape-cod/DSC04408.JPG",
+            "cape-cod/DSC04432.JPG",
+            "cape-cod/DSC04436.JPG"
+          ],
+          "paragraphHashes": [
+            "3694469ef7cbf00ad457610d2d5a1c1a9b4858ac0a0c822645c02d9751dc9542",
+            "4896c0560edff08ebcf49730cff6d56b24df9deefecc38b1524f5476218b5c11",
+            "4df959489d8c1cea683a7aeffd9aff5f021d799480f76f1b42f915dbefc7b59d",
+            "0e30a2c76bf190ac15465c8e761f4326209bac26839c2d2c264ca51bbfbeb7f7",
+            "da61dcc229b3c79ce683ecfbae9f95bb1385dcd662ba9045b6edb9e2831125ee",
+            "69f59eb298eafd23e42dc73e2d95aab1e1867c51fb572b7ed3046e6dc886e548",
+            "0e6b95a9cdd945d9fc4454249053464004a36d367bd8806464e2d454864f854e",
+            "76c19acc19956ddea81ed798d2a5641b5b3c13887f2b04d5f3fb76a05a78a724",
+            "e235778f26e6df0a6ffd193584618f599ffbecdab3179107c22f3846cd2dc497"
+          ]
+        },
+        {
+          "slug": "cultural-heritage",
+          "file": "content/americas/usa/new-england-2015/cultural-heritage/index.md",
+          "route": "americas/usa/new-england-2015/cultural-heritage",
+          "mdSha256": "43650809dc3b13273b4015827616dbdf3445a569a561fa7969d0b904f225fa7e",
+          "keys": [
+            "cultural-heritage/20150822_200950.jpg",
+            "cultural-heritage/20150822_191629.jpg",
+            "cultural-heritage/20150822_192245.jpg",
+            "cultural-heritage/20150822_195713.jpg",
+            "cultural-heritage/20150822_200738.jpg",
+            "cultural-heritage/20150822_195804.jpg",
+            "cultural-heritage/20150822_195935.jpg",
+            "cultural-heritage/20150823_122153.jpg",
+            "cultural-heritage/20150823_122203.jpg"
+          ],
+          "paragraphHashes": [
+            "a7cf5ef56c465540049b9560dec10335939049c5e0505b68620dab7d8168bc97",
+            "e11924f10e7b7e019d6b623eca9cbe697a5cb7d8a8c05465c7aafbed944c8e58",
+            "83098526b0f36906b0117b12016fa3243a399c655977e2ed9a8547fbf8e151bf",
+            "9cd9b2960551f617481ce5d3b29371f13a27d0d23e3d149e2f51502b5f9f59e7",
+            "c71d9ee2fc8551bff0b3e28b363904c0f9daa05f708ba0be894c79640ccfa0f4",
+            "1cbc6e8c456625e9256330966236cddacb18fb204a358247ac44c6aae5f5e826",
+            "c6bcec25f2bb62a5d91c66577029b84ce4b11467cac52d976072cbc99eec3e34",
+            "4f9ce9cd3d4478d2dc8f8d68dd889615512e45f90c61624d64466f72200e38f9",
+            "b445ddc6c6b66624ce269a89ebc4467989bdcde10e7962eeb150400f3745f442",
+            "0923ea1707c7248cb1d82935355dff218c55fb1d3477141bb8bf74a089c53b6b"
+          ]
+        },
+        {
+          "slug": "gilded-age",
+          "file": "content/americas/usa/new-england-2015/gilded-age/index.md",
+          "route": "americas/usa/new-england-2015/gilded-age",
+          "mdSha256": "eba3fed93b8da75bd113e7a299f45f1d84be7902e0e8a7587b5fd68827e33257",
+          "keys": [
+            "gilded-age/20150817_131529.jpg",
+            "gilded-age/20150817_131343.jpg",
+            "gilded-age/20150817_131327.jpg",
+            "gilded-age/20150817_131426.jpg",
+            "gilded-age/20.jpg",
+            "gilded-age/20150817_135537.jpg",
+            "gilded-age/3fd3b44a2dbbc2678cf8639143b34ad6.jpg",
+            "gilded-age/1024px-Cornelius_Bedroom_Breakers.JPG",
+            "gilded-age/20150817_144055.jpg",
+            "gilded-age/91dfc0dd6ed0373cff02d3ed55fa5558.jpg",
+            "gilded-age/20150817_164259.jpg"
+          ],
+          "paragraphHashes": [
+            "c279113b96ce277a348933984c68233f87e0d1f343dc06baaf901179f70e74c1",
+            "154ccf17085753f2427d77e44fd759422e48337839fb6f35e44df45fc0f3fed2",
+            "3ba53567d48ddcdf5b5f852136d1de9ce1c12e9a1515b5685310a6e1898aa000",
+            "75a58faa926deb25cef985071dfd00184623b2adb4c96bc54a4dafd70aaf345c",
+            "e319fafddf8de4f1921f027aa76f71680229d8cbd7e689fe75213e1cf23bcf8c",
+            "1216a25c5f98fd0d6af2ca34ba44031f5858de81c429e7d1c7e9a48d807b57ce",
+            "e89e2ccb5dfdb87c25c1f7377f2ad1e1a5a94ccd0569cd27d87352da9af0a32f"
+          ]
+        },
+        {
+          "slug": "industrial-revolution",
+          "file": "content/americas/usa/new-england-2015/industrial-revolution/index.md",
+          "route": "americas/usa/new-england-2015/industrial-revolution",
+          "mdSha256": "1b07c64a50044670e9f21c52045b34fa299860c232c3c44af8e7afabd2202aee",
+          "keys": [
+            "industrial-revolution/20150815_105452.jpg",
+            "industrial-revolution/20150815_102039.jpg",
+            "industrial-revolution/20150815_104746.jpg",
+            "industrial-revolution/20150815_104801.jpg",
+            "industrial-revolution/20150815_102327.jpg",
+            "industrial-revolution/20150815_120546.jpg",
+            "industrial-revolution/20150815_110110.jpg",
+            "industrial-revolution/20150815_105415.jpg",
+            "industrial-revolution/20150815_110350.jpg",
+            "industrial-revolution/20150815_115810.jpg",
+            "industrial-revolution/20150815_110727.jpg",
+            "industrial-revolution/20150815_110323_001.jpg",
+            "industrial-revolution/20150822_142905_001.jpg",
+            "industrial-revolution/20150822_145319.jpg",
+            "industrial-revolution/20150822_150203.jpg",
+            "industrial-revolution/20150822_145938.jpg",
+            "industrial-revolution/20150822_145841.jpg",
+            "industrial-revolution/20150822_145539.jpg",
+            "industrial-revolution/20150822_145932.jpg",
+            "industrial-revolution/20150822_152534.jpg"
+          ],
+          "paragraphHashes": [
+            "ddd0f3e10a39126ce07881e0a755b289ff27dd5e45c0e841024514781ab492b0",
+            "39f944345292a1d69192f55796eac1f58e0a5a3018fdfd565b7142666c8a77df",
+            "7fdbfca9a91d480ccecbd2b72ce20f51a8bb6154877ceb6b421ca4e9c7ff2b3d",
+            "5bbeb328ffd891d74ed0a5176cd3a1a62a484588a1a2770e47e61b1071fc03d6",
+            "3b6b90ddac7f9da46934cb52070a54037f22576725ecf060650c19814079deb3",
+            "f19a92c00e10efa49c712ad7ee18f618a51b0c93d188996c2588f1453937aae5",
+            "cd8051e3a6c5f93574a3e8c668eb9db20614d2f05231a146f4d8dea9939126ee",
+            "f6514363d6ac22760c942580058914752a0fc3fd48c3da21038efa85b2bb0193"
+          ]
+        },
+        {
+          "slug": "pilgrims",
+          "file": "content/americas/usa/new-england-2015/pilgrims/index.md",
+          "route": "americas/usa/new-england-2015/pilgrims",
+          "mdSha256": "4e324c399099fb342a200a84624907d2f05f2a3c5cd9ebec262f54d83439703f",
+          "keys": [
+            "pilgrims/DSC04299.JPG",
+            "pilgrims/DSC04351.JPG",
+            "pilgrims/20150818_141659.jpg",
+            "pilgrims/DSC04305.JPG",
+            "pilgrims/20150818_153405.jpg",
+            "pilgrims/20150818_161935.jpg",
+            "pilgrims/20150818_163007.jpg",
+            "pilgrims/DSC04321.JPG",
+            "pilgrims/DSC04318.JPG",
+            "pilgrims/DSC04341.JPG",
+            "pilgrims/20150820_125052.jpg",
+            "pilgrims/DSC04349.JPG",
+            "pilgrims/20150820_125826.jpg",
+            "pilgrims/DSC04329.JPG",
+            "pilgrims/20150820_123217.jpg",
+            "pilgrims/20150820_123511.jpg",
+            "pilgrims/20150820_123628.jpg",
+            "pilgrims/DSC04364.JPG",
+            "pilgrims/DSC04363.JPG",
+            "pilgrims/DSC04361.JPG",
+            "pilgrims/DSC04375.JPG",
+            "pilgrims/DSC04369.JPG",
+            "pilgrims/DSC04384.JPG",
+            "pilgrims/DSC04380.JPG",
+            "pilgrims/DSC04382.JPG",
+            "pilgrims/DSC04385.JPG"
+          ],
+          "paragraphHashes": [
+            "69998b6d34974d0caecccb860ca02eac6b7124a7a22e8f0106dee596bf89f4cd",
+            "03baaca00437a7f72ca57d01662da7b40b235f89cfdeb9e4811e6562e1891476",
+            "fbd7ed1a7c6c48b59c80c28f266ea76e7b50d0350652080d6f360dd84f3ccc6b",
+            "0a86139be796ec89d1914c87231db4c6d84d28ea365b31ce8db3ba74ab5e1308",
+            "b68ec292b3e9cd42e69ff2f5d2d2e75668b9357b036ed34186bfd05c6b5f9859",
+            "842635531c5a376e9b6c0bce5e315ca2c6962568b9b5b639e2c0d3f5cb16aaa7",
+            "96e3daa14e37885b19ea2c07cc0908e395c251fc738978c9226d1a0b0322ee4d"
+          ]
+        },
+        {
+          "slug": "settlement",
+          "file": "content/americas/usa/new-england-2015/settlement/index.md",
+          "route": "americas/usa/new-england-2015/settlement",
+          "mdSha256": "b18ae8806f951d61729eb0914e33547ae393977a7b835263d35761f5ea1d36c8",
+          "keys": [
+            "settlement/20150813_145903.jpg",
+            "settlement/20150813_150218.jpg",
+            "settlement/DSC04293.JPG",
+            "settlement/20150813_153753.jpg",
+            "settlement/DSC04288.JPG",
+            "settlement/20150813_153838.jpg",
+            "settlement/20150813_153652.jpg",
+            "settlement/20150813_153711.jpg",
+            "settlement/20150813_152627.jpg",
+            "settlement/20150813_153105.jpg",
+            "settlement/20150813_154241.jpg",
+            "settlement/20150813_163628.jpg",
+            "settlement/20150813_163752.jpg",
+            "settlement/20150813_161622.jpg",
+            "settlement/20150813_164458.jpg",
+            "settlement/20150813_191039.jpg",
+            "settlement/20150813_191210.jpg",
+            "settlement/20150813_192011.jpg",
+            "settlement/20150813_193909.jpg",
+            "settlement/DSC04279.JPG",
+            "settlement/DSC04278.JPG",
+            "settlement/DSC04283.JPG",
+            "settlement/DSC04287.JPG",
+            "settlement/DSC04281.JPG"
+          ],
+          "paragraphHashes": [
+            "b2074bc882d2068c8f5998aa2d10a0e0dc718851f623ccdab80cbed2b32f34ff",
+            "5d48458e49cc99e116eee264dfec065237b53c66442c974b3f815e6196be48b8",
+            "2c28412d23504a6cbc3a8d6a50d89379d8de1808a0baaf425c33abe8237a9d0d",
+            "04ce670f40112bb1606916364326098840198ea3ec71ba141a692683c8fd4bfa",
+            "632ca2e9798a98a338335a5ae0e708712b68933fd20345a62d1db234fef7bc33"
+          ]
+        }
+      ]
+    }
+  },
+  "archive": {
+    "folder": "North America/2015 - Новая Англия",
+    "scannedAt": "2026-10-08T13:19:27.528Z",
+    "images": 125,
+    "unused": 1,
+    "bytes": 586028176,
+    "files": [
+      {
+        "archiveFile": "00_DSC04370.JPG",
+        "bytes": 5394316,
+        "sha256": "69c6e2a7d8f0837f6f8dac9ed0b471592be6f8ebef04f0cd93635d50e1407347",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "cover/DSC04370.JPG"
+        ]
       },
       {
-        "key": "new-england-2015/cover/DSC04370.JPG",
-        "slug": "cover",
-        "filename": "DSC04370.JPG",
-        "archiveFile": "00_DSC04370.JPG",
-        "originalSha256": "69c6e2a7d8f0837f6f8dac9ed0b471592be6f8ebef04f0cd93635d50e1407347",
-        "w": 2000,
-        "h": 1500,
-        "bytes": 694972,
-        "sha256": "db8a1ad3f1c93e9da1dbbb62f5d6fb699fd516881eecd2f53fb9f878637abb48",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/new-england-2015/cover/DSC04370.JPG"
+        "archiveFile": "01 - Вступление (Кейп Код)/01_DSC04418.JPG",
+        "bytes": 5183841,
+        "sha256": "0a34771cf8f5a37bc43486f3f984f38832b099e7663942b15bf98c42ca9dd667",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "cape-cod/DSC04418.JPG"
+        ]
+      },
+      {
+        "archiveFile": "01 - Вступление (Кейп Код)/02_DSC04438.JPG",
+        "bytes": 4934596,
+        "sha256": "32d9365d0bef80ad22cbe77a6e1563992493ba383211d8fb1afe25eea9b523c9",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "cape-cod/DSC04438.JPG"
+        ]
+      },
+      {
+        "archiveFile": "01 - Вступление (Кейп Код)/03_DSC04441.JPG",
+        "bytes": 5532165,
+        "sha256": "7745415cceb38d199cd3415e983b1c8e24a5517b917508fbe591c73660f55d6a",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "cape-cod/DSC04441.JPG"
+        ]
+      },
+      {
+        "archiveFile": "01 - Вступление (Кейп Код)/04_20150816_175724.jpg",
+        "bytes": 4729240,
+        "sha256": "6b28c0fa3fb7a37afc4aa1d9bb4fa0c3ea94dd378c3f8c60d8bb604cf43ddd04",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "cape-cod/20150816_175724.jpg"
+        ]
+      },
+      {
+        "archiveFile": "01 - Вступление (Кейп Код)/05_DSC04446.JPG",
+        "bytes": 5300943,
+        "sha256": "2c92438100a0dc9a74ab39e839f655289cd7e5211c755fb954bec64949bfb81e",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "cape-cod/DSC04446.JPG"
+        ]
+      },
+      {
+        "archiveFile": "01 - Вступление (Кейп Код)/06_20150815_185742.jpg",
+        "bytes": 2955848,
+        "sha256": "4d1591604b902a6caa5b6de097d07a2527bf7f73ddeaa7115202be4544094e19",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "cape-cod/20150815_185742.jpg"
+        ]
+      },
+      {
+        "archiveFile": "01 - Вступление (Кейп Код)/07_DSC04391.JPG",
+        "bytes": 4644520,
+        "sha256": "29041c872189e4f980124f7faaff3e9767b279e3d82fe9c666fc76c9eba8cb67",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "cape-cod/DSC04391.JPG"
+        ]
+      },
+      {
+        "archiveFile": "01 - Вступление (Кейп Код)/08_DSC04408.JPG",
+        "bytes": 4882393,
+        "sha256": "adcee163fbbd2f4f66e5fc991982c607427eb90f15ccd9021ce0d2c73964a19d",
+        "width": 3672,
+        "height": 4896,
+        "siteKeys": [
+          "cape-cod/DSC04408.JPG"
+        ]
+      },
+      {
+        "archiveFile": "01 - Вступление (Кейп Код)/09_DSC04432.JPG",
+        "bytes": 4381400,
+        "sha256": "d8b182400a81c7de6b20c104422740c5a7462567ced10f25c4c5ae0eec5ab92f",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "cape-cod/DSC04432.JPG"
+        ]
+      },
+      {
+        "archiveFile": "01 - Вступление (Кейп Код)/10_DSC04436.JPG",
+        "bytes": 4855955,
+        "sha256": "9db19bb8eeb982d2ec1ad4b7fbb01608e8df6f66580d598323bbb7e5efdecd03",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "cape-cod/DSC04436.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/01_DSC04351.JPG",
+        "bytes": 5836181,
+        "sha256": "c29293de47665bebf1892ad62b3d097b91923699ac37733e6b996c3cbabb63bd",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04351.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/02_20150818_141659.jpg",
+        "bytes": 3481406,
+        "sha256": "883f3ba416eaaa1fb6f14caec2a3f8a847d2f5499cdc6b62dd15ec7a9aff6c7e",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "pilgrims/20150818_141659.jpg"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/03_DSC04305.JPG",
+        "bytes": 5967342,
+        "sha256": "7f7316c46da42fe2df3ee3c5e3d65470b4eb21d63ca8b19fdede96d11b0fdc2f",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04305.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/04_DSC04299.JPG",
+        "bytes": 4883264,
+        "sha256": "be05ee1e977430806e32a330784f575a0e7e9cbbc94d83cd9c3ebedcb558dfa1",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04299.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/05_20150818_153405.jpg",
+        "bytes": 7787082,
+        "sha256": "aa244be2611163b26d3e98f860e8b3c9abffb2fb7a30fe68991b5af534592b9d",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "pilgrims/20150818_153405.jpg"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/06_20150818_161935.jpg",
+        "bytes": 4733680,
+        "sha256": "f9ad878725ec26ac5dec8b971b082d4e0fad1660747895edb9b7e69501d24b9b",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "pilgrims/20150818_161935.jpg"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/07_20150818_163007.jpg",
+        "bytes": 3036524,
+        "sha256": "262f668203dc29abc793037070edd40822e8076965776bf435aa5d7d744da48c",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "pilgrims/20150818_163007.jpg"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/08_DSC04321.JPG",
+        "bytes": 3861938,
+        "sha256": "d90178ce173c4afc6fb681cd79062eacebaa373893c92eb791c786555529494b",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04321.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/09_DSC04318.JPG",
+        "bytes": 5300981,
+        "sha256": "bf2a72dbd5e06edf3691c35be73db9bf2a445c1e140f8dd38c2fcd0f0cd85013",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04318.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/10_DSC04341.JPG",
+        "bytes": 2610990,
+        "sha256": "a69511d66917a095c960d880fc94015704bd56e260f093e1e65c432b09b6f540",
+        "width": 4785,
+        "height": 3589,
+        "siteKeys": [
+          "pilgrims/DSC04341.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/11_20150820_125052.jpg",
+        "bytes": 4804302,
+        "sha256": "be707411648aa217f4e43e1f447a5c2da5e27cd15100b51eb3441fe5514efdca",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "pilgrims/20150820_125052.jpg"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/12_DSC04349.JPG",
+        "bytes": 5111532,
+        "sha256": "d132efee4b00b2e7aa4fcc3c9d15eab3b2843be9968d3055bdd510275c6b894d",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04349.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/13_20150820_125826.jpg",
+        "bytes": 2836662,
+        "sha256": "7bb6c769dccce6a195109cf34d93101077d26f50d68f2731b86c88c8002f40d0",
+        "width": 2988,
+        "height": 3747,
+        "siteKeys": [
+          "pilgrims/20150820_125826.jpg"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/14_DSC04329.JPG",
+        "bytes": 6765897,
+        "sha256": "627bdc97109e0d70b1f30dcbb5d8d946ebfead4fa7298465d8ddb354c7215fca",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04329.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/15_20150820_123217.jpg",
+        "bytes": 9247840,
+        "sha256": "4d1d22d6644e19ab80e2a52b7ab27fe740692ff1c2091e39d1e57d63906a5a61",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "pilgrims/20150820_123217.jpg"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/16_20150820_123511.jpg",
+        "bytes": 3453509,
+        "sha256": "1c1fa9695da7cccba8453c6eb8c430f713364bc4c970005745e59a2c88421e73",
+        "width": 2988,
+        "height": 4794,
+        "siteKeys": [
+          "pilgrims/20150820_123511.jpg"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/17_20150820_123628.jpg",
+        "bytes": 1631398,
+        "sha256": "37e3c18c9712437188a924bf6775c63845f590fb9dade2e614104543225fb4b1",
+        "width": 2988,
+        "height": 4044,
+        "siteKeys": [
+          "pilgrims/20150820_123628.jpg"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/18_DSC04364.JPG",
+        "bytes": 4926114,
+        "sha256": "9d10e7f56e4e1eecfeecedc44966355c21c0adccaa7620742db5a225a5177774",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04364.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/19_DSC04363.JPG",
+        "bytes": 6095846,
+        "sha256": "41504da058e813ab9415e1aa1f8b957c714301b08f4ed9e721f39e6753d14d01",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04363.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/20_DSC04361.JPG",
+        "bytes": 5231796,
+        "sha256": "1fe50f317292b0ced79f728a349510aaa64998bc7466b392acbe84d50e9936a6",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04361.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/21_DSC04384.JPG",
+        "bytes": 5101771,
+        "sha256": "cf6ccaa0b048733ad26fa11beb7d0d3b97ca33172a63158714fed2bd5459a285",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04384.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/22_DSC04380.JPG",
+        "bytes": 6894610,
+        "sha256": "ff899c2f60b446ace34007733349df59aebc28fe63ba7bf510d82344ae3fa92c",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04380.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/23_DSC04375.JPG",
+        "bytes": 7073565,
+        "sha256": "e3dcedef0078ca97199e5842f73d9cc8d126d836395950b2666130693de8b963",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04375.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/24_DSC04382.JPG",
+        "bytes": 7274245,
+        "sha256": "e9854ca0f5e01d07a39d4bbba85ed2cf8d69bbca053567ea6e90a580bc5e6da1",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04382.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/25_DSC04369.JPG",
+        "bytes": 5537432,
+        "sha256": "8e0e7c8b22dd4196ddb0d83a62c7c701c0b9e47f2b2e3eb7e177b932c3bd43e5",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04369.JPG"
+        ]
+      },
+      {
+        "archiveFile": "02 - отцы-пилигримы/26_DSC04385.JPG",
+        "bytes": 5743388,
+        "sha256": "a324583236ba2182e41ac87bd26842bd0e46e290743403d14b42cf4e82806a76",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "pilgrims/DSC04385.JPG"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/01_20150813_145903.jpg",
+        "bytes": 6349442,
+        "sha256": "a24d3cd0dc22266ad648b18a2cdf87f670f4728532a16a5055eb3ab8e00f0a34",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "settlement/20150813_145903.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/02_20150813_150218.jpg",
+        "bytes": 7401448,
+        "sha256": "9bc7d4f2adf8641256c639b931ca0cecd7ead183d2048acd4d7e85aca60751c0",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "settlement/20150813_150218.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/03_DSC04293.JPG",
+        "bytes": 3221353,
+        "sha256": "2dce640b2a2b8a807251383788cfbe91d77892dd9b7b7a17c17616897b9c55ec",
+        "width": 3672,
+        "height": 4896,
+        "siteKeys": [
+          "settlement/DSC04293.JPG"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/04_20150813_153753.jpg",
+        "bytes": 3530409,
+        "sha256": "5cc7deb8d165c9219f172b29478f1c20aef58e434cb7a01e6878ad7a48eb64f9",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "settlement/20150813_153753.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/05_DSC04288.JPG",
+        "bytes": 7001328,
+        "sha256": "a78629922b526dc09a8eb0ce6d803db371e03373c64dae23d9088d9992fc918c",
+        "width": 3672,
+        "height": 4896,
+        "siteKeys": [
+          "settlement/DSC04288.JPG"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/06_20150813_153838.jpg",
+        "bytes": 2190880,
+        "sha256": "c68ac9d2ec40f421e228091e22202b3dd5611afbc2b159865db4c3fcaf794f0b",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "settlement/20150813_153838.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/07_20150813_153652.jpg",
+        "bytes": 4671621,
+        "sha256": "f0a58838382deb6513b6179689ef1f8d26173bc444143aa368b25d142c3aa7d2",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "settlement/20150813_153652.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/08_20150813_153711.jpg",
+        "bytes": 5631730,
+        "sha256": "bd9d660e62459820183f14c537286765c77a502ac40c5290ca78a8f130de4204",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "settlement/20150813_153711.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/09_20150813_152627.jpg",
+        "bytes": 5033297,
+        "sha256": "5b2a385b2bc4d57b20d36faf97e5531b22b54edd5a792503484b4219ec8678c2",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "settlement/20150813_152627.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/10_20150813_153105.jpg",
+        "bytes": 2527581,
+        "sha256": "8e129ceaea67eee68c0614ddac36c051990eff5d8771bcaebac8495078c42899",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "settlement/20150813_153105.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/11_20150813_154241.jpg",
+        "bytes": 5415173,
+        "sha256": "3c2162dc2c8a52a5e8e811a95d577590d1aae846ff265e88f54d81ea98b5280d",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "settlement/20150813_154241.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/12_20150813_163628.jpg",
+        "bytes": 9181028,
+        "sha256": "974424de7d7d567aaf3205314a5aafed8ad542f36c64029e5d77cdc1f3156c84",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "settlement/20150813_163628.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/13_20150813_163752.jpg",
+        "bytes": 3786666,
+        "sha256": "107f8847e6991220330d8d93dbd4ad2200127cd3e09a154a5b48bb9f82a3d6a7",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "settlement/20150813_163752.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/14_20150813_161622.jpg",
+        "bytes": 5411584,
+        "sha256": "78c2bc1f0cbc926daca2000ff9c89cdc6cdab821651352c0422a426b919a093c",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "settlement/20150813_161622.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/15_20150813_164458.jpg",
+        "bytes": 7054242,
+        "sha256": "86e444f071d540ce6190786f5635c3d4f721d55267a141e86f2068b8070f3c56",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "settlement/20150813_164458.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/16_20150813_191039.jpg",
+        "bytes": 2304640,
+        "sha256": "ca5c0b2f4089f0beecd346745268614f21db73df52cf78a689a8eaa6df1ebf46",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "settlement/20150813_191039.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/17_20150813_191210.jpg",
+        "bytes": 1229253,
+        "sha256": "2b59ac423198b2d3e89f77ff5fee2040e6acef3962c8c7f6f383ac5564203a00",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "settlement/20150813_191210.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/18_20150813_192011.jpg",
+        "bytes": 4206740,
+        "sha256": "1718763250d14ba1429d414c12cfa94ffe165dde2b70676bd0d895849584f501",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "settlement/20150813_192011.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/19_20150813_193909.jpg",
+        "bytes": 1603528,
+        "sha256": "8b168be05e04d52190511805e4f98855efdcddf3bdba7c0920fd1ea0a908d6ce",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "settlement/20150813_193909.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/20_DSC04279.JPG",
+        "bytes": 6670588,
+        "sha256": "ea652a572f27fc6d7af86944360b49b89dcdca4f3cecedd503ec241e9d2a3cee",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "settlement/DSC04279.JPG"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/21_DSC04278.JPG",
+        "bytes": 4158363,
+        "sha256": "8d633837b5a1414cc18913a1fe657465fc719b975b689c9492f24689b221a720",
+        "width": 3672,
+        "height": 4896,
+        "siteKeys": [
+          "settlement/DSC04278.JPG"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/22_DSC04283.JPG",
+        "bytes": 6248556,
+        "sha256": "55db07ff3eefb8b2c7e6402fc5882a0b6b0e2a213dff63ec03e323582c39cf76",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "settlement/DSC04283.JPG"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/23_DSC04287.JPG",
+        "bytes": 5585662,
+        "sha256": "0d0e17a880f0f23ec8e4b250a6c7efe64ccbda09f59b8eedc1d9ae3a27cd8b97",
+        "width": 3672,
+        "height": 4896,
+        "siteKeys": [
+          "settlement/DSC04287.JPG"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/24_DSC04281.JPG",
+        "bytes": 5035760,
+        "sha256": "e18ce7ffbc8e7fd3c988fb4e3848f8de821616d431a895b9ee4fe6e33f7e1a88",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "settlement/DSC04281.JPG"
+        ]
+      },
+      {
+        "archiveFile": "03 - расселение/zz_не использовано_DSC04279.JPG",
+        "bytes": 6670588,
+        "sha256": "ea652a572f27fc6d7af86944360b49b89dcdca4f3cecedd503ec241e9d2a3cee",
+        "width": 4896,
+        "height": 3672,
+        "unused": true
+      },
+      {
+        "archiveFile": "04 - Бостон/01_20150814_095322.jpg",
+        "bytes": 6876552,
+        "sha256": "63925d6a493ea5ac60e3156e0585e2af5df1b15feb3c6416f7cc6ab802d99fcc",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "boston/20150814_095322.jpg"
+        ]
+      },
+      {
+        "archiveFile": "04 - Бостон/02_20150814_105125.jpg",
+        "bytes": 3592977,
+        "sha256": "ed7a5f3a30ef0dd22706fc3e8aad11929cbf01960fb286cbfdff5de513742da1",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "boston/20150814_105125.jpg"
+        ]
+      },
+      {
+        "archiveFile": "04 - Бостон/03_20150814_102359.jpg",
+        "bytes": 7164462,
+        "sha256": "9302a8bb17c79c3d9e3b9a4ea3db681dfe96e12fe0820378472d1e8cef1dbdc3",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "boston/20150814_102359.jpg"
+        ]
+      },
+      {
+        "archiveFile": "04 - Бостон/04_20150814_120047.jpg",
+        "bytes": 1727466,
+        "sha256": "95c1555c4b04552ad3e371f3ebc13790b673f1366b152d5a278e379b0ece38e5",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "boston/20150814_120047.jpg"
+        ]
+      },
+      {
+        "archiveFile": "04 - Бостон/05_20150814_121948.jpg",
+        "bytes": 3046555,
+        "sha256": "98ea2d6b6a6f4649e30e7c4edabc69adb7b36a1b94666c20856ffab0de60bfdb",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "boston/20150814_121948.jpg"
+        ]
+      },
+      {
+        "archiveFile": "04 - Бостон/06_20150814_120252.jpg",
+        "bytes": 3531281,
+        "sha256": "1290d52af4d721b9126b882a9b08a285d2fae6d2de113f3e4e954fb2e0ffc3c7",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "boston/20150814_120252.jpg"
+        ]
+      },
+      {
+        "archiveFile": "04 - Бостон/07_20150814_094639.jpg",
+        "bytes": 3523620,
+        "sha256": "4c10e448dff7edf256d264ab7d508a4f33fd14bbdb59b1c9161365c84143c9fb",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "boston/20150814_094639.jpg"
+        ]
+      },
+      {
+        "archiveFile": "04 - Бостон/08_20150814_095200.jpg",
+        "bytes": 4339846,
+        "sha256": "c99c56fbb98e40c1248f081adc46cf1fc43e614ee6e40d4814e5c02faa76e0f2",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "boston/20150814_095200.jpg"
+        ]
+      },
+      {
+        "archiveFile": "04 - Бостон/09_20150814_143753.jpg",
+        "bytes": 5419382,
+        "sha256": "d076d8fc4db888499b450dfda6892898ce0f3960423537c71486b60d8d51b7f1",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "boston/20150814_143753.jpg"
+        ]
+      },
+      {
+        "archiveFile": "04 - Бостон/10_20150814_143056.jpg",
+        "bytes": 3031101,
+        "sha256": "8506c25dbe5d4004921687174584fcc3798a1a3e60521b26b38f58af75eac167",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "boston/20150814_143056.jpg"
+        ]
+      },
+      {
+        "archiveFile": "04 - Бостон/11_20150814_143940.jpg",
+        "bytes": 2422560,
+        "sha256": "874293dfbc5188afe855853f5e072d5f5d4687af09432d34211a25d2992e59aa",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "boston/20150814_143940.jpg"
+        ]
+      },
+      {
+        "archiveFile": "04 - Бостон/12_20150814_145202.jpg",
+        "bytes": 2846290,
+        "sha256": "14d09088a79f5f3b4fcdfe06f4c2b003e4b9ab82096f606a94ae59e7e6af0013",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "boston/20150814_145202.jpg"
+        ]
+      },
+      {
+        "archiveFile": "04 - Бостон/13_20150814_150859.jpg",
+        "bytes": 2637087,
+        "sha256": "a8697a00f2a503ceba80d7c87c2a77f9c374c8c6abc6a836c15fca4fe202f94f",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "boston/20150814_150859.jpg"
+        ]
+      },
+      {
+        "archiveFile": "04 - Бостон/14_20150814_150903.jpg",
+        "bytes": 2818939,
+        "sha256": "710c4c54d4c831f78e9619b976725ecdcda98b6ce358013d5289ef647cd066c2",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "boston/20150814_150903.jpg"
+        ]
+      },
+      {
+        "archiveFile": "04 - Бостон/15_20150814_151546.jpg",
+        "bytes": 5084116,
+        "sha256": "85deca039b24b4797fc7c83537f55052b7ffdf264fd74bed03db334607a5cdc0",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "boston/20150814_151546.jpg"
+        ]
+      },
+      {
+        "archiveFile": "04 - Бостон/16_20150814_123612.jpg",
+        "bytes": 5877836,
+        "sha256": "320fbf8aee975a6a49cc931fd8917064c88f860680e7a89f8549e859fae8f4b1",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "boston/20150814_123612.jpg"
+        ]
+      },
+      {
+        "archiveFile": "05 - Американская революция/01_20150815_135816.jpg",
+        "bytes": 5238786,
+        "sha256": "951922e6cac636a2a7f63c659c60835c40baab25befe0ebc2bbdc5e3fd78c88f",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "american-revolution/20150815_135816.jpg"
+        ]
+      },
+      {
+        "archiveFile": "05 - Американская революция/02_20150815_135027.jpg",
+        "bytes": 9327248,
+        "sha256": "4164de687304c27fa319feb839765f089c7ba576b0ee9c9acef66288298de3a9",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "american-revolution/20150815_135027.jpg"
+        ]
+      },
+      {
+        "archiveFile": "05 - Американская революция/03_20150815_135147.jpg",
+        "bytes": 2628675,
+        "sha256": "a8135c19db1aac6166491d85d9e9134839ce6de2cca5fc2e11215ec48657b2a1",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "american-revolution/20150815_135147.jpg"
+        ]
+      },
+      {
+        "archiveFile": "05 - Американская революция/04_20150815_135343.jpg",
+        "bytes": 4034766,
+        "sha256": "c2ca32dfe11bf8d65622f7de8b95b6201910b3438b473e266ba59bf76e94fed8",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "american-revolution/20150815_135343.jpg"
+        ]
+      },
+      {
+        "archiveFile": "05 - Американская революция/05_20150815_135327.jpg",
+        "bytes": 9521080,
+        "sha256": "a64b9cbc4ca95b7d2fa5d78e66651ba2ac35de37b7c92f975da6d4c8c17e46d5",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "american-revolution/20150815_135327.jpg"
+        ]
+      },
+      {
+        "archiveFile": "05 - Американская революция/06_20150815_135422.jpg",
+        "bytes": 5990452,
+        "sha256": "c53d482fc40ac1788a1a830e38ad5f59417a2ffa820289d646e3b3d442a48e8e",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "american-revolution/20150815_135422.jpg"
+        ]
+      },
+      {
+        "archiveFile": "05 - Американская революция/07_20150815_135756.jpg",
+        "bytes": 2791206,
+        "sha256": "f812bd3690d5553c4cdcd38bc764dc8dfe22e637b2bccd6449ad1ad66026b881",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "american-revolution/20150815_135756.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/01_20150815_105452.jpg",
+        "bytes": 5831024,
+        "sha256": "017fb02bfe93a8420f71165c3971849b5088c226c0c71d73c16f8501f76b27fc",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "industrial-revolution/20150815_105452.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/02_20150815_102039.jpg",
+        "bytes": 5187384,
+        "sha256": "1b006f79ec32c39363f8a105e0a7688a4292515a45666226196e42e79d65b258",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "industrial-revolution/20150815_102039.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/03_20150815_104746.jpg",
+        "bytes": 5318686,
+        "sha256": "80eee4ec1b7313f9476b255d1c00f319506c69a114db2c3a5ff44ce25cf9d48f",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "industrial-revolution/20150815_104746.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/04_20150815_104801.jpg",
+        "bytes": 6638794,
+        "sha256": "bdfd49fcd54b545ba76bef3413eafb1fd67bbecbe7137f083a142a658d1104fa",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "industrial-revolution/20150815_104801.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/05_20150815_102327.jpg",
+        "bytes": 3271964,
+        "sha256": "f4b09b4f4ec1cec2690b7618498985f266b7aeacdf5d96cef3c5035b5b0ab5a6",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "industrial-revolution/20150815_102327.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/06_20150815_120546.jpg",
+        "bytes": 2234913,
+        "sha256": "324176845512285fc083b331240f4e90719f496c5bf5893e33dcdf77e7f4f8da",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "industrial-revolution/20150815_120546.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/07_20150815_110110.jpg",
+        "bytes": 5869458,
+        "sha256": "4237c1f567bd5432d7c04ccfc3dccc9288a6a57921fb07b6c22a61cda0256ff3",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "industrial-revolution/20150815_110110.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/08_20150815_105415.jpg",
+        "bytes": 2156469,
+        "sha256": "7cfb13bc22e91804d7e36e56cf33ee77f6e6990dc2267539006ac5831a7352e6",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "industrial-revolution/20150815_105415.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/09_20150815_110350.jpg",
+        "bytes": 2604327,
+        "sha256": "13d42bc33e6e9474004857781870330373d9b28a252991ed02be7762aef5dbce",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "industrial-revolution/20150815_110350.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/10_20150815_115810.jpg",
+        "bytes": 2959059,
+        "sha256": "1bb7db25c9d256abdf8e779181ad064888d18bcbf648ff6ca9323f6ba5a85243",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "industrial-revolution/20150815_115810.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/11_20150815_110727.jpg",
+        "bytes": 2927623,
+        "sha256": "3c0e2d58c760dd7351e03a0bd4953dd2911cb65d504eb69c280644f87eb4cb72",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "industrial-revolution/20150815_110727.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/12_20150815_110323_001.jpg",
+        "bytes": 2109217,
+        "sha256": "b0bcb1039d17a17772f7620d1da94436f1fe47ece662924cb2f4cabe89099ebb",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "industrial-revolution/20150815_110323_001.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/13_20150822_142905_001.jpg",
+        "bytes": 4350867,
+        "sha256": "759051b33c4de43a1472284ae3094c74ed80e9a732079462dbf186bc190b358a",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "industrial-revolution/20150822_142905_001.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/14_20150822_145319.jpg",
+        "bytes": 5239500,
+        "sha256": "4083dad97d4612aecf7be3e94d8d4daf7a1acd372ccb9f5fb7d9c3a21f6d2320",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "industrial-revolution/20150822_145319.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/15_20150822_150203.jpg",
+        "bytes": 5072996,
+        "sha256": "9b7718c53a9f03ef138091c7ee0acbcd02762683177cdb17bd0775c088a15736",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "industrial-revolution/20150822_150203.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/16_20150822_145938.jpg",
+        "bytes": 5480348,
+        "sha256": "993f80d0d97abd3e0ef36ba5c2ac420ace0a5782cc8fd46721c959edd0b6941b",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "industrial-revolution/20150822_145938.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/17_20150822_145841.jpg",
+        "bytes": 2568247,
+        "sha256": "40128c357f3d3ad953e915f0d16a27453d97370ecd37393e6c1a24af03a81fd6",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "industrial-revolution/20150822_145841.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/18_20150822_145539.jpg",
+        "bytes": 5534616,
+        "sha256": "42e08f812d6ad2b9951a1495c8777b165125f7c81ac9500dd02914e96d289c32",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "industrial-revolution/20150822_145539.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/19_20150822_145932.jpg",
+        "bytes": 5510524,
+        "sha256": "c7c03053be7f369b463578d68673b93c90012b0e01cb4976a4fab9b135485732",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "industrial-revolution/20150822_145932.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Индустриальная революция/20_20150822_152534.jpg",
+        "bytes": 3501393,
+        "sha256": "0793fbc10d75e9375d04424ce470713fb198e45a61e83db8fd22dbac2b03a1df",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "industrial-revolution/20150822_152534.jpg"
+        ]
+      },
+      {
+        "archiveFile": "07 - Позолоченный век/01_20150817_131529.jpg",
+        "bytes": 6466878,
+        "sha256": "ea96a61799d4e4e952f407bc2c353b9cbffaa54fa86fa3237e0f989a2d19603f",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "gilded-age/20150817_131529.jpg"
+        ]
+      },
+      {
+        "archiveFile": "07 - Позолоченный век/02_20150817_131343.jpg",
+        "bytes": 5292616,
+        "sha256": "50bf32bb1a512fdcf0cc4ded295a82c6013ca6b8fc33c3ccf7e3e126ccd697fe",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "gilded-age/20150817_131343.jpg"
+        ]
+      },
+      {
+        "archiveFile": "07 - Позолоченный век/03_20150817_131327.jpg",
+        "bytes": 5498306,
+        "sha256": "312ed5ed03ea9dc7e069d80c3ec3e2b81009fafb5c3d0ad565b4ebc13506504b",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "gilded-age/20150817_131327.jpg"
+        ]
+      },
+      {
+        "archiveFile": "07 - Позолоченный век/04_20150817_131426.jpg",
+        "bytes": 5477716,
+        "sha256": "3dfbd1400a468c2ac55e5b05599ab61dfbc746ecf6c0c8508b5134d436ca162b",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "gilded-age/20150817_131426.jpg"
+        ]
+      },
+      {
+        "archiveFile": "07 - Позолоченный век/05_20.jpg",
+        "bytes": 160602,
+        "sha256": "ed6341289b612b3034edb2b942da464525c87813169b5d2ff179a8145a4efa1c",
+        "width": 1155,
+        "height": 768,
+        "siteKeys": [
+          "gilded-age/20.jpg"
+        ]
+      },
+      {
+        "archiveFile": "07 - Позолоченный век/06_20150817_135537.jpg",
+        "bytes": 5375692,
+        "sha256": "84a5c50b9398cac3ca42f0b17cccd95786879cfccd67ccfa89a24a1c20d50684",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "gilded-age/20150817_135537.jpg"
+        ]
+      },
+      {
+        "archiveFile": "07 - Позолоченный век/07_3fd3b44a2dbbc2678cf8639143b34ad6.jpg",
+        "bytes": 85883,
+        "sha256": "372423f02f22816cc64c8209f239a859d211a014c4e5d22aa1a2afbe7216ebfa",
+        "width": 500,
+        "height": 661,
+        "siteKeys": [
+          "gilded-age/3fd3b44a2dbbc2678cf8639143b34ad6.jpg"
+        ]
+      },
+      {
+        "archiveFile": "07 - Позолоченный век/08_1024px-Cornelius_Bedroom_Breakers.JPG",
+        "bytes": 126737,
+        "sha256": "94527b289bd4856d6bdfbece9c380033438d536dbfba187ec32331aa8a8ccc71",
+        "width": 1024,
+        "height": 685,
+        "siteKeys": [
+          "gilded-age/1024px-Cornelius_Bedroom_Breakers.JPG"
+        ]
+      },
+      {
+        "archiveFile": "07 - Позолоченный век/09_20150817_144055.jpg",
+        "bytes": 7422392,
+        "sha256": "a4e61298685224363959b1f28e6af743d572b921a862cc57ac916db5240d1c9e",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "gilded-age/20150817_144055.jpg"
+        ]
+      },
+      {
+        "archiveFile": "07 - Позолоченный век/10_91dfc0dd6ed0373cff02d3ed55fa5558.jpg",
+        "bytes": 20217,
+        "sha256": "279ce8798d27269764e390e1efa13c2add2693332f45f9a9d6fb3822a4e3b002",
+        "width": 308,
+        "height": 425,
+        "siteKeys": [
+          "gilded-age/91dfc0dd6ed0373cff02d3ed55fa5558.jpg"
+        ]
+      },
+      {
+        "archiveFile": "07 - Позолоченный век/11_20150817_164259.jpg",
+        "bytes": 4058456,
+        "sha256": "05dee33cc001572f1834b806eedeec12164502e2b9d62437fb8b81fdfa7b7291",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "gilded-age/20150817_164259.jpg"
+        ]
+      },
+      {
+        "archiveFile": "08 - культурное наследие/01_20150822_200950.jpg",
+        "bytes": 6201586,
+        "sha256": "1375428aa30e6d22b7bd4cdda2f959287ef5ac2da009aa006a653631247e1333",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "cultural-heritage/20150822_200950.jpg"
+        ]
+      },
+      {
+        "archiveFile": "08 - культурное наследие/02_20150822_191629.jpg",
+        "bytes": 6083710,
+        "sha256": "aae82575a173424b271d579e05e3fa867ad6e44982049237216338b198c80709",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "cultural-heritage/20150822_191629.jpg"
+        ]
+      },
+      {
+        "archiveFile": "08 - культурное наследие/03_20150822_192245.jpg",
+        "bytes": 9251840,
+        "sha256": "4984b418c2a0fe74707a93822c6e8e139c8afa6974790d8ab36b8c56a3c0cd1d",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "cultural-heritage/20150822_192245.jpg"
+        ]
+      },
+      {
+        "archiveFile": "08 - культурное наследие/04_20150822_195713.jpg",
+        "bytes": 6175560,
+        "sha256": "fc1f59521a75b42daa6d70c68b1a52990aa50990df19fe3a4e50cb5a3a07580a",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "cultural-heritage/20150822_195713.jpg"
+        ]
+      },
+      {
+        "archiveFile": "08 - культурное наследие/05_20150822_200738.jpg",
+        "bytes": 3536529,
+        "sha256": "3a68697a325b6df0bd6dcc6bab63b3e4b58a586a22582ac7692c629826e0a196",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "cultural-heritage/20150822_200738.jpg"
+        ]
+      },
+      {
+        "archiveFile": "08 - культурное наследие/06_20150822_195804.jpg",
+        "bytes": 3134980,
+        "sha256": "b5b71e15e22fad1e3b87f377e96c7e45cf486e52fa05054e73bd363a06977632",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "cultural-heritage/20150822_195804.jpg"
+        ]
+      },
+      {
+        "archiveFile": "08 - культурное наследие/07_20150822_195935.jpg",
+        "bytes": 3342428,
+        "sha256": "c7efcbbaa16788257b087c17a0f7f9a71c19c5ceb82876fa1c6ad0fcd5c4f400",
+        "width": 2988,
+        "height": 5312,
+        "siteKeys": [
+          "cultural-heritage/20150822_195935.jpg"
+        ]
+      },
+      {
+        "archiveFile": "08 - культурное наследие/08_20150823_122153.jpg",
+        "bytes": 5504114,
+        "sha256": "d6aec581860c94aa5b6a6d5d927e51f5bd3323f79bb0ab9cff9ca41be13043a5",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "cultural-heritage/20150823_122153.jpg"
+        ]
+      },
+      {
+        "archiveFile": "08 - культурное наследие/09_20150823_122203.jpg",
+        "bytes": 4826270,
+        "sha256": "c5a4961025c803327167f2a2a5ba991243ed02dc99da883a9f271d08a05e9f15",
+        "width": 5312,
+        "height": 2988,
+        "siteKeys": [
+          "cultural-heritage/20150823_122203.jpg"
+        ]
       }
     ]
   }
