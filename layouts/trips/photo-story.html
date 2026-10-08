@@ -107,9 +107,9 @@
 </div>
 <script>
 // Mosaic layout (DESIGN_PHOTOS.md «Фотоблоки»): the photos of a mosaic are arranged into rows and columns sized by their
-// real proportions, so the block is an exact rectangle and nothing is cropped. Among the arrangements that keep the
-// photos' order, the one is chosen where no photo is too small, the marked main photo (L:/R:) is the largest, the
-// others are of similar size, and the block fits on the screen. If nothing works, rows win — the same as splitting.
+// real proportions, so the block is an exact rectangle and nothing is cropped. The block always fills the full width
+// of the photo zone. Among the arrangements that keep the photos' order, the one is chosen where every photo fits on
+// the screen, none is too small, the marked main photo (L:/R:) is the largest and the others are of similar size.
 (() => {
   const mosaics = [...document.querySelectorAll('[data-mosaic]')];
   if (!mosaics.length) return;
@@ -137,10 +137,13 @@
         out.push(col([f, side]));
       }
     }
-    if (n >= 4 && n <= 9)
-      for (let k = 2; k <= n - 2; k++)
-        for (const a of splits(items.slice(0, k), 2, 3))
-          for (const b of splits(items.slice(k), 2, 3)) out.push(row([rowsOf(a), rowsOf(b)]));
+    if (n >= 3 && n <= 10)
+      for (const cols of splits(items, n, 3)) {
+        if (cols.length < 2) continue;
+        const options = cols.map((c) => [...splits(c, 3, 4)].map(rowsOf));
+        const combine = (i, acc) => { if (i === options.length) { out.push(row(acc)); return; } for (const o of options[i]) combine(i + 1, [...acc, o]); };
+        combine(0, []);
+      }
     return out;
   }
   // width = a * height + b for every node (rows add widths, columns add heights)
@@ -157,21 +160,22 @@
     if (node.t === 'row') { let cx = x; for (const k of node.c) { const kw = k.f.a * h + k.f.b; place(k, cx, y, kw, h, g, out); cx += kw + g; } }
     else { let cy = y; for (const k of node.c) { const kh = (w - k.f.b) / k.f.a; place(k, x, cy, w, kh, g, out); cy += kh + g; } }
   }
-  function score(rects, items, W, H, maxH, phone) {
+  function score(rects, items, W, H, maxH, vh, phone) {
     let p = 0;
-    if (H > maxH) p += ((H - maxH) / maxH) * 6;
     const minW = W * (phone ? 0.3 : 0.18);
     const areas = rects.map((r) => r.w * r.h);
     rects.forEach((r, i) => {
       if (r.w < minW) p += ((minW - r.w) / minW) * 4;
       if (r.h < 90) p += (90 - r.h) / 30;
+      if (r.h > maxH) p += ((r.h - maxH) / maxH) * 20;         // every photo fits on the screen
       if (r.w > items[i].nw) p += (r.w / items[i].nw - 1) * 3;   // small originals are not enlarged
     });
     const fi = items.findIndex((x) => x.k === 'L' || x.k === 'R');
     const rest = areas.filter((_, i) => i !== fi);
     if (fi >= 0) { const mx = Math.max(...rest); if (areas[fi] < mx * 1.6) p += 2 * (mx * 1.6 / areas[fi] - 1); }
     if (rest.length > 1) p += 0.5 * Math.log(Math.max(...rest) / Math.min(...rest));
-    p += Math.abs(Math.log(H / Math.min(maxH, W * 0.62))) * 0.3;
+    if (H > vh * 1.4) p += (H / (vh * 1.4) - 1) * 1.5;            // the whole block: rather compact
+    p += Math.abs(Math.log(H / (W * 0.66))) * 0.2;
     return p;
   }
   function layout(el) {
@@ -186,14 +190,12 @@
       const f = fit(tree, g);
       const H = (W - f.b) / f.a;
       const rects = []; place(tree, 0, 0, W, H, g, rects);
-      const s = score(rects, items, W, H, maxH, phone);
+      const s = score(rects, items, W, H, maxH, window.innerHeight, phone);
       if (!best || s < best.s) best = { s, tree, f, H };
     }
-    let { tree, f, H } = best;
-    let w = W;
-    if (H > maxH) { w = f.a * maxH + f.b; H = maxH; }      // never taller than the screen: narrower, from the left
-    const rects = []; place(tree, 0, 0, w, H, g, rects);
-    el.style.width = w + 'px'; el.style.height = H + 'px';
+    const { tree, H } = best;                              // always the full width of the photo zone
+    const rects = []; place(tree, 0, 0, W, H, g, rects);
+    el.style.width = W + 'px'; el.style.height = H + 'px';
     photos.forEach((a, i) => { const r = rects[i]; a.style.cssText = `left:${r.x}px;top:${r.y}px;width:${r.w}px;height:${r.h}px`; });
     el.classList.add('is-laid');
   }
