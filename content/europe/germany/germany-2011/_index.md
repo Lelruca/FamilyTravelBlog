@@ -12,7 +12,14 @@ geo_countries:
   - switzerland
   - france
   - england
-cover_image: "https://drive.google.com/thumbnail?id=19U9alydDexn4juaZ61ZIyJjgbvFHbaoN&sz=w2000"
+cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-2011/overview/2011-08-20_07.23.37.jpg"
 cover_position: "center 32%"
 accent_color: "#5f7d4f"
+# надписи на плитке главной и обложке поездки; title поездки не меняется
+trip_start: "2011-07"
+cover_where: "Германия, Голландия, Бельгия, Англия, Швейцария, Эльзас, Бавария"
+cover_title: "Первый автопробег по Европе!"
+cover_subtitle: "Лето у бабушки"
+cover_when: "Лето 2011"
+cover_who: "Бабушка, Сережа, Леля, Наташа и Митя"
 ---

@@ -1,12 +1,40 @@
-<header class="border-b border-neutral-200 bg-white/95 backdrop-blur sticky top-0 z-40">
-  <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-    <a href="{{ "" | relURL }}" class="font-serif text-xl font-semibold text-neutral-900 hover:text-accent transition-colors">
-      {{ .Site.Title }}
-    </a>
-    <nav class="flex gap-6 text-sm font-medium text-neutral-600">
-      <a href="{{ "countries/" | relURL }}" class="hover:text-accent transition-colors">По странам</a>
-      <a href="{{ "trip-year/" | relURL }}" class="hover:text-accent transition-colors">По годам</a>
-      <a href="{{ "places/" | relURL }}" class="hover:text-accent transition-colors">Места</a>
+{{- /* Site bar: quiet and compact, stays on top while scrolling (about 60 px).
+       Phone: site name and a "Меню" button that opens the three sections. */ -}}
+<header class="site-bar">
+  <div class="site-bar-inner max-w-6xl mx-auto px-4">
+    <a href="{{ "" | relURL }}" class="site-bar-logo">{{ .Site.Title }}</a>
+    <nav class="site-bar-nav" aria-label="Разделы">
+      <a href="{{ "countries/" | relURL }}">По странам</a>
+      <a href="{{ "trip-year/" | relURL }}">По годам</a>
+      <a href="{{ "places/" | relURL }}">Места</a>
     </nav>
+    <details class="site-bar-menu">
+      <summary>Меню</summary>
+      <nav aria-label="Разделы">
+        <a href="{{ "countries/" | relURL }}">По странам</a>
+        <a href="{{ "trip-year/" | relURL }}">По годам</a>
+        <a href="{{ "places/" | relURL }}">Места</a>
+      </nav>
+    </details>
   </div>
 </header>
+<style>
+.site-bar{position:sticky;top:0;z-index:40;background:#fff;border-bottom:1px solid #e5e5e5}
+.site-bar-inner{height:60px;display:flex;align-items:center;justify-content:space-between;gap:24px}
+.site-bar-logo{font-family:Lora,Georgia,serif;font-weight:600;font-size:20px;color:#171717;white-space:nowrap}
+.site-bar-logo:hover,.site-bar a:hover{color:var(--accent)}
+.site-bar-nav{display:flex;gap:32px;font-size:15px;font-weight:500;color:#404040}
+.site-bar-menu{display:none;position:relative}
+.site-bar-menu summary{list-style:none;cursor:pointer;padding:10px 0 10px 12px;font-size:15px;font-weight:500;color:#404040}
+.site-bar-menu summary::-webkit-details-marker{display:none}
+.site-bar-menu summary::before{content:"☰";margin-right:8px}
+.site-bar-menu[open] summary::before{content:"✕"}
+.site-bar-menu nav{position:absolute;right:-16px;top:calc(100% + 9px);min-width:220px;background:#fff;border:1px solid #e5e5e5;border-top:0;box-shadow:0 12px 24px rgba(0,0,0,.08);display:flex;flex-direction:column;padding:6px 0}
+.site-bar-menu nav a{display:block;padding:14px 20px;font-size:16px;font-weight:500;color:#262626}
+@media(max-width:640px){
+  .site-bar-inner{height:56px}
+  .site-bar-logo{font-size:18px}
+  .site-bar-nav{display:none}
+  .site-bar-menu{display:block}
+}
+</style>

@@ -1,39 +1,58 @@
 {{ define "main" }}
-<div class="max-w-6xl mx-auto px-4 py-12">
-
-  <header class="text-center mb-16">
-    <h1 class="font-serif text-4xl md:text-5xl font-bold text-neutral-900 mb-4">{{ .Site.Title }}</h1>
-    {{ with .Content }}<div class="text-lg text-neutral-600 max-w-2xl mx-auto">{{ . }}</div>{{ end }}
+{{- /* Home: every trip as a large photo tile with its name over the photo, newest first.
+       Tile texts: partial trip-tile.html. The country / year / place lists stay in the site menu. */ -}}
+<style>
+.home-intro{padding:56px 0 32px}
+.home-intro h1{margin:0;font-family:Montserrat,Inter,sans-serif;font-weight:800;font-size:clamp(36px,4.4vw,60px);line-height:1.05;color:#171717}
+.home-intro .lead{margin:12px 0 0;color:#6b6b6b;font-size:17px}
+.home-intro .lead p{margin:0}
+.trip-tiles{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;padding-bottom:32px}
+.trip-tile{position:relative;display:block;aspect-ratio:3/2;border-radius:4px;overflow:hidden;background:#555;color:#fff;isolation:isolate}
+.trip-tile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform 1.1s cubic-bezier(.2,.7,.2,1)}
+.trip-tile::after{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(to top,rgba(0,0,0,.66) 0%,rgba(0,0,0,.28) 32%,rgba(0,0,0,0) 58%);transition:background .6s}
+.trip-tile-text{position:absolute;z-index:2;left:22px;right:22px;bottom:20px;text-shadow:0 1px 12px rgba(0,0,0,.35)}
+.trip-tile-title{margin:0;font-family:Montserrat,Inter,sans-serif;font-weight:800;font-size:clamp(22px,2.1vw,32px);line-height:1.05;letter-spacing:-.01em}
+.trip-tile-sub{margin:5px 0 0;font-family:Montserrat,Inter,sans-serif;font-weight:600;font-size:clamp(14px,1.1vw,17px)}
+/* where / when · who: only on mouse hover */
+.trip-tile-where,.trip-tile-meta{max-height:0;margin:0;opacity:0;overflow:hidden;transform:translateY(8px);font-weight:600;line-height:1.35;transition:max-height .5s,opacity .45s,transform .5s,margin .5s}
+.trip-tile-where{font-size:11px;letter-spacing:.07em;text-transform:uppercase}
+.trip-tile-meta{font-size:13px;font-weight:500}
+@media(hover:hover){
+  .trip-tile:hover img{transform:scale(1.06)}
+  .trip-tile:hover::after{background:linear-gradient(to top,rgba(0,0,0,.78) 0%,rgba(0,0,0,.40) 45%,rgba(0,0,0,.08) 80%)}
+  .trip-tile:hover .trip-tile-where,.trip-tile:hover .trip-tile-meta{max-height:60px;opacity:1;transform:none}
+  .trip-tile:hover .trip-tile-where{margin-bottom:8px}
+  .trip-tile:hover .trip-tile-meta{margin-top:10px}
+}
+/* keyboard: the same as hover */
+.trip-tile:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+.trip-tile:focus-visible .trip-tile-where,.trip-tile:focus-visible .trip-tile-meta{max-height:60px;opacity:1;transform:none}
+.trip-tile:focus-visible .trip-tile-where{margin-bottom:8px}
+.trip-tile:focus-visible .trip-tile-meta{margin-top:10px}
+@media(max-width:1023px){.trip-tiles{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:700px){
+  .home-intro{padding:32px 0 20px}
+  .trip-tiles{grid-template-columns:1fr;gap:16px}
+  .trip-tile-text{left:18px;right:18px}
+  .trip-tile-title{font-size:26px}
+  .trip-tile-sub{font-size:16px}
+}
+</style>
+<div class="max-w-6xl mx-auto px-4">
+  <header class="home-intro">
+    <h1>{{ .Site.Title }}</h1>
+    {{ with .Content }}<div class="lead">{{ . }}</div>{{ end }}
   </header>
 
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
-    <a href="{{ "countries/" | relURL }}" class="group p-6 rounded-xl border-2 border-neutral-200 hover:border-accent transition-colors">
-      <div class="text-3xl mb-2">🗺️</div>
-      <h2 class="font-serif text-xl font-semibold group-hover:text-accent transition-colors">Путешествия по Странам</h2>
-      <p class="text-neutral-500 text-sm mt-1">Континент → Страна → Поездка</p>
-    </a>
-    <a href="{{ "trip-year/" | relURL }}" class="group p-6 rounded-xl border-2 border-neutral-200 hover:border-accent transition-colors">
-      <div class="text-3xl mb-2">📅</div>
-      <h2 class="font-serif text-xl font-semibold group-hover:text-accent transition-colors">Путешествия по Годам</h2>
-      <p class="text-neutral-500 text-sm mt-1">Десятилетие → Год → Поездка</p>
-    </a>
-    <a href="{{ "places/" | relURL }}" class="group p-6 rounded-xl border-2 border-neutral-200 hover:border-accent transition-colors">
-      <div class="text-3xl mb-2">📍</div>
-      <h2 class="font-serif text-xl font-semibold group-hover:text-accent transition-colors">Места</h2>
-      <p class="text-neutral-500 text-sm mt-1">Список, поиск и названия на двух языках</p>
-    </a>
-  </div>
-
-  <section>
-    <h2 class="font-serif text-2xl font-semibold text-neutral-800 mb-8">Все поездки</h2>
-    {{- $trips := where site.Pages "Params.trip_year" "!=" nil -}}
-    {{- $sorted := sort $trips "Params.trip_year" "desc" -}}
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-      {{- range $sorted }}
-        {{ partial "trip-card.html" . }}
-      {{- end }}
-    </div>
+  {{- /* newest first: by trip_start (year-month), trips without it by trip_year */ -}}
+  {{- $rows := slice -}}
+  {{- range where site.Pages "Params.trip_year" "!=" nil -}}
+    {{- $rows = $rows | append (dict "key" (.Params.trip_start | default (printf "%v-00" .Params.trip_year)) "page" .) -}}
+  {{- end -}}
+  <section class="trip-tiles" aria-label="Путешествия">
+    {{- range sort $rows "key" "desc" }}
+      {{ partial "trip-tile.html" .page }}
+    {{- end }}
   </section>
-
 </div>
 {{ end }}

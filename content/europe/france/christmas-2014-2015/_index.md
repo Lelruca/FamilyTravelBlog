@@ -10,6 +10,13 @@ geo_countries:
   - belgium
   - germany
   - netherlands
-cover_image: "https://drive.google.com/thumbnail?id=1OQV3cV384sssn7tUvxAocUeyB3jDxZWc&sz=w2000"
+cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/christmas-2014-2015/alps/DSC02985-bright.jpg"
 cover_position: "center 30%"
+# надписи на плитке главной и обложке поездки; title поездки не меняется
+trip_start: "2014-12"
+cover_where: "Франция (Альпы), Бельгия, Германия, Голландия"
+cover_title: "Рождество в Европе"
+cover_subtitle: "У Кати на лыжах"
+cover_when: "Зима 2014–2015"
+cover_who: "Ома, Сережа, Леля, Наташа и Митя"
 ---

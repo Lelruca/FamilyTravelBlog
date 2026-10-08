@@ -7,12 +7,13 @@
     --accent: #4f7396;
   }
 
+  /* overflow-x: clip, not hidden: hidden on html/body breaks the sticky site bar */
   html {
-    @apply scroll-smooth overflow-x-hidden;
+    @apply scroll-smooth overflow-x-clip;
   }
 
   body {
-    @apply bg-white text-neutral-800 font-sans antialiased overflow-x-hidden;
+    @apply bg-white text-neutral-800 font-sans antialiased overflow-x-clip;
   }
 
   h1, h2, h3, h4, h5, h6 {
