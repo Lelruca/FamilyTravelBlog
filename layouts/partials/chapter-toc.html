@@ -1,0 +1,9 @@
+{{- /* List of the trip's chapters for the chapter page: trip name on top, chapters numbered, the current one marked. */ -}}
+{{- $page := . -}}
+{{- $trip := .Parent -}}
+<p class="toc-trip"><a href="{{ $trip.RelPermalink }}">{{ $trip.Params.cover_title | default $trip.Title }}</a></p>
+<ol class="toc-list">
+{{- range $i, $ch := $trip.Pages.ByWeight }}
+  <li{{ if eq $ch.RelPermalink $page.RelPermalink }} class="current"{{ end }}><a href="{{ $ch.RelPermalink }}"{{ if eq $ch.RelPermalink $page.RelPermalink }} aria-current="page"{{ end }}><span class="n">{{ add $i 1 }}</span><span class="t">{{ partial "chapter-short-title.html" $ch }}</span></a></li>
+{{- end }}
+</ol>

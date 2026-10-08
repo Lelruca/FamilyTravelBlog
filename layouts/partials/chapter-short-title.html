@@ -1,0 +1,18 @@
+{{- /* Chapter title as shown in the chapter list and on chapter tiles (DESIGN_PHOTOS.md, «Оглавление слева»):
+       if every chapter of the trip starts with the same phrase (e.g. «Наше освоение Новой Англии: …»), that phrase
+       is not repeated; the rest is shown as written, first letter upper case. The chapter page itself keeps the full title.
+       Usage: partial "chapter-short-title.html" .  (a chapter page) */ -}}
+{{- $chapters := .Parent.Pages -}}
+{{- $first := (index $chapters.ByWeight 0).Title -}}
+{{- $prefix := "" -}}
+{{- with findRESubmatch `^(.{4,}?)\s*(?::|\s[-–—]\s)` $first 1 -}}{{- $prefix = index (index . 0) 1 -}}{{- end -}}
+{{- if $prefix -}}
+  {{- range $chapters -}}
+    {{- if not (findRE (printf `^%s\s*(?::|[-–—])` (replaceRE `([.*+?^${}()|\[\]\\])` `\$1` $prefix)) .Title) -}}{{- $prefix = "" -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $title := .Title -}}
+{{- if $prefix -}}
+  {{- $title = strings.FirstUpper (replaceRE `^[\s:–—-]+` "" (strings.TrimPrefix $prefix .Title)) -}}
+{{- end -}}
+{{- return $title -}}

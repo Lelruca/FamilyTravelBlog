@@ -1,65 +1,205 @@
 {{ define "main" }}
-{{- /* Chapter as a photo story, by DESIGN_PHOTOS.md. Shared by all trips: set `layout: "photo-story"` in a chapter.
-       Photos come from the screen-quality copies (Cloudflare R2 / local static/r2), placed with the
-       {{< row >}} and {{< mosaic >}} shortcodes. */ -}}
+{{- /* Chapter page, DESIGN_PHOTOS.md «Глава»: the trip's chapter list fixed on the left; text and photos start from one
+       left edge — text about 616 px wide, photo blocks reach to the right edge of the photo zone. Author title → clean
+       cover → text. Photos: rows ({{< row >}}), mosaics ({{< mosaic >}}, laid out from rows and columns by the photos'
+       real proportions, see the script below) and the rare photo beside its text ({{< beside >}}). */ -}}
 {{ $trip := .Parent }}{{ $chapters := $trip.Pages.ByWeight }}{{ $idx := 0 }}
 {{ range $i, $p := $chapters }}{{ if eq $p.RelPermalink $.RelPermalink }}{{ $idx = $i }}{{ end }}{{ end }}
 <style>
-.photo-essay{--essay-gap:8px;--group-mb:40px;padding:32px 22px 64px}
-.photo-essay .essay-header,.photo-essay .essay-navigation{max-width:616px;margin-left:auto;margin-right:auto}
-.photo-essay .essay-header{margin-bottom:48px}
-.photo-essay h1{font-size:clamp(32px,4vw,48px);line-height:1.15;margin:16px 0}
-.photo-essay .essay-meta{display:flex;gap:16px;flex-wrap:wrap;color:#737373;font-size:14px;margin:18px 0 24px}
-.photo-essay .essay-cover{display:block;width:100%;height:auto;border-radius:2px;background:#efece6}
-.photo-essay .essay-body p{max-width:616px;margin:0 auto 1.4em;font-size:18px;line-height:1.8}
-.photo-essay .essay-group{max-width:1116px;margin:32px auto var(--group-mb)}
-/* photo blocks that follow each other read as one: only the usual gap between them */
+.chapter-layout{--side:236px;--col-gap:56px;--zone:1080px;--text:616px;--cap-h:80vh;display:grid;grid-template-columns:var(--side) minmax(0,var(--zone));column-gap:var(--col-gap);padding-top:36px}
+/* chapter list on the left, fixed while reading */
+.toc-side{position:sticky;top:84px;align-self:start;max-height:calc(100vh - 108px);overflow:auto;padding:4px 0 24px;font-size:14px;line-height:1.4}
+.toc-trip{font-family:Montserrat,Inter,sans-serif;font-weight:700;font-size:17px;line-height:1.25;margin:0 0 14px}
+.toc-trip a{color:#171717}.toc-trip a:hover{color:var(--accent)}
+.toc-list{list-style:none;margin:0;padding:0;border-left:1px solid #e5e5e5}
+.toc-list a{display:flex;gap:10px;margin-left:-1px;padding:7px 10px 7px 12px;border-left:2px solid transparent;color:#525252}
+.toc-list a:hover{color:var(--accent)}
+.toc-list .n{flex:0 0 1.5em;color:#a3a3a3;font-variant-numeric:tabular-nums}
+.toc-list .current a{border-left-color:var(--accent);color:#171717;font-weight:500}
+.toc-list .current .n{color:var(--accent)}
+.toc-bar{display:none}
+
+.photo-essay{--essay-gap:12px;--group-mt:40px;--group-mb:48px;min-width:0;padding-bottom:64px}
+.photo-essay .essay-header{margin-bottom:44px}
+.photo-essay .essay-trip{display:none;font-size:14px;font-weight:500;color:var(--accent)}
+.photo-essay h1{font-family:Lora,Georgia,serif;font-weight:600;font-size:clamp(28px,3vw,38px);line-height:1.2;margin:0 0 24px;max-width:var(--text)}
+.photo-essay .essay-cover-link{display:block;width:fit-content;max-width:100%}
+.photo-essay .essay-cover{display:block;width:auto;height:auto;max-width:100%;max-height:var(--cap-h);border-radius:3px;background:#efece6}
+.photo-essay .essay-body p{max-width:var(--text);margin:0 0 1.4em;font-size:18px;line-height:1.8}
+.photo-essay .essay-group{margin:var(--group-mt) 0 var(--group-mb)}
 .photo-essay .essay-group + .essay-group{margin-top:calc(var(--essay-gap) - var(--group-mb))}
-.photo-essay .essay-row{display:flex;gap:var(--essay-gap);width:100%;margin:0 auto}
-.photo-essay .essay-row.essay-narrow{max-width:616px}
-.photo-essay .essay-row>.essay-photo{flex:var(--g) 1 0}
-.photo-essay .essay-photo{display:block;position:relative;overflow:hidden;min-width:0;cursor:zoom-in;background:#efece6;border-radius:2px}
+.photo-essay .essay-photo{display:block;position:relative;overflow:hidden;min-width:0;background:#efece6;border-radius:2px}
 .photo-essay .essay-photo img{display:block;width:100%;height:100%;object-fit:cover;margin:0}
-.photo-essay .essay-mosaic{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));grid-auto-flow:row dense;gap:var(--essay-gap)}
-.photo-essay .essay-tile{aspect-ratio:1}
-.photo-essay .essay-large{grid-column:span 2;grid-row:span 2}
-.photo-essay .essay-large.at-left{grid-column:1 / span 2}
-.photo-essay .essay-large.at-right{grid-column:3 / span 2}
-.photo-essay .essay-tall{grid-row:span 2;aspect-ratio:auto}
+/* row: equal height, fills the zone; never taller than the screen allows (then narrower, from the left edge) */
+.photo-essay .essay-row{display:flex;gap:var(--essay-gap);width:min(100%,calc(var(--cap-h) * var(--rs) + var(--essay-gap) * var(--rn)))}
+.photo-essay .essay-row>.essay-photo{flex:var(--g) 1 0}
+/* mosaic: until the script lays it out, a simple justified wrap */
+.photo-essay .essay-mosaic{display:flex;flex-wrap:wrap;gap:var(--essay-gap)}
+.photo-essay .essay-mosaic>.essay-photo{flex:calc(var(--r) * 100) 1 calc(var(--r) * 170px);aspect-ratio:var(--r)}
+.photo-essay .essay-mosaic.is-laid{display:block;position:relative}
+.photo-essay .essay-mosaic.is-laid>.essay-photo{position:absolute;aspect-ratio:auto}
 .photo-essay .essay-overlay{position:absolute;left:0;right:0;bottom:0;padding:40px 16px 14px;color:#fff;font-size:15px;line-height:1.4;background:linear-gradient(transparent,rgba(0,0,0,.62))}
-.photo-essay .essay-cap{max-width:1116px;margin:6px auto 0;font-size:14px;line-height:1.5;font-style:italic;color:#77736a}
-.photo-essay .essay-cap.essay-narrow{max-width:616px}
+.photo-essay .essay-cap{margin:6px 0 0;font-size:14px;line-height:1.5;font-style:italic;color:#77736a}
 .photo-essay .essay-cap span{display:block}
 .photo-essay .essay-cap span::before{content:"— "}
-.photo-essay .essay-navigation{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;margin-top:64px;padding-top:24px;border-top:1px solid #ddd;font-size:14px}
+/* the rare photo beside its own text: the episode in a narrower column, the photo next to it */
+.photo-essay .essay-beside{display:flex;align-items:flex-start;gap:40px;margin:var(--group-mt) 0 var(--group-mb)}
+.photo-essay .essay-beside.at-left{flex-direction:row-reverse;justify-content:flex-end}
+.photo-essay .essay-beside .beside-text{flex:0 0 calc(var(--text) * .75)}
+.photo-essay .essay-beside .beside-text p{max-width:none}
+.photo-essay .essay-beside .beside-text p:last-child{margin-bottom:0}
+.photo-essay .essay-beside .beside-photo{flex:0 1 auto;min-width:0;padding-top:8px}
+.photo-essay .essay-beside .essay-photo img{width:auto;height:auto;max-width:100%;max-height:var(--cap-h)}
+.photo-essay .essay-navigation{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;margin-top:64px;padding-top:24px;border-top:1px solid #ddd;font-size:14px;max-width:var(--text)}
+.photo-essay .essay-navigation a:hover{color:var(--accent)}
 .photo-essay .essay-navigation a:last-child{text-align:right}
 .photo-essay .essay-navigation .essay-toc{text-align:center}
+
+/* tablet and narrow windows: the chapter list folds into a bar under the site bar */
+@media(max-width:1199px){
+  .chapter-layout{grid-template-columns:minmax(0,1fr);padding-top:0}
+  .toc-side{display:none}
+  .toc-bar{display:block;position:sticky;top:60px;z-index:30;margin:0 -32px 32px;padding:0 32px;background:#fff;border-bottom:1px solid #e5e5e5;font-size:15px;line-height:1.4}
+  .toc-bar summary{display:flex;justify-content:space-between;gap:16px;padding:12px 0;list-style:none;font-weight:500;cursor:pointer}
+  .toc-bar summary::-webkit-details-marker{display:none}
+  .toc-bar summary>span:first-child::before{content:"☰  ";color:var(--accent)}
+  .toc-bar .where,.toc-bar .close{color:#737373;font-weight:400}
+  .toc-bar .close,.toc-bar[open] .where{display:none}
+  .toc-bar[open] .close{display:inline}
+  .toc-bar[open]{max-height:calc(100vh - 60px);overflow:auto}
+  .toc-bar[open] summary{position:sticky;top:0;background:#fff}
+  .toc-bar .toc-list{margin-bottom:16px}
+  .photo-essay .essay-trip{display:inline-block;margin-bottom:10px}
+}
+/* tablet and phone: the photo beside its text goes under the text */
+@media(max-width:1023px){
+  .photo-essay .essay-beside,.photo-essay .essay-beside.at-left{display:block}
+  .photo-essay .essay-beside .beside-text p{max-width:var(--text)}
+  .photo-essay .essay-beside .beside-photo{padding-top:0;margin-top:28px}
+}
 @media(max-width:700px){
-  .photo-essay{padding:24px 12px 48px;--essay-gap:5px;--group-mb:32px}
+  .chapter-layout{--cap-h:80svh}
+  .toc-bar{top:56px;margin:0 -16px 24px;padding:0 16px}
+  .photo-essay{--essay-gap:8px;--group-mt:28px;--group-mb:32px;padding-bottom:48px}
   .photo-essay .essay-body p{font-size:17px}
-  .photo-essay .essay-group{margin:24px auto var(--group-mb)}
-  .photo-essay .essay-row{flex-wrap:wrap;row-gap:var(--essay-gap)}
+  .photo-essay .essay-row{width:100%;flex-wrap:wrap;row-gap:var(--essay-gap)}
   .photo-essay .essay-row>.essay-photo{flex:0 0 calc((100% - var(--essay-gap) * var(--mk)) * var(--ms) - 0.1px)}
-  .photo-essay .essay-mosaic{grid-template-columns:repeat(2,minmax(0,1fr))}
-  .photo-essay .essay-large.at-left,.photo-essay .essay-large.at-right{grid-column:1 / span 2;grid-row:span 1}
-  .photo-essay .essay-tall{aspect-ratio:1 / 2}
   .photo-essay .essay-overlay{font-size:13px;padding:30px 12px 10px}
-  /* rows may wrap on a phone, so a caption simply sits under the row's right end (captioned photo goes last) */
   .photo-essay .essay-cap span{margin-left:auto !important;width:auto !important;text-align:right}
 }
 </style>
+<div class="site-wrap chapter-layout">
+<aside class="toc-side" aria-label="Главы поездки">{{ partial "chapter-toc.html" . }}</aside>
 <article class="photo-essay">
+<details class="toc-bar"><summary><span>Оглавление</span><span class="where">Глава {{ add $idx 1 }} из {{ len $chapters }}</span><span class="close">Свернуть ✕</span></summary>{{ partial "chapter-toc.html" . }}</details>
 <header class="essay-header">
-<a href="{{ $trip.RelPermalink }}" class="text-accent">{{ $trip.Title }}</a>
-<h1 class="font-serif">{{ .Title }}</h1>
-<div class="essay-meta"><span>Глава {{ add $idx 1 }} из {{ len $chapters }}</span><a href="{{ $trip.RelPermalink }}">Оглавление</a></div>
-{{ with .Params.hero_image }}{{ $u := partial "story-photo-url.html" (dict "page" $ "name" . "size" "w2000") }}{{ if strings.Contains $u "drive.google.com" }}{{ $u = partial "gimg.html" (dict "url" $u "size" "w2000") }}{{ end }}{{ $info := index (index site.Data.photos $.Parent.File.ContentBaseName | default dict) (printf "%s/%s" $.File.ContentBaseName .) | default dict }}<a href="{{ $u }}" data-photo-lightbox><img referrerpolicy="no-referrer" class="essay-cover" src="{{ $u }}"{{ if and $info.w (lt $info.w 616) }} style="max-width:{{ $info.w }}px;margin-inline:auto"{{ end }} alt="{{ $.Title }}" loading="eager" fetchpriority="high"></a>{{ end }}
+<a class="essay-trip" href="{{ $trip.RelPermalink }}">{{ $trip.Params.cover_title | default $trip.Title }}</a>
+<h1>{{ .Title }}</h1>
+{{ with .Params.hero_image }}{{ $u := partial "story-photo-url.html" (dict "page" $ "name" . "size" "w2000") }}{{ $info := index (index site.Data.photos $trip.File.ContentBaseName | default dict) (printf "%s/%s" $.File.ContentBaseName .) | default dict }}<a class="essay-cover-link" href="{{ $u }}" data-photo-lightbox><img referrerpolicy="no-referrer" class="essay-cover" src="{{ $u }}"{{ with $info.w }} width="{{ . }}" height="{{ $info.h }}"{{ end }} alt="{{ $.Title }}" loading="eager" fetchpriority="high"></a>{{ end }}
 </header>
 <div class="essay-body">{{ .Content }}</div>
 <nav class="essay-navigation" aria-label="Навигация по главам">
-{{ if gt $idx 0 }}{{ with index $chapters (sub $idx 1) }}<a href="{{ .RelPermalink }}">← Предыдущая<br>{{ .Title }}</a>{{ end }}{{ else }}<span></span>{{ end }}
+{{ if gt $idx 0 }}{{ with index $chapters (sub $idx 1) }}<a href="{{ .RelPermalink }}">← Предыдущая<br>{{ partial "chapter-short-title.html" . }}</a>{{ end }}{{ else }}<span></span>{{ end }}
 <a class="essay-toc" href="{{ $trip.RelPermalink }}">Оглавление</a>
-{{ if lt (add $idx 1) (len $chapters) }}{{ with index $chapters (add $idx 1) }}<a href="{{ .RelPermalink }}">Следующая →<br>{{ .Title }}</a>{{ end }}{{ else }}<span></span>{{ end }}
+{{ if lt (add $idx 1) (len $chapters) }}{{ with index $chapters (add $idx 1) }}<a href="{{ .RelPermalink }}">Следующая →<br>{{ partial "chapter-short-title.html" . }}</a>{{ end }}{{ else }}<span></span>{{ end }}
 </nav>
 </article>
+</div>
+<script>
+// Mosaic layout (DESIGN_PHOTOS.md «Фотоблоки»): the photos of a mosaic are arranged into rows and columns sized by their
+// real proportions, so the block is an exact rectangle and nothing is cropped. Among the arrangements that keep the
+// photos' order, the one is chosen where no photo is too small, the marked main photo (L:/R:) is the largest, the
+// others are of similar size, and the block fits on the screen. If nothing works, rows win — the same as splitting.
+(() => {
+  const mosaics = [...document.querySelectorAll('[data-mosaic]')];
+  if (!mosaics.length) return;
+  const leaf = (i, r) => ({ t: 'p', i, r });
+  const row = (c) => (c.length === 1 ? c[0] : { t: 'row', c });
+  const col = (c) => (c.length === 1 ? c[0] : { t: 'col', c });
+  // compositions of an ordered list into consecutive parts of size 1..maxPart, at most maxParts parts
+  function* splits(list, maxPart, maxParts) {
+    if (!list.length) { yield []; return; }
+    if (maxParts === 0) return;
+    for (let k = 1; k <= Math.min(maxPart, list.length); k++)
+      for (const rest of splits(list.slice(k), maxPart, maxParts - 1)) yield [list.slice(0, k), ...rest];
+  }
+  const rowsOf = (parts) => col(parts.map((p) => row(p)));
+  function candidates(items) {
+    const out = [];
+    const n = items.length;
+    for (const parts of splits(items, 4, 4)) out.push(rowsOf(parts));
+    const feats = items.filter((x) => x.k === 'L' || x.k === 'R');
+    for (const f of feats) {
+      const others = items.filter((x) => x !== f);
+      for (const parts of splits(others, 3, 3)) {
+        const side = rowsOf(parts);
+        out.push(f.k === 'L' ? row([f, side]) : row([side, f]));
+        out.push(col([f, side]));
+      }
+    }
+    if (n >= 4 && n <= 9)
+      for (let k = 2; k <= n - 2; k++)
+        for (const a of splits(items.slice(0, k), 2, 3))
+          for (const b of splits(items.slice(k), 2, 3)) out.push(row([rowsOf(a), rowsOf(b)]));
+    return out;
+  }
+  // width = a * height + b for every node (rows add widths, columns add heights)
+  function fit(node, g) {
+    if (node.t === 'p') return (node.f = { a: node.r, b: 0 });
+    const ks = node.c.map((k) => fit(k, g));
+    const m = ks.length;
+    if (node.t === 'row') return (node.f = { a: ks.reduce((s, k) => s + k.a, 0), b: ks.reduce((s, k) => s + k.b, 0) + g * (m - 1) });
+    const S = ks.reduce((s, k) => s + 1 / k.a, 0);
+    return (node.f = { a: 1 / S, b: (ks.reduce((s, k) => s + k.b / k.a, 0) - g * (m - 1)) / S });
+  }
+  function place(node, x, y, w, h, g, out) {
+    if (node.t === 'p') { out[node.i] = { x, y, w, h }; return; }
+    if (node.t === 'row') { let cx = x; for (const k of node.c) { const kw = k.f.a * h + k.f.b; place(k, cx, y, kw, h, g, out); cx += kw + g; } }
+    else { let cy = y; for (const k of node.c) { const kh = (w - k.f.b) / k.f.a; place(k, x, cy, w, kh, g, out); cy += kh + g; } }
+  }
+  function score(rects, items, W, H, maxH, phone) {
+    let p = 0;
+    if (H > maxH) p += ((H - maxH) / maxH) * 6;
+    const minW = W * (phone ? 0.3 : 0.18);
+    const areas = rects.map((r) => r.w * r.h);
+    rects.forEach((r, i) => {
+      if (r.w < minW) p += ((minW - r.w) / minW) * 4;
+      if (r.h < 90) p += (90 - r.h) / 30;
+      if (r.w > items[i].nw) p += (r.w / items[i].nw - 1) * 3;   // small originals are not enlarged
+    });
+    const fi = items.findIndex((x) => x.k === 'L' || x.k === 'R');
+    const rest = areas.filter((_, i) => i !== fi);
+    if (fi >= 0) { const mx = Math.max(...rest); if (areas[fi] < mx * 1.6) p += 2 * (mx * 1.6 / areas[fi] - 1); }
+    if (rest.length > 1) p += 0.5 * Math.log(Math.max(...rest) / Math.min(...rest));
+    p += Math.abs(Math.log(H / Math.min(maxH, W * 0.62))) * 0.3;
+    return p;
+  }
+  function layout(el) {
+    const photos = [...el.children];
+    const items = photos.map((a, i) => ({ ...leaf(i, parseFloat(a.dataset.r)), k: a.dataset.k || '', nw: parseFloat(a.dataset.w) || 1e9 }));
+    const g = parseFloat(getComputedStyle(el).columnGap) || 12;
+    const W = el.parentElement.clientWidth;
+    const phone = W < 600;
+    const maxH = window.innerHeight * 0.8;
+    let best = null;
+    for (const tree of candidates(items)) {
+      const f = fit(tree, g);
+      const H = (W - f.b) / f.a;
+      const rects = []; place(tree, 0, 0, W, H, g, rects);
+      const s = score(rects, items, W, H, maxH, phone);
+      if (!best || s < best.s) best = { s, tree, f, H };
+    }
+    let { tree, f, H } = best;
+    let w = W;
+    if (H > maxH) { w = f.a * maxH + f.b; H = maxH; }      // never taller than the screen: narrower, from the left
+    const rects = []; place(tree, 0, 0, w, H, g, rects);
+    el.style.width = w + 'px'; el.style.height = H + 'px';
+    photos.forEach((a, i) => { const r = rects[i]; a.style.cssText = `left:${r.x}px;top:${r.y}px;width:${r.w}px;height:${r.h}px`; });
+    el.classList.add('is-laid');
+  }
+  const all = () => mosaics.forEach(layout);
+  all();
+  let t; addEventListener('resize', () => { clearTimeout(t); t = setTimeout(all, 120); });
+})();
+</script>
 {{ end }}

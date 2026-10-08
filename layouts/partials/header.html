@@ -1,7 +1,7 @@
 {{- /* Site bar: quiet and compact, stays on top while scrolling (about 60 px).
        Phone: site name and a "Меню" button that opens the three sections. */ -}}
 <header class="site-bar">
-  <div class="site-bar-inner max-w-6xl mx-auto px-4">
+  <div class="site-bar-inner site-wrap">
     <a href="{{ "" | relURL }}" class="site-bar-logo">{{ .Site.Title }}</a>
     <nav class="site-bar-nav" aria-label="Разделы">
       <a href="{{ "countries/" | relURL }}">По странам</a>

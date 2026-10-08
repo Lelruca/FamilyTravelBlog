@@ -1,0 +1,9 @@
+{{- /* Chapter tile on the trip page (DESIGN_PHOTOS.md «Страница поездки»): the chapter cover with its name over it,
+       bottom left — the same manner as the trip tiles on the home page. A chapter without a photo: a light tile. */ -}}
+{{- $ch := . -}}
+{{- $src := "" -}}
+{{- with $ch.Params.hero_image -}}{{- $src = partial "story-photo-url.html" (dict "page" $ch "name" . "size" "w1200") -}}{{- end -}}
+<a href="{{ $ch.RelPermalink }}" class="chapter-tile{{ if not $src }} no-photo{{ end }}">
+  {{- with $src }}<img referrerpolicy="no-referrer" src="{{ . }}" alt="" loading="lazy"{{ with $ch.Params.hero_card_position }} style="object-position: {{ . }};"{{ end }}>{{ end }}
+  <h2 class="chapter-tile-title">{{ partial "chapter-short-title.html" $ch }}</h2>
+</a>

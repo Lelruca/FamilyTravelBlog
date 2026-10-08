@@ -244,3 +244,13 @@
   margin: 0 0 2rem;
   padding: 0;
 }
+
+/* one page width for the site bar, home, trip and chapter pages (DESIGN_PHOTOS.md): chapter list 236 + 56 + photo zone 1080 */
+.site-wrap {
+  max-width: 1436px;
+  margin: 0 auto;
+  padding: 0 32px;
+}
+@media (max-width: 700px) {
+  .site-wrap { padding: 0 16px; }
+}

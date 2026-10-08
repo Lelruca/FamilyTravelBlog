@@ -1,39 +1,57 @@
 {{ define "main" }}
+{{- /* Trip page = the trip's table of contents (DESIGN_PHOTOS.md «Страница поездки»): the cover on 90% of the screen with
+       the trip's name over it, bottom left (where / title / subtitle / when · who, from the cover_* fields);
+       a click opens the cover whole, without the text. Below: the chapters as photo tiles. */ -}}
 {{- $trip := . -}}
-
-{{ partial "hero.html" $trip }}
-
-<div class="max-w-5xl mx-auto px-4 py-10">
-  {{ partial "breadcrumbs.html" $trip }}
-
-  <header class="mb-8">
-    <div class="flex flex-wrap items-center gap-3 text-sm text-neutral-500 mb-2">
-      <span class="uppercase tracking-widest text-xs">{{ with $trip.Parent }}{{ with .Parent }}{{ .Title }}{{ end }}{{ end }}</span>
-      <span>·</span>
-      <span>{{ with $trip.Parent }}{{ .Title }}{{ end }}</span>
-      <span>·</span>
-      <span>{{ $trip.Params.trip_year }}</span>
-    </div>
-    <h1 class="font-serif text-4xl font-bold text-accent mb-4">{{ $trip.Title }}</h1>
-    {{- with $trip.Params.summary }}
-    <p class="text-lg text-neutral-600 max-w-2xl">{{ . }}</p>
+{{- $cover := $trip.Params.cover_image -}}
+<style>
+.trip-cover{position:relative;height:calc((100vh - 60px) * .9);height:calc((100svh - 60px) * .9);min-height:360px;overflow:hidden;background:#555}
+.trip-cover>a{position:absolute;inset:0;display:block}
+.trip-cover img{width:100%;height:100%;object-fit:cover;object-position:center 35%;display:block}
+.trip-cover::after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(to top,rgba(0,0,0,.62) 0%,rgba(0,0,0,.28) 30%,rgba(0,0,0,0) 55%)}
+.trip-cover-text{position:absolute;z-index:2;left:0;right:0;bottom:0;padding-bottom:40px;color:#fff;pointer-events:none;text-shadow:0 1px 14px rgba(0,0,0,.35)}
+.trip-cover-where{margin:0;font-size:13px;font-weight:600;letter-spacing:.07em;text-transform:uppercase}
+.trip-cover-title{margin:6px 0 0;font-family:Montserrat,Inter,sans-serif;font-weight:800;font-size:clamp(40px,5vw,72px);line-height:1.02;letter-spacing:-.01em}
+.trip-cover-sub{margin:6px 0 0;font-family:Montserrat,Inter,sans-serif;font-weight:600;font-size:clamp(19px,2vw,28px)}
+.trip-cover-meta{margin:12px 0 0;font-size:16px;font-weight:500}
+.trip-intro{max-width:616px;padding:36px 0 0;font-size:18px;line-height:1.8;color:#404040}
+.trip-intro p{margin:0 0 1em}
+.chapter-tiles{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;padding:40px 0 80px}
+.chapter-tile{position:relative;display:block;aspect-ratio:3/2;border-radius:4px;overflow:hidden;background:linear-gradient(140deg,#efe9df,#e2d9cb);color:#fff;isolation:isolate}
+.chapter-tile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform 1.1s cubic-bezier(.2,.7,.2,1)}
+.chapter-tile:not(.no-photo)::after{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(to top,rgba(0,0,0,.62) 0%,rgba(0,0,0,.25) 38%,rgba(0,0,0,0) 62%)}
+.chapter-tile-title{position:absolute;z-index:2;left:20px;right:20px;bottom:18px;margin:0;font-family:Montserrat,Inter,sans-serif;font-weight:700;font-size:clamp(19px,1.7vw,24px);line-height:1.15;text-shadow:0 1px 10px rgba(0,0,0,.35)}
+.chapter-tile.no-photo .chapter-tile-title{color:#3d3a35;text-shadow:none}
+@media(hover:hover){.chapter-tile:hover img{transform:scale(1.05)}}
+.chapter-tile:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+@media(max-width:1023px){.chapter-tiles{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:700px){
+  .trip-cover{height:calc((100svh - 56px) * .9)}
+  .trip-cover-text{padding-bottom:24px}
+  .trip-cover-title{font-size:38px}.trip-cover-sub{font-size:19px}.trip-cover-meta{font-size:15px}
+  .trip-intro{font-size:17px;padding-top:28px}
+  .chapter-tiles{grid-template-columns:1fr;gap:16px;padding-top:28px}
+  .chapter-tile-title{font-size:21px}
+}
+</style>
+<section class="trip-cover">
+  {{- with $cover }}<a href="{{ . }}" data-photo-lightbox aria-label="Обложка целиком"><img referrerpolicy="no-referrer" src="{{ . }}" alt=""{{ with $trip.Params.cover_position }} style="object-position: {{ . }};"{{ end }} loading="eager" fetchpriority="high"></a>{{ end }}
+  <div class="trip-cover-text"><div class="site-wrap">
+    {{- with $trip.Params.cover_where }}<p class="trip-cover-where">{{ . }}</p>{{ end }}
+    <h1 class="trip-cover-title">{{ $trip.Params.cover_title | default $trip.Title }}</h1>
+    {{- with $trip.Params.cover_subtitle }}<p class="trip-cover-sub">{{ . }}</p>{{ end }}
+    {{- $meta := slice -}}{{- with $trip.Params.cover_when }}{{ $meta = $meta | append . }}{{ end -}}{{- with $trip.Params.cover_who }}{{ $meta = $meta | append . }}{{ end -}}
+    {{- with $meta }}<p class="trip-cover-meta">{{ delimit . " · " }}</p>{{ end }}
+  </div></div>
+</section>
+<div class="site-wrap">
+  {{- if or $trip.Params.summary (trim (plainify $trip.Content) " \n") }}
+  <div class="trip-intro">{{ with $trip.Params.summary }}<p>{{ . }}</p>{{ end }}{{ $trip.Content }}</div>
+  {{- end }}
+  <section class="chapter-tiles" aria-label="Главы">
+    {{- range $trip.Pages.ByWeight }}
+      {{ partial "chapter-tile.html" . }}
     {{- end }}
-    {{ with $trip.Content }}<div class="mt-4 prose prose-neutral max-w-none">{{ . }}</div>{{ end }}
-  </header>
-
-  <section>
-    <h2 class="text-xs font-semibold uppercase tracking-widest text-neutral-400 mb-4">Главы</h2>
-    <div class="space-y-3">
-      {{- $pages := slice -}}
-      {{- range site.RegularPages -}}
-        {{- if and (hasPrefix .RelPermalink $trip.RelPermalink) (ne .RelPermalink $trip.RelPermalink) -}}
-          {{- $pages = $pages | append . -}}
-        {{- end -}}
-      {{- end -}}
-      {{- range sort $pages "Weight" "asc" -}}
-        {{ partial "chapter-card.html" . }}
-      {{- end }}
-    </div>
   </section>
 </div>
 {{ end }}

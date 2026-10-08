@@ -1,9 +1,8 @@
-{{- /* One row of photos of equal height that fills a column exactly (DESIGN_PHOTOS.md §1–3).
+{{- /* One row of photos of equal height that fills the photo zone exactly (DESIGN_PHOTOS.md «Фотоблоки»).
        {{< row "IMG_7253.jpg 20160820_153316.jpg" >}}
-       Optional: caption="text" capfor="IMG_7253.jpg" — a caption line directly under that photo;
-                 width="wide|narrow" to override the automatic column choice.
-       Column: one horizontal photo → photo column; one square/vertical → text column;
-       several → photo column, unless the row would be taller than 600 px there. */ -}}
+       Optional: caption="text" capfor="IMG_7253.jpg" — a caption line directly under that photo.
+       The row starts at the common left edge; if at full width it would be taller than the screen allows,
+       it gets narrower (--rs / --rn, see layouts/trips/photo-story.html). Small originals keep their size. */ -}}
 {{- $names := split (trim (.Get "items" | default (.Get 0)) " ") " " -}}
 {{- $page := .Page -}}
 {{- $items := slice -}}
@@ -19,15 +18,7 @@
   {{- end -}}
 {{- end -}}
 {{- $n := len $items -}}
-{{- $gap := 8.0 -}}
-{{- $narrow := false -}}
-{{- if eq $n 1 -}}
-  {{- /* one photo: photo column only if it stays at most ~640 px high there (wide 16:9 frames) */ -}}
-  {{- $narrow = gt (div 1116.0 $sum) 640.0 -}}
-{{- else -}}
-  {{- $narrow = gt (div (sub 1116.0 (mul $gap (sub $n 1))) $sum) 600.0 -}}
-{{- end -}}
-{{- with .Get "width" -}}{{- $narrow = eq . "narrow" -}}{{- end -}}
+{{- $gap := 12.0 -}}
 {{- $capfor := .Get "capfor" -}}
 {{- /* On a phone a wide row would get too low: split it, in order, into lines of total ratio ≤ 3
        (e.g. landscape + square | landscape). Each line still fills the width at equal height. */ -}}
@@ -58,7 +49,7 @@
 {{- end -}}
 {{- /* Keep small maps and archive illustrations at their native size. */ -}}
 {{- $nativeWidth := add (mul $minHeight $sum) (mul $gap (sub $n 1)) -}}
-<div class="essay-group"><div class="essay-row{{ if $narrow }} essay-narrow{{ end }}"{{ if lt $nativeWidth (cond $narrow 616.0 1116.0) }} style="max-width:min(100%,{{ $nativeWidth }}px)"{{ end }}>
+<div class="essay-group"><div class="essay-row" style="--rs:{{ $sum }};--rn:{{ sub $n 1 }}{{ if lt $nativeWidth 1080.0 }};max-width:{{ $nativeWidth }}px{{ end }}">
 {{- range $line := $lines -}}
   {{- range $line.items -}}
     {{- $url := partial "story-photo-url.html" (dict "page" $page "name" .name) -}}
@@ -71,6 +62,6 @@
   {{- range $i, $it := $items -}}
     {{- if eq $it.name $capfor -}}{{- $k = $i -}}{{- $w = $it.r -}}{{- else if not $w -}}{{- $before = add $before $it.r -}}{{- end -}}
   {{- end -}}
-  <p class="essay-cap{{ if $narrow }} essay-narrow{{ end }}"><span style="margin-left:calc((100% - {{ mul $gap (sub $n 1) }}px) * {{ div $before $sum }} + {{ mul $gap $k }}px);width:calc((100% - {{ mul $gap (sub $n 1) }}px) * {{ div $w $sum }})">{{ . }}</span></p>
+  <p class="essay-cap" style="width:min(100%,calc(var(--cap-h) * {{ $sum }} + var(--essay-gap) * {{ sub $n 1 }}))"><span style="margin-left:calc((100% - {{ mul $gap (sub $n 1) }}px) * {{ div $before $sum }} + {{ mul $gap $k }}px);width:calc((100% - {{ mul $gap (sub $n 1) }}px) * {{ div $w $sum }})">{{ . }}</span></p>
 {{- end -}}
 </div>
