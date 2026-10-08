@@ -1,0 +1,16 @@
+{{- /* Mosaic markup, laid out in the browser (layouts/trips/photo-story.html). Used by {{< mosaic >}}. Args: page, items ("L:a.jpg b.jpg …"), caption, capfor. */ -}}
+{{- $page := .page -}}
+{{- $capfor := .capfor -}}
+{{- $caption := .caption -}}
+<div class="essay-group"><div class="essay-mosaic" data-mosaic>
+{{- range split (trim .items " ") " " -}}
+  {{- if . -}}
+    {{- $kind := "" -}}{{- $name := . -}}
+    {{- with findRESubmatch `^([LRT]):(.+)$` . 1 -}}{{- $kind = index (index . 0) 1 -}}{{- $name = index (index . 0) 2 -}}{{- end -}}
+    {{- $url := partial "story-photo-url.html" (dict "page" $page "name" $name) -}}
+    {{- $r := partial "story-photo-ratio.html" (dict "page" $page "name" $name) -}}
+    {{- $info := index (index site.Data.photos $page.Parent.File.ContentBaseName) (partial "story-photo-key.html" (dict "page" $page "name" $name)) -}}
+    <a class="essay-photo" href="{{ $url }}" data-photo-lightbox data-photo-alt="" data-r="{{ $r }}" data-w="{{ $info.w }}"{{ if in (slice "L" "R") $kind }} data-k="{{ $kind }}"{{ end }} style="--r:{{ $r }}"><img referrerpolicy="no-referrer" src="{{ $url }}" alt="" loading="lazy">{{ if and $caption (eq $name $capfor) }}<span class="essay-overlay">{{ $caption }}</span>{{ end }}</a>
+  {{- end -}}
+{{- end -}}
+</div></div>

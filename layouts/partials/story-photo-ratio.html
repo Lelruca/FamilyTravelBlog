@@ -2,7 +2,7 @@
        Usage: partial "story-photo-ratio.html" (dict "page" .Page "name" "IMG_7284.jpg") */ -}}
 {{- $trip := .page.Parent.File.ContentBaseName -}}
 {{- $chapter := .page.File.ContentBaseName -}}
-{{- $info := index (index site.Data.photos $trip | default dict) (printf "%s/%s" $chapter .name) -}}
+{{- $info := index (index site.Data.photos $trip | default dict) (partial "story-photo-key.html" (dict "page" .page "name" .name)) -}}
 {{- if not $info -}}
   {{- errorf "Photo %s/%s/%s is missing from data/photos/%s.json — run scripts/make-display-copies.cjs" $trip $chapter .name $trip -}}
 {{- end -}}

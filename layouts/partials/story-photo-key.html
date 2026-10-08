@@ -1,0 +1,6 @@
+{{- /* Key of a chapter photo in data/photos/<trip>.json and on R2: "<chapter>/<name>".
+       A name with a slash ("cover/DSC04370.JPG") is a photo of another chapter of the same trip, shown again here.
+       Usage: partial "story-photo-key.html" (dict "page" .Page "name" "IMG_7284.jpg") */ -}}
+{{- $key := .name -}}
+{{- if not (strings.Contains .name "/") -}}{{- $key = printf "%s/%s" .page.File.ContentBaseName .name -}}{{- end -}}
+{{- return $key -}}

@@ -1,6 +1,7 @@
 {{- /* The rare photo beside its own text (DESIGN_PHOTOS.md «Фотоблоки»): one photo that illustrates an episode and has
-       nothing to be grouped with. The episode's paragraphs, unchanged, go inside; they run in a column about a quarter
-       narrower than usual, the photo stands next to them. On phones: the text, then the photo.
+       nothing to be grouped with. The episode's paragraphs, unchanged, go inside (HTML <p> or plain Markdown);
+       they run in a column about a quarter narrower than usual, the photo stands next to them.
+       On tablets and phones: the text, then the photo.
        {{< beside "20150814_105125.jpg" >}}
        <p>…</p>
        <p>…</p>
@@ -10,5 +11,6 @@
 {{- $name := .Get "photo" | default (.Get 0) -}}
 {{- $url := partial "story-photo-url.html" (dict "page" $page "name" $name) -}}
 {{- $r := partial "story-photo-ratio.html" (dict "page" $page "name" $name) -}}
-{{- $info := index (index site.Data.photos $page.Parent.File.ContentBaseName) (printf "%s/%s" $page.File.ContentBaseName $name) -}}
-<div class="essay-beside{{ if eq (.Get "side") "left" }} at-left{{ end }}"><div class="beside-text">{{ .Inner }}</div><div class="beside-photo"><a class="essay-photo" href="{{ $url }}" data-photo-lightbox data-photo-alt="" data-r="{{ $r }}"><img referrerpolicy="no-referrer" src="{{ $url }}" width="{{ $info.w }}" height="{{ $info.h }}" alt="" loading="lazy"></a></div></div>
+{{- $info := index (index site.Data.photos $page.Parent.File.ContentBaseName) (partial "story-photo-key.html" (dict "page" $page "name" $name)) -}}
+{{- $text := $page.RenderString (dict "display" "block") (trim .Inner " \r\n") -}}
+<div class="essay-beside{{ if eq (.Get "side") "left" }} at-left{{ end }}"><div class="beside-text">{{ $text }}</div><div class="beside-photo"><a class="essay-photo" href="{{ $url }}" data-photo-lightbox data-photo-alt="" data-r="{{ $r }}"><img referrerpolicy="no-referrer" src="{{ $url }}" width="{{ $info.w }}" height="{{ $info.h }}" alt="" loading="lazy"></a></div></div>

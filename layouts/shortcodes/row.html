@@ -11,7 +11,7 @@
 {{- range $names -}}
   {{- if . -}}
     {{- $r := partial "story-photo-ratio.html" (dict "page" $page "name" .) -}}
-    {{- $info := index (index site.Data.photos $page.Parent.File.ContentBaseName) (printf "%s/%s" $page.File.ContentBaseName .) -}}
+    {{- $info := index (index site.Data.photos $page.Parent.File.ContentBaseName) (partial "story-photo-key.html" (dict "page" $page "name" .)) -}}
     {{- $minHeight = math.Min $minHeight (float $info.h) -}}
     {{- $items = $items | append (dict "name" . "r" $r) -}}
     {{- $sum = add $sum $r -}}
