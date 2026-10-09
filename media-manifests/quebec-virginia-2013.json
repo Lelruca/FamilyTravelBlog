@@ -3477,14 +3477,44 @@
       "displayOrder": 27,
       "sourceArchiveFile": "05 - Вирджиния Бич - 3/29_DSC01073.JPG",
       "displayLocation": "chapter-body"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "Заключение",
+      "folder": "06 - Заключение",
+      "order": 1,
+      "originalFilename": "DSC00874.JPG",
+      "filename": "DSC00874.jpg",
+      "archiveFile": "06 - Заключение/01_DSC00874.JPG",
+      "bytes": 4186021,
+      "sha256": "f55f149058663cbc4fc6deb28f623469117feb02309d308f89a14339560ba391",
+      "width": 4896,
+      "height": 3672,
+      "status": "owner-added",
+      "displayLocation": "archive-only"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "Заключение",
+      "folder": "06 - Заключение",
+      "order": 2,
+      "originalFilename": "DSC00944.JPG",
+      "filename": "DSC00944.jpg",
+      "archiveFile": "06 - Заключение/02_DSC00944.JPG",
+      "bytes": 3845136,
+      "sha256": "4cf5e0959a811d30cd3800f3e1bd1bfa0b215c28025a1bb01180bd0772a18638",
+      "width": 4896,
+      "height": 3672,
+      "status": "owner-added",
+      "displayLocation": "chapter-cover"
     }
   ],
   "archive": {
     "folder": "North America/2013 - Квебек и Вирджиния Бич",
-    "scannedAt": "2026-10-08T13:02:39.759Z",
-    "images": 87,
+    "scannedAt": "2026-10-09T17:36:18.150Z",
+    "images": 91,
     "unused": 0,
-    "bytes": 231455657,
+    "bytes": 246448765,
     "files": [
       {
         "archiveFile": "01 - Канадские игры/01_582243_10151758958153592_896812256_n.jpg",
@@ -4008,20 +4038,20 @@
       },
       {
         "archiveFile": "04 - Вирджиния Бич - 2/08_We.jpg",
-        "bytes": 2493027,
-        "sha256": "2790f71a03f5ea2bd5ebaff7834d5491a6716e249f58aa0f82ca48c4cd806061",
-        "width": 4201,
-        "height": 2961,
+        "bytes": 1972657,
+        "sha256": "5d7a8feaa2d83b20d49d9bcd46ecac0422a00808fc9cbf9d7033f0e92d987603",
+        "width": 2961,
+        "height": 4201,
         "siteKeys": [
           "virginia-beach-2/We.jpg"
         ]
       },
       {
         "archiveFile": "04 - Вирджиния Бич - 2/09_We3.jpg",
-        "bytes": 2559499,
-        "sha256": "4637dac980c35389f4c6688a9f7d1ae0e2b8805cee3ac054f9738046465d0635",
-        "width": 4217,
-        "height": 2993,
+        "bytes": 2010663,
+        "sha256": "505015c107e7f16c0f40ebc64b4eb096aedb7260139a0d6ccb952b02f82afaad",
+        "width": 2993,
+        "height": 4217,
         "siteKeys": [
           "virginia-beach-2/We3.jpg"
         ]
@@ -4355,6 +4385,40 @@
         "siteKeys": [
           "virginia-beach-3/DSC01073.jpg"
         ]
+      },
+      {
+        "archiveFile": "06 - Заключение/01_DSC00874.JPG",
+        "bytes": 4186021,
+        "sha256": "f55f149058663cbc4fc6deb28f623469117feb02309d308f89a14339560ba391",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "conclusion/DSC00874.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 - Заключение/02_DSC00944.JPG",
+        "bytes": 3845136,
+        "sha256": "4cf5e0959a811d30cd3800f3e1bd1bfa0b215c28025a1bb01180bd0772a18638",
+        "width": 4896,
+        "height": 3672,
+        "siteKeys": [
+          "conclusion/DSC00944.jpg"
+        ]
+      },
+      {
+        "archiveFile": "06 -Заключение/DSC00874.JPG",
+        "bytes": 4186021,
+        "sha256": "f55f149058663cbc4fc6deb28f623469117feb02309d308f89a14339560ba391",
+        "width": 4896,
+        "height": 3672
+      },
+      {
+        "archiveFile": "06 -Заключение/DSC00944.JPG",
+        "bytes": 3845136,
+        "sha256": "4cf5e0959a811d30cd3800f3e1bd1bfa0b215c28025a1bb01180bd0772a18638",
+        "width": 4896,
+        "height": 3672
       }
     ]
   },
@@ -4363,7 +4427,7 @@
     "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "longSideLimit": 2000,
     "preparedFrom": "Archived originals (archiveFile); EXIF rotation applied; no upscaling.",
-    "verifiedAt": "2026-10-08T13:02:39.759Z",
+    "verifiedAt": "2026-10-09T17:36:18.150Z",
     "photos": [
       {
         "key": "quebec-virginia-2013/canada-games/1098469_547262345339657_1612303871_n.jpg",
@@ -5030,7 +5094,7 @@
         "slug": "virginia-beach-2",
         "filename": "We.jpg",
         "archiveFile": "04 - Вирджиния Бич - 2/08_We.jpg",
-        "originalSha256": "2790f71a03f5ea2bd5ebaff7834d5491a6716e249f58aa0f82ca48c4cd806061",
+        "originalSha256": "5d7a8feaa2d83b20d49d9bcd46ecac0422a00808fc9cbf9d7033f0e92d987603",
         "w": 1410,
         "h": 2000,
         "bytes": 373388,
@@ -5056,7 +5120,7 @@
         "slug": "virginia-beach-2",
         "filename": "We3.jpg",
         "archiveFile": "04 - Вирджиния Бич - 2/09_We3.jpg",
-        "originalSha256": "4637dac980c35389f4c6688a9f7d1ae0e2b8805cee3ac054f9738046465d0635",
+        "originalSha256": "505015c107e7f16c0f40ebc64b4eb096aedb7260139a0d6ccb952b02f82afaad",
         "w": 1420,
         "h": 2000,
         "bytes": 381342,
@@ -5411,6 +5475,30 @@
         "bytes": 639775,
         "sha256": "b73ca843f57ea2d561ac6efa735c4f27e9cc6bd062284d6cef1eea5db93c44e3",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/quebec-virginia-2013/virginia-beach-3/USS%2BWiscinsin.jpg"
+      },
+      {
+        "key": "quebec-virginia-2013/conclusion/DSC00874.jpg",
+        "slug": "conclusion",
+        "filename": "DSC00874.jpg",
+        "archiveFile": "06 - Заключение/01_DSC00874.JPG",
+        "originalSha256": "f55f149058663cbc4fc6deb28f623469117feb02309d308f89a14339560ba391",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 372766,
+        "sha256": "b0c6eed3831cdd6332d9928ab101e326a176c8bfa2d3da828d2ad4c142c90f1c",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/quebec-virginia-2013/conclusion/DSC00874.jpg"
+      },
+      {
+        "key": "quebec-virginia-2013/conclusion/DSC00944.jpg",
+        "slug": "conclusion",
+        "filename": "DSC00944.jpg",
+        "archiveFile": "06 - Заключение/02_DSC00944.JPG",
+        "originalSha256": "4cf5e0959a811d30cd3800f3e1bd1bfa0b215c28025a1bb01180bd0772a18638",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 228126,
+        "sha256": "414daa4e0f5b03046fd1361c47ee01efea31bba2e360cf6a8b646e7dc63b8d10",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/quebec-virginia-2013/conclusion/DSC00944.jpg"
       }
     ],
     "verification": {
@@ -5421,7 +5509,7 @@
           "slug": "canada-games",
           "file": "content/americas/canada/quebec-virginia-2013/canada-games/index.md",
           "route": "americas/canada/quebec-virginia-2013/canada-games",
-          "mdSha256": "7fdb79e9e0cd5808b70b891e5da05411f0dd929f5cd90158bd01c4c3d76d0cab",
+          "mdSha256": "e40d8c907ba6072bb771ae9d1e8d800c7fe186efb89d297fa063baf5de98426e",
           "keys": [
             "canada-games/582243_10151758958153592_896812256_n.jpg",
             "canada-games/1185443_547926991939859_2127911435_n.jpg",
@@ -5432,9 +5520,9 @@
             "canada-games/11496_547262348672990_2011775234_n.jpg",
             "canada-games/DSC00838.jpg",
             "canada-games/DSC00840.jpg",
+            "canada-games/DSC00843.jpg",
             "canada-games/DSC00850.jpg",
             "canada-games/DSC00844.jpg",
-            "canada-games/DSC00843.jpg",
             "canada-games/DSC00847.jpg",
             "canada-games/DSC00841.jpg",
             "canada-games/DSC00851.jpg",
@@ -5478,8 +5566,11 @@
           "slug": "conclusion",
           "file": "content/americas/canada/quebec-virginia-2013/conclusion/index.md",
           "route": "americas/canada/quebec-virginia-2013/conclusion",
-          "mdSha256": "249ba39800b82a822f9c0fc63ec43040e8053d6545cdc03db66f16e42eb056b1",
-          "keys": [],
+          "mdSha256": "e131fb6badde0256aff4f53d46cf2d09fed74f12f97e10a8316441b8d19d57fa",
+          "keys": [
+            "conclusion/DSC00874.jpg",
+            "conclusion/DSC00944.jpg"
+          ],
           "paragraphHashes": [
             "6d8bf32732959425b77d1f5dcacffdcb8c3ba157c5519d6a24f2c31a05060249",
             "1174e773dcff54cbc8902b37ffc44d2f67a2902b8f735da7eca4f77fb4e63bdf",
@@ -5493,7 +5584,7 @@
           "slug": "magog",
           "file": "content/americas/canada/quebec-virginia-2013/magog/index.md",
           "route": "americas/canada/quebec-virginia-2013/magog",
-          "mdSha256": "0bb39c3e18fd239053979774b753c5ba6b885c96513f070dee1cdadd95c7fe82",
+          "mdSha256": "7738e28d64ca4371df7633554f8a9ad386f61a5acd2bbef2ebd97108dad010f4",
           "keys": [
             "magog/DSC00791.jpg",
             "magog/20130817_090159.jpg",
@@ -5531,7 +5622,7 @@
           "slug": "virginia-beach-1",
           "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-1/index.md",
           "route": "americas/canada/quebec-virginia-2013/virginia-beach-1",
-          "mdSha256": "441b4af2dfa84f82090b2511e4a6ce5be5ad488b8126bd69bfa7ad8ef14ed864",
+          "mdSha256": "ce8e7bd246e8411dd0c8c031b2a927b3f64400335e9a3b26286cbb6cf11668d1",
           "keys": [
             "virginia-beach-1/DSC00893.jpg",
             "virginia-beach-1/20130818_232622.jpg",
@@ -5559,19 +5650,19 @@
           "slug": "virginia-beach-2",
           "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-2/index.md",
           "route": "americas/canada/quebec-virginia-2013/virginia-beach-2",
-          "mdSha256": "fef24d20c92418655749df6fbe877cb83afe1f31e9389d056214f8a0fe752c64",
+          "mdSha256": "f0d3cbac95c19a4935a7c754b49f3083ffa1a1a3d12e66e24f29031a505ec5b1",
           "keys": [
-            "virginia-beach-2/We.jpg",
             "virginia-beach-2/DSC00972.jpg",
-            "virginia-beach-2/DSC00961.jpg",
+            "virginia-beach-2/DSC00972.jpg",
             "virginia-beach-2/DSC00959.jpg",
+            "virginia-beach-2/DSC00956.jpg",
             "virginia-beach-2/DSC00949.jpg",
             "virginia-beach-2/DSC00952.jpg",
-            "virginia-beach-2/DSC00956.jpg",
+            "virginia-beach-2/DSC00897.jpg",
             "virginia-beach-2/DSC00890.jpg",
             "virginia-beach-2/DSC00895.jpg",
             "virginia-beach-2/DSC00881.jpg",
-            "virginia-beach-2/DSC00897.jpg",
+            "virginia-beach-2/We.jpg",
             "virginia-beach-2/We2.jpg",
             "virginia-beach-2/We3.jpg"
           ],
@@ -5592,12 +5683,13 @@
           "slug": "virginia-beach-3",
           "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-3/index.md",
           "route": "americas/canada/quebec-virginia-2013/virginia-beach-3",
-          "mdSha256": "e2f3581807ad1f896dbfb97fb94f77c2cf7b2e48cda66a6217a46d62ec867c13",
+          "mdSha256": "866c3ebe85b9aba45f665651a4960bb911ed4839bea6eb04656db39d3fbd7e48",
           "keys": [
-            "virginia-beach-3/DSC01022.jpg",
+            "virginia-beach-3/DSC00936.jpg",
             "virginia-beach-3/DSC01005.jpg",
             "virginia-beach-3/DSC01007.jpg",
             "virginia-beach-3/DSC01045.jpg",
+            "virginia-beach-3/DSC01022.jpg",
             "virginia-beach-3/DSC00902.jpg",
             "virginia-beach-3/DSC00909.jpg",
             "virginia-beach-3/DSC00903.jpg",
@@ -5611,7 +5703,6 @@
             "virginia-beach-3/DSC00924.jpg",
             "virginia-beach-3/DSC00934.jpg",
             "virginia-beach-3/DSC00935.jpg",
-            "virginia-beach-3/DSC00936.jpg",
             "virginia-beach-3/USS+Wiscinsin.jpg",
             "virginia-beach-3/DSC01078.jpg",
             "virginia-beach-3/DSC01076.jpg",
@@ -5619,10 +5710,10 @@
             "virginia-beach-3/DSC01084.jpg",
             "virginia-beach-3/DSC01085.jpg",
             "virginia-beach-3/DSC01092.jpg",
+            "virginia-beach-3/DSC01073.jpg",
             "virginia-beach-3/DSC01088.jpg",
             "virginia-beach-3/DSC01099.jpg",
-            "virginia-beach-3/DSC01101.jpg",
-            "virginia-beach-3/DSC01073.jpg"
+            "virginia-beach-3/DSC01101.jpg"
           ],
           "paragraphHashes": [
             "da91cb14da3941660f4a3bff1255161a06dd4bf448347569b756c6a6ba6c84ee",

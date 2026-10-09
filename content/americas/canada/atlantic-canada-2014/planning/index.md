@@ -6,7 +6,7 @@ layout: "photo-story"
 weight: 10
 auto_gallery: false
 source_url: "https://olgau.livejournal.com/181954.html"
-hero_image: "IMG_4558.jpg"
+hero_image: "maritimes-maritime-provinces-canada.jpg"
 ---
 
 <p>Интересно проанализировать КАК зарождается идея того или иного путешествия. Почему в этом году мы поехали на машине по Канаде в сторону Атлантики? Ну, о таких поездках мы слышали еще когда только в Торонто приехали, и всегда думали: «Ну когда-нибудь...» Но всегда были другие планы :-)</p>

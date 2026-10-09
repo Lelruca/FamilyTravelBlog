@@ -9,10 +9,8 @@ auto_gallery: false
 source_url: "https://olgau.livejournal.com/182595.html"
 places:
   - hopewell-rocks
-hero_image: "IMG_4220.jpg"
+hero_image: "IMG_4227.jpg"
 ---
-
-{{< row "IMG_4227.jpg" >}}
 
 <p>Третий день в моих планах имел несколько вариантов :-)</p>
 
@@ -26,11 +24,13 @@ hero_image: "IMG_4220.jpg"
 
 <p>Может быть в другой раз...</p>
 
-{{< row "IMG_4229.jpg" >}}
+{{< row "IMG_4220.jpg" >}}
 
-{{< row "IMG_4179.jpg" >}}
+{{< row "IMG_4229.jpg IMG_4179.jpg" >}}
 
-{{< mosaic "L:IMG_4211.jpg T:IMG_4193.jpg IMG_4202.jpg IMG_4206.jpg" >}}
+{{< mosaic "L:IMG_4193.jpg IMG_4211.jpg IMG_4202.jpg" >}}
+
+{{< row "IMG_4206.jpg" >}}
 
 <p>Вот фото с сайта туристического - прилив:</p>
 

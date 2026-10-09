@@ -5,6 +5,7 @@ layout: "photo-story"
 weight: 60
 chapter_kind: "reflections"
 auto_gallery: false
+hero_image: "DSC00944.jpg"
 ---
 
 
