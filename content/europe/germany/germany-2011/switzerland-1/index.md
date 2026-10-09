@@ -40,7 +40,7 @@ auto_gallery: false
 
 {{< mosaic "L:P8232102.jpg P8232090.jpg P8232091.jpg P8232093.jpg" >}}
 
-{{< mosaic "R:P8232097.jpg P8232094.jpg P8232098.jpg P8232100.jpg" >}}
+{{< row "P8232094.jpg P8232097.jpg P8232100.jpg" >}}
 
 {{< row "2011_26.jpg P8232099.jpg P8232112.jpg" >}}
 

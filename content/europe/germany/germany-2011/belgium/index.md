@@ -38,7 +38,7 @@ auto_gallery: false
 
 {{< row "P8171987.jpg P8171990.jpg" >}}
 
-{{< row "P8171993.jpg P8171991.jpg" >}}
+{{< row "P8171991.jpg" >}}
 
 {{< row "P8172006.jpg P8172007.jpg" >}}
 

@@ -2,7 +2,7 @@
   "trip": "2011 - Германия у бабушки и вокруг (Голландия, Бельгия, Швейцария, Эльзас, Бавария)",
   "archive": {
     "folder": "Europe/2011 - Германия у бабушки и до Швейцарии",
-    "scannedAt": "2026-10-09T03:20:23.642Z",
+    "scannedAt": "2026-10-09T13:03:41.949Z",
     "images": 276,
     "unused": 54,
     "bytes": 445712991,
@@ -2666,7 +2666,7 @@
     "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "longSideLimit": 2000,
     "preparedFrom": "Archived originals (archiveFile); EXIF rotation applied; no upscaling.",
-    "verifiedAt": "2026-10-09T03:20:23.642Z",
+    "verifiedAt": "2026-10-09T13:03:41.949Z",
     "photos": [
       {
         "key": "germany-2011/alsace/2011-08-22_02.15.37.jpg",
@@ -5452,7 +5452,7 @@
           "slug": "belgium",
           "file": "content/europe/germany/germany-2011/belgium/index.md",
           "route": "europe/germany/germany-2011/belgium",
-          "mdSha256": "135d3b459f90839392fae9f42c6a91b80de3a1857d46c5d8846029c87b03f41f",
+          "mdSha256": "9a7260cbba5a42c9a714961a233aeb56434a53ce5dad7d0cec8eb0cbce7c3e56",
           "keys": [
             "belgium/P8171937.jpg",
             "belgium/P8171923.jpg",
@@ -5474,7 +5474,6 @@
             "belgium/P8172018.jpg",
             "belgium/P8171987.jpg",
             "belgium/P8171990.jpg",
-            "belgium/P8171993.jpg",
             "belgium/P8171991.jpg",
             "belgium/P8172006.jpg",
             "belgium/P8172007.jpg",
@@ -5645,7 +5644,7 @@
           "slug": "switzerland-1",
           "file": "content/europe/germany/germany-2011/switzerland-1/index.md",
           "route": "europe/germany/germany-2011/switzerland-1",
-          "mdSha256": "774209aa6f5f85816d826b64e577e30396d4591f7fe9d83350147f2a6293f225",
+          "mdSha256": "4e0999e553ba80c8fe1bae250776afbb9c2f1c00ef562a8c124b96dc62de0bdb",
           "keys": [
             "switzerland-1/P8232050.jpg",
             "switzerland-1/P8232059.jpg",
@@ -5663,9 +5662,8 @@
             "switzerland-1/P8232090.jpg",
             "switzerland-1/P8232091.jpg",
             "switzerland-1/P8232093.jpg",
-            "switzerland-1/P8232097.jpg",
             "switzerland-1/P8232094.jpg",
-            "switzerland-1/P8232098.jpg",
+            "switzerland-1/P8232097.jpg",
             "switzerland-1/P8232100.jpg",
             "switzerland-1/2011_26.jpg",
             "switzerland-1/P8232099.jpg",
@@ -5705,7 +5703,7 @@
           "slug": "switzerland-2",
           "file": "content/europe/germany/germany-2011/switzerland-2/index.md",
           "route": "europe/germany/germany-2011/switzerland-2",
-          "mdSha256": "13667b05f8cd3cbd5bd62ecf2c758568ce037279a3c8dc987dadc6dea486ed73",
+          "mdSha256": "1e18e94e2bde58a2571f0f497467be28f70f5bf48ce57a0ce5a6bb4968f83f41",
           "keys": [
             "switzerland-2/P8242138.jpg",
             "switzerland-2/P8242132.jpg",
@@ -5715,7 +5713,6 @@
             "switzerland-2/P8242155.jpg",
             "switzerland-2/2011_28.jpg",
             "switzerland-2/P8242141.jpg",
-            "switzerland-2/P8242142.jpg",
             "switzerland-2/P8242137.jpg",
             "switzerland-2/P8242152.jpg",
             "switzerland-2/P8242146.jpg",
