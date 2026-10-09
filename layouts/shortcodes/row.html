@@ -49,9 +49,7 @@
 {{- end -}}
 {{- /* Keep small maps and archive illustrations at their native size. */ -}}
 {{- $nativeWidth := add (mul $minHeight $sum) (mul $gap (sub $n 1)) -}}
-{{- /* One horizontal photo always takes the full photo zone, also on low laptop screens. */ -}}
-{{- $fullWidth := and (eq $n 1) (ge $sum 1.1) -}}
-<div class="essay-group"><div class="essay-row" style="--rs:{{ $sum }};--rn:{{ sub $n 1 }}{{ if lt $nativeWidth 1080.0 }};max-width:{{ $nativeWidth }}px{{ end }}{{ if $fullWidth }};width:100%{{ end }}">
+<div class="essay-group"><div class="essay-row" style="--rs:{{ $sum }};--rn:{{ sub $n 1 }}{{ if lt $nativeWidth 1080.0 }};max-width:{{ $nativeWidth }}px{{ end }}">
 {{- range $line := $lines -}}
   {{- range $line.items -}}
     {{- $url := partial "story-photo-url.html" (dict "page" $page "name" .name) -}}
