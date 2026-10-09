@@ -51,7 +51,7 @@
 .photo-essay .essay-beside .beside-photo{flex:0 1 auto;min-width:0;padding-top:8px}
 .photo-essay .essay-beside .essay-photo{width:fit-content;max-width:100%}
 .photo-essay .essay-beside .essay-photo img{width:auto;height:auto;max-width:100%;max-height:var(--cap-h)}
-.photo-essay .essay-navigation{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;margin-top:64px;padding-top:24px;border-top:1px solid #ddd;font-size:14px;max-width:var(--text)}
+.photo-essay .essay-navigation{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;margin-top:64px;padding-top:24px;border-top:1px solid #ddd;font-size:14px}
 .photo-essay .essay-navigation a:hover{color:var(--accent)}
 .photo-essay .essay-navigation a:last-child{text-align:right}
 .photo-essay .essay-navigation .essay-toc{text-align:center}
@@ -96,7 +96,9 @@
 <header class="essay-header">
 <a class="essay-trip" href="{{ $trip.RelPermalink }}">{{ $trip.Params.cover_title | default $trip.Title }}</a>
 <h1>{{ .Title }}</h1>
-{{ with .Params.hero_image }}{{ $u := partial "story-photo-url.html" (dict "page" $ "name" . "size" "w2000") }}{{ $info := index (index site.Data.photos $trip.File.ContentBaseName | default dict) (printf "%s/%s" $.File.ContentBaseName .) | default dict }}<a class="essay-cover-link" href="{{ $u }}" data-photo-lightbox><img referrerpolicy="no-referrer" class="essay-cover" src="{{ $u }}"{{ with $info.w }} width="{{ . }}" height="{{ $info.h }}"{{ end }} alt="{{ $.Title }}" loading="eager" fetchpriority="high"></a>{{ end }}
+{{- /* hero_crop: "center 60%" — a square or upright cover shown as a horizontal 16:9 frame, cut at that position
+       (opt-in per chapter; the full photo still opens on click). */ -}}
+{{ with .Params.hero_image }}{{ $u := partial "story-photo-url.html" (dict "page" $ "name" . "size" "w2000") }}{{ $info := index (index site.Data.photos $trip.File.ContentBaseName | default dict) (printf "%s/%s" $.File.ContentBaseName .) | default dict }}<a class="essay-cover-link" href="{{ $u }}" data-photo-lightbox{{ with $.Params.hero_crop }} style="width:100%"{{ end }}><img referrerpolicy="no-referrer" class="essay-cover" src="{{ $u }}"{{ with $info.w }} width="{{ . }}" height="{{ $info.h }}"{{ end }}{{ with $.Params.hero_crop }} style="width:100%;aspect-ratio:16/9;object-fit:cover;object-position:{{ . }}"{{ end }} alt="{{ $.Title }}" loading="eager" fetchpriority="high"></a>{{ end }}
 </header>
 <div class="essay-body">{{ .Content }}</div>
 <nav class="essay-navigation" aria-label="Навигация по главам">
