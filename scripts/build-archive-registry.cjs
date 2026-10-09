@@ -7,13 +7,16 @@
 //
 // Usage: node scripts/build-archive-registry.cjs <content trip dir> "<Drive trip folder, relative to the archive root>"
 //   e.g. node scripts/build-archive-registry.cjs content/europe/portugal/portugal-spain-2016 "Europe/2016 - Португалия-Испания"
+// A trip split in two on the site but sharing one archive folder, one R2 prefix and one data/photos file (both content
+// folders have the same name, e.g. content/europe/france/christmas-2014-2015 and content/europe/belgium/christmas-2014-2015):
+// pass the second content dir after the Drive folder; its chapters join the verification baseline, the cover is the first's.
 // Needs: Google Drive for desktop on G:, ffprobe, and a fresh production build in public/ (npm run build).
 const fs = require("fs");
 const path = require("path");
 const crypto = require("crypto");
 const { execFileSync } = require("child_process");
 
-const [tripDir, driveRel] = process.argv.slice(2);
+const [tripDir, driveRel, ...moreDirs] = process.argv.slice(2);
 if (!tripDir || !driveRel) { console.error("Usage: node scripts/build-archive-registry.cjs <content trip dir> \"<Drive trip folder>\""); process.exit(1); }
 const DRIVE_ROOT = "G:/My Drive/Family Travel Blog Photos";
 const PUBLIC_BASE = "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/";
@@ -113,7 +116,9 @@ const mapLimit = async (items, n, fn) => {
   const imgs = html => [...html.matchAll(/<img\b[^>]*\bsrc=(?:"([^"]*)"|'([^']*)'|([^\s>]+))/g)].map(m => m[1] || m[2] || m[3]);
   const route = tripDir.replace(/^content\//, "").replace(/\\/g, "/");
   const chapters = [];
-  for (const ch of fs.readdirSync(tripDir).filter(d => fs.existsSync(path.join(tripDir, d, "index.md"))).sort()) {
+  for (const dir of [tripDir, ...moreDirs]) {
+  const route = dir.replace(/^content\//, "").replace(/\\/g, "/");
+  for (const ch of fs.readdirSync(dir).filter(d => fs.existsSync(path.join(dir, d, "index.md"))).sort()) {
     const file = `content/${route}/${ch}/index.md`;
     const html = fs.readFileSync(path.join("public", route, ch, "index.html"), "utf8");
     const article = html.match(/<article class=(?:"photo-essay"|photo-essay)>([\s\S]*?)<\/article>/)?.[1];
@@ -127,6 +132,7 @@ const mapLimit = async (items, n, fn) => {
       mdSha256: sha256(fs.readFileSync(file, "utf8").replace(/\r\n/g, "\n")),
       keys: srcs.filter(s => s.startsWith(prefix)).map(s => s.slice(prefix.length)),
       paragraphHashes: [...body.matchAll(/<p>([\s\S]*?)<\/p>/g)].map(m => sha256(visibleText(m[1]))) });
+  }
   }
   const cover = (fs.readFileSync(path.join(tripDir, "_index.md"), "utf8").match(/^cover_image:\s*"([^"]+)"/m) || [])[1] || "";
   const coverKey = cover.startsWith(PUBLIC_BASE + slug + "/") ? cover.slice((PUBLIC_BASE + slug + "/").length) : null;
