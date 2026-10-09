@@ -1,0 +1,50 @@
+#year-archive{padding-top:48px;padding-bottom:56px}
+#year-archive .year-intro{margin-bottom:36px}
+#year-archive .year-intro h1{font-family:Montserrat,Inter,sans-serif;font-size:clamp(30px,4vw,46px);font-weight:800;line-height:1.15;margin:0}
+#year-archive .year-intro p{color:#64748b;margin-top:12px;font-size:16px}
+#year-archive .year-timeline{position:relative;padding-left:32px}
+#year-archive .year-timeline:before{content:"";position:absolute;left:6px;top:30px;bottom:32px;width:1px;background:#cbd5e1}
+#year-archive .year-block{position:relative;border-bottom:1px solid #e2e8f0;padding:0 0 22px;margin-bottom:22px}
+#year-archive .year-block:before{content:"";position:absolute;left:-31px;top:24px;width:11px;height:11px;border-radius:50%;background:#cbd5e1;box-shadow:0 0 0 5px white}
+#year-archive .year-block.is-open:before{background:#287b78}
+#year-archive .year-heading{margin:0;font-weight:400}
+#year-archive .year-trigger{display:block;width:100%;padding:8px 0;text-align:left;background:none;border:0;color:inherit;cursor:pointer;font-family:Inter,sans-serif;font-weight:400}
+#year-archive .year-trigger:focus-visible{outline:2px solid #287b78;outline-offset:6px;border-radius:3px}
+#year-archive .year-top{display:flex;align-items:center;gap:20px}
+#year-archive .year-number{font-family:Montserrat,Inter,sans-serif;font-size:36px;line-height:1.2;font-weight:800}
+#year-archive .year-count{font-size:15px;color:#64748b}
+#year-archive .year-chevron{margin-left:auto;flex-shrink:0;transition:transform 250ms}
+#year-archive .is-open .year-chevron{transform:rotate(180deg)}
+#year-archive .year-preview{display:flex;gap:24px;align-items:center;justify-content:space-between;margin-top:14px}
+#year-archive .year-destinations{font-size:16px;line-height:1.6;color:#64748b;max-width:480px}
+#year-archive .year-thumbnails{display:flex;flex-wrap:wrap;gap:8px;flex-shrink:0;max-width:50%}
+#year-archive .year-thumb{position:relative;display:block;width:64px;aspect-ratio:1;border-radius:4px;overflow:hidden;background:#e2e8f0}
+#year-archive .year-thumb img{width:100%;height:100%;object-fit:cover}
+#year-archive .year-overflow{display:none}
+#year-archive .is-open .year-preview{display:none}
+#year-archive .year-panel{display:grid;grid-template-rows:0fr;visibility:hidden;transition:grid-template-rows 250ms ease,visibility 250ms}
+#year-archive .is-open .year-panel{grid-template-rows:1fr;visibility:visible}
+#year-archive .year-panel-inner{min-height:0;overflow:hidden}
+#year-archive .year-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;padding:20px 0 2px}
+#year-archive .trip-tile{position:relative;display:block;aspect-ratio:3/2;border-radius:4px;overflow:hidden;background:#555;color:white;isolation:isolate}
+#year-archive .trip-tile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform 1s}
+#year-archive .trip-tile:after{content:"";position:absolute;inset:0;background:linear-gradient(to top,rgba(0,0,0,.72),transparent 75%);z-index:1}
+#year-archive .trip-tile-text{position:absolute;z-index:2;left:18px;right:18px;bottom:18px;text-shadow:0 1px 12px #0006}
+#year-archive .trip-tile-title{font-family:Montserrat,Inter,sans-serif;font-weight:800;font-size:clamp(20px,2vw,28px);line-height:1.1;margin:0}
+#year-archive .trip-tile-sub{font-size:15px;line-height:1.3;margin:6px 0 0;font-weight:600}
+#year-archive .trip-tile-where,#year-archive .trip-tile-meta{display:none}
+#year-archive .trip-tile:focus-visible{outline:3px solid #287b78;outline-offset:3px}
+@media(hover:hover){#year-archive .year-trigger:hover .year-number{color:#287b78}#year-archive .trip-tile:hover img{transform:scale(1.06)}}
+@media(max-width:1023px){#year-archive .year-cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:700px){
+  #year-archive{padding-top:30px}#year-archive .year-timeline{padding-left:24px}
+  #year-archive .year-block:before{left:-23px;top:21px}#year-archive .year-top{gap:14px}
+  #year-archive .year-number{font-size:30px}#year-archive .year-count{font-size:14px}
+  #year-archive .year-preview{display:flex;flex-direction:column;align-items:flex-start;gap:12px}
+  #year-archive .year-thumbnails{max-width:100%;flex-wrap:nowrap;gap:8px}
+  #year-archive .year-thumb{width:clamp(48px,16vw,72px)}#year-archive .year-thumb-extra{display:none}
+  #year-archive .year-overflow{display:flex;position:absolute;inset:0;background:#0009;align-items:center;justify-content:center;color:white;font-size:22px;font-weight:600}
+  #year-archive .year-cards{grid-template-columns:1fr;gap:16px}
+  #year-archive .is-open .year-preview{display:none}
+}
+@media(prefers-reduced-motion:reduce){#year-archive .year-panel,#year-archive .year-chevron,#year-archive .trip-tile img{transition:none}}

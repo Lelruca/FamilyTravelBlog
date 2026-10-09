@@ -1,0 +1,55 @@
+{{- $groups := dict -}}
+{{- range where site.Pages "Params.trip_year" "!=" nil -}}
+  {{- $year := printf "%v" .Params.trip_year -}}
+  {{- $rows := index $groups $year | default (slice) -}}
+  {{- $groups = merge $groups (dict $year ($rows | append (dict "key" (.Params.trip_start | default (printf "%s-00" $year)) "page" .))) -}}
+{{- end -}}
+{{- $css := resources.Get "css/year-archive.css" | minify | fingerprint -}}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+<div id="year-archive" class="site-wrap">
+  <header class="year-intro"><h1>{{ .Title }}</h1><p>Выберите год, чтобы посмотреть путешествия</p></header>
+  <div class="year-timeline">
+  {{- $years := slice -}}{{- range $year, $_ := $groups -}}{{- $years = $years | append $year -}}{{- end -}}
+  {{ range collections.Reverse (sort $years) }}
+    {{- $year := . -}}{{- $rows := sort (index $groups $year) "key" "desc" -}}{{- $count := len $rows -}}
+    {{- $countries := slice -}}
+    {{- range $rows -}}
+      {{- $trip := .page -}}
+      {{- range $trip.Params.geo_countries -}}
+        {{- $slug := . -}}
+        {{- range slice "europe" "americas" "asia" "africa" "oceania" -}}
+          {{- with site.GetPage (printf "%s/%s" . $slug) -}}{{- $countries = $countries | append .Title -}}{{- end -}}
+        {{- end -}}
+      {{- else -}}{{- with $trip.Parent -}}{{- $countries = $countries | append .Title -}}{{- end -}}{{- end -}}
+    {{- end -}}
+    {{- $noun := "путешествий" -}}
+    {{- if and (eq (mod $count 10) 1) (ne (mod $count 100) 11) -}}{{- $noun = "путешествие" -}}
+    {{- else if and (in (slice 2 3 4) (mod $count 10)) (not (in (slice 12 13 14) (mod $count 100))) -}}{{- $noun = "путешествия" -}}{{- end -}}
+    <section class="year-block" id="year-{{ $year }}">
+      <h2 class="year-heading"><button class="year-trigger" type="button" id="year-trigger-{{ $year }}" aria-expanded="false" aria-controls="year-panel-{{ $year }}">
+        <span class="year-top"><span class="year-number">{{ $year }}</span><span class="year-count">{{ $count }} {{ $noun }}</span><svg class="year-chevron" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6" fill="none" stroke="currentColor" stroke-width="1.5"/></svg></span>
+        <span class="year-preview">
+          <span class="year-destinations">{{ delimit (uniq $countries) ", " }}</span>
+          <span class="year-thumbnails" aria-hidden="true">
+          {{ range $i, $row := $rows }}
+            {{- $trip := $row.page -}}{{- $cover := $trip.Params.cover_image | default "" -}}{{- $src := "" -}}
+            {{- if hasPrefix $cover "http" -}}{{- $src = partial "gimg.html" (dict "url" $cover "size" "w400") -}}
+            {{- else if $cover -}}{{- with $trip.Resources.GetMatch $cover -}}{{- $src = (.Fill "160x160 webp Smart").RelPermalink -}}{{- end -}}{{- end -}}
+            <span class="year-thumb{{ if ge $i 4 }} year-thumb-extra{{ end }}">
+              {{ with $src }}<img src="{{ . }}" alt="" loading="lazy" referrerpolicy="no-referrer"{{ with $trip.Params.cover_position }} style="object-position:{{ . }}"{{ end }}>{{ end }}
+              {{ if and (eq $i 3) (gt $count 4) }}<span class="year-overflow">+{{ sub $count 3 }}</span>{{ end }}
+            </span>
+          {{ end }}
+          </span>
+        </span>
+      </button></h2>
+      <div class="year-panel" id="year-panel-{{ $year }}" role="region" aria-labelledby="year-trigger-{{ $year }}" inert>
+        <div class="year-panel-inner"><div class="year-cards">{{ range $rows }}{{ partial "trip-tile.html" .page }}{{ end }}</div></div>
+      </div>
+    </section>
+  {{ end }}
+  </div>
+  <noscript><p>Для раскрытия годов включите JavaScript. Все поездки доступны на <a href="{{ site.Home.RelPermalink }}">главной странице</a>.</p></noscript>
+</div>
+{{- $js := resources.Get "js/year-archive.js" | minify | fingerprint -}}
+<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
