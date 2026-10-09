@@ -16,7 +16,7 @@ cover_position: "center 45%"
 trip_start: "2015-01"
 cover_where: "Франция, Бельгия, Германия, Голландия"
 cover_title: "Покататься по Европе"
-cover_subtitle: "Города, музеи и родня"
+cover_subtitle: "Из Альп через всю Европу на север"
 cover_when: "Зима 2014–2015"
 cover_who: "Ома, Сережа, Леля, Наташа и Митя"
 ---
