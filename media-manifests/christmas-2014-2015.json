@@ -2,10 +2,10 @@
   "trip": "2014-2015: Рождество в Европе (Альпы, Франция, Бельгия и немножко Германии и Голландии)",
   "archive": {
     "folder": "Europe/2014-2015 - Рождество в Европе",
-    "scannedAt": "2026-10-09T15:47:10.025Z",
-    "images": 367,
+    "scannedAt": "2026-10-09T19:19:25.943Z",
+    "images": 368,
     "unused": 0,
-    "bytes": 1763894193,
+    "bytes": 1767450146,
     "files": [
       {
         "archiveFile": "01 - Альпы - Европа зимой/02_20141223_165315.jpg",
@@ -3676,6 +3676,16 @@
         "siteKeys": [
           "kroller-muller/DSC02741.jpg"
         ]
+      },
+      {
+        "archiveFile": "22 - Европейские разговоры/Three Friends in a Winter Park.png",
+        "bytes": 3555953,
+        "sha256": "560a53bff81163bfc5ca8b6c24d46735bfcaefef6418cdc1146acb5813042fd4",
+        "width": 1448,
+        "height": 1086,
+        "siteKeys": [
+          "european-talks/Three_Friends_in_a_Winter_Park.jpg"
+        ]
       }
     ]
   },
@@ -3684,7 +3694,7 @@
     "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "longSideLimit": 2000,
     "preparedFrom": "Archived originals (archiveFile); EXIF rotation applied; no upscaling.",
-    "verifiedAt": "2026-10-09T15:47:10.025Z",
+    "verifiedAt": "2026-10-09T19:19:25.943Z",
     "photos": [
       {
         "key": "christmas-2014-2015/alps-final/20141224_225854.jpg",
@@ -8089,6 +8099,18 @@
         "bytes": 207311,
         "sha256": "d831bff1a958a1c48c86a34112b9a4b2d6f782d315acba3bfc0bee3c87c0ec63",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/christmas-2014-2015/relatives/DSC03860.jpg"
+      },
+      {
+        "key": "christmas-2014-2015/european-talks/Three_Friends_in_a_Winter_Park.jpg",
+        "slug": "european-talks",
+        "filename": "Three_Friends_in_a_Winter_Park.jpg",
+        "archiveFile": "22 - Европейские разговоры/Three Friends in a Winter Park.png",
+        "originalSha256": "560a53bff81163bfc5ca8b6c24d46735bfcaefef6418cdc1146acb5813042fd4",
+        "w": 1448,
+        "h": 1086,
+        "bytes": 616350,
+        "sha256": "e3f8602f70599bd86d9a3a7db4b04d8d42e0d9966a169fec349c41bb3da82d56",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/christmas-2014-2015/european-talks/Three_Friends_in_a_Winter_Park.jpg"
       }
     ],
     "verification": {
@@ -8213,25 +8235,6 @@
             "2f0ee5711550c18ec8eadb99fb6ac3c12b285cbb16af050a101af35c949fda97",
             "8c0cfb2ac7a1cd2ada674efe8582f181abf8bd3f041cec28dd70a7774038ad57",
             "5b0b00a980dbf247f43a48d6196120f5b9b1ebfe8fbcc8590b50b52a567009a0"
-          ]
-        },
-        {
-          "slug": "european-talks",
-          "file": "content/europe/france/christmas-2014-2015/european-talks/index.md",
-          "route": "europe/france/christmas-2014-2015/european-talks",
-          "mdSha256": "b5a88d169ee0fe22bc9ee57d8e41fc6e8de016c2a7bf7f935713f047be410f1c",
-          "keys": [],
-          "paragraphHashes": [
-            "a9ee0ed61bb0d102f2fb5960550fbaa80b7f36e3e1bb95572aace0d9ee868067",
-            "ccc5bff6703a26ac4767c7aa9ba635bc1c60f8117e7582d6f7d13c507712e7a9",
-            "d74db098935d1e2749833ccbe4d2bedf50d8fd572a4cf40029a328cbaf020f8f",
-            "505afa362b6c06c292d300013a2833b25a74418c6f04a6137708fa5c54c1294f",
-            "c5adce420088407dd44bbea25839421afb3479f9609341287d4820076af5b2ba",
-            "d52bee4fa4891d37c2b1160241d697db75917b39cfb0817fe39b391ce7bb86fc",
-            "84086cd29cee6797e1e00514ed2ce64b2a50bafc4a6bcb208b849ab2702c58aa",
-            "0b21808f153744eb39f5b6ab169afa83329c618a95e866a064d617c4492c623c",
-            "0b99298aa2e182f87ea1fc765e3b7262fc668de0b462de8032b42d91fed7d41d",
-            "1289c9215f921ad9be2e795345c4ff716e71e5b77c6a5f791e548b97a4335f75"
           ]
         },
         {
@@ -8538,6 +8541,27 @@
             "4f1d87054909a4b35f0c4017352f84dd4a47f79cb49467065af4d0b87127061c",
             "3309da4eb8a1379d48fd9dabfe8c9194b288dee9e481e12828e7220e9bce626e",
             "bb7b9415528acfee205aa9e62552f3c6a36d0c056418a329a514daf0efe17562"
+          ]
+        },
+        {
+          "slug": "european-talks",
+          "file": "content/europe/belgium/christmas-2014-2015/european-talks/index.md",
+          "route": "europe/belgium/christmas-2014-2015/european-talks",
+          "mdSha256": "bdf73a45e70266ddb188feba2ca0789b3529c82bce9e274a5301df6ec47af985",
+          "keys": [
+            "european-talks/Three_Friends_in_a_Winter_Park.jpg"
+          ],
+          "paragraphHashes": [
+            "a9ee0ed61bb0d102f2fb5960550fbaa80b7f36e3e1bb95572aace0d9ee868067",
+            "ccc5bff6703a26ac4767c7aa9ba635bc1c60f8117e7582d6f7d13c507712e7a9",
+            "d74db098935d1e2749833ccbe4d2bedf50d8fd572a4cf40029a328cbaf020f8f",
+            "505afa362b6c06c292d300013a2833b25a74418c6f04a6137708fa5c54c1294f",
+            "c5adce420088407dd44bbea25839421afb3479f9609341287d4820076af5b2ba",
+            "d52bee4fa4891d37c2b1160241d697db75917b39cfb0817fe39b391ce7bb86fc",
+            "84086cd29cee6797e1e00514ed2ce64b2a50bafc4a6bcb208b849ab2702c58aa",
+            "0b21808f153744eb39f5b6ab169afa83329c618a95e866a064d617c4492c623c",
+            "0b99298aa2e182f87ea1fc765e3b7262fc668de0b462de8032b42d91fed7d41d",
+            "1289c9215f921ad9be2e795345c4ff716e71e5b77c6a5f791e548b97a4335f75"
           ]
         },
         {
@@ -8893,5 +8917,21 @@
         }
       ]
     }
-  }
+  },
+  "photos": [
+    {
+      "chapter": 22,
+      "chapterTitle": "Европейские разговоры...",
+      "folder": "22 - Европейские разговоры",
+      "order": 1,
+      "originalFilename": "Three Friends in a Winter Park.png",
+      "filename": "Three_Friends_in_a_Winter_Park.jpg",
+      "archiveFile": "22 - Европейские разговоры/Three Friends in a Winter Park.png",
+      "bytes": 3555953,
+      "sha256": "560a53bff81163bfc5ca8b6c24d46735bfcaefef6418cdc1146acb5813042fd4",
+      "status": "owner-added",
+      "displayLocation": "chapter-hero",
+      "driveFileId": "1PCNrQBDTSkCI_q5ZcVs9aV2FpCAGymb5"
+    }
+  ]
 }
