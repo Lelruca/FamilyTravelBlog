@@ -16,7 +16,7 @@ cover_position: "center 45%"
 trip_start: "2015-01"
 cover_where: "Франция, Бельгия, Германия, Голландия"
 cover_title: "Европа зимой"
-cover_subtitle: "Нестандартный маршрут"
+cover_subtitle: "Неожиданный маршрут"
 cover_when: "Зима 2014–2015"
 cover_who: "Ома, Сережа, Леля, Наташа и Митя"
 ---
