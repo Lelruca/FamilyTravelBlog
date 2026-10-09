@@ -4,6 +4,7 @@ chapter_kind: "preparation"
 layout: "photo-story"
 weight: 10
 auto_gallery: false
+hero_image: "Tourist_Checking_Camera_in_Parisian_Plaza.jpg"
 ---
 
 <p>Когда берешься за какое-то новое дело и оно удачно получается с первого раза, то начинаешь невольно думать что это «проще простого» или что у тебя это хорошо получается :-)</p>

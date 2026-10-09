@@ -4,7 +4,7 @@
     {
       "title": "Европа 2012 - планирование",
       "folder": "01-planning",
-      "photos": 0,
+      "photos": 1,
       "archiveFolder": "01 - Планирование"
     },
     {
@@ -2246,6 +2246,20 @@
       "sha256": "ca85cf63885104720e571ed51d49d85824aeb01c7e2f9364173730d86d68ed63",
       "archiveFile": "08 - День 7 - Chambord, Фонтембло/23_IMG_1776.JPG",
       "driveId": "1mIxibaBfcHxHrUjS9RkxbFJ8aoz7DBQR"
+    },
+    {
+      "chapter": "Европа 2012 - планирование",
+      "chapterFolder": "01-planning",
+      "positionInChapter": 1,
+      "selectedBy": "owner",
+      "originalName": "Tourist Checking Camera in Parisian Plaza.png",
+      "archiveFile": "01 - Планирование/01_Tourist Checking Camera in Parisian Plaza.png",
+      "width": 1444,
+      "height": 1089,
+      "bytes": 2379844,
+      "sha256": "56a3188e4ed303a308fdec251e5cb52a4896c2cea7e284f3a44cfe8b7ea982af",
+      "driveId": "1hBProhrMLaxbkR8crKlPHZdtpDoAOa-8",
+      "siteKey": "planning/Tourist_Checking_Camera_in_Parisian_Plaza.jpg"
     }
   ],
   "r2": {
@@ -2253,7 +2267,7 @@
     "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "longSideLimit": 2000,
     "preparedFrom": "Archived originals (archiveFile); EXIF rotation applied; no upscaling.",
-    "verifiedAt": "2026-10-09T13:08:09.460Z",
+    "verifiedAt": "2026-10-09T13:25:12.936Z",
     "photos": [
       {
         "key": "france-2012/cadre-noir-loire/CADRE_NOIR_3.jpg",
@@ -3780,6 +3794,18 @@
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/france-2012/paris-2/IMG_1111.jpg"
       },
       {
+        "key": "france-2012/planning/Tourist_Checking_Camera_in_Parisian_Plaza.jpg",
+        "slug": "planning",
+        "filename": "Tourist_Checking_Camera_in_Parisian_Plaza.jpg",
+        "archiveFile": "01 - Планирование/01_Tourist Checking Camera in Parisian Plaza.png",
+        "originalSha256": "56a3188e4ed303a308fdec251e5cb52a4896c2cea7e284f3a44cfe8b7ea982af",
+        "w": 1444,
+        "h": 1089,
+        "bytes": 400182,
+        "sha256": "1ab8415eb78fecb1597abe93be61dd7333d37c348c046bb8c2181e30d667a36c",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/france-2012/planning/Tourist_Checking_Camera_in_Parisian_Plaza.jpg"
+      },
+      {
         "key": "france-2012/puy-du-fou/IMG_1424.jpg",
         "slug": "puy-du-fou",
         "filename": "IMG_1424.jpg",
@@ -4305,8 +4331,10 @@
           "slug": "planning",
           "file": "content/europe/france/france-2012/planning/index.md",
           "route": "europe/france/france-2012/planning",
-          "mdSha256": "39818d847140eb1ac28e417fda3739bcc7705481ee2024c66cbabf245de7c118",
-          "keys": [],
+          "mdSha256": "3da2265dfb0f6eef97778e37fe405c9e5569f83c09aa34ced666d8597677aa5b",
+          "keys": [
+            "planning/Tourist_Checking_Camera_in_Parisian_Plaza.jpg"
+          ],
           "paragraphHashes": [
             "bc5b1e0815603301ca22c1af7ad12afb6ed68896084b635883614bbbc3334d46",
             "a26929011a594d6023c2392ce2eddaaadf80738fa642911aed5cd5b9c9600079"
@@ -4355,11 +4383,21 @@
   },
   "archive": {
     "folder": "Europe/2012 - Франция",
-    "scannedAt": "2026-10-09T13:08:09.460Z",
-    "images": 146,
+    "scannedAt": "2026-10-09T13:25:12.936Z",
+    "images": 147,
     "unused": 0,
-    "bytes": 423606277,
+    "bytes": 425986121,
     "files": [
+      {
+        "archiveFile": "01 - Планирование/01_Tourist Checking Camera in Parisian Plaza.png",
+        "bytes": 2379844,
+        "sha256": "56a3188e4ed303a308fdec251e5cb52a4896c2cea7e284f3a44cfe8b7ea982af",
+        "width": 1444,
+        "height": 1089,
+        "siteKeys": [
+          "planning/Tourist_Checking_Camera_in_Parisian_Plaza.jpg"
+        ]
+      },
       {
         "archiveFile": "02 - День 1 - Париж/01_IMG_0925.JPG",
         "bytes": 2518169,
