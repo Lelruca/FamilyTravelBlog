@@ -1,34 +1,51 @@
-﻿{{ define "main" }}
-<div class="max-w-5xl mx-auto px-4 py-12">
-  {{ partial "breadcrumbs.html" . }}
-  <h1 class="font-serif text-4xl font-bold text-neutral-900 mb-10">{{ .Title }}</h1>
-  {{- $continents := slice "europe" "americas" "asia" "africa" "oceania" "australia" -}}
-  {{- $flags := dict "belgium" "🇧🇪" "france" "🇫🇷" "germany" "🇩🇪" "netherlands" "🇳🇱" "portugal" "🇵🇹" "spain" "🇪🇸" "switzerland" "🇨🇭" "england" "🇬🇧" "canada" "🇨🇦" "usa" "🇺🇸" "mexico" "🇲🇽" "japan" "🇯🇵" -}}
-  {{- range $continents -}}
-    {{- with site.GetPage . -}}
-    {{- if .Sections -}}
-    <section class="mb-12">
-      <h2 class="font-serif text-2xl font-semibold mb-6"><a href="{{ .RelPermalink }}" class="hover:text-accent transition-colors">{{ .Title }}</a></h2>
-      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-        {{- range sort .Sections "Title" -}}
-        {{- $countryKey := .File.ContentBaseName -}}
-        {{- $trips := .Sections -}}
-        {{- range site.Pages -}}
-          {{- if and .Params.trip_year (in (.Params.geo_countries | default (slice)) $countryKey) -}}
-            {{- $trips = $trips | append . -}}
+{{ define "main" }}
+{{- $countries := slice -}}
+{{- $allTrips := slice -}}
+{{- $regions := dict "europe" "Европа" "americas" "Северная Америка" "asia" "Азия" "africa" "Африка" "oceania" "Австралия и Океания" -}}
+{{- range slice "europe" "americas" "asia" "africa" "oceania" -}}
+  {{- $region := index $regions . -}}
+  {{- with site.GetPage . -}}
+    {{- range sort .Sections "Title" -}}
+      {{- $key := .File.ContentBaseName -}}
+      {{- $pages := .Sections -}}
+      {{- range site.Pages -}}
+        {{- if and .Params.trip_year (in (.Params.geo_countries | default (slice)) $key) -}}
+          {{- $pages = $pages | append . -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $trips := slice -}}
+      {{- range sort (uniq $pages) "Params.trip_year" "desc" -}}
+        {{- if .Params.trip_year -}}
+          {{- $allTrips = $allTrips | append .RelPermalink -}}
+          {{- $cover := .Params.cover_image | default "" -}}
+          {{- $image := $cover -}}
+          {{- if and $cover (not (hasPrefix $cover "http")) -}}
+            {{- with .Resources.GetMatch $cover -}}{{- $image = (.Resize "1200x webp").RelPermalink -}}{{- end -}}
           {{- end -}}
+          {{- $trips = $trips | append (dict "title" (.Params.cover_title | default .Title) "year" .Params.trip_year "image" $image "position" (.Params.cover_position | default "center") "url" .RelPermalink) -}}
         {{- end -}}
-        {{- $count := len (uniq $trips) -}}
-        <a href="{{ .RelPermalink }}" class="p-4 rounded-lg border border-neutral-200 hover:border-accent hover:text-accent transition-colors font-medium">
-          <span class="block text-2xl mb-2" aria-hidden="true">{{ index $flags $countryKey | default "📍" }}</span>
-          {{ .Title }}
-          <span class="block text-xs text-neutral-400 font-normal mt-1">{{ $count }} {{ $m10 := mod $count 10 }}{{ $m100 := mod $count 100 }}{{ if and (eq $m10 1) (ne $m100 11) }}поездка{{ else if and (ge $m10 2) (le $m10 4) (or (lt $m100 12) (gt $m100 14)) }}поездки{{ else }}поездок{{ end }}</span>
-        </a>
-        {{- end -}}
-      </div>
-    </section>
-    {{- end -}}
+      {{- end -}}
+      {{- $countries = $countries | append (dict "key" $key "title" .Title "region" $region "url" .RelPermalink "trips" $trips) -}}
     {{- end -}}
   {{- end -}}
+{{- end -}}
+{{- $css := resources.Get "css/country-atlas.css" | minify | fingerprint -}}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+<div id="country-explorer" data-flags="{{ "flags/" | relURL }}">
+<script type="application/json" id="country-atlas-data">{{ dict "countries" $countries "trips" (len (uniq $allTrips)) | jsonify | safeJS }}</script>
+
+{{ partial "breadcrumbs.html" . }}<div class="intro"><div><h1>{{ .Title }}</h1><p>Наши путешествия на карте мира</p></div><div class="stats" id="stats"></div></div>
+<section class="atlas" aria-label="Карта путешествий"><div class="maparea"><div class="toolbar" aria-label="Область карты"><button type="button" class="active" data-view="world" aria-pressed="true">Все страны</button><button data-view="europe" aria-pressed="false">Европа</button><button data-view="americas" aria-pressed="false">Северная Америка</button><button type="button" data-view="asia" aria-pressed="false">Азия</button><button type="button" data-view="africa" aria-pressed="false">Африка</button><button type="button" data-view="south" aria-pressed="false">Южная Америка</button><button type="button" data-view="oceania" aria-pressed="false">Австралия и Океания</button></div>{{ partial "travel-world-map.html" . }}<div class="legend"><span><i class="dot"></i>Здесь мы были</span><span>Выберите континент на карте</span></div></div><aside class="detail" id="detail" aria-live="polite" hidden></aside></section>
+<section class="directory"><div class="directory-top"><h2>Все страны</h2></div><div class="groups" id="groups" aria-live="polite"></div></section><div class="credit">Основа карты: <a href="https://github.com/nvkelso/natural-earth-vector">Natural Earth</a></div>
+<noscript>
+  <h2>Страны</h2>
+  <div class="group"><div class="rows">
+  {{ range $countries }}
+    <a class="country" href="{{ .url }}"><span>{{ .title }}</span><small>{{ len .trips }} поездок</small></a>
+  {{ end }}
+  </div></div>
+</noscript>
 </div>
+{{- $js := resources.Get "js/country-atlas.js" | minify | fingerprint -}}
+<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
 {{ end }}
