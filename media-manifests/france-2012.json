@@ -2379,7 +2379,7 @@
     "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "longSideLimit": 2000,
     "preparedFrom": "Archived originals (archiveFile); EXIF rotation applied; no upscaling.",
-    "verifiedAt": "2026-10-09T13:35:56.029Z",
+    "verifiedAt": "2026-10-09T13:56:29.812Z",
     "photos": [
       {
         "key": "france-2012/cadre-noir-loire/CADRE_NOIR_3.jpg",
@@ -4458,13 +4458,13 @@
           "slug": "paris-1",
           "file": "content/europe/france/france-2012/paris-1/index.md",
           "route": "europe/france/france-2012/paris-1",
-          "mdSha256": "79b82d7d73109141463dc34e09837a2219f1f1483b038b18f7000b0cad3d197f",
+          "mdSha256": "5578acbad6973bff9627164cc8db07c98d4ad13f63dd00401621964bb37fd7cd",
           "keys": [
             "paris-1/IMG_0877.jpg",
-            "paris-1/IMG_0839.jpg",
             "paris-1/IMG_0837.jpg",
-            "paris-1/IMG_0842.jpg",
+            "paris-1/IMG_0839.jpg",
             "paris-1/IMG_0869.jpg",
+            "paris-1/IMG_0842.jpg",
             "paris-1/IMG_0847.jpg",
             "paris-1/IMG_0871.jpg",
             "paris-1/IMG_0872.jpg",
@@ -4599,7 +4599,7 @@
   },
   "archive": {
     "folder": "Europe/2012 - Франция",
-    "scannedAt": "2026-10-09T13:35:56.029Z",
+    "scannedAt": "2026-10-09T13:56:29.812Z",
     "images": 155,
     "unused": 0,
     "bytes": 447718756,
