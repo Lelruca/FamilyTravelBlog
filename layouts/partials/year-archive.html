@@ -1,5 +1,12 @@
 {{- $groups := dict -}}
 {{- range where site.Pages "Params.trip_year" "!=" nil -}}
+  {{- $start := .Params.trip_start | default "" -}}
+  {{- $end := .Params.trip_end | default "" -}}
+  {{- if or (not (findRE `^[0-9]{4}-(0[1-9]|1[0-2])$` $start)) (not (findRE `^[0-9]{4}-(0[1-9]|1[0-2])$` $end)) -}}
+    {{- errorf "Trip %s requires trip_start and trip_end in YYYY-MM format" .RelPermalink -}}
+  {{- else if gt $start $end -}}
+    {{- errorf "Trip %s ends before it starts" .RelPermalink -}}
+  {{- end -}}
   {{- $year := printf "%v" .Params.trip_year -}}
   {{- $rows := index $groups $year | default (slice) -}}
   {{- $groups = merge $groups (dict $year ($rows | append (dict "key" (.Params.trip_start | default (printf "%s-00" $year)) "page" .))) -}}

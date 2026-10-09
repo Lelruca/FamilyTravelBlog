@@ -16,7 +16,8 @@ cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-2011/o
 cover_position: "center 32%"
 accent_color: "#5f7d4f"
 # надписи на плитке главной и обложке поездки; title поездки не меняется
-trip_start: "2011-07"
+trip_start: "2011-08"
+trip_end: "2011-08"
 cover_where: "Германия, Голландия, Бельгия, Англия, Швейцария, Эльзас, Бавария"
 cover_title: "Первый автопробег по Европе!"
 cover_subtitle: "Лето у бабушки"

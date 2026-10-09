@@ -10,6 +10,7 @@ geo_countries:
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/new-england-2015/cover/DSC04370.JPG"
 # надписи на плитке главной и обложке поездки; title поездки не меняется
 trip_start: "2015-08"
+trip_end: "2015-08"
 cover_where: "США: Новая Англия"
 cover_title: "Наше освоение Новой Англии"
 cover_when: "Лето 2015"

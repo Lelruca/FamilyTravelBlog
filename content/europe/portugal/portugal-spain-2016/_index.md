@@ -13,6 +13,7 @@ cover_position: "center 55%"
 accent_color: "#2f6f8f"
 # надписи на плитке главной и обложке поездки; title поездки не меняется
 trip_start: "2016-08"
+trip_end: "2016-09"
 cover_where: "Португалия, Испания"
 cover_title: "Португалия-Испания"
 cover_subtitle: "Двухнедельное знакомство"

@@ -11,6 +11,7 @@ cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/christmas-2014
 cover_position: "center 40%"
 # надписи на плитке главной и обложке поездки
 trip_start: "2014-12"
+trip_end: "2015-01"
 cover_where: "Франция (Альпы)"
 cover_title: "Рождество в Альпах"
 cover_subtitle: "У Кати на лыжах"

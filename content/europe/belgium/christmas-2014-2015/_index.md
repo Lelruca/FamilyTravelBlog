@@ -13,7 +13,8 @@ geo_countries:
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/christmas-2014-2015/beaune/DSC03228.jpg"
 cover_position: "center 45%"
 # надписи на плитке главной и обложке поездки
-trip_start: "2015-01"
+trip_start: "2014-12"
+trip_end: "2015-01"
 cover_where: "Франция, Бельгия, Германия, Голландия"
 cover_title: "Европа зимой"
 cover_subtitle: "Неожиданный маршрут"
