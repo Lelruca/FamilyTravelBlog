@@ -31,7 +31,7 @@
       {{- $state.Set "country" .country -}}
     {{- end }}
     <details data-place-item data-slug="{{ .slug }}" data-country="{{ .country }}" data-search="{{ .title }} {{ .slug }}"{{ with .geo }} data-lat="{{ .lat }}" data-lon="{{ .lon }}"{{ end }}>
-      <summary aria-haspopup="dialog"><span><span class="place-title">{{ index (split .title ", ") 0 }}</span><span class="place-context">{{ $trips := slice }}{{ range .page.Pages }}{{ $trips = $trips | append (partial "place-trip-context.html" .) }}{{ end }}{{ delimit (uniq $trips) " / " }}</span></span><span aria-hidden="true" class="place-arrow">›</span></summary>
+      <summary aria-haspopup="dialog"><span class="place-title">{{ index (split .title ", ") 0 }}</span><span aria-hidden="true" class="place-arrow">›</span></summary>
       <div class="place-detail-content">{{ partial "place-chapters.html" .page }}<a class="place-permalink" href="{{ .page.RelPermalink }}">Ссылка на это место</a></div>
     </details>
   {{- end }}
