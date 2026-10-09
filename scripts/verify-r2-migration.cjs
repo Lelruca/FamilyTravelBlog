@@ -26,6 +26,8 @@ async function page(route) {
     const manifest = JSON.parse(fs.readFileSync(`media-manifests/${trip}.json`, 'utf8'));
     const registry = JSON.parse(fs.readFileSync(`data/photos/${trip}.json`, 'utf8'));
     const r2 = manifest.r2;
+    const redesignPath = `data/redesign/${trip}.json`;
+    const redesign = fs.existsSync(redesignPath) ? JSON.parse(fs.readFileSync(redesignPath, 'utf8')) : null;
     assert.ok(r2?.verification, `No migration baseline: ${trip}`);
     assert.equal(Object.keys(registry).length, r2.photos.length);
     assert.ok(Object.values(registry).every(p => !p.url), `Active external photo override: ${trip}`);
@@ -33,15 +35,26 @@ async function page(route) {
     let photos = 0;
     for (const chapter of r2.verification.chapters) {
       // Git checkouts on Windows use CRLF; the recorded source digest uses LF.
-      assert.equal(hash(fs.readFileSync(chapter.file, 'utf8').replace(/\r\n/g, '\n')), chapter.mdSha256, `Source chapter changed: ${chapter.file}`);
+      const source = fs.readFileSync(chapter.file, 'utf8').replace(/\r\n/g, '\n');
+      if (redesign) {
+        const baseline = redesign.chapters[chapter.file];
+        assert.equal(source.match(/^title:.*$/m)[0], baseline.title, `Author title changed: ${chapter.file}`);
+        assert.deepEqual([...source.matchAll(/<p>([\s\S]*?)<\/p>/g)].map(m => hash(m[1])), baseline.paragraphs, `Verbatim source paragraphs changed: ${chapter.file}`);
+      } else {
+        assert.equal(hash(source), chapter.mdSha256, `Source chapter changed: ${chapter.file}`);
+      }
       const html = await page(chapter.route);
       const article = html.match(/<article class=(?:"photo-essay"|photo-essay)>([\s\S]*?)<\/article>/)?.[1];
       const body = html.match(/<div class=(?:"essay-body"|essay-body)>([\s\S]*?)<\/div>\s*<nav/)?.[1];
       assert.ok(article && body, `Missing chapter layout: ${chapter.route}`);
       const actualText = [...body.matchAll(/<p>([\s\S]*?)<\/p>/g)].map(m => hash(visibleText(m[1])));
       assert.deepEqual(actualText, chapter.paragraphHashes, `Visible author text changed: ${chapter.route}`);
-      const expectedURLs = chapter.keys.map(k => `${r2.publicBase}${trip}/${k}`);
-      assert.deepEqual(urls(article), expectedURLs, `Photo order or URL changed: ${chapter.route}`);
+      const additionalKeys = redesign?.chapters[chapter.file]?.additionalPhotoKeys || [];
+      for (const key of additionalKeys) {
+        assert.ok(registry[key] && r2.photos.some(p => p.key === `${trip}/${key}`), `Unregistered reused photo: ${trip}/${key}`);
+      }
+      const expectedURLs = [...chapter.keys, ...additionalKeys].map(k => `${r2.publicBase}${trip}/${k}`);
+      assert.deepEqual(redesign ? urls(article).sort() : urls(article), redesign ? expectedURLs.sort() : expectedURLs, `Photo composition or URL changed: ${chapter.route}`);
       paragraphs += actualText.length;
       photos += expectedURLs.length;
     }

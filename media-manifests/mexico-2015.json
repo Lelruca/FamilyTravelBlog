@@ -5652,6 +5652,118 @@
         "sha256": "20c208a076c1073130b70c27a7b63db23c2bae98aeccd701a8eded2332ab2b82",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/mexico-2015/resort/20150709_122802.jpg",
         "driveId": "1jfyuC15VRGIBMhPkBA0qV7EtpAHS3bHI"
+      },
+      {
+        "key": "mexico-2015/resort/20150706_191921.jpg",
+        "slug": "resort",
+        "filename": "20150706_191921.jpg",
+        "archiveFile": "02 - Прелести пакетного отдыха/19a_20150706_191921.jpg",
+        "originalSha256": "0503d2fcd284bfa15b7e5d2fcdb1be7f1ea2cd166c44b32b08e2e275b4f9f98c",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 523813,
+        "sha256": "a4ba113436adb18149c4ecf7c23649de6b21352e2a0c378bf81a880e5a3c8878",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/mexico-2015/resort/20150706_191921.jpg",
+        "driveId": "1P2ddYNYI7Ivt7ZdGusfy1xj6PdFV-GlG",
+        "verifiedAt": "2026-10-09T02:54:09.765Z"
+      },
+      {
+        "key": "mexico-2015/resort/20150709_204340.jpg",
+        "slug": "resort",
+        "filename": "20150709_204340.jpg",
+        "archiveFile": "02 - Прелести пакетного отдыха/31a_20150709_204340.jpg",
+        "originalSha256": "9856f6621e6c5ad7df6e4fcf85742bccb0494555df4ac2d188e7034a95e3fa09",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 342676,
+        "sha256": "b7bfe859b9cc3d75501ecf04ea81fb88afe7b5530a35936b16a559dff9370913",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/mexico-2015/resort/20150709_204340.jpg",
+        "driveId": "1REZWexTEOQxJwk9Gy5tkTgZlKIdfoAWz",
+        "verifiedAt": "2026-10-09T02:54:09.765Z"
+      },
+      {
+        "key": "mexico-2015/resort/20150709_204353.jpg",
+        "slug": "resort",
+        "filename": "20150709_204353.jpg",
+        "archiveFile": "02 - Прелести пакетного отдыха/31b_20150709_204353.jpg",
+        "originalSha256": "789ea491b0658434adf1535782536d2cb1012e51db21eec714d4fd60a8fe4870",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 360686,
+        "sha256": "569a7230fb0d7b3f6ccc209dbef4e2913f6db511d0f0d8986074eed781702269",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/mexico-2015/resort/20150709_204353.jpg",
+        "driveId": "14qzMGqwTDvcgsiI4bl0kHKQTg5rlGjaQ",
+        "verifiedAt": "2026-10-09T02:54:09.765Z"
+      },
+      {
+        "key": "mexico-2015/resort/20150709_204439.jpg",
+        "slug": "resort",
+        "filename": "20150709_204439.jpg",
+        "archiveFile": "02 - Прелести пакетного отдыха/31c_20150709_204439.jpg",
+        "originalSha256": "80c1234b26c630e66fd11f66299ea370580475a2831804b5c496f47778499efe",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 361184,
+        "sha256": "05daa2ac16a5f0e3fd37dc8709df037b6a1c3bf427c70fcab81716d39d8a2a7d",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/mexico-2015/resort/20150709_204439.jpg",
+        "driveId": "1SjR1aLCqGso4gpUgtUmJwEbg6NdjxEtl",
+        "verifiedAt": "2026-10-09T02:54:09.765Z"
+      },
+      {
+        "key": "mexico-2015/resort/20150709_204540.jpg",
+        "slug": "resort",
+        "filename": "20150709_204540.jpg",
+        "archiveFile": "02 - Прелести пакетного отдыха/31d_20150709_204540.jpg",
+        "originalSha256": "e1bc7d1e232a6affc613e824d5820b4df6e0b6195ba3ec2f9b0713acefec9377",
+        "w": 1920,
+        "h": 1080,
+        "bytes": 480448,
+        "sha256": "e1bc7d1e232a6affc613e824d5820b4df6e0b6195ba3ec2f9b0713acefec9377",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/mexico-2015/resort/20150709_204540.jpg",
+        "driveId": "1K-H3gcYem-68vPv2ubRH7tHsyBfOYojl",
+        "verifiedAt": "2026-10-09T02:54:09.765Z"
+      },
+      {
+        "key": "mexico-2015/cenote-ek-balam/20150710_115715.jpg",
+        "slug": "cenote-ek-balam",
+        "filename": "20150710_115715.jpg",
+        "archiveFile": "06 - Сенот и Эк Балан, заключение/16a_20150710_115715.jpg",
+        "originalSha256": "4526d7f34d5cdee538304fcce3153b58cafd3535165bc6cdf680b0a1528141f9",
+        "w": 1920,
+        "h": 1080,
+        "bytes": 430480,
+        "sha256": "4526d7f34d5cdee538304fcce3153b58cafd3535165bc6cdf680b0a1528141f9",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/mexico-2015/cenote-ek-balam/20150710_115715.jpg",
+        "driveId": "1Cur6nEQZ-QXnCHwPsjUyuji9vwxSNi-c",
+        "verifiedAt": "2026-10-09T02:54:09.765Z"
+      },
+      {
+        "key": "mexico-2015/cenote-ek-balam/20150710_130740.jpg",
+        "slug": "cenote-ek-balam",
+        "filename": "20150710_130740.jpg",
+        "archiveFile": "06 - Сенот и Эк Балан, заключение/16b_20150710_130740.jpg",
+        "originalSha256": "ad15f9d29c5163b2726d03d310e9b72b11c346365341f36ac5a6c8bdc8c55c6d",
+        "w": 1920,
+        "h": 1080,
+        "bytes": 411770,
+        "sha256": "ad15f9d29c5163b2726d03d310e9b72b11c346365341f36ac5a6c8bdc8c55c6d",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/mexico-2015/cenote-ek-balam/20150710_130740.jpg",
+        "driveId": "11Nk4oCywArsvihtxp37BBEEYTWjvAWEj",
+        "verifiedAt": "2026-10-09T02:54:09.765Z"
+      },
+      {
+        "key": "mexico-2015/cenote-ek-balam/20150710_130940.jpg",
+        "slug": "cenote-ek-balam",
+        "filename": "20150710_130940.jpg",
+        "archiveFile": "06 - Сенот и Эк Балан, заключение/16c_20150710_130940.jpg",
+        "originalSha256": "c2148b4c4e776e217e06ba88c3a8a2ee1126f5b47cb3375366c962acac525fb8",
+        "w": 1920,
+        "h": 1080,
+        "bytes": 440993,
+        "sha256": "c2148b4c4e776e217e06ba88c3a8a2ee1126f5b47cb3375366c962acac525fb8",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/mexico-2015/cenote-ek-balam/20150710_130940.jpg",
+        "driveId": "1v9-chXeAVFlHLDVOgdJeuCZTOSp-qoZg",
+        "verifiedAt": "2026-10-09T02:54:09.765Z"
       }
     ],
     "verification": {
@@ -5944,5 +6056,247 @@
         }
       ]
     }
-  }
+  },
+  "ownerAdditions": [
+    {
+      "filename": "20150706_191921.jpg",
+      "bytes": 5319234,
+      "sha256": "0503d2fcd284bfa15b7e5d2fcdb1be7f1ea2cd166c44b32b08e2e275b4f9f98c",
+      "w": 5312,
+      "h": 2988,
+      "originalFilename": "20150706_191921.jpg",
+      "archiveFile": "02 - Прелести пакетного отдыха/19a_20150706_191921.jpg",
+      "chapterFolder": "02 - Прелести пакетного отдыха",
+      "chapterSlug": "resort",
+      "proposedSiteKey": "resort/20150706_191921.jpg",
+      "placement": "Ужин: рядом с 20150706_191906.jpg",
+      "status": "added-to-site",
+      "cloudSync": {
+        "checkedAt": "2026-10-09T02:54:09.765Z",
+        "evidence": "DriveFS synced cloud item ID, matching parent chapter and original byte size",
+        "cloudMetadataBytes": 5319234,
+        "parentDriveId": "1Y4N_kJwAq3tHHyF3FD3WkOXiTrVcLu1O"
+      },
+      "driveId": "1P2ddYNYI7Ivt7ZdGusfy1xj6PdFV-GlG",
+      "r2Key": "mexico-2015/resort/20150706_191921.jpg",
+      "display": {
+        "w": 2000,
+        "h": 1125,
+        "bytes": 523813,
+        "sha256": "a4ba113436adb18149c4ecf7c23649de6b21352e2a0c378bf81a880e5a3c8878"
+      }
+    },
+    {
+      "filename": "20150709_204340.jpg",
+      "bytes": 3648442,
+      "sha256": "9856f6621e6c5ad7df6e4fcf85742bccb0494555df4ac2d188e7034a95e3fa09",
+      "w": 5312,
+      "h": 2988,
+      "originalFilename": "20150709_204340.jpg",
+      "archiveFile": "02 - Прелести пакетного отдыха/31a_20150709_204340.jpg",
+      "chapterFolder": "02 - Прелести пакетного отдыха",
+      "chapterSlug": "resort",
+      "proposedSiteKey": "resort/20150709_204340.jpg",
+      "placement": "Вечер мохито: после абзаца о дегустации",
+      "status": "added-to-site",
+      "cloudSync": {
+        "checkedAt": "2026-10-09T02:54:09.765Z",
+        "evidence": "DriveFS synced cloud item ID, matching parent chapter and original byte size",
+        "cloudMetadataBytes": 3648442,
+        "parentDriveId": "1Y4N_kJwAq3tHHyF3FD3WkOXiTrVcLu1O"
+      },
+      "driveId": "1REZWexTEOQxJwk9Gy5tkTgZlKIdfoAWz",
+      "r2Key": "mexico-2015/resort/20150709_204340.jpg",
+      "display": {
+        "w": 2000,
+        "h": 1125,
+        "bytes": 342676,
+        "sha256": "b7bfe859b9cc3d75501ecf04ea81fb88afe7b5530a35936b16a559dff9370913"
+      }
+    },
+    {
+      "filename": "20150709_204353.jpg",
+      "bytes": 3436879,
+      "sha256": "789ea491b0658434adf1535782536d2cb1012e51db21eec714d4fd60a8fe4870",
+      "w": 5312,
+      "h": 2988,
+      "originalFilename": "20150709_204353.jpg",
+      "archiveFile": "02 - Прелести пакетного отдыха/31b_20150709_204353.jpg",
+      "chapterFolder": "02 - Прелести пакетного отдыха",
+      "chapterSlug": "resort",
+      "proposedSiteKey": "resort/20150709_204353.jpg",
+      "placement": "Вечер мохито: вместе с Наташей и семейным кадром",
+      "status": "added-to-site",
+      "cloudSync": {
+        "checkedAt": "2026-10-09T02:54:09.765Z",
+        "evidence": "DriveFS synced cloud item ID, matching parent chapter and original byte size",
+        "cloudMetadataBytes": 3436879,
+        "parentDriveId": "1Y4N_kJwAq3tHHyF3FD3WkOXiTrVcLu1O"
+      },
+      "driveId": "14qzMGqwTDvcgsiI4bl0kHKQTg5rlGjaQ",
+      "r2Key": "mexico-2015/resort/20150709_204353.jpg",
+      "display": {
+        "w": 2000,
+        "h": 1125,
+        "bytes": 360686,
+        "sha256": "569a7230fb0d7b3f6ccc209dbef4e2913f6db511d0f0d8986074eed781702269"
+      }
+    },
+    {
+      "filename": "20150709_204439.jpg",
+      "bytes": 3680181,
+      "sha256": "80c1234b26c630e66fd11f66299ea370580475a2831804b5c496f47778499efe",
+      "w": 2988,
+      "h": 5312,
+      "originalFilename": "20150709_204439.jpg",
+      "archiveFile": "02 - Прелести пакетного отдыха/31c_20150709_204439.jpg",
+      "chapterFolder": "02 - Прелести пакетного отдыха",
+      "chapterSlug": "resort",
+      "proposedSiteKey": "resort/20150709_204439.jpg",
+      "placement": "Митька с напитком: вечер мохито",
+      "status": "added-to-site",
+      "cloudSync": {
+        "checkedAt": "2026-10-09T02:54:09.765Z",
+        "evidence": "DriveFS synced cloud item ID, matching parent chapter and original byte size",
+        "cloudMetadataBytes": 3680181,
+        "parentDriveId": "1Y4N_kJwAq3tHHyF3FD3WkOXiTrVcLu1O"
+      },
+      "driveId": "1SjR1aLCqGso4gpUgtUmJwEbg6NdjxEtl",
+      "r2Key": "mexico-2015/resort/20150709_204439.jpg",
+      "display": {
+        "w": 1125,
+        "h": 2000,
+        "bytes": 361184,
+        "sha256": "05daa2ac16a5f0e3fd37dc8709df037b6a1c3bf427c70fcab81716d39d8a2a7d"
+      }
+    },
+    {
+      "filename": "20150709_204540.jpg",
+      "bytes": 480448,
+      "sha256": "e1bc7d1e232a6affc613e824d5820b4df6e0b6195ba3ec2f9b0713acefec9377",
+      "w": 1920,
+      "h": 1080,
+      "originalFilename": "20150709_204540.jpg",
+      "archiveFile": "02 - Прелести пакетного отдыха/31d_20150709_204540.jpg",
+      "chapterFolder": "02 - Прелести пакетного отдыха",
+      "chapterSlug": "resort",
+      "proposedSiteKey": "resort/20150709_204540.jpg",
+      "placement": "Семейный кадр: главный снимок нового блока мохито",
+      "status": "added-to-site",
+      "cloudSync": {
+        "checkedAt": "2026-10-09T02:54:09.765Z",
+        "evidence": "DriveFS synced cloud item ID, matching parent chapter and original byte size",
+        "cloudMetadataBytes": 480448,
+        "parentDriveId": "1Y4N_kJwAq3tHHyF3FD3WkOXiTrVcLu1O"
+      },
+      "driveId": "1K-H3gcYem-68vPv2ubRH7tHsyBfOYojl",
+      "r2Key": "mexico-2015/resort/20150709_204540.jpg",
+      "display": {
+        "w": 1920,
+        "h": 1080,
+        "bytes": 480448,
+        "sha256": "e1bc7d1e232a6affc613e824d5820b4df6e0b6195ba3ec2f9b0713acefec9377"
+      }
+    },
+    {
+      "filename": "20150710_115715.jpg",
+      "bytes": 430480,
+      "sha256": "4526d7f34d5cdee538304fcce3153b58cafd3535165bc6cdf680b0a1528141f9",
+      "w": 1920,
+      "h": 1080,
+      "originalFilename": "20150710_115715.jpg",
+      "archiveFile": "06 - Сенот и Эк Балан, заключение/16a_20150710_115715.jpg",
+      "chapterFolder": "06 - Сенот и Эк Балан, заключение",
+      "chapterSlug": "cenote-ek-balam",
+      "proposedSiteKey": "cenote-ek-balam/20150710_115715.jpg",
+      "placement": "По решению владельца: к двум вертикальным фото бассейна в главе об отеле; из заключения убрано. Архивный путь и ключ R2 сохранены.",
+      "status": "added-to-site",
+      "cloudSync": {
+        "checkedAt": "2026-10-09T02:54:09.765Z",
+        "evidence": "DriveFS synced cloud item ID, matching parent chapter and original byte size",
+        "cloudMetadataBytes": 430480,
+        "parentDriveId": "188oib_IV2nZNZosLGlHZEubxVwfpzHEr"
+      },
+      "driveId": "1Cur6nEQZ-QXnCHwPsjUyuji9vwxSNi-c",
+      "r2Key": "mexico-2015/cenote-ek-balam/20150710_115715.jpg",
+      "display": {
+        "w": 1920,
+        "h": 1080,
+        "bytes": 430480,
+        "sha256": "4526d7f34d5cdee538304fcce3153b58cafd3535165bc6cdf680b0a1528141f9"
+      },
+      "siteChapterSlug": "resort"
+    },
+    {
+      "filename": "20150710_130740.jpg",
+      "bytes": 411770,
+      "sha256": "ad15f9d29c5163b2726d03d310e9b72b11c346365341f36ac5a6c8bdc8c55c6d",
+      "w": 1920,
+      "h": 1080,
+      "originalFilename": "20150710_130740.jpg",
+      "archiveFile": "06 - Сенот и Эк Балан, заключение/16b_20150710_130740.jpg",
+      "chapterFolder": "06 - Сенот и Эк Балан, заключение",
+      "chapterSlug": "cenote-ek-balam",
+      "proposedSiteKey": "cenote-ek-balam/20150710_130740.jpg",
+      "placement": "Семья в отеле перед отъездом: заключение",
+      "status": "added-to-site",
+      "cloudSync": {
+        "checkedAt": "2026-10-09T02:54:09.765Z",
+        "evidence": "DriveFS synced cloud item ID, matching parent chapter and original byte size",
+        "cloudMetadataBytes": 411770,
+        "parentDriveId": "188oib_IV2nZNZosLGlHZEubxVwfpzHEr"
+      },
+      "driveId": "11Nk4oCywArsvihtxp37BBEEYTWjvAWEj",
+      "r2Key": "mexico-2015/cenote-ek-balam/20150710_130740.jpg",
+      "display": {
+        "w": 1920,
+        "h": 1080,
+        "bytes": 411770,
+        "sha256": "ad15f9d29c5163b2726d03d310e9b72b11c346365341f36ac5a6c8bdc8c55c6d"
+      }
+    },
+    {
+      "filename": "20150710_130940.jpg",
+      "bytes": 440993,
+      "sha256": "c2148b4c4e776e217e06ba88c3a8a2ee1126f5b47cb3375366c962acac525fb8",
+      "w": 1920,
+      "h": 1080,
+      "originalFilename": "20150710_130940.jpg",
+      "archiveFile": "06 - Сенот и Эк Балан, заключение/16c_20150710_130940.jpg",
+      "chapterFolder": "06 - Сенот и Эк Балан, заключение",
+      "chapterSlug": "cenote-ek-balam",
+      "proposedSiteKey": "cenote-ek-balam/20150710_130940.jpg",
+      "placement": "Дети перед отъездом: рядом с семейным кадром",
+      "status": "added-to-site",
+      "cloudSync": {
+        "checkedAt": "2026-10-09T02:54:09.765Z",
+        "evidence": "DriveFS synced cloud item ID, matching parent chapter and original byte size",
+        "cloudMetadataBytes": 440993,
+        "parentDriveId": "188oib_IV2nZNZosLGlHZEubxVwfpzHEr"
+      },
+      "driveId": "1v9-chXeAVFlHLDVOgdJeuCZTOSp-qoZg",
+      "r2Key": "mexico-2015/cenote-ek-balam/20150710_130940.jpg",
+      "display": {
+        "w": 1920,
+        "h": 1080,
+        "bytes": 440993,
+        "sha256": "c2148b4c4e776e217e06ba88c3a8a2ee1126f5b47cb3375366c962acac525fb8"
+      }
+    },
+    {
+      "filename": "20150710_155243.jpg",
+      "bytes": 4922051,
+      "sha256": "d5d32f6b2d41bdac689dd808cd088ddc5d522685b420ce45ff308c3ef7088c09",
+      "w": 2988,
+      "h": 5312,
+      "originalFilename": "20150710_155243.jpg",
+      "archiveFile": "06 - Сенот и Эк Балан, заключение/zz_не использовано_20150710_155243.jpg",
+      "chapterFolder": "06 - Сенот и Эк Балан, заключение",
+      "chapterSlug": "cenote-ek-balam",
+      "proposedSiteKey": null,
+      "placement": "Сувенирная витрина в день отъезда; пока оставить только в архиве",
+      "status": "archived-unused",
+      "cloudSync": "not-verified"
+    }
+  ]
 }
