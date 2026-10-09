@@ -2603,7 +2603,7 @@
     "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "longSideLimit": 2000,
     "preparedFrom": "Archived originals (archiveFile); EXIF rotation applied; no upscaling.",
-    "verifiedAt": "2026-10-09T14:04:23.785Z",
+    "verifiedAt": "2026-10-09T14:09:56.907Z",
     "photos": [
       {
         "key": "france-2012/cadre-noir-loire/CADRE_NOIR_3.jpg",
@@ -4916,7 +4916,7 @@
           "slug": "paris-2",
           "file": "content/europe/france/france-2012/paris-2/index.md",
           "route": "europe/france/france-2012/paris-2",
-          "mdSha256": "fc108f539e4763544fb30f36b007c5040e970ee6e9cc8d5386e825a485fb35d0",
+          "mdSha256": "dea697e2a4be45b311cd64ab22a57bd1d6f139b35273621690d55405ccb71be2",
           "keys": [
             "paris-2/IMG_0965.jpg",
             "paris-2/IMG_0973.jpg",
@@ -5031,10 +5031,10 @@
   },
   "archive": {
     "folder": "Europe/2012 - Франция",
-    "scannedAt": "2026-10-09T14:04:23.785Z",
-    "images": 171,
+    "scannedAt": "2026-10-09T14:09:56.907Z",
+    "images": 172,
     "unused": 0,
-    "bytes": 497752550,
+    "bytes": 499884110,
     "files": [
       {
         "archiveFile": "01 - Планирование/01_Tourist Checking Camera in Parisian Plaza.png",
@@ -6745,6 +6745,13 @@
         "siteKeys": [
           "chambord-fontainebleau/IMG_1776.jpg"
         ]
+      },
+      {
+        "archiveFile": "09 - Заключение/05_IMG_0982.JPG",
+        "bytes": 2131560,
+        "sha256": "a6aeda19b9b8f905c6f80bdafcd383167db6bf8c04681727ea156ff1eda12495",
+        "width": 4000,
+        "height": 3000
       }
     ]
   }
