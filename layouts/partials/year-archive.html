@@ -11,7 +11,7 @@
   <div class="year-timeline">
   {{- $years := slice -}}{{- range $year, $_ := $groups -}}{{- $years = $years | append $year -}}{{- end -}}
   {{ range collections.Reverse (sort $years) }}
-    {{- $year := . -}}{{- $rows := sort (index $groups $year) "key" "desc" -}}{{- $count := len $rows -}}
+    {{- $year := . -}}{{- $rows := sort (index $groups $year) "key" "asc" -}}{{- $count := len $rows -}}
     {{- $countries := slice -}}
     {{- range $rows -}}
       {{- $trip := .page -}}

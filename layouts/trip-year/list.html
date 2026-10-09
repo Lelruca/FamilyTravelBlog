@@ -2,6 +2,6 @@
 {{ if not (findRE `^[0-9]{4}$` .Title) }}
 {{ partial "year-archive.html" . }}
 {{ else }}
-<div class="max-w-5xl mx-auto px-4 py-12"><header class="mb-10"><h1 class="font-serif text-4xl font-bold">{{ .Title }}</h1></header><div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">{{ range sort (where site.Pages "Params.trip_year" (int .Title)) "Params.trip_start" "desc" }}{{ partial "trip-card.html" . }}{{ end }}</div></div>
+<div class="max-w-5xl mx-auto px-4 py-12"><header class="mb-10"><h1 class="font-serif text-4xl font-bold">{{ .Title }}</h1></header><div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">{{ range sort (where site.Pages "Params.trip_year" (int .Title)) "Params.trip_start" "asc" }}{{ partial "trip-card.html" . }}{{ end }}</div></div>
 {{ end }}
 {{ end }}
