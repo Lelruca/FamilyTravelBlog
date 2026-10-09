@@ -1,0 +1,2 @@
+{{- $trip := .Parent -}}
+{{- return (printf "%s · %v" ($trip.Params.cover_title | default $trip.Title) ($trip.Params.cover_when | default $trip.Params.trip_year | default (.Date.Format "2006"))) -}}

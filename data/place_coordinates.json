@@ -1,0 +1,972 @@
+{
+  "aareschlucht": {
+    "lat": 46.719876,
+    "lon": 8.21021,
+    "name": "Aareschlucht",
+    "country_code": "CH",
+    "source": "https://www.openstreetmap.org/way/539763497",
+    "query": "Aareschlucht Switzerland"
+  },
+  "acadian-historical-village": {
+    "lat": 47.7891949,
+    "lon": -65.098716,
+    "name": "Village Historique Acadien",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/857693743",
+    "query": "Village Historique Acadien Bertrand"
+  },
+  "albufeira": {
+    "lat": 37.088241,
+    "lon": -8.2526339,
+    "name": "Albufeira",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/5404101",
+    "query": "Albufeira Portugal"
+  },
+  "alhambra": {
+    "lat": 37.1760548,
+    "lon": -3.5881101,
+    "name": "Alhambra",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/92528618",
+    "query": "Alhambra Granada"
+  },
+  "allmendhubel": {
+    "lat": 46.5652115,
+    "lon": 7.8880204,
+    "name": "Allmendhubel",
+    "country_code": "CH",
+    "source": "https://www.openstreetmap.org/way/154475630",
+    "query": "Allmendhubel Mürren"
+  },
+  "almunecar": {
+    "lat": 36.7328699,
+    "lon": -3.68968,
+    "name": "Almuñécar",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/node/1470837876",
+    "query": "Almuñécar Spain"
+  },
+  "amsterdam": {
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "name": "Amsterdam",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/relation/271110",
+    "query": "Amsterdam Netherlands"
+  },
+  "antwerp": {
+    "lat": 51.2211097,
+    "lon": 4.3997081,
+    "name": "Antwerp",
+    "country_code": "BE",
+    "source": "https://www.openstreetmap.org/relation/59518",
+    "query": "Antwerpen Belgium"
+  },
+  "arraiolos": {
+    "lat": 38.7227289,
+    "lon": -7.9853053,
+    "name": "Arraiolos",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/5402583",
+    "query": "Arraiolos Portugal"
+  },
+  "baddeck": {
+    "lat": 46.0996814,
+    "lon": -60.7535526,
+    "name": "Baddeck",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/9261384",
+    "query": "Baddeck Canada"
+  },
+  "ballenberg": {
+    "lat": 46.7487621,
+    "lon": 8.084871,
+    "name": "Ballenberg Swiss Open-Air Museum",
+    "country_code": "CH",
+    "source": "https://www.openstreetmap.org/node/403263015",
+    "query": "Ballenberg Switzerland"
+  },
+  "batalha": {
+    "lat": 39.6578998,
+    "lon": -8.8243713,
+    "name": "Batalha",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/5399199",
+    "query": "Batalha Portugal"
+  },
+  "beaune": {
+    "lat": 47.0239064,
+    "lon": 4.8380426,
+    "name": "Beaune",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/74091",
+    "query": "Beaune France"
+  },
+  "belem": {
+    "lat": 38.7055415,
+    "lon": -9.2132265,
+    "name": "Belém",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/6427489",
+    "query": "Belém Lisbon Portugal"
+  },
+  "belmonte": {
+    "lat": 40.3583264,
+    "lon": -7.3512742,
+    "name": "Belmonte",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/5380921",
+    "query": "Belmonte Portugal"
+  },
+  "berkshires": {
+    "lat": 42.4484778,
+    "lon": -73.2541069,
+    "name": "Pittsfield",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/1839563",
+    "query": "Pittsfield",
+    "note": "Representative point in Pittsfield for the wider Berkshires region, not a specific attraction."
+  },
+  "blois": {
+    "lat": 47.5876861,
+    "lon": 1.3337639,
+    "name": "Blois",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/273622",
+    "query": "Blois France"
+  },
+  "boston": {
+    "lat": 42.3588336,
+    "lon": -71.0578303,
+    "name": "Boston",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/2315704",
+    "query": "Boston Massachusetts"
+  },
+  "bruges": {
+    "lat": 51.2085526,
+    "lon": 3.226772,
+    "name": "Bruges",
+    "country_code": "BE",
+    "source": "https://www.openstreetmap.org/relation/562654",
+    "query": "Brugge Belgium"
+  },
+  "bruhl": {
+    "lat": 50.8291313,
+    "lon": 6.9037057,
+    "name": "Brühl",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/168481",
+    "query": "Brühl Germany"
+  },
+  "brussels": {
+    "lat": 50.8467372,
+    "lon": 4.352493,
+    "name": "Brussels",
+    "country_code": "BE",
+    "source": "https://www.openstreetmap.org/relation/58274",
+    "query": "Bruxelles Belgium"
+  },
+  "burlington": {
+    "lat": 44.4761601,
+    "lon": -73.212906,
+    "name": "Burlington",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/199071",
+    "query": "Burlington Vermont"
+  },
+  "cadre-noir": {
+    "lat": 47.2635848,
+    "lon": -0.134194,
+    "name": "Le Cadre Noir de Saumur",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/node/12119294340",
+    "query": "Cadre Noir Saumur France"
+  },
+  "cape-breton": {
+    "lat": 46.2950327,
+    "lon": -60.9360554,
+    "name": "Cape Breton Island",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/5546660",
+    "query": "Cape Breton Island Canada"
+  },
+  "cape-cod": {
+    "lat": 41.7987588,
+    "lon": -69.9960655,
+    "name": "Cape Cod",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/9241337",
+    "query": "Cape Cod Massachusetts"
+  },
+  "chambord": {
+    "lat": 47.6173176,
+    "lon": 1.520135,
+    "name": "Château de Chambord",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/node/3061334962",
+    "query": "Château de Chambord"
+  },
+  "chenonceau": {
+    "lat": 47.3246221,
+    "lon": 1.0704175,
+    "name": "Chateau de Chenonceau",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/694211490",
+    "query": "Chenonceau France"
+  },
+  "chichen-itza": {
+    "lat": 20.6828763,
+    "lon": -88.5687184,
+    "name": "Chichen-Itza",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/way/49475802",
+    "query": "Chichén Itzá Mexico"
+  },
+  "cluny": {
+    "lat": 46.4339446,
+    "lon": 4.6576358,
+    "name": "Cluny",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/540378",
+    "query": "Cluny France"
+  },
+  "coba": {
+    "lat": 20.4936196,
+    "lon": -87.735367,
+    "name": "Cobá",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/node/8073016250",
+    "query": "Cobá Mexico"
+  },
+  "colmar": {
+    "lat": 48.0777517,
+    "lon": 7.3579641,
+    "name": "Colmar",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/61423",
+    "query": "Colmar France"
+  },
+  "cologne": {
+    "lat": 50.938361,
+    "lon": 6.959974,
+    "name": "Cologne",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/62578",
+    "query": "Köln Germany"
+  },
+  "consuegra": {
+    "lat": 39.460918,
+    "lon": -3.6070786,
+    "name": "Consuegra",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/345817",
+    "query": "Consuegra Spain"
+  },
+  "d-day-beaches": {
+    "lat": 49.3364025,
+    "lon": -0.4616676,
+    "name": "Juno Beach Centre",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/69698258",
+    "query": "Juno Beach Centre",
+    "note": "Juno Beach Centre: the Canadian landing site actually visited in the chapter."
+  },
+  "dijon": {
+    "lat": 47.3215806,
+    "lon": 5.0414701,
+    "name": "Dijon",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/74090",
+    "query": "Dijon France"
+  },
+  "durbuy": {
+    "lat": 50.3524116,
+    "lon": 5.456248,
+    "name": "Durbuy",
+    "country_code": "BE",
+    "source": "https://www.openstreetmap.org/relation/13072045",
+    "query": "Durbuy Belgium"
+  },
+  "ek-balam": {
+    "lat": 20.8932385,
+    "lon": -88.1453986,
+    "name": "Ek Balam",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/node/2133086710",
+    "query": "Ek Balam Mexico"
+  },
+  "el-escorial": {
+    "lat": 40.5836411,
+    "lon": -4.1281427,
+    "name": "El Escorial",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/340937",
+    "query": "El Escorial Spain"
+  },
+  "eupen": {
+    "lat": 50.6305665,
+    "lon": 6.0312717,
+    "name": "Eupen",
+    "country_code": "BE",
+    "source": "https://www.openstreetmap.org/relation/2400207",
+    "query": "Eupen Belgium"
+  },
+  "fontainebleau": {
+    "lat": 48.4049375,
+    "lon": 2.7015872,
+    "name": "Fontainebleau",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/216359",
+    "query": "Fontainebleau France"
+  },
+  "fredericton": {
+    "lat": 45.9632311,
+    "lon": -66.6432432,
+    "name": "Fredericton",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/19719044",
+    "query": "Fredericton Canada"
+  },
+  "ghent": {
+    "lat": 51.0538286,
+    "lon": 3.7250121,
+    "name": "Ghent",
+    "country_code": "BE",
+    "source": "https://www.openstreetmap.org/relation/897671",
+    "query": "Gent Belgium"
+  },
+  "granada": {
+    "lat": 37.1734995,
+    "lon": -3.5995337,
+    "name": "Granada",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/344685",
+    "query": "Granada Spain"
+  },
+  "grand-falls": {
+    "lat": 47.047563,
+    "lon": -67.7407527,
+    "name": "Grand Falls",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/19326334",
+    "query": "Grand Falls New Brunswick Canada"
+  },
+  "halifax": {
+    "lat": 44.648618,
+    "lon": -63.5859487,
+    "name": "Halifax",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/9092218",
+    "query": "Halifax Canada"
+  },
+  "harvard": {
+    "lat": 42.3657432,
+    "lon": -71.1222139,
+    "name": "Harvard University",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/2415825",
+    "query": "Harvard University Cambridge USA"
+  },
+  "haut-koenigsbourg": {
+    "lat": 48.249382,
+    "lon": 7.3439412,
+    "name": "Château du Haut-Kœnigsbourg",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/1299451538",
+    "query": "Haut-Koenigsbourg France"
+  },
+  "highland-village": {
+    "lat": 45.9488498,
+    "lon": -60.817713,
+    "name": "Highland Village",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/1088950856",
+    "query": "Highland Village Museum Iona Canada"
+  },
+  "hohenschwangau": {
+    "lat": 47.5551938,
+    "lon": 10.7394834,
+    "name": "Hohenschwangau",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/node/75901923",
+    "query": "Hohenschwangau Germany"
+  },
+  "hopewell-rocks": {
+    "lat": 45.8178095,
+    "lon": -64.5782868,
+    "name": "Hopewell Rocks",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/282668328",
+    "query": "Hopewell Rocks Canada"
+  },
+  "hurth": {
+    "lat": 50.8807379,
+    "lon": 6.876568,
+    "name": "Hürth",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/162473",
+    "query": "Hürth Germany"
+  },
+  "jerez": {
+    "lat": 36.6816936,
+    "lon": -6.1377402,
+    "name": "Jerez",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/342097",
+    "query": "Jerez de la Frontera Spain"
+  },
+  "joggins": {
+    "lat": 45.6946837,
+    "lon": -64.4504563,
+    "name": "Joggins Fossil Cliffs",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/281753986",
+    "query": "Joggins Canada"
+  },
+  "kleve": {
+    "lat": 51.7895571,
+    "lon": 6.1376008,
+    "name": "Cleves",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/167966",
+    "query": "Kleve Germany"
+  },
+  "kouchibouguac": {
+    "lat": 46.8292418,
+    "lon": -64.9545254,
+    "name": "Kouchibouguac National Park of Canada",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/2246702",
+    "query": "Kouchibouguac Canada"
+  },
+  "kroller-muller": {
+    "lat": 52.0959135,
+    "lon": 5.8178298,
+    "name": "Kröller-Müller Museum",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/relation/3629288",
+    "query": "Kröller-Müller Museum Netherlands"
+  },
+  "lauterbrunnen": {
+    "lat": 46.5939043,
+    "lon": 7.9078016,
+    "name": "Lauterbrunnen",
+    "country_code": "CH",
+    "source": "https://www.openstreetmap.org/relation/1682529",
+    "query": "Lauterbrunnen Switzerland"
+  },
+  "le-pin-au-haras": {
+    "lat": 48.7383403,
+    "lon": 0.1470449,
+    "name": "Haras National du Pin",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/494923570",
+    "query": "Haras national du Pin France"
+  },
+  "legoland-windsor": {
+    "lat": 51.4634001,
+    "lon": -0.6504356,
+    "name": "Legoland Windsor",
+    "country_code": "GB",
+    "source": "https://www.openstreetmap.org/way/28911088",
+    "query": "Legoland Windsor United Kingdom"
+  },
+  "les-menuires": {
+    "lat": 45.3242744,
+    "lon": 6.5388965,
+    "name": "Les Ménuires",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/node/254018469",
+    "query": "Les Menuires France"
+  },
+  "lexington": {
+    "lat": 42.4473175,
+    "lon": -71.2245003,
+    "name": "Lexington",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/1840167",
+    "query": "Lexington Massachusetts USA"
+  },
+  "lisbon": {
+    "lat": 38.7077507,
+    "lon": -9.1365919,
+    "name": "Lisbon",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/5400890",
+    "query": "Lisboa Portugal"
+  },
+  "london": {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "name": "London",
+    "country_code": "GB",
+    "source": "https://www.openstreetmap.org/relation/175342",
+    "query": "London United Kingdom"
+  },
+  "louisbourg": {
+    "lat": 45.9234791,
+    "lon": -59.9642959,
+    "name": "Louisbourg",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/9189074",
+    "query": "Louisbourg Canada"
+  },
+  "lowell": {
+    "lat": 42.6414437,
+    "lon": -71.3085329,
+    "name": "Lowell",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/1805416",
+    "query": "Lowell Massachusetts"
+  },
+  "lucerne": {
+    "lat": 47.052144,
+    "lon": 8.3058123,
+    "name": "Lucerne",
+    "country_code": "CH",
+    "source": "https://www.openstreetmap.org/relation/1682891",
+    "query": "Lucerne Switzerland"
+  },
+  "lunenburg": {
+    "lat": 44.3774954,
+    "lon": -64.3154816,
+    "name": "Lunenburg",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/9195113",
+    "query": "Lunenburg Canada"
+  },
+  "lyon": {
+    "lat": 45.7578137,
+    "lon": 4.8320114,
+    "name": "Lyon",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/120965",
+    "query": "Lyon France"
+  },
+  "madrid": {
+    "lat": 40.416782,
+    "lon": -3.703507,
+    "name": "Madrid",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/5326784",
+    "query": "Madrid Spain"
+  },
+  "magog": {
+    "lat": 45.2658014,
+    "lon": -72.1480686,
+    "name": "Magog",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/7953117",
+    "query": "Magog Canada"
+  },
+  "mayflower-ii": {
+    "lat": 41.9597978,
+    "lon": -70.6619409,
+    "name": "Mayflower II",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/way/172637773",
+    "query": "Mayflower II Plymouth USA"
+  },
+  "meiringen": {
+    "lat": 46.7285518,
+    "lon": 8.1870934,
+    "name": "Meiringen",
+    "country_code": "CH",
+    "source": "https://www.openstreetmap.org/relation/1682552",
+    "query": "Meiringen Switzerland"
+  },
+  "military-aviation-museum": {
+    "lat": 36.6797788,
+    "lon": -76.0298628,
+    "name": "Military Aviation Museum",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/way/1287246859",
+    "query": "Military Aviation Museum USA"
+  },
+  "moncton": {
+    "lat": 46.0985679,
+    "lon": -64.8004265,
+    "name": "Moncton",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/1109568",
+    "query": "Moncton Canada"
+  },
+  "mont-saint-michel": {
+    "lat": 48.6355232,
+    "lon": -1.5102571,
+    "name": "Le Mont-Saint-Michel",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/376823",
+    "query": "Le Mont-Saint-Michel France"
+  },
+  "murren": {
+    "lat": 46.5591404,
+    "lon": 7.8928785,
+    "name": "Mürren",
+    "country_code": "CH",
+    "source": "https://www.openstreetmap.org/node/240056378",
+    "query": "Mürren Switzerland"
+  },
+  "nancy": {
+    "lat": 48.6937223,
+    "lon": 6.1834097,
+    "name": "Nancy",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/52399",
+    "query": "Nancy France"
+  },
+  "national-gallery": {
+    "lat": 51.508881,
+    "lon": -0.1283826,
+    "name": "National Gallery",
+    "country_code": "GB",
+    "source": "https://www.openstreetmap.org/way/4372002",
+    "query": "National Gallery London United Kingdom"
+  },
+  "nauticus": {
+    "lat": 36.8477284,
+    "lon": -76.2950957,
+    "name": "Nauticus",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/way/407402666",
+    "query": "Nauticus Norfolk USA"
+  },
+  "nazare": {
+    "lat": 39.6029108,
+    "lon": -9.0701572,
+    "name": "Nazaré",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/5399255",
+    "query": "Nazaré Portugal"
+  },
+  "neuschwanstein": {
+    "lat": 47.5575522,
+    "lon": 10.7496959,
+    "name": "Neuschwanstein Castle",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/way/221601969",
+    "query": "Neuschwanstein Germany"
+  },
+  "newport": {
+    "lat": 41.4899827,
+    "lon": -71.3137707,
+    "name": "Newport",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/191230",
+    "query": "Newport Rhode Island"
+  },
+  "norfolk": {
+    "lat": 36.8493695,
+    "lon": -76.2899539,
+    "name": "Norfolk",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/206672",
+    "query": "Norfolk Virginia"
+  },
+  "ogunquit": {
+    "lat": 43.2489755,
+    "lon": -70.5992201,
+    "name": "Ogunquit",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/2021457",
+    "query": "Ogunquit Maine"
+  },
+  "paris": {
+    "lat": 48.8534951,
+    "lon": 2.3483915,
+    "name": "Paris",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/71525",
+    "query": "Paris France"
+  },
+  "parlee-beach": {
+    "lat": 46.2395066,
+    "lon": -64.5053133,
+    "name": "Parlee Beach",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/518705473",
+    "query": "Parlee Beach Canada"
+  },
+  "peggys-cove": {
+    "lat": 44.4915946,
+    "lon": -63.9189582,
+    "name": "Peggy's Cove Lighthouse",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/1005348829",
+    "query": "Peggy's Cove Nova Scotia"
+  },
+  "pilatus": {
+    "lat": 46.979264,
+    "lon": 8.2556443,
+    "name": "Pilatus Kulm",
+    "country_code": "CH",
+    "source": "https://www.openstreetmap.org/node/11184000039",
+    "query": "Pilatus Kulm"
+  },
+  "plimoth-plantation": {
+    "lat": 41.9393938,
+    "lon": -70.625786,
+    "name": "Plimoth Patuxet",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/way/29698935",
+    "query": "Plimoth Patuxet USA"
+  },
+  "plymouth": {
+    "lat": 41.9583799,
+    "lon": -70.6673851,
+    "name": "Plymouth",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/2387531",
+    "query": "Plymouth Massachusetts"
+  },
+  "portsmouth": {
+    "lat": 43.0751306,
+    "lon": -70.7601826,
+    "name": "Portsmouth",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/70967",
+    "query": "Portsmouth New Hampshire"
+  },
+  "prince-edward-island": {
+    "lat": 46.5036807,
+    "lon": -63.595411,
+    "name": "Prince Edward Island",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/3958665",
+    "query": "Prince Edward Island Canada"
+  },
+  "provincetown": {
+    "lat": 42.0525612,
+    "lon": -70.1858639,
+    "name": "Provincetown",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/2387634",
+    "query": "Provincetown Massachusetts"
+  },
+  "puy-du-fou": {
+    "lat": 46.8888329,
+    "lon": -0.9304404,
+    "name": "Le Grand Parc du Puy du Fou",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/156944924",
+    "query": "Puy du Fou France"
+  },
+  "remouchamps": {
+    "lat": 50.4802072,
+    "lon": 5.7121091,
+    "name": "Grottes de Remouchamps",
+    "country_code": "BE",
+    "source": "https://www.openstreetmap.org/node/1489845082",
+    "query": "Grottes de Remouchamps Belgium"
+  },
+  "riquewihr": {
+    "lat": 48.1660766,
+    "lon": 7.298014,
+    "name": "Riquewihr",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/83754",
+    "query": "Riquewihr France"
+  },
+  "riviere-du-loup": {
+    "lat": 47.8358164,
+    "lon": -69.5368025,
+    "name": "Rivière-du-Loup",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/259235900",
+    "query": "Rivière-du-Loup Canada"
+  },
+  "saint-malo": {
+    "lat": 48.649518,
+    "lon": -2.0260409,
+    "name": "Saint-Malo",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/905534",
+    "query": "Saint-Malo France"
+  },
+  "salamanca": {
+    "lat": 40.9651572,
+    "lon": -5.6640182,
+    "name": "Salamanca",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/344342",
+    "query": "Salamanca Spain"
+  },
+  "saumur": {
+    "lat": 47.2596224,
+    "lon": -0.0785177,
+    "name": "Saumur",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/272368",
+    "query": "Saumur France"
+  },
+  "schwangau": {
+    "lat": 47.576803,
+    "lon": 10.7373475,
+    "name": "Schwangau",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/node/1631179453",
+    "query": "Schwangau Germany"
+  },
+  "seville": {
+    "lat": 37.3886303,
+    "lon": -5.9953403,
+    "name": "Seville",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/342563",
+    "query": "Sevilla Spain"
+  },
+  "shediac": {
+    "lat": 46.219454,
+    "lon": -64.5492146,
+    "name": "Town of Shediac",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/1109582",
+    "query": "Shediac Canada"
+  },
+  "sherbrooke": {
+    "lat": 45.403271,
+    "lon": -71.889038,
+    "name": "Sherbrooke",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/5915931",
+    "query": "Sherbrooke Quebec"
+  },
+  "sintra": {
+    "lat": 38.79846,
+    "lon": -9.3881,
+    "name": "Sintra",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/node/25611733",
+    "query": "Sintra Portugal"
+  },
+  "solingen": {
+    "lat": 51.1721629,
+    "lon": 7.0845893,
+    "name": "Solingen",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/62699",
+    "query": "Solingen Germany"
+  },
+  "springfield": {
+    "lat": 42.1018764,
+    "lon": -72.5886727,
+    "name": "Springfield",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/1181618",
+    "query": "Springfield Massachusetts"
+  },
+  "stein-am-rhein": {
+    "lat": 47.6597323,
+    "lon": 8.8596823,
+    "name": "Stein am Rhein",
+    "country_code": "CH",
+    "source": "https://www.openstreetmap.org/relation/1683709",
+    "query": "Stein am Rhein Switzerland"
+  },
+  "strawbery-banke": {
+    "lat": 43.0759633,
+    "lon": -70.753377,
+    "name": "Strawbery Banke Museum",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/way/307239966",
+    "query": "Strawbery Banke Portsmouth"
+  },
+  "sydney": {
+    "lat": 46.1382112,
+    "lon": -60.1941912,
+    "name": "Sydney",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/9132453",
+    "query": "Sydney Canada"
+  },
+  "tanglewood": {
+    "lat": 42.3461408,
+    "lon": -73.3065021,
+    "name": "Linde Center for Music & Learning",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/way/705880206",
+    "query": "Tanglewood Music Center"
+  },
+  "the-breakers": {
+    "lat": 41.4697373,
+    "lon": -71.2982119,
+    "name": "The Breakers",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/way/227360878",
+    "query": "The Breakers Newport Rhode Island"
+  },
+  "the-clark": {
+    "lat": 42.7075528,
+    "lon": -73.2136571,
+    "name": "Clark Art Museum",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/14688832",
+    "query": "Clark Art Institute Williamstown"
+  },
+  "the-elms": {
+    "lat": 41.4777971,
+    "lon": -71.3088718,
+    "name": "The Elms Mansion",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/way/371945275",
+    "query": "The Elms Newport Rhode Island"
+  },
+  "toledo": {
+    "lat": 39.8558913,
+    "lon": -4.024265,
+    "name": "Toledo",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/342999",
+    "query": "Toledo Spain"
+  },
+  "tomar": {
+    "lat": 39.6036596,
+    "lon": -8.4150492,
+    "name": "Tomar",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/5400346",
+    "query": "Tomar Portugal"
+  },
+  "trummelbachfaelle": {
+    "lat": 46.5700065,
+    "lon": 7.9132073,
+    "name": "Trümmelbachfälle",
+    "country_code": "CH",
+    "source": "https://www.openstreetmap.org/node/260938019",
+    "query": "Trümmelbachfälle Switzerland"
+  },
+  "tulum": {
+    "lat": 20.2145734,
+    "lon": -87.42946,
+    "name": "Tulum Archaeological Zone",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/relation/16824245",
+    "query": "Tulum archaeological site"
+  },
+  "villandry": {
+    "lat": 47.3390444,
+    "lon": 0.510456,
+    "name": "Villandry",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/76315",
+    "query": "Villandry France"
+  },
+  "virginia-beach": {
+    "lat": 36.8496579,
+    "lon": -75.9760751,
+    "name": "Virginia Beach",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/206670",
+    "query": "Virginia Beach Virginia"
+  },
+  "zaandam": {
+    "lat": 52.4424926,
+    "lon": 4.8298607,
+    "name": "Zaandam",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/relation/337728",
+    "query": "Zaandam Netherlands"
+  }
+}

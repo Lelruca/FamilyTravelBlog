@@ -1,0 +1,7 @@
+<ul class="place-chapters">
+{{- range .Pages.ByDate.Reverse }}
+  {{- if .IsPage }}
+  <li><a href="{{ .RelPermalink }}"><span class="place-chapter-title">{{ .Title }}</span><span class="place-context">{{ partial "place-trip-context.html" . }}</span></a></li>
+  {{- end }}
+{{- end }}
+</ul>

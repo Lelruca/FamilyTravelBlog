@@ -1,0 +1,45 @@
+{{- $entries := slice -}}
+{{- $countries := slice -}}
+{{- range .Data.Terms.Alphabetical }}
+  {{- $p := .Page -}}
+  {{- $country := $p.Params.country | default (index (last 1 (split $p.Title ", ")) 0) -}}
+  {{- if eq $country "Лондон" }}{{ $country = "Англия" }}{{ end -}}
+  {{- $countries = $countries | append $country -}}
+  {{- $slug := path.Base $p.File.Dir -}}
+  {{- $geo := index site.Data.place_coordinates $slug -}}
+  {{- $entries = $entries | append (dict "page" $p "slug" $slug "country" $country "title" $p.Title "geo" $geo) -}}
+{{- end -}}
+{{- $entries = sort (sort $entries "title") "country" -}}
+<link rel="stylesheet" href="{{ "vendor/leaflet/leaflet.css" | relURL }}">
+<link rel="stylesheet" href="{{ "vendor/leaflet/MarkerCluster.css" | relURL }}">
+<link rel="stylesheet" href="{{ "css/places.css" | relURL }}">
+<div id="place-explorer" class="max-w-5xl mx-auto px-4 py-12">
+  <header><h1 class="font-serif text-4xl font-bold">Места</h1><p class="place-context">Города и уголки наших путешествий. Выберите место — откроются главы о нём.</p></header>
+  <div class="place-tools">
+    <div class="place-search"><label for="place-search">Найти место</label><input id="place-search" type="search" placeholder="Русское или местное название" autocomplete="off"></div>
+    <div><label for="place-country">Страна</label><select id="place-country"><option value="">Все страны</option>{{ range sort (uniq $countries) }}<option>{{ . }}</option>{{ end }}</select></div>
+    <div class="place-modes" role="group" aria-label="Вид мест"><button type="button" data-place-mode="list" aria-pressed="true">Список</button><button type="button" data-place-mode="map" aria-pressed="false">Карта</button></div>
+  </div>
+  <p id="place-results" class="place-context" role="status" aria-live="polite"></p>
+  <section id="place-map-panel" hidden aria-label="Карта мест"><div id="place-map"></div><p id="place-map-status" class="place-context" role="status"></p><button type="button" id="place-map-reset">Показать все найденные места</button></section>
+  <div id="places-list">
+  {{- $state := newScratch -}}
+  {{- range $entries }}
+    {{- if ne .country ($state.Get "country") }}
+      {{- if $state.Get "country" }}</section>{{ end }}
+      <section data-place-group><h2 class="font-serif text-2xl">{{ .country }}</h2>
+      {{- $state.Set "country" .country -}}
+    {{- end }}
+    <details data-place-item data-slug="{{ .slug }}" data-country="{{ .country }}" data-search="{{ .title }} {{ .slug }}"{{ with .geo }} data-lat="{{ .lat }}" data-lon="{{ .lon }}"{{ end }}>
+      <summary aria-haspopup="dialog"><span><span class="place-title">{{ index (split .title ", ") 0 }}</span><span class="place-context">{{ $trips := slice }}{{ range .page.Pages }}{{ $trips = $trips | append (partial "place-trip-context.html" .) }}{{ end }}{{ delimit (uniq $trips) " / " }}</span></span><span aria-hidden="true" class="place-arrow">›</span></summary>
+      <div class="place-detail-content">{{ partial "place-chapters.html" .page }}<a class="place-permalink" href="{{ .page.RelPermalink }}">Ссылка на это место</a></div>
+    </details>
+  {{- end }}
+  {{- if $entries }}</section>{{ end }}
+  </div>
+  <p id="places-empty" hidden>Такого места пока нет в дневнике. Попробуйте другое название или выберите все страны.</p>
+  <dialog id="place-dialog" aria-labelledby="place-dialog-title"><div class="place-dialog-top"><p id="place-dialog-country" class="place-context"></p><button type="button" id="place-dialog-close" aria-label="Закрыть">✕</button></div><h2 id="place-dialog-title" class="font-serif text-2xl"></h2><div id="place-dialog-content"></div></dialog>
+</div>
+<script defer src="{{ "vendor/leaflet/leaflet.js" | relURL }}"></script>
+<script defer src="{{ "vendor/leaflet/leaflet.markercluster.js" | relURL }}"></script>
+<script defer src="{{ "js/places.js" | relURL }}"></script>
