@@ -1,5 +1,5 @@
 ---
-title: "Принимаем гостей в Торонто"
+title: "Наши немцы в Канаде"
 type: "trips"
 draft: true
 trip_year: 2016
@@ -14,8 +14,8 @@ source_url: "https://olgau.livejournal.com/225039.html"
 trip_start: "2016-06"
 trip_end: "2016-06"
 cover_where: "Канада (Торонто, Темагами), США (Нью-Йорк)"
-cover_title: "Принимаем гостей в Торонто"
-cover_subtitle: "Наши немцы в Канаде"
+cover_title: "Наши немцы в Канаде"
+cover_subtitle: ""
 cover_when: "Лето 2016"
-cover_who: "Родные из Германии, Сережа, Леля"
+cover_who: "Наташа и Валера, все мы"
 ---
