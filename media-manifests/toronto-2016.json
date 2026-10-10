@@ -13,13 +13,11 @@
   },
   {
    "folder": "03 - Кораблик",
-   "slug": "temagami-1",
-   "status": "owner copied all houseboat photos here to choose from; photos not placed yet"
+   "slug": "temagami-1"
   },
   {
    "folder": "04 - Отдых",
-   "slug": "temagami-2",
-   "status": "photos not chosen yet"
+   "slug": "temagami-2"
   },
   {
    "folder": "05 - Флора и фауна",
@@ -33,10 +31,10 @@
  "originalPhotoLinks": "77 Google Photos links in the DOCX need a Google sign-in and do not return images; the owner chose the photos from OneDrive Photo/2016/2016 Лето/Наши немцы в Канаде instead.",
  "archive": {
   "folder": "North America/2016 - Наши немцы в Канаде",
-  "checkedAt": "2026-10-10T04:06:53.566Z",
-  "images": 91,
+  "checkedAt": "2026-10-10T04:13:12.863Z",
+  "images": 156,
   "unused": 2,
-  "bytes": 491422538,
+  "bytes": 796781737,
   "verification": "files copied or renamed inside the archive with SHA-256 compared before and after; Drive ids that are not 'local…' show the file is in the cloud",
   "files": [
    {
@@ -1006,6 +1004,1501 @@
     "chapter": "new-york",
     "usedOnSite": false,
     "note": "video, not shown on the site"
+   },
+   {
+    "archivePath": "03 - Кораблик/01_DSCN2678.JPG",
+    "originalName": "DSCN2678.JPG",
+    "previousPath": "03 - Кораблик/01_DSCN2678.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4212281,
+    "sha256": "0042bc62365e66f31ff32fcb5f3bf182ce29f1cf3d625a29433fa879b9e41e1c",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1Q1MGY_NSFthY-e7yl1ySJl4ajDc92VEb",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2678.jpg",
+     "name": "DSCN2678.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 679265,
+      "sha256": "d81533c47a5674b4d7dbde22ef9b695a4a68c8360125fc477557a06ee5619f8b"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/02_20160611_154602.jpg",
+    "originalName": "20160611_154602.jpg",
+    "previousPath": "03 - Кораблик/02_20160611_154602.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 6041931,
+    "sha256": "1a81545f0baa59c66175ee71f913cbf5f552b4ae12ca9346d5c779bc90a13b42",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1tJENNbS4bov6J0VXSR2AOZgi3OblfNEe",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/20160611_154602.jpg",
+     "name": "20160611_154602.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 414954,
+      "sha256": "ede50cc05856269e435a7631d5ef6d6443b9706ba038722c3ea67ef6dd57490c"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/03_Capture.JPG",
+    "originalName": "Capture.JPG",
+    "previousPath": "03 - Кораблик/03_Capture.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 46065,
+    "sha256": "063d067344a60146490bcbd18a2ffd007766619fcdcd92f6547a17a2da666232",
+    "width": 604,
+    "height": 364,
+    "takenAt": null,
+    "driveId": "1_XnfZeoKqOYJAhThCqW9RnyQlEzMDfwX",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/Capture.jpg",
+     "name": "Capture.jpg",
+     "copy": {
+      "width": 604,
+      "height": 364,
+      "bytes": 37567,
+      "sha256": "30b83554d18ca46b7c0b68d4f3f18a5accf9a4c5b6a0f1d5d87573a45021baa3"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/04_DSCN2583.JPG",
+    "originalName": "DSCN2583.JPG",
+    "previousPath": "03 - Кораблик/04_DSCN2583.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 3886404,
+    "sha256": "e9790efe2d96b4ef5f5ecf32fff05b1c4cc7ecb6b767a7e2582f2ad47cd9e140",
+    "width": 3456,
+    "height": 4608,
+    "takenAt": null,
+    "driveId": "1dof0PHJXQ6xHjs8HJOcNfoVNzNuybD7d",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2583.jpg",
+     "name": "DSCN2583.jpg",
+     "copy": {
+      "width": 1500,
+      "height": 2000,
+      "bytes": 233953,
+      "sha256": "795c26d6cc184925cfb45258e10a40ac2555bd42a87154b1e78dfa8f89c9b06a"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/05_DSCN2521.JPG",
+    "originalName": "DSCN2521.JPG",
+    "previousPath": "03 - Кораблик/05_DSCN2521.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4021343,
+    "sha256": "6c07bfa93891630c67e124e706c6e6f82150e1cec4ec44867e1050cfd3c6b479",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1Q_iW-s3ErN2A8kbucb8LSZ4YHYtMzYlm",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2521.jpg",
+     "name": "DSCN2521.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 439593,
+      "sha256": "f5d6e57227d00a166d2b82d335b4156c24b732f4bd72318e11b23238e27f2dac"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/06_20160609_212709.jpg",
+    "originalName": "20160609_212709.jpg",
+    "previousPath": "03 - Кораблик/06_20160609_212709.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 4564627,
+    "sha256": "d447e8c0ae6ff19f657bb69cec712a154932518d587a53eedb0ab760bcfcd635",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1GewdddVQsNDEtUJZIsClRoR79JYEGK1R",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/20160609_212709.jpg",
+     "name": "20160609_212709.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 234197,
+      "sha256": "24cf7f59b754d7b7c04bdfd99bf0ff91d5b60c1c908da16b89dfc8e008f0a1cd"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/07_20160610_121753.jpg",
+    "originalName": "20160610_121753.jpg",
+    "previousPath": "03 - Кораблик/07_20160610_121753.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 5530081,
+    "sha256": "274e609e3d37b30b0934a4e9dbab854bfe4c2a007877302ca62710785b02d9f9",
+    "width": 4608,
+    "height": 2592,
+    "takenAt": null,
+    "driveId": "1RpeLf8xqtj3M9NZQdjlqhprQZU50cpnc",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/20160610_121753.jpg",
+     "name": "20160610_121753.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 547612,
+      "sha256": "1379c29ee405a7f9d67e596fb57e0b2a04beb78167cd0b2607a25af443f98be3"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/08_20160610_102445.jpg",
+    "originalName": "20160610_102445.jpg",
+    "previousPath": "03 - Кораблик/08_20160610_102445.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 4697154,
+    "sha256": "543f055f14b46f24a03cf6d8adce8952d78a1c9842c69ccc26615271cffe9799",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1IVip0q5GRXFfTB6a822bjUBKMvzbPy92",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/20160610_102445.jpg",
+     "name": "20160610_102445.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 356543,
+      "sha256": "be020b3743ca9a8045210872a9268a2ddfe2e2a14ae868b9b672a2995932d006"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/09_20160611_155850.jpg",
+    "originalName": "20160611_155850.jpg",
+    "previousPath": "03 - Кораблик/09_20160611_155850.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 4902354,
+    "sha256": "ce45bd67ec4ba96dc3e1fa4d1d317bd2e0da7dfd355faea659ebd46a068dfc26",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "13dI2kYgFj3sLMBpfug2xZ7WjZc0ehLT1",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/20160611_155850.jpg",
+     "name": "20160611_155850.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 353712,
+      "sha256": "db6f6e8ed2b3e2d3afa661f917d2bd27a5f100b9f8cb28ff920c57be9c2810e3"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/10_20160610_164905.jpg",
+    "originalName": "20160610_164905.jpg",
+    "previousPath": "03 - Кораблик/10_20160610_164905.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 3916903,
+    "sha256": "05f23b32deac336ea465170bf34d90329a64a013e569564f70601231fcb26c88",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1i2iZMbg4-xxyl3l4HIFMIOw-2mcc83_p",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/20160610_164905.jpg",
+     "name": "20160610_164905.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 225251,
+      "sha256": "83f0812cc64536c4fd150f9c5c4482745bb6560ddd0ec9a31ac0a82a0fb239f2"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/11_20160610_085039.jpg",
+    "originalName": "20160610_085039.jpg",
+    "previousPath": "03 - Кораблик/11_20160610_085039.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 3676045,
+    "sha256": "e33bbea64ba94fd5e4bd6fe34d436edca0f169ae934ba1dc4a77cad6dc961c10",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1ce-gV3NjR6LX5lzZUTR1j3fVa7Uf0RbW",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/20160610_085039.jpg",
+     "name": "20160610_085039.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 177300,
+      "sha256": "95c5262e5ea5439ed1dcb73dba71e6538b02d860b41bdec99ddf93ce2048e2bd"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/12_DSCN2520.JPG",
+    "originalName": "DSCN2520.JPG",
+    "previousPath": "03 - Кораблик/12_DSCN2520.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4183880,
+    "sha256": "bdb0131d919c75a2c7f65a60ec87e0bdf07675b67013badf7eaf7bc079dfdefc",
+    "width": 3456,
+    "height": 4608,
+    "takenAt": null,
+    "driveId": "15lVq65FT4kAw7uxOZILO6slbBWZgiquO",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2520.jpg",
+     "name": "DSCN2520.jpg",
+     "copy": {
+      "width": 1500,
+      "height": 2000,
+      "bytes": 392956,
+      "sha256": "667804fa4f6127edbfad8ff793517139aeea92e300adf5125eb3b2991cc254e9"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/13_DSCN2524.JPG",
+    "originalName": "DSCN2524.JPG",
+    "previousPath": "03 - Кораблик/13_DSCN2524.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 3923239,
+    "sha256": "f050b07a046b9ebb46fa74cf4720a601d8ac042508b4e4eb125be94b05212567",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1f9vIzSr4m3CI-xmUBd6UErdzSY0fBSOe",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2524.jpg",
+     "name": "DSCN2524.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 522734,
+      "sha256": "3b322c6c917874bded8fa05785dfeba0302b039e7864acd6cf5715c5438558db"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/14_DSC04878.JPG",
+    "originalName": "DSC04878.JPG",
+    "previousPath": "03 - Кораблик/14_DSC04878.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4523328,
+    "sha256": "2211e08963cd442c96ecbc1561ad6bc37bd91968ceac1a30f07d3e9cdd9f9adc",
+    "width": 4896,
+    "height": 3672,
+    "takenAt": null,
+    "driveId": "1NjbgVtT1fQIXBTmPSLpF-_8aO5a_Ka8h",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSC04878.jpg",
+     "name": "DSC04878.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 271901,
+      "sha256": "99736bab02fa3d3b08af44070b7b21bb28de3466dcbdbaa001494e13ef7fae20"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/15_DSCN2771.JPG",
+    "originalName": "DSCN2771.JPG",
+    "previousPath": "03 - Кораблик/15_DSCN2771.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4235397,
+    "sha256": "10c4689a08bdc986aabb27feaee49c29d3181989d6d9ca7d7228209614525e76",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1BCY4AqWThV5bHbOh2MSwly5zAshSY8I_",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2771.jpg",
+     "name": "DSCN2771.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 714774,
+      "sha256": "79dea6d5cbbf366a15c00d64cb2a0b90cfc1c9a63c2ff1db1ef2a9f40a19f92c"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/16_20160610_110711.jpg",
+    "originalName": "20160610_110711.jpg",
+    "previousPath": "03 - Кораблик/16_20160610_110711.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 3121501,
+    "sha256": "ef3d6c047b13bcde569d1a34c2c6ab633b34fe056b25fdf4f3c3597dc6481d7b",
+    "width": 4608,
+    "height": 2592,
+    "takenAt": null,
+    "driveId": "1PyLDyM45NEb1iDusGHqSCbTTibfBNyUc",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/20160610_110711.jpg",
+     "name": "20160610_110711.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 190899,
+      "sha256": "b923e42893035493c05c809062fafcbb2c4de67399799c51512b69ccea4326d1"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/17_DSCN2759.JPG",
+    "originalName": "DSCN2759.JPG",
+    "previousPath": "03 - Кораблик/17_DSCN2759.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4108055,
+    "sha256": "f2d0d628162481fe57c3f49986961acae418f8683a791818254a1b0452d143c4",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1JjqL1-rzHfNEbf5lx9mjohNr9a3bg_ae",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2759.jpg",
+     "name": "DSCN2759.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 252193,
+      "sha256": "9195c7beb7d1596932633045bc2b9644b556e8a607528265add46a172699f8d2"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/18_DSCN2760.JPG",
+    "originalName": "DSCN2760.JPG",
+    "previousPath": "03 - Кораблик/18_DSCN2760.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4277531,
+    "sha256": "b6052a1d4cf0d0049ba9d9b69cc26d53f4fc4af135f09454474b1086387f3b4e",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1m6duHfFIG6C7wuNALmOPUAlgFeNyMKaL",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2760.jpg",
+     "name": "DSCN2760.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 207694,
+      "sha256": "6cf6a189ef71c66d6dbd9a54c870da7828570d5469efc9382ae6c47e1c0bdeb6"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/19_20160610_110222.jpg",
+    "originalName": "20160610_110222.jpg",
+    "previousPath": "03 - Кораблик/19_20160610_110222.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 4538041,
+    "sha256": "a37951e6036c22decb8b5d67254595735346e2356c1fef94d4734b42868a99b1",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1A26Un1kI_8wu2u1ADHtDlimyZIQNwM1j",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/20160610_110222.jpg",
+     "name": "20160610_110222.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 223614,
+      "sha256": "dd9fdd54d1642f1bc80950f91688306fea63a93733a133fce2cb92b58ed06099"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/20_20160610_110229.jpg",
+    "originalName": "20160610_110229.jpg",
+    "previousPath": "03 - Кораблик/20_20160610_110229.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 3674041,
+    "sha256": "5a6dc0c6476c31b8105e76e87b46373a0c63aae8189da39cd9e12a065dd0a4c0",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "11zqyILUds04UgJwLoi1AZNcs4JqgAlZG",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/20160610_110229.jpg",
+     "name": "20160610_110229.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 145601,
+      "sha256": "cbf35e4b7db79b53c57700f8bcec79f920a95e1e197b321bc0e091547ffebdba"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/21_DSC04962.JPG",
+    "originalName": "DSC04962.JPG",
+    "previousPath": "03 - Кораблик/21_DSC04962.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 5972652,
+    "sha256": "1fbd8de50fc9f8a9c53647738987584508fc8c4cfb88478cd2f3c2be9949495c",
+    "width": 4896,
+    "height": 3672,
+    "takenAt": null,
+    "driveId": "1QcyiMWEXj_9DxM5dAYKO1wwYXlMRMHPz",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSC04962.jpg",
+     "name": "DSC04962.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 378680,
+      "sha256": "8a9cc5bec03deedfeb40c93b098908cb7d106432536e5deb130912ef559966b5"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/22_DSC05006.JPG",
+    "originalName": "DSC05006.JPG",
+    "previousPath": "03 - Кораблик/22_DSC05006.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4762631,
+    "sha256": "bc3c028d5cbf6732c814cddea779c11a5493177e398f5eed2d9101ff0c0e9f10",
+    "width": 4896,
+    "height": 3672,
+    "takenAt": null,
+    "driveId": "1n-UrqCkzEHGEvSoVr8SqpRUD4JTyybWF",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSC05006.jpg",
+     "name": "DSC05006.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 369796,
+      "sha256": "d4f1937c6c9811b7684cdd511b92ce059c7eaa22040a6b9f64cf7401d9fe77f2"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/23_DSCN2764.JPG",
+    "originalName": "DSCN2764.JPG",
+    "previousPath": "03 - Кораблик/23_DSCN2764.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 3954064,
+    "sha256": "ae02dc7cbc67bc62a7b636283bc487b50061177c2f727eb9736aeea1cce03559",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1d1UxDtkuSKUlwfray-Eb85z5ltaYxzgY",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2764.jpg",
+     "name": "DSCN2764.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 494129,
+      "sha256": "c6956c15d17d07cc585dad8e3600e400e2c0569968634e61c11854244dc7e0a3"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/24_20160612_142234.jpg",
+    "originalName": "20160612_142234.jpg",
+    "previousPath": "03 - Кораблик/24_20160612_142234.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 5617468,
+    "sha256": "a95e2a9d8d64760ae54a940fa1cc3a7627cac2da7d7704466ff704b554bb73cf",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1eBfmJaf8wMrL9ss4VFh1HzLMxlG8ec2u",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/20160612_142234.jpg",
+     "name": "20160612_142234.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 510696,
+      "sha256": "79ffd49a3180ce461993205124a7737ec7fb88ccdace5d35fb63a510e6bc9b3b"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/25_DSCN2591.JPG",
+    "originalName": "DSCN2591.JPG",
+    "previousPath": "03 - Кораблик/25_DSCN2591.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 3732319,
+    "sha256": "50e5426909e198ab68bc8838dd4353248569dc8e260b0e386354c9955ce83ec7",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1LOIxEeGBukkiZ6NM3fdApEgO9frRrfQo",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2591.jpg",
+     "name": "DSCN2591.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 247291,
+      "sha256": "a2480c45219ce7fff1c6efbd01a08a6246dea8a57cecaf1d17cd32d45799c33e"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/26_DSC05088.JPG",
+    "originalName": "DSC05088.JPG",
+    "previousPath": "03 - Кораблик/26_DSC05088.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4892793,
+    "sha256": "defbd4296c10d92cc7fbb37cd7cd2bae26d92d11945add8199c517923c23527a",
+    "width": 4896,
+    "height": 3672,
+    "takenAt": null,
+    "driveId": "1wBc1qlysSBFRAw0zuL6DCTbBEjKbM0Nf",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSC05088.jpg",
+     "name": "DSC05088.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 354763,
+      "sha256": "e46c8561a6a072c878e4a6944d266e0f7201b6601841750e59700fbfb35a2f52"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/27_DSCN2534.JPG",
+    "originalName": "DSCN2534.JPG",
+    "previousPath": "03 - Кораблик/27_DSCN2534.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4162236,
+    "sha256": "f19b4e32cc57b709a224c12f7439bf7e33296a759468021bb53d972f1935cc49",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1ptNelxvsu4Q-SvoKBaKAz4mJcDo3od4P",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2534.jpg",
+     "name": "DSCN2534.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 442922,
+      "sha256": "c906164c141e4214f061d0ec8529a1731350b840857168934324d184c8f7f399"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/28_DSCN2721.JPG",
+    "originalName": "DSCN2721.JPG",
+    "previousPath": "03 - Кораблик/28_DSCN2721.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4013300,
+    "sha256": "6ceae9e35533903fa804e2ca05a3a590df608a9749d859656cdc51678493edc7",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1SpvyQogOgGAtnIrV18gSjJ46EzWLQqMD",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2721.jpg",
+     "name": "DSCN2721.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 629150,
+      "sha256": "68f994df4b318318fab905705764448e2aaa50b4c2a0903978d442e40fd0c9a7"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/29_DSCN2843.JPG",
+    "originalName": "DSCN2843.JPG",
+    "previousPath": "03 - Кораблик/29_DSCN2843.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4009156,
+    "sha256": "a3178d27b3b2e14891d6a4802aec316ac028daf4dc9473ffcd115732a08cfc24",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1wST0MVp4dx31NDPso2KhqabgQJW8KZ_2",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2843.jpg",
+     "name": "DSCN2843.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 562635,
+      "sha256": "d71081e4ea55ad28366a16220117fcffba08b039d8774ea93956255561ee30ff"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/30_DSC04985.JPG",
+    "originalName": "DSC04985.JPG",
+    "previousPath": "03 - Кораблик/30_DSC04985.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 8022283,
+    "sha256": "070d2a4509ff95590bff636c9a4a538dd21b9adf73b4c35f405294fcb22971ff",
+    "width": 4896,
+    "height": 3672,
+    "takenAt": null,
+    "driveId": "1kGAaYZ5JB3zqvmPV8wLiy2hbkVVQKDyA",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSC04985.jpg",
+     "name": "DSC04985.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 808062,
+      "sha256": "a331453ab751fbf47bf8116501e2f23be7cff5b9342d3f94e5fc821320a29aae"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/31_DSCN2539.JPG",
+    "originalName": "DSCN2539.JPG",
+    "previousPath": "03 - Кораблик/31_DSCN2539.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 3723699,
+    "sha256": "9c5159707560beb6c4f227a7af941d19056cfb54889e2c7fd617989349353090",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1u8FYIt6ikxBG_Gcwn-diI0mbpvaB1m46",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2539.jpg",
+     "name": "DSCN2539.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 536434,
+      "sha256": "85102b0a2930f26f1e71cfab151021e973499a524e779ffc04636d4e13346418"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/32_20160612_115020.jpg",
+    "originalName": "20160612_115020.jpg",
+    "previousPath": "03 - Кораблик/32_20160612_115020.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 2843427,
+    "sha256": "6ac25fe91edf74eebb159d65d31f2183fe5f91121ecd27e650d22ba074f53dfd",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "11AJtT4M3cijHPyrkkeoUYvxqfNKJc9Xm",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/20160612_115020.jpg",
+     "name": "20160612_115020.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 227744,
+      "sha256": "83ce55a8e509401b0370c90b7afee78cc860513f288104e7f982018f651fbea7"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/33_DSC04950.JPG",
+    "originalName": "DSC04950.JPG",
+    "previousPath": "03 - Кораблик/33_DSC04950.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 7254993,
+    "sha256": "d9a18ee4510ccff8ad92f9e32963e74ef056806b9f4e554d4a0256c68d0a6c2b",
+    "width": 4896,
+    "height": 3672,
+    "takenAt": null,
+    "driveId": "1jn70UcN6EUvBC9iySb91p-yaQAu6oEjr",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSC04950.jpg",
+     "name": "DSC04950.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 670809,
+      "sha256": "84da57ad9d24211bc88930f377af7fbed0e52ad6e3fe5aef2a33fec68ff0d0a9"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/34_DSC04952.JPG",
+    "originalName": "DSC04952.JPG",
+    "previousPath": "03 - Кораблик/34_DSC04952.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 7746174,
+    "sha256": "601347c4dca9a286d163700fbabb5bf354df3482fa695f76787926dc61d4bfd7",
+    "width": 4896,
+    "height": 3672,
+    "takenAt": null,
+    "driveId": "1d40-1i6S9MetZrWb2gWSNOZ6jdZAhj37",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSC04952.jpg",
+     "name": "DSC04952.jpg",
+     "copy": {
+      "width": 1500,
+      "height": 2000,
+      "bytes": 824796,
+      "sha256": "7ec44551c63d7ecb9bcb193c046df52bcc17ca5f722e35febc56d7b4c64ee7a7"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/35_DSC05090.JPG",
+    "originalName": "DSC05090.JPG",
+    "previousPath": "03 - Кораблик/35_DSC05090.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 6581081,
+    "sha256": "56324b17906408bdf2b0831c264721dbfaf1d5d9a0110e2132bf5de43068f5a1",
+    "width": 4896,
+    "height": 3672,
+    "takenAt": null,
+    "driveId": "14SirffrpiMGBVtWKR1MGZmPLa-FHXPCU",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSC05090.jpg",
+     "name": "DSC05090.jpg",
+     "copy": {
+      "width": 1500,
+      "height": 2000,
+      "bytes": 685578,
+      "sha256": "b823ff2547afd34521408858821c975e968af22da98cd17429591698f82da0bc"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/36_DSCN2597.JPG",
+    "originalName": "DSCN2597.JPG",
+    "previousPath": "03 - Кораблик/36_DSCN2597.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 3913516,
+    "sha256": "10b59517a44347715a15272303cc9c746641a5f6274feed5b24c1b204928c378",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1ukFpJ7vCGm-lHYLGCL23fc_1hSbSRASn",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2597.jpg",
+     "name": "DSCN2597.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 969368,
+      "sha256": "4144744552d3aa637e762fbc53ad8b88fd91ef1a6b621a5e53531b8918008618"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/37_DSC04970.JPG",
+    "originalName": "DSC04970.JPG",
+    "previousPath": "03 - Кораблик/37_DSC04970.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4853317,
+    "sha256": "5903ba46339df96d1e4ceed6e5d050f068969576ac6f6f8d2142040b3fd098bf",
+    "width": 4896,
+    "height": 3672,
+    "takenAt": null,
+    "driveId": "1kpeqgPqAKqN6HeCMCNF4bC1ivxulbhPf",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSC04970.jpg",
+     "name": "DSC04970.jpg",
+     "copy": {
+      "width": 1500,
+      "height": 2000,
+      "bytes": 423832,
+      "sha256": "055fa8b74fb754457914065b7a32317c32f58e1567849beeff8c7591b3259f30"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/38_DSC04998.JPG",
+    "originalName": "DSC04998.JPG",
+    "previousPath": "03 - Кораблик/38_DSC04998.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 6424823,
+    "sha256": "bf1a36df38a176f29b1b2caf6beaaa9334fe368836105ecc964d6b89ecb9fcf2",
+    "width": 4896,
+    "height": 3672,
+    "takenAt": null,
+    "driveId": "1I9V6SpLYxjqGpDz68wRDfbG3cJggsI5_",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSC04998.jpg",
+     "name": "DSC04998.jpg",
+     "copy": {
+      "width": 1500,
+      "height": 2000,
+      "bytes": 633638,
+      "sha256": "a3d9a1c477ceae72083358b2473497d25c42fee90c05ee5e797a069016ce568e"
+     }
+    }
+   },
+   {
+    "archivePath": "03 - Кораблик/39_DSCN2800.JPG",
+    "originalName": "DSCN2800.JPG",
+    "previousPath": "03 - Кораблик/39_DSCN2800.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 3779272,
+    "sha256": "2c57976e5cda72dfd2951c0e1e77dbf89f396bcd3ecb05c55f5bd24703597683",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1gDctf3qfLNIUW_6HquBuIvv1csB1ge0q",
+    "chapter": "temagami-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-1/DSCN2800.jpg",
+     "name": "DSCN2800.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 111057,
+      "sha256": "1bf19f6a8b8e7b80c0154596026e6df4017a09cf9080e126d18f8ce9f11d46d0"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/01_20160611_160926.jpg",
+    "originalName": "20160611_160926.jpg",
+    "previousPath": "04 - Отдых/01_20160611_160926.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 7689492,
+    "sha256": "09eb221382ee8d2b36724664bb64bc8fad14e47525f2bfe2bd832444c794c03e",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1a08hr9MNPndr6LDErPxAhvl41hnyRlLs",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160611_160926.jpg",
+     "name": "20160611_160926.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 638300,
+      "sha256": "0a1cbf7604f5c2d927b961991ea5bec2104d1631218c5bf4fb764ac82aa91788"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/02_DSC04883.JPG",
+    "originalName": "DSC04883.JPG",
+    "previousPath": "04 - Отдых/02_DSC04883.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 3586494,
+    "sha256": "6c22a1f8522cdb6515bb9f2eb6da776ac81c0031cd08ecc8d7d7deff63c30374",
+    "width": 4896,
+    "height": 3672,
+    "takenAt": null,
+    "driveId": "1m977gcTni4WaDMXQWippNFgPGqjBiI5_",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/DSC04883.jpg",
+     "name": "DSC04883.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 158434,
+      "sha256": "a9aeb7438d2e82965e71d21fe696e2a79bb6bac56caf71dad7fdad472b9ff04d"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/03_DSCN2627.JPG",
+    "originalName": "DSCN2627.JPG",
+    "previousPath": "04 - Отдых/03_DSCN2627.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4008129,
+    "sha256": "c076e0328f5b1f5d88703c7c3964bdb1615c11b1c5ae2c1b0786db19a2dcdb28",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1hBhxMnvOgu7mrhG9bxcQz_vMOH-J3yZw",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/DSCN2627.jpg",
+     "name": "DSCN2627.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 239063,
+      "sha256": "ebd7e465194c459188981433617088a1ebc657a598829ebe6d453a6ebdf0fbf4"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/04_DSCN2633.JPG",
+    "originalName": "DSCN2633.JPG",
+    "previousPath": "04 - Отдых/04_DSCN2633.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4224609,
+    "sha256": "dd935e9d67eb3cea6b0e3a0adca2fd26941f4dce3fd66a6e5fcfa063989016a2",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1i5L_x9thPVuwgwM9m6ByLx4qRlInNIwW",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/DSCN2633.jpg",
+     "name": "DSCN2633.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 103995,
+      "sha256": "94a98668662ed1bc5a487a585b137ef8b06c0adfb0a28a0b08b3907ab4aeecb1"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/05_DSCN2650.JPG",
+    "originalName": "DSCN2650.JPG",
+    "previousPath": "04 - Отдых/05_DSCN2650.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4110599,
+    "sha256": "1a80096e8dc77ccacc315af9dd1bdcc58b5e3850bae34a1553a772bb7e5d3055",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1FZ8dVJaF28i-DOaH5h89I2m6xKqgB2p3",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/DSCN2650.jpg",
+     "name": "DSCN2650.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 145247,
+      "sha256": "db9e1e511ddc48480b068a08e1fe82817152f4f6769934498512bbf200c73ce3"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/06_20160611_152241.jpg",
+    "originalName": "20160611_152241.jpg",
+    "previousPath": "04 - Отдых/06_20160611_152241.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 6006338,
+    "sha256": "15a46827d3960080b082aed2532e00880d9b6c5d7cfa7c5c11fc5e5da3b170b8",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1JGvWnYN3a4n-mi9ks24YjqUsr1x8xMod",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160611_152241.jpg",
+     "name": "20160611_152241.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 381426,
+      "sha256": "506925e037bd6b06e94c2decfacd88cd4930216ee3e5943aa63acabc8117809e"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/07_20160611_161337.jpg",
+    "originalName": "20160611_161337.jpg",
+    "previousPath": "04 - Отдых/07_20160611_161337.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 3138258,
+    "sha256": "d1afcc6daba08f2ad0158c05157e7be9ae94bfaba45e99d63f6719c12f0d76a7",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1USMpnsSp3eCNcCLUVOcf8ICFd19JT_g_",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160611_161337.jpg",
+     "name": "20160611_161337.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 199696,
+      "sha256": "76f428c1befebad8f55c56b2c8c8354e66ecaf51b39047c3ca069804b5e9cae8"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/08_20160611_163116_1.jpg",
+    "originalName": "20160611_163116_1.jpg",
+    "previousPath": "04 - Отдых/08_20160611_163116_1.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 5571938,
+    "sha256": "61e890b3d187b0e7a9700f31cf9572684e1309655fba32921f2e57f7bc9ad178",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1dpPXkg0WCVpQk7_WUUeoApROxp8uugi-",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160611_163116_1.jpg",
+     "name": "20160611_163116_1.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 421881,
+      "sha256": "b77fba866512fb514a4def21bbe19440a2394025219e2fe9edc06a016bc53c84"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/09_20160611_163137.jpg",
+    "originalName": "20160611_163137.jpg",
+    "previousPath": "04 - Отдых/09_20160611_163137.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 5061182,
+    "sha256": "b239be923f394ceb52f30439098fc216f10e5c97c8aa776ade36a13d7ee2c400",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1w7Kjdq5rGrfxqLz4xz30IwksOqu76ti6",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160611_163137.jpg",
+     "name": "20160611_163137.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 324922,
+      "sha256": "45fdb505118f9eb8a36d6c0b4f46b017bb288949d7df939ca386b4f439311dd9"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/10_20160611_163153.jpg",
+    "originalName": "20160611_163153.jpg",
+    "previousPath": "04 - Отдых/10_20160611_163153.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 4239762,
+    "sha256": "a70c941b9b5da7fbe484152e7cfc5639f51f8601b0fbe478e249e0bb5acfa13a",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "17OSHkoSI4_T0ndaIUOlkVP12DX7epU6u",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160611_163153.jpg",
+     "name": "20160611_163153.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 211451,
+      "sha256": "39110c6ce993fd4f2835ad5e78697a1bfd9faaebdbcb805010cf7968d0742482"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/11_20160611_164059.jpg",
+    "originalName": "20160611_164059.jpg",
+    "previousPath": "04 - Отдых/11_20160611_164059.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 5515324,
+    "sha256": "8fcc8af8557ab53db28919ca99e9f1b4300309a6f2dc09f3b86f8909e6aa83d1",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1gI05KRA2XsTZrEhn3NRitxaFNWyLAJoS",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160611_164059.jpg",
+     "name": "20160611_164059.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 353311,
+      "sha256": "4f003d82dfba252bd0858a2fbe45ddaeb98bdf52a08937a27de59ecb62c97b79"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/12_DSC05059.JPG",
+    "originalName": "DSC05059.JPG",
+    "previousPath": "04 - Отдых/12_DSC05059.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 5922529,
+    "sha256": "1bea109f8cfc96c7b3253214766949eaf7a9daaea6358ee2aa776f9351283300",
+    "width": 4896,
+    "height": 3672,
+    "takenAt": null,
+    "driveId": "1mJtLHdpbgm6TWHyBmZN_BtiVYLWNwBDz",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/DSC05059.jpg",
+     "name": "DSC05059.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 483773,
+      "sha256": "9a8de671f1e4f63345c73f79b824ebbee998e7a67f2fa6507e9be6471607641f"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/13_DSCN2720.JPG",
+    "originalName": "DSCN2720.JPG",
+    "previousPath": "04 - Отдых/13_DSCN2720.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4011222,
+    "sha256": "3d1d5ba10d3c8ceab19a47e59a4db2555eea8cdbed6c49047dfa4bf9d50df8e3",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1M5TBKZc8xPFTl7srI4mAWS39RCf5qCM2",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/DSCN2720.jpg",
+     "name": "DSCN2720.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 798998,
+      "sha256": "8368b7f243b8206b40c219cdd9bc00496dca72406dff94f9837a2e9fa56d7bd6"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/14_20160611_104431.jpg",
+    "originalName": "20160611_104431.jpg",
+    "previousPath": "04 - Отдых/14_20160611_104431.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 4438375,
+    "sha256": "c69909d0f16f3f338c847217ebf4f09d1d70bf658c56e83b5d08a3afa5f2bbb9",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1EzX0ilpr_x-QAGi4_mGLBkp7Vxe50G0O",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160611_104431.jpg",
+     "name": "20160611_104431.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 262327,
+      "sha256": "ba7ba5cc5536dd6efbe35043725c6efb363ae06ee3434191c5c9bdfd1ac64948"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/15_20160611_115924.jpg",
+    "originalName": "20160611_115924.jpg",
+    "previousPath": "04 - Отдых/15_20160611_115924.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 4278844,
+    "sha256": "9ced276a142f9d29cd4f15913cdb3813f43e812f27ba846065bc5bf6501c1503",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1x_IX1IVva0LCmz1K9AgiF4HFcldW47u1",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160611_115924.jpg",
+     "name": "20160611_115924.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 286495,
+      "sha256": "27fc68666c1b2c8f9c4e54c26ca5a0ea0cd96059ef24e48dd7fb51d480fa87c4"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/16_20160612_082236.jpg",
+    "originalName": "20160612_082236.jpg",
+    "previousPath": "04 - Отдых/16_20160612_082236.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 6272888,
+    "sha256": "45f90dd5fd05162e9b84f84fcea5a2c4fec7684cb6d4246519b9516630c8204d",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "12RXqnO6pWgV4nMl-rbFNuMXftriArwK1",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160612_082236.jpg",
+     "name": "20160612_082236.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 488003,
+      "sha256": "7fa5c7eafdb30836a0c3d9ae2c07f3b5be0ed7955f428bb3640959ba9a1920b6"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/17_20160612_090120.jpg",
+    "originalName": "20160612_090120.jpg",
+    "previousPath": "04 - Отдых/17_20160612_090120.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 4473130,
+    "sha256": "bc16cd3ea7ab71c1e7ad439ab720acb98a62b68338d5da858583fa6f8e1f66c8",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1g0Hu1K1oXgN9hPg7sxh933Lf3M453cDz",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160612_090120.jpg",
+     "name": "20160612_090120.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 191384,
+      "sha256": "8c7bc3b2d33f36d85c3f4e43311b55e2365674a025e4f4f8855dc35dbd9d424e"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/18_20160612_090545.jpg",
+    "originalName": "20160612_090545.jpg",
+    "previousPath": "04 - Отдых/18_20160612_090545.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 5400327,
+    "sha256": "7f345dfcea2e036f5284358ea10adbf14c3c96e1c23bcaa406ff56305b891a3e",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1scLWWOIh7Ld8jDpdvRgUQyo705C3-YBE",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160612_090545.jpg",
+     "name": "20160612_090545.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 341091,
+      "sha256": "8255e96ef159721f58b171f07968b2bffb6fbd9d129c1605c930ce609e7592d2"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/19_20160612_103532.jpg",
+    "originalName": "20160612_103532.jpg",
+    "previousPath": "04 - Отдых/19_20160612_103532.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 4328268,
+    "sha256": "53769a1fb548f5ef6fa2d206423a2dd216c8f72971eb05f8f18ad43b5ff99001",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1owesH59QfW-9JOVLSZHHANVdY5dhqvUm",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160612_103532.jpg",
+     "name": "20160612_103532.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 193091,
+      "sha256": "2d4b56871bf5792968e22a2645ce1e3d43eb2bdb5f4f7ace8d0c0be3839a6610"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/20_20160612_103539.jpg",
+    "originalName": "20160612_103539.jpg",
+    "previousPath": "04 - Отдых/20_20160612_103539.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 5015718,
+    "sha256": "75d731a5a3f69ccaf35b540c24ff4e8372cb3817df2a407b0ced9aad35c96f16",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1dM6OCnXNr2whJjRVu-dM179YewwtWwhy",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160612_103539.jpg",
+     "name": "20160612_103539.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 253339,
+      "sha256": "ff3b1a93bb9eda5dbc70909059459b563df1027f052a274fd6f344b342a2dd4f"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/21_DSC05107.JPG",
+    "originalName": "DSC05107.JPG",
+    "previousPath": "04 - Отдых/21_DSC05107.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4732063,
+    "sha256": "46b07913b3b6e7461bba0aff769dd8ca82e62a1934f377eb994eb20225c4e507",
+    "width": 4896,
+    "height": 3672,
+    "takenAt": null,
+    "driveId": "1mvQui8ydgNA3ckLR04RDzegA9NUnhTor",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/DSC05107.jpg",
+     "name": "DSC05107.jpg",
+     "copy": {
+      "width": 1500,
+      "height": 2000,
+      "bytes": 350773,
+      "sha256": "75949e565f5d1e624d75f2d9b0f2b27505cad3ad4a096e6c91368a766614a4ec"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/22_DSC05111.JPG",
+    "originalName": "DSC05111.JPG",
+    "previousPath": "04 - Отдых/22_DSC05111.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 3436873,
+    "sha256": "bfeeb7b0ab971bb99f5aee85a1bc18369fc264bec6b2c23701b3a375159b87c3",
+    "width": 4896,
+    "height": 3672,
+    "takenAt": null,
+    "driveId": "15eHun3046tXrfcBAhgfaG-pw8IjeJVb9",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/DSC05111.jpg",
+     "name": "DSC05111.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 200455,
+      "sha256": "430172db7acd303105c39e331cff32cb8d10b1bfa0262068ee3ef29f39e636d4"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/23_20160612_115200.jpg",
+    "originalName": "20160612_115200.jpg",
+    "previousPath": "04 - Отдых/23_20160612_115200.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 5175199,
+    "sha256": "fe69728e9e1e1d729d41412ac21d71157df5c6242b7f93fc21e1c26623a14916",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1kK-boGrFnwvzkY09cjLw3h-nh7x_kI15",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160612_115200.jpg",
+     "name": "20160612_115200.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 252490,
+      "sha256": "b22d2bc03a7fdd538da07bdc443e5316849d14b70bbd02bc2cc71d8a6be1c954"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/24_20160612_115257.jpg",
+    "originalName": "20160612_115257.jpg",
+    "previousPath": "04 - Отдых/24_20160612_115257.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 5822948,
+    "sha256": "e4fd6956a172480f4afa999ca84c464768dd1f37d4f36d19dc013f65d993bc89",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "13AChaYNxXsCFh2SCiQATzw3C39O_ZsBg",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160612_115257.jpg",
+     "name": "20160612_115257.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 418325,
+      "sha256": "08fcc9d6b1e5d9b8600bb5f2309e63f55475dc1317bf5967e10d674421c50c06"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/25_20160612_115540_1.jpg",
+    "originalName": "20160612_115540_1.jpg",
+    "previousPath": "04 - Отдых/25_20160612_115540_1.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 6651766,
+    "sha256": "11cec294f816076bedce412c3acd9e9c2a951e99e720f70e9957621404ec611f",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1XloM1pllAEtiImiFBlbE1enHwHGIyQlB",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160612_115540_1.jpg",
+     "name": "20160612_115540_1.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 562302,
+      "sha256": "e29c24e9eb25e0f441e60d7025d46d0c10c96baf6e5ddf161ac40e3bfddf11ba"
+     }
+    }
+   },
+   {
+    "archivePath": "04 - Отдых/26_20160612_131921.jpg",
+    "originalName": "20160612_131921.jpg",
+    "previousPath": "04 - Отдых/26_20160612_131921.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 3907519,
+    "sha256": "009bebcc66a47ddf1b5e803bcfd1cbce85b2e8b86492588707d716f83361984d",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1d-Xa_VNvRIncWZClBRcpBy7QXdOcVTpZ",
+    "chapter": "temagami-2",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-2/20160612_131921.jpg",
+     "name": "20160612_131921.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 242024,
+      "sha256": "f6143cbc845acf97622f53acecf9fc86a55fec2b5a8dd9bb26e9f00148f826ba"
+     }
+    }
    },
    {
     "archivePath": "05 - Флора и фауна/01_20160612_120900.jpg",
@@ -2224,7 +3717,7 @@
   "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
   "longSideLimit": 2000,
   "preparedFrom": "Drive archive originals",
-  "verifiedAt": "2026-10-10T04:06:53.568Z",
+  "verifiedAt": "2026-10-10T04:13:12.865Z",
   "verification": "every public URL fetched: HTTP 200, image content-type, SHA-256 equals the local screen copy",
   "photos": [
    {
@@ -2746,6 +4239,851 @@
      "sha256": "a04e8d9133fa77059f5d2a32d16ba65a13b0a4395ea5bfd5218a9649e68caea5"
     },
     "chapter": "new-york"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2678.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2678.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 679265,
+    "sha256": "d81533c47a5674b4d7dbde22ef9b695a4a68c8360125fc477557a06ee5619f8b",
+    "original": {
+     "archivePath": "03 - Кораблик/01_DSCN2678.JPG",
+     "sha256": "0042bc62365e66f31ff32fcb5f3bf182ce29f1cf3d625a29433fa879b9e41e1c"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/20160611_154602.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/20160611_154602.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 414954,
+    "sha256": "ede50cc05856269e435a7631d5ef6d6443b9706ba038722c3ea67ef6dd57490c",
+    "original": {
+     "archivePath": "03 - Кораблик/02_20160611_154602.jpg",
+     "sha256": "1a81545f0baa59c66175ee71f913cbf5f552b4ae12ca9346d5c779bc90a13b42"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/Capture.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/Capture.jpg",
+    "width": 604,
+    "height": 364,
+    "bytes": 37567,
+    "sha256": "30b83554d18ca46b7c0b68d4f3f18a5accf9a4c5b6a0f1d5d87573a45021baa3",
+    "original": {
+     "archivePath": "03 - Кораблик/03_Capture.JPG",
+     "sha256": "063d067344a60146490bcbd18a2ffd007766619fcdcd92f6547a17a2da666232"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2583.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2583.jpg",
+    "width": 1500,
+    "height": 2000,
+    "bytes": 233953,
+    "sha256": "795c26d6cc184925cfb45258e10a40ac2555bd42a87154b1e78dfa8f89c9b06a",
+    "original": {
+     "archivePath": "03 - Кораблик/04_DSCN2583.JPG",
+     "sha256": "e9790efe2d96b4ef5f5ecf32fff05b1c4cc7ecb6b767a7e2582f2ad47cd9e140"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2521.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2521.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 439593,
+    "sha256": "f5d6e57227d00a166d2b82d335b4156c24b732f4bd72318e11b23238e27f2dac",
+    "original": {
+     "archivePath": "03 - Кораблик/05_DSCN2521.JPG",
+     "sha256": "6c07bfa93891630c67e124e706c6e6f82150e1cec4ec44867e1050cfd3c6b479"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/20160609_212709.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/20160609_212709.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 234197,
+    "sha256": "24cf7f59b754d7b7c04bdfd99bf0ff91d5b60c1c908da16b89dfc8e008f0a1cd",
+    "original": {
+     "archivePath": "03 - Кораблик/06_20160609_212709.jpg",
+     "sha256": "d447e8c0ae6ff19f657bb69cec712a154932518d587a53eedb0ab760bcfcd635"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/20160610_121753.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/20160610_121753.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 547612,
+    "sha256": "1379c29ee405a7f9d67e596fb57e0b2a04beb78167cd0b2607a25af443f98be3",
+    "original": {
+     "archivePath": "03 - Кораблик/07_20160610_121753.jpg",
+     "sha256": "274e609e3d37b30b0934a4e9dbab854bfe4c2a007877302ca62710785b02d9f9"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/20160610_102445.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/20160610_102445.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 356543,
+    "sha256": "be020b3743ca9a8045210872a9268a2ddfe2e2a14ae868b9b672a2995932d006",
+    "original": {
+     "archivePath": "03 - Кораблик/08_20160610_102445.jpg",
+     "sha256": "543f055f14b46f24a03cf6d8adce8952d78a1c9842c69ccc26615271cffe9799"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/20160611_155850.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/20160611_155850.jpg",
+    "width": 1126,
+    "height": 2000,
+    "bytes": 353712,
+    "sha256": "db6f6e8ed2b3e2d3afa661f917d2bd27a5f100b9f8cb28ff920c57be9c2810e3",
+    "original": {
+     "archivePath": "03 - Кораблик/09_20160611_155850.jpg",
+     "sha256": "ce45bd67ec4ba96dc3e1fa4d1d317bd2e0da7dfd355faea659ebd46a068dfc26"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/20160610_164905.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/20160610_164905.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 225251,
+    "sha256": "83f0812cc64536c4fd150f9c5c4482745bb6560ddd0ec9a31ac0a82a0fb239f2",
+    "original": {
+     "archivePath": "03 - Кораблик/10_20160610_164905.jpg",
+     "sha256": "05f23b32deac336ea465170bf34d90329a64a013e569564f70601231fcb26c88"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/20160610_085039.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/20160610_085039.jpg",
+    "width": 1126,
+    "height": 2000,
+    "bytes": 177300,
+    "sha256": "95c5262e5ea5439ed1dcb73dba71e6538b02d860b41bdec99ddf93ce2048e2bd",
+    "original": {
+     "archivePath": "03 - Кораблик/11_20160610_085039.jpg",
+     "sha256": "e33bbea64ba94fd5e4bd6fe34d436edca0f169ae934ba1dc4a77cad6dc961c10"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2520.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2520.jpg",
+    "width": 1500,
+    "height": 2000,
+    "bytes": 392956,
+    "sha256": "667804fa4f6127edbfad8ff793517139aeea92e300adf5125eb3b2991cc254e9",
+    "original": {
+     "archivePath": "03 - Кораблик/12_DSCN2520.JPG",
+     "sha256": "bdb0131d919c75a2c7f65a60ec87e0bdf07675b67013badf7eaf7bc079dfdefc"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2524.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2524.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 522734,
+    "sha256": "3b322c6c917874bded8fa05785dfeba0302b039e7864acd6cf5715c5438558db",
+    "original": {
+     "archivePath": "03 - Кораблик/13_DSCN2524.JPG",
+     "sha256": "f050b07a046b9ebb46fa74cf4720a601d8ac042508b4e4eb125be94b05212567"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSC04878.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSC04878.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 271901,
+    "sha256": "99736bab02fa3d3b08af44070b7b21bb28de3466dcbdbaa001494e13ef7fae20",
+    "original": {
+     "archivePath": "03 - Кораблик/14_DSC04878.JPG",
+     "sha256": "2211e08963cd442c96ecbc1561ad6bc37bd91968ceac1a30f07d3e9cdd9f9adc"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2771.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2771.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 714774,
+    "sha256": "79dea6d5cbbf366a15c00d64cb2a0b90cfc1c9a63c2ff1db1ef2a9f40a19f92c",
+    "original": {
+     "archivePath": "03 - Кораблик/15_DSCN2771.JPG",
+     "sha256": "10c4689a08bdc986aabb27feaee49c29d3181989d6d9ca7d7228209614525e76"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/20160610_110711.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/20160610_110711.jpg",
+    "width": 1126,
+    "height": 2000,
+    "bytes": 190899,
+    "sha256": "b923e42893035493c05c809062fafcbb2c4de67399799c51512b69ccea4326d1",
+    "original": {
+     "archivePath": "03 - Кораблик/16_20160610_110711.jpg",
+     "sha256": "ef3d6c047b13bcde569d1a34c2c6ab633b34fe056b25fdf4f3c3597dc6481d7b"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2759.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2759.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 252193,
+    "sha256": "9195c7beb7d1596932633045bc2b9644b556e8a607528265add46a172699f8d2",
+    "original": {
+     "archivePath": "03 - Кораблик/17_DSCN2759.JPG",
+     "sha256": "f2d0d628162481fe57c3f49986961acae418f8683a791818254a1b0452d143c4"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2760.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2760.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 207694,
+    "sha256": "6cf6a189ef71c66d6dbd9a54c870da7828570d5469efc9382ae6c47e1c0bdeb6",
+    "original": {
+     "archivePath": "03 - Кораблик/18_DSCN2760.JPG",
+     "sha256": "b6052a1d4cf0d0049ba9d9b69cc26d53f4fc4af135f09454474b1086387f3b4e"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/20160610_110222.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/20160610_110222.jpg",
+    "width": 1126,
+    "height": 2000,
+    "bytes": 223614,
+    "sha256": "dd9fdd54d1642f1bc80950f91688306fea63a93733a133fce2cb92b58ed06099",
+    "original": {
+     "archivePath": "03 - Кораблик/19_20160610_110222.jpg",
+     "sha256": "a37951e6036c22decb8b5d67254595735346e2356c1fef94d4734b42868a99b1"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/20160610_110229.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/20160610_110229.jpg",
+    "width": 1126,
+    "height": 2000,
+    "bytes": 145601,
+    "sha256": "cbf35e4b7db79b53c57700f8bcec79f920a95e1e197b321bc0e091547ffebdba",
+    "original": {
+     "archivePath": "03 - Кораблик/20_20160610_110229.jpg",
+     "sha256": "5a6dc0c6476c31b8105e76e87b46373a0c63aae8189da39cd9e12a065dd0a4c0"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSC04962.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSC04962.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 378680,
+    "sha256": "8a9cc5bec03deedfeb40c93b098908cb7d106432536e5deb130912ef559966b5",
+    "original": {
+     "archivePath": "03 - Кораблик/21_DSC04962.JPG",
+     "sha256": "1fbd8de50fc9f8a9c53647738987584508fc8c4cfb88478cd2f3c2be9949495c"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSC05006.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSC05006.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 369796,
+    "sha256": "d4f1937c6c9811b7684cdd511b92ce059c7eaa22040a6b9f64cf7401d9fe77f2",
+    "original": {
+     "archivePath": "03 - Кораблик/22_DSC05006.JPG",
+     "sha256": "bc3c028d5cbf6732c814cddea779c11a5493177e398f5eed2d9101ff0c0e9f10"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2764.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2764.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 494129,
+    "sha256": "c6956c15d17d07cc585dad8e3600e400e2c0569968634e61c11854244dc7e0a3",
+    "original": {
+     "archivePath": "03 - Кораблик/23_DSCN2764.JPG",
+     "sha256": "ae02dc7cbc67bc62a7b636283bc487b50061177c2f727eb9736aeea1cce03559"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/20160612_142234.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/20160612_142234.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 510696,
+    "sha256": "79ffd49a3180ce461993205124a7737ec7fb88ccdace5d35fb63a510e6bc9b3b",
+    "original": {
+     "archivePath": "03 - Кораблик/24_20160612_142234.jpg",
+     "sha256": "a95e2a9d8d64760ae54a940fa1cc3a7627cac2da7d7704466ff704b554bb73cf"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2591.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2591.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 247291,
+    "sha256": "a2480c45219ce7fff1c6efbd01a08a6246dea8a57cecaf1d17cd32d45799c33e",
+    "original": {
+     "archivePath": "03 - Кораблик/25_DSCN2591.JPG",
+     "sha256": "50e5426909e198ab68bc8838dd4353248569dc8e260b0e386354c9955ce83ec7"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSC05088.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSC05088.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 354763,
+    "sha256": "e46c8561a6a072c878e4a6944d266e0f7201b6601841750e59700fbfb35a2f52",
+    "original": {
+     "archivePath": "03 - Кораблик/26_DSC05088.JPG",
+     "sha256": "defbd4296c10d92cc7fbb37cd7cd2bae26d92d11945add8199c517923c23527a"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2534.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2534.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 442922,
+    "sha256": "c906164c141e4214f061d0ec8529a1731350b840857168934324d184c8f7f399",
+    "original": {
+     "archivePath": "03 - Кораблик/27_DSCN2534.JPG",
+     "sha256": "f19b4e32cc57b709a224c12f7439bf7e33296a759468021bb53d972f1935cc49"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2721.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2721.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 629150,
+    "sha256": "68f994df4b318318fab905705764448e2aaa50b4c2a0903978d442e40fd0c9a7",
+    "original": {
+     "archivePath": "03 - Кораблик/28_DSCN2721.JPG",
+     "sha256": "6ceae9e35533903fa804e2ca05a3a590df608a9749d859656cdc51678493edc7"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2843.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2843.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 562635,
+    "sha256": "d71081e4ea55ad28366a16220117fcffba08b039d8774ea93956255561ee30ff",
+    "original": {
+     "archivePath": "03 - Кораблик/29_DSCN2843.JPG",
+     "sha256": "a3178d27b3b2e14891d6a4802aec316ac028daf4dc9473ffcd115732a08cfc24"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSC04985.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSC04985.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 808062,
+    "sha256": "a331453ab751fbf47bf8116501e2f23be7cff5b9342d3f94e5fc821320a29aae",
+    "original": {
+     "archivePath": "03 - Кораблик/30_DSC04985.JPG",
+     "sha256": "070d2a4509ff95590bff636c9a4a538dd21b9adf73b4c35f405294fcb22971ff"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2539.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2539.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 536434,
+    "sha256": "85102b0a2930f26f1e71cfab151021e973499a524e779ffc04636d4e13346418",
+    "original": {
+     "archivePath": "03 - Кораблик/31_DSCN2539.JPG",
+     "sha256": "9c5159707560beb6c4f227a7af941d19056cfb54889e2c7fd617989349353090"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/20160612_115020.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/20160612_115020.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 227744,
+    "sha256": "83ce55a8e509401b0370c90b7afee78cc860513f288104e7f982018f651fbea7",
+    "original": {
+     "archivePath": "03 - Кораблик/32_20160612_115020.jpg",
+     "sha256": "6ac25fe91edf74eebb159d65d31f2183fe5f91121ecd27e650d22ba074f53dfd"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSC04950.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSC04950.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 670809,
+    "sha256": "84da57ad9d24211bc88930f377af7fbed0e52ad6e3fe5aef2a33fec68ff0d0a9",
+    "original": {
+     "archivePath": "03 - Кораблик/33_DSC04950.JPG",
+     "sha256": "d9a18ee4510ccff8ad92f9e32963e74ef056806b9f4e554d4a0256c68d0a6c2b"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSC04952.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSC04952.jpg",
+    "width": 1500,
+    "height": 2000,
+    "bytes": 824796,
+    "sha256": "7ec44551c63d7ecb9bcb193c046df52bcc17ca5f722e35febc56d7b4c64ee7a7",
+    "original": {
+     "archivePath": "03 - Кораблик/34_DSC04952.JPG",
+     "sha256": "601347c4dca9a286d163700fbabb5bf354df3482fa695f76787926dc61d4bfd7"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSC05090.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSC05090.jpg",
+    "width": 1500,
+    "height": 2000,
+    "bytes": 685578,
+    "sha256": "b823ff2547afd34521408858821c975e968af22da98cd17429591698f82da0bc",
+    "original": {
+     "archivePath": "03 - Кораблик/35_DSC05090.JPG",
+     "sha256": "56324b17906408bdf2b0831c264721dbfaf1d5d9a0110e2132bf5de43068f5a1"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2597.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2597.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 969368,
+    "sha256": "4144744552d3aa637e762fbc53ad8b88fd91ef1a6b621a5e53531b8918008618",
+    "original": {
+     "archivePath": "03 - Кораблик/36_DSCN2597.JPG",
+     "sha256": "10b59517a44347715a15272303cc9c746641a5f6274feed5b24c1b204928c378"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSC04970.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSC04970.jpg",
+    "width": 1500,
+    "height": 2000,
+    "bytes": 423832,
+    "sha256": "055fa8b74fb754457914065b7a32317c32f58e1567849beeff8c7591b3259f30",
+    "original": {
+     "archivePath": "03 - Кораблик/37_DSC04970.JPG",
+     "sha256": "5903ba46339df96d1e4ceed6e5d050f068969576ac6f6f8d2142040b3fd098bf"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSC04998.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSC04998.jpg",
+    "width": 1500,
+    "height": 2000,
+    "bytes": 633638,
+    "sha256": "a3d9a1c477ceae72083358b2473497d25c42fee90c05ee5e797a069016ce568e",
+    "original": {
+     "archivePath": "03 - Кораблик/38_DSC04998.JPG",
+     "sha256": "bf1a36df38a176f29b1b2caf6beaaa9334fe368836105ecc964d6b89ecb9fcf2"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-1/DSCN2800.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2800.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 111057,
+    "sha256": "1bf19f6a8b8e7b80c0154596026e6df4017a09cf9080e126d18f8ce9f11d46d0",
+    "original": {
+     "archivePath": "03 - Кораблик/39_DSCN2800.JPG",
+     "sha256": "2c57976e5cda72dfd2951c0e1e77dbf89f396bcd3ecb05c55f5bd24703597683"
+    },
+    "chapter": "temagami-1"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160611_160926.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160611_160926.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 638300,
+    "sha256": "0a1cbf7604f5c2d927b961991ea5bec2104d1631218c5bf4fb764ac82aa91788",
+    "original": {
+     "archivePath": "04 - Отдых/01_20160611_160926.jpg",
+     "sha256": "09eb221382ee8d2b36724664bb64bc8fad14e47525f2bfe2bd832444c794c03e"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/DSC04883.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/DSC04883.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 158434,
+    "sha256": "a9aeb7438d2e82965e71d21fe696e2a79bb6bac56caf71dad7fdad472b9ff04d",
+    "original": {
+     "archivePath": "04 - Отдых/02_DSC04883.JPG",
+     "sha256": "6c22a1f8522cdb6515bb9f2eb6da776ac81c0031cd08ecc8d7d7deff63c30374"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/DSCN2627.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/DSCN2627.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 239063,
+    "sha256": "ebd7e465194c459188981433617088a1ebc657a598829ebe6d453a6ebdf0fbf4",
+    "original": {
+     "archivePath": "04 - Отдых/03_DSCN2627.JPG",
+     "sha256": "c076e0328f5b1f5d88703c7c3964bdb1615c11b1c5ae2c1b0786db19a2dcdb28"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/DSCN2633.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/DSCN2633.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 103995,
+    "sha256": "94a98668662ed1bc5a487a585b137ef8b06c0adfb0a28a0b08b3907ab4aeecb1",
+    "original": {
+     "archivePath": "04 - Отдых/04_DSCN2633.JPG",
+     "sha256": "dd935e9d67eb3cea6b0e3a0adca2fd26941f4dce3fd66a6e5fcfa063989016a2"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/DSCN2650.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/DSCN2650.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 145247,
+    "sha256": "db9e1e511ddc48480b068a08e1fe82817152f4f6769934498512bbf200c73ce3",
+    "original": {
+     "archivePath": "04 - Отдых/05_DSCN2650.JPG",
+     "sha256": "1a80096e8dc77ccacc315af9dd1bdcc58b5e3850bae34a1553a772bb7e5d3055"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160611_152241.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160611_152241.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 381426,
+    "sha256": "506925e037bd6b06e94c2decfacd88cd4930216ee3e5943aa63acabc8117809e",
+    "original": {
+     "archivePath": "04 - Отдых/06_20160611_152241.jpg",
+     "sha256": "15a46827d3960080b082aed2532e00880d9b6c5d7cfa7c5c11fc5e5da3b170b8"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160611_161337.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160611_161337.jpg",
+    "width": 1126,
+    "height": 2000,
+    "bytes": 199696,
+    "sha256": "76f428c1befebad8f55c56b2c8c8354e66ecaf51b39047c3ca069804b5e9cae8",
+    "original": {
+     "archivePath": "04 - Отдых/07_20160611_161337.jpg",
+     "sha256": "d1afcc6daba08f2ad0158c05157e7be9ae94bfaba45e99d63f6719c12f0d76a7"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160611_163116_1.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160611_163116_1.jpg",
+    "width": 1126,
+    "height": 2000,
+    "bytes": 421881,
+    "sha256": "b77fba866512fb514a4def21bbe19440a2394025219e2fe9edc06a016bc53c84",
+    "original": {
+     "archivePath": "04 - Отдых/08_20160611_163116_1.jpg",
+     "sha256": "61e890b3d187b0e7a9700f31cf9572684e1309655fba32921f2e57f7bc9ad178"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160611_163137.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160611_163137.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 324922,
+    "sha256": "45fdb505118f9eb8a36d6c0b4f46b017bb288949d7df939ca386b4f439311dd9",
+    "original": {
+     "archivePath": "04 - Отдых/09_20160611_163137.jpg",
+     "sha256": "b239be923f394ceb52f30439098fc216f10e5c97c8aa776ade36a13d7ee2c400"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160611_163153.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160611_163153.jpg",
+    "width": 1126,
+    "height": 2000,
+    "bytes": 211451,
+    "sha256": "39110c6ce993fd4f2835ad5e78697a1bfd9faaebdbcb805010cf7968d0742482",
+    "original": {
+     "archivePath": "04 - Отдых/10_20160611_163153.jpg",
+     "sha256": "a70c941b9b5da7fbe484152e7cfc5639f51f8601b0fbe478e249e0bb5acfa13a"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160611_164059.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160611_164059.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 353311,
+    "sha256": "4f003d82dfba252bd0858a2fbe45ddaeb98bdf52a08937a27de59ecb62c97b79",
+    "original": {
+     "archivePath": "04 - Отдых/11_20160611_164059.jpg",
+     "sha256": "8fcc8af8557ab53db28919ca99e9f1b4300309a6f2dc09f3b86f8909e6aa83d1"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/DSC05059.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/DSC05059.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 483773,
+    "sha256": "9a8de671f1e4f63345c73f79b824ebbee998e7a67f2fa6507e9be6471607641f",
+    "original": {
+     "archivePath": "04 - Отдых/12_DSC05059.JPG",
+     "sha256": "1bea109f8cfc96c7b3253214766949eaf7a9daaea6358ee2aa776f9351283300"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/DSCN2720.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/DSCN2720.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 798998,
+    "sha256": "8368b7f243b8206b40c219cdd9bc00496dca72406dff94f9837a2e9fa56d7bd6",
+    "original": {
+     "archivePath": "04 - Отдых/13_DSCN2720.JPG",
+     "sha256": "3d1d5ba10d3c8ceab19a47e59a4db2555eea8cdbed6c49047dfa4bf9d50df8e3"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160611_104431.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160611_104431.jpg",
+    "width": 1126,
+    "height": 2000,
+    "bytes": 262327,
+    "sha256": "ba7ba5cc5536dd6efbe35043725c6efb363ae06ee3434191c5c9bdfd1ac64948",
+    "original": {
+     "archivePath": "04 - Отдых/14_20160611_104431.jpg",
+     "sha256": "c69909d0f16f3f338c847217ebf4f09d1d70bf658c56e83b5d08a3afa5f2bbb9"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160611_115924.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160611_115924.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 286495,
+    "sha256": "27fc68666c1b2c8f9c4e54c26ca5a0ea0cd96059ef24e48dd7fb51d480fa87c4",
+    "original": {
+     "archivePath": "04 - Отдых/15_20160611_115924.jpg",
+     "sha256": "9ced276a142f9d29cd4f15913cdb3813f43e812f27ba846065bc5bf6501c1503"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160612_082236.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160612_082236.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 488003,
+    "sha256": "7fa5c7eafdb30836a0c3d9ae2c07f3b5be0ed7955f428bb3640959ba9a1920b6",
+    "original": {
+     "archivePath": "04 - Отдых/16_20160612_082236.jpg",
+     "sha256": "45f90dd5fd05162e9b84f84fcea5a2c4fec7684cb6d4246519b9516630c8204d"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160612_090120.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160612_090120.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 191384,
+    "sha256": "8c7bc3b2d33f36d85c3f4e43311b55e2365674a025e4f4f8855dc35dbd9d424e",
+    "original": {
+     "archivePath": "04 - Отдых/17_20160612_090120.jpg",
+     "sha256": "bc16cd3ea7ab71c1e7ad439ab720acb98a62b68338d5da858583fa6f8e1f66c8"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160612_090545.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160612_090545.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 341091,
+    "sha256": "8255e96ef159721f58b171f07968b2bffb6fbd9d129c1605c930ce609e7592d2",
+    "original": {
+     "archivePath": "04 - Отдых/18_20160612_090545.jpg",
+     "sha256": "7f345dfcea2e036f5284358ea10adbf14c3c96e1c23bcaa406ff56305b891a3e"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160612_103532.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160612_103532.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 193091,
+    "sha256": "2d4b56871bf5792968e22a2645ce1e3d43eb2bdb5f4f7ace8d0c0be3839a6610",
+    "original": {
+     "archivePath": "04 - Отдых/19_20160612_103532.jpg",
+     "sha256": "53769a1fb548f5ef6fa2d206423a2dd216c8f72971eb05f8f18ad43b5ff99001"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160612_103539.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160612_103539.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 253339,
+    "sha256": "ff3b1a93bb9eda5dbc70909059459b563df1027f052a274fd6f344b342a2dd4f",
+    "original": {
+     "archivePath": "04 - Отдых/20_20160612_103539.jpg",
+     "sha256": "75d731a5a3f69ccaf35b540c24ff4e8372cb3817df2a407b0ced9aad35c96f16"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/DSC05107.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/DSC05107.jpg",
+    "width": 1500,
+    "height": 2000,
+    "bytes": 350773,
+    "sha256": "75949e565f5d1e624d75f2d9b0f2b27505cad3ad4a096e6c91368a766614a4ec",
+    "original": {
+     "archivePath": "04 - Отдых/21_DSC05107.JPG",
+     "sha256": "46b07913b3b6e7461bba0aff769dd8ca82e62a1934f377eb994eb20225c4e507"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/DSC05111.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/DSC05111.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 200455,
+    "sha256": "430172db7acd303105c39e331cff32cb8d10b1bfa0262068ee3ef29f39e636d4",
+    "original": {
+     "archivePath": "04 - Отдых/22_DSC05111.JPG",
+     "sha256": "bfeeb7b0ab971bb99f5aee85a1bc18369fc264bec6b2c23701b3a375159b87c3"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160612_115200.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160612_115200.jpg",
+    "width": 1126,
+    "height": 2000,
+    "bytes": 252490,
+    "sha256": "b22d2bc03a7fdd538da07bdc443e5316849d14b70bbd02bc2cc71d8a6be1c954",
+    "original": {
+     "archivePath": "04 - Отдых/23_20160612_115200.jpg",
+     "sha256": "fe69728e9e1e1d729d41412ac21d71157df5c6242b7f93fc21e1c26623a14916"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160612_115257.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160612_115257.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 418325,
+    "sha256": "08fcc9d6b1e5d9b8600bb5f2309e63f55475dc1317bf5967e10d674421c50c06",
+    "original": {
+     "archivePath": "04 - Отдых/24_20160612_115257.jpg",
+     "sha256": "e4fd6956a172480f4afa999ca84c464768dd1f37d4f36d19dc013f65d993bc89"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160612_115540_1.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160612_115540_1.jpg",
+    "width": 1126,
+    "height": 2000,
+    "bytes": 562302,
+    "sha256": "e29c24e9eb25e0f441e60d7025d46d0c10c96baf6e5ddf161ac40e3bfddf11ba",
+    "original": {
+     "archivePath": "04 - Отдых/25_20160612_115540_1.jpg",
+     "sha256": "11cec294f816076bedce412c3acd9e9c2a951e99e720f70e9957621404ec611f"
+    },
+    "chapter": "temagami-2"
+   },
+   {
+    "key": "toronto-2016/temagami-2/20160612_131921.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-2/20160612_131921.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 242024,
+    "sha256": "f6143cbc845acf97622f53acecf9fc86a55fec2b5a8dd9bb26e9f00148f826ba",
+    "original": {
+     "archivePath": "04 - Отдых/26_20160612_131921.jpg",
+     "sha256": "009bebcc66a47ddf1b5e803bcfd1cbce85b2e8b86492588707d716f83361984d"
+    },
+    "chapter": "temagami-2"
    },
    {
     "key": "toronto-2016/temagami-3/20160612_120900.jpg",
