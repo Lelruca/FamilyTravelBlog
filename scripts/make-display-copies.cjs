@@ -25,10 +25,24 @@ const chapters = fs.readdirSync(tripDir)
   .sort((a, b) => a.weight - b.weight)
   // chapters without any photo (e.g. a short conclusion) have no Drive folder
   .filter(c => /(?:[?&]id=[\w-]{20}|\.jpg\b|photoscroller|essay-photo)/i.test(fs.readFileSync(path.join(tripDir, c.slug, "index.md"), "utf8")));
-const folders = fs.readdirSync(driveDir).filter(d => /^\d+ - /.test(d)).sort();
-if (folders.length !== chapters.length) {
-  console.error(`Folders (${folders.length}) and chapters (${chapters.length}) do not match`);
-  process.exit(1);
+// A chapter folder with no photos yet (created ahead of time) has no chapter on the site to match.
+const folders = fs.readdirSync(driveDir).filter(d => /^\d+ - /.test(d))
+  .filter(d => fs.readdirSync(path.join(driveDir, d)).some(f => /\.(jpe?g|png|heic|webp)$/i.test(f) && !/^zz_/.test(f))).sort();
+// Folders and chapters are matched by order. While some chapters are still without photos in the text but
+// their Drive folders already hold photos, match by the folder number (01 = first chapter) instead.
+let pairs;
+if (folders.length === chapters.length) pairs = folders.map((folder, i) => ({ folder, ch: chapters[i].slug }));
+else {
+  const all = fs.readdirSync(tripDir)
+    .filter(d => fs.existsSync(path.join(tripDir, d, "index.md")))
+    .map(d => ({ slug: d, weight: +((fs.readFileSync(path.join(tripDir, d, "index.md"), "utf8").match(/^weight:\s*(\d+)/m) || [])[1] || 0) }))
+    .sort((a, b) => a.weight - b.weight);
+  const num = f => +f.match(/^(\d+) - /)[1];
+  if (!folders.every(f => num(f) >= 1 && num(f) <= all.length)) {
+    console.error(`Folders (${folders.length}) and chapters (${chapters.length}) do not match`);
+    process.exit(1);
+  }
+  pairs = folders.filter(f => chapters.some(c => c.slug === all[num(f) - 1].slug)).map(folder => ({ folder, ch: all[num(folder) - 1].slug }));
 }
 
 // Our archive prefixes (NN_, NNa_) are not part of the photo's name on the site.
@@ -42,8 +56,7 @@ const rotate = fs.existsSync(rotateFile) ? JSON.parse(fs.readFileSync(rotateFile
 const turn = { 90: ",transpose=1", 180: ",transpose=1,transpose=1", 270: ",transpose=2" };
 const data = fs.existsSync(dataFile) ? JSON.parse(fs.readFileSync(dataFile, "utf8")) : {};
 let made = 0, kept = 0;
-folders.forEach((folder, i) => {
-  const ch = chapters[i].slug;
+pairs.forEach(({ folder, ch }) => {
   if (only.length && !only.includes(ch)) return;
   const outDir = path.join("static", "r2", tripSlug, ch);
   fs.mkdirSync(outDir, { recursive: true });
