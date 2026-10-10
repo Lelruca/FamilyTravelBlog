@@ -1,0 +1,1432 @@
+{
+ "trip": "2016 - Наши немцы в Канаде",
+ "slug": "toronto-2016",
+ "source": "Отчеты/2016_ _Наши немцы в Канаде_.docx",
+ "chapters": [
+  {
+   "folder": "01 - Торонто 1",
+   "slug": "toronto-1"
+  },
+  {
+   "folder": "02 - NY",
+   "slug": "new-york"
+  },
+  {
+   "folder": "03 - Озеро Темагами 1 - кораблик",
+   "slug": "temagami-1",
+   "status": "photos not chosen yet"
+  },
+  {
+   "folder": "04 - Озеро Темагами 2 - отдых",
+   "slug": "temagami-2",
+   "status": "photos not chosen yet"
+  },
+  {
+   "folder": "05 - Озеро Темагами 3 - флора и фауна",
+   "slug": "temagami-3",
+   "status": "photos not chosen yet"
+  },
+  {
+   "folder": "06 - Торонто - заключение",
+   "slug": "toronto-conclusion"
+  }
+ ],
+ "originalPhotoLinks": "77 Google Photos links in the DOCX need a Google sign-in and do not return images; the owner chose the photos from OneDrive Photo/2016/2016 Лето/Наши немцы в Канаде instead.",
+ "archive": {
+  "folder": "North America/2016 - Наши немцы в Канаде",
+  "checkedAt": "2026-10-10T01:45:05.611Z",
+  "images": 57,
+  "unused": 1,
+  "bytes": 272484544,
+  "verification": "every file copied from the owner's subfolders, SHA-256 compared before deleting the source; all 58 files have non-local Drive IDs (uploaded to the cloud)",
+  "files": [
+   {
+    "archivePath": "01 - Торонто 1/01_20160604_122327.jpg",
+    "originalName": "20160604_122327.jpg",
+    "previousPath": "Toronto/20160604_122327.jpg",
+    "bytes": 3942072,
+    "sha256": "c2be1e29c65063741fd2037ed0313f9856f646ad450ebe87073d7d0984d0151d",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:04 12:23:27",
+    "driveId": "16X4aUIbM37FjKVIB4yH-_a_tODhorVhm",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/20160604_122327.jpg",
+     "name": "20160604_122327.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 115840,
+      "sha256": "166f3ef62a88cbab06b040a727fba26909a3c3fa6bea921bec74b2ba9a4a1da9"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/02_20160604_131711.jpg",
+    "originalName": "20160604_131711.jpg",
+    "previousPath": "Toronto/20160604_131711.jpg",
+    "bytes": 6748944,
+    "sha256": "8a94d7e1a58bbce7729ebc18c604dc581db2c6a3fae11739b9ac0cb95ddabe11",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:04 13:17:11",
+    "driveId": "1Jg1BiGdDIrws-hhYZjWCeFKMqwD-h423",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/20160604_131711.jpg",
+     "name": "20160604_131711.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 535867,
+      "sha256": "8a4e5d473015889fa40eed3a7ae335b1e4a02637bcc885ed24f6cd5b206ad6fe"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/03_20160604_162923.jpg",
+    "originalName": "20160604_162923.jpg",
+    "previousPath": "Toronto/20160604_162923.jpg",
+    "bytes": 3532038,
+    "sha256": "a190232c817e5aa9c81976246ac548d5a5b8cdd800a85a5ff16a61526d8306ba",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:04 16:29:23",
+    "driveId": "1BzFDoD3VpEEwLu8eg0xBN89SPLe6U8SF",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/20160604_162923.jpg",
+     "name": "20160604_162923.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 244340,
+      "sha256": "67985d7999ffa04154d5bdcf71cbfbecd3265622984ff89cfb4ac2d69839fd85"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/04_20160605_175558.jpg",
+    "originalName": "20160605_175558.jpg",
+    "previousPath": "Toronto/20160605_175558.jpg",
+    "bytes": 5671972,
+    "sha256": "e24b0d60542c5d791985469c0fcdb6debcf32257c080b68d37c416b6671c47e0",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:05 17:55:58",
+    "driveId": "1B_Hgs0gB3HCHfBp5wgbpbsXXi190p5a8",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/20160605_175558.jpg",
+     "name": "20160605_175558.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 424801,
+      "sha256": "627921a6467c2f8cf2b2baccfb75b159f28621444050f30357a62d974368f4d6"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/05_20160605_180117.jpg",
+    "originalName": "20160605_180117.jpg",
+    "previousPath": "Toronto/20160605_180117.jpg",
+    "bytes": 2698661,
+    "sha256": "1bb1d1fe9ebbd7d6adacb01bdd87d0245b9a13f17b5913e6347efa06aac84b48",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:05 18:01:17",
+    "driveId": "1uNSZQHwnUI6f7-nCtyH38ND4Vi3lKjDY",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/20160605_180117.jpg",
+     "name": "20160605_180117.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 226326,
+      "sha256": "f448998ced6c05ea98cd754bb2c49732aa306446de7ee812c5a1bb4541655811"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/06_DSC04513.JPG",
+    "originalName": "DSC04513.JPG",
+    "previousPath": "Toronto/DSC04513.JPG",
+    "bytes": 5827617,
+    "sha256": "af0fa98aa62fcd5d077390133cd6f78c3d8c636cd373bb40a4e7c93964bed92c",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:05 10:20:53",
+    "driveId": "1cXLYlYdrNOIPr8stUX8fGl1UlZqzJyva",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/DSC04513.jpg",
+     "name": "DSC04513.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 501378,
+      "sha256": "ee1f1038034ff98bb44d6a1f1b725b7dede049f8123f063f3cae84961b5b1486"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/07_20160605_111312.jpg",
+    "originalName": "20160605_111312.jpg",
+    "previousPath": "Toronto/20160605_111312.jpg",
+    "bytes": 7071352,
+    "sha256": "72ebff7ebe08693a8f0eccac770204af7d6fbf2b5ec7ae16b1b37e0ca10a34eb",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:05 11:13:12",
+    "driveId": "1dxgTipm7ddDqAx2PyM2ZS1FoG-JTrSa5",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/20160605_111312.jpg",
+     "name": "20160605_111312.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 586455,
+      "sha256": "5d4a5e58b7ef07193e37c6f6bac237ac849eb06cdc2d67a3fd83ab67c603cb22"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/08_DSC04546.JPG",
+    "originalName": "DSC04546.JPG",
+    "previousPath": "Toronto/DSC04546.JPG",
+    "bytes": 4632013,
+    "sha256": "4471963c707e80a338aa4e0eb378a72905adcce3a62ca5e97835b759c1919b7c",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:05 11:22:35",
+    "driveId": "1uJ3-i_mi01tYzEyKY9AyGXMKB8EAAP30",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/DSC04546.jpg",
+     "name": "DSC04546.jpg",
+     "copy": {
+      "width": 1500,
+      "height": 2000,
+      "bytes": 364071,
+      "sha256": "4659391a7f7f0c4182d4fea4240097d7dff693dde12b4d55dfe99f8d63331d2f"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/09_DSC04547.JPG",
+    "originalName": "DSC04547.JPG",
+    "previousPath": "Toronto/DSC04547.JPG",
+    "bytes": 4263854,
+    "sha256": "f00f2e04ebda8a654eb142644910b67c4423e684065346cc3ed7c2c4b06970b6",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:05 11:22:43",
+    "driveId": "1bJOZDes9azTgfgfYOGjJoxaFPSFPFJlk",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/DSC04547.jpg",
+     "name": "DSC04547.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 281652,
+      "sha256": "a51656abc15d21cdf63cd9ed6d6f900319704012006befa04280ba3d3724d720"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/10_DSC04558.JPG",
+    "originalName": "DSC04558.JPG",
+    "previousPath": "Toronto/DSC04558.JPG",
+    "bytes": 5772384,
+    "sha256": "63c406f1ae4abd32524b87004641d1c505182fc9c755c40e5446afa1bd207d90",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:05 11:30:36",
+    "driveId": "19iCXxaXTKGpS3uYSbPtxl3HqqAgPyMKi",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/DSC04558.jpg",
+     "name": "DSC04558.jpg",
+     "copy": {
+      "width": 1500,
+      "height": 2000,
+      "bytes": 565349,
+      "sha256": "e418bee4de57f51f61936747eeed293361cf97a35cc55f02d6343c948378aaed"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/11_20160605_114505.jpg",
+    "originalName": "20160605_114505.jpg",
+    "previousPath": "Toronto/20160605_114505.jpg",
+    "bytes": 5910030,
+    "sha256": "0074fb7bd209aaa0f7685176c678b91df5b0562063bc74c7484a3f6b0bbabe72",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:05 11:45:05",
+    "driveId": "1K7yXqkmCEL8G5erXmbbjKQV3n5sd5CSN",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/20160605_114505.jpg",
+     "name": "20160605_114505.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 326259,
+      "sha256": "c97f8d72f1bf0097185d01c4cf88e604cc6b0ad58c40fe2bbadabf3ac77eb7c8"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/12_Stanley Cup at the Hockey Hall of Fame.png",
+    "originalName": "Stanley Cup at the Hockey Hall of Fame.png",
+    "previousPath": "Toronto/Stanley Cup at the Hockey Hall of Fame.png",
+    "bytes": 1807060,
+    "sha256": "7df26117f2ec55c022e15ee74a04738e9ec47601507935b150e83a91af968e27",
+    "width": 941,
+    "height": 1672,
+    "exifOrientation": 1,
+    "takenAt": null,
+    "driveId": "19INpG4pwjLFBGwuzRPk2LYYyDa6jLucv",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/Stanley_Cup_at_the_Hockey_Hall_of_Fame.jpg",
+     "name": "Stanley_Cup_at_the_Hockey_Hall_of_Fame.jpg",
+     "copy": {
+      "width": 942,
+      "height": 1672,
+      "bytes": 176999,
+      "sha256": "0cc27134950cec9c288ccbd48405b60acb6944bb5d4ee3b53e68a1b9294bf34d"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/13_20160606_105211.jpg",
+    "originalName": "20160606_105211.jpg",
+    "previousPath": "Ниагара/20160606_105211.jpg",
+    "bytes": 5167652,
+    "sha256": "20a96a48410345d90cd999077ab5902c6d73d2a2bca1bdf2f23a6ad44b47eff0",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:06 10:52:11",
+    "driveId": "1pPpZ-Npi7h9zBsT29_9ZKsk8auz1xr-G",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/20160606_105211.jpg",
+     "name": "20160606_105211.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 380930,
+      "sha256": "e3c94115489d8630e36550f5745c85574541b87a63797e8e0c9afe0a0857b292"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/14_DSC04610.JPG",
+    "originalName": "DSC04610.JPG",
+    "previousPath": "Ниагара/DSC04610.JPG",
+    "bytes": 5869621,
+    "sha256": "32d6e9254dc6018c957f0a84cbad485c0c09c385ab8d8b776976b8f5bd07ff7f",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:06 11:17:38",
+    "driveId": "1vecJX1TrHJEl8Xg_-3SxTAZu8YL9-sms",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/DSC04610.jpg",
+     "name": "DSC04610.jpg",
+     "copy": {
+      "width": 1500,
+      "height": 2000,
+      "bytes": 520275,
+      "sha256": "35210f0dd9706d13161ac7ddda97950d4d1c276e88ac67ed9347c608b10ebc9f"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/15_20160609_112803.jpg",
+    "originalName": "20160609_112803.jpg",
+    "previousPath": "Онтарио/20160609_112803.jpg",
+    "bytes": 7433732,
+    "sha256": "31b7ed92770787ec8ad5fe516e376a1d52cea6c77cc771f2aa6067b1bd6b2299",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:09 11:28:02",
+    "driveId": "1bqc-wdaEiojUE5FxhPV0wTleRbkm2Izh",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/20160609_112803.jpg",
+     "name": "20160609_112803.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 674662,
+      "sha256": "30fe16e8cb758147c8a263fb8abd54f3a74c5915ab2745f68248cbc9353a149b"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/16_20160609_124921.jpg",
+    "originalName": "20160609_124921.jpg",
+    "previousPath": "Онтарио/20160609_124921.jpg",
+    "bytes": 5551287,
+    "sha256": "5e290aa191768b3b69487075d6752260e773041ff0441a46467082e162011cc1",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:09 12:49:21",
+    "driveId": "1GtUIZtRRVb9bZ1ZPXwg4UYr0G2j0XqAB",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/20160609_124921.jpg",
+     "name": "20160609_124921.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 439838,
+      "sha256": "f273fe501285f2cbcd5eb80b5ea8a99a987f41e723546ef448dd5597215db66d"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/17_20160609_125224.jpg",
+    "originalName": "20160609_125224.jpg",
+    "previousPath": "Онтарио/20160609_125224.jpg",
+    "bytes": 4722624,
+    "sha256": "ee61bb9d693107041b8f7ace7854e967c6f8b65606a85329feee9b8a6bad8b99",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:09 12:52:24",
+    "driveId": "1Xg49KqSlQWjUBc7AvK9ZEox0Pims1Zra",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/20160609_125224.jpg",
+     "name": "20160609_125224.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 248884,
+      "sha256": "6236683028b807c7cf73a8d87842591ebb80f43e67ad5b9ba1f4548fbbca36b9"
+     }
+    }
+   },
+   {
+    "archivePath": "01 - Торонто 1/18_20160609_125602.jpg",
+    "originalName": "20160609_125602.jpg",
+    "previousPath": "Онтарио/20160609_125602.jpg",
+    "bytes": 7891199,
+    "sha256": "b785f4626a11d0c321bcde3bf88e4d137b7a28565bd023aa02268277f35ce457",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:09 12:56:02",
+    "driveId": "1zJIb32szMcKy_fzDLfiPZ7Lal-fyfpN6",
+    "chapter": "toronto-1",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-1/20160609_125602.jpg",
+     "name": "20160609_125602.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 634736,
+      "sha256": "f090c75ba3ec6604cabf221cfa0b8efcb575b9ee17c96b45902d8510e18c5657"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/01_empire_state_building.jpg",
+    "originalName": "empire_state_building.jpg",
+    "previousPath": "NY/empire_state_building.jpg",
+    "bytes": 30225,
+    "sha256": "cbeaada78c9b6181dd3d070d54d6de4804e0e3d5ebbb44414d1f504f0a5a3532",
+    "width": 200,
+    "height": 549,
+    "exifOrientation": 1,
+    "takenAt": null,
+    "driveId": "1wECtjZSrh2dDNSGJYBXzD21wkT1JLdXr",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/empire_state_building.jpg",
+     "name": "empire_state_building.jpg",
+     "copy": {
+      "width": 200,
+      "height": 549,
+      "bytes": 28003,
+      "sha256": "7048d15c7ac36eeeebb816b08e2ae37dd1893f57e010d6e792d34ae86ff94470"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/02_DSC04632.JPG",
+    "originalName": "DSC04632.JPG",
+    "previousPath": "NY/DSC04632.JPG",
+    "bytes": 6044482,
+    "sha256": "a9d22aff7f7289a9011d3089e815dee1f5425b8ee7d0018b724997cad890cc06",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:06 22:09:13",
+    "driveId": "1tcIqRMwol0oMSWumqpZVtgJ50-qjXBFx",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/DSC04632.jpg",
+     "name": "DSC04632.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 238565,
+      "sha256": "e83eabf7052c0c4272ee1d8f020a376db9d2dbfbc6c7719bcabce3842e6be7c9"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/03_DSC04649.JPG",
+    "originalName": "DSC04649.JPG",
+    "previousPath": "NY/DSC04649.JPG",
+    "bytes": 5094156,
+    "sha256": "044ba1ae2f6c208b661bff39258eeb02c7721ce742d083d952cf56b03b11fa68",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:06 22:27:10",
+    "driveId": "1romircBhWF2S_x9PhvtVmvcCJSaS5w1H",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/DSC04649.jpg",
+     "name": "DSC04649.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 421362,
+      "sha256": "532f06e97f0b48dbb51ceaf4232442b136a6521cd6f9f31c3fc05c5568ad1e3a"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/04_DSC04690.JPG",
+    "originalName": "DSC04690.JPG",
+    "previousPath": "NY/DSC04690.JPG",
+    "bytes": 4691133,
+    "sha256": "cb34004a2d496f1cfa86ff2e06751194ec4802b4b3e358955dab4bdb4031fe81",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:07 10:29:47",
+    "driveId": "1FF3aI_202BbE2BJFAczzhsFKHYPBcl-0",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/DSC04690.jpg",
+     "name": "DSC04690.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 273957,
+      "sha256": "18669a7e3b4f5b05e3a297f1e88e68f06f50ec6982fd745cb48a5ba48a1c3cee"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/05_DSC04717.JPG",
+    "originalName": "DSC04717.JPG",
+    "previousPath": "NY/DSC04717.JPG",
+    "bytes": 4472809,
+    "sha256": "453247a12921b51bd15cc489feddda7be5186d33807476fb6ec5489dfd601c99",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:07 10:44:19",
+    "driveId": "17u2OR3RtWAOpgLV56D6pwNZBTaN5VGS7",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/DSC04717.jpg",
+     "name": "DSC04717.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 254072,
+      "sha256": "1c3384cd47c05304c052f56710b1a1c07d605f5224c5bce22fdafb5aa487bb72"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/06_20160607_123113.jpg",
+    "originalName": "20160607_123113.jpg",
+    "previousPath": "NY/20160607_123113.jpg",
+    "bytes": 5249768,
+    "sha256": "8b095d97b143f3f05ea16c5638bedc7e39cc66262d443dd2d8e0f88c91378182",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:07 12:31:13",
+    "driveId": "1YLYRXl8V35FmA3X9U-ZtNzPuaMzOS_7_",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/20160607_123113.jpg",
+     "name": "20160607_123113.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 214608,
+      "sha256": "16284b44d0f62b0ee50fa82040912f026bcd48d0780d73e80973143267cbf5c6"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/07_DSC04785.JPG",
+    "originalName": "DSC04785.JPG",
+    "previousPath": "NY/DSC04785.JPG",
+    "bytes": 6876015,
+    "sha256": "8144905f12ca399b8c09f34de530c5f23e87b7a1a1a401749ca4b6d5b61d3b5f",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:07 13:11:37",
+    "driveId": "124gtG79w3ItX1NRVjuZs5UH9UJVzo2pq",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/DSC04785.jpg",
+     "name": "DSC04785.jpg",
+     "copy": {
+      "width": 1500,
+      "height": 2000,
+      "bytes": 1005612,
+      "sha256": "b3dd5e05b541b256b24b1da03acc9741f694ad45b89eedc424c2a54326f9e8df"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/08_DSC04792.JPG",
+    "originalName": "DSC04792.JPG",
+    "previousPath": "NY/DSC04792.JPG",
+    "bytes": 8030768,
+    "sha256": "b7929296f08fe977cd05766334f3601e60d37527ba4e5295fd2416d771268d1b",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:07 13:35:43",
+    "driveId": "19p8JPbanuVKhw-pRNb80ETIsQ4G2ixZp",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/DSC04792.jpg",
+     "name": "DSC04792.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 1165551,
+      "sha256": "e7e72275652f3f9645bbc8fe17cf4f9d213f6bd9dedcdaf823e743f7c735548f"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/09_DSC04666.JPG",
+    "originalName": "DSC04666.JPG",
+    "previousPath": "NY/DSC04666.JPG",
+    "bytes": 6107858,
+    "sha256": "4fa116af44e7ae24000d828928763df676d93c77e24bedc57891873ef50759f2",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:07 09:00:00",
+    "driveId": "1OueETooXUjpQIZHiiEwEde0l_nQi1mdI",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/DSC04666.jpg",
+     "name": "DSC04666.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 597412,
+      "sha256": "44d4c6f55ceaac2aaa060bda7b122b464fe4c92c69459cdece3d8f737a8ce801"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/10_DSC04801.JPG",
+    "originalName": "DSC04801.JPG",
+    "previousPath": "NY/DSC04801.JPG",
+    "bytes": 6514741,
+    "sha256": "217ce7370496802cf0a4dad6e31df4d08f0ae5aec0f254abb0b2856044b0322b",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:07 15:05:37",
+    "driveId": "1MhFUHo3fs5KU1vpySuMvdKNLNsX1WCjJ",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/DSC04801.jpg",
+     "name": "DSC04801.jpg",
+     "copy": {
+      "width": 1500,
+      "height": 2000,
+      "bytes": 680287,
+      "sha256": "560d0922d2d11eb51083727ba10df7353a2b5207a8d8df1e76d9eb6c1ec4508d"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/11_DSC04811.JPG",
+    "originalName": "DSC04811.JPG",
+    "previousPath": "NY/DSC04811.JPG",
+    "bytes": 6362051,
+    "sha256": "94977d4c31e77ba46d2126dec1a9d2572f80a9dec019b0bac70c55bfa39862a1",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:07 15:25:39",
+    "driveId": "1OMzZc_EgQ4_4vzLw9zBWz9Ng6KTwYOKd",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/DSC04811.jpg",
+     "name": "DSC04811.jpg",
+     "copy": {
+      "width": 1500,
+      "height": 2000,
+      "bytes": 599209,
+      "sha256": "bcf977fad55a1e66248892d8d470af1a1cebb84a8f2ab2ec6668c858cb1add98"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/12_DSC04818.JPG",
+    "originalName": "DSC04818.JPG",
+    "previousPath": "NY/DSC04818.JPG",
+    "bytes": 4583111,
+    "sha256": "1b09830bd2c78482061844ac6f4a8e1463a9e09e7ae4aa27d285b7ad8783eff0",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:08 09:07:05",
+    "driveId": "1MXH1S4FTWkyJEhS7UbSSpUKUf1NYDrhO",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/DSC04818.jpg",
+     "name": "DSC04818.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 318045,
+      "sha256": "34fbd033a55409e71e3ad350dcd83f2852d0a0d5a6c60c187ef76445a2482a24"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/13_DSC04819.JPG",
+    "originalName": "DSC04819.JPG",
+    "previousPath": "NY/DSC04819.JPG",
+    "bytes": 4985586,
+    "sha256": "3ce651cf645d2c14088dc6114402e075a4a8d7a53a26aa45191829b7947ae6a6",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:08 09:13:04",
+    "driveId": "1yRFzo_dXqDOt5aTmcUAntfLHbgjhkvUc",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/DSC04819.jpg",
+     "name": "DSC04819.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 262375,
+      "sha256": "50aaace33c92582c4e884ac6a6b7bc963057d5b2fa7ba17704e3a89df27df206"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/14_20160607_212740.jpg",
+    "originalName": "20160607_212740.jpg",
+    "previousPath": "NY/20160607_212740.jpg",
+    "bytes": 5634364,
+    "sha256": "9cf9c82a0f602476799362f87b0bfb6c3e3a28187b1615a950dd083573354350",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:07 21:27:40",
+    "driveId": "1enK5PxOHFL8ZFNP-KhpIp_G4qgxJNnj5",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/20160607_212740.jpg",
+     "name": "20160607_212740.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 194980,
+      "sha256": "f074c061a2cf6d5337479431753cbf029b67d65bd61a31255f2da07f448ae307"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/15_DSC04839.JPG",
+    "originalName": "DSC04839.JPG",
+    "previousPath": "NY/DSC04839.JPG",
+    "bytes": 5772713,
+    "sha256": "32bde2d6c62d48fb8e1093fb264d6b3abfeeec6e5b9da8fa0b105a2ccecc2803",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:08 10:17:09",
+    "driveId": "1mba87V8dkYFvEVCCl4Ctb58DqNS0Vy2m",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/DSC04839.jpg",
+     "name": "DSC04839.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 426805,
+      "sha256": "7e9e6d67efc00966174a944419f9921e1594d4d141b2808b49e06b133eb18765"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/16_DSC04867.JPG",
+    "originalName": "DSC04867.JPG",
+    "previousPath": "NY/DSC04867.JPG",
+    "bytes": 4665244,
+    "sha256": "072cb4e9b8099ce6eede918c8ce27a390b5348d3f8a287678be2cca8bbfbf8b1",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:08 10:24:47",
+    "driveId": "1LgxiZKrswR6XvYYLCLoluf7hsfMrZDNd",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/DSC04867.jpg",
+     "name": "DSC04867.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 382058,
+      "sha256": "ff5797be238561c1f24b21ec5697d15a1b2266e0238770dd0bba8536b259a501"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/17_20160608_104334.jpg",
+    "originalName": "20160608_104334.jpg",
+    "previousPath": "NY/20160608_104334.jpg",
+    "bytes": 1394915,
+    "sha256": "e1dadc4e01715f32f561227a77c026062a3edc6a99bd0d08f7128118db3dc794",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:08 10:43:34",
+    "driveId": "1Yl45dwOfiHsKChQxGXOpjrFnAtnekM_3",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/20160608_104334.jpg",
+     "name": "20160608_104334.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 75648,
+      "sha256": "42536ab68f74c821d6470b02cf6863b09180ea49e292a2d49ae5a018dd58b15b"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/18_20160608_174724.jpg",
+    "originalName": "20160608_174724.jpg",
+    "previousPath": "NY/20160608_174724.jpg",
+    "bytes": 5261748,
+    "sha256": "a04e8d9133fa77059f5d2a32d16ba65a13b0a4395ea5bfd5218a9649e68caea5",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:08 17:47:24",
+    "driveId": "1ofi93yBDkmS7Wo7vS6fHqHEVPuyPPsev",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/20160608_174724.jpg",
+     "name": "20160608_174724.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 290427,
+      "sha256": "683572e98b78f42a22fd0fe72d1eb0c709502cbe7dab3847f8fd1154a6a4a48d"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/01_DSC_0017.jpg",
+    "originalName": "DSC_0017.jpg",
+    "previousPath": "Торонто конец/DSC_0017.jpg",
+    "bytes": 1244276,
+    "sha256": "dee9d70f1058b64ee7686afc6aede1c0f3a5feb09b8de4130d9990a38cc59a65",
+    "width": 1944,
+    "height": 2896,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:14 10:04:08",
+    "driveId": "1tX0_eBSvPRpDWo7JWZQ98XcNAAEGf-Au",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/DSC_0017.jpg",
+     "name": "DSC_0017.jpg",
+     "copy": {
+      "width": 1342,
+      "height": 2000,
+      "bytes": 447595,
+      "sha256": "d9c3656714dab2fcc6bbb485eb9aaab7d6f04c662f62e11b2b1403b080add2b7"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/02_20160614_104408.jpg",
+    "originalName": "20160614_104408.jpg",
+    "previousPath": "Торонто конец/20160614_104408.jpg",
+    "bytes": 5337447,
+    "sha256": "d25481936b0237d933a91b0e602d85f2c320b7fe7e0f125b463f6a2af7e22c0b",
+    "width": 4608,
+    "height": 2592,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:14 10:44:07",
+    "driveId": "1UodihsX6v4BjcURFuHKaVejgCjJEYCl_",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/20160614_104408.jpg",
+     "name": "20160614_104408.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 581035,
+      "sha256": "41ddbc8834a7c99cc84992d1edc7f55c8a9a03f688ca82012b26ad1f4f53271d"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/03_20160614_112849.jpg",
+    "originalName": "20160614_112849.jpg",
+    "previousPath": "Торонто конец/20160614_112849.jpg",
+    "bytes": 5066396,
+    "sha256": "edce888b7c3b12be1debab84ce01397781d786fa809b1bc0b2f616d132623576",
+    "width": 4608,
+    "height": 2592,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:14 11:28:49",
+    "driveId": "1sZYbGyW9axkVYYY_Cs4AB_SiVYbC1VSu",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/20160614_112849.jpg",
+     "name": "20160614_112849.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 545026,
+      "sha256": "5c7d54fbffb2e63d9bc18f31cfb72e4541b48d4c99371c13d50159ddb3ce5eb0"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/04_DSC_0036.jpg",
+    "originalName": "DSC_0036.jpg",
+    "previousPath": "Торонто конец/DSC_0036.jpg",
+    "bytes": 1942603,
+    "sha256": "3aab296c6f91c7575f509fab3b3b636bfc76bd984126a96f588e285d5b240227",
+    "width": 2896,
+    "height": 1944,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:14 12:19:34",
+    "driveId": "1uUUjTytZiJnufm8ZGeageGa_lI8NO62E",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/DSC_0036.jpg",
+     "name": "DSC_0036.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1342,
+      "bytes": 689207,
+      "sha256": "c4baa516f6734132c6667b68ba7322c73c8aa4b29495a566b524dedfbb801c23"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/05_DSC_0040.jpg",
+    "originalName": "DSC_0040.jpg",
+    "previousPath": "Торонто конец/DSC_0040.jpg",
+    "bytes": 1713864,
+    "sha256": "e23a977d50fc55cd1a673c34ddb7128506970a5f40c405e94fdcdab4569df3aa",
+    "width": 2896,
+    "height": 1944,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:14 12:23:51",
+    "driveId": "1VH9UIgJcCR1jNEEHBrfSRgHcO0Vs5yEb",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/DSC_0040.jpg",
+     "name": "DSC_0040.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1342,
+      "bytes": 632996,
+      "sha256": "cbf53fcf02fe0836a638649f8f8aa2f8666e5c19ef63523190f86d53062d4843"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/06_20160614_152916.jpg",
+    "originalName": "20160614_152916.jpg",
+    "previousPath": "Торонто конец/20160614_152916.jpg",
+    "bytes": 5689409,
+    "sha256": "4ed8984f756fad3827552a7ea9966c632351c683b9070966d61ef3d53c918a27",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:14 15:29:16",
+    "driveId": "15fZrdWzKtx_KBu-ev2jJklRy6fKnCdA6",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/20160614_152916.jpg",
+     "name": "20160614_152916.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 355903,
+      "sha256": "d95d4ed0cdde1706ee80ccb71dbd8dec805f4507de36d7479283ef7d176b30e6"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/07_DSC_0050.jpg",
+    "originalName": "DSC_0050.jpg",
+    "previousPath": "Торонто конец/DSC_0050.jpg",
+    "bytes": 1268402,
+    "sha256": "f8df40284e50eb9c760520b2d7084dcc2591786f1281631c08cf6b6173db604f",
+    "width": 2896,
+    "height": 1944,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:14 16:59:04",
+    "driveId": "16ml2GR6ZBcTj5fNRmuvp_pOh4z_dOMX8",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/DSC_0050.jpg",
+     "name": "DSC_0050.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1342,
+      "bytes": 369855,
+      "sha256": "7b2fd3d36cc72621d58a45a873b6899418d1adff9aff75b40f80608679842ea4"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/08_20160615_105846.jpg",
+    "originalName": "20160615_105846.jpg",
+    "previousPath": "Торонто конец/20160615_105846.jpg",
+    "bytes": 2800871,
+    "sha256": "5307b0712caaecc2c301b27c16e0db62ea4895353238854388781dd6066de38e",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:15 10:58:46",
+    "driveId": "1M3-JAP3nUHw1Kn9zYRPJriZLt26eHdVv",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/20160615_105846.jpg",
+     "name": "20160615_105846.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 278186,
+      "sha256": "2044f11e2e400d74b38c25a622b23b8772b9723b114b6847688f5c699df068a2"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/09_DSC05156.JPG",
+    "originalName": "DSC05156.JPG",
+    "previousPath": "Торонто конец/DSC05156.JPG",
+    "bytes": 5944279,
+    "sha256": "675fb9db2f4e05661a1159e8dc3b127197a7754b5019898a2564f2fa23feabf7",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:15 11:06:59",
+    "driveId": "1FY0ISw7F89_s9uD_C6PCT212a8s59SfY",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/DSC05156.jpg",
+     "name": "DSC05156.jpg",
+     "copy": {
+      "width": 1500,
+      "height": 2000,
+      "bytes": 467449,
+      "sha256": "61df5fb654faa385b5f6f629c51be71d252a4b2524c12aa24cf0f86d78e52079"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/10_DSC05158.JPG",
+    "originalName": "DSC05158.JPG",
+    "previousPath": "Торонто конец/DSC05158.JPG",
+    "bytes": 7400197,
+    "sha256": "2a326174a3b0a0cb8de765d2725c6e0583f9f0d49f2f28685ed7bd6d89287eae",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:15 11:07:52",
+    "driveId": "1swIEiqZ3l8z8awOvikqYnEIf0zxnpz00",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/DSC05158.jpg",
+     "name": "DSC05158.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 721218,
+      "sha256": "d138d5371ddea69e281fab131e2b5b2a739afecf3713f513bc670aef86655a01"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/11_DSC05166.JPG",
+    "originalName": "DSC05166.JPG",
+    "previousPath": "Торонто конец/DSC05166.JPG",
+    "bytes": 4828358,
+    "sha256": "5fd82234d0a999ae8a6524fe0aa71d90fc73aba41afd46fb75b08d17c18d3662",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:15 12:10:21",
+    "driveId": "1pYt-f2ywhailANchEAUiau3IeeM5Zq2H",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/DSC05166.jpg",
+     "name": "DSC05166.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 390375,
+      "sha256": "67225275972b738e6ba00a6450739ad15a93d8773fe568b4717a369976a01fa2"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/12_DSC05175.JPG",
+    "originalName": "DSC05175.JPG",
+    "previousPath": "Торонто конец/DSC05175.JPG",
+    "bytes": 5072648,
+    "sha256": "81c7e2d3224f82943b892849b2d1b7a3d0248ae505a155cc4dd0b07de452767f",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:15 12:15:21",
+    "driveId": "1djkLzwTPAjqVa79dgnS7leCs9qTkCyCb",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/DSC05175.jpg",
+     "name": "DSC05175.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 407720,
+      "sha256": "d65e5548df55f5fbdb9eaa1424cf7fc636a4dd33cbd3204075ce295645314bb8"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/13_61044076_toronto61.jpg",
+    "originalName": "61044076_toronto61.jpg",
+    "previousPath": "Торонто конец/61044076_toronto61.jpg",
+    "bytes": 90573,
+    "sha256": "701b1a53f1de22426729b8308d7925a2a6d38e18d29c1d52b2d2caf35bfccb78",
+    "width": 506,
+    "height": 699,
+    "exifOrientation": 1,
+    "takenAt": null,
+    "driveId": "1P5hOy0dXarMyDEQkyr9omm4cda3ruadh",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/61044076_toronto61.jpg",
+     "name": "61044076_toronto61.jpg",
+     "copy": {
+      "width": 506,
+      "height": 699,
+      "bytes": 80367,
+      "sha256": "e724491cce65774cb0620c0d0eb0de4b727ba0189fc8a379e217218ff1094ddf"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/14_20160615_190801.jpg",
+    "originalName": "20160615_190801.jpg",
+    "previousPath": "Торонто конец/20160615_190801.jpg",
+    "bytes": 4849798,
+    "sha256": "81bad2d30c459b3cfd0033ade6b894eac14264a92cfaed4a2c851089ad26d882",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:15 19:08:01",
+    "driveId": "1ERgpQ_RWSyOl4in7H7qw7b8h_TlXsa6k",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/20160615_190801.jpg",
+     "name": "20160615_190801.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 273505,
+      "sha256": "a519c31a7ce09a9ce737cb082fec9c3b5413a74e45ad866a3ef9878bb9ed0fd1"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/15_20160615_193150.jpg",
+    "originalName": "20160615_193150.jpg",
+    "previousPath": "Торонто конец/20160615_193150.jpg",
+    "bytes": 5914846,
+    "sha256": "3bd0c01b440d589f6f647a77fb27f492174512baf73d2489828ec38b46a9e60f",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:15 19:31:50",
+    "driveId": "1JP6iO-zgpC25JK86istX_l42qmbL9u5D",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/20160615_193150.jpg",
+     "name": "20160615_193150.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 322395,
+      "sha256": "0ee956925101ec392b5b9c1ed24f734da2ab0e97b9c25e7c569c3acf56349aca"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/16_Ballet1.JPG",
+    "originalName": "Ballet1.JPG",
+    "previousPath": "Торонто конец/Ballet1.JPG",
+    "bytes": 82892,
+    "sha256": "bb11e9d0cf7736d45d4b9d7eedf031c1f127b8a9abadc7f6e51419faad984504",
+    "width": 1236,
+    "height": 757,
+    "exifOrientation": 1,
+    "takenAt": null,
+    "driveId": "1_iR5uv7f3o4vV4tcFfei48IP3gQXt3Ha",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/Ballet1.jpg",
+     "name": "Ballet1.jpg",
+     "copy": {
+      "width": 1236,
+      "height": 758,
+      "bytes": 65666,
+      "sha256": "ef87d1f6b3cbd7c4fa6ca58d77d8b3078cc7a55d413da90839eb6c631896cb1f"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/17_20160615_133219.jpg",
+    "originalName": "20160615_133219.jpg",
+    "previousPath": "Торонто конец/20160615_133219.jpg",
+    "bytes": 6093949,
+    "sha256": "e36eb7fd847dc332b89e8b603ede400999a959c59ef8dfecd344f4e85fc79742",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:15 13:32:19",
+    "driveId": "19Tkw8rZ6S6vZfYClDwqk_2cT4ifdOTcm",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/20160615_133219.jpg",
+     "name": "20160615_133219.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 461500,
+      "sha256": "812a1d9682a43642e811d55bf96d64b7ebc8673f6bf754a22bbbaa02cc4340eb"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/18_20160615_133331.jpg",
+    "originalName": "20160615_133331.jpg",
+    "previousPath": "Торонто конец/20160615_133331.jpg",
+    "bytes": 6340346,
+    "sha256": "7dcd027b65e3d05c3dd212dd4350e26319ce50151de5b2224386a2d789a911b8",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:15 13:33:31",
+    "driveId": "1lukv5FGdnhXiRKcUassKwPl9bI7f0GPE",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/20160615_133331.jpg",
+     "name": "20160615_133331.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 481202,
+      "sha256": "151ee3e1b7f6014ccf5b0165448f74cd802b19fa8078d453fd77149d202d76ac"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/19_20160616_110312.jpg",
+    "originalName": "20160616_110312.jpg",
+    "previousPath": "Торонто конец/20160616_110312.jpg",
+    "bytes": 4260498,
+    "sha256": "0176686f1125a4336df8cc549f9514489ac838667f6d9cdcaa61e58fc1b1379e",
+    "width": 4608,
+    "height": 2592,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:16 11:03:12",
+    "driveId": "1U_1JNSKz4G1uf4g28DBFmL3f7Q9lkVvU",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/20160616_110312.jpg",
+     "name": "20160616_110312.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 284737,
+      "sha256": "82e4e7da43761e6fe4e86b9e4a99e8e280c841800e7e0f6dedc1bd2520614b13"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/20_20160616_110331.jpg",
+    "originalName": "20160616_110331.jpg",
+    "previousPath": "Торонто конец/20160616_110331.jpg",
+    "bytes": 4704749,
+    "sha256": "a4dcb7289e0b8a9e75184f0d2901a28d2f0e1f09fff50191c1e25a96c41fbc01",
+    "width": 4608,
+    "height": 2592,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:16 11:03:30",
+    "driveId": "1_7dCNRg0zTQO3ZRIPsumvG1HcllF4lwL",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/20160616_110331.jpg",
+     "name": "20160616_110331.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 383372,
+      "sha256": "abc7dc9a29b04986137705c4143514282d66904196354dbc6a7314abf3b347f4"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/21_20160616_182704.jpg",
+    "originalName": "20160616_182704.jpg",
+    "previousPath": "Торонто конец/20160616_182704.jpg",
+    "bytes": 4579770,
+    "sha256": "bf022cc2c3a2dddf6c766c295830f87b3074183a808ac81cefae62e67c5cf1f2",
+    "width": 4608,
+    "height": 2592,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:16 18:27:03",
+    "driveId": "1FdFIaun13u-BY3SSzbXHlEDfTSzlEgec",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/20160616_182704.jpg",
+     "name": "20160616_182704.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 369231,
+      "sha256": "c90534917149f5ce8393ce7a2853ce0de72a6a319f8e101e054f6c209d404b30"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/zz_не использовано_video-0.02.01.048d7306ac8cf7dc314f9154b65adb8d092a867d6c52bd49966b0d9408ed73f1-V.mp4",
+    "originalName": "video-0.02.01.048d7306ac8cf7dc314f9154b65adb8d092a867d6c52bd49966b0d9408ed73f1-V.mp4",
+    "previousPath": "Торонто конец/video-0.02.01.048d7306ac8cf7dc314f9154b65adb8d092a867d6c52bd49966b0d9408ed73f1-V.mp4",
+    "bytes": 972574,
+    "sha256": "a2ae7cddb6cbf7b04ce6d9a390082e2cf0112ee3ed7d5c16cbabc7e0b1b28370",
+    "width": 0,
+    "height": 0,
+    "exifOrientation": 1,
+    "takenAt": null,
+    "driveId": "1sk9nz69017j1mEOzbbYkx70kdfrj7Vy4",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": false,
+    "note": "video, not shown on the site"
+   }
+  ]
+ },
+ "r2": {
+  "status": "pending",
+  "reason": "Cloudflare wrangler is not logged in on this PC; screen copies are in static/r2/toronto-2016 (not in Git), SHA-256 above"
+ }
+}
