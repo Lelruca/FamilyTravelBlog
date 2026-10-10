@@ -5,7 +5,6 @@ layout: "photo-story"
 weight: 30
 chapter_kind: "day"
 auto_gallery: false
-draft: true
 places:
   - lake-temagami
 hero_image: "20160611_154602.jpg"

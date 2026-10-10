@@ -1038,5 +1038,45 @@
     "source": "https://www.openstreetmap.org/relation/1201020",
     "query": "Nijmegen",
     "verified_display_name": "Nijmegen, Gelderland, Nederland"
+  },
+  "toronto": {
+    "lat": 43.65348,
+    "lon": -79.38393,
+    "name": "Toronto",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/324211",
+    "query": "Toronto Ontario Canada"
+  },
+  "niagara-falls": {
+    "lat": 43.07841,
+    "lon": -79.07433,
+    "name": "Niagara Falls (Horseshoe Falls)",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/56539663",
+    "query": "Horseshoe Falls Niagara Falls Ontario Canada"
+  },
+  "new-york": {
+    "lat": 40.71273,
+    "lon": -74.00602,
+    "name": "New York",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/175905",
+    "query": "New York"
+  },
+  "sainte-marie-among-the-hurons": {
+    "lat": 44.73386,
+    "lon": -79.8445,
+    "name": "Sainte-Marie among the Hurons",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/139489005",
+    "query": "Sainte-Marie among the Hurons Midland Ontario"
+  },
+  "lake-temagami": {
+    "lat": 47.00055,
+    "lon": -79.94607,
+    "name": "Lake Temagami",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/5644591",
+    "query": "Lake Temagami Ontario Canada"
   }
 }

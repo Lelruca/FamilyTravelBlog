@@ -5,7 +5,6 @@ layout: "photo-story"
 weight: 20
 chapter_kind: "day"
 auto_gallery: false
-draft: true
 source_url: "https://olgau.livejournal.com/225039.html"
 places:
   - new-york

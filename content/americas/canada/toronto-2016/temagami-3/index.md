@@ -5,7 +5,6 @@ layout: "photo-story"
 weight: 50
 chapter_kind: "day"
 auto_gallery: false
-draft: true
 source_url: "https://olgau.livejournal.com/225921.html"
 places:
   - lake-temagami
