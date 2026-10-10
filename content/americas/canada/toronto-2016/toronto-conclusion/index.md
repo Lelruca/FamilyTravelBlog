@@ -1,5 +1,5 @@
 ---
-title: "Торонто - заключение"
+title: "Торонто"
 type: "trips"
 layout: "photo-story"
 weight: 60

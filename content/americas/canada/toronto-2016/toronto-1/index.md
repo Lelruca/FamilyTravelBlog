@@ -1,5 +1,5 @@
 ---
-title: "Торонто 1"
+title: "Они наконец приехали!"
 type: "trips"
 layout: "photo-story"
 weight: 10

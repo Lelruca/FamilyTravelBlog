@@ -1,5 +1,5 @@
 ---
-title: "Озеро Темагами 3 - флора и фауна"
+title: "Озеро Темагами - флора и фауна"
 type: "trips"
 layout: "photo-story"
 weight: 50

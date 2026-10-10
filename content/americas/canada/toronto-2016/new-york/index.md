@@ -1,5 +1,5 @@
 ---
-title: "NY"
+title: "Два дня в Нью-Йорке"
 type: "trips"
 layout: "photo-story"
 weight: 20

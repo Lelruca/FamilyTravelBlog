@@ -1,5 +1,5 @@
 ---
-title: "Озеро Темагами 2 - отдых"
+title: "Озеро Темагами - отдых"
 type: "trips"
 layout: "photo-story"
 weight: 40

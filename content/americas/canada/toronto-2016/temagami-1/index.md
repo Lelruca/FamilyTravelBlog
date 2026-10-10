@@ -1,5 +1,5 @@
 ---
-title: "Озеро Темагами 1 - \"кораблик\""
+title: "Озеро Темагами - кораблик"
 type: "trips"
 layout: "photo-story"
 weight: 30
