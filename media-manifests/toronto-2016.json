@@ -33,7 +33,7 @@
  "originalPhotoLinks": "77 Google Photos links in the DOCX need a Google sign-in and do not return images; the owner chose the photos from OneDrive Photo/2016/2016 Лето/Наши немцы в Канаде instead.",
  "archive": {
   "folder": "North America/2016 - Наши немцы в Канаде",
-  "checkedAt": "2026-10-10T02:49:12.158Z",
+  "checkedAt": "2026-10-10T02:58:47.785Z",
   "images": 82,
   "unused": 2,
   "bytes": 458041088,
@@ -1659,79 +1659,31 @@
     }
    },
    {
-    "archivePath": "06 - Торонто - заключение/08_20160615_105846.jpg",
-    "originalName": "20160615_105846.jpg",
-    "previousPath": "Торонто конец/20160615_105846.jpg",
-    "bytes": 2800871,
-    "sha256": "5307b0712caaecc2c301b27c16e0db62ea4895353238854388781dd6066de38e",
-    "width": 5312,
-    "height": 2988,
-    "exifOrientation": 6,
-    "takenAt": "2016:06:15 10:58:46",
-    "driveId": "1M3-JAP3nUHw1Kn9zYRPJriZLt26eHdVv",
-    "chapter": "toronto-conclusion",
-    "usedOnSite": true,
-    "site": {
-     "key": "toronto-conclusion/20160615_105846.jpg",
-     "name": "20160615_105846.jpg",
-     "copy": {
-      "width": 1126,
-      "height": 2000,
-      "bytes": 278186,
-      "sha256": "2044f11e2e400d74b38c25a622b23b8772b9723b114b6847688f5c699df068a2"
-     }
-    }
-   },
-   {
-    "archivePath": "06 - Торонто - заключение/09_DSC05156.JPG",
-    "originalName": "DSC05156.JPG",
-    "previousPath": "Торонто конец/DSC05156.JPG",
-    "bytes": 5944279,
-    "sha256": "675fb9db2f4e05661a1159e8dc3b127197a7754b5019898a2564f2fa23feabf7",
-    "width": 4896,
-    "height": 3672,
-    "exifOrientation": 6,
-    "takenAt": "2016:06:15 11:06:59",
-    "driveId": "1FY0ISw7F89_s9uD_C6PCT212a8s59SfY",
-    "chapter": "toronto-conclusion",
-    "usedOnSite": true,
-    "site": {
-     "key": "toronto-conclusion/DSC05156.jpg",
-     "name": "DSC05156.jpg",
-     "copy": {
-      "width": 1500,
-      "height": 2000,
-      "bytes": 467449,
-      "sha256": "61df5fb654faa385b5f6f629c51be71d252a4b2524c12aa24cf0f86d78e52079"
-     }
-    }
-   },
-   {
-    "archivePath": "06 - Торонто - заключение/10_DSC05158.JPG",
-    "originalName": "DSC05158.JPG",
-    "previousPath": "Торонто конец/DSC05158.JPG",
-    "bytes": 7400197,
-    "sha256": "2a326174a3b0a0cb8de765d2725c6e0583f9f0d49f2f28685ed7bd6d89287eae",
+    "archivePath": "06 - Торонто - заключение/08_DSC05175.JPG",
+    "originalName": "DSC05175.JPG",
+    "previousPath": "Торонто конец/DSC05175.JPG",
+    "bytes": 5072648,
+    "sha256": "81c7e2d3224f82943b892849b2d1b7a3d0248ae505a155cc4dd0b07de452767f",
     "width": 4896,
     "height": 3672,
     "exifOrientation": 1,
-    "takenAt": "2016:06:15 11:07:52",
-    "driveId": "1swIEiqZ3l8z8awOvikqYnEIf0zxnpz00",
+    "takenAt": "2016:06:15 12:15:21",
+    "driveId": "1djkLzwTPAjqVa79dgnS7leCs9qTkCyCb",
     "chapter": "toronto-conclusion",
     "usedOnSite": true,
     "site": {
-     "key": "toronto-conclusion/DSC05158.jpg",
-     "name": "DSC05158.jpg",
+     "key": "toronto-conclusion/DSC05175.jpg",
+     "name": "DSC05175.jpg",
      "copy": {
       "width": 2000,
       "height": 1500,
-      "bytes": 721218,
-      "sha256": "d138d5371ddea69e281fab131e2b5b2a739afecf3713f513bc670aef86655a01"
+      "bytes": 407720,
+      "sha256": "d65e5548df55f5fbdb9eaa1424cf7fc636a4dd33cbd3204075ce295645314bb8"
      }
     }
    },
    {
-    "archivePath": "06 - Торонто - заключение/11_DSC05166.JPG",
+    "archivePath": "06 - Торонто - заключение/09_DSC05166.JPG",
     "originalName": "DSC05166.JPG",
     "previousPath": "Торонто конец/DSC05166.JPG",
     "bytes": 4828358,
@@ -1755,26 +1707,74 @@
     }
    },
    {
-    "archivePath": "06 - Торонто - заключение/12_DSC05175.JPG",
-    "originalName": "DSC05175.JPG",
-    "previousPath": "Торонто конец/DSC05175.JPG",
-    "bytes": 5072648,
-    "sha256": "81c7e2d3224f82943b892849b2d1b7a3d0248ae505a155cc4dd0b07de452767f",
-    "width": 4896,
-    "height": 3672,
-    "exifOrientation": 1,
-    "takenAt": "2016:06:15 12:15:21",
-    "driveId": "1djkLzwTPAjqVa79dgnS7leCs9qTkCyCb",
+    "archivePath": "06 - Торонто - заключение/10_20160615_105846.jpg",
+    "originalName": "20160615_105846.jpg",
+    "previousPath": "Торонто конец/20160615_105846.jpg",
+    "bytes": 2800871,
+    "sha256": "5307b0712caaecc2c301b27c16e0db62ea4895353238854388781dd6066de38e",
+    "width": 5312,
+    "height": 2988,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:15 10:58:46",
+    "driveId": "1M3-JAP3nUHw1Kn9zYRPJriZLt26eHdVv",
     "chapter": "toronto-conclusion",
     "usedOnSite": true,
     "site": {
-     "key": "toronto-conclusion/DSC05175.jpg",
-     "name": "DSC05175.jpg",
+     "key": "toronto-conclusion/20160615_105846.jpg",
+     "name": "20160615_105846.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 278186,
+      "sha256": "2044f11e2e400d74b38c25a622b23b8772b9723b114b6847688f5c699df068a2"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/11_DSC05158.JPG",
+    "originalName": "DSC05158.JPG",
+    "previousPath": "Торонто конец/DSC05158.JPG",
+    "bytes": 7400197,
+    "sha256": "2a326174a3b0a0cb8de765d2725c6e0583f9f0d49f2f28685ed7bd6d89287eae",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 1,
+    "takenAt": "2016:06:15 11:07:52",
+    "driveId": "1swIEiqZ3l8z8awOvikqYnEIf0zxnpz00",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/DSC05158.jpg",
+     "name": "DSC05158.jpg",
      "copy": {
       "width": 2000,
       "height": 1500,
-      "bytes": 407720,
-      "sha256": "d65e5548df55f5fbdb9eaa1424cf7fc636a4dd33cbd3204075ce295645314bb8"
+      "bytes": 721218,
+      "sha256": "d138d5371ddea69e281fab131e2b5b2a739afecf3713f513bc670aef86655a01"
+     }
+    }
+   },
+   {
+    "archivePath": "06 - Торонто - заключение/12_DSC05156.JPG",
+    "originalName": "DSC05156.JPG",
+    "previousPath": "Торонто конец/DSC05156.JPG",
+    "bytes": 5944279,
+    "sha256": "675fb9db2f4e05661a1159e8dc3b127197a7754b5019898a2564f2fa23feabf7",
+    "width": 4896,
+    "height": 3672,
+    "exifOrientation": 6,
+    "takenAt": "2016:06:15 11:06:59",
+    "driveId": "1FY0ISw7F89_s9uD_C6PCT212a8s59SfY",
+    "chapter": "toronto-conclusion",
+    "usedOnSite": true,
+    "site": {
+     "key": "toronto-conclusion/DSC05156.jpg",
+     "name": "DSC05156.jpg",
+     "copy": {
+      "width": 1500,
+      "height": 2000,
+      "bytes": 467449,
+      "sha256": "61df5fb654faa385b5f6f629c51be71d252a4b2524c12aa24cf0f86d78e52079"
      }
     }
    },
@@ -2017,7 +2017,7 @@
   "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
   "longSideLimit": 2000,
   "preparedFrom": "Drive archive originals",
-  "verifiedAt": "2026-10-10T02:49:12.160Z",
+  "verifiedAt": "2026-10-10T02:58:47.787Z",
   "verification": "every public URL fetched: HTTP 200, image content-type, SHA-256 equals the local screen copy",
   "photos": [
    {
@@ -2905,41 +2905,15 @@
     "chapter": "toronto-conclusion"
    },
    {
-    "key": "toronto-2016/toronto-conclusion/20160615_105846.jpg",
-    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/toronto-conclusion/20160615_105846.jpg",
-    "width": 1126,
-    "height": 2000,
-    "bytes": 278186,
-    "sha256": "2044f11e2e400d74b38c25a622b23b8772b9723b114b6847688f5c699df068a2",
-    "original": {
-     "archivePath": "06 - Торонто - заключение/08_20160615_105846.jpg",
-     "sha256": "5307b0712caaecc2c301b27c16e0db62ea4895353238854388781dd6066de38e"
-    },
-    "chapter": "toronto-conclusion"
-   },
-   {
-    "key": "toronto-2016/toronto-conclusion/DSC05156.jpg",
-    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/toronto-conclusion/DSC05156.jpg",
-    "width": 1500,
-    "height": 2000,
-    "bytes": 467449,
-    "sha256": "61df5fb654faa385b5f6f629c51be71d252a4b2524c12aa24cf0f86d78e52079",
-    "original": {
-     "archivePath": "06 - Торонто - заключение/09_DSC05156.JPG",
-     "sha256": "675fb9db2f4e05661a1159e8dc3b127197a7754b5019898a2564f2fa23feabf7"
-    },
-    "chapter": "toronto-conclusion"
-   },
-   {
-    "key": "toronto-2016/toronto-conclusion/DSC05158.jpg",
-    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/toronto-conclusion/DSC05158.jpg",
+    "key": "toronto-2016/toronto-conclusion/DSC05175.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/toronto-conclusion/DSC05175.jpg",
     "width": 2000,
     "height": 1500,
-    "bytes": 721218,
-    "sha256": "d138d5371ddea69e281fab131e2b5b2a739afecf3713f513bc670aef86655a01",
+    "bytes": 407720,
+    "sha256": "d65e5548df55f5fbdb9eaa1424cf7fc636a4dd33cbd3204075ce295645314bb8",
     "original": {
-     "archivePath": "06 - Торонто - заключение/10_DSC05158.JPG",
-     "sha256": "2a326174a3b0a0cb8de765d2725c6e0583f9f0d49f2f28685ed7bd6d89287eae"
+     "archivePath": "06 - Торонто - заключение/08_DSC05175.JPG",
+     "sha256": "81c7e2d3224f82943b892849b2d1b7a3d0248ae505a155cc4dd0b07de452767f"
     },
     "chapter": "toronto-conclusion"
    },
@@ -2951,21 +2925,47 @@
     "bytes": 390375,
     "sha256": "67225275972b738e6ba00a6450739ad15a93d8773fe568b4717a369976a01fa2",
     "original": {
-     "archivePath": "06 - Торонто - заключение/11_DSC05166.JPG",
+     "archivePath": "06 - Торонто - заключение/09_DSC05166.JPG",
      "sha256": "5fd82234d0a999ae8a6524fe0aa71d90fc73aba41afd46fb75b08d17c18d3662"
     },
     "chapter": "toronto-conclusion"
    },
    {
-    "key": "toronto-2016/toronto-conclusion/DSC05175.jpg",
-    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/toronto-conclusion/DSC05175.jpg",
+    "key": "toronto-2016/toronto-conclusion/20160615_105846.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/toronto-conclusion/20160615_105846.jpg",
+    "width": 1126,
+    "height": 2000,
+    "bytes": 278186,
+    "sha256": "2044f11e2e400d74b38c25a622b23b8772b9723b114b6847688f5c699df068a2",
+    "original": {
+     "archivePath": "06 - Торонто - заключение/10_20160615_105846.jpg",
+     "sha256": "5307b0712caaecc2c301b27c16e0db62ea4895353238854388781dd6066de38e"
+    },
+    "chapter": "toronto-conclusion"
+   },
+   {
+    "key": "toronto-2016/toronto-conclusion/DSC05158.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/toronto-conclusion/DSC05158.jpg",
     "width": 2000,
     "height": 1500,
-    "bytes": 407720,
-    "sha256": "d65e5548df55f5fbdb9eaa1424cf7fc636a4dd33cbd3204075ce295645314bb8",
+    "bytes": 721218,
+    "sha256": "d138d5371ddea69e281fab131e2b5b2a739afecf3713f513bc670aef86655a01",
     "original": {
-     "archivePath": "06 - Торонто - заключение/12_DSC05175.JPG",
-     "sha256": "81c7e2d3224f82943b892849b2d1b7a3d0248ae505a155cc4dd0b07de452767f"
+     "archivePath": "06 - Торонто - заключение/11_DSC05158.JPG",
+     "sha256": "2a326174a3b0a0cb8de765d2725c6e0583f9f0d49f2f28685ed7bd6d89287eae"
+    },
+    "chapter": "toronto-conclusion"
+   },
+   {
+    "key": "toronto-2016/toronto-conclusion/DSC05156.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/toronto-conclusion/DSC05156.jpg",
+    "width": 1500,
+    "height": 2000,
+    "bytes": 467449,
+    "sha256": "61df5fb654faa385b5f6f629c51be71d252a4b2524c12aa24cf0f86d78e52079",
+    "original": {
+     "archivePath": "06 - Торонто - заключение/12_DSC05156.JPG",
+     "sha256": "675fb9db2f4e05661a1159e8dc3b127197a7754b5019898a2564f2fa23feabf7"
     },
     "chapter": "toronto-conclusion"
    },
