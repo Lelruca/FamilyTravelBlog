@@ -24,7 +24,7 @@ hero_image: "20160612_120900.jpg"
 
 <p>Я, Лена, подарила нам всем эти прекрасные кадры природы:</p>
 
-{{< mosaic "DSCN2574.jpg DSCN2640.jpg L:DSCN2691.jpg DSC04957.jpg DSCN2515.jpg DSCN2795.jpg" >}}
+{{< mosaic "DSCN2574.jpg DSCN2640.jpg L:DSCN2691.jpg DSC04957.jpg DSCN2515.jpg DSCN2795.jpg DSCN2817.jpg" >}}
 
 <p>Орхидея-туфелька - настоящая орхидея "на воле"!</p>
 
