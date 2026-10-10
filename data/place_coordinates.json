@@ -968,5 +968,75 @@
     "country_code": "NL",
     "source": "https://www.openstreetmap.org/relation/337728",
     "query": "Zaandam Netherlands"
+  },
+  "florence": {
+    "lat": 43.7697955,
+    "lon": 11.2556404,
+    "name": "Firenze",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/42602",
+    "query": "Firenze",
+    "verified_display_name": "Firenze, Toscana, Italia"
+  },
+  "rome": {
+    "lat": 41.8933203,
+    "lon": 12.4829321,
+    "name": "Roma",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/41485",
+    "query": "Roma",
+    "verified_display_name": "Roma, Roma Capitale, Lazio, Italia"
+  },
+  "naples": {
+    "lat": 40.8358846,
+    "lon": 14.2487679,
+    "name": "Napoli",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/40767",
+    "query": "Napoli",
+    "verified_display_name": "Napoli, Campania, Italia"
+  },
+  "pompeii": {
+    "lat": 40.7517375,
+    "lon": 14.4905636,
+    "name": "Pompeii archaeological site",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/node/4753980853",
+    "query": "Ancient city of Pompeii archaeological site"
+  },
+  "tivoli": {
+    "lat": 41.960922,
+    "lon": 12.798884,
+    "name": "Tivoli",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/41662",
+    "query": "Tivoli",
+    "verified_display_name": "Tivoli, Roma Capitale, Lazio, Italia"
+  },
+  "milan": {
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "name": "Milano",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/44915",
+    "query": "Milano"
+  },
+  "vatican": {
+    "lat": 41.9034912,
+    "lon": 12.4528349,
+    "name": "Vatican City",
+    "country_code": "VA",
+    "source": "https://www.openstreetmap.org/node/424311883",
+    "query": "Vatican City",
+    "verified_display_name": "Civitas Vaticana - Città del Vaticano, 00120, Civitas Vaticana - Città del Vaticano"
+  },
+  "nijmegen": {
+    "lat": 51.8474946,
+    "lon": 5.8637771,
+    "name": "Nijmegen",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/relation/1201020",
+    "query": "Nijmegen",
+    "verified_display_name": "Nijmegen, Gelderland, Nederland"
   }
 }

@@ -8,7 +8,7 @@ const visited=data.countries.filter(c=>c.trips.length);root.querySelector('#stat
 const groups=root.querySelector('#groups');
 const regionNames={europe:'Европа',americas:'Северная Америка',south:'Южная Америка',asia:'Азия',africa:'Африка',oceania:'Австралия и Океания'};
 const availableRegions=new Set(visited.map(c=>Object.keys(regionNames).find(k=>regionNames[k]===c.region)));
-const flags={england:'gb',belgium:'be',germany:'de',netherlands:'nl',spain:'es',portugal:'pt',france:'fr',switzerland:'ch',canada:'ca',mexico:'mx',usa:'us',japan:'jp'};
+const flags={england:'gb',belgium:'be',germany:'de',netherlands:'nl',spain:'es',portugal:'pt',france:'fr',switzerland:'ch',canada:'ca',mexico:'mx',usa:'us',japan:'jp',italy:'it',vatican:'va'};
 function renderCountries(region){
   groups.replaceChildren();
   root.querySelector('.directory-top h2').textContent=regionNames[region]||'Все страны';
