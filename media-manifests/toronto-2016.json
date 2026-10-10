@@ -31,9 +31,9 @@
  "originalPhotoLinks": "77 Google Photos links in the DOCX need a Google sign-in and do not return images; the owner chose the photos from OneDrive Photo/2016/2016 Лето/Наши немцы в Канаде instead.",
  "archive": {
   "folder": "North America/2016 - Наши немцы в Канаде",
-  "checkedAt": "2026-10-10T04:13:12.863Z",
-  "images": 156,
-  "unused": 2,
+  "checkedAt": "2026-10-10T04:38:03.772Z",
+  "images": 155,
+  "unused": 3,
   "bytes": 796781737,
   "verification": "files copied or renamed inside the archive with SHA-256 compared before and after; Drive ids that are not 'local…' show the file is in the cloud",
   "files": [
@@ -1006,30 +1006,7 @@
     "note": "video, not shown on the site"
    },
    {
-    "archivePath": "03 - Кораблик/01_DSCN2678.JPG",
-    "originalName": "DSCN2678.JPG",
-    "previousPath": "03 - Кораблик/01_DSCN2678.JPG (added by the owner directly to the chapter folder)",
-    "bytes": 4212281,
-    "sha256": "0042bc62365e66f31ff32fcb5f3bf182ce29f1cf3d625a29433fa879b9e41e1c",
-    "width": 4608,
-    "height": 3456,
-    "takenAt": null,
-    "driveId": "1Q1MGY_NSFthY-e7yl1ySJl4ajDc92VEb",
-    "chapter": "temagami-1",
-    "usedOnSite": true,
-    "site": {
-     "key": "temagami-1/DSCN2678.jpg",
-     "name": "DSCN2678.jpg",
-     "copy": {
-      "width": 2000,
-      "height": 1500,
-      "bytes": 679265,
-      "sha256": "d81533c47a5674b4d7dbde22ef9b695a4a68c8360125fc477557a06ee5619f8b"
-     }
-    }
-   },
-   {
-    "archivePath": "03 - Кораблик/02_20160611_154602.jpg",
+    "archivePath": "03 - Кораблик/01_20160611_154602.jpg",
     "originalName": "20160611_154602.jpg",
     "previousPath": "03 - Кораблик/02_20160611_154602.jpg (added by the owner directly to the chapter folder)",
     "bytes": 6041931,
@@ -1052,7 +1029,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/03_Capture.JPG",
+    "archivePath": "03 - Кораблик/02_Capture.JPG",
     "originalName": "Capture.JPG",
     "previousPath": "03 - Кораблик/03_Capture.JPG (added by the owner directly to the chapter folder)",
     "bytes": 46065,
@@ -1075,7 +1052,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/04_DSCN2583.JPG",
+    "archivePath": "03 - Кораблик/03_DSCN2583.JPG",
     "originalName": "DSCN2583.JPG",
     "previousPath": "03 - Кораблик/04_DSCN2583.JPG (added by the owner directly to the chapter folder)",
     "bytes": 3886404,
@@ -1098,7 +1075,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/05_DSCN2521.JPG",
+    "archivePath": "03 - Кораблик/04_DSCN2521.JPG",
     "originalName": "DSCN2521.JPG",
     "previousPath": "03 - Кораблик/05_DSCN2521.JPG (added by the owner directly to the chapter folder)",
     "bytes": 4021343,
@@ -1121,7 +1098,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/06_20160609_212709.jpg",
+    "archivePath": "03 - Кораблик/05_20160609_212709.jpg",
     "originalName": "20160609_212709.jpg",
     "previousPath": "03 - Кораблик/06_20160609_212709.jpg (added by the owner directly to the chapter folder)",
     "bytes": 4564627,
@@ -1144,7 +1121,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/07_20160610_121753.jpg",
+    "archivePath": "03 - Кораблик/06_20160610_121753.jpg",
     "originalName": "20160610_121753.jpg",
     "previousPath": "03 - Кораблик/07_20160610_121753.jpg (added by the owner directly to the chapter folder)",
     "bytes": 5530081,
@@ -1167,7 +1144,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/08_20160610_102445.jpg",
+    "archivePath": "03 - Кораблик/07_20160610_102445.jpg",
     "originalName": "20160610_102445.jpg",
     "previousPath": "03 - Кораблик/08_20160610_102445.jpg (added by the owner directly to the chapter folder)",
     "bytes": 4697154,
@@ -1190,7 +1167,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/09_20160611_155850.jpg",
+    "archivePath": "03 - Кораблик/08_20160611_155850.jpg",
     "originalName": "20160611_155850.jpg",
     "previousPath": "03 - Кораблик/09_20160611_155850.jpg (added by the owner directly to the chapter folder)",
     "bytes": 4902354,
@@ -1213,7 +1190,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/10_20160610_164905.jpg",
+    "archivePath": "03 - Кораблик/09_20160610_164905.jpg",
     "originalName": "20160610_164905.jpg",
     "previousPath": "03 - Кораблик/10_20160610_164905.jpg (added by the owner directly to the chapter folder)",
     "bytes": 3916903,
@@ -1236,7 +1213,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/11_20160610_085039.jpg",
+    "archivePath": "03 - Кораблик/10_20160610_085039.jpg",
     "originalName": "20160610_085039.jpg",
     "previousPath": "03 - Кораблик/11_20160610_085039.jpg (added by the owner directly to the chapter folder)",
     "bytes": 3676045,
@@ -1259,7 +1236,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/12_DSCN2520.JPG",
+    "archivePath": "03 - Кораблик/11_DSCN2520.JPG",
     "originalName": "DSCN2520.JPG",
     "previousPath": "03 - Кораблик/12_DSCN2520.JPG (added by the owner directly to the chapter folder)",
     "bytes": 4183880,
@@ -1282,7 +1259,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/13_DSCN2524.JPG",
+    "archivePath": "03 - Кораблик/12_DSCN2524.JPG",
     "originalName": "DSCN2524.JPG",
     "previousPath": "03 - Кораблик/13_DSCN2524.JPG (added by the owner directly to the chapter folder)",
     "bytes": 3923239,
@@ -1305,7 +1282,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/14_DSC04878.JPG",
+    "archivePath": "03 - Кораблик/13_DSC04878.JPG",
     "originalName": "DSC04878.JPG",
     "previousPath": "03 - Кораблик/14_DSC04878.JPG (added by the owner directly to the chapter folder)",
     "bytes": 4523328,
@@ -1328,7 +1305,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/15_DSCN2771.JPG",
+    "archivePath": "03 - Кораблик/14_DSCN2771.JPG",
     "originalName": "DSCN2771.JPG",
     "previousPath": "03 - Кораблик/15_DSCN2771.JPG (added by the owner directly to the chapter folder)",
     "bytes": 4235397,
@@ -1351,7 +1328,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/16_20160610_110711.jpg",
+    "archivePath": "03 - Кораблик/15_20160610_110711.jpg",
     "originalName": "20160610_110711.jpg",
     "previousPath": "03 - Кораблик/16_20160610_110711.jpg (added by the owner directly to the chapter folder)",
     "bytes": 3121501,
@@ -1374,7 +1351,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/17_DSCN2759.JPG",
+    "archivePath": "03 - Кораблик/16_DSCN2759.JPG",
     "originalName": "DSCN2759.JPG",
     "previousPath": "03 - Кораблик/17_DSCN2759.JPG (added by the owner directly to the chapter folder)",
     "bytes": 4108055,
@@ -1397,7 +1374,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/18_DSCN2760.JPG",
+    "archivePath": "03 - Кораблик/17_DSCN2760.JPG",
     "originalName": "DSCN2760.JPG",
     "previousPath": "03 - Кораблик/18_DSCN2760.JPG (added by the owner directly to the chapter folder)",
     "bytes": 4277531,
@@ -1420,7 +1397,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/19_20160610_110222.jpg",
+    "archivePath": "03 - Кораблик/18_20160610_110222.jpg",
     "originalName": "20160610_110222.jpg",
     "previousPath": "03 - Кораблик/19_20160610_110222.jpg (added by the owner directly to the chapter folder)",
     "bytes": 4538041,
@@ -1443,7 +1420,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/20_20160610_110229.jpg",
+    "archivePath": "03 - Кораблик/19_20160610_110229.jpg",
     "originalName": "20160610_110229.jpg",
     "previousPath": "03 - Кораблик/20_20160610_110229.jpg (added by the owner directly to the chapter folder)",
     "bytes": 3674041,
@@ -1466,7 +1443,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/21_DSC04962.JPG",
+    "archivePath": "03 - Кораблик/20_DSC04962.JPG",
     "originalName": "DSC04962.JPG",
     "previousPath": "03 - Кораблик/21_DSC04962.JPG (added by the owner directly to the chapter folder)",
     "bytes": 5972652,
@@ -1489,7 +1466,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/22_DSC05006.JPG",
+    "archivePath": "03 - Кораблик/21_DSC05006.JPG",
     "originalName": "DSC05006.JPG",
     "previousPath": "03 - Кораблик/22_DSC05006.JPG (added by the owner directly to the chapter folder)",
     "bytes": 4762631,
@@ -1512,7 +1489,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/23_DSCN2764.JPG",
+    "archivePath": "03 - Кораблик/22_DSCN2764.JPG",
     "originalName": "DSCN2764.JPG",
     "previousPath": "03 - Кораблик/23_DSCN2764.JPG (added by the owner directly to the chapter folder)",
     "bytes": 3954064,
@@ -1535,7 +1512,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/24_20160612_142234.jpg",
+    "archivePath": "03 - Кораблик/23_20160612_142234.jpg",
     "originalName": "20160612_142234.jpg",
     "previousPath": "03 - Кораблик/24_20160612_142234.jpg (added by the owner directly to the chapter folder)",
     "bytes": 5617468,
@@ -1558,7 +1535,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/25_DSCN2591.JPG",
+    "archivePath": "03 - Кораблик/24_DSCN2591.JPG",
     "originalName": "DSCN2591.JPG",
     "previousPath": "03 - Кораблик/25_DSCN2591.JPG (added by the owner directly to the chapter folder)",
     "bytes": 3732319,
@@ -1581,7 +1558,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/26_DSC05088.JPG",
+    "archivePath": "03 - Кораблик/25_DSC05088.JPG",
     "originalName": "DSC05088.JPG",
     "previousPath": "03 - Кораблик/26_DSC05088.JPG (added by the owner directly to the chapter folder)",
     "bytes": 4892793,
@@ -1604,7 +1581,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/27_DSCN2534.JPG",
+    "archivePath": "03 - Кораблик/26_DSCN2534.JPG",
     "originalName": "DSCN2534.JPG",
     "previousPath": "03 - Кораблик/27_DSCN2534.JPG (added by the owner directly to the chapter folder)",
     "bytes": 4162236,
@@ -1627,7 +1604,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/28_DSCN2721.JPG",
+    "archivePath": "03 - Кораблик/27_DSCN2721.JPG",
     "originalName": "DSCN2721.JPG",
     "previousPath": "03 - Кораблик/28_DSCN2721.JPG (added by the owner directly to the chapter folder)",
     "bytes": 4013300,
@@ -1650,7 +1627,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/29_DSCN2843.JPG",
+    "archivePath": "03 - Кораблик/28_DSCN2843.JPG",
     "originalName": "DSCN2843.JPG",
     "previousPath": "03 - Кораблик/29_DSCN2843.JPG (added by the owner directly to the chapter folder)",
     "bytes": 4009156,
@@ -1673,7 +1650,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/30_DSC04985.JPG",
+    "archivePath": "03 - Кораблик/29_DSC04985.JPG",
     "originalName": "DSC04985.JPG",
     "previousPath": "03 - Кораблик/30_DSC04985.JPG (added by the owner directly to the chapter folder)",
     "bytes": 8022283,
@@ -1696,7 +1673,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/31_DSCN2539.JPG",
+    "archivePath": "03 - Кораблик/30_DSCN2539.JPG",
     "originalName": "DSCN2539.JPG",
     "previousPath": "03 - Кораблик/31_DSCN2539.JPG (added by the owner directly to the chapter folder)",
     "bytes": 3723699,
@@ -1719,7 +1696,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/32_20160612_115020.jpg",
+    "archivePath": "03 - Кораблик/31_20160612_115020.jpg",
     "originalName": "20160612_115020.jpg",
     "previousPath": "03 - Кораблик/32_20160612_115020.jpg (added by the owner directly to the chapter folder)",
     "bytes": 2843427,
@@ -1742,7 +1719,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/33_DSC04950.JPG",
+    "archivePath": "03 - Кораблик/32_DSC04950.JPG",
     "originalName": "DSC04950.JPG",
     "previousPath": "03 - Кораблик/33_DSC04950.JPG (added by the owner directly to the chapter folder)",
     "bytes": 7254993,
@@ -1765,7 +1742,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/34_DSC04952.JPG",
+    "archivePath": "03 - Кораблик/33_DSC04952.JPG",
     "originalName": "DSC04952.JPG",
     "previousPath": "03 - Кораблик/34_DSC04952.JPG (added by the owner directly to the chapter folder)",
     "bytes": 7746174,
@@ -1788,7 +1765,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/35_DSC05090.JPG",
+    "archivePath": "03 - Кораблик/34_DSC05090.JPG",
     "originalName": "DSC05090.JPG",
     "previousPath": "03 - Кораблик/35_DSC05090.JPG (added by the owner directly to the chapter folder)",
     "bytes": 6581081,
@@ -1811,7 +1788,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/36_DSCN2597.JPG",
+    "archivePath": "03 - Кораблик/35_DSCN2597.JPG",
     "originalName": "DSCN2597.JPG",
     "previousPath": "03 - Кораблик/36_DSCN2597.JPG (added by the owner directly to the chapter folder)",
     "bytes": 3913516,
@@ -1834,7 +1811,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/37_DSC04970.JPG",
+    "archivePath": "03 - Кораблик/36_DSC04970.JPG",
     "originalName": "DSC04970.JPG",
     "previousPath": "03 - Кораблик/37_DSC04970.JPG (added by the owner directly to the chapter folder)",
     "bytes": 4853317,
@@ -1857,7 +1834,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/38_DSC04998.JPG",
+    "archivePath": "03 - Кораблик/37_DSC04998.JPG",
     "originalName": "DSC04998.JPG",
     "previousPath": "03 - Кораблик/38_DSC04998.JPG (added by the owner directly to the chapter folder)",
     "bytes": 6424823,
@@ -1880,7 +1857,7 @@
     }
    },
    {
-    "archivePath": "03 - Кораблик/39_DSCN2800.JPG",
+    "archivePath": "03 - Кораблик/38_DSCN2800.JPG",
     "originalName": "DSCN2800.JPG",
     "previousPath": "03 - Кораблик/39_DSCN2800.JPG (added by the owner directly to the chapter folder)",
     "bytes": 3779272,
@@ -1901,6 +1878,20 @@
       "sha256": "1bf19f6a8b8e7b80c0154596026e6df4017a09cf9080e126d18f8ce9f11d46d0"
      }
     }
+   },
+   {
+    "archivePath": "03 - Кораблик/zz_не использовано_DSCN2678.JPG",
+    "originalName": "DSCN2678.JPG",
+    "previousPath": "03 - Кораблик/01_DSCN2678.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 4212281,
+    "sha256": "0042bc62365e66f31ff32fcb5f3bf182ce29f1cf3d625a29433fa879b9e41e1c",
+    "width": 4608,
+    "height": 3456,
+    "takenAt": null,
+    "driveId": "1Q1MGY_NSFthY-e7yl1ySJl4ajDc92VEb",
+    "chapter": "temagami-1",
+    "usedOnSite": false,
+    "note": "video, not shown on the site"
    },
    {
     "archivePath": "04 - Отдых/01_20160611_160926.jpg",
@@ -3717,7 +3708,7 @@
   "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
   "longSideLimit": 2000,
   "preparedFrom": "Drive archive originals",
-  "verifiedAt": "2026-10-10T04:13:12.865Z",
+  "verifiedAt": "2026-10-10T04:38:03.773Z",
   "verification": "every public URL fetched: HTTP 200, image content-type, SHA-256 equals the local screen copy",
   "photos": [
    {
@@ -4241,19 +4232,6 @@
     "chapter": "new-york"
    },
    {
-    "key": "toronto-2016/temagami-1/DSCN2678.jpg",
-    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/DSCN2678.jpg",
-    "width": 2000,
-    "height": 1500,
-    "bytes": 679265,
-    "sha256": "d81533c47a5674b4d7dbde22ef9b695a4a68c8360125fc477557a06ee5619f8b",
-    "original": {
-     "archivePath": "03 - Кораблик/01_DSCN2678.JPG",
-     "sha256": "0042bc62365e66f31ff32fcb5f3bf182ce29f1cf3d625a29433fa879b9e41e1c"
-    },
-    "chapter": "temagami-1"
-   },
-   {
     "key": "toronto-2016/temagami-1/20160611_154602.jpg",
     "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-1/20160611_154602.jpg",
     "width": 2000,
@@ -4261,7 +4239,7 @@
     "bytes": 414954,
     "sha256": "ede50cc05856269e435a7631d5ef6d6443b9706ba038722c3ea67ef6dd57490c",
     "original": {
-     "archivePath": "03 - Кораблик/02_20160611_154602.jpg",
+     "archivePath": "03 - Кораблик/01_20160611_154602.jpg",
      "sha256": "1a81545f0baa59c66175ee71f913cbf5f552b4ae12ca9346d5c779bc90a13b42"
     },
     "chapter": "temagami-1"
@@ -4274,7 +4252,7 @@
     "bytes": 37567,
     "sha256": "30b83554d18ca46b7c0b68d4f3f18a5accf9a4c5b6a0f1d5d87573a45021baa3",
     "original": {
-     "archivePath": "03 - Кораблик/03_Capture.JPG",
+     "archivePath": "03 - Кораблик/02_Capture.JPG",
      "sha256": "063d067344a60146490bcbd18a2ffd007766619fcdcd92f6547a17a2da666232"
     },
     "chapter": "temagami-1"
@@ -4287,7 +4265,7 @@
     "bytes": 233953,
     "sha256": "795c26d6cc184925cfb45258e10a40ac2555bd42a87154b1e78dfa8f89c9b06a",
     "original": {
-     "archivePath": "03 - Кораблик/04_DSCN2583.JPG",
+     "archivePath": "03 - Кораблик/03_DSCN2583.JPG",
      "sha256": "e9790efe2d96b4ef5f5ecf32fff05b1c4cc7ecb6b767a7e2582f2ad47cd9e140"
     },
     "chapter": "temagami-1"
@@ -4300,7 +4278,7 @@
     "bytes": 439593,
     "sha256": "f5d6e57227d00a166d2b82d335b4156c24b732f4bd72318e11b23238e27f2dac",
     "original": {
-     "archivePath": "03 - Кораблик/05_DSCN2521.JPG",
+     "archivePath": "03 - Кораблик/04_DSCN2521.JPG",
      "sha256": "6c07bfa93891630c67e124e706c6e6f82150e1cec4ec44867e1050cfd3c6b479"
     },
     "chapter": "temagami-1"
@@ -4313,7 +4291,7 @@
     "bytes": 234197,
     "sha256": "24cf7f59b754d7b7c04bdfd99bf0ff91d5b60c1c908da16b89dfc8e008f0a1cd",
     "original": {
-     "archivePath": "03 - Кораблик/06_20160609_212709.jpg",
+     "archivePath": "03 - Кораблик/05_20160609_212709.jpg",
      "sha256": "d447e8c0ae6ff19f657bb69cec712a154932518d587a53eedb0ab760bcfcd635"
     },
     "chapter": "temagami-1"
@@ -4326,7 +4304,7 @@
     "bytes": 547612,
     "sha256": "1379c29ee405a7f9d67e596fb57e0b2a04beb78167cd0b2607a25af443f98be3",
     "original": {
-     "archivePath": "03 - Кораблик/07_20160610_121753.jpg",
+     "archivePath": "03 - Кораблик/06_20160610_121753.jpg",
      "sha256": "274e609e3d37b30b0934a4e9dbab854bfe4c2a007877302ca62710785b02d9f9"
     },
     "chapter": "temagami-1"
@@ -4339,7 +4317,7 @@
     "bytes": 356543,
     "sha256": "be020b3743ca9a8045210872a9268a2ddfe2e2a14ae868b9b672a2995932d006",
     "original": {
-     "archivePath": "03 - Кораблик/08_20160610_102445.jpg",
+     "archivePath": "03 - Кораблик/07_20160610_102445.jpg",
      "sha256": "543f055f14b46f24a03cf6d8adce8952d78a1c9842c69ccc26615271cffe9799"
     },
     "chapter": "temagami-1"
@@ -4352,7 +4330,7 @@
     "bytes": 353712,
     "sha256": "db6f6e8ed2b3e2d3afa661f917d2bd27a5f100b9f8cb28ff920c57be9c2810e3",
     "original": {
-     "archivePath": "03 - Кораблик/09_20160611_155850.jpg",
+     "archivePath": "03 - Кораблик/08_20160611_155850.jpg",
      "sha256": "ce45bd67ec4ba96dc3e1fa4d1d317bd2e0da7dfd355faea659ebd46a068dfc26"
     },
     "chapter": "temagami-1"
@@ -4365,7 +4343,7 @@
     "bytes": 225251,
     "sha256": "83f0812cc64536c4fd150f9c5c4482745bb6560ddd0ec9a31ac0a82a0fb239f2",
     "original": {
-     "archivePath": "03 - Кораблик/10_20160610_164905.jpg",
+     "archivePath": "03 - Кораблик/09_20160610_164905.jpg",
      "sha256": "05f23b32deac336ea465170bf34d90329a64a013e569564f70601231fcb26c88"
     },
     "chapter": "temagami-1"
@@ -4378,7 +4356,7 @@
     "bytes": 177300,
     "sha256": "95c5262e5ea5439ed1dcb73dba71e6538b02d860b41bdec99ddf93ce2048e2bd",
     "original": {
-     "archivePath": "03 - Кораблик/11_20160610_085039.jpg",
+     "archivePath": "03 - Кораблик/10_20160610_085039.jpg",
      "sha256": "e33bbea64ba94fd5e4bd6fe34d436edca0f169ae934ba1dc4a77cad6dc961c10"
     },
     "chapter": "temagami-1"
@@ -4391,7 +4369,7 @@
     "bytes": 392956,
     "sha256": "667804fa4f6127edbfad8ff793517139aeea92e300adf5125eb3b2991cc254e9",
     "original": {
-     "archivePath": "03 - Кораблик/12_DSCN2520.JPG",
+     "archivePath": "03 - Кораблик/11_DSCN2520.JPG",
      "sha256": "bdb0131d919c75a2c7f65a60ec87e0bdf07675b67013badf7eaf7bc079dfdefc"
     },
     "chapter": "temagami-1"
@@ -4404,7 +4382,7 @@
     "bytes": 522734,
     "sha256": "3b322c6c917874bded8fa05785dfeba0302b039e7864acd6cf5715c5438558db",
     "original": {
-     "archivePath": "03 - Кораблик/13_DSCN2524.JPG",
+     "archivePath": "03 - Кораблик/12_DSCN2524.JPG",
      "sha256": "f050b07a046b9ebb46fa74cf4720a601d8ac042508b4e4eb125be94b05212567"
     },
     "chapter": "temagami-1"
@@ -4417,7 +4395,7 @@
     "bytes": 271901,
     "sha256": "99736bab02fa3d3b08af44070b7b21bb28de3466dcbdbaa001494e13ef7fae20",
     "original": {
-     "archivePath": "03 - Кораблик/14_DSC04878.JPG",
+     "archivePath": "03 - Кораблик/13_DSC04878.JPG",
      "sha256": "2211e08963cd442c96ecbc1561ad6bc37bd91968ceac1a30f07d3e9cdd9f9adc"
     },
     "chapter": "temagami-1"
@@ -4430,7 +4408,7 @@
     "bytes": 714774,
     "sha256": "79dea6d5cbbf366a15c00d64cb2a0b90cfc1c9a63c2ff1db1ef2a9f40a19f92c",
     "original": {
-     "archivePath": "03 - Кораблик/15_DSCN2771.JPG",
+     "archivePath": "03 - Кораблик/14_DSCN2771.JPG",
      "sha256": "10c4689a08bdc986aabb27feaee49c29d3181989d6d9ca7d7228209614525e76"
     },
     "chapter": "temagami-1"
@@ -4443,7 +4421,7 @@
     "bytes": 190899,
     "sha256": "b923e42893035493c05c809062fafcbb2c4de67399799c51512b69ccea4326d1",
     "original": {
-     "archivePath": "03 - Кораблик/16_20160610_110711.jpg",
+     "archivePath": "03 - Кораблик/15_20160610_110711.jpg",
      "sha256": "ef3d6c047b13bcde569d1a34c2c6ab633b34fe056b25fdf4f3c3597dc6481d7b"
     },
     "chapter": "temagami-1"
@@ -4456,7 +4434,7 @@
     "bytes": 252193,
     "sha256": "9195c7beb7d1596932633045bc2b9644b556e8a607528265add46a172699f8d2",
     "original": {
-     "archivePath": "03 - Кораблик/17_DSCN2759.JPG",
+     "archivePath": "03 - Кораблик/16_DSCN2759.JPG",
      "sha256": "f2d0d628162481fe57c3f49986961acae418f8683a791818254a1b0452d143c4"
     },
     "chapter": "temagami-1"
@@ -4469,7 +4447,7 @@
     "bytes": 207694,
     "sha256": "6cf6a189ef71c66d6dbd9a54c870da7828570d5469efc9382ae6c47e1c0bdeb6",
     "original": {
-     "archivePath": "03 - Кораблик/18_DSCN2760.JPG",
+     "archivePath": "03 - Кораблик/17_DSCN2760.JPG",
      "sha256": "b6052a1d4cf0d0049ba9d9b69cc26d53f4fc4af135f09454474b1086387f3b4e"
     },
     "chapter": "temagami-1"
@@ -4482,7 +4460,7 @@
     "bytes": 223614,
     "sha256": "dd9fdd54d1642f1bc80950f91688306fea63a93733a133fce2cb92b58ed06099",
     "original": {
-     "archivePath": "03 - Кораблик/19_20160610_110222.jpg",
+     "archivePath": "03 - Кораблик/18_20160610_110222.jpg",
      "sha256": "a37951e6036c22decb8b5d67254595735346e2356c1fef94d4734b42868a99b1"
     },
     "chapter": "temagami-1"
@@ -4495,7 +4473,7 @@
     "bytes": 145601,
     "sha256": "cbf35e4b7db79b53c57700f8bcec79f920a95e1e197b321bc0e091547ffebdba",
     "original": {
-     "archivePath": "03 - Кораблик/20_20160610_110229.jpg",
+     "archivePath": "03 - Кораблик/19_20160610_110229.jpg",
      "sha256": "5a6dc0c6476c31b8105e76e87b46373a0c63aae8189da39cd9e12a065dd0a4c0"
     },
     "chapter": "temagami-1"
@@ -4508,7 +4486,7 @@
     "bytes": 378680,
     "sha256": "8a9cc5bec03deedfeb40c93b098908cb7d106432536e5deb130912ef559966b5",
     "original": {
-     "archivePath": "03 - Кораблик/21_DSC04962.JPG",
+     "archivePath": "03 - Кораблик/20_DSC04962.JPG",
      "sha256": "1fbd8de50fc9f8a9c53647738987584508fc8c4cfb88478cd2f3c2be9949495c"
     },
     "chapter": "temagami-1"
@@ -4521,7 +4499,7 @@
     "bytes": 369796,
     "sha256": "d4f1937c6c9811b7684cdd511b92ce059c7eaa22040a6b9f64cf7401d9fe77f2",
     "original": {
-     "archivePath": "03 - Кораблик/22_DSC05006.JPG",
+     "archivePath": "03 - Кораблик/21_DSC05006.JPG",
      "sha256": "bc3c028d5cbf6732c814cddea779c11a5493177e398f5eed2d9101ff0c0e9f10"
     },
     "chapter": "temagami-1"
@@ -4534,7 +4512,7 @@
     "bytes": 494129,
     "sha256": "c6956c15d17d07cc585dad8e3600e400e2c0569968634e61c11854244dc7e0a3",
     "original": {
-     "archivePath": "03 - Кораблик/23_DSCN2764.JPG",
+     "archivePath": "03 - Кораблик/22_DSCN2764.JPG",
      "sha256": "ae02dc7cbc67bc62a7b636283bc487b50061177c2f727eb9736aeea1cce03559"
     },
     "chapter": "temagami-1"
@@ -4547,7 +4525,7 @@
     "bytes": 510696,
     "sha256": "79ffd49a3180ce461993205124a7737ec7fb88ccdace5d35fb63a510e6bc9b3b",
     "original": {
-     "archivePath": "03 - Кораблик/24_20160612_142234.jpg",
+     "archivePath": "03 - Кораблик/23_20160612_142234.jpg",
      "sha256": "a95e2a9d8d64760ae54a940fa1cc3a7627cac2da7d7704466ff704b554bb73cf"
     },
     "chapter": "temagami-1"
@@ -4560,7 +4538,7 @@
     "bytes": 247291,
     "sha256": "a2480c45219ce7fff1c6efbd01a08a6246dea8a57cecaf1d17cd32d45799c33e",
     "original": {
-     "archivePath": "03 - Кораблик/25_DSCN2591.JPG",
+     "archivePath": "03 - Кораблик/24_DSCN2591.JPG",
      "sha256": "50e5426909e198ab68bc8838dd4353248569dc8e260b0e386354c9955ce83ec7"
     },
     "chapter": "temagami-1"
@@ -4573,7 +4551,7 @@
     "bytes": 354763,
     "sha256": "e46c8561a6a072c878e4a6944d266e0f7201b6601841750e59700fbfb35a2f52",
     "original": {
-     "archivePath": "03 - Кораблик/26_DSC05088.JPG",
+     "archivePath": "03 - Кораблик/25_DSC05088.JPG",
      "sha256": "defbd4296c10d92cc7fbb37cd7cd2bae26d92d11945add8199c517923c23527a"
     },
     "chapter": "temagami-1"
@@ -4586,7 +4564,7 @@
     "bytes": 442922,
     "sha256": "c906164c141e4214f061d0ec8529a1731350b840857168934324d184c8f7f399",
     "original": {
-     "archivePath": "03 - Кораблик/27_DSCN2534.JPG",
+     "archivePath": "03 - Кораблик/26_DSCN2534.JPG",
      "sha256": "f19b4e32cc57b709a224c12f7439bf7e33296a759468021bb53d972f1935cc49"
     },
     "chapter": "temagami-1"
@@ -4599,7 +4577,7 @@
     "bytes": 629150,
     "sha256": "68f994df4b318318fab905705764448e2aaa50b4c2a0903978d442e40fd0c9a7",
     "original": {
-     "archivePath": "03 - Кораблик/28_DSCN2721.JPG",
+     "archivePath": "03 - Кораблик/27_DSCN2721.JPG",
      "sha256": "6ceae9e35533903fa804e2ca05a3a590df608a9749d859656cdc51678493edc7"
     },
     "chapter": "temagami-1"
@@ -4612,7 +4590,7 @@
     "bytes": 562635,
     "sha256": "d71081e4ea55ad28366a16220117fcffba08b039d8774ea93956255561ee30ff",
     "original": {
-     "archivePath": "03 - Кораблик/29_DSCN2843.JPG",
+     "archivePath": "03 - Кораблик/28_DSCN2843.JPG",
      "sha256": "a3178d27b3b2e14891d6a4802aec316ac028daf4dc9473ffcd115732a08cfc24"
     },
     "chapter": "temagami-1"
@@ -4625,7 +4603,7 @@
     "bytes": 808062,
     "sha256": "a331453ab751fbf47bf8116501e2f23be7cff5b9342d3f94e5fc821320a29aae",
     "original": {
-     "archivePath": "03 - Кораблик/30_DSC04985.JPG",
+     "archivePath": "03 - Кораблик/29_DSC04985.JPG",
      "sha256": "070d2a4509ff95590bff636c9a4a538dd21b9adf73b4c35f405294fcb22971ff"
     },
     "chapter": "temagami-1"
@@ -4638,7 +4616,7 @@
     "bytes": 536434,
     "sha256": "85102b0a2930f26f1e71cfab151021e973499a524e779ffc04636d4e13346418",
     "original": {
-     "archivePath": "03 - Кораблик/31_DSCN2539.JPG",
+     "archivePath": "03 - Кораблик/30_DSCN2539.JPG",
      "sha256": "9c5159707560beb6c4f227a7af941d19056cfb54889e2c7fd617989349353090"
     },
     "chapter": "temagami-1"
@@ -4651,7 +4629,7 @@
     "bytes": 227744,
     "sha256": "83ce55a8e509401b0370c90b7afee78cc860513f288104e7f982018f651fbea7",
     "original": {
-     "archivePath": "03 - Кораблик/32_20160612_115020.jpg",
+     "archivePath": "03 - Кораблик/31_20160612_115020.jpg",
      "sha256": "6ac25fe91edf74eebb159d65d31f2183fe5f91121ecd27e650d22ba074f53dfd"
     },
     "chapter": "temagami-1"
@@ -4664,7 +4642,7 @@
     "bytes": 670809,
     "sha256": "84da57ad9d24211bc88930f377af7fbed0e52ad6e3fe5aef2a33fec68ff0d0a9",
     "original": {
-     "archivePath": "03 - Кораблик/33_DSC04950.JPG",
+     "archivePath": "03 - Кораблик/32_DSC04950.JPG",
      "sha256": "d9a18ee4510ccff8ad92f9e32963e74ef056806b9f4e554d4a0256c68d0a6c2b"
     },
     "chapter": "temagami-1"
@@ -4677,7 +4655,7 @@
     "bytes": 824796,
     "sha256": "7ec44551c63d7ecb9bcb193c046df52bcc17ca5f722e35febc56d7b4c64ee7a7",
     "original": {
-     "archivePath": "03 - Кораблик/34_DSC04952.JPG",
+     "archivePath": "03 - Кораблик/33_DSC04952.JPG",
      "sha256": "601347c4dca9a286d163700fbabb5bf354df3482fa695f76787926dc61d4bfd7"
     },
     "chapter": "temagami-1"
@@ -4690,7 +4668,7 @@
     "bytes": 685578,
     "sha256": "b823ff2547afd34521408858821c975e968af22da98cd17429591698f82da0bc",
     "original": {
-     "archivePath": "03 - Кораблик/35_DSC05090.JPG",
+     "archivePath": "03 - Кораблик/34_DSC05090.JPG",
      "sha256": "56324b17906408bdf2b0831c264721dbfaf1d5d9a0110e2132bf5de43068f5a1"
     },
     "chapter": "temagami-1"
@@ -4703,7 +4681,7 @@
     "bytes": 969368,
     "sha256": "4144744552d3aa637e762fbc53ad8b88fd91ef1a6b621a5e53531b8918008618",
     "original": {
-     "archivePath": "03 - Кораблик/36_DSCN2597.JPG",
+     "archivePath": "03 - Кораблик/35_DSCN2597.JPG",
      "sha256": "10b59517a44347715a15272303cc9c746641a5f6274feed5b24c1b204928c378"
     },
     "chapter": "temagami-1"
@@ -4716,7 +4694,7 @@
     "bytes": 423832,
     "sha256": "055fa8b74fb754457914065b7a32317c32f58e1567849beeff8c7591b3259f30",
     "original": {
-     "archivePath": "03 - Кораблик/37_DSC04970.JPG",
+     "archivePath": "03 - Кораблик/36_DSC04970.JPG",
      "sha256": "5903ba46339df96d1e4ceed6e5d050f068969576ac6f6f8d2142040b3fd098bf"
     },
     "chapter": "temagami-1"
@@ -4729,7 +4707,7 @@
     "bytes": 633638,
     "sha256": "a3d9a1c477ceae72083358b2473497d25c42fee90c05ee5e797a069016ce568e",
     "original": {
-     "archivePath": "03 - Кораблик/38_DSC04998.JPG",
+     "archivePath": "03 - Кораблик/37_DSC04998.JPG",
      "sha256": "bf1a36df38a176f29b1b2caf6beaaa9334fe368836105ecc964d6b89ecb9fcf2"
     },
     "chapter": "temagami-1"
@@ -4742,7 +4720,7 @@
     "bytes": 111057,
     "sha256": "1bf19f6a8b8e7b80c0154596026e6df4017a09cf9080e126d18f8ce9f11d46d0",
     "original": {
-     "archivePath": "03 - Кораблик/39_DSCN2800.JPG",
+     "archivePath": "03 - Кораблик/38_DSCN2800.JPG",
      "sha256": "2c57976e5cda72dfd2951c0e1e77dbf89f396bcd3ecb05c55f5bd24703597683"
     },
     "chapter": "temagami-1"
