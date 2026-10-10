@@ -33,7 +33,7 @@
  "originalPhotoLinks": "77 Google Photos links in the DOCX need a Google sign-in and do not return images; the owner chose the photos from OneDrive Photo/2016/2016 Лето/Наши немцы в Канаде instead.",
  "archive": {
   "folder": "North America/2016 - Наши немцы в Канаде",
-  "checkedAt": "2026-10-10T02:43:49.101Z",
+  "checkedAt": "2026-10-10T02:46:18.273Z",
   "images": 82,
   "unused": 2,
   "bytes": 458041088,
@@ -2017,7 +2017,7 @@
   "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
   "longSideLimit": 2000,
   "preparedFrom": "Drive archive originals",
-  "verifiedAt": "2026-10-10T02:43:49.102Z",
+  "verifiedAt": "2026-10-10T02:46:18.274Z",
   "verification": "every public URL fetched: HTTP 200, image content-type, SHA-256 equals the local screen copy",
   "photos": [
    {
@@ -3087,5 +3087,25 @@
     "chapter": "toronto-conclusion"
    }
   ]
+ },
+ "tripCover": {
+  "filename": "20160611_120041.jpg",
+  "archiveFile": "00_20160611_120041.jpg",
+  "originalName": "20160611_120041.jpg",
+  "selectedBy": "owner",
+  "subject": "houseboat on Lake Temagami",
+  "bytes": 8243751,
+  "sha256": "f0edd9fd57ac5875ea3ef067ad1c9bc0ae02ef583f4863028b15fd41c9ffb7d9",
+  "width": 5312,
+  "height": 2988,
+  "driveId": "1ki0v4_6A13CQYfG0YoujhdR4DofS8low",
+  "r2Key": "toronto-2016/cover/20160611_120041.jpg",
+  "copy": {
+   "width": 2000,
+   "height": 1126,
+   "bytes": 767071,
+   "sha256": "2bf37c68bd43641d6fe58a33ee3c10a0b47f9b373cddd823fd10a10e5b8b998d",
+   "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/cover/20160611_120041.jpg"
+  }
  }
 }

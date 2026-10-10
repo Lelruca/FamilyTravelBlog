@@ -3,6 +3,7 @@ title: "Принимаем гостей в Торонто"
 type: "trips"
 draft: true
 trip_year: 2016
+cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/cover/20160611_120041.jpg"
 continent: "Северная Америка"
 country: "Канада"
 geo_countries:
