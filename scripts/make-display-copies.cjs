@@ -25,7 +25,9 @@ const chapters = fs.readdirSync(tripDir)
   .sort((a, b) => a.weight - b.weight)
   // chapters without any photo (e.g. a short conclusion) have no Drive folder
   .filter(c => /(?:[?&]id=[\w-]{20}|\.jpg\b|photoscroller|essay-photo)/i.test(fs.readFileSync(path.join(tripDir, c.slug, "index.md"), "utf8")));
-const folders = fs.readdirSync(driveDir).filter(d => /^\d+ - /.test(d)).sort();
+// A chapter folder with no photos yet (created ahead of time) has no chapter on the site to match.
+const folders = fs.readdirSync(driveDir).filter(d => /^\d+ - /.test(d))
+  .filter(d => fs.readdirSync(path.join(driveDir, d)).some(f => /\.(jpe?g|png|heic|webp)$/i.test(f) && !/^zz_/.test(f))).sort();
 if (folders.length !== chapters.length) {
   console.error(`Folders (${folders.length}) and chapters (${chapters.length}) do not match`);
   process.exit(1);

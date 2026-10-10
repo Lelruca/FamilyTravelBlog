@@ -12,18 +12,13 @@
    "slug": "new-york"
   },
   {
-   "folder": "03 - Озеро Темагами 1 - кораблик",
+   "folder": "03 - Кораблик",
    "slug": "temagami-1",
-   "status": "photos not chosen yet"
+   "status": "owner copied all houseboat photos here to choose from; chapters Темагами 1–3 share them"
   },
   {
-   "folder": "04 - Озеро Темагами 2 - отдых",
-   "slug": "temagami-2",
-   "status": "photos not chosen yet"
-  },
-  {
-   "folder": "05 - Озеро Темагами 3 - флора и фауна",
-   "slug": "temagami-3",
+   "folder": "(04, 05 not created)",
+   "slug": "temagami-2 / temagami-3",
    "status": "photos not chosen yet"
   },
   {
@@ -34,11 +29,11 @@
  "originalPhotoLinks": "77 Google Photos links in the DOCX need a Google sign-in and do not return images; the owner chose the photos from OneDrive Photo/2016/2016 Лето/Наши немцы в Канаде instead.",
  "archive": {
   "folder": "North America/2016 - Наши немцы в Канаде",
-  "checkedAt": "2026-10-10T01:45:05.611Z",
-  "images": 57,
-  "unused": 1,
-  "bytes": 272484544,
-  "verification": "every file copied from the owner's subfolders, SHA-256 compared before deleting the source; all 58 files have non-local Drive IDs (uploaded to the cloud)",
+  "checkedAt": "2026-10-10T02:26:19.959Z",
+  "images": 61,
+  "unused": 2,
+  "bytes": 356584446,
+  "verification": "files copied or renamed inside the archive with SHA-256 compared before and after; Drive ids that are not 'local…' show the file is in the cloud",
   "files": [
    {
     "archivePath": "01 - Торонто 1/01_20160604_122327.jpg",
@@ -737,7 +732,30 @@
     }
    },
    {
-    "archivePath": "02 - NY/12_DSC04818.JPG",
+    "archivePath": "02 - NY/12_20160607_092920.jpg",
+    "originalName": "20160607_092920.jpg",
+    "previousPath": "02 - NY/12_20160607_092920.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 4978143,
+    "sha256": "f9616178bd32b045d45ffe84bd2e96bc88ad158047169d3d18774f0ecbdb441f",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1kAdme0rI2yIbRBrq0jmPZaHf7-W-Q2Wy",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/20160607_092920.jpg",
+     "name": "20160607_092920.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 206548,
+      "sha256": "c517b59e64cd4a7c5d0a0f7f4d9acab18538c03e51ae9e3e16c7a6480fdef71a"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/13_DSC04818.JPG",
     "originalName": "DSC04818.JPG",
     "previousPath": "NY/DSC04818.JPG",
     "bytes": 4583111,
@@ -761,7 +779,7 @@
     }
    },
    {
-    "archivePath": "02 - NY/13_DSC04819.JPG",
+    "archivePath": "02 - NY/14_DSC04819.JPG",
     "originalName": "DSC04819.JPG",
     "previousPath": "NY/DSC04819.JPG",
     "bytes": 4985586,
@@ -785,7 +803,30 @@
     }
    },
    {
-    "archivePath": "02 - NY/14_20160607_212740.jpg",
+    "archivePath": "02 - NY/15_20160607_183423.jpg",
+    "originalName": "20160607_183423.jpg",
+    "previousPath": "02 - NY/15_20160607_183423.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 6899696,
+    "sha256": "d2d73b865947f6240cad973d42e3ac2cae4e409895884e8f3daefab6e486bf71",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "10htkqNUslocsXA6gan5E6MZMsoACpWql",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/20160607_183423.jpg",
+     "name": "20160607_183423.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 555488,
+      "sha256": "8eb2e6e1aac3467c14ef0a10f4e17306eaf8866a359f2dab9277a911676ca377"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/16_20160607_212740.jpg",
     "originalName": "20160607_212740.jpg",
     "previousPath": "NY/20160607_212740.jpg",
     "bytes": 5634364,
@@ -809,7 +850,53 @@
     }
    },
    {
-    "archivePath": "02 - NY/15_DSC04839.JPG",
+    "archivePath": "02 - NY/17_20160607_221357.jpg",
+    "originalName": "20160607_221357.jpg",
+    "previousPath": "02 - NY/17_20160607_221357.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 4544481,
+    "sha256": "f7df288c00d11aba4de11a41c5145573879af5faacc02d4bf82dac2bec90285f",
+    "width": 4608,
+    "height": 2592,
+    "takenAt": null,
+    "driveId": "1RUhTMAtoVWd288w99WrOKMkxRPf1lXGL",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/20160607_221357.jpg",
+     "name": "20160607_221357.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 387414,
+      "sha256": "8fddc6ffd40d27a215020e6a531c73972c8a0d9adfe604303f5d24c1986b9d54"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/18_20160607_221757.jpg",
+    "originalName": "20160607_221757.jpg",
+    "previousPath": "02 - NY/18_20160607_221757.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 5656161,
+    "sha256": "47c2a5e62848c8b87eb8a36e190c081bd0d37d70538ad707df7ab73195094c30",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "138I1Ptylzb4amKkMg5IRpCAXush_OQ8_",
+    "chapter": "new-york",
+    "usedOnSite": true,
+    "site": {
+     "key": "new-york/20160607_221757.jpg",
+     "name": "20160607_221757.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 263464,
+      "sha256": "e68da2d58c2b6643b13f5cc1c08bae3848de3e098ddc7acde04ce4e448cb5beb"
+     }
+    }
+   },
+   {
+    "archivePath": "02 - NY/19_DSC04839.JPG",
     "originalName": "DSC04839.JPG",
     "previousPath": "NY/DSC04839.JPG",
     "bytes": 5772713,
@@ -833,7 +920,7 @@
     }
    },
    {
-    "archivePath": "02 - NY/16_DSC04867.JPG",
+    "archivePath": "02 - NY/20_DSC04867.JPG",
     "originalName": "DSC04867.JPG",
     "previousPath": "NY/DSC04867.JPG",
     "bytes": 4665244,
@@ -857,7 +944,7 @@
     }
    },
    {
-    "archivePath": "02 - NY/17_20160608_104334.jpg",
+    "archivePath": "02 - NY/21_20160608_104334.jpg",
     "originalName": "20160608_104334.jpg",
     "previousPath": "NY/20160608_104334.jpg",
     "bytes": 1394915,
@@ -881,7 +968,7 @@
     }
    },
    {
-    "archivePath": "02 - NY/18_20160608_174724.jpg",
+    "archivePath": "02 - NY/22_20160608_174724.jpg",
     "originalName": "20160608_174724.jpg",
     "previousPath": "NY/20160608_174724.jpg",
     "bytes": 5261748,
@@ -903,6 +990,18 @@
       "sha256": "683572e98b78f42a22fd0fe72d1eb0c709502cbe7dab3847f8fd1154a6a4a48d"
      }
     }
+   },
+   {
+    "archivePath": "02 - NY/zz_не использовано_20160607_151552.mp4",
+    "originalName": "20160607_151552.mp4",
+    "previousPath": "02 - NY/zz_не использовано_20160607_151552.mp4 (added by the owner directly to the chapter folder)",
+    "bytes": 62021421,
+    "sha256": "fc6e866d0b43452ddb6d8a24d6d03bdad1fcd083d2546cd37a6623281efdf222",
+    "takenAt": null,
+    "driveId": "1DzuTjTUNz-Hm85Remfax8LP2CdpGcA_3",
+    "chapter": "new-york",
+    "usedOnSite": false,
+    "note": "video, not shown on the site"
    },
    {
     "archivePath": "06 - Торонто - заключение/01_DSC_0017.jpg",
@@ -1423,14 +1522,15 @@
     "usedOnSite": false,
     "note": "video, not shown on the site"
    }
-  ]
+  ],
+  "filesStillUploading": 0
  },
  "r2": {
   "bucket": "family-travel-photos",
   "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
   "longSideLimit": 2000,
   "preparedFrom": "Drive archive originals",
-  "verifiedAt": "2026-10-10T02:23:32.934Z",
+  "verifiedAt": "2026-10-10T02:26:19.961Z",
   "verification": "every public URL fetched: HTTP 200, image content-type, SHA-256 equals the local screen copy",
   "photos": [
    {
@@ -1811,6 +1911,19 @@
     "chapter": "new-york"
    },
    {
+    "key": "toronto-2016/new-york/20160607_092920.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/new-york/20160607_092920.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 206548,
+    "sha256": "c517b59e64cd4a7c5d0a0f7f4d9acab18538c03e51ae9e3e16c7a6480fdef71a",
+    "original": {
+     "archivePath": "02 - NY/12_20160607_092920.jpg",
+     "sha256": "f9616178bd32b045d45ffe84bd2e96bc88ad158047169d3d18774f0ecbdb441f"
+    },
+    "chapter": "new-york"
+   },
+   {
     "key": "toronto-2016/new-york/DSC04818.jpg",
     "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/new-york/DSC04818.jpg",
     "width": 2000,
@@ -1818,7 +1931,7 @@
     "bytes": 318045,
     "sha256": "34fbd033a55409e71e3ad350dcd83f2852d0a0d5a6c60c187ef76445a2482a24",
     "original": {
-     "archivePath": "02 - NY/12_DSC04818.JPG",
+     "archivePath": "02 - NY/13_DSC04818.JPG",
      "sha256": "1b09830bd2c78482061844ac6f4a8e1463a9e09e7ae4aa27d285b7ad8783eff0"
     },
     "chapter": "new-york"
@@ -1831,8 +1944,21 @@
     "bytes": 262375,
     "sha256": "50aaace33c92582c4e884ac6a6b7bc963057d5b2fa7ba17704e3a89df27df206",
     "original": {
-     "archivePath": "02 - NY/13_DSC04819.JPG",
+     "archivePath": "02 - NY/14_DSC04819.JPG",
      "sha256": "3ce651cf645d2c14088dc6114402e075a4a8d7a53a26aa45191829b7947ae6a6"
+    },
+    "chapter": "new-york"
+   },
+   {
+    "key": "toronto-2016/new-york/20160607_183423.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/new-york/20160607_183423.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 555488,
+    "sha256": "8eb2e6e1aac3467c14ef0a10f4e17306eaf8866a359f2dab9277a911676ca377",
+    "original": {
+     "archivePath": "02 - NY/15_20160607_183423.jpg",
+     "sha256": "d2d73b865947f6240cad973d42e3ac2cae4e409895884e8f3daefab6e486bf71"
     },
     "chapter": "new-york"
    },
@@ -1844,8 +1970,34 @@
     "bytes": 194980,
     "sha256": "f074c061a2cf6d5337479431753cbf029b67d65bd61a31255f2da07f448ae307",
     "original": {
-     "archivePath": "02 - NY/14_20160607_212740.jpg",
+     "archivePath": "02 - NY/16_20160607_212740.jpg",
      "sha256": "9cf9c82a0f602476799362f87b0bfb6c3e3a28187b1615a950dd083573354350"
+    },
+    "chapter": "new-york"
+   },
+   {
+    "key": "toronto-2016/new-york/20160607_221357.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/new-york/20160607_221357.jpg",
+    "width": 1126,
+    "height": 2000,
+    "bytes": 387414,
+    "sha256": "8fddc6ffd40d27a215020e6a531c73972c8a0d9adfe604303f5d24c1986b9d54",
+    "original": {
+     "archivePath": "02 - NY/17_20160607_221357.jpg",
+     "sha256": "f7df288c00d11aba4de11a41c5145573879af5faacc02d4bf82dac2bec90285f"
+    },
+    "chapter": "new-york"
+   },
+   {
+    "key": "toronto-2016/new-york/20160607_221757.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/new-york/20160607_221757.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 263464,
+    "sha256": "e68da2d58c2b6643b13f5cc1c08bae3848de3e098ddc7acde04ce4e448cb5beb",
+    "original": {
+     "archivePath": "02 - NY/18_20160607_221757.jpg",
+     "sha256": "47c2a5e62848c8b87eb8a36e190c081bd0d37d70538ad707df7ab73195094c30"
     },
     "chapter": "new-york"
    },
@@ -1857,7 +2009,7 @@
     "bytes": 426805,
     "sha256": "7e9e6d67efc00966174a944419f9921e1594d4d141b2808b49e06b133eb18765",
     "original": {
-     "archivePath": "02 - NY/15_DSC04839.JPG",
+     "archivePath": "02 - NY/19_DSC04839.JPG",
      "sha256": "32bde2d6c62d48fb8e1093fb264d6b3abfeeec6e5b9da8fa0b105a2ccecc2803"
     },
     "chapter": "new-york"
@@ -1870,7 +2022,7 @@
     "bytes": 382058,
     "sha256": "ff5797be238561c1f24b21ec5697d15a1b2266e0238770dd0bba8536b259a501",
     "original": {
-     "archivePath": "02 - NY/16_DSC04867.JPG",
+     "archivePath": "02 - NY/20_DSC04867.JPG",
      "sha256": "072cb4e9b8099ce6eede918c8ce27a390b5348d3f8a287678be2cca8bbfbf8b1"
     },
     "chapter": "new-york"
@@ -1883,7 +2035,7 @@
     "bytes": 75648,
     "sha256": "42536ab68f74c821d6470b02cf6863b09180ea49e292a2d49ae5a018dd58b15b",
     "original": {
-     "archivePath": "02 - NY/17_20160608_104334.jpg",
+     "archivePath": "02 - NY/21_20160608_104334.jpg",
      "sha256": "e1dadc4e01715f32f561227a77c026062a3edc6a99bd0d08f7128118db3dc794"
     },
     "chapter": "new-york"
@@ -1896,7 +2048,7 @@
     "bytes": 290427,
     "sha256": "683572e98b78f42a22fd0fe72d1eb0c709502cbe7dab3847f8fd1154a6a4a48d",
     "original": {
-     "archivePath": "02 - NY/18_20160608_174724.jpg",
+     "archivePath": "02 - NY/22_20160608_174724.jpg",
      "sha256": "a04e8d9133fa77059f5d2a32d16ba65a13b0a4395ea5bfd5218a9649e68caea5"
     },
     "chapter": "new-york"
