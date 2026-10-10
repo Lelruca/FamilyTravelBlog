@@ -33,7 +33,7 @@
  "originalPhotoLinks": "77 Google Photos links in the DOCX need a Google sign-in and do not return images; the owner chose the photos from OneDrive Photo/2016/2016 Лето/Наши немцы в Канаде instead.",
  "archive": {
   "folder": "North America/2016 - Наши немцы в Канаде",
-  "checkedAt": "2026-10-10T02:46:18.273Z",
+  "checkedAt": "2026-10-10T02:49:12.158Z",
   "images": 82,
   "unused": 2,
   "bytes": 458041088,
@@ -1284,99 +1284,7 @@
     }
    },
    {
-    "archivePath": "05 - Флора и фауна/13_20160611_154059.jpg",
-    "originalName": "20160611_154059.jpg",
-    "previousPath": "05 - Флора и фауна/13_20160611_154059.jpg (added by the owner directly to the chapter folder)",
-    "bytes": 5952966,
-    "sha256": "0370328b6cb8b8e26cfc228735418d76b8119df511faddf5aa20e0288d569677",
-    "width": 5312,
-    "height": 2988,
-    "takenAt": null,
-    "driveId": "12gBG5arBl3bGrVGVqOyOM_rymRwwAGCB",
-    "chapter": "temagami-3",
-    "usedOnSite": true,
-    "site": {
-     "key": "temagami-3/20160611_154059.jpg",
-     "name": "20160611_154059.jpg",
-     "copy": {
-      "width": 1126,
-      "height": 2000,
-      "bytes": 503370,
-      "sha256": "fc105e1f90464a575096ccd04d98c43cbba9937c5424c1bd65aaf2dc1b625cd1"
-     }
-    }
-   },
-   {
-    "archivePath": "05 - Флора и фауна/14_20160611_154119.jpg",
-    "originalName": "20160611_154119.jpg",
-    "previousPath": "05 - Флора и фауна/14_20160611_154119.jpg (added by the owner directly to the chapter folder)",
-    "bytes": 7384513,
-    "sha256": "c72af04abace6f943a2ad1453cc21a04a8c0dfe8ca3614bc64c23ff4d3336a7e",
-    "width": 5312,
-    "height": 2988,
-    "takenAt": null,
-    "driveId": "1f3DDnegRyi940QPB81KCKg6zPSOTM1Zn",
-    "chapter": "temagami-3",
-    "usedOnSite": true,
-    "site": {
-     "key": "temagami-3/20160611_154119.jpg",
-     "name": "20160611_154119.jpg",
-     "copy": {
-      "width": 2000,
-      "height": 1126,
-      "bytes": 695582,
-      "sha256": "18ca2fa786861b8115d41c8eee140218be15df6b565773be0b3dc9a4c834d41a"
-     }
-    }
-   },
-   {
-    "archivePath": "05 - Флора и фауна/15_20160612_154529.jpg",
-    "originalName": "20160612_154529.jpg",
-    "previousPath": "05 - Флора и фауна/15_20160612_154529.jpg (added by the owner directly to the chapter folder)",
-    "bytes": 9177816,
-    "sha256": "bccd34696d7b4a074fbe8e678c0006ed878e2029be8e6a2d05161e095ffdafd5",
-    "width": 4608,
-    "height": 2592,
-    "takenAt": null,
-    "driveId": "1QLSMnir2tg2X3db0C6RiFyKlMXOAcFam",
-    "chapter": "temagami-3",
-    "usedOnSite": true,
-    "site": {
-     "key": "temagami-3/20160612_154529.jpg",
-     "name": "20160612_154529.jpg",
-     "copy": {
-      "width": 1126,
-      "height": 2000,
-      "bytes": 1275700,
-      "sha256": "9e2339db93f1e7f4e9b6ce85ee884f6e52b6bf090fa38c8469ab88385f5d6bbb"
-     }
-    }
-   },
-   {
-    "archivePath": "05 - Флора и фауна/16_DSC04993.JPG",
-    "originalName": "DSC04993.JPG",
-    "previousPath": "05 - Флора и фауна/16_DSC04993.JPG (added by the owner directly to the chapter folder)",
-    "bytes": 6988406,
-    "sha256": "1ff336e32b2b82eca93fa46b11532d52b65bfcbe322fa67893c3991d242ed95c",
-    "width": 4896,
-    "height": 3672,
-    "takenAt": null,
-    "driveId": "1tcWxoe7Am5g7RquX1oww89J1iK_0ayuz",
-    "chapter": "temagami-3",
-    "usedOnSite": true,
-    "site": {
-     "key": "temagami-3/DSC04993.jpg",
-     "name": "DSC04993.jpg",
-     "copy": {
-      "width": 2000,
-      "height": 1500,
-      "bytes": 900271,
-      "sha256": "f37e8a78e3cace2d43df480e0df13ed1478e8b04700f596cd23145660315bec1"
-     }
-    }
-   },
-   {
-    "archivePath": "05 - Флора и фауна/17_DSCN2680.JPG",
+    "archivePath": "05 - Флора и фауна/13_DSCN2680.JPG",
     "originalName": "DSCN2680.JPG",
     "previousPath": "05 - Флора и фауна/17_DSCN2680.JPG (added by the owner directly to the chapter folder)",
     "bytes": 4059104,
@@ -1399,7 +1307,7 @@
     }
    },
    {
-    "archivePath": "05 - Флора и фауна/18_DSCN2681.JPG",
+    "archivePath": "05 - Флора и фауна/14_DSCN2681.JPG",
     "originalName": "DSCN2681.JPG",
     "previousPath": "05 - Флора и фауна/18_DSCN2681.JPG (added by the owner directly to the chapter folder)",
     "bytes": 4101791,
@@ -1422,7 +1330,7 @@
     }
    },
    {
-    "archivePath": "05 - Флора и фауна/19_DSCN2682.JPG",
+    "archivePath": "05 - Флора и фауна/15_DSCN2682.JPG",
     "originalName": "DSCN2682.JPG",
     "previousPath": "05 - Флора и фауна/19_DSCN2682.JPG (added by the owner directly to the chapter folder)",
     "bytes": 4046393,
@@ -1445,7 +1353,7 @@
     }
    },
    {
-    "archivePath": "05 - Флора и фауна/20_DSCN2690.JPG",
+    "archivePath": "05 - Флора и фауна/16_DSCN2690.JPG",
     "originalName": "DSCN2690.JPG",
     "previousPath": "05 - Флора и фауна/20_DSCN2690.JPG (added by the owner directly to the chapter folder)",
     "bytes": 3978476,
@@ -1464,6 +1372,98 @@
       "height": 1500,
       "bytes": 299192,
       "sha256": "307ad0f39ee7266b7dd81f75e51c7ae6a2d8fd5cc11304be2f2f0de0cde85175"
+     }
+    }
+   },
+   {
+    "archivePath": "05 - Флора и фауна/17_20160611_154059.jpg",
+    "originalName": "20160611_154059.jpg",
+    "previousPath": "05 - Флора и фауна/13_20160611_154059.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 5952966,
+    "sha256": "0370328b6cb8b8e26cfc228735418d76b8119df511faddf5aa20e0288d569677",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "12gBG5arBl3bGrVGVqOyOM_rymRwwAGCB",
+    "chapter": "temagami-3",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-3/20160611_154059.jpg",
+     "name": "20160611_154059.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 503370,
+      "sha256": "fc105e1f90464a575096ccd04d98c43cbba9937c5424c1bd65aaf2dc1b625cd1"
+     }
+    }
+   },
+   {
+    "archivePath": "05 - Флора и фауна/18_20160611_154119.jpg",
+    "originalName": "20160611_154119.jpg",
+    "previousPath": "05 - Флора и фауна/14_20160611_154119.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 7384513,
+    "sha256": "c72af04abace6f943a2ad1453cc21a04a8c0dfe8ca3614bc64c23ff4d3336a7e",
+    "width": 5312,
+    "height": 2988,
+    "takenAt": null,
+    "driveId": "1f3DDnegRyi940QPB81KCKg6zPSOTM1Zn",
+    "chapter": "temagami-3",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-3/20160611_154119.jpg",
+     "name": "20160611_154119.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1126,
+      "bytes": 695582,
+      "sha256": "18ca2fa786861b8115d41c8eee140218be15df6b565773be0b3dc9a4c834d41a"
+     }
+    }
+   },
+   {
+    "archivePath": "05 - Флора и фауна/19_20160612_154529.jpg",
+    "originalName": "20160612_154529.jpg",
+    "previousPath": "05 - Флора и фауна/15_20160612_154529.jpg (added by the owner directly to the chapter folder)",
+    "bytes": 9177816,
+    "sha256": "bccd34696d7b4a074fbe8e678c0006ed878e2029be8e6a2d05161e095ffdafd5",
+    "width": 4608,
+    "height": 2592,
+    "takenAt": null,
+    "driveId": "1QLSMnir2tg2X3db0C6RiFyKlMXOAcFam",
+    "chapter": "temagami-3",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-3/20160612_154529.jpg",
+     "name": "20160612_154529.jpg",
+     "copy": {
+      "width": 1126,
+      "height": 2000,
+      "bytes": 1275700,
+      "sha256": "9e2339db93f1e7f4e9b6ce85ee884f6e52b6bf090fa38c8469ab88385f5d6bbb"
+     }
+    }
+   },
+   {
+    "archivePath": "05 - Флора и фауна/20_DSC04993.JPG",
+    "originalName": "DSC04993.JPG",
+    "previousPath": "05 - Флора и фауна/16_DSC04993.JPG (added by the owner directly to the chapter folder)",
+    "bytes": 6988406,
+    "sha256": "1ff336e32b2b82eca93fa46b11532d52b65bfcbe322fa67893c3991d242ed95c",
+    "width": 4896,
+    "height": 3672,
+    "takenAt": null,
+    "driveId": "1tcWxoe7Am5g7RquX1oww89J1iK_0ayuz",
+    "chapter": "temagami-3",
+    "usedOnSite": true,
+    "site": {
+     "key": "temagami-3/DSC04993.jpg",
+     "name": "DSC04993.jpg",
+     "copy": {
+      "width": 2000,
+      "height": 1500,
+      "bytes": 900271,
+      "sha256": "f37e8a78e3cace2d43df480e0df13ed1478e8b04700f596cd23145660315bec1"
      }
     }
    },
@@ -2017,7 +2017,7 @@
   "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
   "longSideLimit": 2000,
   "preparedFrom": "Drive archive originals",
-  "verifiedAt": "2026-10-10T02:46:18.274Z",
+  "verifiedAt": "2026-10-10T02:49:12.160Z",
   "verification": "every public URL fetched: HTTP 200, image content-type, SHA-256 equals the local screen copy",
   "photos": [
    {
@@ -2697,58 +2697,6 @@
     "chapter": "temagami-3"
    },
    {
-    "key": "toronto-2016/temagami-3/20160611_154059.jpg",
-    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-3/20160611_154059.jpg",
-    "width": 1126,
-    "height": 2000,
-    "bytes": 503370,
-    "sha256": "fc105e1f90464a575096ccd04d98c43cbba9937c5424c1bd65aaf2dc1b625cd1",
-    "original": {
-     "archivePath": "05 - Флора и фауна/13_20160611_154059.jpg",
-     "sha256": "0370328b6cb8b8e26cfc228735418d76b8119df511faddf5aa20e0288d569677"
-    },
-    "chapter": "temagami-3"
-   },
-   {
-    "key": "toronto-2016/temagami-3/20160611_154119.jpg",
-    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-3/20160611_154119.jpg",
-    "width": 2000,
-    "height": 1126,
-    "bytes": 695582,
-    "sha256": "18ca2fa786861b8115d41c8eee140218be15df6b565773be0b3dc9a4c834d41a",
-    "original": {
-     "archivePath": "05 - Флора и фауна/14_20160611_154119.jpg",
-     "sha256": "c72af04abace6f943a2ad1453cc21a04a8c0dfe8ca3614bc64c23ff4d3336a7e"
-    },
-    "chapter": "temagami-3"
-   },
-   {
-    "key": "toronto-2016/temagami-3/20160612_154529.jpg",
-    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-3/20160612_154529.jpg",
-    "width": 1126,
-    "height": 2000,
-    "bytes": 1275700,
-    "sha256": "9e2339db93f1e7f4e9b6ce85ee884f6e52b6bf090fa38c8469ab88385f5d6bbb",
-    "original": {
-     "archivePath": "05 - Флора и фауна/15_20160612_154529.jpg",
-     "sha256": "bccd34696d7b4a074fbe8e678c0006ed878e2029be8e6a2d05161e095ffdafd5"
-    },
-    "chapter": "temagami-3"
-   },
-   {
-    "key": "toronto-2016/temagami-3/DSC04993.jpg",
-    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-3/DSC04993.jpg",
-    "width": 2000,
-    "height": 1500,
-    "bytes": 900271,
-    "sha256": "f37e8a78e3cace2d43df480e0df13ed1478e8b04700f596cd23145660315bec1",
-    "original": {
-     "archivePath": "05 - Флора и фауна/16_DSC04993.JPG",
-     "sha256": "1ff336e32b2b82eca93fa46b11532d52b65bfcbe322fa67893c3991d242ed95c"
-    },
-    "chapter": "temagami-3"
-   },
-   {
     "key": "toronto-2016/temagami-3/DSCN2680.jpg",
     "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-3/DSCN2680.jpg",
     "width": 1500,
@@ -2756,7 +2704,7 @@
     "bytes": 323806,
     "sha256": "f540c7bb1254e2d0fb6012ab8f5d2016619898fcbabf3043e678f7a47ba05d32",
     "original": {
-     "archivePath": "05 - Флора и фауна/17_DSCN2680.JPG",
+     "archivePath": "05 - Флора и фауна/13_DSCN2680.JPG",
      "sha256": "159cc37f7556da36778d8c7f76e46e70b3de58c542757777f60c8d779e10d95c"
     },
     "chapter": "temagami-3"
@@ -2769,7 +2717,7 @@
     "bytes": 236948,
     "sha256": "11b8e1583c2e58bb1bb8db0eeed13384fc82234cc1bf7311f1eceaafef3e2396",
     "original": {
-     "archivePath": "05 - Флора и фауна/18_DSCN2681.JPG",
+     "archivePath": "05 - Флора и фауна/14_DSCN2681.JPG",
      "sha256": "a82fad3a6898102c7bb8a756351ee66e376f01b35ea2b295414da0c6821ef0eb"
     },
     "chapter": "temagami-3"
@@ -2782,7 +2730,7 @@
     "bytes": 180659,
     "sha256": "452d4873012d109b89211fefc77150881ca46fde9671e629abfdf809f9a43655",
     "original": {
-     "archivePath": "05 - Флора и фауна/19_DSCN2682.JPG",
+     "archivePath": "05 - Флора и фауна/15_DSCN2682.JPG",
      "sha256": "c697da312445b249469fb2b7fff2614d75215ea8c5f77be12cdf6594ddcc0d1f"
     },
     "chapter": "temagami-3"
@@ -2795,8 +2743,60 @@
     "bytes": 299192,
     "sha256": "307ad0f39ee7266b7dd81f75e51c7ae6a2d8fd5cc11304be2f2f0de0cde85175",
     "original": {
-     "archivePath": "05 - Флора и фауна/20_DSCN2690.JPG",
+     "archivePath": "05 - Флора и фауна/16_DSCN2690.JPG",
      "sha256": "4d99cafc1467f56f818108c1c4992b9de1f19d837a67618d3a3a5eff6c53c1bc"
+    },
+    "chapter": "temagami-3"
+   },
+   {
+    "key": "toronto-2016/temagami-3/20160611_154059.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-3/20160611_154059.jpg",
+    "width": 1126,
+    "height": 2000,
+    "bytes": 503370,
+    "sha256": "fc105e1f90464a575096ccd04d98c43cbba9937c5424c1bd65aaf2dc1b625cd1",
+    "original": {
+     "archivePath": "05 - Флора и фауна/17_20160611_154059.jpg",
+     "sha256": "0370328b6cb8b8e26cfc228735418d76b8119df511faddf5aa20e0288d569677"
+    },
+    "chapter": "temagami-3"
+   },
+   {
+    "key": "toronto-2016/temagami-3/20160611_154119.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-3/20160611_154119.jpg",
+    "width": 2000,
+    "height": 1126,
+    "bytes": 695582,
+    "sha256": "18ca2fa786861b8115d41c8eee140218be15df6b565773be0b3dc9a4c834d41a",
+    "original": {
+     "archivePath": "05 - Флора и фауна/18_20160611_154119.jpg",
+     "sha256": "c72af04abace6f943a2ad1453cc21a04a8c0dfe8ca3614bc64c23ff4d3336a7e"
+    },
+    "chapter": "temagami-3"
+   },
+   {
+    "key": "toronto-2016/temagami-3/20160612_154529.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-3/20160612_154529.jpg",
+    "width": 1126,
+    "height": 2000,
+    "bytes": 1275700,
+    "sha256": "9e2339db93f1e7f4e9b6ce85ee884f6e52b6bf090fa38c8469ab88385f5d6bbb",
+    "original": {
+     "archivePath": "05 - Флора и фауна/19_20160612_154529.jpg",
+     "sha256": "bccd34696d7b4a074fbe8e678c0006ed878e2029be8e6a2d05161e095ffdafd5"
+    },
+    "chapter": "temagami-3"
+   },
+   {
+    "key": "toronto-2016/temagami-3/DSC04993.jpg",
+    "publicUrl": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-2016/temagami-3/DSC04993.jpg",
+    "width": 2000,
+    "height": 1500,
+    "bytes": 900271,
+    "sha256": "f37e8a78e3cace2d43df480e0df13ed1478e8b04700f596cd23145660315bec1",
+    "original": {
+     "archivePath": "05 - Флора и фауна/20_DSC04993.JPG",
+     "sha256": "1ff336e32b2b82eca93fa46b11532d52b65bfcbe322fa67893c3991d242ed95c"
     },
     "chapter": "temagami-3"
    },

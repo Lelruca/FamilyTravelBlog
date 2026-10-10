@@ -28,11 +28,11 @@ hero_image: "20160612_120900.jpg"
 
 {{< row "20160611_154404.jpg DSCN2704.jpg" >}}
 
+{{< row "DSCN2680.jpg DSCN2681.jpg DSCN2682.jpg DSCN2690.jpg" >}}
+
 <p>Все деревья под котролем!</p>
 
 {{< mosaic "20160611_154059.jpg 20160611_154119.jpg 20160612_154529.jpg DSC04993.jpg" >}}
-
-{{< row "DSCN2680.jpg DSCN2681.jpg DSCN2682.jpg DSCN2690.jpg" >}}
 
 <p>А это видимо для нашего друга-мишки:</p>
 
