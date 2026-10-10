@@ -2,7 +2,7 @@
 title: "Озеро Темагами 2 - отдых"
 type: "trips"
 layout: "photo-story"
-weight: 30
+weight: 40
 chapter_kind: "day"
 auto_gallery: false
 draft: true

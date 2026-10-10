@@ -2,7 +2,7 @@
 title: "Озеро Темагами 3 - флора и фауна"
 type: "trips"
 layout: "photo-story"
-weight: 40
+weight: 50
 chapter_kind: "day"
 auto_gallery: false
 draft: true
