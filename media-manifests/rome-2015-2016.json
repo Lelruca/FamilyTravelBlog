@@ -12734,34 +12734,6 @@
       "album_url": "https://photos.app.goo.gl/XkxSoAeGiV8LSBxY8",
       "album_title": "Италия-6",
       "chapter": "naples",
-      "album_position": 9,
-      "google_photo_id": "AF1QipMZjP6gLsJIpcZKJio7rHgdOWCoisYXq_8eA1IS",
-      "download_url": "https://lh3.googleusercontent.com/pw/AP1GczNsPqbTnSrTLlYGKbdkcsQv2KUKgC0RWr_oEA74tJjgZxUfN2nE0KOWGjtM2ZyA7kNlP-g0NF9GvT7ekUbFkKAAv00sIa2BG8vrLveEqTeURn6ep9XB=d",
-      "source_w": 2112,
-      "source_h": 2112,
-      "taken_timestamp": 1452183946000,
-      "original_filename": "IMG_6754.JPG",
-      "original_relative_path": "08 - Неаполь/15_IMG_6754.JPG",
-      "original_sha256": "2edcc256760c9ebab1f24a4acbc5ed28fabdf5e2d8ca4b22d7f1867661b57dfb",
-      "original_bytes": 1047254,
-      "original_w": 2112,
-      "original_h": 2112,
-      "exif_orientation": 1,
-      "status": "archived-locally",
-      "drive_id": "1Kr0JraPeSYhjxBIE-lntdVPqjJXC7Hbn",
-      "drive_sync_evidence": {
-        "remote_id": true,
-        "cloud_metadata_bytes": 1047254
-      },
-      "chapter_position": 15,
-      "layout_photo_number": 9,
-      "site_filename": "IMG_6754.jpg",
-      "r2_key": "rome-2015-2016/naples/IMG_6754.jpg"
-    },
-    {
-      "album_url": "https://photos.app.goo.gl/XkxSoAeGiV8LSBxY8",
-      "album_title": "Италия-6",
-      "chapter": "naples",
       "album_position": 10,
       "google_photo_id": "AF1QipNk6tKZYoMxp3QplkZWVbWXdkh0fUctkhIYAQqg",
       "download_url": "https://lh3.googleusercontent.com/pw/AP1GczPDTwfwOJ-6A2GEGaddHNK4DstqvpcNFqTe4xVi07Uf2DYTPETyovyXsw5km_NnNe7O1lA2plvPpzAPzEhwmayROOSx9HGYUgCORO9A4jQDsPwf4dJ0=d",
@@ -18049,6 +18021,237 @@
       "layout_photo_number": 52,
       "site_filename": "20160110_093959.jpg",
       "r2_key": "rome-2015-2016/milan/20160110_093959.jpg"
+    },
+    {
+      "chapter": "naples",
+      "source": "owner-added-to-Drive",
+      "original_filename": "IMG_7246.JPG",
+      "original_relative_path": "08 - Неаполь/02a_IMG_7246.JPG",
+      "original_sha256": "561b55a044a11c900c46aa897d10c346c8906ce29b374b90de36882224645f4a",
+      "original_bytes": 2062960,
+      "original_w": 3264,
+      "original_h": 2448,
+      "exif_orientation": 1,
+      "layout_photo_number": 21,
+      "chapter_position": "02a",
+      "status": "archived-locally",
+      "drive_id": "1eFLdiLEM3V_cIa6BQtJhpRQHN7ei9Oni",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 2062960
+      },
+      "site_filename": "IMG_7246.jpg",
+      "r2_key": "rome-2015-2016/naples/IMG_7246.jpg"
+    },
+    {
+      "chapter": "naples",
+      "source": "owner-added-to-Drive",
+      "original_filename": "IMG_6758.JPG",
+      "original_relative_path": "08 - Неаполь/07a_IMG_6758.JPG",
+      "original_sha256": "435e31e187c6f7196ddf7750444d318a1ad6513b12f549a62ee169b8c64730f7",
+      "original_bytes": 831117,
+      "original_w": 2112,
+      "original_h": 2112,
+      "exif_orientation": 1,
+      "layout_photo_number": 22,
+      "chapter_position": "07a",
+      "status": "archived-locally",
+      "drive_id": "1VBj8Acmh2802dI5I28GhpnUtVESlGB2w",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 831117
+      },
+      "site_filename": "IMG_6758.jpg",
+      "r2_key": "rome-2015-2016/naples/IMG_6758.jpg"
+    },
+    {
+      "chapter": "naples",
+      "source": "owner-added-to-Drive",
+      "original_filename": "IMG_6767.JPG",
+      "original_relative_path": "08 - Неаполь/07b_IMG_6767.JPG",
+      "original_sha256": "b5409b8a8fe42b59de494e46690a6d85f64ad02966a735dcf9a98f2c45e7b0a9",
+      "original_bytes": 1168980,
+      "original_w": 2112,
+      "original_h": 2112,
+      "exif_orientation": 1,
+      "layout_photo_number": 23,
+      "chapter_position": "07b",
+      "status": "archived-locally",
+      "drive_id": "1wXXU1--3aHGIxSbFLPNCC8thtf9ml4N0",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 1168980
+      },
+      "site_filename": "IMG_6767.jpg",
+      "r2_key": "rome-2015-2016/naples/IMG_6767.jpg"
+    },
+    {
+      "chapter": "naples",
+      "source": "owner-added-to-Drive",
+      "original_filename": "20160107_113052.jpg",
+      "original_relative_path": "08 - Неаполь/07c_20160107_113052.jpg",
+      "original_sha256": "1aec438622661bfbf4f6ed87b9faa725842ebae8c9a651e7ca0243fbaa6992fd",
+      "original_bytes": 4778795,
+      "original_w": 5312,
+      "original_h": 2988,
+      "exif_orientation": 1,
+      "layout_photo_number": 24,
+      "chapter_position": "07c",
+      "status": "archived-locally",
+      "drive_id": "1A7YYetba-SZRqKyy5lqJ67ugZLy_pR5t",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 4778795
+      },
+      "site_filename": "20160107_113052.jpg",
+      "r2_key": "rome-2015-2016/naples/20160107_113052.jpg"
+    },
+    {
+      "chapter": "naples",
+      "source": "owner-added-to-Drive",
+      "original_filename": "IMG_6774.JPG",
+      "original_relative_path": "08 - Неаполь/08a_IMG_6774.JPG",
+      "original_sha256": "8e85e51ac6dae50e681170694f90ee46a986ec08c3a3fe846fb0c968f04f53df",
+      "original_bytes": 976291,
+      "original_w": 2112,
+      "original_h": 2112,
+      "exif_orientation": 1,
+      "layout_photo_number": 25,
+      "chapter_position": "08a",
+      "status": "archived-locally",
+      "drive_id": "1AuE8ASiAxKB7aEKME6IYy3mvwG6_nVm_",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 976291
+      },
+      "site_filename": "IMG_6774.jpg",
+      "r2_key": "rome-2015-2016/naples/IMG_6774.jpg"
+    },
+    {
+      "chapter": "naples",
+      "source": "owner-added-to-Drive",
+      "original_filename": "IMG_6777.JPG",
+      "original_relative_path": "08 - Неаполь/09a_IMG_6777.JPG",
+      "original_sha256": "a9109711f63adaeae41b060007992df50b3cc53baf60b23ac76e193e91054b87",
+      "original_bytes": 811094,
+      "original_w": 2112,
+      "original_h": 2112,
+      "exif_orientation": 1,
+      "layout_photo_number": 26,
+      "chapter_position": "09a",
+      "status": "archived-locally",
+      "drive_id": "1O7Pi71RILm2N4wn5uFLlYgExAMy2V-HE",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 811094
+      },
+      "site_filename": "IMG_6777.jpg",
+      "r2_key": "rome-2015-2016/naples/IMG_6777.jpg"
+    },
+    {
+      "chapter": "naples",
+      "source": "owner-added-to-Drive",
+      "original_filename": "20160107_122331.jpg",
+      "original_relative_path": "08 - Неаполь/17a_20160107_122331.jpg",
+      "original_sha256": "48db3eac383f906d98cfe54c34a1a38b78ed194ce1d7bbaa0bbe1f64c4032346",
+      "original_bytes": 7965453,
+      "original_w": 5312,
+      "original_h": 2988,
+      "exif_orientation": 1,
+      "layout_photo_number": 27,
+      "chapter_position": "17a",
+      "status": "archived-locally",
+      "drive_id": "1cdb2aRME6iuH9DaWhIvtTE4irW_MW6ZC",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 7965453
+      },
+      "site_filename": "20160107_122331.jpg",
+      "r2_key": "rome-2015-2016/naples/20160107_122331.jpg"
+    },
+    {
+      "chapter": "naples",
+      "source": "owner-added-to-Drive",
+      "original_filename": "20160107_123620.jpg",
+      "original_relative_path": "08 - Неаполь/17b_20160107_123620.jpg",
+      "original_sha256": "06c75ab926a5b0b96aa54d25dac8cebce47ad334d844e9f9f61cf2bd23e414a1",
+      "original_bytes": 5435812,
+      "original_w": 5312,
+      "original_h": 2988,
+      "exif_orientation": 1,
+      "layout_photo_number": 28,
+      "chapter_position": "17b",
+      "status": "archived-locally",
+      "drive_id": "1EY9iRfkw41BPb-FT8VcFAVMhUC0p16gc",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 5435812
+      },
+      "site_filename": "20160107_123620.jpg",
+      "r2_key": "rome-2015-2016/naples/20160107_123620.jpg"
+    },
+    {
+      "chapter": "naples",
+      "source": "owner-added-to-Drive",
+      "original_filename": "IMG_6806.JPG",
+      "original_relative_path": "08 - Неаполь/17c_IMG_6806.JPG",
+      "original_sha256": "23a0120f38a32bedd304e1b239e23a7dac0ae3e0cbb933e25c9a168534652b70",
+      "original_bytes": 1254364,
+      "original_w": 2112,
+      "original_h": 2112,
+      "exif_orientation": 6,
+      "layout_photo_number": 29,
+      "chapter_position": "17c",
+      "status": "archived-locally",
+      "drive_id": "1-ccfOeUcAjsF_2bDAmpWwsqZasioC_aj",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 1254364
+      },
+      "site_filename": "IMG_6806.jpg",
+      "r2_key": "rome-2015-2016/naples/IMG_6806.jpg"
+    },
+    {
+      "chapter": "naples",
+      "source": "owner-added-to-Drive",
+      "original_filename": "IMG_6812.JPG",
+      "original_relative_path": "08 - Неаполь/17d_IMG_6812.JPG",
+      "original_sha256": "b1c43b7a216de209014a28bce19e331cc406a1bb30c201e438fa471fa1cc0f3e",
+      "original_bytes": 1941955,
+      "original_w": 2112,
+      "original_h": 2112,
+      "exif_orientation": 1,
+      "layout_photo_number": 30,
+      "chapter_position": "17d",
+      "status": "archived-locally",
+      "drive_id": "1kPAsfYP_z_ATd0DIBR_pnT61Ilv1YGlF",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 1941955
+      },
+      "site_filename": "IMG_6812.jpg",
+      "r2_key": "rome-2015-2016/naples/IMG_6812.jpg"
+    },
+    {
+      "chapter": "naples",
+      "source": "owner-added-to-Drive",
+      "original_filename": "IMG_6813.JPG",
+      "original_relative_path": "08 - Неаполь/17e_IMG_6813.JPG",
+      "original_sha256": "7c9e3b6227ded66952bda3898bd188812c275db8cecb4b07c7101c469acb73f5",
+      "original_bytes": 637270,
+      "original_w": 2112,
+      "original_h": 2112,
+      "exif_orientation": 1,
+      "layout_photo_number": 31,
+      "chapter_position": "17e",
+      "status": "archived-locally",
+      "drive_id": "1QnTTBggBWgZWt50JSiAsXj09qCLVdMEP",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 637270
+      },
+      "site_filename": "IMG_6813.jpg",
+      "r2_key": "rome-2015-2016/naples/IMG_6813.jpg"
     }
   ],
   "album_sources": [
@@ -18121,17 +18324,19 @@
     }
   ],
   "drive_sync_check": {
-    "checked_at": "2026-10-10T04:48:04.556Z",
+    "checked_at": "2026-10-11T02:39:53.411Z",
     "method": "DriveFS remote file IDs and matching cloud metadata byte sizes, matched by parent folder",
-    "ready": 402,
-    "total": 402,
+    "ready": 413,
+    "total": 413,
     "pending": []
   },
   "archive_check": {
-    "original_count": 402,
-    "total_bytes": 1060012573,
+    "original_count": 412,
+    "unused_original_count": 1,
+    "total_bytes": 1088576137,
     "sha256_verified": true,
-    "original_dimensions_verified": true
+    "original_dimensions_verified": true,
+    "checked_at": "2026-10-11T02:38:28.701546+00:00"
   },
   "r2": {
     "status": "verified",
@@ -22589,27 +22794,6 @@
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/IMG_6736.jpg"
       },
       {
-        "key": "rome-2015-2016/naples/IMG_6754.jpg",
-        "archiveFile": "08 - Неаполь/15_IMG_6754.JPG",
-        "original_sha256": "2edcc256760c9ebab1f24a4acbc5ed28fabdf5e2d8ca4b22d7f1867661b57dfb",
-        "w": 2000,
-        "h": 2000,
-        "bytes": 542345,
-        "sha256": "c0d3cc851a77359edc858756eb63d576b4234177a47fdd254b3b8c8f7af32b3a",
-        "recipe": {
-          "tool": "Pillow",
-          "exif_transpose": true,
-          "long_side_max": 2000,
-          "no_upscale": true,
-          "jpeg_quality": 85,
-          "optimize": true
-        },
-        "public_sha256": "c0d3cc851a77359edc858756eb63d576b4234177a47fdd254b3b8c8f7af32b3a",
-        "public_bytes": 542345,
-        "public_verified": true,
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/IMG_6754.jpg"
-      },
-      {
         "key": "rome-2015-2016/naples/IMG_6756.jpg",
         "archiveFile": "08 - Неаполь/07_IMG_6756.JPG",
         "original_sha256": "a82699da59661c8ad5457b7848b533789ad76bb807ed7bcbf8b34270c82c546d",
@@ -26577,18 +26761,320 @@
         "public_bytes": 566069,
         "public_verified": true,
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/milan/20160110_093959.jpg"
+      },
+      {
+        "key": "rome-2015-2016/naples/IMG_7246.jpg",
+        "archiveFile": "08 - Неаполь/02a_IMG_7246.JPG",
+        "original_sha256": "561b55a044a11c900c46aa897d10c346c8906ce29b374b90de36882224645f4a",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 471176,
+        "sha256": "1f097c0a715eb1e9b066d9655e1c5e922d7bba8a7ed08999006d14e4d75ecca6",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_sha256": "1f097c0a715eb1e9b066d9655e1c5e922d7bba8a7ed08999006d14e4d75ecca6",
+        "public_bytes": 471176,
+        "public_verified": true,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/IMG_7246.jpg"
+      },
+      {
+        "key": "rome-2015-2016/naples/IMG_6758.jpg",
+        "archiveFile": "08 - Неаполь/07a_IMG_6758.JPG",
+        "original_sha256": "435e31e187c6f7196ddf7750444d318a1ad6513b12f549a62ee169b8c64730f7",
+        "w": 2000,
+        "h": 2000,
+        "bytes": 394269,
+        "sha256": "95ef2f9cfdf70dcd2574954147d8287117721f83760b9ffb279e28a819c6e78c",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_sha256": "95ef2f9cfdf70dcd2574954147d8287117721f83760b9ffb279e28a819c6e78c",
+        "public_bytes": 394269,
+        "public_verified": true,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/IMG_6758.jpg"
+      },
+      {
+        "key": "rome-2015-2016/naples/IMG_6767.jpg",
+        "archiveFile": "08 - Неаполь/07b_IMG_6767.JPG",
+        "original_sha256": "b5409b8a8fe42b59de494e46690a6d85f64ad02966a735dcf9a98f2c45e7b0a9",
+        "w": 2000,
+        "h": 2000,
+        "bytes": 611522,
+        "sha256": "639af75d24769e9ecdbf8b8eae1214e9ac02579c7772dd5a848894b3ea648ec9",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_sha256": "639af75d24769e9ecdbf8b8eae1214e9ac02579c7772dd5a848894b3ea648ec9",
+        "public_bytes": 611522,
+        "public_verified": true,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/IMG_6767.jpg"
+      },
+      {
+        "key": "rome-2015-2016/naples/20160107_113052.jpg",
+        "archiveFile": "08 - Неаполь/07c_20160107_113052.jpg",
+        "original_sha256": "1aec438622661bfbf4f6ed87b9faa725842ebae8c9a651e7ca0243fbaa6992fd",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 327428,
+        "sha256": "d5e9a1056df54629ebcef0966944f5ef1984d9ab0a779709a7ddeda5d462fd0f",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_sha256": "d5e9a1056df54629ebcef0966944f5ef1984d9ab0a779709a7ddeda5d462fd0f",
+        "public_bytes": 327428,
+        "public_verified": true,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/20160107_113052.jpg"
+      },
+      {
+        "key": "rome-2015-2016/naples/IMG_6774.jpg",
+        "archiveFile": "08 - Неаполь/08a_IMG_6774.JPG",
+        "original_sha256": "8e85e51ac6dae50e681170694f90ee46a986ec08c3a3fe846fb0c968f04f53df",
+        "w": 2000,
+        "h": 2000,
+        "bytes": 509776,
+        "sha256": "7c993249de1f0d56bc0aeb07ca2ff7338fd5455395917a867404f5e56998d722",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_sha256": "7c993249de1f0d56bc0aeb07ca2ff7338fd5455395917a867404f5e56998d722",
+        "public_bytes": 509776,
+        "public_verified": true,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/IMG_6774.jpg"
+      },
+      {
+        "key": "rome-2015-2016/naples/IMG_6777.jpg",
+        "archiveFile": "08 - Неаполь/09a_IMG_6777.JPG",
+        "original_sha256": "a9109711f63adaeae41b060007992df50b3cc53baf60b23ac76e193e91054b87",
+        "w": 2000,
+        "h": 2000,
+        "bytes": 394763,
+        "sha256": "b04f4fe0195990c55baf7173706f75ad64692b6a31ac68f45c2f648b089f9c4c",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_sha256": "b04f4fe0195990c55baf7173706f75ad64692b6a31ac68f45c2f648b089f9c4c",
+        "public_bytes": 394763,
+        "public_verified": true,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/IMG_6777.jpg"
+      },
+      {
+        "key": "rome-2015-2016/naples/20160107_122331.jpg",
+        "archiveFile": "08 - Неаполь/17a_20160107_122331.jpg",
+        "original_sha256": "48db3eac383f906d98cfe54c34a1a38b78ed194ce1d7bbaa0bbe1f64c4032346",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 733446,
+        "sha256": "9ac43981832a22c7c119c8fb1fbda91aa5f51abbefec0a72c78f83d2807cbc4f",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_sha256": "9ac43981832a22c7c119c8fb1fbda91aa5f51abbefec0a72c78f83d2807cbc4f",
+        "public_bytes": 733446,
+        "public_verified": true,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/20160107_122331.jpg"
+      },
+      {
+        "key": "rome-2015-2016/naples/20160107_123620.jpg",
+        "archiveFile": "08 - Неаполь/17b_20160107_123620.jpg",
+        "original_sha256": "06c75ab926a5b0b96aa54d25dac8cebce47ad334d844e9f9f61cf2bd23e414a1",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 569127,
+        "sha256": "dba1b3fbd6fdcb37475f30422f6e2b52179b36f282538a702b1e749964fa52b8",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_sha256": "dba1b3fbd6fdcb37475f30422f6e2b52179b36f282538a702b1e749964fa52b8",
+        "public_bytes": 569127,
+        "public_verified": true,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/20160107_123620.jpg"
+      },
+      {
+        "key": "rome-2015-2016/naples/IMG_6806.jpg",
+        "archiveFile": "08 - Неаполь/17c_IMG_6806.JPG",
+        "original_sha256": "23a0120f38a32bedd304e1b239e23a7dac0ae3e0cbb933e25c9a168534652b70",
+        "w": 2000,
+        "h": 2000,
+        "bytes": 673505,
+        "sha256": "9dde8ca534f64d78345025fa2739c72811b344f685714fa704cfc4a80a480572",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_sha256": "9dde8ca534f64d78345025fa2739c72811b344f685714fa704cfc4a80a480572",
+        "public_bytes": 673505,
+        "public_verified": true,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/IMG_6806.jpg"
+      },
+      {
+        "key": "rome-2015-2016/naples/IMG_6812.jpg",
+        "archiveFile": "08 - Неаполь/17d_IMG_6812.JPG",
+        "original_sha256": "b1c43b7a216de209014a28bce19e331cc406a1bb30c201e438fa471fa1cc0f3e",
+        "w": 2000,
+        "h": 2000,
+        "bytes": 1063656,
+        "sha256": "946d292bba4108c6c9f106c3f6575aa6400093958e4a1576fc63d397cd61eae6",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_sha256": "946d292bba4108c6c9f106c3f6575aa6400093958e4a1576fc63d397cd61eae6",
+        "public_bytes": 1063656,
+        "public_verified": true,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/IMG_6812.jpg"
+      },
+      {
+        "key": "rome-2015-2016/naples/IMG_6813.jpg",
+        "archiveFile": "08 - Неаполь/17e_IMG_6813.JPG",
+        "original_sha256": "7c9e3b6227ded66952bda3898bd188812c275db8cecb4b07c7101c469acb73f5",
+        "w": 2000,
+        "h": 2000,
+        "bytes": 267009,
+        "sha256": "5756714514e54d8f797ffed876d88d449782872246b2fab564c060146fe62c77",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_sha256": "5756714514e54d8f797ffed876d88d449782872246b2fab564c060146fe62c77",
+        "public_bytes": 267009,
+        "public_verified": true,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/IMG_6813.jpg"
       }
     ],
-    "verified_at": "2026-10-10T04:46:42Z"
+    "verified_at": "2026-10-11T02:40:21Z"
   },
   "manual_review": {
-    "checked_at": "2026-10-10T04:52:47.913049+00:00",
+    "checked_at": "2026-10-11T02:41:31.832902+00:00",
     "desktop_all_chapters": true,
     "mobile_all_chapters": true,
     "tablet": true,
     "lightbox_navigation": true,
     "production_build": true,
     "author_paragraphs_verified": 179,
-    "unique_photos_verified": 402
-  }
+    "unique_photos_verified": 412,
+    "naples_updated": true,
+    "naples_photo_count": 30,
+    "naples_owner_cover": "20160107_113052.jpg"
+  },
+  "unused_originals": [
+    {
+      "original_relative_path": "08 - Неаполь/zz_не использовано_IMG_6770.JPG",
+      "original_sha256": "443cf7c540f5c93ee5359b3178ba126f463927fab54a186a2c3ea476a085d1e4",
+      "original_bytes": 1746727,
+      "reason": "Exact duplicate of 05_IMG_6770.JPG; preserved",
+      "drive_id": "16zkRTR_dtQzFL87wsK4fer59-sznxV6B",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 1746727
+      }
+    }
+  ],
+  "retired_originals": [
+    {
+      "album_url": "https://photos.app.goo.gl/XkxSoAeGiV8LSBxY8",
+      "album_title": "Италия-6",
+      "chapter": "naples",
+      "album_position": 9,
+      "google_photo_id": "AF1QipMZjP6gLsJIpcZKJio7rHgdOWCoisYXq_8eA1IS",
+      "download_url": "https://lh3.googleusercontent.com/pw/AP1GczNsPqbTnSrTLlYGKbdkcsQv2KUKgC0RWr_oEA74tJjgZxUfN2nE0KOWGjtM2ZyA7kNlP-g0NF9GvT7ekUbFkKAAv00sIa2BG8vrLveEqTeURn6ep9XB=d",
+      "source_w": 2112,
+      "source_h": 2112,
+      "taken_timestamp": 1452183946000,
+      "original_filename": "IMG_6754.JPG",
+      "original_relative_path": "08 - Неаполь/15_IMG_6754.JPG",
+      "original_sha256": "2edcc256760c9ebab1f24a4acbc5ed28fabdf5e2d8ca4b22d7f1867661b57dfb",
+      "original_bytes": 1047254,
+      "original_w": 2112,
+      "original_h": 2112,
+      "exif_orientation": 1,
+      "status": "archived-locally",
+      "drive_id": "1Kr0JraPeSYhjxBIE-lntdVPqjJXC7Hbn",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 1047254
+      },
+      "chapter_position": 15,
+      "layout_photo_number": 9,
+      "site_filename": "IMG_6754.jpg",
+      "r2_key": "rome-2015-2016/naples/IMG_6754.jpg",
+      "retired_reason": "Owner deleted original and explicitly requested removal from chapter",
+      "retired_at": "2026-10-11T02:39:53.107806+00:00"
+    }
+  ],
+  "retired_r2": [
+    {
+      "key": "rome-2015-2016/naples/IMG_6754.jpg",
+      "archiveFile": "08 - Неаполь/15_IMG_6754.JPG",
+      "original_sha256": "2edcc256760c9ebab1f24a4acbc5ed28fabdf5e2d8ca4b22d7f1867661b57dfb",
+      "w": 2000,
+      "h": 2000,
+      "bytes": 542345,
+      "sha256": "c0d3cc851a77359edc858756eb63d576b4234177a47fdd254b3b8c8f7af32b3a",
+      "recipe": {
+        "tool": "Pillow",
+        "exif_transpose": true,
+        "long_side_max": 2000,
+        "no_upscale": true,
+        "jpeg_quality": 85,
+        "optimize": true
+      },
+      "public_sha256": "c0d3cc851a77359edc858756eb63d576b4234177a47fdd254b3b8c8f7af32b3a",
+      "public_bytes": 542345,
+      "public_verified": true,
+      "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/IMG_6754.jpg"
+    }
+  ]
 }

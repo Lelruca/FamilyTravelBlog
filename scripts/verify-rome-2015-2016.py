@@ -45,7 +45,8 @@ class Story(HTMLParser):
 
 assert all(manifest[k] for k in ('archive_verified', 'drive_sync_verified', 'r2_verified'))
 known = {p['url'] for p in manifest['r2']['photos']}
-assert len(known) == 402
+expected = len(manifest['album_originals'])
+assert len(known) == expected
 seen = Counter()
 total = 0
 for chapter in manifest['chapters']:
@@ -62,7 +63,7 @@ for chapter in manifest['chapters']:
     seen.update(parser.images)
     total += len(parser.paras)
 assert set(seen) == known
-assert sum(seen.values()) == 403  # Conclusion repeats the group photograph.
+assert sum(seen.values()) == expected + 1  # Conclusion repeats the group photograph.
 data = json.loads((root / 'data/photos/rome-2015-2016.json').read_text(encoding='utf-8'))
 assert all('url' not in photo for photo in data.values())
-print(f'Verified 12 chapters, {total} unchanged author paragraphs, 402 unique R2 photographs.')
+print(f'Verified 12 chapters, {total} unchanged author paragraphs, {expected} unique R2 photographs.')
