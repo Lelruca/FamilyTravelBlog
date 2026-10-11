@@ -54,7 +54,9 @@ for c in m['chapters']:
     paras=re.findall(r'<p>(.*?)</p>',body,re.S)
     assert hashlib.sha256('\n'.join(html.unescape(p) for p in paras).encode()).hexdigest()==c['text_sha256'],slug
     fm=re.sub(r'^hero_image:.*\n','',fm,flags=re.M);fm=re.sub(r'^places:\n(?:  - .*\n)*','',fm,flags=re.M)
-    if slug in plan:
+    if slug in m.get('chapter_hero_overrides',{}):
+        fm+='hero_image: '+json.dumps(m['chapter_hero_overrides'][slug])+'\n'
+    elif slug in plan:
         hero=plan[slug]['hero'];_,name=bykey[slug,hero];assert data[f'{slug}/{name}']['w']>data[f'{slug}/{name}']['h'],(slug,'portrait cover')
         fm+='hero_image: '+json.dumps(name)+'\n'
     else:
@@ -65,7 +67,12 @@ for c in m['chapters']:
         out.append('<p>'+p+'</p>')
         if slug in plan:
             group=[i for i in plan[slug]['groups'].get(str(n),[]) if i!=plan[slug]['hero']]
-            out.extend(blocks(slug,group))
+            manual_rows=plan[slug].get('rows',{}).get(str(n))
+            if manual_rows:
+                assert sorted(i for row in manual_rows for i in row)==sorted(group)
+                out.extend('{{< row "'+' '.join(bykey[slug,i][1] for i in row)+'" >}}' for row in manual_rows)
+            else:
+                out.extend(blocks(slug,group))
     f.write_text('---\n'+fm+'---\n'+'\n\n'.join(out)+'\n',encoding='utf-8')
 data_path=root/'data/photos'/f'{trip}.json';data_path.write_text(json.dumps(dict(sorted(data.items())),ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 _,cover=bykey['rome-colosseum',17]
