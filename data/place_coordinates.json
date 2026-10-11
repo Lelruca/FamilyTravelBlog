@@ -1078,5 +1078,253 @@
     "country_code": "CA",
     "source": "https://www.openstreetmap.org/relation/5644591",
     "query": "Lake Temagami Ontario Canada"
+  },
+  "orangerie": {
+    "lat": 48.8637655,
+    "lon": 2.3226602,
+    "name": "Musée de l'Orangerie",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/54188996",
+    "query": "Musee Orangerie Paris"
+  },
+  "place-concorde": {
+    "lat": 48.8655715,
+    "lon": 2.3212248,
+    "name": "Place de la Concorde",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/432819047",
+    "query": "Place de la Concorde Paris"
+  },
+  "rijksmuseum": {
+    "lat": 52.3598431,
+    "lon": 4.8850395,
+    "name": "Rijksmuseum",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/way/29989787",
+    "query": "Rijksmuseum Amsterdam"
+  },
+  "montmartre": {
+    "lat": 48.8867054,
+    "lon": 2.3415715,
+    "name": "Montmartre",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/node/1863664714",
+    "query": "Montmartre Paris"
+  },
+  "sorbonne": {
+    "lat": 48.8486358,
+    "lon": 2.3436034,
+    "name": "Université Paris 1 Panthéon-Sorbonne - Centre Sorbonne",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/4433289",
+    "query": "Sorbonne Paris"
+  },
+  "sainte-chapelle": {
+    "lat": 48.8553933,
+    "lon": 2.3449941,
+    "name": "Sainte-Chapelle",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/3344870",
+    "query": "Sainte Chapelle Paris"
+  },
+  "luxembourg-gardens": {
+    "lat": 48.8467228,
+    "lon": 2.3364148,
+    "name": "Jardin du Luxembourg",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/128206209",
+    "query": "Jardin du Luxembourg Paris"
+  },
+  "pantheon-paris": {
+    "lat": 48.8461947,
+    "lon": 2.3460507,
+    "name": "Panthéon",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/16407465",
+    "query": "Pantheon Paris"
+  },
+  "saint-etienne-du-mont": {
+    "lat": 48.8465502,
+    "lon": 2.348017,
+    "name": "Église Saint-Étienne-du-Mont",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/55343672",
+    "query": "Saint Etienne du Mont Paris"
+  },
+  "mauritshuis": {
+    "lat": 52.0803906,
+    "lon": 4.3143086,
+    "name": "Mauritshuis",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/way/58616683",
+    "query": "Mauritshuis"
+  },
+  "sainte-clotilde": {
+    "lat": 48.8583209,
+    "lon": 2.3191385,
+    "name": "Basilique Sainte-Clotilde",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/64952290",
+    "query": "Sainte Clotilde Paris"
+  },
+  "binnenhof": {
+    "lat": 52.079333,
+    "lon": 4.3123736,
+    "name": "Binnenhof",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/relation/13094316",
+    "query": "Binnenhof Den Haag"
+  },
+  "the-hague": {
+    "lat": 52.0799838,
+    "lon": 4.3113461,
+    "name": "Den Haag",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/relation/192737",
+    "query": "Den Haag"
+  },
+  "champs-elysees": {
+    "lat": 48.8723334,
+    "lon": 2.2995837,
+    "name": "Avenue des Champs-Élysées",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/626668696",
+    "query": "Champs Elysees Paris"
+  },
+  "amsterdam-museum": {
+    "lat": 52.3704312,
+    "lon": 4.8904288,
+    "name": "Amsterdam Museum",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/node/34050790",
+    "query": "Amsterdam Museum"
+  },
+  "van-gogh-museum": {
+    "lat": 52.3583673,
+    "lon": 4.88109,
+    "name": "Van Gogh Museum",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/relation/6577680",
+    "query": "Van Gogh Museum"
+  },
+  "lapin-agile": {
+    "lat": 48.888611,
+    "lon": 2.3399947,
+    "name": "Au Lapin Agile",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/316800538",
+    "query": "Lapin Agile Paris"
+  },
+  "arc-triomphe": {
+    "lat": 48.8737791,
+    "lon": 2.2950372,
+    "name": "Arc de Triomphe",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/226413508",
+    "query": "Arc de Triomphe Paris"
+  },
+  "conciergerie": {
+    "lat": 48.8559492,
+    "lon": 2.3460263,
+    "name": "Conciergerie",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/node/910390736",
+    "query": "Conciergerie Paris"
+  },
+  "eiffel-tower": {
+    "lat": 48.8582599,
+    "lon": 2.2945006,
+    "name": "Tour Eiffel",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/5013364",
+    "query": "Tour Eiffel Paris"
+  },
+  "notre-dame-paris": {
+    "lat": 48.8529371,
+    "lon": 2.3500501,
+    "name": "Cathédrale Notre-Dame de Paris",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/201611261",
+    "query": "Notre Dame Paris"
+  },
+  "royal-palace-amsterdam": {
+    "lat": 52.3731449,
+    "lon": 4.8913363,
+    "name": "Koninklijk Paleis",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/relation/3580875",
+    "query": "Royal Palace Amsterdam"
+  },
+  "louvre": {
+    "lat": 48.8611473,
+    "lon": 2.3380277,
+    "name": "Musée du Louvre",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/7515426",
+    "query": "Louvre Paris"
+  },
+  "van-loon": {
+    "lat": 52.363464,
+    "lon": 4.8933781,
+    "name": "Museum Van Loon",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/node/34050759",
+    "query": "Museum Van Loon"
+  },
+  "scheveningen": {
+    "lat": 52.1067449,
+    "lon": 4.2736937,
+    "name": "Scheveningen",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/relation/13751467",
+    "query": "Scheveningen"
+  },
+  "musee-cluny": {
+    "lat": 48.8506495,
+    "lon": 2.3435643,
+    "name": "Musée de Cluny",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/56640163",
+    "query": "Musee Cluny Paris"
+  },
+  "sacre-coeur": {
+    "lat": 48.8868058,
+    "lon": 2.3430153,
+    "name": "Basilique du Sacré-Cœur",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/23762981",
+    "query": "Sacre Coeur Paris"
+  },
+  "rembrandt-house": {
+    "lat": 52.3693692,
+    "lon": 4.9012497,
+    "name": "Rembrandthuis",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/node/250624673",
+    "query": "Rembrandthuis"
+  },
+  "musee-orsay": {
+    "lat": 48.8599179,
+    "lon": 2.3265849,
+    "name": "Musée d'Orsay",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/63178753",
+    "query": "Musee Orsay Paris"
+  },
+  "reykjavik": {
+    "lat": 64.145981,
+    "lon": -21.9422367,
+    "name": "Reykjavík",
+    "country_code": "IS",
+    "source": "https://www.openstreetmap.org/relation/2580605",
+    "query": "Reykjavik"
+  },
+  "saint-severin": {
+    "lat": 48.8520938,
+    "lon": 2.3457122,
+    "name": "Église Saint-Séverin",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/19740659",
+    "query": "Saint Severin Paris"
   }
 }

@@ -2,7 +2,7 @@
        Texts come from cover_where / cover_title / cover_subtitle / cover_when / cover_who
        (falls back to the trip title). Details (where, when · who) appear on mouse hover. */ -}}
 {{- $trip := . -}}
-{{- $cover := $trip.Params.cover_image | default "" -}}
+{{- $cover := $trip.Params.home_cover_image | default $trip.Params.cover_image | default "" -}}
 {{- $src := "" -}}
 {{- if hasPrefix $cover "http" -}}
   {{- $src = partial "gimg.html" (dict "url" $cover "size" "w1200") -}}
@@ -13,7 +13,7 @@
 {{- with $trip.Params.cover_when }}{{ $meta = $meta | append . }}{{ end -}}
 {{- with $trip.Params.cover_who }}{{ $meta = $meta | append . }}{{ end -}}
 <a href="{{ $trip.RelPermalink }}" class="trip-tile">
-  {{- with $src }}<img referrerpolicy="no-referrer" src="{{ . }}" alt="" loading="lazy"{{ with $trip.Params.cover_position }} style="object-position: {{ . }};"{{ end }}>{{ end }}
+  {{- with $src }}<img referrerpolicy="no-referrer" src="{{ . }}" alt="" loading="lazy"{{ with ($trip.Params.home_cover_position | default $trip.Params.cover_position) }} style="object-position: {{ . }};"{{ end }}>{{ end }}
   <div class="trip-tile-text">
     {{- with $trip.Params.cover_where }}<p class="trip-tile-where">{{ . }}</p>{{ end }}
     <h2 class="trip-tile-title">{{ $trip.Params.cover_title | default $trip.Title }}</h2>
