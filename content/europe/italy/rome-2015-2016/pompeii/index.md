@@ -7,7 +7,7 @@ city: "Помпеи"
 auto_gallery: false
 draft: false
 source_url: "https://olgau.livejournal.com/219589.html"
-hero_image: "image-c991358cab390ec51892cce56f1aa20f9bebf2e6bb50ac684c40db6e1e861b74-V.jpg"
+hero_image: "IMG_6927.jpg"
 places:
   - pompeii
 ---
@@ -53,6 +53,6 @@ places:
 
 {{< row "IMG_6907.jpg IMG_6920.jpg IMG_6924.jpg" >}}
 
-{{< row "IMG_6927.jpg IMG_20160107_160917.jpg IMG_20160107_161633.jpg" >}}
+{{< row "image-c991358cab390ec51892cce56f1aa20f9bebf2e6bb50ac684c40db6e1e861b74-V.jpg IMG_20160107_160917.jpg IMG_20160107_161633.jpg" >}}
 
 {{< row "IMG_6939.jpg IMG_6941.jpg 20160107_204652_001.jpg" >}}

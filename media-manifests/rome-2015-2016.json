@@ -18324,20 +18324,20 @@
     }
   ],
   "drive_sync_check": {
-    "checked_at": "2026-10-11T02:44:50.350Z",
+    "checked_at": "2026-10-11T02:48:28.692Z",
     "method": "DriveFS remote file IDs and matching cloud metadata byte sizes, matched by parent folder",
-    "ready": 414,
-    "total": 414,
+    "ready": 415,
+    "total": 415,
     "pending": []
   },
   "archive_check": {
     "original_count": 412,
     "unused_original_count": 1,
-    "total_bytes": 1089857721,
+    "total_bytes": 1090099640,
     "sha256_verified": true,
     "original_dimensions_verified": true,
     "checked_at": "2026-10-11T02:38:28.701546+00:00",
-    "reused_original_count": 1
+    "reused_original_count": 2
   },
   "r2": {
     "status": "verified",
@@ -27088,15 +27088,31 @@
       "original_w": 2112,
       "original_h": 2112,
       "r2_key": "rome-2015-2016/pompeii/IMG_6927.jpg",
-      "reason": "Owner-selected conclusion photograph; same original also appears in Pompeii",
+      "reason": "Previous owner-selected conclusion cover, retained after cover swap",
       "drive_id": "1Wx73xhOX32ETgL8wL1lWAKdlI78BEfZP",
       "drive_sync_evidence": {
         "remote_id": true,
         "cloud_metadata_bytes": 1281584
       }
+    },
+    {
+      "chapter": "conclusion",
+      "original_filename": "image-c991358cab390ec51892cce56f1aa20f9bebf2e6bb50ac684c40db6e1e861b74-V.jpg",
+      "original_relative_path": "12 - Заключение/02_image-c991358cab390ec51892cce56f1aa20f9bebf2e6bb50ac684c40db6e1e861b74-V.jpg",
+      "original_sha256": "b146e2dde2c81bc399ba405ff19436c279ee6a7928951eb00985c1b02780e7f1",
+      "original_bytes": 241919,
+      "original_w": 1280,
+      "original_h": 720,
+      "r2_key": "rome-2015-2016/pompeii/image-c991358cab390ec51892cce56f1aa20f9bebf2e6bb50ac684c40db6e1e861b74-V.jpg",
+      "reason": "Current conclusion cover after owner-requested swap with Pompeii",
+      "drive_id": "1bTOyjIuEd5qxGgyucgqweRYCB2l27mCQ",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 241919
+      }
     }
   ],
   "chapter_hero_overrides": {
-    "conclusion": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/pompeii/IMG_6927.jpg"
+    "conclusion": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/pompeii/image-c991358cab390ec51892cce56f1aa20f9bebf2e6bb50ac684c40db6e1e861b74-V.jpg"
   }
 }
