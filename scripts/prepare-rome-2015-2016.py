@@ -54,7 +54,9 @@ for c in m['chapters']:
     paras=re.findall(r'<p>(.*?)</p>',body,re.S)
     assert hashlib.sha256('\n'.join(html.unescape(p) for p in paras).encode()).hexdigest()==c['text_sha256'],slug
     fm=re.sub(r'^hero_image:.*\n','',fm,flags=re.M);fm=re.sub(r'^places:\n(?:  - .*\n)*','',fm,flags=re.M)
-    if slug in plan:
+    if slug in m.get('chapter_hero_overrides',{}):
+        fm+='hero_image: '+json.dumps(m['chapter_hero_overrides'][slug])+'\n'
+    elif slug in plan:
         hero=plan[slug]['hero'];_,name=bykey[slug,hero];assert data[f'{slug}/{name}']['w']>data[f'{slug}/{name}']['h'],(slug,'portrait cover')
         fm+='hero_image: '+json.dumps(name)+'\n'
     else:

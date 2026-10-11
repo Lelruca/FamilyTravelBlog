@@ -18324,19 +18324,20 @@
     }
   ],
   "drive_sync_check": {
-    "checked_at": "2026-10-11T02:39:53.411Z",
+    "checked_at": "2026-10-11T02:44:50.350Z",
     "method": "DriveFS remote file IDs and matching cloud metadata byte sizes, matched by parent folder",
-    "ready": 413,
-    "total": 413,
+    "ready": 414,
+    "total": 414,
     "pending": []
   },
   "archive_check": {
     "original_count": 412,
     "unused_original_count": 1,
-    "total_bytes": 1088576137,
+    "total_bytes": 1089857721,
     "sha256_verified": true,
     "original_dimensions_verified": true,
-    "checked_at": "2026-10-11T02:38:28.701546+00:00"
+    "checked_at": "2026-10-11T02:38:28.701546+00:00",
+    "reused_original_count": 1
   },
   "r2": {
     "status": "verified",
@@ -27076,5 +27077,26 @@
       "public_verified": true,
       "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/IMG_6754.jpg"
     }
-  ]
+  ],
+  "reused_archive_originals": [
+    {
+      "chapter": "conclusion",
+      "original_filename": "IMG_6927.JPG",
+      "original_relative_path": "12 - Заключение/01_IMG_6927.JPG",
+      "original_sha256": "f646ff5908420b4ccaec2b9c6787f539d1d155ba8a6891e51db0a698b2ed7f50",
+      "original_bytes": 1281584,
+      "original_w": 2112,
+      "original_h": 2112,
+      "r2_key": "rome-2015-2016/pompeii/IMG_6927.jpg",
+      "reason": "Owner-selected conclusion photograph; same original also appears in Pompeii",
+      "drive_id": "1Wx73xhOX32ETgL8wL1lWAKdlI78BEfZP",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 1281584
+      }
+    }
+  ],
+  "chapter_hero_overrides": {
+    "conclusion": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/pompeii/IMG_6927.jpg"
+  }
 }
