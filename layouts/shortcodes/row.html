@@ -1,6 +1,8 @@
 {{- /* One row of photos of equal height that fills the photo zone exactly (DESIGN_PHOTOS.md «Фотоблоки»).
        {{< row "IMG_7253.jpg 20160820_153316.jpg" >}}
        Optional: caption="text" capfor="IMG_7253.jpg" — a caption line directly under that photo.
+       A photo's own caption written by the author (field "caption" in data/photos/<trip>.json) is shown on the photo
+       (partial story-photo-caption.html) and in full in the lightbox.
        The row starts at the common left edge; if at full width it would be taller than the screen allows,
        it gets narrower (--rs / --rn, see layouts/trips/photo-story.html). Small originals keep their size. */ -}}
 {{- $names := split (trim (.Get "items" | default (.Get 0)) " ") " " -}}
@@ -13,7 +15,7 @@
     {{- $r := partial "story-photo-ratio.html" (dict "page" $page "name" .) -}}
     {{- $info := index (index site.Data.photos $page.Parent.File.ContentBaseName) (partial "story-photo-key.html" (dict "page" $page "name" .)) -}}
     {{- $minHeight = math.Min $minHeight (float $info.h) -}}
-    {{- $items = $items | append (dict "name" . "r" $r) -}}
+    {{- $items = $items | append (dict "name" . "r" $r "cap" ($info.caption | default "")) -}}
     {{- $sum = add $sum $r -}}
   {{- end -}}
 {{- end -}}
@@ -53,7 +55,7 @@
 {{- range $line := $lines -}}
   {{- range $line.items -}}
     {{- $url := partial "story-photo-url.html" (dict "page" $page "name" .name) -}}
-    <a class="essay-photo" href="{{ $url }}" data-photo-lightbox data-photo-alt="" style="--g:{{ mul .r 1000 }};aspect-ratio:{{ .r }};--ms:{{ div .r $line.sum }};--mk:{{ sub (len $line.items) 1 }}"><img referrerpolicy="no-referrer" src="{{ $url }}" alt="" loading="lazy"></a>
+    <a class="essay-photo" href="{{ $url }}" data-photo-lightbox data-photo-alt=""{{ with .cap }} data-caption="{{ . }}"{{ end }} style="--g:{{ mul .r 1000 }};aspect-ratio:{{ .r }};--ms:{{ div .r $line.sum }};--mk:{{ sub (len $line.items) 1 }}"><img referrerpolicy="no-referrer" src="{{ $url }}" alt="" loading="lazy">{{ partial "story-photo-caption.html" .cap }}</a>
   {{- end -}}
 {{- end -}}
 </div>

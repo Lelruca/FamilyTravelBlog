@@ -23,7 +23,7 @@
 .photo-essay .essay-header{margin-bottom:44px}
 .photo-essay .essay-trip{display:none;font-size:14px;font-weight:500;color:var(--accent)}
 .photo-essay h1{font-family:Lora,Georgia,serif;font-weight:600;font-size:clamp(28px,3vw,38px);line-height:1.2;margin:0 0 24px;max-width:var(--text)}
-.photo-essay .essay-cover-link{display:block;width:fit-content;max-width:100%}
+.photo-essay .essay-cover-link{display:block;position:relative;width:fit-content;max-width:100%}
 .photo-essay .essay-cover{display:block;width:auto;height:auto;max-width:100%;max-height:var(--cap-h);border-radius:3px;background:#efece6}
 .photo-essay .essay-body p{max-width:var(--text);margin:0 0 1.4em;font-size:18px;line-height:1.8}
 .photo-essay .essay-group{margin:var(--group-mt) 0 var(--group-mb)}
@@ -39,6 +39,8 @@
 .photo-essay .essay-mosaic.is-laid{display:block;position:relative}
 .photo-essay .essay-mosaic.is-laid>.essay-photo{position:absolute;aspect-ratio:auto}
 .photo-essay .essay-overlay{position:absolute;left:0;right:0;bottom:0;padding:40px 16px 14px;color:#fff;font-size:15px;line-height:1.4;background:linear-gradient(transparent,rgba(0,0,0,.62))}
+/* the author's caption of a photo (partial story-photo-caption.html): temporarily in colour for the owner's review */
+.photo-essay .essay-authorcap{position:absolute;left:0;right:0;bottom:0;padding:6px 10px 0;border-bottom:7px solid rgba(18,84,120,.86);background:rgba(18,84,120,.86);background-clip:padding-box;color:#fff;font-size:13px;line-height:1.35;white-space:pre-line;display:-webkit-box;-webkit-line-clamp:3;line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .photo-essay .essay-cap{margin:6px 0 0;font-size:14px;line-height:1.5;font-style:italic;color:#77736a}
 .photo-essay .essay-cap span{display:block}
 .photo-essay .essay-cap span::before{content:"— "}
@@ -98,7 +100,7 @@
 <h1>{{ .Title }}</h1>
 {{- /* hero_crop: "center 60%" — a square or upright cover shown as a horizontal 16:9 frame, cut at that position
        (opt-in per chapter; the full photo still opens on click). */ -}}
-{{ with .Params.hero_image }}{{ $u := partial "story-photo-url.html" (dict "page" $ "name" . "size" "w2000") }}{{ $info := index (index site.Data.photos $trip.File.ContentBaseName | default dict) (printf "%s/%s" $.File.ContentBaseName .) | default dict }}<a class="essay-cover-link" href="{{ $u }}" data-photo-lightbox{{ with $.Params.hero_crop }} style="width:100%"{{ end }}><img referrerpolicy="no-referrer" class="essay-cover" src="{{ $u }}"{{ with $info.w }} width="{{ . }}" height="{{ $info.h }}"{{ end }}{{ with $.Params.hero_crop }} style="width:100%;aspect-ratio:16/9;object-fit:cover;object-position:{{ . }}"{{ end }} alt="{{ $.Title }}" loading="eager" fetchpriority="high"></a>{{ end }}
+{{ with .Params.hero_image }}{{ $u := partial "story-photo-url.html" (dict "page" $ "name" . "size" "w2000") }}{{ $info := index (index site.Data.photos $trip.File.ContentBaseName | default dict) (printf "%s/%s" $.File.ContentBaseName .) | default dict }}<a class="essay-cover-link" href="{{ $u }}" data-photo-lightbox{{ with $info.caption }} data-caption="{{ . }}"{{ end }}{{ with $.Params.hero_crop }} style="width:100%"{{ end }}><img referrerpolicy="no-referrer" class="essay-cover" src="{{ $u }}"{{ with $info.w }} width="{{ . }}" height="{{ $info.h }}"{{ end }}{{ with $.Params.hero_crop }} style="width:100%;aspect-ratio:16/9;object-fit:cover;object-position:{{ . }}"{{ end }} alt="{{ $.Title }}" loading="eager" fetchpriority="high">{{ partial "story-photo-caption.html" $info.caption }}</a>{{ end }}
 </header>
 <div class="essay-body">{{ .Content }}</div>
 <nav class="essay-navigation" aria-label="Навигация по главам">

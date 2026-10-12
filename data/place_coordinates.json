@@ -1446,5 +1446,45 @@
     "country_code": "CN",
     "source": "https://www.openstreetmap.org/way/756859585",
     "query": "great wall mutianyu"
+  },
+  "barcelona": {
+    "lat": 41.3825802,
+    "lon": 2.177073,
+    "name": "Barcelona",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/347950",
+    "query": "Barcelona Spain"
+  },
+  "dresden": {
+    "lat": 51.0493286,
+    "lon": 13.7381437,
+    "name": "Dresden",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/191645",
+    "query": "Dresden Germany"
+  },
+  "berlin": {
+    "lat": 52.5173885,
+    "lon": 13.3951309,
+    "name": "Berlin",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/62422",
+    "query": "Berlin Germany"
+  },
+  "moritzburg-castle": {
+    "lat": 51.1675579,
+    "lon": 13.679487,
+    "name": "Moritzburg Castle",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/20405783",
+    "query": "Schloss Moritzburg"
+  },
+  "meissen": {
+    "lat": 51.1611663,
+    "lon": 13.4844491,
+    "name": "Meissen",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/546775",
+    "query": "Meißen Germany"
   }
 }
