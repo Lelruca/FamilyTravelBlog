@@ -22,11 +22,12 @@ for slug,c in m['chapter_media'].items():
  if slug not in selected:continue
  f=root/m['contentDir']/slug/'index.md';s=f.read_text(encoding='utf-8');paras=re.findall(r'<p>(.*?)</p>',s,re.S);assert [html.unescape(p) for p in paras]==m['verification']['authorParagraphs'][slug]
  fm=s.split('---\n',2)[1];fm=re.sub(r'^hero_image:.*\n','',fm,flags=re.M);fm+='hero_image: '+json.dumps(c['hero_image'])+'\n';out=[]
+ if c.get('hero_caption'):out.append('<div class="exhibit-cover-caption">'+html.escape(c['hero_caption'])+'</div>')
  for n,p in enumerate(paras,1):
   layout=c['layout'].get('before'+str(n))
   if layout:
    for group in layout.get('groups',[layout]):
-    assert group['type'] in ['row','mosaic'];out.append('{{< '+group['type']+' "'+' '.join(group['photos'])+'" >}}')
+    assert group['type'] in ['row','mosaic','exhibit-row'];out.append('{{< '+group['type']+' "'+' '.join(group['photos'])+'" >}}')
   layout=c['layout'].get('paragraph'+str(n))
   if layout:
    assert layout['type']=='beside';out.append('{{< beside "'+layout['photo']+'" >}}\n<p>'+p+'</p>\n{{< /beside >}}')
@@ -34,7 +35,9 @@ for slug,c in m['chapter_media'].items():
   layout=c['layout'].get('after'+str(n))
   if layout:
    for group in layout.get('groups',[layout]):
-    assert group['type'] in ['row','mosaic'];out.append('{{< '+group['type']+' "'+' '.join(group['photos'])+'" >}}')
+    assert group['type'] in ['row','mosaic','exhibit-row'];out.append('{{< '+group['type']+' "'+' '.join(group['photos'])+'" >}}')
  if c.get('extra_css'):out.append('<style>'+c['extra_css']+'</style>')
  f.write_text('---\n'+fm+'---\n\n'+'\n\n'.join(out)+'\n',encoding='utf-8');c['stage']='copies-prepared-awaiting-r2-verification'
+for slug in selected:
+ for name,caption in m.get('chapter_media',{}).get(slug,{}).get('photo_captions',{}).items():data[slug+'/'+name]['caption']=caption
 datafile.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8');m['r2'].update(status='copies-prepared-awaiting-upload',photos=copies);mf.write_text(json.dumps(m,ensure_ascii=False,indent=2)+'\n',encoding='utf-8');(archive/'photo-manifest.json').write_text(mf.read_text(encoding='utf-8'),encoding='utf-8');print('Prepared',made,'copies and layouts for',', '.join(sorted(selected)))

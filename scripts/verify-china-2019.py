@@ -69,6 +69,10 @@ if len(sys.argv)>1:
    expected_photos=m['chapter_media'][c['slug']]['page_order']
    assert [u.rsplit('/',1)[-1] for u in urls]==expected_photos,('Photo order',c['slug'],urls)
    assert all(u.startswith(m['r2']['publicBase']) for u in urls),c['slug']
+   captions=m['chapter_media'][c['slug']].get('photo_captions',{})
+   if captions:
+    rendered={re.search(r'href=["\']?([^"\' >]+)',fig)[1].rsplit('/',1)[-1]:norm(text(re.search(r'<figcaption\b[^>]*>(.*?)</figcaption>',fig,re.S)[1])) for fig in re.findall(r'<figure\b[^>]*>(.*?)</figure>',body,re.S) if '<figcaption' in fig}
+    assert rendered=={name:norm(cap) for name,cap in captions.items()},('Exhibit captions differ from their photos',c['slug'])
   else:assert 'data-photo-lightbox' not in body and not re.search(r'<img[^>]+src=',body),c['slug']
   assert html.escape(c['title']) in page or c['title'] in page,c['slug']
  for slug in m['places_coordinates']:
