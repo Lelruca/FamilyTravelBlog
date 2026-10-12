@@ -25,7 +25,9 @@
           {{- $trips = $trips | append (dict "title" (.Params.cover_title | default .Title) "year" .Params.trip_year "image" $image "position" (.Params.cover_position | default "center") "url" .RelPermalink) -}}
         {{- end -}}
       {{- end -}}
+      {{- if not (and (eq $key "japan") (eq (len $trips) 0)) -}}
       {{- $countries = $countries | append (dict "key" $key "title" .Title "region" $region "url" .RelPermalink "trips" $trips) -}}
+      {{- end -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
