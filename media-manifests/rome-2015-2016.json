@@ -18252,6 +18252,166 @@
       },
       "site_filename": "IMG_6813.jpg",
       "r2_key": "rome-2015-2016/naples/IMG_6813.jpg"
+    },
+    {
+      "chapter": "kleve",
+      "source_batch": "owner-alps-2026-10-12",
+      "original_filename": "20151225_114243.jpg",
+      "original_relative_path": "01 - Клеве в Новый год/19_20151225_114243.jpg",
+      "original_sha256": "bbcc79b5d0fa4f0401bef501e82ccbd6fabdf7ae3d4f33e4161e342f8293afa3",
+      "original_bytes": 4727774,
+      "original_w": 2988,
+      "original_h": 5312,
+      "status": "archived-locally",
+      "chapter_position": 19,
+      "layout_photo_number": 19,
+      "site_filename": "alps-19.jpg",
+      "r2_key": "rome-2015-2016/kleve/alps-19.jpg",
+      "drive_id": "1C384ynamfSjeS59uMp-9E3zTWWIYiLK0",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 4727774
+      }
+    },
+    {
+      "chapter": "kleve",
+      "source_batch": "owner-alps-2026-10-12",
+      "original_filename": "20151225_114415.jpg",
+      "original_relative_path": "01 - Клеве в Новый год/20_20151225_114415.jpg",
+      "original_sha256": "ad3814e4fc19b6cd14e81a718d51cee6db865a13508397a912758f7fc9c6ed2c",
+      "original_bytes": 5608497,
+      "original_w": 5312,
+      "original_h": 2988,
+      "status": "archived-locally",
+      "chapter_position": 20,
+      "layout_photo_number": 20,
+      "site_filename": "alps-20.jpg",
+      "r2_key": "rome-2015-2016/kleve/alps-20.jpg",
+      "drive_id": "1HhU3nqI8qOEUyMvkCOlYJc1VPg0ZRWtm",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 5608497
+      }
+    },
+    {
+      "chapter": "kleve",
+      "source_batch": "owner-alps-2026-10-12",
+      "original_filename": "20151225_114445.jpg",
+      "original_relative_path": "01 - Клеве в Новый год/21_20151225_114445.jpg",
+      "original_sha256": "38a2fc45d4848c6dec33e048e82278e1da6dd714be82bb91837824c7d3d0379f",
+      "original_bytes": 799998,
+      "original_w": 1920,
+      "original_h": 1080,
+      "status": "archived-locally",
+      "chapter_position": 21,
+      "layout_photo_number": 21,
+      "site_filename": "alps-21.jpg",
+      "r2_key": "rome-2015-2016/kleve/alps-21.jpg",
+      "drive_id": "1xMq1yDs0Pr9Z6fYs6PDOdlOnrJk4FiKT",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 799998
+      }
+    },
+    {
+      "chapter": "kleve",
+      "source_batch": "owner-alps-2026-10-12",
+      "original_filename": "DSC00090.JPG",
+      "original_relative_path": "01 - Клеве в Новый год/22_DSC00090.JPG",
+      "original_sha256": "44ea40c9d95da5fb58bdef9a5dcc2d2c18e620cfb40de12c430f34a054771f11",
+      "original_bytes": 6011217,
+      "original_w": 5152,
+      "original_h": 2896,
+      "status": "archived-locally",
+      "chapter_position": 22,
+      "layout_photo_number": 22,
+      "site_filename": "alps-22.jpg",
+      "r2_key": "rome-2015-2016/kleve/alps-22.jpg",
+      "drive_id": "157f2H8UhcP02DjHh61ECG4OOBPelCgdb",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 6011217
+      }
+    },
+    {
+      "chapter": "kleve",
+      "source_batch": "owner-alps-2026-10-12",
+      "original_filename": "image-13203a5b21bcc61b828f1efc312a55bb46d6a71e841c4c7c03a057f1d42e00da-V.jpg",
+      "original_relative_path": "01 - Клеве в Новый год/23_image-13203a5b21bcc61b828f1efc312a55bb46d6a71e841c4c7c03a057f1d42e00da-V.jpg",
+      "original_sha256": "0f39945f8cbace8b0952fa6699b73e9f200161d36ab6cf98a25de4e76c6164f5",
+      "original_bytes": 248778,
+      "original_w": 1280,
+      "original_h": 960,
+      "status": "archived-locally",
+      "chapter_position": 23,
+      "layout_photo_number": 23,
+      "site_filename": "alps-23.jpg",
+      "r2_key": "rome-2015-2016/kleve/alps-23.jpg",
+      "drive_id": "1xlMS1suA2VtztHVcuVJl0T75ADjZbzbg",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 248778
+      }
+    },
+    {
+      "chapter": "kleve",
+      "source_batch": "owner-alps-2026-10-12",
+      "original_filename": "Photo 02-01-2016, 11 34 58.jpg",
+      "original_relative_path": "01 - Клеве в Новый год/24_Photo 02-01-2016, 11 34 58.jpg",
+      "original_sha256": "2677079216af719cfb78b3d0b4c7e9d3db552676f261602d568ff2d408a3f6a6",
+      "original_bytes": 1823195,
+      "original_w": 3024,
+      "original_h": 4032,
+      "status": "archived-locally",
+      "chapter_position": 24,
+      "layout_photo_number": 24,
+      "site_filename": "alps-24.jpg",
+      "r2_key": "rome-2015-2016/kleve/alps-24.jpg",
+      "drive_id": "1T13EHvlH8QyX7tJdQgL8d_7lmbV5vUHL",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 1823195
+      }
+    },
+    {
+      "chapter": "kleve",
+      "source_batch": "owner-alps-2026-10-12",
+      "original_filename": "Photo 25-12-2015, 10 57 21.jpg",
+      "original_relative_path": "01 - Клеве в Новый год/25_Photo 25-12-2015, 10 57 21.jpg",
+      "original_sha256": "645b1803cc9d5734fdb30cd6ca20d18c20e234115634de1e34208d3bce576cd3",
+      "original_bytes": 2864623,
+      "original_w": 4032,
+      "original_h": 3024,
+      "status": "archived-locally",
+      "chapter_position": 25,
+      "layout_photo_number": 25,
+      "site_filename": "alps-25.jpg",
+      "r2_key": "rome-2015-2016/kleve/alps-25.jpg",
+      "drive_id": "1Pu3C5-3a4oaUaAViF_zcuU8qqOaxxmQM",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 2864623
+      }
+    },
+    {
+      "chapter": "kleve",
+      "source_batch": "owner-alps-2026-10-12",
+      "original_filename": "Photo 27-12-2015, 13 56 32.jpg",
+      "original_relative_path": "01 - Клеве в Новый год/26_Photo 27-12-2015, 13 56 32.jpg",
+      "original_sha256": "ac2c2d15a2ed06515a7d30b7a0e5d59014286676bd48eae35b2135dc182279d9",
+      "original_bytes": 2642994,
+      "original_w": 4032,
+      "original_h": 3024,
+      "status": "archived-locally",
+      "chapter_position": 26,
+      "layout_photo_number": 26,
+      "site_filename": "alps-26.jpg",
+      "r2_key": "rome-2015-2016/kleve/alps-26.jpg",
+      "drive_id": "1zWb_oB43K_kjzPbmQ8kH5xROT977TF84",
+      "drive_sync_evidence": {
+        "remote_id": true,
+        "cloud_metadata_bytes": 2642994
+      }
     }
   ],
   "album_sources": [
@@ -26993,6 +27153,174 @@
         "public_bytes": 267009,
         "public_verified": true,
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/naples/IMG_6813.jpg"
+      },
+      {
+        "key": "rome-2015-2016/kleve/alps-19.jpg",
+        "archiveFile": "01 - Клеве в Новый год/19_20151225_114243.jpg",
+        "original_sha256": "bbcc79b5d0fa4f0401bef501e82ccbd6fabdf7ae3d4f33e4161e342f8293afa3",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 338049,
+        "sha256": "523902b008c6743aba0379171e3d625fec7985667ec8714bdcae1cee8550aa32",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_sha256": "523902b008c6743aba0379171e3d625fec7985667ec8714bdcae1cee8550aa32",
+        "public_bytes": 338049,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/kleve/alps-19.jpg"
+      },
+      {
+        "key": "rome-2015-2016/kleve/alps-20.jpg",
+        "archiveFile": "01 - Клеве в Новый год/20_20151225_114415.jpg",
+        "original_sha256": "ad3814e4fc19b6cd14e81a718d51cee6db865a13508397a912758f7fc9c6ed2c",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 459360,
+        "sha256": "f84eb30d4d152d6961de4b730ac61c9458c38f13ada48711828a8c59da3e9ff7",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_sha256": "f84eb30d4d152d6961de4b730ac61c9458c38f13ada48711828a8c59da3e9ff7",
+        "public_bytes": 459360,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/kleve/alps-20.jpg"
+      },
+      {
+        "key": "rome-2015-2016/kleve/alps-21.jpg",
+        "archiveFile": "01 - Клеве в Новый год/21_20151225_114445.jpg",
+        "original_sha256": "38a2fc45d4848c6dec33e048e82278e1da6dd714be82bb91837824c7d3d0379f",
+        "w": 1920,
+        "h": 1080,
+        "bytes": 334542,
+        "sha256": "c20fc09f220af81139067f862aed21cea47890c3bf4fedf3f6c1988587023629",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_sha256": "c20fc09f220af81139067f862aed21cea47890c3bf4fedf3f6c1988587023629",
+        "public_bytes": 334542,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/kleve/alps-21.jpg"
+      },
+      {
+        "key": "rome-2015-2016/kleve/alps-22.jpg",
+        "archiveFile": "01 - Клеве в Новый год/22_DSC00090.JPG",
+        "original_sha256": "44ea40c9d95da5fb58bdef9a5dcc2d2c18e620cfb40de12c430f34a054771f11",
+        "w": 2000,
+        "h": 1124,
+        "bytes": 255249,
+        "sha256": "98b8f1aa470da988139a8f80918588bcff48633be0910254bf8fa239643b8f28",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_sha256": "98b8f1aa470da988139a8f80918588bcff48633be0910254bf8fa239643b8f28",
+        "public_bytes": 255249,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/kleve/alps-22.jpg"
+      },
+      {
+        "key": "rome-2015-2016/kleve/alps-23.jpg",
+        "archiveFile": "01 - Клеве в Новый год/23_image-13203a5b21bcc61b828f1efc312a55bb46d6a71e841c4c7c03a057f1d42e00da-V.jpg",
+        "original_sha256": "0f39945f8cbace8b0952fa6699b73e9f200161d36ab6cf98a25de4e76c6164f5",
+        "w": 1280,
+        "h": 960,
+        "bytes": 241792,
+        "sha256": "f052b1c59fa06c2be3f85322937e8d862585a4d4efa60b68763f3fc0cb5eecc3",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_sha256": "f052b1c59fa06c2be3f85322937e8d862585a4d4efa60b68763f3fc0cb5eecc3",
+        "public_bytes": 241792,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/kleve/alps-23.jpg"
+      },
+      {
+        "key": "rome-2015-2016/kleve/alps-24.jpg",
+        "archiveFile": "01 - Клеве в Новый год/24_Photo 02-01-2016, 11 34 58.jpg",
+        "original_sha256": "2677079216af719cfb78b3d0b4c7e9d3db552676f261602d568ff2d408a3f6a6",
+        "w": 1500,
+        "h": 2000,
+        "bytes": 361865,
+        "sha256": "950674181c99cd6e1d3db0c19439975875c3c3799fd97d672157236034de03bc",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_sha256": "950674181c99cd6e1d3db0c19439975875c3c3799fd97d672157236034de03bc",
+        "public_bytes": 361865,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/kleve/alps-24.jpg"
+      },
+      {
+        "key": "rome-2015-2016/kleve/alps-25.jpg",
+        "archiveFile": "01 - Клеве в Новый год/25_Photo 25-12-2015, 10 57 21.jpg",
+        "original_sha256": "645b1803cc9d5734fdb30cd6ca20d18c20e234115634de1e34208d3bce576cd3",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 550745,
+        "sha256": "84d0b87dc883a02df6bf4b6ee8f67af3c4e7c7628f0a7602d631b6c49eafb87e",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_sha256": "84d0b87dc883a02df6bf4b6ee8f67af3c4e7c7628f0a7602d631b6c49eafb87e",
+        "public_bytes": 550745,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/kleve/alps-25.jpg"
+      },
+      {
+        "key": "rome-2015-2016/kleve/alps-26.jpg",
+        "archiveFile": "01 - Клеве в Новый год/26_Photo 27-12-2015, 13 56 32.jpg",
+        "original_sha256": "ac2c2d15a2ed06515a7d30b7a0e5d59014286676bd48eae35b2135dc182279d9",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 536052,
+        "sha256": "a2a2c2ea71adb85cb740530b22572586846ae2c00d2a819b5405832040cd8570",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_sha256": "a2a2c2ea71adb85cb740530b22572586846ae2c00d2a819b5405832040cd8570",
+        "public_bytes": 536052,
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/kleve/alps-26.jpg"
       }
     ],
     "verified_at": "2026-10-11T02:40:21Z"
@@ -27113,6 +27441,39 @@
     }
   ],
   "chapter_hero_overrides": {
-    "conclusion": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/pompeii/image-c991358cab390ec51892cce56f1aa20f9bebf2e6bb50ac684c40db6e1e861b74-V.jpg"
+    "conclusion": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/pompeii/image-c991358cab390ec51892cce56f1aa20f9bebf2e6bb50ac684c40db6e1e861b74-V.jpg",
+    "kleve": "alps-21.jpg"
+  },
+  "owner_additions": {
+    "kleve_alps": {
+      "photos": [
+        "alps-19.jpg",
+        "alps-20.jpg",
+        "alps-21.jpg",
+        "alps-22.jpg",
+        "alps-23.jpg",
+        "alps-24.jpg",
+        "alps-25.jpg",
+        "alps-26.jpg"
+      ],
+      "after_paragraph": 1,
+      "groups": [
+        [
+          "alps-19.jpg",
+          "alps-22.jpg",
+          "alps-25.jpg"
+        ],
+        [
+          "alps-20.jpg"
+        ],
+        [
+          "alps-23.jpg",
+          "alps-24.jpg",
+          "alps-26.jpg"
+        ]
+      ],
+      "source": "Owner added 8 Alps photographs to German chapter; placed at first author paragraph",
+      "hero": "alps-21.jpg"
+    }
   }
 }
