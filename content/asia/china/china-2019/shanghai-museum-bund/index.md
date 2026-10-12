@@ -10,9 +10,8 @@ places:
   - "shanghai"
   - "shanghai-museum"
 hero_image: "Ancient-Patinated-Bronze-Ritual-Vessel.jpg"
+hero_photo_caption: "Ритуальный сосуд поу с четырьмя головами баранов. Поздняя Шан, XIII–XI вв. до н. э."
 ---
-
-<div class="exhibit-cover-caption">Ритуальный сосуд поу с четырьмя головами баранов. Поздняя Шан, XIII–XI вв. до н. э.</div>
 
 <p>Начать свой второй день в Шанхае я бы хотела с разговора о здоровье. Вернее об экологии. Смог, по моим фото вы уже видели - вроде его и нет, если не пытаться сделать панорамные снимки. В целом он не “видится” и особо не ощущается. Китайцы в масках ходят, но далеко не все и не всегда. Как нам гиды объясняли, у них про смог как про прогноз погоды объявляют. Если очень сильный индекс, народ надевает маски. Ну и у каждого свой порог видимо. Мы конкретно от смога вроде не страдали, но… мои мальчики начали жутко чесаться прямо с первых дней в Пекине. Причем оба никогда не страдали никаким зудом кожи, а тут прямо в кровь! Но мы с мамой более-менее как-то. Может вода, может воздух, может еще что. В остальном мы держались. Однако к 10 дню в Шанхае у меня полетело мое “слабое место”, которое у меня легкие. Начался ЖУТКИЙ кашель, короче я заболела. Связано это с экологией или нет, не знаю, но на наши планы повлияло. Хотя зайдя в китайскую аптеку и покашлив перед прилавком, я получила какие-то очень неплохие таблетки, которые меня хорошо поддерживали в последние дни.</p>
 
@@ -52,6 +51,10 @@ hero_image: "Ancient-Patinated-Bronze-Ritual-Vessel.jpg"
 
 <p>Поэтому я поделюсь с вами нашей прогулкой по набережной. ОЧЕНЬ красивая подсветка, народ гуляет, все весело и безопасно. Мне очень понравилось, что подсветка очень со вкусом сделана. Одна сторона современная, яркая, с небоскребами и освещается всеми цветами радуги, которые постоянно меняются!  А с другой стороны реки - английская набережная с классической подсветкой!  Контраст впечатляющий!</p>
 
-{{< row "shanghai/20190316_193310.jpg shanghai/20190316_193449.jpg" >}}
+{{< row "shanghai/20190316_193310.jpg" >}}
 
-<style>.exhibit-cover-caption{font-size:.85rem;line-height:1.5;color:#68635b;max-width:616px;margin:.25rem 0 2rem}@media(max-width:767px){.photo-essay .essay-row>.exhibit{flex:0 0 100%;max-width:100%}.photo-essay .exhibit a{max-height:var(--cap-h)}.photo-essay .exhibit img{object-fit:contain}}</style>
+{{< row "shanghai/20190316_190816.jpg shanghai/20190316_192642.jpg shanghai/20190316_194913.jpg" >}}
+
+{{< row "shanghai/20190316_193449.jpg shanghai/20190316_194644.jpg" >}}
+
+<style>.exhibit-cover-caption{font-size:.85rem;line-height:1.5;color:#68635b;max-width:616px;margin:.25rem 0 2rem}.photo-essay .exhibit-label{position:absolute;top:0;left:0;right:0;z-index:1;pointer-events:none;color:#fff;background:linear-gradient(180deg,rgba(0,0,0,.8),rgba(0,0,0,.5) 75%,transparent);font-size:clamp(11px,1vw,14px);line-height:1.45;padding:10px 12px 20px;text-shadow:0 1px 2px #000}.photo-essay .essay-group:has(.exhibit){margin:12px 0}.photo-essay .exhibit{overflow:hidden!important}@media(max-width:767px){.photo-essay .essay-row>.exhibit{flex:0 0 100%;max-width:100%}.photo-essay .exhibit a{max-height:var(--cap-h)}.photo-essay .exhibit img{object-fit:contain}.photo-essay .exhibit-label{font-size:13px;padding:10px 12px 18px}}.photo-essay .essay-cover-link{position:relative}.photo-essay .essay-cover-link>.exhibit-label{font-size:clamp(12px,1.2vw,16px)}</style>

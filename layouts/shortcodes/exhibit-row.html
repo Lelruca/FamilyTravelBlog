@@ -56,8 +56,8 @@
     {{- $info := index (index site.Data.photos $page.Parent.File.ContentBaseName) (partial "story-photo-key.html" (dict "page" $page "name" .name)) -}}
     {{- $caption := $info.caption | default "" -}}
     <figure class="essay-photo exhibit" style="--g:{{ mul .r 1000 }};--ms:{{ div .r $line.sum }};--mk:{{ sub (len $line.items) 1 }};margin:0;background:transparent;overflow:visible">
-      <a href="{{ $url }}" data-photo-lightbox data-photo-alt="{{ $caption }}" style="display:block;aspect-ratio:{{ .r }};overflow:hidden;border-radius:2px"><img referrerpolicy="no-referrer" src="{{ $url }}" alt="{{ $caption }}" loading="lazy"></a>
-      {{ with $caption }}<figcaption style="font-size:.85rem;line-height:1.5;color:#68635b;padding:.5rem 0 0">{{ . }}</figcaption>{{ end }}
+      <a href="{{ $url }}" data-photo-lightbox data-photo-alt="{{ $caption }}" style="display:block;position:relative;aspect-ratio:{{ .r }};overflow:hidden;border-radius:2px"><img referrerpolicy="no-referrer" src="{{ $url }}" alt="{{ $caption }}" loading="lazy"></a>
+      {{ with $caption }}<figcaption class="exhibit-label">{{ . }}</figcaption>{{ end }}
     </figure>
   {{- end -}}
 {{- end -}}

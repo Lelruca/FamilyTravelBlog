@@ -22,7 +22,8 @@ for slug,c in m['chapter_media'].items():
  if slug not in selected:continue
  f=root/m['contentDir']/slug/'index.md';s=f.read_text(encoding='utf-8');paras=re.findall(r'<p>(.*?)</p>',s,re.S);assert [html.unescape(p) for p in paras]==m['verification']['authorParagraphs'][slug]
  fm=s.split('---\n',2)[1];fm=re.sub(r'^hero_image:.*\n','',fm,flags=re.M);fm+='hero_image: '+json.dumps(c['hero_image'])+'\n';out=[]
- if c.get('hero_caption'):out.append('<div class="exhibit-cover-caption">'+html.escape(c['hero_caption'])+'</div>')
+ if c.get('hero_caption'):
+  fm=re.sub(r'^hero_photo_caption:.*\n','',fm,flags=re.M);fm+='hero_photo_caption: '+json.dumps(c['hero_caption'],ensure_ascii=False)+'\n'
  for n,p in enumerate(paras,1):
   layout=c['layout'].get('before'+str(n))
   if layout:
