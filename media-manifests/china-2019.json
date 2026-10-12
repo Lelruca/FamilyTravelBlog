@@ -2,7 +2,7 @@
   "trip": "china-2019",
   "title": "2019 весна: Китай - первый раз в Азию!",
   "contentDir": "content/asia/china/china-2019",
-  "status": "draft-chapters2-through12-media-verified-other-chapters-await-owner-photos",
+  "status": "published-in-progress-chapters2-through12-media-verified-chapter13-cover-verified",
   "source": {
     "report_filename": "2019 весна_ Китай - первый раз в Азию.docx",
     "report_sha256": "65087b25c0bd0cf6eda533209bff344fc3536842399d10676b101cc896ee615d",
@@ -7539,9 +7539,31 @@
         "public_bytes": 691686,
         "public_sha256": "7cc1601a8efc3c26e869cef52328b00fdeefcd1117d8b24ac6069a0a1ee9de0e",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/hangzhou/20190315_221418.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_193310.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/01_20190316_193310.jpg",
+        "original_sha256": "803aaf978811a1d15531235b637c5c717d5ab5d95cac9c8374e3efd33ce3f714",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 346354,
+        "sha256": "8d256021d85e6b79cdd0eeac92fb3ae92a4a27d2b8a9a311ad5c3510d465ca94",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 346354,
+        "public_sha256": "8d256021d85e6b79cdd0eeac92fb3ae92a4a27d2b8a9a311ad5c3510d465ca94",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_193310.jpg"
       }
     ],
-    "verified_at": "2026-10-12T04:16:11.497207+00:00",
+    "verified_at": "2026-10-12T20:10:37.614691+00:00",
     "retired_photos": [
       {
         "key": "china-2019/qianmen-duck/IMG_1702.jpg",
@@ -17883,6 +17905,22 @@
       "status": "selected",
       "selection_reason": "Distinct episode or owner collage; constituent images not repeated separately",
       "drive_id": "15K3e_85zydL_LAtwPzG4yzWCtNCYx7jl"
+    },
+    {
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_193310.jpg",
+      "site_filename": "20190316_193310.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/01_20190316_193310.jpg",
+      "original_bytes": 2952047,
+      "original_sha256": "803aaf978811a1d15531235b637c5c717d5ab5d95cac9c8374e3efd33ce3f714",
+      "original_width": 4032,
+      "original_height": 2268,
+      "r2_key": "china-2019/shanghai/20190316_193310.jpg",
+      "status": "selected",
+      "source_batch": "chapter13-owner-cover",
+      "selection_reason": "Owner explicitly selected 20190316_193310 as chapter cover",
+      "drive_id": "1iOt-fn5ruJMxA7eMQpLNAmdIDgqsDUjZ"
     }
   ],
   "folder_sync": {
@@ -17954,7 +17992,7 @@
         }
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.611Z",
+        "checked_at": "2026-10-12T20:10:25.818Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 11,
         "total": 11,
@@ -18123,7 +18161,7 @@
       "received_candidate_count": 76,
       "transferred_to_chapter5_count": 44,
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.639Z",
+        "checked_at": "2026-10-12T20:10:25.836Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 23,
         "total": 23,
@@ -18331,7 +18369,7 @@
         }
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.660Z",
+        "checked_at": "2026-10-12T20:10:25.848Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 34,
         "total": 34,
@@ -18477,7 +18515,7 @@
       "unused_count": 9,
       "selection_rationale": "Whole temple for cover; family and interiors by temple text, exercise and pavilions by park, streets by neighbourhood, market, station and museum by their paragraphs. Duplicate views retained in archive.",
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.682Z",
+        "checked_at": "2026-10-12T20:10:25.858Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 24,
         "total": 24,
@@ -18723,7 +18761,7 @@
       "unused_count": 19,
       "selection_rationale": "Owner explicitly placed DSC06884 entrance first in ritual block after paragraph1, followed by worshippers and incense. Hutong streets before paragraph1, Buddhas after paragraph2; owner-deleted DSC06931 omitted.",
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.710Z",
+        "checked_at": "2026-10-12T20:10:25.870Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 41,
         "total": 41,
@@ -18984,7 +19022,7 @@
       "drive_sync_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.740Z",
+        "checked_at": "2026-10-12T20:10:25.883Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 42,
         "total": 42,
@@ -19301,7 +19339,7 @@
       "stage": "verified-and-reviewed",
       "selection_review": "Owner cover IMG_2227; selected distinct scenes from 51 uploaded originals, train travel, museum, family, schoolchildren, city and evening food walk",
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.768Z",
+        "checked_at": "2026-10-12T20:10:25.896Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 46,
         "total": 46,
@@ -19575,7 +19613,7 @@
       "stage": "verified-and-reviewed",
       "selection_review": "Family IMG_2278 cover; owner museum collages retained at native size with exact text-linked exhibits, family portraits at pagoda and varied Tang show scenes",
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.791Z",
+        "checked_at": "2026-10-12T20:10:25.906Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 41,
         "total": 41,
@@ -19773,7 +19811,7 @@
       "r2_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.811Z",
+        "checked_at": "2026-10-12T20:10:25.919Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 29,
         "total": 29,
@@ -19802,7 +19840,7 @@
         "method": "Presentation crop only; lightbox opens full original display copy"
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.828Z",
+        "checked_at": "2026-10-12T20:10:25.930Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 1,
         "total": 1,
@@ -20120,10 +20158,10 @@
       "r2_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.848Z",
+        "checked_at": "2026-10-12T20:10:25.945Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
-        "ready": 49,
-        "total": 49,
+        "ready": 48,
+        "total": 48,
         "pending": []
       },
       "page_review": {
@@ -20133,6 +20171,27 @@
         "desktop": "Cover, tea demonstration and full-screen opening reviewed",
         "videos": "Three full originals archived and Drive cloud sync verified; not embedded"
       }
+    },
+    "shanghai": {
+      "hero_image": "20190316_193310.jpg",
+      "page_order": [
+        "20190316_193310.jpg"
+      ],
+      "layout": {},
+      "original_count": 1,
+      "original_bytes": 2952047,
+      "originals_verified": true,
+      "drive_sync_verified": true,
+      "r2_verified": true,
+      "stage": "cover-verified-body-awaiting-photo-layout",
+      "drive_sync": {
+        "checked_at": "2026-10-12T20:10:25.954Z",
+        "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
+        "ready": 1,
+        "total": 1,
+        "pending": []
+      },
+      "page_review": "Owner 20190316_193310 cover selected; text unchanged"
     }
   },
   "tripCover": {
@@ -22953,5 +23012,11 @@
     "Сергей",
     "Леле",
     "Митя"
-  ]
+  ],
+  "publication": {
+    "commit": "7d405a8",
+    "url": "https://lelruca.github.io/FamilyTravelBlog/asia/china/china-2019/",
+    "scope": "Owner-authorized in-progress publication; photos complete through Hangzhou; Shanghai photos remain pending",
+    "authorized_on": "2026-10-12"
+  }
 }
