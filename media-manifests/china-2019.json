@@ -2,7 +2,7 @@
   "trip": "china-2019",
   "title": "2019 весна: Китай - первый раз в Азию!",
   "contentDir": "content/asia/china/china-2019",
-  "status": "published-photo-chapters2-through15",
+  "status": "all-chapters-media-verified",
   "source": {
     "report_filename": "2019 весна_ Китай - первый раз в Азию.docx",
     "report_sha256": "65087b25c0bd0cf6eda533209bff344fc3536842399d10676b101cc896ee615d",
@@ -9123,9 +9123,31 @@
         "public_bytes": 328835,
         "public_sha256": "784ad5eb74e30403f3144f5ac2d09dd3efb41cbdeb257ad7ef3fb108820598e1",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/Father-Son-Day-at-the-Futuristic-Pavilion.jpg"
+      },
+      {
+        "key": "china-2019/visas/1791780274900.jpg",
+        "chapter": "visas",
+        "archiveFile": "01 - Китай - визы/01_1791780274900.jpg",
+        "original_sha256": "3880e63b7d66bbec39b604decdd34a5a0abc36b9871759c3f102b3d7d80f1078",
+        "w": 1264,
+        "h": 848,
+        "bytes": 176032,
+        "sha256": "eb97b0e8a6457c41d803c003c3e5a27c5d0c63d8d0f1c975af2bbeebd5e53648",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 176032,
+        "public_sha256": "eb97b0e8a6457c41d803c003c3e5a27c5d0c63d8d0f1c975af2bbeebd5e53648",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/visas/1791780274900.jpg"
       }
     ],
-    "verified_at": "2026-10-12T21:39:40.165810+00:00",
+    "verified_at": "2026-10-12T21:53:57.694809+00:00",
     "retired_photos": [
       {
         "key": "china-2019/qianmen-duck/IMG_1702.jpg",
@@ -20761,6 +20783,24 @@
       "status": "selected",
       "selection_reason": "Prepared owner image for horizontal family cover",
       "drive_id": "1dsJqC2l86e1gPJvRz4xjt67X3ysXnV02"
+    },
+    {
+      "number": 1,
+      "filename": "1791780274900.jpg",
+      "original_filename": "1791780274900.jpg",
+      "original_relative_path": "01 - Китай - визы/01_1791780274900.jpg",
+      "original_bytes": 203900,
+      "original_sha256": "3880e63b7d66bbec39b604decdd34a5a0abc36b9871759c3f102b3d7d80f1078",
+      "original_width": 1264,
+      "original_height": 848,
+      "chapter": "visas",
+      "chapter_number": 1,
+      "site_filename": "1791780274900.jpg",
+      "r2_key": "china-2019/visas/1791780274900.jpg",
+      "source_batch": "owner-visas-cover",
+      "status": "selected",
+      "selection_reason": "Owner selected first visa preparation illustration",
+      "drive_id": "1SOL9yVOIqVPhfqIYjJsLCEatQCXJql64"
     }
   ],
   "folder_sync": {
@@ -20832,7 +20872,7 @@
         }
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T21:39:14.503Z",
+        "checked_at": "2026-10-12T21:53:49.314Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 11,
         "total": 11,
@@ -21001,7 +21041,7 @@
       "received_candidate_count": 76,
       "transferred_to_chapter5_count": 44,
       "drive_sync": {
-        "checked_at": "2026-10-12T21:39:14.523Z",
+        "checked_at": "2026-10-12T21:53:49.335Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 23,
         "total": 23,
@@ -21209,7 +21249,7 @@
         }
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T21:39:14.536Z",
+        "checked_at": "2026-10-12T21:53:49.349Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 34,
         "total": 34,
@@ -21355,7 +21395,7 @@
       "unused_count": 9,
       "selection_rationale": "Whole temple for cover; family and interiors by temple text, exercise and pavilions by park, streets by neighbourhood, market, station and museum by their paragraphs. Duplicate views retained in archive.",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:39:14.548Z",
+        "checked_at": "2026-10-12T21:53:49.362Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 24,
         "total": 24,
@@ -21601,7 +21641,7 @@
       "unused_count": 19,
       "selection_rationale": "Owner explicitly placed DSC06884 entrance first in ritual block after paragraph1, followed by worshippers and incense. Hutong streets before paragraph1, Buddhas after paragraph2; owner-deleted DSC06931 omitted.",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:39:14.561Z",
+        "checked_at": "2026-10-12T21:53:49.378Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 41,
         "total": 41,
@@ -21862,7 +21902,7 @@
       "drive_sync_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:39:14.575Z",
+        "checked_at": "2026-10-12T21:53:49.397Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 42,
         "total": 42,
@@ -22179,7 +22219,7 @@
       "stage": "verified-and-reviewed",
       "selection_review": "Owner cover IMG_2227; selected distinct scenes from 51 uploaded originals, train travel, museum, family, schoolchildren, city and evening food walk",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:39:14.591Z",
+        "checked_at": "2026-10-12T21:53:49.417Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 46,
         "total": 46,
@@ -22453,7 +22493,7 @@
       "stage": "verified-and-reviewed",
       "selection_review": "Family IMG_2278 cover; owner museum collages retained at native size with exact text-linked exhibits, family portraits at pagoda and varied Tang show scenes",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:39:14.604Z",
+        "checked_at": "2026-10-12T21:53:49.435Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 41,
         "total": 41,
@@ -22651,7 +22691,7 @@
       "r2_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:39:14.616Z",
+        "checked_at": "2026-10-12T21:53:49.461Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 29,
         "total": 29,
@@ -22680,7 +22720,7 @@
         "method": "Presentation crop only; lightbox opens full original display copy"
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T21:39:14.629Z",
+        "checked_at": "2026-10-12T21:53:49.480Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 1,
         "total": 1,
@@ -22998,7 +23038,7 @@
       "r2_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:39:14.645Z",
+        "checked_at": "2026-10-12T21:53:49.497Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 48,
         "total": 48,
@@ -23230,7 +23270,7 @@
       "r2_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:39:14.656Z",
+        "checked_at": "2026-10-12T21:53:49.514Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 30,
         "total": 30,
@@ -23448,7 +23488,7 @@
       "r2_verified": true,
       "extra_css": ".exhibit-cover-caption{font-size:.85rem;line-height:1.5;color:#68635b;max-width:616px;margin:.25rem 0 2rem}.photo-essay .exhibit-label{position:absolute;top:0;left:0;right:0;z-index:1;pointer-events:none;color:#fff;background:linear-gradient(180deg,rgba(0,0,0,.8),rgba(0,0,0,.5) 75%,transparent);font-size:clamp(11px,1vw,14px);line-height:1.45;padding:10px 12px 20px;text-shadow:0 1px 2px #000}.photo-essay .essay-group:has(.exhibit){margin:12px 0}.photo-essay .exhibit{overflow:hidden!important}@media(max-width:767px){.photo-essay .essay-row>.exhibit{flex:0 0 100%;max-width:100%}.photo-essay .exhibit a{max-height:var(--cap-h)}.photo-essay .exhibit img{object-fit:contain}.photo-essay .exhibit-label{font-size:13px;padding:10px 12px 18px}}.photo-essay .essay-cover-link{position:relative}.photo-essay .essay-cover-link>.exhibit-label{font-size:clamp(12px,1.2vw,16px)}",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:39:14.668Z",
+        "checked_at": "2026-10-12T21:53:49.529Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 24,
         "total": 24,
@@ -23573,12 +23613,32 @@
       "r2_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:39:14.678Z",
+        "checked_at": "2026-10-12T21:53:49.557Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 18,
         "total": 18,
         "pending": []
       }
+    },
+    "visas": {
+      "hero_image": "1791780274900.jpg",
+      "page_order": [
+        "1791780274900.jpg"
+      ],
+      "layout": {},
+      "original_count": 1,
+      "original_bytes": 203900,
+      "originals_verified": true,
+      "drive_sync_verified": true,
+      "r2_verified": true,
+      "drive_sync": {
+        "checked_at": "2026-10-12T21:53:49.583Z",
+        "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
+        "ready": 1,
+        "total": 1,
+        "pending": []
+      },
+      "stage": "verified-and-reviewed"
     }
   },
   "tripCover": {
@@ -26941,13 +27001,13 @@
   "participants": [
     "Ома",
     "Сергей",
-    "Леле",
+    "Леля",
     "Митя"
   ],
   "publication": {
-    "commit": "3374649a88788e80568a10ddbbc6155b1e292ce2",
+    "commit": "6fb4d2e30cda52fb880ff12f95a6d71eb2dacb35",
     "url": "https://lelruca.github.io/FamilyTravelBlog/asia/china/china-2019/",
-    "scope": "Shanghai13 owner umbrella cover 20190316_140255 and smog panorama IMG_2478; photos through chapter14",
+    "scope": "All 15 author chapters published; photo layouts complete through final Disneyland chapter; visas intentionally text-only",
     "authorized_on": "2026-10-12"
   }
 }
