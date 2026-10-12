@@ -6,6 +6,7 @@ hero_image: "20170122_153333.jpg"
 auto_gallery: false
 places:
   - "amsterdam"
+  - "nijmegen"
   - "amsterdam-museum"
   - "royal-palace-amsterdam"
 date: "2017-01-20"
