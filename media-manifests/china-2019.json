@@ -2,7 +2,7 @@
   "trip": "china-2019",
   "title": "2019 весна: Китай - первый раз в Азию!",
   "contentDir": "content/asia/china/china-2019",
-  "status": "draft-chapters3-and4-media-verified-chapter5-candidates-separated",
+  "status": "published-photo-chapters2-through15",
   "source": {
     "report_filename": "2019 весна_ Китай - первый раз в Азию.docx",
     "report_sha256": "65087b25c0bd0cf6eda533209bff344fc3536842399d10676b101cc896ee615d",
@@ -34,7 +34,7 @@
   "archive_verified": false,
   "drive_sync_verified": false,
   "r2": {
-    "status": "selected-chapter-copies-verified",
+    "status": "verified",
     "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "photos": [
       {
@@ -8727,9 +8727,405 @@
         "public_bytes": 384664,
         "public_sha256": "ab9971a5eb25cff665f695e831f259018b8657b47d7c164164a848401ca4d390",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2478.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_105446.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/02_20190318_105446.jpg",
+        "original_sha256": "d1cf87bd1b1fdb5b158b33c536352f26343156388f3fbc0b5e4f56fb8433a46e",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 560527,
+        "sha256": "9ae7f5c7e3fa2afc289afcd3b6389fb14f38e66f1102b87e63ace8f624cefd47",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 560527,
+        "public_sha256": "9ae7f5c7e3fa2afc289afcd3b6389fb14f38e66f1102b87e63ace8f624cefd47",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_105446.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_110414.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/03_20190318_110414.jpg",
+        "original_sha256": "330a31d52a709fa4444a59aba112c18b1c1a3a3d879409267c3fbed8c09b719a",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 328488,
+        "sha256": "725ba35f9ea8514891aa85472db015ee3a456d0c53ccd199f8912c80e1631516",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 328488,
+        "public_sha256": "725ba35f9ea8514891aa85472db015ee3a456d0c53ccd199f8912c80e1631516",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_110414.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_110631.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/04_20190318_110631.jpg",
+        "original_sha256": "2cf9a318b94e495bebb380a1eb36432b07f37e32c3cd206908934b403ebba08e",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 607860,
+        "sha256": "30564ff03dfc6b9cc21df6250a57e507701fc5d8953c910f04f7ec07eef24d02",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 607860,
+        "public_sha256": "30564ff03dfc6b9cc21df6250a57e507701fc5d8953c910f04f7ec07eef24d02",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_110631.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_111718.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/05_20190318_111718.jpg",
+        "original_sha256": "1459071861f48c7f26d1d1ec99f1cefe15df5de31b54c2a5690c56b0d7152065",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 512090,
+        "sha256": "f10c5d8d9c5d03f321adad160e2b949c24fb2e8c35975f8b893b38a29b31bf63",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 512090,
+        "public_sha256": "f10c5d8d9c5d03f321adad160e2b949c24fb2e8c35975f8b893b38a29b31bf63",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_111718.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_111801.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/06_20190318_111801.jpg",
+        "original_sha256": "5523b62a42549fd2053672ff8d8e30b685c5d1176517c357fedce10f6e7e978a",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 708751,
+        "sha256": "a54999a96ff34976e0e253f850bec634b6dd1f2ce6395aea5d98960871cb5442",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 708751,
+        "public_sha256": "a54999a96ff34976e0e253f850bec634b6dd1f2ce6395aea5d98960871cb5442",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_111801.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_111854.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/07_20190318_111854.jpg",
+        "original_sha256": "6d5537ec1685eec7a8abda04fd169cc586e944970caa932f81b5af659288c7dd",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 503278,
+        "sha256": "ed136f5a1c30cf08aef0f26da9aa366906c244362582df3c3b46bc27fcbf4f7a",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 503278,
+        "public_sha256": "ed136f5a1c30cf08aef0f26da9aa366906c244362582df3c3b46bc27fcbf4f7a",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_111854.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_112957.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/08_20190318_112957.jpg",
+        "original_sha256": "a4b119e2310ded07a653e40cd533e6edc4686f0d2114130477714b30850919ba",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 202232,
+        "sha256": "26817cd8c7af54bf7edc235b1329d2e000ee911406473c84279b2260385b6294",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 202232,
+        "public_sha256": "26817cd8c7af54bf7edc235b1329d2e000ee911406473c84279b2260385b6294",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_112957.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_113616.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/09_20190318_113616.jpg",
+        "original_sha256": "89e7566669f2146b7e80f83fe33391ede1e4e1a1d0812de031bbe84a6be59c34",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 235432,
+        "sha256": "dcbfc200df027e0d05296feb5869eb5386290c8b630073bc9497e4b3c7eacd8c",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 235432,
+        "public_sha256": "dcbfc200df027e0d05296feb5869eb5386290c8b630073bc9497e4b3c7eacd8c",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_113616.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_115520.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/10_20190318_115520.jpg",
+        "original_sha256": "7f7fb682934ee80a6b1345e2c36b96518fae8204ced26ab232e22ef97d1738cf",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 727947,
+        "sha256": "fd9d7d89bd5e5c5c814cecaf5868cc9b12be026f1ebe25c99d0cc3d17c84cbfc",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 727947,
+        "public_sha256": "fd9d7d89bd5e5c5c814cecaf5868cc9b12be026f1ebe25c99d0cc3d17c84cbfc",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_115520.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_120042.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/11_20190318_120042.jpg",
+        "original_sha256": "05718ff774f109aa3514cd7d65089424a97bb169a9d864770285d08ab9279bf3",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 684910,
+        "sha256": "cd3c54ddcba550491117358255ee9ce40a16f1866aacbf9ec951df8367dc7c2c",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 684910,
+        "public_sha256": "cd3c54ddcba550491117358255ee9ce40a16f1866aacbf9ec951df8367dc7c2c",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_120042.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_120119.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/12_20190318_120119.jpg",
+        "original_sha256": "84cad1701017b25c08b61547f117c35d82f97fc31f11aeb0ff3a87ea2df08e3f",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 973488,
+        "sha256": "d4b37013829aff800d62c5e15aea4f53b04e3f11be5b72f5bb0341df37c61cb9",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 973488,
+        "public_sha256": "d4b37013829aff800d62c5e15aea4f53b04e3f11be5b72f5bb0341df37c61cb9",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_120119.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_120211.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/13_20190318_120211.jpg",
+        "original_sha256": "ca1999b9ad216fc832ba911788f581833314dd081bfd3ff769a8b787dfdff7a2",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 821041,
+        "sha256": "0e05d776569b8f2b242a3e9f1ed2d81af58228bc9a60f5f56aab5bf03de7b9bc",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 821041,
+        "public_sha256": "0e05d776569b8f2b242a3e9f1ed2d81af58228bc9a60f5f56aab5bf03de7b9bc",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_120211.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_123637.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/14_20190318_123637.jpg",
+        "original_sha256": "5bac6b433409caaccd7025e2bd6699d7aada55ee2763d87b1ae4e02297a9fffd",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 817677,
+        "sha256": "9a8f977f659351bc22034e28e9fb05470e572e1c6e4f184f0d0d030b01b4eb6a",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 817677,
+        "public_sha256": "9a8f977f659351bc22034e28e9fb05470e572e1c6e4f184f0d0d030b01b4eb6a",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_123637.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_125348.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/15_20190318_125348.jpg",
+        "original_sha256": "9e5d85324aee1d75a93a7ec82651b41fadc6dd8e8d6241c91bfcf2bbe044e00c",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 421729,
+        "sha256": "cbba52c8a5a339efc76532f3085d30cc2f560ce713ac77e6d1cf9cb76c7bff2e",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 421729,
+        "public_sha256": "cbba52c8a5a339efc76532f3085d30cc2f560ce713ac77e6d1cf9cb76c7bff2e",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_125348.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_130200.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/16_20190318_130200.jpg",
+        "original_sha256": "4a8c1ddb846d3bbdb912548229533b10335515fbd03a5bfe65ea81538d556b32",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 449021,
+        "sha256": "dd6c9150c6a06e7d0eea9de61d8edb5bbd2419c1e870e6803ea3eae46fd1c6e1",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 449021,
+        "public_sha256": "dd6c9150c6a06e7d0eea9de61d8edb5bbd2419c1e870e6803ea3eae46fd1c6e1",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_130200.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190319_125542.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/17_20190319_125542.jpg",
+        "original_sha256": "62ab1ccb813c466c4c72e02173f69883a9886106605165ed64fdabb00ccb93f1",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 413178,
+        "sha256": "ef798240249b9d0a19fb4f84e0b358604120af415c27282e09a250df48d9b75b",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 413178,
+        "public_sha256": "ef798240249b9d0a19fb4f84e0b358604120af415c27282e09a250df48d9b75b",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190319_125542.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190319_132457.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/18_20190319_132457.jpg",
+        "original_sha256": "01391816d60f50a488c6a0e31a8ae425e89f5db0d26bd7703082a8f589d56a6c",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 531008,
+        "sha256": "456967c823bc13ce3d5fef4445b3f88e4740022adbab93291b86ca824ce6fa87",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 531008,
+        "public_sha256": "456967c823bc13ce3d5fef4445b3f88e4740022adbab93291b86ca824ce6fa87",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190319_132457.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/Father-Son-Day-at-the-Futuristic-Pavilion.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/01_Father-Son Day at the Futuristic Pavilion.png",
+        "original_sha256": "64e1f85194c7bdb2676be2ac7beaefdabc215a14376062171f9a1ad8fde5c105",
+        "w": 1448,
+        "h": 1086,
+        "bytes": 328835,
+        "sha256": "784ad5eb74e30403f3144f5ac2d09dd3efb41cbdeb257ad7ef3fb108820598e1",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 328835,
+        "public_sha256": "784ad5eb74e30403f3144f5ac2d09dd3efb41cbdeb257ad7ef3fb108820598e1",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/Father-Son-Day-at-the-Futuristic-Pavilion.jpg"
       }
     ],
-    "verified_at": "2026-10-12T21:31:00.063729+00:00",
+    "verified_at": "2026-10-12T21:39:40.165810+00:00",
     "retired_photos": [
       {
         "key": "china-2019/qianmen-duck/IMG_1702.jpg",
@@ -20041,6 +20437,330 @@
       "status": "selected",
       "selection_reason": "Owner explicitly requested panorama to illustrate smog",
       "drive_id": "1tgrVigBh8r8e2wmlI1vWGsJ1gIgro9n9"
+    },
+    {
+      "number": 1,
+      "filename": "20190318_105446.jpg",
+      "original_filename": "20190318_105446.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/02_20190318_105446.jpg",
+      "original_bytes": 3942067,
+      "original_sha256": "d1cf87bd1b1fdb5b158b33c536352f26343156388f3fbc0b5e4f56fb8433a46e",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_105446.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_105446.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1owjRCRvVFdH5KwiQJLtp6dTgng9LMK_W"
+    },
+    {
+      "number": 2,
+      "filename": "20190318_110414.jpg",
+      "original_filename": "20190318_110414.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/03_20190318_110414.jpg",
+      "original_bytes": 2588960,
+      "original_sha256": "330a31d52a709fa4444a59aba112c18b1c1a3a3d879409267c3fbed8c09b719a",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_110414.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_110414.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1IQax9sGJXZ0piFf7_mEGAn66_69PC-Qk"
+    },
+    {
+      "number": 4,
+      "filename": "20190318_110631.jpg",
+      "original_filename": "20190318_110631.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/04_20190318_110631.jpg",
+      "original_bytes": 3771211,
+      "original_sha256": "2cf9a318b94e495bebb380a1eb36432b07f37e32c3cd206908934b403ebba08e",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_110631.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_110631.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1gPW1W7GAavBEJJus6uJN_Ux7sBEi1quG"
+    },
+    {
+      "number": 6,
+      "filename": "20190318_111718.jpg",
+      "original_filename": "20190318_111718.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/05_20190318_111718.jpg",
+      "original_bytes": 3343588,
+      "original_sha256": "1459071861f48c7f26d1d1ec99f1cefe15df5de31b54c2a5690c56b0d7152065",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_111718.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_111718.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1Cl4u9mYGxESVVupp5TZMAxI3KrEWnW2e"
+    },
+    {
+      "number": 8,
+      "filename": "20190318_111801.jpg",
+      "original_filename": "20190318_111801.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/06_20190318_111801.jpg",
+      "original_bytes": 4421461,
+      "original_sha256": "5523b62a42549fd2053672ff8d8e30b685c5d1176517c357fedce10f6e7e978a",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_111801.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_111801.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1iHElTl3_-VKZ6Xg0uhyiuF8zOBz8A149"
+    },
+    {
+      "number": 9,
+      "filename": "20190318_111854.jpg",
+      "original_filename": "20190318_111854.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/07_20190318_111854.jpg",
+      "original_bytes": 3290118,
+      "original_sha256": "6d5537ec1685eec7a8abda04fd169cc586e944970caa932f81b5af659288c7dd",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_111854.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_111854.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1s1iOf5lKjGeVLpE0fzHSfbuvtMUtl_-U"
+    },
+    {
+      "number": 10,
+      "filename": "20190318_112957.jpg",
+      "original_filename": "20190318_112957.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/08_20190318_112957.jpg",
+      "original_bytes": 2369340,
+      "original_sha256": "a4b119e2310ded07a653e40cd533e6edc4686f0d2114130477714b30850919ba",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_112957.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_112957.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1UFyePGFqGBtZdsu_f4ie3K9YtWt5SfpA"
+    },
+    {
+      "number": 11,
+      "filename": "20190318_113616.jpg",
+      "original_filename": "20190318_113616.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/09_20190318_113616.jpg",
+      "original_bytes": 2293382,
+      "original_sha256": "89e7566669f2146b7e80f83fe33391ede1e4e1a1d0812de031bbe84a6be59c34",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_113616.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_113616.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1NhUrhIvNIRMCSc2RE8wGaCdPjbHRjojx"
+    },
+    {
+      "number": 12,
+      "filename": "20190318_115520.jpg",
+      "original_filename": "20190318_115520.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/10_20190318_115520.jpg",
+      "original_bytes": 3740491,
+      "original_sha256": "7f7fb682934ee80a6b1345e2c36b96518fae8204ced26ab232e22ef97d1738cf",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_115520.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_115520.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1aT7BKFZLRZi9zscfJ8NdGpYhWOfhjH8j"
+    },
+    {
+      "number": 14,
+      "filename": "20190318_120042.jpg",
+      "original_filename": "20190318_120042.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/11_20190318_120042.jpg",
+      "original_bytes": 4478270,
+      "original_sha256": "05718ff774f109aa3514cd7d65089424a97bb169a9d864770285d08ab9279bf3",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_120042.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_120042.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1nXAipIHayK3jDnDlMsfVUdQq0CnKN3hq"
+    },
+    {
+      "number": 15,
+      "filename": "20190318_120119.jpg",
+      "original_filename": "20190318_120119.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/12_20190318_120119.jpg",
+      "original_bytes": 6001255,
+      "original_sha256": "84cad1701017b25c08b61547f117c35d82f97fc31f11aeb0ff3a87ea2df08e3f",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_120119.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_120119.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1w-CgQI_vYxkBx6zWHOROAZmH2EaxX2sW"
+    },
+    {
+      "number": 16,
+      "filename": "20190318_120211.jpg",
+      "original_filename": "20190318_120211.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/13_20190318_120211.jpg",
+      "original_bytes": 5126868,
+      "original_sha256": "ca1999b9ad216fc832ba911788f581833314dd081bfd3ff769a8b787dfdff7a2",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_120211.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_120211.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1RNnXshH44c57T1ixTe5ZGHZffcA1sE66"
+    },
+    {
+      "number": 18,
+      "filename": "20190318_123637.jpg",
+      "original_filename": "20190318_123637.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/14_20190318_123637.jpg",
+      "original_bytes": 4535308,
+      "original_sha256": "5bac6b433409caaccd7025e2bd6699d7aada55ee2763d87b1ae4e02297a9fffd",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_123637.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_123637.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1TFoFj75r_tKfl6Sshasrs1VOZB3iGso3"
+    },
+    {
+      "number": 19,
+      "filename": "20190318_125348.jpg",
+      "original_filename": "20190318_125348.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/15_20190318_125348.jpg",
+      "original_bytes": 2858766,
+      "original_sha256": "9e5d85324aee1d75a93a7ec82651b41fadc6dd8e8d6241c91bfcf2bbe044e00c",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_125348.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_125348.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1ZPoy-3wofUVUcwuUypooeZeLUehjfrzv"
+    },
+    {
+      "number": 21,
+      "filename": "20190318_130200.jpg",
+      "original_filename": "20190318_130200.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/16_20190318_130200.jpg",
+      "original_bytes": 3376221,
+      "original_sha256": "4a8c1ddb846d3bbdb912548229533b10335515fbd03a5bfe65ea81538d556b32",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_130200.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_130200.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1d5ztnalo_maRjbScZ4juip_rZ_vpQh7N"
+    },
+    {
+      "number": 22,
+      "filename": "20190319_125542.jpg",
+      "original_filename": "20190319_125542.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/17_20190319_125542.jpg",
+      "original_bytes": 2785679,
+      "original_sha256": "62ab1ccb813c466c4c72e02173f69883a9886106605165ed64fdabb00ccb93f1",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190319_125542.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190319_125542.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1tmf7o-rU46DUqe5bXOEd1YeR6wE_3g46"
+    },
+    {
+      "number": 23,
+      "filename": "20190319_132457.jpg",
+      "original_filename": "20190319_132457.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/18_20190319_132457.jpg",
+      "original_bytes": 3421616,
+      "original_sha256": "01391816d60f50a488c6a0e31a8ae425e89f5db0d26bd7703082a8f589d56a6c",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190319_132457.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190319_132457.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1bFH2tkchCMU-Fp49QhJt9HzHf4Fw9sW7"
+    },
+    {
+      "number": 24,
+      "filename": "Father-Son Day at the Futuristic Pavilion.png",
+      "original_filename": "Father-Son Day at the Futuristic Pavilion.png",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/01_Father-Son Day at the Futuristic Pavilion.png",
+      "original_bytes": 2711973,
+      "original_sha256": "64e1f85194c7bdb2676be2ac7beaefdabc215a14376062171f9a1ad8fde5c105",
+      "original_width": 1448,
+      "original_height": 1086,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "Father-Son-Day-at-the-Futuristic-Pavilion.jpg",
+      "r2_key": "china-2019/disney-conclusion/Father-Son-Day-at-the-Futuristic-Pavilion.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Prepared owner image for horizontal family cover",
+      "drive_id": "1dsJqC2l86e1gPJvRz4xjt67X3ysXnV02"
     }
   ],
   "folder_sync": {
@@ -20112,7 +20832,7 @@
         }
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T21:30:53.170Z",
+        "checked_at": "2026-10-12T21:39:14.503Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 11,
         "total": 11,
@@ -20281,7 +21001,7 @@
       "received_candidate_count": 76,
       "transferred_to_chapter5_count": 44,
       "drive_sync": {
-        "checked_at": "2026-10-12T21:30:53.185Z",
+        "checked_at": "2026-10-12T21:39:14.523Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 23,
         "total": 23,
@@ -20489,7 +21209,7 @@
         }
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T21:30:53.197Z",
+        "checked_at": "2026-10-12T21:39:14.536Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 34,
         "total": 34,
@@ -20635,7 +21355,7 @@
       "unused_count": 9,
       "selection_rationale": "Whole temple for cover; family and interiors by temple text, exercise and pavilions by park, streets by neighbourhood, market, station and museum by their paragraphs. Duplicate views retained in archive.",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:30:53.208Z",
+        "checked_at": "2026-10-12T21:39:14.548Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 24,
         "total": 24,
@@ -20881,7 +21601,7 @@
       "unused_count": 19,
       "selection_rationale": "Owner explicitly placed DSC06884 entrance first in ritual block after paragraph1, followed by worshippers and incense. Hutong streets before paragraph1, Buddhas after paragraph2; owner-deleted DSC06931 omitted.",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:30:53.222Z",
+        "checked_at": "2026-10-12T21:39:14.561Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 41,
         "total": 41,
@@ -21142,7 +21862,7 @@
       "drive_sync_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:30:53.233Z",
+        "checked_at": "2026-10-12T21:39:14.575Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 42,
         "total": 42,
@@ -21459,7 +22179,7 @@
       "stage": "verified-and-reviewed",
       "selection_review": "Owner cover IMG_2227; selected distinct scenes from 51 uploaded originals, train travel, museum, family, schoolchildren, city and evening food walk",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:30:53.247Z",
+        "checked_at": "2026-10-12T21:39:14.591Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 46,
         "total": 46,
@@ -21733,7 +22453,7 @@
       "stage": "verified-and-reviewed",
       "selection_review": "Family IMG_2278 cover; owner museum collages retained at native size with exact text-linked exhibits, family portraits at pagoda and varied Tang show scenes",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:30:53.259Z",
+        "checked_at": "2026-10-12T21:39:14.604Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 41,
         "total": 41,
@@ -21931,7 +22651,7 @@
       "r2_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:30:53.270Z",
+        "checked_at": "2026-10-12T21:39:14.616Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 29,
         "total": 29,
@@ -21960,7 +22680,7 @@
         "method": "Presentation crop only; lightbox opens full original display copy"
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T21:30:53.279Z",
+        "checked_at": "2026-10-12T21:39:14.629Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 1,
         "total": 1,
@@ -22278,7 +22998,7 @@
       "r2_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:30:53.291Z",
+        "checked_at": "2026-10-12T21:39:14.645Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 48,
         "total": 48,
@@ -22508,9 +23228,9 @@
       "originals_verified": true,
       "drive_sync_verified": true,
       "r2_verified": true,
-      "stage": "drive-and-r2-verified-awaiting-page-review",
+      "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:30:53.302Z",
+        "checked_at": "2026-10-12T21:39:14.656Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 30,
         "total": 30,
@@ -22728,7 +23448,7 @@
       "r2_verified": true,
       "extra_css": ".exhibit-cover-caption{font-size:.85rem;line-height:1.5;color:#68635b;max-width:616px;margin:.25rem 0 2rem}.photo-essay .exhibit-label{position:absolute;top:0;left:0;right:0;z-index:1;pointer-events:none;color:#fff;background:linear-gradient(180deg,rgba(0,0,0,.8),rgba(0,0,0,.5) 75%,transparent);font-size:clamp(11px,1vw,14px);line-height:1.45;padding:10px 12px 20px;text-shadow:0 1px 2px #000}.photo-essay .essay-group:has(.exhibit){margin:12px 0}.photo-essay .exhibit{overflow:hidden!important}@media(max-width:767px){.photo-essay .essay-row>.exhibit{flex:0 0 100%;max-width:100%}.photo-essay .exhibit a{max-height:var(--cap-h)}.photo-essay .exhibit img{object-fit:contain}.photo-essay .exhibit-label{font-size:13px;padding:10px 12px 18px}}.photo-essay .essay-cover-link{position:relative}.photo-essay .essay-cover-link>.exhibit-label{font-size:clamp(12px,1.2vw,16px)}",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:30:53.312Z",
+        "checked_at": "2026-10-12T21:39:14.668Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 24,
         "total": 24,
@@ -22742,6 +23462,122 @@
         "desktop": "Individual captions under their own photos reviewed",
         "phone": "390px caption count12; switched exhibits to one per line to keep captions readable",
         "caption_layout": "Owner requested captions over upper photo area and compact adjacent exhibit rows"
+      }
+    },
+    "disney-conclusion": {
+      "hero_image": "Father-Son-Day-at-the-Futuristic-Pavilion.jpg",
+      "page_order": [
+        "Father-Son-Day-at-the-Futuristic-Pavilion.jpg",
+        "20190318_105446.jpg",
+        "20190318_110414.jpg",
+        "20190318_110631.jpg",
+        "20190318_111718.jpg",
+        "20190318_111801.jpg",
+        "20190318_111854.jpg",
+        "20190318_112957.jpg",
+        "20190318_113616.jpg",
+        "20190318_115520.jpg",
+        "20190318_120042.jpg",
+        "20190318_120119.jpg",
+        "20190318_120211.jpg",
+        "20190318_123637.jpg",
+        "20190318_125348.jpg",
+        "20190318_130200.jpg",
+        "20190319_125542.jpg",
+        "20190319_132457.jpg"
+      ],
+      "layout": {
+        "after1": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190318_105446.jpg",
+                "20190318_110414.jpg",
+                "20190318_110631.jpg"
+              ]
+            }
+          ]
+        },
+        "after2": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190318_111718.jpg",
+                "20190318_111801.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190318_111854.jpg",
+                "20190318_112957.jpg",
+                "20190318_113616.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190318_115520.jpg",
+                "20190318_120042.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190318_120119.jpg",
+                "20190318_120211.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190318_123637.jpg",
+                "20190318_125348.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190318_130200.jpg"
+              ]
+            }
+          ]
+        },
+        "after3": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190319_125542.jpg"
+              ]
+            }
+          ]
+        },
+        "after4": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190319_132457.jpg"
+              ]
+            }
+          ]
+        }
+      },
+      "original_count": 18,
+      "original_bytes": 65056574,
+      "originals_verified": true,
+      "drive_sync_verified": true,
+      "r2_verified": true,
+      "stage": "verified-and-reviewed",
+      "drive_sync": {
+        "checked_at": "2026-10-12T21:39:14.678Z",
+        "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
+        "ready": 18,
+        "total": 18,
+        "pending": []
       }
     }
   },
@@ -25166,6 +26002,108 @@
       "source_batch": "chapter14-owner31",
       "status": "unused",
       "selection_reason": "Label archived as caption source, exact duplicate or unselected repeated view"
+    },
+    {
+      "number": 3,
+      "filename": "20190318_110424.jpg",
+      "original_filename": "20190318_110424.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/zz_не использовано_20190318_110424.jpg",
+      "original_bytes": 3451527,
+      "original_sha256": "f1254b1ec7dce5dd65413fdf89819b78de6514e2dce0b23252210db84a4845b7",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_110424.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_110424.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "unused",
+      "selection_reason": "Repeated scene or original of owner-prepared cover"
+    },
+    {
+      "number": 5,
+      "filename": "20190318_111716.jpg",
+      "original_filename": "20190318_111716.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/zz_не использовано_20190318_111716.jpg",
+      "original_bytes": 2078022,
+      "original_sha256": "1a08256dc6e4f64cb7a7e68c95b39306e49a045ca179ec6e2a157dc247758372",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_111716.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_111716.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "unused",
+      "selection_reason": "Repeated scene or original of owner-prepared cover"
+    },
+    {
+      "number": 7,
+      "filename": "20190318_111800.jpg",
+      "original_filename": "20190318_111800.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/zz_не использовано_20190318_111800.jpg",
+      "original_bytes": 4256825,
+      "original_sha256": "49779f0eb7036a55e6616a50b9b62b7b91110d31ff5660e1c19369584bebd00b",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_111800.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_111800.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "unused",
+      "selection_reason": "Repeated scene or original of owner-prepared cover"
+    },
+    {
+      "number": 13,
+      "filename": "20190318_115841.jpg",
+      "original_filename": "20190318_115841.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/zz_не использовано_20190318_115841.jpg",
+      "original_bytes": 2319664,
+      "original_sha256": "cf29400aa20e01f482490a0043bf9667cc184a55d400f19b8cfbf953bb8a4610",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_115841.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_115841.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "unused",
+      "selection_reason": "Repeated scene or original of owner-prepared cover"
+    },
+    {
+      "number": 17,
+      "filename": "20190318_122308.jpg",
+      "original_filename": "20190318_122308.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/zz_не использовано_20190318_122308.jpg",
+      "original_bytes": 3359205,
+      "original_sha256": "8f0c60d6a4ab4aee7aa5804eefd250946f213ff4b137c801f3fc93e64a6cd4c7",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_122308.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_122308.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "unused",
+      "selection_reason": "Repeated scene or original of owner-prepared cover"
+    },
+    {
+      "number": 20,
+      "filename": "20190318_125923.jpg",
+      "original_filename": "20190318_125923.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/zz_не использовано_20190318_125923.jpg",
+      "original_bytes": 3135979,
+      "original_sha256": "943ce4fdbca5637da903fcf0626aed98301e2ab4da8b55f6a6aeaa6b6eb6d24e",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_125923.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_125923.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "unused",
+      "selection_reason": "Repeated scene or original of owner-prepared cover"
     }
   ],
   "chapter_candidates": {
@@ -26007,9 +26945,9 @@
     "Митя"
   ],
   "publication": {
-    "commit": "26170b1fbad173d6d3c8afaf0907821ccb0e00b4",
+    "commit": "3374649a88788e80568a10ddbbc6155b1e292ce2",
     "url": "https://lelruca.github.io/FamilyTravelBlog/asia/china/china-2019/",
-    "scope": "Shanghai13 cover IMG_2479; chapter14 cover night 20190316_193310; bronze vessel returned to museum body; photos through chapter14",
+    "scope": "Shanghai13 owner umbrella cover 20190316_140255 and smog panorama IMG_2478; photos through chapter14",
     "authorized_on": "2026-10-12"
   }
 }
