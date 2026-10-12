@@ -1326,5 +1326,125 @@
     "country_code": "FR",
     "source": "https://www.openstreetmap.org/way/19740659",
     "query": "Saint Severin Paris"
+  },
+  "beijing": {
+    "lat": 39.9057136,
+    "lon": 116.3912972,
+    "name": "北京市",
+    "country_code": "CN",
+    "source": "https://www.openstreetmap.org/relation/912940",
+    "query": "beijing"
+  },
+  "forbidden-city-beijing": {
+    "lat": 39.9172757,
+    "lon": 116.3907694,
+    "name": "故宫",
+    "country_code": "CN",
+    "source": "https://www.openstreetmap.org/relation/9511883",
+    "query": "forbidden city beijing"
+  },
+  "temple-heaven": {
+    "lat": 39.8799066,
+    "lon": 116.4028716,
+    "name": "天坛公园",
+    "country_code": "CN",
+    "source": "https://www.openstreetmap.org/way/24824550",
+    "query": "temple heaven"
+  },
+  "yonghe-temple": {
+    "lat": 39.9479275,
+    "lon": 116.4115432,
+    "name": "雍和宫",
+    "country_code": "CN",
+    "source": "https://www.openstreetmap.org/node/5305505988",
+    "query": "yonghe temple"
+  },
+  "confucius-temple-beijing": {
+    "lat": 39.9451172,
+    "lon": 116.4083122,
+    "name": "北京孔庙",
+    "country_code": "CN",
+    "source": "https://www.openstreetmap.org/way/24825402",
+    "query": "confucius temple beijing"
+  },
+  "national-museum-china": {
+    "lat": 39.9037459,
+    "lon": 116.3953896,
+    "name": "中国国家博物馆",
+    "country_code": "CN",
+    "source": "https://www.openstreetmap.org/relation/8607825",
+    "query": "national museum china"
+  },
+  "summer-palace": {
+    "lat": 39.9900983,
+    "lon": 116.2647403,
+    "name": "颐和园",
+    "country_code": "CN",
+    "source": "https://www.openstreetmap.org/way/29228773",
+    "query": "summer palace"
+  },
+  "terracotta-army": {
+    "lat": 34.3873627,
+    "lon": 109.277673,
+    "name": "秦始皇兵马俑博物馆",
+    "country_code": "CN",
+    "source": "https://www.openstreetmap.org/way/71235670",
+    "query": "秦始皇兵马俑博物馆"
+  },
+  "xian": {
+    "lat": 34.261004,
+    "lon": 108.9423363,
+    "name": "西安市",
+    "country_code": "CN",
+    "source": "https://www.openstreetmap.org/relation/3226004",
+    "query": "xian"
+  },
+  "longmen-grottoes": {
+    "lat": 34.5571154,
+    "lon": 112.4707112,
+    "name": "龙门石窟",
+    "country_code": "CN",
+    "source": "https://www.openstreetmap.org/way/422644818",
+    "query": "longmen grottoes"
+  },
+  "hangzhou": {
+    "lat": 30.2489634,
+    "lon": 120.2052342,
+    "name": "杭州市",
+    "country_code": "CN",
+    "source": "https://www.openstreetmap.org/relation/3221112",
+    "query": "hangzhou"
+  },
+  "shanghai": {
+    "lat": 31.2312707,
+    "lon": 121.4700152,
+    "name": "上海市",
+    "country_code": "CN",
+    "source": "https://www.openstreetmap.org/relation/913067",
+    "query": "shanghai"
+  },
+  "shanghai-museum": {
+    "lat": 31.2301577,
+    "lon": 121.4709998,
+    "name": "上海博物馆",
+    "country_code": "CN",
+    "source": "https://www.openstreetmap.org/way/161090899",
+    "query": "shanghai museum"
+  },
+  "shanghai-disneyland": {
+    "lat": 31.1462523,
+    "lon": 121.6562825,
+    "name": "上海迪士尼乐园",
+    "country_code": "CN",
+    "source": "https://www.openstreetmap.org/way/494725605",
+    "query": "shanghai disneyland"
+  },
+  "great-wall-mutianyu": {
+    "lat": 40.4345154,
+    "lon": 116.5605754,
+    "name": "慕田峪长城旅游区",
+    "country_code": "CN",
+    "source": "https://www.openstreetmap.org/way/756859585",
+    "query": "great wall mutianyu"
   }
 }
