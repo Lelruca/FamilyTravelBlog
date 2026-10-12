@@ -1,5 +1,5 @@
 ---
-title: "Римские каникулы - немецкая часть  :-)"
+title: "Альпы и Новый год в Германии"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 10
