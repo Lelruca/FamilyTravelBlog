@@ -1963,7 +1963,8 @@
   "shanghai-museum-bund/Ancient-Patinated-Bronze-Ritual-Vessel.jpg": {
     "w": 1448,
     "h": 1086,
-    "source": "14 - Шанхай - музей и набережная/01_Ancient Patinated Bronze Ritual Vessel.png"
+    "source": "14 - Шанхай - музей и набережная/01_Ancient Patinated Bronze Ritual Vessel.png",
+    "caption": "Ритуальный сосуд поу с четырьмя головами баранов. Поздняя Шан, XIII–XI вв. до н. э."
   },
   "shanghai-museum-bund/DSC07120.jpg": {
     "w": 2000,
@@ -2030,5 +2031,10 @@
     "w": 1125,
     "h": 2000,
     "source": "14 - Шанхай - музей и набережная/23_20190316_194913.jpg"
+  },
+  "shanghai-museum-bund/20190316_193310.jpg": {
+    "w": 2000,
+    "h": 1125,
+    "source": "14 - Шанхай - музей и набережная/24_20190316_193310.jpg"
   }
 }

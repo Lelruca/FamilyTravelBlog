@@ -34,7 +34,7 @@
   "archive_verified": false,
   "drive_sync_verified": false,
   "r2": {
-    "status": "copies-prepared-awaiting-upload",
+    "status": "verified",
     "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "photos": [
       {
@@ -7542,8 +7542,8 @@
       },
       {
         "key": "china-2019/shanghai/20190316_193310.jpg",
-        "chapter": "shanghai",
-        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/01_20190316_193310.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/24_20190316_193310.jpg",
         "original_sha256": "803aaf978811a1d15531235b637c5c717d5ab5d95cac9c8374e3efd33ce3f714",
         "w": 2000,
         "h": 1125,
@@ -19051,11 +19051,11 @@
       "drive_id": "15K3e_85zydL_LAtwPzG4yzWCtNCYx7jl"
     },
     {
-      "chapter": "shanghai",
-      "chapter_number": 13,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
       "original_filename": "20190316_193310.jpg",
       "site_filename": "20190316_193310.jpg",
-      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/01_20190316_193310.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/24_20190316_193310.jpg",
       "original_bytes": 2952047,
       "original_sha256": "803aaf978811a1d15531235b637c5c717d5ab5d95cac9c8374e3efd33ce3f714",
       "original_width": 4032,
@@ -20072,7 +20072,7 @@
         }
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T21:15:21.986Z",
+        "checked_at": "2026-10-12T21:22:52.212Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 11,
         "total": 11,
@@ -20241,7 +20241,7 @@
       "received_candidate_count": 76,
       "transferred_to_chapter5_count": 44,
       "drive_sync": {
-        "checked_at": "2026-10-12T21:15:22.014Z",
+        "checked_at": "2026-10-12T21:22:52.231Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 23,
         "total": 23,
@@ -20449,7 +20449,7 @@
         }
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T21:15:22.032Z",
+        "checked_at": "2026-10-12T21:22:52.246Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 34,
         "total": 34,
@@ -20595,7 +20595,7 @@
       "unused_count": 9,
       "selection_rationale": "Whole temple for cover; family and interiors by temple text, exercise and pavilions by park, streets by neighbourhood, market, station and museum by their paragraphs. Duplicate views retained in archive.",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:15:22.049Z",
+        "checked_at": "2026-10-12T21:22:52.259Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 24,
         "total": 24,
@@ -20841,7 +20841,7 @@
       "unused_count": 19,
       "selection_rationale": "Owner explicitly placed DSC06884 entrance first in ritual block after paragraph1, followed by worshippers and incense. Hutong streets before paragraph1, Buddhas after paragraph2; owner-deleted DSC06931 omitted.",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:15:22.063Z",
+        "checked_at": "2026-10-12T21:22:52.276Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 41,
         "total": 41,
@@ -21102,7 +21102,7 @@
       "drive_sync_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:15:22.080Z",
+        "checked_at": "2026-10-12T21:22:52.292Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 42,
         "total": 42,
@@ -21419,7 +21419,7 @@
       "stage": "verified-and-reviewed",
       "selection_review": "Owner cover IMG_2227; selected distinct scenes from 51 uploaded originals, train travel, museum, family, schoolchildren, city and evening food walk",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:15:22.098Z",
+        "checked_at": "2026-10-12T21:22:52.314Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 46,
         "total": 46,
@@ -21693,7 +21693,7 @@
       "stage": "verified-and-reviewed",
       "selection_review": "Family IMG_2278 cover; owner museum collages retained at native size with exact text-linked exhibits, family portraits at pagoda and varied Tang show scenes",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:15:22.116Z",
+        "checked_at": "2026-10-12T21:22:52.332Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 41,
         "total": 41,
@@ -21891,7 +21891,7 @@
       "r2_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:15:22.131Z",
+        "checked_at": "2026-10-12T21:22:52.352Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 29,
         "total": 29,
@@ -21920,7 +21920,7 @@
         "method": "Presentation crop only; lightbox opens full original display copy"
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T21:15:22.147Z",
+        "checked_at": "2026-10-12T21:22:52.368Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 1,
         "total": 1,
@@ -22238,7 +22238,7 @@
       "r2_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:15:22.171Z",
+        "checked_at": "2026-10-12T21:22:52.390Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 48,
         "total": 48,
@@ -22253,13 +22253,12 @@
       }
     },
     "shanghai": {
-      "hero_image": "20190316_193310.jpg",
+      "hero_image": "IMG_2479.jpg",
       "page_order": [
-        "20190316_193310.jpg",
+        "IMG_2479.jpg",
         "IMG_2486.jpg",
         "IMG_2481.jpg",
         "IMG_2476.jpg",
-        "IMG_2479.jpg",
         "IMG_2466.jpg",
         "IMG_2492.jpg",
         "IMG_2491.jpg",
@@ -22303,8 +22302,7 @@
             {
               "type": "row",
               "photos": [
-                "IMG_2476.jpg",
-                "IMG_2479.jpg"
+                "IMG_2476.jpg"
               ]
             }
           ]
@@ -22463,17 +22461,17 @@
           ]
         }
       },
-      "original_count": 30,
-      "original_bytes": 60030053,
+      "original_count": 29,
+      "original_bytes": 57078006,
       "originals_verified": true,
       "drive_sync_verified": true,
       "r2_verified": true,
-      "stage": "copies-prepared-awaiting-r2-verification",
+      "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:15:22.187Z",
+        "checked_at": "2026-10-12T21:22:52.412Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
-        "ready": 30,
-        "total": 30,
+        "ready": 29,
+        "total": 29,
         "pending": []
       },
       "page_review": {
@@ -22484,8 +22482,7 @@
       }
     },
     "shanghai-museum-bund": {
-      "hero_image": "Ancient-Patinated-Bronze-Ritual-Vessel.jpg",
-      "hero_caption": "Ритуальный сосуд поу с четырьмя головами баранов. Поздняя Шан, XIII–XI вв. до н. э.",
+      "hero_image": "shanghai/20190316_193310.jpg",
       "photo_captions": {
         "20190317_104528.jpg": "Сосуд для вина Fu Yi Gong. Поздняя Шан, XIII–XI вв. до н. э.",
         "20190317_104657.jpg": "Сосуд для пищи Jia Gui. Ранняя Западная Чжоу, XI век до н. э.",
@@ -22498,7 +22495,8 @@
         "20190317_111517.jpg": "Каменная скульптура локапалы. Династия Сун, 960–1279 гг.",
         "DSC07152.jpg": "Тибетская маска.",
         "DSC07153.jpg": "Тибетская маска с рогами.",
-        "DSC07154.jpg": "Тибетская маска."
+        "DSC07154.jpg": "Тибетская маска.",
+        "Ancient-Patinated-Bronze-Ritual-Vessel.jpg": "Ритуальный сосуд поу с четырьмя головами баранов. Поздняя Шан, XIII–XI вв. до н. э."
       },
       "caption_sources": {
         "20190317_104528.jpg": {
@@ -22540,9 +22538,10 @@
       },
       "hero_caption_source": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_105455.jpg",
       "page_order": [
-        "Ancient-Patinated-Bronze-Ritual-Vessel.jpg",
+        "20190316_193310.jpg",
         "20190317_102517.jpg",
         "DSC07120.jpg",
+        "Ancient-Patinated-Bronze-Ritual-Vessel.jpg",
         "20190317_104528.jpg",
         "20190317_104657.jpg",
         "20190317_105552.jpg",
@@ -22558,7 +22557,6 @@
         "20190317_101516.jpg",
         "20190317_102359.jpg",
         "20190317_113703.jpg",
-        "20190316_193310.jpg",
         "20190316_190816.jpg",
         "20190316_192642.jpg",
         "20190316_194913.jpg",
@@ -22582,6 +22580,7 @@
             {
               "type": "exhibit-row",
               "photos": [
+                "Ancient-Patinated-Bronze-Ritual-Vessel.jpg",
                 "20190317_104528.jpg",
                 "20190317_104657.jpg"
               ]
@@ -22662,12 +22661,6 @@
             {
               "type": "row",
               "photos": [
-                "shanghai/20190316_193310.jpg"
-              ]
-            },
-            {
-              "type": "row",
-              "photos": [
                 "shanghai/20190316_190816.jpg",
                 "shanghai/20190316_192642.jpg",
                 "shanghai/20190316_194913.jpg"
@@ -22686,20 +22679,20 @@
       "shared_photo_refs": [
         "china-2019/shanghai/20190316_193310.jpg"
       ],
-      "original_count": 23,
-      "original_bytes": 65364787,
+      "original_count": 24,
+      "original_bytes": 68316834,
       "originals_verified": true,
       "drive_sync_verified": true,
       "r2_verified": true,
       "extra_css": ".exhibit-cover-caption{font-size:.85rem;line-height:1.5;color:#68635b;max-width:616px;margin:.25rem 0 2rem}.photo-essay .exhibit-label{position:absolute;top:0;left:0;right:0;z-index:1;pointer-events:none;color:#fff;background:linear-gradient(180deg,rgba(0,0,0,.8),rgba(0,0,0,.5) 75%,transparent);font-size:clamp(11px,1vw,14px);line-height:1.45;padding:10px 12px 20px;text-shadow:0 1px 2px #000}.photo-essay .essay-group:has(.exhibit){margin:12px 0}.photo-essay .exhibit{overflow:hidden!important}@media(max-width:767px){.photo-essay .essay-row>.exhibit{flex:0 0 100%;max-width:100%}.photo-essay .exhibit a{max-height:var(--cap-h)}.photo-essay .exhibit img{object-fit:contain}.photo-essay .exhibit-label{font-size:13px;padding:10px 12px 18px}}.photo-essay .essay-cover-link{position:relative}.photo-essay .essay-cover-link>.exhibit-label{font-size:clamp(12px,1.2vw,16px)}",
       "drive_sync": {
-        "checked_at": "2026-10-12T21:15:22.202Z",
+        "checked_at": "2026-10-12T21:22:52.432Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
-        "ready": 23,
-        "total": 23,
+        "ready": 24,
+        "total": 24,
         "pending": []
       },
-      "stage": "copies-prepared-awaiting-r2-verification",
+      "stage": "verified-and-reviewed",
       "page_review": {
         "author_text": "Nine author paragraphs unchanged; exhibit captions stored separately",
         "rendered_order": "20 photos including two cross-chapter night views; no repeated cover vessel image in body",
@@ -25989,9 +25982,9 @@
     "Митя"
   ],
   "publication": {
-    "commit": "a4b8df1",
+    "commit": "ce5f1e25222a3e8883ed97bf5c38cb58e5fed016",
     "url": "https://lelruca.github.io/FamilyTravelBlog/asia/china/china-2019/",
-    "scope": "Photo layouts through chapter14 Shanghai museum; individual exhibit captions authorized by owner; final Disneyland chapter still text-only",
+    "scope": "Photos through chapter14; all Bund body photos moved from13 to14; top-overlay exhibit captions and compact collages; Disneyland text-only",
     "authorized_on": "2026-10-12"
   }
 }
