@@ -2,7 +2,7 @@
   "trip": "china-2019",
   "title": "2019 весна: Китай - первый раз в Азию!",
   "contentDir": "content/asia/china/china-2019",
-  "status": "published-in-progress-chapters2-through12-media-verified-chapter13-cover-verified",
+  "status": "published-in-progress-chapters2-through13-media-verified",
   "source": {
     "report_filename": "2019 весна_ Китай - первый раз в Азию.docx",
     "report_sha256": "65087b25c0bd0cf6eda533209bff344fc3536842399d10676b101cc896ee615d",
@@ -7561,9 +7561,757 @@
         "public_bytes": 346354,
         "public_sha256": "8d256021d85e6b79cdd0eeac92fb3ae92a4a27d2b8a9a311ad5c3510d465ca94",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_193310.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_131826.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/14_20190316_131826.jpg",
+        "original_sha256": "c0607f563768e773c9f07e82075375b1072dcafe88ba3ba6220194caf542d971",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 718291,
+        "sha256": "32d3020ea99dadafbc1af9d8d55f6701c68bfbd0909f25c96cb74d6710b29601",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 718291,
+        "public_sha256": "32d3020ea99dadafbc1af9d8d55f6701c68bfbd0909f25c96cb74d6710b29601",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_131826.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_132948.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/19_20190316_132948.jpg",
+        "original_sha256": "b065a4e2574a512762b411625c4fafff835d69ee3e9b62fd32478d89a9363124",
+        "w": 1500,
+        "h": 2000,
+        "bytes": 526787,
+        "sha256": "930529cc2103b6df5776b83321ef2b7bed05aa53ebaf8bf32c26326965960ddd",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 526787,
+        "public_sha256": "930529cc2103b6df5776b83321ef2b7bed05aa53ebaf8bf32c26326965960ddd",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_132948.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_132953.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/20_20190316_132953.jpg",
+        "original_sha256": "e6c4b8d6136b9c8ab02bfa8ed5f5d602a43718f371a3304a44f32b60bae89886",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 485983,
+        "sha256": "f77055c8775f8db37d49a32b08cc5617df0ddb3f47f16dad53414fd113bf6bf4",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 485983,
+        "public_sha256": "f77055c8775f8db37d49a32b08cc5617df0ddb3f47f16dad53414fd113bf6bf4",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_132953.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_133133.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/18_20190316_133133.jpg",
+        "original_sha256": "5a974f2cc6ae932284e6ccd08166013bd6d48782dd3cf0ef1f03fc6482d6f6b3",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 626760,
+        "sha256": "9265e8e670b9501173842a6a532236bbcc6d000408269a34e9955489be6848ab",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 626760,
+        "public_sha256": "9265e8e670b9501173842a6a532236bbcc6d000408269a34e9955489be6848ab",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_133133.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_133811.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/10_20190316_133811.jpg",
+        "original_sha256": "ab9b676885886ce5aee2dae47f5f31b0478746ad3f5c2e7fe01c126c7bc7adaf",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 385777,
+        "sha256": "d5d1fd6b72d8125e6855f3d4ebd20e23b5a77a3de97a44728fa340f93c115f5a",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 385777,
+        "public_sha256": "d5d1fd6b72d8125e6855f3d4ebd20e23b5a77a3de97a44728fa340f93c115f5a",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_133811.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_140255.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/23_20190316_140255.jpg",
+        "original_sha256": "ce92921771edf0045b681ad375710fe0a42dcbb31c1d29136c630f09309aecca",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 651817,
+        "sha256": "17d2434aa06256d083dc4dff429ccd8c0a2fcf3f0859ef11748d82f156668d3e",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 651817,
+        "public_sha256": "17d2434aa06256d083dc4dff429ccd8c0a2fcf3f0859ef11748d82f156668d3e",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_140255.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_162230.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/24_20190316_162230.jpg",
+        "original_sha256": "afa4923822a3df8af4a929b1c2e1d421b7cd898572e26fafa552de1a78ea192a",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 457085,
+        "sha256": "0b86334db63e37d27989dd2f9e4aaf4ef119fa920bf10f0801d6b51a4335b4ca",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 457085,
+        "public_sha256": "0b86334db63e37d27989dd2f9e4aaf4ef119fa920bf10f0801d6b51a4335b4ca",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_162230.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_163102.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/26_20190316_163102.jpg",
+        "original_sha256": "4085aa75fb7491b8e694cada0291d3affe89388bcb86f39b81d5dcfdcb521ee5",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 586595,
+        "sha256": "31bbffd734467f7f23ff1705402aac7b0922b5fe0e0b5b6528fd7418e0b23d08",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 586595,
+        "public_sha256": "31bbffd734467f7f23ff1705402aac7b0922b5fe0e0b5b6528fd7418e0b23d08",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_163102.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_163423.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/25_20190316_163423.jpg",
+        "original_sha256": "e2c11965e17a723b5f6c61fc0fbdb6994fa07be6f26797baf9b9e9f5a47992a0",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 516359,
+        "sha256": "67566ae223586f34e67b525ab82c9b63a4b6d13e1560497d35acc521997b4bf7",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 516359,
+        "public_sha256": "67566ae223586f34e67b525ab82c9b63a4b6d13e1560497d35acc521997b4bf7",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_163423.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_163627.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/28_20190316_163627.jpg",
+        "original_sha256": "35c51e7a78394696d08bd04b164f40443fc32eaa1368fba39fa8f34a7a650f8c",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 266243,
+        "sha256": "1da430e037ad501391d0128819581f37030912fab458eebdd1fa0d376d6e4308",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 266243,
+        "public_sha256": "1da430e037ad501391d0128819581f37030912fab458eebdd1fa0d376d6e4308",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_163627.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_163741.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/27_20190316_163741.jpg",
+        "original_sha256": "dfd34ea4c58a5e95d9d38471602d3b66c1abef699966648913540cc6b8d0172e",
+        "w": 1500,
+        "h": 2000,
+        "bytes": 468074,
+        "sha256": "6bf29078db4994bf9b256bda8d780e11254bdb06e040d18ed0530297a2513d70",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 468074,
+        "public_sha256": "6bf29078db4994bf9b256bda8d780e11254bdb06e040d18ed0530297a2513d70",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_163741.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_190816.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/30_20190316_190816.jpg",
+        "original_sha256": "4c308154d08ca5829b24c9db05225aca9c725ad65abd7311dddd4cf0065874e0",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 272481,
+        "sha256": "c7b3f647adab2cf5ca11fcc163f23dd5a3e2e0638375d99c96d03fcff0c163b4",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 272481,
+        "public_sha256": "c7b3f647adab2cf5ca11fcc163f23dd5a3e2e0638375d99c96d03fcff0c163b4",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_190816.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_192642.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/31_20190316_192642.jpg",
+        "original_sha256": "39620352bad1fa3abae458bf0c0aed775fc64d15a5ba531bf4a563a048ce71f1",
+        "w": 1500,
+        "h": 2000,
+        "bytes": 401659,
+        "sha256": "4a494b4345268c591af135e6c41c969d902ef1dabf07faa272745c73506d5931",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 401659,
+        "public_sha256": "4a494b4345268c591af135e6c41c969d902ef1dabf07faa272745c73506d5931",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_192642.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_193449.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/33_20190316_193449.jpg",
+        "original_sha256": "2d05a0bd9c83f26379c553c6fff4d3f8c52006d343bdbd946ace21e127321854",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 307269,
+        "sha256": "4e8abba1da276b85e661c902b50dc4440cfb606dfb3007600bc1236f2d09098e",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 307269,
+        "public_sha256": "4e8abba1da276b85e661c902b50dc4440cfb606dfb3007600bc1236f2d09098e",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_193449.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_194644.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/34_20190316_194644.jpg",
+        "original_sha256": "d7d955e7ef60af5f7c20ec60d544e4a20650738a3b56d334ca684baaaf21bde0",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 495777,
+        "sha256": "c07d376da19b058e20c4cfbe294b56f4a02623c60dc3d2dd26c585dd92753791",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 495777,
+        "public_sha256": "c07d376da19b058e20c4cfbe294b56f4a02623c60dc3d2dd26c585dd92753791",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_194644.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_194913.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/32_20190316_194913.jpg",
+        "original_sha256": "c259997bb7942be6c9288013c62cde41a490be338da92f3486fa0412dcd772d2",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 224339,
+        "sha256": "81962d6b5f3003365669e3608a28b30e94f3d610e0536b51c02f059a4ed57d87",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 224339,
+        "public_sha256": "81962d6b5f3003365669e3608a28b30e94f3d610e0536b51c02f059a4ed57d87",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_194913.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2466.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/03_IMG_2466.JPG",
+        "original_sha256": "dd37a2e9607bd48a9e2fa417b75cb223b86ee92dd7ab240ac9c8c40206dc3f0d",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 196741,
+        "sha256": "aefb2ee649ebb12465c5871af4498f7da0890d9fd7bc82d2e1f16f40784ff4f9",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 196741,
+        "public_sha256": "aefb2ee649ebb12465c5871af4498f7da0890d9fd7bc82d2e1f16f40784ff4f9",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2466.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2476.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/04_IMG_2476.JPG",
+        "original_sha256": "da1399fe9034f5203fe39ad2ce4f483366e4d599973d060b54342459a3e8ed1c",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 352652,
+        "sha256": "93d6718cfbe96723bca30ff23a51339f25f4713ca20bb894bd2717ec3fd3c7df",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 352652,
+        "public_sha256": "93d6718cfbe96723bca30ff23a51339f25f4713ca20bb894bd2717ec3fd3c7df",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2476.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2479.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/05_IMG_2479.JPG",
+        "original_sha256": "5bedfc65833938d6fda909b99f4c9ecfbddfb242f8ac453291ab4b9ac5294d80",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 499506,
+        "sha256": "dedafa45527776e5e2180c825a1adb72fc7e8a899ec7a58d12b07a8eab4317d8",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 499506,
+        "public_sha256": "dedafa45527776e5e2180c825a1adb72fc7e8a899ec7a58d12b07a8eab4317d8",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2479.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2486.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/02_IMG_2486.JPG",
+        "original_sha256": "b1fd06aa18b78e0f77c7b28c3db15fbfac931d95c371a5de06e7869de814e87f",
+        "w": 1500,
+        "h": 2000,
+        "bytes": 453337,
+        "sha256": "74614cf1bdd5e5b34bd784faf3a1cdfeeee8e18519ce24d36ccca55f602e38ae",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 453337,
+        "public_sha256": "74614cf1bdd5e5b34bd784faf3a1cdfeeee8e18519ce24d36ccca55f602e38ae",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2486.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2491.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/07_IMG_2491.JPG",
+        "original_sha256": "322d76b5cd81feb762c9bdc97a98f15dbb3fa92dbdcdc034f192703e0f132cd3",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 526760,
+        "sha256": "4c3e9dda70a48b8ff521e34a2d69bc0b7c05046721a73f1c28fa443d7c41d188",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 526760,
+        "public_sha256": "4c3e9dda70a48b8ff521e34a2d69bc0b7c05046721a73f1c28fa443d7c41d188",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2491.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2492.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/06_IMG_2492.JPG",
+        "original_sha256": "7b174ef3942806680cfc96bb52a5221d913ec3c6952941c4d2bea8b8c92f1baa",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 419142,
+        "sha256": "d5277df7d48439653002db50c5db85757af891de3b04e78222228c7266789c9f",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 419142,
+        "public_sha256": "d5277df7d48439653002db50c5db85757af891de3b04e78222228c7266789c9f",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2492.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2494.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/09_IMG_2494.JPG",
+        "original_sha256": "2da0a4c2698ca25a2e34c16f57b97545b7f2cc2d577211c9d4bd8bc9535276eb",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 541265,
+        "sha256": "8b8c4605f52ec0e1c2016779fcb402f31e5cbf2741fe52aa9bc3be3f61c778d5",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 541265,
+        "public_sha256": "8b8c4605f52ec0e1c2016779fcb402f31e5cbf2741fe52aa9bc3be3f61c778d5",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2494.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2501.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/12_IMG_2501.JPG",
+        "original_sha256": "05826f89e865699607a6f06508752665222e2238aa5e3eaa8cad858875029c2e",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 499914,
+        "sha256": "5892554892008583bf3c494e3df4cf2a6450b0b5e2f1c10d496d99d7ae5942a8",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 499914,
+        "public_sha256": "5892554892008583bf3c494e3df4cf2a6450b0b5e2f1c10d496d99d7ae5942a8",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2501.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2505.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/13_IMG_2505.JPG",
+        "original_sha256": "d1ce459ce6dbeb5ab2357e9c7b71160618a920cfd10e1ff70f576226675320a2",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 505028,
+        "sha256": "d14e1fea20b4a61955ecc2d2793c05fe803ed27b57b75723a0aa5463a7e7679b",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 505028,
+        "public_sha256": "d14e1fea20b4a61955ecc2d2793c05fe803ed27b57b75723a0aa5463a7e7679b",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2505.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2521.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/11_IMG_2521.JPG",
+        "original_sha256": "b19e8c485216c9f54143c322d686dcb7ea4e90fab173b32ebce6463f0ec0b179",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 721297,
+        "sha256": "3c961fb87690f2c62e602ad5b4f107c9aacc9ec15a2a84f83b07285b60e43b73",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 721297,
+        "public_sha256": "3c961fb87690f2c62e602ad5b4f107c9aacc9ec15a2a84f83b07285b60e43b73",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2521.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2524.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/16_IMG_2524.JPG",
+        "original_sha256": "13615437ad2d2e7b7d4fe8190ec3e609d34d8800e9c5ca929c97fbcb91304009",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 382910,
+        "sha256": "18121a1a232b9f869f97120ad1d70b4179d6296d69df7adb07ede1ad2a6216b5",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 382910,
+        "public_sha256": "18121a1a232b9f869f97120ad1d70b4179d6296d69df7adb07ede1ad2a6216b5",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2524.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2525.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/17_IMG_2525.JPG",
+        "original_sha256": "3ae629933ad0ddcf6bbc8c251f21167a65c6fb76902eff153bc102deda858652",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 180810,
+        "sha256": "f9a0771b604ff045000d3916dee7dc99806d06247f8513d66444cd14f5b4dc4b",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 180810,
+        "public_sha256": "f9a0771b604ff045000d3916dee7dc99806d06247f8513d66444cd14f5b4dc4b",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2525.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2528.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/15_IMG_2528.JPG",
+        "original_sha256": "86d668d1577f64a40aefe97e3a23523fe1d78c6b4704581c5887975e5fc4295b",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 620126,
+        "sha256": "39fd806e18d04903709cb9942a6b8ce3bb246dc234a948f8b0b3c831bc886c17",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 620126,
+        "public_sha256": "39fd806e18d04903709cb9942a6b8ce3bb246dc234a948f8b0b3c831bc886c17",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2528.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/sh2.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/08_sh2.jpg",
+        "original_sha256": "e955f8f7a7dea3bbee2dfd8d44fa2ecb80f22777a1e9da3c4883b488ddcd00b9",
+        "w": 1200,
+        "h": 963,
+        "bytes": 219296,
+        "sha256": "69af5145adc25f1bd0bc34ed427c3b88ef48abf42b1e090ddd77159eac5f1e81",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 219296,
+        "public_sha256": "69af5145adc25f1bd0bc34ed427c3b88ef48abf42b1e090ddd77159eac5f1e81",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/sh2.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/Sh3.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/21_Sh3.jpg",
+        "original_sha256": "c35a71b54d8e0d7680d79bbb07f1bee585bd8668a40874304d076a1d1bb700ce",
+        "w": 1200,
+        "h": 963,
+        "bytes": 282327,
+        "sha256": "946eb012dd26116de330b34343890c65d329b8bef8b04fb11ecc4cb0bda3b56b",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 282327,
+        "public_sha256": "946eb012dd26116de330b34343890c65d329b8bef8b04fb11ecc4cb0bda3b56b",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/Sh3.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/Sh5.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/22_Sh5.jpg",
+        "original_sha256": "148e478252340a7c4f08059138c5ff36e78c38963fab8ac6c9fbb87a2092e1a0",
+        "w": 1200,
+        "h": 963,
+        "bytes": 257525,
+        "sha256": "e6485c93ec2c4655f3074d688a6ead5cef698c292fc4c1699dc523d08a70b2e5",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 257525,
+        "public_sha256": "e6485c93ec2c4655f3074d688a6ead5cef698c292fc4c1699dc523d08a70b2e5",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/Sh5.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/Sh8.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/29_Sh8.jpg",
+        "original_sha256": "8507c0c20a54b96cde918f2d5d53b640d27d8638728fb6bf483d756e78a49b5d",
+        "w": 1200,
+        "h": 963,
+        "bytes": 298774,
+        "sha256": "f4a0d83227e54dfbdcb4ef2c9874f65caa6b15429bda4fc15d9c91eeb4df3753",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 298774,
+        "public_sha256": "f4a0d83227e54dfbdcb4ef2c9874f65caa6b15429bda4fc15d9c91eeb4df3753",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/Sh8.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2481.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/35_IMG_2481.JPG",
+        "original_sha256": "b04a328f14f92ca89beafc18a054583532fe7e1efbf23345c389b84f3f1123d1",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 349475,
+        "sha256": "3d2f220ee0704aa1c05ef6129c5feab4c28fccf10fdbbbe4d900fbc0c7bb4d6c",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 349475,
+        "public_sha256": "3d2f220ee0704aa1c05ef6129c5feab4c28fccf10fdbbbe4d900fbc0c7bb4d6c",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2481.jpg"
       }
     ],
-    "verified_at": "2026-10-12T20:10:37.614691+00:00",
+    "verified_at": "2026-10-12T20:37:03.548349+00:00",
     "retired_photos": [
       {
         "key": "china-2019/qianmen-duck/IMG_1702.jpg",
@@ -17921,6 +18669,618 @@
       "source_batch": "chapter13-owner-cover",
       "selection_reason": "Owner explicitly selected 20190316_193310 as chapter cover",
       "drive_id": "1iOt-fn5ruJMxA7eMQpLNAmdIDgqsDUjZ"
+    },
+    {
+      "number": 2,
+      "filename": "20190316_131826.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/14_20190316_131826.jpg",
+      "original_bytes": 3679908,
+      "original_sha256": "c0607f563768e773c9f07e82075375b1072dcafe88ba3ba6220194caf542d971",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_131826.jpg",
+      "site_filename": "20190316_131826.jpg",
+      "r2_key": "china-2019/shanghai/20190316_131826.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1fNNy40qar6trtl562H7GVAMZSPbCKehL"
+    },
+    {
+      "number": 3,
+      "filename": "20190316_132948.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/19_20190316_132948.jpg",
+      "original_bytes": 1717051,
+      "original_sha256": "b065a4e2574a512762b411625c4fafff835d69ee3e9b62fd32478d89a9363124",
+      "original_width": 2448,
+      "original_height": 3264,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_132948.jpg",
+      "site_filename": "20190316_132948.jpg",
+      "r2_key": "china-2019/shanghai/20190316_132948.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1_M_lBM_Wbee3nrqI_WCo9hmPrAql-vbd"
+    },
+    {
+      "number": 4,
+      "filename": "20190316_132953.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/20_20190316_132953.jpg",
+      "original_bytes": 3318642,
+      "original_sha256": "e6c4b8d6136b9c8ab02bfa8ed5f5d602a43718f371a3304a44f32b60bae89886",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_132953.jpg",
+      "site_filename": "20190316_132953.jpg",
+      "r2_key": "china-2019/shanghai/20190316_132953.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1y9tBBDkdSr3fkS6fJtVlaflunWwsrAVb"
+    },
+    {
+      "number": 5,
+      "filename": "20190316_133133.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/18_20190316_133133.jpg",
+      "original_bytes": 3562115,
+      "original_sha256": "5a974f2cc6ae932284e6ccd08166013bd6d48782dd3cf0ef1f03fc6482d6f6b3",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_133133.jpg",
+      "site_filename": "20190316_133133.jpg",
+      "r2_key": "china-2019/shanghai/20190316_133133.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1Qcru4R_JWT8n1J6hoxXb_LsZygSz-KUp"
+    },
+    {
+      "number": 7,
+      "filename": "20190316_133811.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/10_20190316_133811.jpg",
+      "original_bytes": 2512432,
+      "original_sha256": "ab9b676885886ce5aee2dae47f5f31b0478746ad3f5c2e7fe01c126c7bc7adaf",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_133811.jpg",
+      "site_filename": "20190316_133811.jpg",
+      "r2_key": "china-2019/shanghai/20190316_133811.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "12i9zMxzWEXG12hMcdsbIZVLa5Qd-rDm9"
+    },
+    {
+      "number": 13,
+      "filename": "20190316_140255.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/23_20190316_140255.jpg",
+      "original_bytes": 3702571,
+      "original_sha256": "ce92921771edf0045b681ad375710fe0a42dcbb31c1d29136c630f09309aecca",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_140255.jpg",
+      "site_filename": "20190316_140255.jpg",
+      "r2_key": "china-2019/shanghai/20190316_140255.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1-jja75UNDf_mRSKVh0QfvIM6wH4-YEg3"
+    },
+    {
+      "number": 16,
+      "filename": "20190316_162230.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/24_20190316_162230.jpg",
+      "original_bytes": 2922804,
+      "original_sha256": "afa4923822a3df8af4a929b1c2e1d421b7cd898572e26fafa552de1a78ea192a",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_162230.jpg",
+      "site_filename": "20190316_162230.jpg",
+      "r2_key": "china-2019/shanghai/20190316_162230.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1SCITZX3F8e0CNt03MjiAVRHCpqANmOo-"
+    },
+    {
+      "number": 17,
+      "filename": "20190316_163102.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/26_20190316_163102.jpg",
+      "original_bytes": 3859425,
+      "original_sha256": "4085aa75fb7491b8e694cada0291d3affe89388bcb86f39b81d5dcfdcb521ee5",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_163102.jpg",
+      "site_filename": "20190316_163102.jpg",
+      "r2_key": "china-2019/shanghai/20190316_163102.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1XA4u5Zjl5BmvgiWHeEf3b6XpzFUJZT_J"
+    },
+    {
+      "number": 18,
+      "filename": "20190316_163423.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/25_20190316_163423.jpg",
+      "original_bytes": 3327834,
+      "original_sha256": "e2c11965e17a723b5f6c61fc0fbdb6994fa07be6f26797baf9b9e9f5a47992a0",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_163423.jpg",
+      "site_filename": "20190316_163423.jpg",
+      "r2_key": "china-2019/shanghai/20190316_163423.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1RiOy1nEEju61yGf5vWZDGpPQEnAEOi87"
+    },
+    {
+      "number": 19,
+      "filename": "20190316_163627.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/28_20190316_163627.jpg",
+      "original_bytes": 1617100,
+      "original_sha256": "35c51e7a78394696d08bd04b164f40443fc32eaa1368fba39fa8f34a7a650f8c",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_163627.jpg",
+      "site_filename": "20190316_163627.jpg",
+      "r2_key": "china-2019/shanghai/20190316_163627.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1-T-NumRHd8c5JTOY6vLDP2ivrONRiaBu"
+    },
+    {
+      "number": 20,
+      "filename": "20190316_163741.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/27_20190316_163741.jpg",
+      "original_bytes": 1985750,
+      "original_sha256": "dfd34ea4c58a5e95d9d38471602d3b66c1abef699966648913540cc6b8d0172e",
+      "original_width": 2448,
+      "original_height": 3264,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_163741.jpg",
+      "site_filename": "20190316_163741.jpg",
+      "r2_key": "china-2019/shanghai/20190316_163741.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1Ze1WCQXG59MGZcRWN9A_HEcc5CF34XDJ"
+    },
+    {
+      "number": 21,
+      "filename": "20190316_190816.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/30_20190316_190816.jpg",
+      "original_bytes": 2215504,
+      "original_sha256": "4c308154d08ca5829b24c9db05225aca9c725ad65abd7311dddd4cf0065874e0",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_190816.jpg",
+      "site_filename": "20190316_190816.jpg",
+      "r2_key": "china-2019/shanghai/20190316_190816.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1kHSLMY-24cqdrXClMZ3KzVwpkiieE4Zq"
+    },
+    {
+      "number": 22,
+      "filename": "20190316_192642.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/31_20190316_192642.jpg",
+      "original_bytes": 1327940,
+      "original_sha256": "39620352bad1fa3abae458bf0c0aed775fc64d15a5ba531bf4a563a048ce71f1",
+      "original_width": 2448,
+      "original_height": 3264,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_192642.jpg",
+      "site_filename": "20190316_192642.jpg",
+      "r2_key": "china-2019/shanghai/20190316_192642.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1XS6Eu87g3d-efB3v8uUVZxXiyKCrkYhB"
+    },
+    {
+      "number": 25,
+      "filename": "20190316_193449.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/33_20190316_193449.jpg",
+      "original_bytes": 2323967,
+      "original_sha256": "2d05a0bd9c83f26379c553c6fff4d3f8c52006d343bdbd946ace21e127321854",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_193449.jpg",
+      "site_filename": "20190316_193449.jpg",
+      "r2_key": "china-2019/shanghai/20190316_193449.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1cef8PL4w_OarpstUYl4gPOT5Hv4bjdvC"
+    },
+    {
+      "number": 27,
+      "filename": "20190316_194644.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/34_20190316_194644.jpg",
+      "original_bytes": 3604262,
+      "original_sha256": "d7d955e7ef60af5f7c20ec60d544e4a20650738a3b56d334ca684baaaf21bde0",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_194644.jpg",
+      "site_filename": "20190316_194644.jpg",
+      "r2_key": "china-2019/shanghai/20190316_194644.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1eqOiihCDslEfU4VFQc0Xc3USa3HqFDAN"
+    },
+    {
+      "number": 28,
+      "filename": "20190316_194913.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/32_20190316_194913.jpg",
+      "original_bytes": 1805579,
+      "original_sha256": "c259997bb7942be6c9288013c62cde41a490be338da92f3486fa0412dcd772d2",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_194913.jpg",
+      "site_filename": "20190316_194913.jpg",
+      "r2_key": "china-2019/shanghai/20190316_194913.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1_zpL-t5e5BFoHM53DWTsjOvlpSlP1rOK"
+    },
+    {
+      "number": 30,
+      "filename": "IMG_2466.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/03_IMG_2466.JPG",
+      "original_bytes": 846040,
+      "original_sha256": "dd37a2e9607bd48a9e2fa417b75cb223b86ee92dd7ab240ac9c8c40206dc3f0d",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2466.JPG",
+      "site_filename": "IMG_2466.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2466.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1dvB0Ov5kVbV5FRu7tqA4Z4EflgNjRLoQ"
+    },
+    {
+      "number": 31,
+      "filename": "IMG_2476.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/04_IMG_2476.JPG",
+      "original_bytes": 1172370,
+      "original_sha256": "da1399fe9034f5203fe39ad2ce4f483366e4d599973d060b54342459a3e8ed1c",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2476.JPG",
+      "site_filename": "IMG_2476.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2476.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1zMMrWyPxcRNEjTYTVN0hzZx8NgB7pRdy"
+    },
+    {
+      "number": 33,
+      "filename": "IMG_2479.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/05_IMG_2479.JPG",
+      "original_bytes": 1516581,
+      "original_sha256": "5bedfc65833938d6fda909b99f4c9ecfbddfb242f8ac453291ab4b9ac5294d80",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2479.JPG",
+      "site_filename": "IMG_2479.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2479.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1yysNvR9KuqXiZdf7boXqTQ8dbVF2dx8I"
+    },
+    {
+      "number": 35,
+      "filename": "IMG_2486.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/02_IMG_2486.JPG",
+      "original_bytes": 1389892,
+      "original_sha256": "b1fd06aa18b78e0f77c7b28c3db15fbfac931d95c371a5de06e7869de814e87f",
+      "original_width": 2112,
+      "original_height": 2816,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2486.JPG",
+      "site_filename": "IMG_2486.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2486.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1uHEOtPnSfUbefHEZZkJJ2l25Wi50r9aY"
+    },
+    {
+      "number": 36,
+      "filename": "IMG_2491.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/07_IMG_2491.JPG",
+      "original_bytes": 1613072,
+      "original_sha256": "322d76b5cd81feb762c9bdc97a98f15dbb3fa92dbdcdc034f192703e0f132cd3",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2491.JPG",
+      "site_filename": "IMG_2491.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2491.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "17UQgtups3eJl6xrSJljqfT782gSBkyJe"
+    },
+    {
+      "number": 37,
+      "filename": "IMG_2492.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/06_IMG_2492.JPG",
+      "original_bytes": 1317043,
+      "original_sha256": "7b174ef3942806680cfc96bb52a5221d913ec3c6952941c4d2bea8b8c92f1baa",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2492.JPG",
+      "site_filename": "IMG_2492.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2492.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1xa8E7Cy-zw6tK34CLua1bOZ42MYiygTR"
+    },
+    {
+      "number": 38,
+      "filename": "IMG_2494.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/09_IMG_2494.JPG",
+      "original_bytes": 1566751,
+      "original_sha256": "2da0a4c2698ca25a2e34c16f57b97545b7f2cc2d577211c9d4bd8bc9535276eb",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2494.JPG",
+      "site_filename": "IMG_2494.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2494.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1NUL87VHb9bCSoa4uKyPlShiktZoKEuNw"
+    },
+    {
+      "number": 39,
+      "filename": "IMG_2501.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/12_IMG_2501.JPG",
+      "original_bytes": 1442674,
+      "original_sha256": "05826f89e865699607a6f06508752665222e2238aa5e3eaa8cad858875029c2e",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2501.JPG",
+      "site_filename": "IMG_2501.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2501.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1NIn9BCI8Gcw_qIkySNQpbys5lMLftcea"
+    },
+    {
+      "number": 40,
+      "filename": "IMG_2505.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/13_IMG_2505.JPG",
+      "original_bytes": 1535071,
+      "original_sha256": "d1ce459ce6dbeb5ab2357e9c7b71160618a920cfd10e1ff70f576226675320a2",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2505.JPG",
+      "site_filename": "IMG_2505.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2505.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1nK-rDoyW_nzfCkp6xWbEPdLoUejYbBYz"
+    },
+    {
+      "number": 41,
+      "filename": "IMG_2521.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/11_IMG_2521.JPG",
+      "original_bytes": 2078998,
+      "original_sha256": "b19e8c485216c9f54143c322d686dcb7ea4e90fab173b32ebce6463f0ec0b179",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2521.JPG",
+      "site_filename": "IMG_2521.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2521.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "13XPeM4Audofn6miSc3bSTvl9Gfo-w66Z"
+    },
+    {
+      "number": 42,
+      "filename": "IMG_2524.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/16_IMG_2524.JPG",
+      "original_bytes": 1340730,
+      "original_sha256": "13615437ad2d2e7b7d4fe8190ec3e609d34d8800e9c5ca929c97fbcb91304009",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2524.JPG",
+      "site_filename": "IMG_2524.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2524.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1D-6tplp5FhF_Q5YMNWboALXQa7oLY7oC"
+    },
+    {
+      "number": 43,
+      "filename": "IMG_2525.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/17_IMG_2525.JPG",
+      "original_bytes": 815649,
+      "original_sha256": "3ae629933ad0ddcf6bbc8c251f21167a65c6fb76902eff153bc102deda858652",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2525.JPG",
+      "site_filename": "IMG_2525.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2525.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1sjtgfF9-emZCsF2891JwoGoW5K33M0n1"
+    },
+    {
+      "number": 44,
+      "filename": "IMG_2528.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/15_IMG_2528.JPG",
+      "original_bytes": 1894563,
+      "original_sha256": "86d668d1577f64a40aefe97e3a23523fe1d78c6b4704581c5887975e5fc4295b",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2528.JPG",
+      "site_filename": "IMG_2528.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2528.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1TlQQeQMseAl5fqhNkB4sXDgZa-dg3GYO"
+    },
+    {
+      "number": 46,
+      "filename": "sh2.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/08_sh2.jpg",
+      "original_bytes": 1269620,
+      "original_sha256": "e955f8f7a7dea3bbee2dfd8d44fa2ecb80f22777a1e9da3c4883b488ddcd00b9",
+      "original_width": 1200,
+      "original_height": 963,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "sh2.jpg",
+      "site_filename": "sh2.jpg",
+      "r2_key": "china-2019/shanghai/sh2.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1TgzLvVA2dHvrCrw2RE9tY2fWa32PnsLk"
+    },
+    {
+      "number": 47,
+      "filename": "Sh3.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/21_Sh3.jpg",
+      "original_bytes": 1338541,
+      "original_sha256": "c35a71b54d8e0d7680d79bbb07f1bee585bd8668a40874304d076a1d1bb700ce",
+      "original_width": 1200,
+      "original_height": 963,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "Sh3.jpg",
+      "site_filename": "Sh3.jpg",
+      "r2_key": "china-2019/shanghai/Sh3.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "10caJq6GtfyWC6UfJ1IEnno_yOmUQ9AxH"
+    },
+    {
+      "number": 48,
+      "filename": "Sh5.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/22_Sh5.jpg",
+      "original_bytes": 1248654,
+      "original_sha256": "148e478252340a7c4f08059138c5ff36e78c38963fab8ac6c9fbb87a2092e1a0",
+      "original_width": 1200,
+      "original_height": 963,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "Sh5.jpg",
+      "site_filename": "Sh5.jpg",
+      "r2_key": "china-2019/shanghai/Sh5.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1sQlGTAOdXJqUrNlsOhyraDK9zr3WAdc9"
+    },
+    {
+      "number": 49,
+      "filename": "Sh8.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/29_Sh8.jpg",
+      "original_bytes": 1334724,
+      "original_sha256": "8507c0c20a54b96cde918f2d5d53b640d27d8638728fb6bf483d756e78a49b5d",
+      "original_width": 1200,
+      "original_height": 963,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "Sh8.jpg",
+      "site_filename": "Sh8.jpg",
+      "r2_key": "china-2019/shanghai/Sh8.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1jKMyFjDticYlswJs_wI8XQGN667tes0H"
+    },
+    {
+      "number": 34,
+      "filename": "IMG_2481.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/35_IMG_2481.JPG",
+      "original_bytes": 1151401,
+      "original_sha256": "b04a328f14f92ca89beafc18a054583532fe7e1efbf23345c389b84f3f1123d1",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2481.JPG",
+      "site_filename": "IMG_2481.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2481.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "View from the tower beside Mitya; daytime Pearl and three towers moved together to their exact author caption",
+      "drive_id": "1S9I-BfAUWZ88O9XmYurebb4hCV8DiqgT"
     }
   ],
   "folder_sync": {
@@ -17992,7 +19352,7 @@
         }
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T20:10:25.818Z",
+        "checked_at": "2026-10-12T20:36:57.302Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 11,
         "total": 11,
@@ -18161,7 +19521,7 @@
       "received_candidate_count": 76,
       "transferred_to_chapter5_count": 44,
       "drive_sync": {
-        "checked_at": "2026-10-12T20:10:25.836Z",
+        "checked_at": "2026-10-12T20:36:57.320Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 23,
         "total": 23,
@@ -18369,7 +19729,7 @@
         }
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T20:10:25.848Z",
+        "checked_at": "2026-10-12T20:36:57.332Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 34,
         "total": 34,
@@ -18515,7 +19875,7 @@
       "unused_count": 9,
       "selection_rationale": "Whole temple for cover; family and interiors by temple text, exercise and pavilions by park, streets by neighbourhood, market, station and museum by their paragraphs. Duplicate views retained in archive.",
       "drive_sync": {
-        "checked_at": "2026-10-12T20:10:25.858Z",
+        "checked_at": "2026-10-12T20:36:57.342Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 24,
         "total": 24,
@@ -18761,7 +20121,7 @@
       "unused_count": 19,
       "selection_rationale": "Owner explicitly placed DSC06884 entrance first in ritual block after paragraph1, followed by worshippers and incense. Hutong streets before paragraph1, Buddhas after paragraph2; owner-deleted DSC06931 omitted.",
       "drive_sync": {
-        "checked_at": "2026-10-12T20:10:25.870Z",
+        "checked_at": "2026-10-12T20:36:57.355Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 41,
         "total": 41,
@@ -19022,7 +20382,7 @@
       "drive_sync_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T20:10:25.883Z",
+        "checked_at": "2026-10-12T20:36:57.368Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 42,
         "total": 42,
@@ -19339,7 +20699,7 @@
       "stage": "verified-and-reviewed",
       "selection_review": "Owner cover IMG_2227; selected distinct scenes from 51 uploaded originals, train travel, museum, family, schoolchildren, city and evening food walk",
       "drive_sync": {
-        "checked_at": "2026-10-12T20:10:25.896Z",
+        "checked_at": "2026-10-12T20:36:57.380Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 46,
         "total": 46,
@@ -19613,7 +20973,7 @@
       "stage": "verified-and-reviewed",
       "selection_review": "Family IMG_2278 cover; owner museum collages retained at native size with exact text-linked exhibits, family portraits at pagoda and varied Tang show scenes",
       "drive_sync": {
-        "checked_at": "2026-10-12T20:10:25.906Z",
+        "checked_at": "2026-10-12T20:36:57.393Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 41,
         "total": 41,
@@ -19811,7 +21171,7 @@
       "r2_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T20:10:25.919Z",
+        "checked_at": "2026-10-12T20:36:57.404Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 29,
         "total": 29,
@@ -19840,7 +21200,7 @@
         "method": "Presentation crop only; lightbox opens full original display copy"
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T20:10:25.930Z",
+        "checked_at": "2026-10-12T20:36:57.413Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 1,
         "total": 1,
@@ -20158,7 +21518,7 @@
       "r2_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T20:10:25.945Z",
+        "checked_at": "2026-10-12T20:36:57.427Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 48,
         "total": 48,
@@ -20175,23 +21535,252 @@
     "shanghai": {
       "hero_image": "20190316_193310.jpg",
       "page_order": [
-        "20190316_193310.jpg"
+        "20190316_193310.jpg",
+        "IMG_2486.jpg",
+        "IMG_2481.jpg",
+        "IMG_2476.jpg",
+        "IMG_2479.jpg",
+        "IMG_2466.jpg",
+        "IMG_2492.jpg",
+        "IMG_2491.jpg",
+        "sh2.jpg",
+        "IMG_2494.jpg",
+        "20190316_133811.jpg",
+        "IMG_2521.jpg",
+        "IMG_2501.jpg",
+        "IMG_2505.jpg",
+        "20190316_131826.jpg",
+        "IMG_2528.jpg",
+        "IMG_2524.jpg",
+        "IMG_2525.jpg",
+        "20190316_133133.jpg",
+        "20190316_132948.jpg",
+        "20190316_132953.jpg",
+        "Sh3.jpg",
+        "Sh5.jpg",
+        "20190316_140255.jpg",
+        "20190316_162230.jpg",
+        "20190316_163423.jpg",
+        "20190316_163102.jpg",
+        "20190316_163741.jpg",
+        "20190316_163627.jpg",
+        "Sh8.jpg",
+        "20190316_190816.jpg",
+        "20190316_192642.jpg",
+        "20190316_194913.jpg",
+        "20190316_193449.jpg",
+        "20190316_194644.jpg"
       ],
-      "layout": {},
-      "original_count": 1,
-      "original_bytes": 2952047,
+      "layout": {
+        "after9": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2486.jpg",
+                "IMG_2481.jpg"
+              ]
+            }
+          ]
+        },
+        "after10": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2476.jpg",
+                "IMG_2479.jpg"
+              ]
+            }
+          ]
+        },
+        "after11": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2466.jpg",
+                "IMG_2492.jpg"
+              ]
+            }
+          ]
+        },
+        "after12": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2491.jpg"
+              ]
+            }
+          ]
+        },
+        "after13": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "sh2.jpg"
+              ]
+            }
+          ]
+        },
+        "after15": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2494.jpg",
+                "20190316_133811.jpg"
+              ]
+            }
+          ]
+        },
+        "after16": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2521.jpg"
+              ]
+            }
+          ]
+        },
+        "after17": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2501.jpg",
+                "IMG_2505.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190316_131826.jpg",
+                "IMG_2528.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2524.jpg",
+                "IMG_2525.jpg"
+              ]
+            }
+          ]
+        },
+        "after18": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190316_133133.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190316_132948.jpg",
+                "20190316_132953.jpg"
+              ]
+            }
+          ]
+        },
+        "after19": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "Sh3.jpg"
+              ]
+            }
+          ]
+        },
+        "after20": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "Sh5.jpg",
+                "20190316_140255.jpg"
+              ]
+            }
+          ]
+        },
+        "after22": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190316_162230.jpg",
+                "20190316_163423.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190316_163102.jpg",
+                "20190316_163741.jpg"
+              ]
+            }
+          ]
+        },
+        "after23": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190316_163627.jpg"
+              ]
+            }
+          ]
+        },
+        "after24": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "Sh8.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190316_190816.jpg",
+                "20190316_192642.jpg",
+                "20190316_194913.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190316_193449.jpg",
+                "20190316_194644.jpg"
+              ]
+            }
+          ]
+        }
+      },
+      "original_count": 35,
+      "original_bytes": 71307305,
       "originals_verified": true,
       "drive_sync_verified": true,
       "r2_verified": true,
-      "stage": "cover-verified-body-awaiting-photo-layout",
+      "stage": "verified-awaiting-final-publication",
       "drive_sync": {
-        "checked_at": "2026-10-12T20:10:25.954Z",
+        "checked_at": "2026-10-12T20:36:57.439Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
-        "ready": 1,
-        "total": 1,
+        "ready": 35,
+        "total": 35,
         "pending": []
       },
-      "page_review": "Owner 20190316_193310 cover selected; text unchanged"
+      "page_review": {
+        "author_text": "All 24 paragraphs unchanged",
+        "rendered_order": "35 assets including owner cover; collage constituent images omitted",
+        "desktop": "Whole-team garden image reviewed; daytime tower photographs tied to exact caption"
+      }
     }
   },
   "tripCover": {
@@ -22173,6 +23762,244 @@
       "source_batch": "chapter12-owner98",
       "status": "unused",
       "selection_reason": "Repeated view, constituent of selected collage or previous Longmen chapter photo; retained original"
+    },
+    {
+      "number": 6,
+      "filename": "20190316_133143.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_133143.jpg",
+      "original_bytes": 3192047,
+      "original_sha256": "b8c532c72824cf60ba39348600b43575168ab6cbe52c91cce5aee4925829c6dc",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_133143.jpg",
+      "site_filename": "20190316_133143.jpg",
+      "r2_key": "china-2019/shanghai/20190316_133143.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 8,
+      "filename": "20190316_135950.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_135950.jpg",
+      "original_bytes": 3113377,
+      "original_sha256": "96c2ac187489780385e490a4ee6679500fad9d663e5d4ff6a9a2e2ac569f7408",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_135950.jpg",
+      "site_filename": "20190316_135950.jpg",
+      "r2_key": "china-2019/shanghai/20190316_135950.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 9,
+      "filename": "20190316_140140.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_140140.jpg",
+      "original_bytes": 2926251,
+      "original_sha256": "182d4705a4b229941766fee7dc4688b73a283b11cf90a81e58e3565308935e0a",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_140140.jpg",
+      "site_filename": "20190316_140140.jpg",
+      "r2_key": "china-2019/shanghai/20190316_140140.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 10,
+      "filename": "20190316_140207.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_140207.jpg",
+      "original_bytes": 2733548,
+      "original_sha256": "7da1237ddad1c1dda2fab0a65e3c4b41afd3bacecb231445bc3023631e5bc706",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_140207.jpg",
+      "site_filename": "20190316_140207.jpg",
+      "r2_key": "china-2019/shanghai/20190316_140207.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 11,
+      "filename": "20190316_140211.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_140211.jpg",
+      "original_bytes": 3279814,
+      "original_sha256": "3f0cb1fcc89bba6b3c0496b33b93fe9e8580edc2cb7862e45e5e63a19a6f411e",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_140211.jpg",
+      "site_filename": "20190316_140211.jpg",
+      "r2_key": "china-2019/shanghai/20190316_140211.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 12,
+      "filename": "20190316_140222.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_140222.jpg",
+      "original_bytes": 3086231,
+      "original_sha256": "a826662c9b194ec69ff29b5ec36d53da82be1530bc45c3419b50e6261c9f0d4e",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_140222.jpg",
+      "site_filename": "20190316_140222.jpg",
+      "r2_key": "china-2019/shanghai/20190316_140222.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 14,
+      "filename": "20190316_144600.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_144600.jpg",
+      "original_bytes": 2084917,
+      "original_sha256": "5c35bf5f97829f1991abda8339760b81843ce2314259780af21bed0b849bd867",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_144600.jpg",
+      "site_filename": "20190316_144600.jpg",
+      "r2_key": "china-2019/shanghai/20190316_144600.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 15,
+      "filename": "20190316_154736.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_154736.jpg",
+      "original_bytes": 4328158,
+      "original_sha256": "b999ccab9fcd8914f16b85a3744c778d1e8a15058a8419f49f5e56f7b90df611",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_154736.jpg",
+      "site_filename": "20190316_154736.jpg",
+      "r2_key": "china-2019/shanghai/20190316_154736.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 23,
+      "filename": "20190316_192936.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_192936.jpg",
+      "original_bytes": 2830669,
+      "original_sha256": "cac2c2e8c049c4faa69b03082f7d8ec0a3c7a51f8adf75603ac4a8052f54ef66",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_192936.jpg",
+      "site_filename": "20190316_192936.jpg",
+      "r2_key": "china-2019/shanghai/20190316_192936.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 24,
+      "filename": "20190316_192940.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_192940.jpg",
+      "original_bytes": 2950732,
+      "original_sha256": "ec4e2cc38b93bbc2e6bce51c2a74776a84f8aff659e035b6c6359b33b7d99d43",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_192940.jpg",
+      "site_filename": "20190316_192940.jpg",
+      "r2_key": "china-2019/shanghai/20190316_192940.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 26,
+      "filename": "20190316_193515.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_193515.jpg",
+      "original_bytes": 2197965,
+      "original_sha256": "50a3ec66499bbe2254b0504b049efa3c96aee44073b79992d4a31ea4c2ac6613",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_193515.jpg",
+      "site_filename": "20190316_193515.jpg",
+      "r2_key": "china-2019/shanghai/20190316_193515.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 29,
+      "filename": "DSC07116.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_DSC07116.JPG",
+      "original_bytes": 3857053,
+      "original_sha256": "4499c3846bf4e079679dfb5b228ddf47132acf3dc63ad8c0a5e5d9c13737aad6",
+      "original_width": 3648,
+      "original_height": 2736,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "DSC07116.JPG",
+      "site_filename": "DSC07116.jpg",
+      "r2_key": "china-2019/shanghai/DSC07116.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 32,
+      "filename": "IMG_2478.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_IMG_2478.JPG",
+      "original_bytes": 1253002,
+      "original_sha256": "e0f81c8a6605307bf9bf389d2bbaf2147cbddcba900a10ccb3ea11db687d87cd",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2478.JPG",
+      "site_filename": "IMG_2478.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2478.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 45,
+      "filename": "Sh1.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_Sh1.jpg",
+      "original_bytes": 1158545,
+      "original_sha256": "3cd07b4b9219b813ca992de610e903236c3e86a3f3b662ffea8f6ed467605018",
+      "original_width": 1200,
+      "original_height": 963,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "Sh1.jpg",
+      "site_filename": "Sh1.jpg",
+      "r2_key": "china-2019/shanghai/Sh1.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
     }
   ],
   "chapter_candidates": {
@@ -23014,9 +24841,9 @@
     "Митя"
   ],
   "publication": {
-    "commit": "7d405a8",
+    "commit": "daae425",
     "url": "https://lelruca.github.io/FamilyTravelBlog/asia/china/china-2019/",
-    "scope": "Owner-authorized in-progress publication; photos complete through Hangzhou; Shanghai photos remain pending",
+    "scope": "Owner-authorized progress; complete photo layouts through Hangzhou plus owner-selected Shanghai chapter cover",
     "authorized_on": "2026-10-12"
   }
 }
