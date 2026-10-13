@@ -1,5 +1,5 @@
 ---
-title: "Virginia Beach - 2"
+title: "Океан"
 type: "trips"
 layout: "photo-story"
 weight: 40

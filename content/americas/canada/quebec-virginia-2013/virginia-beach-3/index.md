@@ -1,5 +1,5 @@
 ---
-title: "Virginia Beach - 3"
+title: "Музеи"
 type: "trips"
 layout: "photo-story"
 weight: 50

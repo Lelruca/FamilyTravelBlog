@@ -1,12 +1,11 @@
 ---
-title: "Virginia Beach - 1"
+title: "Вирджиния Бич"
 type: "trips"
 layout: "photo-story"
 weight: 30
 chapter_kind: "day"
 auto_gallery: false
-hero_image: "virginia-beach-2/costumes-001-restored.jpg"
-hero_card_fit: "contain"
+hero_image: "Family.jpg"
 places:
   - virginia-beach
 ---

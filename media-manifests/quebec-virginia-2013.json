@@ -3543,14 +3543,26 @@
       "sha256": "e94f777497a45ea3848c4fcd6d45662d00adca4acc9823d54bb407ae0a44dc10",
       "status": "owner-approved-restored",
       "displayLocation": "chapter-body"
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "Virginia Beach - 1",
+      "folder": "03 - Вирджиния Бич - 1",
+      "originalFilename": "Family.jpg",
+      "filename": "Family.jpg",
+      "archiveFile": "03 - Вирджиния Бич - 1/Family.jpg",
+      "bytes": 3347733,
+      "sha256": "e2b76e383960a5e6933306feefab6f70d3d3ebc39bafee7d6655ae92313a7e71",
+      "status": "owner-approved-expanded",
+      "displayLocation": "chapter-hero"
     }
   ],
   "archive": {
     "folder": "North America/2013 - Квебек и Вирджиния Бич",
-    "scannedAt": "2026-10-13T19:51:54.351Z",
-    "images": 94,
+    "scannedAt": "2026-10-13T20:02:14.578Z",
+    "images": 95,
     "unused": 0,
-    "bytes": 300295648,
+    "bytes": 303643381,
     "files": [
       {
         "archiveFile": "01 - Канадские игры/01_582243_10151758958153592_896812256_n.jpg",
@@ -4000,6 +4012,16 @@
         "height": 3672,
         "siteKeys": [
           "virginia-beach-1/DSC01066.jpg"
+        ]
+      },
+      {
+        "archiveFile": "03 - Вирджиния Бич - 1/Family.jpg",
+        "bytes": 3347733,
+        "sha256": "e2b76e383960a5e6933306feefab6f70d3d3ebc39bafee7d6655ae92313a7e71",
+        "width": 2752,
+        "height": 1536,
+        "siteKeys": [
+          "virginia-beach-1/Family.jpg"
         ]
       },
       {
@@ -4493,7 +4515,7 @@
     "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "longSideLimit": 2000,
     "preparedFrom": "Archived originals (archiveFile); EXIF rotation applied; no upscaling.",
-    "verifiedAt": "2026-10-13T19:51:54.351Z",
+    "verifiedAt": "2026-10-13T20:02:14.578Z",
     "photos": [
       {
         "key": "quebec-virginia-2013/canada-games/1098469_547262345339657_1612303871_n.jpg",
@@ -5601,6 +5623,18 @@
         "bytes": 610171,
         "sha256": "f6a26056d35609bf629cbc53f2a5b97bc36bbf4e7a6716a33aae10478b6ec941",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/quebec-virginia-2013/virginia-beach-2/costumes-003-restored.jpg"
+      },
+      {
+        "key": "quebec-virginia-2013/virginia-beach-1/Family.jpg",
+        "slug": "virginia-beach-1",
+        "filename": "Family.jpg",
+        "archiveFile": "03 - Вирджиния Бич - 1/Family.jpg",
+        "originalSha256": "e2b76e383960a5e6933306feefab6f70d3d3ebc39bafee7d6655ae92313a7e71",
+        "w": 2000,
+        "h": 1116,
+        "bytes": 574860,
+        "sha256": "bcb8abe7a3bf8a16840a0b461b3359d0f401636e71a2c565d4cf6cf715e94380",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/quebec-virginia-2013/virginia-beach-1/Family.jpg"
       }
     ],
     "verification": {
@@ -5723,9 +5757,9 @@
           "slug": "virginia-beach-1",
           "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-1/index.md",
           "route": "americas/canada/quebec-virginia-2013/virginia-beach-1",
-          "mdSha256": "36875db8264adcd5efdb8ff7320eb72fdc89c5829875bd809017c4dc18508f90",
+          "mdSha256": "bc2c672e907d9b61b529a4b9b3ff6526c607999110ded4be42948a01cb7eb691",
           "keys": [
-            "virginia-beach-2/costumes-001-restored.jpg",
+            "virginia-beach-1/Family.jpg",
             "virginia-beach-1/20130818_232622.jpg",
             "virginia-beach-1/20130820_230221.jpg",
             "virginia-beach-1/DSC00944.jpg",

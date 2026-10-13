@@ -4,6 +4,6 @@
 {{- $src := "" -}}
 {{- with $ch.Params.hero_image -}}{{- $src = partial "story-photo-url.html" (dict "page" $ch "name" . "size" "w1200") -}}{{- end -}}
 <a href="{{ $ch.RelPermalink }}" class="chapter-tile{{ if not $src }} no-photo{{ end }}">
-  {{- with $src }}<img referrerpolicy="no-referrer" src="{{ . }}" alt="" loading="lazy"{{ if or $ch.Params.hero_card_position $ch.Params.hero_card_fit }} style="{{ with $ch.Params.hero_card_position }}object-position: {{ . }};{{ end }}{{ with $ch.Params.hero_card_fit }}object-fit: {{ . }};{{ end }}"{{ end }}>{{ end }}
+  {{- with $src }}<img referrerpolicy="no-referrer" src="{{ . }}" alt="" loading="lazy"{{ with $ch.Params.hero_card_position }} style="object-position: {{ . }};"{{ end }}>{{ end }}
   <h2 class="chapter-tile-title">{{ partial "chapter-short-title.html" $ch }}</h2>
 </a>
