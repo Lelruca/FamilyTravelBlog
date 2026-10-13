@@ -5,7 +5,8 @@ layout: "photo-story"
 weight: 30
 chapter_kind: "day"
 auto_gallery: false
-hero_image: "DSC00893.jpg"
+hero_image: "virginia-beach-2/costumes-001-restored.jpg"
+hero_card_fit: "contain"
 places:
   - virginia-beach
 ---

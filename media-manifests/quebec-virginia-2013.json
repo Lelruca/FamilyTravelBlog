@@ -3547,7 +3547,7 @@
   ],
   "archive": {
     "folder": "North America/2013 - Квебек и Вирджиния Бич",
-    "scannedAt": "2026-10-13T18:40:31.391Z",
+    "scannedAt": "2026-10-13T19:51:54.351Z",
     "images": 94,
     "unused": 0,
     "bytes": 300295648,
@@ -4493,7 +4493,7 @@
     "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "longSideLimit": 2000,
     "preparedFrom": "Archived originals (archiveFile); EXIF rotation applied; no upscaling.",
-    "verifiedAt": "2026-10-13T18:40:31.391Z",
+    "verifiedAt": "2026-10-13T19:51:54.351Z",
     "photos": [
       {
         "key": "quebec-virginia-2013/canada-games/1098469_547262345339657_1612303871_n.jpg",
@@ -5723,9 +5723,9 @@
           "slug": "virginia-beach-1",
           "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-1/index.md",
           "route": "americas/canada/quebec-virginia-2013/virginia-beach-1",
-          "mdSha256": "ce8e7bd246e8411dd0c8c031b2a927b3f64400335e9a3b26286cbb6cf11668d1",
+          "mdSha256": "36875db8264adcd5efdb8ff7320eb72fdc89c5829875bd809017c4dc18508f90",
           "keys": [
-            "virginia-beach-1/DSC00893.jpg",
+            "virginia-beach-2/costumes-001-restored.jpg",
             "virginia-beach-1/20130818_232622.jpg",
             "virginia-beach-1/20130820_230221.jpg",
             "virginia-beach-1/DSC00944.jpg",
@@ -5751,7 +5751,7 @@
           "slug": "virginia-beach-2",
           "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-2/index.md",
           "route": "americas/canada/quebec-virginia-2013/virginia-beach-2",
-          "mdSha256": "86a399ed2a7da8b9e8213972ef95d030bf36018899e291ea8ac15008e7d9aa85",
+          "mdSha256": "e3c84cfcedd0289f1f35ae09ce538d6a84eee4937a8dd4f3116b515f95be2cca",
           "keys": [
             "virginia-beach-2/DSC00972.jpg",
             "virginia-beach-2/DSC00972.jpg",
