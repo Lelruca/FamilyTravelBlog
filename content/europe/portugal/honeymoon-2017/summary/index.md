@@ -6,6 +6,7 @@ weight: 180
 chapter_kind: "day"
 draft: false
 auto_gallery: false
+compact_trip_ratings: true
 hero_card_position: "center top"
 hero_image: "Capture.JPG"
 ---
