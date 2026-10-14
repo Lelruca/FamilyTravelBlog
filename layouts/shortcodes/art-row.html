@@ -1,0 +1,22 @@
+{{- $page := .Page -}}{{- $names := split (.Get 0) " " -}}{{- $items := slice -}}{{- $sum := 0.0 -}}
+{{- range $names -}}
+  {{- $ratio := partial "story-photo-ratio.html" (dict "page" $page "name" .) -}}
+  {{- $items = $items | append (dict "name" . "r" $ratio) -}}{{- $sum = add $sum $ratio -}}
+{{- end -}}
+<style>
+.art-photo .art-label{font-family:inherit;font-size:14px;font-weight:400;font-style:normal;line-height:1.35;color:#202020;white-space:pre-line;margin:8px 0 0}
+.art-photo .art-label.on-wall{position:absolute;z-index:1;top:8px;left:8px;right:8px;text-align:center;margin:0;pointer-events:none}
+@media(max-width:700px){.art-photo .art-label{font-size:12px}.art-photo .art-label.on-wall{top:5px}}
+</style>
+<div class="essay-group"><div class="essay-row" style="--rs:{{ $sum }};--rn:{{ sub (len $items) 1 }}">
+{{- range $items -}}
+ {{- $name := .name -}}{{- $info := index (index site.Data.photos $page.Parent.File.ContentBaseName) (partial "story-photo-key.html" (dict "page" $page "name" $name)) -}}
+ {{- $url := partial "story-photo-url.html" (dict "page" $page "name" $name) -}}
+ <figure class="essay-photo art-photo" style="--g:{{ mul .r 1000 }};--ms:{{ div .r $sum }};--mk:{{ sub (len $items) 1 }};margin:0;background:transparent;overflow:visible">
+  <a href="{{ $url }}" data-photo-lightbox data-photo-alt="{{ $info.caption }}" style="display:block;position:relative;aspect-ratio:{{ .r }};overflow:hidden;border-radius:2px"><img referrerpolicy="no-referrer" src="{{ $url }}" alt="{{ $info.caption }}" loading="lazy" style="object-fit:contain">
+   {{ if eq $info.caption_position "top" }}<span class="art-label on-wall">{{ $info.caption }}</span>{{ end }}
+  </a>
+  {{ if ne $info.caption_position "top" }}{{ with $info.caption }}<figcaption class="art-label">{{ . }}</figcaption>{{ end }}{{ end }}
+ </figure>
+{{- end -}}
+</div></div>

@@ -17,7 +17,7 @@ body:has(#country-explorer) .site-bar summary{color:#1E293B;}
 /* A scrollable continent selector and country cards provide large tap targets. */
 #country-explorer .toolbar{flex-wrap:nowrap;overflow-x:auto;max-width:100%;touch-action:pan-x pan-y;scrollbar-width:thin;}
 #country-explorer .toolbar button{flex:none;white-space:nowrap;min-height:44px;border-radius:20px;padding:10px 16px;}
-#country-explorer .toolbar button.active{background:#2A9D8F;color:#fff;}
+#country-explorer .toolbar button.active,#country-explorer .toolbar button[aria-pressed="true"]{background:#2A9D8F;color:#fff;}
 #country-explorer .toolbar button:disabled{color:#64748B;opacity:.55;cursor:default;}
 #country-explorer .map{height:auto;aspect-ratio:360/155;touch-action:pan-y;}
 #country-explorer .map:not(.world){aspect-ratio:88/55;}

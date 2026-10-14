@@ -12,7 +12,7 @@ geo_countries:
   - "china"
 cover_title: "Китай - первый раз в Азию!"
 cover_when: "Март 2019"
-cover_who: "Ома, Сергей, Леле и Митя"
+cover_who: "Ома, Сергей, Леля и Митя"
 ---
 
 <style>

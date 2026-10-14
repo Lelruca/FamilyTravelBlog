@@ -3,6 +3,7 @@
 {{- range .Data.Terms.Alphabetical }}
   {{- $p := .Page -}}
   {{- $country := $p.Params.country | default (index (last 1 (split $p.Title ", ")) 0) -}}
+  {{- if eq $country "Нидерланды" }}{{ $country = "Голландия (Нидерланды)" }}{{ end -}}
   {{- if eq $country "Лондон" }}{{ $country = "Англия" }}{{ end -}}
   {{- $countries = $countries | append $country -}}
   {{- $slug := path.Base $p.File.Dir -}}

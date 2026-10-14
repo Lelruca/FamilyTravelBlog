@@ -1,0 +1,72 @@
+{{- /* One row of photos of equal height that fills the photo zone exactly (DESIGN_PHOTOS.md «Фотоблоки»).
+       {{< row "IMG_7253.jpg 20160820_153316.jpg" >}}
+       Optional: caption="text" capfor="IMG_7253.jpg" — a caption line directly under that photo.
+       The row starts at the common left edge; if at full width it would be taller than the screen allows,
+       it gets narrower (--rs / --rn, see layouts/trips/photo-story.html). Small originals keep their size. */ -}}
+{{- $names := split (trim (.Get "items" | default (.Get 0)) " ") " " -}}
+{{- $page := .Page -}}
+{{- $items := slice -}}
+{{- $sum := 0.0 -}}
+{{- $minHeight := 100000.0 -}}
+{{- range $names -}}
+  {{- if . -}}
+    {{- $r := partial "story-photo-ratio.html" (dict "page" $page "name" .) -}}
+    {{- $info := index (index site.Data.photos $page.Parent.File.ContentBaseName) (partial "story-photo-key.html" (dict "page" $page "name" .)) -}}
+    {{- $minHeight = math.Min $minHeight (float $info.h) -}}
+    {{- $items = $items | append (dict "name" . "r" $r) -}}
+    {{- $sum = add $sum $r -}}
+  {{- end -}}
+{{- end -}}
+{{- $n := len $items -}}
+{{- $gap := 12.0 -}}
+{{- $capfor := .Get "capfor" -}}
+{{- /* On a phone a wide row would get too low: split it, in order, into lines of total ratio ≤ 3
+       (e.g. landscape + square | landscape). Each line still fills the width at equal height. */ -}}
+{{- $lines := slice -}}
+{{- if or (le $sum 3.0) (lt $n 2) -}}
+  {{- $lines = slice (dict "items" $items "sum" $sum) -}}
+{{- else if le $sum 6.0 -}}
+  {{- /* two lines, split where their heights come out closest */ -}}
+  {{- $best := 1 -}}{{- $bestDiff := 1000.0 -}}{{- $pre := 0.0 -}}
+  {{- range $i, $it := first (sub $n 1) $items -}}
+    {{- $pre = add $pre $it.r -}}
+    {{- $d := math.Abs (sub $pre (sub $sum $pre)) -}}
+    {{- if lt $d $bestDiff -}}{{- $bestDiff = $d -}}{{- $best = add $i 1 -}}{{- end -}}
+  {{- end -}}
+  {{- $a := first $best $items -}}{{- $b := after $best $items -}}
+  {{- $sa := 0.0 -}}{{- range $a -}}{{- $sa = add $sa .r -}}{{- end -}}
+  {{- $lines = slice (dict "items" $a "sum" $sa) (dict "items" $b "sum" (sub $sum $sa)) -}}
+{{- else -}}
+  {{- /* very long rows: fill lines up to ratio 3 */ -}}
+  {{- $cur := slice -}}{{- $acc := 0.0 -}}
+  {{- range $items -}}
+    {{- if and (gt (len $cur) 0) (gt (add $acc .r) 3.0) -}}
+      {{- $lines = $lines | append (slice (dict "items" $cur "sum" $acc)) -}}{{- $cur = slice -}}{{- $acc = 0.0 -}}
+    {{- end -}}
+    {{- $cur = $cur | append . -}}{{- $acc = add $acc .r -}}
+  {{- end -}}
+  {{- $lines = $lines | append (slice (dict "items" $cur "sum" $acc)) -}}
+{{- end -}}
+{{- /* Keep small maps and archive illustrations at their native size. */ -}}
+{{- $nativeWidth := add (mul $minHeight $sum) (mul $gap (sub $n 1)) -}}
+<div class="essay-group"><div class="essay-row" style="--rs:{{ $sum }};--rn:{{ sub $n 1 }}{{ if lt $nativeWidth 1080.0 }};max-width:{{ $nativeWidth }}px{{ end }}">
+{{- range $line := $lines -}}
+  {{- range $line.items -}}
+    {{- $url := partial "story-photo-url.html" (dict "page" $page "name" .name) -}}
+    {{- $info := index (index site.Data.photos $page.Parent.File.ContentBaseName) (partial "story-photo-key.html" (dict "page" $page "name" .name)) -}}
+    {{- $caption := $info.caption | default "" -}}
+    <figure class="essay-photo exhibit" style="--g:{{ mul .r 1000 }};--ms:{{ div .r $line.sum }};--mk:{{ sub (len $line.items) 1 }};margin:0;background:transparent;overflow:visible">
+      <a href="{{ $url }}" data-photo-lightbox data-photo-alt="{{ $caption }}" style="display:block;position:relative;aspect-ratio:{{ .r }};overflow:hidden;border-radius:2px"><img referrerpolicy="no-referrer" src="{{ $url }}" alt="{{ $caption }}" loading="lazy"></a>
+      {{ with $caption }}<figcaption class="exhibit-label">{{ . }}</figcaption>{{ end }}
+    </figure>
+  {{- end -}}
+{{- end -}}
+</div>
+{{- with .Get "caption" -}}
+  {{- $before := 0.0 -}}{{- $k := 0 -}}{{- $w := 0.0 -}}
+  {{- range $i, $it := $items -}}
+    {{- if eq $it.name $capfor -}}{{- $k = $i -}}{{- $w = $it.r -}}{{- else if not $w -}}{{- $before = add $before $it.r -}}{{- end -}}
+  {{- end -}}
+  <p class="essay-cap" style="width:min(100%,calc(var(--cap-h) * {{ $sum }} + var(--essay-gap) * {{ sub $n 1 }}))"><span style="margin-left:calc((100% - {{ mul $gap (sub $n 1) }}px) * {{ div $before $sum }} + {{ mul $gap $k }}px);width:calc((100% - {{ mul $gap (sub $n 1) }}px) * {{ div $w $sum }})">{{ . }}</span></p>
+{{- end -}}
+</div>

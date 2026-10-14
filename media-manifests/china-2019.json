@@ -2,7 +2,7 @@
   "trip": "china-2019",
   "title": "2019 весна: Китай - первый раз в Азию!",
   "contentDir": "content/asia/china/china-2019",
-  "status": "draft-chapters2-through12-media-verified-other-chapters-await-owner-photos",
+  "status": "all-chapters-media-verified",
   "source": {
     "report_filename": "2019 весна_ Китай - первый раз в Азию.docx",
     "report_sha256": "65087b25c0bd0cf6eda533209bff344fc3536842399d10676b101cc896ee615d",
@@ -34,7 +34,7 @@
   "archive_verified": false,
   "drive_sync_verified": false,
   "r2": {
-    "status": "selected-chapter-copies-verified",
+    "status": "verified",
     "publicBase": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "photos": [
       {
@@ -7539,9 +7539,1615 @@
         "public_bytes": 691686,
         "public_sha256": "7cc1601a8efc3c26e869cef52328b00fdeefcd1117d8b24ac6069a0a1ee9de0e",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/hangzhou/20190315_221418.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_193310.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/24_20190316_193310.jpg",
+        "original_sha256": "803aaf978811a1d15531235b637c5c717d5ab5d95cac9c8374e3efd33ce3f714",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 346354,
+        "sha256": "8d256021d85e6b79cdd0eeac92fb3ae92a4a27d2b8a9a311ad5c3510d465ca94",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 346354,
+        "public_sha256": "8d256021d85e6b79cdd0eeac92fb3ae92a4a27d2b8a9a311ad5c3510d465ca94",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_193310.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_190816.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/19_20190316_190816.jpg",
+        "original_sha256": "4c308154d08ca5829b24c9db05225aca9c725ad65abd7311dddd4cf0065874e0",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 272481,
+        "sha256": "c7b3f647adab2cf5ca11fcc163f23dd5a3e2e0638375d99c96d03fcff0c163b4",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 272481,
+        "public_sha256": "c7b3f647adab2cf5ca11fcc163f23dd5a3e2e0638375d99c96d03fcff0c163b4",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_190816.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_192642.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/20_20190316_192642.jpg",
+        "original_sha256": "39620352bad1fa3abae458bf0c0aed775fc64d15a5ba531bf4a563a048ce71f1",
+        "w": 1500,
+        "h": 2000,
+        "bytes": 401659,
+        "sha256": "4a494b4345268c591af135e6c41c969d902ef1dabf07faa272745c73506d5931",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 401659,
+        "public_sha256": "4a494b4345268c591af135e6c41c969d902ef1dabf07faa272745c73506d5931",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_192642.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_193449.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/21_20190316_193449.jpg",
+        "original_sha256": "2d05a0bd9c83f26379c553c6fff4d3f8c52006d343bdbd946ace21e127321854",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 307269,
+        "sha256": "4e8abba1da276b85e661c902b50dc4440cfb606dfb3007600bc1236f2d09098e",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 307269,
+        "public_sha256": "4e8abba1da276b85e661c902b50dc4440cfb606dfb3007600bc1236f2d09098e",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_193449.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_194644.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/22_20190316_194644.jpg",
+        "original_sha256": "d7d955e7ef60af5f7c20ec60d544e4a20650738a3b56d334ca684baaaf21bde0",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 495777,
+        "sha256": "c07d376da19b058e20c4cfbe294b56f4a02623c60dc3d2dd26c585dd92753791",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 495777,
+        "public_sha256": "c07d376da19b058e20c4cfbe294b56f4a02623c60dc3d2dd26c585dd92753791",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_194644.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_194913.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/23_20190316_194913.jpg",
+        "original_sha256": "c259997bb7942be6c9288013c62cde41a490be338da92f3486fa0412dcd772d2",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 224339,
+        "sha256": "81962d6b5f3003365669e3608a28b30e94f3d610e0536b51c02f059a4ed57d87",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 224339,
+        "public_sha256": "81962d6b5f3003365669e3608a28b30e94f3d610e0536b51c02f059a4ed57d87",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_194913.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/20190317_101516.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/16_20190317_101516.jpg",
+        "original_sha256": "a08a4b6c64eba52245c30034f50f33736a984fa0d0bc089a72f21f0b982d8f33",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 735616,
+        "sha256": "b082f12c45e33f8b0b9cb33c6f280c22d29e44959dadb7f70523f2ef482733cc",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 735616,
+        "public_sha256": "b082f12c45e33f8b0b9cb33c6f280c22d29e44959dadb7f70523f2ef482733cc",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/20190317_101516.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/20190317_102359.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/17_20190317_102359.jpg",
+        "original_sha256": "281286fa08b92f7ed9175c6af97c4afb8078edbc5033f656b0b4264e40ce8761",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 892914,
+        "sha256": "325206db6141a80f207c814aa97a383a90bdbe37cb93789278bad7f4ae701a83",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 892914,
+        "public_sha256": "325206db6141a80f207c814aa97a383a90bdbe37cb93789278bad7f4ae701a83",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/20190317_102359.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/20190317_102517.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/02_20190317_102517.jpg",
+        "original_sha256": "80633101a382bc85b73be06018bfe85b86c40afecde7a62c86323f9c8d5cb4a8",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 586343,
+        "sha256": "0db6b06a7a117a46588ebc687d16cc0538d6dc2fd7af9fa9fa4527f9f75edf8d",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 586343,
+        "public_sha256": "0db6b06a7a117a46588ebc687d16cc0538d6dc2fd7af9fa9fa4527f9f75edf8d",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/20190317_102517.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/20190317_104528.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/04_20190317_104528.jpg",
+        "original_sha256": "e5715afcdaaeb1b112821e90ad9b5f42d7dfec8bbfd685becece953659861a34",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 316405,
+        "sha256": "898c7f26e8f8d15c3ebeb58137d6d9a6c6f5afbdd1ab24bc9e866ea4e8881f53",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 316405,
+        "public_sha256": "898c7f26e8f8d15c3ebeb58137d6d9a6c6f5afbdd1ab24bc9e866ea4e8881f53",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/20190317_104528.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/20190317_104657.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/05_20190317_104657.jpg",
+        "original_sha256": "085c18487aa00f5307023945a8de0eba0f20dc4990f4abff04c6b86b17a18b05",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 356102,
+        "sha256": "5e126e6ea54407da73d6510b3cfc654d0b1ace6caa9759218f44872ab83b05e1",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 356102,
+        "public_sha256": "5e126e6ea54407da73d6510b3cfc654d0b1ace6caa9759218f44872ab83b05e1",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/20190317_104657.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/20190317_105334.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/10_20190317_105334.jpg",
+        "original_sha256": "d784af0c8a7fae8ba564bca20a2e21d5c34cae42b838665789c1c8518cd166e7",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 328646,
+        "sha256": "2573b97bae808e98046b4ed8335c49e05721e01630b48f82f1f78303bc8e7683",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 328646,
+        "public_sha256": "2573b97bae808e98046b4ed8335c49e05721e01630b48f82f1f78303bc8e7683",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/20190317_105334.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/20190317_105552.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/06_20190317_105552.jpg",
+        "original_sha256": "719d9e0876cf3079e20dd8719389b3fc2157b36bb7b10893121fd49eb904f93c",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 298812,
+        "sha256": "02999715de1aaf0167b29636201092342f5be811b226767589c7167bfd1d3b6b",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 298812,
+        "public_sha256": "02999715de1aaf0167b29636201092342f5be811b226767589c7167bfd1d3b6b",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/20190317_105552.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/20190317_105605.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/07_20190317_105605.jpg",
+        "original_sha256": "4275a13e363b0a69a622507bedd27a30d25dc7044730293099690db7dc16a475",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 210979,
+        "sha256": "896205d1cf86394ed3d8709eb920057e80eae321b8fb3f6397102d63bbad5d06",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 210979,
+        "public_sha256": "896205d1cf86394ed3d8709eb920057e80eae321b8fb3f6397102d63bbad5d06",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/20190317_105605.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/20190317_111517.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/12_20190317_111517.jpg",
+        "original_sha256": "6ce565ae629a928989001c58a1a97a101033767d5b0ff05a88ee3437b31264c3",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 260624,
+        "sha256": "3309c38a805ce88af8232987819405a3d17b46067f782f704ac8156d91f39b39",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 260624,
+        "public_sha256": "3309c38a805ce88af8232987819405a3d17b46067f782f704ac8156d91f39b39",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/20190317_111517.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/20190317_113703.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/18_20190317_113703.jpg",
+        "original_sha256": "2a77a9ae93fbf1dcc999ce464b1b3bb156e65c9ab831db0544a9b796c591814d",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 453505,
+        "sha256": "ebe7f0fda2f3f0673a41dc19c6c1fd691bd23f4090a45247298a53ac391f6667",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 453505,
+        "public_sha256": "ebe7f0fda2f3f0673a41dc19c6c1fd691bd23f4090a45247298a53ac391f6667",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/20190317_113703.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/Ancient-Patinated-Bronze-Ritual-Vessel.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/01_Ancient Patinated Bronze Ritual Vessel.png",
+        "original_sha256": "a869513fa58484270840f1f458bc0fdc6e08bb770b3aeebfdaf35bdd03705b91",
+        "w": 1448,
+        "h": 1086,
+        "bytes": 393304,
+        "sha256": "2a13f9dcdd48e17fd494311d25f87d219bb16be1d75c1c64cbf1aa5c9765eab2",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 393304,
+        "public_sha256": "2a13f9dcdd48e17fd494311d25f87d219bb16be1d75c1c64cbf1aa5c9765eab2",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/Ancient-Patinated-Bronze-Ritual-Vessel.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/DSC07120.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/03_DSC07120.JPG",
+        "original_sha256": "4c0e7a0d68edb6acbac4625e9e2fed25315ae01eb245c1a26a1464544db98751",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 554683,
+        "sha256": "97d93c746001c207db93fa78d726e5d6db7d73c6b5b0e9781bb0e43a101a0f80",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 554683,
+        "public_sha256": "97d93c746001c207db93fa78d726e5d6db7d73c6b5b0e9781bb0e43a101a0f80",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/DSC07120.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/DSC07130.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/08_DSC07130.JPG",
+        "original_sha256": "0b12654245335ae333ca690e83f63c8da584ca884d6fe3a59ae54f586c8192a8",
+        "w": 1500,
+        "h": 2000,
+        "bytes": 297963,
+        "sha256": "56414e50f6834da5b3992a04b7e95bcaf4a391bfc95ef55268e8502c07d0bca5",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 297963,
+        "public_sha256": "56414e50f6834da5b3992a04b7e95bcaf4a391bfc95ef55268e8502c07d0bca5",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/DSC07130.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/DSC07138.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/09_DSC07138.JPG",
+        "original_sha256": "067da59e4cdf4b9cb5b279e206dc2a8850f0c303ff9bccd0253620f3581fea7c",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 324723,
+        "sha256": "83ead876f49f0d90fc85a84f9ac9e932e48be1b49191eeb98d0f78a6e2381666",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 324723,
+        "public_sha256": "83ead876f49f0d90fc85a84f9ac9e932e48be1b49191eeb98d0f78a6e2381666",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/DSC07138.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/DSC07152.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/13_DSC07152.JPG",
+        "original_sha256": "c2babbf32a6ae59b3768e664b99227d804c889301917fcd5121549ee75d28fd0",
+        "w": 1500,
+        "h": 2000,
+        "bytes": 321399,
+        "sha256": "902fbea8dfc6ba5133fb2d09dd162b72e1e5844cc6347f442f6af8fa9f4b8535",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 321399,
+        "public_sha256": "902fbea8dfc6ba5133fb2d09dd162b72e1e5844cc6347f442f6af8fa9f4b8535",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/DSC07152.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/DSC07153.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/14_DSC07153.JPG",
+        "original_sha256": "f1287bfe72270b741b965a0c4d774bae6c854c64e97ba0894ceda6e6d2921adf",
+        "w": 1500,
+        "h": 2000,
+        "bytes": 369408,
+        "sha256": "86abd08e910cfcfc3a27fe0b5eb3f3dfd38e28de152e4b85bbe8aaeda5170b04",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 369408,
+        "public_sha256": "86abd08e910cfcfc3a27fe0b5eb3f3dfd38e28de152e4b85bbe8aaeda5170b04",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/DSC07153.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/DSC07154.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/15_DSC07154.JPG",
+        "original_sha256": "12bac5c169b001a5a2433a3c0048b979e0db58f26ba189655b16a598072ba5d4",
+        "w": 1500,
+        "h": 2000,
+        "bytes": 270060,
+        "sha256": "748967f85b981e55162fe284091160a67df88aec141420f73da87478f567dd85",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 270060,
+        "public_sha256": "748967f85b981e55162fe284091160a67df88aec141420f73da87478f567dd85",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/DSC07154.jpg"
+      },
+      {
+        "key": "china-2019/shanghai-museum-bund/DSC07160.jpg",
+        "chapter": "shanghai-museum-bund",
+        "archiveFile": "14 - Шанхай - музей и набережная/11_DSC07160.JPG",
+        "original_sha256": "0d9049a86bd371961889a5d6d58b9f1f327dfced81a91f87127fea1daa9d4933",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 234503,
+        "sha256": "b21004996de03ce328df767dc3d016a4e8e108803052150a474b2f0423253116",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 234503,
+        "public_sha256": "b21004996de03ce328df767dc3d016a4e8e108803052150a474b2f0423253116",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai-museum-bund/DSC07160.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_131826.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/14_20190316_131826.jpg",
+        "original_sha256": "c0607f563768e773c9f07e82075375b1072dcafe88ba3ba6220194caf542d971",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 718291,
+        "sha256": "32d3020ea99dadafbc1af9d8d55f6701c68bfbd0909f25c96cb74d6710b29601",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 718291,
+        "public_sha256": "32d3020ea99dadafbc1af9d8d55f6701c68bfbd0909f25c96cb74d6710b29601",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_131826.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_132948.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/19_20190316_132948.jpg",
+        "original_sha256": "b065a4e2574a512762b411625c4fafff835d69ee3e9b62fd32478d89a9363124",
+        "w": 1500,
+        "h": 2000,
+        "bytes": 526787,
+        "sha256": "930529cc2103b6df5776b83321ef2b7bed05aa53ebaf8bf32c26326965960ddd",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 526787,
+        "public_sha256": "930529cc2103b6df5776b83321ef2b7bed05aa53ebaf8bf32c26326965960ddd",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_132948.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_132953.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/20_20190316_132953.jpg",
+        "original_sha256": "e6c4b8d6136b9c8ab02bfa8ed5f5d602a43718f371a3304a44f32b60bae89886",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 485983,
+        "sha256": "f77055c8775f8db37d49a32b08cc5617df0ddb3f47f16dad53414fd113bf6bf4",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 485983,
+        "public_sha256": "f77055c8775f8db37d49a32b08cc5617df0ddb3f47f16dad53414fd113bf6bf4",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_132953.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_133133.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/18_20190316_133133.jpg",
+        "original_sha256": "5a974f2cc6ae932284e6ccd08166013bd6d48782dd3cf0ef1f03fc6482d6f6b3",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 626760,
+        "sha256": "9265e8e670b9501173842a6a532236bbcc6d000408269a34e9955489be6848ab",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 626760,
+        "public_sha256": "9265e8e670b9501173842a6a532236bbcc6d000408269a34e9955489be6848ab",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_133133.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_133811.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/10_20190316_133811.jpg",
+        "original_sha256": "ab9b676885886ce5aee2dae47f5f31b0478746ad3f5c2e7fe01c126c7bc7adaf",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 385777,
+        "sha256": "d5d1fd6b72d8125e6855f3d4ebd20e23b5a77a3de97a44728fa340f93c115f5a",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 385777,
+        "public_sha256": "d5d1fd6b72d8125e6855f3d4ebd20e23b5a77a3de97a44728fa340f93c115f5a",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_133811.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_140255.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/23_20190316_140255.jpg",
+        "original_sha256": "ce92921771edf0045b681ad375710fe0a42dcbb31c1d29136c630f09309aecca",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 651817,
+        "sha256": "17d2434aa06256d083dc4dff429ccd8c0a2fcf3f0859ef11748d82f156668d3e",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 651817,
+        "public_sha256": "17d2434aa06256d083dc4dff429ccd8c0a2fcf3f0859ef11748d82f156668d3e",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_140255.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_162230.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/24_20190316_162230.jpg",
+        "original_sha256": "afa4923822a3df8af4a929b1c2e1d421b7cd898572e26fafa552de1a78ea192a",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 457085,
+        "sha256": "0b86334db63e37d27989dd2f9e4aaf4ef119fa920bf10f0801d6b51a4335b4ca",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 457085,
+        "public_sha256": "0b86334db63e37d27989dd2f9e4aaf4ef119fa920bf10f0801d6b51a4335b4ca",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_162230.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_163102.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/26_20190316_163102.jpg",
+        "original_sha256": "4085aa75fb7491b8e694cada0291d3affe89388bcb86f39b81d5dcfdcb521ee5",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 586595,
+        "sha256": "31bbffd734467f7f23ff1705402aac7b0922b5fe0e0b5b6528fd7418e0b23d08",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 586595,
+        "public_sha256": "31bbffd734467f7f23ff1705402aac7b0922b5fe0e0b5b6528fd7418e0b23d08",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_163102.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_163423.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/25_20190316_163423.jpg",
+        "original_sha256": "e2c11965e17a723b5f6c61fc0fbdb6994fa07be6f26797baf9b9e9f5a47992a0",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 516359,
+        "sha256": "67566ae223586f34e67b525ab82c9b63a4b6d13e1560497d35acc521997b4bf7",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 516359,
+        "public_sha256": "67566ae223586f34e67b525ab82c9b63a4b6d13e1560497d35acc521997b4bf7",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_163423.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_163627.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/28_20190316_163627.jpg",
+        "original_sha256": "35c51e7a78394696d08bd04b164f40443fc32eaa1368fba39fa8f34a7a650f8c",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 266243,
+        "sha256": "1da430e037ad501391d0128819581f37030912fab458eebdd1fa0d376d6e4308",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 266243,
+        "public_sha256": "1da430e037ad501391d0128819581f37030912fab458eebdd1fa0d376d6e4308",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_163627.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/20190316_163741.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/27_20190316_163741.jpg",
+        "original_sha256": "dfd34ea4c58a5e95d9d38471602d3b66c1abef699966648913540cc6b8d0172e",
+        "w": 1500,
+        "h": 2000,
+        "bytes": 468074,
+        "sha256": "6bf29078db4994bf9b256bda8d780e11254bdb06e040d18ed0530297a2513d70",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 468074,
+        "public_sha256": "6bf29078db4994bf9b256bda8d780e11254bdb06e040d18ed0530297a2513d70",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/20190316_163741.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2466.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/03_IMG_2466.JPG",
+        "original_sha256": "dd37a2e9607bd48a9e2fa417b75cb223b86ee92dd7ab240ac9c8c40206dc3f0d",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 196741,
+        "sha256": "aefb2ee649ebb12465c5871af4498f7da0890d9fd7bc82d2e1f16f40784ff4f9",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 196741,
+        "public_sha256": "aefb2ee649ebb12465c5871af4498f7da0890d9fd7bc82d2e1f16f40784ff4f9",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2466.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2476.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/04_IMG_2476.JPG",
+        "original_sha256": "da1399fe9034f5203fe39ad2ce4f483366e4d599973d060b54342459a3e8ed1c",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 352652,
+        "sha256": "93d6718cfbe96723bca30ff23a51339f25f4713ca20bb894bd2717ec3fd3c7df",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 352652,
+        "public_sha256": "93d6718cfbe96723bca30ff23a51339f25f4713ca20bb894bd2717ec3fd3c7df",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2476.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2479.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/05_IMG_2479.JPG",
+        "original_sha256": "5bedfc65833938d6fda909b99f4c9ecfbddfb242f8ac453291ab4b9ac5294d80",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 499506,
+        "sha256": "dedafa45527776e5e2180c825a1adb72fc7e8a899ec7a58d12b07a8eab4317d8",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 499506,
+        "public_sha256": "dedafa45527776e5e2180c825a1adb72fc7e8a899ec7a58d12b07a8eab4317d8",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2479.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2486.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/02_IMG_2486.JPG",
+        "original_sha256": "b1fd06aa18b78e0f77c7b28c3db15fbfac931d95c371a5de06e7869de814e87f",
+        "w": 1500,
+        "h": 2000,
+        "bytes": 453337,
+        "sha256": "74614cf1bdd5e5b34bd784faf3a1cdfeeee8e18519ce24d36ccca55f602e38ae",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 453337,
+        "public_sha256": "74614cf1bdd5e5b34bd784faf3a1cdfeeee8e18519ce24d36ccca55f602e38ae",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2486.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2491.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/07_IMG_2491.JPG",
+        "original_sha256": "322d76b5cd81feb762c9bdc97a98f15dbb3fa92dbdcdc034f192703e0f132cd3",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 526760,
+        "sha256": "4c3e9dda70a48b8ff521e34a2d69bc0b7c05046721a73f1c28fa443d7c41d188",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 526760,
+        "public_sha256": "4c3e9dda70a48b8ff521e34a2d69bc0b7c05046721a73f1c28fa443d7c41d188",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2491.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2492.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/06_IMG_2492.JPG",
+        "original_sha256": "7b174ef3942806680cfc96bb52a5221d913ec3c6952941c4d2bea8b8c92f1baa",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 419142,
+        "sha256": "d5277df7d48439653002db50c5db85757af891de3b04e78222228c7266789c9f",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 419142,
+        "public_sha256": "d5277df7d48439653002db50c5db85757af891de3b04e78222228c7266789c9f",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2492.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2494.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/09_IMG_2494.JPG",
+        "original_sha256": "2da0a4c2698ca25a2e34c16f57b97545b7f2cc2d577211c9d4bd8bc9535276eb",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 541265,
+        "sha256": "8b8c4605f52ec0e1c2016779fcb402f31e5cbf2741fe52aa9bc3be3f61c778d5",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 541265,
+        "public_sha256": "8b8c4605f52ec0e1c2016779fcb402f31e5cbf2741fe52aa9bc3be3f61c778d5",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2494.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2501.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/12_IMG_2501.JPG",
+        "original_sha256": "05826f89e865699607a6f06508752665222e2238aa5e3eaa8cad858875029c2e",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 499914,
+        "sha256": "5892554892008583bf3c494e3df4cf2a6450b0b5e2f1c10d496d99d7ae5942a8",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 499914,
+        "public_sha256": "5892554892008583bf3c494e3df4cf2a6450b0b5e2f1c10d496d99d7ae5942a8",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2501.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2505.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/13_IMG_2505.JPG",
+        "original_sha256": "d1ce459ce6dbeb5ab2357e9c7b71160618a920cfd10e1ff70f576226675320a2",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 505028,
+        "sha256": "d14e1fea20b4a61955ecc2d2793c05fe803ed27b57b75723a0aa5463a7e7679b",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 505028,
+        "public_sha256": "d14e1fea20b4a61955ecc2d2793c05fe803ed27b57b75723a0aa5463a7e7679b",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2505.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2521.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/11_IMG_2521.JPG",
+        "original_sha256": "b19e8c485216c9f54143c322d686dcb7ea4e90fab173b32ebce6463f0ec0b179",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 721297,
+        "sha256": "3c961fb87690f2c62e602ad5b4f107c9aacc9ec15a2a84f83b07285b60e43b73",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 721297,
+        "public_sha256": "3c961fb87690f2c62e602ad5b4f107c9aacc9ec15a2a84f83b07285b60e43b73",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2521.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2524.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/16_IMG_2524.JPG",
+        "original_sha256": "13615437ad2d2e7b7d4fe8190ec3e609d34d8800e9c5ca929c97fbcb91304009",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 382910,
+        "sha256": "18121a1a232b9f869f97120ad1d70b4179d6296d69df7adb07ede1ad2a6216b5",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 382910,
+        "public_sha256": "18121a1a232b9f869f97120ad1d70b4179d6296d69df7adb07ede1ad2a6216b5",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2524.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2525.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/17_IMG_2525.JPG",
+        "original_sha256": "3ae629933ad0ddcf6bbc8c251f21167a65c6fb76902eff153bc102deda858652",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 180810,
+        "sha256": "f9a0771b604ff045000d3916dee7dc99806d06247f8513d66444cd14f5b4dc4b",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 180810,
+        "public_sha256": "f9a0771b604ff045000d3916dee7dc99806d06247f8513d66444cd14f5b4dc4b",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2525.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2528.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/15_IMG_2528.JPG",
+        "original_sha256": "86d668d1577f64a40aefe97e3a23523fe1d78c6b4704581c5887975e5fc4295b",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 620126,
+        "sha256": "39fd806e18d04903709cb9942a6b8ce3bb246dc234a948f8b0b3c831bc886c17",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 620126,
+        "public_sha256": "39fd806e18d04903709cb9942a6b8ce3bb246dc234a948f8b0b3c831bc886c17",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2528.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/sh2.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/08_sh2.jpg",
+        "original_sha256": "e955f8f7a7dea3bbee2dfd8d44fa2ecb80f22777a1e9da3c4883b488ddcd00b9",
+        "w": 1200,
+        "h": 963,
+        "bytes": 219296,
+        "sha256": "69af5145adc25f1bd0bc34ed427c3b88ef48abf42b1e090ddd77159eac5f1e81",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 219296,
+        "public_sha256": "69af5145adc25f1bd0bc34ed427c3b88ef48abf42b1e090ddd77159eac5f1e81",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/sh2.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/Sh3.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/21_Sh3.jpg",
+        "original_sha256": "c35a71b54d8e0d7680d79bbb07f1bee585bd8668a40874304d076a1d1bb700ce",
+        "w": 1200,
+        "h": 963,
+        "bytes": 282327,
+        "sha256": "946eb012dd26116de330b34343890c65d329b8bef8b04fb11ecc4cb0bda3b56b",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 282327,
+        "public_sha256": "946eb012dd26116de330b34343890c65d329b8bef8b04fb11ecc4cb0bda3b56b",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/Sh3.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/Sh5.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/22_Sh5.jpg",
+        "original_sha256": "148e478252340a7c4f08059138c5ff36e78c38963fab8ac6c9fbb87a2092e1a0",
+        "w": 1200,
+        "h": 963,
+        "bytes": 257525,
+        "sha256": "e6485c93ec2c4655f3074d688a6ead5cef698c292fc4c1699dc523d08a70b2e5",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 257525,
+        "public_sha256": "e6485c93ec2c4655f3074d688a6ead5cef698c292fc4c1699dc523d08a70b2e5",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/Sh5.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/Sh8.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/29_Sh8.jpg",
+        "original_sha256": "8507c0c20a54b96cde918f2d5d53b640d27d8638728fb6bf483d756e78a49b5d",
+        "w": 1200,
+        "h": 963,
+        "bytes": 298774,
+        "sha256": "f4a0d83227e54dfbdcb4ef2c9874f65caa6b15429bda4fc15d9c91eeb4df3753",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 298774,
+        "public_sha256": "f4a0d83227e54dfbdcb4ef2c9874f65caa6b15429bda4fc15d9c91eeb4df3753",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/Sh8.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2481.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/35_IMG_2481.JPG",
+        "original_sha256": "b04a328f14f92ca89beafc18a054583532fe7e1efbf23345c389b84f3f1123d1",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 349475,
+        "sha256": "3d2f220ee0704aa1c05ef6129c5feab4c28fccf10fdbbbe4d900fbc0c7bb4d6c",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 349475,
+        "public_sha256": "3d2f220ee0704aa1c05ef6129c5feab4c28fccf10fdbbbe4d900fbc0c7bb4d6c",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2481.jpg"
+      },
+      {
+        "key": "china-2019/shanghai/IMG_2478.jpg",
+        "chapter": "shanghai",
+        "archiveFile": "13 - Шанхай - первое знакомство и... Пушкин/36_IMG_2478.JPG",
+        "original_sha256": "e0f81c8a6605307bf9bf389d2bbaf2147cbddcba900a10ccb3ea11db687d87cd",
+        "w": 2000,
+        "h": 1500,
+        "bytes": 384664,
+        "sha256": "ab9971a5eb25cff665f695e831f259018b8657b47d7c164164a848401ca4d390",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 384664,
+        "public_sha256": "ab9971a5eb25cff665f695e831f259018b8657b47d7c164164a848401ca4d390",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/shanghai/IMG_2478.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_105446.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/02_20190318_105446.jpg",
+        "original_sha256": "d1cf87bd1b1fdb5b158b33c536352f26343156388f3fbc0b5e4f56fb8433a46e",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 560527,
+        "sha256": "9ae7f5c7e3fa2afc289afcd3b6389fb14f38e66f1102b87e63ace8f624cefd47",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 560527,
+        "public_sha256": "9ae7f5c7e3fa2afc289afcd3b6389fb14f38e66f1102b87e63ace8f624cefd47",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_105446.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_110414.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/03_20190318_110414.jpg",
+        "original_sha256": "330a31d52a709fa4444a59aba112c18b1c1a3a3d879409267c3fbed8c09b719a",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 328488,
+        "sha256": "725ba35f9ea8514891aa85472db015ee3a456d0c53ccd199f8912c80e1631516",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 328488,
+        "public_sha256": "725ba35f9ea8514891aa85472db015ee3a456d0c53ccd199f8912c80e1631516",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_110414.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_110631.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/04_20190318_110631.jpg",
+        "original_sha256": "2cf9a318b94e495bebb380a1eb36432b07f37e32c3cd206908934b403ebba08e",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 607860,
+        "sha256": "30564ff03dfc6b9cc21df6250a57e507701fc5d8953c910f04f7ec07eef24d02",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 607860,
+        "public_sha256": "30564ff03dfc6b9cc21df6250a57e507701fc5d8953c910f04f7ec07eef24d02",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_110631.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_111718.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/05_20190318_111718.jpg",
+        "original_sha256": "1459071861f48c7f26d1d1ec99f1cefe15df5de31b54c2a5690c56b0d7152065",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 512090,
+        "sha256": "f10c5d8d9c5d03f321adad160e2b949c24fb2e8c35975f8b893b38a29b31bf63",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 512090,
+        "public_sha256": "f10c5d8d9c5d03f321adad160e2b949c24fb2e8c35975f8b893b38a29b31bf63",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_111718.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_111801.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/06_20190318_111801.jpg",
+        "original_sha256": "5523b62a42549fd2053672ff8d8e30b685c5d1176517c357fedce10f6e7e978a",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 708751,
+        "sha256": "a54999a96ff34976e0e253f850bec634b6dd1f2ce6395aea5d98960871cb5442",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 708751,
+        "public_sha256": "a54999a96ff34976e0e253f850bec634b6dd1f2ce6395aea5d98960871cb5442",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_111801.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_111854.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/07_20190318_111854.jpg",
+        "original_sha256": "6d5537ec1685eec7a8abda04fd169cc586e944970caa932f81b5af659288c7dd",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 503278,
+        "sha256": "ed136f5a1c30cf08aef0f26da9aa366906c244362582df3c3b46bc27fcbf4f7a",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 503278,
+        "public_sha256": "ed136f5a1c30cf08aef0f26da9aa366906c244362582df3c3b46bc27fcbf4f7a",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_111854.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_112957.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/08_20190318_112957.jpg",
+        "original_sha256": "a4b119e2310ded07a653e40cd533e6edc4686f0d2114130477714b30850919ba",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 202232,
+        "sha256": "26817cd8c7af54bf7edc235b1329d2e000ee911406473c84279b2260385b6294",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 202232,
+        "public_sha256": "26817cd8c7af54bf7edc235b1329d2e000ee911406473c84279b2260385b6294",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_112957.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_113616.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/09_20190318_113616.jpg",
+        "original_sha256": "89e7566669f2146b7e80f83fe33391ede1e4e1a1d0812de031bbe84a6be59c34",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 235432,
+        "sha256": "dcbfc200df027e0d05296feb5869eb5386290c8b630073bc9497e4b3c7eacd8c",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 235432,
+        "public_sha256": "dcbfc200df027e0d05296feb5869eb5386290c8b630073bc9497e4b3c7eacd8c",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_113616.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_115520.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/10_20190318_115520.jpg",
+        "original_sha256": "7f7fb682934ee80a6b1345e2c36b96518fae8204ced26ab232e22ef97d1738cf",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 727947,
+        "sha256": "fd9d7d89bd5e5c5c814cecaf5868cc9b12be026f1ebe25c99d0cc3d17c84cbfc",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 727947,
+        "public_sha256": "fd9d7d89bd5e5c5c814cecaf5868cc9b12be026f1ebe25c99d0cc3d17c84cbfc",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_115520.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_120042.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/11_20190318_120042.jpg",
+        "original_sha256": "05718ff774f109aa3514cd7d65089424a97bb169a9d864770285d08ab9279bf3",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 684910,
+        "sha256": "cd3c54ddcba550491117358255ee9ce40a16f1866aacbf9ec951df8367dc7c2c",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 684910,
+        "public_sha256": "cd3c54ddcba550491117358255ee9ce40a16f1866aacbf9ec951df8367dc7c2c",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_120042.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_120119.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/12_20190318_120119.jpg",
+        "original_sha256": "84cad1701017b25c08b61547f117c35d82f97fc31f11aeb0ff3a87ea2df08e3f",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 973488,
+        "sha256": "d4b37013829aff800d62c5e15aea4f53b04e3f11be5b72f5bb0341df37c61cb9",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 973488,
+        "public_sha256": "d4b37013829aff800d62c5e15aea4f53b04e3f11be5b72f5bb0341df37c61cb9",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_120119.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_120211.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/13_20190318_120211.jpg",
+        "original_sha256": "ca1999b9ad216fc832ba911788f581833314dd081bfd3ff769a8b787dfdff7a2",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 821041,
+        "sha256": "0e05d776569b8f2b242a3e9f1ed2d81af58228bc9a60f5f56aab5bf03de7b9bc",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 821041,
+        "public_sha256": "0e05d776569b8f2b242a3e9f1ed2d81af58228bc9a60f5f56aab5bf03de7b9bc",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_120211.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_123637.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/14_20190318_123637.jpg",
+        "original_sha256": "5bac6b433409caaccd7025e2bd6699d7aada55ee2763d87b1ae4e02297a9fffd",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 817677,
+        "sha256": "9a8f977f659351bc22034e28e9fb05470e572e1c6e4f184f0d0d030b01b4eb6a",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 817677,
+        "public_sha256": "9a8f977f659351bc22034e28e9fb05470e572e1c6e4f184f0d0d030b01b4eb6a",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_123637.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_125348.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/15_20190318_125348.jpg",
+        "original_sha256": "9e5d85324aee1d75a93a7ec82651b41fadc6dd8e8d6241c91bfcf2bbe044e00c",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 421729,
+        "sha256": "cbba52c8a5a339efc76532f3085d30cc2f560ce713ac77e6d1cf9cb76c7bff2e",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 421729,
+        "public_sha256": "cbba52c8a5a339efc76532f3085d30cc2f560ce713ac77e6d1cf9cb76c7bff2e",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_125348.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190318_130200.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/16_20190318_130200.jpg",
+        "original_sha256": "4a8c1ddb846d3bbdb912548229533b10335515fbd03a5bfe65ea81538d556b32",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 449021,
+        "sha256": "dd6c9150c6a06e7d0eea9de61d8edb5bbd2419c1e870e6803ea3eae46fd1c6e1",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 449021,
+        "public_sha256": "dd6c9150c6a06e7d0eea9de61d8edb5bbd2419c1e870e6803ea3eae46fd1c6e1",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190318_130200.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190319_125542.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/17_20190319_125542.jpg",
+        "original_sha256": "62ab1ccb813c466c4c72e02173f69883a9886106605165ed64fdabb00ccb93f1",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 413178,
+        "sha256": "ef798240249b9d0a19fb4f84e0b358604120af415c27282e09a250df48d9b75b",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 413178,
+        "public_sha256": "ef798240249b9d0a19fb4f84e0b358604120af415c27282e09a250df48d9b75b",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190319_125542.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/20190319_132457.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/18_20190319_132457.jpg",
+        "original_sha256": "01391816d60f50a488c6a0e31a8ae425e89f5db0d26bd7703082a8f589d56a6c",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 531008,
+        "sha256": "456967c823bc13ce3d5fef4445b3f88e4740022adbab93291b86ca824ce6fa87",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 531008,
+        "public_sha256": "456967c823bc13ce3d5fef4445b3f88e4740022adbab93291b86ca824ce6fa87",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/20190319_132457.jpg"
+      },
+      {
+        "key": "china-2019/disney-conclusion/Father-Son-Day-at-the-Futuristic-Pavilion.jpg",
+        "chapter": "disney-conclusion",
+        "archiveFile": "15 - Шанхай - Диснейленд и и заключение/01_Father-Son Day at the Futuristic Pavilion.png",
+        "original_sha256": "64e1f85194c7bdb2676be2ac7beaefdabc215a14376062171f9a1ad8fde5c105",
+        "w": 1448,
+        "h": 1086,
+        "bytes": 328835,
+        "sha256": "784ad5eb74e30403f3144f5ac2d09dd3efb41cbdeb257ad7ef3fb108820598e1",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 328835,
+        "public_sha256": "784ad5eb74e30403f3144f5ac2d09dd3efb41cbdeb257ad7ef3fb108820598e1",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/disney-conclusion/Father-Son-Day-at-the-Futuristic-Pavilion.jpg"
+      },
+      {
+        "key": "china-2019/visas/1791780274900.jpg",
+        "chapter": "visas",
+        "archiveFile": "01 - Китай - визы/01_1791780274900.jpg",
+        "original_sha256": "3880e63b7d66bbec39b604decdd34a5a0abc36b9871759c3f102b3d7d80f1078",
+        "w": 1264,
+        "h": 848,
+        "bytes": 176032,
+        "sha256": "eb97b0e8a6457c41d803c003c3e5a27c5d0c63d8d0f1c975af2bbeebd5e53648",
+        "recipe": {
+          "tool": "Pillow",
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_verified": true,
+        "public_bytes": 176032,
+        "public_sha256": "eb97b0e8a6457c41d803c003c3e5a27c5d0c63d8d0f1c975af2bbeebd5e53648",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/china-2019/visas/1791780274900.jpg"
       }
     ],
-    "verified_at": "2026-10-12T04:16:11.497207+00:00",
+    "verified_at": "2026-10-12T21:53:57.694809+00:00",
     "retired_photos": [
       {
         "key": "china-2019/qianmen-duck/IMG_1702.jpg",
@@ -17883,6 +19489,1318 @@
       "status": "selected",
       "selection_reason": "Distinct episode or owner collage; constituent images not repeated separately",
       "drive_id": "15K3e_85zydL_LAtwPzG4yzWCtNCYx7jl"
+    },
+    {
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190316_193310.jpg",
+      "site_filename": "20190316_193310.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/24_20190316_193310.jpg",
+      "original_bytes": 2952047,
+      "original_sha256": "803aaf978811a1d15531235b637c5c717d5ab5d95cac9c8374e3efd33ce3f714",
+      "original_width": 4032,
+      "original_height": 2268,
+      "r2_key": "china-2019/shanghai/20190316_193310.jpg",
+      "status": "selected",
+      "source_batch": "chapter13-owner-cover",
+      "selection_reason": "Owner explicitly selected 20190316_193310 as chapter cover",
+      "drive_id": "1iOt-fn5ruJMxA7eMQpLNAmdIDgqsDUjZ"
+    },
+    {
+      "number": 2,
+      "filename": "20190316_131826.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/14_20190316_131826.jpg",
+      "original_bytes": 3679908,
+      "original_sha256": "c0607f563768e773c9f07e82075375b1072dcafe88ba3ba6220194caf542d971",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_131826.jpg",
+      "site_filename": "20190316_131826.jpg",
+      "r2_key": "china-2019/shanghai/20190316_131826.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1fNNy40qar6trtl562H7GVAMZSPbCKehL"
+    },
+    {
+      "number": 3,
+      "filename": "20190316_132948.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/19_20190316_132948.jpg",
+      "original_bytes": 1717051,
+      "original_sha256": "b065a4e2574a512762b411625c4fafff835d69ee3e9b62fd32478d89a9363124",
+      "original_width": 2448,
+      "original_height": 3264,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_132948.jpg",
+      "site_filename": "20190316_132948.jpg",
+      "r2_key": "china-2019/shanghai/20190316_132948.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1_M_lBM_Wbee3nrqI_WCo9hmPrAql-vbd"
+    },
+    {
+      "number": 4,
+      "filename": "20190316_132953.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/20_20190316_132953.jpg",
+      "original_bytes": 3318642,
+      "original_sha256": "e6c4b8d6136b9c8ab02bfa8ed5f5d602a43718f371a3304a44f32b60bae89886",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_132953.jpg",
+      "site_filename": "20190316_132953.jpg",
+      "r2_key": "china-2019/shanghai/20190316_132953.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1y9tBBDkdSr3fkS6fJtVlaflunWwsrAVb"
+    },
+    {
+      "number": 5,
+      "filename": "20190316_133133.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/18_20190316_133133.jpg",
+      "original_bytes": 3562115,
+      "original_sha256": "5a974f2cc6ae932284e6ccd08166013bd6d48782dd3cf0ef1f03fc6482d6f6b3",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_133133.jpg",
+      "site_filename": "20190316_133133.jpg",
+      "r2_key": "china-2019/shanghai/20190316_133133.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1Qcru4R_JWT8n1J6hoxXb_LsZygSz-KUp"
+    },
+    {
+      "number": 7,
+      "filename": "20190316_133811.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/10_20190316_133811.jpg",
+      "original_bytes": 2512432,
+      "original_sha256": "ab9b676885886ce5aee2dae47f5f31b0478746ad3f5c2e7fe01c126c7bc7adaf",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_133811.jpg",
+      "site_filename": "20190316_133811.jpg",
+      "r2_key": "china-2019/shanghai/20190316_133811.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "12i9zMxzWEXG12hMcdsbIZVLa5Qd-rDm9"
+    },
+    {
+      "number": 13,
+      "filename": "20190316_140255.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/23_20190316_140255.jpg",
+      "original_bytes": 3702571,
+      "original_sha256": "ce92921771edf0045b681ad375710fe0a42dcbb31c1d29136c630f09309aecca",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_140255.jpg",
+      "site_filename": "20190316_140255.jpg",
+      "r2_key": "china-2019/shanghai/20190316_140255.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1-jja75UNDf_mRSKVh0QfvIM6wH4-YEg3"
+    },
+    {
+      "number": 16,
+      "filename": "20190316_162230.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/24_20190316_162230.jpg",
+      "original_bytes": 2922804,
+      "original_sha256": "afa4923822a3df8af4a929b1c2e1d421b7cd898572e26fafa552de1a78ea192a",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_162230.jpg",
+      "site_filename": "20190316_162230.jpg",
+      "r2_key": "china-2019/shanghai/20190316_162230.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1SCITZX3F8e0CNt03MjiAVRHCpqANmOo-"
+    },
+    {
+      "number": 17,
+      "filename": "20190316_163102.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/26_20190316_163102.jpg",
+      "original_bytes": 3859425,
+      "original_sha256": "4085aa75fb7491b8e694cada0291d3affe89388bcb86f39b81d5dcfdcb521ee5",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_163102.jpg",
+      "site_filename": "20190316_163102.jpg",
+      "r2_key": "china-2019/shanghai/20190316_163102.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1XA4u5Zjl5BmvgiWHeEf3b6XpzFUJZT_J"
+    },
+    {
+      "number": 18,
+      "filename": "20190316_163423.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/25_20190316_163423.jpg",
+      "original_bytes": 3327834,
+      "original_sha256": "e2c11965e17a723b5f6c61fc0fbdb6994fa07be6f26797baf9b9e9f5a47992a0",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_163423.jpg",
+      "site_filename": "20190316_163423.jpg",
+      "r2_key": "china-2019/shanghai/20190316_163423.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1RiOy1nEEju61yGf5vWZDGpPQEnAEOi87"
+    },
+    {
+      "number": 19,
+      "filename": "20190316_163627.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/28_20190316_163627.jpg",
+      "original_bytes": 1617100,
+      "original_sha256": "35c51e7a78394696d08bd04b164f40443fc32eaa1368fba39fa8f34a7a650f8c",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_163627.jpg",
+      "site_filename": "20190316_163627.jpg",
+      "r2_key": "china-2019/shanghai/20190316_163627.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1-T-NumRHd8c5JTOY6vLDP2ivrONRiaBu"
+    },
+    {
+      "number": 20,
+      "filename": "20190316_163741.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/27_20190316_163741.jpg",
+      "original_bytes": 1985750,
+      "original_sha256": "dfd34ea4c58a5e95d9d38471602d3b66c1abef699966648913540cc6b8d0172e",
+      "original_width": 2448,
+      "original_height": 3264,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_163741.jpg",
+      "site_filename": "20190316_163741.jpg",
+      "r2_key": "china-2019/shanghai/20190316_163741.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1Ze1WCQXG59MGZcRWN9A_HEcc5CF34XDJ"
+    },
+    {
+      "number": 21,
+      "filename": "20190316_190816.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/19_20190316_190816.jpg",
+      "original_bytes": 2215504,
+      "original_sha256": "4c308154d08ca5829b24c9db05225aca9c725ad65abd7311dddd4cf0065874e0",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190316_190816.jpg",
+      "site_filename": "20190316_190816.jpg",
+      "r2_key": "china-2019/shanghai/20190316_190816.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Owner requested all Bund night photos moved to chapter14",
+      "drive_id": "1kHSLMY-24cqdrXClMZ3KzVwpkiieE4Zq"
+    },
+    {
+      "number": 22,
+      "filename": "20190316_192642.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/20_20190316_192642.jpg",
+      "original_bytes": 1327940,
+      "original_sha256": "39620352bad1fa3abae458bf0c0aed775fc64d15a5ba531bf4a563a048ce71f1",
+      "original_width": 2448,
+      "original_height": 3264,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190316_192642.jpg",
+      "site_filename": "20190316_192642.jpg",
+      "r2_key": "china-2019/shanghai/20190316_192642.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Owner requested all Bund night photos moved to chapter14",
+      "drive_id": "1XS6Eu87g3d-efB3v8uUVZxXiyKCrkYhB"
+    },
+    {
+      "number": 25,
+      "filename": "20190316_193449.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/21_20190316_193449.jpg",
+      "original_bytes": 2323967,
+      "original_sha256": "2d05a0bd9c83f26379c553c6fff4d3f8c52006d343bdbd946ace21e127321854",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190316_193449.jpg",
+      "site_filename": "20190316_193449.jpg",
+      "r2_key": "china-2019/shanghai/20190316_193449.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Owner requested all Bund night photos moved to chapter14",
+      "drive_id": "1cef8PL4w_OarpstUYl4gPOT5Hv4bjdvC"
+    },
+    {
+      "number": 27,
+      "filename": "20190316_194644.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/22_20190316_194644.jpg",
+      "original_bytes": 3604262,
+      "original_sha256": "d7d955e7ef60af5f7c20ec60d544e4a20650738a3b56d334ca684baaaf21bde0",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190316_194644.jpg",
+      "site_filename": "20190316_194644.jpg",
+      "r2_key": "china-2019/shanghai/20190316_194644.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Owner requested all Bund night photos moved to chapter14",
+      "drive_id": "1eqOiihCDslEfU4VFQc0Xc3USa3HqFDAN"
+    },
+    {
+      "number": 28,
+      "filename": "20190316_194913.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/23_20190316_194913.jpg",
+      "original_bytes": 1805579,
+      "original_sha256": "c259997bb7942be6c9288013c62cde41a490be338da92f3486fa0412dcd772d2",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190316_194913.jpg",
+      "site_filename": "20190316_194913.jpg",
+      "r2_key": "china-2019/shanghai/20190316_194913.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Owner requested all Bund night photos moved to chapter14",
+      "drive_id": "1_zpL-t5e5BFoHM53DWTsjOvlpSlP1rOK"
+    },
+    {
+      "number": 30,
+      "filename": "IMG_2466.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/03_IMG_2466.JPG",
+      "original_bytes": 846040,
+      "original_sha256": "dd37a2e9607bd48a9e2fa417b75cb223b86ee92dd7ab240ac9c8c40206dc3f0d",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2466.JPG",
+      "site_filename": "IMG_2466.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2466.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1dvB0Ov5kVbV5FRu7tqA4Z4EflgNjRLoQ"
+    },
+    {
+      "number": 31,
+      "filename": "IMG_2476.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/04_IMG_2476.JPG",
+      "original_bytes": 1172370,
+      "original_sha256": "da1399fe9034f5203fe39ad2ce4f483366e4d599973d060b54342459a3e8ed1c",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2476.JPG",
+      "site_filename": "IMG_2476.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2476.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1zMMrWyPxcRNEjTYTVN0hzZx8NgB7pRdy"
+    },
+    {
+      "number": 33,
+      "filename": "IMG_2479.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/05_IMG_2479.JPG",
+      "original_bytes": 1516581,
+      "original_sha256": "5bedfc65833938d6fda909b99f4c9ecfbddfb242f8ac453291ab4b9ac5294d80",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2479.JPG",
+      "site_filename": "IMG_2479.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2479.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1yysNvR9KuqXiZdf7boXqTQ8dbVF2dx8I"
+    },
+    {
+      "number": 35,
+      "filename": "IMG_2486.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/02_IMG_2486.JPG",
+      "original_bytes": 1389892,
+      "original_sha256": "b1fd06aa18b78e0f77c7b28c3db15fbfac931d95c371a5de06e7869de814e87f",
+      "original_width": 2112,
+      "original_height": 2816,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2486.JPG",
+      "site_filename": "IMG_2486.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2486.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1uHEOtPnSfUbefHEZZkJJ2l25Wi50r9aY"
+    },
+    {
+      "number": 36,
+      "filename": "IMG_2491.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/07_IMG_2491.JPG",
+      "original_bytes": 1613072,
+      "original_sha256": "322d76b5cd81feb762c9bdc97a98f15dbb3fa92dbdcdc034f192703e0f132cd3",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2491.JPG",
+      "site_filename": "IMG_2491.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2491.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "17UQgtups3eJl6xrSJljqfT782gSBkyJe"
+    },
+    {
+      "number": 37,
+      "filename": "IMG_2492.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/06_IMG_2492.JPG",
+      "original_bytes": 1317043,
+      "original_sha256": "7b174ef3942806680cfc96bb52a5221d913ec3c6952941c4d2bea8b8c92f1baa",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2492.JPG",
+      "site_filename": "IMG_2492.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2492.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1xa8E7Cy-zw6tK34CLua1bOZ42MYiygTR"
+    },
+    {
+      "number": 38,
+      "filename": "IMG_2494.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/09_IMG_2494.JPG",
+      "original_bytes": 1566751,
+      "original_sha256": "2da0a4c2698ca25a2e34c16f57b97545b7f2cc2d577211c9d4bd8bc9535276eb",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2494.JPG",
+      "site_filename": "IMG_2494.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2494.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1NUL87VHb9bCSoa4uKyPlShiktZoKEuNw"
+    },
+    {
+      "number": 39,
+      "filename": "IMG_2501.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/12_IMG_2501.JPG",
+      "original_bytes": 1442674,
+      "original_sha256": "05826f89e865699607a6f06508752665222e2238aa5e3eaa8cad858875029c2e",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2501.JPG",
+      "site_filename": "IMG_2501.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2501.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1NIn9BCI8Gcw_qIkySNQpbys5lMLftcea"
+    },
+    {
+      "number": 40,
+      "filename": "IMG_2505.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/13_IMG_2505.JPG",
+      "original_bytes": 1535071,
+      "original_sha256": "d1ce459ce6dbeb5ab2357e9c7b71160618a920cfd10e1ff70f576226675320a2",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2505.JPG",
+      "site_filename": "IMG_2505.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2505.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1nK-rDoyW_nzfCkp6xWbEPdLoUejYbBYz"
+    },
+    {
+      "number": 41,
+      "filename": "IMG_2521.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/11_IMG_2521.JPG",
+      "original_bytes": 2078998,
+      "original_sha256": "b19e8c485216c9f54143c322d686dcb7ea4e90fab173b32ebce6463f0ec0b179",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2521.JPG",
+      "site_filename": "IMG_2521.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2521.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "13XPeM4Audofn6miSc3bSTvl9Gfo-w66Z"
+    },
+    {
+      "number": 42,
+      "filename": "IMG_2524.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/16_IMG_2524.JPG",
+      "original_bytes": 1340730,
+      "original_sha256": "13615437ad2d2e7b7d4fe8190ec3e609d34d8800e9c5ca929c97fbcb91304009",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2524.JPG",
+      "site_filename": "IMG_2524.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2524.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1D-6tplp5FhF_Q5YMNWboALXQa7oLY7oC"
+    },
+    {
+      "number": 43,
+      "filename": "IMG_2525.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/17_IMG_2525.JPG",
+      "original_bytes": 815649,
+      "original_sha256": "3ae629933ad0ddcf6bbc8c251f21167a65c6fb76902eff153bc102deda858652",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2525.JPG",
+      "site_filename": "IMG_2525.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2525.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1sjtgfF9-emZCsF2891JwoGoW5K33M0n1"
+    },
+    {
+      "number": 44,
+      "filename": "IMG_2528.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/15_IMG_2528.JPG",
+      "original_bytes": 1894563,
+      "original_sha256": "86d668d1577f64a40aefe97e3a23523fe1d78c6b4704581c5887975e5fc4295b",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2528.JPG",
+      "site_filename": "IMG_2528.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2528.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1TlQQeQMseAl5fqhNkB4sXDgZa-dg3GYO"
+    },
+    {
+      "number": 46,
+      "filename": "sh2.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/08_sh2.jpg",
+      "original_bytes": 1269620,
+      "original_sha256": "e955f8f7a7dea3bbee2dfd8d44fa2ecb80f22777a1e9da3c4883b488ddcd00b9",
+      "original_width": 1200,
+      "original_height": 963,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "sh2.jpg",
+      "site_filename": "sh2.jpg",
+      "r2_key": "china-2019/shanghai/sh2.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1TgzLvVA2dHvrCrw2RE9tY2fWa32PnsLk"
+    },
+    {
+      "number": 47,
+      "filename": "Sh3.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/21_Sh3.jpg",
+      "original_bytes": 1338541,
+      "original_sha256": "c35a71b54d8e0d7680d79bbb07f1bee585bd8668a40874304d076a1d1bb700ce",
+      "original_width": 1200,
+      "original_height": 963,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "Sh3.jpg",
+      "site_filename": "Sh3.jpg",
+      "r2_key": "china-2019/shanghai/Sh3.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "10caJq6GtfyWC6UfJ1IEnno_yOmUQ9AxH"
+    },
+    {
+      "number": 48,
+      "filename": "Sh5.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/22_Sh5.jpg",
+      "original_bytes": 1248654,
+      "original_sha256": "148e478252340a7c4f08059138c5ff36e78c38963fab8ac6c9fbb87a2092e1a0",
+      "original_width": 1200,
+      "original_height": 963,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "Sh5.jpg",
+      "site_filename": "Sh5.jpg",
+      "r2_key": "china-2019/shanghai/Sh5.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1sQlGTAOdXJqUrNlsOhyraDK9zr3WAdc9"
+    },
+    {
+      "number": 49,
+      "filename": "Sh8.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/29_Sh8.jpg",
+      "original_bytes": 1334724,
+      "original_sha256": "8507c0c20a54b96cde918f2d5d53b640d27d8638728fb6bf483d756e78a49b5d",
+      "original_width": 1200,
+      "original_height": 963,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "Sh8.jpg",
+      "site_filename": "Sh8.jpg",
+      "r2_key": "china-2019/shanghai/Sh8.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Text-linked varied episode; family priority; collage constituent frames not repeated",
+      "drive_id": "1jKMyFjDticYlswJs_wI8XQGN667tes0H"
+    },
+    {
+      "number": 34,
+      "filename": "IMG_2481.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/35_IMG_2481.JPG",
+      "original_bytes": 1151401,
+      "original_sha256": "b04a328f14f92ca89beafc18a054583532fe7e1efbf23345c389b84f3f1123d1",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2481.JPG",
+      "site_filename": "IMG_2481.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2481.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "View from the tower beside Mitya; daytime Pearl and three towers moved together to their exact author caption",
+      "drive_id": "1S9I-BfAUWZ88O9XmYurebb4hCV8DiqgT"
+    },
+    {
+      "number": 1,
+      "filename": "20190317_101516.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/16_20190317_101516.jpg",
+      "original_bytes": 3850839,
+      "original_sha256": "a08a4b6c64eba52245c30034f50f33736a984fa0d0bc089a72f21f0b982d8f33",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_101516.jpg",
+      "site_filename": "20190317_101516.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_101516.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "1xegAIqEEolKIeNCUYGX1WyJoYvAoTfXN"
+    },
+    {
+      "number": 2,
+      "filename": "20190317_102359.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/17_20190317_102359.jpg",
+      "original_bytes": 4589358,
+      "original_sha256": "281286fa08b92f7ed9175c6af97c4afb8078edbc5033f656b0b4264e40ce8761",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_102359.jpg",
+      "site_filename": "20190317_102359.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_102359.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "1nkHC5FLyT1F4GfzoE0deHw5wDOEAHn3t"
+    },
+    {
+      "number": 3,
+      "filename": "20190317_102517.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/02_20190317_102517.jpg",
+      "original_bytes": 3159086,
+      "original_sha256": "80633101a382bc85b73be06018bfe85b86c40afecde7a62c86323f9c8d5cb4a8",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_102517.jpg",
+      "site_filename": "20190317_102517.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_102517.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "1OYZgDv2CqA9lUsAMDF_hlA4a-XuSIX4u"
+    },
+    {
+      "number": 4,
+      "filename": "20190317_104528.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/04_20190317_104528.jpg",
+      "original_bytes": 2664899,
+      "original_sha256": "e5715afcdaaeb1b112821e90ad9b5f42d7dfec8bbfd685becece953659861a34",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_104528.jpg",
+      "site_filename": "20190317_104528.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_104528.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "1oU9Srhzi5VBr-GwynCcMps42a62HOGHS"
+    },
+    {
+      "number": 6,
+      "filename": "20190317_104657.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/05_20190317_104657.jpg",
+      "original_bytes": 2473600,
+      "original_sha256": "085c18487aa00f5307023945a8de0eba0f20dc4990f4abff04c6b86b17a18b05",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_104657.jpg",
+      "site_filename": "20190317_104657.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_104657.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "1NZqGThRnGE_qcgtnrhDJJD-hJDKtV38H"
+    },
+    {
+      "number": 8,
+      "filename": "20190317_105334.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/10_20190317_105334.jpg",
+      "original_bytes": 2822290,
+      "original_sha256": "d784af0c8a7fae8ba564bca20a2e21d5c34cae42b838665789c1c8518cd166e7",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_105334.jpg",
+      "site_filename": "20190317_105334.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_105334.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "1ZsNLJMshXCtOCQCpM7GYtSxCJEi0WGp4"
+    },
+    {
+      "number": 12,
+      "filename": "20190317_105552.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/06_20190317_105552.jpg",
+      "original_bytes": 2671805,
+      "original_sha256": "719d9e0876cf3079e20dd8719389b3fc2157b36bb7b10893121fd49eb904f93c",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_105552.jpg",
+      "site_filename": "20190317_105552.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_105552.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "1I2ZfSQjalEitRDVYDqVRfQ9dHwWgtzTW"
+    },
+    {
+      "number": 15,
+      "filename": "20190317_105605.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/07_20190317_105605.jpg",
+      "original_bytes": 2115006,
+      "original_sha256": "4275a13e363b0a69a622507bedd27a30d25dc7044730293099690db7dc16a475",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_105605.jpg",
+      "site_filename": "20190317_105605.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_105605.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "18zhx-SuawZn3oGKYYX-ITU2QAOZviXbS"
+    },
+    {
+      "number": 17,
+      "filename": "20190317_111517.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/12_20190317_111517.jpg",
+      "original_bytes": 2254462,
+      "original_sha256": "6ce565ae629a928989001c58a1a97a101033767d5b0ff05a88ee3437b31264c3",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_111517.jpg",
+      "site_filename": "20190317_111517.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_111517.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "1vGMAEFjsepemmxWyDUBMP50meWjlvJpR"
+    },
+    {
+      "number": 20,
+      "filename": "20190317_113703.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/18_20190317_113703.jpg",
+      "original_bytes": 3502965,
+      "original_sha256": "2a77a9ae93fbf1dcc999ce464b1b3bb156e65c9ab831db0544a9b796c591814d",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_113703.jpg",
+      "site_filename": "20190317_113703.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_113703.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "1Vg9d8_CNJ7uoE0I01h2j_Fzz9-41emng"
+    },
+    {
+      "number": 21,
+      "filename": "Ancient Patinated Bronze Ritual Vessel.png",
+      "original_relative_path": "14 - Шанхай - музей и набережная/01_Ancient Patinated Bronze Ritual Vessel.png",
+      "original_bytes": 3120180,
+      "original_sha256": "a869513fa58484270840f1f458bc0fdc6e08bb770b3aeebfdaf35bdd03705b91",
+      "original_width": 1448,
+      "original_height": 1086,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "Ancient Patinated Bronze Ritual Vessel.png",
+      "site_filename": "Ancient-Patinated-Bronze-Ritual-Vessel.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/Ancient-Patinated-Bronze-Ritual-Vessel.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Owner-suggested cover",
+      "drive_id": "1aHB1yS1EwfAcD2rAPUO--BcoW9wDtXXg"
+    },
+    {
+      "number": 22,
+      "filename": "DSC07120.JPG",
+      "original_relative_path": "14 - Шанхай - музей и набережная/03_DSC07120.JPG",
+      "original_bytes": 4083664,
+      "original_sha256": "4c0e7a0d68edb6acbac4625e9e2fed25315ae01eb245c1a26a1464544db98751",
+      "original_width": 3648,
+      "original_height": 2736,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "DSC07120.JPG",
+      "site_filename": "DSC07120.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/DSC07120.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "1U1lQmuzjVMDXApRI1T6JlZ7Sp79uDANN"
+    },
+    {
+      "number": 23,
+      "filename": "DSC07130.JPG",
+      "original_relative_path": "14 - Шанхай - музей и набережная/08_DSC07130.JPG",
+      "original_bytes": 2772188,
+      "original_sha256": "0b12654245335ae333ca690e83f63c8da584ca884d6fe3a59ae54f586c8192a8",
+      "original_width": 2736,
+      "original_height": 3648,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "DSC07130.JPG",
+      "site_filename": "DSC07130.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/DSC07130.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "1Cmdph19cLvvVydXXhfZazTdxWG1wwrEr"
+    },
+    {
+      "number": 24,
+      "filename": "DSC07138.JPG",
+      "original_relative_path": "14 - Шанхай - музей и набережная/09_DSC07138.JPG",
+      "original_bytes": 2902615,
+      "original_sha256": "067da59e4cdf4b9cb5b279e206dc2a8850f0c303ff9bccd0253620f3581fea7c",
+      "original_width": 3648,
+      "original_height": 2736,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "DSC07138.JPG",
+      "site_filename": "DSC07138.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/DSC07138.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "1pjCYc5IYsJaekQ89LVtdJZmzhqStMGvD"
+    },
+    {
+      "number": 26,
+      "filename": "DSC07152.JPG",
+      "original_relative_path": "14 - Шанхай - музей и набережная/13_DSC07152.JPG",
+      "original_bytes": 3002732,
+      "original_sha256": "c2babbf32a6ae59b3768e664b99227d804c889301917fcd5121549ee75d28fd0",
+      "original_width": 2736,
+      "original_height": 3648,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "DSC07152.JPG",
+      "site_filename": "DSC07152.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/DSC07152.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "14pisjLaEuSp9wK-PFKvVpfzfYi4G61ss"
+    },
+    {
+      "number": 27,
+      "filename": "DSC07153.JPG",
+      "original_relative_path": "14 - Шанхай - музей и набережная/14_DSC07153.JPG",
+      "original_bytes": 3152630,
+      "original_sha256": "f1287bfe72270b741b965a0c4d774bae6c854c64e97ba0894ceda6e6d2921adf",
+      "original_width": 2736,
+      "original_height": 3648,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "DSC07153.JPG",
+      "site_filename": "DSC07153.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/DSC07153.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "15mD9rIK6Z0RNcxywLbPIhZNG4eoWudG9"
+    },
+    {
+      "number": 28,
+      "filename": "DSC07154.JPG",
+      "original_relative_path": "14 - Шанхай - музей и набережная/15_DSC07154.JPG",
+      "original_bytes": 2480668,
+      "original_sha256": "12bac5c169b001a5a2433a3c0048b979e0db58f26ba189655b16a598072ba5d4",
+      "original_width": 2736,
+      "original_height": 3648,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "DSC07154.JPG",
+      "site_filename": "DSC07154.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/DSC07154.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "17ln6ZoxkIqQx5TIWbwk82kolKKNzNPm2"
+    },
+    {
+      "number": 30,
+      "filename": "DSC07160.JPG",
+      "original_relative_path": "14 - Шанхай - музей и набережная/11_DSC07160.JPG",
+      "original_bytes": 2468548,
+      "original_sha256": "0d9049a86bd371961889a5d6d58b9f1f327dfced81a91f87127fea1daa9d4933",
+      "original_width": 3648,
+      "original_height": 2736,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "DSC07160.JPG",
+      "site_filename": "DSC07160.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/DSC07160.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "selected",
+      "selection_reason": "Distinct exhibit or city episode; captions based on photographed museum labels",
+      "drive_id": "19UX5MBk3X1e-QT_Gn_dxykcFCubZqvIQ"
+    },
+    {
+      "number": 32,
+      "filename": "IMG_2478.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/36_IMG_2478.JPG",
+      "original_bytes": 1253002,
+      "original_sha256": "e0f81c8a6605307bf9bf389d2bbaf2147cbddcba900a10ccb3ea11db687d87cd",
+      "original_width": 2816,
+      "original_height": 2112,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "IMG_2478.JPG",
+      "site_filename": "IMG_2478.jpg",
+      "r2_key": "china-2019/shanghai/IMG_2478.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "selected",
+      "selection_reason": "Owner explicitly requested panorama to illustrate smog",
+      "drive_id": "1tgrVigBh8r8e2wmlI1vWGsJ1gIgro9n9"
+    },
+    {
+      "number": 1,
+      "filename": "20190318_105446.jpg",
+      "original_filename": "20190318_105446.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/02_20190318_105446.jpg",
+      "original_bytes": 3942067,
+      "original_sha256": "d1cf87bd1b1fdb5b158b33c536352f26343156388f3fbc0b5e4f56fb8433a46e",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_105446.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_105446.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1owjRCRvVFdH5KwiQJLtp6dTgng9LMK_W"
+    },
+    {
+      "number": 2,
+      "filename": "20190318_110414.jpg",
+      "original_filename": "20190318_110414.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/03_20190318_110414.jpg",
+      "original_bytes": 2588960,
+      "original_sha256": "330a31d52a709fa4444a59aba112c18b1c1a3a3d879409267c3fbed8c09b719a",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_110414.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_110414.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1IQax9sGJXZ0piFf7_mEGAn66_69PC-Qk"
+    },
+    {
+      "number": 4,
+      "filename": "20190318_110631.jpg",
+      "original_filename": "20190318_110631.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/04_20190318_110631.jpg",
+      "original_bytes": 3771211,
+      "original_sha256": "2cf9a318b94e495bebb380a1eb36432b07f37e32c3cd206908934b403ebba08e",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_110631.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_110631.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1gPW1W7GAavBEJJus6uJN_Ux7sBEi1quG"
+    },
+    {
+      "number": 6,
+      "filename": "20190318_111718.jpg",
+      "original_filename": "20190318_111718.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/05_20190318_111718.jpg",
+      "original_bytes": 3343588,
+      "original_sha256": "1459071861f48c7f26d1d1ec99f1cefe15df5de31b54c2a5690c56b0d7152065",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_111718.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_111718.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1Cl4u9mYGxESVVupp5TZMAxI3KrEWnW2e"
+    },
+    {
+      "number": 8,
+      "filename": "20190318_111801.jpg",
+      "original_filename": "20190318_111801.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/06_20190318_111801.jpg",
+      "original_bytes": 4421461,
+      "original_sha256": "5523b62a42549fd2053672ff8d8e30b685c5d1176517c357fedce10f6e7e978a",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_111801.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_111801.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1iHElTl3_-VKZ6Xg0uhyiuF8zOBz8A149"
+    },
+    {
+      "number": 9,
+      "filename": "20190318_111854.jpg",
+      "original_filename": "20190318_111854.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/07_20190318_111854.jpg",
+      "original_bytes": 3290118,
+      "original_sha256": "6d5537ec1685eec7a8abda04fd169cc586e944970caa932f81b5af659288c7dd",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_111854.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_111854.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1s1iOf5lKjGeVLpE0fzHSfbuvtMUtl_-U"
+    },
+    {
+      "number": 10,
+      "filename": "20190318_112957.jpg",
+      "original_filename": "20190318_112957.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/08_20190318_112957.jpg",
+      "original_bytes": 2369340,
+      "original_sha256": "a4b119e2310ded07a653e40cd533e6edc4686f0d2114130477714b30850919ba",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_112957.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_112957.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1UFyePGFqGBtZdsu_f4ie3K9YtWt5SfpA"
+    },
+    {
+      "number": 11,
+      "filename": "20190318_113616.jpg",
+      "original_filename": "20190318_113616.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/09_20190318_113616.jpg",
+      "original_bytes": 2293382,
+      "original_sha256": "89e7566669f2146b7e80f83fe33391ede1e4e1a1d0812de031bbe84a6be59c34",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_113616.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_113616.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1NhUrhIvNIRMCSc2RE8wGaCdPjbHRjojx"
+    },
+    {
+      "number": 12,
+      "filename": "20190318_115520.jpg",
+      "original_filename": "20190318_115520.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/10_20190318_115520.jpg",
+      "original_bytes": 3740491,
+      "original_sha256": "7f7fb682934ee80a6b1345e2c36b96518fae8204ced26ab232e22ef97d1738cf",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_115520.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_115520.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1aT7BKFZLRZi9zscfJ8NdGpYhWOfhjH8j"
+    },
+    {
+      "number": 14,
+      "filename": "20190318_120042.jpg",
+      "original_filename": "20190318_120042.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/11_20190318_120042.jpg",
+      "original_bytes": 4478270,
+      "original_sha256": "05718ff774f109aa3514cd7d65089424a97bb169a9d864770285d08ab9279bf3",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_120042.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_120042.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1nXAipIHayK3jDnDlMsfVUdQq0CnKN3hq"
+    },
+    {
+      "number": 15,
+      "filename": "20190318_120119.jpg",
+      "original_filename": "20190318_120119.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/12_20190318_120119.jpg",
+      "original_bytes": 6001255,
+      "original_sha256": "84cad1701017b25c08b61547f117c35d82f97fc31f11aeb0ff3a87ea2df08e3f",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_120119.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_120119.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1w-CgQI_vYxkBx6zWHOROAZmH2EaxX2sW"
+    },
+    {
+      "number": 16,
+      "filename": "20190318_120211.jpg",
+      "original_filename": "20190318_120211.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/13_20190318_120211.jpg",
+      "original_bytes": 5126868,
+      "original_sha256": "ca1999b9ad216fc832ba911788f581833314dd081bfd3ff769a8b787dfdff7a2",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_120211.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_120211.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1RNnXshH44c57T1ixTe5ZGHZffcA1sE66"
+    },
+    {
+      "number": 18,
+      "filename": "20190318_123637.jpg",
+      "original_filename": "20190318_123637.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/14_20190318_123637.jpg",
+      "original_bytes": 4535308,
+      "original_sha256": "5bac6b433409caaccd7025e2bd6699d7aada55ee2763d87b1ae4e02297a9fffd",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_123637.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_123637.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1TFoFj75r_tKfl6Sshasrs1VOZB3iGso3"
+    },
+    {
+      "number": 19,
+      "filename": "20190318_125348.jpg",
+      "original_filename": "20190318_125348.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/15_20190318_125348.jpg",
+      "original_bytes": 2858766,
+      "original_sha256": "9e5d85324aee1d75a93a7ec82651b41fadc6dd8e8d6241c91bfcf2bbe044e00c",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_125348.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_125348.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1ZPoy-3wofUVUcwuUypooeZeLUehjfrzv"
+    },
+    {
+      "number": 21,
+      "filename": "20190318_130200.jpg",
+      "original_filename": "20190318_130200.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/16_20190318_130200.jpg",
+      "original_bytes": 3376221,
+      "original_sha256": "4a8c1ddb846d3bbdb912548229533b10335515fbd03a5bfe65ea81538d556b32",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_130200.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_130200.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1d5ztnalo_maRjbScZ4juip_rZ_vpQh7N"
+    },
+    {
+      "number": 22,
+      "filename": "20190319_125542.jpg",
+      "original_filename": "20190319_125542.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/17_20190319_125542.jpg",
+      "original_bytes": 2785679,
+      "original_sha256": "62ab1ccb813c466c4c72e02173f69883a9886106605165ed64fdabb00ccb93f1",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190319_125542.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190319_125542.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1tmf7o-rU46DUqe5bXOEd1YeR6wE_3g46"
+    },
+    {
+      "number": 23,
+      "filename": "20190319_132457.jpg",
+      "original_filename": "20190319_132457.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/18_20190319_132457.jpg",
+      "original_bytes": 3421616,
+      "original_sha256": "01391816d60f50a488c6a0e31a8ae425e89f5db0d26bd7703082a8f589d56a6c",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190319_132457.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190319_132457.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Family and distinct park or departure episode",
+      "drive_id": "1bFH2tkchCMU-Fp49QhJt9HzHf4Fw9sW7"
+    },
+    {
+      "number": 24,
+      "filename": "Father-Son Day at the Futuristic Pavilion.png",
+      "original_filename": "Father-Son Day at the Futuristic Pavilion.png",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/01_Father-Son Day at the Futuristic Pavilion.png",
+      "original_bytes": 2711973,
+      "original_sha256": "64e1f85194c7bdb2676be2ac7beaefdabc215a14376062171f9a1ad8fde5c105",
+      "original_width": 1448,
+      "original_height": 1086,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "Father-Son-Day-at-the-Futuristic-Pavilion.jpg",
+      "r2_key": "china-2019/disney-conclusion/Father-Son-Day-at-the-Futuristic-Pavilion.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "selected",
+      "selection_reason": "Prepared owner image for horizontal family cover",
+      "drive_id": "1dsJqC2l86e1gPJvRz4xjt67X3ysXnV02"
+    },
+    {
+      "number": 1,
+      "filename": "1791780274900.jpg",
+      "original_filename": "1791780274900.jpg",
+      "original_relative_path": "01 - Китай - визы/01_1791780274900.jpg",
+      "original_bytes": 203900,
+      "original_sha256": "3880e63b7d66bbec39b604decdd34a5a0abc36b9871759c3f102b3d7d80f1078",
+      "original_width": 1264,
+      "original_height": 848,
+      "chapter": "visas",
+      "chapter_number": 1,
+      "site_filename": "1791780274900.jpg",
+      "r2_key": "china-2019/visas/1791780274900.jpg",
+      "source_batch": "owner-visas-cover",
+      "status": "selected",
+      "selection_reason": "Owner selected first visa preparation illustration",
+      "drive_id": "1SOL9yVOIqVPhfqIYjJsLCEatQCXJql64"
     }
   ],
   "folder_sync": {
@@ -17954,7 +20872,7 @@
         }
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.611Z",
+        "checked_at": "2026-10-12T21:53:49.314Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 11,
         "total": 11,
@@ -18123,7 +21041,7 @@
       "received_candidate_count": 76,
       "transferred_to_chapter5_count": 44,
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.639Z",
+        "checked_at": "2026-10-12T21:53:49.335Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 23,
         "total": 23,
@@ -18331,7 +21249,7 @@
         }
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.660Z",
+        "checked_at": "2026-10-12T21:53:49.349Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 34,
         "total": 34,
@@ -18477,7 +21395,7 @@
       "unused_count": 9,
       "selection_rationale": "Whole temple for cover; family and interiors by temple text, exercise and pavilions by park, streets by neighbourhood, market, station and museum by their paragraphs. Duplicate views retained in archive.",
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.682Z",
+        "checked_at": "2026-10-12T21:53:49.362Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 24,
         "total": 24,
@@ -18723,7 +21641,7 @@
       "unused_count": 19,
       "selection_rationale": "Owner explicitly placed DSC06884 entrance first in ritual block after paragraph1, followed by worshippers and incense. Hutong streets before paragraph1, Buddhas after paragraph2; owner-deleted DSC06931 omitted.",
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.710Z",
+        "checked_at": "2026-10-12T21:53:49.378Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 41,
         "total": 41,
@@ -18984,7 +21902,7 @@
       "drive_sync_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.740Z",
+        "checked_at": "2026-10-12T21:53:49.397Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 42,
         "total": 42,
@@ -19301,7 +22219,7 @@
       "stage": "verified-and-reviewed",
       "selection_review": "Owner cover IMG_2227; selected distinct scenes from 51 uploaded originals, train travel, museum, family, schoolchildren, city and evening food walk",
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.768Z",
+        "checked_at": "2026-10-12T21:53:49.417Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 46,
         "total": 46,
@@ -19575,7 +22493,7 @@
       "stage": "verified-and-reviewed",
       "selection_review": "Family IMG_2278 cover; owner museum collages retained at native size with exact text-linked exhibits, family portraits at pagoda and varied Tang show scenes",
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.791Z",
+        "checked_at": "2026-10-12T21:53:49.435Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 41,
         "total": 41,
@@ -19773,7 +22691,7 @@
       "r2_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.811Z",
+        "checked_at": "2026-10-12T21:53:49.461Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 29,
         "total": 29,
@@ -19802,7 +22720,7 @@
         "method": "Presentation crop only; lightbox opens full original display copy"
       },
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.828Z",
+        "checked_at": "2026-10-12T21:53:49.480Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
         "ready": 1,
         "total": 1,
@@ -20120,10 +23038,10 @@
       "r2_verified": true,
       "stage": "verified-and-reviewed",
       "drive_sync": {
-        "checked_at": "2026-10-12T04:14:56.848Z",
+        "checked_at": "2026-10-12T21:53:49.497Z",
         "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
-        "ready": 49,
-        "total": 49,
+        "ready": 48,
+        "total": 48,
         "pending": []
       },
       "page_review": {
@@ -20133,6 +23051,594 @@
         "desktop": "Cover, tea demonstration and full-screen opening reviewed",
         "videos": "Three full originals archived and Drive cloud sync verified; not embedded"
       }
+    },
+    "shanghai": {
+      "hero_image": "20190316_140255.jpg",
+      "page_order": [
+        "20190316_140255.jpg",
+        "IMG_2486.jpg",
+        "IMG_2481.jpg",
+        "IMG_2476.jpg",
+        "IMG_2479.jpg",
+        "IMG_2478.jpg",
+        "IMG_2466.jpg",
+        "IMG_2492.jpg",
+        "IMG_2491.jpg",
+        "sh2.jpg",
+        "IMG_2494.jpg",
+        "20190316_133811.jpg",
+        "IMG_2521.jpg",
+        "IMG_2501.jpg",
+        "IMG_2505.jpg",
+        "20190316_131826.jpg",
+        "IMG_2528.jpg",
+        "IMG_2524.jpg",
+        "IMG_2525.jpg",
+        "20190316_133133.jpg",
+        "20190316_132948.jpg",
+        "20190316_132953.jpg",
+        "Sh3.jpg",
+        "Sh5.jpg",
+        "20190316_162230.jpg",
+        "20190316_163423.jpg",
+        "20190316_163102.jpg",
+        "20190316_163741.jpg",
+        "20190316_163627.jpg",
+        "Sh8.jpg"
+      ],
+      "layout": {
+        "after9": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2486.jpg",
+                "IMG_2481.jpg"
+              ]
+            }
+          ]
+        },
+        "after10": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2476.jpg",
+                "IMG_2479.jpg",
+                "IMG_2478.jpg"
+              ]
+            }
+          ]
+        },
+        "after11": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2466.jpg",
+                "IMG_2492.jpg"
+              ]
+            }
+          ]
+        },
+        "after12": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2491.jpg"
+              ]
+            }
+          ]
+        },
+        "after13": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "sh2.jpg"
+              ]
+            }
+          ]
+        },
+        "after15": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2494.jpg",
+                "20190316_133811.jpg"
+              ]
+            }
+          ]
+        },
+        "after16": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2521.jpg"
+              ]
+            }
+          ]
+        },
+        "after17": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2501.jpg",
+                "IMG_2505.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190316_131826.jpg",
+                "IMG_2528.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "IMG_2524.jpg",
+                "IMG_2525.jpg"
+              ]
+            }
+          ]
+        },
+        "after18": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190316_133133.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190316_132948.jpg",
+                "20190316_132953.jpg"
+              ]
+            }
+          ]
+        },
+        "after19": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "Sh3.jpg"
+              ]
+            }
+          ]
+        },
+        "after20": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "Sh5.jpg"
+              ]
+            }
+          ]
+        },
+        "after22": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190316_162230.jpg",
+                "20190316_163423.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190316_163102.jpg",
+                "20190316_163741.jpg"
+              ]
+            }
+          ]
+        },
+        "after23": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190316_163627.jpg"
+              ]
+            }
+          ]
+        },
+        "after24": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "Sh8.jpg"
+              ]
+            }
+          ]
+        }
+      },
+      "original_count": 30,
+      "original_bytes": 58331008,
+      "originals_verified": true,
+      "drive_sync_verified": true,
+      "r2_verified": true,
+      "stage": "verified-and-reviewed",
+      "drive_sync": {
+        "checked_at": "2026-10-12T21:53:49.514Z",
+        "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
+        "ready": 30,
+        "total": 30,
+        "pending": []
+      },
+      "page_review": {
+        "production_build": "passed",
+        "author_text": "All 24 chapter paragraphs unchanged against fresh DOCX; 255 trip paragraphs verified",
+        "rendered_order": "35 assets match page and lightbox; selected cover retained; collage constituents not repeated",
+        "desktop": "Whole-team garden photo and daytime Pearl plus three towers reviewed in browser"
+      }
+    },
+    "shanghai-museum-bund": {
+      "hero_image": "shanghai/20190316_193310.jpg",
+      "photo_captions": {
+        "20190317_104528.jpg": "Сосуд для вина Fu Yi Gong. Поздняя Шан, XIII–XI вв. до н. э.",
+        "20190317_104657.jpg": "Сосуд для пищи Jia Gui. Ранняя Западная Чжоу, XI век до н. э.",
+        "20190317_105552.jpg": "Сосуд для вина Zhong Yi Fu Ling. Западная Чжоу, конец XI — конец X вв. до н. э.",
+        "20190317_105605.jpg": "Сосуд ху с узором дракона. Период Весны и Осени, 770 — начало VII века до н. э.",
+        "DSC07130.jpg": "Бронзовый сосуд на трёх ножках.",
+        "DSC07138.jpg": "Бронзовый сосуд в форме животного.",
+        "20190317_105334.jpg": "Бронзовый топор юэ с крестообразной инкрустацией. Поздняя Ся, XVIII–XVI вв. до н. э.",
+        "DSC07160.jpg": "Украшение с цветочным узором. XII век.",
+        "20190317_111517.jpg": "Каменная скульптура локапалы. Династия Сун, 960–1279 гг.",
+        "DSC07152.jpg": "Тибетская маска.",
+        "DSC07153.jpg": "Тибетская маска с рогами.",
+        "DSC07154.jpg": "Тибетская маска.",
+        "Ancient-Patinated-Bronze-Ritual-Vessel.jpg": "Ритуальный сосуд поу с четырьмя головами баранов. Поздняя Шан, XIII–XI вв. до н. э."
+      },
+      "caption_sources": {
+        "20190317_104528.jpg": {
+          "source_original": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_104530.jpg"
+        },
+        "20190317_104657.jpg": {
+          "source_original": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_104700.jpg"
+        },
+        "20190317_105552.jpg": {
+          "source_original": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_105555.jpg"
+        },
+        "20190317_105605.jpg": {
+          "source_original": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_105611.jpg"
+        },
+        "DSC07130.jpg": {
+          "source": "Visible form of photographed exhibit; no date inferred"
+        },
+        "DSC07138.jpg": {
+          "source": "Visible form of photographed exhibit; no date inferred"
+        },
+        "20190317_105334.jpg": {
+          "source_original": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_105341.jpg"
+        },
+        "DSC07160.jpg": {
+          "source": "Author paragraph 6"
+        },
+        "20190317_111517.jpg": {
+          "source_original": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_111523.jpg"
+        },
+        "DSC07152.jpg": {
+          "source_original": "14 - Шанхай - музей и набережная/14_DSC07153.JPG"
+        },
+        "DSC07153.jpg": {
+          "source_original": "14 - Шанхай - музей и набережная/14_DSC07153.JPG"
+        },
+        "DSC07154.jpg": {
+          "source_original": "14 - Шанхай - музей и набережная/14_DSC07153.JPG"
+        }
+      },
+      "hero_caption_source": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_105455.jpg",
+      "page_order": [
+        "20190316_193310.jpg",
+        "20190317_102517.jpg",
+        "DSC07120.jpg",
+        "Ancient-Patinated-Bronze-Ritual-Vessel.jpg",
+        "20190317_104528.jpg",
+        "20190317_104657.jpg",
+        "20190317_105552.jpg",
+        "20190317_105605.jpg",
+        "DSC07130.jpg",
+        "DSC07138.jpg",
+        "20190317_105334.jpg",
+        "DSC07160.jpg",
+        "20190317_111517.jpg",
+        "DSC07152.jpg",
+        "DSC07153.jpg",
+        "DSC07154.jpg",
+        "20190317_101516.jpg",
+        "20190317_102359.jpg",
+        "20190317_113703.jpg",
+        "20190316_190816.jpg",
+        "20190316_192642.jpg",
+        "20190316_194913.jpg",
+        "20190316_193449.jpg",
+        "20190316_194644.jpg"
+      ],
+      "layout": {
+        "after3": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190317_102517.jpg",
+                "DSC07120.jpg"
+              ]
+            }
+          ]
+        },
+        "after4": {
+          "groups": [
+            {
+              "type": "exhibit-row",
+              "photos": [
+                "Ancient-Patinated-Bronze-Ritual-Vessel.jpg",
+                "20190317_104528.jpg",
+                "20190317_104657.jpg"
+              ]
+            },
+            {
+              "type": "exhibit-row",
+              "photos": [
+                "20190317_105552.jpg",
+                "20190317_105605.jpg"
+              ]
+            },
+            {
+              "type": "exhibit-row",
+              "photos": [
+                "DSC07130.jpg",
+                "DSC07138.jpg"
+              ]
+            }
+          ]
+        },
+        "after5": {
+          "groups": [
+            {
+              "type": "exhibit-row",
+              "photos": [
+                "20190317_105334.jpg"
+              ]
+            }
+          ]
+        },
+        "after6": {
+          "groups": [
+            {
+              "type": "exhibit-row",
+              "photos": [
+                "DSC07160.jpg"
+              ]
+            }
+          ]
+        },
+        "before7": {
+          "groups": [
+            {
+              "type": "exhibit-row",
+              "photos": [
+                "20190317_111517.jpg"
+              ]
+            },
+            {
+              "type": "exhibit-row",
+              "photos": [
+                "DSC07152.jpg",
+                "DSC07153.jpg",
+                "DSC07154.jpg"
+              ]
+            }
+          ]
+        },
+        "after7": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190317_101516.jpg",
+                "20190317_102359.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190317_113703.jpg"
+              ]
+            }
+          ]
+        },
+        "after9": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "shanghai/20190316_190816.jpg",
+                "shanghai/20190316_192642.jpg",
+                "shanghai/20190316_194913.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "shanghai/20190316_193449.jpg",
+                "shanghai/20190316_194644.jpg"
+              ]
+            }
+          ]
+        }
+      },
+      "shared_photo_refs": [
+        "china-2019/shanghai/20190316_193310.jpg"
+      ],
+      "original_count": 24,
+      "original_bytes": 68316834,
+      "originals_verified": true,
+      "drive_sync_verified": true,
+      "r2_verified": true,
+      "extra_css": ".exhibit-cover-caption{font-size:.85rem;line-height:1.5;color:#68635b;max-width:616px;margin:.25rem 0 2rem}.photo-essay .exhibit-label{position:absolute;top:0;left:0;right:0;z-index:1;pointer-events:none;color:#fff;background:linear-gradient(180deg,rgba(0,0,0,.8),rgba(0,0,0,.5) 75%,transparent);font-size:clamp(11px,1vw,14px);line-height:1.45;padding:10px 12px 20px;text-shadow:0 1px 2px #000}.photo-essay .essay-group:has(.exhibit){margin:12px 0}.photo-essay .exhibit{overflow:hidden!important}@media(max-width:767px){.photo-essay .essay-row>.exhibit{flex:0 0 100%;max-width:100%}.photo-essay .exhibit a{max-height:var(--cap-h)}.photo-essay .exhibit img{object-fit:contain}.photo-essay .exhibit-label{font-size:13px;padding:10px 12px 18px}}.photo-essay .essay-cover-link{position:relative}.photo-essay .essay-cover-link>.exhibit-label{font-size:clamp(12px,1.2vw,16px)}",
+      "drive_sync": {
+        "checked_at": "2026-10-12T21:53:49.529Z",
+        "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
+        "ready": 24,
+        "total": 24,
+        "pending": []
+      },
+      "stage": "verified-and-reviewed",
+      "page_review": {
+        "author_text": "Nine author paragraphs unchanged; exhibit captions stored separately",
+        "rendered_order": "20 photos including two cross-chapter night views; no repeated cover vessel image in body",
+        "caption_sources": "12 captions plus cover: photographed museum labels, author date for ornament, neutral visual descriptions where no label is present",
+        "desktop": "Individual captions under their own photos reviewed",
+        "phone": "390px caption count12; switched exhibits to one per line to keep captions readable",
+        "caption_layout": "Owner requested captions over upper photo area and compact adjacent exhibit rows"
+      }
+    },
+    "disney-conclusion": {
+      "hero_image": "Father-Son-Day-at-the-Futuristic-Pavilion.jpg",
+      "page_order": [
+        "Father-Son-Day-at-the-Futuristic-Pavilion.jpg",
+        "20190318_105446.jpg",
+        "20190318_110414.jpg",
+        "20190318_110631.jpg",
+        "20190318_111718.jpg",
+        "20190318_111801.jpg",
+        "20190318_111854.jpg",
+        "20190318_112957.jpg",
+        "20190318_113616.jpg",
+        "20190318_115520.jpg",
+        "20190318_120042.jpg",
+        "20190318_120119.jpg",
+        "20190318_120211.jpg",
+        "20190318_123637.jpg",
+        "20190318_125348.jpg",
+        "20190318_130200.jpg",
+        "20190319_125542.jpg",
+        "20190319_132457.jpg"
+      ],
+      "layout": {
+        "after1": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190318_105446.jpg",
+                "20190318_110414.jpg",
+                "20190318_110631.jpg"
+              ]
+            }
+          ]
+        },
+        "after2": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190318_111718.jpg",
+                "20190318_111801.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190318_111854.jpg",
+                "20190318_112957.jpg",
+                "20190318_113616.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190318_115520.jpg",
+                "20190318_120042.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190318_120119.jpg",
+                "20190318_120211.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190318_123637.jpg",
+                "20190318_125348.jpg"
+              ]
+            },
+            {
+              "type": "row",
+              "photos": [
+                "20190318_130200.jpg"
+              ]
+            }
+          ]
+        },
+        "after3": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190319_125542.jpg"
+              ]
+            }
+          ]
+        },
+        "after4": {
+          "groups": [
+            {
+              "type": "row",
+              "photos": [
+                "20190319_132457.jpg"
+              ]
+            }
+          ]
+        }
+      },
+      "original_count": 18,
+      "original_bytes": 65056574,
+      "originals_verified": true,
+      "drive_sync_verified": true,
+      "r2_verified": true,
+      "stage": "verified-and-reviewed",
+      "drive_sync": {
+        "checked_at": "2026-10-12T21:53:49.557Z",
+        "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
+        "ready": 18,
+        "total": 18,
+        "pending": []
+      }
+    },
+    "visas": {
+      "hero_image": "1791780274900.jpg",
+      "page_order": [
+        "1791780274900.jpg"
+      ],
+      "layout": {},
+      "original_count": 1,
+      "original_bytes": 203900,
+      "originals_verified": true,
+      "drive_sync_verified": true,
+      "r2_verified": true,
+      "drive_sync": {
+        "checked_at": "2026-10-12T21:53:49.583Z",
+        "method": "Selected originals: remote IDs and exact byte sizes under the correct chapter parent after the owner transfer",
+        "ready": 1,
+        "total": 1,
+        "pending": []
+      },
+      "stage": "verified-and-reviewed"
     }
   },
   "tripCover": {
@@ -22114,6 +25620,550 @@
       "source_batch": "chapter12-owner98",
       "status": "unused",
       "selection_reason": "Repeated view, constituent of selected collage or previous Longmen chapter photo; retained original"
+    },
+    {
+      "number": 6,
+      "filename": "20190316_133143.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_133143.jpg",
+      "original_bytes": 3192047,
+      "original_sha256": "b8c532c72824cf60ba39348600b43575168ab6cbe52c91cce5aee4925829c6dc",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_133143.jpg",
+      "site_filename": "20190316_133143.jpg",
+      "r2_key": "china-2019/shanghai/20190316_133143.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 8,
+      "filename": "20190316_135950.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_135950.jpg",
+      "original_bytes": 3113377,
+      "original_sha256": "96c2ac187489780385e490a4ee6679500fad9d663e5d4ff6a9a2e2ac569f7408",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_135950.jpg",
+      "site_filename": "20190316_135950.jpg",
+      "r2_key": "china-2019/shanghai/20190316_135950.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 9,
+      "filename": "20190316_140140.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_140140.jpg",
+      "original_bytes": 2926251,
+      "original_sha256": "182d4705a4b229941766fee7dc4688b73a283b11cf90a81e58e3565308935e0a",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_140140.jpg",
+      "site_filename": "20190316_140140.jpg",
+      "r2_key": "china-2019/shanghai/20190316_140140.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 10,
+      "filename": "20190316_140207.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_140207.jpg",
+      "original_bytes": 2733548,
+      "original_sha256": "7da1237ddad1c1dda2fab0a65e3c4b41afd3bacecb231445bc3023631e5bc706",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_140207.jpg",
+      "site_filename": "20190316_140207.jpg",
+      "r2_key": "china-2019/shanghai/20190316_140207.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 11,
+      "filename": "20190316_140211.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_140211.jpg",
+      "original_bytes": 3279814,
+      "original_sha256": "3f0cb1fcc89bba6b3c0496b33b93fe9e8580edc2cb7862e45e5e63a19a6f411e",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_140211.jpg",
+      "site_filename": "20190316_140211.jpg",
+      "r2_key": "china-2019/shanghai/20190316_140211.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 12,
+      "filename": "20190316_140222.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_140222.jpg",
+      "original_bytes": 3086231,
+      "original_sha256": "a826662c9b194ec69ff29b5ec36d53da82be1530bc45c3419b50e6261c9f0d4e",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_140222.jpg",
+      "site_filename": "20190316_140222.jpg",
+      "r2_key": "china-2019/shanghai/20190316_140222.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 14,
+      "filename": "20190316_144600.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_144600.jpg",
+      "original_bytes": 2084917,
+      "original_sha256": "5c35bf5f97829f1991abda8339760b81843ce2314259780af21bed0b849bd867",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_144600.jpg",
+      "site_filename": "20190316_144600.jpg",
+      "r2_key": "china-2019/shanghai/20190316_144600.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 15,
+      "filename": "20190316_154736.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_20190316_154736.jpg",
+      "original_bytes": 4328158,
+      "original_sha256": "b999ccab9fcd8914f16b85a3744c778d1e8a15058a8419f49f5e56f7b90df611",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "20190316_154736.jpg",
+      "site_filename": "20190316_154736.jpg",
+      "r2_key": "china-2019/shanghai/20190316_154736.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 23,
+      "filename": "20190316_192936.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_20190316_192936.jpg",
+      "original_bytes": 2830669,
+      "original_sha256": "cac2c2e8c049c4faa69b03082f7d8ec0a3c7a51f8adf75603ac4a8052f54ef66",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190316_192936.jpg",
+      "site_filename": "20190316_192936.jpg",
+      "r2_key": "china-2019/shanghai/20190316_192936.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Owner requested all Bund night photos moved to chapter14"
+    },
+    {
+      "number": 24,
+      "filename": "20190316_192940.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_20190316_192940.jpg",
+      "original_bytes": 2950732,
+      "original_sha256": "ec4e2cc38b93bbc2e6bce51c2a74776a84f8aff659e035b6c6359b33b7d99d43",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190316_192940.jpg",
+      "site_filename": "20190316_192940.jpg",
+      "r2_key": "china-2019/shanghai/20190316_192940.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Owner requested all Bund night photos moved to chapter14"
+    },
+    {
+      "number": 26,
+      "filename": "20190316_193515.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_20190316_193515.jpg",
+      "original_bytes": 2197965,
+      "original_sha256": "50a3ec66499bbe2254b0504b049efa3c96aee44073b79992d4a31ea4c2ac6613",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190316_193515.jpg",
+      "site_filename": "20190316_193515.jpg",
+      "r2_key": "china-2019/shanghai/20190316_193515.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Owner requested all Bund night photos moved to chapter14"
+    },
+    {
+      "number": 29,
+      "filename": "DSC07116.JPG",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_DSC07116.JPG",
+      "original_bytes": 3857053,
+      "original_sha256": "4499c3846bf4e079679dfb5b228ddf47132acf3dc63ad8c0a5e5d9c13737aad6",
+      "original_width": 3648,
+      "original_height": 2736,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "DSC07116.JPG",
+      "site_filename": "DSC07116.jpg",
+      "r2_key": "china-2019/shanghai/DSC07116.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 45,
+      "filename": "Sh1.jpg",
+      "original_relative_path": "13 - Шанхай - первое знакомство и... Пушкин/zz_не использовано_Sh1.jpg",
+      "original_bytes": 1158545,
+      "original_sha256": "3cd07b4b9219b813ca992de610e903236c3e86a3f3b662ffea8f6ed467605018",
+      "original_width": 1200,
+      "original_height": 963,
+      "chapter": "shanghai",
+      "chapter_number": 13,
+      "original_filename": "Sh1.jpg",
+      "site_filename": "Sh1.jpg",
+      "r2_key": "china-2019/shanghai/Sh1.jpg",
+      "source_batch": "chapter13-owner49",
+      "status": "unused",
+      "selection_reason": "Repeated angle, constituent of selected collage or unlinked isolated detail retained in archive"
+    },
+    {
+      "number": 5,
+      "filename": "20190317_104530.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_104530.jpg",
+      "original_bytes": 2274685,
+      "original_sha256": "e0ae89848809f56ff498dfaa20d7fd142484da3d09ed4a85c8c479cbfce0a69b",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_104530.jpg",
+      "site_filename": "20190317_104530.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_104530.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "unused",
+      "selection_reason": "Label archived as caption source, exact duplicate or unselected repeated view"
+    },
+    {
+      "number": 7,
+      "filename": "20190317_104700.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_104700.jpg",
+      "original_bytes": 2616188,
+      "original_sha256": "ebc9000714fed6327680c56ef15fd5b36b5f74e80dad95d5c5786ec22618ba2d",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_104700.jpg",
+      "site_filename": "20190317_104700.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_104700.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "unused",
+      "selection_reason": "Label archived as caption source, exact duplicate or unselected repeated view"
+    },
+    {
+      "number": 9,
+      "filename": "20190317_105341.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_105341.jpg",
+      "original_bytes": 2651599,
+      "original_sha256": "270687903403accd4da9bdadd997f027c7cd99ea00e8056496d1ccfb232145eb",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_105341.jpg",
+      "site_filename": "20190317_105341.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_105341.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "unused",
+      "selection_reason": "Label archived as caption source, exact duplicate or unselected repeated view"
+    },
+    {
+      "number": 10,
+      "filename": "20190317_105448.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_105448.jpg",
+      "original_bytes": 3496736,
+      "original_sha256": "e1ae3de539b362c608a8106653ab010306cda6257630ca6fad8b0bba8853aaf2",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_105448.jpg",
+      "site_filename": "20190317_105448.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_105448.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "unused",
+      "selection_reason": "Label archived as caption source, exact duplicate or unselected repeated view"
+    },
+    {
+      "number": 11,
+      "filename": "20190317_105455.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_105455.jpg",
+      "original_bytes": 2878317,
+      "original_sha256": "7b3b2c849643635727ad5063dc6773775c483321379cf2af94677c1ad806e2b7",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_105455.jpg",
+      "site_filename": "20190317_105455.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_105455.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "unused",
+      "selection_reason": "Label archived as caption source, exact duplicate or unselected repeated view"
+    },
+    {
+      "number": 13,
+      "filename": "20190317_105555.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_105555.jpg",
+      "original_bytes": 3083658,
+      "original_sha256": "30994bf76a61bb9e09448ded6831c2f9336e5028761001be58725d682b6b48e0",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_105555.jpg",
+      "site_filename": "20190317_105555.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_105555.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "unused",
+      "selection_reason": "Label archived as caption source, exact duplicate or unselected repeated view"
+    },
+    {
+      "number": 14,
+      "filename": "20190317_105605 (1).jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_105605 (1).jpg",
+      "original_bytes": 2115006,
+      "original_sha256": "4275a13e363b0a69a622507bedd27a30d25dc7044730293099690db7dc16a475",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_105605 (1).jpg",
+      "site_filename": "20190317_105605-(1).jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_105605-(1).jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "unused",
+      "selection_reason": "Label archived as caption source, exact duplicate or unselected repeated view"
+    },
+    {
+      "number": 16,
+      "filename": "20190317_105611.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_105611.jpg",
+      "original_bytes": 2340127,
+      "original_sha256": "821c923ad4e686a40f471ecfba713661634622354f31d5200add6ffbadcf68f0",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_105611.jpg",
+      "site_filename": "20190317_105611.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_105611.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "unused",
+      "selection_reason": "Label archived as caption source, exact duplicate or unselected repeated view"
+    },
+    {
+      "number": 18,
+      "filename": "20190317_111523.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_111523.jpg",
+      "original_bytes": 2749815,
+      "original_sha256": "701a8019bac4b9e8821bacb673bd96f3ea8a55ffb7a5408c7e26130e07208f3b",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_111523.jpg",
+      "site_filename": "20190317_111523.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_111523.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "unused",
+      "selection_reason": "Label archived as caption source, exact duplicate or unselected repeated view"
+    },
+    {
+      "number": 19,
+      "filename": "20190317_113700.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_20190317_113700.jpg",
+      "original_bytes": 3291029,
+      "original_sha256": "7ae827c43902fb3bdfb710cb97835fac92d11328e1e81d1bc19c05ba70260e6f",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "20190317_113700.jpg",
+      "site_filename": "20190317_113700.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/20190317_113700.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "unused",
+      "selection_reason": "Label archived as caption source, exact duplicate or unselected repeated view"
+    },
+    {
+      "number": 25,
+      "filename": "DSC07142.JPG",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_DSC07142.JPG",
+      "original_bytes": 3282515,
+      "original_sha256": "f4ac8d726c342ebfb35c140eea3301eb50876cae3ff0a88c1053b4acecf48207",
+      "original_width": 2736,
+      "original_height": 3648,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "DSC07142.JPG",
+      "site_filename": "DSC07142.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/DSC07142.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "unused",
+      "selection_reason": "Label archived as caption source, exact duplicate or unselected repeated view"
+    },
+    {
+      "number": 29,
+      "filename": "DSC07155.JPG",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_DSC07155.JPG",
+      "original_bytes": 2673294,
+      "original_sha256": "968d8d960ea9b2beb50afdf1f9cc43c8996cc6594be36b84d4d9f45ad9209dfc",
+      "original_width": 2736,
+      "original_height": 3648,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "DSC07155.JPG",
+      "site_filename": "DSC07155.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/DSC07155.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "unused",
+      "selection_reason": "Label archived as caption source, exact duplicate or unselected repeated view"
+    },
+    {
+      "number": 31,
+      "filename": "sh24.jpg",
+      "original_relative_path": "14 - Шанхай - музей и набережная/zz_не использовано_sh24.jpg",
+      "original_bytes": 1520072,
+      "original_sha256": "630208c63710ed435f149a19bbb34ea6ab9a0b9f31d14ce6d081f7e30d9f1e9c",
+      "original_width": 1200,
+      "original_height": 1200,
+      "chapter": "shanghai-museum-bund",
+      "chapter_number": 14,
+      "original_filename": "sh24.jpg",
+      "site_filename": "sh24.jpg",
+      "r2_key": "china-2019/shanghai-museum-bund/sh24.jpg",
+      "source_batch": "chapter14-owner31",
+      "status": "unused",
+      "selection_reason": "Label archived as caption source, exact duplicate or unselected repeated view"
+    },
+    {
+      "number": 3,
+      "filename": "20190318_110424.jpg",
+      "original_filename": "20190318_110424.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/zz_не использовано_20190318_110424.jpg",
+      "original_bytes": 3451527,
+      "original_sha256": "f1254b1ec7dce5dd65413fdf89819b78de6514e2dce0b23252210db84a4845b7",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_110424.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_110424.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "unused",
+      "selection_reason": "Repeated scene or original of owner-prepared cover"
+    },
+    {
+      "number": 5,
+      "filename": "20190318_111716.jpg",
+      "original_filename": "20190318_111716.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/zz_не использовано_20190318_111716.jpg",
+      "original_bytes": 2078022,
+      "original_sha256": "1a08256dc6e4f64cb7a7e68c95b39306e49a045ca179ec6e2a157dc247758372",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_111716.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_111716.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "unused",
+      "selection_reason": "Repeated scene or original of owner-prepared cover"
+    },
+    {
+      "number": 7,
+      "filename": "20190318_111800.jpg",
+      "original_filename": "20190318_111800.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/zz_не использовано_20190318_111800.jpg",
+      "original_bytes": 4256825,
+      "original_sha256": "49779f0eb7036a55e6616a50b9b62b7b91110d31ff5660e1c19369584bebd00b",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_111800.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_111800.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "unused",
+      "selection_reason": "Repeated scene or original of owner-prepared cover"
+    },
+    {
+      "number": 13,
+      "filename": "20190318_115841.jpg",
+      "original_filename": "20190318_115841.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/zz_не использовано_20190318_115841.jpg",
+      "original_bytes": 2319664,
+      "original_sha256": "cf29400aa20e01f482490a0043bf9667cc184a55d400f19b8cfbf953bb8a4610",
+      "original_width": 2268,
+      "original_height": 4032,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_115841.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_115841.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "unused",
+      "selection_reason": "Repeated scene or original of owner-prepared cover"
+    },
+    {
+      "number": 17,
+      "filename": "20190318_122308.jpg",
+      "original_filename": "20190318_122308.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/zz_не использовано_20190318_122308.jpg",
+      "original_bytes": 3359205,
+      "original_sha256": "8f0c60d6a4ab4aee7aa5804eefd250946f213ff4b137c801f3fc93e64a6cd4c7",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_122308.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_122308.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "unused",
+      "selection_reason": "Repeated scene or original of owner-prepared cover"
+    },
+    {
+      "number": 20,
+      "filename": "20190318_125923.jpg",
+      "original_filename": "20190318_125923.jpg",
+      "original_relative_path": "15 - Шанхай - Диснейленд и и заключение/zz_не использовано_20190318_125923.jpg",
+      "original_bytes": 3135979,
+      "original_sha256": "943ce4fdbca5637da903fcf0626aed98301e2ab4da8b55f6a6aeaa6b6eb6d24e",
+      "original_width": 4032,
+      "original_height": 2268,
+      "chapter": "disney-conclusion",
+      "chapter_number": 15,
+      "site_filename": "20190318_125923.jpg",
+      "r2_key": "china-2019/disney-conclusion/20190318_125923.jpg",
+      "source_batch": "chapter15-owner24",
+      "status": "unused",
+      "selection_reason": "Repeated scene or original of owner-prepared cover"
     }
   ],
   "chapter_candidates": {
@@ -22951,7 +27001,13 @@
   "participants": [
     "Ома",
     "Сергей",
-    "Леле",
+    "Леля",
     "Митя"
-  ]
+  ],
+  "publication": {
+    "commit": "6fb4d2e30cda52fb880ff12f95a6d71eb2dacb35",
+    "url": "https://lelruca.github.io/FamilyTravelBlog/asia/china/china-2019/",
+    "scope": "All 15 author chapters published; photo layouts complete through final Disneyland chapter; visas intentionally text-only",
+    "authorized_on": "2026-10-12"
+  }
 }

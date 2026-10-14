@@ -1,0 +1,7 @@
+{{- $src := .Get 0 -}}
+<div style="margin:1.25rem 0;display:flex;justify-content:flex-start">
+  <video controls playsinline preload="metadata" style="display:block;max-width:100%;max-height:80vh;width:auto;height:auto;border-radius:4px" aria-label="{{ .Page.Title }}">
+    <source src="{{ $src }}" type="video/mp4">
+    <a href="{{ $src }}">Открыть видео</a>
+  </video>
+</div>
