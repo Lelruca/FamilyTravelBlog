@@ -26,7 +26,8 @@ const chapters = fs.readdirSync(tripDir)
   // chapters without any photo (e.g. a short conclusion) have no Drive folder
   .filter(c => /(?:[?&]id=[\w-]{20}|\.jpg\b|photoscroller|essay-photo)/i.test(fs.readFileSync(path.join(tripDir, c.slug, "index.md"), "utf8")));
 // A chapter folder with no photos yet (created ahead of time) has no chapter on the site to match.
-const folders = fs.readdirSync(driveDir).filter(d => /^\d+ - /.test(d))
+// "00 - Обложка" holds the trip cover, not a chapter.
+const folders = fs.readdirSync(driveDir).filter(d => /^\d+ - /.test(d) && !/^00 - /.test(d))
   .filter(d => fs.readdirSync(path.join(driveDir, d)).some(f => /\.(jpe?g|png|heic|webp)$/i.test(f) && !/^zz_/.test(f))).sort();
 // Folders and chapters are matched by order. While some chapters are still without photos in the text but
 // their Drive folders already hold photos, match by the folder number (01 = first chapter) instead.
