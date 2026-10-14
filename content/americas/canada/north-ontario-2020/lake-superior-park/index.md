@@ -1,5 +1,5 @@
 ---
-title: "Прощание с озером Superior"
+title: "Прощанье с Lake Superior"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 80
