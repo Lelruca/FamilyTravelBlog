@@ -6986,6 +6986,20 @@
       "height": 1500,
       "sha256": "e74bf39b6188151441839bdf04e39675a9911f3d1858028dd63f38f579c5546b",
       "verified": true
+    },
+    "shown": {
+      "archive_name": "00 - Обложка/01_20251212_120200-bright.jpg",
+      "kind": "retouched-copy",
+      "note": "Brightened at the owner's request: ffmpeg curves=all='0/0 0.25/0.34 0.5/0.6 0.8/0.86 1/1',eq=saturation=1.08; the original next to it is unchanged",
+      "sha256": "6352e70f9eefafc773e25a08cf26d9cf01ac92bb9d965d7486c0a08f013bfee6",
+      "r2": {
+        "key": "east-germany-winter-2025/cover/20251212_120200-bright.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/cover/20251212_120200-bright.jpg",
+        "width": 2000,
+        "height": 1500,
+        "sha256": "90016c50f79ca425106de6250cb9c39eb5bde71731db0ba52c573c3fc1efb280",
+        "verified": true
+      }
     }
   }
 }
