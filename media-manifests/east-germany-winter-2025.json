@@ -13,8 +13,8 @@
       "facebook_set": "1333016511958214",
       "post_date": "Saturday, December 6, 2025 at 9:35 PM",
       "text_sha256": "38014b86376988aa92147eeada2cd38a0b19286e86bfa15515c1a9e8bda67693",
-      "photo_count": 18,
-      "original_count": 1
+      "photo_count": 19,
+      "original_count": 2
     },
     {
       "slug": "barcelona-christmas-markets",
@@ -23,8 +23,8 @@
       "facebook_set": "1333676055225593",
       "post_date": "Sunday, December 7, 2025 at 3:54 PM",
       "text_sha256": "a3f0c20e2e94e0fe3cdb76e89366396c05e2bde4609dbcd322953053507d7ec5",
-      "photo_count": 12,
-      "original_count": 9
+      "photo_count": 14,
+      "original_count": 12
     },
     {
       "slug": "barcelona-circus",
@@ -33,8 +33,8 @@
       "facebook_set": "1334477811812084",
       "post_date": "Monday, December 8, 2025 at 4:24 PM",
       "text_sha256": "78d8ce7affb9ac44ab8494e96e6ca20877a46897e8756253bff755a2d3860696",
-      "photo_count": 18,
-      "original_count": 17
+      "photo_count": 20,
+      "original_count": 19
     },
     {
       "slug": "dresden-treasury",
@@ -43,8 +43,8 @@
       "facebook_set": "1335953318331200",
       "post_date": "Wednesday, December 10, 2025 at 6:09 PM",
       "text_sha256": "4b64250f9be61be64dc3a5fb736f3d0325ae1b68a09c0b10db0874a8f33f5727",
-      "photo_count": 38,
-      "original_count": 36
+      "photo_count": 39,
+      "original_count": 37
     },
     {
       "slug": "dresden-gallery-opera",
@@ -63,8 +63,8 @@
       "facebook_set": "1336689648257567",
       "post_date": "Saturday, December 13, 2025 at 3:17 PM",
       "text_sha256": "3316957bfccc4547c8a80a7fcb811052e418567e1901ff618662e1708b823f98",
-      "photo_count": 28,
-      "original_count": 24
+      "photo_count": 30,
+      "original_count": 26
     },
     {
       "slug": "berlin-first-day",
@@ -74,7 +74,7 @@
       "post_date": "Friday, December 12, 2025 at 5:32 PM",
       "text_sha256": "0fa81f508748ebbb9c647c2a2242f2b6b2c3f84a7dc50e7eb45954c6276a06b1",
       "photo_count": 28,
-      "original_count": 23
+      "original_count": 25
     },
     {
       "slug": "berlin-museum-island",
@@ -83,8 +83,8 @@
       "facebook_set": "1338054744787724",
       "post_date": null,
       "text_sha256": "a3d60604b9d08c682115ad0a9b42aebc75745de15e88eb3e7c950dc5054a51ac",
-      "photo_count": 47,
-      "original_count": 47
+      "photo_count": 49,
+      "original_count": 49
     },
     {
       "slug": "berlin-technical-museum",
@@ -93,8 +93,8 @@
       "facebook_set": "1338851524708046",
       "post_date": null,
       "text_sha256": "1ccc494d5b6d6d6b930a8cdb31148f6edf31da475d95dd632298311260afdaca",
-      "photo_count": 31,
-      "original_count": 26
+      "photo_count": 37,
+      "original_count": 35
     },
     {
       "slug": "berlin-treptow-wall",
@@ -103,8 +103,8 @@
       "facebook_set": "1339541734639025",
       "post_date": "Monday, December 15, 2025 at 4:43 PM",
       "text_sha256": "5e89a6f7e90cfcf69ad2e9a9a70f90e9879fbee723440e4dc49145deb8346aa1",
-      "photo_count": 35,
-      "original_count": 32
+      "photo_count": 37,
+      "original_count": 35
     }
   ],
   "photos": [
@@ -380,13 +380,14 @@
       "source_position": 2,
       "facebook_id": "1333675348558997",
       "caption": "",
-      "archive_name": "02 - Барселона - Рождество под пальмами/02_facebook_1333675348558997.jpg",
-      "kind": "facebook-copy",
-      "original_relative_path": null,
+      "archive_name": "02 - Барселона - Рождество под пальмами/02_PXL_20251207_142226188.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251207_142226188.jpg",
       "match_score": null,
-      "bytes": 273730,
-      "sha256": "b6487f1e0aebe98a4d59e6ca16f8061f774fcdbb221c2b3cfc2143c7d1226fde",
-      "drive_id": "15WwuY-kXMwJfGrqxxUPq89A3g4Qd0bnQ"
+      "bytes": 222041,
+      "sha256": "97bd530525e29a42735635c4255bd00a0e56799a245ba2cea045644f002ad611",
+      "drive_id": "15WwuY-kXMwJfGrqxxUPq89A3g4Qd0bnQ",
+      "replaced_facebook_copy": "02 - Барселона - Рождество под пальмами/zz_не использовано_02_facebook_1333675348558997.jpg"
     },
     {
       "chapter": "barcelona-christmas-markets",
@@ -2438,13 +2439,14 @@
       "source_position": 23,
       "facebook_id": "1337455148181017",
       "caption": "Рынок - самая освященная часть города с елкой",
-      "archive_name": "07 - Берлин - первый день/23_facebook_1337455148181017.jpg",
-      "kind": "facebook-copy",
-      "original_relative_path": null,
+      "archive_name": "07 - Берлин - первый день/23_PXL_20251212_170014192.MP.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251212_170014192.MP.jpg",
       "match_score": null,
-      "bytes": 232297,
-      "sha256": "58ec1cb5afe725234d7105f516a9e8e38ba71338ed2ecaba6cdfb38de026241c",
-      "drive_id": "17ar8JuPEfyDF6peCNzhf7RmZsmhD33pO"
+      "bytes": 326757,
+      "sha256": "b397fd94b6504cb30e6f3cfc5e197e87348ac2874be739ade1a0012b2af30527",
+      "drive_id": "17ar8JuPEfyDF6peCNzhf7RmZsmhD33pO",
+      "replaced_facebook_copy": "07 - Берлин - первый день/zz_не использовано_23_facebook_1337455148181017.jpg"
     },
     {
       "chapter": "berlin-first-day",
@@ -2508,13 +2510,14 @@
       "source_position": 28,
       "facebook_id": "1337455474847651",
       "caption": "Вот один из центральных проспектов города, в 5 вечера...",
-      "archive_name": "07 - Берлин - первый день/28_facebook_1337455474847651.jpg",
-      "kind": "facebook-copy",
-      "original_relative_path": null,
+      "archive_name": "07 - Берлин - первый день/28_PXL_20251212_170610812.MP.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251212_170610812.MP.jpg",
       "match_score": null,
-      "bytes": 257346,
-      "sha256": "a34e122a20815fe16b2b7bc17223827ff0e2e424e45c7250f2cb06bdedf9d233",
-      "drive_id": "19Dcm74SSLG-GUMeZO6NkLKTwBv-naEli"
+      "bytes": 362635,
+      "sha256": "1c3a10fabe14efbd7ee35048ca66cd55307e1d171f955b03c3295b69c4328818",
+      "drive_id": "19Dcm74SSLG-GUMeZO6NkLKTwBv-naEli",
+      "replaced_facebook_copy": "07 - Берлин - первый день/zz_не использовано_28_facebook_1337455474847651.jpg"
     },
     {
       "chapter": "berlin-museum-island",
@@ -3278,13 +3281,14 @@
       "source_position": 8,
       "facebook_id": "1338849521374913",
       "caption": "",
-      "archive_name": "09 - Берлин - технический музей и опера/08_facebook_1338849521374913.jpg",
-      "kind": "facebook-copy",
-      "original_relative_path": null,
+      "archive_name": "09 - Берлин - технический музей и опера/08_PXL_20251214_100420353.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251214_100420353.jpg",
       "match_score": null,
-      "bytes": 294219,
-      "sha256": "67cbb4b3b5956e7c898bbcb8e7cb76f2b26cb3f77476d5cdcdd6c10f2cb6deee",
-      "drive_id": "13h3Vv806p45tf6o5w5rInb7uzlH8jdzf"
+      "bytes": 230695,
+      "sha256": "6a5a35f564d99017ef39f36bd32329332e82c52315e7f1f5d80defb04b905d4b",
+      "drive_id": "13h3Vv806p45tf6o5w5rInb7uzlH8jdzf",
+      "replaced_facebook_copy": "09 - Берлин - технический музей и опера/zz_не использовано_08_facebook_1338849521374913.jpg"
     },
     {
       "chapter": "berlin-technical-museum",
@@ -3586,13 +3590,14 @@
       "source_position": 30,
       "facebook_id": "1338851361374729",
       "caption": "",
-      "archive_name": "09 - Берлин - технический музей и опера/30_facebook_1338851361374729.jpg",
-      "kind": "facebook-copy",
-      "original_relative_path": null,
+      "archive_name": "09 - Берлин - технический музей и опера/30_PXL_20251214_175857479.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251214_175857479.jpg",
       "match_score": null,
-      "bytes": 141915,
-      "sha256": "f6ff766af46275b3853be8e950cbb437d63c2311345693968970666c4298e488",
-      "drive_id": "141TgtM98e7smATg7pceCuomvk0rUcRPD"
+      "bytes": 102905,
+      "sha256": "77295b204b831e319562632033c1fc9afabb820d7730c20a0d6c407c937e3e52",
+      "drive_id": "141TgtM98e7smATg7pceCuomvk0rUcRPD",
+      "replaced_facebook_copy": "09 - Берлин - технический музей и опера/zz_не использовано_30_facebook_1338851361374729.jpg"
     },
     {
       "chapter": "berlin-technical-museum",
@@ -3600,13 +3605,14 @@
       "source_position": 31,
       "facebook_id": "1338851424708056",
       "caption": "",
-      "archive_name": "09 - Берлин - технический музей и опера/31_facebook_1338851424708056.jpg",
-      "kind": "facebook-copy",
-      "original_relative_path": null,
+      "archive_name": "09 - Берлин - технический музей и опера/31_PXL_20251214_175402143.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251214_175402143.jpg",
       "match_score": null,
-      "bytes": 223452,
-      "sha256": "c6fd82e11f1410ca731489329bf82aed53489a09c729b1f51e29e0c9e9e68547",
-      "drive_id": "1wTZKDHPt6AvigfsH3YWahiJQpkGlxtvZ"
+      "bytes": 184757,
+      "sha256": "dfca4bd758efee41f1723270387e31e905d780cc11feb696509439b0fde6c3c3",
+      "drive_id": "1wTZKDHPt6AvigfsH3YWahiJQpkGlxtvZ",
+      "replaced_facebook_copy": "09 - Берлин - технический музей и опера/zz_не использовано_31_facebook_1338851424708056.jpg"
     },
     {
       "chapter": "berlin-treptow-wall",
@@ -3726,13 +3732,14 @@
       "source_position": 9,
       "facebook_id": "1339531127973419",
       "caption": "",
-      "archive_name": "10 - Берлин - Трептов-парк и стена/09_facebook_1339531127973419.jpg",
-      "kind": "facebook-copy",
-      "original_relative_path": null,
+      "archive_name": "10 - Берлин - Трептов-парк и стена/09_PXL_20251215_095108487.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251215_095108487.jpg",
       "match_score": null,
-      "bytes": 106958,
-      "sha256": "5245a3c5a9a2723e7f98addbba87aa5368f1948f375bcea3dd66dfb36a9c5e1f",
-      "drive_id": "1peIOwmNdYFz4HhmB6Hx1oViSiXn3tQpu"
+      "bytes": 95819,
+      "sha256": "516a5e74c1a2febc2ed3b8d833b66c59fc3ff8af8435b9a4a241c4d845df3825",
+      "drive_id": "1peIOwmNdYFz4HhmB6Hx1oViSiXn3tQpu",
+      "replaced_facebook_copy": "10 - Берлин - Трептов-парк и стена/zz_не использовано_09_facebook_1339531127973419.jpg"
     },
     {
       "chapter": "berlin-treptow-wall",
@@ -4097,6 +4104,240 @@
       "bytes": 17608,
       "sha256": "b38459f01c63143e98d6b214fe80418bb90656737930b7be8d93b58334ea4630",
       "drive_id": "1lbQXv--yyYugskTuvy0SH3U358ICEERB"
+    },
+    {
+      "chapter": "lisbon",
+      "position": "18a",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "01 - Лиссабон/18a_PXL_20251206_135939550.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251206_135939550.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 199927,
+      "sha256": "9d0dfc7042769ceb094840a96ad9fa53db1a5075e3ab76fdd4e3299940663da5"
+    },
+    {
+      "chapter": "barcelona-christmas-markets",
+      "position": "12a",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "02 - Барселона - Рождество под пальмами/12a_PXL_20251217_215709128.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251217_215709128.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 270905,
+      "sha256": "78dd0614432c7b53bb1eb8d53ec2bfe04388b261df1a96eb3b177f188380d10d"
+    },
+    {
+      "chapter": "barcelona-christmas-markets",
+      "position": "12b",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "02 - Барселона - Рождество под пальмами/12b_PXL_20251218_213045680.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251218_213045680.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 189689,
+      "sha256": "9f61318142b71da3eee7f9967cefb9c60c5dc1403745ccb44ec4a7a150d6d7e0"
+    },
+    {
+      "chapter": "barcelona-circus",
+      "position": "03a",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "03 - Барселона - прогулки и цирк/03a_PXL_20251208_145303988.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251208_145303988.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 304799,
+      "sha256": "f362224a8b8293137c9526a43b678ef6c98ef50007cc8d281737004d6f82ccb2"
+    },
+    {
+      "chapter": "barcelona-circus",
+      "position": "18a",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "03 - Барселона - прогулки и цирк/18a_PXL_20251209_130643829.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251209_130643829.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 288207,
+      "sha256": "96bf677d60275c0a924d52fe9a2135fb86825eeef9f9891c5317e6e7cf200c2e"
+    },
+    {
+      "chapter": "dresden-treasury",
+      "position": "01a",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "04 - Дрезден - сокровищница/01a_PXL_20251210_085343282.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251210_085343282.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 191633,
+      "sha256": "dda5af12b8e549b7332aa1805172d731ada0fef466071c02a310468f86ac7d5f"
+    },
+    {
+      "chapter": "moritzburg-meissen",
+      "position": "14a",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "06 - Военный музей, Морицбург, Мейсен/14a_PXL_20251211_125301275.MP.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251211_125301275.MP.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 205627,
+      "sha256": "b38f3190bc53ea9eaf5538c5a46c3cbb1f18eb3e8359a91d0b7d2598368b3ab9"
+    },
+    {
+      "chapter": "moritzburg-meissen",
+      "position": "14b",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "06 - Военный музей, Морицбург, Мейсен/14b_PXL_20251211_125921496.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251211_125921496.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 77719,
+      "sha256": "e487dbda34f8fd02f3458d093d2a970f36da34f14d5941ea9183dffcf881acdc"
+    },
+    {
+      "chapter": "berlin-museum-island",
+      "position": "28a",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "08 - Берлин - Музейный остров/28a_PXL_20251213_103738037.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251213_103738037.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 180500,
+      "sha256": "f7837246533a6f4ffa2ad72db0911bb3b7cdc70a7b46873aa7aa1d3edfec7aee"
+    },
+    {
+      "chapter": "berlin-museum-island",
+      "position": "28b",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "08 - Берлин - Музейный остров/28b_PXL_20251213_104106394.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251213_104106394.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 91370,
+      "sha256": "f13fb48f517979764466a8e84716be528e4a6353b94fc023fda26c0039a85db9"
+    },
+    {
+      "chapter": "berlin-technical-museum",
+      "position": "18a",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "09 - Берлин - технический музей и опера/18a_PXL_20251214_103154514.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251214_103154514.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 213664,
+      "sha256": "bac82955ec91fed730940bc0aa05f4d1ceb7af619118d73a9aa7a123fd4b2cdf"
+    },
+    {
+      "chapter": "berlin-technical-museum",
+      "position": "18b",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "09 - Берлин - технический музей и опера/18b_PXL_20251214_114149287.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251214_114149287.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 288832,
+      "sha256": "fee21085daf0a98a078940db3ecae654810f71f3c94d068b066c55baa6ee1866"
+    },
+    {
+      "chapter": "berlin-technical-museum",
+      "position": "18c",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "09 - Берлин - технический музей и опера/18c_PXL_20251214_114158364.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251214_114158364.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 170215,
+      "sha256": "48e7c3685fa3f90b5e7c66f5a883aaf4caaed01f62817b5b99f32ccdce3b8ad2"
+    },
+    {
+      "chapter": "berlin-technical-museum",
+      "position": "18d",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "09 - Берлин - технический музей и опера/18d_PXL_20251214_122541741.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251214_122541741.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 297839,
+      "sha256": "9a5afe0c0fb76f971b202ba7799f41f17e35cd49215b811ca9e3157348c546f1"
+    },
+    {
+      "chapter": "berlin-technical-museum",
+      "position": "18e",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "09 - Берлин - технический музей и опера/18e_PXL_20251214_122744881.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251214_122744881.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 239154,
+      "sha256": "866a0600eb7a1c53d54d51dbf7121b6d4329f31adfc4de1f9ba3cbc6634c6a87"
+    },
+    {
+      "chapter": "berlin-technical-museum",
+      "position": "29a",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "09 - Берлин - технический музей и опера/29a_PXL_20251214_171850991.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251214_171850991.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 281785,
+      "sha256": "eb488cf8c105ccd0acdad563447b8f4767b826ed573e385a3e345a790f3d7018"
+    },
+    {
+      "chapter": "berlin-treptow-wall",
+      "position": "04a",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "10 - Берлин - Трептов-парк и стена/04a_PXL_20251215_095537026.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251215_095537026.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 286523,
+      "sha256": "f0b38988e372188c366b7ed367d8d12b04e326e7839c97890764bdfc3afaa2c4"
+    },
+    {
+      "chapter": "berlin-treptow-wall",
+      "position": "04b",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "10 - Берлин - Трептов-парк и стена/04b_PXL_20251215_095544043.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251215_095544043.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 344090,
+      "sha256": "9d236b7b0dfa6453e690287dbb2d1a0f21965be3c1013255814ce1549fd1f99c"
     }
   ],
   "videos": [
@@ -4118,7 +4359,7 @@
   "drive_trip_folder_id": "1bao0eMRAZLPtMCNnpgXLT5OKV0vZm9tZ",
   "captions_note": "Captions are the author's own per-photo texts from Facebook, verbatim; photos without one have an empty caption.",
   "r2": {
-    "checked": "2026-10-12T04:42:18.142Z",
+    "checked": "2026-10-14T16:47:10.636Z",
     "base": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "copies": [
       {
@@ -4212,16 +4453,6 @@
         "verified": true
       },
       {
-        "key": "east-germany-winter-2025/barcelona-christmas-markets/facebook_1333675348558997.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/barcelona-christmas-markets/facebook_1333675348558997.jpg",
-        "width": 1204,
-        "height": 1600,
-        "bytes": 281302,
-        "sha256": "d189c847e07d2406822979110cf63a47c3825570808089ef0ff683ef5fcd54c8",
-        "archive_name": "02 - Барселона - Рождество под пальмами/02_facebook_1333675348558997.jpg",
-        "verified": true
-      },
-      {
         "key": "east-germany-winter-2025/barcelona-christmas-markets/facebook_1333675951892270.jpg",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/barcelona-christmas-markets/facebook_1333675951892270.jpg",
         "width": 1200,
@@ -4239,6 +4470,36 @@
         "bytes": 296093,
         "sha256": "1f9c2a87e7645500175795c4270d141cbf578d5ca4c92478d0799d389fa27422",
         "archive_name": "02 - Барселона - Рождество под пальмами/12_facebook_1333676015225597.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/barcelona-christmas-markets/PXL_20251207_142226188.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/barcelona-christmas-markets/PXL_20251207_142226188.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 189882,
+        "sha256": "cc42359b4e3821ac03c412767fcd315ba43646664cff50b9812cbc44aca235ec",
+        "archive_name": "02 - Барселона - Рождество под пальмами/02_PXL_20251207_142226188.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/barcelona-christmas-markets/PXL_20251217_215709128.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/barcelona-christmas-markets/PXL_20251217_215709128.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 234352,
+        "sha256": "798add98f25a8bc7974931e9df46140019a93ed80ade23dfbebe0248dfc13c4d",
+        "archive_name": "02 - Барселона - Рождество под пальмами/12a_PXL_20251217_215709128.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/barcelona-christmas-markets/PXL_20251218_213045680.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/barcelona-christmas-markets/PXL_20251218_213045680.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 150660,
+        "sha256": "c4edfc3eaeb6f571e74ea026383f0e657d70948a8c11a9898be927cf220faaf1",
+        "archive_name": "02 - Барселона - Рождество под пальмами/12b_PXL_20251218_213045680.jpg",
         "verified": true
       },
       {
@@ -4419,6 +4680,26 @@
         "bytes": 331012,
         "sha256": "0535fe0f5c2ce863d497614bf1166aeda06bc33c994e10a83e2cd318fad9ac59",
         "archive_name": "03 - Барселона - прогулки и цирк/03_facebook_1334476985145500.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/barcelona-circus/PXL_20251208_145303988.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/barcelona-circus/PXL_20251208_145303988.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 250558,
+        "sha256": "9a1af5204c3faeacef5a1b63f5226be9ff3f9011883a091f3d5e3aca5daf7e48",
+        "archive_name": "03 - Барселона - прогулки и цирк/03a_PXL_20251208_145303988.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/barcelona-circus/PXL_20251209_130643829.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/barcelona-circus/PXL_20251209_130643829.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 255302,
+        "sha256": "695478cc2fa6ffce1a5484d1a84cea919f66daa01a00dbd3e4134d3597f4cb8a",
+        "archive_name": "03 - Барселона - прогулки и цирк/18a_PXL_20251209_130643829.jpg",
         "verified": true
       },
       {
@@ -4682,23 +4963,23 @@
         "verified": true
       },
       {
-        "key": "east-germany-winter-2025/berlin-first-day/facebook_1337455148181017.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-first-day/facebook_1337455148181017.jpg",
-        "width": 1600,
-        "height": 1204,
-        "bytes": 244222,
-        "sha256": "a0e14b119a486434f33af32d44eb0704d436cbf7fbdd171727d15a28bf3f1076",
-        "archive_name": "07 - Берлин - первый день/23_facebook_1337455148181017.jpg",
+        "key": "east-germany-winter-2025/berlin-first-day/PXL_20251212_170014192.MP.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-first-day/PXL_20251212_170014192.MP.jpg",
+        "width": 1213,
+        "height": 914,
+        "bytes": 239530,
+        "sha256": "38a93c172e12969a75918efca2ac602972a095790f42aaf686a3a48bb00467cb",
+        "archive_name": "07 - Берлин - первый день/23_PXL_20251212_170014192.MP.jpg",
         "verified": true
       },
       {
-        "key": "east-germany-winter-2025/berlin-first-day/facebook_1337455474847651.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-first-day/facebook_1337455474847651.jpg",
-        "width": 1600,
-        "height": 1204,
-        "bytes": 272789,
-        "sha256": "054fed11ab42652aa3281f90459e4252c377dee58133866c2634a015bc8d1b15",
-        "archive_name": "07 - Берлин - первый день/28_facebook_1337455474847651.jpg",
+        "key": "east-germany-winter-2025/berlin-first-day/PXL_20251212_170610812.MP.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-first-day/PXL_20251212_170610812.MP.jpg",
+        "width": 1213,
+        "height": 914,
+        "bytes": 264067,
+        "sha256": "de9e05c867bd36797fc7b15146543264b709b354fe6308753fcf6fefff583d5b",
+        "archive_name": "07 - Берлин - первый день/28_PXL_20251212_170610812.MP.jpg",
         "verified": true
       },
       {
@@ -5172,6 +5453,26 @@
         "verified": true
       },
       {
+        "key": "east-germany-winter-2025/berlin-museum-island/PXL_20251213_103738037.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-museum-island/PXL_20251213_103738037.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 157438,
+        "sha256": "b4185db4a54dc83fc96b94be8f8634d730bdc37127670bbf6eafc1c3fb029dcb",
+        "archive_name": "08 - Берлин - Музейный остров/28a_PXL_20251213_103738037.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/berlin-museum-island/PXL_20251213_104106394.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-museum-island/PXL_20251213_104106394.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 70075,
+        "sha256": "ef0165f9ad5d0fa924d1a48896827243cdd23041c37fa4597896e1f70ae8e956",
+        "archive_name": "08 - Берлин - Музейный остров/28b_PXL_20251213_104106394.jpg",
+        "verified": true
+      },
+      {
         "key": "east-germany-winter-2025/berlin-technical-museum/20251214_101739.jpg",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-technical-museum/20251214_101739.jpg",
         "width": 2000,
@@ -5432,16 +5733,6 @@
         "verified": true
       },
       {
-        "key": "east-germany-winter-2025/berlin-technical-museum/facebook_1338849521374913.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-technical-museum/facebook_1338849521374913.jpg",
-        "width": 1204,
-        "height": 1600,
-        "bytes": 304571,
-        "sha256": "8a4465d07dba327b00f7f7b5a3c6a98d28a9541d7a4b31c80cc6683eded3fd87",
-        "archive_name": "09 - Берлин - технический музей и опера/08_facebook_1338849521374913.jpg",
-        "verified": true
-      },
-      {
         "key": "east-germany-winter-2025/berlin-technical-museum/facebook_1338851254708073.jpg",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-technical-museum/facebook_1338851254708073.jpg",
         "width": 1500,
@@ -5462,23 +5753,93 @@
         "verified": true
       },
       {
-        "key": "east-germany-winter-2025/berlin-technical-museum/facebook_1338851361374729.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-technical-museum/facebook_1338851361374729.jpg",
-        "width": 1204,
-        "height": 1600,
-        "bytes": 137201,
-        "sha256": "ba06414fceffe4ad74ba19ef5be9a38fd49b7385184c57ed1d62f2783117ccdf",
-        "archive_name": "09 - Берлин - технический музей и опера/30_facebook_1338851361374729.jpg",
+        "key": "east-germany-winter-2025/berlin-technical-museum/PXL_20251214_100420353.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-technical-museum/PXL_20251214_100420353.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 195858,
+        "sha256": "6521bccca35625b1c14ce06808f4d40c2eefc92df65f34172f3f6cd6199fdef6",
+        "archive_name": "09 - Берлин - технический музей и опера/08_PXL_20251214_100420353.jpg",
         "verified": true
       },
       {
-        "key": "east-germany-winter-2025/berlin-technical-museum/facebook_1338851424708056.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-technical-museum/facebook_1338851424708056.jpg",
-        "width": 1204,
-        "height": 1600,
-        "bytes": 225880,
-        "sha256": "641ccc76ca386b4aa1bafe9c5d0e492b5b078a500d4f7974a6bf418c1036f347",
-        "archive_name": "09 - Берлин - технический музей и опера/31_facebook_1338851424708056.jpg",
+        "key": "east-germany-winter-2025/berlin-technical-museum/PXL_20251214_103154514.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-technical-museum/PXL_20251214_103154514.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 180078,
+        "sha256": "345d7b1c4b03f1533dbeaa60d4abadb136f0673a8367fd484ce98d721b894c5e",
+        "archive_name": "09 - Берлин - технический музей и опера/18a_PXL_20251214_103154514.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/berlin-technical-museum/PXL_20251214_114149287.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-technical-museum/PXL_20251214_114149287.jpg",
+        "width": 1213,
+        "height": 914,
+        "bytes": 220841,
+        "sha256": "d8b678e78f3808f02647d263cdb8a3e80ec3044a39b902b6cd926e2f04b0bb7c",
+        "archive_name": "09 - Берлин - технический музей и опера/18b_PXL_20251214_114149287.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/berlin-technical-museum/PXL_20251214_114158364.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-technical-museum/PXL_20251214_114158364.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 137299,
+        "sha256": "d9e8e5e9410f4792a0a5e3ddab0026e8243f170215d2a88753f81e2521b7b92d",
+        "archive_name": "09 - Берлин - технический музей и опера/18c_PXL_20251214_114158364.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/berlin-technical-museum/PXL_20251214_122541741.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-technical-museum/PXL_20251214_122541741.jpg",
+        "width": 1213,
+        "height": 914,
+        "bytes": 221978,
+        "sha256": "555e6bf0d1674a4c16f6c5e93d0ce41c11cb27203b152cc1bf31608bb8f6195f",
+        "archive_name": "09 - Берлин - технический музей и опера/18d_PXL_20251214_122541741.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/berlin-technical-museum/PXL_20251214_122744881.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-technical-museum/PXL_20251214_122744881.jpg",
+        "width": 1213,
+        "height": 914,
+        "bytes": 175746,
+        "sha256": "47e6ea4d7592a0932cd1c072740b0338a21daaef3d78a33308ab4204e12c477d",
+        "archive_name": "09 - Берлин - технический музей и опера/18e_PXL_20251214_122744881.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/berlin-technical-museum/PXL_20251214_171850991.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-technical-museum/PXL_20251214_171850991.jpg",
+        "width": 1213,
+        "height": 914,
+        "bytes": 216063,
+        "sha256": "aca055c9a25df82fba4f613d63f9fa3c5b16fd06f9ed22a1fdf549617340f15c",
+        "archive_name": "09 - Берлин - технический музей и опера/29a_PXL_20251214_171850991.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/berlin-technical-museum/PXL_20251214_175402143.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-technical-museum/PXL_20251214_175402143.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 153539,
+        "sha256": "2a3cf3f85ff1a3d848f7c8cc85fdd2d6691e52eff56f472595cb1ab36ffb7676",
+        "archive_name": "09 - Берлин - технический музей и опера/31_PXL_20251214_175402143.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/berlin-technical-museum/PXL_20251214_175857479.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-technical-museum/PXL_20251214_175857479.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 86393,
+        "sha256": "32ebafa124fa6aa0de0597d1ad0cc79fb4f61fd61a8a582806a587d2737fc39e",
+        "archive_name": "09 - Берлин - технический музей и опера/30_PXL_20251214_175857479.jpg",
         "verified": true
       },
       {
@@ -5802,16 +6163,6 @@
         "verified": true
       },
       {
-        "key": "east-germany-winter-2025/berlin-treptow-wall/facebook_1339531127973419.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-treptow-wall/facebook_1339531127973419.jpg",
-        "width": 1204,
-        "height": 1600,
-        "bytes": 111891,
-        "sha256": "614ae2f718ccaf1f1145c61838e4a0379074ac608a19e2dab0666529b3a677b4",
-        "archive_name": "10 - Берлин - Трептов-парк и стена/09_facebook_1339531127973419.jpg",
-        "verified": true
-      },
-      {
         "key": "east-germany-winter-2025/berlin-treptow-wall/facebook_1339541707972361.jpg",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-treptow-wall/facebook_1339541707972361.jpg",
         "width": 522,
@@ -5829,6 +6180,56 @@
         "bytes": 293031,
         "sha256": "bdf16ff10bff18604d0e8932ed4b6fef43ff2285ca5df7bcda164f9f574634dc",
         "archive_name": "10 - Берлин - Трептов-парк и стена/08_IMG-20251215-WA0007.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/berlin-treptow-wall/PXL_20251215_095108487.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-treptow-wall/PXL_20251215_095108487.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 75194,
+        "sha256": "d34eeba4b1d5587bb667503671ebd49ae79bcd60a15b0278b4bc45546788b8d6",
+        "archive_name": "10 - Берлин - Трептов-парк и стена/09_PXL_20251215_095108487.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/berlin-treptow-wall/PXL_20251215_095537026.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-treptow-wall/PXL_20251215_095537026.jpg",
+        "width": 1213,
+        "height": 914,
+        "bytes": 209899,
+        "sha256": "5a5e2486479231aff079f96b961fd16f4e3b99c2dcc929017ed8f1365af3aa84",
+        "archive_name": "10 - Берлин - Трептов-парк и стена/04a_PXL_20251215_095537026.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/berlin-treptow-wall/PXL_20251215_095544043.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-treptow-wall/PXL_20251215_095544043.jpg",
+        "width": 1213,
+        "height": 914,
+        "bytes": 259629,
+        "sha256": "78c37b058b5a5dc7c5c16df416da8c76ffdac74029d7edfbb9ba251c9ec3122c",
+        "archive_name": "10 - Берлин - Трептов-парк и стена/04b_PXL_20251215_095544043.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/cover/20251212_120200-bright.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/cover/20251212_120200-bright.jpg",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 551806,
+        "sha256": "90016c50f79ca425106de6250cb9c39eb5bde71731db0ba52c573c3fc1efb280",
+        "archive_name": "00 - Обложка/01_20251212_120200-bright.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/cover/20251212_120200.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/cover/20251212_120200.jpg",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 406490,
+        "sha256": "e74bf39b6188151441839bdf04e39675a9911f3d1858028dd63f38f579c5546b",
+        "archive_name": "00 - Обложка/01_20251212_120200.jpg",
         "verified": true
       },
       {
@@ -6512,6 +6913,16 @@
         "verified": true
       },
       {
+        "key": "east-germany-winter-2025/dresden-treasury/PXL_20251210_085343282.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/dresden-treasury/PXL_20251210_085343282.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 168914,
+        "sha256": "3ab002685143e102b81b066f99f122d9a1f19f2681b7f740cc489f4517e9fbb3",
+        "archive_name": "04 - Дрезден - сокровищница/01a_PXL_20251210_085343282.jpg",
+        "verified": true
+      },
+      {
         "key": "east-germany-winter-2025/lisbon/20251206_170743.jpg",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/lisbon/20251206_170743.jpg",
         "width": 1500,
@@ -6689,6 +7100,16 @@
         "bytes": 322498,
         "sha256": "ada594bc08ebc2eac96135d89be1df3d2f291c56fd1772b34cfa54a52c9d93a9",
         "archive_name": "01 - Лиссабон/18_facebook_1333016395291559.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/lisbon/PXL_20251206_135939550.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/lisbon/PXL_20251206_135939550.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 167828,
+        "sha256": "c7878cb64f2e1adefcd2bf741a44732cc733c4ba25e569b5ae9bf068cf728535",
+        "archive_name": "01 - Лиссабон/18a_PXL_20251206_135939550.jpg",
         "verified": true
       },
       {
@@ -6969,6 +7390,26 @@
         "bytes": 136029,
         "sha256": "cb0833c27e4391765e6baa17beac340c0432a8fa6c9f55add06b2beb747a1f9a",
         "archive_name": "06 - Военный музей, Морицбург, Мейсен/27_facebook_1336691841590681.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/moritzburg-meissen/PXL_20251211_125301275.MP.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/moritzburg-meissen/PXL_20251211_125301275.MP.jpg",
+        "width": 1213,
+        "height": 914,
+        "bytes": 140676,
+        "sha256": "0a2984f28885237e31e1eb15fed1b0555fd8b8097ad36129dc6539215df6d550",
+        "archive_name": "06 - Военный музей, Морицбург, Мейсен/14a_PXL_20251211_125301275.MP.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/moritzburg-meissen/PXL_20251211_125921496.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/moritzburg-meissen/PXL_20251211_125921496.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 58490,
+        "sha256": "26f39791835b55ad1147c807d744117b10278746788adc01db5da83e1baad368",
+        "archive_name": "06 - Военный музей, Морицбург, Мейсен/14b_PXL_20251211_125921496.jpg",
         "verified": true
       }
     ]

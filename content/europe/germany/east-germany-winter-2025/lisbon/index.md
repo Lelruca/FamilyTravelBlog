@@ -18,7 +18,7 @@ source_url: "https://www.facebook.com/media/set/?set=pcb.1333016511958214"
 
 {{< mosaic "L:facebook_1333015758624956.jpg facebook_1333015545291644.jpg facebook_1333015595291639.jpg facebook_1333015658624966.jpg facebook_1333015701958295.jpg" >}}
 
-{{< row "facebook_1333016351958230.jpg facebook_1333016065291592.jpg facebook_1333016158624916.jpg facebook_1333016395291559.jpg" >}}
+{{< row "facebook_1333016351958230.jpg facebook_1333016065291592.jpg facebook_1333016158624916.jpg facebook_1333016395291559.jpg PXL_20251206_135939550.jpg" >}}
 
 <p>Ну и заодно просто погуляли, никуда не спешили, зашли в церкви, наконец я наконец попала в свою любимую - Igreja de São Roque. Потом отведали  бакаляу, выпили кофе и день в Лиссабоне прошел не зря 😀</p>
 
