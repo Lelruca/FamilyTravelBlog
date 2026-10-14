@@ -32,13 +32,14 @@ hero_image: "20190825_150709.jpg"
 <style>
 .photo-essay .essay-body .trip-ratings p{margin-bottom:0.25em;line-height:1.5}
 .trip-ratings{margin-top:1.4em}
+.photo-essay .essay-body .trip-ratings .ratings-country-break{margin-top:1.2em}
 </style>
 
 <div class="trip-ratings">
 
 <p>Таня/Полина/Миша Сергей/Леля/Митя</p>
 
-<p>Франция: 5/5/5 5/5/3</p>
+<p><strong>Франция</strong>: 5/5/5 5/5/3</p>
 
 <p>Париж первое впечатление: 2/2/2 —/—/—</p>
 
@@ -72,7 +73,7 @@ hero_image: "20190825_150709.jpg"
 
 <p>Музей Страсбурга: —/—/— —/—/5+</p>
 
-<p>Германия: 5/5/5 5/5/4</p>
+<p class="ratings-country-break"><strong>Германия</strong>: 5/5/5 5/5/4</p>
 
 <p>Музей Мерседеса: 5/5/5 4/4/4</p>
 

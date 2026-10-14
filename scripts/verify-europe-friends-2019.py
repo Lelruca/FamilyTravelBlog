@@ -76,7 +76,7 @@ for c in m['chapters']:
     else:
         assert '<!-- BEGIN TEMPORARY DAY PLAN:' in s
         body=s.split('<!-- END TEMPORARY DAY PLAN -->',1)[1]
-    actual=[(tag,html.unescape(text)) for tag,text in re.findall(r'<(p|h2)>(.*?)</\1>',body,re.S)]
+    actual=[(tag,html.unescape(re.sub(r'</?strong>','',text))) for tag,text in re.findall(r'<(p|h2)(?:\s+[^>]*)?>(.*?)</\1>',body,re.S)]
     # Body order groups main report first, then messages, then notes.
     records=[r for sec in ['report','messages','notes','preparation'] for r in m['text_records'] if r['chapter']==c['slug'] and r['section']==sec]
     expected=[('h2' if r['kind']=='heading' else 'p',r.get('rendered_text',r['text'])) for r in records]
