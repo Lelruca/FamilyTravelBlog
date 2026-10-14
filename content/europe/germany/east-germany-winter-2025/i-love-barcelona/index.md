@@ -2,7 +2,7 @@
 title: "Заключение: I ❤️ Barcelona!!!"
 chapter_kind: "conclusion"
 layout: "photo-story"
-weight: 110
+weight: 120
 city: "Барселона"
 places:
   - barcelona

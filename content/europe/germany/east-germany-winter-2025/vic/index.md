@@ -2,7 +2,7 @@
 title: "Снова Барселона - поездка в Вик"
 chapter_kind: "part"
 layout: "photo-story"
-weight: 120
+weight: 110
 city: "Вик"
 places:
   - vic
