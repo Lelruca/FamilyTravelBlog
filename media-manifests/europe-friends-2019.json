@@ -3229,11 +3229,15 @@
       "kind": "paragraph",
       "text": "Ф/ФГ/Ф - Г/ФГ/Г",
       "sha256": "b07ebc1bb1893415c05bc3dabbfc9803cbe5d3c27e19023116f15ab8d196fa6e",
-      "rendered_text": "Ф/ФГ/Ф Г/ФГ/Г",
+      "rendered_text": "Какая страна понравилась больше всего: Ф/ФГ/Ф Г/ФГ/Г",
       "formatting_corrections": [
         {
           "before": "Ф/ФГ/Ф - Г/ФГ/Г",
           "after": "Ф/ФГ/Ф Г/ФГ/Г"
+        },
+        {
+          "before": "Ф/ФГ/Ф Г/ФГ/Г",
+          "after": "Какая страна понравилась больше всего: Ф/ФГ/Ф Г/ФГ/Г"
         }
       ]
     },
@@ -27204,6 +27208,10 @@
     {
       "date": "2026-10-14",
       "detail": "Owner requested removal of all technical comments from chapters and uniform conclusion score formatting. Temporary assistant plans/source links and HTML source comments removed; original notes/preparation retained; missing individual grades shown as —."
+    },
+    {
+      "date": "2026-10-14",
+      "detail": "Owner requested six participant colors for names and matching grades, bold country totals, and footer label Какая страна понравилась больше всего:."
     }
   ],
   "unresolved": [

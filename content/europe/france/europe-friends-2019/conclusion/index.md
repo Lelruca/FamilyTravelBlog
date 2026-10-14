@@ -33,82 +33,91 @@ hero_image: "20190825_150709.jpg"
 .photo-essay .essay-body .trip-ratings p{margin-bottom:0.25em;line-height:1.5}
 .trip-ratings{margin-top:1.4em}
 .photo-essay .essay-body .trip-ratings .ratings-country-break{margin-top:1.2em}
+
+.photo-essay .essay-body .trip-ratings .ratings-country,.trip-ratings .rating-names{font-weight:700}
+.trip-ratings .rating-person-0{color:#a12e43}
+.trip-ratings .rating-person-1{color:#7043a1}
+.trip-ratings .rating-person-2{color:#1d5794}
+.trip-ratings .rating-person-3{color:#176f64}
+.trip-ratings .rating-person-4{color:#985111}
+.trip-ratings .rating-person-5{color:#606718}
+.trip-ratings .rating-missing{color:#737373}
 </style>
 
 <div class="trip-ratings">
 
-<p>Таня/Полина/Миша Сергей/Леля/Митя</p>
+<p class="rating-names"><span class="rating-person-0">Таня</span>/<span class="rating-person-1">Полина</span>/<span class="rating-person-2">Миша</span> <span class="rating-person-3">Сергей</span>/<span class="rating-person-4">Леля</span>/<span class="rating-person-5">Митя</span></p>
 
-<p><strong>Франция</strong>: 5/5/5 5/5/3</p>
+<p class="ratings-country">Франция: <span class="rating-person-0">5</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">5</span> <span class="rating-person-3">5</span>/<span class="rating-person-4">5</span>/<span class="rating-person-5">3</span></p>
 
-<p>Париж первое впечатление: 2/2/2 —/—/—</p>
+<p>Париж первое впечатление: <span class="rating-person-0">2</span>/<span class="rating-person-1">2</span>/<span class="rating-person-2">2</span> <span class="rating-person-3 rating-missing">—</span>/<span class="rating-person-4 rating-missing">—</span>/<span class="rating-person-5 rating-missing">—</span></p>
 
-<p>Самостоятельно Париж: 5/4/4 —/—/—</p>
+<p>Самостоятельно Париж: <span class="rating-person-0">5</span>/<span class="rating-person-1">4</span>/<span class="rating-person-2">4</span> <span class="rating-person-3 rating-missing">—</span>/<span class="rating-person-4 rating-missing">—</span>/<span class="rating-person-5 rating-missing">—</span></p>
 
-<p>Орсе: 5/5+/4 —/—/—</p>
+<p>Орсе: <span class="rating-person-0">5</span>/<span class="rating-person-1">5+</span>/<span class="rating-person-2">4</span> <span class="rating-person-3 rating-missing">—</span>/<span class="rating-person-4 rating-missing">—</span>/<span class="rating-person-5 rating-missing">—</span></p>
 
-<p>Экскурсия с Монмартром: 5/5/5 —/—/—</p>
+<p>Экскурсия с Монмартром: <span class="rating-person-0">5</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">5</span> <span class="rating-person-3 rating-missing">—</span>/<span class="rating-person-4 rating-missing">—</span>/<span class="rating-person-5 rating-missing">—</span></p>
 
-<p>Лувр: 4/4/3 —/—/—</p>
+<p>Лувр: <span class="rating-person-0">4</span>/<span class="rating-person-1">4</span>/<span class="rating-person-2">3</span> <span class="rating-person-3 rating-missing">—</span>/<span class="rating-person-4 rating-missing">—</span>/<span class="rating-person-5 rating-missing">—</span></p>
 
-<p>Версаль: 4/5/3 2/3/3</p>
+<p>Версаль: <span class="rating-person-0">4</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">3</span> <span class="rating-person-3">2</span>/<span class="rating-person-4">3</span>/<span class="rating-person-5">3</span></p>
 
-<p>Сады: 5/5/5 —/—/—</p>
+<p>Сады: <span class="rating-person-0">5</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">5</span> <span class="rating-person-3 rating-missing">—</span>/<span class="rating-person-4 rating-missing">—</span>/<span class="rating-person-5 rating-missing">—</span></p>
 
-<p>Диснейленд дети: —/5/5 —/—/5</p>
+<p>Диснейленд дети: <span class="rating-person-0 rating-missing">—</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">5</span> <span class="rating-person-3 rating-missing">—</span>/<span class="rating-person-4 rating-missing">—</span>/<span class="rating-person-5">5</span></p>
 
-<p>Фуко: 5/—/— 5/4/—</p>
+<p>Фуко: <span class="rating-person-0">5</span>/<span class="rating-person-1 rating-missing">—</span>/<span class="rating-person-2 rating-missing">—</span> <span class="rating-person-3">5</span>/<span class="rating-person-4">4</span>/<span class="rating-person-5 rating-missing">—</span></p>
 
-<p>Фантембло: 5/—/— 5/5/—</p>
+<p>Фантембло: <span class="rating-person-0">5</span>/<span class="rating-person-1 rating-missing">—</span>/<span class="rating-person-2 rating-missing">—</span> <span class="rating-person-3">5</span>/<span class="rating-person-4">5</span>/<span class="rating-person-5 rating-missing">—</span></p>
 
-<p>Реймс: 5/5/4 5+/4/3</p>
+<p>Реймс: <span class="rating-person-0">5</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">4</span> <span class="rating-person-3">5+</span>/<span class="rating-person-4">4</span>/<span class="rating-person-5">3</span></p>
 
-<p>Собор: 5/5/5 5/5/5</p>
+<p>Собор: <span class="rating-person-0">5</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">5</span> <span class="rating-person-3">5</span>/<span class="rating-person-4">5</span>/<span class="rating-person-5">5</span></p>
 
-<p>Шампанское: 3/4/4 4/4/4</p>
+<p>Шампанское: <span class="rating-person-0">3</span>/<span class="rating-person-1">4</span>/<span class="rating-person-2">4</span> <span class="rating-person-3">4</span>/<span class="rating-person-4">4</span>/<span class="rating-person-5">4</span></p>
 
-<p>Реквир: 5+/5/5 5/5/4</p>
+<p>Реквир: <span class="rating-person-0">5+</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">5</span> <span class="rating-person-3">5</span>/<span class="rating-person-4">5</span>/<span class="rating-person-5">4</span></p>
 
-<p>Страсбург: 5/5/5+ 5/5+/5</p>
+<p>Страсбург: <span class="rating-person-0">5</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">5+</span> <span class="rating-person-3">5</span>/<span class="rating-person-4">5+</span>/<span class="rating-person-5">5</span></p>
 
-<p>Музей Страсбурга: —/—/— —/—/5+</p>
+<p>Музей Страсбурга: <span class="rating-person-0 rating-missing">—</span>/<span class="rating-person-1 rating-missing">—</span>/<span class="rating-person-2 rating-missing">—</span> <span class="rating-person-3 rating-missing">—</span>/<span class="rating-person-4 rating-missing">—</span>/<span class="rating-person-5">5+</span></p>
 
-<p class="ratings-country-break"><strong>Германия</strong>: 5/5/5 5/5/4</p>
+<p class="ratings-country ratings-country-break">Германия: <span class="rating-person-0">5</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">5</span> <span class="rating-person-3">5</span>/<span class="rating-person-4">5</span>/<span class="rating-person-5">4</span></p>
 
-<p>Музей Мерседеса: 5/5/5 4/4/4</p>
+<p>Музей Мерседеса: <span class="rating-person-0">5</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">5</span> <span class="rating-person-3">4</span>/<span class="rating-person-4">4</span>/<span class="rating-person-5">4</span></p>
 
-<p>Замок Гогенхольц: 4/5/4 4/4/4</p>
+<p>Замок Гогенхольц: <span class="rating-person-0">4</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">4</span> <span class="rating-person-3">4</span>/<span class="rating-person-4">4</span>/<span class="rating-person-5">4</span></p>
 
-<p>Ульм: 5/5/5 5/5/4</p>
+<p>Ульм: <span class="rating-person-0">5</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">5</span> <span class="rating-person-3">5</span>/<span class="rating-person-4">5</span>/<span class="rating-person-5">4</span></p>
 
-<p>Фьюссен: 5/5/4 5/4/3</p>
+<p>Фьюссен: <span class="rating-person-0">5</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">4</span> <span class="rating-person-3">5</span>/<span class="rating-person-4">4</span>/<span class="rating-person-5">3</span></p>
 
-<p>Замки Людовика: —/—/— —/—/—</p>
+<p>Замки Людовика: <span class="rating-person-0 rating-missing">—</span>/<span class="rating-person-1 rating-missing">—</span>/<span class="rating-person-2 rating-missing">—</span> <span class="rating-person-3 rating-missing">—</span>/<span class="rating-person-4 rating-missing">—</span>/<span class="rating-person-5 rating-missing">—</span></p>
 
-<p>Обермаргау: 4/4/4 4/4/3</p>
+<p>Обермаргау: <span class="rating-person-0">4</span>/<span class="rating-person-1">4</span>/<span class="rating-person-2">4</span> <span class="rating-person-3">4</span>/<span class="rating-person-4">4</span>/<span class="rating-person-5">3</span></p>
 
-<p>Нюренберг музей: 5+/5/4 5/5/5</p>
+<p>Нюренберг музей: <span class="rating-person-0">5+</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">4</span> <span class="rating-person-3">5</span>/<span class="rating-person-4">5</span>/<span class="rating-person-5">5</span></p>
 
-<p>Экскурсия Нюренберг: 4/4/5 5/5/4</p>
+<p>Экскурсия Нюренберг: <span class="rating-person-0">4</span>/<span class="rating-person-1">4</span>/<span class="rating-person-2">5</span> <span class="rating-person-3">5</span>/<span class="rating-person-4">5</span>/<span class="rating-person-5">4</span></p>
 
-<p>Горы: 5/5+/5 4/5/5</p>
+<p>Горы: <span class="rating-person-0">5</span>/<span class="rating-person-1">5+</span>/<span class="rating-person-2">5</span> <span class="rating-person-3">4</span>/<span class="rating-person-4">5</span>/<span class="rating-person-5">5</span></p>
 
-<p>Ущелье: 5/5/5+ 4/4/3</p>
+<p>Ущелье: <span class="rating-person-0">5</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">5+</span> <span class="rating-person-3">4</span>/<span class="rating-person-4">4</span>/<span class="rating-person-5">3</span></p>
 
-<p>Мюнхен обзорный: 4/5/5 5/5/5</p>
+<p>Мюнхен обзорный: <span class="rating-person-0">4</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">5</span> <span class="rating-person-3">5</span>/<span class="rating-person-4">5</span>/<span class="rating-person-5">5</span></p>
 
-<p>Нимфенбург: 4/4/4 5+/4/5</p>
+<p>Нимфенбург: <span class="rating-person-0">4</span>/<span class="rating-person-1">4</span>/<span class="rating-person-2">4</span> <span class="rating-person-3">5+</span>/<span class="rating-person-4">4</span>/<span class="rating-person-5">5</span></p>
 
-<p>Пинокатека: 4/5/4 5/5/3</p>
+<p>Пинокатека: <span class="rating-person-0">4</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">4</span> <span class="rating-person-3">5</span>/<span class="rating-person-4">5</span>/<span class="rating-person-5">3</span></p>
 
-<p>Резиденция: 5/5/4 5/5+/5</p>
+<p>Резиденция: <span class="rating-person-0">5</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">4</span> <span class="rating-person-3">5</span>/<span class="rating-person-4">5+</span>/<span class="rating-person-5">5</span></p>
 
-<p>Технический музей: —/—/5 5/—/5</p>
+<p>Технический музей: <span class="rating-person-0 rating-missing">—</span>/<span class="rating-person-1 rating-missing">—</span>/<span class="rating-person-2">5</span> <span class="rating-person-3">5</span>/<span class="rating-person-4 rating-missing">—</span>/<span class="rating-person-5">5</span></p>
 
-<p>Лейнбах хаус: 3/5/3 4/4/2</p>
+<p>Лейнбах хаус: <span class="rating-person-0">3</span>/<span class="rating-person-1">5</span>/<span class="rating-person-2">3</span> <span class="rating-person-3">4</span>/<span class="rating-person-4">4</span>/<span class="rating-person-5">2</span></p>
 
-<p>Музей нац социализма: 3/4/5 5/5/5+</p>
+<p>Музей нац социализма: <span class="rating-person-0">3</span>/<span class="rating-person-1">4</span>/<span class="rating-person-2">5</span> <span class="rating-person-3">5</span>/<span class="rating-person-4">5</span>/<span class="rating-person-5">5+</span></p>
 
-<p>Ф/ФГ/Ф Г/ФГ/Г</p>
+<p class="ratings-country ratings-country-break">Какая страна понравилась больше всего: <span class="rating-person-0">Ф</span>/<span class="rating-person-1">ФГ</span>/<span class="rating-person-2">Ф</span> <span class="rating-person-3">Г</span>/<span class="rating-person-4">ФГ</span>/<span class="rating-person-5">Г</span></p>
 
 </div>
