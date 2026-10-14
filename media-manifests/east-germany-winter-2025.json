@@ -83,7 +83,7 @@
       "facebook_set": "1338054744787724",
       "post_date": null,
       "text_sha256": "a3d60604b9d08c682115ad0a9b42aebc75745de15e88eb3e7c950dc5054a51ac",
-      "photo_count": 49,
+      "photo_count": 51,
       "original_count": 49
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "slug": "vic",
-      "title": "Вик",
+      "title": "Снова Барселона - поездка в Вик",
       "originals_folder": "11 - Вик",
       "facebook_set": null,
       "post_date": null,
@@ -4351,12 +4351,38 @@
       "sha256": "9d236b7b0dfa6453e690287dbb2d1a0f21965be3c1013255814ce1549fd1f99c"
     },
     {
-      "chapter": "vic",
-      "position": 6,
+      "chapter": "berlin-museum-island",
+      "position": "35a",
       "source_position": null,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "11 - Вик/06_20251220_124055.jpg",
+      "archive_name": "08 - Берлин - Музейный остров/35a_PXL_20251213_123942005.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251213_123942005.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 615906,
+      "sha256": "7278a02fec8fc27f3687169c0c6ae867bea4f4b21f92abde65547e24842d8b65"
+    },
+    {
+      "chapter": "berlin-museum-island",
+      "position": "35b",
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "08 - Берлин - Музейный остров/35b_PXL_20251213_124147855.jpg",
+      "kind": "original",
+      "original_relative_path": "телефон Сережи/PXL_20251213_124147855.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 135959,
+      "sha256": "3d60bbff4be0fb556feb0feca4d6bfcb167c6171f48f96822367e865b62a9936"
+    },
+    {
+      "chapter": "vic",
+      "position": 5,
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "11 - Вик/05_20251220_124055.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/20251220_124055.jpg",
       "added_by_owner": "2026-10-14",
@@ -4365,11 +4391,11 @@
     },
     {
       "chapter": "vic",
-      "position": 7,
+      "position": 6,
       "source_position": null,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "11 - Вик/07_20251220_124315.jpg",
+      "archive_name": "11 - Вик/06_20251220_124315.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/20251220_124315.jpg",
       "added_by_owner": "2026-10-14",
@@ -4378,11 +4404,11 @@
     },
     {
       "chapter": "vic",
-      "position": 11,
+      "position": 10,
       "source_position": null,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "11 - Вик/11_20251220_130330.jpg",
+      "archive_name": "11 - Вик/10_20251220_130330.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/20251220_130330.jpg",
       "added_by_owner": "2026-10-14",
@@ -4391,11 +4417,11 @@
     },
     {
       "chapter": "vic",
-      "position": 12,
+      "position": 11,
       "source_position": null,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "11 - Вик/12_20251220_130758.jpg",
+      "archive_name": "11 - Вик/11_20251220_130758.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/20251220_130758.jpg",
       "added_by_owner": "2026-10-14",
@@ -4404,11 +4430,11 @@
     },
     {
       "chapter": "vic",
-      "position": 13,
+      "position": 12,
       "source_position": null,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "11 - Вик/13_20251220_131010.jpg",
+      "archive_name": "11 - Вик/12_20251220_131010.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/20251220_131010.jpg",
       "added_by_owner": "2026-10-14",
@@ -4417,11 +4443,11 @@
     },
     {
       "chapter": "vic",
-      "position": 19,
+      "position": 18,
       "source_position": null,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "11 - Вик/19_20251220_131945.jpg",
+      "archive_name": "11 - Вик/18_20251220_131945.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/20251220_131945.jpg",
       "added_by_owner": "2026-10-14",
@@ -4430,11 +4456,11 @@
     },
     {
       "chapter": "vic",
-      "position": 15,
+      "position": 14,
       "source_position": null,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "11 - Вик/15_20251220_132608.jpg",
+      "archive_name": "11 - Вик/14_20251220_132608.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/20251220_132608.jpg",
       "added_by_owner": "2026-10-14",
@@ -4443,11 +4469,11 @@
     },
     {
       "chapter": "vic",
-      "position": 14,
+      "position": 13,
       "source_position": null,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "11 - Вик/14_20251220_133444.jpg",
+      "archive_name": "11 - Вик/13_20251220_133444.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/20251220_133444.jpg",
       "added_by_owner": "2026-10-14",
@@ -4456,11 +4482,11 @@
     },
     {
       "chapter": "vic",
-      "position": 10,
+      "position": 9,
       "source_position": null,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "11 - Вик/10_20251220_135350.jpg",
+      "archive_name": "11 - Вик/09_20251220_135350.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/20251220_135350.jpg",
       "added_by_owner": "2026-10-14",
@@ -4469,11 +4495,11 @@
     },
     {
       "chapter": "vic",
-      "position": 9,
+      "position": 8,
       "source_position": null,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "11 - Вик/09_20251220_135454.jpg",
+      "archive_name": "11 - Вик/08_20251220_135454.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/20251220_135454.jpg",
       "added_by_owner": "2026-10-14",
@@ -4482,11 +4508,11 @@
     },
     {
       "chapter": "vic",
-      "position": 8,
+      "position": 7,
       "source_position": null,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "11 - Вик/08_20251220_135706.jpg",
+      "archive_name": "11 - Вик/07_20251220_135706.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/20251220_135706.jpg",
       "added_by_owner": "2026-10-14",
@@ -4660,8 +4686,7 @@
       "position": 1,
       "source_position": null,
       "facebook_id": null,
-      "caption": "Пласа Майор",
-      "caption_by": "Claude, по просьбе владельца",
+      "caption": "",
       "archive_name": "11 - Вик/01_20251220_162514.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/20251220_162514.jpg",
@@ -4684,20 +4709,6 @@
     },
     {
       "chapter": "vic",
-      "position": 2,
-      "source_position": null,
-      "facebook_id": null,
-      "caption": "Пласа Майор — одна из самых больших площадей Каталонии",
-      "caption_by": "Claude, по просьбе владельца",
-      "archive_name": "11 - Вик/02_20251220_162552.jpg",
-      "kind": "original",
-      "original_relative_path": "фото владельца/20251220_162552.jpg",
-      "added_by_owner": "2026-10-14",
-      "bytes": 3245167,
-      "sha256": "6bbf3f788a86246961db570b21f3bc8ce430c0845dbf98741ff4741b05874624"
-    },
-    {
-      "chapter": "vic",
       "position": 4,
       "source_position": null,
       "facebook_id": null,
@@ -4711,11 +4722,12 @@
     },
     {
       "chapter": "vic",
-      "position": 5,
+      "position": 2,
       "source_position": null,
       "facebook_id": null,
-      "caption": "",
-      "archive_name": "11 - Вик/05_20251220_162743.jpg",
+      "caption": "Пласа Майор — одна из самых больших площадей Каталонии",
+      "caption_by": "Claude, по просьбе владельца",
+      "archive_name": "11 - Вик/02_20251220_162743.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/20251220_162743.jpg",
       "added_by_owner": "2026-10-14",
@@ -4724,11 +4736,11 @@
     },
     {
       "chapter": "vic",
-      "position": 17,
+      "position": 16,
       "source_position": null,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "11 - Вик/17_PXL_20251220_120424248.jpg",
+      "archive_name": "11 - Вик/16_PXL_20251220_120424248.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/PXL_20251220_120424248.jpg",
       "added_by_owner": "2026-10-14",
@@ -4737,16 +4749,29 @@
     },
     {
       "chapter": "vic",
-      "position": 18,
+      "position": 17,
       "source_position": null,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "11 - Вик/18_PXL_20251220_120526651.jpg",
+      "archive_name": "11 - Вик/17_PXL_20251220_120526651.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/PXL_20251220_120526651.jpg",
       "added_by_owner": "2026-10-14",
       "bytes": 486028,
       "sha256": "179b865f88f678bd8d282203b9875623f23024630364a37d19b4411f89f14a5e"
+    },
+    {
+      "chapter": "vic",
+      "position": 19,
+      "source_position": null,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "11 - Вик/19_PXL_20251220_121052727.jpg",
+      "kind": "original",
+      "original_relative_path": "фото владельца/PXL_20251220_121052727.jpg",
+      "added_by_owner": "2026-10-14",
+      "bytes": 294930,
+      "sha256": "9938516b100fbda89c140e4b7c33d318d2b861c4d61c5e29af69c9d2c6b46444"
     },
     {
       "chapter": "vic",
@@ -4776,11 +4801,11 @@
     },
     {
       "chapter": "vic",
-      "position": 16,
+      "position": 15,
       "source_position": null,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "11 - Вик/16_PXL_20251220_122937410.jpg",
+      "archive_name": "11 - Вик/15_PXL_20251220_122937410.jpg",
       "kind": "original",
       "original_relative_path": "фото владельца/PXL_20251220_122937410.jpg",
       "added_by_owner": "2026-10-14",
@@ -4807,7 +4832,7 @@
   "drive_trip_folder_id": "1bao0eMRAZLPtMCNnpgXLT5OKV0vZm9tZ",
   "captions_note": "Captions are the author's own per-photo texts from Facebook, verbatim; photos without one have an empty caption.",
   "r2": {
-    "checked": "2026-10-14T17:10:32.083Z",
+    "checked": "2026-10-14T17:19:19.352Z",
     "base": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "copies": [
       {
@@ -5918,6 +5943,26 @@
         "bytes": 70075,
         "sha256": "ef0165f9ad5d0fa924d1a48896827243cdd23041c37fa4597896e1f70ae8e956",
         "archive_name": "08 - Берлин - Музейный остров/28b_PXL_20251213_104106394.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/berlin-museum-island/PXL_20251213_123942005.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-museum-island/PXL_20251213_123942005.jpg",
+        "width": 1213,
+        "height": 914,
+        "bytes": 546609,
+        "sha256": "b853e5224d54b89b1b2c308cd148bc69df3f2a56c613ce51c01feb9fcbab193b",
+        "archive_name": "08 - Берлин - Музейный остров/35a_PXL_20251213_123942005.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/berlin-museum-island/PXL_20251213_124147855.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/berlin-museum-island/PXL_20251213_124147855.jpg",
+        "width": 688,
+        "height": 913,
+        "bytes": 111729,
+        "sha256": "9043ccd1627e3a4dea3e80fca614eab6126696eb9b5b20ad04bb95d5eff72df5",
+        "archive_name": "08 - Берлин - Музейный остров/35b_PXL_20251213_124147855.jpg",
         "verified": true
       },
       {
@@ -7867,7 +7912,7 @@
         "height": 2000,
         "bytes": 573764,
         "sha256": "139156db82fc987bd87db8f3d9bd20e1117c62debdbeb2d215ed93213b30ce72",
-        "archive_name": "11 - Вик/06_20251220_124055.jpg",
+        "archive_name": "11 - Вик/05_20251220_124055.jpg",
         "verified": true
       },
       {
@@ -7877,7 +7922,7 @@
         "height": 2000,
         "bytes": 586149,
         "sha256": "24c281853c43432526c0af9fb5d3a1d2e587277c1e9d57931ec80c927cb09019",
-        "archive_name": "11 - Вик/07_20251220_124315.jpg",
+        "archive_name": "11 - Вик/06_20251220_124315.jpg",
         "verified": true
       },
       {
@@ -7887,7 +7932,7 @@
         "height": 1500,
         "bytes": 313984,
         "sha256": "c0acccadda11f73f533392be1cc2ed9cbc90f678f9122976b7594fdd3e1b163d",
-        "archive_name": "11 - Вик/11_20251220_130330.jpg",
+        "archive_name": "11 - Вик/10_20251220_130330.jpg",
         "verified": true
       },
       {
@@ -7897,7 +7942,7 @@
         "height": 2000,
         "bytes": 238650,
         "sha256": "2cd415dbc1407c54052f3509028ec2b51b2bdbd0ece049463be98a7b79715df4",
-        "archive_name": "11 - Вик/12_20251220_130758.jpg",
+        "archive_name": "11 - Вик/11_20251220_130758.jpg",
         "verified": true
       },
       {
@@ -7907,7 +7952,7 @@
         "height": 2000,
         "bytes": 611345,
         "sha256": "9c6aa888207326e5e1816a9aa5b15c925f85acd7918262c2e23939452a38cca6",
-        "archive_name": "11 - Вик/13_20251220_131010.jpg",
+        "archive_name": "11 - Вик/12_20251220_131010.jpg",
         "verified": true
       },
       {
@@ -7917,7 +7962,7 @@
         "height": 2000,
         "bytes": 387548,
         "sha256": "8dffd70d16c103ad49b5c617bbfc5ba169e0d2856c46674f7f8258e6ef1b2b9d",
-        "archive_name": "11 - Вик/19_20251220_131945.jpg",
+        "archive_name": "11 - Вик/18_20251220_131945.jpg",
         "verified": true
       },
       {
@@ -7927,7 +7972,7 @@
         "height": 2000,
         "bytes": 600461,
         "sha256": "6bbe7678a6679accd0509ad806c7b6955d112c11192577f2d8c6e6db9fba223c",
-        "archive_name": "11 - Вик/15_20251220_132608.jpg",
+        "archive_name": "11 - Вик/14_20251220_132608.jpg",
         "verified": true
       },
       {
@@ -7937,7 +7982,7 @@
         "height": 2000,
         "bytes": 422301,
         "sha256": "d589c28ac58dee140b99a46dc17f86768314b25732c0f4e20152c08247329211",
-        "archive_name": "11 - Вик/14_20251220_133444.jpg",
+        "archive_name": "11 - Вик/13_20251220_133444.jpg",
         "verified": true
       },
       {
@@ -7947,7 +7992,7 @@
         "height": 2000,
         "bytes": 360793,
         "sha256": "35bb4147e7e98cd1816521c4a88af2b435c2f07ffaff310d118504bac602bd8e",
-        "archive_name": "11 - Вик/10_20251220_135350.jpg",
+        "archive_name": "11 - Вик/09_20251220_135350.jpg",
         "verified": true
       },
       {
@@ -7957,7 +8002,7 @@
         "height": 2000,
         "bytes": 325174,
         "sha256": "12557fea728afef7d6bced7f4d0e49b98a089db9dee7ef6f29eaaf05370c4e09",
-        "archive_name": "11 - Вик/09_20251220_135454.jpg",
+        "archive_name": "11 - Вик/08_20251220_135454.jpg",
         "verified": true
       },
       {
@@ -7967,7 +8012,7 @@
         "height": 2000,
         "bytes": 501420,
         "sha256": "b47d167ed8c08b668a84277552102decc31f9afa1b15ad4bdecd04c03bd3bc15",
-        "archive_name": "11 - Вик/08_20251220_135706.jpg",
+        "archive_name": "11 - Вик/07_20251220_135706.jpg",
         "verified": true
       },
       {
@@ -8111,16 +8156,6 @@
         "verified": true
       },
       {
-        "key": "east-germany-winter-2025/vic/20251220_162552.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/vic/20251220_162552.jpg",
-        "width": 2000,
-        "height": 1500,
-        "bytes": 485367,
-        "sha256": "69fd2423d4d963f55457ef2e7c3ba3b8c9506d81c44b4d836f949be03416c419",
-        "archive_name": "11 - Вик/02_20251220_162552.jpg",
-        "verified": true
-      },
-      {
         "key": "east-germany-winter-2025/vic/20251220_162714.jpg",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/vic/20251220_162714.jpg",
         "width": 1500,
@@ -8137,7 +8172,7 @@
         "height": 1500,
         "bytes": 406371,
         "sha256": "878de1ee5a7e92391ddec4deda1078b6513899fa39eca4eed014539667b77904",
-        "archive_name": "11 - Вик/05_20251220_162743.jpg",
+        "archive_name": "11 - Вик/02_20251220_162743.jpg",
         "verified": true
       },
       {
@@ -8147,7 +8182,7 @@
         "height": 914,
         "bytes": 386329,
         "sha256": "007b63abc14a43d96382f4a323c771653b9172922c9465360fb0d5f0cdff5378",
-        "archive_name": "11 - Вик/17_PXL_20251220_120424248.jpg",
+        "archive_name": "11 - Вик/16_PXL_20251220_120424248.jpg",
         "verified": true
       },
       {
@@ -8157,7 +8192,17 @@
         "height": 914,
         "bytes": 421195,
         "sha256": "1fa5effb8bd62a38adc565cc37f487c720002552a89345288771fb8b3e2f5eeb",
-        "archive_name": "11 - Вик/18_PXL_20251220_120526651.jpg",
+        "archive_name": "11 - Вик/17_PXL_20251220_120526651.jpg",
+        "verified": true
+      },
+      {
+        "key": "east-germany-winter-2025/vic/PXL_20251220_121052727.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/vic/PXL_20251220_121052727.jpg",
+        "width": 1213,
+        "height": 914,
+        "bytes": 243043,
+        "sha256": "61ea4b695c415c9ba9d4092d6d14b503bd5c6d2766db8027acf6b4eba4bcc9d4",
+        "archive_name": "11 - Вик/19_PXL_20251220_121052727.jpg",
         "verified": true
       },
       {
@@ -8187,7 +8232,7 @@
         "height": 913,
         "bytes": 228303,
         "sha256": "fa193b0ad8e9107269b32576a443f3376261a25e451ccfcefff48ae89b6fb9cd",
-        "archive_name": "11 - Вик/16_PXL_20251220_122937410.jpg",
+        "archive_name": "11 - Вик/15_PXL_20251220_122937410.jpg",
         "verified": true
       }
     ]
