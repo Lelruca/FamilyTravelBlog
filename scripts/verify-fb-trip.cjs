@@ -46,7 +46,9 @@ for (const ch of cfg.chapters) {
   // captions
   for (const p of manifest.photos.filter(p => p.chapter === slug && p.caption)) {
     const attrs = [...html.matchAll(/data-caption="([^"]*)"/g)].map(m => decode(m[1]));
-    if (!attrs.includes(p.caption)) fail(`${slug}: caption of ${displayName(p.archive_name)} missing or changed`);
+    // a long caption may be shown as a paragraph next to its photo instead (class photo-note)
+    const notes = [...body.matchAll(/<p class="photo-note">([\s\S]*?)<\/p>/g)].map(m => decode(m[1].replace(/<br>/g, "\n")));
+    if (!attrs.includes(p.caption) && !notes.some(n => n.includes(p.caption))) fail(`${slug}: caption of ${displayName(p.archive_name)} missing or changed`);
     else captions++;
   }
 }

@@ -41,13 +41,6 @@
 .photo-essay .essay-overlay{position:absolute;left:0;right:0;bottom:0;padding:40px 16px 14px;color:#fff;font-size:15px;line-height:1.4;background:linear-gradient(transparent,rgba(0,0,0,.62))}
 /* the author's caption of a photo (partial story-photo-caption.html): temporarily in colour for the owner's review */
 .photo-essay .essay-authorcap{position:absolute;left:0;right:0;bottom:0;padding:6px 10px 0;border-bottom:7px solid rgba(18,84,120,.86);background:rgba(18,84,120,.86);background-clip:padding-box;color:#fff;font-size:13px;line-height:1.35;white-space:pre-line;display:-webkit-box;-webkit-line-clamp:3;line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-/* a caption longer than three lines is shown in full under its photo instead (script below) */
-.photo-essay .essay-authorcap.is-long{display:none}
-.photo-essay .essay-longcaps{margin-top:8px}
-.photo-essay .essay-longcaps p{margin:0 0 4px;padding:6px 10px 7px;background:rgba(18,84,120,.86);color:#fff;font-size:13px;line-height:1.4;white-space:pre-line;border-radius:2px;max-width:none}
-.photo-essay .essay-longcaps.aligned{display:flex;gap:var(--essay-gap);align-items:flex-start}
-.photo-essay .essay-longcaps.aligned p{flex:none;margin:0}
-.photo-essay .essay-longcaps.aligned p:empty{visibility:hidden}
 .photo-essay .essay-cap{margin:6px 0 0;font-size:14px;line-height:1.5;font-style:italic;color:#77736a}
 .photo-essay .essay-cap span{display:block}
 .photo-essay .essay-cap span::before{content:"— "}
@@ -214,41 +207,6 @@
   const all = () => mosaics.forEach(layout);
   all();
   let t; addEventListener('resize', () => { clearTimeout(t); t = setTimeout(all, 120); });
-})();
-</script>
-<script>
-// Author captions (partial story-photo-caption.html): up to three lines stay on the photo; a longer one is shown in
-// full under the photo block — under its own photo when the photos stand in one line, otherwise as a list in order.
-(() => {
-  const place = () => document.querySelectorAll('.photo-essay .essay-group').forEach((g) => {
-    g.querySelector('.essay-longcaps')?.remove();
-    const caps = [...g.querySelectorAll('.essay-authorcap')];
-    if (!caps.length) return;
-    caps.forEach((c) => c.classList.remove('is-long'));
-    const long = caps.filter((c) => c.scrollHeight > c.clientHeight + 2);
-    if (!long.length) return;
-    long.forEach((c) => c.classList.add('is-long'));
-    const box = document.createElement('div');
-    box.className = 'essay-longcaps';
-    const row = g.querySelector('.essay-row');
-    const photos = [...g.querySelectorAll('.essay-photo')];
-    if (row && photos.every((p) => Math.abs(p.offsetTop - photos[0].offsetTop) < 2)) {
-      box.classList.add('aligned');
-      photos.forEach((p) => {
-        const cell = document.createElement('p');
-        cell.style.width = p.offsetWidth + 'px';
-        const c = p.querySelector('.essay-authorcap.is-long');
-        if (c) cell.textContent = c.textContent;
-        box.append(cell);
-      });
-    } else {
-      long.forEach((c) => { const p = document.createElement('p'); p.textContent = c.textContent; box.append(p); });
-    }
-    g.append(box);
-  });
-  let t;
-  window.addEventListener('load', place);
-  window.addEventListener('resize', () => { clearTimeout(t); t = setTimeout(place, 150); });
 })();
 </script>
 {{ end }}
