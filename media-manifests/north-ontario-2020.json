@@ -2115,20 +2115,6 @@
       "drive_id": "1c4SCGtyCjguPJYKrfODP3HWOlMLoUfMv"
     },
     {
-      "chapter": "lake-superior-park",
-      "position": "13b",
-      "source_position": "13b",
-      "facebook_id": null,
-      "caption": "",
-      "archive_name": "08 - Прощание с Верхним озером/13b_20200704_214228.jpg",
-      "kind": "original",
-      "added_by_owner": "2026-10-14: sunsets of the same evening, not in the post",
-      "original_relative_path": "2020/2020 Лето/North Ontario/20200704_214228.jpg",
-      "bytes": 2309751,
-      "sha256": "4cb7d2fced748ff45f0df144a3282d48d16057eaae69a8e917b8a47b3885739d",
-      "drive_id": "1Vv9RYw1Fq90YY-FyYIDuN4DpIbSNq1hk"
-    },
-    {
       "chapter": "manitoulin",
       "position": 1,
       "source_position": 1,
@@ -2388,7 +2374,7 @@
   "drive_sync_checked": "2026-10-14T21:17:38.427Z",
   "drive_trip_folder_id": "1b8VpumRDdg8sGR7ZmIWvUJJ33_AgCLEi",
   "r2": {
-    "checked": "2026-10-14T21:18:47.787Z",
+    "checked": "2026-10-14T21:20:36.576Z",
     "base": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "copies": [
       {
@@ -2679,16 +2665,6 @@
         "bytes": 356617,
         "sha256": "a64601220831796f44bc556420aa276856e69e180c5d70b9b7c688e81a8e5d42",
         "archive_name": "08 - Прощание с Верхним озером/11_20200704_211949.jpg",
-        "verified": true
-      },
-      {
-        "key": "north-ontario-2020/lake-superior-park/20200704_214228.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/north-ontario-2020/lake-superior-park/20200704_214228.jpg",
-        "width": 2000,
-        "height": 1500,
-        "bytes": 233745,
-        "sha256": "2c2dfa75e247232d8608611b8e8d481c07905eb92ba14e0cb36e2e79e16720b4",
-        "archive_name": "08 - Прощание с Верхним озером/13b_20200704_214228.jpg",
         "verified": true
       },
       {
@@ -4081,5 +4057,22 @@
         "replaced": "2026-10-14: the owner did not like it"
       }
     ]
-  }
+  },
+  "unused_photos": [
+    {
+      "chapter": "lake-superior-park",
+      "position": "13b",
+      "source_position": "13b",
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "08 - Прощание с Верхним озером/zz_не использовано_20200704_214228.jpg",
+      "kind": "original",
+      "added_by_owner": "2026-10-14: sunsets of the same evening, not in the post",
+      "original_relative_path": "2020/2020 Лето/North Ontario/20200704_214228.jpg",
+      "bytes": 2309751,
+      "sha256": "4cb7d2fced748ff45f0df144a3282d48d16057eaae69a8e917b8a47b3885739d",
+      "drive_id": "1Vv9RYw1Fq90YY-FyYIDuN4DpIbSNq1hk",
+      "removed": "2026-10-14: the owner kept one sunset in the text"
+    }
+  ]
 }
