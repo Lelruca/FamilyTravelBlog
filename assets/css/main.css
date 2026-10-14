@@ -110,12 +110,6 @@
   .photo-lightbox-prev { @apply left-1 md:left-2; }
   .photo-lightbox-next { @apply right-1 md:right-2; }
 
-  .photo-lightbox-caption {
-    @apply absolute bottom-3 left-1/2 -translate-x-1/2 w-max max-w-[min(90%,48rem)] rounded px-4 py-2 text-sm leading-snug text-white;
-    background: rgba(18, 84, 120, 0.88);
-    white-space: pre-line;
-  }
-
   .photo-lightbox-counter {
     @apply absolute left-0 right-0 -bottom-7 text-center text-sm text-white/70;
   }
