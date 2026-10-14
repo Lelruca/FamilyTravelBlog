@@ -3978,16 +3978,35 @@
   "r2_verified": true,
   "trip_cover": {
     "shown": {
-      "archive_name": "06 - Спящий великан/12_IMG_2894.JPG",
-      "kind": "chapter-photo",
-      "sha256": "a3bfe3fe21be1ce3068d8e2efb10cf5459828ad2c851faa577ff7d7e442e19f2",
+      "archive_name": "00 - Обложка/01_IMG_2853.JPG",
+      "kind": "original",
+      "original_relative_path": "2020/2020 Лето/North Ontario/Sleeping Giant/IMG_2853.JPG",
+      "note": "Chosen by the owner 2026-10-14; not among the photos of the posts",
+      "bytes": 2337154,
+      "sha256": "3183050f8b4f4e0c7b98e2b97c8269b9ffe776d5dd6267586f6d9a3f4aa8c2a4",
       "r2": {
-        "key": "north-ontario-2020/sleeping-giant/IMG_2894.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/north-ontario-2020/sleeping-giant/IMG_2894.jpg"
+        "key": "north-ontario-2020/cover/IMG_2853.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/north-ontario-2020/cover/IMG_2853.jpg",
+        "width": 2000,
+        "height": 1500,
+        "sha256": "e890ca30765943d77df156a2f87ee4b6c520bd66cc77d8a4769eb4ae8100fd2e",
+        "verified": true
       }
     },
-    "note": "Chosen by the owner 2026-10-14",
     "superseded": [
+      {
+        "shown": {
+          "archive_name": "06 - Спящий великан/12_IMG_2894.JPG",
+          "kind": "chapter-photo",
+          "sha256": "a3bfe3fe21be1ce3068d8e2efb10cf5459828ad2c851faa577ff7d7e442e19f2",
+          "r2": {
+            "key": "north-ontario-2020/sleeping-giant/IMG_2894.jpg",
+            "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/north-ontario-2020/sleeping-giant/IMG_2894.jpg"
+          }
+        },
+        "note": "Chosen by the owner 2026-10-14",
+        "replaced": "2026-10-14: the owner chose another"
+      },
       {
         "original": {
           "archive_name": "00 - Обложка/zz_не использовано_20200702_130415.jpg",
