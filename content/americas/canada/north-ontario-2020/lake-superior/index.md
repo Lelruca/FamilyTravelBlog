@@ -12,7 +12,7 @@ places:
 hero_image: "20200628_104606.jpg"
 date: "2020-06-28"
 auto_gallery: false
-draft: true
+draft: false
 ---
 <p>Сегодня у нас был очень интересный день! </p>
 

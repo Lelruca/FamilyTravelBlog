@@ -9,7 +9,7 @@ places:
 hero_image: "IMG_2884.jpg"
 date: "2020-07-02"
 auto_gallery: false
-draft: true
+draft: false
 ---
 <p>Сегодня не хочется говорить, а хочется только показывать!</p>
 

@@ -10,7 +10,7 @@ places:
 hero_image: "20200705_184642.jpg"
 date: "2020-07-05"
 auto_gallery: false
-draft: true
+draft: false
 ---
 <p>Закончилось наше путешествие на Север Онтарио.</p>
 
