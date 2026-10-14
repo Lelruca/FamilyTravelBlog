@@ -14,7 +14,7 @@ cover_title: "Северное Онтарио"
 cover_subtitle: "Ontario - \"Yours to Discover\""
 cover_when: "Июнь – июль 2020"
 cover_who: "Сережа, Леля, Митя и Лиза"
-cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/north-ontario-2020/lake-superior/20200628_104606.jpg"
+cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/north-ontario-2020/cover/20200702_130415-clean.jpg"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
 draft: true
 ---
