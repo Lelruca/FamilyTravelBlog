@@ -9,14 +9,14 @@ auto_gallery: false
 places:
   - douro
   - casa-de-mateus
-hero_image: "20170701_130212.jpg"
+hero_image: "IMG_0304.JPG"
 ---
 
 <p>Одна река - Дору. По ее берегам виноградники (еще оливковые и миндальные рощи). Тут же винодельни, производящие вино и портвейн. Тут не надо говорить, тут надо смотреть!</p>
 
 {{< mosaic "L:IMG_0308.JPG IMG_0314.JPG IMG_0328.JPG" >}}
 
-{{< mosaic "L:IMG_0304.JPG IMG_0322.JPG IMG_0351.JPG" >}}
+{{< mosaic "L:20170701_130212.jpg IMG_0322.JPG IMG_0351.JPG" >}}
 
 {{< row "IMG_0350.JPG IMG_0347.JPG" >}}
 

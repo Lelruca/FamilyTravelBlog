@@ -243,11 +243,11 @@
     }
   },
   "douro": {
-    "hero": "douro:20170701_130212.jpg",
+    "hero": "douro:IMG_0304.JPG",
     "groups": {
       "1": [
         "m L:douro:IMG_0308.JPG douro:IMG_0314.JPG douro:IMG_0328.JPG",
-        "m L:douro:IMG_0304.JPG douro:IMG_0322.JPG douro:IMG_0351.JPG",
+        "m L:douro:20170701_130212.jpg douro:IMG_0322.JPG douro:IMG_0351.JPG",
         "r douro:IMG_0350.JPG douro:IMG_0347.JPG",
         "r douro:IMG_0345.JPG"
       ],
@@ -451,13 +451,13 @@
     "hero": "bussaco:20170704_213253.jpg",
     "groups": {
       "2": [
-        "r bussaco:20170703_172542.jpg bussaco:20170703_174603.jpg",
-        "m L:bussaco:20170703_172915.jpg bussaco:20170703_172856.jpg bussaco:20170703_172747.jpg"
+        "r bussaco:IMG_0567.JPG bussaco:20170703_212049.jpg",
+        "m L:bussaco:20170703_172915.jpg bussaco:20170704_125021.jpg bussaco:20170704_220303.jpg"
       ],
       "3": [
-        "m L:bussaco:20170703_163936.jpg bussaco:20170703_163949.jpg bussaco:20170703_163133.jpg bussaco:20170703_163226.jpg",
-        "r bussaco:20170703_165434.jpg bussaco:20170704_103709.jpg",
-        "r bussaco:20170704_103848.jpg bussaco:20170703_171747.jpg"
+        "r bussaco:20170704_103848.jpg",
+        "r bussaco:20170703_163949.jpg bussaco:20170703_165434.jpg bussaco:20170703_163226.jpg",
+        "r bussaco:20170703_163936.jpg bussaco:20170704_103616.jpg"
       ],
       "4": [
         "r bussaco:20170704_112744.jpg bussaco:20170704_112800.jpg"
@@ -472,7 +472,8 @@
         "m L:bussaco:20170704_100830.jpg bussaco:20170704_095628.jpg bussaco:20170704_095804.jpg"
       ],
       "22": [
-        "r bussaco:20170703_172636.jpg bussaco:20170703_172519.jpg"
+        "r bussaco:20170703_172636.jpg bussaco:20170703_172519.jpg",
+        "r bussaco:20170704_125050.jpg bussaco:20170703_172856.jpg bussaco:20170703_172747.jpg"
       ],
       "23": [
         "m L:bussaco:IMG_0542.JPG bussaco:IMG_0552.JPG bussaco:IMG_0555.JPG bussaco:IMG_0564.JPG",
@@ -480,10 +481,8 @@
         "r bussaco:20170704_113431.jpg bussaco:IMG_0560.JPG"
       ],
       "24": [
-        "r bussaco:20170704_201153.jpg",
-        "r bussaco:20170704_202549.jpg bussaco:20170704_202705.jpg",
-        "r bussaco:20170704_210045.jpg bussaco:20170704_214040.jpg",
-        "r bussaco:20170703_212049.jpg bussaco:20170704_220303.jpg"
+        "r bussaco:20170704_201153.jpg bussaco:20170704_202549.jpg",
+        "r bussaco:20170704_202705.jpg bussaco:20170704_210045.jpg"
       ]
     },
     "notes": [
@@ -507,7 +506,7 @@
         "m L:aveiro:IMG_0625.JPG aveiro:IMG_0624.JPG aveiro:IMG_0630.JPG"
       ],
       "3": [
-        "m L:aveiro:IMG_0618.JPG aveiro:IMG_0621.JPG aveiro:IMG_0620.JPG aveiro:IMG_0626.JPG"
+        "r aveiro:IMG_0618.JPG"
       ],
       "4": [
         "m L:aveiro:IMG_0613.JPG aveiro:20170704_153251.jpg aveiro:IMG_0615.JPG aveiro:20170704_153619.jpg"
@@ -526,10 +525,11 @@
     "require_horizontal_hero": true
   },
   "guimaraes-braga": {
-    "hero": "guimaraes-braga:IMG_0765.JPG",
+    "hero": "guimaraes-braga:IMG_0679.JPG",
     "groups": {
       "1": [
-        "r guimaraes-braga:IMG_0669.JPG guimaraes-braga:IMG_0666.JPG"
+        "r guimaraes-braga:IMG_0669.JPG guimaraes-braga:IMG_0666.JPG",
+        "r guimaraes-braga:IMG_0660.JPG guimaraes-braga:20170705_122920.jpg"
       ],
       "3": [
         "r guimaraes-braga:IMG_0708.JPG guimaraes-braga:IMG_0710.JPG"
@@ -538,76 +538,74 @@
         "r guimaraes-braga:20170705_125241.jpg"
       ],
       "5": [
-        "r guimaraes-braga:IMG_0681.JPG guimaraes-braga:IMG_0684.JPG"
+        "r guimaraes-braga:IMG_0681.JPG guimaraes-braga:IMG_0688.JPG"
       ],
       "6": [
-        "m L:guimaraes-braga:IMG_0689.JPG guimaraes-braga:IMG_0695.JPG guimaraes-braga:IMG_0700.JPG guimaraes-braga:IMG_0705.JPG",
-        "r guimaraes-braga:IMG_0707.JPG guimaraes-braga:IMG_0706.JPG"
+        "r guimaraes-braga:IMG_0689.JPG guimaraes-braga:IMG_0695.JPG guimaraes-braga:IMG_0700.JPG",
+        "r guimaraes-braga:IMG_0705.JPG guimaraes-braga:IMG_0707.JPG guimaraes-braga:IMG_0706.JPG"
       ],
       "7": [
-        "r guimaraes-braga:IMG_0716.JPG guimaraes-braga:IMG_0714.JPG"
+        "r guimaraes-braga:20170705_150525.jpg guimaraes-braga:IMG_0714.JPG"
       ],
       "8": [
         "m L:guimaraes-braga:IMG_0726.JPG guimaraes-braga:IMG_0731.JPG guimaraes-braga:IMG_0733.JPG"
       ],
       "9": [
-        "r guimaraes-braga:IMG_0722.JPG",
-        "r guimaraes-braga:IMG_0736.JPG guimaraes-braga:IMG_0737.JPG"
+        "m L:guimaraes-braga:IMG_0722.JPG guimaraes-braga:IMG_0736.JPG guimaraes-braga:IMG_0737.JPG"
       ],
       "10": [
         "m L:guimaraes-braga:IMG_0738.JPG guimaraes-braga:IMG_0742.JPG guimaraes-braga:20170705_155304.jpg"
       ],
       "11": [
-        "m L:guimaraes-braga:20170705_150530.jpg guimaraes-braga:IMG_0721.JPG guimaraes-braga:20170705_163702.jpg guimaraes-braga:20170705_163724.jpg"
+        "m L:guimaraes-braga:IMG_0721.JPG guimaraes-braga:20170705_163702.jpg guimaraes-braga:20170705_163724.jpg"
       ],
       "12": [
         "r guimaraes-braga:20170705_153207.jpg guimaraes-braga:20170705_153318.jpg"
       ],
       "13": [
-        "r guimaraes-braga:IMG_0750.JPG",
-        "m L:guimaraes-braga:IMG_0753.JPG guimaraes-braga:IMG_0756.JPG guimaraes-braga:IMG_0755.JPG guimaraes-braga:IMG_0754.JPG"
+        "m L:guimaraes-braga:IMG_0750.JPG guimaraes-braga:IMG_0753.JPG guimaraes-braga:IMG_0756.JPG guimaraes-braga:IMG_0755.JPG guimaraes-braga:IMG_0754.JPG"
       ],
       "14": [
-        "r guimaraes-braga:IMG_0759.JPG",
-        "m L:guimaraes-braga:IMG_0762.JPG guimaraes-braga:IMG_0758.JPG"
+        "m L:guimaraes-braga:IMG_0759.JPG guimaraes-braga:IMG_0762.JPG guimaraes-braga:IMG_0758.JPG guimaraes-braga:IMG_0765.JPG"
       ]
     },
     "notes": [
       "Author collage compositions reviewed visually and rebuilt from individually openable originals; selected family frames take priority. No ready collages, preserve text and filenames. Source folder may contain adjacent chapter originals; source refs and R2 keys preserve provenance."
     ],
-    "card": "guimaraes-braga:IMG_0765.JPG",
+    "card": "guimaraes-braga:IMG_0679.JPG",
     "require_horizontal_hero": true
   },
   "esposende-viana-barcelos": {
     "hero": "esposende-viana-barcelos:20170705_203405.jpg",
     "groups": {
       "8": [
-        "m L:esposende-viana-barcelos:20170706_134959.jpg esposende-viana-barcelos:20170706_135202.jpg esposende-viana-barcelos:20170706_123133.jpg esposende-viana-barcelos:20170706_123142.jpg"
+        "r esposende-viana-barcelos:Gemini_Generated_Image_74ilc074ilc074il.jpg esposende-viana-barcelos:20170706_135202.jpg"
       ],
       "9": [
-        "r esposende-viana-barcelos:IMG_0785.JPG esposende-viana-barcelos:IMG_0779.JPG",
-        "m L:esposende-viana-barcelos:IMG_0787.JPG esposende-viana-barcelos:IMG_0791.JPG esposende-viana-barcelos:IMG_0821.JPG esposende-viana-barcelos:IMG_0822.JPG"
+        "r esposende-viana-barcelos:IMG_0778.JPG esposende-viana-barcelos:IMG_0777.JPG",
+        "r esposende-viana-barcelos:IMG_0785.JPG esposende-viana-barcelos:IMG_0787.JPG"
       ],
       "10": [
-        "m L:esposende-viana-barcelos:20170706_115220.jpg esposende-viana-barcelos:20170706_124736.jpg esposende-viana-barcelos:20170706_125317.jpg esposende-viana-barcelos:20170706_115238.jpg"
+        "r esposende-viana-barcelos:20170706_115220.jpg",
+        "r esposende-viana-barcelos:20170706_115238.jpg esposende-viana-barcelos:20170706_115443.jpg"
       ],
-      "11": [
-        "r esposende-viana-barcelos:20170706_114157.jpg"
-      ],
+      "11": [],
       "12": [
-        "r esposende-viana-barcelos:20170706_121842.jpg"
+        "r esposende-viana-barcelos:20170706_114157.jpg esposende-viana-barcelos:20170706_121842.jpg"
       ],
       "13": [
         "r esposende-viana-barcelos:IMG_0810.JPG"
       ],
       "14": [
-        "r esposende-viana-barcelos:IMG_0827.JPG esposende-viana-barcelos:IMG_0829.JPG",
+        "r esposende-viana-barcelos:IMG_0829.JPG esposende-viana-barcelos:IMG_0827.JPG",
+        "r esposende-viana-barcelos:IMG_0813.JPG esposende-viana-barcelos:IMG_0817.JPG",
+        "r esposende-viana-barcelos:IMG_0819.JPG esposende-viana-barcelos:20170706_174138.jpg",
         "r esposende-viana-barcelos:20170706_151214.jpg esposende-viana-barcelos:20170706_145926.jpg",
-        "m L:esposende-viana-barcelos:20170706_154804.jpg esposende-viana-barcelos:20170706_154010.jpg esposende-viana-barcelos:20170706_154341.jpg",
-        "m L:esposende-viana-barcelos:20170706_153701.jpg esposende-viana-barcelos:20170706_152215.jpg esposende-viana-barcelos:20170706_152556.jpg",
-        "m L:esposende-viana-barcelos:20170706_155249.jpg esposende-viana-barcelos:20170706_154927.jpg esposende-viana-barcelos:20170706_155152.jpg esposende-viana-barcelos:20170706_155102.jpg",
-        "r esposende-viana-barcelos:20170706_151044.jpg esposende-viana-barcelos:20170706_163851.jpg",
-        "m L:esposende-viana-barcelos:IMG_0774.JPG esposende-viana-barcelos:IMG_0819.JPG esposende-viana-barcelos:20170706_145712.jpg"
+        "r esposende-viana-barcelos:20170706_154804.jpg esposende-viana-barcelos:20170706_154420.jpg esposende-viana-barcelos:20170706_154341.jpg",
+        "r esposende-viana-barcelos:20170706_152215.jpg esposende-viana-barcelos:20170706_153701.jpg esposende-viana-barcelos:20170706_152556.jpg",
+        "r esposende-viana-barcelos:20170706_155102.jpg esposende-viana-barcelos:20170706_155249.jpg",
+        "r esposende-viana-barcelos:20170706_155152.jpg esposende-viana-barcelos:20170706_154927.jpg",
+        "r esposende-viana-barcelos:20170706_174546.jpg esposende-viana-barcelos:20170706_163851.jpg"
       ],
       "1": [
         "r esposende-viana-barcelos:20170705_202831.jpg esposende-viana-barcelos:20170705_202255.jpg"
@@ -618,36 +616,36 @@
       "5": [
         "r esposende-viana-barcelos:20170705_203400.jpg esposende-viana-barcelos:20170707_102605.jpg"
       ],
-      "3": [
-        "r esposende-viana-barcelos:20170707_111627.jpg"
-      ],
+      "3": [],
       "4": [
-        "r esposende-viana-barcelos:20170707_111045.jpg"
+        "r esposende-viana-barcelos:20170707_111627.jpg esposende-viana-barcelos:20170707_111045.jpg"
       ]
     },
     "notes": [
       "Author collage compositions reviewed visually and rebuilt from individually openable originals; selected family frames take priority. No ready collages, preserve text and filenames. Source folder may contain adjacent chapter originals; source refs and R2 keys preserve provenance.",
       "No standalone children-camp or bare-feet original found (only inside collage 13_1/13_2). Do not attach unrelated frames to specific claims.",
-      "Owner supplied beach children originals: camp 111627 at paragraph3, bathing 111045 at paragraph4, feet102605 at sand paragraph5; no need for ready13_1/13_2."
+      "Owner supplied beach children originals: camp 111627 at paragraph3, bathing 111045 at paragraph4, feet102605 at sand paragraph5; no need for ready13_1/13_2.",
+      "Owner collage re-review: restore wide fountain portrait, Gothic town hall, costume map and filigree production, exact painted pottery, matching Barcelos town views. Remove three redundant church details. Umbrella owner edited derivative replaces car original on page; both archived. Sculpture and widow paired after their adjacent paragraphs."
     ],
     "require_horizontal_hero": true
   },
   "porto-1": {
-    "hero": "porto-1:IMG_0851.JPG",
+    "hero": "porto-2:20170708_153418.jpg",
     "groups": {
       "2": [
         "m L:porto-1:20170707_141526.jpg porto-1:20170707_115245.jpg porto-1:20170707_130532.jpg"
       ],
       "9": [
-        "r porto-1:IMG_0839.JPG porto-1:IMG_0846.JPG"
+        "r porto-1:IMG_0844.JPG porto-1:IMG_0845.JPG",
+        "r porto-1:IMG_0846.JPG porto-1:IMG_0849.JPG"
       ],
       "10": [
         "r porto-1:IMG_0831.JPG"
       ],
       "11": [
-        "m L:porto-1:20170707_165750.jpg porto-1:IMG_0853.JPG porto-1:IMG_0857.JPG",
-        "r porto-1:IMG_0862.JPG porto-1:IMG_0865.JPG",
-        "m L:porto-1:IMG_0870.JPG porto-1:IMG_0871.JPG porto-1:IMG_0872.JPG"
+        "r porto-1:IMG_0853.JPG porto-1:IMG_0857.JPG",
+        "r porto-1:IMG_0860.JPG",
+        "m L:porto-1:20170707_165750.jpg porto-1:IMG_0870.JPG porto-1:IMG_0871.JPG porto-1:IMG_0872.JPG"
       ],
       "12": [
         "r porto-1:20170707_203114.jpg",
@@ -660,45 +658,46 @@
     },
     "notes": [
       "Author collages14_1/14_3/14_4 reviewed and rebuilt from separate originals, match car/metro/church/Bolsa/heraldry/evening/fish text.",
-      "Owner located individual hotel photos in Porto day 2; breakfast, facade, room and stone detail grouped after hotel paragraph in day 1."
+      "Owner located individual hotel photos in Porto day 2; breakfast, facade, room and stone detail grouped after hotel paragraph in day 1.",
+      "Owner selected IMG_0852,0853,0860,0870 and 165750. IMG_0852 not present in supplied archive; requested from owner, never substitute.",
+      "Owner requested brighter cover and authorized borrowing day3. Horizontal sunny Ribeira panorama IMG_0957 chosen; original remains in day3 archive, cross-chapter usage explicit."
     ],
     "require_horizontal_hero": true
   },
   "porto-2": {
-    "hero": "porto-2:20170708_113045.jpg",
+    "hero": "porto-2:IMG_0880.JPG",
     "require_horizontal_hero": true,
     "groups": {
       "2": [
         "r porto-2:20170708_115308.jpg"
       ],
       "5": [
-        "m L:porto-2:20170708_125258.jpg porto-2:20170708_125147.jpg porto-2:20170708_125156.jpg porto-2:20170708_125201.jpg",
-        "r porto-2:20170708_132943.jpg"
+        "r porto-2:20170708_125147.jpg porto-2:20170708_125156.jpg",
+        "r porto-2:20170708_125201.jpg porto-2:20170708_125150.jpg",
+        "r porto-2:20170708_125258.jpg porto-2:20170708_132943.jpg"
       ],
       "6": [
         "r porto-2:20170708_142851.jpg porto-2:20170708_144804.jpg"
       ],
-      "8": [
-        "r porto-2:20170708_155152.jpg"
-      ],
+      "8": [],
       "9": [
         "r porto-2:20170708_152954.jpg"
       ],
       "10": [
-        "m L:porto-2:20170708_153418.jpg porto-2:20170708_153548.jpg porto-2:20170708_153900.jpg"
+        "r porto-2:20170708_155152.jpg porto-2:20170708_153418.jpg"
       ],
       "11": [
         "r porto-2:20170708_161047.jpg porto-2:20170708_155319.jpg"
       ],
       "12": [
-        "m L:porto-2:20170708_161536.jpg porto-2:20170708_161558.jpg porto-2:20170708_161605.jpg porto-2:20170708_161712.jpg"
+        "m L:porto-2:20170708_161536.jpg porto-2:20170708_160950.jpg porto-2:20170708_161558.jpg"
       ],
       "14": [
         "r porto-2:20170708_162525.jpg"
       ],
       "15": [
-        "m L:porto-2:20170708_165055.jpg porto-2:20170708_165638.jpg porto-2:20170708_171041.jpg porto-2:20170708_170958.jpg",
-        "r porto-2:20170708_171448.jpg porto-2:20170708_171818.jpg"
+        "r porto-2:20170708_165055.jpg porto-2:20170708_171448.jpg",
+        "r porto-2:20170708_171818.jpg porto-2:20170708_171041.jpg"
       ],
       "16": [
         "r porto-2:20170708_173539.jpg porto-2:20170708_173542.jpg"
@@ -734,8 +733,8 @@
         "r porto-3:20170709_111652.jpg porto-3:20170709_140712.jpg"
       ],
       "6": [
-        "r porto-3:20170709_124356.jpg porto-3:IMG_0945.JPG",
-        "m L:porto-3:IMG_0941.JPG porto-3:IMG_0956.JPG porto-3:20170709_130810_001.jpg",
+        "r porto-3:20170709_124356.jpg porto-3:IMG_0947.JPG",
+        "r porto-3:IMG_0941.JPG porto-3:20170709_130810_001.jpg",
         "r porto-3:IMG_0963.JPG porto-3:IMG_0953.JPG"
       ],
       "7": [
@@ -758,23 +757,23 @@
         "r porto-3:IMG_1025.JPG porto-3:IMG_1029.JPG"
       ],
       "13": [
-        "r porto-3:IMG_0985.JPG porto-3:IMG_0982.JPG"
+        "m L:porto-3:IMG_0982.JPG porto-3:20170709_133432.jpg porto-3:20170709_203055.jpg"
       ],
       "14": [
-        "m L:porto-3:IMG_1035.JPG porto-3:IMG_1039.JPG porto-3:IMG_1040.JPG",
-        "r porto-3:IMG_1046.JPG porto-3:20170709_203055.jpg"
+        "r porto-3:IMG_1035.JPG porto-3:IMG_1046.JPG",
+        "r porto-3:IMG_1039.JPG porto-3:IMG_1040.JPG"
       ],
       "15": [
         "r porto-3:20170709_180326.jpg porto-3:20170709_180656.jpg"
       ],
       "16": [
         "r porto-3:IMG_1052.JPG porto-3:IMG_1053.JPG",
-        "r porto-3:IMG_1055.JPG porto-3:20170709_212800.jpg"
+        "r porto-3:IMG_1055.JPG porto-3:IMG_1084.JPG"
       ],
       "17": [
         "r porto-3:20170709_210455.jpg porto-3:IMG_1072.JPG",
-        "m L:porto-3:IMG_1060.JPG porto-3:IMG_1068.JPG porto-3:IMG_1077.JPG",
-        "r porto-3:IMG_1084.JPG porto-3:IMG_1086.JPG",
+        "r porto-3:IMG_1086.JPG porto-3:IMG_1079.JPG",
+        "r porto-3:20170709_212800.jpg porto-3:20170709_215832.jpg",
         "r porto-3:20170709_230908.jpg"
       ]
     },
