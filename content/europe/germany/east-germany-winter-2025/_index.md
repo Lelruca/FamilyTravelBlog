@@ -16,7 +16,7 @@ cover_title: "Восточная Германия зимой"
 cover_subtitle: "В гости к дочке"
 cover_when: "Декабрь 2025"
 cover_who: "Сережа и Леля, в гостях у Наташи"
-cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/dresden-gallery-opera/20251210_141754.jpg"
+cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/cover/20251212_120200.jpg"
 cover_position: "center 60%"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
 draft: true

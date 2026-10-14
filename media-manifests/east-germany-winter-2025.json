@@ -6973,5 +6973,19 @@
       }
     ]
   },
-  "r2_verified": true
+  "r2_verified": true,
+  "trip_cover": {
+    "archive_name": "00 - Обложка/01_20251212_120200.jpg",
+    "kind": "original",
+    "original_relative_path": "2025 Осень + декабрь/Berlin - Dresden/Berlin/20251212_120200.jpg",
+    "sha256": "83600b71639d6f79e84e80abd081f9c8d18a3c470983735d8a0d44c413ace885",
+    "r2": {
+      "key": "east-germany-winter-2025/cover/20251212_120200.jpg",
+      "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/east-germany-winter-2025/cover/20251212_120200.jpg",
+      "width": 2000,
+      "height": 1500,
+      "sha256": "e74bf39b6188151441839bdf04e39675a9911f3d1858028dd63f38f579c5546b",
+      "verified": true
+    }
+  }
 }
