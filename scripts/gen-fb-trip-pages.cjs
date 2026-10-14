@@ -5,7 +5,7 @@
 //
 // Usage: node scripts/gen-fb-trip-pages.cjs <trip-config.json> <pages.json> [layout.json]
 //   pages.json: { dir, trip: { front matter of _index.md }, chapters: { <slug>: { title, city, places, kind? } } }
-//   layout.json: { draft, cover, cover_position, chapters: { <slug>: { hero, hero_crop, blocks: [
+//   layout.json: { draft, cover, cover_position, chapters: { <slug>: { hero, hero_crop, joins: [[from, to]], blocks: [
 //                  { after: <paragraph index, -1 = before the first>, kind: "row"|"mosaic", items: "L:3 5 7" },
 //                  { after, kind: "beside", items: "4", side }, { after, kind: "text", captions: "8 9", join } ] } } }
 //   Photos are given by their number in the post; "18a" is an addition of the owner next to photo 18.
@@ -84,7 +84,13 @@ cfg.chapters.forEach((ch, n) => {
   };
   const body = [];
   (after[-1] || []).forEach(b => body.push(render(b)));
-  paras.forEach((p, i) => { body.push(`<p>${esc(p)}</p>`); (after[i] || []).forEach(b => body.push(render(b))); });
+  // "joins": [[3, 9]] — short lines of one list or table (lines 3–9) shown as one paragraph with line breaks
+  const joinOf = i => (raw.joins || []).find(([a, b]) => i >= a && i <= b);
+  paras.forEach((p, i) => {
+    const j = joinOf(i);
+    if (!j || i === j[0]) body.push(`<p>${(j ? paras.slice(j[0], j[1] + 1) : [p]).map(esc).join("<br>")}</p>`);
+    if (!j || i === j[1]) for (let k = j ? j[0] : i; k <= i; k++) (after[k] || []).forEach(b => body.push(render(b)));
+  });
 
   const m = pages.chapters[ch.slug];
   const dir = `${tripDir}/${ch.slug}`;
