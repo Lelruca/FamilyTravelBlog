@@ -1,8 +1,8 @@
 ---
-title: "I ❤️ Barcelona!!!"
-chapter_kind: "part"
+title: "Заключение: I ❤️ Barcelona!!!"
+chapter_kind: "conclusion"
 layout: "photo-story"
-weight: 120
+weight: 110
 city: "Барселона"
 places:
   - barcelona
