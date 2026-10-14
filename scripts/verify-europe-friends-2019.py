@@ -49,7 +49,7 @@ for r in m['text_records']:
     assert hashlib.sha256(clean.encode()).hexdigest()==r['sha256']
     if 'rendered_text' in r:
         corrected=clean
-        for change in r['grammar_corrections']:
+        for change in r.get('grammar_corrections',[])+r.get('formatting_corrections',[]):
             assert change['before'] in corrected
             corrected=corrected.replace(change['before'],change['after'])
         assert corrected==r['rendered_text']
@@ -141,7 +141,8 @@ if m.get('chapter_media',{}).get('paris',{}).get('r2_verified'):
     names=[n for row in names for n in row.split()]
     hero=m['chapter_media']['paris']['hero_image']
     assert hero not in names and len(names)==23 and len(set(names+[hero]))==24
-    assert paris.index('source: owner-paris-revised paragraph 0')<paris.index('{{< row')
+    paris_intro=next(r['text'] for r in m['text_records'] if r['source']=='owner-paris-revised')
+    assert paris.index(html.escape(paris_intro,quote=False))<paris.index('{{< row')
     if args.build_dir:
         page=root/args.build_dir/m['contentDir'].removeprefix('content/')/'paris/index.html'
         built=page.read_text(encoding='utf8')

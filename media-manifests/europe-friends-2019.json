@@ -153,7 +153,8 @@
       ],
       "author_paragraphs": 5,
       "photo_stage": "awaiting-owner-selection",
-      "drive_folder_id": "1PcsOgv4BjtwhfBvmEhIroTxn-u-QYi_C"
+      "drive_folder_id": "1PcsOgv4BjtwhfBvmEhIroTxn-u-QYi_C",
+      "draft_plan_removed": true
     },
     {
       "slug": "paris",
@@ -335,7 +336,8 @@
       ],
       "author_paragraphs": 39,
       "photo_stage": "archive-and-r2-verified",
-      "drive_folder_id": "1_Ko8fK8eU_8Yqq38L-3mzpCX7fNGpphi"
+      "drive_folder_id": "1_Ko8fK8eU_8Yqq38L-3mzpCX7fNGpphi",
+      "draft_plan_removed": true
     },
     {
       "slug": "munich-nymphenburg",
@@ -353,7 +355,8 @@
       ],
       "author_paragraphs": 24,
       "photo_stage": "archive-and-r2-verified",
-      "drive_folder_id": "1KcoCYEbaJPfT2SDfDtGyrkC5RzOq_Hte"
+      "drive_folder_id": "1KcoCYEbaJPfT2SDfDtGyrkC5RzOq_Hte",
+      "draft_plan_removed": true
     },
     {
       "slug": "munich-residence",
@@ -371,7 +374,8 @@
       ],
       "author_paragraphs": 16,
       "photo_stage": "archive-and-r2-verified",
-      "drive_folder_id": "1oVcanghhUFuAKdehV2h8knPvI542faoW"
+      "drive_folder_id": "1oVcanghhUFuAKdehV2h8knPvI542faoW",
+      "draft_plan_removed": true
     },
     {
       "slug": "munich-rothenburg",
@@ -390,7 +394,8 @@
       ],
       "author_paragraphs": 39,
       "photo_stage": "archive-and-r2-verified",
-      "drive_folder_id": "1b_s8bOafaxFWTDP5hzQmAZhYlh1vR7oW"
+      "drive_folder_id": "1b_s8bOafaxFWTDP5hzQmAZhYlh1vR7oW",
+      "draft_plan_removed": true
     },
     {
       "slug": "wurzburg-rudesheim",
@@ -408,7 +413,8 @@
       ],
       "author_paragraphs": 35,
       "photo_stage": "archive-and-r2-verified",
-      "drive_folder_id": "1xwYVauzEb0wbBLBeuIR9Itw_3M05L7nC"
+      "drive_folder_id": "1xwYVauzEb0wbBLBeuIR9Itw_3M05L7nC",
+      "draft_plan_removed": true
     },
     {
       "slug": "rhine-cologne",
@@ -426,7 +432,8 @@
       ],
       "author_paragraphs": 15,
       "photo_stage": "archive-and-r2-verified",
-      "drive_folder_id": "1B9-7jleJ-PQFNQExAUruxMTFMaAqwUzm"
+      "drive_folder_id": "1B9-7jleJ-PQFNQExAUruxMTFMaAqwUzm",
+      "draft_plan_removed": true
     },
     {
       "slug": "aachen-tournai-somme",
@@ -443,7 +450,8 @@
       ],
       "author_paragraphs": 21,
       "photo_stage": "archive-and-r2-verified",
-      "drive_folder_id": "1HB4RGqrFhUdgVykE4rJ7XMhaVDeFrUar"
+      "drive_folder_id": "1HB4RGqrFhUdgVykE4rJ7XMhaVDeFrUar",
+      "draft_plan_removed": true
     },
     {
       "slug": "rouen-honfleur",
@@ -460,7 +468,8 @@
       ],
       "author_paragraphs": 6,
       "photo_stage": "archive-and-r2-verified",
-      "drive_folder_id": "1FL9IGgYtdSpDsJS0LmWATBnekd931H2g"
+      "drive_folder_id": "1FL9IGgYtdSpDsJS0LmWATBnekd931H2g",
+      "draft_plan_removed": true
     },
     {
       "slug": "meaux",
@@ -468,36 +477,23 @@
       "weight": 18,
       "date": "2019-09-01",
       "days": [
-        19
+        19,
+        20
       ],
       "archive_folder": "18 - Музей Первой мировой в Мо",
       "plan": "Музей Первой мировой войны в Мо. После музея — возвращение в сады Версаля, прогулка и работающие фонтаны. Оба посещения подтверждают снимки 1 сентября; Лувр остался вариантом первоначального плана.",
       "sources": [
         "viber"
       ],
-      "author_paragraphs": 7,
+      "author_paragraphs": 8,
       "photo_stage": "archive-and-r2-verified",
-      "drive_folder_id": "1ETHirRBN3Ipd0g7aah1-wkFaVSzPO8ZJ"
-    },
-    {
-      "slug": "departure",
-      "title": "Домой",
-      "weight": 19,
-      "date": "2019-09-02",
-      "days": [
-        20
-      ],
-      "archive_folder": "19 - Домой",
-      "plan": "Вылет домой 2 сентября. В первоначальной таблице указан рейс в 9 утра; найден снимок Лели и Мити в самолёте. Отдельного авторского рассказа об этом дне нет.",
-      "sources": [],
-      "author_paragraphs": 1,
-      "photo_stage": "archive-and-r2-verified",
-      "drive_folder_id": "1nceQoqUKobOxpFhYoxUpwosfGUUc7Row"
+      "drive_folder_id": "1ETHirRBN3Ipd0g7aah1-wkFaVSzPO8ZJ",
+      "draft_plan_removed": true
     },
     {
       "slug": "conclusion",
       "title": "Заключение и наши оценки",
-      "weight": 20,
+      "weight": 19,
       "date": "2019-09-02",
       "days": [],
       "archive_folder": "20 - Заключение",
@@ -507,7 +503,8 @@
       ],
       "author_paragraphs": 46,
       "photo_stage": "archive-and-r2-verified",
-      "drive_folder_id": "1QvYp56_q6xARwkJdqov-aD6AVO_CbK7f"
+      "drive_folder_id": "1QvYp56_q6xARwkJdqov-aD6AVO_CbK7f",
+      "draft_plan_removed": true
     }
   ],
   "text_records": [
@@ -2655,7 +2652,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Таня/Полина/Миша - Сергей/Леля/Митя",
-      "sha256": "ee71d1471b0914ee68909112c19f8e93faa451e39d295370708163b99075ecde"
+      "sha256": "ee71d1471b0914ee68909112c19f8e93faa451e39d295370708163b99075ecde",
+      "rendered_text": "Таня/Полина/Миша Сергей/Леля/Митя",
+      "formatting_corrections": [
+        {
+          "before": "Таня/Полина/Миша - Сергей/Леля/Митя",
+          "after": "Таня/Полина/Миша Сергей/Леля/Митя"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2664,7 +2668,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Франция 5/5/5 - 5/5/3",
-      "sha256": "327eaa8fd2a4b47170a4d8b37871b564ffe292144fa9ff01dd97dced62a014ee"
+      "sha256": "327eaa8fd2a4b47170a4d8b37871b564ffe292144fa9ff01dd97dced62a014ee",
+      "rendered_text": "Франция: 5/5/5 5/5/3",
+      "formatting_corrections": [
+        {
+          "before": "Франция 5/5/5 - 5/5/3",
+          "after": "Франция: 5/5/5 5/5/3"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2673,7 +2684,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Париж первое впечатление - 2/2/2 - -/-/-",
-      "sha256": "62ff9b520f680ac70aceb9ac95e1a042e0bdbe548f07b3cf272347b4314ee0ad"
+      "sha256": "62ff9b520f680ac70aceb9ac95e1a042e0bdbe548f07b3cf272347b4314ee0ad",
+      "rendered_text": "Париж первое впечатление: 2/2/2 —/—/—",
+      "formatting_corrections": [
+        {
+          "before": "Париж первое впечатление - 2/2/2 - -/-/-",
+          "after": "Париж первое впечатление: 2/2/2 —/—/—"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2682,7 +2700,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Самостоятельно Париж - 5/4/4  - -/-/-",
-      "sha256": "5d3b98a11a2002ea2f51bd2371c2fd4f9bf90d6b8ef60b3046b7eb982b198e18"
+      "sha256": "5d3b98a11a2002ea2f51bd2371c2fd4f9bf90d6b8ef60b3046b7eb982b198e18",
+      "rendered_text": "Самостоятельно Париж: 5/4/4 —/—/—",
+      "formatting_corrections": [
+        {
+          "before": "Самостоятельно Париж - 5/4/4  - -/-/-",
+          "after": "Самостоятельно Париж: 5/4/4 —/—/—"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2691,7 +2716,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Орсе - 5/5+/4  - -/-/-",
-      "sha256": "33ade86d56600901976216e7427de2d0535928a269a2302a734eea731e8df058"
+      "sha256": "33ade86d56600901976216e7427de2d0535928a269a2302a734eea731e8df058",
+      "rendered_text": "Орсе: 5/5+/4 —/—/—",
+      "formatting_corrections": [
+        {
+          "before": "Орсе - 5/5+/4  - -/-/-",
+          "after": "Орсе: 5/5+/4 —/—/—"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2700,7 +2732,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Экскурсия с Монмартром - 5/5/5  - -/-/-",
-      "sha256": "8ffb6b559979b4ca3e5cea00c6af030a46e5ae33771f7e4a6dbea10f444f1c2e"
+      "sha256": "8ffb6b559979b4ca3e5cea00c6af030a46e5ae33771f7e4a6dbea10f444f1c2e",
+      "rendered_text": "Экскурсия с Монмартром: 5/5/5 —/—/—",
+      "formatting_corrections": [
+        {
+          "before": "Экскурсия с Монмартром - 5/5/5  - -/-/-",
+          "after": "Экскурсия с Монмартром: 5/5/5 —/—/—"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2709,7 +2748,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Лувр - 4/4/3  - -/-/-",
-      "sha256": "115a3419bcc610ae5490c809aa3b022cdfd8159cda11c431a13f54baaae49d8b"
+      "sha256": "115a3419bcc610ae5490c809aa3b022cdfd8159cda11c431a13f54baaae49d8b",
+      "rendered_text": "Лувр: 4/4/3 —/—/—",
+      "formatting_corrections": [
+        {
+          "before": "Лувр - 4/4/3  - -/-/-",
+          "after": "Лувр: 4/4/3 —/—/—"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2718,7 +2764,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Версаль - 4/5/3 - 2/3/3",
-      "sha256": "cd1afcfddcf9d4f47736a2a6b117d96f983e1c4361a0562a7ad8658fd8cbe4e8"
+      "sha256": "cd1afcfddcf9d4f47736a2a6b117d96f983e1c4361a0562a7ad8658fd8cbe4e8",
+      "rendered_text": "Версаль: 4/5/3 2/3/3",
+      "formatting_corrections": [
+        {
+          "before": "Версаль - 4/5/3 - 2/3/3",
+          "after": "Версаль: 4/5/3 2/3/3"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2727,7 +2780,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Сады - 5/5/5",
-      "sha256": "c727c913f9f389e771365a187e37992acc8bf238b7083e19ee0a94d8db6bcf36"
+      "sha256": "c727c913f9f389e771365a187e37992acc8bf238b7083e19ee0a94d8db6bcf36",
+      "rendered_text": "Сады: 5/5/5 —/—/—",
+      "formatting_corrections": [
+        {
+          "before": "Сады - 5/5/5",
+          "after": "Сады: 5/5/5 —/—/—"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2736,7 +2796,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Диснейленд дети -/5/5/ - /-/5",
-      "sha256": "68a48deae80f0384b0d945a9ddff2bab1c65b36c06afa34f794e5147357aa7b9"
+      "sha256": "68a48deae80f0384b0d945a9ddff2bab1c65b36c06afa34f794e5147357aa7b9",
+      "rendered_text": "Диснейленд дети: —/5/5 —/—/5",
+      "formatting_corrections": [
+        {
+          "before": "Диснейленд дети -/5/5/ - /-/5",
+          "after": "Диснейленд дети: —/5/5 —/—/5"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2745,7 +2812,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Фуко 5/-/-  -  5/4/-",
-      "sha256": "2c14096b1727538c14e772f56acca30c59005571ccea7c935f278f44d1957ef2"
+      "sha256": "2c14096b1727538c14e772f56acca30c59005571ccea7c935f278f44d1957ef2",
+      "rendered_text": "Фуко: 5/—/— 5/4/—",
+      "formatting_corrections": [
+        {
+          "before": "Фуко 5/-/-  -  5/4/-",
+          "after": "Фуко: 5/—/— 5/4/—"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2754,7 +2828,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Фантембло 5/-/-  -  5/5/-",
-      "sha256": "0a2271b51033d763fc47be151b3a137108cff2c2eebc11e03b81a081acaacf0c"
+      "sha256": "0a2271b51033d763fc47be151b3a137108cff2c2eebc11e03b81a081acaacf0c",
+      "rendered_text": "Фантембло: 5/—/— 5/5/—",
+      "formatting_corrections": [
+        {
+          "before": "Фантембло 5/-/-  -  5/5/-",
+          "after": "Фантембло: 5/—/— 5/5/—"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2763,7 +2844,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Реймс 5/5/4 - 5+/4/3",
-      "sha256": "1f79e0e1f67007aa7c4ac86b57d4bc7d23c620d4b045c58458350ad18432fa3d"
+      "sha256": "1f79e0e1f67007aa7c4ac86b57d4bc7d23c620d4b045c58458350ad18432fa3d",
+      "rendered_text": "Реймс: 5/5/4 5+/4/3",
+      "formatting_corrections": [
+        {
+          "before": "Реймс 5/5/4 - 5+/4/3",
+          "after": "Реймс: 5/5/4 5+/4/3"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2772,7 +2860,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Собор 5/5/5 - 5/5/5",
-      "sha256": "a6b501b82bddc1f00400ba9c67c4889c0f8f5c22973e746a69a541a34865ec95"
+      "sha256": "a6b501b82bddc1f00400ba9c67c4889c0f8f5c22973e746a69a541a34865ec95",
+      "rendered_text": "Собор: 5/5/5 5/5/5",
+      "formatting_corrections": [
+        {
+          "before": "Собор 5/5/5 - 5/5/5",
+          "after": "Собор: 5/5/5 5/5/5"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2781,7 +2876,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Шампанское 3/4/4 - 4/4/4",
-      "sha256": "f4948f2ee06555367856b5f0e01387fb7a6f8d570d119787bda83292042eb344"
+      "sha256": "f4948f2ee06555367856b5f0e01387fb7a6f8d570d119787bda83292042eb344",
+      "rendered_text": "Шампанское: 3/4/4 4/4/4",
+      "formatting_corrections": [
+        {
+          "before": "Шампанское 3/4/4 - 4/4/4",
+          "after": "Шампанское: 3/4/4 4/4/4"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2790,7 +2892,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Реквир 5+/5/5 - 5/5/4",
-      "sha256": "10a53cc28df307b883320c1e55c80f475c6ac1697d88e47f208959f2108812e2"
+      "sha256": "10a53cc28df307b883320c1e55c80f475c6ac1697d88e47f208959f2108812e2",
+      "rendered_text": "Реквир: 5+/5/5 5/5/4",
+      "formatting_corrections": [
+        {
+          "before": "Реквир 5+/5/5 - 5/5/4",
+          "after": "Реквир: 5+/5/5 5/5/4"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2799,7 +2908,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Страсбург 5/5/5+ - 5/5+/5",
-      "sha256": "81b0c8f6fa9bd53ab0df601a797a66e8b5f47f6124396ca6ef7a8cc269a528ca"
+      "sha256": "81b0c8f6fa9bd53ab0df601a797a66e8b5f47f6124396ca6ef7a8cc269a528ca",
+      "rendered_text": "Страсбург: 5/5/5+ 5/5+/5",
+      "formatting_corrections": [
+        {
+          "before": "Страсбург 5/5/5+ - 5/5+/5",
+          "after": "Страсбург: 5/5/5+ 5/5+/5"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2808,7 +2924,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Музей Страсбурга - Митя 5+",
-      "sha256": "a816def67e709230773b7c623b6d60128abcfd34970bb9b11af6034e86b77f01"
+      "sha256": "a816def67e709230773b7c623b6d60128abcfd34970bb9b11af6034e86b77f01",
+      "rendered_text": "Музей Страсбурга: —/—/— —/—/5+",
+      "formatting_corrections": [
+        {
+          "before": "Музей Страсбурга - Митя 5+",
+          "after": "Музей Страсбурга: —/—/— —/—/5+"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2817,7 +2940,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Германия 5/5/5 - 5/5/4",
-      "sha256": "3d35088fdaef63356f1842273006ffb2955c1f6213f98093b4d18a23c8a0fbec"
+      "sha256": "3d35088fdaef63356f1842273006ffb2955c1f6213f98093b4d18a23c8a0fbec",
+      "rendered_text": "Германия: 5/5/5 5/5/4",
+      "formatting_corrections": [
+        {
+          "before": "Германия 5/5/5 - 5/5/4",
+          "after": "Германия: 5/5/5 5/5/4"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2826,7 +2956,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Музей Мерседеса - 5/5/5 - 4/4/4",
-      "sha256": "d6fd963b63d5e56ba8d218042d7bee045659c6511e044c7a2328f6571eb0e450"
+      "sha256": "d6fd963b63d5e56ba8d218042d7bee045659c6511e044c7a2328f6571eb0e450",
+      "rendered_text": "Музей Мерседеса: 5/5/5 4/4/4",
+      "formatting_corrections": [
+        {
+          "before": "Музей Мерседеса - 5/5/5 - 4/4/4",
+          "after": "Музей Мерседеса: 5/5/5 4/4/4"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2835,7 +2972,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Замок Гогенхольц - 4/5/4 - 4/4/4",
-      "sha256": "ef062bee6ba0bfac0f92744a742c8fe77359c4820b84fbfd2f4edb8d4a5e1d65"
+      "sha256": "ef062bee6ba0bfac0f92744a742c8fe77359c4820b84fbfd2f4edb8d4a5e1d65",
+      "rendered_text": "Замок Гогенхольц: 4/5/4 4/4/4",
+      "formatting_corrections": [
+        {
+          "before": "Замок Гогенхольц - 4/5/4 - 4/4/4",
+          "after": "Замок Гогенхольц: 4/5/4 4/4/4"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2844,7 +2988,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Ульм 5/5/5 - 5/5/4",
-      "sha256": "8cabc5f2a6e7bf6e32e3f904484236957298f7779788489a5731265abe75f97d"
+      "sha256": "8cabc5f2a6e7bf6e32e3f904484236957298f7779788489a5731265abe75f97d",
+      "rendered_text": "Ульм: 5/5/5 5/5/4",
+      "formatting_corrections": [
+        {
+          "before": "Ульм 5/5/5 - 5/5/4",
+          "after": "Ульм: 5/5/5 5/5/4"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2853,7 +3004,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Фьюссен 5/5/4 - 5/4/3",
-      "sha256": "a5380cc5a475019daa7d3a53fb8949d891e21168c9bed2b3166a2d0246684def"
+      "sha256": "a5380cc5a475019daa7d3a53fb8949d891e21168c9bed2b3166a2d0246684def",
+      "rendered_text": "Фьюссен: 5/5/4 5/4/3",
+      "formatting_corrections": [
+        {
+          "before": "Фьюссен 5/5/4 - 5/4/3",
+          "after": "Фьюссен: 5/5/4 5/4/3"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2862,7 +3020,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Замки Людовика ---------",
-      "sha256": "5b99d063cc8c48c3bb632cbe2c9c6e451a727a16a2c7b88464fa6017dc68f317"
+      "sha256": "5b99d063cc8c48c3bb632cbe2c9c6e451a727a16a2c7b88464fa6017dc68f317",
+      "rendered_text": "Замки Людовика: —/—/— —/—/—",
+      "formatting_corrections": [
+        {
+          "before": "Замки Людовика ---------",
+          "after": "Замки Людовика: —/—/— —/—/—"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2871,7 +3036,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Обермаргау 4/4/4 -  4/4/3",
-      "sha256": "16ecba70d62438a2109874652a872e2129466a164853a25da82a95b0746de0f7"
+      "sha256": "16ecba70d62438a2109874652a872e2129466a164853a25da82a95b0746de0f7",
+      "rendered_text": "Обермаргау: 4/4/4 4/4/3",
+      "formatting_corrections": [
+        {
+          "before": "Обермаргау 4/4/4 -  4/4/3",
+          "after": "Обермаргау: 4/4/4 4/4/3"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2880,7 +3052,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Нюренберг музей 5+/5/4 - 5/5/5",
-      "sha256": "5eee747b8bed57c11ea4f7f9489f8b4a1ef342c0da07a177f9425b7860583a6b"
+      "sha256": "5eee747b8bed57c11ea4f7f9489f8b4a1ef342c0da07a177f9425b7860583a6b",
+      "rendered_text": "Нюренберг музей: 5+/5/4 5/5/5",
+      "formatting_corrections": [
+        {
+          "before": "Нюренберг музей 5+/5/4 - 5/5/5",
+          "after": "Нюренберг музей: 5+/5/4 5/5/5"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2889,7 +3068,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Экскурсия Нюренберг 4/4/5 - 5/5/4",
-      "sha256": "8867295d5e3f8fff7d2ccba185b6d4a59b5cb3bb0ccd8acdd165cd2faf53ed4e"
+      "sha256": "8867295d5e3f8fff7d2ccba185b6d4a59b5cb3bb0ccd8acdd165cd2faf53ed4e",
+      "rendered_text": "Экскурсия Нюренберг: 4/4/5 5/5/4",
+      "formatting_corrections": [
+        {
+          "before": "Экскурсия Нюренберг 4/4/5 - 5/5/4",
+          "after": "Экскурсия Нюренберг: 4/4/5 5/5/4"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2898,7 +3084,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Горы - 5/5+/5 - 4/5/5",
-      "sha256": "b812605977497afe8433367cd1b10b8b88a2abbe126a1f4014a16d588d4b1c7a"
+      "sha256": "b812605977497afe8433367cd1b10b8b88a2abbe126a1f4014a16d588d4b1c7a",
+      "rendered_text": "Горы: 5/5+/5 4/5/5",
+      "formatting_corrections": [
+        {
+          "before": "Горы - 5/5+/5 - 4/5/5",
+          "after": "Горы: 5/5+/5 4/5/5"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2907,7 +3100,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Ущелье 5/5/5+ - 4/4/3",
-      "sha256": "9e155accb2223b172d73ecfbb7f5e56d13b6bb1413539abdca68dead8e70edd5"
+      "sha256": "9e155accb2223b172d73ecfbb7f5e56d13b6bb1413539abdca68dead8e70edd5",
+      "rendered_text": "Ущелье: 5/5/5+ 4/4/3",
+      "formatting_corrections": [
+        {
+          "before": "Ущелье 5/5/5+ - 4/4/3",
+          "after": "Ущелье: 5/5/5+ 4/4/3"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2916,7 +3116,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Мюнхен обзорный 4/5/5 - 5/5/5",
-      "sha256": "4cb7a9931c53a511dc78114a0f32d505f6848aa4fb98f04599b533114e77e108"
+      "sha256": "4cb7a9931c53a511dc78114a0f32d505f6848aa4fb98f04599b533114e77e108",
+      "rendered_text": "Мюнхен обзорный: 4/5/5 5/5/5",
+      "formatting_corrections": [
+        {
+          "before": "Мюнхен обзорный 4/5/5 - 5/5/5",
+          "after": "Мюнхен обзорный: 4/5/5 5/5/5"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2925,7 +3132,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Нимфенбург 4/4/4 - 5+/4/5",
-      "sha256": "173fd176c25d223b2e2a51d96df42ef5e81297ab0ee42f9ddf5ba15d4861b102"
+      "sha256": "173fd176c25d223b2e2a51d96df42ef5e81297ab0ee42f9ddf5ba15d4861b102",
+      "rendered_text": "Нимфенбург: 4/4/4 5+/4/5",
+      "formatting_corrections": [
+        {
+          "before": "Нимфенбург 4/4/4 - 5+/4/5",
+          "after": "Нимфенбург: 4/4/4 5+/4/5"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2934,7 +3148,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Пинокатека 4/5/4 - 5/5/3",
-      "sha256": "00bd2b1ae76d337fc5d264efdeb6691abb9e37e76f1af9c9c7c4e78527dd4136"
+      "sha256": "00bd2b1ae76d337fc5d264efdeb6691abb9e37e76f1af9c9c7c4e78527dd4136",
+      "rendered_text": "Пинокатека: 4/5/4 5/5/3",
+      "formatting_corrections": [
+        {
+          "before": "Пинокатека 4/5/4 - 5/5/3",
+          "after": "Пинокатека: 4/5/4 5/5/3"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2943,7 +3164,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Резиденция 5/5/4 - 5/5+/5",
-      "sha256": "586f56c66ec75786a3862ed937d953178b165be27c31ad960f2705e853c6d012"
+      "sha256": "586f56c66ec75786a3862ed937d953178b165be27c31ad960f2705e853c6d012",
+      "rendered_text": "Резиденция: 5/5/4 5/5+/5",
+      "formatting_corrections": [
+        {
+          "before": "Резиденция 5/5/4 - 5/5+/5",
+          "after": "Резиденция: 5/5/4 5/5+/5"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2952,7 +3180,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Технический музей //5 - 5//5",
-      "sha256": "4328ea8dab91f837e9a7e10f2b2121a21f63091ffcec24faa4b97b60b30fe079"
+      "sha256": "4328ea8dab91f837e9a7e10f2b2121a21f63091ffcec24faa4b97b60b30fe079",
+      "rendered_text": "Технический музей: —/—/5 5/—/5",
+      "formatting_corrections": [
+        {
+          "before": "Технический музей //5 - 5//5",
+          "after": "Технический музей: —/—/5 5/—/5"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2961,7 +3196,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Лейнбах хаус 3/5/3 - 4/4/2",
-      "sha256": "5a0b2517b397c1b8cb7f7ed09037277d58ba321dad3bc8997b277f43d6f79d1f"
+      "sha256": "5a0b2517b397c1b8cb7f7ed09037277d58ba321dad3bc8997b277f43d6f79d1f",
+      "rendered_text": "Лейнбах хаус: 3/5/3 4/4/2",
+      "formatting_corrections": [
+        {
+          "before": "Лейнбах хаус 3/5/3 - 4/4/2",
+          "after": "Лейнбах хаус: 3/5/3 4/4/2"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2970,7 +3212,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Музей нац  социализма 3/4/5 - 5/5/5+",
-      "sha256": "862b7e6ce5a79c6c5eb311fc9be147c7f4b63157363787d57e539dac9b5d2f8e"
+      "sha256": "862b7e6ce5a79c6c5eb311fc9be147c7f4b63157363787d57e539dac9b5d2f8e",
+      "rendered_text": "Музей нац социализма: 3/4/5 5/5/5+",
+      "formatting_corrections": [
+        {
+          "before": "Музей нац  социализма 3/4/5 - 5/5/5+",
+          "after": "Музей нац социализма: 3/4/5 5/5/5+"
+        }
+      ]
     },
     {
       "chapter": "conclusion",
@@ -2979,7 +3228,14 @@
       "section": "report",
       "kind": "paragraph",
       "text": "Ф/ФГ/Ф - Г/ФГ/Г",
-      "sha256": "b07ebc1bb1893415c05bc3dabbfc9803cbe5d3c27e19023116f15ab8d196fa6e"
+      "sha256": "b07ebc1bb1893415c05bc3dabbfc9803cbe5d3c27e19023116f15ab8d196fa6e",
+      "rendered_text": "Ф/ФГ/Ф Г/ФГ/Г",
+      "formatting_corrections": [
+        {
+          "before": "Ф/ФГ/Ф - Г/ФГ/Г",
+          "after": "Ф/ФГ/Ф Г/ФГ/Г"
+        }
+      ]
     },
     {
       "chapter": "paris",
@@ -4071,7 +4327,7 @@
       "sha256": "6d9f1bd3ca8eabc27183d3d0ce2f5d4e83ed38e1864d8b8120f4fe288cf9888b"
     },
     {
-      "chapter": "departure",
+      "chapter": "meaux",
       "source": "plan-table-fragments",
       "source_paragraph": 20,
       "section": "preparation",
@@ -14417,7 +14673,8 @@
       "photo_date": "2019:09:02 10:51:22",
       "r2_key": "europe-friends-2019/departure/20190902_105122.jpg",
       "inventory_index": 50,
-      "drive_file_id": "1fTbc_ECMxLbPCthyaqQoQAhtGEQl8771"
+      "drive_file_id": "1fTbc_ECMxLbPCthyaqQoQAhtGEQl8771",
+      "selected_on_site": false
     },
     {
       "chapter": "conclusion",
@@ -26853,7 +27110,8 @@
         },
         "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/europe-friends-2019/departure/20190902_105122.jpg",
         "public_verified": true,
-        "public_mime": "image/jpeg"
+        "public_mime": "image/jpeg",
+        "selected_on_site": false
       },
       {
         "key": "europe-friends-2019/conclusion/20190820_122132.jpg",
@@ -26938,6 +27196,14 @@
     {
       "date": "2026-10-14",
       "detail": "Owner chose the Nymphenburg bridge group portrait for conclusion, preserving its original chapter placement, and authorized publication of the current draft."
+    },
+    {
+      "date": "2026-10-14",
+      "detail": "Owner removed the separate Домой chapter. Aircraft photo and original records remain archived; departure plan cell retained under the final travel chapter."
+    },
+    {
+      "date": "2026-10-14",
+      "detail": "Owner requested removal of all technical comments from chapters and uniform conclusion score formatting. Temporary assistant plans/source links and HTML source comments removed; original notes/preparation retained; missing individual grades shown as —."
     }
   ],
   "unresolved": [
@@ -28887,7 +29153,7 @@
       "drive_sync_verified": true,
       "hero_image": "20190902_105122.jpg",
       "groups": [],
-      "stage": "photos-ready-for-author-review",
+      "stage": "archived-not-on-site",
       "drive_sync_checked_at": "2026-10-14T18:43:29.606Z",
       "r2_verified": true,
       "r2_verified_at": "2026-10-14T18:52:41.138766+00:00"
@@ -29284,5 +29550,22 @@
     "enabled": true,
     "authorized_at": "2026-10-14",
     "scope": "Current travel draft including notes, plans, all selected photographs and owner-selected covers."
-  }
+  },
+  "archived_chapters": [
+    {
+      "slug": "departure",
+      "title": "Домой",
+      "weight": 19,
+      "date": "2019-09-02",
+      "days": [
+        20
+      ],
+      "archive_folder": "19 - Домой",
+      "plan": "Вылет домой 2 сентября. В первоначальной таблице указан рейс в 9 утра; найден снимок Лели и Мити в самолёте. Отдельного авторского рассказа об этом дне нет.",
+      "sources": [],
+      "author_paragraphs": 1,
+      "photo_stage": "archive-and-r2-verified",
+      "drive_folder_id": "1nceQoqUKobOxpFhYoxUpwosfGUUc7Row"
+    }
+  ]
 }
