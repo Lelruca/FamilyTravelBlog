@@ -1,7 +1,8 @@
 // Builds the Drive archive of a trip imported from Facebook: one folder per chapter (one post),
 // files named NN_<original name> in the post's photo order. Each photo is the matched full original
 // from OneDrive (scripts/match-photos.cjs); where no original exists, the Facebook copy is archived
-// as NN_facebook_<photo id>.jpg and marked as a copy in the manifest. Copies are verified by SHA-256.
+// as NN_facebook_<photo id>.jpg and marked as a copy in the manifest (taken from item.copy when the media list
+// gives its path, as scripts/fb-archive-trip.cjs does, otherwise from cfg.copiesDir). Copies are verified by SHA-256.
 // Writes photo-manifest.json in the trip folder and media-manifests/<trip>.json.
 // Re-running is safe: files already archived with the same checksum are left as they are.
 //
@@ -52,7 +53,7 @@ for (const ch of cfg.chapters) {
     const o = m.file && owner.get(m.file);
     const isOriginal = m.score >= SURE && o && o.key === ch.key && o.i === item.i;
     const src = isOriginal ? m.file
-      : path.join(cfg.copiesDir, fs.readdirSync(cfg.copiesDir).find(f => f.includes(`_${item.id}.`)) || "missing");
+      : item.copy || path.join(cfg.copiesDir, fs.readdirSync(cfg.copiesDir).find(f => f.includes(`_${item.id}.`)) || "missing");
     if (!fs.existsSync(src)) throw new Error(`No source for ${ch.key} #${item.i + 1} (${item.id})`);
     const name = `${nn}_${isOriginal ? path.basename(src) : `facebook_${item.id}.jpg`}`;
     const dst = path.join(dir, name);

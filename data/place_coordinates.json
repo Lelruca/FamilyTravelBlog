@@ -1694,5 +1694,149 @@
     "country_code": "ES",
     "source": "https://www.openstreetmap.org/relation/341903",
     "query": "Vic Barcelona Spain"
+  },
+  "sault-ste-marie": {
+    "lat": 46.51266,
+    "lon": -84.33303,
+    "name": "Sault Ste. Marie",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/7590370",
+    "query": "Sault Ste. Marie Ontario"
+  },
+  "chippewa-falls": {
+    "lat": 46.92986,
+    "lon": -84.42547,
+    "name": "Chippewa Falls",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/3088501962",
+    "query": "Chippewa Falls Ontario"
+  },
+  "agawa-rock": {
+    "lat": 47.36783,
+    "lon": -84.69898,
+    "name": "Agawa Rock Pictographs",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/3071521788",
+    "query": "Agawa Rock Pictographs"
+  },
+  "white-river": {
+    "lat": 48.5933,
+    "lon": -85.28447,
+    "name": "White River",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/7591573",
+    "query": "White River Ontario"
+  },
+  "aguasabon-falls": {
+    "lat": 48.7808,
+    "lon": -87.12302,
+    "name": "Aguasabon Falls",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/3396357348",
+    "query": "Aguasabon Falls"
+  },
+  "ouimet-canyon": {
+    "lat": 48.79109,
+    "lon": -88.67033,
+    "name": "Ouimet Canyon Provincial Park",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/6196151",
+    "query": "Ouimet Canyon"
+  },
+  "eagle-canyon": {
+    "lat": 48.79579,
+    "lon": -88.617,
+    "name": "Eagle Canyon Adventures",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/944826702",
+    "query": "Eagle Canyon Adventures Dorion"
+  },
+  "red-rock-ontario": {
+    "lat": 48.94254,
+    "lon": -88.25921,
+    "name": "Red Rock",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/2526941217",
+    "query": "Red Rock Ontario"
+  },
+  "thunder-bay": {
+    "lat": 48.40641,
+    "lon": -89.2598,
+    "name": "Thunder Bay",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/7596931",
+    "query": "Thunder Bay Ontario"
+  },
+  "kakabeka-falls": {
+    "lat": 48.40276,
+    "lon": -89.62589,
+    "name": "Kakabeka Falls",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/10936480461",
+    "query": "Kakabeka Falls"
+  },
+  "sleeping-giant": {
+    "lat": 48.43572,
+    "lon": -88.79944,
+    "name": "Sleeping Giant Provincial Park",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/11801920",
+    "query": "Sleeping Giant Provincial Park"
+  },
+  "nipigon": {
+    "lat": 49.01498,
+    "lon": -88.26623,
+    "name": "Nipigon",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/7596935",
+    "query": "Nipigon Ontario"
+  },
+  "pebble-beach-marathon": {
+    "lat": 48.70733,
+    "lon": -86.3876,
+    "name": "Pebble Beach",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/973339229",
+    "query": "Pebble Beach Marathon Ontario"
+  },
+  "wawa": {
+    "lat": 47.99293,
+    "lon": -84.77402,
+    "name": "Wawa",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/7591562",
+    "query": "Wawa Ontario"
+  },
+  "lake-superior-park": {
+    "lat": 47.56403,
+    "lon": -84.71192,
+    "name": "Lake Superior Provincial Park",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/1116914",
+    "query": "Lake Superior Provincial Park"
+  },
+  "pancake-bay": {
+    "lat": 46.96368,
+    "lon": -84.6942,
+    "name": "Pancake Bay Provincial Park",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/856153815",
+    "query": "Pancake Bay Provincial Park"
+  },
+  "manitoulin-island": {
+    "lat": 45.7564,
+    "lon": -82.21472,
+    "name": "Manitoulin Island",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/4227580",
+    "query": "Manitoulin Island"
+  },
+  "cup-and-saucer": {
+    "lat": 45.85133,
+    "lon": -82.10476,
+    "name": "Cup & Saucer Trail",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/839995391",
+    "query": "Cup and Saucer Trail"
   }
 }

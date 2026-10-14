@@ -17,6 +17,7 @@ const decode = s => s.replace(/<[^>]+>/g, "").replace(/&amp;/g, "&").replace(/&l
   .replace(/&quot;/g, '"').replace(/&#34;/g, '"').replace(/&#39;/g, "'").replace(/&#x27;/g, "'").replace(/&nbsp;/g, " ");
 const displayName = a => path.basename(a).replace(/^\d{2}[a-z]?_/, "").replace(/\.(jpe?g|png|heic|webp)$/i, ".jpg").replace(/\s+/g, "_");
 
+const { fixText, fixCaption } = require("./fb-corrections.cjs")(cfg);
 let problems = 0, paragraphs = 0, photos = 0, captions = 0;
 const fail = m => { problems++; console.log("  ✗ " + m); };
 for (const ch of cfg.chapters) {
@@ -24,7 +25,7 @@ for (const ch of cfg.chapters) {
   const html = fs.readFileSync(path.join(site, urlPath, slug, "index.html"), "utf8");
   const body = html.slice(html.indexOf('class="essay-body"'), html.indexOf('class="essay-navigation"'));
   // text
-  const want = (ch.text ? fs.readFileSync(ch.text, "utf8").split(String.fromCharCode(13)).join("").trimEnd() : posts.find(p => p.feedOrder === ch.feedOrder).text).split("\n").filter(l => !/^\s*(#\S+\s*)+$/.test(l));
+  const want = (ch.text ? fs.readFileSync(ch.text, "utf8").split(String.fromCharCode(13)).join("").trimEnd() : fixText(ch.key, posts.find(p => p.feedOrder === ch.feedOrder).text)).split("\n").filter(l => l.trim() && !/^\s*(#\S+\s*)+$/.test(l));
   // another post of the author inserted into this chapter (trip-config "inserts")
   for (const ins of (ch.inserts || []).slice().sort((a, b) => b.after - a.after))
     want.splice(ins.after + 1, 0, ...fs.readFileSync(ins.file, "utf8").replace(/\r/g, "").split("\n").filter(l => l.trim()));
@@ -51,7 +52,8 @@ for (const ch of cfg.chapters) {
     const attrs = [...html.matchAll(/data-caption="([^"]*)"/g)].map(m => decode(m[1]));
     // a long caption may be shown as a paragraph next to its photo instead (class photo-note)
     const notes = [...body.matchAll(/<p class="photo-note">([\s\S]*?)<\/p>/g)].map(m => decode(m[1].replace(/<br>/g, "\n")));
-    if (!attrs.includes(p.caption) && !notes.some(n => n.includes(p.caption))) fail(`${slug}: caption of ${displayName(p.archive_name)} missing or changed`);
+    const cap = fixCaption(ch.key, p.source_position, p.caption);
+    if (!attrs.includes(cap) && !notes.some(n => n.includes(cap))) fail(`${slug}: caption of ${displayName(p.archive_name)} missing or changed`);
     else captions++;
   }
 }
