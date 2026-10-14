@@ -7,7 +7,8 @@ city: "Барселона"
 places:
   - barcelona
 hero_image: "20251207_162355.jpg"
-hero_crop: "center 72%"
+hero_crop: "center bottom"
+hero_card_position: "center bottom"
 date: "2025-12-07"
 auto_gallery: false
 draft: true
