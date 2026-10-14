@@ -9,7 +9,7 @@ places:
 hero_image: "20251212_101307.jpg"
 date: "2025-12-12"
 auto_gallery: false
-draft: true
+draft: false
 source_url: "https://www.facebook.com/media/set/?set=pcb.1337455504847648"
 ---
 <p>Берлин в солнечную погоду прекрасен 😀</p>

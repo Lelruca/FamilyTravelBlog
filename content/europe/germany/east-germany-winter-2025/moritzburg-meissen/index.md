@@ -11,7 +11,7 @@ places:
 hero_image: "20251211_121658.jpg"
 date: "2025-12-11"
 auto_gallery: false
-draft: true
+draft: false
 source_url: "https://www.facebook.com/media/set/?set=pcb.1336689648257567"
 ---
 <p>Сегодняшний день мы начали с другого типа музея — музея военной истории.</p>

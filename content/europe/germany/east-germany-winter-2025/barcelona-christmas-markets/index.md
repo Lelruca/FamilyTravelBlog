@@ -11,7 +11,7 @@ hero_crop: "center 78%"
 hero_card_position: "center 78%"
 date: "2025-12-07"
 auto_gallery: false
-draft: true
+draft: false
 source_url: "https://www.facebook.com/media/set/?set=pcb.1333676055225593"
 ---
 <p>Сегодня у нас Рождественские рынки Барселоны - Рождество под пальмами 😀</p>

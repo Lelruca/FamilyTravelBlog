@@ -9,7 +9,7 @@ places:
 hero_image: "20251210_141754.jpg"
 date: "2025-12-10"
 auto_gallery: false
-draft: true
+draft: false
 source_url: "https://www.facebook.com/media/set/?set=pcb.1336274978299034"
 ---
 <p>Дрезден — продолжение.</p>
