@@ -3977,27 +3977,42 @@
   },
   "r2_verified": true,
   "trip_cover": {
-    "original": {
-      "archive_name": "00 - Обложка/01_20200702_130415.jpg",
-      "same_as": "06 - Спящий великан/05_20200702_130415.jpg",
-      "original_relative_path": "2020/2020 Лето/North Ontario/20200702_130415.jpg",
-      "bytes": 4572372,
-      "sha256": "93f8f48af482d0ddf95e34b73e46afa08044d5eebee6efe122ecba8a157fcf9d"
-    },
     "shown": {
-      "archive_name": "00 - Обложка/01_20200702_130415-clean.jpg",
-      "kind": "retouched-copy",
-      "note": "Railing removed at the owner's request by cropping the bottom 21% and the left 2% (lens flare): ffmpeg crop=iw*0.98:ih*0.79:iw*0.02:0; the original next to it is unchanged",
-      "bytes": 1589036,
-      "sha256": "4fb0a66458ec6c29c18db206c183eb53c1e126048025ddb4043c349eb79d6e3f",
+      "archive_name": "06 - Спящий великан/12_IMG_2894.JPG",
+      "kind": "chapter-photo",
+      "sha256": "a3bfe3fe21be1ce3068d8e2efb10cf5459828ad2c851faa577ff7d7e442e19f2",
       "r2": {
-        "key": "north-ontario-2020/cover/20200702_130415-clean.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/north-ontario-2020/cover/20200702_130415-clean.jpg",
-        "width": 2000,
-        "height": 1210,
-        "sha256": "58de9e4342699c5ea492823195184f8906cfe46ab1ed43ea0341761616e2bf91",
-        "verified": true
+        "key": "north-ontario-2020/sleeping-giant/IMG_2894.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/north-ontario-2020/sleeping-giant/IMG_2894.jpg"
       }
-    }
+    },
+    "note": "Chosen by the owner 2026-10-14",
+    "superseded": [
+      {
+        "original": {
+          "archive_name": "00 - Обложка/zz_не использовано_20200702_130415.jpg",
+          "same_as": "06 - Спящий великан/05_20200702_130415.jpg",
+          "original_relative_path": "2020/2020 Лето/North Ontario/20200702_130415.jpg",
+          "bytes": 4572372,
+          "sha256": "93f8f48af482d0ddf95e34b73e46afa08044d5eebee6efe122ecba8a157fcf9d"
+        },
+        "shown": {
+          "archive_name": "00 - Обложка/zz_не использовано_20200702_130415-clean.jpg",
+          "kind": "retouched-copy",
+          "note": "Railing removed at the owner's request by cropping the bottom 21% and the left 2% (lens flare): ffmpeg crop=iw*0.98:ih*0.79:iw*0.02:0; the original next to it is unchanged",
+          "bytes": 1589036,
+          "sha256": "4fb0a66458ec6c29c18db206c183eb53c1e126048025ddb4043c349eb79d6e3f",
+          "r2": {
+            "key": "north-ontario-2020/cover/20200702_130415-clean.jpg",
+            "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/north-ontario-2020/cover/20200702_130415-clean.jpg",
+            "width": 2000,
+            "height": 1210,
+            "sha256": "58de9e4342699c5ea492823195184f8906cfe46ab1ed43ea0341761616e2bf91",
+            "verified": true
+          }
+        },
+        "replaced": "2026-10-14: the owner did not like it"
+      }
+    ]
   }
 }
