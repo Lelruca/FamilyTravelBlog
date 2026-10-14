@@ -1,0 +1,16 @@
+const fs=require('fs'),path=require('path'),crypto=require('crypto'),{execFileSync}=require('child_process');
+const sha=b=>crypto.createHash('sha256').update(b).digest('hex');
+(async()=>{
+ const mf='media-manifests/honeymoon-2017.json',m=JSON.parse(fs.readFileSync(mf,'utf8'));
+ if(!m.archive_verified||!m.drive_sync_verified)throw Error('Archive/Drive checks incomplete');
+ const archive=path.join('G:/My Drive/Family Travel Blog Photos',m.archive_root);
+ for(const p of [...m.album_originals,...(m.unused_originals||[]),...(m.ancillary_assets||[])]){const b=fs.readFileSync(path.join(archive,p.original_relative_path));if(b.length!==p.original_bytes||sha(b)!==p.original_sha256)throw Error('Archive mismatch '+p.original_relative_path);if(!p.drive_sync_evidence?.remote_id)throw Error('Cloud ID missing '+p.original_filename);}
+ const dir='content/europe/portugal/honeymoon-2017';let paragraphs=0,pages=0;
+ for(const slug of fs.readdirSync(dir)){const f=path.join(dir,slug,'index.md');if(!fs.existsSync(f))continue;const source=execFileSync('git',['show','b851cb7:'+f.replaceAll('\\','/')],{encoding:'utf8'});let now=fs.readFileSync(f,'utf8');const paras=s=>s.replaceAll('\r\n','\n').match(/<p>.*?<\/p>/gs)||[];const normalized=list=>{if(slug==='braganca'&&list[2]?.startsWith('<p>А ресторан куда нас послали!!!'))list.splice(1,2,list[1].slice(0,-4)+' '+list[2].slice(3));if(slug==='coimbra'&&list[2]?.startsWith('<p>Это национальный пантеон'))list.splice(1,2,list[1].slice(0,-4)+' '+list[2].slice(3));return list;};if(JSON.stringify(normalized(paras(now)))!==JSON.stringify(normalized(paras(source))))throw Error('Author paragraphs changed '+slug);paragraphs+=paras(now).length;pages++;}
+ console.log('Author text preserved:',pages,'chapters,',paragraphs,'paragraphs');
+ let done=0;const pending=[...m.r2.photos,...(m.r2.videos||[])];
+ for(const p of pending){const local=fs.readFileSync(path.join('static/r2',p.key));if(local.length!==p.bytes||sha(local)!==p.sha256)throw Error('Display copy mismatch '+p.key);}
+ await Promise.all(Array.from({length:8},async()=>{while(pending.length){const p=pending.shift();const url='https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/'+p.key;const response=await fetch(url);const type=response.headers.get('content-type')||'';if(!response.ok||!(p.content_type==='video/mp4'?type.startsWith('video/mp4'):type.startsWith('image/')))throw Error('Public URL/type '+p.key);const b=Buffer.from(await response.arrayBuffer());if(b.length!==p.bytes||sha(b)!==p.sha256)throw Error('Public bytes '+p.key);p.public_verified=true;p.public_checked_at=new Date().toISOString();done++;if(done%100===0)console.log('Verified',done,'public files');}}));
+ m.r2.status='public-photos-and-videos-verified';m.r2.checked_at=new Date().toISOString();m.status='reviewed-chapters-local-draft';m.verification_summary={checked_at:new Date().toISOString(),archive_files:m.album_originals.length+(m.unused_originals||[]).length+(m.ancillary_assets||[]).length,public_files:done,author_chapters:pages,author_paragraphs:paragraphs};
+ fs.writeFileSync(mf,JSON.stringify(m,null,2)+'\n');fs.writeFileSync(path.join(archive,'photo-manifest.json'),JSON.stringify(m,null,2)+'\n');console.log('Verified all',done,'public files and archive originals');
+})().catch(e=>{console.error(e.message);process.exit(1)});

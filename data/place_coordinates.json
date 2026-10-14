@@ -1079,6 +1079,206 @@
     "source": "https://www.openstreetmap.org/relation/5644591",
     "query": "Lake Temagami Ontario Canada"
   },
+  "baiona": {
+    "lat": 42.08813,
+    "lon": -8.84851,
+    "name": "Baiona",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/346566",
+    "query": "Baiona Pontevedra Spain"
+  },
+  "combarro": {
+    "lat": 42.4317,
+    "lon": -8.7052,
+    "name": "Combarro",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/12688974",
+    "query": "Combarro Poio Pontevedra"
+  },
+  "cambados": {
+    "lat": 42.51932,
+    "lon": -8.79768,
+    "name": "Cambados",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/346569",
+    "query": "Cambados Pontevedra Spain"
+  },
+  "santiago-de-compostela": {
+    "lat": 42.90646,
+    "lon": -8.5193,
+    "name": "Santiago de Compostela",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/346204",
+    "query": "Santiago de Compostela Spain"
+  },
+  "praia-das-catedrais": {
+    "lat": 43.53629,
+    "lon": -7.04076,
+    "name": "Las Catedrales",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/node/7799243109",
+    "query": "Playa de las Catedrales Ribadeo"
+  },
+  "cudillero": {
+    "lat": 43.54336,
+    "lon": -6.19363,
+    "name": "Cudillero",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/345579",
+    "query": "Cudillero Asturias Spain"
+  },
+  "gijon": {
+    "lat": 43.54494,
+    "lon": -5.66275,
+    "name": "Gijón",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/345576",
+    "query": "Gijón Asturias Spain"
+  },
+  "oviedo": {
+    "lat": 43.35335,
+    "lon": -5.87951,
+    "name": "Oviedo",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/346397",
+    "query": "Oviedo Asturias Spain"
+  },
+  "astorga": {
+    "lat": 42.4554,
+    "lon": -6.05292,
+    "name": "Astorga",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/347413",
+    "query": "Astorga León Spain"
+  },
+  "ponferrada": {
+    "lat": 42.49844,
+    "lon": -6.56632,
+    "name": "Ponferrada",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/343993",
+    "query": "Ponferrada León Spain"
+  },
+  "leon": {
+    "lat": 42.59345,
+    "lon": -5.56164,
+    "name": "León",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/339984",
+    "query": "León Castilla y León Spain"
+  },
+  "braganca": {
+    "lat": 41.80712,
+    "lon": -6.75898,
+    "name": "Bragança",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/5245345",
+    "query": "Bragança Portugal"
+  },
+  "douro": {
+    "lat": 41.1614127,
+    "lon": -7.7900006,
+    "name": "Museu do Douro",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/way/848055765",
+    "query": "Museu do Douro Peso da Régua"
+  },
+  "casa-de-mateus": {
+    "lat": 41.29685,
+    "lon": -7.71221,
+    "name": "Palácio de Mateus",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/2001027",
+    "query": "Casa de Mateus Vila Real"
+  },
+  "lamego": {
+    "lat": 41.09853,
+    "lon": -7.81057,
+    "name": "Lamego",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/5328700",
+    "query": "Lamego Portugal"
+  },
+  "coimbra": {
+    "lat": 40.21119,
+    "lon": -8.42915,
+    "name": "Coimbra",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/5379538",
+    "query": "Coimbra Portugal"
+  },
+  "bussaco": {
+    "lat": 40.37598,
+    "lon": -8.36482,
+    "name": "Bussaco Palace Hotel",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/12024437",
+    "query": "Palace Hotel do Buçaco Mealhada"
+  },
+  "aveiro": {
+    "lat": 40.6405,
+    "lon": -8.65378,
+    "name": "Aveiro",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/5325138",
+    "query": "Aveiro Portugal"
+  },
+  "costa-nova": {
+    "lat": 40.62007,
+    "lon": -8.75262,
+    "name": "Praia da Costa Nova",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/way/301852964",
+    "query": "Costa Nova do Prado Ílhavo"
+  },
+  "guimaraes": {
+    "lat": 41.44177,
+    "lon": -8.29557,
+    "name": "Guimarães",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/3924938",
+    "query": "Guimarães Portugal"
+  },
+  "braga": {
+    "lat": 41.55106,
+    "lon": -8.428,
+    "name": "Braga",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/4115866",
+    "query": "Braga Portugal"
+  },
+  "esposende": {
+    "lat": 41.53153,
+    "lon": -8.77925,
+    "name": "Esposende",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/3741420",
+    "query": "Esposende Portugal"
+  },
+  "viana-do-castelo": {
+    "lat": 41.69351,
+    "lon": -8.82828,
+    "name": "Viana do Castelo",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/3808752",
+    "query": "Viana do Castelo Portugal"
+  },
+  "barcelos": {
+    "lat": 41.53145,
+    "lon": -8.61923,
+    "name": "Barcelos",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/3737586",
+    "query": "Barcelos Portugal"
+  },
+  "porto": {
+    "lat": 41.15022,
+    "lon": -8.61035,
+    "name": "Porto",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/3372453",
+    "query": "Porto Portugal"
+  },
   "orangerie": {
     "lat": 48.8637655,
     "lon": 2.3226602,
