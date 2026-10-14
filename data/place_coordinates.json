@@ -1686,5 +1686,13 @@
     "country_code": "DE",
     "source": "https://www.openstreetmap.org/relation/546775",
     "query": "Meißen Germany"
+  },
+  "vic": {
+    "lat": 41.9302021,
+    "lon": 2.2545943,
+    "name": "Vic",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/341903",
+    "query": "Vic Barcelona Spain"
   }
 }
