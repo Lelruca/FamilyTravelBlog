@@ -6,9 +6,9 @@ weight: 20
 city: "Барселона"
 places:
   - barcelona
-hero_image: "facebook_1333675348558997.jpg"
-hero_crop: "center 40%"
-hero_card_position: "center 40%"
+hero_image: "20251207_162355.jpg"
+hero_crop: "center 78%"
+hero_card_position: "center 78%"
 date: "2025-12-07"
 auto_gallery: false
 draft: true
@@ -16,7 +16,7 @@ source_url: "https://www.facebook.com/media/set/?set=pcb.1333676055225593"
 ---
 <p>Сегодня у нас Рождественские рынки Барселоны - Рождество под пальмами 😀</p>
 
-{{< row "20251207_151543.jpg 20251207_152845.jpg 20251207_153824.jpg" >}}
+{{< row "facebook_1333675348558997.jpg 20251207_151543.jpg 20251207_152845.jpg 20251207_153824.jpg" >}}
 
 <p>Погода чудесная +18. Нам жарко, местные в куртках...</p>
 
@@ -24,6 +24,6 @@ source_url: "https://www.facebook.com/media/set/?set=pcb.1333676055225593"
 
 <p>На рынке около Собора мы как местные купили елку а горше с землей и Серега притащил ее на метро!</p>
 
-{{< row "20251207_162306.jpg 20251207_162337.jpg 20251207_162355.jpg 20251207_161634.jpg" >}}
+{{< row "20251207_162306.jpg 20251207_162337.jpg 20251207_161634.jpg" >}}
 
 {{< row "20251207_161107.jpg 20251207_162708.jpg facebook_1333675951892270.jpg facebook_1333676015225597.jpg" >}}
