@@ -1,9 +1,9 @@
 ---
-title: "Прощание с Верхним озером"
+title: "Прощание с озером Superior"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 80
-city: "Парк Lake Superior"
+city: "Lake Superior Provincial Park, Pancake Bay"
 places:
   - lake-superior-park
   - pancake-bay

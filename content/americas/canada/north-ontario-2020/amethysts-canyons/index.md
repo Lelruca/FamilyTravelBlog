@@ -1,9 +1,9 @@
 ---
-title: "Аметисты и каньоны"
+title: "Аметисты, Ouimet и Eagle Canyon"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 30
-city: "Нипигон и Дорион"
+city: "Nipigon и Dorion"
 places:
   - ouimet-canyon
   - eagle-canyon

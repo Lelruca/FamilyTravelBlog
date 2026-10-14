@@ -1,9 +1,9 @@
 ---
-title: "Остров Манитулин"
+title: "Manitoulin Island"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 90
-city: "Манитулин"
+city: "Manitoulin Island"
 places:
   - manitoulin-island
   - cup-and-saucer

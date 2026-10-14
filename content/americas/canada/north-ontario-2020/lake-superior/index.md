@@ -1,9 +1,9 @@
 ---
-title: "Озеро Верхнее"
+title: "Озеро Superior"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 20
-city: "Озеро Верхнее"
+city: "Lake Superior"
 places:
   - chippewa-falls
   - agawa-rock

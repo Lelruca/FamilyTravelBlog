@@ -9,7 +9,7 @@ continent: "Северная Америка"
 country: "Канада"
 geo_countries: 
   - canada
-cover_where: "Канада: Онтарио, озеро Верхнее"
+cover_where: "Канада: Онтарио, озеро Superior"
 cover_title: "Северное Онтарио"
 cover_subtitle: "Ontario yours to discover"
 cover_when: "Июнь – июль 2020"

@@ -1,9 +1,9 @@
 ---
-title: "Спящий великан"
+title: "Sleeping Giant"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 60
-city: "Парк Sleeping Giant"
+city: "Sleeping Giant"
 places:
   - sleeping-giant
 hero_image: "IMG_2884.jpg"

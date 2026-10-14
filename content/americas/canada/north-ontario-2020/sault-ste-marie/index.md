@@ -1,9 +1,9 @@
 ---
-title: "До Су-Сент-Мари"
+title: "До Sault Ste. Marie"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 10
-city: "Су-Сент-Мари"
+city: "Sault Ste. Marie"
 places:
   - sault-ste-marie
 hero_image: "20200627_144805.jpg"

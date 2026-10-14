@@ -1,9 +1,9 @@
 ---
-title: "Обратно на юг - Нипигон и Вава"
+title: "Обратно на юг - Nipigon и Wawa"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 70
-city: "Нипигон, Марафон, Вава"
+city: "Nipigon, Marathon, Wawa"
 places:
   - nipigon
   - pebble-beach-marathon

@@ -1,9 +1,9 @@
 ---
-title: "Тандер-Бей"
+title: "Thunder Bay"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 50
-city: "Тандер-Бей"
+city: "Thunder Bay"
 places:
   - thunder-bay
   - kakabeka-falls

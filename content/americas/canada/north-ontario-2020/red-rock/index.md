@@ -1,9 +1,9 @@
 ---
-title: "Ред-Рок"
+title: "Red Rock"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 40
-city: "Ред-Рок"
+city: "Red Rock"
 places:
   - red-rock-ontario
 hero_image: "20200630_111803.jpg"
