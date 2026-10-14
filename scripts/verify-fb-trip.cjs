@@ -25,6 +25,9 @@ for (const ch of cfg.chapters) {
   const body = html.slice(html.indexOf('class="essay-body"'), html.indexOf('class="essay-navigation"'));
   // text
   const want = posts.find(p => p.feedOrder === ch.feedOrder).text.split("\n").filter(l => !/^\s*(#\S+\s*)+$/.test(l));
+  // another post of the author inserted into this chapter (trip-config "inserts")
+  for (const ins of (ch.inserts || []).slice().sort((a, b) => b.after - a.after))
+    want.splice(ins.after + 1, 0, ...fs.readFileSync(ins.file, "utf8").replace(/\r/g, "").split("\n").filter(l => l.trim()));
   const got = [...body.matchAll(/<p>([\s\S]*?)<\/p>/g)].map(m => decode(m[1]));
   if (got.length !== want.length) fail(`${slug}: ${got.length} paragraphs on the page, ${want.length} in the post`);
   want.forEach((p, i) => { if (got[i] !== p) fail(`${slug}: paragraph ${i + 1} differs:\n      post: ${JSON.stringify(p.slice(0, 80))}\n      page: ${JSON.stringify((got[i] || "").slice(0, 80))}`); });
