@@ -1,5 +1,29 @@
 # Общий документ для Codex и Клода
 
+## Поездки 2020–2026 из архива Facebook — как делать и кто что делает (Клод, 14 октября 2026)
+
+**Источник.** С 2020 года рассказы есть только на странице Facebook «Из Торонто по миру». Владелец скачала полный архив страницы (Download your information, JSON): `G:\My Drive\Family Travel Blog Photos\FB full archive\this_profile's_activity_across_facebook\posts\` — `profile_posts_1.json` (190 постов 2020-06…2026-04, строки в «моджибейке» latin1→utf8), фото в `posts/media/…` (до 2048 px, без EXIF в файлах, но EXIF — время съёмки, камера, размер — в JSON). В JSON есть IP-адреса загрузки — **сырой JSON в Git не класть**. Браузер/Chrome для текстов больше не нужен.
+
+**Список поездок и вопросы владельцу** — `C:\Users\user\Projects\FamilyTravelBlog\.tmp\fb-archive\TRIPS.md` (номера постов по порядку от старых к новым, группировка, статусы). Открытые вопросы, накопленные во время автономной работы, — `.tmp\fb-archive\ВОПРОСЫ.md` рядом.
+
+**Правила владельца для этих поездок (сверх общих):**
+- Одна глава = один пост. Заголовки глав на русском, но **названия мест — в оригинале, как пишет автор** («Thunder Bay», «До Sault Ste. Marie»). Хештеги в конце поста — служебные, не показываются.
+- Владелец разрешила **исправлять орфографические опечатки** («проверяй орфографию»), грамматику и стиль не трогать. Исправления — отдельным списком `media-manifests/<trip>-spelling.json` (`{key, caption?, from, to}`, каждое `from` встречается ровно один раз); исходный текст в архиве и реестре не меняется.
+- Подписи автора к фото переносятся дословно (с тем же списком опечаток); длинные — абзацем рядом с фото (`beside` / `text`), короткие — на фото.
+- Таблицы/списки из коротких строк поста — одним абзацем с переносами (`joins` в layout), без «дырок».
+- Обложку поездки/главы владелец выбирает сама; выбранное фото **добавляется** в обложку, но не убирается из своей главы. Фото, которого нет в постах, кладётся в `00 - Обложка` архива Drive (папка `00` — не глава).
+- Оригиналы: OneDrive `C:\Users\user\OneDrive\Photo\<год> <сезон>\<папка>` (владелец ставит папки «всегда хранить на устройстве»). Нет оригинала — берётся копия из архива Facebook (`NN_facebook_<id>.jpg`, разрешено владельцем).
+
+**Конвейер (скрипты в `scripts/`, всё переиспользуемо):**
+1. `node scripts/fb-archive-trip.cjs "<архив>" --list` — нумерованный список постов; `node scripts/fb-archive-trip.cjs "<архив>" .tmp/<trip>/fb <номера>` — тексты, фото по порядку, подписи, EXIF, отпечатки.
+2. `node scripts/fingerprint-photos.cjs .tmp/<trip>/originals-fp.json <папки OneDrive>` → `node scripts/match-photos.cjs .tmp/<trip>/fb/published.json .tmp/<trip>/originals-fp.json .tmp/<trip>/matches.json`. Сомнительные (нет камеры в EXIF, score < 0.95, время не совпадает) — проверить глазами; не найденные получают score 0 → копия FB.
+3. `node scripts/archive-fb-trip.cjs .tmp/<trip>/trip-config.json` — папки `NN - Название` на Drive, `NN_<имя>`, реестры; затем `node scripts/check-drive-sync.cjs "<Континент>/<папка>" --write`.
+4. `node scripts/make-display-copies.cjs <content dir> "<папка Drive>"` → `node scripts/upload-to-r2.cjs <trip>` → `node scripts/verify-r2-trip.cjs <trip> "<Континент>/<папка>"`.
+5. `node scripts/gen-fb-trip-pages.cjs .tmp/<trip>/trip-config.json .tmp/<trip>/pages.json .tmp/<trip>/layout.json` — страницы; `pages.json` — front matter поездки и заголовки/места глав, `layout.json` — обложки и фотоблоки по номерам фото в посте (`"L:3 5 7"`, `"13a"` — добавление владельца).
+6. Сборка **без `--minify`** (`hugo --environment production --config hugo.yaml,hugo.prod.yaml [--buildDrafts] -d .tmp/<trip>/build`) и `node scripts/verify-fb-trip.cjs .tmp/<trip>/build <content dir> .tmp/<trip>/fb/posts.json .tmp/<trip>/trip-config.json` — абзацы, все фото по одному разу с R2, подписи.
+
+**Кто что делает.** Клод работает один, автономно, 14–15 октября 2026, в worktree `C:\Users\user\Projects\FamilyTravelBlog-north-ontario-2020`, по ветке на поездку (`claude/<trip>`), черновики (`draft: true`), без публикации до ответа владельца. Очередь (папки OneDrive синхронизированы): Гаспе 2020 → Иберия 2022 (с Наташей и Омой) → Италия 2022 → Лондон 2022 → Прага и Вена 2023 → октябрь 2023 (Барселона–Германия–Нидерланды) → Барселона и Окситания 2024. Прованс 2021 отложен (большая поездка, в FB только 3 поста). Codex может позже взять поездки, которых нет в этой очереди, — сначала отметьте это здесь.
+
 ## Северное Онтарио 2020 — опубликовано, Клод, 14 октября 2026
 
 Первая поездка из **полного архива Facebook** страницы «Из Торонто по миру» (Download your information, JSON; распакован в `G:\My Drive\Family Travel Blog Photos\FB full archive`). По прямому разрешению владельца опубликовано https://lelruca.github.io/FamilyTravelBlog/americas/canada/north-ontario-2020/ — коммит `bf520c6`, Pages run `38639869174` success, все 10 страниц HTTP 200.
