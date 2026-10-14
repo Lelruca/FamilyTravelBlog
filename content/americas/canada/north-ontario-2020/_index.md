@@ -11,7 +11,7 @@ geo_countries:
   - canada
 cover_where: "Канада: Онтарио, озеро Superior"
 cover_title: "Северное Онтарио"
-cover_subtitle: "Ontario - \"Yours to Discover\""
+cover_subtitle: "Yours to Discover"
 cover_when: "Июнь – июль 2020"
 cover_who: "Сережа, Леля, Митя и Лиза"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/north-ontario-2020/cover/IMG_2853.jpg"
