@@ -2382,5 +2382,61 @@
     "country_code": "AT",
     "source": "https://www.openstreetmap.org/way/8097595",
     "query": "Wiener Staatsoper"
+  },
+  "hyde-park": {
+    "lat": 51.50749,
+    "lon": -0.16221,
+    "name": "Hyde Park",
+    "country_code": "GB",
+    "source": "https://www.openstreetmap.org/way/372975520",
+    "query": "Hyde Park London"
+  },
+  "leeds-castle": {
+    "lat": 51.24845,
+    "lon": 0.63002,
+    "name": "Leeds Castle",
+    "country_code": "GB",
+    "source": "https://www.openstreetmap.org/relation/6941053",
+    "query": "Leeds Castle Kent"
+  },
+  "leighton-house": {
+    "lat": 51.49861,
+    "lon": -0.20316,
+    "name": "Leighton House Museum",
+    "country_code": "GB",
+    "source": "https://www.openstreetmap.org/way/115594423",
+    "query": "Leighton House Museum"
+  },
+  "tate-britain": {
+    "lat": 51.49112,
+    "lon": -0.12782,
+    "name": "Tate Britain",
+    "country_code": "GB",
+    "source": "https://www.openstreetmap.org/way/24553580",
+    "query": "Tate Britain"
+  },
+  "temple-church": {
+    "lat": 51.51326,
+    "lon": -0.11022,
+    "name": "Temple Church",
+    "country_code": "GB",
+    "source": "https://www.openstreetmap.org/way/128454313",
+    "query": "Temple Church London"
+  },
+  "westminster-cathedral": {
+    "lat": 51.49583,
+    "lon": -0.13942,
+    "name": "Westminster Cathedral",
+    "country_code": "GB",
+    "source": "https://www.openstreetmap.org/way/10810446",
+    "query": "Westminster Cathedral"
+  },
+  "windsor-castle": {
+    "lat": 51.48379,
+    "lon": -0.60404,
+    "name": "Windsor Castle",
+    "country_code": "GB",
+    "source": "https://www.openstreetmap.org/way/23580556",
+    "query": "Windsor Castle"
   }
 }
