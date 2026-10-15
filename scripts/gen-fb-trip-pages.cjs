@@ -48,8 +48,9 @@ const chapterDate = (slug, post) => {
 const report = [];
 const textCaps = new Set();
 cfg.chapters.forEach((ch, n) => {
-  const post = posts.find(p => p.feedOrder === ch.feedOrder);
-  const paras = fixText(ch.key, post.text).split("\n").filter(l => l.trim() && !isTags(l));
+  // a chapter without a post (trip-config "originals") has photos only, its text is written later
+  const post = posts.find(p => p.feedOrder === ch.feedOrder) || { text: "", date: "" };
+  const paras = (ch.originals ? "" : fixText(ch.key, post.text)).split("\n").filter(l => l.trim() && !isTags(l));
   // another short post of the author about the same day, inserted after a paragraph (trip-config "inserts":
   // [{ after, file }], the file holding that post's text); later "after" indexes count the inserted lines
   for (const ins of (ch.inserts || []).slice().sort((a, b) => b.after - a.after))

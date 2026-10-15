@@ -38,10 +38,30 @@ const manifest = {
 };
 
 for (const ch of cfg.chapters) {
-  const post = posts.find(p => p.feedOrder === ch.feedOrder);
-  const items = media.media[ch.key];
   const dir = path.join(tripDir, ch.folder);
   fs.mkdirSync(dir, { recursive: true });
+  // A chapter without a post (trip-config "originals": [paths]) — photos the owner chose for a part of the trip
+  // she has not written about yet; the text is added later. Photos are numbered 1, 2, … in the given order.
+  if (ch.originals) {
+    ch.originals.forEach((src, k) => {
+      const name = `${String(k + 1).padStart(2, "0")}_${path.basename(src)}`;
+      const dst = path.join(dir, name);
+      const srcSha = sha(src);
+      if (!fs.existsSync(dst) || sha(dst) !== srcSha) fs.copyFileSync(src, dst);
+      if (sha(dst) !== srcSha) throw new Error(`Checksum mismatch after copy: ${dst}`);
+      manifest.photos.push({
+        chapter: ch.slug, position: k + 1, source_position: k + 1, facebook_id: null, caption: "",
+        archive_name: `${ch.folder}/${name}`, kind: "original",
+        original_relative_path: path.relative(cfg.originalsRoot, src).split(path.sep).join("/"),
+        match_score: null, bytes: fs.statSync(dst).size, sha256: srcSha,
+      });
+    });
+    manifest.chapters.push({ slug: ch.slug, title: ch.folder.replace(/^\d+ - /, ""), originals_folder: ch.folder,
+      without_post: true, photo_count: ch.originals.length, original_count: ch.originals.length });
+    continue;
+  }
+  const post = posts.find(p => p.feedOrder === ch.feedOrder);
+  const items = media.media[ch.key];
   let n = 0;
   for (const item of items) {
     // trip-config "skip": { "<photo number>": "why" } — e.g. the same photo posted twice in one post

@@ -26,8 +26,9 @@ const LONG_CAPTION = 150, SHORT_LINE = 40;
 
 const layout = { draft: old.draft !== false, ...(old.cover ? { cover: old.cover } : {}), chapters: {} };
 for (const ch of cfg.chapters) {
-  const post = posts.find(p => p.feedOrder === ch.feedOrder);
-  const paras = fixText(ch.key, post.text).split("\n").filter(l => l.trim() && !isTags(l));
+  // a chapter without a post (trip-config "originals") has photos only, its text is written later
+  const post = posts.find(p => p.feedOrder === ch.feedOrder) || { text: "", date: "" };
+  const paras = (ch.originals ? "" : fixText(ch.key, post.text)).split("\n").filter(l => l.trim() && !isTags(l));
   for (const ins of (ch.inserts || []).slice().sort((a, b) => b.after - a.after))
     paras.splice(ins.after + 1, 0, ...fs.readFileSync(ins.file, "utf8").replace(/\r/g, "").split("\n").filter(l => l.trim() && !isTags(l)));
   // runs of 3+ short lines → one paragraph with line breaks
@@ -56,7 +57,7 @@ for (const ch of cfg.chapters) {
     const want = (k + 0.5) / rest.length * total;
     let acc = 0, i = 0;
     while (i < paras.length - 1 && acc + len[i] < want) acc += len[i++];
-    i = joinEnd(i);
+    i = paras.length ? joinEnd(i) : -1;
     (groups[i] = groups[i] || []).push(p);
   });
   const blocks = [];
@@ -84,5 +85,7 @@ for (const ch of cfg.chapters) {
   }
   layout.chapters[ch.slug] = { ...(hero ? { hero } : {}), ...(joins.length ? { joins } : {}), blocks };
 }
+// a photo alone in a row only where the text asks for it
+require("./fb-merge-singles.cjs")(layout);
 fs.writeFileSync(outFile, JSON.stringify(layout, null, 2) + "\n");
 console.log(Object.entries(layout.chapters).map(([s, c]) => `${s}: cover ${c.hero}, ${c.blocks.length} blocks${c.joins ? `, joins ${JSON.stringify(c.joins)}` : ""}`).join("\n"));

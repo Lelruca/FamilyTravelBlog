@@ -26,7 +26,7 @@ for (const ch of cfg.chapters) {
   const html = fs.readFileSync(path.join(site, urlPath, slug, "index.html"), "utf8");
   const body = html.slice(html.indexOf('class="essay-body"'), html.indexOf('class="essay-navigation"'));
   // text
-  const want = (ch.text ? fs.readFileSync(ch.text, "utf8").split(String.fromCharCode(13)).join("").trimEnd() : fixText(ch.key, posts.find(p => p.feedOrder === ch.feedOrder).text)).split("\n").filter(l => l.trim() && !/^\s*(#\S+\s*)+$/.test(l));
+  const want = (ch.text ? fs.readFileSync(ch.text, "utf8").split(String.fromCharCode(13)).join("").trimEnd() : ch.originals ? "" : fixText(ch.key, posts.find(p => p.feedOrder === ch.feedOrder).text)).split("\n").filter(l => l.trim() && !/^\s*(#\S+\s*)+$/.test(l));
   // another post of the author inserted into this chapter (trip-config "inserts")
   for (const ins of (ch.inserts || []).slice().sort((a, b) => b.after - a.after))
     want.splice(ins.after + 1, 0, ...fs.readFileSync(ins.file, "utf8").replace(/\r/g, "").split("\n").filter(l => l.trim()));
