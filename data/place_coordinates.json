@@ -2286,5 +2286,101 @@
     "country_code": "MX",
     "source": "https://www.openstreetmap.org/relation/19430125",
     "query": "Zócalo Ciudad de México"
+  },
+  "albertina": {
+    "lat": 48.20464,
+    "lon": 16.36826,
+    "name": "Albertina",
+    "country_code": "AT",
+    "source": "https://www.openstreetmap.org/node/60438337",
+    "query": "Albertina Wien"
+  },
+  "belvedere": {
+    "lat": 48.19154,
+    "lon": 16.38089,
+    "name": "Oberes Belvedere",
+    "country_code": "AT",
+    "source": "https://www.openstreetmap.org/way/5887599",
+    "query": "Oberes Belvedere"
+  },
+  "heeresgeschichtliches-museum": {
+    "lat": 48.18426,
+    "lon": 16.38898,
+    "name": "Heeresgeschichtliches Museum",
+    "country_code": "AT",
+    "source": "https://www.openstreetmap.org/relation/4465113",
+    "query": "Heeresgeschichtliches Museum"
+  },
+  "hofburg": {
+    "lat": 48.20633,
+    "lon": 16.36563,
+    "name": "Hofburg",
+    "country_code": "AT",
+    "source": "https://www.openstreetmap.org/relation/3898175",
+    "query": "Hofburg Wien"
+  },
+  "kunsthistorisches-museum": {
+    "lat": 48.20374,
+    "lon": 16.36178,
+    "name": "Kunsthistorisches Museum",
+    "country_code": "AT",
+    "source": "https://www.openstreetmap.org/relation/20165",
+    "query": "Kunsthistorisches Museum"
+  },
+  "musikverein": {
+    "lat": 48.20049,
+    "lon": 16.37273,
+    "name": "Musikverein",
+    "country_code": "AT",
+    "source": "https://www.openstreetmap.org/way/25577405",
+    "query": "Musikverein Wien"
+  },
+  "prague": {
+    "lat": 50.08747,
+    "lon": 14.42125,
+    "name": "Praha",
+    "country_code": "CZ",
+    "source": "https://www.openstreetmap.org/relation/435514",
+    "query": "Praha"
+  },
+  "prague-castle": {
+    "lat": 50.09081,
+    "lon": 14.40052,
+    "name": "Pražský hrad",
+    "country_code": "CZ",
+    "source": "https://www.openstreetmap.org/relation/3312247",
+    "query": "Prazsky hrad"
+  },
+  "schonbrunn": {
+    "lat": 48.18499,
+    "lon": 16.31157,
+    "name": "Schloss Schönbrunn",
+    "country_code": "AT",
+    "source": "https://www.openstreetmap.org/way/8756754",
+    "query": "Schloss Schonbrunn Wien"
+  },
+  "technisches-museum-wien": {
+    "lat": 48.19092,
+    "lon": 16.31803,
+    "name": "Technisches Museum Wien",
+    "country_code": "AT",
+    "source": "https://www.openstreetmap.org/way/22777109",
+    "query": "Technisches Museum Wien"
+  },
+  "vienna": {
+    "lat": 48.20835,
+    "lon": 16.3725,
+    "name": "Wien",
+    "country_code": "AT",
+    "source": "https://www.openstreetmap.org/relation/109166",
+    "query": "Wien"
+  },
+  "vienna-state-opera": {
+    "lat": 48.20329,
+    "lon": 16.36919,
+    "name": "Wiener Staatsoper",
+    "country_code": "AT",
+    "source": "https://www.openstreetmap.org/way/8097595",
+    "query": "Wiener Staatsoper"
   }
 }
