@@ -8,6 +8,7 @@ places:
   - progreso
 hero_image: "20250210_141414.jpg"
 hero_crop: "center 72%"
+hero_card_position: "center 72%"
 date: "2025-02-10"
 auto_gallery: false
 draft: false
