@@ -40,6 +40,7 @@
     </script>
     <div id="photo-lightbox" class="photo-lightbox" hidden>
       <div class="photo-lightbox-inner">
+        <button type="button" id="photo-lightbox-info" class="photo-lightbox-info" aria-label="Подписи к фото" aria-pressed="true" hidden>i</button>
         <button type="button" id="photo-lightbox-close" class="photo-lightbox-close" aria-label="Закрыть">×</button>
         <button type="button" id="photo-lightbox-prev" class="photo-lightbox-nav photo-lightbox-prev" aria-label="Предыдущее фото">‹</button>
         <img referrerpolicy="no-referrer" id="photo-lightbox-image" class="photo-lightbox-image" alt="" />
@@ -54,6 +55,7 @@
         const image = document.getElementById('photo-lightbox-image');
         const counter = document.getElementById('photo-lightbox-counter');
         const caption = document.getElementById('photo-lightbox-caption');
+        const infoBtn = document.getElementById('photo-lightbox-info');
         const closeBtn = document.getElementById('photo-lightbox-close');
         const prevBtn = document.getElementById('photo-lightbox-prev');
         const nextBtn = document.getElementById('photo-lightbox-next');
@@ -62,6 +64,20 @@
         // All photos on the page, in reading order, form one gallery.
         let items = [];
         let current = 0;
+        // captions on/off for the whole run through the chapter; back on at every new opening
+        let captionsOn = true;
+        // on a computer a click on the photo also toggles captions; on phones only the icon (taps there page and zoom)
+        const clickToggles = window.matchMedia('(hover: hover) and (pointer: fine)');
+        const hasCaption = () => !!(items[current] && items[current].dataset.caption);
+
+        const applyCaption = () => {
+          const text = hasCaption() ? items[current].dataset.caption : '';
+          if (caption) { caption.textContent = text; caption.hidden = !text || !captionsOn; }
+          if (infoBtn) { infoBtn.hidden = !text; infoBtn.setAttribute('aria-pressed', captionsOn ? 'true' : 'false'); }
+          image.classList.toggle('is-toggle', !!text && clickToggles.matches);
+        };
+
+        const toggleCaptions = () => { captionsOn = !captionsOn; applyCaption(); };
 
         const show = (i) => {
           if (!items.length) return;
@@ -69,7 +85,7 @@
           image.src = items[current].getAttribute('href') || '';
           counter.textContent = items.length > 1 ? (current + 1) + ' / ' + items.length : '';
           // the author's own caption of this photo, in full (on the page it may be cut to a few lines)
-          if (caption) { caption.textContent = items[current].dataset.caption || ''; caption.hidden = !caption.textContent; }
+          applyCaption();
           prevBtn.hidden = nextBtn.hidden = items.length < 2;
           // warm up the neighbours so paging feels instant
           [current - 1, current + 1].forEach((j) => {
@@ -95,18 +111,26 @@
           });
           lightbox.hidden = false;
           document.body.classList.add('photo-lightbox-open');
+          captionsOn = true;
           show(items.indexOf(trigger));
         });
 
         prevBtn.addEventListener('click', (e) => { e.stopPropagation(); show(current - 1); });
         nextBtn.addEventListener('click', (e) => { e.stopPropagation(); show(current + 1); });
         closeBtn.addEventListener('click', close);
+        if (infoBtn) infoBtn.addEventListener('click', (e) => { e.stopPropagation(); toggleCaptions(); });
+        [image, caption].forEach((el) => el && el.addEventListener('click', (e) => {
+          if (!clickToggles.matches || !hasCaption()) return;
+          e.stopPropagation();
+          toggleCaptions();
+        }));
         lightbox.addEventListener('click', (event) => {
           if (event.target === lightbox) close();
         });
         document.addEventListener('keydown', (event) => {
           if (lightbox.hidden) return;
           if (event.key === 'Escape') close();
+          if (event.key === 'i' || event.key === 'ш') toggleCaptions();
           if (event.key === 'ArrowLeft') show(current - 1);
           if (event.key === 'ArrowRight') show(current + 1);
         });

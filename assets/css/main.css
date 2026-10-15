@@ -88,7 +88,7 @@
   }
 
   .photo-lightbox {
-    @apply fixed inset-0 z-50 bg-black/80 p-4 md:p-8 flex items-center justify-center;
+    @apply fixed inset-0 z-50 bg-black p-4 md:p-8 flex items-center justify-center;
   }
 
   .photo-lightbox-inner {
@@ -102,6 +102,19 @@
   .photo-lightbox-close {
     @apply absolute top-3 right-3 md:top-4 md:right-4 text-white/90 hover:text-white text-3xl leading-none;
   }
+
+  /* mirrors the close cross: filled while captions are shown, outline when they are hidden */
+  .photo-lightbox-info {
+    @apply absolute top-3 left-3 md:top-4 md:left-4 z-10 flex h-8 w-8 items-center justify-center rounded-full border-2 border-white/90 bg-white/90 font-serif text-lg font-bold italic leading-none text-black hover:border-white hover:bg-white;
+  }
+
+  .photo-lightbox-info[aria-pressed="false"] {
+    @apply bg-transparent text-white/90 hover:bg-white/10 hover:text-white;
+  }
+
+  .photo-lightbox-info[hidden] { display: none; }
+
+  .photo-lightbox-image.is-toggle { cursor: pointer; }
 
   .photo-lightbox-nav {
     @apply absolute top-1/2 -translate-y-1/2 z-10 flex h-12 w-12 items-center justify-center rounded-full bg-black/40 text-3xl leading-none text-white/90 hover:bg-black/60 hover:text-white;
