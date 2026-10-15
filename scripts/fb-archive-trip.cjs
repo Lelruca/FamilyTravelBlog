@@ -9,6 +9,9 @@
 //                  or "your_facebook_activity").
 //   <post numbers>: positions of the posts in the archive sorted from oldest to newest, e.g. "1-9" or "24-33,35".
 //                   `node scripts/fb-archive-trip.cjs <archive dir> --list` prints that numbered list.
+//   [album=<post>:<album file>,…]: photos of a Page album that belong to a post (e.g. album=112:3 adds the photos of
+//                   posts/album/3.json after the post's own media) — Facebook sometimes shows a post's photos only as an
+//                   album uploaded with it; the album's videos are left out (the post has its own).
 // Writes in <out dir>: posts.json (feedOrder, date, text, sha256), media.json ({ media: { key: [items] }, sets }),
 // published.json (fingerprints in the format scripts/match-photos.cjs reads).
 const fs = require("fs");
@@ -16,7 +19,9 @@ const path = require("path");
 const crypto = require("crypto");
 const { execFile } = require("child_process");
 
-const [root, outDir, spec] = process.argv.slice(2);
+const [root, outDir, spec, albumArg] = process.argv.slice(2);
+const albums = Object.fromEntries((albumArg || "").replace(/^album=/, "").split(",").filter(Boolean)
+  .map(x => x.split(":")).map(([n, a]) => [Number(n), a]));
 
 // Facebook writes UTF-8 text as if every byte were a Latin-1 character.
 const fix = s => typeof s === "string" ? Buffer.from(s, "latin1").toString("utf8") : s;
@@ -61,7 +66,9 @@ const size = file => new Promise((resolve, reject) =>
     media.sets[key] = null;
     media.media[key] = [];
     published[key] = [];
-    for (const [i, m] of mediaOf(p).entries()) {
+    const extra = albums[n] ? JSON.parse(fs.readFileSync(path.join(postsDir, "album", `${albums[n]}.json`), "utf8")).photos
+      .filter(m => !/\.(mp4|mov)$/i.test(m.uri)) : [];
+    for (const [i, m] of mediaOf(p).concat(extra).entries()) {
       const file = path.join(root, m.uri);
       const exif = ((m.media_metadata || {}).photo_metadata || {}).exif_data?.[0] || {};
       const isVideo = /\.(mp4|mov)$/i.test(m.uri);

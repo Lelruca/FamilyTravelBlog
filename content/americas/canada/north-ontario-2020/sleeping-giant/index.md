@@ -19,7 +19,7 @@ draft: false
 
 {{< row "20200702_120100.jpg IMG_2861.jpg" >}}
 
-{{< mosaic "L:20200702_113835.jpg 20200702_130415.jpg IMG_2831.jpg IMG_2840.jpg" >}}
+{{< mosaic "IMG_2884.jpg L:20200702_113835.jpg 20200702_130415.jpg IMG_2831.jpg IMG_2840.jpg" >}}
 
 {{< row "IMG_2860.jpg IMG_2873.jpg IMG_2913.jpg" >}}
 

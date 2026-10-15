@@ -94,6 +94,22 @@ for (const ch of cfg.chapters) {
       bytes: fs.statSync(dst).size, sha256: dstSha,
     });
   }
+  // trip-config "extra": [paths] — originals the owner asked to add to a post that has too few photos of its own
+  // (e.g. only a video); numbered after the post's media, as kind "original" without a Facebook id
+  for (const [k, src] of (ch.extra || []).entries()) {
+    const nn = String(++n).padStart(2, "0");
+    const name = `${nn}_${path.basename(src)}`;
+    const dst = path.join(dir, name);
+    const srcSha = sha(src);
+    if (!fs.existsSync(dst) || sha(dst) !== srcSha) fs.copyFileSync(src, dst);
+    if (sha(dst) !== srcSha) throw new Error(`Checksum mismatch after copy: ${dst}`);
+    manifest.photos.push({
+      chapter: ch.slug, position: n, source_position: items.length + k + 1, facebook_id: null, caption: "",
+      archive_name: `${ch.folder}/${name}`, kind: "original", added_by_owner_request: true,
+      original_relative_path: path.relative(cfg.originalsRoot, src).split(path.sep).join("/"),
+      match_score: null, bytes: fs.statSync(dst).size, sha256: srcSha,
+    });
+  }
   manifest.chapters.push({
     slug: ch.slug, title: post.text.split("\n")[0].slice(0, 80), originals_folder: ch.folder,
     facebook_set: media.sets[ch.key], post_date: post.date, text_sha256: textSha(post.text),

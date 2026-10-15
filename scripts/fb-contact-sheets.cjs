@@ -14,6 +14,7 @@ if (!fs.existsSync(font)) fs.copyFileSync("C:/Windows/Fonts/arialbd.ttf", font);
 const fontArg = font.split(path.sep).join("/");
 for (const ch of m.chapters) {
   const ps = m.photos.filter(p => p.chapter === ch.slug);
+  if (!ps.length) continue;  // a chapter with text only (the post had just a video)
   const tiles = path.join(out, ch.slug);
   fs.rmSync(tiles, { recursive: true, force: true });
   fs.mkdirSync(tiles);
