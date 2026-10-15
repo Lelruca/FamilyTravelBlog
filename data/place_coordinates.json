@@ -2182,5 +2182,109 @@
     "country_code": "cl",
     "source": "https://www.openstreetmap.org/relation/110804",
     "query": "Vina del Mar Chile"
+  },
+  "cancun": {
+    "lat": 21.15275,
+    "lon": -86.84258,
+    "name": "Cancún",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/relation/17611454",
+    "query": "Cancún Quintana Roo"
+  },
+  "chapultepec-castle": {
+    "lat": 19.42046,
+    "lon": -99.18209,
+    "name": "Museo Nacional de Historia Castillo de Chapultepec",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/relation/17314437",
+    "query": "Castillo de Chapultepec"
+  },
+  "coyoacan": {
+    "lat": 19.34986,
+    "lon": -99.16198,
+    "name": "Coyoacán",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/relation/5605709",
+    "query": "Coyoacán Ciudad de México"
+  },
+  "merida-mexico": {
+    "lat": 20.96708,
+    "lon": -89.62374,
+    "name": "Mérida",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/node/269908858",
+    "query": "Mérida Yucatán"
+  },
+  "mexico-city": {
+    "lat": 19.32077,
+    "lon": -99.15147,
+    "name": "Ciudad de México",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/relation/1376330",
+    "query": "Ciudad de México"
+  },
+  "munal": {
+    "lat": 19.43646,
+    "lon": -99.13909,
+    "name": "Museo Nacional de Arte",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/relation/14592229",
+    "query": "Museo Nacional de Arte"
+  },
+  "museo-antropologia": {
+    "lat": 19.42615,
+    "lon": -99.18665,
+    "name": "Museo Nacional de Antropología",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/way/433756023",
+    "query": "Museo Nacional de Antropología"
+  },
+  "palacio-bellas-artes": {
+    "lat": 19.4355,
+    "lon": -99.14126,
+    "name": "Palacio de Bellas Artes",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/way/157051087",
+    "query": "Palacio de Bellas Artes"
+  },
+  "palacio-postal": {
+    "lat": 19.43566,
+    "lon": -99.14028,
+    "name": "Palacio Postal",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/way/157051114",
+    "query": "Palacio Postal Ciudad de México"
+  },
+  "progreso": {
+    "lat": 21.28221,
+    "lon": -89.66366,
+    "name": "Progreso",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/relation/6333853",
+    "query": "Progreso Yucatán"
+  },
+  "teotihuacan": {
+    "lat": 19.69027,
+    "lon": -98.87673,
+    "name": "Zona Arqueológica de Teotihuacán",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/relation/14301857",
+    "query": "Zona Arqueológica de Teotihuacán"
+  },
+  "uxmal": {
+    "lat": 20.36029,
+    "lon": -89.77056,
+    "name": "Uxmal",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/node/6125427544",
+    "query": "Uxmal"
+  },
+  "zocalo": {
+    "lat": 19.43265,
+    "lon": -99.1332,
+    "name": "Plaza de la Constitución",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/relation/19430125",
+    "query": "Zócalo Ciudad de México"
   }
 }

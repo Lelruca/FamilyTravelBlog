@@ -13,4 +13,4 @@
 {{- $r := partial "story-photo-ratio.html" (dict "page" $page "name" $name) -}}
 {{- $info := index (index site.Data.photos $page.Parent.File.ContentBaseName) (partial "story-photo-key.html" (dict "page" $page "name" $name)) -}}
 {{- $text := $page.RenderString (dict "display" "block") (trim .Inner " \r\n") -}}
-<div class="essay-beside{{ if eq (.Get "side") "left" }} at-left{{ end }}"><div class="beside-text">{{ $text }}</div><div class="beside-photo"><a class="essay-photo" href="{{ $url }}" data-photo-lightbox data-photo-alt="" data-r="{{ $r }}"><img referrerpolicy="no-referrer" src="{{ $url }}" width="{{ $info.w }}" height="{{ $info.h }}" alt="" loading="lazy"></a></div></div>
+<div class="essay-beside{{ if eq (.Get "side") "left" }} at-left{{ end }}"><div class="beside-text">{{ $text }}</div><div class="beside-photo"><a class="essay-photo" href="{{ $url }}" data-photo-lightbox data-photo-alt=""{{ with $info.caption }} data-caption="{{ . }}"{{ end }} data-r="{{ $r }}"><img referrerpolicy="no-referrer" src="{{ $url }}" width="{{ $info.w }}" height="{{ $info.h }}" alt="" loading="lazy">{{ partial "story-photo-caption.html" $info.caption }}</a></div></div>
