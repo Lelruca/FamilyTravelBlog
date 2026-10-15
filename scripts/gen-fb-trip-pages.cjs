@@ -5,7 +5,8 @@
 //
 // Usage: node scripts/gen-fb-trip-pages.cjs <trip-config.json> <pages.json> [layout.json]
 //   pages.json: { dir, trip: { front matter of _index.md }, chapters: { <slug>: { title, city, places, kind? } } }
-//   layout.json: { draft, cover, cover_position, chapters: { <slug>: { hero, hero_crop, joins: [[from, to]], blocks: [
+//   layout.json: { draft, cover, cover_position, chapters: { <slug>: { hero, hero_crop, card (the photo of the chapter tile
+//                  on the trip page when it should differ from the cover), joins: [[from, to]], blocks: [
 //                  { after: <paragraph index, -1 = before the first>, kind: "row"|"mosaic", items: "L:3 5 7" },
 //                  { after, kind: "beside", items: "4", side }, { after, kind: "text", captions: "8 9", join } ] } } }
 //   Photos are given by their number in the post; "18a" is an addition of the owner next to photo 18.
@@ -21,7 +22,7 @@ const layout = layoutFile && fs.existsSync(layoutFile) ? JSON.parse(fs.readFileS
 const posts = JSON.parse(fs.readFileSync(cfg.posts, "utf8"));
 const manifest = JSON.parse(fs.readFileSync(`media-manifests/${cfg.trip}.json`, "utf8"));
 const tripDir = pages.dir;
-const { fixText, fixCaption } = require("./fb-corrections.cjs")(cfg);
+const { fixText, fixCaption, sameText } = require("./fb-corrections.cjs")(cfg);
 const draft = layout.draft === false ? "false" : "true";
 
 const esc = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
@@ -49,10 +50,16 @@ const textCaps = new Set();
 cfg.chapters.forEach((ch, n) => {
   const post = posts.find(p => p.feedOrder === ch.feedOrder);
   const paras = fixText(ch.key, post.text).split("\n").filter(l => l.trim() && !isTags(l));
+  // another short post of the author about the same day, inserted after a paragraph (trip-config "inserts":
+  // [{ after, file }], the file holding that post's text); later "after" indexes count the inserted lines
+  for (const ins of (ch.inserts || []).slice().sort((a, b) => b.after - a.after))
+    paras.splice(ins.after + 1, 0, ...fs.readFileSync(ins.file, "utf8").replace(/\r/g, "").split("\n").filter(l => l.trim() && !isTags(l)));
   const mine = manifest.photos.filter(p => p.chapter === ch.slug);
   const photos = mine.map(p => displayName(p.archive_name));
   const byPos = Object.fromEntries(mine.map(p => [String(p.source_position), displayName(p.archive_name)]));
   const capByPos = Object.fromEntries(mine.map(p => [String(p.source_position), fixCaption(ch.key, p.source_position, p.caption || "")]));
+  // a caption repeating a paragraph is already on the page as text: not written over the photo again
+  for (const p of mine) if (p.caption && paras.some(t => sameText(t, fixCaption(ch.key, p.source_position, p.caption)))) textCaps.add(`${ch.slug}/${displayName(p.archive_name)}`);
   const name = t => t.replace(/^([LRT]:)?(\d+[a-z]?)$/, (all, k, num) => (k || "") + (byPos[num] || "MISSING" + num));
   const raw = layout.chapters[ch.slug] || { blocks: [] };
   const hero = raw.hero && name(String(raw.hero));
@@ -102,7 +109,7 @@ layout: "photo-story"
 weight: ${(n + 1) * 10}
 city: ${yaml(m.city)}
 places:${yaml(m.places)}
-${hero ? `hero_image: ${yaml(hero)}\n` : ""}${raw.hero_crop ? `hero_crop: ${yaml(raw.hero_crop)}\n` : ""}${raw.hero_card_position ? `hero_card_position: ${yaml(raw.hero_card_position)}\n` : ""}date: "${chapterDate(ch.slug, post)}"
+${hero ? `hero_image: ${yaml(hero)}\n` : ""}${raw.hero_crop ? `hero_crop: ${yaml(raw.hero_crop)}\n` : ""}${raw.card ? `hero_card_image: ${yaml(name(String(raw.card)))}\n` : ""}${raw.hero_card_position ? `hero_card_position: ${yaml(raw.hero_card_position)}\n` : ""}date: "${chapterDate(ch.slug, post)}"
 auto_gallery: false
 draft: ${draft}
 ---

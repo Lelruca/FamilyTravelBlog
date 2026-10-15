@@ -34,7 +34,7 @@ const manifest = {
   archive_root: `${cfg.continent}/${cfg.archiveFolder}`,
   created: new Date().toISOString(),
   match_threshold: SURE,
-  chapters: [], photos: [], videos: [],
+  chapters: [], photos: [], videos: [], skipped: [],
 };
 
 for (const ch of cfg.chapters) {
@@ -44,6 +44,9 @@ for (const ch of cfg.chapters) {
   fs.mkdirSync(dir, { recursive: true });
   let n = 0;
   for (const item of items) {
+    // trip-config "skip": { "<photo number>": "why" } — e.g. the same photo posted twice in one post
+    const skip = (ch.skip || {})[item.i + 1];
+    if (skip) { manifest.skipped.push({ chapter: ch.slug, source_position: item.i + 1, facebook_id: item.id, reason: skip }); continue; }
     if (item.type !== "photo") {
       manifest.videos.push({ chapter: ch.slug, source_position: item.i + 1, facebook_id: item.id.replace(/^v/, "") });
       continue;

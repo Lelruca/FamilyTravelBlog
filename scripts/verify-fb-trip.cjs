@@ -14,10 +14,11 @@ const manifest = JSON.parse(fs.readFileSync(path.join("media-manifests", cfg.tri
 const base = (fs.readFileSync("hugo.prod.yaml", "utf8").match(/photoBase:\s*["']?([^"'\s]+)/) || [])[1];
 const urlPath = tripDir.replace(/^content\//, "");
 const decode = s => s.replace(/<[^>]+>/g, "").replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">")
-  .replace(/&quot;/g, '"').replace(/&#34;/g, '"').replace(/&#39;/g, "'").replace(/&#x27;/g, "'").replace(/&nbsp;/g, " ");
+  .replace(/&quot;/g, '"').replace(/&#34;/g, '"').replace(/&#39;/g, "'").replace(/&#x27;/g, "'").replace(/&nbsp;/g, " ")
+  .replace(/&#(\d+);/g, (m, n) => String.fromCodePoint(+n)).replace(/&#x([\da-f]+);/gi, (m, n) => String.fromCodePoint(parseInt(n, 16)));
 const displayName = a => path.basename(a).replace(/^\d{2}[a-z]?_/, "").replace(/\.(jpe?g|png|heic|webp)$/i, ".jpg").replace(/\s+/g, "_");
 
-const { fixText, fixCaption } = require("./fb-corrections.cjs")(cfg);
+const { fixText, fixCaption, sameText } = require("./fb-corrections.cjs")(cfg);
 let problems = 0, paragraphs = 0, photos = 0, captions = 0;
 const fail = m => { problems++; console.log("  ✗ " + m); };
 for (const ch of cfg.chapters) {
@@ -54,7 +55,7 @@ for (const ch of cfg.chapters) {
     // a long caption may be shown as a paragraph next to its photo instead (class photo-note)
     const notes = [...body.matchAll(/<p class="photo-note">([\s\S]*?)<\/p>/g)].map(m => decode(m[1].replace(/<br>/g, "\n")));
     const cap = fixCaption(ch.key, p.source_position, p.caption);
-    if (!attrs.includes(cap) && !notes.some(n => n.includes(cap))) fail(`${slug}: caption of ${displayName(p.archive_name)} missing or changed`);
+    if (!attrs.includes(cap) && !notes.some(n => n.includes(cap)) && !want.some(t => sameText(t, cap))) fail(`${slug}: caption of ${displayName(p.archive_name)} missing or changed`);
     else captions++;
   }
 }

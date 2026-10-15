@@ -1838,5 +1838,117 @@
     "country_code": "CA",
     "source": "https://www.openstreetmap.org/way/839995391",
     "query": "Cup and Saucer Trail"
+  },
+  "bic": {
+    "lat": 48.34536,
+    "lon": -68.80566,
+    "name": "Parc national du Bic",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/5212364",
+    "query": "Parc national du Bic"
+  },
+  "pointe-au-pere": {
+    "lat": 48.51752,
+    "lon": -68.46897,
+    "name": "Phare de Pointe-au-Père",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/576710199",
+    "query": "Pointe-au-Père Rimouski phare"
+  },
+  "rimouski": {
+    "lat": 48.45016,
+    "lon": -68.52997,
+    "name": "Rimouski",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/8138193",
+    "query": "Rimouski Quebec"
+  },
+  "jardins-de-metis": {
+    "lat": 48.62925,
+    "lon": -68.12656,
+    "name": "Jardins de Métis",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/472846179",
+    "query": "Reford Gardens"
+  },
+  "cap-chat": {
+    "lat": 49.09597,
+    "lon": -66.68788,
+    "name": "Cap-Chat",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/8154704",
+    "query": "Éole Cap-Chat"
+  },
+  "gaspesie-park": {
+    "lat": 48.97179,
+    "lon": -66.28753,
+    "name": "Parc national de la Gaspésie",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/7485827",
+    "query": "Parc national de la Gaspésie"
+  },
+  "forillon": {
+    "lat": 48.86692,
+    "lon": -64.33392,
+    "name": "Parc national de Forillon",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/1603116",
+    "query": "Parc national Forillon"
+  },
+  "cap-des-rosiers": {
+    "lat": 48.85628,
+    "lon": -64.20102,
+    "name": "Cap-des-Rosiers",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/1305144540",
+    "query": "Cap-des-Rosiers"
+  },
+  "gaspe": {
+    "lat": 48.83172,
+    "lon": -64.48376,
+    "name": "Gaspé",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/8237761",
+    "query": "Gaspe"
+  },
+  "perce": {
+    "lat": 48.5223,
+    "lon": -64.21364,
+    "name": "Percé",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/8237764",
+    "query": "Perce"
+  },
+  "bonaventure-island": {
+    "lat": 48.49558,
+    "lon": -64.16027,
+    "name": "Parc national de l'Île-Bonaventure-et-du-Rocher-Percé",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/6989318",
+    "query": "Île Bonaventure"
+  },
+  "bonaventure-quebec": {
+    "lat": 48.04492,
+    "lon": -65.49315,
+    "name": "Bonaventure",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/8271759",
+    "query": "Bonaventure Quebec"
+  },
+  "carleton-sur-mer": {
+    "lat": 48.10146,
+    "lon": -66.11405,
+    "name": "Carleton-sur-Mer",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/8271765",
+    "query": "Carleton-sur-Mer"
+  },
+  "miguasha": {
+    "lat": 48.1071,
+    "lon": -66.35416,
+    "name": "Parc national de Miguasha",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/6989317",
+    "query": "Parc national de Miguasha"
   }
 }
