@@ -7,6 +7,8 @@
   {{- with site.GetPage . -}}
     {{- range sort .Sections "Title" -}}
       {{- $key := .File.ContentBaseName -}}
+      {{- $countryRegion := $region -}}
+      {{- if in (slice "argentina" "chile" "brazil") $key -}}{{- $countryRegion = "Южная Америка" -}}{{- end -}}
       {{- $pages := .Sections -}}
       {{- range site.Pages -}}
         {{- if and .Params.trip_year (in (.Params.geo_countries | default (slice)) $key) -}}
@@ -26,7 +28,7 @@
         {{- end -}}
       {{- end -}}
       {{- if not (and (eq $key "japan") (eq (len $trips) 0)) -}}
-      {{- $countries = $countries | append (dict "key" $key "title" .Title "region" $region "url" .RelPermalink "trips" $trips) -}}
+      {{- $countries = $countries | append (dict "key" $key "title" .Title "region" $countryRegion "url" .RelPermalink "trips" $trips) -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}

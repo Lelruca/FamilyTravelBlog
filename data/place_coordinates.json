@@ -2078,5 +2078,109 @@
     "country_code": "IT",
     "source": "https://www.openstreetmap.org/way/477279033",
     "query": "Galleria degli Uffizi"
+  },
+  "buenos-aires": {
+    "lat": -34.6095579,
+    "lon": -58.3887904,
+    "name": "Buenos Aires",
+    "country_code": "ar",
+    "source": "https://www.openstreetmap.org/relation/1224652",
+    "query": "Buenos Aires Argentina"
+  },
+  "concon": {
+    "lat": -32.9220036,
+    "lon": -71.5159565,
+    "name": "Concón",
+    "country_code": "cl",
+    "source": "https://www.openstreetmap.org/relation/110722",
+    "query": "Concon Chile"
+  },
+  "hornocal": {
+    "lat": -23.2795863,
+    "lon": -65.1673307,
+    "name": "Serranía del Hornocal",
+    "country_code": "ar",
+    "source": "https://www.openstreetmap.org/way/446677094",
+    "query": "Hornocal Argentina"
+  },
+  "humahuaca": {
+    "lat": -23.2040265,
+    "lon": -65.3487763,
+    "name": "Humahuaca",
+    "country_code": "ar",
+    "source": "https://www.openstreetmap.org/relation/4502115",
+    "query": "Humahuaca Argentina"
+  },
+  "iguazu-falls": {
+    "lat": -25.6925323,
+    "lon": -54.4411144,
+    "name": "Iguazú",
+    "country_code": "ar",
+    "source": "https://www.openstreetmap.org/way/233048015",
+    "query": "Cataratas del Iguazu"
+  },
+  "los-cardones": {
+    "lat": -25.2984832,
+    "lon": -65.9150713,
+    "name": "Parque Nacional Los Cardones",
+    "country_code": "ar",
+    "source": "https://www.openstreetmap.org/relation/3093395",
+    "query": "Parque Nacional Los Cardones Argentina"
+  },
+  "purmamarca": {
+    "lat": -23.74655,
+    "lon": -65.4992167,
+    "name": "Purmamarca",
+    "country_code": "ar",
+    "source": "https://www.openstreetmap.org/relation/4473250",
+    "query": "Purmamarca Argentina"
+  },
+  "salta": {
+    "lat": -24.7892946,
+    "lon": -65.4103194,
+    "name": "Salta",
+    "country_code": "ar",
+    "source": "https://www.openstreetmap.org/relation/2722832",
+    "query": "Salta Argentina"
+  },
+  "santiago-chile": {
+    "lat": -33.4376995,
+    "lon": -70.6510671,
+    "name": "Santiago",
+    "country_code": "cl",
+    "source": "https://www.openstreetmap.org/node/50016356",
+    "query": "Santiago Chile"
+  },
+  "tilcara": {
+    "lat": -23.5769014,
+    "lon": -65.393396,
+    "name": "Tilcara",
+    "country_code": "ar",
+    "source": "https://www.openstreetmap.org/relation/9386325",
+    "query": "Tilcara Argentina"
+  },
+  "uquia-church": {
+    "lat": -23.3033703,
+    "lon": -65.3562686,
+    "name": "Iglesia San Francisco de Paula",
+    "country_code": "ar",
+    "source": "https://www.openstreetmap.org/node/2521333883",
+    "query": "Iglesia San Francisco de Paula Uquia"
+  },
+  "valparaiso": {
+    "lat": -33.0458456,
+    "lon": -71.6196749,
+    "name": "Valparaíso",
+    "country_code": "cl",
+    "source": "https://www.openstreetmap.org/relation/110808",
+    "query": "Valparaiso Chile"
+  },
+  "vina-del-mar": {
+    "lat": -33.0244535,
+    "lon": -71.5517636,
+    "name": "Viña del Mar",
+    "country_code": "cl",
+    "source": "https://www.openstreetmap.org/relation/110804",
+    "query": "Vina del Mar Chile"
   }
 }
