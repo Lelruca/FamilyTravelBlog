@@ -1950,5 +1950,133 @@
     "country_code": "CA",
     "source": "https://www.openstreetmap.org/relation/6989317",
     "query": "Parc national de Miguasha"
+  },
+  "bargello": {
+    "lat": 43.77038,
+    "lon": 11.25826,
+    "name": "Palazzo del Bargello",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/way/43837065",
+    "query": "Museo Nazionale del Bargello"
+  },
+  "castel-sant-angelo": {
+    "lat": 41.90312,
+    "lon": 12.46634,
+    "name": "Castel Sant’Angelo",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/way/8035487",
+    "query": "Castel Sant Angelo Roma"
+  },
+  "cinque-terre": {
+    "lat": 44.12221,
+    "lon": 9.71325,
+    "name": "Cinque Terre",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/node/2739724691",
+    "query": "Cinque Terre"
+  },
+  "colosseum": {
+    "lat": 41.89094,
+    "lon": 12.4919,
+    "name": "Colosseo",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/way/215801333",
+    "query": "Colosseo Roma"
+  },
+  "galleria-borghese": {
+    "lat": 41.91411,
+    "lon": 12.49211,
+    "name": "Galleria Borghese",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/node/1440405490",
+    "query": "Galleria Borghese"
+  },
+  "la-spezia": {
+    "lat": 44.10339,
+    "lon": 9.8217,
+    "name": "La Spezia",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/42842",
+    "query": "La Spezia"
+  },
+  "lucca": {
+    "lat": 43.84284,
+    "lon": 10.50288,
+    "name": "Lucca",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/42659",
+    "query": "Lucca"
+  },
+  "monte-oliveto-maggiore": {
+    "lat": 43.17516,
+    "lon": 11.54401,
+    "name": "Abbazia di Monte Oliveto Maggiore",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/2469841",
+    "query": "Abbazia di Monte Oliveto Maggiore"
+  },
+  "museo-stibbert": {
+    "lat": 43.79272,
+    "lon": 11.25514,
+    "name": "Museo Stibbert",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/node/938223111",
+    "query": "Museo Stibbert"
+  },
+  "orvieto": {
+    "lat": 42.71862,
+    "lon": 12.10879,
+    "name": "Orvieto",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/42117",
+    "query": "Orvieto"
+  },
+  "palazzo-pitti": {
+    "lat": 43.76528,
+    "lon": 11.25026,
+    "name": "Palazzo Pitti",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/1637338",
+    "query": "Palazzo Pitti"
+  },
+  "pietrasanta": {
+    "lat": 43.9589,
+    "lon": 10.2332,
+    "name": "Pietrasanta",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/42756",
+    "query": "Pietrasanta"
+  },
+  "pisa": {
+    "lat": 43.71594,
+    "lon": 10.40186,
+    "name": "Pisa",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/42527",
+    "query": "Pisa"
+  },
+  "sacro-bosco": {
+    "lat": 42.49027,
+    "lon": 12.24604,
+    "name": "Sacro Bosco",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/11795110",
+    "query": "Sacro Bosco Bomarzo"
+  },
+  "siena": {
+    "lat": 43.31855,
+    "lon": 11.33165,
+    "name": "Siena",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/42398",
+    "query": "Siena"
+  },
+  "uffizi": {
+    "lat": 43.76831,
+    "lon": 11.2558,
+    "name": "Galleria degli Uffizi",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/way/477279033",
+    "query": "Galleria degli Uffizi"
   }
 }

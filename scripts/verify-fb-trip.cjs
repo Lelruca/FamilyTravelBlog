@@ -41,10 +41,16 @@ for (const ch of cfg.chapters) {
   const urls = [...(header + body).matchAll(/(?:src|href)="([^"]+)"/g)].map(m => m[1]);
   if (urls.some(u => /drive\.google|googleusercontent/.test(u))) fail(`${slug}: a Drive/Google photo URL on the page`);
   const notR2 = shown.filter(u => !u.startsWith(base)); if (notR2.length) fail(`${slug}: not from R2: ${notR2.slice(0, 3).join(" ")}`);
-  const names = shown.map(u => decodeURIComponent(u.split("/").pop()));
+  // a photo of another chapter of the trip used as this chapter's cover (key "chapter/name") is counted there
+  const names = shown.filter(u => u.includes(`/${slug}/`)).map(u => decodeURIComponent(u.split("/").pop()));
   const expected = manifest.photos.filter(p => p.chapter === slug).map(p => displayName(p.archive_name));
   const missing = expected.filter(n => !names.includes(n)), extra = names.filter(n => !expected.includes(n));
-  const twice = names.filter((n, i) => names.indexOf(n) !== i);
+  // the chapter cover stays in the story too (the owner's rule): once in the header and once in the text is right
+  const cover = [...header.matchAll(/href="([^"]+\.jpg)"[^>]*data-photo-lightbox/g)].map(m => decodeURIComponent(m[1].split("/").pop()));
+  const inBody = [...body.matchAll(/href="([^"]+\.jpg)"[^>]*data-photo-lightbox/g)].map(m => m[1]).filter(u => u.includes(`/${slug}/`)).map(u => decodeURIComponent(u.split("/").pop()));
+  const twice = inBody.filter((n, i) => inBody.indexOf(n) !== i);
+  // except where the owner asked not to repeat it (trip-config "cover_only")
+  for (const n of cover) if (expected.includes(n) && !inBody.includes(n) && !(ch.cover_only || []).includes(n)) fail(`${slug}: cover ${n} is not in the story`);
   if (missing.length) fail(`${slug}: photos not shown: ${missing.join(" ")}`);
   if (extra.length) fail(`${slug}: photos not in the archive: ${extra.join(" ")}`);
   if (twice.length) fail(`${slug}: photos shown twice: ${twice.join(" ")}`);

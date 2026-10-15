@@ -8,7 +8,7 @@
 //   layout.json: { draft, cover, cover_position, chapters: { <slug>: { hero, hero_crop, card (the photo of the chapter tile
 //                  on the trip page when it should differ from the cover), joins: [[from, to]], blocks: [
 //                  { after: <paragraph index, -1 = before the first>, kind: "row"|"mosaic", items: "L:3 5 7" },
-//                  { after, kind: "beside", items: "4", side }, { after, kind: "text", captions: "8 9", join } ] } } }
+//                  { after, kind: "beside", items: "4", side, paras: [0, 1] }, { after, kind: "text", captions: "8 9", join } ] } } }
 //   Photos are given by their number in the post; "18a" is an addition of the owner next to photo 18.
 // Spelling corrections the owner asked for (trip-config "corrections": a JSON file of { key, caption?, from, to })
 // are applied to the shown text only; the archive text and the manifest keep the original words.
@@ -74,7 +74,8 @@ cfg.chapters.forEach((ch, n) => {
   }
   const missing = photos.filter(p => !used.includes(p));
   const unknown = used.filter(p => !photos.includes(p));
-  const twice = used.filter((p, i) => used.indexOf(p) !== i);
+  // the cover is also in the text (the owner's rule): counted once
+  const twice = used.filter((p, i) => used.indexOf(p) !== i && !(p === hero && used.indexOf(p) === 0 && used.indexOf(p, 1) === i));
   report.push(`${ch.slug}: ${paras.length} paragraphs, ${photos.length} photos, placed ${used.length}` +
     (missing.length ? `, NOT PLACED ${missing.length}` : "") + (unknown.length ? `, UNKNOWN ${unknown.join(" ")}` : "") + (twice.length ? `, TWICE ${twice.join(" ")}` : ""));
   const last = paras.length - 1;
@@ -87,15 +88,22 @@ cfg.chapters.forEach((ch, n) => {
       const ns = String(b.captions).split(/\s+/);
       return b.join ? `<p class="photo-note">${ns.map(x => esc(capByPos[x]).replace(/\n/g, "<br>")).join("<br>")}</p>` : ns.map(note).join("\n\n");
     }
-    if (b.kind === "beside") return `{{< beside photo="${b.names}"${b.side ? ` side="${b.side}"` : ""} >}}\n${note(String(b.items))}\n{{< /beside >}}`;
+    // "paras": [a, b] — the post's paragraphs a…b stand inside, next to the photo (its caption, if any, after them)
+    if (b.kind === "beside") {
+      const inner = (b.paras ? paras.slice(b.paras[0], b.paras[1] + 1).map(t => `<p>${esc(t)}</p>`) : [])
+        .concat(capByPos[String(b.items)] || !b.paras ? [note(String(b.items))] : []);
+      return `{{< beside photo="${b.names}"${b.side ? ` side="${b.side}"` : ""} >}}\n${inner.join("\n")}\n{{< /beside >}}`;
+    }
     return `{{< ${b.kind} "${b.names}" >}}`;
   };
   const body = [];
   (after[-1] || []).forEach(b => body.push(render(b)));
   // "joins": [[3, 9]] — short lines of one list or table (lines 3–9) shown as one paragraph with line breaks
   const joinOf = i => (raw.joins || []).find(([a, b]) => i >= a && i <= b);
+  const inBeside = i => raw.blocks.some(b => b.kind === "beside" && b.paras && i >= b.paras[0] && i <= b.paras[1]);
   paras.forEach((p, i) => {
     const j = joinOf(i);
+    if (inBeside(i)) { (after[i] || []).forEach(b => body.push(render(b))); return; }
     if (!j || i === j[0]) body.push(`<p>${(j ? paras.slice(j[0], j[1] + 1) : [p]).map(esc).join("<br>")}</p>`);
     if (!j || i === j[1]) for (let k = j ? j[0] : i; k <= i; k++) (after[k] || []).forEach(b => body.push(render(b)));
   });
