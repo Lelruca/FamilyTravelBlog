@@ -2654,5 +2654,85 @@
     "country_code": "PT",
     "source": "https://www.openstreetmap.org/node/25277559",
     "query": "Lagoa (Sand City itself is not in OpenStreetMap; town point)"
+  },
+  "albi": {
+    "lat": 43.92776,
+    "lon": 2.1479,
+    "name": "Albi",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/135628",
+    "query": "Albi Tarn"
+  },
+  "albi-cathedral": {
+    "lat": 43.92852,
+    "lon": 2.14256,
+    "name": "Cathédrale Sainte-Cécile d'Albi",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/260816263",
+    "query": "Cathédrale Sainte-Cécile d'Albi"
+  },
+  "carcassonne": {
+    "lat": 43.20633,
+    "lon": 2.36405,
+    "name": "Cité de Carcassonne",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/962330972",
+    "query": "Cité de Carcassonne"
+  },
+  "condom": {
+    "lat": 43.95607,
+    "lon": 0.37431,
+    "name": "Condom",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/74435",
+    "query": "Condom Gers"
+  },
+  "cordes-sur-ciel": {
+    "lat": 44.0626,
+    "lon": 1.95799,
+    "name": "Cordes-sur-Ciel",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/1608230",
+    "query": "Cordes-sur-Ciel"
+  },
+  "dali-theatre-museum": {
+    "lat": 42.26802,
+    "lon": 2.95965,
+    "name": "Teatre-Museu Dalí",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/3632680",
+    "query": "Teatre-Museu Dalí"
+  },
+  "figueres": {
+    "lat": 42.26663,
+    "lon": 2.96384,
+    "name": "Figueres",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/347769",
+    "query": "Figueres Catalonia"
+  },
+  "larressingle": {
+    "lat": 43.94447,
+    "lon": 0.31088,
+    "name": "Larressingle",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/128140",
+    "query": "Larressingle"
+  },
+  "montreal-gers": {
+    "lat": 43.94948,
+    "lon": 0.20161,
+    "name": "Montréal",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/299719",
+    "query": "Montréal Gers"
+  },
+  "toulouse": {
+    "lat": 43.60446,
+    "lon": 1.44424,
+    "name": "Toulouse",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/35738",
+    "query": "Toulouse France"
   }
 }
