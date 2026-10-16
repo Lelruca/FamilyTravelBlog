@@ -2438,5 +2438,205 @@
     "country_code": "GB",
     "source": "https://www.openstreetmap.org/way/23580556",
     "query": "Windsor Castle"
+  },
+  "barri-gotic": {
+    "lat": 41.38384,
+    "lon": 2.17451,
+    "name": "el Gòtic",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/4127655",
+    "query": "Barri Gòtic Barcelona"
+  },
+  "delft": {
+    "lat": 51.99946,
+    "lon": 4.36272,
+    "name": "Delft",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/relation/271202",
+    "query": "Delft Netherlands"
+  },
+  "escher-museum": {
+    "lat": 52.08342,
+    "lon": 4.31426,
+    "name": "Escher in Het Paleis",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/node/5759753285",
+    "query": "Escher in Het Paleis"
+  },
+  "frankfurt": {
+    "lat": 50.11064,
+    "lon": 8.68209,
+    "name": "Frankfurt am Main",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/62400",
+    "query": "Frankfurt am Main"
+  },
+  "frankfurt-cathedral": {
+    "lat": 50.11067,
+    "lon": 8.68534,
+    "name": "Kaiserdom St. Bartholomäus",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/way/11018815",
+    "query": "Kaiserdom St. Bartholomäus Frankfurt"
+  },
+  "fundacio-miro": {
+    "lat": 41.36864,
+    "lon": 2.16008,
+    "name": "Fundació Joan Miró",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/3347844",
+    "query": "Fundació Joan Miró"
+  },
+  "kevelaer": {
+    "lat": 51.5803,
+    "lon": 6.24563,
+    "name": "Kevelaer",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/167982",
+    "query": "Kevelaer Germany"
+  },
+  "liceu": {
+    "lat": 41.38024,
+    "lon": 2.1734,
+    "name": "Gran Teatre del Liceu",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/10426929",
+    "query": "Gran Teatre del Liceu"
+  },
+  "lorsch": {
+    "lat": 49.6547,
+    "lon": 8.56828,
+    "name": "Lorsch",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/537052",
+    "query": "Lorsch Hessen"
+  },
+  "lorsch-abbey": {
+    "lat": 49.65358,
+    "lon": 8.56978,
+    "name": "Kloster Lorsch",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/6028715",
+    "query": "Kloster Lorsch"
+  },
+  "mannheim": {
+    "lat": 49.48929,
+    "lon": 8.46731,
+    "name": "Mannheim",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/62691",
+    "query": "Mannheim Germany"
+  },
+  "mannheim-palace": {
+    "lat": 49.48368,
+    "lon": 8.46149,
+    "name": "Schloss Mannheim",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/60105",
+    "query": "Schloss Mannheim"
+  },
+  "mnac": {
+    "lat": 41.3686,
+    "lon": 2.15346,
+    "name": "Museu Nacional d'Art de Catalunya",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/node/14075577293",
+    "query": "Museu Nacional d'Art de Catalunya"
+  },
+  "montjuic-castle": {
+    "lat": 41.36338,
+    "lon": 2.16614,
+    "name": "Castell de Montjuïc",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/19658818",
+    "query": "Castell de Montjuïc"
+  },
+  "museu-maritim-barcelona": {
+    "lat": 41.3755,
+    "lon": 2.17643,
+    "name": "Museu Marítim de Barcelona",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/node/14080861534",
+    "query": "Museu Marítim de Barcelona"
+  },
+  "palau-guell": {
+    "lat": 41.37882,
+    "lon": 2.17423,
+    "name": "Palau Güell",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/166565579",
+    "query": "Palau Güell"
+  },
+  "poblenou-beach": {
+    "lat": 41.39395,
+    "lon": 2.20667,
+    "name": "Platja del Bogatell",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/2175041",
+    "query": "Platja del Bogatell"
+  },
+  "porsche-museum": {
+    "lat": 48.8343,
+    "lon": 9.15245,
+    "name": "Porsche Museum",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/way/30698972",
+    "query": "Porsche Museum Stuttgart"
+  },
+  "rotterdam": {
+    "lat": 51.92444,
+    "lon": 4.47775,
+    "name": "Rotterdam",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/relation/1411101",
+    "query": "Rotterdam Netherlands"
+  },
+  "royal-delft": {
+    "lat": 52.00149,
+    "lon": 4.36687,
+    "name": "De Koninklijke Porceleyne Fles",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/node/6381874972",
+    "query": "Royal Delft De Porceleyne Fles"
+  },
+  "sagrada-familia": {
+    "lat": 41.4035,
+    "lon": 2.17443,
+    "name": "Basílica de la Sagrada Família",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/9194723",
+    "query": "Sagrada Familia Barcelona"
+  },
+  "sant-pau": {
+    "lat": 41.41398,
+    "lon": 2.17555,
+    "name": "Hospital de la Santa Creu i Sant Pau",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/7422813",
+    "query": "Hospital de la Santa Creu i Sant Pau"
+  },
+  "staedel": {
+    "lat": 50.10329,
+    "lon": 8.67386,
+    "name": "Städel Museum",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/node/144346893",
+    "query": "Städel Museum"
+  },
+  "stuttgart": {
+    "lat": 48.77845,
+    "lon": 9.18001,
+    "name": "Stuttgart",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/62375",
+    "query": "Stuttgart Germany"
+  },
+  "wilhelma": {
+    "lat": 48.80585,
+    "lon": 9.20467,
+    "name": "Wilhelma",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/13371824",
+    "query": "Wilhelma Stuttgart"
   }
 }

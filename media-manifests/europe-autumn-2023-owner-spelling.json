@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-15",
+  "authorization": "Owner explicitly requests correcting typos while preserving her wording.",
+  "corrections": [
+    {
+      "chapter": "mitya-birthday",
+      "from": "тооько",
+      "to": "только"
+    },
+    {
+      "chapter": "mitya-birthday",
+      "from": "в полный костюмах",
+      "to": "в полных костюмах"
+    },
+    {
+      "chapter": "lorsch",
+      "from": "заселилася",
+      "to": "заселился"
+    },
+    {
+      "chapter": "lorsch",
+      "from": "приколько",
+      "to": "прикольно"
+    }
+  ]
+}

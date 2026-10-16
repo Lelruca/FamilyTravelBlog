@@ -49,6 +49,22 @@
   {{- end -}}
   {{- $lines = $lines | append (slice (dict "items" $cur "sum" $acc)) -}}
 {{- end -}}
+{{- /* Opt-in: pair similar proportions on phones; keep mixed orientations large. */ -}}
+{{- if $page.Parent.Params.readable_photos -}}
+  {{- $lines = slice -}}{{- $cur := slice -}}{{- $acc := 0.0 -}}
+  {{- range $items -}}
+    {{- $flush := ge (len $cur) 2 -}}
+    {{- if eq (len $cur) 1 -}}
+      {{- $previous := index $cur 0 -}}
+      {{- if gt (div (math.Max $previous.r .r) (math.Min $previous.r .r)) 1.15 -}}{{- $flush = true -}}{{- end -}}
+    {{- end -}}
+    {{- if $flush -}}
+      {{- $lines = $lines | append (slice (dict "items" $cur "sum" $acc)) -}}{{- $cur = slice -}}{{- $acc = 0.0 -}}
+    {{- end -}}
+    {{- $cur = $cur | append . -}}{{- $acc = add $acc .r -}}
+  {{- end -}}
+  {{- if gt (len $cur) 0 -}}{{- $lines = $lines | append (slice (dict "items" $cur "sum" $acc)) -}}{{- end -}}
+{{- end -}}
 {{- /* Keep small maps and archive illustrations at their native size. */ -}}
 {{- $nativeWidth := add (mul $minHeight $sum) (mul $gap (sub $n 1)) -}}
 <div class="essay-group"><div class="essay-row" style="--rs:{{ $sum }};--rn:{{ sub $n 1 }}{{ if lt $nativeWidth 1080.0 }};max-width:{{ $nativeWidth }}px{{ end }}">
