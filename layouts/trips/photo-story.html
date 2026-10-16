@@ -97,7 +97,7 @@
 {{ if .Params.plain_body_bold }}<style>.photo-essay .essay-body p b,.photo-essay .essay-body p strong{font-weight:400;font-family:inherit}</style>{{ end }}
 <div class="site-wrap chapter-layout">
 <aside class="toc-side" aria-label="Главы поездки">{{ partial "chapter-toc.html" . }}</aside>
-<article class="photo-essay"{{ if $trip.Params.semantic_paragraph_spacing }} data-semantic-paragraphs{{ end }}{{ if $trip.Params.readable_photos }} data-readable-photos{{ end }}>
+<article class="photo-essay"{{ if or $trip.Params.balanced_mosaics .Params.balanced_mosaics }} data-balanced-mosaics{{ end }}{{ if $trip.Params.semantic_paragraph_spacing }} data-semantic-paragraphs{{ end }}{{ if or $trip.Params.readable_photos .Params.readable_photos }} data-readable-photos{{ end }}>
 <details class="toc-bar"><summary><span>Оглавление</span><span class="where">Глава {{ add $idx 1 }} из {{ len $chapters }}</span><span class="close">Свернуть ✕</span></summary>{{ partial "chapter-toc.html" . }}</details>
 <header class="essay-header">
 <a class="essay-trip" href="{{ $trip.RelPermalink }}">{{ $trip.Params.cover_title | default $trip.Title }}</a>
@@ -201,7 +201,7 @@
     const maxH = window.innerHeight - (phone ? 110 : 84);   // the visible screen under the site bar
     // Reviewed trips: at most two photos per narrow-screen line; one on very small phones.
     // Keep complete images and the existing DOM/lightbox order.
-    if (W < 900 && el.closest('[data-readable-photos]')) {
+    if ((W < 600 || (W < 900 && !el.dataset.layout)) && el.closest('[data-readable-photos]')) {
       const lines = []; let line = [];
       for (const item of items) {
         if (line.length === (W < 300 ? 1 : 2) || (phone && line.length === 1 && Math.max(line[0].r, item.r) / Math.min(line[0].r, item.r) > 1.15)) {
@@ -225,6 +225,38 @@
       photos.forEach((a, i) => { const r = rects[i]; a.style.cssText = `left:${r.x}px;top:${r.y}px;width:${r.w}px;height:${r.h}px`; });
       el.classList.add('is-laid');
       return;
+    }
+    // Explicit editorial layouts: preserve complete photographs and DOM/lightbox order.
+    if (el.dataset.layout) {
+      let tree;
+      if (el.dataset.layout === 'feature-right-four' && items.length === 4) tree=row([col([row(items.slice(0,2)),items[2]]),items[3]]);
+      if (el.dataset.layout === 'feature-left-four' && items.length === 4) tree=row([items[0],col([items[1],row(items.slice(2))])]);
+      if (el.dataset.layout === 'feature-left' && items.length === 5) tree=row([items[0],col([row(items.slice(1,3)),row(items.slice(3))])]);
+      if (el.dataset.layout === 'feature-right' && items.length === 3) tree=row([col(items.slice(0,2)),items[2]]);
+      if(tree){
+        const f=fit(tree,g);let width=W,height=(width-f.b)/f.a,rects=[];
+        place(tree,0,0,width,height,g,rects);
+        if(Math.max(...rects.map(r=>r.h))>maxH){
+          let lo=0,hi=W;
+          for(let n=0;n<24;n++){const mid=(lo+hi)/2,rr=[];place(tree,0,0,mid,(mid-f.b)/f.a,g,rr);if(Math.max(...rr.map(r=>r.h))>maxH)hi=mid;else lo=mid;}
+          width=lo;height=(width-f.b)/f.a;rects=[];place(tree,0,0,width,height,g,rects);
+        }
+        el.style.width=width+'px';el.style.height=height+'px';
+        photos.forEach((a,i)=>{const r=rects[i];a.style.cssText=`left:${r.x}px;top:${r.y}px;width:${r.w}px;height:${r.h}px`;});
+        el.classList.add('is-laid');return;
+      }
+    }
+    // Owner-reviewed rectangular blocks: two generous photos per row, triples stay together.
+    if (el.closest('[data-balanced-mosaics]')) {
+      const rows = items.length === 4 ? [{t:'row',c:items.slice(0,2)},{t:'row',c:items.slice(2)}] : [{t:'row',c:items}];
+      const tree = {t:'col',c:rows};
+      let f = fit(tree,g), width = W, height = (width-f.b)/f.a, rects=[];
+      place(tree,0,0,width,height,g,rects);
+      const tallest = Math.max(...rects.map(r=>r.h));
+      if(tallest>maxH){width = width*maxH/tallest;f=fit(tree,g);height=(width-f.b)/f.a;rects=[];place(tree,0,0,width,height,g,rects);}
+      el.style.width=width+'px';el.style.height=height+'px';
+      photos.forEach((a,i)=>{const r=rects[i];a.style.cssText=`left:${r.x}px;top:${r.y}px;width:${r.w}px;height:${r.h}px`;});
+      el.classList.add('is-laid');return;
     }
     let best = null;
     for (const tree of candidates(items)) {

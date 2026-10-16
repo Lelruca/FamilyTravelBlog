@@ -5,4 +5,4 @@
          L:name / R:name — the main photo of the block: it gets the largest place, on the left / right
          name            — the other photos (a former T: mark for tall tiles is accepted and has no effect)
        Optional: caption="short phrase from the text" capfor="IMG_7309.jpg" — written over that photo. */ -}}
-{{- partial "mosaic-block.html" (dict "page" .Page "items" (.Get "items" | default (.Get 0)) "caption" (.Get "caption") "capfor" (.Get "capfor")) -}}
+{{- partial "mosaic-block.html" (dict "page" .Page "items" (.Get "items" | default (.Get 0)) "caption" (.Get "caption") "capfor" (.Get "capfor") "layout" (.Get "layout")) -}}

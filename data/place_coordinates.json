@@ -2774,5 +2774,133 @@
     "country_code": "PT",
     "source": "https://www.openstreetmap.org/relation/5401851",
     "query": "Setúbal Portugal"
+  },
+  "alcazar-segovia": {
+    "lat": 40.95248,
+    "lon": -4.13218,
+    "name": "Alcázar de Segovia",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/6708094",
+    "query": "Alcázar de Segovia"
+  },
+  "avila": {
+    "lat": 40.6572,
+    "lon": -4.66267,
+    "name": "Ávila",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/348905",
+    "query": "Ávila Spain"
+  },
+  "bilbao": {
+    "lat": 43.263,
+    "lon": -2.935,
+    "name": "Bilbao",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/339549",
+    "query": "Bilbao Spain"
+  },
+  "bilbao-fine-arts": {
+    "lat": 43.26546,
+    "lon": -2.9381,
+    "name": "Bilboko Arte Eder museoa",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/28211432",
+    "query": "Museo de Bellas Artes de Bilbao"
+  },
+  "burgos": {
+    "lat": 42.34485,
+    "lon": -3.68125,
+    "name": "Burgos",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/344165",
+    "query": "Burgos Spain"
+  },
+  "burgos-cathedral": {
+    "lat": 42.34073,
+    "lon": -3.70456,
+    "name": "Catedral de Santa María",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/12074743",
+    "query": "Catedral de Santa María de Burgos"
+  },
+  "cartuja-miraflores": {
+    "lat": 42.33745,
+    "lon": -3.65639,
+    "name": "La Cartuja de Miraflores",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/423139",
+    "query": "Cartuja de Miraflores"
+  },
+  "castillo-de-la-mota": {
+    "lat": 41.30901,
+    "lon": -4.9087,
+    "name": "Castillo de la Mota",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/5415725",
+    "query": "Castillo de la Mota Medina del Campo"
+  },
+  "museo-escultura": {
+    "lat": 41.65743,
+    "lon": -4.72336,
+    "name": "Museo de Escultura Colegio de San Gregorio",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/18337624",
+    "query": "Colegio de San Gregorio, Valladolid"
+  },
+  "penafiel-castle": {
+    "lat": 41.5967,
+    "lon": -4.11434,
+    "name": "Castillo de Peñafiel",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/11784401",
+    "query": "Castillo de Peñafiel"
+  },
+  "san-bernabe": {
+    "lat": 43.03437,
+    "lon": -3.66285,
+    "name": "Ermita de San Tirso y San Bernabé",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/295468989",
+    "query": "Ermita de San Bernabé, Merindad de Sotoscueva"
+  },
+  "san-sebastian": {
+    "lat": 43.32242,
+    "lon": -1.98389,
+    "name": "Donostia / San Sebastián",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/346465",
+    "query": "Donostia San Sebastián"
+  },
+  "santo-tomas-avila": {
+    "lat": 40.65032,
+    "lon": -4.68944,
+    "name": "Real Monasterio de Santo Tomás",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/3333331",
+    "query": "Real Monasterio de Santo Tomás Ávila"
+  },
+  "segovia": {
+    "lat": 40.94812,
+    "lon": -4.11721,
+    "name": "Segovia",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/346134",
+    "query": "Segovia Spain"
+  },
+  "toledo-cathedral": {
+    "lat": 39.85691,
+    "lon": -4.02427,
+    "name": "Santa Iglesia Catedral Primada de Toledo",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/node/4450389993",
+    "query": "Catedral Primada Toledo"
+  },
+  "valladolid": {
+    "lat": 41.62,
+    "lon": -4.72599,
+    "name": "Valladolid",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/348849",
+    "query": "Valladolid Spain"
   }
 }

@@ -2,7 +2,7 @@
 {{- $page := .page -}}
 {{- $capfor := .capfor -}}
 {{- $caption := .caption -}}
-<div class="essay-group"><div class="essay-mosaic" data-mosaic>
+<div class="essay-group"><div class="essay-mosaic" data-mosaic{{ with .layout }} data-layout="{{ . }}"{{ end }}>
 {{- range split (trim .items " ") " " -}}
   {{- if . -}}
     {{- $kind := "" -}}{{- $name := . -}}
