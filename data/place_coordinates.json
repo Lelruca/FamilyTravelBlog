@@ -2734,5 +2734,45 @@
     "country_code": "FR",
     "source": "https://www.openstreetmap.org/relation/35738",
     "query": "Toulouse France"
+  },
+  "cabo-da-roca": {
+    "lat": 38.7809,
+    "lon": -9.49942,
+    "name": "Cabo da Roca",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/node/2696775247",
+    "query": "Cabo da Roca"
+  },
+  "capuchos-convent": {
+    "lat": 38.78434,
+    "lon": -9.43818,
+    "name": "Convento dos Capuchos",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/way/172868730",
+    "query": "Convento dos Capuchos Sintra"
+  },
+  "monserrate": {
+    "lat": 38.79423,
+    "lon": -9.42065,
+    "name": "Palácio de Monserrate",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/way/146132549",
+    "query": "Palácio de Monserrate"
+  },
+  "museu-marinha": {
+    "lat": 38.69712,
+    "lon": -9.20803,
+    "name": "Museu de Marinha",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/node/6216727635",
+    "query": "Museu de Marinha Lisboa"
+  },
+  "setubal": {
+    "lat": 38.52418,
+    "lon": -8.89323,
+    "name": "Setúbal",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/5401851",
+    "query": "Setúbal Portugal"
   }
 }
