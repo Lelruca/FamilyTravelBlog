@@ -2638,5 +2638,21 @@
     "country_code": "DE",
     "source": "https://www.openstreetmap.org/relation/13371824",
     "query": "Wilhelma Stuttgart"
+  },
+  "faro": {
+    "lat": 37.01629,
+    "lon": -7.93518,
+    "name": "Faro",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/relation/5404220",
+    "query": "Faro Portugal"
+  },
+  "sand-city": {
+    "lat": 37.13629,
+    "lon": -8.45408,
+    "name": "Lagoa",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/node/25277559",
+    "query": "Lagoa (Sand City itself is not in OpenStreetMap; town point)"
   }
 }
