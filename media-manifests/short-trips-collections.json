@@ -20,6 +20,34 @@
       },
       "cover_position": "center bottom",
       "original_and_public_copy_reverified": true
+    },
+    "canada": {
+      "source": "Owner selected red canoe on Emerald Lake from Rockies Yoho for Вылазки → По Канаде.",
+      "archive_root": "G:/My Drive/Family Travel Blog Photos/North America/2018 - Скалистые горы",
+      "chapter": "yoho",
+      "position": 1,
+      "source_position": 1,
+      "facebook_id": "2334398859904436",
+      "caption": "",
+      "archive_name": "08 - Yoho/01_20180704_132259.jpg",
+      "kind": "original",
+      "original_relative_path": "2018/2018 Лето/Скалистые горы/5 - Yoho/20180704_132259.jpg",
+      "match_score": 1,
+      "bytes": 3601045,
+      "sha256": "3c6d35a20fbaa9b88039472f88fd1443454ad6531549fd720c6bc200ac641942",
+      "drive_id": "1FDBKFlo-kl0blWLo7340bAwC_xZA2_Ks",
+      "r2": {
+        "key": "rockies-2018/yoho/20180704_132259.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rockies-2018/yoho/20180704_132259.jpg",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 438746,
+        "sha256": "9f7f836c75a08df7a10d2fec11b4b1b4e2bbecd130d78cb7b8678f7372852b4f",
+        "archive_name": "08 - Yoho/01_20180704_132259.jpg",
+        "verified": true
+      },
+      "cover_position": "center 65%",
+      "public_copy_reverified": true
     }
   }
 }
