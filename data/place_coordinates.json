@@ -2942,5 +2942,93 @@
     "country_code": "AD",
     "source": "https://www.openstreetmap.org/way/908107551",
     "query": "Mirador Roc del Quer, Canillo"
+  },
+  "calgary": {
+    "lat": 51.04561,
+    "lon": -114.05754,
+    "name": "Calgary",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/3227127",
+    "query": "Calgary, Alberta"
+  },
+  "heritage-park-calgary": {
+    "lat": 50.9852,
+    "lon": -114.10718,
+    "name": "Heritage Park",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/21031721",
+    "query": "Heritage Park Historical Village, Calgary"
+  },
+  "drumheller": {
+    "lat": 51.4016,
+    "lon": -112.61852,
+    "name": "Drumheller",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/6633892",
+    "query": "Drumheller, Alberta"
+  },
+  "royal-tyrrell-museum": {
+    "lat": 51.47935,
+    "lon": -112.79006,
+    "name": "Royal Tyrrell Museum",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/118482151",
+    "query": "Royal Tyrrell Museum"
+  },
+  "banff": {
+    "lat": 51.17508,
+    "lon": -115.57208,
+    "name": "Banff",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/8452792",
+    "query": "Banff, Alberta"
+  },
+  "kootenay-national-park": {
+    "lat": 50.94189,
+    "lon": -115.99083,
+    "name": "Kootenay National Park",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/673733022",
+    "query": "Kootenay National Park"
+  },
+  "lake-louise": {
+    "lat": 51.41768,
+    "lon": -116.21705,
+    "name": "The Fairmont Chateau Lake Louise",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/18238906",
+    "query": "Fairmont Chateau Lake Louise (on the lake shore)"
+  },
+  "yoho-national-park": {
+    "lat": 51.37478,
+    "lon": -116.53585,
+    "name": "Yoho National Park",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/9368703",
+    "query": "Yoho National Park"
+  },
+  "icefields-parkway": {
+    "lat": 51.97356,
+    "lon": -116.74256,
+    "name": "Saskatchewan River Crossing",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/1700509460",
+    "query": "Saskatchewan River Crossing (midpoint of the Icefields Parkway)"
+  },
+  "jasper": {
+    "lat": 52.87523,
+    "lon": -118.08243,
+    "name": "Municipality of Jasper",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/6282024",
+    "query": "Jasper, Alberta"
+  },
+  "edmonton": {
+    "lat": 53.54621,
+    "lon": -113.49124,
+    "name": "Edmonton",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/2564500",
+    "query": "Edmonton, Alberta"
   }
 }
