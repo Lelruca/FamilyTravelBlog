@@ -24,7 +24,7 @@
           {{- if and $cover (not (hasPrefix $cover "http")) -}}
             {{- with .Resources.GetMatch $cover -}}{{- $image = (.Resize "1200x webp").RelPermalink -}}{{- end -}}
           {{- end -}}
-          {{- $trips = $trips | append (dict "title" (.Params.cover_title | default .Title) "year" .Params.trip_year "image" $image "position" (.Params.cover_position | default "center") "url" .RelPermalink) -}}
+          {{- $trips = $trips | append (dict "title" (.Params.cover_title | default .Title) "year" .Params.trip_year "image" $image "position" (.Params.cover_position | default "center") "url" (partial "trip-url.html" .)) -}}
         {{- end -}}
       {{- end -}}
       {{- if not (and (eq $key "japan") (eq (len $trips) 0)) -}}

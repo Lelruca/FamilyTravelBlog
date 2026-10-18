@@ -17,6 +17,8 @@
 .toc-list .n{flex:0 0 1.5em;color:#a3a3a3;font-variant-numeric:tabular-nums}
 .toc-list .current a{border-left-color:var(--accent);color:#171717;font-weight:500}
 .toc-list .current .n{color:var(--accent)}
+.toc-trip-year{display:block;margin-top:2px;font-size:13px;font-weight:500;color:#8a8a8a}
+.toc-back{margin:18px 0 0;font-size:13px}.toc-back a{color:#6b6b6b}.toc-back a:hover{color:var(--accent)}
 .toc-bar{display:none}
 
 .photo-essay{--essay-gap:12px;--group-mt:40px;--group-mb:48px;min-width:0;padding-bottom:64px}
@@ -100,7 +102,7 @@
 <article class="photo-essay"{{ if or $trip.Params.balanced_mosaics .Params.balanced_mosaics }} data-balanced-mosaics{{ end }}{{ if $trip.Params.semantic_paragraph_spacing }} data-semantic-paragraphs{{ end }}{{ if or $trip.Params.readable_photos .Params.readable_photos }} data-readable-photos{{ end }}>
 <details class="toc-bar"><summary><span>Оглавление</span><span class="where">Глава {{ add $idx 1 }} из {{ len $chapters }}</span><span class="close">Свернуть ✕</span></summary>{{ partial "chapter-toc.html" . }}</details>
 <header class="essay-header">
-<a class="essay-trip" href="{{ $trip.RelPermalink }}">{{ $trip.Params.cover_title | default $trip.Title }}</a>
+<a class="essay-trip" href="{{ partial "trip-url.html" $trip }}">{{ $trip.Params.cover_title | default $trip.Title }}</a>
 <h1>{{ .Title }}</h1>
 {{- /* hero_crop: "center 60%" — a square or upright cover shown as a horizontal 16:9 frame, cut at that position
        (opt-in per chapter; the full photo still opens on click). */ -}}

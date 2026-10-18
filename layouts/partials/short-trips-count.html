@@ -1,0 +1,8 @@
+{{- /* «1 поездка», «3 поездки», «5 поездок»; none yet: «пока пусто». */ -}}
+{{- $n := . -}}
+{{- $noun := "поездок" -}}
+{{- if and (eq (mod $n 10) 1) (ne (mod $n 100) 11) }}{{ $noun = "поездка" }}
+{{- else if and (in (slice 2 3 4) (mod $n 10)) (not (in (slice 12 13 14) (mod $n 100))) }}{{ $noun = "поездки" }}{{ end -}}
+{{- $out := printf "%d %s" $n $noun -}}
+{{- if eq $n 0 }}{{ $out = "пока пусто" }}{{ end -}}
+{{- return $out -}}

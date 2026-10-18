@@ -1,9 +1,14 @@
-{{- /* List of the trip's chapters for the chapter page: trip name on top, chapters numbered, the current one marked. */ -}}
+{{- /* List of the trip's chapters for the chapter page: trip name on top, chapters numbered, the current one marked.
+       A short trip lists only its own chapters and adds a link back to its collection on the «Вылазки» tab. */ -}}
 {{- $page := . -}}
 {{- $trip := .Parent -}}
-<p class="toc-trip"><a href="{{ $trip.RelPermalink }}">{{ $trip.Params.cover_title | default $trip.Title }}</a></p>
+{{- $col := "" -}}{{- with $trip.Params.short_trip }}{{ $col = site.GetPage (printf "/short-trips/%s" .) }}{{ end -}}
+<p class="toc-trip"><a href="{{ partial "trip-url.html" $trip }}">{{ $trip.Params.cover_title | default $trip.Title }}</a>{{ if $col }}<span class="toc-trip-year">{{ $trip.Params.trip_year }}</span>{{ end }}</p>
 <ol class="toc-list">
 {{- range $i, $ch := $trip.Pages.ByWeight }}
   <li{{ if eq $ch.RelPermalink $page.RelPermalink }} class="current"{{ end }}><a href="{{ $ch.RelPermalink }}"{{ if eq $ch.RelPermalink $page.RelPermalink }} aria-current="page"{{ end }}><span class="n">{{ add $i 1 }}</span><span class="t">{{ partial "chapter-short-title.html" $ch }}</span></a></li>
 {{- end }}
 </ol>
+{{- with $col }}
+<p class="toc-back"><a href="{{ .RelPermalink }}">← Все поездки: {{ .Title }}</a></p>
+{{- end }}

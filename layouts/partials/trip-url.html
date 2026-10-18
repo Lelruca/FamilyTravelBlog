@@ -1,0 +1,7 @@
+{{- /* Where a link to a trip leads. A short trip (short_trip: <collection>) has no page of its own for the reader:
+       its card always opens the story itself, the first chapter. Other trips open their trip page. */ -}}
+{{- $url := .RelPermalink -}}
+{{- if .Params.short_trip -}}
+  {{- with index .Pages.ByWeight 0 -}}{{- $url = .RelPermalink -}}{{- end -}}
+{{- end -}}
+{{- return $url -}}

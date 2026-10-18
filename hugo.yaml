@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: "ru"
-title: "Наши путешествия"
+title: "Путевые заметки"
 
 # Taxonomy: time navigation (Geography uses sections natively)
 taxonomies:

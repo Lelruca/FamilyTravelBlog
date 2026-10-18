@@ -12,7 +12,7 @@
 {{- $meta := slice -}}
 {{- with $trip.Params.cover_when }}{{ $meta = $meta | append . }}{{ end -}}
 {{- with $trip.Params.cover_who }}{{ $meta = $meta | append . }}{{ end -}}
-<a href="{{ $trip.RelPermalink }}" class="trip-tile">
+<a href="{{ partial "trip-url.html" $trip }}" class="trip-tile">
   {{- with $src }}<img referrerpolicy="no-referrer" src="{{ . }}" alt="" loading="lazy"{{ with ($trip.Params.home_cover_position | default $trip.Params.cover_position) }} style="object-position: {{ . }};"{{ end }}>{{ end }}
   <div class="trip-tile-text">
     {{- with $trip.Params.cover_where }}<p class="trip-tile-where">{{ . }}</p>{{ end }}

@@ -1,0 +1,73 @@
+{{ define "main" }}
+{{- /* «Вылазки» — the second half of the diary, next to the home page «Путешествия».
+       /short-trips/            the tab: the same heading and tabs as the home page, then the collections as large tiles.
+       /short-trips/<collection>/  a collection, built like a trip page: cover, description, and one card per short trip
+                                   («2026 — Андорра»). A card opens the story itself; the trip's chapters are listed inside.
+       A short trip stays in its country folder like any trip and joins a collection with short_trip: <collection folder name>,
+       so countries, years and places keep finding it. */ -}}
+{{- $isTab := eq .Parent.Kind "home" -}}
+
+{{- if $isTab }}
+{{ partial "home-style.html" . }}
+<div class="site-wrap">
+  <header class="home-intro">
+    <h1>{{ site.Title }}</h1>
+    {{ with site.Home.Content }}<div class="lead">{{ . }}</div>{{ end }}
+  </header>
+  {{ partial "home-tabs.html" "short" }}
+  <section class="trip-tiles" aria-label="Вылазки">
+    {{- range .Sections.ByWeight }}
+      {{- $col := . -}}
+      {{- $trips := partial "short-trips-of.html" $col -}}
+      {{- $cover := $col.Params.cover_image | default "" -}}
+      {{- if and (not $cover) $trips }}{{ $cover = (index $trips 0).Params.cover_image | default "" }}{{ end -}}
+      {{- $src := "" -}}{{- if hasPrefix $cover "http" }}{{ $src = partial "gimg.html" (dict "url" $cover "size" "w1200") }}{{ end -}}
+      <div class="trip-tile-cell">
+        <a href="{{ $col.RelPermalink }}" class="trip-tile{{ if not $src }} trip-tile-empty{{ end }}">
+          {{- with $src }}<img referrerpolicy="no-referrer" src="{{ . }}" alt="" loading="lazy"{{ with $col.Params.cover_position }} style="object-position: {{ . }};"{{ end }}>{{ end }}
+          <div class="trip-tile-text">
+            <h2 class="trip-tile-title">{{ $col.Title }}</h2>
+            <p class="trip-tile-sub">{{ partial "short-trips-count.html" (len $trips) }}</p>
+          </div>
+        </a>
+      </div>
+    {{- end }}
+  </section>
+</div>
+<style>.trip-tile-empty{background:linear-gradient(140deg,#efe9df,#e2d9cb)}.trip-tile-empty::after{display:none}.trip-tile-empty .trip-tile-text{color:#3d3a35;text-shadow:none}</style>
+
+{{- else }}
+{{- $col := . -}}
+{{- $trips := partial "short-trips-of.html" $col -}}
+{{- $cover := $col.Params.cover_image | default "" -}}
+{{- if and (not $cover) $trips }}{{ $cover = (index $trips 0).Params.cover_image | default "" }}{{ end -}}
+{{- $years := slice -}}{{- range $trips }}{{ $years = $years | append (int .Params.trip_year) }}{{ end -}}
+{{ partial "trip-page-style.html" . }}
+<section class="trip-cover">
+  {{- with $cover }}<a href="{{ . }}" data-photo-lightbox aria-label="Обложка целиком"><img referrerpolicy="no-referrer" src="{{ . }}" alt=""{{ with $col.Params.cover_position }} style="object-position: {{ . }};"{{ end }} loading="eager" fetchpriority="high"></a>{{ end }}
+  <div class="trip-cover-text"><div class="site-wrap">
+    <p class="trip-cover-where"><a href="{{ .Parent.RelPermalink }}" style="pointer-events:auto;color:inherit">Вылазки</a></p>
+    <h1 class="trip-cover-title">{{ $col.Title }}</h1>
+    {{- with $years }}{{ $lo := index (sort .) 0 }}{{ $hi := index (sort . "value" "desc") 0 }}<p class="trip-cover-meta">{{ if eq $lo $hi }}{{ $lo }}{{ else }}{{ $lo }}–{{ $hi }}{{ end }} · {{ partial "short-trips-count.html" (len $trips) }}</p>{{ end }}
+  </div></div>
+</section>
+<div class="site-wrap">
+  {{- if or $col.Params.summary (trim (plainify $col.Content) " \n") }}
+  <div class="trip-intro">{{ with $col.Params.summary }}<p>{{ . }}</p>{{ end }}{{ $col.Content }}</div>
+  {{- end }}
+  <section class="chapter-tiles" aria-label="Поездки">
+    {{- range $trips }}
+      {{- $t := . -}}
+      {{- $c := .Params.home_cover_image | default .Params.cover_image | default "" -}}
+      {{- $src := "" -}}{{- if hasPrefix $c "http" }}{{ $src = partial "gimg.html" (dict "url" $c "size" "w1200") }}{{ end -}}
+      <a href="{{ partial "trip-url.html" . }}" class="chapter-tile{{ if not $src }} no-photo{{ end }}">
+        {{- with $src }}<img referrerpolicy="no-referrer" src="{{ . }}" alt="" loading="lazy"{{ with ($t.Params.home_cover_position | default $t.Params.cover_position) }} style="object-position: {{ . }};"{{ end }}>{{ end }}
+        <h2 class="chapter-tile-title">{{ .Params.trip_year }} — {{ .Params.cover_title | default .Title }}</h2>
+      </a>
+    {{- else }}
+      <p style="color:#6b6b6b">Здесь пока нет рассказов.</p>
+    {{- end }}
+  </section>
+</div>
+{{- end }}
+{{ end }}

@@ -1,0 +1,9 @@
+{{- /* The short trips of a collection page (short_trip: <its folder name>), newest first. */ -}}
+{{- $key := .File.ContentBaseName -}}
+{{- $rows := slice -}}
+{{- range where (where site.Pages "Params.trip_year" "!=" nil) "Params.short_trip" $key -}}
+  {{- $rows = $rows | append (dict "key" (.Params.trip_start | default (printf "%v-00" .Params.trip_year)) "page" .) -}}
+{{- end -}}
+{{- $trips := slice -}}
+{{- range sort $rows "key" "desc" }}{{ $trips = $trips | append .page }}{{ end -}}
+{{- return $trips -}}
