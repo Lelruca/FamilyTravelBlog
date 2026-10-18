@@ -2902,5 +2902,45 @@
     "country_code": "ES",
     "source": "https://www.openstreetmap.org/relation/348849",
     "query": "Valladolid Spain"
+  },
+  "vancouver": {
+    "lat": 49.2608724,
+    "lon": -123.113952,
+    "name": "Vancouver",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/1852574",
+    "query": "Vancouver, British Columbia"
+  },
+  "gastown": {
+    "lat": 49.2836567,
+    "lon": -123.1062358,
+    "name": "Gastown",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/704270667",
+    "query": "Gastown, Vancouver"
+  },
+  "stanley-park": {
+    "lat": 49.3020684,
+    "lon": -123.1413263,
+    "name": "Stanley Park",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/37063023",
+    "query": "Stanley Park, Vancouver"
+  },
+  "incles-valley": {
+    "lat": 42.5952127,
+    "lon": 1.6736427,
+    "name": "Vall d’Incles",
+    "country_code": "AD",
+    "source": "https://www.openstreetmap.org/way/6281361",
+    "query": "Vall d'Incles, Canillo"
+  },
+  "roc-del-quer": {
+    "lat": 42.5671526,
+    "lon": 1.5910377,
+    "name": "Mirador Roc del Quer",
+    "country_code": "AD",
+    "source": "https://www.openstreetmap.org/way/908107551",
+    "query": "Mirador Roc del Quer, Canillo"
   }
 }
