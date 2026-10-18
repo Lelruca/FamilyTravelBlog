@@ -1,0 +1,25 @@
+{
+  "updated": "2026-10-17",
+  "collections": {
+    "europe": {
+      "source": "Owner selected attached Lucca photo for Europe collection; reuse verified original and existing R2, no screenshot or duplicate archive copy.",
+      "archive_root": "G:\\My Drive\\Family Travel Blog Photos\\Europe\\2022 - Италия",
+      "archive_name": "15 - Lucca/27_20220902_121910(0).jpg",
+      "original_sha256": "8dc786f1a53dce8136141024f795618e420c3f21d0a8ef3885c72ba0e831d7b3",
+      "original_bytes": 3922552,
+      "drive_id": "1hPoW3Nu_G2eEqw6OBzqNsxiPdgMtqWYZ",
+      "r2": {
+        "key": "italy-2022/lucca/20220902_121910(0).jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/italy-2022/lucca/20220902_121910(0).jpg",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 660987,
+        "sha256": "e114e4e47dc3e895344830cfa22f8a16badf5e15b97720421515c28ecd04c0df",
+        "archive_name": "15 - Lucca/27_20220902_121910(0).jpg",
+        "verified": true
+      },
+      "cover_position": "center bottom",
+      "original_and_public_copy_reverified": true
+    }
+  }
+}
