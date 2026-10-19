@@ -2942,5 +2942,45 @@
     "country_code": "AD",
     "source": "https://www.openstreetmap.org/way/908107551",
     "query": "Mirador Roc del Quer, Canillo"
+  },
+  "valencia": {
+    "lat": 39.4697065,
+    "lon": -0.3763353,
+    "name": "València",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/344953",
+    "query": "Valencia Spain"
+  },
+  "ciutat-arts-ciencies": {
+    "lat": 39.4557563,
+    "lon": -0.352552,
+    "name": "Ciutat de les Arts i les Ciències",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/513681817",
+    "query": "Ciutat de les Arts i les Ciencies Valencia"
+  },
+  "valencia-cathedral": {
+    "lat": 39.475568,
+    "lon": -0.3751126,
+    "name": "Catedral de València",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/135630267",
+    "query": "Catedral de Valencia"
+  },
+  "bioparc-valencia": {
+    "lat": 39.478332,
+    "lon": -0.4112193,
+    "name": "Bioparc València",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/512393709",
+    "query": "Bioparc Valencia"
+  },
+  "prado-museum": {
+    "lat": 40.4137925,
+    "lon": -3.6920407,
+    "name": "Museo del Prado",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/7726080",
+    "query": "Museo del Prado Madrid"
   }
 }
