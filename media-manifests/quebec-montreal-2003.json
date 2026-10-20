@@ -2,7 +2,7 @@
   "trip": "quebec-montreal-2003",
   "contentDir": "content/americas/canada/quebec-montreal-2003",
   "archive_root": "North America/2003 - Квебек и Монреаль",
-  "title": "Квебек-Монреаль - май 2003",
+  "title": "Квебек-Монреаль",
   "source": {
     "path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Канада - разное.docx",
     "sha256": "79b47ac3921c68aeae4304b4f874adc54760d35e98aec4bbc8cc25a9036ee827",
@@ -727,5 +727,6 @@
     "source_name": "mq_0025.JPG",
     "authorization": "Owner: «Девочки перед клоуном»",
     "shared_with_body": true
-  }
+  },
+  "display_title_authorization": "Owner requested removal of repeated year/month from short-trip titles."
 }
