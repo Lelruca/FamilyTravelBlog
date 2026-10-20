@@ -3038,5 +3038,13 @@
     "country_code": "ES",
     "source": "https://www.openstreetmap.org/way/35816134",
     "query": "Font Màgica de Montjuïc"
+  },
+  "torrevieja": {
+    "lat": 37.9775416,
+    "lon": -0.6828446,
+    "name": "Torrevieja",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/341237",
+    "query": "Torrevieja"
   }
 }

@@ -9,7 +9,7 @@ continent: "Европа"
 country: "Испания"
 geo_countries: 
   - spain
-cover_where: "Испания: Барселона, Валенсия, Мадрид"
+cover_where: "Испания: Барселона, Валенсия, Торревьеха, Мадрид"
 cover_title: "Рождественская Испания"
 cover_subtitle: "Девичник трёх поколений"
 cover_when: "Декабрь 2019"
