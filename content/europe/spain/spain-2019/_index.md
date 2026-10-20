@@ -11,7 +11,6 @@ geo_countries:
   - spain
 cover_where: "Испания: Барселона, Валенсия, Торревьеха, Мадрид"
 cover_title: "Рождественская Испания"
-cover_subtitle: "Девичник трёх поколений"
 cover_when: "Декабрь 2019"
 cover_who: "Ома, Леля и Наташа"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/spain-2019/cover/20191224_165820.jpg"
