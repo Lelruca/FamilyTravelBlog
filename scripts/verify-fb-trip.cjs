@@ -27,7 +27,7 @@ for (const ch of cfg.chapters) {
   const body = html.slice(html.indexOf('class="essay-body"'), html.indexOf('class="essay-navigation"'));
   // text
   const src = ch.post || ch;
-  const all = (ch.text ? fs.readFileSync(ch.text, "utf8").split(String.fromCharCode(13)).join("").trimEnd() : ch.originals && !ch.post ? "" : fixText(src.key, posts.find(p => p.feedOrder === src.feedOrder).text)).split("\n").filter(l => l.trim() && !/^\s*(#\S+\s*)+$/.test(l));
+  const all = (ch.text ? fixText(ch.slug, fs.readFileSync(ch.text, "utf8").split(String.fromCharCode(13)).join("").trimEnd()) : ch.originals && !ch.post ? "" : fixText(src.key, posts.find(p => p.feedOrder === src.feedOrder).text)).split("\n").filter(l => l.trim() && !/^\s*(#\S+\s*)+$/.test(l));
   // trip-config "post": paragraphs a…b of a post shown in this chapter (see gen-fb-trip-pages.cjs)
   const want = ch.post ? all.slice(ch.post.paras[0], ch.post.paras[1] + 1) : all;
   // another post of the author inserted into this chapter (trip-config "inserts")

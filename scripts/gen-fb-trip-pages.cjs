@@ -54,7 +54,10 @@ cfg.chapters.forEach((ch, n) => {
   // of a post (one long post told over several chapters, e.g. one chapter per day)
   const src = ch.post || ch;
   const post = posts.find(p => p.feedOrder === src.feedOrder) || { text: "", date: "" };
-  const all = (ch.originals && !ch.post ? "" : fixText(src.key, post.text)).split("\n").filter(l => l.trim() && !isTags(l));
+  // trip-config "text": a file with the owner's own words for a chapter that has no post (one line = one paragraph);
+  // spelling corrections for it use the chapter slug as their key
+  const own = ch.text && fixText(ch.slug, fs.readFileSync(ch.text, "utf8").replace(/\r/g, "").trimEnd());
+  const all = (own || (ch.originals && !ch.post ? "" : fixText(src.key, post.text))).split("\n").filter(l => l.trim() && !isTags(l));
   const paras = ch.post ? all.slice(ch.post.paras[0], ch.post.paras[1] + 1) : all;
   // another short post of the author about the same day, inserted after a paragraph (trip-config "inserts":
   // [{ after, file }], the file holding that post's text); later "after" indexes count the inserted lines
