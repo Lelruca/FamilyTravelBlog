@@ -53,12 +53,13 @@ trip.mkdir(parents=True, exist_ok=True)
 trip.joinpath('_index.md').write_text(f'''---
 title: {title}
 type: "trips"
-draft: true
+draft: {str(m.get('publication', {}).get('draft', True)).lower()}
 date: 2016-07-02
 trip_year: 2016
 trip_start: "2016-07"
 trip_end: "2016-07"
 short_trip: "usa"
+readable_photos: true
 continent: "Северная Америка"
 country: "США"
 geo_countries:
@@ -91,23 +92,31 @@ for slug, chapter in m['chapters'].items():
             heading = chapter.get('block_headings', {}).get(block[0]) if block else None
             if heading:
                 body.append('<h2>' + html.escape(heading, quote=False) + '</h2>')
+            if block and block[0] in chapter.get('mosaic_blocks', []):
+                names = [n if slug == 'story' or '/' in n else 'story/' + n for n in block]
+                body.append('{{< mosaic "' + ' '.join(names) + '" >}}')
+                if len(blocks) > 1:
+                    body.append('</div>')
+                continue
             remaining = block.copy()
+            row_sizes = iter(chapter.get('block_rows', {}).get(block[0], [])) if block else iter([])
             while remaining:
                 if remaining[0] in chapter.get('standalone_photos', []):
                     take = 1
                 else:
                     next_single = next((n for n, photo in enumerate(remaining) if photo in chapter.get('standalone_photos', [])), len(remaining))
                     take = min(2 if len(remaining) in (4, 5) else 3, next_single, len(remaining))
+                take = next(row_sizes, take)
                 group = remaining[:take]; remaining = remaining[take:]
                 names = [n if slug == 'story' or '/' in n else 'story/' + n for n in group]
                 body.append('{{< row "' + ' '.join(names) + '" >}}')
             if len(blocks) > 1:
                 body.append('</div>')
     if chapter.get('photo_blocks'):
-        body.append('<style>.photo-essay .ford-photo-block{margin-block:38px}.photo-essay .ford-photo-block .essay-group{margin-block:12px}</style>')
+        body.append('<style>.photo-essay{--essay-gap:16px;--cap-h:80svh}.photo-essay .ford-photo-block{margin-block:38px}.photo-essay .ford-photo-block .essay-group{margin-block:12px}</style>')
     folder = trip / slug
     folder.mkdir(exist_ok=True)
-    front = {'title': chapter['title'], 'draft': True, 'date': '2016-07-02',
+    front = {'title': chapter['title'], 'draft': m.get('publication', {}).get('draft', True), 'date': '2016-07-02',
              'weight': chapter['weight'], 'chapter_kind': 'Заметка', 'layout': 'photo-story',
              'city': chapter['city'], 'places': chapter['places'], 'auto_gallery': False}
     lines = []
