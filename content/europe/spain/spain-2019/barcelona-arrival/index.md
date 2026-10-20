@@ -11,7 +11,7 @@ places:
 hero_image: "20191221_200921.jpg"
 date: "2019-12-21"
 auto_gallery: false
-draft: true
+draft: false
 ---
 <p>У нас "девичник трёх поколений" в Рождественской Испании.</p>
 

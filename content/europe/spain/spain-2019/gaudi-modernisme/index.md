@@ -12,7 +12,7 @@ places:
 hero_image: "20191222_132532.jpg"
 date: "2019-12-22"
 auto_gallery: false
-draft: true
+draft: false
 ---
 <p> Гауди меня честно потряс!</p>
 
