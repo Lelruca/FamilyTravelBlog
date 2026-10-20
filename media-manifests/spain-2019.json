@@ -3,7 +3,7 @@
   "title": "2019 декабрь: Рождественская Испания (Девичник трёх поколений)",
   "source": "https://www.facebook.com/olga.ukolova.754",
   "archive_root": "Europe/2019 - Рождественская Испания (Девичник трёх поколений)",
-  "created": "2026-10-20T20:04:29.256Z",
+  "created": "2026-10-20T21:44:20.924Z",
   "match_threshold": 0.95,
   "chapters": [
     {
@@ -29,8 +29,8 @@
         4,
         4
       ],
-      "photo_count": 34,
-      "original_count": 34
+      "photo_count": 33,
+      "original_count": 33
     },
     {
       "slug": "gaudi-modernisme",
@@ -424,25 +424,11 @@
       "chapter": "gothic-quarter",
       "position": 6,
       "source_position": 6,
-      "facebook_id": null,
-      "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/06_20191222_090800.jpg",
-      "kind": "original",
-      "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_090800.jpg",
-      "match_score": null,
-      "bytes": 5188783,
-      "sha256": "97c1816c6590f768988c3698ac39a4b50392b9b85f8d7c76705fa9cdf87623c5",
-      "drive_id": "1hDSnq3-_6KlgN1byq3-Prouo-1fV6TlA"
-    },
-    {
-      "chapter": "gothic-quarter",
-      "position": 7,
-      "source_position": 7,
       "facebook_id": "3633532526657723",
       "caption": "",
       "facebook_post": "p003",
       "facebook_position": 2,
-      "archive_name": "02 - Барселона, Готический квартал/07_20191222_090947.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/06_20191222_090947.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_090947.jpg",
       "match_score": 0.9999,
@@ -452,11 +438,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 8,
-      "source_position": 8,
+      "position": 7,
+      "source_position": 7,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/08_20191222_091134.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/07_20191222_091134.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_091134.jpg",
       "match_score": null,
@@ -466,11 +452,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 9,
-      "source_position": 9,
+      "position": 8,
+      "source_position": 8,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/09_DSC07969.JPG",
+      "archive_name": "02 - Барселона, Готический квартал/08_DSC07969.JPG",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/DSC07969.JPG",
       "match_score": null,
@@ -480,11 +466,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 10,
-      "source_position": 10,
+      "position": 9,
+      "source_position": 9,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/10_20191222_092010.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/09_20191222_092010.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_092010.jpg",
       "match_score": null,
@@ -494,13 +480,13 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 11,
-      "source_position": 11,
+      "position": 10,
+      "source_position": 10,
       "facebook_id": "3633532603324382",
       "caption": "",
       "facebook_post": "p003",
       "facebook_position": 3,
-      "archive_name": "02 - Барселона, Готический квартал/11_20191222_092134.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/10_20191222_092134.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_092134.jpg",
       "match_score": 1,
@@ -510,13 +496,13 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 12,
-      "source_position": 12,
+      "position": 11,
+      "source_position": 11,
       "facebook_id": "3633532669991042",
       "caption": "",
       "facebook_post": "p003",
       "facebook_position": 4,
-      "archive_name": "02 - Барселона, Готический квартал/12_20191222_092201.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/11_20191222_092201.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_092201.jpg",
       "match_score": 0.9996,
@@ -526,11 +512,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 13,
-      "source_position": 13,
+      "position": 12,
+      "source_position": 12,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/13_20191222_143931.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/12_20191222_143931.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_143931.jpg",
       "match_score": null,
@@ -540,11 +526,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 14,
-      "source_position": 14,
+      "position": 13,
+      "source_position": 13,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/14_20191222_144337.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/13_20191222_144337.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_144337.jpg",
       "match_score": null,
@@ -554,11 +540,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 15,
-      "source_position": 15,
+      "position": 14,
+      "source_position": 14,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/15_20191222_144738.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/14_20191222_144738.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_144738.jpg",
       "match_score": null,
@@ -568,11 +554,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 16,
-      "source_position": 16,
+      "position": 15,
+      "source_position": 15,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/16_20191222_145001.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/15_20191222_145001.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_145001.jpg",
       "match_score": null,
@@ -582,13 +568,13 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 17,
-      "source_position": 17,
+      "position": 16,
+      "source_position": 16,
       "facebook_id": "3633533129990996",
       "caption": "",
       "facebook_post": "p003",
       "facebook_position": 9,
-      "archive_name": "02 - Барселона, Готический квартал/17_20191222_145344.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/16_20191222_145344.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_145344.jpg",
       "match_score": 1,
@@ -598,11 +584,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 18,
-      "source_position": 18,
+      "position": 17,
+      "source_position": 17,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/18_20191222_150552.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/17_20191222_150552.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_150552.jpg",
       "match_score": null,
@@ -612,11 +598,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 19,
-      "source_position": 19,
+      "position": 18,
+      "source_position": 18,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/19_20191222_091655.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/18_20191222_091655.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_091655.jpg",
       "match_score": null,
@@ -626,11 +612,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 20,
-      "source_position": 20,
+      "position": 19,
+      "source_position": 19,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/20_20191222_091754.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/19_20191222_091754.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_091754.jpg",
       "match_score": null,
@@ -640,11 +626,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 21,
-      "source_position": 21,
+      "position": 20,
+      "source_position": 20,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/21_20191222_092439.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/20_20191222_092439.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_092439.jpg",
       "match_score": null,
@@ -654,11 +640,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 22,
-      "source_position": 22,
+      "position": 21,
+      "source_position": 21,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/22_20191222_093614.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/21_20191222_093614.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_093614.jpg",
       "match_score": null,
@@ -668,11 +654,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 23,
-      "source_position": 23,
+      "position": 22,
+      "source_position": 22,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/23_20191222_102233.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/22_20191222_102233.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_102233.jpg",
       "match_score": null,
@@ -682,13 +668,13 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 24,
-      "source_position": 24,
+      "position": 23,
+      "source_position": 23,
       "facebook_id": "3633532763324366",
       "caption": "",
       "facebook_post": "p003",
       "facebook_position": 5,
-      "archive_name": "02 - Барселона, Готический квартал/24_20191222_103012.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/23_20191222_103012.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_103012.jpg",
       "match_score": 0.9999,
@@ -698,11 +684,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 25,
-      "source_position": 25,
+      "position": 24,
+      "source_position": 24,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/25_20191222_102254.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/24_20191222_102254.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_102254.jpg",
       "match_score": null,
@@ -712,11 +698,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 26,
-      "source_position": 26,
+      "position": 25,
+      "source_position": 25,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/26_20191222_102455.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/25_20191222_102455.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_102455.jpg",
       "match_score": null,
@@ -726,11 +712,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 27,
-      "source_position": 27,
+      "position": 26,
+      "source_position": 26,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/27_20191222_102855.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/26_20191222_102855.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_102855.jpg",
       "match_score": null,
@@ -740,11 +726,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 28,
-      "source_position": 28,
+      "position": 27,
+      "source_position": 27,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/28_20191222_102954.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/27_20191222_102954.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_102954.jpg",
       "match_score": null,
@@ -754,11 +740,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 29,
-      "source_position": 29,
+      "position": 28,
+      "source_position": 28,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/29_20191222_103102.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/28_20191222_103102.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_103102.jpg",
       "match_score": null,
@@ -768,11 +754,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 30,
-      "source_position": 30,
+      "position": 29,
+      "source_position": 29,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/30_20191222_104032.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/29_20191222_104032.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_104032.jpg",
       "match_score": null,
@@ -782,11 +768,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 31,
-      "source_position": 31,
+      "position": 30,
+      "source_position": 30,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/31_20191222_112533.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/30_20191222_112533.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_112533.jpg",
       "match_score": null,
@@ -796,11 +782,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 32,
-      "source_position": 32,
+      "position": 31,
+      "source_position": 31,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/32_20191222_112558.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/31_20191222_112558.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_112558.jpg",
       "match_score": null,
@@ -810,11 +796,11 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 33,
-      "source_position": 33,
+      "position": 32,
+      "source_position": 32,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Барселона, Готический квартал/33_20191222_134449.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/32_20191222_134449.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_134449.jpg",
       "match_score": null,
@@ -824,13 +810,13 @@
     },
     {
       "chapter": "gothic-quarter",
-      "position": 34,
-      "source_position": 34,
+      "position": 33,
+      "source_position": 33,
       "facebook_id": "3633533046657671",
       "caption": "",
       "facebook_post": "p003",
       "facebook_position": 8,
-      "archive_name": "02 - Барселона, Готический квартал/34_20191222_142120.jpg",
+      "archive_name": "02 - Барселона, Готический квартал/33_20191222_142120.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Барселона/20191222_142120.jpg",
       "match_score": 1,
@@ -1945,6 +1931,7 @@
     "02 - Барселона, Готический квартал/zz_не использовано_20191222_145050.jpg",
     "02 - Барселона, Готический квартал/zz_не использовано_DSC07970.JPG",
     "02 - Барселона, Готический квартал/zz_не использовано_DSC07995.JPG",
+    "02 - Барселона, Готический квартал/zz_не использовано_20191222_090800.jpg",
     "03 - Барселона, Гауди и модерн/zz_не использовано_DSC08019.JPG",
     "03 - Барселона, Гауди и модерн/zz_не использовано_DSC08021.JPG",
     "04 - Барселона, Саграда Фамилия и Сант-Пау/zz_не использовано_20191223_124026.jpg",
@@ -1954,10 +1941,10 @@
   ],
   "archive_verified": true,
   "drive_sync_verified": true,
-  "drive_sync_checked": "2026-10-20T20:04:45.070Z",
+  "drive_sync_checked": "2026-10-20T21:44:29.315Z",
   "drive_trip_folder_id": "1cO3WDZHKtCPtsLN-G0eg3gQw4PW04TSA",
   "r2": {
-    "checked": "2026-10-20T20:07:29.730Z",
+    "checked": "2026-10-20T21:44:44.916Z",
     "base": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "copies": [
       {
@@ -2461,16 +2448,6 @@
         "verified": true
       },
       {
-        "key": "spain-2019/gothic-quarter/20191222_090800.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/spain-2019/gothic-quarter/20191222_090800.jpg",
-        "width": 1500,
-        "height": 2000,
-        "bytes": 737683,
-        "sha256": "2c573b9cd081b78015c3b0329368b6f4d4fa6b2ac24aaeeb01a8107a0a79442b",
-        "archive_name": "02 - Барселона, Готический квартал/06_20191222_090800.jpg",
-        "verified": true
-      },
-      {
         "key": "spain-2019/gothic-quarter/20191222_090908.jpg",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/spain-2019/gothic-quarter/20191222_090908.jpg",
         "width": 1500,
@@ -2487,7 +2464,7 @@
         "height": 2000,
         "bytes": 635873,
         "sha256": "7e028e9787ddd0bc9607d8aff5db2a0da8de85814df014aee9c3e30d6e11cd4f",
-        "archive_name": "02 - Барселона, Готический квартал/07_20191222_090947.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/06_20191222_090947.jpg",
         "verified": true
       },
       {
@@ -2497,7 +2474,7 @@
         "height": 2000,
         "bytes": 489457,
         "sha256": "b51f1426e8bbde04d482de6a2ee0c13a96402d898c995f6a942c8eb5a44e9a77",
-        "archive_name": "02 - Барселона, Готический квартал/08_20191222_091134.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/07_20191222_091134.jpg",
         "verified": true
       },
       {
@@ -2507,7 +2484,7 @@
         "height": 2000,
         "bytes": 458272,
         "sha256": "910044c272fbd024ace1c3ea83d8f03c225d90df7c4fc31da73512c23333b352",
-        "archive_name": "02 - Барселона, Готический квартал/19_20191222_091655.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/18_20191222_091655.jpg",
         "verified": true
       },
       {
@@ -2517,7 +2494,7 @@
         "height": 2000,
         "bytes": 677936,
         "sha256": "629230f94f3dee04ebdfad93ad0effbf079f76160644d92d203363c99283098b",
-        "archive_name": "02 - Барселона, Готический квартал/20_20191222_091754.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/19_20191222_091754.jpg",
         "verified": true
       },
       {
@@ -2527,7 +2504,7 @@
         "height": 2000,
         "bytes": 428782,
         "sha256": "2d0cdd8fd709482ab26c8da04b4b05fc97d52993f64e82afc1d47d0df8fe6ee1",
-        "archive_name": "02 - Барселона, Готический квартал/10_20191222_092010.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/09_20191222_092010.jpg",
         "verified": true
       },
       {
@@ -2537,7 +2514,7 @@
         "height": 2000,
         "bytes": 505219,
         "sha256": "833155fd17371154ef52271e7348690f8d1b97ec8b7015c6794d166d644db76c",
-        "archive_name": "02 - Барселона, Готический квартал/11_20191222_092134.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/10_20191222_092134.jpg",
         "verified": true
       },
       {
@@ -2547,7 +2524,7 @@
         "height": 2000,
         "bytes": 108212,
         "sha256": "1737600c89626cf4e0a8b6c6057d7e9b30d099441a1b70ce0955f5aff28dd44e",
-        "archive_name": "02 - Барселона, Готический квартал/12_20191222_092201.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/11_20191222_092201.jpg",
         "verified": true
       },
       {
@@ -2557,7 +2534,7 @@
         "height": 1500,
         "bytes": 420977,
         "sha256": "4d678afa9b20deb0b63ece1ebd38ec780f96cbb02b1d248d707e73150e626cea",
-        "archive_name": "02 - Барселона, Готический квартал/21_20191222_092439.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/20_20191222_092439.jpg",
         "verified": true
       },
       {
@@ -2567,7 +2544,7 @@
         "height": 2000,
         "bytes": 431533,
         "sha256": "a1f5c76502227ab806b275feb05d633a4b26acfe6568744265b59c47c3786f4b",
-        "archive_name": "02 - Барселона, Готический квартал/22_20191222_093614.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/21_20191222_093614.jpg",
         "verified": true
       },
       {
@@ -2577,7 +2554,7 @@
         "height": 1500,
         "bytes": 291581,
         "sha256": "f26d06c305a1e28b94809eb5449f0922d888881ddc648110fead8e67510e514a",
-        "archive_name": "02 - Барселона, Готический квартал/23_20191222_102233.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/22_20191222_102233.jpg",
         "verified": true
       },
       {
@@ -2587,7 +2564,7 @@
         "height": 2000,
         "bytes": 447214,
         "sha256": "84db17d7e4aefa345d57db5f977784ae4cbbfddb097fba9dead31a22bee8cfef",
-        "archive_name": "02 - Барселона, Готический квартал/25_20191222_102254.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/24_20191222_102254.jpg",
         "verified": true
       },
       {
@@ -2597,7 +2574,7 @@
         "height": 2000,
         "bytes": 524708,
         "sha256": "4ffa11c6cddf705743553340d68dc00469a6449ee902a808b42ab7603921dbb0",
-        "archive_name": "02 - Барселона, Готический квартал/26_20191222_102455.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/25_20191222_102455.jpg",
         "verified": true
       },
       {
@@ -2607,7 +2584,7 @@
         "height": 1500,
         "bytes": 525952,
         "sha256": "27c75eb413d9ae955560073051f37513447c83dc8c2f08bebc3f1eb6bd1a26c5",
-        "archive_name": "02 - Барселона, Готический квартал/27_20191222_102855.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/26_20191222_102855.jpg",
         "verified": true
       },
       {
@@ -2617,7 +2594,7 @@
         "height": 2000,
         "bytes": 537747,
         "sha256": "f1cfd18cea2fc0d6d3b26e6f80e136dfa3984b52152c9486ee417a9408db3d8e",
-        "archive_name": "02 - Барселона, Готический квартал/28_20191222_102954.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/27_20191222_102954.jpg",
         "verified": true
       },
       {
@@ -2627,7 +2604,7 @@
         "height": 1500,
         "bytes": 311500,
         "sha256": "2a3d4a25ff81acea36969df48a7f9af7f4e6e9b5e24c498158467f91e3cb2e08",
-        "archive_name": "02 - Барселона, Готический квартал/24_20191222_103012.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/23_20191222_103012.jpg",
         "verified": true
       },
       {
@@ -2637,7 +2614,7 @@
         "height": 2000,
         "bytes": 645601,
         "sha256": "70e89100cd7052b20a3e0d069ee516c0685f986d209ee12cef2b3d1290e32c46",
-        "archive_name": "02 - Барселона, Готический квартал/29_20191222_103102.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/28_20191222_103102.jpg",
         "verified": true
       },
       {
@@ -2647,7 +2624,7 @@
         "height": 2000,
         "bytes": 607019,
         "sha256": "8539adc7736de9df2e6117a5e06d0769f427d1550a3c18bf91177e0d06e2a663",
-        "archive_name": "02 - Барселона, Готический квартал/30_20191222_104032.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/29_20191222_104032.jpg",
         "verified": true
       },
       {
@@ -2657,7 +2634,7 @@
         "height": 2000,
         "bytes": 394526,
         "sha256": "f5fffb82ecaadc1bde1e4b361581755a6de6cfb57d63e114181229181200ee0e",
-        "archive_name": "02 - Барселона, Готический квартал/31_20191222_112533.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/30_20191222_112533.jpg",
         "verified": true
       },
       {
@@ -2667,7 +2644,7 @@
         "height": 2000,
         "bytes": 561914,
         "sha256": "513de8ee619f78fe0a30c6edcbe52c9e24e53c277f2828b0747e805491eae055",
-        "archive_name": "02 - Барселона, Готический квартал/32_20191222_112558.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/31_20191222_112558.jpg",
         "verified": true
       },
       {
@@ -2677,7 +2654,7 @@
         "height": 1500,
         "bytes": 610730,
         "sha256": "f60a03396d03562073927cf361236df639d239b448503213a67bfd22b0158ea5",
-        "archive_name": "02 - Барселона, Готический квартал/33_20191222_134449.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/32_20191222_134449.jpg",
         "verified": true
       },
       {
@@ -2687,7 +2664,7 @@
         "height": 2000,
         "bytes": 328798,
         "sha256": "a1310d6625c40677170bdceaac67229eab16affeb979b35acaf9b603c81dde87",
-        "archive_name": "02 - Барселона, Готический квартал/34_20191222_142120.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/33_20191222_142120.jpg",
         "verified": true
       },
       {
@@ -2697,7 +2674,7 @@
         "height": 1500,
         "bytes": 693678,
         "sha256": "ac5f2478705bb94b7ca8e5c4388a6f0bbd4c04f4ffbd64561038a1b9f7505697",
-        "archive_name": "02 - Барселона, Готический квартал/13_20191222_143931.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/12_20191222_143931.jpg",
         "verified": true
       },
       {
@@ -2707,7 +2684,7 @@
         "height": 2000,
         "bytes": 347331,
         "sha256": "bbb082d8652c814e4776396413a8df218099d39ece1ce9ab8f2933560a073c34",
-        "archive_name": "02 - Барселона, Готический квартал/14_20191222_144337.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/13_20191222_144337.jpg",
         "verified": true
       },
       {
@@ -2717,7 +2694,7 @@
         "height": 2000,
         "bytes": 395525,
         "sha256": "fc8ad462fecd1ac29f556d8a73b6507a10a545bb7f864022eccc5c92851350f5",
-        "archive_name": "02 - Барселона, Готический квартал/15_20191222_144738.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/14_20191222_144738.jpg",
         "verified": true
       },
       {
@@ -2727,7 +2704,7 @@
         "height": 2000,
         "bytes": 660462,
         "sha256": "12ac326d4677c5b53bf661ffe68e6ed63dcb5176daa70eb4156cccfa241b0d88",
-        "archive_name": "02 - Барселона, Готический квартал/16_20191222_145001.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/15_20191222_145001.jpg",
         "verified": true
       },
       {
@@ -2737,7 +2714,7 @@
         "height": 2000,
         "bytes": 564367,
         "sha256": "d0f522e7b229eea61ab72d5c7c9de2a7999aded70bb887cf73c4ac088c661dea",
-        "archive_name": "02 - Барселона, Готический квартал/17_20191222_145344.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/16_20191222_145344.jpg",
         "verified": true
       },
       {
@@ -2747,7 +2724,7 @@
         "height": 2000,
         "bytes": 434413,
         "sha256": "4963e49d55c7d21767b9ac8af2502e80efb72e88cdb1da8cc4319455299027b8",
-        "archive_name": "02 - Барселона, Готический квартал/18_20191222_150552.jpg",
+        "archive_name": "02 - Барселона, Готический квартал/17_20191222_150552.jpg",
         "verified": true
       },
       {
@@ -2767,7 +2744,7 @@
         "height": 2000,
         "bytes": 467812,
         "sha256": "18f5e74ec1f275ff918c47dd91c9b1fd4518cf1a42d01de21181f703befd9109",
-        "archive_name": "02 - Барселона, Готический квартал/09_DSC07969.JPG",
+        "archive_name": "02 - Барселона, Готический квартал/08_DSC07969.JPG",
         "verified": true
       },
       {
