@@ -83,17 +83,25 @@ for slug, chapter in m['chapters'].items():
             body.append('<p>' + html.escape(text[at:], quote=False) + '</p>')
         else:
             body.append('<p>' + html.escape(text, quote=False) + '</p>')
-        groups = []
-        while photos:
-            if photos[0] in chapter.get('standalone_photos', []):
-                take = 1
-            else:
-                next_single = next((n for n, photo in enumerate(photos) if photo in chapter.get('standalone_photos', [])), len(photos))
-                take = min(2 if len(photos) == 4 else 3, next_single, len(photos))
-            groups.append(photos[:take]); photos = photos[take:]
-        for group in groups:
-            names = [n if slug == 'story' or '/' in n else 'story/' + n for n in group]
-            body.append('{{< row "' + ' '.join(names) + '" >}}')
+        blocks = chapter.get('photo_blocks', {}).get('after' + str(i), [photos])
+        assert [n for block in blocks for n in block] == photos
+        for block in blocks:
+            if len(blocks) > 1:
+                body.append('<div class="ford-photo-block">')
+            remaining = block.copy()
+            while remaining:
+                if remaining[0] in chapter.get('standalone_photos', []):
+                    take = 1
+                else:
+                    next_single = next((n for n, photo in enumerate(remaining) if photo in chapter.get('standalone_photos', [])), len(remaining))
+                    take = min(2 if len(remaining) in (4, 5) else 3, next_single, len(remaining))
+                group = remaining[:take]; remaining = remaining[take:]
+                names = [n if slug == 'story' or '/' in n else 'story/' + n for n in group]
+                body.append('{{< row "' + ' '.join(names) + '" >}}')
+            if len(blocks) > 1:
+                body.append('</div>')
+    if chapter.get('photo_blocks'):
+        body.append('<style>.photo-essay .ford-photo-block{margin-block:38px}.photo-essay .ford-photo-block .essay-group{margin-block:12px}</style>')
     folder = trip / slug
     folder.mkdir(exist_ok=True)
     front = {'title': chapter['title'], 'draft': True, 'date': '2016-07-02',

@@ -2172,7 +2172,6 @@
           "20160702_110453.jpg",
           "20160702_110503.jpg",
           "20160702_111037.jpg",
-          "20160702_111414.jpg",
           "20160702_112934.jpg",
           "20160702_113252.jpg",
           "20160702_114009.jpg",
@@ -2180,11 +2179,12 @@
           "20160702_120109.jpg",
           "20160702_120403.jpg",
           "20160702_120525.jpg",
-          "20160702_120604.jpg",
-          "20160702_120653.jpg",
-          "20160702_121114.jpg",
           "20160702_121352.jpg",
           "20160702_121417.jpg",
+          "20160702_120604.jpg",
+          "20160702_120653.jpg",
+          "20160702_111414.jpg",
+          "20160702_121114.jpg",
           "20160702_121625.jpg"
         ],
         "after3": [
@@ -2204,7 +2204,50 @@
         ]
       },
       "archive_first_photo": "20160702_105538.jpg",
-      "drive_folder_id": "1LshffIDj2eJQXr5ws4VAtYfIyORayci-"
+      "drive_folder_id": "1LshffIDj2eJQXr5ws4VAtYfIyORayci-",
+      "photo_blocks": {
+        "after2": [
+          [
+            "20160702_104915.jpg",
+            "20160702_105011.jpg",
+            "20160702_105404.jpg",
+            "20160702_105538.jpg",
+            "20160702_105900.jpg"
+          ],
+          [
+            "20160702_110331.jpg",
+            "20160702_110348.jpg",
+            "20160702_110407.jpg",
+            "20160702_110453.jpg",
+            "20160702_110503.jpg",
+            "20160702_111037.jpg"
+          ],
+          [
+            "20160702_112934.jpg",
+            "20160702_113252.jpg"
+          ],
+          [
+            "20160702_114009.jpg",
+            "20160702_114107.jpg"
+          ],
+          [
+            "20160702_120109.jpg",
+            "20160702_120403.jpg",
+            "20160702_120525.jpg",
+            "20160702_121352.jpg",
+            "20160702_121417.jpg"
+          ],
+          [
+            "20160702_120604.jpg",
+            "20160702_120653.jpg"
+          ],
+          [
+            "20160702_111414.jpg",
+            "20160702_121114.jpg",
+            "20160702_121625.jpg"
+          ]
+        ]
+      }
     },
     "detroit": {
       "title": "Детройт",
@@ -2504,7 +2547,23 @@
     "20160702_160423.jpg": "Караваджо. «Марфа и Мария Магдалина».",
     "20160702_161109.jpg": "Винсент ван Гог. «Портрет почтальона Рулена».",
     "20160702_164913.jpg": "Гвидо Рени. «Голова Христа в терновом венце».",
-    "20160702_171957.jpg": "Detroit People Mover — автоматический надземный поезд в центре Детройта."
+    "20160702_171957.jpg": "Detroit People Mover — автоматический надземный поезд в центре Детройта.",
+    "20160702_162034.jpg": "Константен Менье. «Молотобоец».",
+    "20160702_104915.jpg": "Генри Форд.",
+    "20160702_112934.jpg": "Депо Detroit, Toledo & Milwaukee и поворотный круг.",
+    "20160702_113252.jpg": "Паровоз Edison.",
+    "20160702_114009.jpg": "Динамо-машина Эдисона.",
+    "20160702_114107.jpg": "Лампы накаливания Эдисона.",
+    "20160702_120109.jpg": "Часы Sir John Bennett с фигурами Гога и Магога.",
+    "20160702_120604.jpg": "Братья Райт: велосипеды и модель летательного аппарата.",
+    "20160702_120653.jpg": "Велосипедная мастерская братьев Райт.",
+    "20160702_123403.jpg": "Паровоз Chesapeake & Ohio Allegheny №1601.",
+    "20160702_123703.jpg": "Паровоз The President.",
+    "20160702_124014.jpg": "Железнодорожный снегоочиститель Canadian Pacific.",
+    "20160702_120403.jpg": "Ford Model T Depot Hack — с деревянным пассажирским кузовом.",
+    "20160702_120525.jpg": "Ford Model T Touring — открытый кузов с откидным верхом.",
+    "20160702_121352.jpg": "Ford Model T Touring — открытый кузов с откидным верхом.",
+    "20160702_121417.jpg": "Ford Model T Touring — открытый кузов с откидным верхом."
   },
   "owner_requested_caption_sources": {
     "20160702_161038.jpg": [
@@ -2530,6 +2589,59 @@
     ],
     "20160702_171957.jpg": [
       "https://www.thepeoplemover.com/about"
+    ],
+    "20160702_162034.jpg": [
+      "https://dia.org/collection/hammerman/54561",
+      "Owner supplied full photograph; pedestal label The Hammerman"
+    ],
+    "20160702_104915.jpg": [
+      "Legible inscription in the archived photograph; owner requested identification"
+    ],
+    "20160702_114009.jpg": [
+      "Legible inscription in the archived photograph; owner requested identification"
+    ],
+    "20160702_114107.jpg": [
+      "Legible inscription in the archived photograph; owner requested identification"
+    ],
+    "20160702_123703.jpg": [
+      "Legible inscription in the archived photograph; owner requested identification"
+    ],
+    "20160702_120604.jpg": [
+      "https://www.thehenryford.org/collections/explore/articles/detail/articles/2014/10/04/museum-icons-wright-cycle-shop"
+    ],
+    "20160702_120653.jpg": [
+      "https://www.thehenryford.org/collections/explore/articles/detail/articles/2014/10/04/museum-icons-wright-cycle-shop"
+    ],
+    "20160702_112934.jpg": [
+      "https://www.thehenryford.org/visit/plan-your-visit/maps/greenfield-village-map"
+    ],
+    "20160702_113252.jpg": [
+      "https://www.thehenryford.org/collections/explore/artifact/10616"
+    ],
+    "20160702_120109.jpg": [
+      "https://www.thehenryford.org/collections/explore/sets/detail/greenfield-village-buildings?AssetId=THF806031"
+    ],
+    "20160702_123403.jpg": [
+      "https://www.thehenryford.org/collections/explore/popular-research-topics/what-if-a-locomotive-powered-by-fire-and-water-could-haul-more-freight-than-ever-before"
+    ],
+    "20160702_124014.jpg": [
+      "https://www.thehenryford.org/collections/explore/sets/detail/winter-on-the-railroad"
+    ],
+    "20160702_120403.jpg": [
+      "https://cdn.modeltford.com/uploads/catalog/catalog.pdf (Depot Hack body: supplier identifies the same body supplied to The Henry Ford and Greenfield Village in spring 2004; visual match to wooden body)",
+      "https://www.thehenryford.org/collections/explore/articles/garage-art"
+    ],
+    "20160702_120525.jpg": [
+      "https://www.thehenryford.org/collections/explore/articles/garage-art",
+      "https://www.thehenryford.org/docs/default-source/default-document-library/greenfield-village-social-narrative.pdf?sfvrsn=2 (Model T Loading Dock; matched location and touring body)"
+    ],
+    "20160702_121352.jpg": [
+      "https://www.thehenryford.org/collections/explore/articles/garage-art",
+      "https://www.thehenryford.org/docs/default-source/default-document-library/greenfield-village-social-narrative.pdf?sfvrsn=2 (Model T Loading Dock; matched location and touring body)"
+    ],
+    "20160702_121417.jpg": [
+      "https://www.thehenryford.org/collections/explore/articles/garage-art",
+      "https://www.thehenryford.org/docs/default-source/default-document-library/greenfield-village-social-narrative.pdf?sfvrsn=2 (Model T Loading Dock; matched location and touring body)"
     ]
   },
   "reference_images": [
