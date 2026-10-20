@@ -3030,5 +3030,21 @@
     "country_code": "CA",
     "source": "https://www.openstreetmap.org/relation/2564500",
     "query": "Edmonton, Alberta"
+  },
+  "detroit": {
+    "lat": 42.3315509,
+    "lon": -83.0466403,
+    "name": "Detroit",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/134591",
+    "query": "Detroit Michigan"
+  },
+  "dearborn": {
+    "lat": 42.3222599,
+    "lon": -83.1763145,
+    "name": "Dearborn",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/134579",
+    "query": "Dearborn Michigan"
   }
 }
