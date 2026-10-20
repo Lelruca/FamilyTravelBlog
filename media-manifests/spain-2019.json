@@ -3,7 +3,7 @@
   "title": "2019 декабрь: Рождественская Испания (Девичник трёх поколений)",
   "source": "https://www.facebook.com/olga.ukolova.754",
   "archive_root": "Europe/2019 - Рождественская Испания (Девичник трёх поколений)",
-  "created": "2026-10-20T22:20:55.425Z",
+  "created": "2026-10-20T22:36:21.092Z",
   "match_threshold": 0.95,
   "chapters": [
     {
@@ -76,8 +76,8 @@
       "title": "Торревьеха, Рождество с семьёй",
       "originals_folder": "06 - Торревьеха, Рождество с семьёй",
       "without_post": true,
-      "photo_count": 18,
-      "original_count": 18
+      "photo_count": 20,
+      "original_count": 20
     },
     {
       "slug": "madrid",
@@ -2643,7 +2643,21 @@
       "source_position": 13,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "06 - Торревьеха, Рождество с семьёй/13_20191225_153225.jpg",
+      "archive_name": "06 - Торревьеха, Рождество с семьёй/13_20191225_153206.jpg",
+      "kind": "original",
+      "original_relative_path": "2019/2019 осень + декабрь/Spain/Таривьеха/20191225_153206.jpg",
+      "match_score": null,
+      "bytes": 4480774,
+      "sha256": "d968619f1e1e9621d6b01871a152549363617f96521fcaf0000f87f8ed745d63",
+      "drive_id": "1XLxtn2kFJI6-V7XHeNAQpaqenIlWtb3G"
+    },
+    {
+      "chapter": "torrevieja",
+      "position": 14,
+      "source_position": 14,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "06 - Торревьеха, Рождество с семьёй/14_20191225_153225.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Таривьеха/20191225_153225.jpg",
       "match_score": null,
@@ -2653,11 +2667,11 @@
     },
     {
       "chapter": "torrevieja",
-      "position": 14,
-      "source_position": 14,
+      "position": 15,
+      "source_position": 15,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "06 - Торревьеха, Рождество с семьёй/14_20191225_170319.jpg",
+      "archive_name": "06 - Торревьеха, Рождество с семьёй/15_20191225_170319.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Таривьеха/20191225_170319.jpg",
       "match_score": null,
@@ -2667,11 +2681,11 @@
     },
     {
       "chapter": "torrevieja",
-      "position": 15,
-      "source_position": 15,
+      "position": 16,
+      "source_position": 16,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "06 - Торревьеха, Рождество с семьёй/15_20191225_170349.jpg",
+      "archive_name": "06 - Торревьеха, Рождество с семьёй/16_20191225_170349.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Таривьеха/20191225_170349.jpg",
       "match_score": null,
@@ -2681,11 +2695,25 @@
     },
     {
       "chapter": "torrevieja",
-      "position": 16,
-      "source_position": 16,
+      "position": 17,
+      "source_position": 17,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "06 - Торревьеха, Рождество с семьёй/16_20191225_171229.jpg",
+      "archive_name": "06 - Торревьеха, Рождество с семьёй/17_20191225_171045.jpg",
+      "kind": "original",
+      "original_relative_path": "2019/2019 осень + декабрь/Spain/Таривьеха/20191225_171045.jpg",
+      "match_score": null,
+      "bytes": 3261104,
+      "sha256": "dea1c90d6ce1c7c8745445e033cacee436ff1b7c147aff94637018cb3ec2eaf6",
+      "drive_id": "10K2QQAdhDJWxLp-zbg3qkFnTRzTOsXJj"
+    },
+    {
+      "chapter": "torrevieja",
+      "position": 18,
+      "source_position": 18,
+      "facebook_id": null,
+      "caption": "",
+      "archive_name": "06 - Торревьеха, Рождество с семьёй/18_20191225_171229.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Таривьеха/20191225_171229.jpg",
       "match_score": null,
@@ -2695,11 +2723,11 @@
     },
     {
       "chapter": "torrevieja",
-      "position": 17,
-      "source_position": 17,
+      "position": 19,
+      "source_position": 19,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "06 - Торревьеха, Рождество с семьёй/17_20191225_171256.jpg",
+      "archive_name": "06 - Торревьеха, Рождество с семьёй/19_20191225_171256.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Таривьеха/20191225_171256.jpg",
       "match_score": null,
@@ -2709,11 +2737,11 @@
     },
     {
       "chapter": "torrevieja",
-      "position": 18,
-      "source_position": 18,
+      "position": 20,
+      "source_position": 20,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "06 - Торревьеха, Рождество с семьёй/18_20191225_172432.jpg",
+      "archive_name": "06 - Торревьеха, Рождество с семьёй/20_20191225_172432.jpg",
       "kind": "original",
       "original_relative_path": "2019/2019 осень + декабрь/Spain/Таривьеха/20191225_172432.jpg",
       "match_score": null,
@@ -2902,16 +2930,14 @@
     "05 - Валенсия/zz_не использовано_20191224_132027.jpg",
     "05 - Валенсия/zz_не использовано_20191224_125439.jpg",
     "05 - Валенсия/zz_не использовано_20191224_165609.jpg",
-    "05 - Валенсия/zz_не использовано_20191224_170020.jpg",
-    "06 - Торревьеха, Рождество с семьёй/zz_не использовано_20191225_153206.jpg",
-    "06 - Торревьеха, Рождество с семьёй/zz_не использовано_20191225_171045.jpg"
+    "05 - Валенсия/zz_не использовано_20191224_170020.jpg"
   ],
   "archive_verified": true,
   "drive_sync_verified": true,
-  "drive_sync_checked": "2026-10-20T22:21:28.503Z",
+  "drive_sync_checked": "2026-10-20T22:36:33.695Z",
   "drive_trip_folder_id": "1cO3WDZHKtCPtsLN-G0eg3gQw4PW04TSA",
   "r2": {
-    "checked": "2026-10-20T22:21:57.394Z",
+    "checked": "2026-10-20T22:37:09.686Z",
     "base": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "copies": [
       {
@@ -4195,13 +4221,23 @@
         "verified": true
       },
       {
+        "key": "spain-2019/torrevieja/20191225_153206.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/spain-2019/torrevieja/20191225_153206.jpg",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 512553,
+        "sha256": "cbcfa5406d6ca74a53a6aadba766ee7874051b8667d31f1507b625dbe1a41c25",
+        "archive_name": "06 - Торревьеха, Рождество с семьёй/13_20191225_153206.jpg",
+        "verified": true
+      },
+      {
         "key": "spain-2019/torrevieja/20191225_153225.jpg",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/spain-2019/torrevieja/20191225_153225.jpg",
         "width": 2000,
         "height": 1500,
         "bytes": 460859,
         "sha256": "59ede2a6a93abeb62d4cd076bb9f3e74279545a9d6627e11aa74223492610a54",
-        "archive_name": "06 - Торревьеха, Рождество с семьёй/13_20191225_153225.jpg",
+        "archive_name": "06 - Торревьеха, Рождество с семьёй/14_20191225_153225.jpg",
         "verified": true
       },
       {
@@ -4211,7 +4247,7 @@
         "height": 2000,
         "bytes": 446540,
         "sha256": "a2df6e1a7aea8d1c99cce1ce6777a6b8f4aad8b854e269b3c3d46426cd0fe09d",
-        "archive_name": "06 - Торревьеха, Рождество с семьёй/14_20191225_170319.jpg",
+        "archive_name": "06 - Торревьеха, Рождество с семьёй/15_20191225_170319.jpg",
         "verified": true
       },
       {
@@ -4221,7 +4257,7 @@
         "height": 2000,
         "bytes": 458135,
         "sha256": "751f660b0a0aa6459daee966dff99ab9d24c9604e3492cd2898e6556f47bc9fd",
-        "archive_name": "06 - Торревьеха, Рождество с семьёй/15_20191225_170349.jpg",
+        "archive_name": "06 - Торревьеха, Рождество с семьёй/16_20191225_170349.jpg",
         "verified": true
       },
       {
@@ -4235,13 +4271,23 @@
         "verified": true
       },
       {
+        "key": "spain-2019/torrevieja/20191225_171045.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/spain-2019/torrevieja/20191225_171045.jpg",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 478399,
+        "sha256": "0dfed21b0e72da8e01c4b9865a749fb08486a073e60fe2e748186dc8de737513",
+        "archive_name": "06 - Торревьеха, Рождество с семьёй/17_20191225_171045.jpg",
+        "verified": true
+      },
+      {
         "key": "spain-2019/torrevieja/20191225_171229.jpg",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/spain-2019/torrevieja/20191225_171229.jpg",
         "width": 1500,
         "height": 2000,
         "bytes": 636670,
         "sha256": "c633c0fa3575f73f2f7c886fb64f352f98d8ff53ec33851fc7593336eec7ce9e",
-        "archive_name": "06 - Торревьеха, Рождество с семьёй/16_20191225_171229.jpg",
+        "archive_name": "06 - Торревьеха, Рождество с семьёй/18_20191225_171229.jpg",
         "verified": true
       },
       {
@@ -4251,7 +4297,7 @@
         "height": 2000,
         "bytes": 710027,
         "sha256": "03aa41bc7ec25d33d1e3cef819246f06b365e7860f4c3e89fdfced599ce76531",
-        "archive_name": "06 - Торревьеха, Рождество с семьёй/17_20191225_171256.jpg",
+        "archive_name": "06 - Торревьеха, Рождество с семьёй/19_20191225_171256.jpg",
         "verified": true
       },
       {
@@ -4261,7 +4307,7 @@
         "height": 2000,
         "bytes": 292194,
         "sha256": "567eb5ef60048e840229a51846805de08a94301318a6bd23087ace3687732125",
-        "archive_name": "06 - Торревьеха, Рождество с семьёй/18_20191225_172432.jpg",
+        "archive_name": "06 - Торревьеха, Рождество с семьёй/20_20191225_172432.jpg",
         "verified": true
       },
       {
