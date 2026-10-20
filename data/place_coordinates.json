@@ -3046,5 +3046,21 @@
     "country_code": "US",
     "source": "https://www.openstreetmap.org/relation/134579",
     "query": "Dearborn Michigan"
+  },
+  "quebec-city": {
+    "lat": 46.82,
+    "lon": -71.28,
+    "name": "Québec",
+    "country_code": "CA",
+    "source": "https://wiki.openstreetmap.org/wiki/Quebec_City",
+    "query": "Quebec City, Quebec"
+  },
+  "montreal": {
+    "lat": 45.531,
+    "lon": -73.634,
+    "name": "Montréal",
+    "country_code": "CA",
+    "source": "https://wiki.openstreetmap.org/wiki/Montr%C3%A9al",
+    "query": "Montreal, Quebec"
   }
 }
