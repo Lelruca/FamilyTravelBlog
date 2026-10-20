@@ -117,26 +117,10 @@
   },
   "originals": [
     {
-      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_112934.jpg",
-      "source_filename": "20160702_112934.jpg",
-      "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/01_20160702_112934.jpg",
-      "original_bytes": 5561272,
-      "original_sha256": "3ecb502e009c649433777a3da494c65f199887ac1bf4f1ff2ec18372403b7159",
-      "original_width": 5312,
-      "original_height": 2988,
-      "exif_orientation": 1,
-      "display_oriented_width": 5312,
-      "display_oriented_height": 2988,
-      "site_filename": "20160702_112934.jpg",
-      "r2_key": "detroit-windsor-2016/story/20160702_112934.jpg",
-      "drive_file_id": "1aOiUL1_k4meq_0w-LavO9ABExEK-Un2G"
-    },
-    {
       "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_105538.jpg",
       "source_filename": "20160702_105538.jpg",
       "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/02_20160702_105538.jpg",
+      "original_relative_path": "01 - Музей Форда/01_20160702_105538.jpg",
       "original_bytes": 5678631,
       "original_sha256": "2a2f52066222cd3196e05136f23abf2c4d2f60aa74bf4a9784def4ee5a7d60cc",
       "original_width": 5312,
@@ -149,26 +133,95 @@
       "drive_file_id": "17f20aDQnfqMsMOSq3vfzM3ZTAKQdtLCL"
     },
     {
-      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_110056.jpg",
-      "source_filename": "20160702_110056.jpg",
+      "source_filename": "20160702_104915.jpg",
       "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/03_20160702_110056.jpg",
-      "original_bytes": 5404405,
-      "original_sha256": "308db4c2fc1ece1bf8d10d0efd07d03e570e02b37ad9392b5f9b09d58028624f",
-      "original_width": 5312,
-      "original_height": 2988,
-      "exif_orientation": 6,
+      "original_relative_path": "01 - Музей Форда/02_20160702_104915.jpg",
+      "original_bytes": 5513696,
+      "original_sha256": "3292d422c250791f49760ee8243c4c7eafd5377fb185d42e1a83736d39a0f995",
       "display_oriented_width": 2988,
       "display_oriented_height": 5312,
-      "site_filename": "20160702_110056.jpg",
-      "r2_key": "detroit-windsor-2016/story/20160702_110056.jpg",
-      "drive_file_id": "1qp0k9FgJzUlBzLfroAKT58-3GIuJRn3i"
+      "exif_orientation": 6,
+      "site_filename": "20160702_104915.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_104915.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_104915.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1y0N8-J_0_PFIR2vGfw-dAZ54z1XhwqaZ"
+    },
+    {
+      "source_filename": "20160702_105011.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/03_20160702_105011.jpg",
+      "original_bytes": 4635671,
+      "original_sha256": "4f2f229b6ce101f64ef55fd2b059cd2dcefee1b057593ee33575e96783c39794",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_105011.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_105011.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_105011.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1guBghsU1cnL-FIZ62C9yrs4ZunTHNOG5"
+    },
+    {
+      "source_filename": "20160702_105404.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/04_20160702_105404.jpg",
+      "original_bytes": 5833390,
+      "original_sha256": "bf9f4c1c992b46248d9614ec8cb4ffeb26f9b1a6ccc83ef668dbd37ec1c1fc9c",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_105404.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_105404.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_105404.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1kpyqVXhCnraV65-LX3Gp9ezvCqbpjv30"
+    },
+    {
+      "source_filename": "20160702_105900.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/05_20160702_105900.jpg",
+      "original_bytes": 3520803,
+      "original_sha256": "ee0c708872f1b2f4668cb4a58438cacb14bf166d6cd4de29f07efb8cdd429f2d",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_105900.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_105900.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_105900.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "127InVC1izHfya92QmY66PTpLXYl1Reh4"
+    },
+    {
+      "source_filename": "20160702_110331.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/06_20160702_110331.jpg",
+      "original_bytes": 6841590,
+      "original_sha256": "78a18a87f4a4246129cede6062dd2ade5da36aea617eb5ef7c5c9dcdc2bc86bd",
+      "display_oriented_width": 2988,
+      "display_oriented_height": 5312,
+      "exif_orientation": 6,
+      "site_filename": "20160702_110331.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_110331.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_110331.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "138PR9qCSTCTzmkLyKxyGckWBeqgp9JLF"
     },
     {
       "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_110348.jpg",
       "source_filename": "20160702_110348.jpg",
       "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/04_20160702_110348.jpg",
+      "original_relative_path": "01 - Музей Форда/07_20160702_110348.jpg",
       "original_bytes": 6968387,
       "original_sha256": "a1b7adc133e8e010e02fc443cd19d28e51f10779ff1a5827e41451e91a74a92c",
       "original_width": 5312,
@@ -181,58 +234,213 @@
       "drive_file_id": "1s4EYXG9ZNNHYBQAEH6HH7zc1aA8ZwwqT"
     },
     {
-      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_111605.jpg",
-      "source_filename": "20160702_111605.jpg",
+      "source_filename": "20160702_110407.jpg",
       "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/05_20160702_111605.jpg",
-      "original_bytes": 2582768,
-      "original_sha256": "c610d2efb05aeb24f483086b93cc3be5d7329da0cd8a74ed52eba846271b589c",
+      "original_relative_path": "01 - Музей Форда/08_20160702_110407.jpg",
+      "original_bytes": 4358013,
+      "original_sha256": "c6b6f3a0383d0f52e47787fa26112a6996351b3100ac2d0d7c85fab8cf017f7c",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_110407.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_110407.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_110407.jpg",
+      "owner_added_from_archive": true,
       "original_width": 5312,
       "original_height": 2988,
-      "exif_orientation": 6,
+      "drive_file_id": "1eIYarq4HBtGgUqr4FUk-nYJSOVHUOKTe"
+    },
+    {
+      "source_filename": "20160702_110453.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/09_20160702_110453.jpg",
+      "original_bytes": 5767353,
+      "original_sha256": "785fd29dc596ca1491fc398cfbc48ce7f96c692a8c691e2c12f2c6b586775e44",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_110453.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_110453.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_110453.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1tQd_hfflCBrtnhSOn9aMPUQ0PwHDdX6d"
+    },
+    {
+      "source_filename": "20160702_110503.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/10_20160702_110503.jpg",
+      "original_bytes": 2547929,
+      "original_sha256": "51443b4a19c23e0644e67e50bf2e54693138a5422750ffe37db675f2a41a8413",
       "display_oriented_width": 2988,
       "display_oriented_height": 5312,
-      "site_filename": "20160702_111605.jpg",
-      "r2_key": "detroit-windsor-2016/story/20160702_111605.jpg",
-      "drive_file_id": "1lj5xKKO5mD7jkQrQXAYVh_2CsP0zEmUJ"
+      "exif_orientation": 6,
+      "site_filename": "20160702_110503.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_110503.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_110503.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1yrbs9jwwBnYWdcib655VxhbmLgXJBVKZ"
     },
     {
-      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_120227.jpg",
-      "source_filename": "20160702_120227.jpg",
+      "source_filename": "20160702_111037.jpg",
       "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/06_20160702_120227.jpg",
-      "original_bytes": 6413569,
-      "original_sha256": "3c1af739f27e4f88c52cfe6c664650070b6d9a3fab0a9c53ea981783c3dc6fb7",
+      "original_relative_path": "01 - Музей Форда/11_20160702_111037.jpg",
+      "original_bytes": 5957426,
+      "original_sha256": "031e92df3340c037e4c353f4cae43c08627a3e36139fb75c6387d090d9852bb6",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_111037.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_111037.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_111037.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1-tcb-ggKlzeiNJq1BKKfz1dVg428ApIP"
+    },
+    {
+      "source_filename": "20160702_111414.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/12_20160702_111414.jpg",
+      "original_bytes": 5519240,
+      "original_sha256": "09c8074621e4ae4b9c7053e14d06dbda5687b41fc6293fb62a42085328c39bbe",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_111414.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_111414.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_111414.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1kOBP7o4ulM9q21LZVl6BmauAmtexfOR-"
+    },
+    {
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_112934.jpg",
+      "source_filename": "20160702_112934.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/13_20160702_112934.jpg",
+      "original_bytes": 5561272,
+      "original_sha256": "3ecb502e009c649433777a3da494c65f199887ac1bf4f1ff2ec18372403b7159",
       "original_width": 5312,
       "original_height": 2988,
       "exif_orientation": 1,
       "display_oriented_width": 5312,
       "display_oriented_height": 2988,
-      "site_filename": "20160702_120227.jpg",
-      "r2_key": "detroit-windsor-2016/story/20160702_120227.jpg",
-      "drive_file_id": "1QR-R3I110fcjbRTHpcAw50BtDf7F0jfC"
+      "site_filename": "20160702_112934.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_112934.jpg",
+      "drive_file_id": "1aOiUL1_k4meq_0w-LavO9ABExEK-Un2G"
     },
     {
-      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_114007.jpg",
-      "source_filename": "20160702_114007.jpg",
+      "source_filename": "20160702_113252.jpg",
       "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/07_20160702_114007.jpg",
-      "original_bytes": 5771733,
-      "original_sha256": "b440555284b918d2b2a86bc0b9a11d9c382d21e47dabea89fa315edc32a4e4b5",
-      "original_width": 5312,
-      "original_height": 2988,
-      "exif_orientation": 1,
+      "original_relative_path": "01 - Музей Форда/14_20160702_113252.jpg",
+      "original_bytes": 5275548,
+      "original_sha256": "33423a8b2cc1542f6d93973bca99afde3b598a254d106a849e556cb43aa6acd5",
       "display_oriented_width": 5312,
       "display_oriented_height": 2988,
-      "site_filename": "20160702_114007.jpg",
-      "r2_key": "detroit-windsor-2016/story/20160702_114007.jpg",
-      "drive_file_id": "1SAx7Y1Ui0-CZ35OY8mGHOC-Wt4N_Pv8O"
+      "exif_orientation": 1,
+      "site_filename": "20160702_113252.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_113252.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_113252.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1035l6RhW-YaI7w8HvxU-cgsvsklV7_iT"
+    },
+    {
+      "source_filename": "20160702_114009.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/15_20160702_114009.jpg",
+      "original_bytes": 5714672,
+      "original_sha256": "3461df13d10eda6fba6ac56a9aa1a98ec0879d208964c07333bcb7b3053653c4",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_114009.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_114009.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_114009.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1jtJ_glCeEXsju4L2oBm5nCM8-c94694C"
+    },
+    {
+      "source_filename": "20160702_114107.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/16_20160702_114107.jpg",
+      "original_bytes": 5204494,
+      "original_sha256": "31fcd6169e70b97ce6b10b457692944945b8d357ad83274c6252704bbbe9f37b",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_114107.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_114107.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_114107.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "17TN6BViOGH457rV2R0AlIKr2CVRfaWV7"
+    },
+    {
+      "source_filename": "20160702_120109.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/17_20160702_120109.jpg",
+      "original_bytes": 6317740,
+      "original_sha256": "2d4486bca7a99c9a103d9cc9ff1ac96569be980300b2bb52c9c724117968a486",
+      "display_oriented_width": 2988,
+      "display_oriented_height": 5312,
+      "exif_orientation": 6,
+      "site_filename": "20160702_120109.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_120109.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_120109.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1-jYFZr-uxQlqlKfD6siB6KncPZixhON2"
+    },
+    {
+      "source_filename": "20160702_120403.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/18_20160702_120403.jpg",
+      "original_bytes": 8300927,
+      "original_sha256": "47878b34bef3ffbd92f77302e2e1af31ca5c5e11956edc7035a3b0b0e7838e30",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_120403.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_120403.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_120403.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "17O3VOqIu0gu-mZ6yrVNbxfcPFoNFM_UG"
+    },
+    {
+      "source_filename": "20160702_120525.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/19_20160702_120525.jpg",
+      "original_bytes": 6891679,
+      "original_sha256": "cd8357a79ec6e37dc36119a6ff60c23d9ac650d47612945094af80f00781cb7e",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_120525.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_120525.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_120525.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1-fIzrgMog3a3U6svxGJmEMUR2OWF7X13"
     },
     {
       "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_120604.jpg",
       "source_filename": "20160702_120604.jpg",
       "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/08_20160702_120604.jpg",
+      "original_relative_path": "01 - Музей Форда/20_20160702_120604.jpg",
       "original_bytes": 5159381,
       "original_sha256": "8e73ae7d282c75095e32b379e44cf6231134cc3145bc3e079f6d4b08972fcfc3",
       "original_width": 5312,
@@ -245,10 +453,44 @@
       "drive_file_id": "1UMfu2ORzzuwLUTBALTVkdSTvFEBHwSdK"
     },
     {
+      "source_filename": "20160702_120653.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/21_20160702_120653.jpg",
+      "original_bytes": 5875984,
+      "original_sha256": "719976073f0a8246c7e76ea6448953d0510d24cd69fdef606a1cc489839f1319",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_120653.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_120653.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_120653.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1fmE4_Ino54py0nmgHRfXXdpKOjF44KxP"
+    },
+    {
+      "source_filename": "20160702_121114.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/22_20160702_121114.jpg",
+      "original_bytes": 5545147,
+      "original_sha256": "345b8a846df482656f48394b68a05f3e3e7785f5ee7790d67e53bc18d95dfac9",
+      "display_oriented_width": 2988,
+      "display_oriented_height": 5312,
+      "exif_orientation": 6,
+      "site_filename": "20160702_121114.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_121114.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_121114.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1eBrNZYq_3tQqnDez0IupVAew_gj8JF6L"
+    },
+    {
       "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_121352.jpg",
       "source_filename": "20160702_121352.jpg",
       "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/09_20160702_121352.jpg",
+      "original_relative_path": "01 - Музей Форда/23_20160702_121352.jpg",
       "original_bytes": 5782941,
       "original_sha256": "73da944cc707cd5532783689f2d2735d48eedc2a40991a374a7d70ac21e38511",
       "original_width": 5312,
@@ -261,10 +503,27 @@
       "drive_file_id": "1dTJZNvtPyXUruW7QyHwZRy9xSIV5OhM-"
     },
     {
+      "source_filename": "20160702_121417.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/24_20160702_121417.jpg",
+      "original_bytes": 6318203,
+      "original_sha256": "86a031726fed6cc73a33e33dd839872f501bb72af41d2a320e8d7ccbdca5c4c3",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_121417.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_121417.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_121417.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1spfay-QqUYdJq54Q7qH04kqyuyf1ISAu"
+    },
+    {
       "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_121625.jpg",
       "source_filename": "20160702_121625.jpg",
       "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/10_20160702_121625.jpg",
+      "original_relative_path": "01 - Музей Форда/25_20160702_121625.jpg",
       "original_bytes": 5154042,
       "original_sha256": "240f81dbdad68de2a562852abb1758be1159644c0c8cc5a81aa94ad8475d8edd",
       "original_width": 5312,
@@ -277,10 +536,27 @@
       "drive_file_id": "1MtYzqVn7HqaxP0TPeJsoRkgpZ_mjmPod"
     },
     {
+      "source_filename": "20160702_123403.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/26_20160702_123403.jpg",
+      "original_bytes": 5782726,
+      "original_sha256": "a2c392e2111cca5b4139641465ee86ea34df3e856e4614f4cf4443c3df0fa4fd",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_123403.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_123403.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_123403.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1YdCj3HuUX7u28oZPU8WrpJT2OdjCmkR5"
+    },
+    {
       "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_123549.jpg",
       "source_filename": "20160702_123549.jpg",
       "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/11_20160702_123549.jpg",
+      "original_relative_path": "01 - Музей Форда/27_20160702_123549.jpg",
       "original_bytes": 5299614,
       "original_sha256": "97a1daaa48d321e40486d3b5a620ee491c270a5aa0b2884c716275551143f73e",
       "original_width": 5312,
@@ -296,7 +572,7 @@
       "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_123703.jpg",
       "source_filename": "20160702_123703.jpg",
       "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/12_20160702_123703.jpg",
+      "original_relative_path": "01 - Музей Форда/28_20160702_123703.jpg",
       "original_bytes": 6022082,
       "original_sha256": "fdae71a142ff71e0deaecf86c791958fb49cdac43ce60ef712fa374cf2a31cab",
       "original_width": 5312,
@@ -312,7 +588,7 @@
       "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_124014.jpg",
       "source_filename": "20160702_124014.jpg",
       "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/13_20160702_124014.jpg",
+      "original_relative_path": "01 - Музей Форда/29_20160702_124014.jpg",
       "original_bytes": 5279070,
       "original_sha256": "374089fde306070147b4c94e523703fd9ec24af49a6858004ffa4b63e50fcc78",
       "original_width": 5312,
@@ -325,10 +601,27 @@
       "drive_file_id": "1SlZk1KjWso8z_uxf9T31baPwmIhzdQ0o"
     },
     {
+      "source_filename": "20160702_124603.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/30_20160702_124603.jpg",
+      "original_bytes": 4455265,
+      "original_sha256": "f76808c63a85b6efce7e38b0993f5b4a04136d93fd93528f5d2219ef589ebd7f",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_124603.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_124603.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_124603.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1ufCEFWsMYxxTb_zXtwIKTKG_39AVmY9-"
+    },
+    {
       "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_125204.jpg",
       "source_filename": "20160702_125204.jpg",
       "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/14_20160702_125204.jpg",
+      "original_relative_path": "01 - Музей Форда/31_20160702_125204.jpg",
       "original_bytes": 5924071,
       "original_sha256": "b2d0821cc0bb2263e750728b1f0b70cb0786dcae6bd3054a2306d1ec64e70b5f",
       "original_width": 5312,
@@ -341,10 +634,27 @@
       "drive_file_id": "1gwfjPc4vpLmsaGP-1lKRv3j9ynpBGRSF"
     },
     {
+      "source_filename": "20160702_125726.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/32_20160702_125726.jpg",
+      "original_bytes": 5615551,
+      "original_sha256": "df923daf109da24d0e457ed6978309830171cba2e32d6e1c150c6e74669f1e02",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_125726.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_125726.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_125726.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1STDJlfceQOVXE67zLO3aMoY3qk-eifiE"
+    },
+    {
       "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_130618.jpg",
       "source_filename": "20160702_130618.jpg",
       "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/15_20160702_130618.jpg",
+      "original_relative_path": "01 - Музей Форда/33_20160702_130618.jpg",
       "original_bytes": 5826408,
       "original_sha256": "c077190c46becfaa7230d0da31f05406221fb1c428dff4a7d29971f8f3d4506c",
       "original_width": 5312,
@@ -357,10 +667,27 @@
       "drive_file_id": "1srDsZ4w4frCL2E12mZnUPJzlKJ1tDJpA"
     },
     {
+      "source_filename": "20160702_130934.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/34_20160702_130934.jpg",
+      "original_bytes": 5412337,
+      "original_sha256": "addd2ac6a276b6e958df59daf313baac59485d896118b98c9aa540569bf77e01",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_130934.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_130934.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_130934.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1eTidJZXAaXEceEjJoCEJATAqjXpoAa7K"
+    },
+    {
       "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_131456.jpg",
       "source_filename": "20160702_131456.jpg",
       "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/16_20160702_131456.jpg",
+      "original_relative_path": "01 - Музей Форда/35_20160702_131456.jpg",
       "original_bytes": 4998528,
       "original_sha256": "100ec56385f1a24a7016f5136f2113d4898dce1ec9e1e62ab858c00365c30e41",
       "original_width": 5312,
@@ -373,10 +700,44 @@
       "drive_file_id": "1RY84MKuN8IvAmWPbNS0L08z2PuiH-4K8"
     },
     {
+      "source_filename": "20160702_132730.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Музей Форда/36_20160702_132730.jpg",
+      "original_bytes": 5489771,
+      "original_sha256": "ad2d2e12b412a61c495c7ecf5c52736993308fcbda0a167a0e43c30b41e7e1d1",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_132730.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_132730.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_132730.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1RCWJJDfYxeM5SQ2QzKFh5c0t0YXsHLGX"
+    },
+    {
+      "source_filename": "20160702_170452.jpg",
+      "chapter": "detroit",
+      "original_relative_path": "02 - Детройт/01_20160702_170452.jpg",
+      "original_bytes": 5288631,
+      "original_sha256": "2ce331188354ffbd5a6308b87bcb596cf0788226fd7625510b706195bc54972b",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_170452.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_170452.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_170452.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1Fr5nbVOzNUyZs_DYnIliSZUSM6nJ1SO8"
+    },
+    {
       "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_152534.jpg",
       "source_filename": "20160702_152534.jpg",
-      "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/17_20160702_152534.jpg",
+      "chapter": "detroit",
+      "original_relative_path": "02 - Детройт/02_20160702_152534.jpg",
       "original_bytes": 5587199,
       "original_sha256": "ca4e2b0f55dc73ee19327226d7d5aa0ef2d10e0c5b7966c6b1a9f6a235d46fbf",
       "original_width": 5312,
@@ -389,26 +750,44 @@
       "drive_file_id": "1tQZVQlJS00FS-d2a0R1IddszHlvS6FdU"
     },
     {
-      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_153304.jpg",
-      "source_filename": "20160702_153304.jpg",
-      "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/18_20160702_153304.jpg",
-      "original_bytes": 4860145,
-      "original_sha256": "23fd03d064feca8f88c99d13c5db470fe23a9996ca03972cc61d7c843cf42f95",
-      "original_width": 5312,
-      "original_height": 2988,
-      "exif_orientation": 6,
+      "source_filename": "20160702_153311.jpg",
+      "chapter": "detroit",
+      "original_relative_path": "02 - Детройт/03_20160702_153311.jpg",
+      "original_bytes": 5097355,
+      "original_sha256": "455cb1fc5d0316a7229f62801a73d151fffcdc78d98b9c964999166b8fb19267",
       "display_oriented_width": 2988,
       "display_oriented_height": 5312,
-      "site_filename": "20160702_153304.jpg",
-      "r2_key": "detroit-windsor-2016/story/20160702_153304.jpg",
-      "drive_file_id": "1xT62Q5N0OL_mCu9URC_4IF3YASGOLSgk"
+      "exif_orientation": 6,
+      "site_filename": "20160702_153311.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_153311.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_153311.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1lXAE8VuaDDNGZ-BM8ZXRgB82xys09VLT"
+    },
+    {
+      "source_filename": "20160702_155647.jpg",
+      "chapter": "detroit",
+      "original_relative_path": "02 - Детройт/04_20160702_155647.jpg",
+      "original_bytes": 5981712,
+      "original_sha256": "8d10805570473f7602eaf9faa4fa657d1351d33ef6982028ada0490e9353f1ca",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_155647.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_155647.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_155647.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1mwUw4ATaOGBY9zYi8ZSs_djIXbCbID_j"
     },
     {
       "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_160423.jpg",
       "source_filename": "20160702_160423.jpg",
-      "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/19_20160702_160423.jpg",
+      "chapter": "detroit",
+      "original_relative_path": "02 - Детройт/05_20160702_160423.jpg",
       "original_bytes": 4351685,
       "original_sha256": "28f6513135e00550ac7c89593737abcd4ec1fe5fe08f7613aaea6f573d6a6848",
       "original_width": 5312,
@@ -421,10 +800,112 @@
       "drive_file_id": "1tLf-48IVexa1qrk5LNzgu05uDeIxXsUL"
     },
     {
+      "chapter": "detroit",
+      "source_path": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2016 - Детройт и Виндзор\\02 - Детройт\\20160702_160745.jpg",
+      "source_filename": "20160702_160745.jpg",
+      "original_relative_path": "02 - Детройт/06_20160702_160745.jpg",
+      "original_bytes": 4349130,
+      "original_sha256": "3dc75d8f31ed7dc16ea299d51bf37a246fca0c85255f2dc592b2df96b8773387",
+      "original_width": 5312,
+      "original_height": 2988,
+      "exif_orientation": 6,
+      "display_oriented_width": 2988,
+      "display_oriented_height": 5312,
+      "site_filename": "20160702_160745.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_160745.jpg",
+      "owner_added_from_archive": true,
+      "drive_file_id": "1bADG8zGkqqF90b7jeX6n9TJlVj4t-ebd"
+    },
+    {
+      "source_filename": "20160702_161038.jpg",
+      "chapter": "detroit",
+      "original_relative_path": "02 - Детройт/07_20160702_161038.jpg",
+      "original_bytes": 5454621,
+      "original_sha256": "71aa1df519f2cfc383f5ffd5bda808e016bbe9fe3754d67bacf2e23979f8289d",
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "exif_orientation": 1,
+      "site_filename": "20160702_161038.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_161038.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_161038.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "147r7ts4czoq0uFGnnAQU3jWJMcuKOelW"
+    },
+    {
+      "chapter": "detroit",
+      "source_path": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2016 - Детройт и Виндзор\\02 - Детройт\\20160702_161109.jpg",
+      "source_filename": "20160702_161109.jpg",
+      "original_relative_path": "02 - Детройт/08_20160702_161109.jpg",
+      "original_bytes": 5618871,
+      "original_sha256": "d18aeb3b41fd3919d23cf2a663e2b3c560195b6ecfc4f30be57d76a56780f5f9",
+      "original_width": 5312,
+      "original_height": 2988,
+      "exif_orientation": 6,
+      "display_oriented_width": 2988,
+      "display_oriented_height": 5312,
+      "site_filename": "20160702_161109.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_161109.jpg",
+      "owner_added_from_archive": true,
+      "drive_file_id": "1wfghCPUpwBUIk5SkpngANFBd83V0rmfZ"
+    },
+    {
+      "chapter": "detroit",
+      "source_path": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2016 - Детройт и Виндзор\\02 - Детройт\\20160702_162034.jpg",
+      "source_filename": "20160702_162034.jpg",
+      "original_relative_path": "02 - Детройт/09_20160702_162034.jpg",
+      "original_bytes": 3333355,
+      "original_sha256": "7afe57d296692cb095942a2458c69bea1bda30e30db144f8e29fcab153392704",
+      "original_width": 5312,
+      "original_height": 2988,
+      "exif_orientation": 6,
+      "display_oriented_width": 2988,
+      "display_oriented_height": 5312,
+      "site_filename": "20160702_162034.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_162034.jpg",
+      "owner_added_from_archive": true,
+      "drive_file_id": "1n5_y03YXKZH5yohiRYTqDp2QA4akEdA6"
+    },
+    {
+      "source_filename": "20160702_162712.jpg",
+      "chapter": "detroit",
+      "original_relative_path": "02 - Детройт/10_20160702_162712.jpg",
+      "original_bytes": 4165109,
+      "original_sha256": "4973c366ce08ccc2bdee9d6bc40ed6af00a56b89a988a83d21e8b549975e911b",
+      "display_oriented_width": 2988,
+      "display_oriented_height": 5312,
+      "exif_orientation": 6,
+      "site_filename": "20160702_162712.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_162712.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_162712.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1A3ecPT9Fh7qHSDa3lY-foSTEzT2PlZ7l"
+    },
+    {
+      "chapter": "detroit",
+      "source_path": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2016 - Детройт и Виндзор\\02 - Детройт\\20160702_163824.jpg",
+      "source_filename": "20160702_163824.jpg",
+      "original_relative_path": "02 - Детройт/11_20160702_163824.jpg",
+      "original_bytes": 3972009,
+      "original_sha256": "4c89267a02fab37d5fe68dc3bb472c73f4f781a20fbe6f5b583feb0494708d40",
+      "original_width": 5312,
+      "original_height": 2988,
+      "exif_orientation": 1,
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "site_filename": "20160702_163824.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_163824.jpg",
+      "owner_added_from_archive": true,
+      "drive_file_id": "1dkmt8WRcN2SJadDBbCUovblyVo6yYBC9"
+    },
+    {
       "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_164913.jpg",
       "source_filename": "20160702_164913.jpg",
-      "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/20_20160702_164913.jpg",
+      "chapter": "detroit",
+      "original_relative_path": "02 - Детройт/12_20160702_164913.jpg",
       "original_bytes": 5160115,
       "original_sha256": "605ce4bc78865fc58c20a3a4933cff8852a45ecd126283938964a84db98434bb",
       "original_width": 5312,
@@ -437,42 +918,61 @@
       "drive_file_id": "18e6xw4-KPw56-CP9fJX_rk92kLFLLtzm"
     },
     {
-      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_161032.jpg",
-      "source_filename": "20160702_161032.jpg",
-      "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/21_20160702_161032.jpg",
-      "original_bytes": 4271206,
-      "original_sha256": "4ae4f9dc17660cfe51bd969742e0d2178e7c4b82359cb948e7925738c4bbe1be",
-      "original_width": 5312,
-      "original_height": 2988,
-      "exif_orientation": 6,
+      "source_filename": "20160702_171802.jpg",
+      "chapter": "detroit",
+      "original_relative_path": "02 - Детройт/13_20160702_171802.jpg",
+      "original_bytes": 5942785,
+      "original_sha256": "3ab30129efbe0aa37d468be5f606ca906b185fbfb42d1a252d42ac019cc5ba5a",
       "display_oriented_width": 2988,
       "display_oriented_height": 5312,
-      "site_filename": "20160702_161032.jpg",
-      "r2_key": "detroit-windsor-2016/story/20160702_161032.jpg",
-      "drive_file_id": "16oOtUYw1sVZVjAxfRP9X1GEVclaIcqDH"
-    },
-    {
-      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_171006.jpg",
-      "source_filename": "20160702_171006.jpg",
-      "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/22_20160702_171006.jpg",
-      "original_bytes": 4287918,
-      "original_sha256": "cb085ea336df3b1358a4202896ea8d913e1ec38ddf691aac99677c20da9e7896",
+      "exif_orientation": 6,
+      "site_filename": "20160702_171802.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_171802.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_171802.jpg",
+      "owner_added_from_archive": true,
       "original_width": 5312,
       "original_height": 2988,
-      "exif_orientation": 1,
+      "drive_file_id": "19ZBOzKJ8DsSOH1u6rV0Jowut9_7jikd0"
+    },
+    {
+      "source_filename": "20160702_171957.jpg",
+      "chapter": "detroit",
+      "original_relative_path": "02 - Детройт/14_20160702_171957.jpg",
+      "original_bytes": 5226332,
+      "original_sha256": "73fcb441253806f53d3de45b135bf9202a44e6f9d55dd5c36337c67ddd1faddf",
       "display_oriented_width": 5312,
       "display_oriented_height": 2988,
-      "site_filename": "20160702_171006.jpg",
-      "r2_key": "detroit-windsor-2016/story/20160702_171006.jpg",
-      "drive_file_id": "1dC7pSQCPNjxN5X5syHuWSu9Ww0auIypt"
+      "exif_orientation": 1,
+      "site_filename": "20160702_171957.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_171957.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_171957.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1mwh-lE8IA0qf1dJtbrOcZAymfD0PB6Zb"
+    },
+    {
+      "source_filename": "20160702_172049.jpg",
+      "chapter": "detroit",
+      "original_relative_path": "02 - Детройт/15_20160702_172049.jpg",
+      "original_bytes": 5661658,
+      "original_sha256": "6323fbd8efff3aca40d4a6b720a3856de09669c6c742633917912f057f7b4fd8",
+      "display_oriented_width": 2988,
+      "display_oriented_height": 5312,
+      "exif_orientation": 6,
+      "site_filename": "20160702_172049.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_172049.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_172049.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1Tem7f_Pgpj-CTvtOq7-EvL7ZXK0jsaAe"
     },
     {
       "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_180923.jpg",
       "source_filename": "20160702_180923.jpg",
-      "chapter": "story",
-      "original_relative_path": "01 - Детройт и Виндзор/23_20160702_180923.jpg",
+      "chapter": "detroit",
+      "original_relative_path": "02 - Детройт/16_20160702_180923.jpg",
       "original_bytes": 6143286,
       "original_sha256": "eac7ecd4783dc7366e664286d7cb330b63f11ea83fd0ace62a24441236fe3e4b",
       "original_width": 5312,
@@ -490,70 +990,15 @@
     "drive_sync_verified": true,
     "r2_verified": true,
     "drive_trip_folder_id": "1eyw_cW5hPRO5iUwpPjfedEghyY7EybR_",
-    "drive_sync_checked_at": "2026-10-20T16:41:33.529Z",
+    "drive_sync_checked_at": "2026-10-20T18:36:27.507Z",
     "drive_chapter_folder_id": "1nGNd5n_US2VSYTSCkdfPLwfqjmrVdzUP"
-  },
-  "layout": {
-    "hero": "20160702_112934.jpg",
-    "after2": [
-      "20160702_105538.jpg",
-      "20160702_110056.jpg",
-      "20160702_110348.jpg",
-      "20160702_111605.jpg",
-      "20160702_120227.jpg",
-      "20160702_114007.jpg",
-      "20160702_120604.jpg",
-      "20160702_121352.jpg",
-      "20160702_121625.jpg"
-    ],
-    "after3": [
-      "20160702_123549.jpg",
-      "20160702_123703.jpg",
-      "20160702_124014.jpg"
-    ],
-    "after4": [
-      "20160702_125204.jpg",
-      "20160702_130618.jpg",
-      "20160702_131456.jpg"
-    ],
-    "after5": [
-      "20160702_152534.jpg",
-      "20160702_153304.jpg",
-      "20160702_160423.jpg",
-      "20160702_164913.jpg",
-      "20160702_161032.jpg"
-    ],
-    "after6": [
-      "20160702_171006.jpg"
-    ],
-    "after7": [
-      "20160702_180923.jpg"
-    ]
   },
   "r2": {
     "status": "public-bytes-mime-sha256-verified",
     "photos": [
       {
-        "key": "detroit-windsor-2016/story/20160702_112934.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/01_20160702_112934.jpg",
-        "original_sha256": "3ecb502e009c649433777a3da494c65f199887ac1bf4f1ff2ec18372403b7159",
-        "w": 2000,
-        "h": 1125,
-        "bytes": 453027,
-        "sha256": "1ec956865782399180228349632560349122dfbc71aaa98b6def32bafb7e2da4",
-        "recipe": {
-          "exif_transpose": true,
-          "long_side_max": 2000,
-          "no_upscale": true,
-          "jpeg_quality": 85,
-          "optimize": true
-        },
-        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_112934.jpg",
-        "public_verified": true
-      },
-      {
         "key": "detroit-windsor-2016/story/20160702_105538.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/02_20160702_105538.jpg",
+        "original_relative_path": "01 - Музей Форда/01_20160702_105538.jpg",
         "original_sha256": "2a2f52066222cd3196e05136f23abf2c4d2f60aa74bf4a9784def4ee5a7d60cc",
         "w": 2000,
         "h": 1125,
@@ -570,13 +1015,13 @@
         "public_verified": true
       },
       {
-        "key": "detroit-windsor-2016/story/20160702_110056.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/03_20160702_110056.jpg",
-        "original_sha256": "308db4c2fc1ece1bf8d10d0efd07d03e570e02b37ad9392b5f9b09d58028624f",
+        "key": "detroit-windsor-2016/story/20160702_104915.jpg",
+        "original_relative_path": "01 - Музей Форда/02_20160702_104915.jpg",
+        "original_sha256": "3292d422c250791f49760ee8243c4c7eafd5377fb185d42e1a83736d39a0f995",
         "w": 1125,
         "h": 2000,
-        "bytes": 565909,
-        "sha256": "b47398ff620e8bc454de2f1fd6c261c86645e6d39652dd9ed6f3c1476c8407e4",
+        "bytes": 634687,
+        "sha256": "a6783804e9b8bee5ec25c3a643fe4c35f867bd908c2080767e21a87b6ca20039",
         "recipe": {
           "exif_transpose": true,
           "long_side_max": 2000,
@@ -584,12 +1029,84 @@
           "jpeg_quality": 85,
           "optimize": true
         },
-        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_110056.jpg",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_104915.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_105011.jpg",
+        "original_relative_path": "01 - Музей Форда/03_20160702_105011.jpg",
+        "original_sha256": "4f2f229b6ce101f64ef55fd2b059cd2dcefee1b057593ee33575e96783c39794",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 487782,
+        "sha256": "763fa681ceaa4ef01208771a41d90b21550e8eb4d1458e3add543c5d9e899c6e",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_105011.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_105404.jpg",
+        "original_relative_path": "01 - Музей Форда/04_20160702_105404.jpg",
+        "original_sha256": "bf9f4c1c992b46248d9614ec8cb4ffeb26f9b1a6ccc83ef668dbd37ec1c1fc9c",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 440655,
+        "sha256": "1beceb8248961928020832e893dd0a992cd885de6cdbea0529b0add781daa75b",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_105404.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_105900.jpg",
+        "original_relative_path": "01 - Музей Форда/05_20160702_105900.jpg",
+        "original_sha256": "ee0c708872f1b2f4668cb4a58438cacb14bf166d6cd4de29f07efb8cdd429f2d",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 436393,
+        "sha256": "61b1edecb07d5a978d827e8273adf4403e886494903d144aed4bf3207fd79354",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_105900.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_110331.jpg",
+        "original_relative_path": "01 - Музей Форда/06_20160702_110331.jpg",
+        "original_sha256": "78a18a87f4a4246129cede6062dd2ade5da36aea617eb5ef7c5c9dcdc2bc86bd",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 512296,
+        "sha256": "9b51d7890bcf51008c574ab3474a83e9765e8af0239eef9886b98f11695a8b7b",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_110331.jpg",
         "public_verified": true
       },
       {
         "key": "detroit-windsor-2016/story/20160702_110348.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/04_20160702_110348.jpg",
+        "original_relative_path": "01 - Музей Форда/07_20160702_110348.jpg",
         "original_sha256": "a1b7adc133e8e010e02fc443cd19d28e51f10779ff1a5827e41451e91a74a92c",
         "w": 1125,
         "h": 2000,
@@ -606,13 +1123,49 @@
         "public_verified": true
       },
       {
-        "key": "detroit-windsor-2016/story/20160702_111605.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/05_20160702_111605.jpg",
-        "original_sha256": "c610d2efb05aeb24f483086b93cc3be5d7329da0cd8a74ed52eba846271b589c",
+        "key": "detroit-windsor-2016/story/20160702_110407.jpg",
+        "original_relative_path": "01 - Музей Форда/08_20160702_110407.jpg",
+        "original_sha256": "c6b6f3a0383d0f52e47787fa26112a6996351b3100ac2d0d7c85fab8cf017f7c",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 332538,
+        "sha256": "890695bfe6c92d29e4f31f43841fbf3e33cf6e7b948bf8d35117e1a59acfa7cc",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_110407.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_110453.jpg",
+        "original_relative_path": "01 - Музей Форда/09_20160702_110453.jpg",
+        "original_sha256": "785fd29dc596ca1491fc398cfbc48ce7f96c692a8c691e2c12f2c6b586775e44",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 440165,
+        "sha256": "b31809a879909a36cfdded656a79c13af100941d3524068da4691eaae1de05f9",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_110453.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_110503.jpg",
+        "original_relative_path": "01 - Музей Форда/10_20160702_110503.jpg",
+        "original_sha256": "51443b4a19c23e0644e67e50bf2e54693138a5422750ffe37db675f2a41a8413",
         "w": 1125,
         "h": 2000,
-        "bytes": 320645,
-        "sha256": "31e913876b870a4abd5da98423529cd02e6884ca0e71b6dfbf5888673e30ecb5",
+        "bytes": 311622,
+        "sha256": "222a36932c3e3ed9404bdbcfe4da24e8bf912d2a871dadbe3d5b92f3b54b36a6",
         "recipe": {
           "exif_transpose": true,
           "long_side_max": 2000,
@@ -620,17 +1173,17 @@
           "jpeg_quality": 85,
           "optimize": true
         },
-        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_111605.jpg",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_110503.jpg",
         "public_verified": true
       },
       {
-        "key": "detroit-windsor-2016/story/20160702_120227.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/06_20160702_120227.jpg",
-        "original_sha256": "3c1af739f27e4f88c52cfe6c664650070b6d9a3fab0a9c53ea981783c3dc6fb7",
+        "key": "detroit-windsor-2016/story/20160702_111037.jpg",
+        "original_relative_path": "01 - Музей Форда/11_20160702_111037.jpg",
+        "original_sha256": "031e92df3340c037e4c353f4cae43c08627a3e36139fb75c6387d090d9852bb6",
         "w": 2000,
         "h": 1125,
-        "bytes": 514534,
-        "sha256": "48d8fc0b6d7347a8d1430959450d046405dcc7b9f2bc3ff56e855ffda177248a",
+        "bytes": 462555,
+        "sha256": "1d8120be126ebf7258637c2809b35eed4b6303bcd44fd69db27367849ac09509",
         "recipe": {
           "exif_transpose": true,
           "long_side_max": 2000,
@@ -638,17 +1191,17 @@
           "jpeg_quality": 85,
           "optimize": true
         },
-        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_120227.jpg",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_111037.jpg",
         "public_verified": true
       },
       {
-        "key": "detroit-windsor-2016/story/20160702_114007.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/07_20160702_114007.jpg",
-        "original_sha256": "b440555284b918d2b2a86bc0b9a11d9c382d21e47dabea89fa315edc32a4e4b5",
+        "key": "detroit-windsor-2016/story/20160702_111414.jpg",
+        "original_relative_path": "01 - Музей Форда/12_20160702_111414.jpg",
+        "original_sha256": "09c8074621e4ae4b9c7053e14d06dbda5687b41fc6293fb62a42085328c39bbe",
         "w": 2000,
         "h": 1125,
-        "bytes": 437464,
-        "sha256": "8a8b447becd6169d765a92e0f7f3ba188a30f449df3746891c730f6440ace4fe",
+        "bytes": 403441,
+        "sha256": "724c98849f90a0567f473e86a57f929abfd4e936dfe61a63bfb967ea9dc96bbf",
         "recipe": {
           "exif_transpose": true,
           "long_side_max": 2000,
@@ -656,12 +1209,138 @@
           "jpeg_quality": 85,
           "optimize": true
         },
-        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_114007.jpg",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_111414.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_112934.jpg",
+        "original_relative_path": "01 - Музей Форда/13_20160702_112934.jpg",
+        "original_sha256": "3ecb502e009c649433777a3da494c65f199887ac1bf4f1ff2ec18372403b7159",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 453027,
+        "sha256": "1ec956865782399180228349632560349122dfbc71aaa98b6def32bafb7e2da4",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_112934.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_113252.jpg",
+        "original_relative_path": "01 - Музей Форда/14_20160702_113252.jpg",
+        "original_sha256": "33423a8b2cc1542f6d93973bca99afde3b598a254d106a849e556cb43aa6acd5",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 387789,
+        "sha256": "c116aa922141d0bf9d19ea6f33453c54a7f2d5448aeb79c3d70e34b98d7270b0",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_113252.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_114009.jpg",
+        "original_relative_path": "01 - Музей Форда/15_20160702_114009.jpg",
+        "original_sha256": "3461df13d10eda6fba6ac56a9aa1a98ec0879d208964c07333bcb7b3053653c4",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 442765,
+        "sha256": "5c5e20b1e6a681531aadc0694462ace88aedcef51adca7fada681732316d4291",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_114009.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_114107.jpg",
+        "original_relative_path": "01 - Музей Форда/16_20160702_114107.jpg",
+        "original_sha256": "31fcd6169e70b97ce6b10b457692944945b8d357ad83274c6252704bbbe9f37b",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 353933,
+        "sha256": "e48dc384784425e7e68318d992f849294408d97038b31a0ac22ddfad2c50dbe1",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_114107.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_120109.jpg",
+        "original_relative_path": "01 - Музей Форда/17_20160702_120109.jpg",
+        "original_sha256": "2d4486bca7a99c9a103d9cc9ff1ac96569be980300b2bb52c9c724117968a486",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 536382,
+        "sha256": "f37491791dd0e81c6d6fd141bb9d16941b602ef1f189d2318c79b7b41ab9236f",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_120109.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_120403.jpg",
+        "original_relative_path": "01 - Музей Форда/18_20160702_120403.jpg",
+        "original_sha256": "47878b34bef3ffbd92f77302e2e1af31ca5c5e11956edc7035a3b0b0e7838e30",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 706051,
+        "sha256": "f8bb6c1ab7c0dbea4dd21807aa8d216405afb118488b90ac8a8daffe2b8595cb",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_120403.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_120525.jpg",
+        "original_relative_path": "01 - Музей Форда/19_20160702_120525.jpg",
+        "original_sha256": "cd8357a79ec6e37dc36119a6ff60c23d9ac650d47612945094af80f00781cb7e",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 575736,
+        "sha256": "766c465b1f38146331c8e280cedcd47e04bf3bf2d3b03b33d664bf991da54820",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_120525.jpg",
         "public_verified": true
       },
       {
         "key": "detroit-windsor-2016/story/20160702_120604.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/08_20160702_120604.jpg",
+        "original_relative_path": "01 - Музей Форда/20_20160702_120604.jpg",
         "original_sha256": "8e73ae7d282c75095e32b379e44cf6231134cc3145bc3e079f6d4b08972fcfc3",
         "w": 2000,
         "h": 1125,
@@ -678,8 +1357,44 @@
         "public_verified": true
       },
       {
+        "key": "detroit-windsor-2016/story/20160702_120653.jpg",
+        "original_relative_path": "01 - Музей Форда/21_20160702_120653.jpg",
+        "original_sha256": "719976073f0a8246c7e76ea6448953d0510d24cd69fdef606a1cc489839f1319",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 424219,
+        "sha256": "44b69f17a2f8307177307fcfbbfd075c4da00d1f6f8537cca1cd3d85456c0d29",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_120653.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_121114.jpg",
+        "original_relative_path": "01 - Музей Форда/22_20160702_121114.jpg",
+        "original_sha256": "345b8a846df482656f48394b68a05f3e3e7785f5ee7790d67e53bc18d95dfac9",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 361043,
+        "sha256": "9a251dca05d8d2bfb1ad250abb521636fcf6401a4004447c300e1fbc42663eba",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_121114.jpg",
+        "public_verified": true
+      },
+      {
         "key": "detroit-windsor-2016/story/20160702_121352.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/09_20160702_121352.jpg",
+        "original_relative_path": "01 - Музей Форда/23_20160702_121352.jpg",
         "original_sha256": "73da944cc707cd5532783689f2d2735d48eedc2a40991a374a7d70ac21e38511",
         "w": 2000,
         "h": 1125,
@@ -696,8 +1411,26 @@
         "public_verified": true
       },
       {
+        "key": "detroit-windsor-2016/story/20160702_121417.jpg",
+        "original_relative_path": "01 - Музей Форда/24_20160702_121417.jpg",
+        "original_sha256": "86a031726fed6cc73a33e33dd839872f501bb72af41d2a320e8d7ccbdca5c4c3",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 500316,
+        "sha256": "4bea41fe2aac2063ffa1722b3f3a1b7ba43a383567e68823cc20cfa15ad2d3f8",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_121417.jpg",
+        "public_verified": true
+      },
+      {
         "key": "detroit-windsor-2016/story/20160702_121625.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/10_20160702_121625.jpg",
+        "original_relative_path": "01 - Музей Форда/25_20160702_121625.jpg",
         "original_sha256": "240f81dbdad68de2a562852abb1758be1159644c0c8cc5a81aa94ad8475d8edd",
         "w": 2000,
         "h": 1125,
@@ -714,8 +1447,26 @@
         "public_verified": true
       },
       {
+        "key": "detroit-windsor-2016/story/20160702_123403.jpg",
+        "original_relative_path": "01 - Музей Форда/26_20160702_123403.jpg",
+        "original_sha256": "a2c392e2111cca5b4139641465ee86ea34df3e856e4614f4cf4443c3df0fa4fd",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 405156,
+        "sha256": "1148cff777cec8d4e7e895e135a9f3d77208beaee532c044c38b099736b3b08f",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_123403.jpg",
+        "public_verified": true
+      },
+      {
         "key": "detroit-windsor-2016/story/20160702_123549.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/11_20160702_123549.jpg",
+        "original_relative_path": "01 - Музей Форда/27_20160702_123549.jpg",
         "original_sha256": "97a1daaa48d321e40486d3b5a620ee491c270a5aa0b2884c716275551143f73e",
         "w": 1125,
         "h": 2000,
@@ -733,7 +1484,7 @@
       },
       {
         "key": "detroit-windsor-2016/story/20160702_123703.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/12_20160702_123703.jpg",
+        "original_relative_path": "01 - Музей Форда/28_20160702_123703.jpg",
         "original_sha256": "fdae71a142ff71e0deaecf86c791958fb49cdac43ce60ef712fa374cf2a31cab",
         "w": 1125,
         "h": 2000,
@@ -751,7 +1502,7 @@
       },
       {
         "key": "detroit-windsor-2016/story/20160702_124014.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/13_20160702_124014.jpg",
+        "original_relative_path": "01 - Музей Форда/29_20160702_124014.jpg",
         "original_sha256": "374089fde306070147b4c94e523703fd9ec24af49a6858004ffa4b63e50fcc78",
         "w": 2000,
         "h": 1125,
@@ -768,8 +1519,26 @@
         "public_verified": true
       },
       {
+        "key": "detroit-windsor-2016/story/20160702_124603.jpg",
+        "original_relative_path": "01 - Музей Форда/30_20160702_124603.jpg",
+        "original_sha256": "f76808c63a85b6efce7e38b0993f5b4a04136d93fd93528f5d2219ef589ebd7f",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 282481,
+        "sha256": "6ed43049128d4aa67f1fc838f16c46dbc5852b2938976b6b3e2e033cb85fb0e4",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_124603.jpg",
+        "public_verified": true
+      },
+      {
         "key": "detroit-windsor-2016/story/20160702_125204.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/14_20160702_125204.jpg",
+        "original_relative_path": "01 - Музей Форда/31_20160702_125204.jpg",
         "original_sha256": "b2d0821cc0bb2263e750728b1f0b70cb0786dcae6bd3054a2306d1ec64e70b5f",
         "w": 2000,
         "h": 1125,
@@ -786,8 +1555,26 @@
         "public_verified": true
       },
       {
+        "key": "detroit-windsor-2016/story/20160702_125726.jpg",
+        "original_relative_path": "01 - Музей Форда/32_20160702_125726.jpg",
+        "original_sha256": "df923daf109da24d0e457ed6978309830171cba2e32d6e1c150c6e74669f1e02",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 353058,
+        "sha256": "ef92034e10cdc457463760f06db74ec4f00243c80e7e32000476afde3b276625",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_125726.jpg",
+        "public_verified": true
+      },
+      {
         "key": "detroit-windsor-2016/story/20160702_130618.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/15_20160702_130618.jpg",
+        "original_relative_path": "01 - Музей Форда/33_20160702_130618.jpg",
         "original_sha256": "c077190c46becfaa7230d0da31f05406221fb1c428dff4a7d29971f8f3d4506c",
         "w": 1125,
         "h": 2000,
@@ -804,8 +1591,26 @@
         "public_verified": true
       },
       {
+        "key": "detroit-windsor-2016/story/20160702_130934.jpg",
+        "original_relative_path": "01 - Музей Форда/34_20160702_130934.jpg",
+        "original_sha256": "addd2ac6a276b6e958df59daf313baac59485d896118b98c9aa540569bf77e01",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 365796,
+        "sha256": "ca1ae8961a6d36de64ae7a0e09e9c933498bbac0319af06d9cb564c0038e513a",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_130934.jpg",
+        "public_verified": true
+      },
+      {
         "key": "detroit-windsor-2016/story/20160702_131456.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/16_20160702_131456.jpg",
+        "original_relative_path": "01 - Музей Форда/35_20160702_131456.jpg",
         "original_sha256": "100ec56385f1a24a7016f5136f2113d4898dce1ec9e1e62ab858c00365c30e41",
         "w": 2000,
         "h": 1125,
@@ -822,8 +1627,44 @@
         "public_verified": true
       },
       {
+        "key": "detroit-windsor-2016/story/20160702_132730.jpg",
+        "original_relative_path": "01 - Музей Форда/36_20160702_132730.jpg",
+        "original_sha256": "ad2d2e12b412a61c495c7ecf5c52736993308fcbda0a167a0e43c30b41e7e1d1",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 367254,
+        "sha256": "69355f70832f6cd7a1c5f860b32bf2fa5556ff02b4db0783827fda9b949a2dcd",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_132730.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_170452.jpg",
+        "original_relative_path": "02 - Детройт/01_20160702_170452.jpg",
+        "original_sha256": "2ce331188354ffbd5a6308b87bcb596cf0788226fd7625510b706195bc54972b",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 392955,
+        "sha256": "6d78e955d20da017e566fcda960341cc7f5a0d978fab7d68922eacfdde3e319d",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_170452.jpg",
+        "public_verified": true
+      },
+      {
         "key": "detroit-windsor-2016/story/20160702_152534.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/17_20160702_152534.jpg",
+        "original_relative_path": "02 - Детройт/02_20160702_152534.jpg",
         "original_sha256": "ca4e2b0f55dc73ee19327226d7d5aa0ef2d10e0c5b7966c6b1a9f6a235d46fbf",
         "w": 1125,
         "h": 2000,
@@ -840,13 +1681,13 @@
         "public_verified": true
       },
       {
-        "key": "detroit-windsor-2016/story/20160702_153304.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/18_20160702_153304.jpg",
-        "original_sha256": "23fd03d064feca8f88c99d13c5db470fe23a9996ca03972cc61d7c843cf42f95",
+        "key": "detroit-windsor-2016/story/20160702_153311.jpg",
+        "original_relative_path": "02 - Детройт/03_20160702_153311.jpg",
+        "original_sha256": "455cb1fc5d0316a7229f62801a73d151fffcdc78d98b9c964999166b8fb19267",
         "w": 1125,
         "h": 2000,
-        "bytes": 208886,
-        "sha256": "ad7b83594f87915d0c4582aa2aba0fec221c2d783b73d8454eb8d9c9d939b235",
+        "bytes": 242062,
+        "sha256": "eb164664776d08e71f57695efe87473e6c81df26712061d58ba267946def771c",
         "recipe": {
           "exif_transpose": true,
           "long_side_max": 2000,
@@ -854,12 +1695,30 @@
           "jpeg_quality": 85,
           "optimize": true
         },
-        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_153304.jpg",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_153311.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_155647.jpg",
+        "original_relative_path": "02 - Детройт/04_20160702_155647.jpg",
+        "original_sha256": "8d10805570473f7602eaf9faa4fa657d1351d33ef6982028ada0490e9353f1ca",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 407667,
+        "sha256": "2c50532e7bca83cbacff33d368c09882c71807b68773b66f7234ba0f2aee0b18",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_155647.jpg",
         "public_verified": true
       },
       {
         "key": "detroit-windsor-2016/story/20160702_160423.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/19_20160702_160423.jpg",
+        "original_relative_path": "02 - Детройт/05_20160702_160423.jpg",
         "original_sha256": "28f6513135e00550ac7c89593737abcd4ec1fe5fe08f7613aaea6f573d6a6848",
         "w": 2000,
         "h": 1125,
@@ -876,8 +1735,116 @@
         "public_verified": true
       },
       {
+        "key": "detroit-windsor-2016/story/20160702_160745.jpg",
+        "original_relative_path": "02 - Детройт/06_20160702_160745.jpg",
+        "original_sha256": "3dc75d8f31ed7dc16ea299d51bf37a246fca0c85255f2dc592b2df96b8773387",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 381594,
+        "sha256": "7df428466e8b8b65797d677fbbc070fca315044301552f3fc14d1450c7c7dcf0",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_160745.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_161038.jpg",
+        "original_relative_path": "02 - Детройт/07_20160702_161038.jpg",
+        "original_sha256": "71aa1df519f2cfc383f5ffd5bda808e016bbe9fe3754d67bacf2e23979f8289d",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 575049,
+        "sha256": "2ce6031d47f1e23c1ecc7328d43dcc5383224026df7a3231ce579e740158673b",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_161038.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_161109.jpg",
+        "original_relative_path": "02 - Детройт/08_20160702_161109.jpg",
+        "original_sha256": "d18aeb3b41fd3919d23cf2a663e2b3c560195b6ecfc4f30be57d76a56780f5f9",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 344915,
+        "sha256": "12c029da6287f4ae847558a1a532f49427453b9de052b2791d0c6575c35cce42",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_161109.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_162034.jpg",
+        "original_relative_path": "02 - Детройт/09_20160702_162034.jpg",
+        "original_sha256": "7afe57d296692cb095942a2458c69bea1bda30e30db144f8e29fcab153392704",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 258481,
+        "sha256": "22c6a6b9870bd7ed9383b809e00abbb4fd28574997425ae4fafce194eb7308aa",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_162034.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_162712.jpg",
+        "original_relative_path": "02 - Детройт/10_20160702_162712.jpg",
+        "original_sha256": "4973c366ce08ccc2bdee9d6bc40ed6af00a56b89a988a83d21e8b549975e911b",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 340663,
+        "sha256": "2ae35ec53f0ab4b5c40a37ce692a11922efecb59684bd6c0e69e26f3e860d62b",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_162712.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_163824.jpg",
+        "original_relative_path": "02 - Детройт/11_20160702_163824.jpg",
+        "original_sha256": "4c89267a02fab37d5fe68dc3bb472c73f4f781a20fbe6f5b583feb0494708d40",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 200918,
+        "sha256": "280f5beddd7c86e68593ed72b2508398bd077007492df1a2d71d0f2ad090eab1",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_163824.jpg",
+        "public_verified": true
+      },
+      {
         "key": "detroit-windsor-2016/story/20160702_164913.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/20_20160702_164913.jpg",
+        "original_relative_path": "02 - Детройт/12_20160702_164913.jpg",
         "original_sha256": "605ce4bc78865fc58c20a3a4933cff8852a45ecd126283938964a84db98434bb",
         "w": 2000,
         "h": 1125,
@@ -894,13 +1861,13 @@
         "public_verified": true
       },
       {
-        "key": "detroit-windsor-2016/story/20160702_161032.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/21_20160702_161032.jpg",
-        "original_sha256": "4ae4f9dc17660cfe51bd969742e0d2178e7c4b82359cb948e7925738c4bbe1be",
+        "key": "detroit-windsor-2016/story/20160702_171802.jpg",
+        "original_relative_path": "02 - Детройт/13_20160702_171802.jpg",
+        "original_sha256": "3ab30129efbe0aa37d468be5f606ca906b185fbfb42d1a252d42ac019cc5ba5a",
         "w": 1125,
         "h": 2000,
-        "bytes": 390858,
-        "sha256": "12e001bd42635365b1839f680e00feb7378d42ad11d68267d5535f6977ac4952",
+        "bytes": 465920,
+        "sha256": "20b5d916246815fcdecbdaac264f533efa789fa70f57191b5dce047cd70eb931",
         "recipe": {
           "exif_transpose": true,
           "long_side_max": 2000,
@@ -908,17 +1875,17 @@
           "jpeg_quality": 85,
           "optimize": true
         },
-        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_161032.jpg",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_171802.jpg",
         "public_verified": true
       },
       {
-        "key": "detroit-windsor-2016/story/20160702_171006.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/22_20160702_171006.jpg",
-        "original_sha256": "cb085ea336df3b1358a4202896ea8d913e1ec38ddf691aac99677c20da9e7896",
+        "key": "detroit-windsor-2016/story/20160702_171957.jpg",
+        "original_relative_path": "02 - Детройт/14_20160702_171957.jpg",
+        "original_sha256": "73fcb441253806f53d3de45b135bf9202a44e6f9d55dd5c36337c67ddd1faddf",
         "w": 2000,
         "h": 1125,
-        "bytes": 213696,
-        "sha256": "32799c58f02939367687d85b304e5b75baa48acbab93e77b729249e96a1075bc",
+        "bytes": 374563,
+        "sha256": "a1c7df5fb4cd446781ce5b64dee7dedca4fb8a235cb74b59e3e68f03bc623ddd",
         "recipe": {
           "exif_transpose": true,
           "long_side_max": 2000,
@@ -926,12 +1893,30 @@
           "jpeg_quality": 85,
           "optimize": true
         },
-        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_171006.jpg",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_171957.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/story/20160702_172049.jpg",
+        "original_relative_path": "02 - Детройт/15_20160702_172049.jpg",
+        "original_sha256": "6323fbd8efff3aca40d4a6b720a3856de09669c6c742633917912f057f7b4fd8",
+        "w": 1125,
+        "h": 2000,
+        "bytes": 374693,
+        "sha256": "162a42d5137facd6755718306d0bbdcf2a2d3a14f804099aaa5bf9a0c74a443a",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_172049.jpg",
         "public_verified": true
       },
       {
         "key": "detroit-windsor-2016/story/20160702_180923.jpg",
-        "original_relative_path": "01 - Детройт и Виндзор/23_20160702_180923.jpg",
+        "original_relative_path": "02 - Детройт/16_20160702_180923.jpg",
         "original_sha256": "eac7ecd4783dc7366e664286d7cb330b63f11ea83fd0ace62a24441236fe3e4b",
         "w": 2000,
         "h": 1125,
@@ -946,32 +1931,49 @@
         },
         "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_180923.jpg",
         "public_verified": true
+      },
+      {
+        "key": "detroit-windsor-2016/cover/20160806_133129.jpg",
+        "original_relative_path": "00 - Обложка/01_20160806_133129.jpg",
+        "original_sha256": "9b69c53171bf50d0cf5f7f8a27f36b78d1d9ee1f1eb7fe00ba87091b5247e962",
+        "w": 2000,
+        "h": 1125,
+        "bytes": 320077,
+        "sha256": "3203c1261b6b17a22b3032764f6a2b28097182f9355351e97c52a731791189c3",
+        "recipe": {
+          "exif_transpose": true,
+          "long_side_max": 2000,
+          "no_upscale": true,
+          "jpeg_quality": 85,
+          "optimize": true
+        },
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/cover/20160806_133129.jpg",
+        "public_verified": true
       }
     ],
-    "verified_at": "2026-10-20T16:41:44.877Z"
+    "verified_at": "2026-10-20T18:37:31.839Z"
   },
-  "cover_image": "20160702_112934.jpg",
+  "cover_image": "20160806_133129.jpg",
   "verification": {
-    "checked_at": "2026-10-20T16:42:19.465Z",
-    "originals": 23,
-    "public_r2_files": 23,
+    "checked_at": "2026-10-20T18:33:09.804Z",
+    "production_base": "dde8d4b",
     "production_build": true,
     "production_with_drafts": true,
-    "viewport_widths": [
-      1280,
-      390
-    ],
-    "horizontal_overflow": false,
-    "lightbox": "1/23 -> 2/23; 23/23 -> 1/23",
-    "publication": "local draft; site not published",
-    "author_paragraphs_exact_except_listed_typos": 8,
-    "production_base": "dde8d4b",
-    "short_trip_collection": "usa",
-    "geographic_tags": [
-      "detroit",
-      "dearborn"
-    ],
-    "typos_only": 3
+    "source_paragraphs": 8,
+    "approved_typos": 3,
+    "approved_paragraph_split": 5,
+    "chapter_photos": {
+      "story": 36,
+      "detroit": 12
+    },
+    "active_r2_files": 49,
+    "drive_originals": 50,
+    "chapter_covers": false,
+    "trip_cover": "20160806_133129.jpg",
+    "reference_images_not_rendered": true,
+    "only_owner_requested_artwork_captions": true,
+    "mobile_overflow": false,
+    "publication": "local draft, not published"
   },
   "display_title": "Детройт и музей Форда",
   "short_trip": "usa",
@@ -1012,6 +2014,596 @@
       "paragraph": 7,
       "from": "канадкой",
       "to": "канадской"
+    }
+  ],
+  "removed_by_owner": [
+    {
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_110056.jpg",
+      "source_filename": "20160702_110056.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Детройт и Виндзор/03_20160702_110056.jpg",
+      "original_bytes": 5404405,
+      "original_sha256": "308db4c2fc1ece1bf8d10d0efd07d03e570e02b37ad9392b5f9b09d58028624f",
+      "original_width": 5312,
+      "original_height": 2988,
+      "exif_orientation": 6,
+      "display_oriented_width": 2988,
+      "display_oriented_height": 5312,
+      "site_filename": "20160702_110056.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_110056.jpg",
+      "drive_file_id": "1qp0k9FgJzUlBzLfroAKT58-3GIuJRn3i",
+      "removed_at": "2026-10-20T18:16:36.370111+00:00",
+      "status": "removed-from-active-archive-by-owner"
+    },
+    {
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_111605.jpg",
+      "source_filename": "20160702_111605.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Детройт и Виндзор/05_20160702_111605.jpg",
+      "original_bytes": 2582768,
+      "original_sha256": "c610d2efb05aeb24f483086b93cc3be5d7329da0cd8a74ed52eba846271b589c",
+      "original_width": 5312,
+      "original_height": 2988,
+      "exif_orientation": 6,
+      "display_oriented_width": 2988,
+      "display_oriented_height": 5312,
+      "site_filename": "20160702_111605.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_111605.jpg",
+      "drive_file_id": "1lj5xKKO5mD7jkQrQXAYVh_2CsP0zEmUJ",
+      "removed_at": "2026-10-20T18:16:36.370111+00:00",
+      "status": "removed-from-active-archive-by-owner"
+    },
+    {
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_120227.jpg",
+      "source_filename": "20160702_120227.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Детройт и Виндзор/06_20160702_120227.jpg",
+      "original_bytes": 6413569,
+      "original_sha256": "3c1af739f27e4f88c52cfe6c664650070b6d9a3fab0a9c53ea981783c3dc6fb7",
+      "original_width": 5312,
+      "original_height": 2988,
+      "exif_orientation": 1,
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "site_filename": "20160702_120227.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_120227.jpg",
+      "drive_file_id": "1QR-R3I110fcjbRTHpcAw50BtDf7F0jfC",
+      "removed_at": "2026-10-20T18:16:36.370111+00:00",
+      "status": "removed-from-active-archive-by-owner"
+    },
+    {
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_114007.jpg",
+      "source_filename": "20160702_114007.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Детройт и Виндзор/07_20160702_114007.jpg",
+      "original_bytes": 5771733,
+      "original_sha256": "b440555284b918d2b2a86bc0b9a11d9c382d21e47dabea89fa315edc32a4e4b5",
+      "original_width": 5312,
+      "original_height": 2988,
+      "exif_orientation": 1,
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "site_filename": "20160702_114007.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_114007.jpg",
+      "drive_file_id": "1SAx7Y1Ui0-CZ35OY8mGHOC-Wt4N_Pv8O",
+      "removed_at": "2026-10-20T18:16:36.370111+00:00",
+      "status": "removed-from-active-archive-by-owner"
+    },
+    {
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_153304.jpg",
+      "source_filename": "20160702_153304.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Детройт и Виндзор/18_20160702_153304.jpg",
+      "original_bytes": 4860145,
+      "original_sha256": "23fd03d064feca8f88c99d13c5db470fe23a9996ca03972cc61d7c843cf42f95",
+      "original_width": 5312,
+      "original_height": 2988,
+      "exif_orientation": 6,
+      "display_oriented_width": 2988,
+      "display_oriented_height": 5312,
+      "site_filename": "20160702_153304.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_153304.jpg",
+      "drive_file_id": "1xT62Q5N0OL_mCu9URC_4IF3YASGOLSgk",
+      "removed_at": "2026-10-20T18:16:36.370111+00:00",
+      "status": "removed-from-active-archive-by-owner"
+    },
+    {
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_161032.jpg",
+      "source_filename": "20160702_161032.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Детройт и Виндзор/21_20160702_161032.jpg",
+      "original_bytes": 4271206,
+      "original_sha256": "4ae4f9dc17660cfe51bd969742e0d2178e7c4b82359cb948e7925738c4bbe1be",
+      "original_width": 5312,
+      "original_height": 2988,
+      "exif_orientation": 6,
+      "display_oriented_width": 2988,
+      "display_oriented_height": 5312,
+      "site_filename": "20160702_161032.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_161032.jpg",
+      "drive_file_id": "16oOtUYw1sVZVjAxfRP9X1GEVclaIcqDH",
+      "removed_at": "2026-10-20T18:16:36.370111+00:00",
+      "status": "removed-from-active-archive-by-owner"
+    },
+    {
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_171006.jpg",
+      "source_filename": "20160702_171006.jpg",
+      "chapter": "story",
+      "original_relative_path": "01 - Детройт и Виндзор/22_20160702_171006.jpg",
+      "original_bytes": 4287918,
+      "original_sha256": "cb085ea336df3b1358a4202896ea8d913e1ec38ddf691aac99677c20da9e7896",
+      "original_width": 5312,
+      "original_height": 2988,
+      "exif_orientation": 1,
+      "display_oriented_width": 5312,
+      "display_oriented_height": 2988,
+      "site_filename": "20160702_171006.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_171006.jpg",
+      "drive_file_id": "1dC7pSQCPNjxN5X5syHuWSu9Ww0auIypt",
+      "removed_at": "2026-10-20T18:16:36.370111+00:00",
+      "status": "removed-from-active-archive-by-owner"
+    }
+  ],
+  "chapters": {
+    "story": {
+      "title": "Музей Форда",
+      "weight": 1,
+      "paragraph_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "places": [
+        "dearborn"
+      ],
+      "city": "Дирборн",
+      "archive_folder": "01 - Музей Форда",
+      "layout": {
+        "after2": [
+          "20160702_104915.jpg",
+          "20160702_105011.jpg",
+          "20160702_105404.jpg",
+          "20160702_105538.jpg",
+          "20160702_105900.jpg",
+          "20160702_110331.jpg",
+          "20160702_110348.jpg",
+          "20160702_110407.jpg",
+          "20160702_110453.jpg",
+          "20160702_110503.jpg",
+          "20160702_111037.jpg",
+          "20160702_111414.jpg",
+          "20160702_112934.jpg",
+          "20160702_113252.jpg",
+          "20160702_114009.jpg",
+          "20160702_114107.jpg",
+          "20160702_120109.jpg",
+          "20160702_120403.jpg",
+          "20160702_120525.jpg",
+          "20160702_120604.jpg",
+          "20160702_120653.jpg",
+          "20160702_121114.jpg",
+          "20160702_121352.jpg",
+          "20160702_121417.jpg",
+          "20160702_121625.jpg"
+        ],
+        "after3": [
+          "20160702_123403.jpg",
+          "20160702_123549.jpg",
+          "20160702_123703.jpg",
+          "20160702_124014.jpg"
+        ],
+        "after4": [
+          "20160702_124603.jpg",
+          "20160702_125204.jpg",
+          "20160702_125726.jpg",
+          "20160702_130618.jpg",
+          "20160702_130934.jpg",
+          "20160702_131456.jpg",
+          "20160702_132730.jpg"
+        ]
+      },
+      "archive_first_photo": "20160702_105538.jpg",
+      "drive_folder_id": "1LshffIDj2eJQXr5ws4VAtYfIyORayci-"
+    },
+    "detroit": {
+      "title": "Детройт",
+      "weight": 2,
+      "paragraph_numbers": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "places": [
+        "detroit"
+      ],
+      "city": "Детройт",
+      "archive_folder": "02 - Детройт",
+      "layout": {
+        "after5": [
+          "20160702_170452.jpg",
+          "20160702_152534.jpg",
+          "20160702_153311.jpg",
+          "20160702_155647.jpg",
+          "20160702_160423.jpg",
+          "20160702_160745.jpg",
+          "20160702_161038.jpg",
+          "20160702_161109.jpg",
+          "20160702_162034.jpg",
+          "20160702_162712.jpg",
+          "20160702_163824.jpg",
+          "20160702_164913.jpg"
+        ],
+        "after6": [
+          "20160702_171802.jpg",
+          "20160702_171957.jpg",
+          "20160702_172049.jpg"
+        ],
+        "after7": [
+          "cover/20160806_133129.jpg",
+          "20160702_180923.jpg"
+        ]
+      },
+      "archive_first_photo": "20160702_161038.jpg",
+      "drive_folder_id": "1Dz9EBlXPwpp5LQadKq0mABu-CouxwQ4U",
+      "standalone_photos": [
+        "20160702_170452.jpg",
+        "20160702_161038.jpg",
+        "cover/20160806_133129.jpg"
+      ]
+    }
+  },
+  "layout_previous": {
+    "hero": "20160702_112934.jpg",
+    "after2": [
+      "20160702_105538.jpg",
+      "20160702_110056.jpg",
+      "20160702_110348.jpg",
+      "20160702_111605.jpg",
+      "20160702_120227.jpg",
+      "20160702_114007.jpg",
+      "20160702_120604.jpg",
+      "20160702_121352.jpg",
+      "20160702_121625.jpg"
+    ],
+    "after3": [
+      "20160702_123549.jpg",
+      "20160702_123703.jpg",
+      "20160702_124014.jpg"
+    ],
+    "after4": [
+      "20160702_125204.jpg",
+      "20160702_130618.jpg",
+      "20160702_131456.jpg"
+    ],
+    "after5": [
+      "20160702_152534.jpg",
+      "20160702_153304.jpg",
+      "20160702_160423.jpg",
+      "20160702_164913.jpg",
+      "20160702_161032.jpg"
+    ],
+    "after6": [
+      "20160702_171006.jpg"
+    ],
+    "after7": [
+      "20160702_180923.jpg"
+    ]
+  },
+  "deleted_exact_duplicates": [
+    {
+      "original_relative_path": "01 - Музей Форда/zz_не использовано_дубликат_20160702_121352.jpg",
+      "bytes": 5782941,
+      "sha256": "73da944cc707cd5532783689f2d2735d48eedc2a40991a374a7d70ac21e38511",
+      "duplicate_of": "01 - Музей Форда/23_20160702_121352.jpg",
+      "status": "deleted-on-owner-request-identical-original-retained"
+    },
+    {
+      "original_relative_path": "01 - Музей Форда/zz_не использовано_дубликат_20160702_121625.jpg",
+      "bytes": 5154042,
+      "sha256": "240f81dbdad68de2a562852abb1758be1159644c0c8cc5a81aa94ad8475d8edd",
+      "duplicate_of": "01 - Музей Форда/25_20160702_121625.jpg",
+      "status": "deleted-on-owner-request-identical-original-retained"
+    },
+    {
+      "original_relative_path": "01 - Музей Форда/zz_не использовано_дубликат_20160702_125204.jpg",
+      "bytes": 5924071,
+      "sha256": "b2d0821cc0bb2263e750728b1f0b70cb0786dcae6bd3054a2306d1ec64e70b5f",
+      "duplicate_of": "01 - Музей Форда/31_20160702_125204.jpg",
+      "status": "deleted-on-owner-request-identical-original-retained"
+    },
+    {
+      "original_relative_path": "01 - Музей Форда/zz_не использовано_дубликат_20160702_130618.jpg",
+      "bytes": 5826408,
+      "sha256": "c077190c46becfaa7230d0da31f05406221fb1c428dff4a7d29971f8f3d4506c",
+      "duplicate_of": "01 - Музей Форда/33_20160702_130618.jpg",
+      "status": "deleted-on-owner-request-identical-original-retained"
+    }
+  ],
+  "chapter_covers": false,
+  "owner_cover_choice": "20160806_133129.jpg",
+  "retired_r2": [
+    {
+      "key": "detroit-windsor-2016/story/20160702_110056.jpg",
+      "original_relative_path": "01 - Детройт и Виндзор/03_20160702_110056.jpg",
+      "original_sha256": "308db4c2fc1ece1bf8d10d0efd07d03e570e02b37ad9392b5f9b09d58028624f",
+      "w": 1125,
+      "h": 2000,
+      "bytes": 565909,
+      "sha256": "b47398ff620e8bc454de2f1fd6c261c86645e6d39652dd9ed6f3c1476c8407e4",
+      "recipe": {
+        "exif_transpose": true,
+        "long_side_max": 2000,
+        "no_upscale": true,
+        "jpeg_quality": 85,
+        "optimize": true
+      },
+      "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_110056.jpg",
+      "public_verified": true
+    },
+    {
+      "key": "detroit-windsor-2016/story/20160702_111605.jpg",
+      "original_relative_path": "01 - Детройт и Виндзор/05_20160702_111605.jpg",
+      "original_sha256": "c610d2efb05aeb24f483086b93cc3be5d7329da0cd8a74ed52eba846271b589c",
+      "w": 1125,
+      "h": 2000,
+      "bytes": 320645,
+      "sha256": "31e913876b870a4abd5da98423529cd02e6884ca0e71b6dfbf5888673e30ecb5",
+      "recipe": {
+        "exif_transpose": true,
+        "long_side_max": 2000,
+        "no_upscale": true,
+        "jpeg_quality": 85,
+        "optimize": true
+      },
+      "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_111605.jpg",
+      "public_verified": true
+    },
+    {
+      "key": "detroit-windsor-2016/story/20160702_120227.jpg",
+      "original_relative_path": "01 - Детройт и Виндзор/06_20160702_120227.jpg",
+      "original_sha256": "3c1af739f27e4f88c52cfe6c664650070b6d9a3fab0a9c53ea981783c3dc6fb7",
+      "w": 2000,
+      "h": 1125,
+      "bytes": 514534,
+      "sha256": "48d8fc0b6d7347a8d1430959450d046405dcc7b9f2bc3ff56e855ffda177248a",
+      "recipe": {
+        "exif_transpose": true,
+        "long_side_max": 2000,
+        "no_upscale": true,
+        "jpeg_quality": 85,
+        "optimize": true
+      },
+      "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_120227.jpg",
+      "public_verified": true
+    },
+    {
+      "key": "detroit-windsor-2016/story/20160702_114007.jpg",
+      "original_relative_path": "01 - Детройт и Виндзор/07_20160702_114007.jpg",
+      "original_sha256": "b440555284b918d2b2a86bc0b9a11d9c382d21e47dabea89fa315edc32a4e4b5",
+      "w": 2000,
+      "h": 1125,
+      "bytes": 437464,
+      "sha256": "8a8b447becd6169d765a92e0f7f3ba188a30f449df3746891c730f6440ace4fe",
+      "recipe": {
+        "exif_transpose": true,
+        "long_side_max": 2000,
+        "no_upscale": true,
+        "jpeg_quality": 85,
+        "optimize": true
+      },
+      "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_114007.jpg",
+      "public_verified": true
+    },
+    {
+      "key": "detroit-windsor-2016/story/20160702_153304.jpg",
+      "original_relative_path": "01 - Детройт и Виндзор/18_20160702_153304.jpg",
+      "original_sha256": "23fd03d064feca8f88c99d13c5db470fe23a9996ca03972cc61d7c843cf42f95",
+      "w": 1125,
+      "h": 2000,
+      "bytes": 208886,
+      "sha256": "ad7b83594f87915d0c4582aa2aba0fec221c2d783b73d8454eb8d9c9d939b235",
+      "recipe": {
+        "exif_transpose": true,
+        "long_side_max": 2000,
+        "no_upscale": true,
+        "jpeg_quality": 85,
+        "optimize": true
+      },
+      "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_153304.jpg",
+      "public_verified": true
+    },
+    {
+      "key": "detroit-windsor-2016/story/20160702_161032.jpg",
+      "original_relative_path": "01 - Детройт и Виндзор/21_20160702_161032.jpg",
+      "original_sha256": "4ae4f9dc17660cfe51bd969742e0d2178e7c4b82359cb948e7925738c4bbe1be",
+      "w": 1125,
+      "h": 2000,
+      "bytes": 390858,
+      "sha256": "12e001bd42635365b1839f680e00feb7378d42ad11d68267d5535f6977ac4952",
+      "recipe": {
+        "exif_transpose": true,
+        "long_side_max": 2000,
+        "no_upscale": true,
+        "jpeg_quality": 85,
+        "optimize": true
+      },
+      "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_161032.jpg",
+      "public_verified": true
+    },
+    {
+      "key": "detroit-windsor-2016/story/20160702_171006.jpg",
+      "original_relative_path": "01 - Детройт и Виндзор/22_20160702_171006.jpg",
+      "original_sha256": "cb085ea336df3b1358a4202896ea8d913e1ec38ddf691aac99677c20da9e7896",
+      "w": 2000,
+      "h": 1125,
+      "bytes": 213696,
+      "sha256": "32799c58f02939367687d85b304e5b75baa48acbab93e77b729249e96a1075bc",
+      "recipe": {
+        "exif_transpose": true,
+        "long_side_max": 2000,
+        "no_upscale": true,
+        "jpeg_quality": 85,
+        "optimize": true
+      },
+      "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_171006.jpg",
+      "public_verified": true
+    },
+    {
+      "key": "detroit-windsor-2016/story/20160702_162720.jpg",
+      "original_relative_path": "02 - Детройт/08_20160702_162720.jpg",
+      "original_sha256": "6b7b79a190b8918c4e35f335b01a87c74286b4c4c90f4755bfc8a93ed5ca8056",
+      "w": 1125,
+      "h": 2000,
+      "bytes": 309282,
+      "sha256": "ed917bd3869c726758bb6d5bc9525b6154e4df02ecafbee2dc5165ba09b91e37",
+      "recipe": {
+        "exif_transpose": true,
+        "long_side_max": 2000,
+        "no_upscale": true,
+        "jpeg_quality": 85,
+        "optimize": true
+      },
+      "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/story/20160702_162720.jpg",
+      "public_verified": true
+    }
+  ],
+  "cover_original": {
+    "chapter": "cover",
+    "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160806_133129.jpg",
+    "source_filename": "20160806_133129.jpg",
+    "original_relative_path": "00 - Обложка/01_20160806_133129.jpg",
+    "original_sha256": "9b69c53171bf50d0cf5f7f8a27f36b78d1d9ee1f1eb7fe00ba87091b5247e962",
+    "original_bytes": 3087058,
+    "original_width": 5312,
+    "original_height": 2988,
+    "exif_orientation": 1,
+    "display_oriented_width": 5312,
+    "display_oriented_height": 2988,
+    "site_filename": "20160806_133129.jpg",
+    "r2_key": "detroit-windsor-2016/cover/20160806_133129.jpg",
+    "drive_file_id": "17kj7PO2NIqEjf2c7_F3lRoP5r0B87a_a"
+  },
+  "cover_folder": "00 - Обложка",
+  "cover_r2_key": "detroit-windsor-2016/cover/20160806_133129.jpg",
+  "assistant_captions_disabled_by_owner": true,
+  "paragraph_splits": {
+    "5": {
+      "before": "Сам музей очень хорош!",
+      "photos_between": [
+        "20160702_170452.jpg"
+      ],
+      "authorization": "Owner explicitly requested this passage after the museum exterior photo and before the paintings; all source characters retained."
+    }
+  },
+  "owner_requested_captions": {
+    "20160702_161038.jpg": "Диего Ривера. «Индустрия Детройта».",
+    "20160702_162712.jpg": "Жан Метценже. «Натюрморт».",
+    "20160702_152534.jpg": "Питер Пауль Рубенс. «Гигиея, богиня здоровья».",
+    "20160702_160423.jpg": "Караваджо. «Марфа и Мария Магдалина».",
+    "20160702_161109.jpg": "Винсент ван Гог. «Портрет почтальона Рулена».",
+    "20160702_164913.jpg": "Гвидо Рени. «Голова Христа в терновом венце».",
+    "20160702_171957.jpg": "Detroit People Mover — автоматический надземный поезд в центре Детройта."
+  },
+  "owner_requested_caption_sources": {
+    "20160702_161038.jpg": [
+      "https://customprints.dia.org/feature/detroit-industry"
+    ],
+    "20160702_162712.jpg": [
+      "photo: signature Metzinger 1925, lower right",
+      "https://dia.org/collection/still-life/54558",
+      "reference image 20160702_162720.jpg: gallery context only"
+    ],
+    "20160702_152534.jpg": [
+      "Owner-provided label: codex-clipboard-3e12cac6-f9a2-4dd3-9e8b-00733f5b7d76.png",
+      "https://dia.org/collection/hygeia-goddess-health/59998"
+    ],
+    "20160702_160423.jpg": [
+      "https://customprints.dia.org/search/artist/michelangelo%2Bmerisi%2Bda%2Bcaravaggio/subject/christianity"
+    ],
+    "20160702_161109.jpg": [
+      "Museum label 20160702_161115.jpg"
+    ],
+    "20160702_164913.jpg": [
+      "https://customprints.dia.org/detail/492094/reni-head-of-christ-crowned-with-thorns-early-1630s"
+    ],
+    "20160702_171957.jpg": [
+      "https://www.thepeoplemover.com/about"
+    ]
+  },
+  "reference_images": [
+    {
+      "source_filename": "20160702_162720.jpg",
+      "chapter": "detroit",
+      "original_relative_path": "02 - Детройт/zz_источник подписи_20160702_162720.jpg",
+      "original_bytes": 3599404,
+      "original_sha256": "6b7b79a190b8918c4e35f335b01a87c74286b4c4c90f4755bfc8a93ed5ca8056",
+      "display_oriented_width": 2988,
+      "display_oriented_height": 5312,
+      "exif_orientation": 6,
+      "site_filename": "20160702_162720.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_162720.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2016\\2016 Лето\\Leamington\\20160702_162720.jpg",
+      "owner_added_from_archive": true,
+      "original_width": 5312,
+      "original_height": 2988,
+      "drive_file_id": "1tmwQJM-quV6eEb3imoyVXvS4mZKXBIZ7",
+      "purpose": "Museum label: reference only, never displayed as a photograph",
+      "reference_text": "Transatlantic Modern",
+      "related_photo": "20160702_162712.jpg"
+    },
+    {
+      "chapter": "detroit",
+      "source_path": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2016 - Детройт и Виндзор\\02 - Детройт\\20160702_161115.jpg",
+      "source_filename": "20160702_161115.jpg",
+      "original_relative_path": "02 - Детройт/zz_источник подписи_20160702_161115.jpg",
+      "original_bytes": 3977366,
+      "original_sha256": "6739af00460dce1a8e6db69da0c450c93576f9944ccc78033f78f99458a0f424",
+      "original_width": 5312,
+      "original_height": 2988,
+      "exif_orientation": 6,
+      "display_oriented_width": 2988,
+      "display_oriented_height": 5312,
+      "site_filename": "20160702_161115.jpg",
+      "r2_key": "detroit-windsor-2016/story/20160702_161115.jpg",
+      "owner_added_from_archive": true,
+      "purpose": "Museum artwork label: reference only, never displayed as a photograph",
+      "reference_text": "Portrait of Postman Roulin, 1888. Vincent van Gogh.",
+      "related_photo": "20160702_161109.jpg",
+      "drive_file_id": "1_o7tTaBZGqfmkQxFe1_6fXwTNveBW4T_"
+    },
+    {
+      "chapter": "detroit",
+      "source_path": "C:\\Users\\user\\AppData\\Local\\Temp\\codex-clipboard-3e12cac6-f9a2-4dd3-9e8b-00733f5b7d76.png",
+      "source_filename": "codex-clipboard-3e12cac6-f9a2-4dd3-9e8b-00733f5b7d76.png",
+      "original_relative_path": "02 - Детройт/zz_источник подписи_codex-clipboard-3e12cac6-f9a2-4dd3-9e8b-00733f5b7d76.png",
+      "original_bytes": 243264,
+      "original_sha256": "408475be835a38e23d6bede80ebaec87a4fd8c09f061da584365aae016a6b0ae",
+      "original_width": 382,
+      "original_height": 438,
+      "exif_orientation": 1,
+      "display_oriented_width": 382,
+      "display_oriented_height": 438,
+      "site_filename": "codex-clipboard-3e12cac6-f9a2-4dd3-9e8b-00733f5b7d76.png",
+      "r2_key": "detroit-windsor-2016/story/codex-clipboard-3e12cac6-f9a2-4dd3-9e8b-00733f5b7d76.png",
+      "owner_added_from_archive": true,
+      "purpose": "Owner-provided artwork label: reference only, never displayed as a photograph",
+      "reference_text": "Hygeia, Goddess of Health, about 1615. Peter Paul Rubens. Oil on oak panel.",
+      "related_photo": "20160702_152534.jpg",
+      "drive_file_id": "1hJIfl5TBytEyKAY-6hGOZ7HwaN3CIGVO"
+    }
+  ],
+  "museum_label_rule": "Museum labels supplied by the owner are reference material, not gallery photos. Multiple artwork labels appear as text before photos, with clean images; full labels remain available in lightbox.",
+  "cover_used_in_story": true,
+  "shared_photo_usages": [
+    {
+      "key": "detroit-windsor-2016/cover/20160806_133129.jpg",
+      "original_relative_path": "00 - Обложка/01_20160806_133129.jpg",
+      "usages": [
+        "trip cover",
+        "detroit: after source paragraph 7, view from Canadian shore"
+      ]
     }
   ]
 }
