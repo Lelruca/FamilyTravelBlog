@@ -88,6 +88,9 @@ for slug, chapter in m['chapters'].items():
         for block in blocks:
             if len(blocks) > 1:
                 body.append('<div class="ford-photo-block">')
+            heading = chapter.get('block_headings', {}).get(block[0]) if block else None
+            if heading:
+                body.append('<h2>' + html.escape(heading, quote=False) + '</h2>')
             remaining = block.copy()
             while remaining:
                 if remaining[0] in chapter.get('standalone_photos', []):

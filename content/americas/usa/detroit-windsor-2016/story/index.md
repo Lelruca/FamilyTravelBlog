@@ -45,7 +45,19 @@ auto_gallery: false
 
 <div class="ford-photo-block">
 
+{{< row "20160702_111414.jpg 20160702_121114.jpg 20160702_121625.jpg" >}}
+
+</div>
+
+<div class="ford-photo-block">
+
 {{< row "20160702_120109.jpg 20160702_120403.jpg" >}}
+
+</div>
+
+<div class="ford-photo-block">
+
+<h2>Один из аттракционов - поездка на настоящих машинах Форда!</h2>
 
 {{< row "20160702_120525.jpg 20160702_121352.jpg 20160702_121417.jpg" >}}
 
@@ -53,13 +65,9 @@ auto_gallery: false
 
 <div class="ford-photo-block">
 
+<h2>Дом братьев Райт</h2>
+
 {{< row "20160702_120604.jpg 20160702_120653.jpg" >}}
-
-</div>
-
-<div class="ford-photo-block">
-
-{{< row "20160702_111414.jpg 20160702_121114.jpg 20160702_121625.jpg" >}}
 
 </div>
 
