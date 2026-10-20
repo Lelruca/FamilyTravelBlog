@@ -28,6 +28,7 @@ for (const [key, list] of Object.entries(matches))
     const o = owner.get(r.file);
     if (!o || r.score > o.score) owner.set(r.file, { key, i: r.i, score: r.score });
   }
+const ownerOf = f => [...owner].find(([k]) => path.resolve(k) === path.resolve(f))?.[1];
 
 const manifest = {
   trip: cfg.trip, title: cfg.title, source: cfg.source,
@@ -49,15 +50,21 @@ for (const ch of cfg.chapters) {
       const srcSha = sha(src);
       if (!fs.existsSync(dst) || sha(dst) !== srcSha) fs.copyFileSync(src, dst);
       if (sha(dst) !== srcSha) throw new Error(`Checksum mismatch after copy: ${dst}`);
+      // an original that is also one of a post's Facebook photos keeps that link
+      const o = ownerOf(src), item = o && media.media[o.key][o.i];
       manifest.photos.push({
-        chapter: ch.slug, position: k + 1, source_position: k + 1, facebook_id: null, caption: "",
+        chapter: ch.slug, position: k + 1, source_position: k + 1, facebook_id: item ? item.id : null,
+        caption: item ? fps[o.key][o.i].caption || "" : "",
+        ...(item ? { facebook_post: o.key, facebook_position: o.i + 1 } : {}),
         archive_name: `${ch.folder}/${name}`, kind: "original",
         original_relative_path: path.relative(cfg.originalsRoot, src).split(path.sep).join("/"),
-        match_score: null, bytes: fs.statSync(dst).size, sha256: srcSha,
+        match_score: o ? o.score : null, bytes: fs.statSync(dst).size, sha256: srcSha,
       });
     });
+    // trip-config "post": { key, feedOrder, paras } — this chapter shows paragraphs of a post (see gen-fb-trip-pages.cjs)
     manifest.chapters.push({ slug: ch.slug, title: ch.folder.replace(/^\d+ - /, ""), originals_folder: ch.folder,
-      without_post: true, photo_count: ch.originals.length, original_count: ch.originals.length });
+      without_post: !ch.post, ...(ch.post ? { post: ch.post.key, post_paragraphs: ch.post.paras } : {}),
+      photo_count: ch.originals.length, original_count: ch.originals.length });
     continue;
   }
   const post = posts.find(p => p.feedOrder === ch.feedOrder);

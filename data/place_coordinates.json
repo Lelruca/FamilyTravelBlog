@@ -2982,5 +2982,61 @@
     "country_code": "ES",
     "source": "https://www.openstreetmap.org/relation/7726080",
     "query": "Museo del Prado Madrid"
+  },
+  "barcelona-cathedral": {
+    "lat": 41.3839296,
+    "lon": 2.1765539,
+    "name": "Catedral de la Santa Creu i Santa Eulàlia",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/3298476",
+    "query": "Catedral de Barcelona"
+  },
+  "palau-generalitat": {
+    "lat": 41.3831115,
+    "lon": 2.1765207,
+    "name": "Palau de la Generalitat de Catalunya",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/2874767",
+    "query": "Palau de la Generalitat de Catalunya"
+  },
+  "santa-maria-del-mar": {
+    "lat": 41.3837802,
+    "lon": 2.1820062,
+    "name": "Basílica de Santa Maria del Mar",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/51260215",
+    "query": "Santa Maria del Mar Barcelona"
+  },
+  "casa-batllo": {
+    "lat": 41.3915446,
+    "lon": 2.1646961,
+    "name": "Casa Batlló",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/9427554",
+    "query": "Casa Batlló"
+  },
+  "casa-mila": {
+    "lat": 41.3953996,
+    "lon": 2.1617621,
+    "name": "Casa Milà",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/8974896",
+    "query": "Casa Milà"
+  },
+  "palau-musica-catalana": {
+    "lat": 41.3875837,
+    "lon": 2.1752316,
+    "name": "Palau de la Música Catalana",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/377216661",
+    "query": "Palau de la Música Catalana"
+  },
+  "font-magica": {
+    "lat": 41.3711565,
+    "lon": 2.1517393,
+    "name": "Font Màgica de Montjuïc",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/35816134",
+    "query": "Font Màgica de Montjuïc"
   }
 }

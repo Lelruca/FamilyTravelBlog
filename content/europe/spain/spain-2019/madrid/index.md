@@ -2,7 +2,7 @@
 title: "Мадрид"
 chapter_kind: "part"
 layout: "photo-story"
-weight: 30
+weight: 60
 city: "Madrid"
 places:
   - madrid

@@ -8,7 +8,8 @@
 //   layout.json: { draft, cover, cover_position, chapters: { <slug>: { hero, hero_crop, card (the photo of the chapter tile
 //                  on the trip page when it should differ from the cover), joins: [[from, to]], blocks: [
 //                  { after: <paragraph index, -1 = before the first>, kind: "row"|"mosaic", items: "L:3 5 7" },
-//                  { after, kind: "beside", items: "4", side, paras: [0, 1] }, { after, kind: "text", captions: "8 9", join } ] } } }
+//                  { after, kind: "beside", items: "4", side, paras: [0, 1] }, { after, kind: "text", captions: "8 9", join },
+//                  { after, kind: "heading", text: "<place>" } ] } } }
 //   Photos are given by their number in the post; "18a" is an addition of the owner next to photo 18.
 // Spelling corrections the owner asked for (trip-config "corrections": a JSON file of { key, caption?, from, to })
 // are applied to the shown text only; the archive text and the manifest keep the original words.
@@ -49,8 +50,12 @@ const report = [];
 const textCaps = new Set();
 cfg.chapters.forEach((ch, n) => {
   // a chapter without a post (trip-config "originals") has photos only, its text is written later
-  const post = posts.find(p => p.feedOrder === ch.feedOrder) || { text: "", date: "" };
-  const paras = (ch.originals ? "" : fixText(ch.key, post.text)).split("\n").filter(l => l.trim() && !isTags(l));
+  // trip-config "post": { key, feedOrder, paras: [a, b] } — a chapter of chosen originals that shows paragraphs a…b
+  // of a post (one long post told over several chapters, e.g. one chapter per day)
+  const src = ch.post || ch;
+  const post = posts.find(p => p.feedOrder === src.feedOrder) || { text: "", date: "" };
+  const all = (ch.originals && !ch.post ? "" : fixText(src.key, post.text)).split("\n").filter(l => l.trim() && !isTags(l));
+  const paras = ch.post ? all.slice(ch.post.paras[0], ch.post.paras[1] + 1) : all;
   // another short post of the author about the same day, inserted after a paragraph (trip-config "inserts":
   // [{ after, file }], the file holding that post's text); later "after" indexes count the inserted lines
   for (const ins of (ch.inserts || []).slice().sort((a, b) => b.after - a.after))
@@ -67,9 +72,9 @@ cfg.chapters.forEach((ch, n) => {
   const used = hero ? [hero] : [];
   const after = {};
   for (const b of raw.blocks) {
-    const items = b.kind === "text" ? "" : String(b.items).split(/\s+/).filter(Boolean).map(name).join(" ");
+    const items = b.kind === "text" || b.kind === "heading" ? "" : String(b.items).split(/\s+/).filter(Boolean).map(name).join(" ");
     (after[b.after] = after[b.after] || []).push({ ...b, names: items });
-    if (b.kind !== "text") used.push(...items.split(" ").map(x => x.replace(/^[LRT]:/, "")));
+    if (b.kind !== "text" && b.kind !== "heading") used.push(...items.split(" ").map(x => x.replace(/^[LRT]:/, "")));
     if (b.kind === "text" || b.kind === "beside") for (const num of String(b.captions || b.items).split(/\s+/)) textCaps.add(`${ch.slug}/${byPos[num]}`);
   }
   const missing = photos.filter(p => !used.includes(p));
@@ -84,6 +89,8 @@ cfg.chapters.forEach((ch, n) => {
   // a photo's own caption shown as a paragraph of text next to it (lines stay lines)
   const note = num => `<p class="photo-note">${esc(capByPos[num]).replace(/\n/g, "<br>")}</p>`;
   const render = b => {
+    // { after, kind: "heading", text } — the place the next photos show (a section of a long chapter)
+    if (b.kind === "heading") return `<h3 class="essay-section">${esc(b.text)}</h3>`;
     if (b.kind === "text") {
       const ns = String(b.captions).split(/\s+/);
       return b.join ? `<p class="photo-note">${ns.map(x => esc(capByPos[x]).replace(/\n/g, "<br>")).join("<br>")}</p>` : ns.map(note).join("\n\n");

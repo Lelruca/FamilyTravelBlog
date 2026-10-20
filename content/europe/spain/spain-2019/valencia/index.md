@@ -2,7 +2,7 @@
 title: "Валенсия"
 chapter_kind: "part"
 layout: "photo-story"
-weight: 20
+weight: 50
 city: "Valencia"
 places:
   - valencia
