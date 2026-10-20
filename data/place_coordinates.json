@@ -3086,5 +3086,109 @@
     "country_code": "US",
     "source": "https://longwoodgardens.org/visit/directions",
     "query": "Longwood Gardens USA"
+  },
+  "valencia": {
+    "lat": 39.4697065,
+    "lon": -0.3763353,
+    "name": "València",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/344953",
+    "query": "Valencia Spain"
+  },
+  "ciutat-arts-ciencies": {
+    "lat": 39.4557563,
+    "lon": -0.352552,
+    "name": "Ciutat de les Arts i les Ciències",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/513681817",
+    "query": "Ciutat de les Arts i les Ciencies Valencia"
+  },
+  "valencia-cathedral": {
+    "lat": 39.475568,
+    "lon": -0.3751126,
+    "name": "Catedral de València",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/135630267",
+    "query": "Catedral de Valencia"
+  },
+  "bioparc-valencia": {
+    "lat": 39.478332,
+    "lon": -0.4112193,
+    "name": "Bioparc València",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/512393709",
+    "query": "Bioparc Valencia"
+  },
+  "prado-museum": {
+    "lat": 40.4137925,
+    "lon": -3.6920407,
+    "name": "Museo del Prado",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/7726080",
+    "query": "Museo del Prado Madrid"
+  },
+  "barcelona-cathedral": {
+    "lat": 41.3839296,
+    "lon": 2.1765539,
+    "name": "Catedral de la Santa Creu i Santa Eulàlia",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/3298476",
+    "query": "Catedral de Barcelona"
+  },
+  "palau-generalitat": {
+    "lat": 41.3831115,
+    "lon": 2.1765207,
+    "name": "Palau de la Generalitat de Catalunya",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/2874767",
+    "query": "Palau de la Generalitat de Catalunya"
+  },
+  "santa-maria-del-mar": {
+    "lat": 41.3837802,
+    "lon": 2.1820062,
+    "name": "Basílica de Santa Maria del Mar",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/51260215",
+    "query": "Santa Maria del Mar Barcelona"
+  },
+  "casa-batllo": {
+    "lat": 41.3915446,
+    "lon": 2.1646961,
+    "name": "Casa Batlló",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/9427554",
+    "query": "Casa Batlló"
+  },
+  "casa-mila": {
+    "lat": 41.3953996,
+    "lon": 2.1617621,
+    "name": "Casa Milà",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/8974896",
+    "query": "Casa Milà"
+  },
+  "palau-musica-catalana": {
+    "lat": 41.3875837,
+    "lon": 2.1752316,
+    "name": "Palau de la Música Catalana",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/377216661",
+    "query": "Palau de la Música Catalana"
+  },
+  "font-magica": {
+    "lat": 41.3711565,
+    "lon": 2.1517393,
+    "name": "Font Màgica de Montjuïc",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/35816134",
+    "query": "Font Màgica de Montjuïc"
+  },
+  "torrevieja": {
+    "lat": 37.9775416,
+    "lon": -0.6828446,
+    "name": "Torrevieja",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/341237",
+    "query": "Torrevieja"
   }
 }

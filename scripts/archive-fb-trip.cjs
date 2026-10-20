@@ -28,6 +28,7 @@ for (const [key, list] of Object.entries(matches))
     const o = owner.get(r.file);
     if (!o || r.score > o.score) owner.set(r.file, { key, i: r.i, score: r.score });
   }
+const ownerOf = f => [...owner].find(([k]) => path.resolve(k) === path.resolve(f))?.[1];
 
 const manifest = {
   trip: cfg.trip, title: cfg.title, source: cfg.source,
@@ -49,15 +50,21 @@ for (const ch of cfg.chapters) {
       const srcSha = sha(src);
       if (!fs.existsSync(dst) || sha(dst) !== srcSha) fs.copyFileSync(src, dst);
       if (sha(dst) !== srcSha) throw new Error(`Checksum mismatch after copy: ${dst}`);
+      // an original that is also one of a post's Facebook photos keeps that link
+      const o = ownerOf(src), item = o && media.media[o.key][o.i];
       manifest.photos.push({
-        chapter: ch.slug, position: k + 1, source_position: k + 1, facebook_id: null, caption: "",
+        chapter: ch.slug, position: k + 1, source_position: k + 1, facebook_id: item ? item.id : null,
+        caption: item ? fps[o.key][o.i].caption || "" : "",
+        ...(item ? { facebook_post: o.key, facebook_position: o.i + 1 } : {}),
         archive_name: `${ch.folder}/${name}`, kind: "original",
         original_relative_path: path.relative(cfg.originalsRoot, src).split(path.sep).join("/"),
-        match_score: null, bytes: fs.statSync(dst).size, sha256: srcSha,
+        match_score: o ? o.score : null, bytes: fs.statSync(dst).size, sha256: srcSha,
       });
     });
+    // trip-config "post": { key, feedOrder, paras } — this chapter shows paragraphs of a post (see gen-fb-trip-pages.cjs)
     manifest.chapters.push({ slug: ch.slug, title: ch.folder.replace(/^\d+ - /, ""), originals_folder: ch.folder,
-      without_post: true, photo_count: ch.originals.length, original_count: ch.originals.length });
+      without_post: !ch.post, ...(ch.post ? { post: ch.post.key, post_paragraphs: ch.post.paras } : {}),
+      photo_count: ch.originals.length, original_count: ch.originals.length });
     continue;
   }
   const post = posts.find(p => p.feedOrder === ch.feedOrder);
@@ -115,6 +122,20 @@ for (const ch of cfg.chapters) {
     facebook_set: media.sets[ch.key], post_date: post.date, text_sha256: textSha(post.text),
     photo_count: n, original_count: manifest.photos.filter(p => p.chapter === ch.slug && p.kind === "original").length,
   });
+}
+
+// trip-config "cover": { original, note } — a trip cover the owner chose that is not one of the chapters' photos:
+// archived in "00 - Обложка" (not a chapter) as manifest.cover.shown, the way north-ontario-2020 keeps its cover.
+// Its screen copy and R2 key (<trip>/cover/<name>) are added to manifest.cover.shown.r2 after upload.
+if (cfg.cover) {
+  const dir = path.join(tripDir, "00 - Обложка"), src = cfg.cover.original;
+  fs.mkdirSync(dir, { recursive: true });
+  const name = `01_${path.basename(src)}`, dst = path.join(dir, name), srcSha = sha(src);
+  if (!fs.existsSync(dst) || sha(dst) !== srcSha) fs.copyFileSync(src, dst);
+  if (sha(dst) !== srcSha) throw new Error(`Checksum mismatch after copy: ${dst}`);
+  manifest.cover = { shown: { archive_name: `00 - Обложка/${name}`, kind: "original",
+    original_relative_path: path.relative(cfg.originalsRoot, src).split(path.sep).join("/"),
+    note: cfg.cover.note || "", bytes: fs.statSync(dst).size, sha256: srcSha } };
 }
 
 // Files in the chapter folders that this run did not place (e.g. the owner's additions) are reported, not touched.
