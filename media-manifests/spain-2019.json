@@ -3,7 +3,7 @@
   "title": "2019 декабрь: Рождественская Испания (Девичник трёх поколений)",
   "source": "https://www.facebook.com/olga.ukolova.754",
   "archive_root": "Europe/2019 - Рождественская Испания (Девичник трёх поколений)",
-  "created": "2026-10-20T22:17:40.600Z",
+  "created": "2026-10-20T22:20:55.425Z",
   "match_threshold": 0.95,
   "chapters": [
     {
@@ -2850,6 +2850,24 @@
   ],
   "videos": [],
   "skipped": [],
+  "cover": {
+    "shown": {
+      "archive_name": "00 - Обложка/01_20191224_165820.jpg",
+      "kind": "original",
+      "original_relative_path": "2019/2019 осень + декабрь/Spain/Валенсия/20191224_165820.jpg",
+      "note": "Chosen by the owner 2026-10-20: the horizontal beach photo of the three for the whole trip; the vertical one stays in the Valencia chapter",
+      "bytes": 4254190,
+      "sha256": "f74f77491fe006fbf867e72ffd90d863b60b7fc2d596bd3a7fb0cd28c1ffe032",
+      "r2": {
+        "key": "spain-2019/cover/20191224_165820.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/spain-2019/cover/20191224_165820.jpg",
+        "width": 2000,
+        "height": 1500,
+        "sha256": "2ff3c5ae81bdb1f0182bbc97f27518b440f07b1693a96d3a0479bdf818037c36",
+        "verified": true
+      }
+    }
+  },
   "other_files": [
     "01 - Барселона, первые шаги/zz_не использовано_20191221_200654.mp4",
     "02 - Барселона, Готический квартал/zz_не использовано_20191222_102931.jpg",
@@ -2890,10 +2908,10 @@
   ],
   "archive_verified": true,
   "drive_sync_verified": true,
-  "drive_sync_checked": "2026-10-20T22:17:52.109Z",
+  "drive_sync_checked": "2026-10-20T22:21:28.503Z",
   "drive_trip_folder_id": "1cO3WDZHKtCPtsLN-G0eg3gQw4PW04TSA",
   "r2": {
-    "checked": "2026-10-20T22:18:11.795Z",
+    "checked": "2026-10-20T22:21:57.394Z",
     "base": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "copies": [
       {

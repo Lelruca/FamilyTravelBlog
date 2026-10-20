@@ -124,6 +124,20 @@ for (const ch of cfg.chapters) {
   });
 }
 
+// trip-config "cover": { original, note } — a trip cover the owner chose that is not one of the chapters' photos:
+// archived in "00 - Обложка" (not a chapter) as manifest.cover.shown, the way north-ontario-2020 keeps its cover.
+// Its screen copy and R2 key (<trip>/cover/<name>) are added to manifest.cover.shown.r2 after upload.
+if (cfg.cover) {
+  const dir = path.join(tripDir, "00 - Обложка"), src = cfg.cover.original;
+  fs.mkdirSync(dir, { recursive: true });
+  const name = `01_${path.basename(src)}`, dst = path.join(dir, name), srcSha = sha(src);
+  if (!fs.existsSync(dst) || sha(dst) !== srcSha) fs.copyFileSync(src, dst);
+  if (sha(dst) !== srcSha) throw new Error(`Checksum mismatch after copy: ${dst}`);
+  manifest.cover = { shown: { archive_name: `00 - Обложка/${name}`, kind: "original",
+    original_relative_path: path.relative(cfg.originalsRoot, src).split(path.sep).join("/"),
+    note: cfg.cover.note || "", bytes: fs.statSync(dst).size, sha256: srcSha } };
+}
+
 // Files in the chapter folders that this run did not place (e.g. the owner's additions) are reported, not touched.
 const placed = new Set(manifest.photos.map(p => p.archive_name));
 manifest.other_files = cfg.chapters.flatMap(ch =>
