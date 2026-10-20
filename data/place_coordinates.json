@@ -3062,5 +3062,29 @@
     "country_code": "CA",
     "source": "https://wiki.openstreetmap.org/wiki/Montr%C3%A9al",
     "query": "Montreal, Quebec"
+  },
+  "washington-dc": {
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "name": "Вашингтон",
+    "country_code": "US",
+    "source": "https://wiki.openstreetmap.org/wiki/Washington,_D.C.",
+    "query": "Вашингтон USA"
+  },
+  "philadelphia": {
+    "lat": 40.0026,
+    "lon": -75.1181,
+    "name": "Филадельфия",
+    "country_code": "US",
+    "source": "https://wiki.openstreetmap.org/wiki/Philadelphia,_Pennsylvania",
+    "query": "Филадельфия USA"
+  },
+  "longwood-gardens": {
+    "lat": 39.86951388888889,
+    "lon": -75.67101944444445,
+    "name": "Longwood Gardens",
+    "country_code": "US",
+    "source": "https://longwoodgardens.org/visit/directions",
+    "query": "Longwood Gardens USA"
   }
 }
