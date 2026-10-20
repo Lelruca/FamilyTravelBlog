@@ -2236,10 +2236,10 @@
             "20160702_121625.jpg"
           ],
           [
-            "20160702_120109.jpg",
-            "20160702_120403.jpg"
+            "20160702_120109.jpg"
           ],
           [
+            "20160702_120403.jpg",
             "20160702_120525.jpg",
             "20160702_121352.jpg",
             "20160702_121417.jpg"
@@ -2251,8 +2251,8 @@
         ]
       },
       "block_headings": {
-        "20160702_120525.jpg": "Один из аттракционов - поездка на настоящих машинах Форда!",
-        "20160702_120604.jpg": "Дом братьев Райт"
+        "20160702_120604.jpg": "Дом братьев Райт",
+        "20160702_120403.jpg": "Один из аттракционов - поездка на настоящих машинах Форда!"
       }
     },
     "detroit": {
@@ -2566,7 +2566,6 @@
     "20160702_123403.jpg": "Паровоз Chesapeake & Ohio Allegheny №1601.",
     "20160702_123703.jpg": "Паровоз The President.",
     "20160702_124014.jpg": "Железнодорожный снегоочиститель Canadian Pacific.",
-    "20160702_120403.jpg": "Ford Model T Depot Hack — с деревянным пассажирским кузовом.",
     "20160702_121114.jpg": "Объявление для сотрудников Ford Motor Company на восьми языках.",
     "20160702_123549.jpg": "Вагон-карета"
   },
@@ -2631,10 +2630,6 @@
     ],
     "20160702_124014.jpg": [
       "https://www.thehenryford.org/collections/explore/sets/detail/winter-on-the-railroad"
-    ],
-    "20160702_120403.jpg": [
-      "https://cdn.modeltford.com/uploads/catalog/catalog.pdf (Depot Hack body: supplier identifies the same body supplied to The Henry Ford and Greenfield Village in spring 2004; visual match to wooden body)",
-      "https://www.thehenryford.org/collections/explore/articles/garage-art"
     ],
     "20160702_121114.jpg": [
       "Readable text in the archived photograph: notice to all employees about change of address and learning English; Ford Motor Company signature."
