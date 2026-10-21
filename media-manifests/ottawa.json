@@ -1,0 +1,10 @@
+{
+  "collection": "ottawa",
+  "title": "Оттава",
+  "contentDir": "content/americas/canada/ottawa",
+  "member_manifests": [
+    "ottawa-2017.json"
+  ],
+  "owner_scope": "Start with July2017, append future visits; entire Ottawa2015 tulip trip remains separate.",
+  "media_policy": "Each visit keeps its own archival manifest and verified R2 keys; collection photo data points directly to these R2 URLs."
+}
