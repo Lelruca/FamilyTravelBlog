@@ -3278,5 +3278,13 @@
     "country_code": "RU",
     "source": "https://www.wikidata.org/wiki/Q649",
     "query": "Moscow coordinate location 55°45′2″N 37°37′3″E"
+  },
+  "hamilton": {
+    "lat": 43.25666666666667,
+    "lon": -79.86916666666666,
+    "name": "Hamilton",
+    "country_code": "CA",
+    "source": "https://www.wikidata.org/wiki/Q133116",
+    "query": "Hamilton Ontario coordinate location 43°15′24″N 79°52′9″W"
   }
 }
