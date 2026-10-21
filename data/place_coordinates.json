@@ -3502,5 +3502,13 @@
     "country_code": "CU",
     "source": "https://www.openstreetmap.org/way/102172504",
     "query": "Guamá Matanzas Cuba"
+  },
+  "atlantic-city": {
+    "lat": 39.3625,
+    "lon": -74.425,
+    "name": "Atlantic City",
+    "country_code": "US",
+    "source": "https://www.wikidata.org/wiki/Q139564",
+    "query": "Atlantic City39°21′45″N74°25′30″W"
   }
 }
