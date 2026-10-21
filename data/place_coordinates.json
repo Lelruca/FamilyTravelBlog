@@ -3254,5 +3254,13 @@
     "country_code": "DE",
     "source": "https://www.openstreetmap.org/way/254154168",
     "query": "Heidelberger Schloss"
+  },
+  "bern": {
+    "lat": 46.9484742,
+    "lon": 7.4521749,
+    "name": "Bern",
+    "country_code": "CH",
+    "source": "https://www.openstreetmap.org/relation/1682378",
+    "query": "Bern Switzerland"
   }
 }
