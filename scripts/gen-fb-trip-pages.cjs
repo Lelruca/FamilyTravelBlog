@@ -9,7 +9,7 @@
 //                  on the trip page when it should differ from the cover), joins: [[from, to]], blocks: [
 //                  { after: <paragraph index, -1 = before the first>, kind: "row"|"mosaic", items: "L:3 5 7" },
 //                  { after, kind: "beside", items: "4", side, paras: [0, 1] }, { after, kind: "text", captions: "8 9", join },
-//                  { after, kind: "heading", text: "<place>" } ] } } }
+//                  { after, kind: "heading", text: "<place>" }, { after, kind: "video", file } ] } } }
 //   Photos are given by their number in the post; "18a" is an addition of the owner next to photo 18.
 // Spelling corrections the owner asked for (trip-config "corrections": a JSON file of { key, caption?, from, to })
 // are applied to the shown text only; the archive text and the manifest keep the original words.
@@ -75,9 +75,9 @@ cfg.chapters.forEach((ch, n) => {
   const used = hero ? [hero] : [];
   const after = {};
   for (const b of raw.blocks) {
-    const items = ["text", "heading", "note"].includes(b.kind) ? "" : String(b.items).split(/\s+/).filter(Boolean).map(name).join(" ");
+    const items = ["text", "heading", "note", "video"].includes(b.kind) ? "" : String(b.items).split(/\s+/).filter(Boolean).map(name).join(" ");
     (after[b.after] = after[b.after] || []).push({ ...b, names: items });
-    if (!["text", "heading", "note"].includes(b.kind)) used.push(...items.split(" ").map(x => x.replace(/^[LRT]:/, "")));
+    if (!["text", "heading", "note", "video"].includes(b.kind)) used.push(...items.split(" ").map(x => x.replace(/^[LRT]:/, "")));
     if (b.kind === "text" || b.kind === "beside") for (const num of String(b.captions || b.items).split(/\s+/)) textCaps.add(`${ch.slug}/${byPos[num]}`);
   }
   const missing = photos.filter(p => !used.includes(p));
@@ -96,6 +96,8 @@ cfg.chapters.forEach((ch, n) => {
     if (b.kind === "note") return `<p class="photo-note">${esc(b.text).replace(/\n/g, "<br>")}</p>`;
     // { after, kind: "heading", text } — the place the next photos show (a section of a long chapter)
     if (b.kind === "heading") return `<h3 class="essay-section">${esc(b.text)}</h3>`;
+    // { after, kind: "video", file } — a video the trip folder on R2 holds (static/r2/<trip>/<chapter>/<file>)
+    if (b.kind === "video") return `{{< travel-video "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/${cfg.trip}/${ch.slug}/${b.file}" >}}`;
     if (b.kind === "text") {
       const ns = String(b.captions).split(/\s+/);
       return b.join ? `<p class="photo-note">${ns.map(x => esc(capByPos[x]).replace(/\n/g, "<br>")).join("<br>")}</p>` : ns.map(note).join("\n\n");
