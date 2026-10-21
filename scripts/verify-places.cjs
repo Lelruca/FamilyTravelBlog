@@ -21,9 +21,19 @@ for (const file of walk('content').filter(f=>path.basename(f)==='index.md')) {
     expected.get(slug).add(url);
   }
 }
+// Places inside a city (data/place_groups.yaml part_of) are listed with that city, not as their own row.
+const groups = fs.readFileSync('data/place_groups.yaml','utf8');
+const [partOfText, twinsText = ''] = groups.split(/^twins:/m);
+const partOf = new Map([...partOfText.matchAll(/^[ \t]+([a-z0-9-]+):[ \t]*([a-z0-9-]+)[ \t]*\r?$/gm)].map(m=>[m[1],m[2]]));
+const twins = [...twinsText.matchAll(/^[ \t]{2}([a-z0-9-]+):/gm)].map(m=>m[1]);
+for (const [child,parent] of partOf) {
+  assert.ok(expected.has(parent),`${child}: its city ${parent} has no chapters of its own`);
+  for (const url of expected.get(child)||[]) expected.get(parent).add(url);
+  expected.delete(child);
+}
 const index = fs.readFileSync(path.join(build,'places/index.html'),'utf8');
 const rows = [...index.matchAll(/<details\b([^>]*data-place-item[^>]*)>([\s\S]*?)<\/details>/g)];
-assert.equal(rows.length,expected.size,'Place count differs from source chapter taxonomy');
+assert.equal(rows.length,expected.size+twins.length,'Place count differs from source chapter taxonomy');
 let links=0;
 for (const [,attrs,html] of rows) {
   const slug=attrs.match(/data-slug=(?:"([^"]+)"|([^\s>]+))/).slice(1).find(Boolean);

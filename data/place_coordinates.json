@@ -3528,243 +3528,243 @@
     "query": "Trinidad - Тринидад, Куба"
   },
   "windsor": {
-    "lat": 51.4817,
-    "lon": -0.6136,
+    "lat": 51.4800285,
+    "lon": -0.6125716,
     "name": "Windsor",
     "country_code": "GB",
-    "source": "https://www.openstreetmap.org/search?query=Windsor%2C%20Berkshire",
-    "query": "Windsor, Berkshire"
+    "source": "https://www.openstreetmap.org/relation/14215419",
+    "query": "Windsor, Windsor and Maidenhead"
   },
   "canillo": {
-    "lat": 42.5667,
-    "lon": 1.6,
+    "lat": 42.5869228,
+    "lon": 1.6570617,
     "name": "Canillo",
     "country_code": "AD",
-    "source": "https://www.openstreetmap.org/search?query=Canillo%2C%20Andorra",
+    "source": "https://www.openstreetmap.org/relation/2804754",
     "query": "Canillo, Andorra"
   },
   "aachen": {
-    "lat": 50.7753,
-    "lon": 6.0839,
+    "lat": 50.776351,
+    "lon": 6.083862,
     "name": "Aachen",
     "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=Aachen",
+    "source": "https://www.openstreetmap.org/relation/62564",
     "query": "Aachen"
   },
   "tournai": {
-    "lat": 50.6056,
-    "lon": 3.3889,
+    "lat": 50.6056458,
+    "lon": 3.3878179,
     "name": "Tournai",
     "country_code": "BE",
-    "source": "https://www.openstreetmap.org/search?query=Tournai",
+    "source": "https://www.openstreetmap.org/relation/2162970",
     "query": "Tournai"
   },
   "somme": {
-    "lat": 50.0503,
-    "lon": 2.6856,
-    "name": "Somme",
+    "lat": 50.0505667,
+    "lon": 2.6856694,
+    "name": "Mémorial Franco-Britannique de Thiepval",
     "country_code": "FR",
-    "source": "https://www.openstreetmap.org/search?query=Thiepval%20Memorial%2C%20Somme",
-    "query": "Thiepval Memorial, Somme"
+    "source": "https://www.openstreetmap.org/way/142400043",
+    "query": "Thiepval Memorial"
   },
   "disneyland-paris": {
-    "lat": 48.8722,
-    "lon": 2.7758,
-    "name": "Disneyland Paris",
+    "lat": 48.8723158,
+    "lon": 2.7757119,
+    "name": "Parc Disneyland",
     "country_code": "FR",
-    "source": "https://www.openstreetmap.org/search?query=Disneyland%20Paris",
-    "query": "Disneyland Paris"
+    "source": "https://www.openstreetmap.org/way/775180147",
+    "query": "Disneyland Park, Chessy"
   },
   "vaux-le-vicomte": {
-    "lat": 48.5655,
-    "lon": 2.714,
-    "name": "Vaux-le-Vicomte",
+    "lat": 48.5658656,
+    "lon": 2.7141466,
+    "name": "Château de Vaux-le-Vicomte",
     "country_code": "FR",
-    "source": "https://www.openstreetmap.org/search?query=Ch%C3%A2teau%20de%20Vaux-le-Vicomte",
+    "source": "https://www.openstreetmap.org/way/197235251",
     "query": "Château de Vaux-le-Vicomte"
   },
   "fussen": {
-    "lat": 47.5703,
-    "lon": 10.7004,
+    "lat": 47.5675998,
+    "lon": 10.6993217,
     "name": "Füssen",
     "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=F%C3%BCssen",
+    "source": "https://www.openstreetmap.org/relation/448298",
     "query": "Füssen"
   },
   "meaux": {
-    "lat": 48.9601,
-    "lon": 2.8788,
+    "lat": 48.9582708,
+    "lon": 2.8773541,
     "name": "Meaux",
     "country_code": "FR",
-    "source": "https://www.openstreetmap.org/search?query=Meaux",
+    "source": "https://www.openstreetmap.org/relation/86609",
     "query": "Meaux"
   },
   "versailles": {
-    "lat": 48.8049,
-    "lon": 2.1204,
-    "name": "Versailles",
+    "lat": 48.8044252,
+    "lon": 2.1202853,
+    "name": "Château de Versailles",
     "country_code": "FR",
-    "source": "https://www.openstreetmap.org/search?query=Ch%C3%A2teau%20de%20Versailles",
+    "source": "https://www.openstreetmap.org/relation/1149002",
     "query": "Château de Versailles"
   },
   "mittenwald": {
-    "lat": 47.4425,
-    "lon": 11.2617,
+    "lat": 47.4417784,
+    "lon": 11.2614288,
     "name": "Mittenwald",
     "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=Mittenwald",
+    "source": "https://www.openstreetmap.org/relation/939341",
     "query": "Mittenwald"
   },
   "karwendel": {
-    "lat": 47.4386,
-    "lon": 11.2928,
-    "name": "Karwendel",
+    "lat": 47.430344,
+    "lon": 11.2956947,
+    "name": "Karwendelbahn Bergstation",
     "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=Karwendelbahn%20Bergstation",
+    "source": "https://www.openstreetmap.org/node/365782661",
     "query": "Karwendelbahn Bergstation"
   },
   "leutaschklamm": {
-    "lat": 47.4325,
-    "lon": 11.2483,
+    "lat": 47.4291804,
+    "lon": 11.2440077,
     "name": "Leutaschklamm",
-    "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=Leutaschklamm",
+    "country_code": "AT",
+    "source": "https://www.openstreetmap.org/way/925622582",
     "query": "Leutaschklamm"
   },
   "munich": {
-    "lat": 48.1374,
-    "lon": 11.5755,
+    "lat": 48.1371079,
+    "lon": 11.5753822,
     "name": "München",
     "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=M%C3%BCnchen",
+    "source": "https://www.openstreetmap.org/relation/62428",
     "query": "München"
   },
   "nymphenburg": {
-    "lat": 48.1583,
-    "lon": 11.5033,
+    "lat": 48.1583251,
+    "lon": 11.5032919,
     "name": "Schloss Nymphenburg",
     "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=Schloss%20Nymphenburg",
+    "source": "https://www.openstreetmap.org/relation/2144986",
     "query": "Schloss Nymphenburg"
   },
   "munich-residenz": {
-    "lat": 48.141,
-    "lon": 11.5786,
+    "lat": 48.140809,
+    "lon": 11.5775546,
     "name": "Residenz München",
     "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=Residenz%20M%C3%BCnchen",
+    "source": "https://www.openstreetmap.org/node/12898612562",
     "query": "Residenz München"
   },
   "rothenburg": {
-    "lat": 49.3771,
-    "lon": 10.1786,
+    "lat": 49.3658042,
+    "lon": 10.1629182,
     "name": "Rothenburg ob der Tauber",
     "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=Rothenburg%20ob%20der%20Tauber",
+    "source": "https://www.openstreetmap.org/relation/287759",
     "query": "Rothenburg ob der Tauber"
   },
   "nuremberg": {
-    "lat": 49.4521,
-    "lon": 11.0767,
+    "lat": 49.453872,
+    "lon": 11.077298,
     "name": "Nürnberg",
     "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=N%C3%BCrnberg",
+    "source": "https://www.openstreetmap.org/relation/62780",
     "query": "Nürnberg"
   },
   "reims": {
-    "lat": 49.2583,
-    "lon": 4.0317,
+    "lat": 49.2577886,
+    "lon": 4.031926,
     "name": "Reims",
     "country_code": "FR",
-    "source": "https://www.openstreetmap.org/search?query=Reims",
+    "source": "https://www.openstreetmap.org/relation/36458",
     "query": "Reims"
   },
   "rhine-valley": {
-    "lat": 50.1394,
-    "lon": 7.7289,
-    "name": "Mittelrhein",
+    "lat": 50.1548796,
+    "lon": 7.7160976,
+    "name": "Sankt Goarshausen",
     "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=Loreley%2C%20Mittelrhein",
-    "query": "Loreley, Mittelrhein"
+    "source": "https://www.openstreetmap.org/relation/539918",
+    "query": "Loreley, Sankt Goarshausen"
   },
   "rouen": {
-    "lat": 49.4431,
-    "lon": 1.0993,
+    "lat": 49.4404591,
+    "lon": 1.0939658,
     "name": "Rouen",
     "country_code": "FR",
-    "source": "https://www.openstreetmap.org/search?query=Rouen",
+    "source": "https://www.openstreetmap.org/relation/75628",
     "query": "Rouen"
   },
   "honfleur": {
-    "lat": 49.4194,
-    "lon": 0.2331,
+    "lat": 49.4197222,
+    "lon": 0.2338889,
     "name": "Honfleur",
     "country_code": "FR",
-    "source": "https://www.openstreetmap.org/search?query=Honfleur",
+    "source": "https://www.openstreetmap.org/relation/126415",
     "query": "Honfleur"
   },
   "strasbourg": {
-    "lat": 48.5734,
-    "lon": 7.7521,
+    "lat": 48.584614,
+    "lon": 7.7507127,
     "name": "Strasbourg",
     "country_code": "FR",
-    "source": "https://www.openstreetmap.org/search?query=Strasbourg",
+    "source": "https://www.openstreetmap.org/relation/71033",
     "query": "Strasbourg"
   },
   "mercedes-benz-museum": {
-    "lat": 48.788,
-    "lon": 9.2334,
+    "lat": 48.7882006,
+    "lon": 9.2339924,
     "name": "Mercedes-Benz Museum",
     "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=Mercedes-Benz%20Museum",
-    "query": "Mercedes-Benz Museum"
+    "source": "https://www.openstreetmap.org/relation/14292942",
+    "query": "Mercedes-Benz Museum, Stuttgart"
   },
   "hohenzollern-castle": {
-    "lat": 48.3233,
-    "lon": 8.9675,
+    "lat": 48.3235771,
+    "lon": 8.9673831,
     "name": "Burg Hohenzollern",
     "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=Burg%20Hohenzollern",
+    "source": "https://www.openstreetmap.org/way/93612350",
     "query": "Burg Hohenzollern"
   },
   "ulm": {
-    "lat": 48.4011,
-    "lon": 9.9876,
+    "lat": 48.3984968,
+    "lon": 9.9912458,
     "name": "Ulm",
     "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=Ulm",
+    "source": "https://www.openstreetmap.org/relation/62495",
     "query": "Ulm"
   },
   "wurzburg": {
-    "lat": 49.7913,
-    "lon": 9.9534,
+    "lat": 49.7780356,
+    "lon": 9.9434769,
     "name": "Würzburg",
     "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=W%C3%BCrzburg",
+    "source": "https://www.openstreetmap.org/relation/62464",
     "query": "Würzburg"
   },
   "rudesheim": {
-    "lat": 49.979,
-    "lon": 7.9234,
+    "lat": 50.0293,
+    "lon": 7.8902,
     "name": "Rüdesheim am Rhein",
     "country_code": "DE",
-    "source": "https://www.openstreetmap.org/search?query=R%C3%BCdesheim%20am%20Rhein",
+    "source": "https://www.openstreetmap.org/relation/409093",
     "query": "Rüdesheim am Rhein"
   },
   "los-angeles": {
-    "lat": 34.0522,
-    "lon": -118.2437,
+    "lat": 34.0536923,
+    "lon": -118.2427676,
     "name": "Los Angeles",
     "country_code": "US",
-    "source": "https://www.openstreetmap.org/search?query=Los%20Angeles",
-    "query": "Los Angeles"
+    "source": "https://www.openstreetmap.org/relation/207359",
+    "query": "Los Angeles, California"
   },
   "disneyland-anaheim": {
-    "lat": 33.8121,
-    "lon": -117.919,
+    "lat": 33.8136512,
+    "lon": -117.9197351,
     "name": "Disneyland",
     "country_code": "US",
-    "source": "https://www.openstreetmap.org/search?query=Disneyland%20Park%2C%20Anaheim",
+    "source": "https://www.openstreetmap.org/relation/5586855",
     "query": "Disneyland Park, Anaheim"
   }
 }
