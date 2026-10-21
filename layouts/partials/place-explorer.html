@@ -3,7 +3,7 @@
 {{- range .Data.Terms.Alphabetical }}
   {{- $p := .Page -}}
   {{- /* country from the place's coordinates (country_code), not from the title's last part — titles often end with a city (Барселона, Вена, Фигерас) */ -}}
-  {{- $codes := dict "CH" "Швейцария" "CA" "Канада" "PT" "Португалия" "ES" "Испания" "NL" "Голландия (Нидерланды)" "BE" "Бельгия" "FR" "Франция" "US" "США" "DE" "Германия" "MX" "Мексика" "CU" "Куба" "GB" "Англия" "IT" "Италия" "VA" "Ватикан" "IS" "Исландия" "CN" "Китай" "AR" "Аргентина" "CL" "Чили" "BR" "Бразилия" "AT" "Австрия" "CZ" "Чехия" "JP" "Япония" -}}
+  {{- $codes := dict "CH" "Швейцария" "CA" "Канада" "PT" "Португалия" "ES" "Испания" "NL" "Голландия (Нидерланды)" "BE" "Бельгия" "FR" "Франция" "US" "США" "DE" "Германия" "MX" "Мексика" "CU" "Куба" "TT" "Тринидад и Тобаго" "GB" "Англия" "IT" "Италия" "VA" "Ватикан" "IS" "Исландия" "CN" "Китай" "AR" "Аргентина" "CL" "Чили" "BR" "Бразилия" "AT" "Австрия" "CZ" "Чехия" "JP" "Япония" -}}
   {{- $g := index site.Data.place_coordinates (path.Base $p.File.Dir) -}}
   {{- $byCode := "" }}{{ with $g }}{{ with .country_code }}{{ $byCode = index $codes (upper .) | default "" }}{{ end }}{{ end -}}
   {{- $country := $p.Params.country | default $byCode | default (index (last 1 (split $p.Title ", ")) 0) -}}

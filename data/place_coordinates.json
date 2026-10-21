@@ -3502,5 +3502,13 @@
     "country_code": "CU",
     "source": "https://www.openstreetmap.org/way/102172504",
     "query": "Guamá Matanzas Cuba"
+  },
+  "port-of-spain": {
+    "lat": 10.6572678,
+    "lon": -61.5180173,
+    "name": "Port of Spain",
+    "country_code": "TT",
+    "source": "https://www.openstreetmap.org/relation/7363637",
+    "query": "Port of Spain"
   }
 }
