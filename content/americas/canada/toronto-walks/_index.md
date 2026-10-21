@@ -4,7 +4,7 @@ type: "trips"
 short_trip: "canada"
 trip_year: 2022
 trip_start: "2022-08"
-trip_end: "2023-09"
+trip_end: "2023-12"
 date: "2022-08-13"
 continent: "Северная Америка"
 country: "Канада"
