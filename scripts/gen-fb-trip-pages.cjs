@@ -149,6 +149,9 @@ if (fs.existsSync(dataFile)) {
     if (!data[key]) continue;
     delete data[key].caption; delete data[key].caption_in_text;
     if (p.caption) { data[key][textCaps.has(key) ? "caption_in_text" : "caption"] = fixCaption(cfg.chapters.find(c => c.slug === p.chapter).key, p.source_position, p.caption); caps++; }
+    // trip-config "owner_captions": { "<chapter>/<photo number>": text } — captions the owner added later in chat
+    // to photos that had none in the post
+    else if ((cfg.owner_captions || {})[`${p.chapter}/${p.source_position}`]) { data[key].caption = cfg.owner_captions[`${p.chapter}/${p.source_position}`]; caps++; }
   }
   fs.writeFileSync(dataFile, JSON.stringify(data, null, 1) + "\n");
   report.push(`captions: ${caps}`);
