@@ -16,10 +16,6 @@
     dialog.showModal();
     document.body.classList.add('place-dialog-open');
   }
-  rows.forEach(row => row.querySelector('summary').addEventListener('click', event => {
-    if (!dialog.showModal) return;
-    event.preventDefault(); openPlace(row, event.currentTarget);
-  }));
   root.querySelector('#place-dialog-close').addEventListener('click', () => dialog.close());
   dialog.addEventListener('click', event => { if (event.target === dialog) { const r=dialog.getBoundingClientRect(); if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom) dialog.close(); } });
   dialog.addEventListener('close', () => { document.body.classList.remove('place-dialog-open'); opener?.focus(); });

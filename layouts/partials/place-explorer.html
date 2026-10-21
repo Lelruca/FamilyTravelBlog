@@ -1,7 +1,10 @@
 {{- $entries := slice -}}
 {{- $countries := slice -}}
+{{- $groups := site.Data.place_groups -}}
 {{- range .Data.Terms.Alphabetical }}
   {{- $p := .Page -}}
+  {{- /* museums, palaces etc. seen during a city visit are shown inside that city (data/place_groups.yaml) */ -}}
+  {{- if not (index $groups.part_of (path.Base $p.File.Dir)) }}
   {{- /* country from the place's coordinates (country_code), not from the title's last part — titles often end with a city (Барселона, Вена, Фигерас) */ -}}
   {{- $codes := dict "CH" "Швейцария" "CA" "Канада" "PT" "Португалия" "ES" "Испания" "NL" "Голландия (Нидерланды)" "BE" "Бельгия" "FR" "Франция" "US" "США" "DE" "Германия" "MX" "Мексика" "CU" "Куба" "GB" "Англия" "IT" "Италия" "VA" "Ватикан" "IS" "Исландия" "CN" "Китай" "AR" "Аргентина" "CL" "Чили" "BR" "Бразилия" "AT" "Австрия" "CZ" "Чехия" "JP" "Япония" -}}
   {{- $g := index site.Data.place_coordinates (path.Base $p.File.Dir) -}}
@@ -12,7 +15,14 @@
   {{- $countries = $countries | append $country -}}
   {{- $slug := path.Base $p.File.Dir -}}
   {{- $geo := index site.Data.place_coordinates $slug -}}
-  {{- $entries = $entries | append (dict "page" $p "slug" $slug "country" $country "title" $p.Title "geo" $geo) -}}
+  {{- $search := $p.Title -}}
+  {{- range $child, $parent := $groups.part_of }}{{ if eq $parent $slug }}{{ with site.GetPage (printf "/places/%s" $child) }}{{ $search = printf "%s %s" $search .Title }}{{ end }}{{ end }}{{ end -}}
+  {{- $entries = $entries | append (dict "page" $p "slug" $slug "country" $country "title" $p.Title "geo" $geo "search" $search) -}}
+  {{- range index $groups.twins $slug }}
+    {{- $countries = $countries | append .country -}}
+    {{- $entries = $entries | append (dict "page" $p "slug" $slug "country" .country "title" $p.Title "geo" (dict "lat" .lat "lon" .lon) "search" $search) -}}
+  {{- end }}
+  {{- end }}
 {{- end -}}
 {{- $entries = sort (sort $entries "title") "country" -}}
 <link rel="stylesheet" href="{{ "vendor/leaflet/leaflet.css" | relURL }}">
@@ -35,8 +45,8 @@
       <section data-place-group><h2 class="font-serif text-2xl">{{ .country }}</h2>
       {{- $state.Set "country" .country -}}
     {{- end }}
-    <details data-place-item data-slug="{{ .slug }}" data-country="{{ .country }}" data-search="{{ .title }} {{ .slug }}"{{ with .geo }} data-lat="{{ .lat }}" data-lon="{{ .lon }}"{{ end }}>
-      <summary aria-haspopup="dialog"><span class="place-title">{{ index (split .title ", ") 0 }}</span><span aria-hidden="true" class="place-arrow">›</span></summary>
+    <details data-place-item data-slug="{{ .slug }}" data-country="{{ .country }}" data-search="{{ .search }} {{ .slug }}"{{ with .geo }} data-lat="{{ .lat }}" data-lon="{{ .lon }}"{{ end }}>
+      <summary><span class="place-title">{{ index (split .title ", ") 0 }}</span><svg class="place-arrow" width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6" fill="none" stroke="currentColor" stroke-width="1.5"/></svg></summary>
       <div class="place-detail-content">{{ partial "place-chapters.html" .page }}<a class="place-permalink" href="{{ .page.RelPermalink }}">Ссылка на это место</a></div>
     </details>
   {{- end }}

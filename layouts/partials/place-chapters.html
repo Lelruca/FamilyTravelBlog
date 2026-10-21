@@ -1,5 +1,11 @@
+{{- /* Chapters of a place plus chapters of the places inside it (data/place_groups.yaml part_of) */ -}}
+{{- $slug := path.Base .File.Dir -}}
+{{- $pages := .Pages -}}
+{{- range $child, $parent := site.Data.place_groups.part_of -}}
+  {{- if eq $parent $slug -}}{{- with site.GetPage (printf "/places/%s" $child) -}}{{- $pages = $pages | union .Pages -}}{{- end -}}{{- end -}}
+{{- end -}}
 <ul class="place-chapters">
-{{- range .Pages.ByDate.Reverse }}
+{{- range sort $pages "Date" "desc" }}
   {{- if .IsPage }}
   <li><a href="{{ .RelPermalink }}"><span class="place-chapter-title">{{ .Title }}</span><span class="place-context">{{ partial "place-trip-context.html" . }}</span></a></li>
   {{- end }}

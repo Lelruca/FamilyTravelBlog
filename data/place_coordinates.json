@@ -361,14 +361,6 @@
     "source": "https://www.openstreetmap.org/relation/9092218",
     "query": "Halifax Canada"
   },
-  "harvard": {
-    "lat": 42.3657432,
-    "lon": -71.1222139,
-    "name": "Harvard University",
-    "country_code": "US",
-    "source": "https://www.openstreetmap.org/relation/2415825",
-    "query": "Harvard University Cambridge USA"
-  },
   "haut-koenigsbourg": {
     "lat": 48.249382,
     "lon": 7.3439412,
@@ -3534,5 +3526,21 @@
     "country_code": "CU",
     "source": "https://en.wikipedia.org/wiki/Trinidad,_Cuba",
     "query": "Trinidad - Тринидад, Куба"
+  },
+  "windsor": {
+    "lat": 51.4817,
+    "lon": -0.6136,
+    "name": "Windsor",
+    "country_code": "GB",
+    "source": "https://www.openstreetmap.org/search?query=Windsor%2C%20Berkshire",
+    "query": "Windsor, Berkshire"
+  },
+  "canillo": {
+    "lat": 42.5667,
+    "lon": 1.6,
+    "name": "Canillo",
+    "country_code": "AD",
+    "source": "https://www.openstreetmap.org/search?query=Canillo%2C%20Andorra",
+    "query": "Canillo, Andorra"
   }
 }

@@ -6,6 +6,7 @@ weight: 90
 city: "Лондон и Windsor"
 places:
   - london
+  - windsor
   - legoland-windsor
   - national-gallery
 hero_image: "DSCF0094.jpg"

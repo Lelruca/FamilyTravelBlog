@@ -5,6 +5,7 @@ layout: "photo-story"
 weight: 30
 city: "Андорра"
 places:
+  - canillo
   - roc-del-quer
 hero_image: "20260718_121707.jpg"
 hero_card_position: "center 50%"

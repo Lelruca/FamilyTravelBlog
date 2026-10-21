@@ -5,6 +5,7 @@ layout: "photo-story"
 weight: 10
 city: "Windsor"
 places:
+  - windsor
   - windsor-castle
 hero_image: "20221121_044604.jpg"
 date: "2022-11-21"
