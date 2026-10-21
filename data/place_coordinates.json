@@ -3222,5 +3222,13 @@
     "country_code": "US",
     "source": "https://www.openstreetmap.org/way/38898412",
     "query": "Minneapolis Institute of Art"
+  },
+  "mont-tremblant": {
+    "lat": 46.2096256,
+    "lon": -74.5852122,
+    "name": "Mont Tremblant",
+    "country_code": "CA",
+    "source": "https://www.tremblant.ca/plan/getting-here",
+    "query": "Official resort Getting here page map link: https://maps.app.goo.gl/hqqdDU3z7qY5cTAx5 (46.2096256, -74.5852122)"
   }
 }
