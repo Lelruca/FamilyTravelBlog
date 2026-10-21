@@ -13,7 +13,7 @@ places:
 hero_image: "facebook_762181705708367.jpg"
 date: "2023-08-08"
 auto_gallery: false
-draft: true
+draft: false
 ---
 <p>Mannheim, Germany</p>
 
