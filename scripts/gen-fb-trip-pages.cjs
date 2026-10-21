@@ -75,9 +75,9 @@ cfg.chapters.forEach((ch, n) => {
   const used = hero ? [hero] : [];
   const after = {};
   for (const b of raw.blocks) {
-    const items = b.kind === "text" || b.kind === "heading" ? "" : String(b.items).split(/\s+/).filter(Boolean).map(name).join(" ");
+    const items = ["text", "heading", "note"].includes(b.kind) ? "" : String(b.items).split(/\s+/).filter(Boolean).map(name).join(" ");
     (after[b.after] = after[b.after] || []).push({ ...b, names: items });
-    if (b.kind !== "text" && b.kind !== "heading") used.push(...items.split(" ").map(x => x.replace(/^[LRT]:/, "")));
+    if (!["text", "heading", "note"].includes(b.kind)) used.push(...items.split(" ").map(x => x.replace(/^[LRT]:/, "")));
     if (b.kind === "text" || b.kind === "beside") for (const num of String(b.captions || b.items).split(/\s+/)) textCaps.add(`${ch.slug}/${byPos[num]}`);
   }
   const missing = photos.filter(p => !used.includes(p));
@@ -92,6 +92,8 @@ cfg.chapters.forEach((ch, n) => {
   // a photo's own caption shown as a paragraph of text next to it (lines stay lines)
   const note = num => `<p class="photo-note">${esc(capByPos[num]).replace(/\n/g, "<br>")}</p>`;
   const render = b => {
+    // { after, kind: "note", text } — a short note the owner gave in chat (an address, a reference), lines kept
+    if (b.kind === "note") return `<p class="photo-note">${esc(b.text).replace(/\n/g, "<br>")}</p>`;
     // { after, kind: "heading", text } — the place the next photos show (a section of a long chapter)
     if (b.kind === "heading") return `<h3 class="essay-section">${esc(b.text)}</h3>`;
     if (b.kind === "text") {
@@ -147,6 +149,9 @@ if (fs.existsSync(dataFile)) {
     if (!data[key]) continue;
     delete data[key].caption; delete data[key].caption_in_text;
     if (p.caption) { data[key][textCaps.has(key) ? "caption_in_text" : "caption"] = fixCaption(cfg.chapters.find(c => c.slug === p.chapter).key, p.source_position, p.caption); caps++; }
+    // trip-config "owner_captions": { "<chapter>/<photo number>": text } — captions the owner added later in chat
+    // to photos that had none in the post
+    else if ((cfg.owner_captions || {})[`${p.chapter}/${p.source_position}`]) { data[key].caption = cfg.owner_captions[`${p.chapter}/${p.source_position}`]; caps++; }
   }
   fs.writeFileSync(dataFile, JSON.stringify(data, null, 1) + "\n");
   report.push(`captions: ${caps}`);
