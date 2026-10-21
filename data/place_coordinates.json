@@ -3198,5 +3198,13 @@
     "country_code": "CA",
     "source": "https://www.openstreetmap.org/way/37659034",
     "query": "Crawford Lake Conservation Area"
+  },
+  "port-elgin": {
+    "lat": 44.4358826,
+    "lon": -81.3889458,
+    "name": "Port Elgin",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/1614511444",
+    "query": "Port Elgin Ontario"
   }
 }
