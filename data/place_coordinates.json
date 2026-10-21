@@ -3294,5 +3294,13 @@
     "country_code": "CA",
     "source": "https://www.openstreetmap.org/way/15089986",
     "query": "Ontario Legislative Building"
+  },
+  "mcmichael-gallery": {
+    "lat": 43.8434804,
+    "lon": -79.6166181,
+    "name": "McMichael Canadian Art Collection",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/282720068",
+    "query": "McMichael Canadian Art Collection"
   }
 }
