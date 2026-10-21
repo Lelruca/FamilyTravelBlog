@@ -15,8 +15,8 @@ cover_title: "Монтсеррат"
 cover_subtitle: "На Успение к Черной Мадонне"
 cover_when: "Август 2025"
 cover_who: "Сережа, Леля, Наташа и Марина"
-cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/montserrat-2025/montserrat/20250815_133929.jpg"
-cover_position: "center 50%"
+cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/montserrat-2025/montserrat/20250815_105319.jpg"
+cover_position: "center 35%"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
-draft: true
+draft: false
 ---

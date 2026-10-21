@@ -3414,5 +3414,93 @@
     "country_code": "ES",
     "source": "https://www.openstreetmap.org/node/7114090488",
     "query": "Abadia de Montserrat"
+  },
+  "varadero": {
+    "lat": 23.149578,
+    "lon": -81.260025,
+    "name": "Varadero",
+    "country_code": "CU",
+    "source": "https://www.openstreetmap.org/relation/11281805",
+    "query": "Varadero"
+  },
+  "havana": {
+    "lat": 23.135305,
+    "lon": -82.3589631,
+    "name": "La Habana",
+    "country_code": "CU",
+    "source": "https://www.openstreetmap.org/node/26396457",
+    "query": "La Habana Cuba"
+  },
+  "capitolio-havana": {
+    "lat": 23.1352722,
+    "lon": -82.3597064,
+    "name": "Capitolio Nacional",
+    "country_code": "CU",
+    "source": "https://www.openstreetmap.org/relation/12639209",
+    "query": "Capitolio Nacional de Cuba"
+  },
+  "gran-teatro-havana": {
+    "lat": 23.13691,
+    "lon": -82.3595913,
+    "name": "Gran Teatro de La Habana",
+    "country_code": "CU",
+    "source": "https://www.openstreetmap.org/relation/19355360",
+    "query": "Gran Teatro de La Habana"
+  },
+  "catedral-havana": {
+    "lat": 23.1413184,
+    "lon": -82.3518299,
+    "name": "Catedral de San Cristóbal de La Habana",
+    "country_code": "CU",
+    "source": "https://www.openstreetmap.org/way/23870813",
+    "query": "Catedral de San Cristóbal de La Habana"
+  },
+  "bodeguita-del-medio": {
+    "lat": 23.1408388,
+    "lon": -82.3522787,
+    "name": "La Bodeguita del Medio",
+    "country_code": "CU",
+    "source": "https://www.openstreetmap.org/node/355338535",
+    "query": "La Bodeguita del Medio"
+  },
+  "plaza-vieja-havana": {
+    "lat": 23.136075,
+    "lon": -82.3500251,
+    "name": "Plaza Vieja",
+    "country_code": "CU",
+    "source": "https://www.openstreetmap.org/way/34966687",
+    "query": "Plaza Vieja La Habana"
+  },
+  "morro-havana": {
+    "lat": 23.1505825,
+    "lon": -82.3568153,
+    "name": "Castillo de los Tres Reyes del Morro",
+    "country_code": "CU",
+    "source": "https://www.openstreetmap.org/way/23918434",
+    "query": "Castillo de los Tres Reyes del Morro"
+  },
+  "cristo-havana": {
+    "lat": 23.1439904,
+    "lon": -82.3449495,
+    "name": "Cristo de La Habana",
+    "country_code": "CU",
+    "source": "https://www.openstreetmap.org/node/1551270928",
+    "query": "Cristo de La Habana"
+  },
+  "plaza-revolucion-havana": {
+    "lat": 23.1313751,
+    "lon": -82.3943345,
+    "name": "Plaza de la Revolución",
+    "country_code": "CU",
+    "source": "https://www.openstreetmap.org/relation/5489828",
+    "query": "Plaza de la Revolución La Habana"
+  },
+  "guama": {
+    "lat": 22.3675063,
+    "lon": -81.1640808,
+    "name": "Guamá",
+    "country_code": "CU",
+    "source": "https://www.openstreetmap.org/way/102172504",
+    "query": "Guamá Matanzas Cuba"
   }
 }
