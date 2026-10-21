@@ -3190,5 +3190,13 @@
     "country_code": "ES",
     "source": "https://www.openstreetmap.org/relation/341237",
     "query": "Torrevieja"
+  },
+  "crawford-lake": {
+    "lat": 43.4676712,
+    "lon": -79.9433126,
+    "name": "Crawford Lake Conservation Area",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/37659034",
+    "query": "Crawford Lake Conservation Area"
   }
 }
