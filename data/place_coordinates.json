@@ -3230,5 +3230,29 @@
     "country_code": "CA",
     "source": "https://www.tremblant.ca/plan/getting-here",
     "query": "Official resort Getting here page map link: https://maps.app.goo.gl/hqqdDU3z7qY5cTAx5 (46.2096256, -74.5852122)"
+  },
+  "oggersheim": {
+    "lat": 49.4944321,
+    "lon": 8.373791,
+    "name": "Oggersheim",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/68338",
+    "query": "Oggersheim"
+  },
+  "heidelberg": {
+    "lat": 49.4093582,
+    "lon": 8.694724,
+    "name": "Heidelberg",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/relation/62487",
+    "query": "Heidelberg"
+  },
+  "heidelberg-castle": {
+    "lat": 49.4104729,
+    "lon": 8.7151965,
+    "name": "Heidelberger Schloss",
+    "country_code": "DE",
+    "source": "https://www.openstreetmap.org/way/254154168",
+    "query": "Heidelberger Schloss"
   }
 }
