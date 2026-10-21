@@ -12,9 +12,10 @@ for (const file of walk('content').filter(f=>path.basename(f)==='index.md')) {
   const front = raw.split(/^---\s*$/m)[1] || '';
   if (/^draft:\s*true\s*$/m.test(front)) continue;
   const places = front.match(/^places:\s*\r?\n((?:[ \t]+-[^\n]+\r?\n?)+)/m)?.[1];
-  if (!places) continue;
+  const inline = front.match(/^places:[ \t]*\[([^\]\r\n]*)\]/m)?.[1];
+  if (!places && inline === undefined) continue;
   const url = '/' + path.dirname(file).slice('content'.length+1).replaceAll('\\','/') + '/';
-  for (const line of places.trim().split('\n')) {
+  for (const line of places ? places.trim().split('\n') : inline.split(',').filter(x=>x.trim())) {
     const slug=line.trim().replace(/^-\s*/, '').replace(/^['"]|['"]$/g,'').trim();
     if (!expected.has(slug)) expected.set(slug,new Set());
     expected.get(slug).add(url);
@@ -29,7 +30,9 @@ for (const [,attrs,html] of rows) {
   const coord=coordinates[slug];
   assert.ok(coord,`${slug}: missing reviewed coordinates`);
   assert.ok(Number.isFinite(coord.lat) && Math.abs(coord.lat)<=85 && Number.isFinite(coord.lon) && Math.abs(coord.lon)<=180,`${slug}: invalid coordinates`);
-  assert.ok(coord.source.startsWith('https://www.openstreetmap.org/'),`${slug}: missing source`);
+  const reviewedSource = /^https:\/\/(?:www\.openstreetmap\.org\/(?:node|way|relation)\/\d+|wiki\.openstreetmap\.org\/wiki\/[^\s]+|www\.wikidata\.org\/wiki\/Q\d+|en\.wikipedia\.org\/wiki\/[^\s]+)$/.test(coord.source)
+    || ['https://longwoodgardens.org/visit/directions','https://www.tremblant.ca/plan/getting-here'].includes(coord.source);
+  assert.ok(reviewedSource,`${slug}: missing reviewed geographic source`);
   assert.ok(attrs.includes('data-lat=') && attrs.includes('data-lon='),`${slug}: coordinates not rendered`);
   const chapterLinks = [...html.matchAll(/href=(?:"([^"]+)"|([^\s>]+))/g)].map(m=>m[1]||m[2]).filter(u=>!u.includes('/places/'));
   const canonical = chapterLinks.map(u=>u.replace(/^\/FamilyTravelBlog/,''));

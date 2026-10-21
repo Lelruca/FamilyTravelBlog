@@ -99,7 +99,7 @@
 {{ if .Params.plain_body_bold }}<style>.photo-essay .essay-body p b,.photo-essay .essay-body p strong{font-weight:400;font-family:inherit}</style>{{ end }}
 <div class="site-wrap chapter-layout">
 <aside class="toc-side" aria-label="Главы поездки">{{ partial "chapter-toc.html" . }}</aside>
-<article class="photo-essay"{{ if or $trip.Params.balanced_mosaics .Params.balanced_mosaics }} data-balanced-mosaics{{ end }}{{ if $trip.Params.semantic_paragraph_spacing }} data-semantic-paragraphs{{ end }}{{ if or $trip.Params.readable_photos .Params.readable_photos }} data-readable-photos{{ end }}>
+<article class="photo-essay"{{ if $trip.Params.strict_photo_cap }} data-strict-photo-cap{{ end }}{{ if or $trip.Params.balanced_mosaics .Params.balanced_mosaics }} data-balanced-mosaics{{ end }}{{ if $trip.Params.semantic_paragraph_spacing }} data-semantic-paragraphs{{ end }}{{ if or $trip.Params.readable_photos .Params.readable_photos }} data-readable-photos{{ end }}>
 <details class="toc-bar"><summary><span>Оглавление</span><span class="where">Глава {{ add $idx 1 }} из {{ len $chapters }}</span><span class="close">Свернуть ✕</span></summary>{{ partial "chapter-toc.html" . }}</details>
 <header class="essay-header">
 <a class="essay-trip" href="{{ partial "trip-url.html" $trip }}">{{ $trip.Params.cover_title | default $trip.Title }}</a>
@@ -200,7 +200,8 @@
     const g = parseFloat(getComputedStyle(el).columnGap) || 12;
     const W = el.parentElement.clientWidth;
     const phone = W < 600;
-    const maxH = window.innerHeight - (phone ? 110 : 84);   // the visible screen under the site bar
+    const strictCap = !!el.closest('[data-strict-photo-cap]');
+    const maxH = strictCap ? window.innerHeight * .8 : window.innerHeight - (phone ? 110 : 84);
     // Reviewed trips: at most two photos per narrow-screen line; one on very small phones.
     // Keep complete images and the existing DOM/lightbox order.
     if ((W < 600 || (W < 900 && !el.dataset.layout)) && el.closest('[data-readable-photos]')) {
@@ -268,9 +269,20 @@
       const s = score(rects, items, W, H, maxH, window.innerHeight, phone);
       if (!best || s < best.s) best = { s, tree, f, H };
     }
-    const { tree, H } = best;                              // always the full width of the photo zone
-    const rects = []; place(tree, 0, 0, W, H, g, rects);
-    el.style.width = W + 'px'; el.style.height = H + 'px';
+    const { tree } = best;
+    let width = W, H = best.H, rects = [];
+    place(tree, 0, 0, width, H, g, rects);
+    if (strictCap && Math.max(...rects.map(r=>r.h)) > maxH) {
+      let lo=0, hi=W;
+      for(let n=0;n<24;n++) {
+        const mid=(lo+hi)/2, rr=[];
+        place(tree,0,0,mid,(mid-best.f.b)/best.f.a,g,rr);
+        if(Math.max(...rr.map(r=>r.h))>maxH)hi=mid;else lo=mid;
+      }
+      width=lo;H=(width-best.f.b)/best.f.a;rects=[];
+      place(tree,0,0,width,H,g,rects);
+    }
+    el.style.width = width + 'px'; el.style.height = H + 'px';
     photos.forEach((a, i) => { const r = rects[i]; a.style.cssText = `left:${r.x}px;top:${r.y}px;width:${r.w}px;height:${r.h}px`; });
     el.classList.add('is-laid');
   }

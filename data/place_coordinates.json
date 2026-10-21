@@ -3510,5 +3510,29 @@
     "country_code": "US",
     "source": "https://www.wikidata.org/wiki/Q139564",
     "query": "Atlantic City39°21′45″N74°25′30″W"
+  },
+  "chicago": {
+    "lat": 41.881944,
+    "lon": -87.627778,
+    "name": "Chicago",
+    "country_code": "US",
+    "source": "https://www.wikidata.org/wiki/Q1297",
+    "query": "Chicago - Чикаго, США"
+  },
+  "oxford": {
+    "lat": 51.75,
+    "lon": -1.25,
+    "name": "Oxford",
+    "country_code": "GB",
+    "source": "https://www.wikidata.org/wiki/Q34217",
+    "query": "Oxford - Оксфорд, Англия"
+  },
+  "trinidad-cuba": {
+    "lat": 21.80417,
+    "lon": -79.98306,
+    "name": "Trinidad",
+    "country_code": "CU",
+    "source": "https://en.wikipedia.org/wiki/Trinidad,_Cuba",
+    "query": "Trinidad - Тринидад, Куба"
   }
 }
