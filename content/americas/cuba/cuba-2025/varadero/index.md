@@ -9,7 +9,7 @@ places:
 hero_image: "WhatsApp_Image_2025-04-13_at_14.52.55.jpg"
 date: "2025-04-21"
 auto_gallery: false
-draft: true
+draft: false
 ---
 <p>Поскольку я веду семейный дневник путешествий, так что мне и записывать.</p>
 

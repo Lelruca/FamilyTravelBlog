@@ -17,5 +17,5 @@ cover_who: "Сережа и Митя"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/cuba-2025/havana/WhatsApp_Image_2025-04-15_at_17.09.59_(2).jpg"
 cover_position: "center 50%"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
-draft: true
+draft: false
 ---
