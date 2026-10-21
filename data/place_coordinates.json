@@ -3350,5 +3350,13 @@
     "country_code": "ES",
     "source": "https://www.openstreetmap.org/relation/16657232",
     "query": "Plaza Mayor Madrid"
+  },
+  "ottawa": {
+    "lat": 45.42472222222222,
+    "lon": -75.69500000000001,
+    "name": "Оттава",
+    "country_code": "CA",
+    "source": "https://www.wikidata.org/wiki/Q1930",
+    "query": "Ottawa coordinates45°25′29″N75°41′42″W"
   }
 }
