@@ -3510,5 +3510,53 @@
     "country_code": "TT",
     "source": "https://www.openstreetmap.org/relation/7363637",
     "query": "Port of Spain"
+  },
+  "inglis-falls": {
+    "lat": 44.5262498,
+    "lon": -80.9341361,
+    "name": "Inglis Falls",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/1288099518",
+    "query": "Inglis Falls"
+  },
+  "hoggs-falls": {
+    "lat": 44.2868143,
+    "lon": -80.5440779,
+    "name": "Hoggs Falls",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/2874677951",
+    "query": "Hoggs Falls"
+  },
+  "tobermory": {
+    "lat": 45.234697,
+    "lon": -81.6430491,
+    "name": "Tobermory",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/974158589",
+    "query": "Tobermory Ontario"
+  },
+  "flowerpot-island": {
+    "lat": 45.3007061,
+    "lon": -81.6259511,
+    "name": "Flowerpot Island",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/112644456",
+    "query": "Flowerpot Island"
+  },
+  "grotto-bruce": {
+    "lat": 45.2451999,
+    "lon": -81.5241913,
+    "name": "The Grotto",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/way/972683615",
+    "query": "The Grotto Bruce Peninsula"
+  },
+  "bruce-peninsula": {
+    "lat": 45.1941637,
+    "lon": -81.5320146,
+    "name": "Bruce Peninsula National Park",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/13080574",
+    "query": "Bruce Peninsula National Park"
   }
 }
