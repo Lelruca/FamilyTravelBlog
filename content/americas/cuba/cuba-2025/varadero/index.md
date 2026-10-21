@@ -23,4 +23,8 @@ draft: false
 
 {{< row "WhatsApp_Image_2025-04-13_at_14.52.55.jpg WhatsApp_Image_2025-04-19_at_12.56.27.jpg" >}}
 
+{{< travel-video "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/cuba-2025/varadero/WhatsApp_Video_2025-04-14_at_17.59.17.mp4" >}}
+
 {{< row "WhatsApp_Image_2025-04-13_at_11.33.31.jpg WhatsApp_Image_2025-04-13_at_11.33.33.jpg WhatsApp_Image_2025-04-19_at_12.56.28_(2).jpg" >}}
+
+{{< travel-video "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/cuba-2025/varadero/WhatsApp_Video_2025-04-17_at_20.57.24.mp4" >}}
