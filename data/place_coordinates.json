@@ -3206,5 +3206,21 @@
     "country_code": "CA",
     "source": "https://www.openstreetmap.org/node/1614511444",
     "query": "Port Elgin Ontario"
+  },
+  "minneapolis": {
+    "lat": 44.9772995,
+    "lon": -93.2654692,
+    "name": "Minneapolis",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/136712",
+    "query": "Minneapolis"
+  },
+  "minneapolis-institute-of-art": {
+    "lat": 44.9584761,
+    "lon": -93.2741528,
+    "name": "Minneapolis Institute of Art",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/way/38898412",
+    "query": "Minneapolis Institute of Art"
   }
 }
