@@ -3302,5 +3302,53 @@
     "country_code": "CA",
     "source": "https://www.openstreetmap.org/way/282720068",
     "query": "McMichael Canadian Art Collection"
+  },
+  "peniscola": {
+    "lat": 40.3577844,
+    "lon": 0.4073793,
+    "name": "Peníscola",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/343063",
+    "query": "Peñíscola"
+  },
+  "tarragona": {
+    "lat": 41.1172364,
+    "lon": 1.2546057,
+    "name": "Tarragona",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/339887",
+    "query": "Tarragona"
+  },
+  "san-francisco-el-grande": {
+    "lat": 40.4104355,
+    "lon": -3.7144793,
+    "name": "Real Basílica de San Francisco el Grande",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/28702618",
+    "query": "Real Basílica de San Francisco el Grande"
+  },
+  "almudena-cathedral": {
+    "lat": 40.4157107,
+    "lon": -3.7145886,
+    "name": "Catedral de la Almudena",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/75658",
+    "query": "Catedral de la Almudena"
+  },
+  "royal-palace-madrid": {
+    "lat": 40.4178245,
+    "lon": -3.7151134,
+    "name": "Palacio Real",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/30399",
+    "query": "Palacio Real de Madrid"
+  },
+  "plaza-mayor-madrid": {
+    "lat": 40.4153949,
+    "lon": -3.7069974,
+    "name": "Plaza Mayor",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/16657232",
+    "query": "Plaza Mayor Madrid"
   }
 }
