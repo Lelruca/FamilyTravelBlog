@@ -127,7 +127,8 @@ chapter_kind: "${m.kind || "part"}"
 layout: "photo-story"
 weight: ${(n + 1) * 10}
 city: ${yaml(m.city)}
-places:${yaml(m.places)}
+places:${yaml(m.places)}${m.aliases ? `
+aliases:${yaml(m.aliases)}` : ""}
 ${hero ? `hero_image: ${yaml(hero)}\n` : ""}${raw.hero_crop ? `hero_crop: ${yaml(raw.hero_crop)}\n` : ""}${raw.card ? `hero_card_image: ${yaml(name(String(raw.card)))}\n` : ""}${raw.hero_card_position ? `hero_card_position: ${yaml(raw.hero_card_position)}\n` : ""}date: "${chapterDate(ch.slug, post)}"
 auto_gallery: false
 draft: ${draft}
