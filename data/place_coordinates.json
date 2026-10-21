@@ -3270,5 +3270,13 @@
     "country_code": "CA",
     "source": "https://www.openstreetmap.org/way/198500761",
     "query": "Toronto City Hall"
+  },
+  "moscow": {
+    "lat": 55.75055555555556,
+    "lon": 37.6175,
+    "name": "Москва",
+    "country_code": "RU",
+    "source": "https://www.wikidata.org/wiki/Q649",
+    "query": "Moscow coordinate location 55°45′2″N 37°37′3″E"
   }
 }
