@@ -5,7 +5,9 @@ layout: "photo-story"
 auto_gallery: false
 draft: false
 date: "2019-08-19"
-places: []
+places:
+  - reims
+  - riquewihr
 trip_days: [6]
 draft_plan: false
 hero_image: "20190819_182001.jpg"

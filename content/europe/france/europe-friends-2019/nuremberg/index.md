@@ -5,7 +5,8 @@ layout: "photo-story"
 auto_gallery: false
 draft: false
 date: "2019-08-23"
-places: []
+places:
+  - nuremberg
 trip_days: [10]
 draft_plan: false
 hero_image: "20190823_171321.jpg"

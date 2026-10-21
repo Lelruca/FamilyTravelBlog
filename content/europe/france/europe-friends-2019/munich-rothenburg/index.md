@@ -5,7 +5,9 @@ layout: "photo-story"
 auto_gallery: false
 draft: false
 date: "2019-08-27"
-places: []
+places:
+  - munich
+  - rothenburg
 trip_days: [14]
 draft_plan: false
 hero_image: "20190827_180018.jpg"

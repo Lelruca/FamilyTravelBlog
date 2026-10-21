@@ -5,7 +5,9 @@ layout: "photo-story"
 auto_gallery: false
 draft: false
 date: "2019-08-31"
-places: []
+places:
+  - rouen
+  - honfleur
 trip_days: [18]
 draft_plan: false
 hero_image: "20190831_112003.jpg"

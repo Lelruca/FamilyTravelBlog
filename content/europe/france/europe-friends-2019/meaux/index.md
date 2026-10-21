@@ -5,7 +5,9 @@ layout: "photo-story"
 auto_gallery: false
 draft: false
 date: "2019-09-01"
-places: []
+places:
+  - meaux
+  - versailles
 trip_days: [19, 20]
 draft_plan: false
 hero_image: "20190901_103810.jpg"

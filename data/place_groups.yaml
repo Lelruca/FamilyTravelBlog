@@ -48,7 +48,7 @@ part_of:
   cartuja-miraflores: burgos
   # Калгари
   heritage-park-calgary: calgary
-  # canillo
+  # Канильо
   roc-del-quer: canillo
   # Кейп-Код
   provincetown: cape-cod
@@ -212,11 +212,18 @@ part_of:
   vienna-state-opera: vienna
   # Вирджиния Бич
   military-aviation-museum: virginia-beach
-  # windsor
+  # Виндзор
   legoland-windsor: windsor
   windsor-castle: windsor
   # Сиань
   terracotta-army: xian
+
+  # Поездка с друзьями 2019
+  nymphenburg: munich
+  munich-residenz: munich
+  mercedes-benz-museum: stuttgart
+  karwendel: mittenwald
+  leutaschklamm: mittenwald
 
 # Место, которое показывается в двух странах (вторая точка).
 twins:

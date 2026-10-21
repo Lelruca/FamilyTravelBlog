@@ -5,7 +5,9 @@ layout: "photo-story"
 auto_gallery: false
 draft: false
 date: "2019-08-29"
-places: []
+places:
+  - rhine-valley
+  - cologne
 trip_days: [16]
 draft_plan: false
 hero_image: "20190829_110200.jpg"

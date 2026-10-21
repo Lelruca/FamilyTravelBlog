@@ -5,7 +5,8 @@ layout: "photo-story"
 auto_gallery: false
 draft: false
 date: "2019-08-14"
-places: []
+places:
+  - paris
 trip_days: [1, 2, 3]
 draft_plan: false
 hero_image: "IMG_20190816_131922.jpg"

@@ -5,7 +5,10 @@ layout: "photo-story"
 auto_gallery: false
 draft: false
 date: "2019-08-24"
-places: []
+places:
+  - mittenwald
+  - karwendel
+  - leutaschklamm
 trip_days: [11]
 draft_plan: false
 hero_image: "DSC07555.JPG"

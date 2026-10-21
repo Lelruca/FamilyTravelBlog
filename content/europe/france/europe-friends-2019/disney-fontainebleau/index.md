@@ -5,7 +5,10 @@ layout: "photo-story"
 auto_gallery: false
 draft: false
 date: "2019-08-18"
-places: []
+places:
+  - disneyland-paris
+  - vaux-le-vicomte
+  - fontainebleau
 trip_days: [5]
 draft_plan: false
 hero_image: "20190818_134952.jpg"

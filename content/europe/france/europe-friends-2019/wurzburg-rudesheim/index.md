@@ -5,7 +5,9 @@ layout: "photo-story"
 auto_gallery: false
 draft: false
 date: "2019-08-28"
-places: []
+places:
+  - wurzburg
+  - rudesheim
 trip_days: [15]
 draft_plan: false
 hero_image: "20190828_133144.jpg"

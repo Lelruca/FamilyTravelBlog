@@ -5,7 +5,9 @@ layout: "photo-story"
 auto_gallery: false
 draft: false
 date: "2019-08-25"
-places: []
+places:
+  - munich
+  - nymphenburg
 trip_days: [12]
 draft_plan: false
 hero_image: "20190825_141346.jpg"

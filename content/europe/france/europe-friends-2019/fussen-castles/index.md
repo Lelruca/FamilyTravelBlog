@@ -5,7 +5,10 @@ layout: "photo-story"
 auto_gallery: false
 draft: false
 date: "2019-08-22"
-places: []
+places:
+  - fussen
+  - neuschwanstein
+  - hohenschwangau
 trip_days: [9]
 draft_plan: false
 hero_image: "DSC07470.JPG"

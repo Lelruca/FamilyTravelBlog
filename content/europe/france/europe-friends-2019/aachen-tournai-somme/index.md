@@ -5,7 +5,10 @@ layout: "photo-story"
 auto_gallery: false
 draft: false
 date: "2019-08-30"
-places: []
+places:
+  - aachen
+  - tournai
+  - somme
 trip_days: [17]
 draft_plan: false
 hero_image: "20190830_092643.jpg"

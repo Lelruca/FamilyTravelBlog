@@ -5,7 +5,11 @@ layout: "photo-story"
 auto_gallery: false
 draft: false
 date: "2019-08-21"
-places: []
+places:
+  - stuttgart
+  - mercedes-benz-museum
+  - hohenzollern-castle
+  - ulm
 trip_days: [8]
 draft_plan: false
 hero_image: "20190821_145337.jpg"
