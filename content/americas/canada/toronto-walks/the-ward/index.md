@@ -2,11 +2,13 @@
 title: "Центр города и The Ward"
 chapter_kind: "part"
 layout: "photo-story"
-weight: 10
+weight: 20
 city: "Toronto"
 places:
   - toronto
   - toronto-city-hall
+aliases:
+  - /americas/canada/toronto-center-2023/the-ward/
 hero_image: "20230914_182123.jpg"
 hero_crop: "center 35%"
 hero_card_position: "center 35%"

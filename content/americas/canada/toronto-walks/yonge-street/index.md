@@ -6,6 +6,8 @@ weight: 10
 city: "Toronto"
 places:
   - toronto
+aliases:
+  - /americas/canada/toronto-yonge-2022/yonge-street/
 hero_image: "20220813_103047.jpg"
 date: "2022-08-13"
 auto_gallery: false
