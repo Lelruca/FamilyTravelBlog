@@ -12,7 +12,7 @@ hero_crop: "center 35%"
 hero_card_position: "center 35%"
 date: "2023-09-14"
 auto_gallery: false
-draft: true
+draft: false
 ---
 <p>Это был ПОЗОР!</p>
 

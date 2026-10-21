@@ -18,5 +18,5 @@ cover_who: "Сережа и Леля"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-center-2023/the-ward/20230914_182123.jpg"
 cover_position: "center 35%"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
-draft: true
+draft: false
 ---
