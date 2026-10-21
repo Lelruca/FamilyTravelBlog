@@ -17,5 +17,5 @@ cover_who: "Сережа и Леля"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/crawford-lake-2020/crawford-lake/20201120_160918.jpg"
 cover_position: "center 50%"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
-draft: true
+draft: false
 ---

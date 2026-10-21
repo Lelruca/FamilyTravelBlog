@@ -18,5 +18,5 @@ cover_who: "Ома, Леля и Митя"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/port-elgin-2021/port-elgin/20210715_124726.jpg"
 cover_position: "center 60%"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
-draft: true
+draft: false
 ---
