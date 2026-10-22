@@ -821,6 +821,7 @@
             {
               "kind": "row",
               "names": [
+                "PB080528.JPG",
                 "PB060509.JPG"
               ]
             }
@@ -929,6 +930,5 @@
     "PB080541.JPG": -90,
     "PB080532-upright.JPG": 90,
     "PB080531-upright.JPG": -90
-  },
-  "cover_style": ".trip-cover{height:min(calc((100svh - 60px)*.9),calc(75vw + 110px));min-height:0;background:#292421}.trip-cover>a{bottom:110px}.trip-cover img{object-fit:contain;object-position:center}.trip-cover::after{background:linear-gradient(to top,#292421 0,#292421 110px,transparent 110px)}.trip-cover-text{padding-bottom:22px}.trip-cover-title{font-size:clamp(30px,4vw,56px);line-height:1.05}.trip-intro{display:contents}@media(max-width:700px){.trip-cover-text{padding-bottom:16px}.trip-cover-title{font-size:30px}}"
+  }
 }

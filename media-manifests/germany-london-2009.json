@@ -2375,8 +2375,11 @@
   "publication": {
     "draft": false,
     "authorized": true,
-    "status": "authorized-awaiting-deploy",
-    "authorization": "Везде все проверь ... после этого можешь деплоить"
+    "status": "published",
+    "authorization": "Везде все проверь ... после этого можешь деплоить",
+    "commit": "c9118de3f944670d1c85b09a615ff8f0a88cff60",
+    "pages_run": 39720554227,
+    "live_verified": true
   },
   "cover_image": "birthday/PB080528.JPG",
   "cover_selection": "Owner selected option3, three generations with grandmother (PB080528.JPG), 21 October 2026.",
@@ -3219,6 +3222,7 @@
             {
               "kind": "row",
               "names": [
+                "PB080528.JPG",
                 "PB060509.JPG"
               ]
             }

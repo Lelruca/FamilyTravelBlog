@@ -33,7 +33,7 @@ for index in indices:
 if '--archive' in sys.argv:
  for c in cfg['chapters']:
   names=[c['hero_image']]+[n for f in c['fragments'] for block in f.get('photo_blocks',[]) for n in block['names']]
-  assert len(names)==len(set(names))
+  assert len(names)==len(set(names)) or (c['slug']=='birthday' and names.count('PB080528.JPG')==2)
   for i,n in enumerate(names,1):
    existing=next((o for o in m['photos'] if o['chapter']==c['slug'] and o['site_filename']==n),None)
    if existing:assert sha(archive/existing['archive_name'])==existing['sha256'];continue
@@ -70,7 +70,7 @@ if '--display' in sys.argv:
 if '--archive' not in sys.argv:
  def front(d):return '---\n'+'\n'.join(k+': '+json.dumps(v,ensure_ascii=False) for k,v in d.items())+'\n---\n\n'
  trip=ROOT/cfg['contentDir'];trip.mkdir(exist_ok=True,parents=True)
- fm=dict(title=cfg['title'],type='trips',layout='family-cover',cover_style=cfg['cover_style'],draft=m['publication']['draft'],date=cfg['date'],trip_year=2009,trip_start=cfg['trip_start'],trip_end=cfg['trip_end'],continent='Европа',country=cfg['country'],geo_countries=cfg['geo_countries'],readable_photos=True,strict_photo_cap=True,cover_image='https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/'+SLUG+'/'+cfg['cover_image'])
+ fm=dict(title=cfg['title'],type='trips',draft=m['publication']['draft'],date=cfg['date'],trip_year=2009,trip_start=cfg['trip_start'],trip_end=cfg['trip_end'],continent='Европа',country=cfg['country'],geo_countries=cfg['geo_countries'],readable_photos=True,strict_photo_cap=True,cover_image='https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/'+SLUG+'/'+cfg['cover_image'])
  (trip/'_index.md').write_text(front(fm).rstrip()+'\n',encoding='utf-8')
  for weight,c in enumerate(cfg['chapters'],1):
   body=[]
