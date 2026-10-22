@@ -18,5 +18,5 @@ cover_who: "Сережа, Леля, Наташа и Митя"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/malgrat-2024/malgrat/20240903_171449.jpg"
 cover_position: "center 40%"
 source_url: ""
-draft: true
+draft: false
 ---
