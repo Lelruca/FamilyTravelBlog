@@ -12,4 +12,10 @@ geo_countries: ["germany", "england"]
 readable_photos: true
 strict_photo_cap: true
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-london-2009/birthday/PB080528.JPG"
+cover_where: "Германия и Англия"
+cover_title: "К бабушке через Лондон"
+cover_subtitle: "Митя - первое путешествие"
+cover_when: "Октябрь–ноябрь 2009"
+cover_who: "Ольга, Сергей и Митя"
+cover_mobile_fit: true
 ---

@@ -71,6 +71,7 @@ if '--archive' not in sys.argv:
  def front(d):return '---\n'+'\n'.join(k+': '+json.dumps(v,ensure_ascii=False) for k,v in d.items())+'\n---\n\n'
  trip=ROOT/cfg['contentDir'];trip.mkdir(exist_ok=True,parents=True)
  fm=dict(title=cfg['title'],type='trips',draft=m['publication']['draft'],date=cfg['date'],trip_year=2009,trip_start=cfg['trip_start'],trip_end=cfg['trip_end'],continent='Европа',country=cfg['country'],geo_countries=cfg['geo_countries'],readable_photos=True,strict_photo_cap=True,cover_image='https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/'+SLUG+'/'+cfg['cover_image'])
+ fm.update(cfg['cover_details'])
  (trip/'_index.md').write_text(front(fm).rstrip()+'\n',encoding='utf-8')
  for weight,c in enumerate(cfg['chapters'],1):
   body=[]
@@ -81,6 +82,6 @@ if '--archive' not in sys.argv:
   folder=trip/c['slug'];folder.mkdir(exist_ok=True)
   fm=dict(title=c['title'],draft=m['publication']['draft'],date=cfg['date'],weight=weight,chapter_kind='Заметка',layout='photo-story',city=c['city'],places=c['places'],hero_image=c['hero_image'],hero_card_image=c['hero_card_image'],auto_gallery=False)
   (folder/'index.md').write_text(front(fm)+'\n\n'.join(body)+'\n',encoding='utf-8')
-m['chapters']=cfg['chapters'];m['rendered_paragraphs']=[f['text'] for f in fragments];m['text_authorization']=cfg['text_authorization']
+m['cover_details']=cfg['cover_details'];m['chapters']=cfg['chapters'];m['rendered_paragraphs']=[f['text'] for f in fragments];m['text_authorization']=cfg['text_authorization']
 out=json.dumps(m,ensure_ascii=False,indent=2)+'\n';mf.write_text(out,encoding='utf-8');(archive/'photo-manifest.json').write_text(out,encoding='utf-8')
 print(SLUG,len(cfg['chapters']),'chapters,',len(m['photos']),'originals,',len(fragments),'exact source fragments')

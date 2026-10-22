@@ -2377,8 +2377,8 @@
     "authorized": true,
     "status": "published",
     "authorization": "Везде все проверь ... после этого можешь деплоить",
-    "commit": "7e13e397f460cdaedda967333d3c19e5ec0ab38e",
-    "pages_run": 39800995536,
+    "commit": "9680110091a1c5ba950e969dae2715c3c1d2f837",
+    "pages_run": 39801992800,
     "live_verified": true
   },
   "cover_image": "birthday/PB080528.JPG",
@@ -4738,5 +4738,13 @@
     ],
     "status": "public-bytes-mime-sha256-verified",
     "verified_at": "2026-10-22T03:56:59.105Z"
+  },
+  "cover_details": {
+    "cover_where": "Германия и Англия",
+    "cover_title": "К бабушке через Лондон",
+    "cover_subtitle": "Митя - первое путешествие",
+    "cover_when": "Октябрь–ноябрь 2009",
+    "cover_who": "Ольга, Сергей и Митя",
+    "cover_mobile_fit": true
   }
 }
