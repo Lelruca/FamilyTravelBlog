@@ -52,5 +52,5 @@ for ch in c['chapters']:
   if name==ch['hero_image']:
    dimensions=data[ch['slug']+'/'+name];assert dimensions['w']>=dimensions['h'], 'Portrait chapter cover'
  count+=len(expected)
-assert count==124 and len(m['photos'])==123
+assert count==len(m['photos'])==123
 print('Germany and London 2009: 5 chapters, 123 photos, 38 source paragraphs/63 exact fragments, archive/cloud/R2 verified')
