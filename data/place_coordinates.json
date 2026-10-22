@@ -3558,5 +3558,213 @@
     "country_code": "CA",
     "source": "https://www.openstreetmap.org/relation/13080574",
     "query": "Bruce Peninsula National Park"
+  },
+  "avignon": {
+    "lat": 43.9492493,
+    "lon": 4.8059012,
+    "name": "Avignon",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/102478",
+    "query": "Avignon, Vaucluse"
+  },
+  "palais-des-papes": {
+    "lat": 43.9507081,
+    "lon": 4.8076851,
+    "name": "Palais des Papes",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/1253164",
+    "query": "Palais des Papes Avignon"
+  },
+  "les-baux-de-provence": {
+    "lat": 43.7436458,
+    "lon": 4.7950342,
+    "name": "Les Baux-de-Provence",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/422129",
+    "query": "Les Baux-de-Provence"
+  },
+  "nice": {
+    "lat": 43.7009358,
+    "lon": 7.2683912,
+    "name": "Nice",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/170100",
+    "query": "Nice, Alpes-Maritimes"
+  },
+  "promenade-des-anglais": {
+    "lat": 43.6859892,
+    "lon": 7.2374765,
+    "name": "Promenade des Anglais",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/2369320",
+    "query": "Promenade des Anglais"
+  },
+  "antibes": {
+    "lat": 43.5813878,
+    "lon": 7.1236966,
+    "name": "Antibes",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/74687",
+    "query": "Antibes, Alpes-Maritimes"
+  },
+  "musee-picasso-antibes": {
+    "lat": 43.580709,
+    "lon": 7.1282596,
+    "name": "Musée Picasso",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/68051130",
+    "query": "Musée Picasso Antibes"
+  },
+  "marseille": {
+    "lat": 43.2963986,
+    "lon": 5.3777888,
+    "name": "Marseille",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/76469",
+    "query": "Marseille"
+  },
+  "notre-dame-de-la-garde": {
+    "lat": 43.2839455,
+    "lon": 5.371242,
+    "name": "Basilique Notre-Dame de la Garde",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/69137913",
+    "query": "Notre-Dame de la Garde"
+  },
+  "cathedrale-major-marseille": {
+    "lat": 43.2997902,
+    "lon": 5.3649382,
+    "name": "Cathédrale de la Major",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/1069937",
+    "query": "Cathédrale de la Major Marseille"
+  },
+  "chateau-d-if": {
+    "lat": 43.279856,
+    "lon": 5.325284,
+    "name": "Château d'If",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/1103773",
+    "query": "Château d'If"
+  },
+  "grasse": {
+    "lat": 43.6589011,
+    "lon": 6.9239103,
+    "name": "Grasse",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/102748",
+    "query": "Grasse"
+  },
+  "la-colle-sur-loup": {
+    "lat": 43.6857041,
+    "lon": 7.0976053,
+    "name": "La Colle-sur-Loup",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/78851",
+    "query": "La Colle-sur-Loup"
+  },
+  "musee-matisse-nice": {
+    "lat": 43.7194452,
+    "lon": 7.2759743,
+    "name": "Musée Matisse",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/1532948021",
+    "query": "Musée Matisse Nice"
+  },
+  "musee-chagall-nice": {
+    "lat": 43.709136,
+    "lon": 7.269527,
+    "name": "Musée Marc Chagall",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/140067117",
+    "query": "Musée Marc Chagall Nice"
+  },
+  "cannes": {
+    "lat": 43.5515198,
+    "lon": 7.0134418,
+    "name": "Cannes",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/91734",
+    "query": "Cannes"
+  },
+  "palais-des-festivals": {
+    "lat": 43.5506848,
+    "lon": 7.017658,
+    "name": "Palais des Festivals et des Congrès",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/way/64947425",
+    "query": "Palais des Festivals Cannes"
+  },
+  "duomo-milano": {
+    "lat": 45.4641669,
+    "lon": 9.1916121,
+    "name": "Duomo di Milano",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/18017026",
+    "query": "Duomo di Milano"
+  },
+  "castello-sforzesco": {
+    "lat": 45.4703009,
+    "lon": 9.1780912,
+    "name": "Castello Sforzesco",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/1918",
+    "query": "Castello Sforzesco"
+  },
+  "pinacoteca-brera": {
+    "lat": 45.4722421,
+    "lon": 9.1884071,
+    "name": "Pinacoteca di Brera",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/node/1029667846",
+    "query": "Pinacoteca di Brera"
+  },
+  "turin": {
+    "lat": 45.0677551,
+    "lon": 7.6824892,
+    "name": "Torino",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/43992",
+    "query": "Torino"
+  },
+  "palazzo-reale-torino": {
+    "lat": 45.0730533,
+    "lon": 7.6869632,
+    "name": "Palazzo Reale",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/2396528",
+    "query": "Palazzo Reale Torino"
+  },
+  "mole-antonelliana": {
+    "lat": 45.0689888,
+    "lon": 7.6931918,
+    "name": "Mole Antonelliana",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/way/83111423",
+    "query": "Mole Antonelliana"
+  },
+  "auxerre": {
+    "lat": 47.7961287,
+    "lon": 3.570579,
+    "name": "Auxerre",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/282525",
+    "query": "Auxerre"
+  },
+  "invalides": {
+    "lat": 48.8559537,
+    "lon": 2.3133431,
+    "name": "Hôtel des Invalides",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/1463538",
+    "query": "Hôtel des Invalides"
+  },
+  "saint-paul-de-vence": {
+    "lat": 43.697972,
+    "lon": 7.1216304,
+    "name": "Saint-Paul-de-Vence",
+    "country_code": "FR",
+    "source": "https://www.openstreetmap.org/relation/78857",
+    "query": "Saint-Paul-de-Vence"
   }
 }
