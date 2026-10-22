@@ -67,19 +67,21 @@
 
   {{- if $sights }}
   <section id="city-sights" role="tabpanel" aria-labelledby="city-tab-sights" hidden>
-  {{- /* a sight and a button per chapter about it, labelled by the year; the chapter and trip are in the button's title */ -}}
+  {{- /* a sight and a button per chapter about it, labelled «year · trip» («2016 · Римские каникулы»); two chapters of one
+         trip become «2017-1 · …», «2017-2 · …»; the chapter's title is in the button's title */ -}}
   {{- range $sights }}
     <div class="city-sight" id="a-{{ .id }}">
       <h3>{{ .title }}</h3>
       <span class="city-years">
-      {{- $all := slice }}{{ range $sightCh.Get .id }}{{ $all = $all | append (printf "%v" (.Parent.Params.trip_year | default (.Date.Format "2006"))) }}{{ end }}
-      {{- $years := slice }}
+      {{- $keys := slice }}{{ range $sightCh.Get .id }}{{ $keys = $keys | append .Parent.RelPermalink }}{{ end }}
+      {{- $seen := slice }}
       {{- range $sightCh.Get .id }}
         {{- $trip := .Parent }}
         {{- $year := printf "%v" ($trip.Params.trip_year | default (.Date.Format "2006")) }}
-        {{- $n := add 1 (len (where $years "." $year)) }}{{ $years = $years | append $year }}
-        {{- $about := printf "%s · %s, %s" .Title ($trip.Params.cover_title | default $trip.Title) $year }}
-      <a href="{{ .RelPermalink }}" title="{{ $about }}" aria-label="{{ $about }}">{{ $year }}{{ if gt (len (where $all "." $year)) 1 }}-{{ $n }}{{ end }}</a>
+        {{- $name := strings.TrimRight "!" ($trip.Params.cover_title | default $trip.Title) }}
+        {{- $n := add 1 (len (where $seen "." $trip.RelPermalink)) }}{{ $seen = $seen | append $trip.RelPermalink }}
+        {{- if gt (len (where $keys "." $trip.RelPermalink)) 1 }}{{ $year = printf "%s-%d" $year $n }}{{ end }}
+      <a href="{{ .RelPermalink }}" title="{{ .Title }}" aria-label="{{ .Title }} · {{ $name }}, {{ $year }}">{{ $year }} · {{ $name }}</a>
       {{- end }}
       </span>
     </div>
