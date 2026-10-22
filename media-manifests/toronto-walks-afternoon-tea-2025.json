@@ -112,7 +112,7 @@
     "onedrive_copies_verified": true,
     "drive_sync_checked_at": "2026-10-22T15:58:34.344Z"
   },
-  "status": "draft-ready-for-review",
+  "status": "published",
   "search": {
     "missing": "Пять фотографий на скриншоте; оригиналы не найдены",
     "checked": [
@@ -184,6 +184,9 @@
   "publication": {
     "draft": false,
     "authorized": true,
-    "status": "authorized-awaiting-deploy"
+    "status": "published",
+    "commit": "ba438401dc69becad8814d13dfd78f90a951f03b",
+    "pages_run": 39813389224,
+    "live_verified": true
   }
 }

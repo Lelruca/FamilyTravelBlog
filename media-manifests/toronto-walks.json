@@ -49,7 +49,12 @@
       "kind": "facebook-download",
       "draft": false,
       "source_manifest": "media-manifests/toronto-walks-afternoon-tea-2025.json",
-      "display_title": "Afternoon Tea and Tour в Парламенте Онтарио (2025)"
+      "display_title": "Afternoon Tea and Tour в Парламенте Онтарио (2025)",
+      "publication": {
+        "status": "published",
+        "commit": "ba438401dc69becad8814d13dfd78f90a951f03b",
+        "pages_run": 39813389224
+      }
     }
   ],
   "photos": [
