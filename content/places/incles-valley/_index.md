@@ -1,4 +1,4 @@
 ---
-title: "Vall d’Incles — долина Инклес, Андорра"
+title: "Vall d’Incles - Долина Инклес, Андорра"
 country: "Андорра"
 ---

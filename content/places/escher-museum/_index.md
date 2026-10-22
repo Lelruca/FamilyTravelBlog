@@ -1,3 +1,3 @@
 ---
-title: "Escher in Het Paleis - музей Эшера, Гаага"
+title: "Escher in Het Paleis - Музей Эшера, Гаага"
 ---

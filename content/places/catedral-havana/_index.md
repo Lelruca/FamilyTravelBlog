@@ -1,3 +1,3 @@
 ---
-title: "Catedral de La Habana - кафедральный собор, Гавана"
+title: "Catedral de La Habana - Кафедральный собор, Гавана"
 ---

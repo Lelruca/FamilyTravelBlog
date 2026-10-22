@@ -1,3 +1,3 @@
 ---
-title: "Flowerpot Island - остров Flowerpot, Ontario"
+title: "Flowerpot Island - Остров Флауэрпот, Онтарио"
 ---

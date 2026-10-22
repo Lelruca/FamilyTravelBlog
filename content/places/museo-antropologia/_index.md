@@ -1,3 +1,3 @@
 ---
-title: "Museo Nacional de Antropología - антропологический музей, Мехико"
+title: "Museo Nacional de Antropología - Антропологический музей, Мехико"
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Inglis Falls - водопад Инглис, Ontario"
+title: "Inglis Falls - Водопад Инглис, Ontario"
 ---

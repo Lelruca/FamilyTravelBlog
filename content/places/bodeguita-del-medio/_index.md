@@ -1,3 +1,3 @@
 ---
-title: "La Bodeguita del Medio - бар «Бодегита дель Медио», Гавана"
+title: "La Bodeguita del Medio - Бар «Бодегита дель Медио», Гавана"
 ---

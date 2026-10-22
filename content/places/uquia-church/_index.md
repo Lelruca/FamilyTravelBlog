@@ -1,3 +1,3 @@
 ---
-title: "Iglesia San Francisco de Paula — Укиа, Аргентина"
+title: "Iglesia San Francisco de Paula - Укиа, Аргентина"
 ---

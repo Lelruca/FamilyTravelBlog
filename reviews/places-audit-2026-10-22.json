@@ -5,13 +5,13 @@
   "summary": {
     "trips": 72,
     "chapters": 436,
-    "chapters_with_attractions": 294,
-    "attractions": 528,
+    "chapters_with_attractions": 297,
+    "attractions": 533,
     "text_chapters": 414,
     "photo_only_chapters": 22,
-    "chapters_changed": 298,
-    "chapters_with_geography_changes": 52,
-    "questions": 10
+    "chapters_changed": 300,
+    "chapters_with_geography_changes": 53,
+    "questions": 9
   },
   "external_checks": [
     "https://jardinnbgarden.com/en/contact-us/",
@@ -20,7 +20,9 @@
     "https://tourismnewbrunswick.ca/listing/savonnerie-olivier-soapery",
     "https://www.cycloramadejerusalem.com/en/contact-us/",
     "https://www.palaciorealtestamentario.es/sobre-el-palacio/",
-    "https://collegeofpiping.com/contact/"
+    "https://collegeofpiping.com/contact/",
+    "https://www.nsdoku.de/en/",
+    "https://www.deutsches-museum.de/"
   ],
   "chapters": [
     {
@@ -34,7 +36,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed",
-      "no_places_reason": "Перелёт и прибытие, без описанного осмотра города."
+      "no_places_reason": "Перелёт и прибытие, без описанного осмотра города.",
+      "body_sha256_lf": "ed110d4567889215eb4b261cfc0f4e62737449349898921bdfa8f4d93a7e0a60"
     },
     {
       "file": "content/americas/argentina/south-america-2026/buenos-aires/index.md",
@@ -62,7 +65,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "14f1b91e12048f63bc9657057bbb051e522da0865fee49200cec33995475ceb4"
     },
     {
       "file": "content/americas/argentina/south-america-2026/cardones/index.md",
@@ -87,7 +91,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e431b3778d71218055385f832fa25b504427c030a50aa1fc5faad72d673e2590"
     },
     {
       "file": "content/americas/argentina/south-america-2026/hornocal/index.md",
@@ -105,7 +110,8 @@
       "body_sha256": "ae154343cf26c1c7b6014f094d1f068d6dbae4731ed91015d856fb8cd5b5af2b",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "4bb80e74693f3471f28dca77c981cca01c71a6b0bddde7d7b4b22d0932ccad34"
     },
     {
       "file": "content/americas/argentina/south-america-2026/iguazu-argentina/index.md",
@@ -121,7 +127,8 @@
       "body_sha256": "40e4459e0d69e2321f3b0f127785d6eac83899d87cb0a62762b9fc8a9867c0a4",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "0b26d25d42c2d20a233642ab4287c044d2724ad9c4832cd795c96b7a72e6d53f"
     },
     {
       "file": "content/americas/argentina/south-america-2026/iguazu-brazil/index.md",
@@ -137,7 +144,8 @@
       "body_sha256": "385696546e55ace80c06e937f6daaa398c1c8acd85f945f71fcd4d900337e66e",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1696698e71f5e9ab17329402f6d7fefcfa1493c9b9adaf44dc82b2f6e40fc52a"
     },
     {
       "file": "content/americas/argentina/south-america-2026/modern-chile/index.md",
@@ -164,7 +172,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "dd45ce69e7b5a28371aeb00e5ea6885d8cc5917a0f2038f50b1575c868a9b23c"
     },
     {
       "file": "content/americas/argentina/south-america-2026/recoleta-mate/index.md",
@@ -197,7 +206,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "65dba3949409b5f2b1dac047a2cc9b59aaa99bf759c6ec1de370f61b936efb93"
     },
     {
       "file": "content/americas/argentina/south-america-2026/salta-impressions/index.md",
@@ -215,7 +225,8 @@
       "evidence": [],
       "excluded": "Археологический музей Сальты не посетили: перенесли рейс. Прогулка в Буэнос-Айресе была, добавлен город.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "6078c74475c345f92dac35543834f902fe18ad56182945cca097aabdab44d09e"
     },
     {
       "file": "content/americas/argentina/south-america-2026/salta-purmamarca/index.md",
@@ -233,7 +244,8 @@
       "body_sha256": "7917533e06c646ac721ab395d966962d5fdb41f62009df4e6068d3a9a0566939",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "14882b57711e782291e9c695a55ba6be7ec7c8be498d02c611a06b80ec5a2501"
     },
     {
       "file": "content/americas/argentina/south-america-2026/san-telmo-la-boca/index.md",
@@ -261,7 +273,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "98a6cef33eee754962586cedbdeb2ae8727aa610a90ee69acf73d80917cb62c7"
     },
     {
       "file": "content/americas/argentina/south-america-2026/santiago/index.md",
@@ -294,7 +307,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "2d3304a57f580efdd54f38442b82142a8cc160865137d988fef99324ed162c6d"
     },
     {
       "file": "content/americas/argentina/south-america-2026/teatro-colon/index.md",
@@ -317,7 +331,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "18f103cc9030481f38ee72d98aa802e33ad824878bbda2e406028f4cb5ee5726"
     },
     {
       "file": "content/americas/argentina/south-america-2026/tilcara-uquia/index.md",
@@ -344,7 +359,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "2178c7a5d746faa0add90d0ec167a8e8d75c0acc7982cad07da51e83968a2789"
     },
     {
       "file": "content/americas/argentina/south-america-2026/valparaiso/index.md",
@@ -360,7 +376,8 @@
       "body_sha256": "a710df806fb5ea3ba34e084b88a358c6bf56eb78738e3e6e1abdfb08e10aed00",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d198191cb3650281d4583f963c3e9faa002fc187de702c72051f1875cee1dc21"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/conclusion/index.md",
@@ -373,7 +390,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed",
-      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места."
+      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места.",
+      "body_sha256_lf": "c21a8120d356cac84c3e44e19119a30b4e893ef6674331cbd1af1bab45e9acd0"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-01/index.md",
@@ -397,7 +415,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5106b53513d4441a7d9db55f7f5a61be0cfe403e799816186d4468695026da44"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-02/index.md",
@@ -418,7 +437,8 @@
       "body_sha256": "b1d5130972a07a8a653716cf9fde672e949eb27440ae577e66e38f34221bb4c1",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1745b07b71a94b4902212b17f69536f24aa1d1a7f50a9e4c639386c344e36489"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-03/index.md",
@@ -434,7 +454,8 @@
       "body_sha256": "03ea949aec5f92290809b8ec7397c0169ecb8f5d24bf3e26a88932b55319d180",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5091b22756fbda6517e7da57c976d558d421bbda341e083002a34f1c0597e5a2"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-04/index.md",
@@ -459,7 +480,8 @@
       ],
       "excluded": "Дом-музей героини «Энн из Зелёных Мезонинов» не посещали.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "3eb94fda43027018b6d28e3da6caf9d47eeb45b37c1de01d73a6568ac263e1ad"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-05/index.md",
@@ -483,7 +505,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d464fa5d3ef90fa87e3156245d582e1f9a307f1ef52f87408f5a75fbcdb45d08"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-06/index.md",
@@ -507,7 +530,8 @@
       ],
       "source_kind": "chapter_text",
       "status": "reviewed_with_question",
-      "question": "Название центра ветровой энергии заменено точным географическим описанием «Норт-Кейп и центр ветровой энергии»; рыбалка описана отдельно, не является музеем."
+      "question": "Название центра ветровой энергии заменено точным географическим описанием «Норт-Кейп и центр ветровой энергии»; рыбалка описана отдельно, не является музеем.",
+      "body_sha256_lf": "d78753403e080ba677491f2b86c4a62c9e3043c6616d36ff7fe2dc4c08d2daf0"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-07/index.md",
@@ -518,13 +542,21 @@
       ],
       "places": [
         "highland-village",
-        "baddeck"
+        "baddeck",
+        "cape-breton"
       ],
-      "attractions": [],
+      "attractions": [
+        "highland-village"
+      ],
       "body_sha256": "441a17c834811414e86b7b6c2ab21b5c69c366fdd754b49a0276f0b31eb2a518",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "owner_confirmation": {
+        "date": "2026-10-22",
+        "detail": "После замечания владельца музей сгруппирован с островом Кейп-Бретон, без отдельной строки."
+      },
+      "body_sha256_lf": "0ae0426babb9a31945886236ef481716170c6537f007f88d395ae8f3dfc0cfb3"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-08/index.md",
@@ -540,7 +572,8 @@
       "body_sha256": "e64d259b7259c8cea190e3b1b8c6ee2e05837bfaf16d3a202b5377e3e9a8d274",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "94ef1b4f501d11d0177c28ecb24af37c905ecc9d4e4ea5a0750b551ada46a425"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-09/index.md",
@@ -567,7 +600,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "40be7e4ba63c45f8e5ce2d28a683663cb02fd8c85231f5089fdad52f1cdaade1"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-10/index.md",
@@ -595,7 +629,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "cad6f74b9d63a1f415ebace248711864aadba24f8c77b6b3849d562249bf8a7b"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-11/index.md",
@@ -627,7 +662,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d67f0d3c739eb4eb1c016a646777ce3c304461c53ee5143accaa1d5df353b7cc"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-12/index.md",
@@ -652,7 +688,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "ed456d31a9ab1e7f2fe3007696f6a76823090f85a3c4237ef3d303b2fb0c4e29"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-13/index.md",
@@ -678,7 +715,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "0f908da3b7856d6a219b80cb17b1e8a34a565983b168125f1ab87e3dca59eb37"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-14/index.md",
@@ -705,7 +743,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "3997ba0af8da2b901eeccc91b69f9560bbbae49ca6824b024ee9db918927cbe6"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/planning/index.md",
@@ -718,7 +757,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed",
-      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места."
+      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места.",
+      "body_sha256_lf": "b64a099305a58a5a1ba629922ec262cdeaa8742ce57a5a6d3c36892234fc030c"
     },
     {
       "file": "content/americas/canada/crawford-lake-2020/crawford-lake/index.md",
@@ -734,7 +774,8 @@
       "body_sha256": "1dc55311da3fd0f016810019d4ee07b1c817693f8ef32962c4a1db06d29e7a53",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a9b48d76703c7cf2276d9aebb944a5eefc6e91c5da478a2aedbaa1477dced043"
     },
     {
       "file": "content/americas/canada/gaspe-2020/bic-pointe-au-pere/index.md",
@@ -756,7 +797,8 @@
       "body_sha256": "a59607b1741fe15a587a273bec0a5db2c26bca527c3b031400314d44d4e653c7",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "c48d9df5cb87073a5cdd31e0db32098b490e612cf860d3963c996af32d25995e"
     },
     {
       "file": "content/americas/canada/gaspe-2020/bonaventure/index.md",
@@ -775,7 +817,8 @@
       "body_sha256": "c8a841414a0961320264d5585d469e8fd9d0236e13fbb316e28667f50bcfb915",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "427b07ac85b0edcb4266427173d57fc8ad258e18dc3df6ca58b5ee47db2ce685"
     },
     {
       "file": "content/americas/canada/gaspe-2020/carleton-miguasha/index.md",
@@ -793,7 +836,8 @@
       "body_sha256": "ba0f70492718299ff4ada221a80556a2a320fca3fede8e75bffb676079d5a7ef",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "0fc8cda5007da2802d8f62e4e6b2d512c154b5c154654abc995db75348af9e96"
     },
     {
       "file": "content/americas/canada/gaspe-2020/forillon/index.md",
@@ -820,7 +864,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "2abbd8e49bce16a03ccf28b592488aabbedf5714456cde5ca33ecc64ce80531f"
     },
     {
       "file": "content/americas/canada/gaspe-2020/gaspesie-park/index.md",
@@ -836,7 +881,8 @@
       "body_sha256": "4a80b45c7d5a630c2ce39fbab2c3757e5ea4d46bc226a1772cc8ea436321d77c",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e211164deb59fbd72829148dd210c3c7ea3b41743c96361125a8d2c80eb72dff"
     },
     {
       "file": "content/americas/canada/gaspe-2020/jardins-de-metis/index.md",
@@ -873,7 +919,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "769758c53834f9b243d895459f1740d32bff3614bb0251ac7537a17a6998e2fc"
     },
     {
       "file": "content/americas/canada/gaspe-2020/perce/index.md",
@@ -896,7 +943,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "3db2f4d3d63757792009c9955c7c173126e463a0eacc9f24a580e5f9278c357f"
     },
     {
       "file": "content/americas/canada/gaspe-2020/road-to-quebec/index.md",
@@ -909,7 +957,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed",
-      "no_places_reason": "Дорожное вступление по провинции Квебек. Квебек-сити не посещён в этой главе; неизвестную ночёвку не приравнивать к нему."
+      "no_places_reason": "Дорожное вступление по провинции Квебек. Квебек-сити не посещён в этой главе; неизвестную ночёвку не приравнивать к нему.",
+      "body_sha256_lf": "9ea7b4a1112086b6c9cc28a697e4b1b299a6f0ee69dbf44c1e0e9a1b774d2c31"
     },
     {
       "file": "content/americas/canada/gaspe-2020/south-coast/index.md",
@@ -937,7 +986,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "be8f84a7d20f27c5ae86136801fae07e7d01634632c3046e46b119005dea9d13"
     },
     {
       "file": "content/americas/canada/hamilton-2014/story/index.md",
@@ -965,7 +1015,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "f6df9bb4f1010918014f007dee5876f6f6f574dd0b98a2ea97b9656be697a487"
     },
     {
       "file": "content/americas/canada/mcmichael-2023/mcmichael/index.md",
@@ -975,13 +1026,21 @@
         "mcmichael-gallery"
       ],
       "places": [
+        "mcmichael-gallery",
+        "toronto"
+      ],
+      "attractions": [
         "mcmichael-gallery"
       ],
-      "attractions": [],
       "body_sha256": "fe94f05cbd95b0e2e278d0031fd4c2d03708791e8ab883dc6b2314ead321e2d7",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "owner_confirmation": {
+        "date": "2026-10-22",
+        "detail": "Владелец просит показывать Макмайкл внутри Торонто, без отдельной строки музея."
+      },
+      "body_sha256_lf": "18f17ff3c750f8ae2f21378f14ac391e60b30a2dc80994f37df20cd026499e3a"
     },
     {
       "file": "content/americas/canada/mont-tremblant-2012/story/index.md",
@@ -997,7 +1056,8 @@
       "body_sha256": "228924cf143b4999ba57646ea75f8179cc9e13cb6793b1e2ad7be7e3d67279bf",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "3627d0c8349b45e3dd7250d10b1b41d04139cef0ff5ae1cd69956a187383144d"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/amethysts-canyons/index.md",
@@ -1015,7 +1075,8 @@
       "body_sha256": "b3f479830e96b899da1b33cf6aaff8207320e0b7b872cee501b59b61fb5a9016",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "db899e6eee9b6e1953fc8fad2601750d8352ebbcab242f0887d863b7784b2d19"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/lake-superior/index.md",
@@ -1040,7 +1101,8 @@
       "body_sha256": "850e607695a696ebdb9a154c1b71575127aad194de4c8f1005b4eb26d2982da9",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "442cb7bbfd90240c71355968582bf53be098dbf48de32e886323f9810eb1694f"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/lake-superior-park/index.md",
@@ -1060,7 +1122,8 @@
       "body_sha256": "146d4af6e28e2c3d3ab76d1a2405ddd233fcae9d93d3a7bce3311c467b23873b",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "dbdf8ad222f9e62a8171fc27a7c66300bf0dcc9dc21a70193a0e090ba0f51db3"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/manitoulin/index.md",
@@ -1080,7 +1143,8 @@
       "body_sha256": "5adaa7ab630b699197e926cfdcb148c1881d37a3b2f3642a5ab4ad420632f287",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e3d0a856faa0991ad02c2ef0f83cbc145bd0769ce5b12c01c50634d954e1478e"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/nipigon-wawa/index.md",
@@ -1100,7 +1164,8 @@
       "body_sha256": "d3166c64d4e32d63d4b3830897ea0fa9d7f77c69311d6e874ac1e0c88baba87a",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "4b9ec92953307709badce490c5a2e89d3df639b4bde3f7d167c2a2f8ccaf632b"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/red-rock/index.md",
@@ -1116,7 +1181,8 @@
       "body_sha256": "4817b20ec1aeb172182e34b3207e5fbad48cc1331dadd14f981d825149de2b07",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1fc94fc6977f362dc51fc888299ed94e7b65b6b82134e9944416fff7537042a5"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/sault-ste-marie/index.md",
@@ -1132,7 +1198,8 @@
       "body_sha256": "0ef40bd74bd60c807bfea0344ddde9b7ba40b0a02596bcc4ed9c53bc3d1cf8a3",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "de769da871d56b74e5dede7af38e88772a8191e2c8513d25d7d8f2fa6815cdb9"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/sleeping-giant/index.md",
@@ -1148,7 +1215,8 @@
       "body_sha256": "4bbf3dc250dbc15c5a34f3a13820c832824d2cd133cccce4fe2e4ba10709ec99",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1ce6c0d8efb330bfd4d779d3faec4551812a101e4f7da925a3cd3ec805519f93"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/thunder-bay/index.md",
@@ -1168,7 +1236,8 @@
       "body_sha256": "40210995d6dd93dffee7db959b66416accae13a6347d0a12843fa433819f93dc",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "4097db7f7e5c9c3daa6973c445fd7b5c1d41a19552036699efd4806e96e593d9"
     },
     {
       "file": "content/americas/canada/ottawa/museum-2017/index.md",
@@ -1191,7 +1260,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "99a3c330b548ec2778eafe8babef6e42529aabdfb1592944bf937bcf0a03bbd2"
     },
     {
       "file": "content/americas/canada/ottawa-2015/museum/index.md",
@@ -1224,7 +1294,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b7fa078a85dcbea60d302dc95e9b338540348bf53fb489d3e1a20c45591924e2"
     },
     {
       "file": "content/americas/canada/ottawa-2015/ottawa/index.md",
@@ -1240,7 +1311,8 @@
       "body_sha256": "c004cd799d5f440be2ea8727d4f5f7ff2f5a7051b462f4813e6add70f68ee105",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "15945deda27fd25f4ed779f06d2b52ce133cee7f69f5307a22dcc7553523eafa"
     },
     {
       "file": "content/americas/canada/ottawa-2015/tulips/index.md",
@@ -1256,7 +1328,8 @@
       "body_sha256": "605dbe048a569f5124c1ff26dfaee1cbe390371deebfd22920e97c3293accc81",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "61da5bbd274afbac94934d25b52860645efa4b832589c6c28877d64da19f609b"
     },
     {
       "file": "content/americas/canada/port-elgin-2021/port-elgin/index.md",
@@ -1272,7 +1345,8 @@
       "body_sha256": "c26ba8cea615adf852717a5abe7338b1d53b85f6fce4bee1e0ec80c59d472c52",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "7c0681db55cb1b4245c1482f533e42c5e15ac1a57ee138fbc1a5659719382c2f"
     },
     {
       "file": "content/americas/canada/quebec-montreal-2003/story/index.md",
@@ -1338,7 +1412,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "3a5acbaa9dc936e069106817b5a3de63301936ce76ed688afb6ec76df91e8c2e"
     },
     {
       "file": "content/americas/canada/quebec-virginia-2013/canada-games/index.md",
@@ -1354,7 +1429,8 @@
       "body_sha256": "f154a01a8e1eaeceff60e204ad1473d503c597cc317d20028c42992a92af2a61",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b0bd0970cd243fb4b31cb3002470af104c948bde8bea7502c1a89e6c306b0ac0"
     },
     {
       "file": "content/americas/canada/quebec-virginia-2013/conclusion/index.md",
@@ -1367,7 +1443,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed",
-      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места."
+      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места.",
+      "body_sha256_lf": "5f68cef8f7a37223b739bb1fdaeca80bd7b0b57f8063dcda794549cebf22b549"
     },
     {
       "file": "content/americas/canada/quebec-virginia-2013/magog/index.md",
@@ -1383,7 +1460,8 @@
       "body_sha256": "9b82079a69fc944f67de6d92f67cd1f172d6e5932e0a16254728adfb1f5bd604",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "c2bf430c0a16d80ad21105ccb3541e5b12b377c946daf816386abb78ab008f99"
     },
     {
       "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-1/index.md",
@@ -1399,7 +1477,8 @@
       "body_sha256": "9025b5cc4b854a9cd50b7a951077a1d5be1fdefbd5e5059ecc266c67ebbef94c",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "54437d489bf8c86bc25bb5456561b285382481da7171521419a7ff9e4d3d2075"
     },
     {
       "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-2/index.md",
@@ -1415,7 +1494,8 @@
       "body_sha256": "fe6c552a17d637da99f94b8c09539525016da6d6321f57d31bce7d6117fc9e4e",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "05d93bfbc681ee5a48b021fbdc5d041ad57df991da2e2912a68656eefdb14518"
     },
     {
       "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-3/index.md",
@@ -1451,7 +1531,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "ccac781fcc64830ff0656b4f2230d36b5a7795d2c5afbdb03365916b30637a42"
     },
     {
       "file": "content/americas/canada/rockies-2018/badlands/index.md",
@@ -1467,7 +1548,8 @@
       "body_sha256": "bc487c918304de52bcedc2d8dad12dc5eb723887b7c252380704ad5af0257f84",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "63b2a7982376d89e85901c8d6f14c1df7e44be6cb7acdffa9e825cd5c71df7de"
     },
     {
       "file": "content/americas/canada/rockies-2018/banff/index.md",
@@ -1500,7 +1582,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "7a58afde36f7df3d71b3c7df323022048246cad086eb4668e204c34d1d147f1f"
     },
     {
       "file": "content/americas/canada/rockies-2018/calgary/index.md",
@@ -1516,7 +1599,8 @@
       "body_sha256": "d2b0e3784aa3c5029aac4b634da263df10cd7820c4fcbcd69aa9d86c69cc437b",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "4bcea5a31514b9269dc9223e8df10e2d05dfb262ac31039e02bfe071895f83ff"
     },
     {
       "file": "content/americas/canada/rockies-2018/edmonton/index.md",
@@ -1539,7 +1623,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a970fea4d50083dad3628f68548130359487689943a10e6da815a978b5606737"
     },
     {
       "file": "content/americas/canada/rockies-2018/heritage-park/index.md",
@@ -1558,7 +1643,8 @@
       "body_sha256": "7dcc74691ca4477737bf3a6cbee159dca1aef2ac2f0815c55f6a1b766a104817",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "4f16a811f1c82a6652d02beb1f504a5ff0939759cb3aa59f3deca976d1b7520a"
     },
     {
       "file": "content/americas/canada/rockies-2018/icefields-parkway/index.md",
@@ -1574,7 +1660,8 @@
       "body_sha256": "98be132af9b7b1a926c3128ceedc00153c4479456382df96d56b6cb406e402e1",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "44deae44f56718e815429b437509f0aee537e130919e2a4de4bc380a804d6100"
     },
     {
       "file": "content/americas/canada/rockies-2018/jasper/index.md",
@@ -1606,7 +1693,8 @@
       "status": "reviewed",
       "view_only": [
         "Ледник Атабаска — вид с террасы, без поездки на ледник."
-      ]
+      ],
+      "body_sha256_lf": "9b6e48cbea2e92ace6f057ff54c9c33d57e077c66151bc4794f16d1c0cfbc003"
     },
     {
       "file": "content/americas/canada/rockies-2018/kootenay/index.md",
@@ -1629,7 +1717,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "996a1a63edb69ae8625aaa997f86d242d157096d26da8257b58848c52b1cf557"
     },
     {
       "file": "content/americas/canada/rockies-2018/lake-louise/index.md",
@@ -1653,7 +1742,8 @@
       ],
       "excluded": "Озеро Морейн: несколько попыток подъезда, но не попали; не отмечено как посещённое.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "8a4948612309a9863190c293c88f0934ffe355ca06ec87bfb2eb15451b490b1d"
     },
     {
       "file": "content/americas/canada/rockies-2018/royal-tyrrell/index.md",
@@ -1672,7 +1762,8 @@
       "body_sha256": "a83be0c4a19f31965750c31291d1eb5c30c88dcfa899f9591170af14eb577983",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "fd18ea33ae109bde1ef1ed39818d69aba7c9f7bdbbda464e53d73c8a8adb7bf0"
     },
     {
       "file": "content/americas/canada/rockies-2018/stampede/index.md",
@@ -1695,7 +1786,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "bcb9dc7e1cbe83843df32030a478cdedd5202c6975de679d35abe333c3d6ba8b"
     },
     {
       "file": "content/americas/canada/rockies-2018/yoho/index.md",
@@ -1723,7 +1815,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "aa0caf94047ce00e1c0b87957a148bff852ea439bcdb2d02b2e15d7a6eff8aed"
     },
     {
       "file": "content/americas/canada/tobermory-2014/adventure-park/index.md",
@@ -1739,7 +1832,8 @@
       "body_sha256": "ee357c9c71a445f8ec2e7f0df9c2aaedcd18b892e81016a44b9a065a517fcc33",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "2281ae763fd169bf147047403b90d3276368d7ea2cd46f1c877e2c6b04f06569"
     },
     {
       "file": "content/americas/canada/tobermory-2014/flowerpot/index.md",
@@ -1757,7 +1851,8 @@
       "body_sha256": "cd9846231c617ea8f69f19156d273bf52000bec5175bc5bd5969242396605732",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "ad04ff646ae683b0ccd1060fb92b03c022338b2525ce24e58e584bcdb6d27ca9"
     },
     {
       "file": "content/americas/canada/tobermory-2014/grotto/index.md",
@@ -1777,7 +1872,8 @@
       "body_sha256": "db8fe07e52033c574a71c91ac49dde2dd28cf79ce8ff528d96e5c8638c5f44f8",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "a8edea739de9b8f406f8ec1a1e26585c63f307ad056d03a1941b75c4f969774b"
     },
     {
       "file": "content/americas/canada/tobermory-2014/waterfalls/index.md",
@@ -1795,7 +1891,8 @@
       "body_sha256": "28ec0c3f3b469af1ec81058b3297b97315155937ca252a0afd032420d1198295",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "e3ba07596cbf9a1e9b1220f88e086fe43ce2503f06bae06521598b846b311913"
     },
     {
       "file": "content/americas/canada/toronto-2016/new-york/index.md",
@@ -1843,7 +1940,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1903db47d8f967691c6b9f560bdb9e3cac339681c635a32263f1d1ba76bcbee0"
     },
     {
       "file": "content/americas/canada/toronto-2016/temagami-1/index.md",
@@ -1859,7 +1957,8 @@
       "body_sha256": "520a8fb791f7706d70181ebc2caee68cf2e2b80cb3a69ab80668361b096bdb10",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d9e0b8d07d813f986a68e74d504f44a511559024f065dbab4c2a81fc13a04cd8"
     },
     {
       "file": "content/americas/canada/toronto-2016/temagami-2/index.md",
@@ -1875,7 +1974,8 @@
       "body_sha256": "826326a91d27e90b3b5e5415f1caec0ec656f90b66d67d8a89ce97157aaf8b1c",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d80900e0efd0a0847f6509dcc40b594a1b35dc41745be0c23f35c09ff7fc65a8"
     },
     {
       "file": "content/americas/canada/toronto-2016/temagami-3/index.md",
@@ -1891,7 +1991,8 @@
       "body_sha256": "fa2916b5aea6b524b68292c2867a7d082a248c98ada85f5755df6e5880c8fd7d",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e53f3d30ece9b225713954539dea5b917e243647f3be3809816ecae5cdfb16b5"
     },
     {
       "file": "content/americas/canada/toronto-2016/toronto-1/index.md",
@@ -1918,7 +2019,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "010acb02e60b9eab04ddfb5e1e5aa6a36e0b54fe5ed9588ce1fedef16f2204d8"
     },
     {
       "file": "content/americas/canada/toronto-2016/toronto-conclusion/index.md",
@@ -1951,7 +2053,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "79a8268f6c7366d1f84790f9ce227a0589c52702def46e5a63123c8f257036a0"
     },
     {
       "file": "content/americas/canada/toronto-walks/afternoon-tea-2025/index.md",
@@ -1971,7 +2074,8 @@
       "body_sha256": "c636a015052e4a94da2b39198e84c55541f24bb4e593d69685aea69a341302fa",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b6f01829fcb6a9777e65e435e7e57bbc20135a77f87dd2db118fa121ef123e2e"
     },
     {
       "file": "content/americas/canada/toronto-walks/queens-park/index.md",
@@ -1991,7 +2095,8 @@
       "body_sha256": "3f51bccaf3234678d1d039b9659d4841ea1781e23a8f782e348161a00e234dc0",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d12a01666c809ea78e23cc41421437a2ce3bdf9e38d8413fb626bcf7d7b7e83d"
     },
     {
       "file": "content/americas/canada/toronto-walks/the-ward/index.md",
@@ -2011,7 +2116,8 @@
       "body_sha256": "0bc0774de46b68d535baa863bd45dd1a0309d8b13e3876d8a6562d331c7bd360",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "7bcd99ce759b5e42fe355a46e862df63bcdf88289786d0c414c47b7e45afd860"
     },
     {
       "file": "content/americas/canada/toronto-walks/yonge-street/index.md",
@@ -2034,7 +2140,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "4e30663c826141550a9a07c226a69e5db555464bf91d259f481d1465ea5aab01"
     },
     {
       "file": "content/americas/canada/vancouver-2023/vancouver/index.md",
@@ -2057,7 +2164,8 @@
       "body_sha256": "a04370daeaf620f97648447b800c823a87c3dfcc06f3d63adb8b3f456569358a",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5c2e7e174ea0ada02bad683484a6ce00efcee6ddddeaec755d8341d2024840ac"
     },
     {
       "file": "content/americas/cuba/cuba-2025/excursions/index.md",
@@ -2076,7 +2184,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed_with_question",
-      "question": "Фабрика-музей сахара и другие остановки экскурсии описаны без собственных названий. Точное учреждение не установлено."
+      "question": "Фабрика-музей сахара и другие остановки экскурсии описаны без собственных названий. Точное учреждение не установлено.",
+      "body_sha256_lf": "c88ef7a7010453a3779a3de15536ff92a665146c6d713a6cbd834fb0c8491b3d"
     },
     {
       "file": "content/americas/cuba/cuba-2025/havana/index.md",
@@ -2117,7 +2226,8 @@
       "body_sha256": "7b1ef88f5c67febc316d891dff2005505f24b9f22cf642a787432ee19f853312",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "c646071dce10897672037fcaea082f5044de01dd716ef62fd94ec33a427f2bee"
     },
     {
       "file": "content/americas/cuba/cuba-2025/varadero/index.md",
@@ -2133,7 +2243,8 @@
       "body_sha256": "c7381056223e80211e8bfa28ad545ddaa0545f437eeaec3e12196ed83b23c013",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "326a56f56a6d2cb6126deaf1e50595aeafe4ba9689b61c480bda02c77e37ebc6"
     },
     {
       "file": "content/americas/cuba/trinidad-2017/cuba/index.md",
@@ -2149,7 +2260,8 @@
       "body_sha256": "5e4f87224ecc62a830926535a54d0283adee2cdfd0bae4d076661a930d885140",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b0588cbebfb973664d507c98b0961ca359a41ab0569c9e425e46bc15d096908c"
     },
     {
       "file": "content/americas/cuba/trinidad-2017/road/index.md",
@@ -2166,7 +2278,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed_with_question",
-      "question": "Посещена сахарная плантация со сторожевой башней. В тексте нет названия; не выдавать предположение «Манака-Иснага» за установленный факт."
+      "question": "Посещена сахарная плантация со сторожевой башней. В тексте нет названия; не выдавать предположение «Манака-Иснага» за установленный факт.",
+      "body_sha256_lf": "7e9a22d59f9e6db7d6a6c38c84ef4e12ab99f6aa318c9d39898a7c2dd7495459"
     },
     {
       "file": "content/americas/cuba/trinidad-2017/trinidad/index.md",
@@ -2190,7 +2303,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d4b515e0d551a97c1324b23bc7093e40624c1eb987b2b01a4cd33ffd35cd85ef"
     },
     {
       "file": "content/americas/mexico/mexico-2015/cenote-ek-balam/index.md",
@@ -2213,7 +2327,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "8a585942af014afd7ce2084d79c029d45cbfd96e4f90d3a75d4ccf45092fa575"
     },
     {
       "file": "content/americas/mexico/mexico-2015/chichen-itza/index.md",
@@ -2229,7 +2344,8 @@
       "body_sha256": "cc09d55462dea138f03c4d065c30d976f055e621d0d9de0e78c54e9a794b5c97",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "7fad3b9865b064c28da27c2b73db7eb2f3bcf569f36e3107af29b661fdfbe63c"
     },
     {
       "file": "content/americas/mexico/mexico-2015/coba-tulum/index.md",
@@ -2247,7 +2363,8 @@
       "body_sha256": "13523ebfdecec1b19e6183b654072b43830ac13a33ee00ea6ab6c30e9b917fac",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1d739a7a4e6a037ea468352396230995d1fefedf9869fd805592cafedd746ed9"
     },
     {
       "file": "content/americas/mexico/mexico-2015/dolphins/index.md",
@@ -2263,7 +2380,8 @@
       "body_sha256": "990a45b56e89061fc4d4a070213e3cd1437d3fa7280b65ccf83e21039b98bc45",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d4e8ed95cc1d0f356cf23907adf8b0bf9ea94f2c4c7d6e3bb659b76296134d66"
     },
     {
       "file": "content/americas/mexico/mexico-2015/introduction/index.md",
@@ -2279,7 +2397,8 @@
       "body_sha256": "1a4b022ff073de9f7e692c1f2ea2d7c40df083f2b4dd9374bbaa18a7eaef8bda",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "514f58a9181b6d969c28764276f832b2f63584816bd94449e2a461d3dd63126b"
     },
     {
       "file": "content/americas/mexico/mexico-2015/resort/index.md",
@@ -2295,7 +2414,8 @@
       "body_sha256": "24e8d4c198b885e410c63a1f79defac7430d7720cd2940fd69993a5d4905d7bd",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "0db905739bc15a0ddd4f26d91fd4538cb57906534cc067a7f7b6b3093c9a4abb"
     },
     {
       "file": "content/americas/mexico/mexico-2025/cancun-start/index.md",
@@ -2311,7 +2431,8 @@
       "body_sha256": "a3c4a36bbb15faa17928dd0b757b9e4a1220f458f465a229b1978e6441a50aea",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "c048e614323c9f9e2c64978d39de6614e7ac9c4786c00f010756505e6265af70"
     },
     {
       "file": "content/americas/mexico/mexico-2025/caribbean/index.md",
@@ -2327,7 +2448,8 @@
       "body_sha256": "96f2d687cc2e6971fef3bb699dc7afb7ab0eb2c5536d3d678c3d1de95f445f58",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "fe721f6f055cb13138533fb42a1a7fe859879c3fc3548c933d9061f391ba2f4c"
     },
     {
       "file": "content/americas/mexico/mexico-2025/chapultepec-anthropology/index.md",
@@ -2349,7 +2471,8 @@
       "body_sha256": "83dbb550ed68c11e599a4804554856d375b1b32c798fa5b1feff372d1f4067ef",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1c54bf407de874cfee0f0286306a420b66f642daf76db47b3c0fc264a64b0881"
     },
     {
       "file": "content/americas/mexico/mexico-2025/chichen-itza/index.md",
@@ -2365,7 +2488,8 @@
       "body_sha256": "70278a0d776862b0bb5ad84a70c5f9ddc39102b6af7e90c5e91760b0025139c9",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b49b153d1372b91181ced6f5fed08c0ebdaad8ea78daba6d467a9ef5292237fc"
     },
     {
       "file": "content/americas/mexico/mexico-2025/coyoacan-ballet/index.md",
@@ -2399,7 +2523,8 @@
       ],
       "excluded": "В музей Фриды Кало не попали; дом Троцкого посетили.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "87a60d0ced31edd5717f37f3834698a5fdf364d167f5622edd778f3bb3c2516a"
     },
     {
       "file": "content/americas/mexico/mexico-2025/mangroves/index.md",
@@ -2415,7 +2540,8 @@
       "body_sha256": "8ee16c4f1dcc61d8d634c528f90d3cb308802213d62575a6c81e617b3c662129",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "57ac1f926aa68a77a2622c0ec155bda05e6e9e4648fc79ad8f59d8160f41623e"
     },
     {
       "file": "content/americas/mexico/mexico-2025/merida/index.md",
@@ -2453,7 +2579,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d6c26c5af3e6eac0c4cf6ac5e61dbf8a18b51fcfe69f09e9044b447e3ca11d28"
     },
     {
       "file": "content/americas/mexico/mexico-2025/merida-to-mexico-city/index.md",
@@ -2479,7 +2606,8 @@
       ],
       "excluded": "Музей майя был закрыт из-за электричества; в указатель не добавлен.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a99f9e974752fc8571d782d98c13f89dcf95b2ec1f1548c4f8d4d7449899bd17"
     },
     {
       "file": "content/americas/mexico/mexico-2025/mexico-city-center/index.md",
@@ -2518,7 +2646,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "3d846327e37a620b47eb9d9d05a817dd5e683e32e6c849727c3a12bfa0b928c5"
     },
     {
       "file": "content/americas/mexico/mexico-2025/munal/index.md",
@@ -2537,7 +2666,8 @@
       "body_sha256": "9765c6628045a3b9abbee8742e8839272e3bcc4a7a9ea1d4bad17b8bf6de8a87",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "457cd3a001708f6c6cdde6bfabaa178dbc30dee60d8188dd271cee1d6d9be737"
     },
     {
       "file": "content/americas/mexico/mexico-2025/post-rivera-museum/index.md",
@@ -2566,7 +2696,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "624ee35d6a30f4b07de13b0ec5191de96e7600ad5bf3b364b32a949aac512295"
     },
     {
       "file": "content/americas/mexico/mexico-2025/progreso/index.md",
@@ -2582,7 +2713,8 @@
       "body_sha256": "270e556555b5d3401f045fe1de6be4a09fda0be5d8ea36c19b82184602db1425",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "f8e2696bc979d8e8949fb351786769542928e443b8ecbb548a905ef29cd1583a"
     },
     {
       "file": "content/americas/mexico/mexico-2025/teotihuacan/index.md",
@@ -2607,7 +2739,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "02ce03103714e9822f94365e6f0061561cafa1de96a5a6527915a16a3b120352"
     },
     {
       "file": "content/americas/mexico/mexico-2025/uxmal/index.md",
@@ -2623,7 +2756,8 @@
       "body_sha256": "d47c8d8dc4a269e69abb1943e70f7ee130fd6e5cd4f435d6fd0ac1af648c55ce",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "116bcb6be2c7479a1c7e35f9347ffc0e50356c2e9b8e798a78d919db3582894a"
     },
     {
       "file": "content/americas/trinidad-tobago/trinidad-tobago-2018/port-of-spain/index.md",
@@ -2639,7 +2773,8 @@
       "body_sha256": "884f857f2f848e7172285501be0053f4043d3e30c13e214dd50127dd6f38d14b",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "6d3e9d88eda22a7aee896d2677200e1309b878a8990c15bb915629225499d424"
     },
     {
       "file": "content/americas/usa/atlantic-city-philadelphia-2017/atlantic-city/index.md",
@@ -2655,7 +2790,8 @@
       "body_sha256": "2d96ee173da1486ffaa01ae449635e4fac56ee773982dbec771b97dd8f0c54d2",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "c0d21585e889dc41079f3eb73fc0fcc9415e55d0f91bc7a7bd61341f5028f850"
     },
     {
       "file": "content/americas/usa/atlantic-city-philadelphia-2017/philadelphia/index.md",
@@ -2678,7 +2814,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a27410f359484c0b54e712a7f14b09c86bd614047676a7f48afa260deb2cc900"
     },
     {
       "file": "content/americas/usa/chicago-2017/day-1/index.md",
@@ -2706,7 +2843,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "af065a5bc68daf4c246d859ff688ef6744ea3e34da523c21f3c753ac30bf779a"
     },
     {
       "file": "content/americas/usa/chicago-2017/day-2/index.md",
@@ -2735,7 +2873,8 @@
       ],
       "source_kind": "chapter_text",
       "status": "reviewed_with_question",
-      "question": "Польский храм в тексте не назван. Не угадывать по стилю здания."
+      "question": "Польский храм в тексте не назван. Не угадывать по стилю здания.",
+      "body_sha256_lf": "c210b75b1c3458c07a118f4e44d1fe51aa9ad184ca25a7e762e44e432213539c"
     },
     {
       "file": "content/americas/usa/chicago-2017/day-3/index.md",
@@ -2758,7 +2897,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "fefafda2e63cc6046ffb6086ab209e78b79c18e9169f954ffa2d6d2b17939ca6"
     },
     {
       "file": "content/americas/usa/detroit-windsor-2016/detroit/index.md",
@@ -2782,7 +2922,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b10e6f8e17fac883280dde3b9771bf1d616c98bdb8dd02a5986243759cef751c"
     },
     {
       "file": "content/americas/usa/detroit-windsor-2016/story/index.md",
@@ -2810,7 +2951,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a8ff048783a33521ded4649e8df5eab293f63064efa9b4c93b2e790c80f86953"
     },
     {
       "file": "content/americas/usa/los-angeles-disneyland-2007/disneyland/index.md",
@@ -2826,7 +2968,8 @@
       "body_sha256": "7d5924f686b8a46d6f097b595b550b7ad98db027fefa64a2e0d9cfe17ed29fa8",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a91654584cee9e584e12726a11154d6e7d31250e112b87b950870ec526752383"
     },
     {
       "file": "content/americas/usa/los-angeles-disneyland-2007/los-angeles/index.md",
@@ -2842,7 +2985,8 @@
       "body_sha256": "a0a0784e41a685c0307a69e3adf64aeef05fb41606fd88537c8f9c5cc5a87c23",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "c04a82878f890ad4bf387fd084133ccc976d4a9cc3aad528729fcb3502cc3323"
     },
     {
       "file": "content/americas/usa/minneapolis-2022/minneapolis/index.md",
@@ -2862,7 +3006,8 @@
       "body_sha256": "e6095a493b0ee6b77b6e5140f56f752de00ede14e29363fe0193028bb5144a4a",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "42b627a8fda367721f48ede7b4e56ec50ef1867d767d7b26bb310a77e41abf3e"
     },
     {
       "file": "content/americas/usa/new-england-2015/american-revolution/index.md",
@@ -2878,7 +3023,8 @@
       "body_sha256": "222304b451daefd25c84b7a835d3716320d7dd8626d2f9ae086418ff34f3c34d",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "90f337ea03f33976368f9f658ed4e25928cc6e80387ccf73fdde19411d3499df"
     },
     {
       "file": "content/americas/usa/new-england-2015/boston/index.md",
@@ -2907,7 +3053,8 @@
       ],
       "excluded": "В художественный музей Бостона не дошли.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "46ba83a6321236d21b238bf1ffb0524ca6c19d16ddfb89b60e3de3e2c2fcaa71"
     },
     {
       "file": "content/americas/usa/new-england-2015/cape-cod/index.md",
@@ -2923,7 +3070,8 @@
       "body_sha256": "90bd4a96dc487fcb5aa5ae88f496f9c9207da666321f0eb618e0ebedf11f7678",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "ba3742e2d86c906f71703697522dfee1a6b02db4e82cb0ba9896d19ead24f09e"
     },
     {
       "file": "content/americas/usa/new-england-2015/cultural-heritage/index.md",
@@ -2946,7 +3094,8 @@
       "body_sha256": "bfc88755f004fce64e9ec00a063a284d47b1e052e77a2a77a8d3c7bf7bad515b",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b5e0ae835be48a862651b1d59d850e96c98a7a44feac06482af8910004a3d6d9"
     },
     {
       "file": "content/americas/usa/new-england-2015/gilded-age/index.md",
@@ -2969,7 +3118,8 @@
       "body_sha256": "24e022b75d81dcc2e4ebcbf465ceb4ce1caa8f4d91c04cbb8be30d8ee09db7c7",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "9ea1c36f7a8cd04da0038cbc9628ddd6425696de61bd97e00dc3d84ee38542be"
     },
     {
       "file": "content/americas/usa/new-england-2015/industrial-revolution/index.md",
@@ -2999,7 +3149,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "94788ec071f929eb5f7913f796bf07e224f13f8a439ea8d5cb08cd3ca9a93de8"
     },
     {
       "file": "content/americas/usa/new-england-2015/pilgrims/index.md",
@@ -3037,7 +3188,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1da5aba0ad66355329bde1989c93875057e34a3d4693e074fe836257f01280af"
     },
     {
       "file": "content/americas/usa/new-england-2015/settlement/index.md",
@@ -3061,7 +3213,8 @@
       "body_sha256": "0c82b12c05030f00bac7ab7e46e16b2fdab6efd1be518b7864573302a5a6db15",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "4032d135adbcb21aee89054fa27b857af986af091713c7642b0c60f70e6e4139"
     },
     {
       "file": "content/americas/usa/new-york-2006/story/index.md",
@@ -3095,7 +3248,8 @@
       ],
       "source_kind": "chapter_text",
       "status": "reviewed_with_question",
-      "question": "В тексте есть посещённый «музей современного искусства», но точное название не указано. Не объединён автоматически с MoMA или Гуггенхаймом."
+      "question": "В тексте есть посещённый «музей современного искусства», но точное название не указано. Не объединён автоматически с MoMA или Гуггенхаймом.",
+      "body_sha256_lf": "e725c2327b2a7e6b7db343a78640dd27a0722e0e920417a2dce899b57f922ec9"
     },
     {
       "file": "content/americas/usa/new-york-2012/day-1/index.md",
@@ -3128,7 +3282,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "f4796bfa498c1ac5f0155c232367e71475a87d6900fa1c351cdb321b29bd662a"
     },
     {
       "file": "content/americas/usa/new-york-2012/day-2/index.md",
@@ -3144,7 +3299,8 @@
       "body_sha256": "1588aead82693e5ce0e5564a807ba2319a31b8db041f22a30eeab65cfe27c903",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5d4fa06d0555e5958a223cc218778c95d8a445fe27eef0e1d850bc8ea807caeb"
     },
     {
       "file": "content/americas/usa/new-york-2012/day-3/index.md",
@@ -3172,7 +3328,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "6683d2ecd05c5d229b41416e4e25c65dbb4eda27f803f35c90deafa2d7c1a3f1"
     },
     {
       "file": "content/americas/usa/new-york-2012/day-4/index.md",
@@ -3195,7 +3352,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "7d9dae4da5f333773d76e7d187ef0808105b5f1a9cc89cfbb4e02089094d22fa"
     },
     {
       "file": "content/americas/usa/washington-2011/story/index.md",
@@ -3248,7 +3406,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "3b9c01aa24afc1478104ee53c399f39b1d348916f7f9e7ada8df4c1fb7f590cb"
     },
     {
       "file": "content/americas/usa/washington-philadelphia-2008/philadelphia/index.md",
@@ -3273,7 +3432,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "9e727aa99f409aac63157cfaf4d03f9660ac45b0d14cf3b18061285890347920"
     },
     {
       "file": "content/americas/usa/washington-philadelphia-2008/washington/index.md",
@@ -3306,7 +3466,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b400b9afbffb3bf1b37d7baf495767222ce36e155eddd1a4a722fad106eb652c"
     },
     {
       "file": "content/asia/china/china-2019/departure/index.md",
@@ -3322,7 +3483,8 @@
       "body_sha256": "f121bbd5364935bc016f34a6d41c9ed5d44c2dd55af119bd896f356daf8a1dad",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "174c70c21c383d4d6a3cf7af290dc027f49eda07a0fedfd86b792e10d18ce383"
     },
     {
       "file": "content/asia/china/china-2019/disney-conclusion/index.md",
@@ -3342,7 +3504,8 @@
       "body_sha256": "4099142709b53af84edae44d680552e2c96d147f5242eb644534fbcf1d5228d4",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "bc60edd25680f5e6c38016432c795d891461d5d4d978b894559dcf74ae6cecd4"
     },
     {
       "file": "content/asia/china/china-2019/forbidden-city/index.md",
@@ -3362,7 +3525,8 @@
       "body_sha256": "8649d68371b320ad4a0f6cf0303bcc515625724a2c99e4a647895b639eb37b68",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "74016f3d30738d1b411080e3bb9fff7d5e7bc3694ce50b82be32e985647284aa"
     },
     {
       "file": "content/asia/china/china-2019/great-wall-summer-palace/index.md",
@@ -3384,7 +3548,8 @@
       "body_sha256": "9d39fc28fca1aa4590d8922ae3ba556b97e38b9fb80a6742ce8626ef5e67c3af",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "6a2b40cb9ee0ba3feb903a7de44725a0ea08b1cecd1cf4c195cb5f1a18a20c67"
     },
     {
       "file": "content/asia/china/china-2019/hangzhou/index.md",
@@ -3422,7 +3587,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b0b3d1dddd9fe4cbb3f8dc74929c0c0a16444650cd876e746cc5667f3d5b233e"
     },
     {
       "file": "content/asia/china/china-2019/lama-confucius-museum/index.md",
@@ -3459,7 +3625,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "532dc4acef5a695f809a6f00f0088128923bf0e3c386c0648e176f892b359d55"
     },
     {
       "file": "content/asia/china/china-2019/longmen-grottoes/index.md",
@@ -3475,7 +3642,8 @@
       "body_sha256": "5320f359741e8e87068e530567663854254c791fad7215075f36f807feaa87ea",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "6094a81eae75aa61c623cedd6d7af485c5f375612fbe5ab181c1050dc5eea946"
     },
     {
       "file": "content/asia/china/china-2019/planning/index.md",
@@ -3488,7 +3656,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed",
-      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места."
+      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места.",
+      "body_sha256_lf": "f91a8fe14e5a4298930fe1b3eabb02e2146c0c84e432933c7a64aed9c4a889b2"
     },
     {
       "file": "content/asia/china/china-2019/qianmen-duck/index.md",
@@ -3511,7 +3680,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "c2916553e621aa71c51485ef4fb0f64aedd363104cdf5017908a4e1c652bf52c"
     },
     {
       "file": "content/asia/china/china-2019/shanghai/index.md",
@@ -3549,7 +3719,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5273d284466041811586b39c2e068d33836ea2ad6f2591de9203aae73932dea5"
     },
     {
       "file": "content/asia/china/china-2019/shanghai-museum-bund/index.md",
@@ -3575,7 +3746,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5c0aa592864d8db1f7e88a31e5687f03e5a63d40ed78089bb3622faba2906861"
     },
     {
       "file": "content/asia/china/china-2019/temple-heaven/index.md",
@@ -3606,7 +3778,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "df7e7587b116841b83e1bb79567b4c4f084546b1ebdf4d3a58b26c0b88e2bba2"
     },
     {
       "file": "content/asia/china/china-2019/terracotta-army/index.md",
@@ -3626,7 +3799,8 @@
       "body_sha256": "ed823ac16f37ebb5c71bfaa9d4ec52ef242a92ff90a1800447b7a00111e7f349",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "9ab667d8bd367056762b25f860f6878e59eb9e89697666b4c0d83b92fc3a2c6e"
     },
     {
       "file": "content/asia/china/china-2019/visas/index.md",
@@ -3639,7 +3813,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed",
-      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места."
+      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места.",
+      "body_sha256_lf": "0e92442510f41732061f6ea5ff2048d6bb15a2c640a3603ca20cd9aafed96e89"
     },
     {
       "file": "content/asia/china/china-2019/xian/index.md",
@@ -3667,7 +3842,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1af50c2756a4a330f401d5e46533a73827e2b02a3ef7ad30b16494b645f4048b"
     },
     {
       "file": "content/europe/andorra/andorra-pyrenees-2026/arrival/index.md",
@@ -3683,7 +3859,8 @@
       "body_sha256": "cfae89fd2996005bf2431a99f69b65143b9180e1423b01f55e11bb135a03c5c2",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "9369466a2dcdc2bffe2a2036d7ee8d0f07c906c10093f38298545525cfcabe4c"
     },
     {
       "file": "content/europe/andorra/andorra-pyrenees-2026/incles/index.md",
@@ -3699,7 +3876,8 @@
       "body_sha256": "4ceeceafbfa47bdf2337eb5254f69b2cfdd1c21fea53058b444ec58f8381614e",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "c869b9cdab44f5dd48d8ed18b8df0058fe234ec1cccdce362a25e73e49340527"
     },
     {
       "file": "content/europe/andorra/andorra-pyrenees-2026/roc-del-quer/index.md",
@@ -3719,7 +3897,8 @@
       "body_sha256": "f0de08be9e22534838ab71b454e6c3071ee30a787c1cfd4982f89beb3526a1cc",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e027bc00db6724a25ec56e09d040a54b8d62b055bca20f0826bf88102029ea8c"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/art-museums/index.md",
@@ -3744,7 +3923,8 @@
       "body_sha256": "94cafaf087b2ea5efdeccf85df3d4ed1f009463020416207348044d75587d538",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5ae88f28ffcca18bcfe16b6286873f3c216f9ff6d5af4bab14d74e1c3126c889"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/hofburg/index.md",
@@ -3784,7 +3964,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "45f3414a950314212fb40bc5694375d4c5f10c715b7f1b0b6b7f6318b5fd2363"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/last-day/index.md",
@@ -3803,7 +3984,8 @@
       "body_sha256": "54d0878cd4fa6a2cb205f48b3178a7ac99fc753e012c7a8d4731516382d93d95",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "fa8cfc6e3b6d49ae09a78abe73666b51f499d69860bc63d8641bacdb93c5e47d"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/lisbon-transit/index.md",
@@ -3826,7 +4008,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1e78b88d7463d5e29fbc6bed1511206edaba396f4b10d326c12615d30aed9c85"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/opera-concert/index.md",
@@ -3848,7 +4031,8 @@
       "body_sha256": "c35765347c36aae9d83a4f54699d9638f0b32f80b4a415dffb39148d9324b1f9",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "9feb972266b49c6bc8b5594615fb77fa2a17a25ab4ce7fcb9f03930622c13ab8"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/prague-castle/index.md",
@@ -3884,7 +4068,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e532f232218a0118ea3ef5652189c56c794a939616791c60a3547450de2a0c1a"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/prague-old-town/index.md",
@@ -3917,7 +4102,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "bc85b2001005385cfb0c380f6945d348d9d6836074d6f93c04c69bfd7307dd3a"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/schonbrunn/index.md",
@@ -3936,7 +4122,8 @@
       "body_sha256": "771ea49d2df81fd009e5c8d5488fa71634583497e94cc671a7f685a33888c96d",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "22916cbe481fc7d1c4db9ee708d12f992192c1ec9c8db947387ad80c7a7f428c"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/technical-military/index.md",
@@ -3958,7 +4145,8 @@
       "body_sha256": "5c99d3f76b87885928fe370bb65d328861bfe7bc58b8234e4a3ce78eac683dde",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "ccb0a9ca72759b51ce1f5042c994da4b114c67ca7864832eb95237155b4eba91"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/vienna-food/index.md",
@@ -3974,7 +4162,8 @@
       "body_sha256": "e3d399a45b25522d03e5abb19908c85b213ea04aa5ac69bbb6e9b86f046b2f7c",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "46c44e7cf298c3ffe7c675c02c18c09e4b10d57a5f0c2b8ee36ae222470ec918"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/vienna-walks/index.md",
@@ -3990,7 +4179,8 @@
       "body_sha256": "351500759b3d59b76007f7324bda81ac288f14d986f6ed282e7899872369ebde",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a7f49ef32940118a4075981a7fbd2c4827c121fa0398256183d467145509c3d8"
     },
     {
       "file": "content/europe/belgium/brussels-2008/story/index.md",
@@ -4006,7 +4196,8 @@
       "body_sha256": "b8fb9172027570dbe44f6214dadce6c57a58092a5e7187f4ff2b21428d1b410f",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "974421a7faed0348e0fa8fabfcf96adc4f49aa48392c8e5b876f2562b56a10c4"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/antwerp/index.md",
@@ -4022,7 +4213,8 @@
       "body_sha256": "62dc6df6e8ddb897c936751fec7f3e96f8f65859d35644487ead7cac83fbf4be",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "0c92b385ba4a5255cf8e9acbd269de24d0a9c9f13015d03dfff9a9a3c3a7b180"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/autoworld/index.md",
@@ -4045,7 +4237,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "eeb9429bbf5dbfab3d866ad401f869cfa04809ae31301b8cd7d72d72fbc1e793"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/beaune/index.md",
@@ -4068,7 +4261,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d11edbc83a91831453d76b109b778494e68a29b7fb52b8433227a1be24a01bbb"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/bruges/index.md",
@@ -4091,7 +4285,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "dec743719efa2833720366f94ceaa1e1c50c0b34bbc9d3cadcd08d39a0353680"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/brussels/index.md",
@@ -4107,7 +4302,8 @@
       "body_sha256": "f5e226e3a11491a4d5d24f0c7683fd5ee001dda08dde36c25ef5fac64e87ed17",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "88278853b550b023066e3d09a025367fb224f01128f4f5b06c8e9b20f97df624"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/cluny/index.md",
@@ -4130,7 +4326,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "ff64c56322536b8ba90ce30d59c08ade3687837f4ab561c3e8a3719228bf1b17"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/dijon/index.md",
@@ -4153,7 +4350,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "fad02625719cf7309bc5662b645e31c6352311b6dc76e00d4da0fd6af4fac362"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/eupen/index.md",
@@ -4176,7 +4374,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "6d236e0a83a0cd64ff30b89f0a03529499f83f55bbb3a3aa47c73835f40e6ce0"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/european-talks/index.md",
@@ -4189,7 +4388,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed",
-      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места."
+      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места.",
+      "body_sha256_lf": "2e4dece1a6ac2d208374235c40771c00e0c5e5a30176ccc00ea8c25266c3e11c"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/ghent/index.md",
@@ -4205,7 +4405,8 @@
       "body_sha256": "974e8689c4c1d5238a931ff7099f650845b81cff7b378f0a20333759d8fc45e7",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "acae9ddf8765701630fc5b8c1b10567739735e56dd2b639145fcde760ea3a38f"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/kleve/index.md",
@@ -4228,7 +4429,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "0f4eefc0ef6d2a2364bffe47078735ae98b15502c7f0c040fc549ced3266e32c"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/kroller-muller/index.md",
@@ -4244,7 +4446,8 @@
       "body_sha256": "ebc58432ec1a76dc6d1b16a2b5853e3042752083a1c533bba9aff4e9e56ea73c",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5a220ea0e2ff2c762259f4cff9a74a551fe1eb8fb400a0946cf4c40585def2e1"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/lyon/index.md",
@@ -4272,7 +4475,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e9d5759aa178dbc58bd120b1775285fa74fa8ed638af32361c48b3ff08aa84a3"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/military-museum/index.md",
@@ -4295,7 +4499,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "af66e5b5401a0d9c72127c58f7de34ed8988662f52c4ef5294cdb2ffb83a2cb8"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/musical-instruments/index.md",
@@ -4318,7 +4523,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "ec4a525dce87e20e70fe5afb03484d182465737128965d7cf253ecea4ed15f0c"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/nancy/index.md",
@@ -4351,7 +4557,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "18b7f1856a3c76dacd19f9bd527fd45d279936d715579da90a01db1f54beeffd"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/netherlands/index.md",
@@ -4369,7 +4576,8 @@
       "body_sha256": "7c914196c45a9210669795b745995ffa1e26c930553578dde61aa9f528f16552",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "2ee085b87ba2ddeab2d74136e3fb69edb59bb522a57e0d74283b3229c53f715e"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/relatives/index.md",
@@ -4385,7 +4593,8 @@
       "body_sha256": "93f008f313cf556de516411c67d7d44e4310828a3737893605343e6b6a35274e",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a0f93afcb2e93debe7eab1afa2c80f91b46a4513f73e4e306f4685389f311634"
     },
     {
       "file": "content/europe/england/london-2018/arrival/index.md",
@@ -4408,7 +4617,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e5e7eb6efe1a56c8056a5423f2f2ed1ba7836f63feef8b8211dc793220792147"
     },
     {
       "file": "content/europe/england/london-2018/conclusions/index.md",
@@ -4424,7 +4634,8 @@
       "body_sha256": "ccac19bc15e02a117f144a70359f763bd11eb280e118cfb9d18cb21b722d1f60",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "25cb0536d93c39dfbbf1e5ca5ea626c3e8c7934cf566308601724277176eb94b"
     },
     {
       "file": "content/europe/england/london-2018/excursions/index.md",
@@ -4452,7 +4663,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b0c7e82a39ee6e93774301a2812ab7fa0749b6f3a37cf80effe3c6a0bb5a7d5f"
     },
     {
       "file": "content/europe/england/london-2018/museums/index.md",
@@ -4482,7 +4694,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b09e88e471eb7b08f16e826bd251bf24e11b1214b53c193b0c3e49e63883a8fa"
     },
     {
       "file": "content/europe/england/london-2018/oxford/index.md",
@@ -4505,7 +4718,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "7f424560383232fcb3b60c76c74599e9f6797459a7d2f365d091035734cfbd23"
     },
     {
       "file": "content/europe/england/london-2018/stylist/index.md",
@@ -4533,7 +4747,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "79d35cf28fed0e5ef605fd0b6232483f7fdd97fcdf9fd6fe569f177b2f9ca032"
     },
     {
       "file": "content/europe/england/london-2018/weekend/index.md",
@@ -4549,7 +4764,8 @@
       "body_sha256": "52e043d8b8b55b3225bfd65cb4d34b3d31c717daa1988533b34fe5a1bdc5f632",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b3da5d40a711f5f2575dd05150acd6d79d6185cf1179ffd1b7d00d4903c26b05"
     },
     {
       "file": "content/europe/england/london-2018/westminster/index.md",
@@ -4577,7 +4793,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d7cac2c9636b1737dd066c9c11d33b88ae09ec83c90542db6923624985e58a3a"
     },
     {
       "file": "content/europe/england/london-2022/hyde-park/index.md",
@@ -4602,7 +4819,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e48d2851a83b29a1fec4b8400bd97080e7c7259802da753a8e77bbb443a9f129"
     },
     {
       "file": "content/europe/england/london-2022/kent/index.md",
@@ -4618,7 +4836,8 @@
       "body_sha256": "b80b4afcd17926d2c9bcbfe32dd258de3df22f9d2f0890aab9ecad8c75d976a3",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "67774db52017ee4b8e48ff56ac3a1032169ced9ba8bdc0db6078cf3c94c6c32f"
     },
     {
       "file": "content/europe/england/london-2022/legal-london/index.md",
@@ -4638,7 +4857,8 @@
       "body_sha256": "fbab9186a40db7dbd088d1c0e5e74a8e1b720dbfc00e521387c9f3013cac1319",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "138bc33c7b769a34bb89147e94cb3a58c985c5c0c484e5d4cec23c67682eb303"
     },
     {
       "file": "content/europe/england/london-2022/leighton-house/index.md",
@@ -4657,7 +4877,8 @@
       "body_sha256": "b209b4d9a3b67f27c778dfc0baec9bad3dcabff038729c393043ab22ad0481a4",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "3de111db214c925417845a13caff51811c444476710ba9e0fb8ca47c66ee24b4"
     },
     {
       "file": "content/europe/england/london-2022/national-gallery/index.md",
@@ -4683,7 +4904,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "85c5892799f084680e3e5065ffd560095f72bd6c8b6b8555f32fad3ff57f80bb"
     },
     {
       "file": "content/europe/england/london-2022/tate-britain/index.md",
@@ -4705,7 +4927,8 @@
       "body_sha256": "a27a1f36589193f793336767b8fbf319f54e91096b426f33ade053ffec5ff068",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "bca5a57e5173156437f653c83c8ff62aa2e0f8a0bc5e7c41dee025fb9ae81b98"
     },
     {
       "file": "content/europe/england/london-2022/windsor/index.md",
@@ -4725,7 +4948,8 @@
       "body_sha256": "22f0085a3e4068f92e6c592d80e6bd9c1910aa2aa68e6ed4e2a0945cb7757414",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "df3fc9d6d7995432fd6dbfb955372a15f617eb636a7a547d838f239b9808c0cf"
     },
     {
       "file": "content/europe/england/london-cambridge-2008/story/index.md",
@@ -4762,7 +4986,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "161eff2849ab97aef24afef736e450ebff7d10c118f7a5df7b0d0093d0f3aee4"
     },
     {
       "file": "content/europe/france/barcelona-occitanie-2024/barcelona/index.md",
@@ -4774,11 +4999,18 @@
       "places": [
         "barcelona"
       ],
-      "attractions": [],
+      "attractions": [
+        "barcelona--park-guel"
+      ],
       "body_sha256": "18dcf224f948716506905d6102394c694a6ba619c97c2a89016906eb2cfba62e",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "owner_confirmation": {
+        "date": "2026-10-22",
+        "detail": "Владелец уточнила: в главе «Барселона с семьёй» много фотографий парка Гуэль. Это посещение 2024 года; отменённое посещение 2023 года остаётся исключённым."
+      },
+      "body_sha256_lf": "ab6fb82a62802f6cc0b40aa6fef461a95732f97442996996f76b2e7bc8b8ffdc"
     },
     {
       "file": "content/europe/france/barcelona-occitanie-2024/carcassonne/index.md",
@@ -4801,7 +5033,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "ce7354f93c3ee7cd4300788119ec31e92c12eb81ea7ef784eeda48c76e982668"
     },
     {
       "file": "content/europe/france/barcelona-occitanie-2024/condom-armagnac/index.md",
@@ -4831,7 +5064,8 @@
       ],
       "excluded": "Музей арманьяка был закрыт.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1e14d30b50aa02ae8064e83d020c4315e50ad534f003027b1638cc540d1bfe06"
     },
     {
       "file": "content/europe/france/barcelona-occitanie-2024/cordes-albi/index.md",
@@ -4859,7 +5093,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "7120df32456fc40e4c202cf203a9c88348eff8d6c870b14424629fd60c20de1a"
     },
     {
       "file": "content/europe/france/barcelona-occitanie-2024/dali-figueres/index.md",
@@ -4879,7 +5114,8 @@
       "body_sha256": "423bb7da3f68838cc3286a3eb5f9f04066072617626f38a247275138bc6b8f6a",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "70ca61abce168ef3342965f065ebdc2b14c058f38341d8292324e9836877899e"
     },
     {
       "file": "content/europe/france/christmas-2014-2015/alps/index.md",
@@ -4895,7 +5131,8 @@
       "body_sha256": "070dd514797a6107a0ee0f5a7d8166685521dd088c2abbb20c397fc6eca4de37",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "3b4ef6c18442e6d29b76c4a8f6be49ee33525e64362c22ebf06f1948e79d358f"
     },
     {
       "file": "content/europe/france/christmas-2014-2015/alps-final/index.md",
@@ -4911,7 +5148,8 @@
       "body_sha256": "b24d693b6aa4ba52c5ae93939381ebe097b03d09591a843618990426a10f9050",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "099e0484d8d1acc74ef08b417a13401204dc46899b99199cf07c4461f4b7a48a"
     },
     {
       "file": "content/europe/france/christmas-2014-2015/english-children/index.md",
@@ -4927,7 +5165,8 @@
       "body_sha256": "410327b4f669bb43be92253d166cbfe6c77b37852d9ddcb5859d940c5f0deb27",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5e33e68a32ea65ce59b21ae773eeda1f038f220111369ceb26d1b442d68a149e"
     },
     {
       "file": "content/europe/france/europe-2021/antibes/index.md",
@@ -4947,7 +5186,8 @@
       "body_sha256": "736f45a421f741aa8254d5497056254802f33bbf5e6323c5538c82276eea331f",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "35c65b01d354fa10d3226d978ce130e1b5a999851cd21a7a28bba32b2c18d913"
     },
     {
       "file": "content/europe/france/europe-2021/avignon/index.md",
@@ -4967,7 +5207,8 @@
       "body_sha256": "356919e75a1fc2ff83d53673d43ac75b84be53fd4ccfe9ab4b84c0692d4e56ef",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "0c49988a2ef739642d55d0aed97008f4ac742f7f57cd490cc5a6779a68085a39"
     },
     {
       "file": "content/europe/france/europe-2021/cannes/index.md",
@@ -4987,7 +5228,8 @@
       "body_sha256": "665dae84e923894b71e3db32b67d6d2245dd1770f7182329dd3324a27769ee74",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "7b9db9aafb06b09c72903d0e56848babd7b7984511ca97964884e6381a39f1cc"
     },
     {
       "file": "content/europe/france/europe-2021/dacha/index.md",
@@ -5003,7 +5245,8 @@
       "body_sha256": "042ac041d1b0925693d7625534702477601170c588d182abec6040aa19642d6b",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "95f02bb63fd4bee35cb9452140c61efa0a10336bd683264c06e9a9fffd64017d"
     },
     {
       "file": "content/europe/france/europe-2021/grasse/index.md",
@@ -5019,7 +5262,8 @@
       "body_sha256": "feae8f09896bfeded0b239b51a848afc67e10dcff85c378ba75962fa8937925f",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "25b0b028f325cff2709aad084cb7773e862d299d2bf15f296f49b4f38dfef798"
     },
     {
       "file": "content/europe/france/europe-2021/marseille/index.md",
@@ -5045,7 +5289,8 @@
       "body_sha256": "74de8e7e9186e31cdc3d6cba2d7ed68c5116c5b3edc3a0ad3267accefb7ed477",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "76bbc405aa5239247e1e1b60ff4438b56aa696ab4500ebe2fff6023015e6b9ca"
     },
     {
       "file": "content/europe/france/europe-2021/michelin/index.md",
@@ -5061,7 +5306,8 @@
       "body_sha256": "a84090180f305e799a1eeed02d225e13915a604ff157458698580a355b716f0e",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "af21d6c2445e144b9500813df956bed6b5b497108e85108377389aed686b097b"
     },
     {
       "file": "content/europe/france/europe-2021/milan-brera/index.md",
@@ -5087,7 +5333,8 @@
       "body_sha256": "1bbc5e685cf538d390af203cb16010d4ebacc43db9d465179157dae60b7a3f90",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "7869305f3f75105eae62a956afccbe2f26f72551313d2ef9cd0bb2020e189576"
     },
     {
       "file": "content/europe/france/europe-2021/milan-duomo/index.md",
@@ -5110,7 +5357,8 @@
       "body_sha256": "09f7f602c8c22c9b0a8201f70eebb7020bfe52acb66f735244045db6a7272699",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "55b7431af4708002c45648dc340a996c2e98291697afd782cfab0f39241477ba"
     },
     {
       "file": "content/europe/france/europe-2021/nice/index.md",
@@ -5130,7 +5378,8 @@
       "body_sha256": "9873dd150949a3795dc6a1b7e602a93681f75c182471a31ef3cea1bf15679ef4",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "5568ea2cc136621c4f348bb304f7302097a2867ebd58c4d620b66da84512bad0"
     },
     {
       "file": "content/europe/france/europe-2021/nice-museums/index.md",
@@ -5156,7 +5405,8 @@
       "body_sha256": "ad1e723a1530be5615c5ad187bdb9a07709f7569c20e91a3c704607c171feae3",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "c5f34e695624eb74077f77c685ff58275216dc3353a370e616308c8867619f4e"
     },
     {
       "file": "content/europe/france/europe-2021/paris-louvre/index.md",
@@ -5185,7 +5435,8 @@
       "body_sha256": "88e3e922e3ca1df87aa1ab8365cf85ad10cf64bd70b70033223a60ef85140228",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "83914187b1bf588aba65dcdcf58f1c7ca0be0168fe30d353482f7ad8384503d1"
     },
     {
       "file": "content/europe/france/europe-2021/paris-montmartre/index.md",
@@ -5220,7 +5471,8 @@
       "body_sha256": "89bebfccb491d69a75a715bfd81ad2c69028fcf1c79c799b2870f29b79df1a73",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "a39c4b9404388ffbdcdb81b79326e240ed49c014d3cdd1bf0c4de1a5b082316a"
     },
     {
       "file": "content/europe/france/europe-2021/provence/index.md",
@@ -5236,7 +5488,8 @@
       "body_sha256": "cc87eb877f444b0d89a7aaee4b221a6da25315a17c5daa5d2fefc26e48eadaa8",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "47faf409c5a1e16905c2c78221d298a931726e2520299302eb42311eac1fdfa0"
     },
     {
       "file": "content/europe/france/europe-2021/road-south/index.md",
@@ -5252,7 +5505,8 @@
       "body_sha256": "85ee1c4aab91d45a31dabb851a2577d69257f5f117fa2fddfd2fa2579721b6e7",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "9ca848728c7551b820d8dfe4a56c43daf0be3a6bfde546cdd37667bb34a2f9cb"
     },
     {
       "file": "content/europe/france/europe-2021/turin-palace/index.md",
@@ -5275,7 +5529,8 @@
       "body_sha256": "7026d19214c0f6e188f7ad88d1d32ea23bca24cb9b57b51fbdbd9148dc9a0c0f",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "35c78dbfbd31f7bb1f4619457e2a043efa81d678a1b819365d3f81bbbb1878dc"
     },
     {
       "file": "content/europe/france/europe-2021/turin-squares/index.md",
@@ -5293,7 +5548,8 @@
       "body_sha256": "4ce1255cc15ce2dcf929dbd751f59a1381d3b8e389e0272fed6b865ab9765190",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "7274a2316efc4c3060bee5fad5e95d9a020c6db29a10aeded0a63d95082661c6"
     },
     {
       "file": "content/europe/france/europe-friends-2019/aachen-tournai-somme/index.md",
@@ -5320,7 +5576,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a47d8739231c95dd8f14d294b7a679d1d542f5ab9461a628096d6da56dfaf014"
     },
     {
       "file": "content/europe/france/europe-friends-2019/conclusion/index.md",
@@ -5333,7 +5590,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed",
-      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места."
+      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места.",
+      "body_sha256_lf": "493972b411e723e7a35781e2b7a582dc1d293cd8be4a8a0299f98f2c5850924f"
     },
     {
       "file": "content/europe/france/europe-friends-2019/disney-fontainebleau/index.md",
@@ -5353,7 +5611,8 @@
       "body_sha256": "f8894d2d429318bdc3fa335723e7311acdca99524a74d7c7a703420c10a6d09b",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "cd5e6b8f5db7589f9e50dfef889432e250ef85eb0b14fe6d02060991151b23b7"
     },
     {
       "file": "content/europe/france/europe-friends-2019/fussen-castles/index.md",
@@ -5380,7 +5639,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "9f061cdfbe3fd67868a45c8d002c19b27a58f6581dcc57d37b54862df03febe1"
     },
     {
       "file": "content/europe/france/europe-friends-2019/meaux/index.md",
@@ -5410,7 +5670,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "c7895f331bba1e6ebbc77bfd0c291f9648458df091f8ac2a98b52d26c9016971"
     },
     {
       "file": "content/europe/france/europe-friends-2019/mittenwald/index.md",
@@ -5433,7 +5694,8 @@
       "body_sha256": "c3e589ae0923f11cbd8b58d34dbe4cf26668a43e2737d52a3a9ebbe8de9aa426",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "933a14e210eddb47ea8a8816cacb4667d6622b47a4cd747ffe7c201d10e1f0e6"
     },
     {
       "file": "content/europe/france/europe-friends-2019/munich-nymphenburg/index.md",
@@ -5459,7 +5721,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "bb6f9992bb373f963cb8a75995c24f2bce806ce410e942ffbdabfd8da7d1ec5d"
     },
     {
       "file": "content/europe/france/europe-friends-2019/munich-residence/index.md",
@@ -5474,12 +5737,26 @@
         "munich-residenz"
       ],
       "attractions": [
-        "munich-residenz"
+        "munich-residenz",
+        "munich--deutsches-museum"
       ],
       "body_sha256": "996f7bfa8ad7e956ced6178d96ec96f64f2db88eed939d665fb168a185350ad8",
-      "evidence": [],
+      "evidence": [
+        {
+          "id": "munich--deutsches-museum",
+          "needle": "у них в плане был технический музей"
+        }
+      ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "34a967cd726377719fa4fda220bcc6d72b32bf6c98a41f5daa0770ba6fa90d9e",
+      "supporting_evidence": [
+        {
+          "id": "munich--deutsches-museum",
+          "file": "content/europe/france/europe-friends-2019/conclusion/index.md",
+          "needle": "Технический музей:"
+        }
+      ]
     },
     {
       "file": "content/europe/france/europe-friends-2019/munich-rothenburg/index.md",
@@ -5494,7 +5771,8 @@
         "rothenburg"
       ],
       "attractions": [
-        "munich--lenbakhkhaus"
+        "munich--lenbakhkhaus",
+        "munich--ns-dokumentationszentrum"
       ],
       "body_sha256": "f5e930e19a5d09aeb90d1c777b24de0604e545058ff1fd142c75f32e9b3d4d79",
       "evidence": [
@@ -5505,8 +5783,19 @@
       ],
       "excluded": "Музей BMW и Дахау не посещены. Материалы плана не считать посещением.",
       "source_kind": "chapter_text",
-      "status": "reviewed_with_question",
-      "question": "В рассказе назван Ленбаххаус. Музей истории национал-социализма есть в итоговых оценках и плане, но его посещение в теле этой главы явно не описано; нужна сверка фото/источника."
+      "status": "reviewed",
+      "body_sha256_lf": "51ed3b1b290b193c71193f8e5fd53a66b92ae229f3406b5770ee5b7bc010dedf",
+      "supporting_evidence": [
+        {
+          "id": "munich--ns-dokumentationszentrum",
+          "file": "content/europe/france/europe-friends-2019/conclusion/index.md",
+          "needle": "Музей нац социализма:"
+        }
+      ],
+      "owner_confirmation": {
+        "date": "2026-10-22",
+        "note": "Владелец подтвердила посещение музея истории национал-социализма и пояснила, что рассказ о нём ещё предстоит дописать. Метка привязана к мюнхенскому дню с Ленбаххаусом; сам рассказ не дополнен."
+      }
     },
     {
       "file": "content/europe/france/europe-friends-2019/nuremberg/index.md",
@@ -5530,7 +5819,8 @@
       ],
       "excluded": "Музей Нюрнбергского процесса не посещён.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "fc76adb13f15b3f80f9414d568753e987beaaf389fb0baef8cff770fc8183c74"
     },
     {
       "file": "content/europe/france/europe-friends-2019/paris/index.md",
@@ -5579,7 +5869,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "fa17cf9beccb0ed0bbe1faf55a9a08f804c3ad6e51d70d19e1caf1fd40515411"
     },
     {
       "file": "content/europe/france/europe-friends-2019/planning/index.md",
@@ -5592,7 +5883,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed",
-      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места."
+      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места.",
+      "body_sha256_lf": "46b37981219b523b9af4519bee3d4470973a92d5f1e03f3124a67bc3628cbd89"
     },
     {
       "file": "content/europe/france/europe-friends-2019/reims-riquewihr/index.md",
@@ -5622,7 +5914,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a6b699a1cd3ce8362c2b24a6a2e5c346302e56350c5d9969e58caf6810626b3e"
     },
     {
       "file": "content/europe/france/europe-friends-2019/rhine-cologne/index.md",
@@ -5647,7 +5940,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5108d1738ae10f416689b06b8e3cb4b9f4206f3d900158a6fa5a234569880f84"
     },
     {
       "file": "content/europe/france/europe-friends-2019/rouen-honfleur/index.md",
@@ -5672,7 +5966,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b02a9a2b37f66f988bbd1811436166bc85938580a4fb7616df49ce6b0ebafe30"
     },
     {
       "file": "content/europe/france/europe-friends-2019/strasbourg/index.md",
@@ -5700,7 +5995,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e1c9a145f5d96f312eaf48db28c64b2694f0318d6a09af786a6beca203c2cb16"
     },
     {
       "file": "content/europe/france/europe-friends-2019/stuttgart-hohenzollern-ulm/index.md",
@@ -5730,7 +6026,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "57e4e6ac32f54a6c6d48c0e9ba7443fd6c8ab3879f13657235d0f4d057ffb4ff"
     },
     {
       "file": "content/europe/france/europe-friends-2019/versailles/index.md",
@@ -5746,7 +6043,8 @@
       "body_sha256": "083a4e5e3584b458af7f7e809420e38227e71661a5178f7c04091d38215249ae",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "f4ee79348042556327b4b7f283855c0a6990d9407c9102f0c340bf20e113602e"
     },
     {
       "file": "content/europe/france/europe-friends-2019/wurzburg-rudesheim/index.md",
@@ -5771,7 +6069,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "2e0f95d9d4a9676750c6ea7b1f979d910b5d89ad290b04553bcb0c87b88e2ee9"
     },
     {
       "file": "content/europe/france/france-2012/cadre-noir-loire/index.md",
@@ -5797,7 +6096,8 @@
       "body_sha256": "0d0b496bdee70c890ff1e98c649377852466cd1e41e09bb5bd43b8a1533c56a5",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "c56c494e6402a29c9ceab5f5938e69f42853e0506d3703fc83317d92652bcf2d"
     },
     {
       "file": "content/europe/france/france-2012/chambord-fontainebleau/index.md",
@@ -5815,7 +6115,8 @@
       "body_sha256": "748043034a05ee93c4ff0d8c6de6fb24e33818ea82e8c87fb08f91b8f270e928",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "6bec1495dac447bfde67bb832d20f1a35ba81c56494994e5c531236c051f2733"
     },
     {
       "file": "content/europe/france/france-2012/conclusion/index.md",
@@ -5828,7 +6129,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed",
-      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места."
+      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места.",
+      "body_sha256_lf": "bc0867840d416b832a17ac4818e3e4f2a1e07e820d6d892751e3567501c3e899"
     },
     {
       "file": "content/europe/france/france-2012/le-pin-d-day/index.md",
@@ -5853,7 +6155,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5ff20754452fb9b5eceb93e74a32454761dbd9b3a661ba222cc5bc48cbbe720d"
     },
     {
       "file": "content/europe/france/france-2012/mont-saint-michel/index.md",
@@ -5883,7 +6186,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "f29a97c8fda812709fbe7df3dc06f3eaeca50bf3b5d8d41594e0c2e75443f17a"
     },
     {
       "file": "content/europe/france/france-2012/paris-1/index.md",
@@ -5906,7 +6210,8 @@
       "body_sha256": "a95938893310367a9f8aebc33b2fbfccfbbb92922935e705c2510997eb9b4dac",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "c852e7dd62b6c1e10fbf2f94319d00de2a6dc57d0ce3252f9171658958411e51"
     },
     {
       "file": "content/europe/france/france-2012/paris-2/index.md",
@@ -5935,7 +6240,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "11f27cec315eda2229a372bbd1789ab4acf7654bf07107a0ab24e3c3b70cb33b"
     },
     {
       "file": "content/europe/france/france-2012/planning/index.md",
@@ -5948,7 +6254,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed",
-      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места."
+      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места.",
+      "body_sha256_lf": "b5f491e592afb70e0ffa9485aa177f15b1bdbae966eaa57c124b15f73923010d"
     },
     {
       "file": "content/europe/france/france-2012/puy-du-fou/index.md",
@@ -5965,7 +6272,8 @@
       "body_sha256": "8142ad6444c3ec31930898e280920339e224ccd1b0839fe9c9bb4fc309b705af",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "dda445ca8aaca9e6299f10945c9079d889ad5f81e1cd4a15610c98dc12de0581"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/barcelona-christmas-markets/index.md",
@@ -5981,7 +6289,8 @@
       "body_sha256": "0495574aa3e5abd9814ec123fa3f26745ba594a41ab36f643573705790698332",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5a7484e014d4806e728bff70d83d5735e0d508ecd02b027dad3c9c1cace760e6"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/barcelona-circus/index.md",
@@ -5997,7 +6306,8 @@
       "body_sha256": "8f0b2758f475e2c372d90cef46905eb78983121444200b01eedc2c94f72c581a",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b0a0f437b94d2eb585e07ae7a1d2f097a4884f879e3c7c1eeb1879f111e9f3c0"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/berlin-first-day/index.md",
@@ -6020,7 +6330,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "3d7977e6b5dd6e2c418e1e68b257ebd0299833afad1722595134a9c751905ed9"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/berlin-museum-island/index.md",
@@ -6069,7 +6380,8 @@
       ],
       "excluded": "Основное здание Пергамского музея закрыто; посещена отдельная панорама.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "eb1b3c5f50618cc456f3211f64694c1dedaffcc479e4925d64b5c0872f6b8d8e"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/berlin-technical-museum/index.md",
@@ -6097,7 +6409,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1c3d2190323df5de27dccb2e69fddb916bcec4e5d9b4239d04ec4efa1581493d"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/berlin-treptow-wall/index.md",
@@ -6126,7 +6439,8 @@
       ],
       "excluded": "В Рейхстаг не попали; увидели купол издалека.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "61d2d6d995d0d3cccce36d32178efa95f7e1cfde38d16c555d7278c47b7a2818"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/dresden-gallery-opera/index.md",
@@ -6154,7 +6468,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "9919fb3006380461821a71a3376c9e6a9cea5bcff8357fefb304c82a35eb39e4"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/dresden-treasury/index.md",
@@ -6182,7 +6497,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "afb097f62b49e1e6141dcb3a9da57ee03b62385f6329c775c02575d45a3ff1f1"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/i-love-barcelona/index.md",
@@ -6205,7 +6521,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a328c3c5f995beaa20eb4d8f5a3cab29cece25df82afbfc7f2b0bec542adb55f"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/lisbon/index.md",
@@ -6228,7 +6545,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b1ef25a3daa75e5d17019ff2d5750f27b926ae75e0852c3aa4c460dbb39825cb"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/moritzburg-meissen/index.md",
@@ -6261,7 +6579,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "712ad9527339dea656b5cb9e898e711a6eb08e7f1680f8f2c3718fd9b3b4bcac"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/vic/index.md",
@@ -6284,7 +6603,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "9e191c28ea052d433bc8ba839cc0a9f3825fe2588666ec1eba135337c3938370"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/amsterdam/index.md",
@@ -6307,7 +6627,8 @@
       "body_sha256": "f1391c0b53901776a86ac56da84c5181ed5e4dd2660f9e5b150c9e4b4a41c9e5",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "f1be20d1fed7a76b523becb7fe6ddfb05d3278703494d5a27957c065e4700e79"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/barcelona-eixample/index.md",
@@ -6330,7 +6651,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "032d7879e0397d8a134076db9836bcbb38134d35b47f054bffd0e199911d27ed"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/delft/index.md",
@@ -6350,7 +6672,8 @@
       "body_sha256": "ad79dcccdb8661ba8abe5f75b06d369e9d6f75855e4c60fb5b3ee966c6ad5425",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "7e458d3d221feee67a61a2cd428059b1c741163f1dd9a4dea5d96b543ea8354b"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/frankfurt/index.md",
@@ -6379,7 +6702,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1eea37397838a1957a6cab9050ac7bb26e4f66d02ee69280621b6c00ce2e4c74"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/gothic-quarter-beach/index.md",
@@ -6403,7 +6727,8 @@
       "evidence": [],
       "excluded": "В парк Гуэль не попали: не было билетов. Поход к входу не обозначен посещением парка.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "abd58cd5993cc7ad10a68bcd4338065ce5ab351fda33f089ae9cd99407fb5e20"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/hague-rotterdam/index.md",
@@ -6428,7 +6753,8 @@
       "body_sha256": "e3995f99a87abdea5ebfb6814473e88be26e672f1cb8bc38ff08ccc3580f9552",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "6ae9dcf18355f020e9833078890b03650fecac8ec85b28f1669ee551d7a4b093"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/kleve-kevelaer/index.md",
@@ -6453,7 +6779,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "4651400f126f9fcc8f7886f0aeaad4f738338b2a5f4e3a061a13c61d12e7695a"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/liceu-sagrada/index.md",
@@ -6476,7 +6803,8 @@
       "body_sha256": "49d2659f2b03788b52b5d00b22a0beeb067c8c17b8f7cb9735ccaa9bf6c1da12",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b673580a1cd0151964f669081de18105117df48a9a8f2ceda00cffcbda3c3cfc"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/lorsch/index.md",
@@ -6496,7 +6824,8 @@
       "body_sha256": "0a348787970e6ce890136b7bf89129751d662275dc4b7403873baa0c1f1fa9d9",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5736752839e888f273d13ed3dfa67451d81c2fc5242e47cc4bfc4552cc709ff1"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/mannheim/index.md",
@@ -6516,7 +6845,8 @@
       "body_sha256": "64eceb3c39405ed3046fc9ecb883bc17a09b1515dcc248c47110e942243d4f1e",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "6ccb7ed0bc2bce5a0dc6b5493cc396ac66794d43a113ee858ca2894395f4239f"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/maritime-museum/index.md",
@@ -6536,7 +6866,8 @@
       "body_sha256": "a41147e36866b1575a256c3061fb26da2e15f3a7d685b5ee60e399335a236235",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e5fdafa5eeed3e32b015498b33c5b8647ce34fa7af1d81a76faec8876ddbf865"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/miro-montjuic/index.md",
@@ -6562,7 +6893,8 @@
       "body_sha256": "c23d37a21df4606f474ffdd3070d4c5b499c009487fa4626ca00212dd443ba28",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5292aa32295de6209decd820a418fa104be2ac41bc01b213c16f0101afcf72af"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/mitya-birthday/index.md",
@@ -6578,7 +6910,8 @@
       "body_sha256": "3673ea78847c809c75d1e6035a404e67e8336ab7543fbedef5ee03745d2c6b85",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "90e511fdc52a30cfb4a31755c67dafa18b282b6c5f0fd685963a35b0e4b6df09"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/mitya-explores/index.md",
@@ -6606,7 +6939,8 @@
       "body_sha256": "cc1400a4a0f699b809fc6f12cc70c1fb4504d2e8a9dc9d910662a1d65bc9b49d",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "eee9514d32c00a9baa21061a0e918da40a4a01e8454e6378a0f7cbc7ad50b522"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/mnac/index.md",
@@ -6626,7 +6960,8 @@
       "body_sha256": "951b0f52dcffa80bc20757512e5dd36cbbdb5cfb734d8ac2c3030b4ad53c143c",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a4320e2bb56242bebc35e4f48bd63de4e359138f7a6725886ffc1f7a3744c78a"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/natasha-school/index.md",
@@ -6642,7 +6977,8 @@
       "body_sha256": "26744ea0401b91159424845a778d949b81391c07e8f0edd2a8f364945981789e",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "013bc8cc04e114d28f0f8145f2a0148349b392c2efcd421976d60374703eee61"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/sant-pau/index.md",
@@ -6662,7 +6998,8 @@
       "body_sha256": "dfa30aecc2cbbf955b9743a93b97bb433e0e4591d6fdcefca1bef6da8bc5deff",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "3d047790d4c71b600ac3ffb7eff2535c9872b69f5da615634517225a7bf51a61"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/stuttgart/index.md",
@@ -6685,7 +7022,8 @@
       "body_sha256": "73041655e929d198c6e01899396c2ea2e959a818788b3a76101e3e60cfdc2611",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b02a49007afee7dacf19ebb23373accc00bb47ae5d20f2404b9b29ba5a1216cb"
     },
     {
       "file": "content/europe/germany/germany-2011/alsace/index.md",
@@ -6713,7 +7051,8 @@
       ],
       "source_kind": "chapter_text",
       "status": "reviewed_with_question",
-      "question": "Каретный музей назван описательно; название учреждения не установлено."
+      "question": "Каретный музей назван описательно; название учреждения не установлено.",
+      "body_sha256_lf": "babf5fbd39ff16b452e9c240669552c1e9ce9f004ffbd701848354a84fe5982d"
     },
     {
       "file": "content/europe/germany/germany-2011/bavaria/index.md",
@@ -6733,7 +7072,8 @@
       "body_sha256": "757bd9baa29057679c8ee54cabdd718090a4e2b01811faaaba92ce863184dffb",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "02cba16ffa1cfea0dead3e186f433818862d22ae5059ba7fa75c49fc32e611f1"
     },
     {
       "file": "content/europe/germany/germany-2011/belgium/index.md",
@@ -6758,7 +7098,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "91845289648c68e7f6ca1203035b499aa902365091fd90b3b64a2987a03134b8"
     },
     {
       "file": "content/europe/germany/germany-2011/castles/index.md",
@@ -6778,7 +7119,8 @@
       "body_sha256": "c6894f6eacb69c8a1f6528265caa0578e4da9a3aa407e2fd7ec114bb5e54dea8",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "8abb4489d88b8182705e64fcd44ae550c5d9a7dc6d85bd47a946a13cf0a190cf"
     },
     {
       "file": "content/europe/germany/germany-2011/holland/index.md",
@@ -6800,7 +7142,8 @@
       "evidence": [],
       "excluded": "Домик Петра в Заандаме был закрыт.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "fc2192bbf432ad4723e13e3d227701b37f99e856384aa2cc0ea13158b0b71a96"
     },
     {
       "file": "content/europe/germany/germany-2011/london/index.md",
@@ -6825,7 +7168,8 @@
       "body_sha256": "e859e98c2b1cc8021c44cfbe428536ee9e242dc6620dc9ff67405fc76b3d5e3a",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "14336a2f975c2985d9fafd84e9678a8ecca2d185097334ddd922c8a05108b9ed"
     },
     {
       "file": "content/europe/germany/germany-2011/overview/index.md",
@@ -6874,7 +7218,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "7890e3fffd2b74efea04fe2463f33b52c6f38f2460d0f0507ae04caac446b7e7"
     },
     {
       "file": "content/europe/germany/germany-2011/switzerland-1/index.md",
@@ -6894,7 +7239,8 @@
       "body_sha256": "b21c1899f2cd30e2dfe69a08f878a47afa4d25a856bbc38ae2fc48dba812bf6d",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "6bda64932fd6f97d1af860126698d5e39942bd1af3fb0abbe1b0415d80cd7f42"
     },
     {
       "file": "content/europe/germany/germany-2011/switzerland-2/index.md",
@@ -6928,7 +7274,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "698c9174122403ad1859c5f883096bbcc16d66a75a10cf2007d2ecdb37dc8fbe"
     },
     {
       "file": "content/europe/germany/germany-italy-2006/grandma/index.md",
@@ -6944,7 +7291,8 @@
       "body_sha256": "17c6c233f0158027c61c032ef21c7f64c3d415ee79e6a327fc74db88e706adbd",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b612c184a7903cdce2c133a5b0ef09af04b2e0a57c24f2c10a44385fd1bdff97"
     },
     {
       "file": "content/europe/germany/germany-italy-2006/milan/index.md",
@@ -6963,7 +7311,8 @@
       "body_sha256": "298ba500a724ddaad0e50ebc1335b08ca83d9c72e2bc30bca3be12b246d8e8ac",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "bc3dcd270b6eafdc74ff3a3ad8852521a6552ee5ea33004b7825538553a60122"
     },
     {
       "file": "content/europe/germany/germany-italy-2006/padua/index.md",
@@ -6986,7 +7335,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "f49ee3d04b44edb3505c31bbddff697ba495aff1f7a244693d0bf877e67abd47"
     },
     {
       "file": "content/europe/germany/germany-italy-2006/venice/index.md",
@@ -7009,7 +7359,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "0181ff7ce8fd4370be2198f1ee6f59760de5736e72efa595783b8f5cc33e624f"
     },
     {
       "file": "content/europe/germany/germany-italy-2006/verona/index.md",
@@ -7032,7 +7383,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5d6aa43a3b68f4033c36d15c6d4ace32cf3f50536409e29db9b1542fe3034b51"
     },
     {
       "file": "content/europe/germany/germany-london-2009/birthday/index.md",
@@ -7048,7 +7400,8 @@
       "body_sha256": "39441f478b30288b5cc0a91cbcf719dae98190925fa18890543356391627d60d",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "215d89fc7b8b0b4345043e6312022f6d8c52686f73c6c15ffa93de57cb37f449"
     },
     {
       "file": "content/europe/germany/germany-london-2009/bruhl/index.md",
@@ -7076,7 +7429,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "31e5161cf86560624d3df1fab07aafba7f948f2603bc969c73519d47d9303256"
     },
     {
       "file": "content/europe/germany/germany-london-2009/cologne/index.md",
@@ -7104,7 +7458,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "4acf483125b6b4ebb1ebc7b9f67f0084be5bd504c7aca0718c70cd736fe2c80c"
     },
     {
       "file": "content/europe/germany/germany-london-2009/grandma-kleve/index.md",
@@ -7136,7 +7491,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "2e0977095630331ccff1dc09b3fb2e171a34328a5544c89d0b8983b0873cae06"
     },
     {
       "file": "content/europe/germany/germany-london-2009/london/index.md",
@@ -7179,7 +7535,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "2e6d86ebef415403ac74d7921ca09e00f8dd1b0a340ed0c5ea2a2cc2b1d58ce1"
     },
     {
       "file": "content/europe/ireland/dublin-2025/dublin/index.md",
@@ -7222,7 +7579,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "3d16a4af4f5dbe37e9bfa13a3cb8f5ec1b11acbccae369677d9835345717146b"
     },
     {
       "file": "content/europe/italy/florence-2025/florentine-mosaic/index.md",
@@ -7245,7 +7603,8 @@
       "body_sha256": "55e4463b856f9f5196bedec34d7995b0deafcfbba445d2114715c3738322b4ec",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "9431606cb164cce4f0295705d66ae8843ff2ba316cdf97be0e7c8d0236e58512"
     },
     {
       "file": "content/europe/italy/florence-2025/free-museum-day/index.md",
@@ -7274,7 +7633,8 @@
       "body_sha256": "955700474ed0c5fc668654ffac377bb89b0a4bfc3580f0337e7cd5e34b9d5210",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d3a50fdb6b52ac322aabfade16a8054f6fe8cc8029e2d0a442547ef4a3766eeb"
     },
     {
       "file": "content/europe/italy/florence-2025/san-marco-uffizi/index.md",
@@ -7300,7 +7660,8 @@
       "body_sha256": "419c1b28587406bbcefa22d59f4e6a2199435a2817750acc5e3cd6442b03f928",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a7d9633e1c143815aa76e63acc4a5cb7ad74146d326215a482033e42af48560a"
     },
     {
       "file": "content/europe/italy/italy-2022/accademia-stibbert/index.md",
@@ -7322,7 +7683,8 @@
       "body_sha256": "88d54cf96c45dd0d141db3d64ac350caf27f64b877117a62e325a3ae1b1924aa",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "32251a557b51e4d9f678d16da6014193d1ed1b8d55c2d587794e3a31673e6c45"
     },
     {
       "file": "content/europe/italy/italy-2022/borghese/index.md",
@@ -7341,7 +7703,8 @@
       "body_sha256": "dc7b0adf62a7e9575eb902ff74218a660a10e77773e3ff5db3fbdcd8048b7309",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "9b12991a53ebd8c469604db6c5e2a440fa4d2be43da9b983f6f3e2e837030db0"
     },
     {
       "file": "content/europe/italy/italy-2022/cinque-terre/index.md",
@@ -7359,7 +7722,8 @@
       "body_sha256": "a94a35c9911f1047d01ab611eb5bda76d84f491c0ae647741351091186f87579",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "75403dda6996baf98dd39a85c9e9ac966cf7cd615abb6d83116b06c311fa6ffd"
     },
     {
       "file": "content/europe/italy/italy-2022/colosseum/index.md",
@@ -7381,7 +7745,8 @@
       "body_sha256": "9ab95a384281b6d9a752f17286f532f773a49642ed9cc1a296242c7e73f0de2b",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "7a7cee0b504956f1b871a34e0ed8dc296f586198ece8dd87584ff36b6ad454e6"
     },
     {
       "file": "content/europe/italy/italy-2022/florence-duomo/index.md",
@@ -7412,7 +7777,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "04b59ea3879d68d5ecf6fe6332b38aa7a661d26ebbd8b1e3eea93df88a39356b"
     },
     {
       "file": "content/europe/italy/italy-2022/florence-pitti/index.md",
@@ -7432,7 +7798,8 @@
       "body_sha256": "2d43601388541fbe57051e19de9d26c8361c7b09f7a3fdd3eb9cd5c5669c115c",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "55d272f34b3819665eacc50940f73b35e5f00f25b5079cc5bef2e26d5e91b238"
     },
     {
       "file": "content/europe/italy/italy-2022/florence-uffizi/index.md",
@@ -7460,7 +7827,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d1fe43c8ab5a2e2a1b1ce33ee1e3aab4c2bf3d147d969ea5fd0932ca838c6031"
     },
     {
       "file": "content/europe/italy/italy-2022/lucca/index.md",
@@ -7484,7 +7852,8 @@
       ],
       "source_kind": "chapter_text",
       "status": "reviewed_with_question",
-      "question": "Посещённый местный музей с интерьерами и гобеленами не назван. Не приписан автоматически дворцу Манси."
+      "question": "Посещённый местный музей с интерьерами и гобеленами не назван. Не приписан автоматически дворцу Манси.",
+      "body_sha256_lf": "330e8f2d26c909bfa1c6d372d41a72dfafd74dca861b64fcf5cd70a13b203738"
     },
     {
       "file": "content/europe/italy/italy-2022/medici-chapel/index.md",
@@ -7509,7 +7878,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d604f95bdfa7b57666c077f1799b243717e9ba4ce4651559a3c6bbd8fbfedebe"
     },
     {
       "file": "content/europe/italy/italy-2022/monte-oliveto/index.md",
@@ -7525,7 +7895,8 @@
       "body_sha256": "c3f59d98e5fdcd9566217bf2322b7339a3263c3286abed947567a3fe7062ef83",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "2cf62afe4bf4a0d788e9a1c713b5f8c31a00d5657c37814f1027bd5eb2d35ced"
     },
     {
       "file": "content/europe/italy/italy-2022/orvieto/index.md",
@@ -7550,7 +7921,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "75c9f432a8d63b7705a34b546c821d7fcb21a6dbd9adb164c4491d691b824bd0"
     },
     {
       "file": "content/europe/italy/italy-2022/pietrasanta/index.md",
@@ -7566,7 +7938,8 @@
       "body_sha256": "f538080eb776761ebada2717c3c13b791cd961ce0a74d66ded7230c295d03725",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a33c6fa8a9f501d176471774b2d161c20a7085d668cfe576284227eb3d33bca9"
     },
     {
       "file": "content/europe/italy/italy-2022/pisa/index.md",
@@ -7599,7 +7972,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1010b0d579796c2168c2f0f101c8f996ef8b87f96c2ab302f3d604c24e30b0f8"
     },
     {
       "file": "content/europe/italy/italy-2022/rome-arrival/index.md",
@@ -7615,7 +7989,8 @@
       "body_sha256": "f28d632692fc0e2fbf03372e98e6c405d6f1961188917d86192a8d8f4f23a242",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "06d842a587ab773967255e1f7b9f9acb94d0117976e3f6ae6e19c3081e236ab2"
     },
     {
       "file": "content/europe/italy/italy-2022/rome-churches/index.md",
@@ -7653,7 +8028,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "58319efe228ceccb0609e731f86137fd93a368504e37c816de36ab86ca4c5c42"
     },
     {
       "file": "content/europe/italy/italy-2022/siena/index.md",
@@ -7681,7 +8057,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b8b56587bb0a60dc6927e45e50714612ab07322ddf89aec53f17fc1fc760a608"
     },
     {
       "file": "content/europe/italy/italy-2022/tivoli/index.md",
@@ -7704,7 +8081,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "90371928c1d3bfa7d5ca622b3274f2e5b2df0271ba853c7e3723b1f195ac04aa"
     },
     {
       "file": "content/europe/italy/italy-2022/vatican-fountains/index.md",
@@ -7734,7 +8112,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "916319e25d9aa03b0d08fd14034ad0ad9f68a715f63cf4ab61505529c96a67b6"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/conclusion/index.md",
@@ -7747,7 +8126,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed",
-      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места."
+      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места.",
+      "body_sha256_lf": "29fa10e99af2b0cddb25c403c5944ca79992cd48cb442f961e7eda6b2ea60617"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/florence-duomo/index.md",
@@ -7780,7 +8160,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "c8e3d93b61308c75fbe6ad014e39ae2d18da5872f11f55973dab9706c0ac0fbd"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/florence-museums/index.md",
@@ -7822,7 +8203,8 @@
       ],
       "excluded": "Музей Галилео и галерея Академии в этой главе не посещены.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1d3ddf12305b7c878572e171edab7e35fd08a0880e048fb60da5a19bffe59c6e"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/florence-uffizi/index.md",
@@ -7841,7 +8223,8 @@
       "body_sha256": "c307c476cfc25cd434a4051e4cb01383140e5ca13350bee5c5303a314331f32c",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "0e3aac7f3daf7d09f9341c4a93fa63733892275002f5f60a14c4aabc1e77e0ee"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/kleve/index.md",
@@ -7859,7 +8242,8 @@
       "body_sha256": "9ca228c30096e3cb6997b59a50b99e40f58bd28d39d170d1968613ff80b1db52",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "f6eb7e0fda0a68203f85a380f35161a1ecface340338dfc921843b1c3e834527"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/milan/index.md",
@@ -7889,7 +8273,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "6016e7d1aa70c0480530e1a0ae7b3540ccdc192ba75f77887123aec3b6025137"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/naples/index.md",
@@ -7905,7 +8290,8 @@
       "body_sha256": "63bb1b3949a22ef28659ba53dbdf8e9dcd6f06f8055d228379329a48fab50d50",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "9b8f41c584fdd2d42853f9a8ac952922922f012e32bf58c7c2ba44cd446e7ca2"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/pompeii/index.md",
@@ -7921,7 +8307,8 @@
       "body_sha256": "1e99729ebc1bd653f3c076309104516ad60500f5ed27c59959d33247e2919574",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "80762c8bc790c66c224dd23899cfdc2d833d55913b4bda8ec8ca131b3082cdbc"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/rome-colosseum/index.md",
@@ -7948,7 +8335,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1084629814b66d23cc8c0ffbc458fa499da9042180cba2669a93b2ffb5528f65"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/rome-night/index.md",
@@ -7964,7 +8352,8 @@
       "body_sha256": "fc78b5542ec7188b590a2421f542cbe784db3c1d656ee4585f917211cef67a2a",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "24ca0c185056b13274268290b34712597e64a72d0dfa03e4d3978603d0eb41aa"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/tivoli/index.md",
@@ -7995,7 +8384,8 @@
       ],
       "excluded": "San Pietro in Vincoli в этот день не успели; Санта-Прасседе посетили.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1cb200d7deaeab2e88e8763908f3e0a43c157da4f8518cfee9fa26d59df771f5"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/vatican/index.md",
@@ -8033,7 +8423,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e518560ce2d1396a1ca2f624092fddd8441117ae32ca91cfac7ef11875d1e31d"
     },
     {
       "file": "content/europe/luxembourg/luxembourg-2007/grandma/index.md",
@@ -8049,7 +8440,8 @@
       "body_sha256": "3c1ee618a1d6cb13159c4ff78a5d49ece1303cd523d3df09a4dc89a61357a781",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "10ed5ba26994d97254a34d5508f95111856391c63b47479dac0d08e2a40ff325"
     },
     {
       "file": "content/europe/luxembourg/luxembourg-2007/rome/index.md",
@@ -8074,7 +8466,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e81a6bb89a70bee8d17879b1bd5cc81dd04bed50a48100c9032384062c5768e1"
     },
     {
       "file": "content/europe/luxembourg/luxembourg-2007/story/index.md",
@@ -8090,7 +8483,8 @@
       "body_sha256": "768fedf73b1fc846636f5104b949c4b44a6aa0b72fa91accacace007471cef83",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "008439c9db6508f0940e9598d3f57dd1867535e7590a0d7d71b960bf3c7dec11"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/amsterdam/index.md",
@@ -8115,7 +8509,8 @@
       "body_sha256": "11ac9995ba918a659d80d82abe25d22decaca9c143ac83a28a55203dd0d98fd5",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "aa618656266d9b3345cee6873a49a4316a888476a1e4097a723cba7d84b9cfc9"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/amsterdam-museums/index.md",
@@ -8138,7 +8533,8 @@
       "body_sha256": "630c01aa556ef42d83d2a45a1d9a5335a7ce01cfadea2fbfbfebf151cbe8558e",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b679fe653b827712700433dc08a91afd904b372b8fada9b1e54c941a522a72ea"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/luxembourg-orangerie/index.md",
@@ -8173,7 +8569,8 @@
       "body_sha256": "a6d73fdfb5a79f16431ac70e55ecb0f456ef163b307be24b5d3b70dc8a6de37c",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "2045245c0ebc7720877df16a9654e5b1b6d9d2d946aba132fef3e06936a6b87f"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/notre-dame-louvre/index.md",
@@ -8205,7 +8602,8 @@
       "body_sha256": "01d98622b47b95a74e97a76f4ef84c61cf17b1c75a15fcdae6c219e13c4f89c8",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "aa89b65315239b646cf9bdc9ac7858116e172e2584612430290828feea0e3b94"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/paris-left-bank/index.md",
@@ -8240,7 +8638,8 @@
       "body_sha256": "98a69c2adea749b13db45381f3096bb10a55888e7349abc96494c259d23c7b4e",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "6a202ffe39e20f3988204066cd86df2d9727890dc3568829cfd3826a538e8093"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/rembrandt/index.md",
@@ -8263,7 +8662,8 @@
       "body_sha256": "f2e5b9aff042e85b31b2a1f175c8604402c84dbbc7765f3b99dff10917cc53fa",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "2c6cd4e8f350011554874a1fb5c7578cbe6a00cc6109cd6ddd71340959d0d16c"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/sainte-chapelle-eiffel/index.md",
@@ -8293,7 +8693,8 @@
       "evidence": [],
       "excluded": "Оранжери в этот день был закрыт; посещение в другой главе.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "761daafc008a5aa8053d7b5652574cefb6ea7430f265120f3aff54c9cc136c41"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/start/index.md",
@@ -8309,7 +8710,8 @@
       "body_sha256": "87d177c2a67759f4958b4874058714d4f0d190ea3f62fbabe829fc3b567e2c3d",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d6f6d0d850cff52db2d463a1fdf218240f638bf746ff4d52ea19e6802b710835"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/the-hague/index.md",
@@ -8336,7 +8738,8 @@
       "evidence": [],
       "excluded": "Музей Эшера остался в плане, не посещён.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "16642173f965a190e8f8d1c067f3031d1db713c6ecdf25fe89fbbdd680738b32"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/astorga-ponferrada/index.md",
@@ -8371,7 +8774,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b59a5db19b9991330aaec5c6a44cbe55f14b9674897d312bfa17ffe46e850197"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/aveiro/index.md",
@@ -8396,7 +8800,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "501ddfe2ed0ffa91e6ce15aa397ca01312e83adbb8707ae5326d8cc9ad9a2c5f"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/baiona-combarro-cambados/index.md",
@@ -8416,7 +8821,8 @@
       "body_sha256": "20fa645ec19b3813f1e581056aef0178ae71219da5b36d939c92d6c668c939b9",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5758078e8d2fc22155486f54696c6db293f695d80165e1112ca56cf5a4bc8899"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/braganca/index.md",
@@ -8444,7 +8850,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "601967bc531b6a43b286c470ec1bf2b651ffa0833c5db94542b3049fe0e33ea1"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/bussaco/index.md",
@@ -8460,7 +8867,8 @@
       "body_sha256": "6b7793d93a2754a2004f8b8558d28708a845f274c3bf11e05d97e22881abaebb",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "84337ff156b53bf37c6b87ec1b9a271003374e05035431671c696d7b3cd7427a"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/coimbra/index.md",
@@ -8503,7 +8911,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "69827595cd8b5d606062a1305498539e105cb5f4df8e6655ade5e14d3e73c4ec"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/douro/index.md",
@@ -8528,7 +8937,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "75084c83e4523a4b8a9f2f7bfabef2b854066d75044de2de69a26645c1987b3d"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/esposende-viana-barcelos/index.md",
@@ -8555,7 +8965,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "9576a0a3643d1a1117a61e4f6608e83f75fc5018b52849628a7f1e09af93bb00"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/guimaraes-braga/index.md",
@@ -8585,7 +8996,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "704e1e365cb6061c802206d9c6b4d8d4a804d6e77bed177a6892e23d1fa8e39e"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/lamego/index.md",
@@ -8618,7 +9030,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "fa0897357e1ef9572b9fbfc9a9884c58b0eb7cc94df465776c5bcb546a69a674"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/leon/index.md",
@@ -8651,7 +9064,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "857fc76a1af4b70f85ca56da21210706acada003fc073476511bc09c6178b2bd"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/oviedo/index.md",
@@ -8679,7 +9093,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "af25ea4d912ebcf4d1e8a10ac4226e9fc1a9475e54a6fca2baeb5140d49e37dc"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/porto-1/index.md",
@@ -8707,7 +9122,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "21d0f06fadb4b056a834a6ac38daade119199bc991f7ed1ad91d6e7d0814c534"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/porto-2/index.md",
@@ -8750,7 +9166,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e1a5e59b7443dad64484abe01b9978b97959a6bb5b62932945c0fc1ddc152b77"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/porto-3/index.md",
@@ -8778,7 +9195,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a995d0048eb46472fcab9b1200a93a8429e6a14622859797c1ff0bdbe5950c31"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/praia-das-catedrais-gijon/index.md",
@@ -8805,7 +9223,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "44aae220ddd83462e7f1d8ad8dacb27bca96e4b45eef1f0c6f913f8cee8f6ccf"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/santiago-de-compostela/index.md",
@@ -8843,7 +9262,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "eca2ddd9be66cfaade11a320430abaa3d31059af69ba12186a14a5888463b040"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/summary/index.md",
@@ -8856,7 +9276,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed",
-      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места."
+      "no_places_reason": "Подготовительная, визовая, итоговая или общая глава без самостоятельного посещения места.",
+      "body_sha256_lf": "2b85981a2e3321f4c2040d08d6e5e1ff23ee8919d6563619b0a5b1a6116d72f1"
     },
     {
       "file": "content/europe/portugal/iberia-2022/algarve-rest/index.md",
@@ -8871,7 +9292,8 @@
       "evidence": [],
       "source_kind": "photo_album_metadata",
       "status": "reviewed_with_question",
-      "question": "Фотоальбом без авторского рассказа. Регион Алгарве установлен по заголовку/city; более точный курорт не придуман."
+      "question": "Фотоальбом без авторского рассказа. Регион Алгарве установлен по заголовку/city; более точный курорт не придуман.",
+      "body_sha256_lf": "8a476137cc7afe45d9c8e79c323cdbc523211b1d9d6da1428f24ad0b0b466dfd"
     },
     {
       "file": "content/europe/portugal/iberia-2022/astorga/index.md",
@@ -8899,7 +9321,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b5f65145ba6a8ae915f88df6fe9e5c6633de53018550f79a6dfe81c4fd2b0a3e"
     },
     {
       "file": "content/europe/portugal/iberia-2022/aveiro/index.md",
@@ -8918,7 +9341,8 @@
       "evidence": [],
       "source_kind": "chapter_text",
       "status": "reviewed_with_question",
-      "question": "Автор пишет «в музей забежать», но конкретный музей в этой главе не назван. Не перенесено название музея из поездки 2017 только по предположению."
+      "question": "Автор пишет «в музей забежать», но конкретный музей в этой главе не назван. Не перенесено название музея из поездки 2017 только по предположению.",
+      "body_sha256_lf": "804e89e47787ff9b6f04d6e86bcd64aaff31e993f64417851ccc706af7b955af"
     },
     {
       "file": "content/europe/portugal/iberia-2022/faro/index.md",
@@ -8934,7 +9358,8 @@
       "body_sha256": "8c4d0e814f0152925e76a3e38b0ad96abdc3446a0ef11e6190c1120228f1594e",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "cb6df2739d580902a51d383ef4893d5a3668f4b029912cb682a5a0df3fbbb60a"
     },
     {
       "file": "content/europe/portugal/iberia-2022/leon/index.md",
@@ -8962,7 +9387,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1b3fe16c28c6f22266b649b9f16f5fe35a38ca2f47b65717cbfdb96954d14828"
     },
     {
       "file": "content/europe/portugal/iberia-2022/lisbon/index.md",
@@ -8982,7 +9408,8 @@
       "body_sha256": "b6f90905415089943ee02a608307e9492ba5ceebb085fe9784eebc39de3b867d",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "4c5b6dd30f253d5f494315820e0c594a56d984186f88b21be7fe724d06fdb8b2"
     },
     {
       "file": "content/europe/portugal/iberia-2022/oviedo/index.md",
@@ -9010,7 +9437,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "151f430d39a032d63ee4909a0e60b870ee8e4dd94dcc261c48e538c7aaa88be1"
     },
     {
       "file": "content/europe/portugal/iberia-2022/porto/index.md",
@@ -9026,7 +9454,8 @@
       "body_sha256": "26df482c72b1a59192aea7a76cacfe97d9a548e28aec74ecbc7d03d0dd5640c2",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "67717eebefcb078bfa666e830e10b332a7a1d7cdcae425909c6c0f307f6f41e5"
     },
     {
       "file": "content/europe/portugal/iberia-2022/porto-wine/index.md",
@@ -9042,7 +9471,8 @@
       "body_sha256": "11f70dcb8d007862e0cf2c185edbe3cbf7a8daecb8b8b4ccf6f75f31dbeb6778",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1cf8294ee55d5ccce767547f5654b9baabd39ee4cc57bd1f1050ce37faa80b13"
     },
     {
       "file": "content/europe/portugal/iberia-2022/salamanca/index.md",
@@ -9075,7 +9505,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "2554922509f10f556bd074ac978e07be0b68dac915c6b49dc9f678e96af1d28c"
     },
     {
       "file": "content/europe/portugal/iberia-2022/sand-city/index.md",
@@ -9091,7 +9522,8 @@
       "body_sha256": "0d0332c08b7a7de77c97cdf7881d7ea2ab9a1e09cbaf1b7fa02abbb0f310ae39",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "31b3f86f17af18183e7b174bfd3377fe21cdbe1f48dd56f37e4325f619297ed7"
     },
     {
       "file": "content/europe/portugal/iberia-2022/santiago/index.md",
@@ -9114,7 +9546,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "bda30349606d95f7d1cf34f970e3894a962c45c24c3dd5153d711ecfe25fc2ff"
     },
     {
       "file": "content/europe/portugal/iberia-2022/seville/index.md",
@@ -9130,7 +9563,8 @@
       "body_sha256": "0bfe128532c2c48084c3bd69aac93e6b280daae93c528e058ddc29ef8e5bec3b",
       "evidence": [],
       "source_kind": "photo_album_metadata",
-      "status": "metadata_reviewed"
+      "status": "metadata_reviewed",
+      "body_sha256_lf": "9b31cb06a961d0bb6d66aaf2ce18782450dbedee60184e1bd5e9f361e9e5a312"
     },
     {
       "file": "content/europe/portugal/portugal-2024/capuchos-cabo-da-roca/index.md",
@@ -9153,7 +9587,8 @@
       "body_sha256": "9b360b2b3a95d22641eb46e149d5704fa1d7845663503e5d0227653a5b29f7dd",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "f0e08558911ffadc4ef26855cb8060abd5408fd4c285d88bdded693b034d3172"
     },
     {
       "file": "content/europe/portugal/portugal-2024/lisbon-belem/index.md",
@@ -9176,7 +9611,8 @@
       "body_sha256": "27f9510ea03b3ba212ae02a82eb0f3fa4e5d2eb9b9d38aad364929a874f5d659",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "fdea8059d73066e78bf87ac8517bfc4f0c9edbe44438d22ea18273c7432519f6"
     },
     {
       "file": "content/europe/portugal/portugal-2024/monserrate-palace/index.md",
@@ -9196,7 +9632,8 @@
       "body_sha256": "05688ce6dd3a57b3401f8482f43238e70b29cb0f7fecb9faee3180105ad48c60",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "0fa82652fc55cf813b9bd12d8a0511224073bc9ae725e6043dab4a9431ad6447"
     },
     {
       "file": "content/europe/portugal/portugal-2024/monserrate-park/index.md",
@@ -9216,7 +9653,8 @@
       "body_sha256": "1fe36704688b146f699ebeb6d57f99884cead019d468a0cd34bfb268703a2bfa",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "024f17f0741e5bb27a8fdfa7f796c05c8b8610709f90ffc246170fab42d32cd9"
     },
     {
       "file": "content/europe/portugal/portugal-2024/setubal/index.md",
@@ -9232,7 +9670,8 @@
       "body_sha256": "a98fc9c3d7045e56250a26b23ff2c105910c092894e1a6b024daf0f5a0c03eb4",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "7a11ce16e001f5805bed8b357ec8551c008fbcd06d29259feac78f254babb62a"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/albufeira/index.md",
@@ -9248,7 +9687,8 @@
       "body_sha256": "4ffaa63deea620c38099cec21811880a7aaa2cbee41ee80faaa52eaf11609ebb",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "58441ec4507445fb55fff858e88e06c85d373cc10e58053d1adfaad391418126"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/alhambra/index.md",
@@ -9268,7 +9708,8 @@
       "body_sha256": "536c1f2e10a79987299d1b33ad1c9a74087085b745d4c0605ec179a7db6460ad",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "abfb0f65ad3efd3954def34fc0ee32d378c64dfcf548df93ba3e822e4d2ade8a"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/almunecar/index.md",
@@ -9284,7 +9725,8 @@
       "body_sha256": "edee379ba268741c4af42bf8e0a309c1a7785f22dd484ce3a55a6f694b62baaa",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d38b726c8575173a4148f3358c1277ff68cc910b0099fd3afd5311e82b9f3708"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/arraiolos/index.md",
@@ -9312,7 +9754,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "c0b3550819147c2136cb7182be175dca5114e20919975fd557b57aad2a2e0ba7"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/belem/index.md",
@@ -9345,7 +9788,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a10822bf5e7970d8a7a25e947604792f938638b56efbf655958a869be202071a"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/belmonte/index.md",
@@ -9368,7 +9812,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b49a50b60d7f65707f019699266addb19d69b6d1676e9a01176808d16f0820cb"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/consuegra/index.md",
@@ -9396,7 +9841,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1da0ed8d2c67c07055f12578984034bad2e20a8673b0e859251da0fdce8008b3"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/escorial-salamanca/index.md",
@@ -9414,7 +9860,8 @@
       "body_sha256": "9780ee4dc9af6d22d6eb688bd3d1264d47f1599f6a54c28b614d4d74555ca041",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "3479623544b9d0f91b3c5fa624f2eedb2bebc27c28ebe466f79f89fa0e9b2fc7"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/jerez-seville/index.md",
@@ -9444,7 +9891,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "338a5eec0909f3daa793542d3d2ba2047635da2953c24cd89263f565d427e3a8"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/lisbon/index.md",
@@ -9472,7 +9920,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "6e68bc24a47f6bdfb8f448c085ee1cb28f993b0fb87e90a344b108f803c8999a"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/lisbon-final/index.md",
@@ -9510,7 +9959,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "76737fe7958f87c14ec0939a941de30fb7216318717d4430a6d66a2a14e23fa0"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/madrid/index.md",
@@ -9544,7 +9994,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e09d3cedc3932865fd05de6f611d9ea3c9831a936a111501d9d916e82d5d2013"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/seville/index.md",
@@ -9582,7 +10033,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5243b6871eec8ce523e4187102483779f63744d8dfeae91852c67f2cac4a9679"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/sintra/index.md",
@@ -9610,7 +10062,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "5cfc1ea7ea000c7a929a3032a01c3af2755a92892081f96ce2b9e66326b50fc9"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/toledo/index.md",
@@ -9640,7 +10093,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d58f71d102ee44e8a59c4980c439fa73a757d79bd815347eed856097f622c187"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/tomar-batalha-nazare/index.md",
@@ -9672,7 +10126,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "434b2fb87c1bf631c8227f05ddafcc184f2fb12ebb6c530628ff3ba2591a4c94"
     },
     {
       "file": "content/europe/russia/moscow-new-year-2012/story/index.md",
@@ -9700,7 +10155,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "35b55be0984e7b505af2df16a848d7943994172b9a5d5be93905a1fab1cab3cc"
     },
     {
       "file": "content/europe/spain/barcelona-museums-2025/museums/index.md",
@@ -9728,7 +10184,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "cb3ef12a8bf43fbf90f63630adc90912c341a925cec5da2c28e825bb33957ee9"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/bilbao/index.md",
@@ -9748,7 +10205,8 @@
       "body_sha256": "73b2434e930906cc854ed2d2a87ecc90153feafd1a3316d116cdfaf83de8ad6b",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "4752ec60cd8c78841d493caadbc4f7e33305a0f05b64e974c30a576c9e75546c"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/isabella/index.md",
@@ -9779,7 +10237,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "203f9e77f5ffe744552998db4c18b2f42f6a78934a2e964e3cb58c58139f0050"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/miraflores-burgos/index.md",
@@ -9802,7 +10261,8 @@
       "body_sha256": "fba2894d76906bf41c8847a829e8974f77cacea1635acd1eb644c9dfa7cd2c3c",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "d6c0b1ffe56f5b84a8ea605ff9c906ed03a11c0a982c8ca6de624bc69636505f"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/penafiel-wine/index.md",
@@ -9827,7 +10287,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "b3f5ca5e3b3a7332bfde37da292e99c97e16ee6291e91774e429623c4831d348"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/san-bernabe/index.md",
@@ -9843,7 +10304,8 @@
       "body_sha256": "70fd5f272a812b2b1927d1a0504c8cf27bfd9de25a97877defb7728fed4f6b2f",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "e66f924022ef7e6d9a243d35c4d21bcdf0ffb71828d97cdcfcab53a88b8ae2f4"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/san-sebastian/index.md",
@@ -9859,7 +10321,8 @@
       "body_sha256": "fd19f59bb4aa70b4d91406e58bceb2136f4a972c598d2a85965dfe35c9db025f",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "ac94728c2087d376a33ada0bd09287522d8897937fa13bc68182504f6699e08f"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/segovia/index.md",
@@ -9890,7 +10353,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "1a155cb5eddbdea3e85f3bc40c7990fc6d1e3ce483da6c7858e299a0be7610f2"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/toledo/index.md",
@@ -9912,7 +10376,8 @@
       "body_sha256": "b4aff95faf75480694349fba21ed0e4fffc8399681b773761ef813f265e66990",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "71cc929de336e57c901b182561567314083fd994e3a7558a379b667bb087f63e"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/valladolid/index.md",
@@ -9932,7 +10397,8 @@
       "body_sha256": "b7181417713db2a095280134d1aada6c316dac83f2447df52c78d3ff92f64bd9",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "74be2a508481a2a5b0fa5760b20c1779eaa56a8075bfde4f2d06897f940ec471"
     },
     {
       "file": "content/europe/spain/madrid-2024/cathedrals-palace/index.md",
@@ -9964,7 +10430,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "9b320c991557bbb02efec034891b9a2c3120bc8d3d43c7d872f750a2d84f2df5"
     },
     {
       "file": "content/europe/spain/madrid-2024/imperial-city/index.md",
@@ -9990,7 +10457,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "156686bc801011f3256711696258040b2526443ea32b8d4bc8fc3bf9f7e3ec7f"
     },
     {
       "file": "content/europe/spain/malgrat-2024/malgrat/index.md",
@@ -10006,7 +10474,8 @@
       "body_sha256": "7a2ed599cd9ed5a0738ce16f15dc3e0d3d9f9fdbb56f5643d396f17e01f00680",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "8b34f33a4663b6d2cbe4e94186085bb2de89970a1dc0223a42e7fa11360bbad5"
     },
     {
       "file": "content/europe/spain/montserrat-2025/montserrat/index.md",
@@ -10029,7 +10498,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "a541dca4af3b8b14c553c29d87eaabbf9e0d58ccfb9dcefddfa7aee56b34985b"
     },
     {
       "file": "content/europe/spain/peniscola-valencia-2024/peniscola/index.md",
@@ -10052,7 +10522,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "afac9c9ec08269ae13d03ae2748e51348883667ca3d09afcb7486e320be4742f"
     },
     {
       "file": "content/europe/spain/peniscola-valencia-2024/valencia/index.md",
@@ -10086,7 +10557,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "6886684e046b408b0deabdd84c9651c9f7eac2df5447d41489a48e67557b0601"
     },
     {
       "file": "content/europe/spain/poblet-2025/poblet/index.md",
@@ -10105,7 +10577,8 @@
       "evidence": [],
       "excluded": "Музей кавы и дегустация отменены из-за ливня.",
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "bc3b8aafaa7dfa35258f07ed2a350975172c718fcc327ac7662dc95a9d8a33c1"
     },
     {
       "file": "content/europe/spain/spain-2019/barcelona-arrival/index.md",
@@ -10139,7 +10612,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "15b1a8a37848dabbfcd077a673ed71ed77d2a6eea04b5eff1b463261b6a2b3f4"
     },
     {
       "file": "content/europe/spain/spain-2019/gaudi-modernisme/index.md",
@@ -10165,7 +10639,8 @@
       "body_sha256": "fecf46492f8fa1dd519eade1853f593898693c5b3e7305a4c20c65d713a08469",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "eefe271de3b092e68ad64c5c32841941e3fcf81d9cbc5faf3e4e2a2f7d530ad7"
     },
     {
       "file": "content/europe/spain/spain-2019/gothic-quarter/index.md",
@@ -10200,7 +10675,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "95ec1052f4acc12e1b1ebd4fd15ebf91052c049cfc4c879c0ee2faabb31a2f8b"
     },
     {
       "file": "content/europe/spain/spain-2019/madrid/index.md",
@@ -10226,7 +10702,8 @@
       "body_sha256": "7fad436ef7d22d286aa08bbe28167d4599f6eae56b62ff1218ae9050f76d7dfe",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "cff9bc9ce768af7c5d09997e8a23bd39a22739b25b34b4a34291d5e651294aa4"
     },
     {
       "file": "content/europe/spain/spain-2019/sagrada-sant-pau/index.md",
@@ -10252,7 +10729,8 @@
       "body_sha256": "9e6960d9693e6070e64731dbacaf999508ff035715ba23a4e008025cae549aae",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "ee832d74643bf37bd9e15d1d2e4f0ee0ec8fd3a3e62001ec3361aa29b52acfdd"
     },
     {
       "file": "content/europe/spain/spain-2019/torrevieja/index.md",
@@ -10268,7 +10746,8 @@
       "body_sha256": "835722216bc2638c26bd844bc6575e0e421fffc07e5bd7cb46faaced61e46b28",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "7d61e6c313c4b653ddd2e76faa7dc037ae5be7cf1979569aab2857c2030531e1"
     },
     {
       "file": "content/europe/spain/spain-2019/valencia/index.md",
@@ -10300,7 +10779,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "00fa9dbba08a89e4e14084264b83cfa03fbea36070fd49254a071593dcaa4aa4"
     },
     {
       "file": "content/europe/spain/teruel-2025/teruel-albarracin/index.md",
@@ -10327,7 +10807,8 @@
         }
       ],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "035707ad29f4de0d86c4774df68066f0d3fafc2b9578a17fa48161933167045c"
     },
     {
       "file": "content/europe/switzerland/bern-2023/bern/index.md",
@@ -10343,7 +10824,8 @@
       "body_sha256": "56661610c76cd7b0f77458f88e946d3b68aea872be948ffc27c7e1c84bb5991b",
       "evidence": [],
       "source_kind": "chapter_text",
-      "status": "reviewed"
+      "status": "reviewed",
+      "body_sha256_lf": "39920b2ce8bc55929e8dbe0ae3ba2818100f6b6f65641d08ea66d4baa5873e6d"
     }
   ]
 }

@@ -1,3 +1,3 @@
 ---
-title: "Cappelle Medicee - капелла Медичи, Флоренция"
+title: "Cappelle Medicee - Капелла Медичи, Флоренция"
 ---

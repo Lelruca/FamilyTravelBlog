@@ -1,3 +1,3 @@
 ---
-title: "Lake Superior Provincial Park - парк Озеро Верхнее, Канада"
+title: "Lake Superior Provincial Park - Парк Озеро Верхнее, Канада"
 ---

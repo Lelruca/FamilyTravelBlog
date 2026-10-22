@@ -1,3 +1,3 @@
 ---
-title: "Parc national de Miguasha - парк Miguasha, Канада"
+title: "Parc national de Miguasha - Парк Miguasha, Канада"
 ---

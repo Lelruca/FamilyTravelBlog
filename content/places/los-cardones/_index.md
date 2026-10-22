@@ -1,3 +1,3 @@
 ---
-title: "Parque Nacional Los Cardones — Лос-Кардонес, Аргентина"
+title: "Parque Nacional Los Cardones - Лос-Кардонес, Аргентина"
 ---

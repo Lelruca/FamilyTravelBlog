@@ -1,3 +1,3 @@
 ---
-title: "Chippewa Falls - водопад Чиппева, Канада"
+title: "Chippewa Falls - Водопад Чиппева, Канада"
 ---

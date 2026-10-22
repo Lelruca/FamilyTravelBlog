@@ -1,3 +1,3 @@
 ---
-title: "Mont Tremblant, Канада"
+title: "Mont Tremblant - Мон-Трамблан, Канада"
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Galleria degli Uffizi - галерея Уффици, Италия"
+title: "Galleria degli Uffizi - Галерея Уффици, Италия"
 ---

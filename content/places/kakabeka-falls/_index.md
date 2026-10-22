@@ -1,3 +1,3 @@
 ---
-title: "Kakabeka Falls - водопад Какабека, Канада"
+title: "Kakabeka Falls - Водопад Какабека, Канада"
 ---

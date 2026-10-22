@@ -1,3 +1,3 @@
 ---
-title: "Arnhems Oorlogsmuseum 40-45 - военный музей, Арнем, Нидерланды"
+title: "Arnhems Oorlogsmuseum 40-45 - Военный музей, Арнем, Нидерланды"
 ---

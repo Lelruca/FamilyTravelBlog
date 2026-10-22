@@ -1,4 +1,4 @@
 ---
-title: "Stanley Park, Vancouver, Канада"
+title: "Stanley Park - Парк Стэнли, Ванкувер, Канада"
 country: "Канада"
 ---

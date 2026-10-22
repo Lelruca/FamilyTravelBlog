@@ -1,3 +1,3 @@
 ---
-title: "Ouimet Canyon - каньон Уимет, Канада"
+title: "Ouimet Canyon - Каньон Уимет, Канада"
 ---

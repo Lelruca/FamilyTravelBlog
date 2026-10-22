@@ -1,3 +1,3 @@
 ---
-title: "Catedral de Burgos - собор Бургоса"
+title: "Catedral de Burgos - Собор Бургоса"
 ---

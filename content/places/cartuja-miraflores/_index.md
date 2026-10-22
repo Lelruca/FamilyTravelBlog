@@ -1,3 +1,3 @@
 ---
-title: "Cartuja de Miraflores - монастырь Мирафлорес, Бургос"
+title: "Cartuja de Miraflores - Монастырь Мирафлорес, Бургос"
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Galleria Borghese - галерея Боргезе, Италия"
+title: "Galleria Borghese - Галерея Боргезе, Италия"
 ---

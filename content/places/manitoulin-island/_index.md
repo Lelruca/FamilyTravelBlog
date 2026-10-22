@@ -1,3 +1,3 @@
 ---
-title: "Manitoulin Island - остров Манитулин, Канада"
+title: "Manitoulin Island - Остров Манитулин, Канада"
 ---

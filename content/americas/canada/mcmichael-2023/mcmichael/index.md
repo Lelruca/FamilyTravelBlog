@@ -6,10 +6,12 @@ weight: 10
 city: "Kleinburg"
 places:
   - mcmichael-gallery
+  - toronto
 hero_image: "20231104_143052.jpg"
 date: "2023-11-04"
 auto_gallery: false
 draft: false
+attractions: ["mcmichael-gallery"]
 ---
 <p>McMichael - это один из наших любимых музеев Торонто и окрестностей. Как вчера выразился мой муж: "От него не возникает чувства жалости..". (как от других наших музеев).</p>
 

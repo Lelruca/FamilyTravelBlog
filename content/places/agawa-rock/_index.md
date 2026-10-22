@@ -1,3 +1,3 @@
 ---
-title: "Agawa Rock Pictographs - наскальные рисунки Агава, Канада"
+title: "Agawa Rock Pictographs - Наскальные рисунки Агава, Канада"
 ---

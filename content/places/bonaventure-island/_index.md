@@ -1,3 +1,3 @@
 ---
-title: "Île Bonaventure - остров Bonaventure, Канада"
+title: "Île Bonaventure - Остров Бонавантюр, Канада"
 ---

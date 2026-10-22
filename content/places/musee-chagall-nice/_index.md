@@ -1,3 +1,3 @@
 ---
-title: "Musée Marc Chagall - музей Шагала, Ницца"
+title: "Musée Marc Chagall - Музей Шагала, Ницца"
 ---

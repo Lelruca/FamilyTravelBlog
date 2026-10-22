@@ -1,3 +1,3 @@
 ---
-title: "Cap-des-Rosiers - маяк Cap-des-Rosiers, Канада"
+title: "Cap-des-Rosiers - Маяк Кап-де-Розье, Канада"
 ---

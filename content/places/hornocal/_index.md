@@ -1,3 +1,3 @@
 ---
-title: "Serranía del Hornocal — Орнокаль, Аргентина"
+title: "Serranía del Hornocal - Орнокаль, Аргентина"
 ---

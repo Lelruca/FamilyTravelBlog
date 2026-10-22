@@ -1,3 +1,3 @@
 ---
-title: "Temple Church - церковь Темпла, Лондон"
+title: "Temple Church - Церковь Темпла, Лондон"
 ---

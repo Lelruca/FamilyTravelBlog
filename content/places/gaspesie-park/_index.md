@@ -1,3 +1,3 @@
 ---
-title: "Parc national de la Gaspésie - парк Gaspésie, Канада"
+title: "Parc national de la Gaspésie - Парк Гаспези, Канада"
 ---

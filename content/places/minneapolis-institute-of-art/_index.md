@@ -1,3 +1,3 @@
 ---
-title: "Minneapolis Institute of Art - художественный музей, Миннеаполис"
+title: "Minneapolis Institute of Art - Художественный музей, Миннеаполис"
 ---

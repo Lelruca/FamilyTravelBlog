@@ -1,3 +1,3 @@
 ---
-title: "Hamilton, Канада"
+title: "Hamilton - Гамильтон, Канада"
 ---

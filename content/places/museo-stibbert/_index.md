@@ -1,3 +1,3 @@
 ---
-title: "Museo Stibbert - музей Стибберта, Италия"
+title: "Museo Stibbert - Музей Стибберта, Италия"
 ---

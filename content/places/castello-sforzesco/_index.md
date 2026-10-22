@@ -1,3 +1,3 @@
 ---
-title: "Castello Sforzesco - замок Сфорца, Милан"
+title: "Castello Sforzesco - Замок Сфорца, Милан"
 ---

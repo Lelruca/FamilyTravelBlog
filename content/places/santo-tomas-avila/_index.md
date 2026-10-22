@@ -1,3 +1,3 @@
 ---
-title: "Real Monasterio de Santo Tomás - монастырь Святого Фомы, Авила"
+title: "Real Monasterio de Santo Tomás - Монастырь Святого Фомы, Авила"
 ---

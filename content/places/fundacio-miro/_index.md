@@ -1,3 +1,3 @@
 ---
-title: "Fundació Joan Miró - музей Миро, Барселона"
+title: "Fundació Joan Miró - Музей Миро, Барселона"
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Longwood Gardens, США"
+title: "Longwood Gardens - Сады Лонгвуд, США"
 ---

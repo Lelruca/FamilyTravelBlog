@@ -1,3 +1,3 @@
 ---
-title: "Cristo de La Habana - статуя Христа, Гавана"
+title: "Cristo de La Habana - Статуя Христа, Гавана"
 ---

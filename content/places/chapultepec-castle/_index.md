@@ -1,3 +1,3 @@
 ---
-title: "Castillo de Chapultepec - дворец Чапультепек, Мехико"
+title: "Castillo de Chapultepec - Дворец Чапультепек, Мехико"
 ---

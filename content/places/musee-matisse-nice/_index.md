@@ -1,3 +1,3 @@
 ---
-title: "Musée Matisse - музей Матисса, Ницца"
+title: "Musée Matisse - Музей Матисса, Ницца"
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Recinte Modernista de Sant Pau - госпиталь Сант-Пау, Барселона"
+title: "Recinte Modernista de Sant Pau - Госпиталь Сант-Пау, Барселона"
 ---
