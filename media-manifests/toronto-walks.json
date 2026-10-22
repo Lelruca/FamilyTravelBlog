@@ -35,6 +35,17 @@
       "text_sha256": "3db009b069ee842c2be3973f28cc8824578711a3768ae3ce73cd2700945e1f6d",
       "photo_count": 12,
       "original_count": 12
+    },
+    {
+      "slug": "afternoon-tea-2025",
+      "title": "Afternoon Tea and Tour",
+      "originals_folder": "04 - Afternoon Tea and Tour 2025",
+      "post_date": "2025-11-28",
+      "photo_count": 5,
+      "original_count": 5,
+      "kind": "facebook-download",
+      "draft": true,
+      "source_manifest": "media-manifests/toronto-walks-afternoon-tea-2025.json"
     }
   ],
   "photos": [
@@ -751,6 +762,91 @@
       "bytes": 1889864,
       "sha256": "91901cfb02918f56b8db40dc8fd0f5facb69a85f4510e09bd67b5cb5c8a14e58",
       "drive_id": "1oyA1IK2dTdCuG4Tk5-0fyPMVT_3Q-C4O"
+    },
+    {
+      "chapter": "afternoon-tea-2025",
+      "position": 1,
+      "source_name": "592104202_33244335748484009_5388662926337869555_n.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2025 Осень + декабрь\\2025-11-28 - Afternoon Tea and Tour\\592104202_33244335748484009_5388662926337869555_n.jpg",
+      "archive_name": "04 - Afternoon Tea and Tour 2025/01_592104202_33244335748484009_5388662926337869555_n.jpg",
+      "kind": "facebook-download",
+      "facebook_id": "33244335705150680",
+      "facebook_url": "https://www.facebook.com/photo/?fbid=33244335705150680",
+      "site_filename": "fb_33244335705150680.jpg",
+      "r2_key": "toronto-walks/afternoon-tea-2025/fb_33244335705150680.jpg",
+      "bytes": 110780,
+      "sha256": "f130da7c6b052372f8f3888b20c24ad604b2c89e6cf684a393907357ad2f773a",
+      "width": 736,
+      "height": 1000,
+      "drive_id": "1QttZYkaJNMR30Z8dgsiTx3qbm7onXotb"
+    },
+    {
+      "chapter": "afternoon-tea-2025",
+      "position": 2,
+      "source_name": "591064300_33244336018483982_6781468005657984067_n.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2025 Осень + декабрь\\2025-11-28 - Afternoon Tea and Tour\\591064300_33244336018483982_6781468005657984067_n.jpg",
+      "archive_name": "04 - Afternoon Tea and Tour 2025/02_591064300_33244336018483982_6781468005657984067_n.jpg",
+      "kind": "facebook-download",
+      "facebook_id": "33244336008483983",
+      "facebook_url": "https://www.facebook.com/photo/?fbid=33244336008483983",
+      "site_filename": "fb_33244336008483983.jpg",
+      "r2_key": "toronto-walks/afternoon-tea-2025/fb_33244336008483983.jpg",
+      "bytes": 117137,
+      "sha256": "e302a445fd83259c7308853e0350fe8323780d45673098f7587067c6ec74322e",
+      "width": 736,
+      "height": 1000,
+      "drive_id": "1ojsi2Zwz8HjIp1mvec2orE5hdv-zre1_"
+    },
+    {
+      "chapter": "afternoon-tea-2025",
+      "position": 3,
+      "source_name": "590270172_33244350618482522_5887724429851635644_n.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2025 Осень + декабрь\\2025-11-28 - Afternoon Tea and Tour\\590270172_33244350618482522_5887724429851635644_n.jpg",
+      "archive_name": "04 - Afternoon Tea and Tour 2025/03_590270172_33244350618482522_5887724429851635644_n.jpg",
+      "kind": "facebook-download",
+      "facebook_id": "33244336275150623",
+      "facebook_url": "https://www.facebook.com/photo/?fbid=33244336275150623",
+      "site_filename": "fb_33244336275150623.jpg",
+      "r2_key": "toronto-walks/afternoon-tea-2025/fb_33244336275150623.jpg",
+      "bytes": 389268,
+      "sha256": "6396b8de43de461b2002f095d424503fd5fb82e8a12afb2762354e11c69cdc15",
+      "width": 2048,
+      "height": 1536,
+      "drive_id": "18Ogup9fLhhVjmsEH51t51FnRRddmFmN1"
+    },
+    {
+      "chapter": "afternoon-tea-2025",
+      "position": 4,
+      "source_name": "590589421_33244336515150599_925978203996511831_n.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2025 Осень + декабрь\\2025-11-28 - Afternoon Tea and Tour\\590589421_33244336515150599_925978203996511831_n.jpg",
+      "archive_name": "04 - Afternoon Tea and Tour 2025/04_590589421_33244336515150599_925978203996511831_n.jpg",
+      "kind": "facebook-download",
+      "facebook_id": "33244336508483933",
+      "facebook_url": "https://www.facebook.com/photo/?fbid=33244336508483933",
+      "site_filename": "fb_33244336508483933.jpg",
+      "r2_key": "toronto-walks/afternoon-tea-2025/fb_33244336508483933.jpg",
+      "bytes": 107022,
+      "sha256": "c09ffd0c2ff199d701e2f9113a0caebcb34d9eb4d461281dddd1a9075c93a41c",
+      "width": 736,
+      "height": 1000,
+      "drive_id": "1lGWDcIAtTB2oxOtiS4hr65cx9ZTUbFTE"
+    },
+    {
+      "chapter": "afternoon-tea-2025",
+      "position": 5,
+      "source_name": "592182628_33244352121815705_5164146919002196088_n.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2025 Осень + декабрь\\2025-11-28 - Afternoon Tea and Tour\\592182628_33244352121815705_5164146919002196088_n.jpg",
+      "archive_name": "04 - Afternoon Tea and Tour 2025/05_592182628_33244352121815705_5164146919002196088_n.jpg",
+      "kind": "facebook-download",
+      "facebook_id": "33244336768483907",
+      "facebook_url": "https://www.facebook.com/photo/?fbid=33244336768483907",
+      "site_filename": "fb_33244336768483907.jpg",
+      "r2_key": "toronto-walks/afternoon-tea-2025/fb_33244336768483907.jpg",
+      "bytes": 233184,
+      "sha256": "2a897a324ba7f4bdb9f5e1f891ebf0d0c486aa8b65d5d961f52a63b14496846a",
+      "width": 2048,
+      "height": 1536,
+      "drive_id": "1lL1r42TMrUYT6rXRppyWZGFXgobTGHtR"
     }
   ],
   "videos": [],
@@ -1272,6 +1368,56 @@
         "bytes": 867907,
         "sha256": "13ad3d39c1b299cd4a88238efded708b0e2175af02c849078a2cf11e498315b3",
         "archive_name": "01 - Улица Янг/18_20220813_114807.jpg",
+        "verified": true
+      },
+      {
+        "key": "toronto-walks/afternoon-tea-2025/fb_33244335705150680.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-walks/afternoon-tea-2025/fb_33244335705150680.jpg",
+        "width": 736,
+        "height": 1000,
+        "bytes": 110780,
+        "sha256": "f130da7c6b052372f8f3888b20c24ad604b2c89e6cf684a393907357ad2f773a",
+        "archive_name": "04 - Afternoon Tea and Tour 2025/01_592104202_33244335748484009_5388662926337869555_n.jpg",
+        "verified": true
+      },
+      {
+        "key": "toronto-walks/afternoon-tea-2025/fb_33244336008483983.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-walks/afternoon-tea-2025/fb_33244336008483983.jpg",
+        "width": 736,
+        "height": 1000,
+        "bytes": 117137,
+        "sha256": "e302a445fd83259c7308853e0350fe8323780d45673098f7587067c6ec74322e",
+        "archive_name": "04 - Afternoon Tea and Tour 2025/02_591064300_33244336018483982_6781468005657984067_n.jpg",
+        "verified": true
+      },
+      {
+        "key": "toronto-walks/afternoon-tea-2025/fb_33244336275150623.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-walks/afternoon-tea-2025/fb_33244336275150623.jpg",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 493663,
+        "sha256": "0e91cd4a1932b9f1c10ca158129472158a1b6ec9a76bbb459c8833889cb8ec95",
+        "archive_name": "04 - Afternoon Tea and Tour 2025/03_590270172_33244350618482522_5887724429851635644_n.jpg",
+        "verified": true
+      },
+      {
+        "key": "toronto-walks/afternoon-tea-2025/fb_33244336508483933.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-walks/afternoon-tea-2025/fb_33244336508483933.jpg",
+        "width": 736,
+        "height": 1000,
+        "bytes": 107022,
+        "sha256": "c09ffd0c2ff199d701e2f9113a0caebcb34d9eb4d461281dddd1a9075c93a41c",
+        "archive_name": "04 - Afternoon Tea and Tour 2025/04_590589421_33244336515150599_925978203996511831_n.jpg",
+        "verified": true
+      },
+      {
+        "key": "toronto-walks/afternoon-tea-2025/fb_33244336768483907.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-walks/afternoon-tea-2025/fb_33244336768483907.jpg",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 313030,
+        "sha256": "0bd4c1041e1926cc2975b6476427e0423f6cffe04fb2aca3bb913425509b5413",
+        "archive_name": "04 - Afternoon Tea and Tour 2025/05_592182628_33244352121815705_5164146919002196088_n.jpg",
         "verified": true
       }
     ]

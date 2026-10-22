@@ -4,7 +4,7 @@ type: "trips"
 short_trip: "canada"
 trip_year: 2022
 trip_start: "2022-08"
-trip_end: "2023-12"
+trip_end: "2025-11"
 date: "2022-08-13"
 continent: "Северная Америка"
 country: "Канада"
@@ -13,7 +13,7 @@ geo_countries:
 cover_where: "Канада · Toronto"
 cover_title: "Экскурсии по Торонто"
 cover_subtitle: "Открываем город, в котором живём"
-cover_when: "2022–2023"
+cover_when: "2022–2025"
 cover_who: "Сережа и Леля"
 aliases: 
   - /americas/canada/toronto-yonge-2022/

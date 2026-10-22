@@ -3,7 +3,7 @@
   "chapter": "afternoon-tea-2025",
   "title": "Afternoon Tea and Tour",
   "date": "2025-11",
-  "date_source": "Указано Ольгой: ноябрь 2025; день неизвестен",
+  "date_source": "Ноябрь2025 указан Ольгой; FB-пост28ноября2025. Дата съёмки неизвестна.",
   "archive_root": "North America/2022-2023 - Экскурсии по Торонто",
   "chapter_folder": "04 - Afternoon Tea and Tour 2025",
   "source": {
@@ -13,15 +13,106 @@
       "Благодаря советам Natalia Dankovtseva приобщаемся к  Рождественским традициям Торонто! ",
       "Afternoon Tea and Tour в здании правительства Онтарио. Сам Queens Park чудесен в рождественском убранстве, и чайная церемония по соотношению цена/качество идеальна.",
       "А нам еще актеры в костюмах разыгрывали \"живую историю\"!"
-    ]
+    ],
+    "facebook_post": "https://www.facebook.com/share/p/1CcAamERLh/",
+    "facebook_post_date": "2025-11-28",
+    "drive_id": "16J6yhsHysiKgmMPBkoT9dDwF-Odamjwu"
   },
-  "photos": [],
+  "photos": [
+    {
+      "chapter": "afternoon-tea-2025",
+      "position": 1,
+      "source_name": "592104202_33244335748484009_5388662926337869555_n.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2025 Осень + декабрь\\2025-11-28 - Afternoon Tea and Tour\\592104202_33244335748484009_5388662926337869555_n.jpg",
+      "archive_name": "04 - Afternoon Tea and Tour 2025/01_592104202_33244335748484009_5388662926337869555_n.jpg",
+      "kind": "facebook-download",
+      "facebook_id": "33244335705150680",
+      "facebook_url": "https://www.facebook.com/photo/?fbid=33244335705150680",
+      "site_filename": "fb_33244335705150680.jpg",
+      "r2_key": "toronto-walks/afternoon-tea-2025/fb_33244335705150680.jpg",
+      "bytes": 110780,
+      "sha256": "f130da7c6b052372f8f3888b20c24ad604b2c89e6cf684a393907357ad2f773a",
+      "width": 736,
+      "height": 1000,
+      "drive_id": "1QttZYkaJNMR30Z8dgsiTx3qbm7onXotb"
+    },
+    {
+      "chapter": "afternoon-tea-2025",
+      "position": 2,
+      "source_name": "591064300_33244336018483982_6781468005657984067_n.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2025 Осень + декабрь\\2025-11-28 - Afternoon Tea and Tour\\591064300_33244336018483982_6781468005657984067_n.jpg",
+      "archive_name": "04 - Afternoon Tea and Tour 2025/02_591064300_33244336018483982_6781468005657984067_n.jpg",
+      "kind": "facebook-download",
+      "facebook_id": "33244336008483983",
+      "facebook_url": "https://www.facebook.com/photo/?fbid=33244336008483983",
+      "site_filename": "fb_33244336008483983.jpg",
+      "r2_key": "toronto-walks/afternoon-tea-2025/fb_33244336008483983.jpg",
+      "bytes": 117137,
+      "sha256": "e302a445fd83259c7308853e0350fe8323780d45673098f7587067c6ec74322e",
+      "width": 736,
+      "height": 1000,
+      "drive_id": "1ojsi2Zwz8HjIp1mvec2orE5hdv-zre1_"
+    },
+    {
+      "chapter": "afternoon-tea-2025",
+      "position": 3,
+      "source_name": "590270172_33244350618482522_5887724429851635644_n.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2025 Осень + декабрь\\2025-11-28 - Afternoon Tea and Tour\\590270172_33244350618482522_5887724429851635644_n.jpg",
+      "archive_name": "04 - Afternoon Tea and Tour 2025/03_590270172_33244350618482522_5887724429851635644_n.jpg",
+      "kind": "facebook-download",
+      "facebook_id": "33244336275150623",
+      "facebook_url": "https://www.facebook.com/photo/?fbid=33244336275150623",
+      "site_filename": "fb_33244336275150623.jpg",
+      "r2_key": "toronto-walks/afternoon-tea-2025/fb_33244336275150623.jpg",
+      "bytes": 389268,
+      "sha256": "6396b8de43de461b2002f095d424503fd5fb82e8a12afb2762354e11c69cdc15",
+      "width": 2048,
+      "height": 1536,
+      "drive_id": "18Ogup9fLhhVjmsEH51t51FnRRddmFmN1"
+    },
+    {
+      "chapter": "afternoon-tea-2025",
+      "position": 4,
+      "source_name": "590589421_33244336515150599_925978203996511831_n.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2025 Осень + декабрь\\2025-11-28 - Afternoon Tea and Tour\\590589421_33244336515150599_925978203996511831_n.jpg",
+      "archive_name": "04 - Afternoon Tea and Tour 2025/04_590589421_33244336515150599_925978203996511831_n.jpg",
+      "kind": "facebook-download",
+      "facebook_id": "33244336508483933",
+      "facebook_url": "https://www.facebook.com/photo/?fbid=33244336508483933",
+      "site_filename": "fb_33244336508483933.jpg",
+      "r2_key": "toronto-walks/afternoon-tea-2025/fb_33244336508483933.jpg",
+      "bytes": 107022,
+      "sha256": "c09ffd0c2ff199d701e2f9113a0caebcb34d9eb4d461281dddd1a9075c93a41c",
+      "width": 736,
+      "height": 1000,
+      "drive_id": "1lGWDcIAtTB2oxOtiS4hr65cx9ZTUbFTE"
+    },
+    {
+      "chapter": "afternoon-tea-2025",
+      "position": 5,
+      "source_name": "592182628_33244352121815705_5164146919002196088_n.jpg",
+      "source_path": "D:\\OneDrive\\Photo\\2025 Осень + декабрь\\2025-11-28 - Afternoon Tea and Tour\\592182628_33244352121815705_5164146919002196088_n.jpg",
+      "archive_name": "04 - Afternoon Tea and Tour 2025/05_592182628_33244352121815705_5164146919002196088_n.jpg",
+      "kind": "facebook-download",
+      "facebook_id": "33244336768483907",
+      "facebook_url": "https://www.facebook.com/photo/?fbid=33244336768483907",
+      "site_filename": "fb_33244336768483907.jpg",
+      "r2_key": "toronto-walks/afternoon-tea-2025/fb_33244336768483907.jpg",
+      "bytes": 233184,
+      "sha256": "2a897a324ba7f4bdb9f5e1f891ebf0d0c486aa8b65d5d961f52a63b14496846a",
+      "width": 2048,
+      "height": 1536,
+      "drive_id": "1lL1r42TMrUYT6rXRppyWZGFXgobTGHtR"
+    }
+  ],
   "storage": {
-    "originals_verified": false,
-    "drive_sync_verified": false,
-    "r2_verified": false
+    "originals_verified": true,
+    "drive_sync_verified": true,
+    "r2_verified": true,
+    "onedrive_copies_verified": true,
+    "drive_sync_checked_at": "2026-10-22T15:58:34.344Z"
   },
-  "status": "draft-awaiting-original-photos",
+  "status": "draft-ready-for-review",
   "search": {
     "missing": "Пять фотографий на скриншоте; оригиналы не найдены",
     "checked": [
@@ -29,6 +120,69 @@
       "Все четыре сезонные папки Photo/2025: 4029 файлов, ноябрьских имён нет",
       "Pictures/Camera Roll и Samsung Gallery/DCIM/Camera"
     ],
-    "question": "Уточнить папку либо дождаться переноса фотографий с телефона"
+    "question": "Уточнить папку либо дождаться переноса фотографий с телефона",
+    "resolution": "По разрешению Ольги загружены доступные полные фотографии из публичного FB-поста; исходники камеры не найдены. Сохранены также в OneDrive."
+  },
+  "drive_sync_verified": true,
+  "drive_trip_folder_id": "18yQ2Ctc1K6rahKCbezRfrwcLaeJ7-6fk",
+  "r2": {
+    "photos": [
+      {
+        "key": "toronto-walks/afternoon-tea-2025/fb_33244335705150680.jpg",
+        "original_archive_name": "04 - Afternoon Tea and Tour 2025/01_592104202_33244335748484009_5388662926337869555_n.jpg",
+        "width": 736,
+        "height": 1000,
+        "bytes": 110780,
+        "sha256": "f130da7c6b052372f8f3888b20c24ad604b2c89e6cf684a393907357ad2f773a",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-walks/afternoon-tea-2025/fb_33244335705150680.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "toronto-walks/afternoon-tea-2025/fb_33244336008483983.jpg",
+        "original_archive_name": "04 - Afternoon Tea and Tour 2025/02_591064300_33244336018483982_6781468005657984067_n.jpg",
+        "width": 736,
+        "height": 1000,
+        "bytes": 117137,
+        "sha256": "e302a445fd83259c7308853e0350fe8323780d45673098f7587067c6ec74322e",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-walks/afternoon-tea-2025/fb_33244336008483983.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "toronto-walks/afternoon-tea-2025/fb_33244336275150623.jpg",
+        "original_archive_name": "04 - Afternoon Tea and Tour 2025/03_590270172_33244350618482522_5887724429851635644_n.jpg",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 493663,
+        "sha256": "0e91cd4a1932b9f1c10ca158129472158a1b6ec9a76bbb459c8833889cb8ec95",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-walks/afternoon-tea-2025/fb_33244336275150623.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "toronto-walks/afternoon-tea-2025/fb_33244336508483933.jpg",
+        "original_archive_name": "04 - Afternoon Tea and Tour 2025/04_590589421_33244336515150599_925978203996511831_n.jpg",
+        "width": 736,
+        "height": 1000,
+        "bytes": 107022,
+        "sha256": "c09ffd0c2ff199d701e2f9113a0caebcb34d9eb4d461281dddd1a9075c93a41c",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-walks/afternoon-tea-2025/fb_33244336508483933.jpg",
+        "public_verified": true
+      },
+      {
+        "key": "toronto-walks/afternoon-tea-2025/fb_33244336768483907.jpg",
+        "original_archive_name": "04 - Afternoon Tea and Tour 2025/05_592182628_33244352121815705_5164146919002196088_n.jpg",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 313030,
+        "sha256": "0bd4c1041e1926cc2975b6476427e0423f6cffe04fb2aca3bb913425509b5413",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/toronto-walks/afternoon-tea-2025/fb_33244336768483907.jpg",
+        "public_verified": true
+      }
+    ],
+    "status": "public-bytes-mime-sha256-verified",
+    "verified_at": "2026-10-22T15:59:40.349Z"
+  },
+  "publication": {
+    "draft": true,
+    "authorized": false
   }
 }
