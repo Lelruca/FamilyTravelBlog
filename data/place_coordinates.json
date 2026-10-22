@@ -3766,5 +3766,13 @@
     "country_code": "US",
     "source": "https://www.openstreetmap.org/relation/5586855",
     "query": "Disneyland Park, Anaheim"
+  },
+  "riviera-maya": {
+    "lat": 20.4281933,
+    "lon": -87.2953501,
+    "name": "Grand Sirenis Riviera Maya Resort & Spa",
+    "country_code": "MX",
+    "source": "https://www.openstreetmap.org/way/1030492716",
+    "query": "Grand Sirenis Riviera Maya"
   }
 }
