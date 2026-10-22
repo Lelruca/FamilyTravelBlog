@@ -1,16 +1,17 @@
-{{- /* Renders: Главная › Европа › Испания › Поездка › Глава */}}
+{{- /* Renders: Главная › Европа › Испания › Поездка › Глава. The home page is «Главная» only (its title «Путевые заметки»
+       would repeat it); a place page ends with its Russian name, as in its heading. */}}
 <nav aria-label="Breadcrumb" class="text-sm text-neutral-500 mb-6">
   <ol class="flex flex-wrap items-center">
     <li class="breadcrumb-item">
       <a href="{{ "" | relURL }}" class="hover:text-accent transition-colors">Главная</a>
     </li>
-    {{- range collections.Reverse .Ancestors }}
+    {{- range collections.Reverse .Ancestors }}{{ if not .IsHome }}
     <li class="breadcrumb-item">
       <a href="{{ .RelPermalink }}" class="hover:text-accent transition-colors">{{ .Title }}</a>
     </li>
-    {{- end }}
+    {{- end }}{{ end }}
     <li class="breadcrumb-item font-medium text-neutral-800" aria-current="page">
-      {{ .Title }}
+      {{ if and (eq .Kind "term") (eq .Data.Plural "places") }}{{ (partial "place-names.html" .).ru }}{{ else }}{{ .Title }}{{ end }}
     </li>
   </ol>
 </nav>
