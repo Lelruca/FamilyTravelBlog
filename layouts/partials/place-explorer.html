@@ -1,3 +1,6 @@
+{{- /* «Поиск»: every city and standalone place (lakes, parks, far castles), grouped by country, each row leads straight to
+       the place's page. Sights (data/attractions.json) are found by the search field and lead to their city page; they
+       never get rows of their own in the list or points on the map. */ -}}
 {{- $entries := slice -}}
 {{- $countries := slice -}}
 {{- $groups := site.Data.place_groups -}}
@@ -5,34 +8,38 @@
   {{- $p := .Page -}}
   {{- /* museums, palaces etc. seen during a city visit are shown inside that city (data/place_groups.yaml) */ -}}
   {{- if not (index $groups.part_of (path.Base $p.File.Dir)) }}
-  {{- /* country from the place's coordinates (country_code), not from the title's last part — titles often end with a city (Барселона, Вена, Фигерас) */ -}}
-  {{- $codes := dict "CH" "Швейцария" "CA" "Канада" "PT" "Португалия" "ES" "Испания" "NL" "Голландия (Нидерланды)" "BE" "Бельгия" "FR" "Франция" "US" "США" "DE" "Германия" "MX" "Мексика" "CU" "Куба" "TT" "Тринидад и Тобаго" "GB" "Англия" "IE" "Ирландия" "IT" "Италия" "VA" "Ватикан" "IS" "Исландия" "CN" "Китай" "AR" "Аргентина" "CL" "Чили" "BR" "Бразилия" "AT" "Австрия" "CZ" "Чехия" "JP" "Япония" -}}
-  {{- $g := index site.Data.place_coordinates (path.Base $p.File.Dir) -}}
-  {{- $byCode := "" }}{{ with $g }}{{ with .country_code }}{{ $byCode = index $codes (upper .) | default "" }}{{ end }}{{ end -}}
-  {{- $country := $p.Params.country | default $byCode | default (index (last 1 (split $p.Title ", ")) 0) -}}
-  {{- if eq $country "Нидерланды" }}{{ $country = "Голландия (Нидерланды)" }}{{ end -}}
-  {{- if eq $country "Лондон" }}{{ $country = "Англия" }}{{ end -}}
+  {{- $country := partial "place-country.html" $p -}}
   {{- $countries = $countries | append $country -}}
   {{- $slug := path.Base $p.File.Dir -}}
   {{- $geo := index site.Data.place_coordinates $slug -}}
+  {{- $names := partial "place-names.html" $p -}}
   {{- $search := $p.Title -}}
   {{- range $child, $parent := $groups.part_of }}{{ if eq $parent $slug }}{{ with site.GetPage (printf "/places/%s" $child) }}{{ $search = printf "%s %s" $search .Title }}{{ end }}{{ end }}{{ end -}}
-  {{- $entries = $entries | append (dict "page" $p "slug" $slug "country" $country "title" $p.Title "geo" $geo "search" $search) -}}
+  {{- $entries = $entries | append (dict "page" $p "slug" $slug "country" $country "title" $names.ru "orig" $names.orig "geo" $geo "search" $search) -}}
   {{- range index $groups.twins $slug }}
     {{- $countries = $countries | append .country -}}
-    {{- $entries = $entries | append (dict "page" $p "slug" $slug "country" .country "title" $p.Title "geo" (dict "lat" .lat "lon" .lon) "search" $search) -}}
+    {{- $entries = $entries | append (dict "page" $p "slug" $slug "country" .country "title" $names.ru "orig" $names.orig "geo" (dict "lat" .lat "lon" .lon) "search" $search) -}}
   {{- end }}
   {{- end }}
 {{- end -}}
 {{- $entries = sort (sort $entries "title") "country" -}}
+{{- /* sights for the search field: title, city, link to the city page on its «Достопримечательности» tab */ -}}
+{{- $sights := slice -}}
+{{- range $id, $a := site.Data.attractions -}}
+  {{- $city := $a.parent -}}{{- with index $groups.part_of $city }}{{ $city = . }}{{ end -}}
+  {{- with site.GetPage (printf "/places/%s" $city) -}}
+    {{- $n := partial "place-names.html" . -}}
+    {{- $sights = $sights | append (dict "t" (strings.FirstUpper $a.title) "c" $n.ru "k" (partial "place-country.html" .) "u" (printf "%s?tab=sights#a-%s" .RelPermalink $id)) -}}
+  {{- end -}}
+{{- end -}}
 <link rel="stylesheet" href="{{ "vendor/leaflet/leaflet.css" | relURL }}">
 <link rel="stylesheet" href="{{ "vendor/leaflet/MarkerCluster.css" | relURL }}">
-<link rel="stylesheet" href="{{ "css/places.css" | relURL }}">
-<div id="place-explorer" class="max-w-5xl mx-auto px-4 py-12">
-  <header><h1 class="font-serif text-4xl font-bold">Места</h1><p class="place-context">Города и уголки наших путешествий. Выберите место — откроются главы о нём.</p></header>
+<link rel="stylesheet" href="{{ "css/places.css" | relURL }}?v={{ now.Unix }}">
+<div id="place-explorer" class="max-w-3xl mx-auto px-4 py-10">
+  <header><h1 class="font-serif text-4xl font-bold">Поиск</h1><p class="place-context">Города, природа и достопримечательности наших путешествий.</p></header>
   <div class="place-tools">
-    <div class="place-search"><label for="place-search">Найти место</label><input id="place-search" type="search" placeholder="Русское или местное название" autocomplete="off"></div>
-    <div><label for="place-country">Страна</label><select id="place-country"><option value="">Все страны</option>{{ range sort (uniq $countries) }}<option>{{ . }}</option>{{ end }}</select></div>
+    <div class="place-search"><label for="place-search" class="sr-only">Найти</label><input id="place-search" type="search" placeholder="Город, музей, озеро…" autocomplete="off"></div>
+    <div><label for="place-country" class="sr-only">Страна</label><select id="place-country"><option value="">Все страны</option>{{ range sort (uniq $countries) }}<option>{{ . }}</option>{{ end }}</select></div>
     <div class="place-modes" role="group" aria-label="Вид мест"><button type="button" data-place-mode="list" aria-pressed="true">Список</button><button type="button" data-place-mode="map" aria-pressed="false">Карта</button></div>
   </div>
   <p id="place-results" class="place-context" role="status" aria-live="polite"></p>
@@ -42,19 +49,18 @@
   {{- range $entries }}
     {{- if ne .country ($state.Get "country") }}
       {{- if $state.Get "country" }}</section>{{ end }}
-      <section data-place-group><h2 class="font-serif text-2xl">{{ .country }}</h2>
+      <section data-place-group data-country="{{ .country }}"><h2><button type="button" class="place-country-jump" aria-label="{{ .country }}: перейти к другой стране">{{ .country }} <span aria-hidden="true">▾</span></button></h2>
       {{- $state.Set "country" .country -}}
     {{- end }}
-    <details data-place-item data-slug="{{ .slug }}" data-country="{{ .country }}" data-search="{{ .search }} {{ .slug }}"{{ with .geo }} data-lat="{{ .lat }}" data-lon="{{ .lon }}"{{ end }}>
-      <summary><span class="place-title">{{ index (split .title ", ") 0 }}</span><svg class="place-arrow" width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6" fill="none" stroke="currentColor" stroke-width="1.5"/></svg></summary>
-      <div class="place-detail-content">{{ partial "place-chapters.html" .page }}<a class="place-permalink" href="{{ .page.RelPermalink }}">Ссылка на это место</a></div>
-    </details>
+    <a class="place-row" href="{{ .page.RelPermalink }}" data-place-item data-slug="{{ .slug }}" data-country="{{ .country }}" data-search="{{ .search }} {{ .slug }}"{{ with .geo }} data-lat="{{ .lat }}" data-lon="{{ .lon }}"{{ end }}><span class="place-title">{{ .title }}</span>{{ with .orig }}<span class="place-orig">{{ . }}</span>{{ end }}</a>
   {{- end }}
   {{- if $entries }}</section>{{ end }}
   </div>
+  <section id="sights-found" hidden><h2>Достопримечательности</h2><div id="sights-list"></div></section>
   <p id="places-empty" hidden>Такого места пока нет в дневнике. Попробуйте другое название или выберите все страны.</p>
-  <dialog id="place-dialog" aria-labelledby="place-dialog-title"><div class="place-dialog-top"><p id="place-dialog-country" class="place-context"></p><button type="button" id="place-dialog-close" aria-label="Закрыть">✕</button></div><h2 id="place-dialog-title" class="font-serif text-2xl"></h2><div id="place-dialog-content"></div></dialog>
+  <dialog id="place-jump" aria-label="Перейти к стране"><p class="place-jump-head">К стране</p>{{ range sort (uniq $countries) }}<button type="button" data-jump="{{ . }}">{{ . }}</button>{{ end }}</dialog>
+  <script type="application/json" id="sights-data">{{ $sights | jsonify | safeJS }}</script>
 </div>
 <script defer src="{{ "vendor/leaflet/leaflet.js" | relURL }}"></script>
 <script defer src="{{ "vendor/leaflet/leaflet.markercluster.js" | relURL }}"></script>
-<script defer src="{{ "js/places.js" | relURL }}"></script>
+<script defer src="{{ "js/places.js" | relURL }}?v={{ now.Unix }}"></script>

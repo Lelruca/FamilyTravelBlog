@@ -1,9 +1,50 @@
-#place-explorer {color:#1e293b} #place-explorer [hidden]{display:none!important}
-#place-explorer header p{margin-top:12px}.place-context{display:block;color:#64748b;font-size:14px;line-height:1.6}
-.place-tools{display:flex;gap:16px;align-items:end;margin:30px 0 14px;flex-wrap:wrap}.place-search{flex:1;min-width:220px}.place-tools label{display:block;font-size:13px;margin-bottom:7px}.place-tools input,.place-tools select,.place-modes button,#place-map-reset{border:1px solid #cbd5e1;border-radius:8px;background:white;padding:10px 14px;color:#1e293b}.place-tools input{width:100%}.place-modes{display:flex;gap:4px}.place-modes button[aria-pressed=true]{background:#1e293b;color:white;border-color:#1e293b}
-#place-explorer :focus-visible{outline:2px solid #2a9d8f;outline-offset:3px}#place-results{margin-bottom:24px}#places-list section{margin-bottom:32px}#places-list h2{margin-bottom:12px}#places-list details{border-bottom:1px solid #e2e8f0}#places-list summary{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:15px 12px;cursor:pointer;list-style:none;border-radius:8px}#places-list summary::-webkit-details-marker{display:none}.place-title{display:block;font-size:18px;margin-bottom:4px}.place-arrow{color:#64748b;flex-shrink:0;transition:transform 250ms}#places-list details[open] .place-arrow{transform:rotate(180deg)}.place-detail-content{padding:0 12px 20px}.place-chapters{list-style:none;margin:16px 0;padding:0}.place-chapters li+li{border-top:1px solid #e2e8f0}.place-chapters a{display:block;padding:16px 10px;border-radius:8px;color:#1e293b;text-decoration:none}.place-chapter-title{display:block;font-size:17px;line-height:1.5;margin-bottom:5px}.place-permalink{font-size:14px;color:#2a9d8f;text-decoration:underline}
-#place-dialog{padding:24px;border:1px solid #e2e8f0;border-radius:8px;width:min(640px,calc(100% - 32px));max-height:85dvh;overflow:auto;color:#1e293b}#place-dialog::backdrop{background:rgb(15 23 42 / .35)}.place-dialog-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}#place-dialog-close{padding:6px 12px;border-radius:8px;font-size:20px}body.place-dialog-open{overflow:hidden}
+#place-explorer,#place-city{color:#1e293b} #place-explorer [hidden],#place-city [hidden]{display:none!important}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+#place-explorer header p{margin-top:10px}.place-context{display:block;color:#64748b;font-size:14px;line-height:1.6}
+.place-tools{display:flex;gap:12px;align-items:end;margin:24px 0 10px;flex-wrap:wrap}.place-search{flex:1;min-width:220px}.place-tools input,.place-tools select,.place-modes button,#place-map-reset{border:1px solid #cbd5e1;border-radius:8px;background:white;padding:10px 14px;color:#1e293b}.place-tools input{width:100%;font-size:16px}.place-modes{display:flex;gap:4px}.place-modes button[aria-pressed=true]{background:#1e293b;color:white;border-color:#1e293b}
+#place-explorer :focus-visible,#place-city :focus-visible{outline:2px solid #2a9d8f;outline-offset:2px}#place-results{margin-bottom:12px}
+
+/* the list: compact rows, the country heading stays on top while scrolling and opens the jump list */
+#places-list section{margin-bottom:10px;scroll-margin-top:60px}
+#places-list h2,#sights-found h2{position:sticky;top:60px;z-index:2;margin:0;background:#f3f6f5;border-top:1px solid #e2e8f0}
+.place-country-jump,#sights-found h2{display:block;width:100%;text-align:left;padding:7px 12px 5px;font:600 12px/1.4 Inter,system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:#64748b;background:none;border:0;cursor:pointer}
+#sights-found h2{background:#f3f6f5;cursor:default}
+.place-country-jump span{font-size:10px;margin-left:2px}
+.place-row{display:flex;align-items:baseline;gap:8px;padding:5px 12px;color:#1e293b;text-decoration:none;font-size:15px;line-height:1.35;border-radius:6px}
+.place-orig{color:#94a3b8;font-size:13px}
+#sights-found{margin-top:14px}
+#place-jump{padding:8px 0;border:1px solid #e2e8f0;border-radius:12px;width:min(360px,calc(100% - 32px));max-height:80dvh;overflow:auto}
+#place-jump::backdrop{background:rgb(15 23 42 / .3)}
+.place-jump-head{margin:0;padding:8px 20px;font:600 12px Inter,system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:#64748b}
+#place-jump button{display:block;width:100%;text-align:left;padding:9px 20px;font-size:16px;background:none;border:0;color:#1e293b;cursor:pointer}
+@media(hover:hover){.place-row:hover,#place-jump button:hover{background:#f1f5f4}.place-row:hover .place-title{color:#2a9d8f}}
+
+/* the map: a point opens a small window with the name and «К заметкам →» */
 #place-map{height:520px;max-height:65dvh;border-radius:8px;background:#e2e8f0;z-index:0}#place-map-status{margin:10px 0}#place-map-reset{margin-bottom:20px;font-size:14px}.place-pin{background:none;border:0}.place-pin span{display:block;width:18px;height:18px;margin:5px;background:#2a9d8f;border:3px solid white;border-radius:50%;box-shadow:0 1px 5px #475569}.place-cluster{background:#2a9d8f;border:3px solid #d9efeb;border-radius:50%;color:white;text-align:center;font:600 14px/34px sans-serif}.leaflet-tooltip{color:#1e293b}
-@media(prefers-reduced-motion:reduce){.place-arrow{transition:none}}
-@media(hover:hover){#places-list summary:hover,.place-chapters a:hover{background:#f8fafc}#places-list summary:hover .place-context,.place-chapters a:hover .place-context{color:#2a9d8f}}
-@media(max-width:600px){.place-tools{gap:12px}.place-search{flex-basis:100%}.place-tools select{max-width:200px}#place-map{height:420px}.place-title{font-size:16px}#places-list summary{padding:14px 4px}.place-context{font-size:13px}#place-dialog{width:100%;max-width:100%;max-height:85dvh;margin:auto 0 0;border-radius:12px 12px 0 0;padding:20px}.place-chapter-title{font-size:16px}}
+.place-pop{display:flex;flex-direction:column;gap:8px;min-width:160px}
+.place-pop-name{font:600 17px/1.3 Lora,Georgia,serif;color:#1e293b!important;text-decoration:none}
+.place-pop-go{align-self:flex-start;background:#2a9d8f;color:#fff!important;border-radius:8px;padding:6px 12px;text-decoration:none;font-size:14px}
+
+/* the page of a place: «Поездки | Достопримечательности» */
+.city-head h1{font-size:36px;line-height:1.15;margin:0}
+.city-sub{color:#64748b;font-size:14px;margin:6px 0 0}
+.city-meta{color:#64748b;font-size:14px;margin:4px 0 0}
+.city-tabs{position:sticky;top:60px;z-index:3;display:flex;gap:6px;margin:20px 0 4px;padding:10px 0;background:#fff;border-bottom:1px solid #e2e8f0}
+.city-tabs button{flex:0 0 auto;border:1px solid #e2e8f0;background:#fff;border-radius:999px;padding:8px 16px;font:500 15px Inter,system-ui,sans-serif;color:#1e293b;cursor:pointer}
+.city-tabs button+button{flex:1 1 auto}
+.city-tabs button[aria-selected=true]{background:#2a9d8f;border-color:#2a9d8f;color:#fff}
+.city-trip{margin:22px 0 6px}
+.city-trip h2{font-size:20px;line-height:1.3;margin:0}
+.city-when{color:#64748b;font-size:13px;margin:2px 0 4px}
+.city-ch{display:block;padding:9px 0 9px 14px;margin:4px 0 0;border-left:2px solid #e2e8f0;color:#1e293b;text-decoration:none}
+.city-ch-title{display:block;font-size:16px;font-weight:500;line-height:1.4}
+.city-ch-sights{display:block;font-size:14px;color:#64748b;margin-top:2px;line-height:1.45}
+.city-letter{margin:18px 0 0;font:600 13px Inter,system-ui,sans-serif;color:#2a9d8f}
+.city-sight{padding:10px 0;border-bottom:1px solid #eef2f1;scroll-margin-top:130px}
+.city-sight h3{margin:0 0 3px;font:600 16px Inter,system-ui,sans-serif}
+.city-sight a{display:block;padding:3px 0;color:#1e293b;text-decoration:none;font-size:15px}
+.city-sight a span{color:#64748b;font-size:13px}
+.city-sight:target{background:#f1f8f6;border-radius:8px;padding-left:10px;padding-right:10px}
+.city-back{display:inline-block;margin-top:28px;font-size:14px;color:#2a9d8f;text-decoration:underline}
+@media(hover:hover){.city-ch:hover{border-left-color:#2a9d8f}.city-ch:hover .city-ch-title,.city-sight a:hover{color:#2a9d8f}}
+@media(max-width:640px){#places-list h2,#sights-found h2,.city-tabs{top:56px}#place-map{height:420px}.city-head h1{font-size:30px}.city-tabs button{padding:8px 13px;font-size:14px}}

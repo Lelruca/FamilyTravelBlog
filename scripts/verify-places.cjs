@@ -32,7 +32,8 @@ for (const [child,parent] of partOf) {
   expected.delete(child);
 }
 const index = fs.readFileSync(path.join(build,'places/index.html'),'utf8');
-const rows = [...index.matchAll(/<details\b([^>]*data-place-item[^>]*)>([\s\S]*?)<\/details>/g)];
+// each row of «Поиск» links straight to the place page; the chapters are checked on that page («Поездки» tab)
+const rows = [...index.matchAll(/<a\b([^>]*data-place-item[^>]*)>([\s\S]*?)<\/a>/g)];
 assert.equal(rows.length,expected.size+twins.length,'Place count differs from source chapter taxonomy');
 let links=0;
 for (const [,attrs,html] of rows) {
@@ -44,12 +45,15 @@ for (const [,attrs,html] of rows) {
     || ['https://longwoodgardens.org/visit/directions','https://www.tremblant.ca/plan/getting-here'].includes(coord.source);
   assert.ok(reviewedSource,`${slug}: missing reviewed geographic source`);
   assert.ok(attrs.includes('data-lat=') && attrs.includes('data-lon='),`${slug}: coordinates not rendered`);
-  const chapterLinks = [...html.matchAll(/href=(?:"([^"]+)"|([^\s>]+))/g)].map(m=>m[1]||m[2]).filter(u=>!u.includes('/places/'));
-  const canonical = chapterLinks.map(u=>u.replace(/^\/FamilyTravelBlog/,''));
-  assert.deepEqual(new Set(canonical),expected.get(slug),`${slug}: chapters differ from source`);
-  for(const url of canonical) assert.ok(fs.existsSync(path.join(build,url,'index.html')),`${slug}: broken chapter ${url}`);
+  const href = attrs.match(/href=(?:"([^"]+)"|([^\s>]+))/).slice(1).find(Boolean).replace(/^\/FamilyTravelBlog/,'');
+  assert.equal(href, `/places/${slug}/`, `${slug}: the row does not lead to the place page`);
   const placePage=fs.readFileSync(path.join(build,'places',slug,'index.html'),'utf8');
-  for (const url of chapterLinks) assert.ok(placePage.includes(url),`${slug}: permanent page omitted chapter ${url}`);
+  const trips=(placePage.match(/<section id="?city-trips"?[\s\S]*?<\/section>/)||[''])[0];
+  const chapterLinks = [...trips.matchAll(/class="?city-ch"? href=(?:"([^"]+)"|([^\s>]+))/g)].map(m=>m[1]||m[2]);
+  const canonical = new Set(chapterLinks.map(u=>u.replace(/^\/FamilyTravelBlog/,'')));
+  // every chapter tagged with the place is on its page; the page may also show chapters that reach it only through a sight
+  for (const url of expected.get(slug)) assert.ok(canonical.has(url),`${slug}: place page omits chapter ${url}`);
+  for(const url of canonical) assert.ok(fs.existsSync(path.join(build,url,'index.html')),`${slug}: broken chapter ${url}`);
   // The shared site shell contains an empty lightbox image; reject actual photos.
   assert.ok(!/<img\b[^>]*\bsrc=(?:"[^"]+"|[^\s>]+)/.test(placePage),`${slug}: photographs on permanent place page`);
   links+=chapterLinks.length;

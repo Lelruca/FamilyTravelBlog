@@ -1,0 +1,8 @@
+{{- /* Country of a place page, from its coordinates' country_code (titles often end with a city, not a country). */ -}}
+{{- $codes := dict "CH" "Швейцария" "CA" "Канада" "PT" "Португалия" "ES" "Испания" "NL" "Голландия (Нидерланды)" "BE" "Бельгия" "FR" "Франция" "US" "США" "DE" "Германия" "MX" "Мексика" "CU" "Куба" "TT" "Тринидад и Тобаго" "GB" "Англия" "IE" "Ирландия" "IT" "Италия" "VA" "Ватикан" "IS" "Исландия" "CN" "Китай" "AR" "Аргентина" "CL" "Чили" "BR" "Бразилия" "AT" "Австрия" "CZ" "Чехия" "JP" "Япония" "LU" "Люксембург" "RU" "Россия" "AD" "Андорра" -}}
+{{- $g := index site.Data.place_coordinates (path.Base .File.Dir) -}}
+{{- $byCode := "" }}{{ with $g }}{{ with .country_code }}{{ $byCode = index $codes (upper .) | default "" }}{{ end }}{{ end -}}
+{{- $country := .Params.country | default $byCode | default (index (last 1 (split .Title ", ")) 0) -}}
+{{- if eq $country "Нидерланды" }}{{ $country = "Голландия (Нидерланды)" }}{{ end -}}
+{{- if eq $country "Лондон" }}{{ $country = "Англия" }}{{ end -}}
+{{- return $country -}}
