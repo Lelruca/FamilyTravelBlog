@@ -62,7 +62,7 @@
       {{- $src := "" -}}{{- if hasPrefix $c "http" }}{{ $src = partial "gimg.html" (dict "url" $c "size" "w1200") }}{{ end -}}
       <a href="{{ partial "trip-url.html" . }}" class="chapter-tile{{ if not $src }} no-photo{{ end }}">
         {{- with $src }}<img referrerpolicy="no-referrer" src="{{ . }}" alt="" loading="lazy"{{ with ($t.Params.home_cover_position | default $t.Params.cover_position) }} style="object-position: {{ . }};"{{ end }}>{{ end }}
-        <h2 class="chapter-tile-title">{{ .Params.trip_year }} — {{ .Params.cover_title | default .Title }}</h2>
+        <h2 class="chapter-tile-title">{{ if not .Params.multi_visit }}{{ .Params.trip_year }} — {{ end }}{{ .Params.cover_title | default .Title }}</h2>
       </a>
     {{- else }}
       <p style="color:#6b6b6b">Здесь пока нет рассказов.</p>

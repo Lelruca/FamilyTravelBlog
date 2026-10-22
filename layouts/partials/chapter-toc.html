@@ -3,7 +3,7 @@
 {{- $page := . -}}
 {{- $trip := .Parent -}}
 {{- $col := "" -}}{{- with $trip.Params.short_trip }}{{ $col = site.GetPage (printf "/short-trips/%s" .) }}{{ end -}}
-<p class="toc-trip"><a href="{{ partial "trip-url.html" $trip }}">{{ $trip.Params.cover_title | default $trip.Title }}</a>{{ if $col }}<span class="toc-trip-year">{{ $trip.Params.trip_year }}</span>{{ end }}</p>
+<p class="toc-trip"><a href="{{ partial "trip-url.html" $trip }}">{{ $trip.Params.cover_title | default $trip.Title }}</a>{{ if and $col (not $trip.Params.multi_visit) }}<span class="toc-trip-year">{{ $trip.Params.trip_year }}</span>{{ end }}</p>
 <ol class="toc-list">
 {{- range $i, $ch := $trip.Pages.ByWeight }}
   <li{{ if eq $ch.RelPermalink $page.RelPermalink }} class="current"{{ end }}><a href="{{ $ch.RelPermalink }}"{{ if eq $ch.RelPermalink $page.RelPermalink }} aria-current="page"{{ end }}><span class="n">{{ add $i 1 }}</span><span class="t">{{ partial "chapter-short-title.html" $ch }}</span></a></li>

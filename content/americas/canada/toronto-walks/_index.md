@@ -1,6 +1,7 @@
 ---
 title: "Экскурсии по Торонто"
 type: "trips"
+multi_visit: true
 short_trip: "canada"
 trip_year: 2022
 trip_start: "2022-08"
