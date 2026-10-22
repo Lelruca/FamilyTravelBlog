@@ -16,6 +16,7 @@ hero_image: "20210808_134651.jpg"
 date: "2021-08-08"
 auto_gallery: false
 draft: false
+attractions: ["louvre","musee-orsay","invalides","eiffel-tower","sacre-coeur","lapin-agile"]
 ---
 {{< row "20210808_124953.jpg 20210808_132044.jpg 20210808_132511.jpg 20210808_132740.jpg" >}}
 

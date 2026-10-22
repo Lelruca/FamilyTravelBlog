@@ -5,6 +5,7 @@ layout: "photo-story"
 weight: 100
 city: "Algarve"
 places:
+  - algarve
 
 hero_image: "20220630_202516.jpg"
 date: "2022-06-27"

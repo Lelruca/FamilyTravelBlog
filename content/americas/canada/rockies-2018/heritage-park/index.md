@@ -6,10 +6,12 @@ weight: 20
 city: "Calgary"
 places:
   - heritage-park-calgary
+  - calgary
 hero_image: "20180629_122758.jpg"
 date: "2018-06-29"
 auto_gallery: false
 draft: false
+attractions: ["heritage-park-calgary"]
 ---
 <p>Heritage Park Historical Village</p>
 

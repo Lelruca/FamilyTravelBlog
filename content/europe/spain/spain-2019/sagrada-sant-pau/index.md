@@ -13,6 +13,7 @@ hero_image: "20191223_113448.jpg"
 date: "2019-12-23"
 auto_gallery: false
 draft: false
+attractions: ["sagrada-familia","sant-pau","palau-musica-catalana"]
 ---
 <p> А Саграда - сильная, очень сильная! Сколько там смысла вложено, сколько идет и символизма, и света, и веры!</p>
 

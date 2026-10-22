@@ -13,6 +13,7 @@ hero_image: "20240802_133001.jpg"
 date: "2024-08-02"
 auto_gallery: false
 draft: false
+attractions: ["san-francisco-el-grande","almudena-cathedral","royal-palace-madrid","madrid--galereya-korolevskikh-kollektsiy"]
 ---
 <p>У нас в Канаде праздничный день в понедельник, мы взяли еще пятницу и в Мадрид - по музеям! (Что еще делать если температура +37!).</p>
 

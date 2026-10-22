@@ -14,6 +14,7 @@ hero_card_position: "center 52%"
 date: "2023-10-18"
 auto_gallery: false
 draft: false
+attractions: ["mauritshuis","escher-museum"]
 ---
 <p>Привет всем из Гааги 😀 Что-то этот раз нас по Европе болтает 🫣<br>Гаага чудесна 😍 </p>
 

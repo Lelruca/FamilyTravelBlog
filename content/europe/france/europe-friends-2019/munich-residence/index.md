@@ -11,6 +11,7 @@ places:
 trip_days: [13]
 draft_plan: false
 hero_image: "20190826_100731.jpg"
+attractions: ["munich-residenz"]
 ---
 
 <p>Даже на старуху бывает проруха :)</p>

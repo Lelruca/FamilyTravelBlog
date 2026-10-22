@@ -10,6 +10,7 @@ source_url: "https://olgau.livejournal.com/218863.html"
 hero_image: "20160105_164900.jpg"
 places:
   - vatican
+attractions: ["vatican--sobor-svyatogo-petra","vatican--muzei-vatikana","vatican--vatikanskaya-pinakoteka","vatican--sikstinskaya-kapella"]
 ---
 <p>Билеты в музеи Ватикана мы купили заранее на 12 часов дня, планируя с утра посетить собор святого Петра и подняться на него.  Поэтому вышли из дома пораньше, дошли до метро, разобрались с билетами и поехали. С погодой именно в этот день нам повезло меньше всего. Шел довольно сильный дождь, но девизом дня стала фраза “матч состоится в любую погоду” :-)</p>
 

@@ -12,6 +12,7 @@ hero_card_position: "center 72%"
 date: "2023-10-07"
 auto_gallery: false
 draft: false
+attractions: ["museu-maritim-barcelona"]
 ---
 <p>В этой поездке у нас нет плана :) Мы больше подстраиваемся под Наташу, погоду и действуем по настроение. Хотя наметки и планы прогулок есть.</p>
 

@@ -6,10 +6,12 @@ weight: 100
 city: "Мехико"
 places:
   - munal
+  - mexico-city
 hero_image: "20250213_135312.jpg"
 date: "2025-02-13"
 auto_gallery: false
 draft: false
+attractions: ["munal"]
 ---
 <p>Хочу запомнить для себя картины из Национальный музей искусства (MUNAL) находится в бывшем Дворце связи, построенном в 1904–1911 годах. </p>
 

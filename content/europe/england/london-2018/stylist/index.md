@@ -9,6 +9,7 @@ city: "London"
 places: ["london"]
 auto_gallery: false
 hero_card_image: "20180314_122248.jpg"
+attractions: ["london--imperskiy-voennyy-muzey","london--muzey-nauki"]
 ---
 
 <p>Сегодня мальчики ходили по музеям одни - военно-исторический (один из самых наших любимых) и научный. Пришли очень довольные.</p>

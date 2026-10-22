@@ -11,6 +11,7 @@ date: "2025-12-12"
 auto_gallery: false
 draft: false
 source_url: "https://www.facebook.com/media/set/?set=pcb.1337455504847648"
+attractions: ["berlin--berlinskaya-kartinnaya-galereya"]
 ---
 <p>Берлин в солнечную погоду прекрасен 😀</p>
 

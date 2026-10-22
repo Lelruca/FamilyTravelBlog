@@ -6,10 +6,12 @@ weight: 50
 city: "Рим"
 places:
   - galleria-borghese
+  - rome
 hero_image: "20220824_172653.jpg"
 date: "2022-08-24"
 auto_gallery: false
 draft: false
+attractions: ["galleria-borghese"]
 ---
 <p>День 4а<br>В целом каждый день у нас делился на 2 половины - утро и вечер. В обед мы возвращались на сиесту. Невозможно было по жаре ходить!</p>
 

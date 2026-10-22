@@ -11,6 +11,7 @@ date: "2025-12-20"
 auto_gallery: false
 draft: false
 
+attractions: ["vic--episkopskiy-muzey-vika"]
 ---
 <p>В один из дней мы взяли машину напрокат, чтобы с Наташей куда-то прокатиться за город.</p>
 

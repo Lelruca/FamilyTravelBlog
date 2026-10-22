@@ -10,6 +10,7 @@ places:
 trip_days: [7]
 draft_plan: false
 hero_image: "20190820_191731.jpg"
+attractions: ["strasbourg--malenkaya-frantsiya","strasbourg--strasburgskiy-sobor"]
 ---
 
 <h2>Страсбург - часть 1</h2>

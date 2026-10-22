@@ -13,6 +13,7 @@ date: "2025-12-11"
 auto_gallery: false
 draft: false
 source_url: "https://www.facebook.com/media/set/?set=pcb.1336689648257567"
+attractions: ["moritzburg-castle","dresden--voenno-istoricheskiy-muzey-bundesvera","meissen--meysenskaya-farforovaya-manufaktura"]
 ---
 <p>Сегодняшний день мы начали с другого типа музея — музея военной истории.</p>
 

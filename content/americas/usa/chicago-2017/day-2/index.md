@@ -9,6 +9,7 @@ city: "Chicago"
 places: ["chicago"]
 auto_gallery: false
 hero_image: "20171008_105029.jpg"
+attractions: ["chicago--smotrovaya-ploshchadka-360-chicago","chicago--tsentralnyy-vokzal-chikago"]
 ---
 
 <p>В воскресенье день в Чикаго был особенный. Проходил ежегодный марофон - очень большое событие для города! Мы смогли в этом убедиться. Весь город был перекрыт практически весь день и "бежали все" :-) А потом весь вечер ходили с медалями и праздновали!</p>

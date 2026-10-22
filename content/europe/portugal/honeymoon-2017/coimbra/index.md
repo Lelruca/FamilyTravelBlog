@@ -9,6 +9,7 @@ auto_gallery: false
 places:
   - coimbra
 hero_image: "IMG_0512.JPG"
+attractions: ["coimbra--monastyr-svyatogo-kresta","coimbra--staryy-sobor-koimbry","coimbra--novyy-sobor-koimbry","coimbra--koimbrskiy-universitet-i-biblioteka-zhuanina","coimbra--park-portugaliya-v-miniatyure"]
 ---
 
 <p>В Португалии говорят - Лиссабон отдыхает, Порто работает, Фатима молится, а Коимбра учиться. В Коимбре расположен один из первых университетов Европы, основанный в 13 веке. Португалия была пятой страной с университетом. Поэтому он является главной достопримечательностью города. Но находится он на самом верху, поэтому по дороге смотрим город и другие достопримечательности.</p>

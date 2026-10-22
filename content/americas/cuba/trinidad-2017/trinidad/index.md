@@ -6,9 +6,12 @@ weight: 3
 chapter_kind: "Заметка"
 layout: "photo-story"
 city: "Trinidad"
-places: ["trinidad-cuba"]
+places:
+  - trinidad-cuba
+  - ciego-de-avila
 auto_gallery: false
 hero_card_image: "20171224_114829.jpg"
+attractions: ["trinidad-cuba--muzey-gorodskoy-istorii-trinidada"]
 ---
 
 <p>И вот мы в Тринидаде. Он основан в 1514 году конкистадором Диего Веласкесом. Город-музей - дома и церкви, построенные на рубеже XVIII и XIX веков.</p>

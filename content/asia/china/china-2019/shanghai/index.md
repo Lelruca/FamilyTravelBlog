@@ -9,6 +9,7 @@ source_url: "https://olgau.livejournal.com/262888.html"
 places:
   - "shanghai"
 hero_image: "20190316_140255.jpg"
+attractions: ["shanghai--telebashnya-vostochnaya-zhemchuzhina","shanghai--muzey-istorii-shankhaya","shanghai--khram-tszinan","shanghai--sad-radosti-yuyyuan"]
 ---
 
 <p>Знакомство с Шанхаем мы начали с вокзальных туалетов и сразу поняли, что попали обратно в цивилизацию. И туалеты  западного типа и даже бумага в каждой кабинке (обычно одна на весь туалет при входе и 80% пустая).</p>

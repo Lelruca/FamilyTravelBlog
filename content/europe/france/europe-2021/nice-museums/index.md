@@ -13,6 +13,7 @@ hero_image: "20210731_183144.jpg"
 date: "2021-07-31"
 auto_gallery: false
 draft: false
+attractions: ["musee-matisse-nice","musee-chagall-nice","promenade-des-anglais"]
 ---
 {{< row "20210731_125946.jpg 20210731_130526.jpg 20210731_130647.jpg 20210731_130732.jpg" >}}
 

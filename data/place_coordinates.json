@@ -4118,5 +4118,126 @@
     "country_code": "ES",
     "source": "https://www.openstreetmap.org/relation/346734",
     "query": "Malgrat de Mar"
+  },
+  "verona": {
+    "lat": 45.4384958,
+    "lon": 10.9924122,
+    "name": "Verona",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/44830",
+    "query": "Verona Italy"
+  },
+  "padua": {
+    "lat": 45.4077172,
+    "lon": 11.8734455,
+    "name": "Padova",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/node/406747508",
+    "query": "Padova Italy"
+  },
+  "venice": {
+    "lat": 45.4371908,
+    "lon": 12.3345898,
+    "name": "Venezia",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/44741",
+    "query": "Venezia Italy"
+  },
+  "windsor-ontario": {
+    "lat": 42.3167397,
+    "lon": -83.0373389,
+    "name": "Windsor",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/253421090",
+    "query": "Windsor, Southwestern Ontario, Ontario, N9A 3A8, Canada"
+  },
+  "edmundston": {
+    "lat": 47.3637203,
+    "lon": -68.3288825,
+    "name": "Edmundston",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/19667999",
+    "query": "Edmundston, Paroisse de Madawaska, Ville d'Edmundston, Comté de Madawaska, New Brunswick / Nouveau-Brunswick, Canada"
+  },
+  "sainte-anne-des-monts": {
+    "lat": 49.1263278,
+    "lon": -66.4849502,
+    "name": "Sainte-Anne-des-Monts",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/8240889",
+    "query": "Sainte-Anne-des-Monts, La Haute-Gaspésie, Gaspésie–Îles-de-la-Madeleine, Québec, Canada"
+  },
+  "sainte-flavie": {
+    "lat": 48.610347,
+    "lon": -68.2304479,
+    "name": "Sainte-Flavie",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/8232992",
+    "query": "Sainte-Flavie, La Mitis, Bas-Saint-Laurent, Québec, G0J 2L0, Canada"
+  },
+  "sainte-anne-de-beaupre": {
+    "lat": 47.0260796,
+    "lon": -70.9253362,
+    "name": "Sainte-Anne-de-Beaupré",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/7717051",
+    "query": "Sainte-Anne-de-Beaupré, La Côte-de-Beaupré, Capitale-Nationale, Québec, Canada"
+  },
+  "sainte-anne-de-kent": {
+    "lat": 46.5517645,
+    "lon": -64.774069,
+    "name": "Sainte-Anne-de-Kent",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/node/1659915956",
+    "query": "Sainte-Anne-de-Kent, Ville de Grand-Bouctouche, Comté de Kent, New Brunswick / Nouveau-Brunswick, Canada"
+  },
+  "medina-del-campo": {
+    "lat": 41.3085496,
+    "lon": -4.9150256,
+    "name": "Medina del Campo",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/341507",
+    "query": "Medina del Campo, Valladolid, Castilla y León, 47400, España"
+  },
+  "algarve": {
+    "lat": 37.2449218,
+    "lon": -8.1959563,
+    "name": "Algarve",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/node/13117154009",
+    "query": "Algarve, Loulé, Faro, Portugal",
+    "note": "Representative point of the Algarve region; photo-only chapter does not identify a more precise resort."
+  },
+  "bathurst": {
+    "lat": 47.6208671,
+    "lon": -65.6537546,
+    "name": "Bathurst",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/19927184",
+    "query": "Bathurst, Paroisse de Bathurst, Ville de Bathurst, Comté de Gloucester, New Brunswick / Nouveau-Brunswick, Canada"
+  },
+  "charlottetown": {
+    "lat": 46.2354187,
+    "lon": -63.1265388,
+    "name": "Charlottetown",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/12033603",
+    "query": "Charlottetown, Queens County, Prince Edward Island, Canada"
+  },
+  "summerside": {
+    "lat": 46.394259,
+    "lon": -63.7892386,
+    "name": "Summerside",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/12139898",
+    "query": "Summerside, City of Summerside, Prince County, Prince Edward Island, Canada"
+  },
+  "ciego-de-avila": {
+    "lat": 21.8420472,
+    "lon": -78.7599682,
+    "name": "Ciego de Ávila",
+    "country_code": "CU",
+    "source": "https://www.openstreetmap.org/relation/5887667",
+    "query": "Ciego de Ávila, Cuba"
   }
 }

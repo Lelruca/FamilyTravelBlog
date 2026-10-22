@@ -11,6 +11,7 @@ places:
 trip_days: [19, 20]
 draft_plan: false
 hero_image: "20190901_103810.jpg"
+attractions: ["meaux--muzey-pervoy-mirovoy-voyny","versailles--sady-versalya"]
 ---
 
 <p>Решили мы сегодня Митьку порадовать. И после всех церквей нашли ему Музей Первой мировой войны который был открыт в ноябре 2011 года в Meaux (50 км от Парижa)!</p>

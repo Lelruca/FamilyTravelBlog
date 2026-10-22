@@ -11,6 +11,7 @@ places:
 trip_days: [15]
 draft_plan: false
 hero_image: "20190828_133144.jpg"
+attractions: ["wurzburg--vyurtsburgskaya-rezidentsiya"]
 ---
 
 <p>Мы сегодня исследовали город Вюрцбург. Хотя он сейчас тоже относится к Баварии, но ничего баварского здесь нет. Они себя идентифицируют как франконцы :)</p>

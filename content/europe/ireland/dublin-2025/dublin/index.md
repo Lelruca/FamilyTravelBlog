@@ -10,6 +10,7 @@ hero_image: "facebook_1170921078167759.jpg"
 date: "2025-05-15"
 auto_gallery: false
 draft: false
+attractions: ["dublin--triniti-kolledzh","dublin--staraya-biblioteka-triniti-kolledzha-i-kniga-kells","dublin--natsionalnaya-galereya-irlandii","dublin--natsionalnyy-muzey-irlandii-arkheologiya","dublin--sobor-svyatogo-patrika"]
 ---
 <p>Мы летим к Наташке на выпускной в Барселону.</p>
 

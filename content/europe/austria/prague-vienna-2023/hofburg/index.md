@@ -6,10 +6,12 @@ weight: 60
 city: "Wien"
 places:
   - hofburg
+  - vienna
 hero_image: "20230526_091142.jpg"
 date: "2023-05-26"
 auto_gallery: false
 draft: false
+attractions: ["hofburg","vienna--muzey-sisi","vienna--imperatorskie-apartamenty","vienna--imperatorskaya-sokrovishchnitsa","vienna--avstriyskaya-natsionalnaya-biblioteka"]
 ---
 <p>Дворец Хофбург - зимняя резиденция императоров и сейчас "дом" для множества отдельных мелких музеев. И вот не ожидала я от австрийцев такой... неорганизованности. В том смысле, что дворец это огромный лабиринт зданий, площадей и арок и где какой музей не особо понятно 🤪 Но мы их всех нашли и побороли, в смысле посетили 😀 И оно того стоило!</p>
 

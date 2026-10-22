@@ -6,10 +6,12 @@ weight: 110
 city: "Флоренция"
 places:
   - florence
+  - medici-chapels
 hero_image: "20220829_153802.jpg"
 date: "2022-08-29"
 auto_gallery: false
 draft: false
+attractions: ["medici-chapels","florence--bazilika-san-lorentso"]
 ---
 <p>День 9 (2)<br>Нашим завершающим аккордом была капела Медичи! Это бомба!</p>
 

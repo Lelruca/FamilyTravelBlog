@@ -6,10 +6,12 @@ weight: 40
 city: "Drumheller"
 places:
   - royal-tyrrell-museum
+  - drumheller
 hero_image: "20180630_154726.jpg"
 date: "2018-06-30"
 auto_gallery: false
 draft: false
+attractions: ["royal-tyrrell-museum"]
 ---
 <p>Royal Tyrrell Museum - очень серьезный палеонтологический музей!  На землях Альберты проживало большое кол-во динозавров. И поскольку на холмах черные пласты угля почти на самом верху, то ниже "слой динозавров", что позволяет ученым находить совершенно уникальные экспонаты!</p>
 

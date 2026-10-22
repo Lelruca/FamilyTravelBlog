@@ -9,6 +9,7 @@ places:
 hero_image: "20160826_121641.jpg"
 date: 2016-08-25
 auto_gallery: false
+attractions: ["seville--sevilskiy-alkasar","seville--sevilskiy-sobor","seville--arena-maestransa-i-muzey-korridy","seville--muzey-tantsa-flamenko"]
 ---
 Программа в Севилье у нас была наверное самая насыщенная!  Там есть что посмотреть! На утро у меня были куплены билеты в Алькасар, т.е. Дворец.  Наша гид, которую мы малек критикуем ;-), подсказала нам как заранее купить билеты и в Алькасар, и в Собор, чтобы не стоять в очередях по жаре, что мы удачно и сделали - http://iberiagranseleccion.ru/entradas_museos
 

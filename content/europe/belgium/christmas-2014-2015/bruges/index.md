@@ -9,6 +9,7 @@ places:
 hero_image: "DSC03517.jpg"
 date: 2015-01-05
 auto_gallery: false
+attractions: ["bruges--beginazh-bryugge"]
 ---
 Брюгге...
 

@@ -8,7 +8,9 @@ day_num: 5
 auto_gallery: false
 places:
   - prince-edward-island
+  - summerside
 hero_image: "IMG_4321.jpg"
+attractions: ["summerside--college-of-piping-i-shou-highland-storm"]
 ---
 
 <p>Лошади – это уже особая «фишка» всех наших путешествий. (Хотя далеко не всегда удачная). Но когда я увидела предложение экскурсии на ферму, где разводят лошадей для бегов, то не смогла устоять и мы ее заказали.</p>
