@@ -1,5 +1,5 @@
 ---
-title: "Afternoon Tea and Tour в Парламенте Онтарио"
+title: "Afternoon Tea and Tour в Парламенте Онтарио (2025)"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 40
@@ -9,7 +9,7 @@ date: "2025-11-28"
 date_source: "Дата поста Facebook; день съёмки неизвестен"
 source_url: "https://www.facebook.com/share/p/1CcAamERLh/"
 auto_gallery: false
-draft: true
+draft: false
 hero_card_image: "fb_33244336275150623.jpg"
 ---
 

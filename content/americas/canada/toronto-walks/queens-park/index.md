@@ -1,5 +1,5 @@
 ---
-title: "Парламент Онтарио"
+title: "Парламент Онтарио (2023)"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 30

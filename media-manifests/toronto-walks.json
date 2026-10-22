@@ -14,7 +14,8 @@
       "post_date": "2022-08-13",
       "text_sha256": "117f6047490bc5b97f0c1569dd1a605c3a891d2ce41204c2057bf0fee1903ebd",
       "photo_count": 18,
-      "original_count": 18
+      "original_count": 18,
+      "display_title": "Улица Янг (2022)"
     },
     {
       "slug": "the-ward",
@@ -24,7 +25,8 @@
       "post_date": "2023-09-15",
       "text_sha256": "b7b90bec691865631e95b6a36918849f1c106dc1c61615b1a5b03df5968a4900",
       "photo_count": 21,
-      "original_count": 15
+      "original_count": 15,
+      "display_title": "Центр города и The Ward (2023)"
     },
     {
       "slug": "queens-park",
@@ -34,18 +36,20 @@
       "post_date": "2023-12-16",
       "text_sha256": "3db009b069ee842c2be3973f28cc8824578711a3768ae3ce73cd2700945e1f6d",
       "photo_count": 12,
-      "original_count": 12
+      "original_count": 12,
+      "display_title": "Парламент Онтарио (2023)"
     },
     {
       "slug": "afternoon-tea-2025",
-      "title": "Afternoon Tea and Tour в Парламенте Онтарио",
+      "title": "Afternoon Tea and Tour в Парламенте Онтарио (2025)",
       "originals_folder": "04 - Afternoon Tea and Tour 2025",
       "post_date": "2025-11-28",
       "photo_count": 5,
       "original_count": 5,
       "kind": "facebook-download",
-      "draft": true,
-      "source_manifest": "media-manifests/toronto-walks-afternoon-tea-2025.json"
+      "draft": false,
+      "source_manifest": "media-manifests/toronto-walks-afternoon-tea-2025.json",
+      "display_title": "Afternoon Tea and Tour в Парламенте Онтарио (2025)"
     }
   ],
   "photos": [

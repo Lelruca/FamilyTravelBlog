@@ -1,5 +1,5 @@
 ---
-title: "Улица Янг"
+title: "Улица Янг (2022)"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 10

@@ -1,5 +1,5 @@
 ---
-title: "Центр города и The Ward"
+title: "Центр города и The Ward (2023)"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 20

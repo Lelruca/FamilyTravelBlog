@@ -1,7 +1,7 @@
 {
   "trip": "toronto-walks",
   "chapter": "afternoon-tea-2025",
-  "title": "Afternoon Tea and Tour в Парламенте Онтарио",
+  "title": "Afternoon Tea and Tour в Парламенте Онтарио (2025)",
   "date": "2025-11",
   "date_source": "Ноябрь2025 указан Ольгой; FB-пост28ноября2025. Дата съёмки неизвестна.",
   "archive_root": "North America/2022-2023 - Экскурсии по Торонто",
@@ -182,7 +182,8 @@
     "verified_at": "2026-10-22T15:59:40.349Z"
   },
   "publication": {
-    "draft": true,
-    "authorized": false
+    "draft": false,
+    "authorized": true,
+    "status": "authorized-awaiting-deploy"
   }
 }
