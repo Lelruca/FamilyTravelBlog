@@ -8,7 +8,7 @@ const visited=data.countries.filter(c=>c.trips.length);root.querySelector('#stat
 const groups=root.querySelector('#groups');
 const regionNames={europe:'Европа',americas:'Северная Америка',south:'Южная Америка',asia:'Азия',africa:'Африка',oceania:'Австралия и Океания'};
 const availableRegions=new Set(visited.map(c=>Object.keys(regionNames).find(k=>regionNames[k]===c.region)));
-const flags={russia:'ru',andorra:'ad',england:'gb',ireland:'ie',belgium:'be',germany:'de',netherlands:'nl',spain:'es',portugal:'pt',france:'fr',switzerland:'ch',canada:'ca',mexico:'mx',cuba:'cu','trinidad-tobago':'tt',usa:'us',japan:'jp',china:'cn',iceland:'is',italy:'it',vatican:'va',austria:'at',czechia:'cz',argentina:'ar',chile:'cl',brazil:'br'};
+const flags={russia:'ru',andorra:'ad',england:'gb',ireland:'ie',belgium:'be',germany:'de',netherlands:'nl',spain:'es',portugal:'pt',france:'fr',switzerland:'ch',canada:'ca',mexico:'mx',cuba:'cu','trinidad-tobago':'tt',usa:'us',japan:'jp',china:'cn',iceland:'is',luxembourg:'lu',italy:'it',vatican:'va',austria:'at',czechia:'cz',argentina:'ar',chile:'cl',brazil:'br'};
 function renderCountries(region){
   groups.replaceChildren();
   root.querySelector('.directory-top h2').textContent=regionNames[region]||'Все страны';
