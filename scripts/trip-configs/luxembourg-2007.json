@@ -1,0 +1,46 @@
+{
+  "title": "Люксембург с бабушкой",
+  "archive_root": "Europe/2007 - Люксембург с бабушкой",
+  "source": "G:/My Drive/Family Travel Blog Photos/Отчеты/Германия у бабушки (разные годы).docx",
+  "photo_folder": "D:/OneDrive/Photo/2007/2007 Европа/Бабушка День рождения",
+  "contentDir": "content/europe/luxembourg/luxembourg-2007",
+  "date": "2007-11-06",
+  "short_trip": "europe",
+  "continent": "Европа",
+  "country": "Люксембург",
+  "geo_country": "luxembourg",
+  "strict_photo_cap": true,
+  "source_heading_indices": [],
+  "cover_image": "story/IMG_4103.JPG",
+  "cover_selection": "Owner selected IMG_4103.JPG, the building with a tower, 21 October 2026.",
+  "paragraph_split_authorization": "Owner requested a separate short Luxembourg trip from the discussed 2007 report; selected complete sentences copied verbatim, remaining source retained in archived DOCX.",
+  "source_excerpts": {
+    "14": {
+      "start": "Еще гуляли, много ездили на машине везде",
+      "end": "Вытащили ее."
+    }
+  },
+  "chapters": [
+    {
+      "slug": "story",
+      "title": "Люксембург с бабушкой",
+      "city": "Luxembourg",
+      "places": [
+        "luxembourg-city"
+      ],
+      "folder": "01 - Люксембург",
+      "paragraphs": [
+        14
+      ],
+      "layout": {
+        "14": [
+          [
+            "IMG_4103.JPG",
+            "IMG_4104.JPG",
+            "IMG_4105.JPG"
+          ]
+        ]
+      }
+    }
+  ]
+}

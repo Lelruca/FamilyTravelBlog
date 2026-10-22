@@ -3790,5 +3790,21 @@
     "country_code": "NL",
     "source": "https://www.openstreetmap.org/relation/1419670",
     "query": "Ottersum"
+  },
+  "cambridge": {
+    "lat": 52.20805555555556,
+    "lon": 0.1225,
+    "name": "Cambridge",
+    "country_code": "GB",
+    "source": "https://www.wikidata.org/wiki/Q350",
+    "query": "Cambridge, Cambridgeshire, England — 52°12′29″N, 0°7′21″E; city, not Cambridge in Massachusetts"
+  },
+  "luxembourg-city": {
+    "lat": 49.61138888888889,
+    "lon": 6.13,
+    "name": "Luxembourg",
+    "country_code": "LU",
+    "source": "https://www.wikidata.org/wiki/Q1842",
+    "query": "Luxembourg City, Luxembourg; 49°36′41″N, 6°7′48″E"
   }
 }

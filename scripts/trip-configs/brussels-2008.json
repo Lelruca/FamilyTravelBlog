@@ -1,0 +1,145 @@
+{
+  "slug": "brussels-2008",
+  "title": "Брюссель",
+  "archive_root": "Europe/2008 - Брюссель",
+  "contentDir": "content/europe/belgium/brussels-2008",
+  "date": "2008-11-25",
+  "country": "Бельгия",
+  "geo_country": "belgium",
+  "cover_image": "story/PB250105.JPG",
+  "chapters": [
+    {
+      "slug": "story",
+      "title": "Брюссель",
+      "city": "Bruxelles",
+      "places": [
+        "brussels"
+      ],
+      "folder": "01 - Брюссель",
+      "paragraphs": [
+        31
+      ],
+      "layout": {
+        "31": [
+          [
+            "PB250097-upright.JPG",
+            "PB250098-upright.JPG",
+            "PB250099-upright.JPG"
+          ],
+          [
+            "PB250100-upright.JPG",
+            "PB250101.JPG",
+            "PB250102.JPG",
+            "PB250104-upright.JPG"
+          ],
+          [
+            "PB250105.JPG",
+            "PB250106-upright.JPG",
+            "PB250107-upright.JPG",
+            "PB250108.JPG"
+          ],
+          [
+            "PB250109.JPG",
+            "PB250110.JPG",
+            "PB250111-upright.JPG"
+          ]
+        ]
+      },
+      "photo_blocks": {},
+      "segments": {
+        "31": [
+          {
+            "text": "Вернувшись вечером в Кельн мы сразу взяли в аэропорту машину и началась новая, более мобильная часть нашего отпуска в Германии. Еще в Канаде мы планировали доехать в этом году до Берлина, но после Лондона мы поняли что мы переполнены впечатлениями и Берлин только смешает все в нашей голове. Поэтому мы чуть снизили темпы, ограничились поездками по окресностям. ",
+            "photo_blocks": []
+          },
+          {
+            "text": "Из больших интересных поездок съездили с Серегой в Брюссель (это как и Амстердам всего 2 часа на машине от бабушки!). Я была уже там с экскурсией с Наташей, Серега был первый раз. Но нам обоим очень понравился этот город. Какой-то он... правильной пропорции. ",
+            "photo_blocks": [
+              {
+                "kind": "row",
+                "names": [
+                  "PB250097-upright.JPG",
+                  "PB250098-upright.JPG",
+                  "PB250099-upright.JPG"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Очень красивый, ухоженный и довольно большой старинный центр и совершенно новая современная часть города, которая выстроенна очень современно и при этом очень гармонично сочетаемо со старой частью. ",
+            "photo_blocks": [
+              {
+                "kind": "mosaic",
+                "names": [
+                  "PB250100-upright.JPG",
+                  "PB250101.JPG",
+                  "PB250102.JPG",
+                  "PB250104-upright.JPG"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Сейчас все службы Евросоюза занимают чуть ли не пол города, на машине сложно там ездить, но очень интересно! ",
+            "photo_blocks": []
+          },
+          {
+            "text": "Мы уже в городе брали экскурсию на автобусе, а потом просто много ходили ногами по центру и уже по тому как нас ребята в Лондоне научили, сели потом обедать в ресторанчике на центральной площади :-) ",
+            "photo_blocks": [
+              {
+                "kind": "mosaic",
+                "names": [
+                  "PB250105.JPG",
+                  "PB250106-upright.JPG",
+                  "PB250107-upright.JPG",
+                  "PB250108.JPG"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Очень приятная поездка тоже получилась, познавательная.",
+            "photo_blocks": [
+              {
+                "kind": "row",
+                "names": [
+                  "PB250109.JPG",
+                  "PB250110.JPG",
+                  "PB250111-upright.JPG"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "source": "G:/My Drive/Family Travel Blog Photos/Отчеты/Германия у бабушки (разные годы).docx",
+  "photo_folder": "D:/OneDrive/Photo/2008/2008 Осень/London_UK",
+  "short_trip": "europe",
+  "continent": "Европа",
+  "strict_photo_cap": true,
+  "source_heading_indices": [],
+  "cover_selection": "Owner selected PB250105.JPG on 21 October 2026.",
+  "photo_sources": {
+    "PB250097-upright.JPG": "D:\\OneDrive\\Photo\\2008\\2008 Осень\\London_UK\\PB250097.JPG",
+    "PB250098-upright.JPG": "D:\\OneDrive\\Photo\\2008\\2008 Осень\\London_UK\\PB250098.JPG",
+    "PB250099-upright.JPG": "D:\\OneDrive\\Photo\\2008\\2008 Осень\\London_UK\\PB250099.JPG",
+    "PB250100-upright.JPG": "D:\\OneDrive\\Photo\\2008\\2008 Осень\\London_UK\\PB250100.JPG",
+    "PB250104-upright.JPG": "D:\\OneDrive\\Photo\\2008\\2008 Осень\\London_UK\\PB250104.JPG",
+    "PB250106-upright.JPG": "D:\\OneDrive\\Photo\\2008\\2008 Осень\\London_UK\\PB250106.JPG",
+    "PB250107-upright.JPG": "D:\\OneDrive\\Photo\\2008\\2008 Осень\\London_UK\\PB250107.JPG",
+    "PB250111-upright.JPG": "D:\\OneDrive\\Photo\\2008\\2008 Осень\\London_UK\\PB250111.JPG"
+  },
+  "rotations": {
+    "PB250097-upright.JPG": -90,
+    "PB250098-upright.JPG": -90,
+    "PB250099-upright.JPG": -90,
+    "PB250100-upright.JPG": -90,
+    "PB250104-upright.JPG": 90,
+    "PB250106-upright.JPG": 90,
+    "PB250107-upright.JPG": 90,
+    "PB250111-upright.JPG": -90
+  },
+  "paragraph_split_authorization": "Owner on 21 October 2026: reread both notes, distribute photos by meaning, split paragraphs if needed. Exact contiguous slices; no character changes."
+}

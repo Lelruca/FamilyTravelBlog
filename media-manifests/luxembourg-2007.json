@@ -1,0 +1,234 @@
+{
+  "trip": "luxembourg-2007",
+  "title": "Люксембург с бабушкой",
+  "contentDir": "content/europe/luxembourg/luxembourg-2007",
+  "archive_root": "Europe/2007 - Люксембург с бабушкой",
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Германия у бабушки (разные годы).docx",
+    "archive_name": "Источники/Германия у бабушки (разные годы).docx",
+    "sha256": "243621557acf4008e1c3f1318bfc24d2a51e61bf82ed89b6a3e03370a87dcbae",
+    "paragraph_indices": [
+      14
+    ],
+    "all_source_paragraphs": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Еще гуляли, много ездили на машине везде (очень удачную машину нам дали на прокат, довольно высокую и бабушка в ней могла ездить помногу). Даже все вместе ездили на машине в Люксембург!!! Вытащили ее.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "excerpts": {
+      "14": {
+        "start": "Еще гуляли, много ездили на машине везде",
+        "end": "Вытащили ее."
+      }
+    },
+    "drive_id": "1wf1ZBWHMSqvY4KmnOkhQU1BONlUuZQD-"
+  },
+  "author_paragraphs": [
+    "Еще гуляли, много ездили на машине везде (очень удачную машину нам дали на прокат, довольно высокую и бабушка в ней могла ездить помногу). Даже все вместе ездили на машине в Люксембург!!! Вытащили ее."
+  ],
+  "rendered_paragraphs": [
+    "Еще гуляли, много ездили на машине везде (очень удачную машину нам дали на прокат, довольно высокую и бабушка в ней могла ездить помногу). Даже все вместе ездили на машине в Люксембург!!! Вытащили ее."
+  ],
+  "chapters": [
+    {
+      "slug": "story",
+      "title": "Люксембург с бабушкой",
+      "city": "Luxembourg",
+      "places": [
+        "luxembourg-city"
+      ],
+      "folder": "01 - Люксембург",
+      "paragraphs": [
+        14
+      ],
+      "layout": {
+        "14": [
+          [
+            "IMG_4103.JPG",
+            "IMG_4104.JPG",
+            "IMG_4105.JPG"
+          ]
+        ]
+      }
+    }
+  ],
+  "photos": [
+    {
+      "source_name": "IMG_4103.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Бабушка День рождения\\IMG_4103.JPG",
+      "archive_name": "01 - Люксембург/01_IMG_4103.JPG",
+      "sha256": "679967511d9e8982104f1abb112a3e702b0115d6e24c82a304edad9bb4045ab9",
+      "bytes": 159335,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:06 07:53:07",
+      "exif_orientation": 1,
+      "chapter": "story",
+      "site_filename": "IMG_4103.JPG",
+      "r2_key": "luxembourg-2007/story/IMG_4103.JPG",
+      "drive_id": "1vKGoNDyB_UUByG-qOMVPNhaWyd9zNyw2"
+    },
+    {
+      "source_name": "IMG_4104.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Бабушка День рождения\\IMG_4104.JPG",
+      "archive_name": "01 - Люксембург/02_IMG_4104.JPG",
+      "sha256": "c6237d90082203f893e51299938d10bcb9da3ffd2476a5ba71008658df4d95de",
+      "bytes": 269573,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:06 07:53:21",
+      "exif_orientation": 1,
+      "chapter": "story",
+      "site_filename": "IMG_4104.JPG",
+      "r2_key": "luxembourg-2007/story/IMG_4104.JPG",
+      "drive_id": "1CeQdSsNgkBtJw7rsEA4CYl6NAKn4tE1y"
+    },
+    {
+      "source_name": "IMG_4105.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Бабушка День рождения\\IMG_4105.JPG",
+      "archive_name": "01 - Люксембург/03_IMG_4105.JPG",
+      "sha256": "9e1ef62a18070031f3bc09225e4a301580fcdc18e9fec6d5698015d82ac7c32d",
+      "bytes": 164031,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2007:11:06 07:55:02",
+      "exif_orientation": 6,
+      "chapter": "story",
+      "site_filename": "IMG_4105.JPG",
+      "r2_key": "luxembourg-2007/story/IMG_4105.JPG",
+      "drive_id": "1mfxBT0ZAe_urjCLSyD5jFS9wy_SunaeE"
+    }
+  ],
+  "reference_labels": [],
+  "drive_sync_verified": true,
+  "storage": {
+    "originals_verified": true,
+    "drive_sync_verified": true,
+    "r2_verified": true,
+    "drive_sync_checked_at": "2026-10-22T03:15:59.957Z"
+  },
+  "publication": {
+    "draft": false,
+    "authorized": true,
+    "authorization": "Owner: «И давай публикой все что мы нашли», 21 October 2026. Scope: London/Cambridge 2008, Brussels 2008, Luxembourg 2007."
+  },
+  "cover_image": "story/IMG_4103.JPG",
+  "cover_selection": "Owner selected IMG_4103.JPG, the building with a tower, 21 October 2026.",
+  "text_policy": "Whole author paragraphs, original spelling and punctuation; LJ image/cut service markup removed and LJ usernames retained.",
+  "paragraph_split_authorization": "Owner requested a separate short Luxembourg trip from the discussed 2007 report; selected complete sentences copied verbatim, remaining source retained in archived DOCX.",
+  "drive_trip_folder_id": "1JXCpnaswA0deisCV776Q0Ez2M5lCqK4D",
+  "r2": {
+    "photos": [
+      {
+        "rotation_degrees": 0,
+        "key": "luxembourg-2007/story/IMG_4103.JPG",
+        "original_archive_name": "01 - Люксембург/01_IMG_4103.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 159335,
+        "sha256": "679967511d9e8982104f1abb112a3e702b0115d6e24c82a304edad9bb4045ab9",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/story/IMG_4103.JPG",
+        "public_verified": true
+      },
+      {
+        "rotation_degrees": 0,
+        "key": "luxembourg-2007/story/IMG_4104.JPG",
+        "original_archive_name": "01 - Люксембург/02_IMG_4104.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 269573,
+        "sha256": "c6237d90082203f893e51299938d10bcb9da3ffd2476a5ba71008658df4d95de",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/story/IMG_4104.JPG",
+        "public_verified": true
+      },
+      {
+        "rotation_degrees": 0,
+        "key": "luxembourg-2007/story/IMG_4105.JPG",
+        "original_archive_name": "01 - Люксембург/03_IMG_4105.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 94945,
+        "sha256": "b43e27f05eac17d60112566e4583838b1437bb340890d2a540e88506150035d7",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/story/IMG_4105.JPG",
+        "public_verified": true
+      }
+    ],
+    "status": "public-bytes-mime-sha256-verified",
+    "verified_at": "2026-10-22T03:17:04.302Z"
+  }
+}
