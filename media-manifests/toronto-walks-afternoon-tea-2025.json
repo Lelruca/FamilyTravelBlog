@@ -1,0 +1,34 @@
+{
+  "trip": "toronto-walks",
+  "chapter": "afternoon-tea-2025",
+  "title": "Afternoon Tea and Tour",
+  "date": "2025-11",
+  "date_source": "Указано Ольгой: ноябрь 2025; день неизвестен",
+  "archive_root": "North America/2022-2023 - Экскурсии по Торонто",
+  "chapter_folder": "04 - Afternoon Tea and Tour 2025",
+  "source": {
+    "archive_name": "04 - Afternoon Tea and Tour 2025/Источники/Текст Ольги.txt",
+    "sha256": "d66bc57d05d3c5704ed945dbf15f6efb43ca6fcb8f36369e001ac0c0f9d735c6",
+    "author_paragraphs": [
+      "Благодаря советам Natalia Dankovtseva приобщаемся к  Рождественским традициям Торонто! ",
+      "Afternoon Tea and Tour в здании правительства Онтарио. Сам Queens Park чудесен в рождественском убранстве, и чайная церемония по соотношению цена/качество идеальна.",
+      "А нам еще актеры в костюмах разыгрывали \"живую историю\"!"
+    ]
+  },
+  "photos": [],
+  "storage": {
+    "originals_verified": false,
+    "drive_sync_verified": false,
+    "r2_verified": false
+  },
+  "status": "draft-awaiting-original-photos",
+  "search": {
+    "missing": "Пять фотографий на скриншоте; оригиналы не найдены",
+    "checked": [
+      "Все пути D:/OneDrive, имена 202511 и 2025-11",
+      "Все четыре сезонные папки Photo/2025: 4029 файлов, ноябрьских имён нет",
+      "Pictures/Camera Roll и Samsung Gallery/DCIM/Camera"
+    ],
+    "question": "Уточнить папку либо дождаться переноса фотографий с телефона"
+  }
+}
