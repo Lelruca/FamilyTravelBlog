@@ -9,6 +9,7 @@
   let sights = []; try { sights = JSON.parse(root.querySelector('#sights-data').textContent) || []; } catch (e) {}
   let map, clusters, mode = 'list';
   const normalize = value => value.toLocaleLowerCase('ru').normalize('NFD').replace(/\p{M}/gu, '').replace(/ё/g, 'е');
+  sights.forEach(s => { s.n = normalize(`${s.t} ${s.s || ''}`); }); // every query word is looked for in the name and type words together
   const visible = () => rows.filter(row => !row.hidden);
   const key = 'placeSearch';
   const remember = () => { try { sessionStorage.setItem(key, JSON.stringify({ q: input.value, c: country.value, m: mode })); } catch (e) {} };
@@ -46,7 +47,7 @@
     const words=normalize(input.value.trim()).split(/\s+/).filter(Boolean);
     rows.forEach(row => { row.hidden = (country.value && row.dataset.country!==country.value) || !words.every(word=>normalize(row.dataset.search).includes(word)); });
     groups.forEach(group=>{group.hidden=![...group.querySelectorAll('[data-place-item]')].some(row=>!row.hidden);});
-    const found = words.length ? sights.filter(s => (!country.value || s.k === country.value) && words.every(w => normalize(s.t).includes(w)))
+    const found = words.length ? sights.filter(s => (!country.value || s.k === country.value) && words.every(w => s.n.includes(w)))
       .sort((a, b) => a.t.localeCompare(b.t, 'ru')) : [];
     sightsList.replaceChildren(...found.map(s => { const a=document.createElement('a');a.className='place-row';a.href=s.u;
       const t=document.createElement('span');t.className='place-title';t.textContent=s.t;const c=document.createElement('span');c.className='place-orig';c.textContent=s.c;a.append(t,c);return a; }));

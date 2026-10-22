@@ -13,8 +13,8 @@
   {{- $slug := path.Base $p.File.Dir -}}
   {{- $geo := index site.Data.place_coordinates $slug -}}
   {{- $names := partial "place-names.html" $p -}}
+  {{- /* only the place's own name: museums inside it are found as sights below */ -}}
   {{- $search := $p.Title -}}
-  {{- range $child, $parent := $groups.part_of }}{{ if eq $parent $slug }}{{ with site.GetPage (printf "/places/%s" $child) }}{{ $search = printf "%s %s" $search .Title }}{{ end }}{{ end }}{{ end -}}
   {{- $entries = $entries | append (dict "page" $p "slug" $slug "country" $country "title" $names.ru "orig" $names.orig "geo" $geo "search" $search) -}}
   {{- range index $groups.twins $slug }}
     {{- $countries = $countries | append .country -}}
@@ -23,13 +23,14 @@
   {{- end }}
 {{- end -}}
 {{- $entries = sort (sort $entries "title") "country" -}}
-{{- /* sights for the search field: title, city, link to the city page on its «Достопримечательности» tab */ -}}
+{{- /* sights for the search field: title, words of its types («музей», «галерея»… from search_terms), city, link to the
+       city page on its «Достопримечательности» tab */ -}}
 {{- $sights := slice -}}
 {{- range $id, $a := site.Data.attractions -}}
   {{- $city := $a.parent -}}{{- with index $groups.part_of $city }}{{ $city = . }}{{ end -}}
   {{- with site.GetPage (printf "/places/%s" $city) -}}
     {{- $n := partial "place-names.html" . -}}
-    {{- $sights = $sights | append (dict "t" (strings.FirstUpper $a.title) "c" $n.ru "k" (partial "place-country.html" .) "u" (printf "%s?tab=sights#a-%s" .RelPermalink $id)) -}}
+    {{- $sights = $sights | append (dict "t" (strings.FirstUpper $a.title) "s" (delimit ($a.search_terms | default slice) " ") "c" $n.ru "k" (partial "place-country.html" .) "u" (printf "%s?tab=sights#a-%s" .RelPermalink $id)) -}}
   {{- end -}}
 {{- end -}}
 <link rel="stylesheet" href="{{ "vendor/leaflet/leaflet.css" | relURL }}">
