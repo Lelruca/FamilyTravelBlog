@@ -30,7 +30,7 @@
   {{- $city := $a.parent -}}{{- with index $groups.part_of $city }}{{ $city = . }}{{ end -}}
   {{- with site.GetPage (printf "/places/%s" $city) -}}
     {{- $n := partial "place-names.html" . -}}
-    {{- $sights = $sights | append (dict "t" (strings.FirstUpper $a.title) "s" (delimit ($a.search_terms | default slice) " ") "c" $n.ru "k" (partial "place-country.html" .) "u" (printf "%s?tab=sights#a-%s" .RelPermalink $id)) -}}
+    {{- $sights = $sights | append (dict "t" (strings.FirstUpper $a.title) "s" (delimit ($a.search_terms | default slice) " ") "c" $n.ru "p" $city "k" (partial "place-country.html" .) "u" (printf "%s?tab=sights#a-%s" .RelPermalink $id)) -}}
   {{- end -}}
 {{- end -}}
 <link rel="stylesheet" href="{{ "vendor/leaflet/leaflet.css" | relURL }}">

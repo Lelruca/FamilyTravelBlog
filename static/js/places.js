@@ -7,7 +7,7 @@
   const status = root.querySelector('#place-map-status'), jump = root.querySelector('#place-jump');
   const sightsBox = root.querySelector('#sights-found'), sightsList = root.querySelector('#sights-list');
   let sights = []; try { sights = JSON.parse(root.querySelector('#sights-data').textContent) || []; } catch (e) {}
-  let map, clusters, mode = 'list', sightsFound = 0;
+  let map, clusters, mode = 'list', sightsFound = [];
   const normalize = value => value.toLocaleLowerCase('ru').normalize('NFD').replace(/\p{M}/gu, '').replace(/ё/g, 'е');
   sights.forEach(s => { s.n = normalize(`${s.t} ${s.s || ''}`); s.cn = normalize(s.c); });
   // a sight is found by its name and type words together; the city may narrow a longer query («музей Флоренция»),
@@ -32,18 +32,24 @@
       map.on('resize', fit);
     }
     clusters.clearLayers();
-    const found = visible(), located = found.filter(row=>row.dataset.lat && row.dataset.lon);
+    // found sights are shown by the point of their city, with their names in its window
+    const byCity = new Map();
+    sightsFound.forEach(s => { if (!byCity.has(s.p)) byCity.set(s.p, []); byCity.get(s.p).push(s); });
+    const found = rows.filter(row => !row.hidden || (byCity.has(row.dataset.slug) && (!country.value || row.dataset.country === country.value)));
+    const located = found.filter(row=>row.dataset.lat && row.dataset.lon);
     located.forEach(row => {
-      const title=row.querySelector('.place-title').textContent;
+      const title=row.querySelector('.place-title').textContent, here=row.hidden ? byCity.get(row.dataset.slug) : null;
       const marker=L.marker([Number(row.dataset.lat),Number(row.dataset.lon)],{title,alt:title,icon:L.divIcon({className:'place-pin',html:'<span></span>',iconSize:[28,28]})});
       const box=document.createElement('div');box.className='place-pop';
       const name=document.createElement('a');name.className='place-pop-name';name.href=row.href;name.textContent=title;
-      const go=document.createElement('a');go.className='place-pop-go';go.href=row.href;go.textContent='К заметкам →';
-      box.append(name,go);marker.bindPopup(box,{closeButton:true,autoPanPadding:[24,24]});
+      box.append(name);
+      if (here) here.slice(0, 6).forEach(s => { const a=document.createElement('a');a.className='place-pop-sight';a.href=s.u;a.textContent=s.t;box.append(a); });
+      if (here && here.length > 6) { const more=document.createElement('span');more.className='place-pop-more';more.textContent=`и ещё ${here.length - 6}`;box.append(more); }
+      const go=document.createElement('a');go.className='place-pop-go';go.href=here ? here[0].u.replace(/#.*/, '') : row.href;go.textContent='К заметкам →';
+      box.append(go);marker.bindPopup(box,{closeButton:true,autoPanPadding:[24,24]});
       clusters.addLayer(marker);
     });
-    status.textContent = (found.length === located.length ? 'Выберите точку на карте.' : `На карте ${located.length} из ${found.length} мест. Остальные — в списке.`)
-      + (sightsFound ? ` Достопримечательности (${sightsFound}) — в «Списке».` : '');
+    status.textContent = found.length === located.length ? 'Выберите точку на карте.' : `На карте ${located.length} из ${found.length} мест. Остальные — в списке.`;
     map.invalidateSize(); if(refit) fit();
   }
 
@@ -56,7 +62,7 @@
       .sort((a, b) => a.t.localeCompare(b.t, 'ru')) : [];
     sightsList.replaceChildren(...found.map(s => { const a=document.createElement('a');a.className='place-row';a.href=s.u;
       const t=document.createElement('span');t.className='place-title';t.textContent=s.t;const c=document.createElement('span');c.className='place-orig';c.textContent=s.c;a.append(t,c);return a; }));
-    sightsBox.hidden = !found.length; sightsFound = found.length;
+    sightsBox.hidden = !found.length; sightsFound = found;
     const n=visible().length;
     root.querySelector('#place-results').textContent = words.length ? `Найдено мест: ${n}${found.length ? `, достопримечательностей: ${found.length}` : ''}` : `Мест: ${n}`;
     root.querySelector('#places-empty').hidden = n !== 0 || found.length !== 0;
