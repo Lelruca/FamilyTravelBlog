@@ -103,5 +103,10 @@
 
   // coming back from a place page restores the search, the country and the view
   try { const s = JSON.parse(sessionStorage.getItem(key) || '{}'); if (s.q) input.value = s.q; if (s.c) country.value = s.c; if (s.m === 'map') mode = 'map'; } catch (e) {}
-  if (mode === 'map') setMode('map'); else filter();
+  // «Города и достопримечательности →» from «По странам» arrives with ?country=Италия: open that country, no old search
+  const wanted = new URLSearchParams(location.search).get('country');
+  const option = wanted && [...country.options].find(o => o.value === wanted || o.value.startsWith(wanted + ' '));
+  if (option) { country.value = option.value; input.value = ''; if (new URLSearchParams(location.search).get('view') === 'map') mode = 'map'; history.replaceState(null, '', location.pathname); remember(); }
+  // a map opened on arrival learns its real size only after layout; then show the chosen country
+  if (mode === 'map') { setMode('map'); const settle = () => { map?.invalidateSize(); fit(); }; requestAnimationFrame(settle); addEventListener('load', settle); } else filter();
 })();

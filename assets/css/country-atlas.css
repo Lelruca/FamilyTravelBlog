@@ -49,3 +49,56 @@ body:has(#country-explorer) .site-bar summary{color:#1E293B;}
   #country-explorer .visited:hover,#country-explorer .visited:focus,
   #country-explorer .visited.selected{fill:#2A9D8F;}
 }
+
+/* Map and result side by side: the map stays in view, the chosen continent or country shows next to it.
+   Countries are compact rows, trips two per row; one page scroll, no inner scrollbars. */
+#country-explorer .atlas{display:grid;grid-template-columns:minmax(0,55fr) minmax(0,45fr);gap:36px;align-items:start;border:0;border-radius:0;overflow:visible;}
+#country-explorer .maparea{position:sticky;top:76px;border:1px solid #E2E8F0;border-radius:8px;overflow:hidden;}
+#country-explorer .toolbar{flex-wrap:wrap;overflow:visible;padding:14px;gap:6px;}
+#country-explorer .toolbar button{min-height:36px;padding:7px 13px;}
+#country-explorer .directory{margin-top:0;scroll-margin-top:72px;}
+#country-explorer .directory-top{margin-bottom:14px;}
+#country-explorer .directory-top h2{font-size:32px;margin:0;}
+#country-explorer .groups .group{margin:0 0 22px;}
+#country-explorer .group h3{font-size:18px;margin:0 0 10px;}
+#country-explorer .group .rows{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:8px!important;}
+#country-explorer .country{flex-direction:row;align-items:center;justify-content:flex-start;gap:12px;min-height:56px;padding:10px 14px;}
+#country-explorer .country img{width:36px;height:24px;}
+#country-explorer .country-text{gap:0;}
+#country-explorer .country span{font-size:17px;line-height:1.25;}
+#country-explorer .country small{font-size:12px;color:#64748B;}
+#country-explorer .country-nav{display:flex;flex-wrap:wrap;align-items:center;gap:8px 18px;margin:0 0 18px;}
+#country-explorer .back-countries{margin:0;min-height:40px;color:#475569;}
+#country-explorer .to-search{display:inline-flex;align-items:center;min-height:40px;padding:8px 16px;border-radius:20px;background:#2A9D8F;color:#fff;font-size:14px;}
+#country-explorer .to-search:hover{background:#21867A;}
+#country-explorer .to-map{display:none;border:0;background:none;color:#475569;font-size:13px;min-height:40px;padding:0;}
+#country-explorer .trip-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;}
+#country-explorer .trip-grid .trip{min-height:0;}
+#country-explorer .trip-grid .trip img{height:190px;}
+#country-explorer .trip-grid .caption{padding:34px 14px 12px;}
+#country-explorer .trip-grid .trip strong{font-size:19px;}
+@media(max-width:999px){
+  #country-explorer .atlas{grid-template-columns:minmax(0,1fr);gap:24px;}
+  #country-explorer .maparea{position:static;}
+  #country-explorer .toolbar{flex-wrap:nowrap;overflow-x:auto;}
+  #country-explorer .toolbar button{min-height:44px;padding:10px 16px;}
+  #country-explorer .to-map{display:inline-block;margin-left:auto;}
+}
+@media(max-width:640px){
+  #country-explorer .map{aspect-ratio:360/170;}
+  #country-explorer .map:not(.world){aspect-ratio:88/60;}
+  #country-explorer .legend{padding:10px 14px;}
+  #country-explorer .directory-top h2{font-size:28px;}
+  #country-explorer .group .rows{grid-template-columns:repeat(2,minmax(0,1fr))!important;}
+  #country-explorer .country{min-height:52px;padding:8px 10px;gap:10px;}
+  #country-explorer .country img{width:30px;height:20px;}
+  #country-explorer .country span{font-size:16px;}
+  #country-explorer .trip-grid{grid-template-columns:minmax(0,1fr);}
+  #country-explorer .trip-grid .trip img{height:200px;}
+  #country-explorer .country-nav{gap:6px 14px;}
+}
+#country-explorer #atlas-map{scroll-margin-top:72px;}
+#country-explorer .visited.selected,#country-explorer .map .visited.selected{fill:#E76F51;}
+/* the way to cities is a quiet link, the trips stay the main thing */
+#country-explorer .to-search{min-height:40px;padding:0;border-radius:0;background:none;color:#1F7A6F;font-size:14px;text-decoration:underline;text-decoration-color:#A8DAD5;text-underline-offset:4px;}
+#country-explorer .to-search:hover{background:none;color:#155E55;text-decoration-color:currentColor;}
