@@ -25,7 +25,7 @@
       "",
       "",
       "",
-      "Еще гуляли, много ездили на машине везде (очень удачную машину нам дали на прокат, довольно высокую и бабушка в ней могла ездить помногу). Даже все вместе ездили на машине в Люксембург!!! Вытащили ее.",
+      "Мы с Серегой вдвоем(!!!) ездили к бабушке на 2,5 недели. Не помню когда мы так долго были вдвоем без детей. Однако «медового месяца» как нам тут все на работе говорили не было, т.к. мы все-таки ездили к бабушке и все свое время посвящали ей и ее хозяйству. Т.ч. на самом деле отпуск получился очень напряженным и «рабочим», но смена деятельности это тоже отдых как известно. Дел переделали там кучу! Выкинули старые кресла у бабушки, купили ей в IKEA новые, новые матрасы купили там же, старые стулья Серега починил, все окна-двери ей заклеил (а то дуло много лет ужастно), всякие проводки поправил, люстры-лампочки поменяли, на кладбище у деда все привели в порядок и т.п. Просто бабушка много лет не давала ничего делать, т.к. все ей кажется что «сколько еще ей осталось там жить», а тут я просто уже «силовыми методами» выкинула, купила и все. Она и не возмущалась сильно, т.к. уже дошла с этим старьем что спина все время болела: и от лежание на кроватях и от просмотра телевизора т.к. неудобно все. Еще провели ей день рождения, готовили стол, приглашали всех ее друзей-соседей. Вообще я провела очень много времени на кухне, т.к. бабушка все худеет, есть мало, а я старалась готовить вкусненькое, чтобы она еле побольше ;-) А Серега значит по хозяйству. Еще гуляли, много ездили на машине везде (очень удачную машину нам дали на прокат, довольно высокую и бабушка в ней могла ездить помногу). Даже все вместе ездили на машине в Люксембург!!! Вытащили ее. Еще объехали опять же с бабушкой всю родню. Теперь дедовы племянники мелкими «кланами» по разным городам раскиданы, мы всех посетили. Честно говоря я без особого вроде энтузиазма, но бабушка настаивала что надо поддерживать родственные отношения, даже поэтому сама с нами поехала. А принимали нас везде так тепло и хорошо, что мы получили очень большое удовольствие от этих поездок сами. Так вот в делах большая часть времени и прошла. В центр Кельна тоже с бабушкой выбрались. Короче мы ей очень моральный дух подняли. Все-таки она сильно «закисает» когда долго одна :-(",
       "",
       "",
       "",
@@ -90,19 +90,70 @@
       "",
       ""
     ],
-    "excerpts": {
-      "14": {
-        "start": "Еще гуляли, много ездили на машине везде",
-        "end": "Вытащили ее."
+    "drive_id": "1wf1ZBWHMSqvY4KmnOkhQU1BONlUuZQD-",
+    "fragment_usages": [
+      {
+        "chapter": "story",
+        "source_index": 14,
+        "start": 1260,
+        "end": 1461
+      },
+      {
+        "chapter": "grandma",
+        "source_index": 14,
+        "start": 0,
+        "end": 375
+      },
+      {
+        "chapter": "grandma",
+        "source_index": 14,
+        "start": 375,
+        "end": 1004
+      },
+      {
+        "chapter": "grandma",
+        "source_index": 14,
+        "start": 1004,
+        "end": 1084
+      },
+      {
+        "chapter": "grandma",
+        "source_index": 14,
+        "start": 1084,
+        "end": 1260
+      },
+      {
+        "chapter": "grandma",
+        "source_index": 14,
+        "start": 1461,
+        "end": 1595
+      },
+      {
+        "chapter": "grandma",
+        "source_index": 14,
+        "start": 1595,
+        "end": 1849
+      },
+      {
+        "chapter": "grandma",
+        "source_index": 14,
+        "start": 1849,
+        "end": 2032
       }
-    },
-    "drive_id": "1wf1ZBWHMSqvY4KmnOkhQU1BONlUuZQD-"
+    ]
   },
   "author_paragraphs": [
-    "Еще гуляли, много ездили на машине везде (очень удачную машину нам дали на прокат, довольно высокую и бабушка в ней могла ездить помногу). Даже все вместе ездили на машине в Люксембург!!! Вытащили ее."
+    "Мы с Серегой вдвоем(!!!) ездили к бабушке на 2,5 недели. Не помню когда мы так долго были вдвоем без детей. Однако «медового месяца» как нам тут все на работе говорили не было, т.к. мы все-таки ездили к бабушке и все свое время посвящали ей и ее хозяйству. Т.ч. на самом деле отпуск получился очень напряженным и «рабочим», но смена деятельности это тоже отдых как известно. Дел переделали там кучу! Выкинули старые кресла у бабушки, купили ей в IKEA новые, новые матрасы купили там же, старые стулья Серега починил, все окна-двери ей заклеил (а то дуло много лет ужастно), всякие проводки поправил, люстры-лампочки поменяли, на кладбище у деда все привели в порядок и т.п. Просто бабушка много лет не давала ничего делать, т.к. все ей кажется что «сколько еще ей осталось там жить», а тут я просто уже «силовыми методами» выкинула, купила и все. Она и не возмущалась сильно, т.к. уже дошла с этим старьем что спина все время болела: и от лежание на кроватях и от просмотра телевизора т.к. неудобно все. Еще провели ей день рождения, готовили стол, приглашали всех ее друзей-соседей. Вообще я провела очень много времени на кухне, т.к. бабушка все худеет, есть мало, а я старалась готовить вкусненькое, чтобы она еле побольше ;-) А Серега значит по хозяйству. Еще гуляли, много ездили на машине везде (очень удачную машину нам дали на прокат, довольно высокую и бабушка в ней могла ездить помногу). Даже все вместе ездили на машине в Люксембург!!! Вытащили ее. Еще объехали опять же с бабушкой всю родню. Теперь дедовы племянники мелкими «кланами» по разным городам раскиданы, мы всех посетили. Честно говоря я без особого вроде энтузиазма, но бабушка настаивала что надо поддерживать родственные отношения, даже поэтому сама с нами поехала. А принимали нас везде так тепло и хорошо, что мы получили очень большое удовольствие от этих поездок сами. Так вот в делах большая часть времени и прошла. В центр Кельна тоже с бабушкой выбрались. Короче мы ей очень моральный дух подняли. Все-таки она сильно «закисает» когда долго одна :-("
   ],
   "rendered_paragraphs": [
-    "Еще гуляли, много ездили на машине везде (очень удачную машину нам дали на прокат, довольно высокую и бабушка в ней могла ездить помногу). Даже все вместе ездили на машине в Люксембург!!! Вытащили ее."
+    "Еще гуляли, много ездили на машине везде (очень удачную машину нам дали на прокат, довольно высокую и бабушка в ней могла ездить помногу). Даже все вместе ездили на машине в Люксембург!!! Вытащили ее. ",
+    "Мы с Серегой вдвоем(!!!) ездили к бабушке на 2,5 недели. Не помню когда мы так долго были вдвоем без детей. Однако «медового месяца» как нам тут все на работе говорили не было, т.к. мы все-таки ездили к бабушке и все свое время посвящали ей и ее хозяйству. Т.ч. на самом деле отпуск получился очень напряженным и «рабочим», но смена деятельности это тоже отдых как известно. ",
+    "Дел переделали там кучу! Выкинули старые кресла у бабушки, купили ей в IKEA новые, новые матрасы купили там же, старые стулья Серега починил, все окна-двери ей заклеил (а то дуло много лет ужастно), всякие проводки поправил, люстры-лампочки поменяли, на кладбище у деда все привели в порядок и т.п. Просто бабушка много лет не давала ничего делать, т.к. все ей кажется что «сколько еще ей осталось там жить», а тут я просто уже «силовыми методами» выкинула, купила и все. Она и не возмущалась сильно, т.к. уже дошла с этим старьем что спина все время болела: и от лежание на кроватях и от просмотра телевизора т.к. неудобно все. ",
+    "Еще провели ей день рождения, готовили стол, приглашали всех ее друзей-соседей. ",
+    "Вообще я провела очень много времени на кухне, т.к. бабушка все худеет, есть мало, а я старалась готовить вкусненькое, чтобы она еле побольше ;-) А Серега значит по хозяйству. ",
+    "Еще объехали опять же с бабушкой всю родню. Теперь дедовы племянники мелкими «кланами» по разным городам раскиданы, мы всех посетили. ",
+    "Честно говоря я без особого вроде энтузиазма, но бабушка настаивала что надо поддерживать родственные отношения, даже поэтому сама с нами поехала. А принимали нас везде так тепло и хорошо, что мы получили очень большое удовольствие от этих поездок сами. ",
+    "Так вот в делах большая часть времени и прошла. В центр Кельна тоже с бабушкой выбрались. Короче мы ей очень моральный дух подняли. Все-таки она сильно «закисает» когда долго одна :-("
   ],
   "chapters": [
     {
@@ -113,9 +164,6 @@
         "luxembourg-city"
       ],
       "folder": "01 - Люксембург",
-      "paragraphs": [
-        14
-      ],
       "layout": {
         "14": [
           [
@@ -124,7 +172,124 @@
             "IMG_4105.JPG"
           ]
         ]
-      }
+      },
+      "fragments": [
+        {
+          "source_index": 14,
+          "start": 1260,
+          "end": 1461,
+          "text": "Еще гуляли, много ездили на машине везде (очень удачную машину нам дали на прокат, довольно высокую и бабушка в ней могла ездить помногу). Даже все вместе ездили на машине в Люксембург!!! Вытащили ее. ",
+          "photo_blocks": [
+            {
+              "kind": "row",
+              "names": [
+                "IMG_4103.JPG",
+                "IMG_4104.JPG",
+                "IMG_4105.JPG"
+              ]
+            }
+          ]
+        }
+      ],
+      "hero_card_image": "IMG_4103.JPG"
+    },
+    {
+      "slug": "grandma",
+      "title": "У бабушки",
+      "city": "Hürth",
+      "places": [
+        "hurth"
+      ],
+      "folder": "02 - У бабушки",
+      "hero_card_image": "IMG_4109.JPG",
+      "fragments": [
+        {
+          "source_index": 14,
+          "start": 0,
+          "end": 375,
+          "text": "Мы с Серегой вдвоем(!!!) ездили к бабушке на 2,5 недели. Не помню когда мы так долго были вдвоем без детей. Однако «медового месяца» как нам тут все на работе говорили не было, т.к. мы все-таки ездили к бабушке и все свое время посвящали ей и ее хозяйству. Т.ч. на самом деле отпуск получился очень напряженным и «рабочим», но смена деятельности это тоже отдых как известно. "
+        },
+        {
+          "source_index": 14,
+          "start": 375,
+          "end": 1004,
+          "text": "Дел переделали там кучу! Выкинули старые кресла у бабушки, купили ей в IKEA новые, новые матрасы купили там же, старые стулья Серега починил, все окна-двери ей заклеил (а то дуло много лет ужастно), всякие проводки поправил, люстры-лампочки поменяли, на кладбище у деда все привели в порядок и т.п. Просто бабушка много лет не давала ничего делать, т.к. все ей кажется что «сколько еще ей осталось там жить», а тут я просто уже «силовыми методами» выкинула, купила и все. Она и не возмущалась сильно, т.к. уже дошла с этим старьем что спина все время болела: и от лежание на кроватях и от просмотра телевизора т.к. неудобно все. "
+        },
+        {
+          "source_index": 14,
+          "start": 1004,
+          "end": 1084,
+          "text": "Еще провели ей день рождения, готовили стол, приглашали всех ее друзей-соседей. ",
+          "photo_blocks": [
+            {
+              "kind": "row",
+              "names": [
+                "IMG_4106.JPG",
+                "IMG_4107.JPG",
+                "IMG_4108.JPG"
+              ]
+            }
+          ]
+        },
+        {
+          "source_index": 14,
+          "start": 1084,
+          "end": 1260,
+          "text": "Вообще я провела очень много времени на кухне, т.к. бабушка все худеет, есть мало, а я старалась готовить вкусненькое, чтобы она еле побольше ;-) А Серега значит по хозяйству. ",
+          "photo_blocks": [
+            {
+              "kind": "mosaic",
+              "names": [
+                "IMG_4109.JPG",
+                "IMG_4110.JPG",
+                "IMG_4111.JPG",
+                "IMG_4112.JPG",
+                "IMG_4113.JPG",
+                "IMG_4114.JPG"
+              ]
+            }
+          ]
+        },
+        {
+          "source_index": 14,
+          "start": 1461,
+          "end": 1595,
+          "text": "Еще объехали опять же с бабушкой всю родню. Теперь дедовы племянники мелкими «кланами» по разным городам раскиданы, мы всех посетили. ",
+          "photo_blocks": [
+            {
+              "kind": "row",
+              "names": [
+                "IMG_4167.JPG",
+                "IMG_4168.JPG",
+                "IMG_4169.JPG"
+              ]
+            }
+          ]
+        },
+        {
+          "source_index": 14,
+          "start": 1595,
+          "end": 1849,
+          "text": "Честно говоря я без особого вроде энтузиазма, но бабушка настаивала что надо поддерживать родственные отношения, даже поэтому сама с нами поехала. А принимали нас везде так тепло и хорошо, что мы получили очень большое удовольствие от этих поездок сами. ",
+          "photo_blocks": [
+            {
+              "kind": "mosaic",
+              "names": [
+                "IMG_4170.JPG",
+                "IMG_4171.JPG",
+                "IMG_4172.JPG",
+                "IMG_4173.JPG"
+              ]
+            }
+          ]
+        },
+        {
+          "source_index": 14,
+          "start": 1849,
+          "end": 2032,
+          "text": "Так вот в делах большая часть времени и прошла. В центр Кельна тоже с бабушкой выбрались. Короче мы ей очень моральный дух подняли. Все-таки она сильно «закисает» когда долго одна :-("
+        }
+      ]
     }
   ],
   "photos": [
@@ -172,6 +337,246 @@
       "site_filename": "IMG_4105.JPG",
       "r2_key": "luxembourg-2007/story/IMG_4105.JPG",
       "drive_id": "1mfxBT0ZAe_urjCLSyD5jFS9wy_SunaeE"
+    },
+    {
+      "source_name": "IMG_4106.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Бабушка День рождения\\IMG_4106.JPG",
+      "archive_name": "02 - У бабушки/01_IMG_4106.JPG",
+      "sha256": "49471fb5c6a8c9053e31383546328bd8faad29683c598dfea34e6f66086bf2b7",
+      "bytes": 274032,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:07 09:27:55",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4106.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4106.JPG",
+      "drive_id": "1PzU1FNTxssOquyVl9r_1GQV2y8u6gtvu"
+    },
+    {
+      "source_name": "IMG_4107.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Бабушка День рождения\\IMG_4107.JPG",
+      "archive_name": "02 - У бабушки/02_IMG_4107.JPG",
+      "sha256": "ea14ae4083f414f454d714c163dad8876776fc49d8203ec83a25b982ffd6ab81",
+      "bytes": 276434,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:07 09:28:07",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4107.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4107.JPG",
+      "drive_id": "1OYJEOAeKqWdkIRNzvLgCfWG6bSWGm8TZ"
+    },
+    {
+      "source_name": "IMG_4108.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Бабушка День рождения\\IMG_4108.JPG",
+      "archive_name": "02 - У бабушки/03_IMG_4108.JPG",
+      "sha256": "a825ab5514b672351295fce60151717f1d8d9eaa8054b6fa513ba2adf3bd3794",
+      "bytes": 306561,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2007:11:07 09:28:17",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4108.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4108.JPG",
+      "drive_id": "1arNMubmXMKlJ2Nf4U4xpGN_86h2b9NOK"
+    },
+    {
+      "source_name": "IMG_4109.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Бабушка День рождения\\IMG_4109.JPG",
+      "archive_name": "02 - У бабушки/04_IMG_4109.JPG",
+      "sha256": "f9843fbdf893d85c62ffdbd574ac16d20aba386cbf59660f3ad30a9dce714ae2",
+      "bytes": 312864,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:07 10:20:00",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4109.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4109.JPG",
+      "drive_id": "1ai8V3gGZylmaHBnAm3ITF1H-sHIsljKl"
+    },
+    {
+      "source_name": "IMG_4110.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Бабушка День рождения\\IMG_4110.JPG",
+      "archive_name": "02 - У бабушки/05_IMG_4110.JPG",
+      "sha256": "212d5eb25b4e6e90a3a05af73c3baa4de7b8ccc54b7f0c085e7d99d3948bdc44",
+      "bytes": 302776,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:07 12:03:49",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4110.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4110.JPG",
+      "drive_id": "1hP8Mjt6-Rhald7SWXCyR-A1myr92Redg"
+    },
+    {
+      "source_name": "IMG_4111.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Бабушка День рождения\\IMG_4111.JPG",
+      "archive_name": "02 - У бабушки/06_IMG_4111.JPG",
+      "sha256": "070b8b54b33a4e4b95531b8a0a6c7fb7d4addd420f85b1b8bc2c9d312f77ad5b",
+      "bytes": 305852,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:07 12:03:59",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4111.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4111.JPG",
+      "drive_id": "14m9P4GuUjTA1PLsPZjGxrHPfFVjX5VFn"
+    },
+    {
+      "source_name": "IMG_4112.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Бабушка День рождения\\IMG_4112.JPG",
+      "archive_name": "02 - У бабушки/07_IMG_4112.JPG",
+      "sha256": "f3a17288730b4748e0002aecbe3759f9a69424d576c9fcad72d6751483faac1a",
+      "bytes": 274039,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:07 12:05:14",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4112.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4112.JPG",
+      "drive_id": "1bJkHKvL7NUN7M1yw-8G9sGdvDg-NsTib"
+    },
+    {
+      "source_name": "IMG_4113.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Бабушка День рождения\\IMG_4113.JPG",
+      "archive_name": "02 - У бабушки/08_IMG_4113.JPG",
+      "sha256": "8fe6d3448f9e74af24c353cd599b8301cef6bded7bb4459db838535dd981eb03",
+      "bytes": 277795,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:07 12:05:24",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4113.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4113.JPG",
+      "drive_id": "1p_OiQXCRdPL7owruytVngjkv4379nx4d"
+    },
+    {
+      "source_name": "IMG_4114.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Бабушка День рождения\\IMG_4114.JPG",
+      "archive_name": "02 - У бабушки/09_IMG_4114.JPG",
+      "sha256": "237a44f93cbe5f01cb33c2b40d4a9fe782a23fa849b743d80ae45f043b27dd36",
+      "bytes": 326826,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:07 12:16:25",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4114.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4114.JPG",
+      "drive_id": "1mONesEoA1N1FjKbW2EG-N19ell7PXYLQ"
+    },
+    {
+      "source_name": "IMG_4167.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Германия\\IMG_4167.JPG",
+      "archive_name": "02 - У бабушки/10_IMG_4167.JPG",
+      "sha256": "3b3eb0a9abab58c4adcc431eaac7495d88afd7b6e98c6d095d336c4bb9159cf9",
+      "bytes": 235749,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:17 15:27:38",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4167.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4167.JPG",
+      "drive_id": "18WGI4DBYXjh2odi-skk3eYGPRSG_IdeA"
+    },
+    {
+      "source_name": "IMG_4168.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Германия\\IMG_4168.JPG",
+      "archive_name": "02 - У бабушки/11_IMG_4168.JPG",
+      "sha256": "3362f17f1f0d78b020ab44ca14f37a3b8905571125b32e3d5a4afa8a403d6fbe",
+      "bytes": 210948,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:17 15:28:15",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4168.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4168.JPG",
+      "drive_id": "1I52vtfQoLpA-aOgi59cGtqNan3UnxdZC"
+    },
+    {
+      "source_name": "IMG_4169.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Германия\\IMG_4169.JPG",
+      "archive_name": "02 - У бабушки/12_IMG_4169.JPG",
+      "sha256": "a6efab4c44c99c02a88d40e2f3b711a09fcc7e8ed18ac5696ec6f189b786068f",
+      "bytes": 223615,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:17 15:28:54",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4169.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4169.JPG",
+      "drive_id": "1NHyDs5IU1JvWvMrz_7iTdIE3bxqUHshc"
+    },
+    {
+      "source_name": "IMG_4170.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Германия\\IMG_4170.JPG",
+      "archive_name": "02 - У бабушки/13_IMG_4170.JPG",
+      "sha256": "ade214def79003e14cf2f0f1d8fc9d2c205d1f97fe2275e0f467eb6e295e67d2",
+      "bytes": 271311,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:17 15:29:54",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4170.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4170.JPG",
+      "drive_id": "1Gz7VlhebFvPtPC5NTlJaXyaMBUPF4MNe"
+    },
+    {
+      "source_name": "IMG_4171.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Германия\\IMG_4171.JPG",
+      "archive_name": "02 - У бабушки/14_IMG_4171.JPG",
+      "sha256": "75141f4789cb0da5cb718b6768e40ca339225b7f6972336df001a5ec17545313",
+      "bytes": 269101,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:17 15:30:21",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4171.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4171.JPG",
+      "drive_id": "1jGoiSsXrUMkXXFHKfYcBiD2XePtq5Gq5"
+    },
+    {
+      "source_name": "IMG_4172.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Германия\\IMG_4172.JPG",
+      "archive_name": "02 - У бабушки/15_IMG_4172.JPG",
+      "sha256": "e1ae242e0de3d4f1094cfb4511204bcad6f742a7f50013e0f44dccf7c193c78a",
+      "bytes": 256794,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:17 15:31:40",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4172.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4172.JPG",
+      "drive_id": "1JPXXzLlTSI4IwrPtA7nykGE20MRkerMx"
+    },
+    {
+      "source_name": "IMG_4173.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2007\\2007 Европа\\Германия\\IMG_4173.JPG",
+      "archive_name": "02 - У бабушки/16_IMG_4173.JPG",
+      "sha256": "350f42ebc7c25de24125580dcfc3ec245926e042567ab42533c448927f8d559e",
+      "bytes": 276108,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2007:11:17 15:31:47",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_4173.JPG",
+      "r2_key": "luxembourg-2007/grandma/IMG_4173.JPG",
+      "drive_id": "1v0C07vkIVLKPNIy0Z_W1QQS6qjQY5uYu"
     }
   ],
   "reference_labels": [],
@@ -180,7 +585,7 @@
     "originals_verified": true,
     "drive_sync_verified": true,
     "r2_verified": true,
-    "drive_sync_checked_at": "2026-10-22T03:15:59.957Z"
+    "drive_sync_checked_at": "2026-10-22T03:28:56.643Z"
   },
   "publication": {
     "draft": false,
@@ -195,40 +600,198 @@
   "r2": {
     "photos": [
       {
-        "rotation_degrees": 0,
         "key": "luxembourg-2007/story/IMG_4103.JPG",
         "original_archive_name": "01 - Люксембург/01_IMG_4103.JPG",
         "width": 1024,
         "height": 768,
         "bytes": 159335,
         "sha256": "679967511d9e8982104f1abb112a3e702b0115d6e24c82a304edad9bb4045ab9",
-        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/story/IMG_4103.JPG",
-        "public_verified": true
+        "public_verified": true,
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/story/IMG_4103.JPG"
       },
       {
-        "rotation_degrees": 0,
         "key": "luxembourg-2007/story/IMG_4104.JPG",
         "original_archive_name": "01 - Люксембург/02_IMG_4104.JPG",
         "width": 1024,
         "height": 768,
         "bytes": 269573,
         "sha256": "c6237d90082203f893e51299938d10bcb9da3ffd2476a5ba71008658df4d95de",
-        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/story/IMG_4104.JPG",
-        "public_verified": true
+        "public_verified": true,
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/story/IMG_4104.JPG"
       },
       {
-        "rotation_degrees": 0,
         "key": "luxembourg-2007/story/IMG_4105.JPG",
         "original_archive_name": "01 - Люксембург/03_IMG_4105.JPG",
         "width": 768,
         "height": 1024,
         "bytes": 94945,
         "sha256": "b43e27f05eac17d60112566e4583838b1437bb340890d2a540e88506150035d7",
-        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/story/IMG_4105.JPG",
+        "public_verified": true,
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/story/IMG_4105.JPG"
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4106.JPG",
+        "original_archive_name": "02 - У бабушки/01_IMG_4106.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 274032,
+        "sha256": "49471fb5c6a8c9053e31383546328bd8faad29683c598dfea34e6f66086bf2b7",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4106.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4107.JPG",
+        "original_archive_name": "02 - У бабушки/02_IMG_4107.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 276434,
+        "sha256": "ea14ae4083f414f454d714c163dad8876776fc49d8203ec83a25b982ffd6ab81",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4107.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4108.JPG",
+        "original_archive_name": "02 - У бабушки/03_IMG_4108.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 306561,
+        "sha256": "a825ab5514b672351295fce60151717f1d8d9eaa8054b6fa513ba2adf3bd3794",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4108.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4109.JPG",
+        "original_archive_name": "02 - У бабушки/04_IMG_4109.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 312864,
+        "sha256": "f9843fbdf893d85c62ffdbd574ac16d20aba386cbf59660f3ad30a9dce714ae2",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4109.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4110.JPG",
+        "original_archive_name": "02 - У бабушки/05_IMG_4110.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 302776,
+        "sha256": "212d5eb25b4e6e90a3a05af73c3baa4de7b8ccc54b7f0c085e7d99d3948bdc44",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4110.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4111.JPG",
+        "original_archive_name": "02 - У бабушки/06_IMG_4111.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 305852,
+        "sha256": "070b8b54b33a4e4b95531b8a0a6c7fb7d4addd420f85b1b8bc2c9d312f77ad5b",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4111.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4112.JPG",
+        "original_archive_name": "02 - У бабушки/07_IMG_4112.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 274039,
+        "sha256": "f3a17288730b4748e0002aecbe3759f9a69424d576c9fcad72d6751483faac1a",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4112.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4113.JPG",
+        "original_archive_name": "02 - У бабушки/08_IMG_4113.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 277795,
+        "sha256": "8fe6d3448f9e74af24c353cd599b8301cef6bded7bb4459db838535dd981eb03",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4113.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4114.JPG",
+        "original_archive_name": "02 - У бабушки/09_IMG_4114.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 326826,
+        "sha256": "237a44f93cbe5f01cb33c2b40d4a9fe782a23fa849b743d80ae45f043b27dd36",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4114.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4167.JPG",
+        "original_archive_name": "02 - У бабушки/10_IMG_4167.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 235749,
+        "sha256": "3b3eb0a9abab58c4adcc431eaac7495d88afd7b6e98c6d095d336c4bb9159cf9",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4167.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4168.JPG",
+        "original_archive_name": "02 - У бабушки/11_IMG_4168.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 210948,
+        "sha256": "3362f17f1f0d78b020ab44ca14f37a3b8905571125b32e3d5a4afa8a403d6fbe",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4168.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4169.JPG",
+        "original_archive_name": "02 - У бабушки/12_IMG_4169.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 223615,
+        "sha256": "a6efab4c44c99c02a88d40e2f3b711a09fcc7e8ed18ac5696ec6f189b786068f",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4169.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4170.JPG",
+        "original_archive_name": "02 - У бабушки/13_IMG_4170.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 271311,
+        "sha256": "ade214def79003e14cf2f0f1d8fc9d2c205d1f97fe2275e0f467eb6e295e67d2",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4170.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4171.JPG",
+        "original_archive_name": "02 - У бабушки/14_IMG_4171.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 269101,
+        "sha256": "75141f4789cb0da5cb718b6768e40ca339225b7f6972336df001a5ec17545313",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4171.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4172.JPG",
+        "original_archive_name": "02 - У бабушки/15_IMG_4172.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 256794,
+        "sha256": "e1ae242e0de3d4f1094cfb4511204bcad6f742a7f50013e0f44dccf7c193c78a",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4172.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "luxembourg-2007/grandma/IMG_4173.JPG",
+        "original_archive_name": "02 - У бабушки/16_IMG_4173.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 276108,
+        "sha256": "350f42ebc7c25de24125580dcfc3ec245926e042567ab42533c448927f8d559e",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/luxembourg-2007/grandma/IMG_4173.JPG",
         "public_verified": true
       }
     ],
     "status": "public-bytes-mime-sha256-verified",
-    "verified_at": "2026-10-22T03:17:04.302Z"
-  }
+    "verified_at": "2026-10-22T03:29:12.596Z"
+  },
+  "text_authorization": "Owner requested adding the home birthday photos and Germany November 17 as one chapter alongside Luxembourg. Whole original paragraph14 is preserved as exact contiguous source fragments across the two chapters; only paragraph boundaries changed."
 }

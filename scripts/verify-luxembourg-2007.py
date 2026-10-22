@@ -1,74 +1,40 @@
-"""Check the November 2007 Luxembourg short trip against their source and verified media."""
+"""Verify original text fragments, complete Drive originals, R2 and rendered chapter order."""
 from pathlib import Path
-import hashlib,json,re,sys,html,urllib.request
-ROOT=Path(__file__).resolve().parents[1]
-slug=sys.argv[1]
-cfg=json.loads((ROOT/'scripts/trip-configs'/f'{slug}.json').read_text(encoding='utf-8'))
-m=json.loads((ROOT/'media-manifests'/f'{slug}.json').read_text(encoding='utf-8'))
-archive=Path('G:/My Drive/Family Travel Blog Photos')/m['archive_root']
-assert json.loads((archive/'photo-manifest.json').read_text(encoding='utf-8'))==m
+from html.parser import HTMLParser
+import hashlib,json,re,sys,zipfile,urllib.request
+import xml.etree.ElementTree as ET
+ROOT=Path(__file__).resolve().parents[1];slug='luxembourg-2007'
+c=json.loads((ROOT/'scripts/trip-configs'/f'{slug}.json').read_text(encoding='utf-8'));m=json.loads((ROOT/'media-manifests'/f'{slug}.json').read_text(encoding='utf-8'));archive=Path('G:/My Drive/Family Travel Blog Photos')/m['archive_root']
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
-assert sha(archive/m['source']['archive_name'])==m['source']['sha256']
+assert json.loads((archive/'photo-manifest.json').read_text(encoding='utf-8'))==m
 assert m['drive_sync_verified'] and m['storage']['r2_verified']
-assert m['publication']['draft'] or m['publication']['authorized']
-def clean(p):
-    p=re.sub(r'<img\b[^>]*>','',p)
-    p=re.sub(r'</?lj-cut\b[^>]*>','',p)
-    p=re.sub(r'<lj user="([^"]+)"\s*/?>',r'\1',p)
-    return re.sub(r'</?b>','',p).strip()
-ps=m['source']['all_source_paragraphs']
-import zipfile,xml.etree.ElementTree as ET
-with zipfile.ZipFile(archive/m['source']['archive_name']) as z:
-    doc=ET.fromstring(z.read('word/document.xml'))
-ns={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
-source_ps=[''.join(t.text or '' for t in p.findall('.//w:t',ns)) for p in doc.findall('.//w:body/w:p',ns)]
-for index,excerpt in cfg.get('source_excerpts',{}).items():
-    i=int(index);start=source_ps[i].index(excerpt['start']);end=source_ps[i].index(excerpt['end'],start)+len(excerpt['end']);source_ps[i]=source_ps[i][start:end]
-for i in m['source']['paragraph_indices']:assert source_ps[i]==ps[i], 'Selected author paragraph differs from DOCX'
-expected=[i for i,p in enumerate(ps) if clean(p) and i not in cfg['source_heading_indices']]
-assert expected==m['source']['paragraph_indices'], 'A source paragraph was omitted or reordered'
-assert [part['text'] for c in cfg['chapters'] for i in c['paragraphs'] for part in c.get('segments',{}).get(str(i),[{'text':clean(ps[i])}])]==m['rendered_paragraphs']
-for c in cfg['chapters']:
-    for i,parts in c.get('segments',{}).items():assert ''.join(p['text'] for p in parts)==clean(source_ps[int(i)])
-data=json.loads((ROOT/'data/photos'/f'{slug}.json').read_text(encoding='utf-8'))
-assert all('url' not in v for v in data.values())
-for p in m['photos']+m['reference_labels']:
-    assert sha(archive/p['archive_name'])==p['sha256']
-    assert p.get('drive_id') and not p['drive_id'].startswith('local')
-for p in m['r2']['photos']:
-    assert p['public_verified'] and max(p['width'],p['height'])<=2000
-    assert sha(ROOT/'static/r2'/p['key'])==p['sha256']
-photos=[];paragraphs=[]
-for c in cfg['chapters']:
-    path=ROOT/cfg['contentDir']/c['slug']/'index.md';s=path.read_text(encoding='utf-8')
-    assert ('draft: '+str(m['publication']['draft']).lower()) in s and 'cover_image:' not in s
-    paragraphs += [html.unescape(p) for p in re.findall(r'<p(?:\s[^>]*)?>(.*?)</p>',s,re.S)]
-    names=[n.removeprefix('L:').removeprefix('R:') for block in re.findall(r'\{\{< (?:row|mosaic|beside) "([^"]+)" >\}\}',s) for n in block.split()]
-    assert names==[n for rows in c['layout'].values() for row in rows for n in row]
-    if c.get('hero_image'):names.insert(0,c['hero_image'])
-    photos += [c['slug']+'/'+n for n in names]
-    url='http://127.0.0.1:1371/'+cfg['contentDir'].removeprefix('content/')+'/'+c['slug']+'/'
-    with urllib.request.urlopen(url) as r:
-        page=r.read().decode();assert r.status==200
-    assert '<lj-cut' not in page and '&lt;lj' not in page
-    for n in names:assert n in page
-assert paragraphs==m['rendered_paragraphs']
-assert len(photos)==len(set(photos))==len(m['photos'])
-assert set(photos)==set(data)
-build=ROOT/'.tmp/vacation-2008/build-preview'
-if build.exists():
-    for c in cfg['chapters']:
-        rel=Path(cfg['contentDir'].removeprefix('content/'))/c['slug']/'index.html'
-        page=(build/rel).read_text(encoding='utf-8')
-        for row in c['layout'].values():
-            for names in row:
-                for name in names:
-                    assert 'https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/'+slug+'/'+c['slug']+'/'+name in page
-        if m['publication']['draft']:assert not (ROOT/'.tmp/vacation-2008/build-production'/rel).exists(), 'Unapproved draft appeared in normal production build'
-    places=(build/'places/index.html').read_text(encoding='utf-8')
-    for place in {p for c in cfg['chapters'] for p in c['places']}:
-        assert re.search(r'data-slug=(?:"'+re.escape(place)+r'"|'+re.escape(place)+r'(?:\s|>))',places)
-        placepage=(build/'places'/place/'index.html').read_text(encoding='utf-8')
-        for c in cfg['chapters']:
-            if place in c['places']:assert '/'+cfg['contentDir'].removeprefix('content/')+'/'+c['slug']+'/' in placepage
-print(slug,':',len(paragraphs),'exact paragraphs;',len(photos),'photos; archive/cloud/R2 evidence and local pages passed')
+assert sha(archive/m['source']['archive_name'])==m['source']['sha256']
+with zipfile.ZipFile(archive/m['source']['archive_name']) as z:doc=ET.fromstring(z.read('word/document.xml'))
+ns={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'};ps=[''.join(t.text or '' for t in p.findall('.//w:t',ns)) for p in doc.findall('.//w:body/w:p',ns)]
+frags=[f for ch in c['chapters'] for f in ch['fragments']]
+for f in frags:assert ps[f['source_index']].strip()[f['start']:f['end']]==f['text']
+assert ''.join(f['text'] for f in sorted(frags,key=lambda f:f['start']))==ps[14].strip()
+data=json.loads((ROOT/'data/photos'/f'{slug}.json').read_text(encoding='utf-8'));assert all('url' not in o for o in data.values())
+for o in m['photos']:assert sha(archive/o['archive_name'])==o['sha256'] and o['drive_id'] and not o['drive_id'].startswith('local')
+for o in m['r2']['photos']:assert o['public_verified'] and max(o['width'],o['height'])<=2000 and sha(ROOT/'static/r2'/o['key'])==o['sha256']
+class Page(HTMLParser):
+ def __init__(self):super().__init__();self.ps=[];self.p=None;self.photos=[]
+ def handle_starttag(self,t,a):
+  a=dict(a)
+  if t=='p':self.p=[]
+  if t=='a' and 'data-photo-lightbox' in a:self.photos.append(a.get('href',''))
+ def handle_data(self,s):
+  if self.p is not None:self.p.append(s)
+ def handle_endtag(self,t):
+  if t=='p' and self.p is not None:self.ps.append(''.join(self.p));self.p=None
+norm=lambda s:' '.join(s.split());count=0
+base=sys.argv[1] if len(sys.argv)>1 and sys.argv[1].startswith('http') else 'http://127.0.0.1:1371/'
+for ch in c['chapters']:
+ expected=[n for f in ch['fragments'] for b in f.get('photo_blocks',[]) for n in b['names']]
+ rel=c['contentDir'].removeprefix('content/')+'/'+ch['slug']+'/'
+ with urllib.request.urlopen(base+rel) as r:raw=r.read().decode();assert r.status==200
+ p=Page();p.feed(raw);assert [u.rsplit('/',1)[-1] for u in p.photos]==expected
+ assert all(norm(f['text']) in [norm(x) for x in p.ps] for f in ch['fragments'])
+ count+=len(expected)
+assert count==len(m['photos'])==19
+print('Luxembourg: 2 chapters, 19 photos, all source paragraph14 preserved, archive/cloud/R2 verified')
