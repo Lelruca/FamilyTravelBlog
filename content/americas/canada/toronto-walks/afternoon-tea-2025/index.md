@@ -1,5 +1,5 @@
 ---
-title: "Afternoon Tea and Tour"
+title: "Afternoon Tea and Tour в Парламенте Онтарио"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 40
