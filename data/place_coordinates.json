@@ -3774,5 +3774,13 @@
     "country_code": "MX",
     "source": "https://www.openstreetmap.org/way/1030492716",
     "query": "Grand Sirenis Riviera Maya"
+  },
+  "arnhem-war-museum": {
+    "lat": 52.0269152,
+    "lon": 5.8721518,
+    "name": "Arnhems Oorlogsmuseum 40 - 45",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/node/2768974097",
+    "query": "Arnhems Oorlogsmuseum"
   }
 }
