@@ -9,7 +9,7 @@ places:
 hero_image: "facebook_1170921078167759.jpg"
 date: "2025-05-15"
 auto_gallery: false
-draft: true
+draft: false
 ---
 <p>Мы летим к Наташке на выпускной в Барселону.</p>
 

@@ -10,7 +10,7 @@ places:
 hero_image: "facebook_1264103675516165.jpg"
 date: "2025-09-14"
 auto_gallery: false
-draft: true
+draft: false
 ---
 <p>Отдаю себе долги, записки из Барселоны.</p>
 

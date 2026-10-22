@@ -18,5 +18,5 @@ cover_when: "Июль 2025"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/poblet-2025/poblet/facebook_1264103675516165.jpg"
 cover_position: "center 40%"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
-draft: true
+draft: false
 ---
