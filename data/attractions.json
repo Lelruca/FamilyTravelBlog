@@ -9935,5 +9935,55 @@
       "museum",
       "museums"
     ]
+  },
+  "munich--deutsches-museum": {
+    "title": "Немецкий музей науки и техники",
+    "parent": "munich",
+    "types": [
+      "museum",
+      "science_centre"
+    ],
+    "aliases": [
+      "Технический музей Мюнхена",
+      "Deutsches Museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "научный центр",
+      "научные центры",
+      "наука",
+      "science centre",
+      "science center",
+      "Технический музей Мюнхена",
+      "Deutsches Museum"
+    ]
+  },
+  "munich--ns-dokumentationszentrum": {
+    "title": "Центр истории национал-социализма",
+    "parent": "munich",
+    "types": [
+      "museum"
+    ],
+    "aliases": [
+      "Музей национал-социализма",
+      "Музей нацизма",
+      "NS-Dokumentationszentrum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "Музей национал-социализма",
+      "Музей нацизма",
+      "NS-Dokumentationszentrum"
+    ]
   }
 }

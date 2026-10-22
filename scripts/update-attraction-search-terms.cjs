@@ -9,10 +9,10 @@ const types = JSON.parse(fs.readFileSync('data/attraction_types.json', 'utf8'));
 for (const [id, attraction] of Object.entries(attractions)) {
   assert.ok(Array.isArray(attraction.types) && attraction.types.length, `${id}: missing types`);
   assert.equal(new Set(attraction.types).size, attraction.types.length, `${id}: duplicate types`);
-  const terms = [...new Set(attraction.types.flatMap(type => {
+  const terms = [...new Set([...attraction.types.flatMap(type => {
     assert.ok(types[type], `${id}: unknown type ${type}`);
     return types[type].search_terms;
-  }))];
+  }), ...(attraction.aliases || [])])];
   if (process.argv.includes('--check')) {
     assert.deepEqual(attraction.search_terms, terms, `${id}: stale search_terms`);
   } else {

@@ -11,7 +11,7 @@ places:
 trip_days: [14]
 draft_plan: false
 hero_image: "20190827_180018.jpg"
-attractions: ["munich--lenbakhkhaus"]
+attractions: ["munich--lenbakhkhaus","munich--ns-dokumentationszentrum"]
 ---
 
 <p> Сегодня грустный день. Наша команда распалась. А такая удачная получилась! ( А ведь никогда не угадаешь ;)).</p>

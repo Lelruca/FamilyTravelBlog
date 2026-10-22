@@ -6,12 +6,12 @@
     "trips": 72,
     "chapters": 436,
     "chapters_with_attractions": 297,
-    "attractions": 531,
+    "attractions": 533,
     "text_chapters": 414,
     "photo_only_chapters": 22,
     "chapters_changed": 300,
     "chapters_with_geography_changes": 53,
-    "questions": 10
+    "questions": 9
   },
   "external_checks": [
     "https://jardinnbgarden.com/en/contact-us/",
@@ -20,7 +20,9 @@
     "https://tourismnewbrunswick.ca/listing/savonnerie-olivier-soapery",
     "https://www.cycloramadejerusalem.com/en/contact-us/",
     "https://www.palaciorealtestamentario.es/sobre-el-palacio/",
-    "https://collegeofpiping.com/contact/"
+    "https://collegeofpiping.com/contact/",
+    "https://www.nsdoku.de/en/",
+    "https://www.deutsches-museum.de/"
   ],
   "chapters": [
     {
@@ -5735,13 +5737,26 @@
         "munich-residenz"
       ],
       "attractions": [
-        "munich-residenz"
+        "munich-residenz",
+        "munich--deutsches-museum"
       ],
       "body_sha256": "996f7bfa8ad7e956ced6178d96ec96f64f2db88eed939d665fb168a185350ad8",
-      "evidence": [],
+      "evidence": [
+        {
+          "id": "munich--deutsches-museum",
+          "needle": "у них в плане был технический музей"
+        }
+      ],
       "source_kind": "chapter_text",
       "status": "reviewed",
-      "body_sha256_lf": "34a967cd726377719fa4fda220bcc6d72b32bf6c98a41f5daa0770ba6fa90d9e"
+      "body_sha256_lf": "34a967cd726377719fa4fda220bcc6d72b32bf6c98a41f5daa0770ba6fa90d9e",
+      "supporting_evidence": [
+        {
+          "id": "munich--deutsches-museum",
+          "file": "content/europe/france/europe-friends-2019/conclusion/index.md",
+          "needle": "Технический музей:"
+        }
+      ]
     },
     {
       "file": "content/europe/france/europe-friends-2019/munich-rothenburg/index.md",
@@ -5756,7 +5771,8 @@
         "rothenburg"
       ],
       "attractions": [
-        "munich--lenbakhkhaus"
+        "munich--lenbakhkhaus",
+        "munich--ns-dokumentationszentrum"
       ],
       "body_sha256": "f5e930e19a5d09aeb90d1c777b24de0604e545058ff1fd142c75f32e9b3d4d79",
       "evidence": [
@@ -5767,9 +5783,19 @@
       ],
       "excluded": "Музей BMW и Дахау не посещены. Материалы плана не считать посещением.",
       "source_kind": "chapter_text",
-      "status": "reviewed_with_question",
-      "question": "В рассказе назван Ленбаххаус. Музей истории национал-социализма есть в итоговых оценках и плане, но его посещение в теле этой главы явно не описано; нужна сверка фото/источника.",
-      "body_sha256_lf": "51ed3b1b290b193c71193f8e5fd53a66b92ae229f3406b5770ee5b7bc010dedf"
+      "status": "reviewed",
+      "body_sha256_lf": "51ed3b1b290b193c71193f8e5fd53a66b92ae229f3406b5770ee5b7bc010dedf",
+      "supporting_evidence": [
+        {
+          "id": "munich--ns-dokumentationszentrum",
+          "file": "content/europe/france/europe-friends-2019/conclusion/index.md",
+          "needle": "Музей нац социализма:"
+        }
+      ],
+      "owner_confirmation": {
+        "date": "2026-10-22",
+        "note": "Владелец подтвердила посещение музея истории национал-социализма и пояснила, что рассказ о нём ещё предстоит дописать. Метка привязана к мюнхенскому дню с Ленбаххаусом; сам рассказ не дополнен."
+      }
     },
     {
       "file": "content/europe/france/europe-friends-2019/nuremberg/index.md",

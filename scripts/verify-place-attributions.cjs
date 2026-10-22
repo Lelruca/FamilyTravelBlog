@@ -28,6 +28,12 @@ for(const c of audit.chapters){
  for(const id of ids){const d=registry[id];assert.ok(d,id+': unknown attraction');assert.ok(places.includes(d.parent),c.file+': attraction parent not tagged '+d.parent);used.add(id);links++;}
  const text=clean(raw.replace(/<[^>]*>/g,' '));
  for(const e of c.evidence)assert.ok(text.includes(clean(e.needle)),c.file+': evidence no longer present for '+e.id);
+ for(const e of c.supporting_evidence||[]){
+  assert.ok(audit.chapters.some(s=>s.file===e.file),e.file+': supporting source outside the checked chapter inventory');
+  const source=clean(fs.readFileSync(e.file,'utf8').replace(/<[^>]*>/g,' '));
+  assert.ok(source.includes(clean(e.needle)),e.file+': supporting evidence missing for '+e.id);
+  assert.ok(ids.includes(e.id),c.file+': supporting evidence for an unlinked attraction');
+ }
 }
 assert.deepEqual(new Set(Object.keys(registry)),used,'Unused or missing attraction definition');
 for(const [id,d]of Object.entries(registry)){
