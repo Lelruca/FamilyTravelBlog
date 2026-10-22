@@ -7,7 +7,7 @@
   const status = root.querySelector('#place-map-status'), jump = root.querySelector('#place-jump');
   const sightsBox = root.querySelector('#sights-found'), sightsList = root.querySelector('#sights-list');
   let sights = []; try { sights = JSON.parse(root.querySelector('#sights-data').textContent) || []; } catch (e) {}
-  let map, clusters, mode = 'list';
+  let map, clusters, mode = 'list', sightsFound = 0;
   const normalize = value => value.toLocaleLowerCase('ru').normalize('NFD').replace(/\p{M}/gu, '').replace(/ё/g, 'е');
   sights.forEach(s => { s.n = normalize(`${s.t} ${s.s || ''}`); s.cn = normalize(s.c); });
   // a sight is found by its name and type words together; the city may narrow a longer query («музей Флоренция»),
@@ -42,7 +42,8 @@
       box.append(name,go);marker.bindPopup(box,{closeButton:true,autoPanPadding:[24,24]});
       clusters.addLayer(marker);
     });
-    status.textContent = found.length === located.length ? 'Выберите точку на карте.' : `На карте ${located.length} из ${found.length} мест. Остальные — в списке.`;
+    status.textContent = (found.length === located.length ? 'Выберите точку на карте.' : `На карте ${located.length} из ${found.length} мест. Остальные — в списке.`)
+      + (sightsFound ? ` Достопримечательности (${sightsFound}) — в «Списке».` : '');
     map.invalidateSize(); if(refit) fit();
   }
 
@@ -55,7 +56,7 @@
       .sort((a, b) => a.t.localeCompare(b.t, 'ru')) : [];
     sightsList.replaceChildren(...found.map(s => { const a=document.createElement('a');a.className='place-row';a.href=s.u;
       const t=document.createElement('span');t.className='place-title';t.textContent=s.t;const c=document.createElement('span');c.className='place-orig';c.textContent=s.c;a.append(t,c);return a; }));
-    sightsBox.hidden = !found.length;
+    sightsBox.hidden = !found.length; sightsFound = found.length;
     const n=visible().length;
     root.querySelector('#place-results').textContent = words.length ? `Найдено мест: ${n}${found.length ? `, достопримечательностей: ${found.length}` : ''}` : `Мест: ${n}`;
     root.querySelector('#places-empty').hidden = n !== 0 || found.length !== 0;
@@ -65,8 +66,7 @@
   function setMode(m) {
     mode=m;
     root.querySelectorAll('[data-place-mode]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.placeMode===m)));
-    list.hidden=mode!=='list';panel.hidden=mode!=='map';if(mode==='map') renderMap(); else filter();
-    remember();
+    list.hidden=mode!=='list';panel.hidden=mode!=='map';filter(); // the map draws only what the search found
   }
   root.querySelectorAll('[data-place-mode]').forEach(button=>button.addEventListener('click',()=>setMode(button.dataset.placeMode)));
   root.querySelector('#place-map-reset').addEventListener('click',fit);
