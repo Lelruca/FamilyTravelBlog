@@ -132,7 +132,8 @@
           "text": "Но несмотря на то что отпуск такой «деловой» получился, все равно отдохнули хорошо, душевно с бабушкой пообщались и просто забыли о всех своих повседневных проблемах. О работе и даже о детях ;-)",
           "photo_blocks": []
         }
-      ]
+      ],
+      "draft": false
     },
     {
       "slug": "story",
@@ -169,7 +170,8 @@
           ]
         }
       ],
-      "hero_card_image": "IMG_4103.JPG"
+      "hero_card_image": "IMG_4103.JPG",
+      "draft": false
     },
     {
       "slug": "rome",
@@ -181,7 +183,7 @@
       ],
       "folder": "03 - Рим",
       "hero_card_image": "IMG_4145.JPG",
-      "draft": true,
+      "draft": false,
       "date": "2007-11-10",
       "fragments": [
         {
@@ -324,9 +326,9 @@
     ]
   },
   "pending_extension": {
-    "authorized": false,
-    "status": "preview-requested",
-    "owner_request": "Покажи сначала что у тебя получилось?",
-    "description": "Вариант общего рассказа с добавлением Рима; структуру и публикацию владелица ещё не одобрила."
+    "authorized": true,
+    "status": "approved-for-publication",
+    "owner_request": "Публикуй",
+    "description": "Владелица утвердила одну поездку «К бабушке: Люксембург и Рим» и публикацию."
   }
 }

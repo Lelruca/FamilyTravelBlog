@@ -1,6 +1,6 @@
 ---
 title: "Рим"
-draft: true
+draft: false
 date: "2007-11-10"
 weight: 3
 chapter_kind: "Заметка"
