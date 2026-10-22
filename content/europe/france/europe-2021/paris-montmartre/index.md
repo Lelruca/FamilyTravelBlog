@@ -2,7 +2,7 @@
 title: "Париж: от Лувра до Монмартра"
 chapter_kind: "part"
 layout: "photo-story"
-weight: 170
+weight: 160
 city: "paris"
 places:
   - paris
@@ -15,7 +15,7 @@ places:
 hero_image: "20210808_134651.jpg"
 date: "2021-08-08"
 auto_gallery: false
-draft: true
+draft: false
 ---
 {{< row "20210808_124953.jpg 20210808_132044.jpg 20210808_132511.jpg 20210808_132740.jpg" >}}
 

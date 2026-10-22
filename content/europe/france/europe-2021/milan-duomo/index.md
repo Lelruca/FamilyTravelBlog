@@ -11,7 +11,7 @@ places:
 hero_image: "20210803_160205.jpg"
 date: "2021-08-03"
 auto_gallery: false
-draft: true
+draft: false
 ---
 {{< row "20210803_152415.jpg 20210803_152505.jpg 20210803_152738.jpg" >}}
 

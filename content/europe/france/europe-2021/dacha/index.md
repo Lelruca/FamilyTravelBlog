@@ -3,13 +3,13 @@ title: "Дачные дни"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 90
-city: "la-colle-sur-loup"
+city: "nice"
 places:
   - nice
 hero_image: "20210802_115734.jpg"
 date: "2021-07-30"
 auto_gallery: false
-draft: true
+draft: false
 ---
 {{< row "20210730_084141.jpg 20210730_163614.jpg 20210730_195938.jpg" >}}
 

@@ -9,7 +9,7 @@ places:
 hero_image: "20181011_174537.jpg"
 date: "2018-10-11"
 auto_gallery: false
-draft: true
+draft: false
 ---
 {{< row "20181011_145012.jpg 20181011_160206.jpg 20181011_160218.jpg" >}}
 

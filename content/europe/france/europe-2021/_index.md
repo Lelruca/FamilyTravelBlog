@@ -18,5 +18,5 @@ cover_who: "Сережа, Леля, Наташа и Митя"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/europe-2021/nice-museums/20210731_183144.jpg"
 cover_position: "center 50%"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
-draft: true
+draft: false
 ---

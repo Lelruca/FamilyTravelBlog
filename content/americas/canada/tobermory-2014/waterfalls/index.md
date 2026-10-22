@@ -10,7 +10,7 @@ places:
 hero_image: "IMG_4086.jpg"
 date: ""
 auto_gallery: false
-draft: true
+draft: false
 ---
 {{< row "IMG_4062.jpg IMG_4060.jpg IMG_4081.jpg" >}}
 

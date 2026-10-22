@@ -3,13 +3,13 @@
   "title": "2021 — Прованс, Лазурный берег, Милан, Турин и Париж",
   "source": "https://www.facebook.com/profile.php?id=100057496327433",
   "archive_root": "Europe/2021 - Прованс, Милан, Турин и Париж",
-  "created": "2026-10-22T03:05:17.646Z",
+  "created": "2026-10-22T03:41:21.352Z",
   "match_threshold": 0.95,
   "chapters": [
     {
       "slug": "road-south",
       "title": "Очень странное состояние сложилось после всех карантинов к лету 2021. С одной ст",
-      "originals_folder": "01 - Дорога на юг",
+      "originals_folder": "01 - Вырвались из карантина",
       "facebook_set": null,
       "post_date": "2021-07-23",
       "text_sha256": "bbb476d6479819a164f6ed72ff5c3df7f4cbdf8d86d103912c26f3b387caacec",
@@ -126,24 +126,16 @@
     },
     {
       "slug": "turin-squares",
-      "title": "Турин - площади и церкви",
-      "originals_folder": "15 - Турин - площади и церкви",
+      "title": "Турин - площади, церкви и дорога через Альпы",
+      "originals_folder": "15 - Турин - площади, церкви и дорога через Альпы",
       "without_post": true,
-      "photo_count": 35,
-      "original_count": 35
-    },
-    {
-      "slug": "alps",
-      "title": "Через Альпы",
-      "originals_folder": "16 - Через Альпы",
-      "without_post": true,
-      "photo_count": 5,
-      "original_count": 5
+      "photo_count": 40,
+      "original_count": 40
     },
     {
       "slug": "paris-montmartre",
       "title": "Париж - от Лувра до Монмартра",
-      "originals_folder": "17 - Париж - от Лувра до Монмартра",
+      "originals_folder": "16 - Париж - от Лувра до Монмартра",
       "without_post": true,
       "photo_count": 39,
       "original_count": 39
@@ -151,7 +143,7 @@
     {
       "slug": "paris-louvre",
       "title": "Париж - Сент-Шапель и Лувр",
-      "originals_folder": "18 - Париж - Сент-Шапель и Лувр",
+      "originals_folder": "17 - Париж - Сент-Шапель и Лувр",
       "without_post": true,
       "photo_count": 57,
       "original_count": 57
@@ -164,7 +156,7 @@
       "source_position": 1,
       "facebook_id": "330552858711009",
       "caption": "Поехали...",
-      "archive_name": "01 - Дорога на юг/01_20210722_183344.jpg",
+      "archive_name": "01 - Вырвались из карантина/01_20210722_183344.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210722_183344.jpg",
       "match_score": 1,
@@ -178,7 +170,7 @@
       "source_position": 2,
       "facebook_id": "330552898711005",
       "caption": "Смотрим свой взлет",
-      "archive_name": "01 - Дорога на юг/02_20210722_193232.jpg",
+      "archive_name": "01 - Вырвались из карантина/02_20210722_193232.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210722_193232.jpg",
       "match_score": 1,
@@ -192,7 +184,7 @@
       "source_position": 3,
       "facebook_id": "330552935377668",
       "caption": "Набор перед обедом - новая маска и герметичная салфетка",
-      "archive_name": "01 - Дорога на юг/03_20210722_194501.jpg",
+      "archive_name": "01 - Вырвались из карантина/03_20210722_194501.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210722_194501.jpg",
       "match_score": 0.9999,
@@ -206,7 +198,7 @@
       "source_position": 4,
       "facebook_id": "330553205377641",
       "caption": "Airfrance перешёл на экологические приборы - во рту ощущение и вкус... необычные",
-      "archive_name": "01 - Дорога на юг/04_20210722_202721.jpg",
+      "archive_name": "01 - Вырвались из карантина/04_20210722_202721.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210722_202721.jpg",
       "match_score": 0.9999,
@@ -220,7 +212,7 @@
       "source_position": 5,
       "facebook_id": "330553265377635",
       "caption": "Садимся",
-      "archive_name": "01 - Дорога на юг/05_20210723_020027.jpg",
+      "archive_name": "01 - Вырвались из карантина/05_20210723_020027.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210723_020027.jpg",
       "match_score": 1,
@@ -234,7 +226,7 @@
       "source_position": 6,
       "facebook_id": "330553315377630",
       "caption": "1 метр - европейский стандарт",
-      "archive_name": "01 - Дорога на юг/06_20210723_090312.jpg",
+      "archive_name": "01 - Вырвались из карантина/06_20210723_090312.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210723_090312.jpg",
       "match_score": 0.9999,
@@ -248,7 +240,7 @@
       "source_position": 7,
       "facebook_id": "330553362044292",
       "caption": "Друг по очереди - выражает общие эмоции коллектива :)",
-      "archive_name": "01 - Дорога на юг/07_20210723_100710.jpg",
+      "archive_name": "01 - Вырвались из карантина/07_20210723_100710.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210723_100710.jpg",
       "match_score": 1,
@@ -262,7 +254,7 @@
       "source_position": 8,
       "facebook_id": "330554028710892",
       "caption": "Приехали во Францию и получили Jeep",
-      "archive_name": "01 - Дорога на юг/08_20210723_114554.jpg",
+      "archive_name": "01 - Вырвались из карантина/08_20210723_114554.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210723_114554.jpg",
       "match_score": 1,
@@ -276,7 +268,7 @@
       "source_position": 9,
       "facebook_id": "330554072044221",
       "caption": "Едем - мы втроём не можем проснуться, а Серегу видимо бодрит ручник :)",
-      "archive_name": "01 - Дорога на юг/09_20210723_123934.jpg",
+      "archive_name": "01 - Вырвались из карантина/09_20210723_123934.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210723_123934.jpg",
       "match_score": 1,
@@ -4784,7 +4776,7 @@
       "source_position": 1,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/01_20210806_094115.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/01_20210806_094115.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_094115.jpg",
       "match_score": null,
@@ -4798,7 +4790,7 @@
       "source_position": 2,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/02_20210806_094410.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/02_20210806_094410.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_094410.jpg",
       "match_score": null,
@@ -4812,7 +4804,7 @@
       "source_position": 3,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/03_20210806_094510.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/03_20210806_094510.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_094510.jpg",
       "match_score": null,
@@ -4826,7 +4818,7 @@
       "source_position": 4,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/04_20210806_095857.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/04_20210806_095857.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_095857.jpg",
       "match_score": null,
@@ -4840,7 +4832,7 @@
       "source_position": 5,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/05_20210806_100413.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/05_20210806_100413.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_100413.jpg",
       "match_score": null,
@@ -4854,7 +4846,7 @@
       "source_position": 6,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/06_20210806_100729.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/06_20210806_100729.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_100729.jpg",
       "match_score": null,
@@ -4868,7 +4860,7 @@
       "source_position": 7,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/07_20210806_100837.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/07_20210806_100837.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_100837.jpg",
       "match_score": null,
@@ -4882,7 +4874,7 @@
       "source_position": 8,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/08_20210806_102041.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/08_20210806_102041.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_102041.jpg",
       "match_score": null,
@@ -4896,7 +4888,7 @@
       "source_position": 9,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/09_20210806_102319.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/09_20210806_102319.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_102319.jpg",
       "match_score": null,
@@ -4910,7 +4902,7 @@
       "source_position": 10,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/10_20210806_102452.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/10_20210806_102452.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_102452.jpg",
       "match_score": null,
@@ -4924,7 +4916,7 @@
       "source_position": 11,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/11_20210806_103201.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/11_20210806_103201.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_103201.jpg",
       "match_score": null,
@@ -4938,7 +4930,7 @@
       "source_position": 12,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/12_20210806_103549.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/12_20210806_103549.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_103549.jpg",
       "match_score": null,
@@ -4952,7 +4944,7 @@
       "source_position": 13,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/13_20210806_103816.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/13_20210806_103816.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_103816.jpg",
       "match_score": null,
@@ -4966,7 +4958,7 @@
       "source_position": 14,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/14_20210806_103903.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/14_20210806_103903.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_103903.jpg",
       "match_score": null,
@@ -4980,7 +4972,7 @@
       "source_position": 15,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/15_20210806_104127.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/15_20210806_104127.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_104127.jpg",
       "match_score": null,
@@ -4994,7 +4986,7 @@
       "source_position": 16,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/16_20210806_104812.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/16_20210806_104812.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_104812.jpg",
       "match_score": null,
@@ -5008,7 +5000,7 @@
       "source_position": 17,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/17_20210806_112146.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/17_20210806_112146.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_112146.jpg",
       "match_score": null,
@@ -5022,7 +5014,7 @@
       "source_position": 18,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/18_20210806_112336.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/18_20210806_112336.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_112336.jpg",
       "match_score": null,
@@ -5036,7 +5028,7 @@
       "source_position": 19,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/19_20210806_112410.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/19_20210806_112410.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_112410.jpg",
       "match_score": null,
@@ -5050,7 +5042,7 @@
       "source_position": 20,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/20_20210806_114248.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/20_20210806_114248.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_114248.jpg",
       "match_score": null,
@@ -5064,7 +5056,7 @@
       "source_position": 21,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/21_20210806_115028.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/21_20210806_115028.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_115028.jpg",
       "match_score": null,
@@ -5078,7 +5070,7 @@
       "source_position": 22,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/22_20210806_115100.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/22_20210806_115100.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_115100.jpg",
       "match_score": null,
@@ -5092,7 +5084,7 @@
       "source_position": 23,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/23_20210806_115302.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/23_20210806_115302.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_115302.jpg",
       "match_score": null,
@@ -5106,7 +5098,7 @@
       "source_position": 24,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/24_20210806_115452.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/24_20210806_115452.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_115452.jpg",
       "match_score": null,
@@ -5120,7 +5112,7 @@
       "source_position": 25,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/25_20210806_120134.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/25_20210806_120134.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_120134.jpg",
       "match_score": null,
@@ -5134,7 +5126,7 @@
       "source_position": 26,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/26_20210806_120731.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/26_20210806_120731.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_120731.jpg",
       "match_score": null,
@@ -5148,7 +5140,7 @@
       "source_position": 27,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/27_20210806_120922.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/27_20210806_120922.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_120922.jpg",
       "match_score": null,
@@ -5162,7 +5154,7 @@
       "source_position": 28,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/28_20210806_121130.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/28_20210806_121130.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_121130.jpg",
       "match_score": null,
@@ -5176,7 +5168,7 @@
       "source_position": 29,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/29_20210806_122830.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/29_20210806_122830.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_122830.jpg",
       "match_score": null,
@@ -5190,7 +5182,7 @@
       "source_position": 30,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/30_20210806_123437.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/30_20210806_123437.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_123437.jpg",
       "match_score": null,
@@ -5204,7 +5196,7 @@
       "source_position": 31,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/31_20210806_123800.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/31_20210806_123800.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_123800.jpg",
       "match_score": null,
@@ -5218,7 +5210,7 @@
       "source_position": 32,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/32_20210806_164547.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/32_20210806_164547.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_164547.jpg",
       "match_score": null,
@@ -5232,7 +5224,7 @@
       "source_position": 33,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/33_20210806_171325.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/33_20210806_171325.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_171325.jpg",
       "match_score": null,
@@ -5246,7 +5238,7 @@
       "source_position": 34,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/34_20210806_171835.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/34_20210806_171835.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_171835.jpg",
       "match_score": null,
@@ -5260,7 +5252,7 @@
       "source_position": 35,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "15 - Турин - площади и церкви/35_20210806_172025.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/35_20210806_172025.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210806_172025.jpg",
       "match_score": null,
@@ -5269,74 +5261,74 @@
       "drive_id": "14gOqB37ErpgtKfd1rYlB8uf5N7FIF4C-"
     },
     {
-      "chapter": "alps",
-      "position": 1,
-      "source_position": 1,
+      "chapter": "turin-squares",
+      "position": 36,
+      "source_position": 36,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "16 - Через Альпы/01_20210807_105940.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/36_20210807_105940.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210807_105940.jpg",
       "match_score": null,
       "bytes": 7130582,
       "sha256": "ccdf2e9a165c9f5096f44c3349a30bf4dd012980826ab31fdd398d0a7fcb6f14",
-      "drive_id": "1AOUs2zslDoLsrauSnmv6r5DNWKCoHJxV"
+      "drive_id": "1twcaLTLzuZybgQqJKc3QS_ofKt03vlwp"
     },
     {
-      "chapter": "alps",
-      "position": 2,
-      "source_position": 2,
+      "chapter": "turin-squares",
+      "position": 37,
+      "source_position": 37,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "16 - Через Альпы/02_20210807_110410.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/37_20210807_110410.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210807_110410.jpg",
       "match_score": null,
       "bytes": 3296620,
       "sha256": "125fd49ba133bde872f57de0a4899bccaab9143dd5aadce14b1e1dd267c1ccc3",
-      "drive_id": "18hzzOOoYFu2dC9Tiqm_65Ibe7JJsoT2_"
+      "drive_id": "1hf-ac-NsBwRj5XYbzK1deFr_rz-cOp4b"
     },
     {
-      "chapter": "alps",
-      "position": 3,
-      "source_position": 3,
+      "chapter": "turin-squares",
+      "position": 38,
+      "source_position": 38,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "16 - Через Альпы/03_20210807_111000.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/38_20210807_111000.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210807_111000.jpg",
       "match_score": null,
       "bytes": 5207819,
       "sha256": "032e24937959672d15068f27d35e2537bb88c687f1701c3823844cf9850a2b0a",
-      "drive_id": "1lZ_CgwxYNeCFFgMl2ncDPVcktfiVAu9Q"
+      "drive_id": "116OEHdL1joctbggtRppEIO1-5yBOcJZx"
     },
     {
-      "chapter": "alps",
-      "position": 4,
-      "source_position": 4,
+      "chapter": "turin-squares",
+      "position": 39,
+      "source_position": 39,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "16 - Через Альпы/04_20210807_111039.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/39_20210807_111039.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210807_111039.jpg",
       "match_score": null,
       "bytes": 1983312,
       "sha256": "81bcca02410231cb059a85a6c3ae603deee58f7c4cc0fd1672724f5f88a74a56",
-      "drive_id": "16hn7y7PrvDr36qXXbyEXZcAKgwWukP0Y"
+      "drive_id": "1HFAJFfIiZSx7quBfGWULMu1USlkTTlBm"
     },
     {
-      "chapter": "alps",
-      "position": 5,
-      "source_position": 5,
+      "chapter": "turin-squares",
+      "position": 40,
+      "source_position": 40,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "16 - Через Альпы/05_20210807_183824.jpg",
+      "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/40_20210807_183824.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210807_183824.jpg",
       "match_score": null,
       "bytes": 3193286,
       "sha256": "9e4124f35c87e56016ced3cb9a610dc039a029add35ae35069fd63cb425b7ef1",
-      "drive_id": "1vhB_6U_YEYyfIL_G3rgUwP4HzpQslSh1"
+      "drive_id": "1sHlNU5TnB_WCrBNQzVmWdOle3G3xJagZ"
     },
     {
       "chapter": "paris-montmartre",
@@ -5344,7 +5336,7 @@
       "source_position": 1,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/01_20210808_124953.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/01_20210808_124953.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_124953.jpg",
       "match_score": null,
@@ -5358,7 +5350,7 @@
       "source_position": 2,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/02_20210808_132044.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/02_20210808_132044.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_132044.jpg",
       "match_score": null,
@@ -5372,7 +5364,7 @@
       "source_position": 3,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/03_20210808_132511.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/03_20210808_132511.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_132511.jpg",
       "match_score": null,
@@ -5386,7 +5378,7 @@
       "source_position": 4,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/04_20210808_132740.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/04_20210808_132740.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_132740.jpg",
       "match_score": null,
@@ -5400,7 +5392,7 @@
       "source_position": 5,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/05_20210808_133308.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/05_20210808_133308.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_133308.jpg",
       "match_score": null,
@@ -5414,7 +5406,7 @@
       "source_position": 6,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/06_20210808_134004.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/06_20210808_134004.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_134004.jpg",
       "match_score": null,
@@ -5428,7 +5420,7 @@
       "source_position": 7,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/07_20210808_134307.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/07_20210808_134307.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_134307.jpg",
       "match_score": null,
@@ -5442,7 +5434,7 @@
       "source_position": 8,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/08_20210808_134546.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/08_20210808_134546.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_134546.jpg",
       "match_score": null,
@@ -5456,7 +5448,7 @@
       "source_position": 9,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/09_20210808_134616.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/09_20210808_134616.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_134616.jpg",
       "match_score": null,
@@ -5470,7 +5462,7 @@
       "source_position": 10,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/10_20210808_134651.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/10_20210808_134651.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_134651.jpg",
       "match_score": null,
@@ -5484,7 +5476,7 @@
       "source_position": 11,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/11_20210808_134803.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/11_20210808_134803.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_134803.jpg",
       "match_score": null,
@@ -5498,7 +5490,7 @@
       "source_position": 12,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/12_20210808_134928.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/12_20210808_134928.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_134928.jpg",
       "match_score": null,
@@ -5512,7 +5504,7 @@
       "source_position": 13,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/13_20210808_135303.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/13_20210808_135303.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_135303.jpg",
       "match_score": null,
@@ -5526,7 +5518,7 @@
       "source_position": 14,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/14_20210808_135611.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/14_20210808_135611.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_135611.jpg",
       "match_score": null,
@@ -5540,7 +5532,7 @@
       "source_position": 15,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/15_20210808_135910.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/15_20210808_135910.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_135910.jpg",
       "match_score": null,
@@ -5554,7 +5546,7 @@
       "source_position": 16,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/16_20210808_140024.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/16_20210808_140024.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_140024.jpg",
       "match_score": null,
@@ -5568,7 +5560,7 @@
       "source_position": 17,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/17_20210808_140907.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/17_20210808_140907.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_140907.jpg",
       "match_score": null,
@@ -5582,7 +5574,7 @@
       "source_position": 18,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/18_20210808_141452.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/18_20210808_141452.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_141452.jpg",
       "match_score": null,
@@ -5596,7 +5588,7 @@
       "source_position": 19,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/19_20210808_141647.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/19_20210808_141647.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_141647.jpg",
       "match_score": null,
@@ -5610,7 +5602,7 @@
       "source_position": 20,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/20_20210808_143132.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/20_20210808_143132.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_143132.jpg",
       "match_score": null,
@@ -5624,7 +5616,7 @@
       "source_position": 21,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/21_20210808_145345.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/21_20210808_145345.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_145345.jpg",
       "match_score": null,
@@ -5638,7 +5630,7 @@
       "source_position": 22,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/22_20210808_150925.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/22_20210808_150925.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_150925.jpg",
       "match_score": null,
@@ -5652,7 +5644,7 @@
       "source_position": 23,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/23_20210808_153028.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/23_20210808_153028.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_153028.jpg",
       "match_score": null,
@@ -5666,7 +5658,7 @@
       "source_position": 24,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/24_20210808_153730.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/24_20210808_153730.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_153730.jpg",
       "match_score": null,
@@ -5680,7 +5672,7 @@
       "source_position": 25,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/25_20210808_154625.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/25_20210808_154625.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_154625.jpg",
       "match_score": null,
@@ -5694,7 +5686,7 @@
       "source_position": 26,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/26_20210808_155207.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/26_20210808_155207.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_155207.jpg",
       "match_score": null,
@@ -5708,7 +5700,7 @@
       "source_position": 27,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/27_20210808_162346.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/27_20210808_162346.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_162346.jpg",
       "match_score": null,
@@ -5722,7 +5714,7 @@
       "source_position": 28,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/28_20210808_171202.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/28_20210808_171202.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_171202.jpg",
       "match_score": null,
@@ -5736,7 +5728,7 @@
       "source_position": 29,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/29_20210808_172135.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/29_20210808_172135.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_172135.jpg",
       "match_score": null,
@@ -5750,7 +5742,7 @@
       "source_position": 30,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/30_20210808_173422.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/30_20210808_173422.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_173422.jpg",
       "match_score": null,
@@ -5764,7 +5756,7 @@
       "source_position": 31,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/31_20210808_210637.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/31_20210808_210637.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_210637.jpg",
       "match_score": null,
@@ -5778,7 +5770,7 @@
       "source_position": 32,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/32_20210808_211536.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/32_20210808_211536.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_211536.jpg",
       "match_score": null,
@@ -5792,7 +5784,7 @@
       "source_position": 33,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/33_20210808_211709.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/33_20210808_211709.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_211709.jpg",
       "match_score": null,
@@ -5806,7 +5798,7 @@
       "source_position": 34,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/34_20210808_212013.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/34_20210808_212013.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_212013.jpg",
       "match_score": null,
@@ -5820,7 +5812,7 @@
       "source_position": 35,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/35_20210808_212208.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/35_20210808_212208.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_212208.jpg",
       "match_score": null,
@@ -5834,7 +5826,7 @@
       "source_position": 36,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/36_20210808_213707.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/36_20210808_213707.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_213707.jpg",
       "match_score": null,
@@ -5848,7 +5840,7 @@
       "source_position": 37,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/37_20210808_214333.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/37_20210808_214333.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_214333.jpg",
       "match_score": null,
@@ -5862,7 +5854,7 @@
       "source_position": 38,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/38_20210808_223244.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/38_20210808_223244.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_223244.jpg",
       "match_score": null,
@@ -5876,7 +5868,7 @@
       "source_position": 39,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "17 - Париж - от Лувра до Монмартра/39_20210808_223553.jpg",
+      "archive_name": "16 - Париж - от Лувра до Монмартра/39_20210808_223553.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210808_223553.jpg",
       "match_score": null,
@@ -5890,7 +5882,7 @@
       "source_position": 1,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/01_20210809_084703.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/01_20210809_084703.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_084703.jpg",
       "match_score": null,
@@ -5904,7 +5896,7 @@
       "source_position": 2,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/02_20210809_084912.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/02_20210809_084912.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_084912.jpg",
       "match_score": null,
@@ -5918,7 +5910,7 @@
       "source_position": 3,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/03_20210809_085337.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/03_20210809_085337.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_085337.jpg",
       "match_score": null,
@@ -5932,7 +5924,7 @@
       "source_position": 4,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/04_20210809_090850.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/04_20210809_090850.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_090850.jpg",
       "match_score": null,
@@ -5946,7 +5938,7 @@
       "source_position": 5,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/05_20210809_091252.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/05_20210809_091252.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_091252.jpg",
       "match_score": null,
@@ -5960,7 +5952,7 @@
       "source_position": 6,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/06_20210809_091657.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/06_20210809_091657.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_091657.jpg",
       "match_score": null,
@@ -5974,7 +5966,7 @@
       "source_position": 7,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/07_20210809_091951.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/07_20210809_091951.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_091951.jpg",
       "match_score": null,
@@ -5988,7 +5980,7 @@
       "source_position": 8,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/08_20210809_092239.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/08_20210809_092239.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_092239.jpg",
       "match_score": null,
@@ -6002,7 +5994,7 @@
       "source_position": 9,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/09_20210809_092409.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/09_20210809_092409.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_092409.jpg",
       "match_score": null,
@@ -6016,7 +6008,7 @@
       "source_position": 10,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/10_20210809_092519.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/10_20210809_092519.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_092519.jpg",
       "match_score": null,
@@ -6030,7 +6022,7 @@
       "source_position": 11,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/11_20210809_092555.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/11_20210809_092555.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_092555.jpg",
       "match_score": null,
@@ -6044,7 +6036,7 @@
       "source_position": 12,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/12_20210809_093235.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/12_20210809_093235.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_093235.jpg",
       "match_score": null,
@@ -6058,7 +6050,7 @@
       "source_position": 13,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/13_20210809_093717.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/13_20210809_093717.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_093717.jpg",
       "match_score": null,
@@ -6072,7 +6064,7 @@
       "source_position": 14,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/14_20210809_093815.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/14_20210809_093815.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_093815.jpg",
       "match_score": null,
@@ -6086,7 +6078,7 @@
       "source_position": 15,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/15_20210809_094918.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/15_20210809_094918.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_094918.jpg",
       "match_score": null,
@@ -6100,7 +6092,7 @@
       "source_position": 16,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/16_20210809_094954.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/16_20210809_094954.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_094954.jpg",
       "match_score": null,
@@ -6114,7 +6106,7 @@
       "source_position": 17,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/17_20210809_095103.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/17_20210809_095103.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_095103.jpg",
       "match_score": null,
@@ -6128,7 +6120,7 @@
       "source_position": 18,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/18_20210809_095618.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/18_20210809_095618.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_095618.jpg",
       "match_score": null,
@@ -6142,7 +6134,7 @@
       "source_position": 19,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/19_20210809_095853.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/19_20210809_095853.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_095853.jpg",
       "match_score": null,
@@ -6156,7 +6148,7 @@
       "source_position": 20,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/20_20210809_095942.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/20_20210809_095942.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_095942.jpg",
       "match_score": null,
@@ -6170,7 +6162,7 @@
       "source_position": 21,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/21_20210809_100515.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/21_20210809_100515.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_100515.jpg",
       "match_score": null,
@@ -6184,7 +6176,7 @@
       "source_position": 22,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/22_20210809_102405.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/22_20210809_102405.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_102405.jpg",
       "match_score": null,
@@ -6198,7 +6190,7 @@
       "source_position": 23,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/23_20210809_103953.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/23_20210809_103953.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_103953.jpg",
       "match_score": null,
@@ -6212,7 +6204,7 @@
       "source_position": 24,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/24_20210809_104131.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/24_20210809_104131.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_104131.jpg",
       "match_score": null,
@@ -6226,7 +6218,7 @@
       "source_position": 25,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/25_20210809_111421.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/25_20210809_111421.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_111421.jpg",
       "match_score": null,
@@ -6240,7 +6232,7 @@
       "source_position": 26,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/26_20210809_111601.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/26_20210809_111601.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_111601.jpg",
       "match_score": null,
@@ -6254,7 +6246,7 @@
       "source_position": 27,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/27_20210809_112243.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/27_20210809_112243.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_112243.jpg",
       "match_score": null,
@@ -6268,7 +6260,7 @@
       "source_position": 28,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/28_20210809_112440.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/28_20210809_112440.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_112440.jpg",
       "match_score": null,
@@ -6282,7 +6274,7 @@
       "source_position": 29,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/29_20210809_112827.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/29_20210809_112827.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_112827.jpg",
       "match_score": null,
@@ -6296,7 +6288,7 @@
       "source_position": 30,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/30_20210809_113348.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/30_20210809_113348.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_113348.jpg",
       "match_score": null,
@@ -6310,7 +6302,7 @@
       "source_position": 31,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/31_20210809_114246.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/31_20210809_114246.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_114246.jpg",
       "match_score": null,
@@ -6324,7 +6316,7 @@
       "source_position": 32,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/32_20210809_114552.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/32_20210809_114552.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_114552.jpg",
       "match_score": null,
@@ -6338,7 +6330,7 @@
       "source_position": 33,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/33_20210809_115148.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/33_20210809_115148.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_115148.jpg",
       "match_score": null,
@@ -6352,7 +6344,7 @@
       "source_position": 34,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/34_20210809_115402.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/34_20210809_115402.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_115402.jpg",
       "match_score": null,
@@ -6366,7 +6358,7 @@
       "source_position": 35,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/35_20210809_115457.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/35_20210809_115457.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_115457.jpg",
       "match_score": null,
@@ -6380,7 +6372,7 @@
       "source_position": 36,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/36_20210809_123501.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/36_20210809_123501.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_123501.jpg",
       "match_score": null,
@@ -6394,7 +6386,7 @@
       "source_position": 37,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/37_20210809_123926.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/37_20210809_123926.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_123926.jpg",
       "match_score": null,
@@ -6408,7 +6400,7 @@
       "source_position": 38,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/38_20210809_135703.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/38_20210809_135703.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_135703.jpg",
       "match_score": null,
@@ -6422,7 +6414,7 @@
       "source_position": 39,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/39_20210809_140449.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/39_20210809_140449.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_140449.jpg",
       "match_score": null,
@@ -6436,7 +6428,7 @@
       "source_position": 40,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/40_20210809_140944.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/40_20210809_140944.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_140944.jpg",
       "match_score": null,
@@ -6450,7 +6442,7 @@
       "source_position": 41,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/41_20210809_141333.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/41_20210809_141333.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_141333.jpg",
       "match_score": null,
@@ -6464,7 +6456,7 @@
       "source_position": 42,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/42_20210809_141837.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/42_20210809_141837.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_141837.jpg",
       "match_score": null,
@@ -6478,7 +6470,7 @@
       "source_position": 43,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/43_20210809_142833.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/43_20210809_142833.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_142833.jpg",
       "match_score": null,
@@ -6492,7 +6484,7 @@
       "source_position": 44,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/44_20210809_143910.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/44_20210809_143910.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_143910.jpg",
       "match_score": null,
@@ -6506,7 +6498,7 @@
       "source_position": 45,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/45_20210809_144323.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/45_20210809_144323.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_144323.jpg",
       "match_score": null,
@@ -6520,7 +6512,7 @@
       "source_position": 46,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/46_20210809_144806.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/46_20210809_144806.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_144806.jpg",
       "match_score": null,
@@ -6534,7 +6526,7 @@
       "source_position": 47,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/47_20210809_151336.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/47_20210809_151336.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_151336.jpg",
       "match_score": null,
@@ -6548,7 +6540,7 @@
       "source_position": 48,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/48_20210809_193500.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/48_20210809_193500.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_193500.jpg",
       "match_score": null,
@@ -6562,7 +6554,7 @@
       "source_position": 49,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/49_20210809_210910.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/49_20210809_210910.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_210910.jpg",
       "match_score": null,
@@ -6576,7 +6568,7 @@
       "source_position": 50,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/50_20210809_211604.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/50_20210809_211604.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_211604.jpg",
       "match_score": null,
@@ -6590,7 +6582,7 @@
       "source_position": 51,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/51_20210809_214330.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/51_20210809_214330.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_214330.jpg",
       "match_score": null,
@@ -6604,7 +6596,7 @@
       "source_position": 52,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/52_20210809_214529.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/52_20210809_214529.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_214529.jpg",
       "match_score": null,
@@ -6618,7 +6610,7 @@
       "source_position": 53,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/53_20210809_214612.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/53_20210809_214612.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_214612.jpg",
       "match_score": null,
@@ -6632,7 +6624,7 @@
       "source_position": 54,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/54_20210809_214730.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/54_20210809_214730.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_214730.jpg",
       "match_score": null,
@@ -6646,7 +6638,7 @@
       "source_position": 55,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/55_20210809_215051.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/55_20210809_215051.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_215051.jpg",
       "match_score": null,
@@ -6660,7 +6652,7 @@
       "source_position": 56,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/56_20210809_215349.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/56_20210809_215349.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_215349.jpg",
       "match_score": null,
@@ -6674,7 +6666,7 @@
       "source_position": 57,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "18 - Париж - Сент-Шапель и Лувр/57_20210809_215520.jpg",
+      "archive_name": "17 - Париж - Сент-Шапель и Лувр/57_20210809_215520.jpg",
       "kind": "original",
       "original_relative_path": "2021 Лето/Европа - Катя Франция/20210809_215520.jpg",
       "match_score": null,
@@ -6688,62 +6680,12 @@
   "other_files": [],
   "archive_verified": true,
   "drive_sync_verified": true,
-  "drive_sync_checked": "2026-10-22T03:08:03.307Z",
+  "drive_sync_checked": "2026-10-22T03:43:22.014Z",
   "drive_trip_folder_id": "1BIzLglB485k3kKQYylhsP19BPXFeGNUc",
   "r2": {
-    "checked": "2026-10-22T03:22:45.208Z",
+    "checked": "2026-10-22T03:45:05.685Z",
     "base": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "copies": [
-      {
-        "key": "europe-2021/alps/20210807_105940.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/europe-2021/alps/20210807_105940.jpg",
-        "width": 1500,
-        "height": 2000,
-        "bytes": 433027,
-        "sha256": "4cdfd8b28563da817de9a6fab1f56a796f4d38c99b4d0304b2eae2af33efa92d",
-        "archive_name": "16 - Через Альпы/01_20210807_105940.jpg",
-        "verified": true
-      },
-      {
-        "key": "europe-2021/alps/20210807_110410.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/europe-2021/alps/20210807_110410.jpg",
-        "width": 2000,
-        "height": 1500,
-        "bytes": 668829,
-        "sha256": "15bf9b6c018c7f1f32616fcc96e55678c5786254448b7b1c37eb19f679d65bf0",
-        "archive_name": "16 - Через Альпы/02_20210807_110410.jpg",
-        "verified": true
-      },
-      {
-        "key": "europe-2021/alps/20210807_111000.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/europe-2021/alps/20210807_111000.jpg",
-        "width": 2000,
-        "height": 1500,
-        "bytes": 894104,
-        "sha256": "6fa204dd9a3954d51de4ca8abfec3047ae11c54f7dd33338035e814ef76ac44a",
-        "archive_name": "16 - Через Альпы/03_20210807_111000.jpg",
-        "verified": true
-      },
-      {
-        "key": "europe-2021/alps/20210807_111039.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/europe-2021/alps/20210807_111039.jpg",
-        "width": 1500,
-        "height": 2000,
-        "bytes": 451342,
-        "sha256": "599a2f48060a5227c80e7f220701960ee6d93cf1b48e2f2b1c9685eedcdd8ad1",
-        "archive_name": "16 - Через Альпы/04_20210807_111039.jpg",
-        "verified": true
-      },
-      {
-        "key": "europe-2021/alps/20210807_183824.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/europe-2021/alps/20210807_183824.jpg",
-        "width": 1500,
-        "height": 2000,
-        "bytes": 246655,
-        "sha256": "1d23cc6c561c60e956a27b11ce3e805cfb346c4a8f5c08fa644938512cca9ccf",
-        "archive_name": "16 - Через Альпы/05_20210807_183824.jpg",
-        "verified": true
-      },
       {
         "key": "europe-2021/antibes/20210727_105219.jpg",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/europe-2021/antibes/20210727_105219.jpg",
@@ -9541,7 +9483,7 @@
         "height": 1500,
         "bytes": 418592,
         "sha256": "9afb7254f9d4ccb8becb7cfc1f77964259aedb4c89125e7cf50ea5fcc4e79d64",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/01_20210809_084703.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/01_20210809_084703.jpg",
         "verified": true
       },
       {
@@ -9551,7 +9493,7 @@
         "height": 2000,
         "bytes": 425422,
         "sha256": "5f31f05695f2eb16470414f6ab6fe5e42d1a0d392354a948d7bea953a93fc411",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/02_20210809_084912.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/02_20210809_084912.jpg",
         "verified": true
       },
       {
@@ -9561,7 +9503,7 @@
         "height": 2000,
         "bytes": 670519,
         "sha256": "6ef8f1351fef1b5719ba182941ab6625b1790bdc10be3b12ddf696bb438ec080",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/03_20210809_085337.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/03_20210809_085337.jpg",
         "verified": true
       },
       {
@@ -9571,7 +9513,7 @@
         "height": 2000,
         "bytes": 384193,
         "sha256": "7f5caf50d8959cfb5f7f7d2544488de5cd7a2182b4f6726220b6300b70112913",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/04_20210809_090850.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/04_20210809_090850.jpg",
         "verified": true
       },
       {
@@ -9581,7 +9523,7 @@
         "height": 1500,
         "bytes": 752597,
         "sha256": "fdc07dc9714168b20a2c39e34c4310daf2b1dd2738f113117fdfeebcb078fb2e",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/05_20210809_091252.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/05_20210809_091252.jpg",
         "verified": true
       },
       {
@@ -9591,7 +9533,7 @@
         "height": 2000,
         "bytes": 1093544,
         "sha256": "a0a550f6204dde4fca4b1c50b6d0b52d4d404bac7ec3d8e47b14e6ab6ded0694",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/06_20210809_091657.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/06_20210809_091657.jpg",
         "verified": true
       },
       {
@@ -9601,7 +9543,7 @@
         "height": 2000,
         "bytes": 374472,
         "sha256": "9d6832869b1a323b938bf0600a15e5598e4e6ca509dc5cf6ee83f312288c6e34",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/07_20210809_091951.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/07_20210809_091951.jpg",
         "verified": true
       },
       {
@@ -9611,7 +9553,7 @@
         "height": 2000,
         "bytes": 518860,
         "sha256": "f9e3b1da1d63d8492d69cae44c3074196b4b2369df2e30c2937c9e15f9dc6b1e",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/08_20210809_092239.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/08_20210809_092239.jpg",
         "verified": true
       },
       {
@@ -9621,7 +9563,7 @@
         "height": 2000,
         "bytes": 657837,
         "sha256": "9327224d8fa841e8490d17ff319311df79ffc3812c7ba5550d3a2a590e2dc304",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/09_20210809_092409.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/09_20210809_092409.jpg",
         "verified": true
       },
       {
@@ -9631,7 +9573,7 @@
         "height": 2000,
         "bytes": 413076,
         "sha256": "f6f38e89c4aa89be56c5ba21f0bf79cc79f94c1fe44b994086157cd062d324c7",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/10_20210809_092519.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/10_20210809_092519.jpg",
         "verified": true
       },
       {
@@ -9641,7 +9583,7 @@
         "height": 1500,
         "bytes": 425543,
         "sha256": "47764294be37ddef942dd435eb7ceae65d44e92e7bef5f2d93b20e97a30da0f5",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/11_20210809_092555.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/11_20210809_092555.jpg",
         "verified": true
       },
       {
@@ -9651,7 +9593,7 @@
         "height": 2000,
         "bytes": 464429,
         "sha256": "dbc304861e7fbd743d74f53a711cac852883e401eb72cd6b0e00cd9a6e958d8b",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/12_20210809_093235.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/12_20210809_093235.jpg",
         "verified": true
       },
       {
@@ -9661,7 +9603,7 @@
         "height": 2000,
         "bytes": 487237,
         "sha256": "affd86af36de44db6c5e5d5477d704bb9e3eb8fc5b84fc3526563eabdc0f754f",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/13_20210809_093717.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/13_20210809_093717.jpg",
         "verified": true
       },
       {
@@ -9671,7 +9613,7 @@
         "height": 2000,
         "bytes": 609716,
         "sha256": "54f979a3a16276059be55499b5ee9e02952cd0aa3eb69f67105b59d1b7dc57f8",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/14_20210809_093815.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/14_20210809_093815.jpg",
         "verified": true
       },
       {
@@ -9681,7 +9623,7 @@
         "height": 1500,
         "bytes": 355513,
         "sha256": "87f8b8e9c63528bbdf5b7e536547cddd5f1689d7fdc2bcfa76a9cc84d2a049af",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/15_20210809_094918.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/15_20210809_094918.jpg",
         "verified": true
       },
       {
@@ -9691,7 +9633,7 @@
         "height": 1500,
         "bytes": 615824,
         "sha256": "85491e721cca11dccc364865b857c8ed4eee37c5c48756ff91f067ae6fe69d0b",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/16_20210809_094954.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/16_20210809_094954.jpg",
         "verified": true
       },
       {
@@ -9701,7 +9643,7 @@
         "height": 2000,
         "bytes": 727166,
         "sha256": "769e2698ad6140eaea33f24e081052967829c1b376fe194eeefb0121e711ff7a",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/17_20210809_095103.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/17_20210809_095103.jpg",
         "verified": true
       },
       {
@@ -9711,7 +9653,7 @@
         "height": 1500,
         "bytes": 319525,
         "sha256": "46f2e4fef3564eea1960357aba68f02a6a75d06095dfc3fd5afb9d3bdd970d3d",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/18_20210809_095618.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/18_20210809_095618.jpg",
         "verified": true
       },
       {
@@ -9721,7 +9663,7 @@
         "height": 2000,
         "bytes": 570147,
         "sha256": "a22aa53b1b6e2c86ed71b38834b342193137f815787e2c926334d2ba65d7871b",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/19_20210809_095853.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/19_20210809_095853.jpg",
         "verified": true
       },
       {
@@ -9731,7 +9673,7 @@
         "height": 2000,
         "bytes": 536660,
         "sha256": "365013c3c46489cad760016bce88e16e1606fdab94e7efbd1a8ef5d68990c0b3",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/20_20210809_095942.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/20_20210809_095942.jpg",
         "verified": true
       },
       {
@@ -9741,7 +9683,7 @@
         "height": 2000,
         "bytes": 345284,
         "sha256": "6ed77058e7d898c593a691320368cfc5ce33453e455e30c6073f9e65cf4dfdc6",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/21_20210809_100515.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/21_20210809_100515.jpg",
         "verified": true
       },
       {
@@ -9751,7 +9693,7 @@
         "height": 2000,
         "bytes": 539679,
         "sha256": "ec83025c102d457c159748b01701ba6283e81b0b438b38f8da60715f4a05207e",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/22_20210809_102405.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/22_20210809_102405.jpg",
         "verified": true
       },
       {
@@ -9761,7 +9703,7 @@
         "height": 1500,
         "bytes": 439569,
         "sha256": "1983d835e6cd0874bb53b30ab866c97415681bdc44ad8294ca7ad984686745f7",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/23_20210809_103953.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/23_20210809_103953.jpg",
         "verified": true
       },
       {
@@ -9771,7 +9713,7 @@
         "height": 2000,
         "bytes": 527959,
         "sha256": "d726c2cbbf08a764da85a344e1fc552bdfae1d8bf75eb38ac3c028be75eb5fb0",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/24_20210809_104131.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/24_20210809_104131.jpg",
         "verified": true
       },
       {
@@ -9781,7 +9723,7 @@
         "height": 2000,
         "bytes": 394188,
         "sha256": "33e911e30890b39dce807e0b4c078ac40f6fad9c28b5dafaba0d3c2510f6fe43",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/25_20210809_111421.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/25_20210809_111421.jpg",
         "verified": true
       },
       {
@@ -9791,7 +9733,7 @@
         "height": 2000,
         "bytes": 445866,
         "sha256": "1793745db0c62288d00f2417e96e4b395cfc8a99d2ebf8d8365193e9d25173a0",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/26_20210809_111601.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/26_20210809_111601.jpg",
         "verified": true
       },
       {
@@ -9801,7 +9743,7 @@
         "height": 2000,
         "bytes": 535912,
         "sha256": "39798566e9e51c750c7a2416bb825d277865c40dd64a6211935c15b6ce5e556c",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/27_20210809_112243.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/27_20210809_112243.jpg",
         "verified": true
       },
       {
@@ -9811,7 +9753,7 @@
         "height": 2000,
         "bytes": 283389,
         "sha256": "d8622fb6d50c588f2444446b02e05dbb8bebf41dc6efe4f0fe55b35837630466",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/28_20210809_112440.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/28_20210809_112440.jpg",
         "verified": true
       },
       {
@@ -9821,7 +9763,7 @@
         "height": 2000,
         "bytes": 309886,
         "sha256": "1532c5f9dceec18b27abbaa32695a117cfaa5913fd7a310c968e961d7977f43b",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/29_20210809_112827.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/29_20210809_112827.jpg",
         "verified": true
       },
       {
@@ -9831,7 +9773,7 @@
         "height": 2000,
         "bytes": 545230,
         "sha256": "5fbfb985df08f795487f8edcc809691480375ec9a8c39871724a71ead4707c6a",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/30_20210809_113348.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/30_20210809_113348.jpg",
         "verified": true
       },
       {
@@ -9841,7 +9783,7 @@
         "height": 2000,
         "bytes": 254086,
         "sha256": "b0b3bec51a70b31b9c78d5eb5190545cc4a80b9656a998485d583c58e24c40ec",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/31_20210809_114246.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/31_20210809_114246.jpg",
         "verified": true
       },
       {
@@ -9851,7 +9793,7 @@
         "height": 2000,
         "bytes": 369319,
         "sha256": "f76f15457638be9a9966d27952992e0cb6880a65f966e6577c58d27581a9ccfd",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/32_20210809_114552.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/32_20210809_114552.jpg",
         "verified": true
       },
       {
@@ -9861,7 +9803,7 @@
         "height": 1500,
         "bytes": 522079,
         "sha256": "719cb50f7e5bc9dc4c71b7514edcf08f29636518b55020eab04a058743e1cbd8",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/33_20210809_115148.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/33_20210809_115148.jpg",
         "verified": true
       },
       {
@@ -9871,7 +9813,7 @@
         "height": 1500,
         "bytes": 488939,
         "sha256": "8dacb127f9bbd0e8e5342d83e93da15204a05c2f6a8603e3b2c88fd4ebb72a37",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/34_20210809_115402.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/34_20210809_115402.jpg",
         "verified": true
       },
       {
@@ -9881,7 +9823,7 @@
         "height": 2000,
         "bytes": 382858,
         "sha256": "a61a8aa693ac02efb4eb2aa7baa8e1afa2e55458ab66a9d644e044d5bb7d4c41",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/35_20210809_115457.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/35_20210809_115457.jpg",
         "verified": true
       },
       {
@@ -9891,7 +9833,7 @@
         "height": 2000,
         "bytes": 200175,
         "sha256": "e76bb5f87b83ff61105d4ad6c42152d9a2c63db0078eb8226e7dad6338786e8e",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/36_20210809_123501.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/36_20210809_123501.jpg",
         "verified": true
       },
       {
@@ -9901,7 +9843,7 @@
         "height": 2000,
         "bytes": 360232,
         "sha256": "2de7d10d86e857ad5adb772dbb51472dd7b2a8f772c14ee495968b13e9287c7c",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/37_20210809_123926.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/37_20210809_123926.jpg",
         "verified": true
       },
       {
@@ -9911,7 +9853,7 @@
         "height": 2000,
         "bytes": 389189,
         "sha256": "e4015b7caaf898c4a8454cb5ee907e8d1190973a62937fd913084d90319ee42d",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/38_20210809_135703.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/38_20210809_135703.jpg",
         "verified": true
       },
       {
@@ -9921,7 +9863,7 @@
         "height": 1500,
         "bytes": 489772,
         "sha256": "9aa95c660e953f2dbd7674a4fd9b913d58c4be99eaf98ca5c3dcfcb5404d6cc4",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/39_20210809_140449.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/39_20210809_140449.jpg",
         "verified": true
       },
       {
@@ -9931,7 +9873,7 @@
         "height": 2000,
         "bytes": 374903,
         "sha256": "b095a33e706ae88e5110c83aa3620d481cc1f21cf4b37e397e2e4f628b993a83",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/40_20210809_140944.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/40_20210809_140944.jpg",
         "verified": true
       },
       {
@@ -9941,7 +9883,7 @@
         "height": 2000,
         "bytes": 555780,
         "sha256": "7998898335dc97091348f954cafe0717fb645dc7d6e66a6790ad789844b8ea4e",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/41_20210809_141333.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/41_20210809_141333.jpg",
         "verified": true
       },
       {
@@ -9951,7 +9893,7 @@
         "height": 2000,
         "bytes": 462853,
         "sha256": "2c556c8f605ac958ca848385d0f2ff5741eddb6707c9a950d12e11d103506634",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/42_20210809_141837.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/42_20210809_141837.jpg",
         "verified": true
       },
       {
@@ -9961,7 +9903,7 @@
         "height": 2000,
         "bytes": 234071,
         "sha256": "11199ac7a0588c5b9430fbe84a1f6f3e2f5ff7b9b04dd0f307e48866e9403e45",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/43_20210809_142833.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/43_20210809_142833.jpg",
         "verified": true
       },
       {
@@ -9971,7 +9913,7 @@
         "height": 1500,
         "bytes": 502731,
         "sha256": "bfd03b2531704993a0972822fd65cde0871ec0875f1c2ca787ed26868383929b",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/44_20210809_143910.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/44_20210809_143910.jpg",
         "verified": true
       },
       {
@@ -9981,7 +9923,7 @@
         "height": 2000,
         "bytes": 567886,
         "sha256": "f78243b6a24612959d1196841b58c2fa48b7a8cbbc403403027f3aa85746708f",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/45_20210809_144323.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/45_20210809_144323.jpg",
         "verified": true
       },
       {
@@ -9991,7 +9933,7 @@
         "height": 2000,
         "bytes": 277007,
         "sha256": "37e4a81b37aa711b43174fa37a79b5e62c01b36d2168562731e64e3db9b35be6",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/46_20210809_144806.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/46_20210809_144806.jpg",
         "verified": true
       },
       {
@@ -10001,7 +9943,7 @@
         "height": 1500,
         "bytes": 347533,
         "sha256": "033a4d5c6601cbd9358044d57d208acef6b631bd16f307dfdcd744df1327f0ea",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/47_20210809_151336.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/47_20210809_151336.jpg",
         "verified": true
       },
       {
@@ -10011,7 +9953,7 @@
         "height": 2000,
         "bytes": 333611,
         "sha256": "65c980f454f8610fa98603a917f2e56c297d1eb441835b2fd3a34d37b9163742",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/48_20210809_193500.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/48_20210809_193500.jpg",
         "verified": true
       },
       {
@@ -10021,7 +9963,7 @@
         "height": 2000,
         "bytes": 483737,
         "sha256": "3f8ead0415e8d067a56f15b278ab64a7bcb97b6692745ef4ee4a02d072d8ebcb",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/49_20210809_210910.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/49_20210809_210910.jpg",
         "verified": true
       },
       {
@@ -10031,7 +9973,7 @@
         "height": 1500,
         "bytes": 277227,
         "sha256": "393e955c360eda25de265f0b8cdaf45301145943c9629a142d70f368c019bda0",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/50_20210809_211604.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/50_20210809_211604.jpg",
         "verified": true
       },
       {
@@ -10041,7 +9983,7 @@
         "height": 2000,
         "bytes": 420306,
         "sha256": "ec0b18bbc693ba27328e4951a6d9ecc73490158fd306cbc3619d160ead1b07bd",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/51_20210809_214330.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/51_20210809_214330.jpg",
         "verified": true
       },
       {
@@ -10051,7 +9993,7 @@
         "height": 2000,
         "bytes": 336541,
         "sha256": "a77a6b0d7b7a693b2ce0b319448b2c8da76382f44f2c911677acb787184d84e9",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/52_20210809_214529.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/52_20210809_214529.jpg",
         "verified": true
       },
       {
@@ -10061,7 +10003,7 @@
         "height": 1500,
         "bytes": 385244,
         "sha256": "1ac391aa98739152e5e78949f4a9a6b7eb203198458aec63aeb8624f36d51b94",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/53_20210809_214612.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/53_20210809_214612.jpg",
         "verified": true
       },
       {
@@ -10071,7 +10013,7 @@
         "height": 2000,
         "bytes": 236068,
         "sha256": "a3696e237d85c1fd180cb56dc1dc90c28ddff5f100ef5be40d314455a252d6c9",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/54_20210809_214730.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/54_20210809_214730.jpg",
         "verified": true
       },
       {
@@ -10081,7 +10023,7 @@
         "height": 1500,
         "bytes": 394543,
         "sha256": "8d741cccb48ac04a79e7dc14180bd6e728de84f7c425f33fab01e7c88e290672",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/55_20210809_215051.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/55_20210809_215051.jpg",
         "verified": true
       },
       {
@@ -10091,7 +10033,7 @@
         "height": 1500,
         "bytes": 264883,
         "sha256": "1e8c073404c79f468ffb57c860f8a1cf2f349dfdabe4016b81e31ef3618d282d",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/56_20210809_215349.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/56_20210809_215349.jpg",
         "verified": true
       },
       {
@@ -10101,7 +10043,7 @@
         "height": 2000,
         "bytes": 337211,
         "sha256": "18891a789c3cea0d0dc0bfbf2d65e84e47732afdef848658c0df3501c43e3c04",
-        "archive_name": "18 - Париж - Сент-Шапель и Лувр/57_20210809_215520.jpg",
+        "archive_name": "17 - Париж - Сент-Шапель и Лувр/57_20210809_215520.jpg",
         "verified": true
       },
       {
@@ -10111,7 +10053,7 @@
         "height": 2000,
         "bytes": 404636,
         "sha256": "7eb7c32fb3e03e3edb7c1c6a702631467dbaad5d177dd8e36a26a81bc695fc8f",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/01_20210808_124953.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/01_20210808_124953.jpg",
         "verified": true
       },
       {
@@ -10121,7 +10063,7 @@
         "height": 2000,
         "bytes": 456226,
         "sha256": "6479b0e834f47e46127a1d4fb7d9b5789dbb81af38d9fdecb70f99356db6758c",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/02_20210808_132044.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/02_20210808_132044.jpg",
         "verified": true
       },
       {
@@ -10131,7 +10073,7 @@
         "height": 2000,
         "bytes": 678572,
         "sha256": "c3706dee0cef5249753b23855b60355b7a46f6e825fa78624e5b5c4f6a02873f",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/03_20210808_132511.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/03_20210808_132511.jpg",
         "verified": true
       },
       {
@@ -10141,7 +10083,7 @@
         "height": 2000,
         "bytes": 585562,
         "sha256": "20bad675ab332c1520b794c8a86ac8df89dc2bc1a3153c14c8b6012b5274577b",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/04_20210808_132740.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/04_20210808_132740.jpg",
         "verified": true
       },
       {
@@ -10151,7 +10093,7 @@
         "height": 1500,
         "bytes": 596274,
         "sha256": "43ff40e1fd797c77a0ddb13aca01395d2d690746c34689106ef19e147758bb03",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/05_20210808_133308.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/05_20210808_133308.jpg",
         "verified": true
       },
       {
@@ -10161,7 +10103,7 @@
         "height": 1500,
         "bytes": 792498,
         "sha256": "40a539e323bd7fd4fa58f86bf92140e6549834817430a6ef402e282026dd2047",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/06_20210808_134004.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/06_20210808_134004.jpg",
         "verified": true
       },
       {
@@ -10171,7 +10113,7 @@
         "height": 2000,
         "bytes": 550033,
         "sha256": "b9367f6e491179ac064713fb3a615852750be9e85ec1e91763609afc808f1536",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/07_20210808_134307.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/07_20210808_134307.jpg",
         "verified": true
       },
       {
@@ -10181,7 +10123,7 @@
         "height": 2000,
         "bytes": 431295,
         "sha256": "e2a2cdef86fef8e53b66fbb69b555ed4bf3557491218b14dbe631e78071b6549",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/08_20210808_134546.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/08_20210808_134546.jpg",
         "verified": true
       },
       {
@@ -10191,7 +10133,7 @@
         "height": 2000,
         "bytes": 618500,
         "sha256": "c8a589d70233e5c081a1435dac55e7301f2ac4447e785a7f0cbecc7705c4729b",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/09_20210808_134616.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/09_20210808_134616.jpg",
         "verified": true
       },
       {
@@ -10201,7 +10143,7 @@
         "height": 1500,
         "bytes": 248609,
         "sha256": "99604f3407442ad12f7c4baf428b74ab818091d4195f79fe1655eddddb119078",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/10_20210808_134651.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/10_20210808_134651.jpg",
         "verified": true
       },
       {
@@ -10211,7 +10153,7 @@
         "height": 1500,
         "bytes": 452505,
         "sha256": "739b10c35fea2d5b6732a4913a041fcc6ed659b527831c66480ad016151e52f0",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/11_20210808_134803.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/11_20210808_134803.jpg",
         "verified": true
       },
       {
@@ -10221,7 +10163,7 @@
         "height": 2000,
         "bytes": 242843,
         "sha256": "b3abec2d59dc5b24718b646e6eeb8392944670e1c2a383112cfb3fb3d4b579c4",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/12_20210808_134928.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/12_20210808_134928.jpg",
         "verified": true
       },
       {
@@ -10231,7 +10173,7 @@
         "height": 2000,
         "bytes": 322691,
         "sha256": "f2b4cc51d1a8f92c93043bc56798202f74c64229cf0a244778cc5a3a9280de6d",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/13_20210808_135303.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/13_20210808_135303.jpg",
         "verified": true
       },
       {
@@ -10241,7 +10183,7 @@
         "height": 2000,
         "bytes": 382940,
         "sha256": "bff9dd4cfdcc952f54f30fe95e75a23b1a064895ee15cf243dbfa410a7d83f7d",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/14_20210808_135611.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/14_20210808_135611.jpg",
         "verified": true
       },
       {
@@ -10251,7 +10193,7 @@
         "height": 2000,
         "bytes": 424568,
         "sha256": "b0afaeea40b923f3304613a8e5e1b484f6753755262fdec25924f50aa0595e09",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/15_20210808_135910.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/15_20210808_135910.jpg",
         "verified": true
       },
       {
@@ -10261,7 +10203,7 @@
         "height": 2000,
         "bytes": 230341,
         "sha256": "5426884ace93880eacfa7ad51807aadece6df1784dbf6c8992c233d28fd81506",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/16_20210808_140024.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/16_20210808_140024.jpg",
         "verified": true
       },
       {
@@ -10271,7 +10213,7 @@
         "height": 2000,
         "bytes": 156557,
         "sha256": "b27d265cd61cc1e0a1666de43b3cea34967bc315b1b6ffa31c481cb902c1df71",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/17_20210808_140907.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/17_20210808_140907.jpg",
         "verified": true
       },
       {
@@ -10281,7 +10223,7 @@
         "height": 2000,
         "bytes": 400458,
         "sha256": "adee5f84a800f413f3ee9250a35e5591a2426d0e3c6a76883bd404cfd0050406",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/18_20210808_141452.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/18_20210808_141452.jpg",
         "verified": true
       },
       {
@@ -10291,7 +10233,7 @@
         "height": 2000,
         "bytes": 534754,
         "sha256": "e34ba294b02c07fa11bc626e614d8aeae8dce920893f740f335194f45bb71646",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/19_20210808_141647.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/19_20210808_141647.jpg",
         "verified": true
       },
       {
@@ -10301,7 +10243,7 @@
         "height": 2000,
         "bytes": 393871,
         "sha256": "fe6fbf02427b1a44529cf55cbe69c6fe9fe97c8049b69ab06313df50fe62c501",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/20_20210808_143132.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/20_20210808_143132.jpg",
         "verified": true
       },
       {
@@ -10311,7 +10253,7 @@
         "height": 2000,
         "bytes": 351970,
         "sha256": "b75ea6f4b66e915cc181ab71470528a0ffb603bacc3c9d0655004a3210c1161b",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/21_20210808_145345.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/21_20210808_145345.jpg",
         "verified": true
       },
       {
@@ -10321,7 +10263,7 @@
         "height": 2000,
         "bytes": 343157,
         "sha256": "753a36cfc2354c19514c1a60578ebdae28dffdfe0802a37d6715a454d1b15d0d",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/22_20210808_150925.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/22_20210808_150925.jpg",
         "verified": true
       },
       {
@@ -10331,7 +10273,7 @@
         "height": 1500,
         "bytes": 517658,
         "sha256": "77735a1b420c9bac9f001a082490e9234ef605f2881b11709dc1a4b417cbf5df",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/23_20210808_153028.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/23_20210808_153028.jpg",
         "verified": true
       },
       {
@@ -10341,7 +10283,7 @@
         "height": 1500,
         "bytes": 715869,
         "sha256": "64e28d4aa7da787aceb83df466ca6337d728f919430f7ccaa6b8e03b54a26024",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/24_20210808_153730.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/24_20210808_153730.jpg",
         "verified": true
       },
       {
@@ -10351,7 +10293,7 @@
         "height": 1500,
         "bytes": 722974,
         "sha256": "58ccb44afa2970b33f698a23a89d38bc25249b36a38b2832e449f595deaeabce",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/25_20210808_154625.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/25_20210808_154625.jpg",
         "verified": true
       },
       {
@@ -10361,7 +10303,7 @@
         "height": 1500,
         "bytes": 666468,
         "sha256": "2496f9361f5d8728712dc6cb4d4779f1959587bd2fe02690712d67fe904a5c3e",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/26_20210808_155207.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/26_20210808_155207.jpg",
         "verified": true
       },
       {
@@ -10371,7 +10313,7 @@
         "height": 2000,
         "bytes": 382017,
         "sha256": "483593a0a53760fff2aed64e88389ce081f559afd7a4342751568db95624b793",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/27_20210808_162346.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/27_20210808_162346.jpg",
         "verified": true
       },
       {
@@ -10381,7 +10323,7 @@
         "height": 2000,
         "bytes": 345525,
         "sha256": "18d5f62502f888618ebe0743077bb38351d25717f196341438d4c58516e851a4",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/28_20210808_171202.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/28_20210808_171202.jpg",
         "verified": true
       },
       {
@@ -10391,7 +10333,7 @@
         "height": 2000,
         "bytes": 550036,
         "sha256": "184144d7181f18256b049a57762fd85a4e67d5e72bca4b029cfe4e05cc4487ee",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/29_20210808_172135.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/29_20210808_172135.jpg",
         "verified": true
       },
       {
@@ -10401,7 +10343,7 @@
         "height": 2000,
         "bytes": 483601,
         "sha256": "6a5ca0adfa2aa794462ab080b074bffe1040b8335cfc6b5f6b90a5c12df35abe",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/30_20210808_173422.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/30_20210808_173422.jpg",
         "verified": true
       },
       {
@@ -10411,7 +10353,7 @@
         "height": 2000,
         "bytes": 519376,
         "sha256": "d2ce6ce08dca93725a2645976ad9890d67d445ccd4e79300874bf960248b69e8",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/31_20210808_210637.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/31_20210808_210637.jpg",
         "verified": true
       },
       {
@@ -10421,7 +10363,7 @@
         "height": 2000,
         "bytes": 542558,
         "sha256": "47c8b0ef2d2c59c4cd83bd9d210359347087bc7c575267e07b1eee86b1385966",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/32_20210808_211536.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/32_20210808_211536.jpg",
         "verified": true
       },
       {
@@ -10431,7 +10373,7 @@
         "height": 2000,
         "bytes": 549805,
         "sha256": "70abe5074aa406bd9a63cde5abb13fb175f5d680434d168011ce2d60d4b27604",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/33_20210808_211709.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/33_20210808_211709.jpg",
         "verified": true
       },
       {
@@ -10441,7 +10383,7 @@
         "height": 2000,
         "bytes": 352276,
         "sha256": "e8dc5f91f354bf8278d633e47a621f2a529193f099a3b92515cf9f92bd3a71b4",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/34_20210808_212013.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/34_20210808_212013.jpg",
         "verified": true
       },
       {
@@ -10451,7 +10393,7 @@
         "height": 2000,
         "bytes": 116105,
         "sha256": "72a17621ac84d4ca08a18bab46a4fa91e6e77c81cd555be446e3757b28c82187",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/35_20210808_212208.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/35_20210808_212208.jpg",
         "verified": true
       },
       {
@@ -10461,7 +10403,7 @@
         "height": 2000,
         "bytes": 472032,
         "sha256": "49afaec5380a937e67cc5b76299b5e7dc1983bcd8b46e90b38df5afc92ea983b",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/36_20210808_213707.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/36_20210808_213707.jpg",
         "verified": true
       },
       {
@@ -10471,7 +10413,7 @@
         "height": 1500,
         "bytes": 383190,
         "sha256": "44c548c0e169c454e6c54d9435e64d60a36c1fdfcfa35f73fa20e75c7940d36c",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/37_20210808_214333.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/37_20210808_214333.jpg",
         "verified": true
       },
       {
@@ -10481,7 +10423,7 @@
         "height": 2000,
         "bytes": 274286,
         "sha256": "e9f8ce18cbbe35872a60dd3065832da6add82f5904667fea4380b7d5e30ad85f",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/38_20210808_223244.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/38_20210808_223244.jpg",
         "verified": true
       },
       {
@@ -10491,7 +10433,7 @@
         "height": 2000,
         "bytes": 520845,
         "sha256": "58a7b029270f773a91dcf4499dc003c55a4ef589e2957469e76b22ac4bc4b439",
-        "archive_name": "17 - Париж - от Лувра до Монмартра/39_20210808_223553.jpg",
+        "archive_name": "16 - Париж - от Лувра до Монмартра/39_20210808_223553.jpg",
         "verified": true
       },
       {
@@ -10621,7 +10563,7 @@
         "height": 2000,
         "bytes": 459592,
         "sha256": "a98a6557acc4bda2d1255335f591c8d3f870f273e9b4ad15179788f3e62a56b5",
-        "archive_name": "01 - Дорога на юг/01_20210722_183344.jpg",
+        "archive_name": "01 - Вырвались из карантина/01_20210722_183344.jpg",
         "verified": true
       },
       {
@@ -10631,7 +10573,7 @@
         "height": 1500,
         "bytes": 202535,
         "sha256": "5ad7d782b3db38d76c6b9fd5812fb7225bb9e4568cafaee27fd1a3fcf67f042a",
-        "archive_name": "01 - Дорога на юг/02_20210722_193232.jpg",
+        "archive_name": "01 - Вырвались из карантина/02_20210722_193232.jpg",
         "verified": true
       },
       {
@@ -10641,7 +10583,7 @@
         "height": 2000,
         "bytes": 128789,
         "sha256": "3d44aaf029b6e385ecace4c89670e4a956982e88aa94bd5da598c22b9f017d61",
-        "archive_name": "01 - Дорога на юг/03_20210722_194501.jpg",
+        "archive_name": "01 - Вырвались из карантина/03_20210722_194501.jpg",
         "verified": true
       },
       {
@@ -10651,7 +10593,7 @@
         "height": 2000,
         "bytes": 199602,
         "sha256": "74027c177832fe9072bc819a47171c8f025d22eab5e1a19fb0acf8bd6301993f",
-        "archive_name": "01 - Дорога на юг/04_20210722_202721.jpg",
+        "archive_name": "01 - Вырвались из карантина/04_20210722_202721.jpg",
         "verified": true
       },
       {
@@ -10661,7 +10603,7 @@
         "height": 2000,
         "bytes": 185576,
         "sha256": "251442a37e752ed0a875660646282d49e44776f74041d6a3ab29bd252bc6dd74",
-        "archive_name": "01 - Дорога на юг/05_20210723_020027.jpg",
+        "archive_name": "01 - Вырвались из карантина/05_20210723_020027.jpg",
         "verified": true
       },
       {
@@ -10671,7 +10613,7 @@
         "height": 2000,
         "bytes": 229668,
         "sha256": "4b17a51ea9534df2bebc338c6e887b3dac4349aa0698cbf51593bd3769f22ebe",
-        "archive_name": "01 - Дорога на юг/06_20210723_090312.jpg",
+        "archive_name": "01 - Вырвались из карантина/06_20210723_090312.jpg",
         "verified": true
       },
       {
@@ -10681,7 +10623,7 @@
         "height": 2000,
         "bytes": 244852,
         "sha256": "cc7caa27b141655f874c40c60e2b884b96c47dfd9d2048a3332879c4acb969d7",
-        "archive_name": "01 - Дорога на юг/07_20210723_100710.jpg",
+        "archive_name": "01 - Вырвались из карантина/07_20210723_100710.jpg",
         "verified": true
       },
       {
@@ -10691,7 +10633,7 @@
         "height": 2000,
         "bytes": 646923,
         "sha256": "4b7685ecf59913fd08438c965f1b1ebae02a8aad4554bfb03b4ac6bfe7427be1",
-        "archive_name": "01 - Дорога на юг/08_20210723_114554.jpg",
+        "archive_name": "01 - Вырвались из карантина/08_20210723_114554.jpg",
         "verified": true
       },
       {
@@ -10701,7 +10643,7 @@
         "height": 2000,
         "bytes": 305305,
         "sha256": "af4d87d136b334327762769245dfbbd4351b4a66a4eae060fc268c80ce040a8c",
-        "archive_name": "01 - Дорога на юг/09_20210723_123934.jpg",
+        "archive_name": "01 - Вырвались из карантина/09_20210723_123934.jpg",
         "verified": true
       },
       {
@@ -11011,7 +10953,7 @@
         "height": 2000,
         "bytes": 318725,
         "sha256": "14bf10d0bf0eca5178e5cf90e9a18c03c6089cec735f6e42a6f9912d1ee1e9b2",
-        "archive_name": "15 - Турин - площади и церкви/01_20210806_094115.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/01_20210806_094115.jpg",
         "verified": true
       },
       {
@@ -11021,7 +10963,7 @@
         "height": 2000,
         "bytes": 720131,
         "sha256": "1d1cc593001107302e8deb368e417451903e9464384bfe7f9b428f8ddcdcff1d",
-        "archive_name": "15 - Турин - площади и церкви/02_20210806_094410.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/02_20210806_094410.jpg",
         "verified": true
       },
       {
@@ -11031,7 +10973,7 @@
         "height": 2000,
         "bytes": 521164,
         "sha256": "dfd554db844b9b686a78275e4a0e25748b87246229d799189f75d4da390fafee",
-        "archive_name": "15 - Турин - площади и церкви/03_20210806_094510.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/03_20210806_094510.jpg",
         "verified": true
       },
       {
@@ -11041,7 +10983,7 @@
         "height": 2000,
         "bytes": 509942,
         "sha256": "b7d6f745ddabc4dac04796b988f5268c1a6af8005477792973d7a3d3ee9cd564",
-        "archive_name": "15 - Турин - площади и церкви/04_20210806_095857.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/04_20210806_095857.jpg",
         "verified": true
       },
       {
@@ -11051,7 +10993,7 @@
         "height": 2000,
         "bytes": 745088,
         "sha256": "d2f92e91b80f7d49ebb21d18bbb5497783c37d2796d66440e4c6ace72dfe8168",
-        "archive_name": "15 - Турин - площади и церкви/05_20210806_100413.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/05_20210806_100413.jpg",
         "verified": true
       },
       {
@@ -11061,7 +11003,7 @@
         "height": 2000,
         "bytes": 405056,
         "sha256": "4e7be6fd0ad17a93513d589c026308f0f394ae81bcd3af9e49f7d6117c704dbc",
-        "archive_name": "15 - Турин - площади и церкви/06_20210806_100729.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/06_20210806_100729.jpg",
         "verified": true
       },
       {
@@ -11071,7 +11013,7 @@
         "height": 2000,
         "bytes": 719016,
         "sha256": "7f3fa518d696626ea96a3ede63040ad356ec5659c05f4797b29c7696c66d9672",
-        "archive_name": "15 - Турин - площади и церкви/07_20210806_100837.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/07_20210806_100837.jpg",
         "verified": true
       },
       {
@@ -11081,7 +11023,7 @@
         "height": 2000,
         "bytes": 531801,
         "sha256": "02b5396ea169e87f1888cc86dd836d3612f03898aa669ba5e2f3d5dc653c8a54",
-        "archive_name": "15 - Турин - площади и церкви/08_20210806_102041.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/08_20210806_102041.jpg",
         "verified": true
       },
       {
@@ -11091,7 +11033,7 @@
         "height": 2000,
         "bytes": 628075,
         "sha256": "9c340271337956b41e9da87d81736dba4b5951169d9a7848fdb50187b5fbaf91",
-        "archive_name": "15 - Турин - площади и церкви/09_20210806_102319.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/09_20210806_102319.jpg",
         "verified": true
       },
       {
@@ -11101,7 +11043,7 @@
         "height": 2000,
         "bytes": 419825,
         "sha256": "65ef638fa4825d2917cc44bab76172f325feda38f81d6a10e01cf74bce74f262",
-        "archive_name": "15 - Турин - площади и церкви/10_20210806_102452.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/10_20210806_102452.jpg",
         "verified": true
       },
       {
@@ -11111,7 +11053,7 @@
         "height": 2000,
         "bytes": 345540,
         "sha256": "516520837519f11db423d5559464ae02a278697800e1bbd5ecf2d254076b8b3a",
-        "archive_name": "15 - Турин - площади и церкви/11_20210806_103201.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/11_20210806_103201.jpg",
         "verified": true
       },
       {
@@ -11121,7 +11063,7 @@
         "height": 2000,
         "bytes": 740459,
         "sha256": "be14346b6a06dfc017d19b644c0ae41603c83604357be571b307f3409a8541a4",
-        "archive_name": "15 - Турин - площади и церкви/12_20210806_103549.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/12_20210806_103549.jpg",
         "verified": true
       },
       {
@@ -11131,7 +11073,7 @@
         "height": 2000,
         "bytes": 514988,
         "sha256": "8438a435ba8fd804d18115788d57a5104248cd0b30d18fa10237ca9d4b4cb3e2",
-        "archive_name": "15 - Турин - площади и церкви/13_20210806_103816.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/13_20210806_103816.jpg",
         "verified": true
       },
       {
@@ -11141,7 +11083,7 @@
         "height": 1500,
         "bytes": 863972,
         "sha256": "35e7edfbf1d41698a6df66c33c58c7487931fcbe502bbe55dd9c54cfaac85c1f",
-        "archive_name": "15 - Турин - площади и церкви/14_20210806_103903.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/14_20210806_103903.jpg",
         "verified": true
       },
       {
@@ -11151,7 +11093,7 @@
         "height": 2000,
         "bytes": 489680,
         "sha256": "811791506f95587dbdb53b3537fb828d4369b4614c2f824adbe4519559824f75",
-        "archive_name": "15 - Турин - площади и церкви/15_20210806_104127.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/15_20210806_104127.jpg",
         "verified": true
       },
       {
@@ -11161,7 +11103,7 @@
         "height": 2000,
         "bytes": 334178,
         "sha256": "1c838574a76bc2cfcdd81130080b14fcf083b4ec8d71ef063f0df3683258e226",
-        "archive_name": "15 - Турин - площади и церкви/16_20210806_104812.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/16_20210806_104812.jpg",
         "verified": true
       },
       {
@@ -11171,7 +11113,7 @@
         "height": 1500,
         "bytes": 516774,
         "sha256": "1e8c29159cad6aa62eefb70ba4b46fb957b898b82e86b1a3f961dcf0717e228f",
-        "archive_name": "15 - Турин - площади и церкви/17_20210806_112146.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/17_20210806_112146.jpg",
         "verified": true
       },
       {
@@ -11181,7 +11123,7 @@
         "height": 2000,
         "bytes": 352033,
         "sha256": "80d9a9bffc75a4a946ad3797d4210d49f61369d11031d703c4ce658da83d9be7",
-        "archive_name": "15 - Турин - площади и церкви/18_20210806_112336.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/18_20210806_112336.jpg",
         "verified": true
       },
       {
@@ -11191,7 +11133,7 @@
         "height": 2000,
         "bytes": 525291,
         "sha256": "a2131c8fb3bdbd90c3c3e2f3009e603e01f4fdf85dac25a8b35940d2492d0635",
-        "archive_name": "15 - Турин - площади и церкви/19_20210806_112410.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/19_20210806_112410.jpg",
         "verified": true
       },
       {
@@ -11201,7 +11143,7 @@
         "height": 2000,
         "bytes": 718438,
         "sha256": "d18d6c356bda411840e023f222d1344ff32dd3336bdf7f77a1a70739f11b3047",
-        "archive_name": "15 - Турин - площади и церкви/20_20210806_114248.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/20_20210806_114248.jpg",
         "verified": true
       },
       {
@@ -11211,7 +11153,7 @@
         "height": 1500,
         "bytes": 403440,
         "sha256": "fa9964258c52ac3f67d0deeef0d5c9c4ff2693e4845bb79f01d9d3e72aa571d7",
-        "archive_name": "15 - Турин - площади и церкви/21_20210806_115028.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/21_20210806_115028.jpg",
         "verified": true
       },
       {
@@ -11221,7 +11163,7 @@
         "height": 2000,
         "bytes": 735292,
         "sha256": "15374fc547dd71f0f5bc67556ebd10041387b92327b03152d2baa11a09f2afca",
-        "archive_name": "15 - Турин - площади и церкви/22_20210806_115100.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/22_20210806_115100.jpg",
         "verified": true
       },
       {
@@ -11231,7 +11173,7 @@
         "height": 1500,
         "bytes": 841631,
         "sha256": "755b60ecba73560dfc5e4eddccf5c2c0435ca365b2435e403cb2f9d6c862a934",
-        "archive_name": "15 - Турин - площади и церкви/23_20210806_115302.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/23_20210806_115302.jpg",
         "verified": true
       },
       {
@@ -11241,7 +11183,7 @@
         "height": 2000,
         "bytes": 584021,
         "sha256": "b07815fb6ece6057a69af5446a37fb2cefce47ade7f5147d0be64572502745d0",
-        "archive_name": "15 - Турин - площади и церкви/24_20210806_115452.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/24_20210806_115452.jpg",
         "verified": true
       },
       {
@@ -11251,7 +11193,7 @@
         "height": 2000,
         "bytes": 572573,
         "sha256": "e79249690eb1abb7b1654042fe14e9278f18e413e79b7169e27c311d99877368",
-        "archive_name": "15 - Турин - площади и церкви/25_20210806_120134.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/25_20210806_120134.jpg",
         "verified": true
       },
       {
@@ -11261,7 +11203,7 @@
         "height": 2000,
         "bytes": 527686,
         "sha256": "323737c3c9baa918563664a8a040448f8619ed7ba1f3e3f8aaecbf3b054aec6e",
-        "archive_name": "15 - Турин - площади и церкви/26_20210806_120731.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/26_20210806_120731.jpg",
         "verified": true
       },
       {
@@ -11271,7 +11213,7 @@
         "height": 2000,
         "bytes": 592596,
         "sha256": "31cd013f7ee0f617c90d8f43c638033993af728ad612de88a51929765a347d1c",
-        "archive_name": "15 - Турин - площади и церкви/27_20210806_120922.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/27_20210806_120922.jpg",
         "verified": true
       },
       {
@@ -11281,7 +11223,7 @@
         "height": 2000,
         "bytes": 674644,
         "sha256": "563fb3adb51ccb26711e60fbbb340d7b26df251f61063648575c359cc52a0e96",
-        "archive_name": "15 - Турин - площади и церкви/28_20210806_121130.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/28_20210806_121130.jpg",
         "verified": true
       },
       {
@@ -11291,7 +11233,7 @@
         "height": 2000,
         "bytes": 642041,
         "sha256": "b1436f40bb72ecbf502e0ca0ce3f09318540f5270e49ce4e13f2209cdf111754",
-        "archive_name": "15 - Турин - площади и церкви/29_20210806_122830.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/29_20210806_122830.jpg",
         "verified": true
       },
       {
@@ -11301,7 +11243,7 @@
         "height": 1500,
         "bytes": 476985,
         "sha256": "aa08e204e4f28c0f9686a95160da5215ec90682ed0494890fcbc81d81838144f",
-        "archive_name": "15 - Турин - площади и церкви/30_20210806_123437.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/30_20210806_123437.jpg",
         "verified": true
       },
       {
@@ -11311,7 +11253,7 @@
         "height": 2000,
         "bytes": 703327,
         "sha256": "6457e64b3e3d57d5da32f6380fa9b058516baa9a1031d7c625482506f6e92f3b",
-        "archive_name": "15 - Турин - площади и церкви/31_20210806_123800.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/31_20210806_123800.jpg",
         "verified": true
       },
       {
@@ -11321,7 +11263,7 @@
         "height": 2000,
         "bytes": 348163,
         "sha256": "6c43d98f072cb9647dcc267e0e366a3348f65940306f5c6b970b7437ff2d79b7",
-        "archive_name": "15 - Турин - площади и церкви/32_20210806_164547.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/32_20210806_164547.jpg",
         "verified": true
       },
       {
@@ -11331,7 +11273,7 @@
         "height": 1500,
         "bytes": 331404,
         "sha256": "a28e4417b7f38a929deedd03ae9003a08b5237b7b204d65c2f7cfde16f566500",
-        "archive_name": "15 - Турин - площади и церкви/33_20210806_171325.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/33_20210806_171325.jpg",
         "verified": true
       },
       {
@@ -11341,7 +11283,7 @@
         "height": 2000,
         "bytes": 237849,
         "sha256": "60cce79feb2b2eb80b2084ed502454d8c83cd47bd9880d95338ef52e2f3dc241",
-        "archive_name": "15 - Турин - площади и церкви/34_20210806_171835.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/34_20210806_171835.jpg",
         "verified": true
       },
       {
@@ -11351,7 +11293,57 @@
         "height": 2000,
         "bytes": 364032,
         "sha256": "999068ebc6520ba3c8dc4ef83dfd4142a742622c82056aad0ef4efa2e21384de",
-        "archive_name": "15 - Турин - площади и церкви/35_20210806_172025.jpg",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/35_20210806_172025.jpg",
+        "verified": true
+      },
+      {
+        "key": "europe-2021/turin-squares/20210807_105940.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/europe-2021/turin-squares/20210807_105940.jpg",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 433027,
+        "sha256": "4cdfd8b28563da817de9a6fab1f56a796f4d38c99b4d0304b2eae2af33efa92d",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/36_20210807_105940.jpg",
+        "verified": true
+      },
+      {
+        "key": "europe-2021/turin-squares/20210807_110410.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/europe-2021/turin-squares/20210807_110410.jpg",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 668829,
+        "sha256": "15bf9b6c018c7f1f32616fcc96e55678c5786254448b7b1c37eb19f679d65bf0",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/37_20210807_110410.jpg",
+        "verified": true
+      },
+      {
+        "key": "europe-2021/turin-squares/20210807_111000.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/europe-2021/turin-squares/20210807_111000.jpg",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 894104,
+        "sha256": "6fa204dd9a3954d51de4ca8abfec3047ae11c54f7dd33338035e814ef76ac44a",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/38_20210807_111000.jpg",
+        "verified": true
+      },
+      {
+        "key": "europe-2021/turin-squares/20210807_111039.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/europe-2021/turin-squares/20210807_111039.jpg",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 451342,
+        "sha256": "599a2f48060a5227c80e7f220701960ee6d93cf1b48e2f2b1c9685eedcdd8ad1",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/39_20210807_111039.jpg",
+        "verified": true
+      },
+      {
+        "key": "europe-2021/turin-squares/20210807_183824.jpg",
+        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/europe-2021/turin-squares/20210807_183824.jpg",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 246655,
+        "sha256": "1d23cc6c561c60e956a27b11ce3e805cfb346c4a8f5c08fa644938512cca9ccf",
+        "archive_name": "15 - Турин - площади, церкви и дорога через Альпы/40_20210807_183824.jpg",
         "verified": true
       }
     ]

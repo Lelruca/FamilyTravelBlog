@@ -2,7 +2,7 @@
 title: "Париж: Сент-Шапель и Лувр"
 chapter_kind: "part"
 layout: "photo-story"
-weight: 180
+weight: 170
 city: "paris"
 places:
   - paris
@@ -13,7 +13,7 @@ places:
 hero_image: "20210809_215349.jpg"
 date: "2021-08-09"
 auto_gallery: false
-draft: true
+draft: false
 ---
 {{< row "20210809_084703.jpg 20210809_084912.jpg 20210809_085337.jpg" >}}
 
