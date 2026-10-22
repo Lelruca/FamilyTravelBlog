@@ -12,6 +12,7 @@ places:
   - chenonceau
   - blois
 hero_image: "IMG_1565.jpg"
+attractions: ["cadre-noir"]
 ---
 
 {{< beside "IMG_1530.jpg" >}}

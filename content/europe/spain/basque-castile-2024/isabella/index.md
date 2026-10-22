@@ -9,9 +9,11 @@ places:
   - santo-tomas-avila
   - avila
   - el-escorial
+  - medina-del-campo
 hero_image: "20240713_103631.jpg"
 date: "2024-07-13"
 auto_gallery: false
+attractions: ["santo-tomas-avila","medina-del-campo--dvorets-zaveshchaniya-izabelly-katolicheskoy"]
 ---
 <p>Сегодня у нас был день посвящённый нашим героям - Изабелле Кастильской и ее семье. Начали мы с города Medina del Campo. Замок Castillo de la Mota 12 века просто само совершенство!</p>
 

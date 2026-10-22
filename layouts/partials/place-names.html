@@ -1,0 +1,7 @@
+{{- /* A place title "Berlin - Берлин, Германия" split into the Russian name (shown big) and the original one (shown small).
+       Navigation labels start with a capital letter; the authors' story titles are never changed here. */ -}}
+{{- $t := index (split .Title ", ") 0 -}}
+{{- $ru := $t -}}{{- $orig := "" -}}
+{{- if in $t " - " }}{{ $parts := split $t " - " }}{{ $orig = index $parts 0 }}{{ $ru = delimit (after 1 $parts) " - " }}{{ end -}}
+{{- if eq $orig $ru }}{{ $orig = "" }}{{ end -}}
+{{- return dict "ru" (strings.FirstUpper $ru) "orig" $orig -}}

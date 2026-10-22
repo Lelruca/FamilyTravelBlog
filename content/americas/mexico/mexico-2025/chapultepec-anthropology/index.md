@@ -7,10 +7,12 @@ city: "Мехико"
 places:
   - chapultepec-castle
   - museo-antropologia
+  - mexico-city
 hero_image: "20250214_135414.jpg"
 date: "2025-02-14"
 auto_gallery: false
 draft: false
+attractions: ["chapultepec-castle","museo-antropologia"]
 ---
 <p>А вы знали, что в Мексике с 1864 по 1867 год была монархия, и правил Габсбург? А потом произошла революция, и его казнили.</p>
 

@@ -11,6 +11,7 @@ places:
   - norfolk
   - military-aviation-museum
   - nauticus
+attractions: ["military-aviation-museum","nauticus","virginia-beach--akvarium-virdzhinii","norfolk--linkor-viskonsin"]
 ---
 <p><b><u>Экскурсии</u></b></p>
 

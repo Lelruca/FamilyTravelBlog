@@ -14,6 +14,7 @@ places:
   - "musee-cluny"
 date: "2017-01-20"
 source_url: "https://olgau.livejournal.com/236561.html"
+attractions: ["louvre","luxembourg-gardens","arc-triomphe","champs-elysees","orangerie","musee-cluny"]
 ---
 
 <p>Наш последний день в Париже. Основные достопримечательности мы уже увидели, на вечер запланирован второй поход в Лувр, он работает до 9 вечера, погода хорошая, можно погулять!</p>

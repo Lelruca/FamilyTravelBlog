@@ -7,10 +7,12 @@ city: "Рим"
 places:
   - colosseum
   - castel-sant-angelo
+  - rome
 hero_image: "20220823_104105.jpg"
 date: "2022-08-23"
 auto_gallery: false
 draft: false
+attractions: ["colosseum","castel-sant-angelo"]
 ---
 <p>День 3<br>Это мой 4 визит в Рим и конечно каждый раз я была у Колизея, но именно Митька затащил нас сегодня внутрь. Конечно мощь строения, построенного за 10 лет и простоящего века впечатляет! Даже в жару 😁</p>
 

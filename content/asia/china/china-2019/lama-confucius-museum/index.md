@@ -12,6 +12,7 @@ places:
   - "confucius-temple-beijing"
   - "national-museum-china"
 hero_image: "DSC06950.jpg"
+attractions: ["yonghe-temple","confucius-temple-beijing","national-museum-china","beijing--imperatorskaya-akademiya-gotszytszyan","beijing--krasnyy-teatr"]
 ---
 
 {{< row "20190310_085551.jpg 20190310_085726.jpg" >}}

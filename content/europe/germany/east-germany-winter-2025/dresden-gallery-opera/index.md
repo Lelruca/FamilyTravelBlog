@@ -11,6 +11,7 @@ date: "2025-12-10"
 auto_gallery: false
 draft: false
 source_url: "https://www.facebook.com/media/set/?set=pcb.1336274978299034"
+attractions: ["dresden--drezdenskaya-kartinnaya-galereya","dresden--opera-zempera"]
 ---
 <p>Дрезден — продолжение.</p>
 

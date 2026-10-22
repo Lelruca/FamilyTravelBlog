@@ -11,6 +11,7 @@ hero_image: "20221122_132853.jpg"
 date: "2022-11-22"
 auto_gallery: false
 draft: false
+attractions: ["national-gallery","london--trafalgarskaya-ploshchad"]
 ---
 <p>Утром второго дня мне выдали несколько часов свободного времени и я побежала сразу в Национальную галерею. Одна из лучших мировых коллекций! Да еще и бесплатно!</p>
 

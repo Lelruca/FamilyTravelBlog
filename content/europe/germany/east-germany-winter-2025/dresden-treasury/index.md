@@ -11,6 +11,7 @@ date: "2025-12-10"
 auto_gallery: false
 draft: false
 source_url: "https://www.facebook.com/media/set/?set=pcb.1335953318331200"
+attractions: ["dresden--drezdenskiy-zamok-rezidentsiya","dresden--sokrovishchnitsa-zelyonye-svody"]
 ---
 <p>Перелетели в Берлин вчера, чтобы не терять время, взяли машину и переехали в Дрезден. Первое впечатление — очень темно везде. Автобаны тёмные, парковка даже в аэропорту почти без света. Бережливо!</p>
 

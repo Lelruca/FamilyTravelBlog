@@ -11,6 +11,7 @@ hero_image: "20231016_114524.jpg"
 date: "2023-10-16"
 auto_gallery: false
 draft: false
+attractions: ["lorsch-abbey"]
 ---
 <p>Отправили студента в университет с надеждой что наберется знаний 😀 А сами окультуриваться.</p>
 

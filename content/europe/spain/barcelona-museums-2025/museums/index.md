@@ -10,6 +10,7 @@ hero_image: "facebook_1264125582180641.jpg"
 date: "2025-09-14"
 auto_gallery: false
 draft: false
+attractions: ["barcelona--muzey-muzyki-barselony","barcelona--muzey-dizayna-barselony"]
 ---
 <p>В воскресенье в Барселоне после 3 часов (и до 7-8) все государственные музеи бесплатные. Мы уже давно отработали все основные по паре раз и поэтому сегодня у нас была "нетуристическая Барселона".</p>
 

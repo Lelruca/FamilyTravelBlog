@@ -9,6 +9,7 @@ auto_gallery: false
 source_url: "https://olgau.livejournal.com/183718.html"
 places:
   - highland-village
+  - baddeck
 hero_image: "IMG_4488.jpg"
 ---
 

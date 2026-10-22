@@ -10,6 +10,7 @@ places:
 hero_image: "20240714_105602.jpg"
 date: "2024-07-14"
 auto_gallery: false
+attractions: ["alcazar-segovia","segovia--segoviyskiy-akveduk","segovia--segoviyskiy-sobor"]
 ---
 <p>Римский акведук II века н.э. - просто уму не постижимо как сохранился!</p>
 

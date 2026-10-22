@@ -1,0 +1,5 @@
+{{- /* "5 путешествий": the number with the Russian word form; call with (dict "n" 5 "one" "путешествие" "few" "путешествия" "many" "путешествий") */ -}}
+{{- $n := .n -}}{{- $m10 := mod $n 10 -}}{{- $m100 := mod $n 100 -}}
+{{- $w := .many -}}
+{{- if and (eq $m10 1) (ne $m100 11) }}{{ $w = .one }}{{ else if and (ge $m10 2) (le $m10 4) (or (lt $m100 10) (ge $m100 20)) }}{{ $w = .few }}{{ end -}}
+{{- return printf "%d %s" $n $w -}}

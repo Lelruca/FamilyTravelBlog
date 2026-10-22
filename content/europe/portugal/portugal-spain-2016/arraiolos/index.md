@@ -9,6 +9,7 @@ places:
 hero_image: "20160823_115058.jpg"
 date: 2016-08-22
 auto_gallery: false
+attractions: ["arraiolos--muzey-kovrov-arrayolusha","arraiolos--zamok-arrayolush"]
 ---
 Вот если попытаться описать наше впечатление от небольшого поселка Аррейолуш (Arraiolos) в двух словах, то это будет - “срыв шаблона”!
 

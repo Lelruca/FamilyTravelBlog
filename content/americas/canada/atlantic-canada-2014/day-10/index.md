@@ -10,6 +10,7 @@ source_url: "https://olgau.livejournal.com/184351.html"
 places:
   - halifax
 hero_image: "IMG_4735.jpg"
+attractions: ["halifax--korabl-muzey-hmcs-sackville","halifax--obshchestvennye-sady-galifaksa"]
 ---
 
 <p>Прежде чем мы «уедем» с острова Кейп Бретон, я хочу написать о том, что мы НЕ успели тут посетить. Может быть кому-то при планировании эти места покажутся интересными. Во-первых, мы утром не поехали на тур к птичьему острову Bird Island boat еour  <a href="http://puffinboattours.com/index.html">http://puffinboattours.com/index.html</a> . Я думаю зря, но мы так на китах обломались, что желания не было. А там в это время туканы и не только!</p>

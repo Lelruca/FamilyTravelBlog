@@ -13,6 +13,7 @@ hero_image: "20191224_125054.jpg"
 date: "2019-12-24"
 auto_gallery: false
 draft: false
+attractions: ["ciutat-arts-ciencies","valencia-cathedral","bioparc-valencia","valencia--sady-turii"]
 ---
 <p>Валенсия в наш вояж по Испании попала только с целью проверки места для проведения пенсионного зимнего времени когда-нибудь. И мой муж, побывавший в Валенсии в феврале, очень за нее голосует.</p>
 

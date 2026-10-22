@@ -11,6 +11,7 @@ hero_image: "20220829_092655.jpg"
 date: "2022-08-29"
 auto_gallery: false
 draft: false
+attractions: ["bargello","florence--sobor-santa-mariya-del-fore","florence--florentiyskiy-baptisteriy"]
 ---
 <p>День 9 - Флоренция<br>Мы сделали это 😀<br>Поднялись на купол Дуомо. Несмотря на жару и то, что мы не большие фанаты обзорных площадок. Но пройти между двумя куполами собора, чудом инженерной мысли Брунеллески, посчитали обязательным!</p>
 

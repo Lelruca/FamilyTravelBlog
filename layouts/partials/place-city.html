@@ -1,0 +1,106 @@
+{{- /* The page of a place (city, lake, castle): all chapters about it, grouped by trip («Поездки»), and an index of
+       the sights seen there («Достопримечательности», from data/attractions.json via the chapters' `attractions`).
+       A sight belongs to this place when its parent is this place or a place inside it (data/place_groups.yaml part_of).
+       Sights never get their own map points or rows in the list of places. */ -}}
+{{- $slug := path.Base .File.Dir -}}
+{{- $attr := site.Data.attractions | default dict -}}
+{{- $partOf := site.Data.place_groups.part_of | default dict -}}
+{{- $names := partial "place-names.html" . -}}
+{{- $country := partial "place-country.html" . -}}
+
+{{- /* chapters: tagged with the place, with a place inside it, or with a sight of it */ -}}
+{{- $pages := .Pages -}}
+{{- range $child, $parent := $partOf }}{{ if eq $parent $slug }}{{ with site.GetPage (printf "/places/%s" $child) }}{{ $pages = $pages | union .Pages }}{{ end }}{{ end }}{{ end -}}
+{{- range where site.RegularPages "Params.attractions" "!=" nil -}}
+  {{- $p := . -}}
+  {{- range .Params.attractions }}{{ with index $attr . }}{{ if or (eq .parent $slug) (eq (index $partOf .parent) $slug) }}{{ $pages = $pages | union (slice $p) }}{{ end }}{{ end }}{{ end -}}
+{{- end -}}
+{{- $chapters := slice -}}
+{{- range sort $pages "Date" }}{{ if and .IsPage (not .Draft) }}{{ $chapters = $chapters | append . }}{{ end }}{{ end -}}
+
+{{- /* trips in the order of their first chapter here */ -}}
+{{- $trips := slice -}}{{- $seen := slice -}}
+{{- range $chapters }}{{ with .Parent }}{{ if not (in $seen .RelPermalink) }}{{ $seen = $seen | append .RelPermalink }}{{ $trips = $trips | append . }}{{ end }}{{ end }}{{ end -}}
+
+{{- /* sights of this place: id → chapters */ -}}
+{{- $sightIds := slice -}}{{- $sightCh := newScratch -}}
+{{- range $chapters -}}
+  {{- $ch := . -}}
+  {{- range .Params.attractions }}{{ $id := . }}{{ with index $attr $id }}{{ if or (eq .parent $slug) (eq (index $partOf .parent) $slug) -}}
+    {{- if not (in $sightIds $id) }}{{ $sightIds = $sightIds | append $id }}{{ end -}}
+    {{- $sightCh.Add $id (slice $ch) -}}
+  {{- end }}{{ end }}{{ end -}}
+{{- end -}}
+{{- $sights := slice -}}
+{{- range $sightIds }}{{ $sights = $sights | append (dict "id" . "title" (strings.FirstUpper (index $attr .).title)) }}{{ end -}}
+{{- $sights = sort $sights "title" -}}
+{{- $norm := "[^\\p{L}\\p{N}]+" -}}
+
+<div id="place-city" class="max-w-3xl mx-auto px-4 py-10">
+  {{ partial "breadcrumbs.html" . }}
+  <header class="city-head">
+    <h1 class="font-serif">{{ $names.ru }}</h1>
+    <p class="city-sub">{{ with $names.orig }}{{ . }} · {{ end }}{{ $country }}</p>
+    <p class="city-meta">{{ partial "place-plural.html" (dict "n" (len $trips) "one" "путешествие" "few" "путешествия" "many" "путешествий") }} · {{ partial "place-plural.html" (dict "n" (len $chapters) "one" "глава" "few" "главы" "many" "глав") }}{{ with $sights }} · {{ partial "place-plural.html" (dict "n" (len .) "one" "достопримечательность" "few" "достопримечательности" "many" "достопримечательностей") }}{{ end }}</p>
+  </header>
+
+  {{- if $sights }}
+  <div class="city-tabs" role="tablist" aria-label="Вид">
+    <button type="button" role="tab" id="city-tab-trips" aria-controls="city-trips" aria-selected="true" data-city-tab="trips">Поездки</button>
+    <button type="button" role="tab" id="city-tab-sights" aria-controls="city-sights" aria-selected="false" data-city-tab="sights">Достопримечательности</button>
+  </div>
+  {{- end }}
+
+  <section id="city-trips" role="tabpanel" aria-labelledby="city-tab-trips">
+  {{- range $trips }}
+    {{- $trip := . }}
+    <div class="city-trip">
+      <h2 class="font-serif">{{ .Params.cover_title | default .Title }}</h2>
+      <p class="city-when">{{ .Params.cover_when | default .Params.trip_year }}{{ with .Params.short_trip }}{{ with site.GetPage (printf "/short-trips/%s" .) }} · {{ .Title }}{{ end }}{{ end }}</p>
+      {{- range $chapters }}{{ if eq .Parent.RelPermalink $trip.RelPermalink }}
+      {{- $ch := . }}{{ $line := slice -}}
+      {{- range .Params.attractions }}{{ with index $attr . }}{{ if or (eq .parent $slug) (eq (index $partOf .parent) $slug) }}{{ $line = $line | append (strings.FirstUpper .title) }}{{ end }}{{ end }}{{ end }}
+      <a class="city-ch" href="{{ .RelPermalink }}"><span class="city-ch-title">{{ .Title }}</span>{{ with $line }}<span class="city-ch-sights">{{ delimit . ", " }}</span>{{ end }}</a>
+      {{- end }}{{ end }}
+    </div>
+  {{- end }}
+  </section>
+
+  {{- if $sights }}
+  <section id="city-sights" role="tabpanel" aria-labelledby="city-tab-sights" hidden>
+  {{- $last := "" }}
+  {{- range $sights }}
+    {{- $letter := upper (substr .title 0 1) }}
+    {{- if ne $letter $last }}<p class="city-letter">{{ $letter }}</p>{{ $last = $letter }}{{ end }}
+    {{- $title := .title }}
+    <div class="city-sight" id="a-{{ .id }}">
+      <h3>{{ .title }}</h3>
+      {{- range $sightCh.Get .id }}
+        {{- $same := eq (lower (replaceRE $norm "" .Title)) (lower (replaceRE $norm "" $title)) }}
+        {{- $trip := .Parent }}
+        {{- $when := printf "%s, %v" ($trip.Params.cover_title | default $trip.Title) ($trip.Params.trip_year | default (.Date.Format "2006")) }}
+      <a href="{{ .RelPermalink }}">{{ if $same }}{{ $when }}{{ else }}{{ .Title }} <span>· {{ $when }}</span>{{ end }}</a>
+      {{- end }}
+    </div>
+  {{- end }}
+  </section>
+  {{- end }}
+
+  <a class="city-back" href="{{ "places/" | relURL }}">← Поиск</a>
+</div>
+<script>
+/* tab from ?tab= or from this page's last visit; set before the page paints, so «Назад» returns to the same tab and scroll */
+(() => {
+  const root = document.getElementById('place-city'); if (!root) return;
+  const key = 'placeTab:' + location.pathname, tabs = [...root.querySelectorAll('[data-city-tab]')];
+  if (!tabs.length) return;
+  const show = t => { tabs.forEach(b => { const on = b.dataset.cityTab === t; b.setAttribute('aria-selected', on); document.getElementById('city-' + b.dataset.cityTab).hidden = !on; }); };
+  let t = new URLSearchParams(location.search).get('tab') || (location.hash.startsWith('#a-') ? 'sights' : '');
+  if (!t) { try { t = sessionStorage.getItem(key) || ''; } catch (e) {} }
+  show(t === 'sights' ? 'sights' : 'trips');
+  // a link from the search to one sight: scroll to it once the page has its final layout
+  if (location.hash.startsWith('#a-')) addEventListener('load', () => document.getElementById(decodeURIComponent(location.hash.slice(1)))?.scrollIntoView({ block: 'start' }));
+  tabs.forEach(b => b.addEventListener('click', () => { show(b.dataset.cityTab); try { sessionStorage.setItem(key, b.dataset.cityTab); } catch (e) {}
+    const u = new URL(location.href); u.searchParams.set('tab', b.dataset.cityTab); u.hash = ''; history.replaceState(null, '', u); }));
+})();
+</script>

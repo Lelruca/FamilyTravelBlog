@@ -12,6 +12,7 @@ hero_image: "20250213_101350.jpg"
 date: "2025-02-13"
 auto_gallery: false
 draft: false
+attractions: ["zocalo","palacio-bellas-artes","mexico-city--park-alameda-sentral","mexico-city--kafedralnyy-sobor-mekhiko","mexico-city--templo-mayor"]
 ---
 <p>И так мы в Мехико - светит солнце и нам приятно в майках, хотя местные натянули куртки! </p>
 

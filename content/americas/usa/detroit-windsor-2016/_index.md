@@ -12,6 +12,7 @@ continent: "Северная Америка"
 country: "США"
 geo_countries:
   - usa
+  - canada
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/cover/20160806_133129.jpg"
 cover_title: "Детройт и музей Форда"
 ---

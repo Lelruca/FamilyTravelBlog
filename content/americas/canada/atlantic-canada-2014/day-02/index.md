@@ -10,7 +10,9 @@ source_url: "https://olgau.livejournal.com/182280.html"
 places:
   - acadian-historical-village
   - parlee-beach
+  - shediac
 hero_image: "IMG_4152.jpg"
+attractions: ["parlee-beach"]
 ---
 
 <p>C утра мы выдвинулись в сторону нашей «деревни» - <b>Acadian Historical Village</b>. </p>

@@ -12,6 +12,7 @@ places:
 trip_days: [9]
 draft_plan: false
 hero_image: "DSC07470.JPG"
+attractions: ["fussen--vysokiy-zamok-fyussena"]
 ---
 
 <p>Все-таки здорово в одном, даже небольшом путешествии, захватить две страны, две культуры. На фоне друг друга они еще больше играют своими особенными “красками”.</p>

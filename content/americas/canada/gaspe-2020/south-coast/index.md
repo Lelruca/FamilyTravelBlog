@@ -12,6 +12,7 @@ hero_card_position: "center 70%"
 date: "2020-08-07"
 auto_gallery: false
 draft: false
+attractions: ["bonaventure-quebec--muzey-akadii","bonaventure-quebec--biopark-gaspezi"]
 ---
 <p>Сегодня мы простились с Персе - очень нам тут понравилось - и двинулись уже по южному побережью полуострова Гаспе в обратном направлении.</p>
 

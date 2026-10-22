@@ -9,6 +9,7 @@ auto_gallery: false
 places:
   - lamego
 hero_image: "IMG_0425.JPG"
+attractions: ["lamego--svyatilishche-bogomateri-istselyayushchey","lamego--zamok-lamegu","lamego--muzey-lamegu"]
 ---
 
 <p>Сегодня мы выбрались из природых красот к архитектуре и музеям :) Все-таки природа - это не наше. Посмотреть красиво и в удовольствие, но быстро.</p>

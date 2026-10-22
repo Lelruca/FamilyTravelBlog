@@ -9,6 +9,7 @@ city: "Нью-Йорк"
 places:
   - new-york
 auto_gallery: false
+attractions: ["new-york--empayr-steyt-bilding","new-york--amerikanskiy-muzey-estestvennoy-istorii","new-york--tsentralnyy-park"]
 ---
 
 <p>Извиняюсь за столь банальное название, но оно отражает именно те протеворечивые чувства, что вызывал у нас этот необыкновенный город :-)</p>

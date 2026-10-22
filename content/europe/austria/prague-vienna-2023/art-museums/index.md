@@ -8,10 +8,12 @@ places:
   - kunsthistorisches-museum
   - albertina
   - belvedere
+  - vienna
 hero_image: "20230524_175626.jpg"
 date: "2023-05-26"
 auto_gallery: false
 draft: false
+attractions: ["kunsthistorisches-museum","albertina","belvedere"]
 ---
 <p>Вена это конечно Мекка для любителей искусства! Днем музеи на любой вкус - глаза разбегаются! Вечером представления и концерты!<br>Художественных музеев мы успели посетить только 3-и. </p>
 

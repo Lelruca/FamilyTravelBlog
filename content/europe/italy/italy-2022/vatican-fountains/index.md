@@ -11,6 +11,7 @@ hero_image: "20220822_094101.jpg"
 date: "2022-08-22"
 auto_gallery: false
 draft: false
+attractions: ["vatican--sobor-svyatogo-petra","vatican--muzei-vatikana"]
 ---
 <p>День 2 - так загуляли что я не записала вовремя, но хочу записать для истории из своих сообщений.<br>Все туристы Рима в понедельник идут в Ватикан. Потому что ничего другого не работает :)</p>
 

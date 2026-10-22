@@ -11,6 +11,7 @@ hero_image: "20250212_182723.jpg"
 date: "2025-02-12"
 auto_gallery: false
 draft: false
+attractions: ["merida-mexico--zoopark-meridy"]
 ---
 {{< beside photo="20250212_114019.jpg" >}}
 <p>Про кепку. Серега забыл ее у бассейна в нашей</p>

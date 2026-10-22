@@ -14,6 +14,7 @@ hero_image: "20250803_103536.jpg"
 date: "2025-08-03"
 auto_gallery: false
 draft: false
+attractions: ["palazzo-pitti","galleria-accademia","medici-chapels","bargello"]
 ---
 <p>Ну я привезла мужа на романтический уикенд во Флоренцию, а тут... бесплатный день музеев и... мой муж... по музеям, по музеям! 😊</p>
 

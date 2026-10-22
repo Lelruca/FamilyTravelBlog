@@ -9,6 +9,7 @@ source_url: "https://olgau.livejournal.com/262329.html"
 places:
   - "hangzhou"
 hero_image: "Hazy-Lakeside-Fisher-and-City-Skyline.jpg"
+attractions: ["hangzhou--muzey-shyolka","hangzhou--khram-lininsy","hangzhou--natsionalnyy-muzey-chaya","hangzhou--ozero-sikhu"]
 ---
 
 <p>В Ханчжоу мы провели очень удачный день! Сейчас вспоминается как один из самых интересных. Это город 200 км от Шанхая, и каких-то 9.5 млн.жителей.  Это уже юг. Пальмы, магнолии цветут. Тут проходил саммит G20 в 2016 году и к этому событию все понастроили- метро увеличили, общественный транспорт перевели на электричество и все в таком духе :) Но нашему, по китайски :-)</p>

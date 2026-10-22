@@ -1,9 +1,7 @@
 {{ define "main" }}
-<link rel="stylesheet" href="{{ "css/places.css" | relURL }}">
-<div id="place-explorer" class="max-w-5xl mx-auto px-4 py-12">
-  {{ partial "breadcrumbs.html" . }}
-  <header><h1 class="font-serif text-4xl font-bold">{{ .Title }}</h1><p class="place-context">Главы об этом месте</p></header>
-  {{ partial "place-chapters.html" . }}
-  <a class="place-permalink" href="{{ "places/" | relURL }}">← Все места</a>
-</div>
+{{- /* the section page itself is the «Поиск» list; every other page here is one place */ -}}
+{{ if eq .Kind "taxonomy" }}{{ partial "place-explorer.html" . }}{{ else }}
+<link rel="stylesheet" href="{{ "css/places.css" | relURL }}?v={{ now.Unix }}">
+{{ partial "place-city.html" . }}
+{{ end }}
 {{ end }}

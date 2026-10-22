@@ -10,6 +10,11 @@ source_url: "https://olgau.livejournal.com/218029.html"
 hero_image: "IMG_6956.jpg"
 places:
   - florence
+  - medici-chapels
+  - bargello
+  - piazzale-michelangelo
+  - santa-croce-florence
+attractions: ["medici-chapels","bargello","piazzale-michelangelo","santa-croce-florence","florence--palatstso-davantsati","florence--ponte-vekko","florence--bazilika-san-miniato-al-monte"]
 ---
 <p>Следующий день был днем бесплатных музеев и мы планировали “выжать” из него все возможное! Поскольку в Уффици нам вставать ни свет не заря не надо было, мы выбрали первой точкой - капеллу Медичи.</p>
 

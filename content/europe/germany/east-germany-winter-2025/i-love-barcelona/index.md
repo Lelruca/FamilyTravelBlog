@@ -11,6 +11,7 @@ date: "2025-12-17"
 auto_gallery: false
 draft: false
 
+attractions: ["barcelona--muzey-nauki-cosmocaixa"]
 ---
 <p>Надо сказать, что Барселона зимой произвела на нас больше впечатления, чем летом.</p>
 

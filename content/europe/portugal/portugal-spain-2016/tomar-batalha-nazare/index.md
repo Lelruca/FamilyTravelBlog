@@ -13,6 +13,7 @@ hero_card_position: "center 45%"
 hero_crop: "center 45%"
 date: 2016-09-02
 auto_gallery: false
+attractions: ["tomar--monastyr-ordena-khrista","batalha--monastyr-batalya"]
 ---
 Convent of Christ (5/5/5/4) - “Главная твердыня португальских тамплиеров и их наследников, ордена Христа. Заложена в качестве орденского замка в XII веке, позднее обращена в монастырь.”
 

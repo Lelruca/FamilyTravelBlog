@@ -11,6 +11,7 @@ places:
   - braga
 hero_image: "IMG_0679.JPG"
 hero_card_image: "IMG_0679.JPG"
+attractions: ["guimaraes--dvorets-gertsogov-bragansa","braga--kafedralnyy-sobor-bragi"]
 ---
 
 <p>Сегодня мы поехали в город, который пишет на своих воротах - "Тут родилась Португалия!" - Гимарайнш.</p>

@@ -10,6 +10,7 @@ hero_image: "20220624_125854.jpg"
 date: "2022-06-24"
 auto_gallery: false
 draft: false
+attractions: ["astorga--kafedralnyy-sobor-astorgi","astorga--episkopskiy-dvorets-gaudi"]
 ---
 <p>Мы покинули Астурию и зелёную Испанию и переехали через кантабрийские горы в Кастилью и Леон. Сразу появилась жёлтая трава и красная земля. Правда теплее не стало. Мы продолжали кататься в кофты и куртки.</p>
 

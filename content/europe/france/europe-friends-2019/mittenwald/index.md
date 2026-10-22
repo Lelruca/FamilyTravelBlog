@@ -12,6 +12,7 @@ places:
 trip_days: [11]
 draft_plan: false
 hero_image: "DSC07555.JPG"
+attractions: ["karwendel","leutaschklamm"]
 ---
 
 <p>Везет тем кто везет 😀</p>

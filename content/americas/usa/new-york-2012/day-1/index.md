@@ -9,6 +9,7 @@ city: "Нью-Йорк"
 places: ["new-york"]
 auto_gallery: false
 aliases: ["/americas/usa/new-york-2012/story/"]
+attractions: ["new-york--sony-wonder-technology-lab","new-york--muzey-sovremennogo-iskusstva-moma","new-york--smotrovaya-ploshchadka-top-of-the-rock"]
 ---
 
 <p>СПАСИБО ОГРОМНОЕ за поздравления!!!</p>
