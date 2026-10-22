@@ -1,7 +1,11 @@
 #place-explorer,#place-city{color:#1e293b} #place-explorer [hidden],#place-city [hidden]{display:none!important}
 .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 #place-explorer header p{margin-top:10px}.place-context{display:block;color:#64748b;font-size:14px;line-height:1.6}
-.place-tools{display:flex;gap:12px;align-items:end;margin:24px 0 10px;flex-wrap:wrap}.place-search{flex:1;min-width:220px}.place-tools input,.place-tools select,.place-modes button,#place-map-reset{border:1px solid #cbd5e1;border-radius:8px;background:white;padding:10px 14px;color:#1e293b}.place-tools input{width:100%;font-size:16px}.place-modes{display:flex;gap:4px}.place-modes button[aria-pressed=true]{background:#1e293b;color:white;border-color:#1e293b}
+.place-tools{display:flex;gap:12px;align-items:end;margin:24px 0 10px;flex-wrap:wrap}.place-search{flex:1;min-width:180px}.place-tools input,.place-tools select,.place-modes button,#place-map-reset{border:1px solid #cbd5e1;border-radius:8px;background:white;padding:10px 14px;color:#1e293b}.place-tools input{width:100%;font-size:16px}
+.place-field{position:relative}.place-tools input{padding-right:40px}.place-tools input::-webkit-search-cancel-button{display:none}
+.place-clear{position:absolute;top:50%;right:6px;transform:translateY(-50%);width:30px;height:30px;border:0;border-radius:50%;background:#f1f5f9;color:#475569;font-size:18px;line-height:30px;padding:0;cursor:pointer}
+.place-clear:hover{background:#e2e8f0;color:#1e293b}.place-field select{padding-right:34px;max-width:300px;text-overflow:ellipsis}.place-field select~.place-clear{right:28px;width:24px;height:24px;line-height:24px;font-size:16px}
+.place-field:has(.place-clear:not([hidden])) select{padding-right:58px}.place-modes{display:flex;gap:4px}.place-modes button[aria-pressed=true]{background:#1e293b;color:white;border-color:#1e293b}
 #place-explorer :focus-visible,#place-city :focus-visible{outline:2px solid #2a9d8f;outline-offset:2px}.place-results-line{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 14px;margin-bottom:12px}#place-results{margin:0}
 #place-reset{background:none;border:0;padding:6px 0;color:#2a9d8f;font:inherit;font-size:14px;text-decoration:underline;cursor:pointer}
 

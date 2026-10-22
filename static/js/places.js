@@ -67,6 +67,7 @@
     root.querySelector('#place-results').textContent = words.length ? `Найдено мест: ${n}${found.length ? `, достопримечательностей: ${found.length}` : ''}` : `Мест: ${n}`;
     root.querySelector('#places-empty').hidden = n !== 0 || found.length !== 0;
     reset.hidden = !words.length && !country.value;
+    clearSearch.hidden = !input.value; clearCountry.hidden = !country.value;
     if(mode==='map') renderMap();
     remember();
   }
@@ -80,6 +81,10 @@
   input.addEventListener('input',filter);country.addEventListener('change',filter);
   // clears the word and the country, keeps the view; the cleared search is what is remembered
   const reset = root.querySelector('#place-reset');
+  // a cross inside each field clears just that field
+  const clearSearch = root.querySelector('[data-clear="place-search"]'), clearCountry = root.querySelector('[data-clear="place-country"]');
+  clearSearch.addEventListener('click', () => { input.value = ''; filter(); if (!matchMedia('(pointer:coarse)').matches) input.focus(); });
+  clearCountry.addEventListener('click', () => { country.value = ''; filter(); country.focus(); });
   reset.addEventListener('click', () => { input.value = ''; country.value = ''; filter();
     if (!matchMedia('(pointer:coarse)').matches) input.focus({ preventScroll: true }); }); // no keyboard popping up on a phone
 
