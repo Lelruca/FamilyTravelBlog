@@ -1,0 +1,36 @@
+{{ define "main" }}
+{{- /* Trip page = the trip's table of contents (DESIGN_PHOTOS.md «Страница поездки»): the cover on 90% of the screen with
+       the trip's name over it, bottom left (where / title / subtitle / when · who, from the cover_* fields);
+       a click opens the cover whole, without the text. Below: the chapters as photo tiles. */ -}}
+{{- $trip := . -}}
+{{- $cover := $trip.Params.cover_image -}}
+{{- if $trip.Params.short_trip }}
+{{- /* A short trip has no trip page: its card and any old link go straight into the story, the first chapter. */ -}}
+{{- $to := partial "trip-url.html" $trip -}}
+<meta http-equiv="refresh" content="0; url={{ $to }}"><script>location.replace({{ $to }})</script>
+<div class="site-wrap" style="padding:48px 0"><a href="{{ $to }}">{{ $trip.Params.cover_title | default $trip.Title }}</a></div>
+{{- else }}
+{{ partial "trip-page-style.html" . }}
+<style>{{ $trip.Params.cover_style | safeCSS }}</style>
+<section class="trip-cover">
+  {{- with $cover }}<a href="{{ . }}" data-photo-lightbox aria-label="Обложка целиком"><img referrerpolicy="no-referrer" src="{{ . }}" alt=""{{ with $trip.Params.cover_position }} style="object-position: {{ . }};"{{ end }} loading="eager" fetchpriority="high"></a>{{ end }}
+  <div class="trip-cover-text"><div class="site-wrap">
+    {{- with $trip.Params.cover_where }}<p class="trip-cover-where">{{ . }}</p>{{ end }}
+    <h1 class="trip-cover-title">{{ $trip.Params.cover_title | default $trip.Title }}</h1>
+    {{- with $trip.Params.cover_subtitle }}<p class="trip-cover-sub">{{ . }}</p>{{ end }}
+    {{- $meta := slice -}}{{- with $trip.Params.cover_when }}{{ $meta = $meta | append . }}{{ end -}}{{- with $trip.Params.cover_who }}{{ $meta = $meta | append . }}{{ end -}}
+    {{- with $meta }}<p class="trip-cover-meta">{{ delimit . " · " }}</p>{{ end }}
+  </div></div>
+</section>
+<div class="site-wrap">
+  {{- if or $trip.Params.summary (trim (plainify $trip.Content) " \n") }}
+  <div class="trip-intro">{{ with $trip.Params.summary }}<p>{{ . }}</p>{{ end }}{{ $trip.Content }}</div>
+  {{- end }}
+  <section class="chapter-tiles" aria-label="Главы">
+    {{- range $trip.Pages.ByWeight }}
+      {{ partial "chapter-tile.html" . }}
+    {{- end }}
+  </section>
+</div>
+{{- end }}
+{{ end }}
