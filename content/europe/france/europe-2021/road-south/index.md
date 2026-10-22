@@ -1,5 +1,5 @@
 ---
-title: "Дорога на юг"
+title: "Вырвались из карантина"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 10
