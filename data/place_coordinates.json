@@ -4094,5 +4094,21 @@
     "country_code": "ES",
     "source": "https://www.openstreetmap.org/relation/343945",
     "query": "Montblanc, Tarragona"
+  },
+  "teruel": {
+    "lat": 40.3436719,
+    "lon": -1.1081939,
+    "name": "Teruel",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/344962",
+    "query": "Teruel city"
+  },
+  "albarracin": {
+    "lat": 40.4072825,
+    "lon": -1.4442792,
+    "name": "Albarracín",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/345059",
+    "query": "Albarracín"
   }
 }
