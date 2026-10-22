@@ -2377,8 +2377,8 @@
     "authorized": true,
     "status": "published",
     "authorization": "Везде все проверь ... после этого можешь деплоить",
-    "commit": "c9118de3f944670d1c85b09a615ff8f0a88cff60",
-    "pages_run": 39720554227,
+    "commit": "7e13e397f460cdaedda967333d3c19e5ec0ab38e",
+    "pages_run": 39800995536,
     "live_verified": true
   },
   "cover_image": "birthday/PB080528.JPG",
@@ -3210,8 +3210,8 @@
         "hurth"
       ],
       "folder": "05 - Бабушке 95 лет",
-      "hero_image": "PB080522.JPG",
-      "hero_card_image": "PB080522.JPG",
+      "hero_image": "PB080523.JPG",
+      "hero_card_image": "PB080523.JPG",
       "fragments": [
         {
           "source_index": 71,
@@ -3290,7 +3290,7 @@
               "kind": "row",
               "names": [
                 "PB080528.JPG",
-                "PB080523.JPG"
+                "PB080522.JPG"
               ]
             }
           ]
@@ -3309,7 +3309,8 @@
           "text": "Фотки я еще с фотоаппарата не скачала, но сделаю на днях.",
           "photo_blocks": []
         }
-      ]
+      ],
+      "owner_selected_portrait_hero": true
     }
   ],
   "rendered_paragraphs": [

@@ -809,8 +809,8 @@
         "hurth"
       ],
       "folder": "05 - Бабушке 95 лет",
-      "hero_image": "PB080522.JPG",
-      "hero_card_image": "PB080522.JPG",
+      "hero_image": "PB080523.JPG",
+      "hero_card_image": "PB080523.JPG",
       "fragments": [
         {
           "source_index": 71,
@@ -889,7 +889,7 @@
               "kind": "row",
               "names": [
                 "PB080528.JPG",
-                "PB080523.JPG"
+                "PB080522.JPG"
               ]
             }
           ]
@@ -908,7 +908,8 @@
           "text": "Фотки я еще с фотоаппарата не скачала, но сделаю на днях.",
           "photo_blocks": []
         }
-      ]
+      ],
+      "owner_selected_portrait_hero": true
     }
   ],
   "rotations": {

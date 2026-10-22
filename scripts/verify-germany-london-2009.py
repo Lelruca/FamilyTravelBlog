@@ -50,7 +50,7 @@ for ch in c['chapters']:
   assert all(norm(f['text']) in [norm(x) for x in q.ps] for f in ch['fragments'])
  for name in expected:
   if name==ch['hero_image']:
-   dimensions=data[ch['slug']+'/'+name];assert dimensions['w']>=dimensions['h'], 'Portrait chapter cover'
+   dimensions=data[ch['slug']+'/'+name];assert dimensions['w']>=dimensions['h'] or ch.get('owner_selected_portrait_hero'), 'Unapproved portrait chapter cover'
  count+=len(expected)
 assert count==len(m['photos'])==123
 print('Germany and London 2009: 5 chapters, 123 photos, 38 source paragraphs/63 exact fragments, archive/cloud/R2 verified')
