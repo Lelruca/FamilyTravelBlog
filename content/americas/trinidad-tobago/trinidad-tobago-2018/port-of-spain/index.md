@@ -21,6 +21,6 @@ draft: false
 
 {{< travel-video "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/trinidad-tobago-2018/port-of-spain/20181011_174703.mp4" >}}
 
-{{< row "20181011_180955.jpg 20181012_082922.jpg" >}}
+{{< row "20181011_180955.jpg 20181012_082922.jpg 20181012_082949.jpg" >}}
 
 {{< row "20181012_150606.jpg 20181012_150829.jpg" >}}
