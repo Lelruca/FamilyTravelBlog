@@ -12,6 +12,7 @@ places:
 trip_days: [17]
 draft_plan: false
 hero_image: "20190830_092643.jpg"
+attractions: ["aachen--akhenskiy-sobor"]
 ---
 
 <p>Сегодня наш путь лежит назад во Францию. Мы нарисовали его на карте и стали смотреть что мы проезжаем.</p>

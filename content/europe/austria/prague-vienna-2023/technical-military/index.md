@@ -7,10 +7,12 @@ city: "Wien"
 places:
   - technisches-museum-wien
   - heeresgeschichtliches-museum
+  - vienna
 hero_image: "20230527_154554.jpg"
 date: "2023-05-28"
 auto_gallery: false
 draft: false
+attractions: ["technisches-museum-wien","heeresgeschichtliches-museum"]
 ---
 <p>"Другие музеи" - в эту категорию у меня попали музеи нехудожественные. И тут народу надо сказать немного совсем. А зря!!! </p>
 

@@ -11,6 +11,7 @@ date: "2025-12-14"
 auto_gallery: false
 draft: false
 source_url: "https://www.facebook.com/media/set/?set=pcb.1338851524708046"
+attractions: ["berlin--nemetskiy-tekhnicheskiy-muzey","berlin--nemetskaya-opera-berlina"]
 ---
 <p>Германия и инженерное дело — это практически синонимы, поэтому посещение Берлина без технического музея не может быть полным!</p>
 

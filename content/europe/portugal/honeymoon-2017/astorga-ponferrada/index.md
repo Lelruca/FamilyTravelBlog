@@ -11,6 +11,7 @@ places:
   - ponferrada
 hero_image: "IMG_0174.JPG"
 hero_card_image: "IMG_0174.JPG"
+attractions: ["astorga--kafedralnyy-sobor-astorgi","astorga--episkopskiy-dvorets-gaudi","ponferrada--zamok-tamplierov-ponferrady"]
 ---
 
 <p>С утра мы расстались с Астурией и "Зеленой Испанией" в целом. Дорога наша лежало в сердце Испании, самый "испанский" ренион Кастилья и Леон. Но для этого нам предстояло пересечь Кантабрийские горы. Какая же красота!!! Дороги прнкрасные, много тунелей и аквидуков.</p>

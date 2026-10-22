@@ -1,0 +1,2295 @@
+{
+  "aachen--akhenskiy-sobor": {
+    "title": "Ахенский собор",
+    "parent": "aachen"
+  },
+  "agawa-rock": {
+    "title": "Наскальные рисунки Агава",
+    "parent": "lake-superior-park",
+    "place": "agawa-rock"
+  },
+  "albertina": {
+    "title": "Альбертина",
+    "parent": "vienna",
+    "place": "albertina"
+  },
+  "albi-cathedral": {
+    "title": "Собор Святой Цецилии",
+    "parent": "albi",
+    "place": "albi-cathedral"
+  },
+  "alcazar-segovia": {
+    "title": "Алькасар",
+    "parent": "segovia",
+    "place": "alcazar-segovia"
+  },
+  "alhambra": {
+    "title": "Альгамбра",
+    "parent": "granada",
+    "place": "alhambra"
+  },
+  "allmendhubel": {
+    "title": "Альмендхубель",
+    "parent": "murren",
+    "place": "allmendhubel"
+  },
+  "almudena-cathedral": {
+    "title": "Собор Альмудена",
+    "parent": "madrid",
+    "place": "almudena-cathedral"
+  },
+  "amsterdam-museum": {
+    "title": "Музей истории Амстердама",
+    "parent": "amsterdam",
+    "place": "amsterdam-museum"
+  },
+  "arc-triomphe": {
+    "title": "Триумфальная арка",
+    "parent": "paris",
+    "place": "arc-triomphe"
+  },
+  "arraiolos--muzey-kovrov-arrayolusha": {
+    "title": "Музей ковров Аррайолуша",
+    "parent": "arraiolos"
+  },
+  "arraiolos--zamok-arrayolush": {
+    "title": "Замок Аррайолуш",
+    "parent": "arraiolos"
+  },
+  "astorga--episkopskiy-dvorets-gaudi": {
+    "title": "Епископский дворец Гауди",
+    "parent": "astorga"
+  },
+  "astorga--kafedralnyy-sobor-astorgi": {
+    "title": "Кафедральный собор Асторги",
+    "parent": "astorga"
+  },
+  "aveiro--muzey-aveyru-monastyr-iisusa": {
+    "title": "Музей Авейру — монастырь Иисуса",
+    "parent": "aveiro"
+  },
+  "baddeck--muzey-aleksandra-bella": {
+    "title": "Музей Александра Белла",
+    "parent": "baddeck"
+  },
+  "banff--fairmont-banff-springs": {
+    "title": "Fairmont Banff Springs",
+    "parent": "banff"
+  },
+  "banff--muzey-buffalo-nations-luxton": {
+    "title": "Музей Buffalo Nations Luxton",
+    "parent": "banff"
+  },
+  "banff--ozero-minnevanka": {
+    "title": "Озеро Минневанка",
+    "parent": "banff"
+  },
+  "barcelona--eshampl": {
+    "title": "Эшампль",
+    "parent": "barcelona"
+  },
+  "barcelona--muzey-dizayna-barselony": {
+    "title": "Музей дизайна Барселоны",
+    "parent": "barcelona"
+  },
+  "barcelona--muzey-muzyki-barselony": {
+    "title": "Музей музыки Барселоны",
+    "parent": "barcelona"
+  },
+  "barcelona--muzey-nauki-cosmocaixa": {
+    "title": "Музей науки CosmoCaixa",
+    "parent": "barcelona"
+  },
+  "barcelona--ploshchad-ispanii": {
+    "title": "Площадь Испании",
+    "parent": "barcelona"
+  },
+  "barcelona--ploshchad-katalonii": {
+    "title": "Площадь Каталонии",
+    "parent": "barcelona"
+  },
+  "barcelona--ploshchad-sant-zhaume": {
+    "title": "Площадь Сант-Жауме",
+    "parent": "barcelona"
+  },
+  "barcelona-cathedral": {
+    "title": "Кафедральный собор",
+    "parent": "barcelona",
+    "place": "barcelona-cathedral"
+  },
+  "bargello": {
+    "title": "Музей Барджелло",
+    "parent": "florence",
+    "place": "bargello"
+  },
+  "barri-gotic": {
+    "title": "Готический квартал",
+    "parent": "barcelona",
+    "place": "barri-gotic"
+  },
+  "batalha--monastyr-batalya": {
+    "title": "Монастырь Баталья",
+    "parent": "batalha"
+  },
+  "beaune--ospis-de-bon": {
+    "title": "Оспис-де-Бон",
+    "parent": "beaune"
+  },
+  "beijing--imperatorskaya-akademiya-gotszytszyan": {
+    "title": "Императорская академия Гоцзыцзянь",
+    "parent": "beijing"
+  },
+  "beijing--krasnyy-teatr": {
+    "title": "Красный театр",
+    "parent": "beijing"
+  },
+  "beijing--muzey-goroda-pekina": {
+    "title": "Музей города Пекина",
+    "parent": "beijing"
+  },
+  "beijing--ulitsa-tsyanmen": {
+    "title": "Улица Цяньмэнь",
+    "parent": "beijing"
+  },
+  "beijing--zhemchuzhnyy-rynok": {
+    "title": "Жемчужный рынок",
+    "parent": "beijing"
+  },
+  "belem": {
+    "title": "Белем",
+    "parent": "lisbon",
+    "place": "belem"
+  },
+  "belmonte--muzey-olivkovogo-masla": {
+    "title": "Музей оливкового масла",
+    "parent": "belmonte"
+  },
+  "belvedere": {
+    "title": "Бельведер",
+    "parent": "vienna",
+    "place": "belvedere"
+  },
+  "berlin--berlinskaya-kartinnaya-galereya": {
+    "title": "Берлинская картинная галерея",
+    "parent": "berlin"
+  },
+  "berlin--berlinskaya-stena": {
+    "title": "Берлинская стена",
+    "parent": "berlin"
+  },
+  "berlin--berlinskiy-sobor": {
+    "title": "Берлинский собор",
+    "parent": "berlin"
+  },
+  "berlin--muzey-bode": {
+    "title": "Музей Боде",
+    "parent": "berlin"
+  },
+  "berlin--muzeynyy-ostrov": {
+    "title": "Музейный остров",
+    "parent": "berlin"
+  },
+  "berlin--nemetskaya-opera-berlina": {
+    "title": "Немецкая опера Берлина",
+    "parent": "berlin"
+  },
+  "berlin--nemetskiy-tekhnicheskiy-muzey": {
+    "title": "Немецкий технический музей",
+    "parent": "berlin"
+  },
+  "berlin--novyy-muzey": {
+    "title": "Новый музей",
+    "parent": "berlin"
+  },
+  "berlin--panorama-pergamona": {
+    "title": "Панорама Пергамона",
+    "parent": "berlin"
+  },
+  "berlin--staryy-muzey": {
+    "title": "Старый музей",
+    "parent": "berlin"
+  },
+  "berlin--treptov-park": {
+    "title": "Трептов-парк",
+    "parent": "berlin"
+  },
+  "bilbao-fine-arts": {
+    "title": "Музей изящных искусств",
+    "parent": "bilbao",
+    "place": "bilbao-fine-arts"
+  },
+  "binnenhof": {
+    "title": "Бинненхоф",
+    "parent": "the-hague",
+    "place": "binnenhof"
+  },
+  "bioparc-valencia": {
+    "title": "Биопарк",
+    "parent": "valencia",
+    "place": "bioparc-valencia"
+  },
+  "bodeguita-del-medio": {
+    "title": "Бар «Бодегита дель Медио»",
+    "parent": "havana",
+    "place": "bodeguita-del-medio"
+  },
+  "bonaventure-island": {
+    "title": "Остров Bonaventure",
+    "parent": "perce",
+    "place": "bonaventure-island"
+  },
+  "bonaventure-quebec--biopark-gaspezi": {
+    "title": "Биопарк Гаспези",
+    "parent": "bonaventure-quebec"
+  },
+  "bonaventure-quebec--muzey-akadii": {
+    "title": "Музей Акадии",
+    "parent": "bonaventure-quebec"
+  },
+  "boston--muzey-nauki-bostona": {
+    "title": "Музей науки Бостона",
+    "parent": "boston"
+  },
+  "boston--muzey-vest-enda": {
+    "title": "Музей Вест-Энда",
+    "parent": "boston"
+  },
+  "braga--kafedralnyy-sobor-bragi": {
+    "title": "Кафедральный собор Браги",
+    "parent": "braga"
+  },
+  "braganca--iberiyskiy-muzey-masok-i-kostyuma": {
+    "title": "Иберийский музей масок и костюма",
+    "parent": "braganca"
+  },
+  "braganca--zamok-bragansy-i-voennyy-muzey": {
+    "title": "Замок Брагансы и военный музей",
+    "parent": "braganca"
+  },
+  "bruges--beginazh-bryugge": {
+    "title": "Бегинаж Брюгге",
+    "parent": "bruges"
+  },
+  "bruhl--dvorets-augustusburg": {
+    "title": "Дворец Аугустусбург",
+    "parent": "bruhl"
+  },
+  "bruhl--okhotnichiy-dvorets-falkenlust": {
+    "title": "Охотничий дворец Фалькенлуст",
+    "parent": "bruhl"
+  },
+  "bruhl--park-phantasialand": {
+    "title": "Парк Phantasialand",
+    "parent": "bruhl"
+  },
+  "brussels--avtomir": {
+    "title": "Автомир",
+    "parent": "brussels"
+  },
+  "brussels--korolevskiy-muzey-armii-i-voennoy-istorii": {
+    "title": "Королевский музей армии и военной истории",
+    "parent": "brussels"
+  },
+  "brussels--muzey-muzykalnykh-instrumentov": {
+    "title": "Музей музыкальных инструментов",
+    "parent": "brussels"
+  },
+  "buenos-aires--kladbishche-rekoleta": {
+    "title": "Кладбище Реколета",
+    "parent": "buenos-aires"
+  },
+  "buenos-aires--knizhnyy-magazin-v-teatre": {
+    "title": "Книжный магазин в театре",
+    "parent": "buenos-aires"
+  },
+  "buenos-aires--la-boka": {
+    "title": "Ла-Бока",
+    "parent": "buenos-aires"
+  },
+  "buenos-aires--muzey-dekorativnogo-iskusstva": {
+    "title": "Музей декоративного искусства",
+    "parent": "buenos-aires"
+  },
+  "buenos-aires--muzey-mate": {
+    "title": "Музей мате",
+    "parent": "buenos-aires"
+  },
+  "buenos-aires--natsionalnyy-muzey-izyashchnykh-iskusstv-argentiny": {
+    "title": "Национальный музей изящных искусств Аргентины",
+    "parent": "buenos-aires"
+  },
+  "buenos-aires--san-telmo": {
+    "title": "Сан-Тельмо",
+    "parent": "buenos-aires"
+  },
+  "buenos-aires--teatr-kolon": {
+    "title": "Театр Колон",
+    "parent": "buenos-aires"
+  },
+  "burgos-cathedral": {
+    "title": "Собор Бургоса",
+    "parent": "burgos",
+    "place": "burgos-cathedral"
+  },
+  "cabo-da-roca": {
+    "title": "Мыс Рока",
+    "parent": "sintra",
+    "place": "cabo-da-roca"
+  },
+  "cadre-noir": {
+    "title": "Кадр Нуар",
+    "parent": "saumur",
+    "place": "cadre-noir"
+  },
+  "calgary--kalgariyskiy-stampid": {
+    "title": "Калгарийский Стампид",
+    "parent": "calgary"
+  },
+  "cambridge--kembridzhskiy-universitet": {
+    "title": "Кембриджский университет",
+    "parent": "cambridge"
+  },
+  "cap-chat--vetrogenerator-eole": {
+    "title": "Ветрогенератор Éole",
+    "parent": "cap-chat"
+  },
+  "capitolio-havana": {
+    "title": "Капитолий",
+    "parent": "havana",
+    "place": "capitolio-havana"
+  },
+  "capuchos-convent": {
+    "title": "Монастырь капуцинов",
+    "parent": "sintra",
+    "place": "capuchos-convent"
+  },
+  "carcassonne--krepost-karkasson": {
+    "title": "Крепость Каркассон",
+    "parent": "carcassonne"
+  },
+  "cartuja-miraflores": {
+    "title": "Монастырь Мирафлорес",
+    "parent": "burgos",
+    "place": "cartuja-miraflores"
+  },
+  "casa-batllo": {
+    "title": "Дом Бальо",
+    "parent": "barcelona",
+    "place": "casa-batllo"
+  },
+  "casa-mila": {
+    "title": "Дом Мила",
+    "parent": "barcelona",
+    "place": "casa-mila"
+  },
+  "castel-sant-angelo": {
+    "title": "Замок Святого Ангела",
+    "parent": "rome",
+    "place": "castel-sant-angelo"
+  },
+  "castello-sforzesco": {
+    "title": "Замок Сфорца",
+    "parent": "milan",
+    "place": "castello-sforzesco"
+  },
+  "catedral-havana": {
+    "title": "Кафедральный собор",
+    "parent": "havana",
+    "place": "catedral-havana"
+  },
+  "cathedrale-major-marseille": {
+    "title": "Собор Ла Мажор",
+    "parent": "marseille",
+    "place": "cathedrale-major-marseille"
+  },
+  "champs-elysees": {
+    "title": "Елисейские поля",
+    "parent": "paris",
+    "place": "champs-elysees"
+  },
+  "chapultepec-castle": {
+    "title": "Дворец Чапультепек",
+    "parent": "mexico-city",
+    "place": "chapultepec-castle"
+  },
+  "chateau-d-if": {
+    "title": "Замок Иф",
+    "parent": "marseille",
+    "place": "chateau-d-if"
+  },
+  "chicago--chikagskiy-institut-iskusstv": {
+    "title": "Чикагский институт искусств",
+    "parent": "chicago"
+  },
+  "chicago--chikagskiy-kulturnyy-tsentr": {
+    "title": "Чикагский культурный центр",
+    "parent": "chicago"
+  },
+  "chicago--muzey-kitayskoy-immigratsii": {
+    "title": "Музей китайской иммиграции",
+    "parent": "chicago"
+  },
+  "chicago--smotrovaya-ploshchadka-360-chicago": {
+    "title": "Смотровая площадка 360 Chicago",
+    "parent": "chicago"
+  },
+  "chicago--tsentralnyy-vokzal-chikago": {
+    "title": "Центральный вокзал Чикаго",
+    "parent": "chicago"
+  },
+  "ciutat-arts-ciencies": {
+    "title": "Город искусств и наук",
+    "parent": "valencia",
+    "place": "ciutat-arts-ciencies"
+  },
+  "cluny--abbatstvo-klyuni": {
+    "title": "Аббатство Клюни",
+    "parent": "cluny"
+  },
+  "coimbra--koimbrskiy-universitet-i-biblioteka-zhuanina": {
+    "title": "Коимбрский университет и библиотека Жуанина",
+    "parent": "coimbra"
+  },
+  "coimbra--monastyr-svyatogo-kresta": {
+    "title": "Монастырь Святого Креста",
+    "parent": "coimbra"
+  },
+  "coimbra--novyy-sobor-koimbry": {
+    "title": "Новый собор Коимбры",
+    "parent": "coimbra"
+  },
+  "coimbra--park-portugaliya-v-miniatyure": {
+    "title": "Парк «Португалия в миниатюре»",
+    "parent": "coimbra"
+  },
+  "coimbra--staryy-sobor-koimbry": {
+    "title": "Старый собор Коимбры",
+    "parent": "coimbra"
+  },
+  "cologne--kyolnskiy-sobor": {
+    "title": "Кёльнский собор",
+    "parent": "cologne"
+  },
+  "cologne--kyolnskiy-sobor-i-sokrovishchnitsa": {
+    "title": "Кёльнский собор и сокровищница",
+    "parent": "cologne"
+  },
+  "cologne--kyolnskiy-zoopark": {
+    "title": "Кёльнский зоопарк",
+    "parent": "cologne"
+  },
+  "cologne--kyolnskiy-zoopark-i-akvarium": {
+    "title": "Кёльнский зоопарк и аквариум",
+    "parent": "cologne"
+  },
+  "cologne--muzey-shokolada": {
+    "title": "Музей шоколада",
+    "parent": "cologne"
+  },
+  "colosseum": {
+    "title": "Колизей",
+    "parent": "rome",
+    "place": "colosseum"
+  },
+  "conciergerie": {
+    "title": "Консьержери",
+    "parent": "paris",
+    "place": "conciergerie"
+  },
+  "condom--sobor-kondoma": {
+    "title": "Собор Кондома",
+    "parent": "condom"
+  },
+  "confucius-temple-beijing": {
+    "title": "Храм Конфуция, Пекин",
+    "parent": "beijing",
+    "place": "confucius-temple-beijing"
+  },
+  "consuegra--melnitsy-konsuegry": {
+    "title": "Мельницы Консуэгры",
+    "parent": "consuegra"
+  },
+  "consuegra--zamok-konsuegry": {
+    "title": "Замок Консуэгры",
+    "parent": "consuegra"
+  },
+  "cordes-sur-ciel--muzey-shokolada": {
+    "title": "Музей шоколада",
+    "parent": "cordes-sur-ciel"
+  },
+  "coyoacan": {
+    "title": "Койоакан",
+    "parent": "mexico-city",
+    "place": "coyoacan"
+  },
+  "cristo-havana": {
+    "title": "Статуя Христа",
+    "parent": "havana",
+    "place": "cristo-havana"
+  },
+  "cup-and-saucer": {
+    "title": "Тропа Чашка и блюдце",
+    "parent": "manitoulin-island",
+    "place": "cup-and-saucer"
+  },
+  "d-day-beaches--tsentr-dzhuno-bich": {
+    "title": "Центр «Джуно-Бич»",
+    "parent": "d-day-beaches"
+  },
+  "dali-theatre-museum": {
+    "title": "Театр-музей Дали",
+    "parent": "figueres",
+    "place": "dali-theatre-museum"
+  },
+  "dearborn--grinfild-villidzh": {
+    "title": "Гринфилд-Виллидж",
+    "parent": "dearborn"
+  },
+  "dearborn--muzey-genri-forda": {
+    "title": "Музей Генри Форда",
+    "parent": "dearborn"
+  },
+  "detroit--detroytskiy-institut-iskusstv": {
+    "title": "Детройтский институт искусств",
+    "parent": "detroit"
+  },
+  "dijon--dvorets-gertsogov-burgundskikh": {
+    "title": "Дворец герцогов Бургундских",
+    "parent": "dijon"
+  },
+  "douro--muzey-doru": {
+    "title": "Музей Дору",
+    "parent": "douro"
+  },
+  "dresden--drezdenskaya-kartinnaya-galereya": {
+    "title": "Дрезденская картинная галерея",
+    "parent": "dresden"
+  },
+  "dresden--drezdenskiy-zamok-rezidentsiya": {
+    "title": "Дрезденский замок-резиденция",
+    "parent": "dresden"
+  },
+  "dresden--opera-zempera": {
+    "title": "Опера Земпера",
+    "parent": "dresden"
+  },
+  "dresden--sokrovishchnitsa-zelyonye-svody": {
+    "title": "Сокровищница «Зелёные своды»",
+    "parent": "dresden"
+  },
+  "dresden--voenno-istoricheskiy-muzey-bundesvera": {
+    "title": "Военно-исторический музей Бундесвера",
+    "parent": "dresden"
+  },
+  "dublin--natsionalnaya-galereya-irlandii": {
+    "title": "Национальная галерея Ирландии",
+    "parent": "dublin"
+  },
+  "dublin--natsionalnyy-muzey-irlandii-arkheologiya": {
+    "title": "Национальный музей Ирландии — археология",
+    "parent": "dublin"
+  },
+  "dublin--sobor-svyatogo-patrika": {
+    "title": "Собор Святого Патрика",
+    "parent": "dublin"
+  },
+  "dublin--staraya-biblioteka-triniti-kolledzha-i-kniga-kells": {
+    "title": "Старая библиотека Тринити-колледжа и Книга Келлс",
+    "parent": "dublin"
+  },
+  "dublin--triniti-kolledzh": {
+    "title": "Тринити-колледж",
+    "parent": "dublin"
+  },
+  "duomo-milano": {
+    "title": "Миланский собор",
+    "parent": "milan",
+    "place": "duomo-milano"
+  },
+  "durbuy--park-topier": {
+    "title": "Парк Топиэр",
+    "parent": "durbuy"
+  },
+  "edmonton--west-edmonton-mall": {
+    "title": "West Edmonton Mall",
+    "parent": "edmonton"
+  },
+  "edmundston--botanicheskiy-sad-nyu-bransuika": {
+    "title": "Ботанический сад Нью-Брансуика",
+    "parent": "edmundston"
+  },
+  "eiffel-tower": {
+    "title": "Эйфелева башня",
+    "parent": "paris",
+    "place": "eiffel-tower"
+  },
+  "ek-balam--senot": {
+    "title": "Сенот",
+    "parent": "ek-balam"
+  },
+  "escher-museum": {
+    "title": "Музей Эшера",
+    "parent": "the-hague",
+    "place": "escher-museum"
+  },
+  "eupen--muzey-shokolada": {
+    "title": "Музей шоколада",
+    "parent": "eupen"
+  },
+  "florence--bazilika-san-lorentso": {
+    "title": "Базилика Сан-Лоренцо",
+    "parent": "florence"
+  },
+  "florence--bazilika-san-miniato-al-monte": {
+    "title": "Базилика Сан-Миниато-аль-Монте",
+    "parent": "florence"
+  },
+  "florence--florentiyskiy-baptisteriy": {
+    "title": "Флорентийский баптистерий",
+    "parent": "florence"
+  },
+  "florence--muzey-opera-del-duomo": {
+    "title": "Музей Опера-дель-Дуомо",
+    "parent": "florence"
+  },
+  "florence--palatstso-davantsati": {
+    "title": "Палаццо Даванцати",
+    "parent": "florence"
+  },
+  "florence--palatstso-vekko": {
+    "title": "Палаццо Веккьо",
+    "parent": "florence"
+  },
+  "florence--ponte-vekko": {
+    "title": "Понте-Веккьо",
+    "parent": "florence"
+  },
+  "florence--sobor-santa-mariya-del-fore": {
+    "title": "Собор Санта-Мария-дель-Фьоре",
+    "parent": "florence"
+  },
+  "font-magica": {
+    "title": "Волшебный фонтан",
+    "parent": "barcelona",
+    "place": "font-magica"
+  },
+  "forbidden-city-beijing": {
+    "title": "Запретный город, Пекин",
+    "parent": "beijing",
+    "place": "forbidden-city-beijing"
+  },
+  "frankfurt--istoricheskiy-muzey-frankfurta": {
+    "title": "Исторический музей Франкфурта",
+    "parent": "frankfurt"
+  },
+  "frankfurt-cathedral": {
+    "title": "Собор Святого Варфоломея",
+    "parent": "frankfurt",
+    "place": "frankfurt-cathedral"
+  },
+  "fredericton--khudozhestvennaya-galereya-biverbruk": {
+    "title": "Художественная галерея Бивербрук",
+    "parent": "fredericton"
+  },
+  "fundacio-miro": {
+    "title": "Музей Миро",
+    "parent": "barcelona",
+    "place": "fundacio-miro"
+  },
+  "fussen--vysokiy-zamok-fyussena": {
+    "title": "Высокий замок Фюссена",
+    "parent": "fussen"
+  },
+  "galleria-accademia": {
+    "title": "Галерея Академии",
+    "parent": "florence",
+    "place": "galleria-accademia"
+  },
+  "galleria-borghese": {
+    "title": "Галерея Боргезе",
+    "parent": "rome",
+    "place": "galleria-borghese"
+  },
+  "gaspe--memorial-mesto-rozhdeniya-kanady": {
+    "title": "Мемориал «Место рождения Канады»",
+    "parent": "gaspe"
+  },
+  "gastown": {
+    "title": "Gastown, Vancouver",
+    "parent": "vancouver",
+    "place": "gastown"
+  },
+  "gijon--bazilika-svyatogo-serdtsa": {
+    "title": "Базилика Святого Сердца",
+    "parent": "gijon"
+  },
+  "gran-teatro-havana": {
+    "title": "Большой театр",
+    "parent": "havana",
+    "place": "gran-teatro-havana"
+  },
+  "grotto-bruce": {
+    "title": "Грот",
+    "parent": "bruce-peninsula",
+    "place": "grotto-bruce"
+  },
+  "guimaraes--dvorets-gertsogov-bragansa": {
+    "title": "Дворец герцогов Браганса",
+    "parent": "guimaraes"
+  },
+  "halifax--korabl-muzey-hmcs-sackville": {
+    "title": "Корабль-музей HMCS Sackville",
+    "parent": "halifax"
+  },
+  "halifax--obshchestvennye-sady-galifaksa": {
+    "title": "Общественные сады Галифакса",
+    "parent": "halifax"
+  },
+  "halifax--tsitadel-galifaksa": {
+    "title": "Цитадель Галифакса",
+    "parent": "halifax"
+  },
+  "hamilton--kanadskiy-muzey-voennoy-aviatsii": {
+    "title": "Канадский музей военной авиации",
+    "parent": "hamilton"
+  },
+  "hamilton--spencer-gorge-i-vodopady": {
+    "title": "Spencer Gorge и водопады",
+    "parent": "hamilton"
+  },
+  "hangzhou--khram-lininsy": {
+    "title": "Храм Линъиньсы",
+    "parent": "hangzhou"
+  },
+  "hangzhou--muzey-shyolka": {
+    "title": "Музей шёлка",
+    "parent": "hangzhou"
+  },
+  "hangzhou--natsionalnyy-muzey-chaya": {
+    "title": "Национальный музей чая",
+    "parent": "hangzhou"
+  },
+  "hangzhou--ozero-sikhu": {
+    "title": "Озеро Сиху",
+    "parent": "hangzhou"
+  },
+  "heeresgeschichtliches-museum": {
+    "title": "Музей военной истории",
+    "parent": "vienna",
+    "place": "heeresgeschichtliches-museum"
+  },
+  "heidelberg-castle": {
+    "title": "Гейдельбергский замок",
+    "parent": "heidelberg",
+    "place": "heidelberg-castle"
+  },
+  "heritage-park-calgary": {
+    "title": "Херитедж-парк, Калгари",
+    "parent": "calgary",
+    "place": "heritage-park-calgary"
+  },
+  "hofburg": {
+    "title": "Дворец Хофбург",
+    "parent": "vienna",
+    "place": "hofburg"
+  },
+  "hyde-park": {
+    "title": "Гайд-парк",
+    "parent": "london",
+    "place": "hyde-park"
+  },
+  "invalides": {
+    "title": "Дом инвалидов",
+    "parent": "paris",
+    "place": "invalides"
+  },
+  "jasper--kanon-malin": {
+    "title": "Каньон Малинь",
+    "parent": "jasper"
+  },
+  "jasper--lednik-atabaska": {
+    "title": "Ледник Атабаска",
+    "parent": "jasper"
+  },
+  "jerez--korolevskaya-shkola-verkhovoy-ezdy": {
+    "title": "Королевская школа верховой езды",
+    "parent": "jerez"
+  },
+  "joggins--muzey-okamenelostey-dzhogginsa": {
+    "title": "Музей окаменелостей Джоггинса",
+    "parent": "joggins"
+  },
+  "karwendel": {
+    "title": "Карвендель",
+    "parent": "mittenwald",
+    "place": "karwendel"
+  },
+  "kevelaer--bazilika-svyatoy-marii": {
+    "title": "Базилика Святой Марии",
+    "parent": "kevelaer"
+  },
+  "kleve--zamok-shvanenburg": {
+    "title": "Замок Шваненбург",
+    "parent": "kleve"
+  },
+  "kootenay-national-park--mramornyy-kanon": {
+    "title": "Мраморный каньон",
+    "parent": "kootenay-national-park"
+  },
+  "kunsthistorisches-museum": {
+    "title": "Музей истории искусств",
+    "parent": "vienna",
+    "place": "kunsthistorisches-museum"
+  },
+  "lake-louise--ozero-agnes": {
+    "title": "Озеро Агнес",
+    "parent": "lake-louise"
+  },
+  "lamego--muzey-lamegu": {
+    "title": "Музей Ламегу",
+    "parent": "lamego"
+  },
+  "lamego--svyatilishche-bogomateri-istselyayushchey": {
+    "title": "Святилище Богоматери Исцеляющей",
+    "parent": "lamego"
+  },
+  "lamego--zamok-lamegu": {
+    "title": "Замок Ламегу",
+    "parent": "lamego"
+  },
+  "lapin-agile": {
+    "title": "Проворный Кролик",
+    "parent": "paris",
+    "place": "lapin-agile"
+  },
+  "legoland-windsor": {
+    "title": "Леголенд Виндзор",
+    "parent": "windsor",
+    "place": "legoland-windsor"
+  },
+  "leighton-house": {
+    "title": "Дом-музей Лейтона",
+    "parent": "london",
+    "place": "leighton-house"
+  },
+  "leon--bazilika-svyatogo-isidora": {
+    "title": "Базилика Святого Исидора",
+    "parent": "leon"
+  },
+  "leon--leonskiy-sobor": {
+    "title": "Леонский собор",
+    "parent": "leon"
+  },
+  "leon--muzey-leona": {
+    "title": "Музей Леона",
+    "parent": "leon"
+  },
+  "leutaschklamm": {
+    "title": "Ущелье Лойташкламм",
+    "parent": "mittenwald",
+    "place": "leutaschklamm"
+  },
+  "liceu": {
+    "title": "Театр Лисеу",
+    "parent": "barcelona",
+    "place": "liceu"
+  },
+  "lisbon--belemskaya-bashnya": {
+    "title": "Белемская башня",
+    "parent": "lisbon"
+  },
+  "lisbon--botanicheskiy-sad-lissabona": {
+    "title": "Ботанический сад Лиссабона",
+    "parent": "lisbon"
+  },
+  "lisbon--dvorets-azhuda": {
+    "title": "Дворец Ажуда",
+    "parent": "lisbon"
+  },
+  "lisbon--monastyr-zheronimush": {
+    "title": "Монастырь Жеронимуш",
+    "parent": "lisbon"
+  },
+  "lisbon--muzey-vina-i-degustatsiya": {
+    "title": "Музей вина и дегустация",
+    "parent": "lisbon"
+  },
+  "lisbon--natsionalnyy-muzey-karet": {
+    "title": "Национальный музей карет",
+    "parent": "lisbon"
+  },
+  "lisbon--tserkov-san-domingush": {
+    "title": "Церковь Сан-Домингуш",
+    "parent": "lisbon"
+  },
+  "lisbon--tserkov-svyatogo-rokha": {
+    "title": "Церковь Святого Роха",
+    "parent": "lisbon"
+  },
+  "london--britanskiy-muzey": {
+    "title": "Британский музей",
+    "parent": "london"
+  },
+  "london--imperskiy-voennyy-muzey": {
+    "title": "Имперский военный музей",
+    "parent": "london"
+  },
+  "london--kensingtonskie-sady": {
+    "title": "Кенсингтонские сады",
+    "parent": "london"
+  },
+  "london--londonskiy-akvarium": {
+    "title": "Лондонский аквариум",
+    "parent": "london"
+  },
+  "london--londonskiy-siti": {
+    "title": "Лондонский Сити",
+    "parent": "london"
+  },
+  "london--muzey-estestvoznaniya": {
+    "title": "Музей естествознания",
+    "parent": "london"
+  },
+  "london--muzey-londona": {
+    "title": "Музей Лондона",
+    "parent": "london"
+  },
+  "london--muzey-nauki": {
+    "title": "Музей науки",
+    "parent": "london"
+  },
+  "london--muzey-viktorii-i-alberta": {
+    "title": "Музей Виктории и Альберта",
+    "parent": "london"
+  },
+  "london--sent-dzheymsskiy-dvorets": {
+    "title": "Сент-Джеймсский дворец",
+    "parent": "london"
+  },
+  "london--sent-dzheymsskiy-park": {
+    "title": "Сент-Джеймсский парк",
+    "parent": "london"
+  },
+  "london--sobor-svyatogo-pavla": {
+    "title": "Собор Святого Павла",
+    "parent": "london"
+  },
+  "london--trafalgarskaya-ploshchad": {
+    "title": "Трафальгарская площадь",
+    "parent": "london"
+  },
+  "london--vestminsterskoe-abbatstvo": {
+    "title": "Вестминстерское аббатство",
+    "parent": "london"
+  },
+  "lorsch-abbey": {
+    "title": "Монастырь Лорш",
+    "parent": "lorsch",
+    "place": "lorsch-abbey"
+  },
+  "louvre": {
+    "title": "Лувр",
+    "parent": "paris",
+    "place": "louvre"
+  },
+  "lowell--natsionalnyy-istoricheskiy-park-louella": {
+    "title": "Национальный исторический парк Лоуэлла",
+    "parent": "lowell"
+  },
+  "lucca--bazilika-san-frediano": {
+    "title": "Базилика Сан-Фредиано",
+    "parent": "lucca"
+  },
+  "lunenburg--muzey-rybolovstva-atlantiki": {
+    "title": "Музей рыболовства Атлантики",
+    "parent": "lunenburg"
+  },
+  "luxembourg-gardens": {
+    "title": "Люксембургский сад",
+    "parent": "paris",
+    "place": "luxembourg-gardens"
+  },
+  "lyon--ploshchad-belkur": {
+    "title": "Площадь Белькур",
+    "parent": "lyon"
+  },
+  "lyon--rimskiy-amfiteatr": {
+    "title": "Римский амфитеатр",
+    "parent": "lyon"
+  },
+  "madrid--galereya-korolevskikh-kollektsiy": {
+    "title": "Галерея королевских коллекций",
+    "parent": "madrid"
+  },
+  "madrid--muzey-istorii-madrida": {
+    "title": "Музей истории Мадрида",
+    "parent": "madrid"
+  },
+  "madrid--muzey-korolevy-sofii": {
+    "title": "Музей королевы Софии",
+    "parent": "madrid"
+  },
+  "madrid--park-retiro": {
+    "title": "Парк Ретиро",
+    "parent": "madrid"
+  },
+  "mannheim-palace": {
+    "title": "Мангеймский дворец",
+    "parent": "mannheim",
+    "place": "mannheim-palace"
+  },
+  "mauritshuis": {
+    "title": "Маурицхёйс",
+    "parent": "the-hague",
+    "place": "mauritshuis"
+  },
+  "mayflower-ii": {
+    "title": "Мэйфлауэр II",
+    "parent": "plymouth",
+    "place": "mayflower-ii"
+  },
+  "meaux--muzey-pervoy-mirovoy-voyny": {
+    "title": "Музей Первой мировой войны",
+    "parent": "meaux"
+  },
+  "medici-chapels": {
+    "title": "Капелла Медичи",
+    "parent": "florence",
+    "place": "medici-chapels"
+  },
+  "medina-del-campo--dvorets-zaveshchaniya-izabelly-katolicheskoy": {
+    "title": "Дворец завещания Изабеллы Католической",
+    "parent": "medina-del-campo"
+  },
+  "meiringen--reykhenbakhskiy-vodopad": {
+    "title": "Рейхенбахский водопад",
+    "parent": "meiringen"
+  },
+  "meissen--meysenskaya-farforovaya-manufaktura": {
+    "title": "Мейсенская фарфоровая мануфактура",
+    "parent": "meissen"
+  },
+  "mercedes-benz-museum": {
+    "title": "Музей Мерседес",
+    "parent": "stuttgart",
+    "place": "mercedes-benz-museum"
+  },
+  "merida-mexico--antropologicheskiy-muzey-meridy": {
+    "title": "Антропологический музей Мериды",
+    "parent": "merida-mexico"
+  },
+  "merida-mexico--bulvar-montekho": {
+    "title": "Бульвар Монтехо",
+    "parent": "merida-mexico"
+  },
+  "merida-mexico--dom-montekho": {
+    "title": "Дом Монтехо",
+    "parent": "merida-mexico"
+  },
+  "merida-mexico--sobor-svyatogo-ildefonso": {
+    "title": "Собор Святого Ильдефонсо",
+    "parent": "merida-mexico"
+  },
+  "merida-mexico--zoopark-meridy": {
+    "title": "Зоопарк Мериды",
+    "parent": "merida-mexico"
+  },
+  "mexico-city--dom-muzey-trotskogo": {
+    "title": "Дом-музей Троцкого",
+    "parent": "mexico-city"
+  },
+  "mexico-city--freski-diego-rivery-v-ministerstve-obrazovaniya": {
+    "title": "Фрески Диего Риверы в Министерстве образования",
+    "parent": "mexico-city"
+  },
+  "mexico-city--kafedralnyy-sobor-mekhiko": {
+    "title": "Кафедральный собор Мехико",
+    "parent": "mexico-city"
+  },
+  "mexico-city--muzey-sumayya": {
+    "title": "Музей Сумайя",
+    "parent": "mexico-city"
+  },
+  "mexico-city--park-alameda-sentral": {
+    "title": "Парк Аламеда-Сентраль",
+    "parent": "mexico-city"
+  },
+  "mexico-city--templo-mayor": {
+    "title": "Темпло-Майор",
+    "parent": "mexico-city"
+  },
+  "mexico-city--tserkov-san-khuan-bautista": {
+    "title": "Церковь Сан-Хуан-Баутиста",
+    "parent": "mexico-city"
+  },
+  "milan--muzey-milanskogo-sobora": {
+    "title": "Музей Миланского собора",
+    "parent": "milan"
+  },
+  "milan--santa-mariya-delle-gratsie": {
+    "title": "Санта-Мария-делле-Грацие",
+    "parent": "milan"
+  },
+  "military-aviation-museum": {
+    "title": "Военно-исторический авиационный музей",
+    "parent": "virginia-beach",
+    "place": "military-aviation-museum"
+  },
+  "minneapolis-institute-of-art": {
+    "title": "Художественный музей",
+    "parent": "minneapolis",
+    "place": "minneapolis-institute-of-art"
+  },
+  "mnac": {
+    "title": "Музей искусства Каталонии",
+    "parent": "barcelona",
+    "place": "mnac"
+  },
+  "mole-antonelliana": {
+    "title": "Моле Антонеллиана",
+    "parent": "turin",
+    "place": "mole-antonelliana"
+  },
+  "monserrate": {
+    "title": "Парк и дворец Монсеррат",
+    "parent": "sintra",
+    "place": "monserrate"
+  },
+  "mont-saint-michel--abbatstvo-mon-sen-mishel": {
+    "title": "Аббатство Мон-Сен-Мишель",
+    "parent": "mont-saint-michel"
+  },
+  "montjuic-castle": {
+    "title": "Крепость Монжуик",
+    "parent": "barcelona",
+    "place": "montjuic-castle"
+  },
+  "montmartre": {
+    "title": "Монмартр",
+    "parent": "paris",
+    "place": "montmartre"
+  },
+  "montreal--bazilika-notr-dam-de-monreal": {
+    "title": "Базилика Нотр-Дам-де-Монреаль",
+    "parent": "montreal"
+  },
+  "montreal--mon-ruayal": {
+    "title": "Мон-Руаяль",
+    "parent": "montreal"
+  },
+  "montreal--monrealskiy-biodom": {
+    "title": "Монреальский Биодом",
+    "parent": "montreal"
+  },
+  "montreal--monrealskiy-botanicheskiy-sad": {
+    "title": "Монреальский ботанический сад",
+    "parent": "montreal"
+  },
+  "montreal--monrealskiy-insektariy": {
+    "title": "Монреальский инсектарий",
+    "parent": "montreal"
+  },
+  "montreal--muzey-istorii-monrealya": {
+    "title": "Музей истории Монреаля",
+    "parent": "montreal"
+  },
+  "montreal--oratoriy-svyatogo-iosifa": {
+    "title": "Ораторий Святого Иосифа",
+    "parent": "montreal"
+  },
+  "montserrat--muzey-montserrata": {
+    "title": "Музей Монтсеррата",
+    "parent": "montserrat"
+  },
+  "moritzburg-castle": {
+    "title": "Замок Морицбург",
+    "parent": "dresden",
+    "place": "moritzburg-castle"
+  },
+  "morro-havana": {
+    "title": "Крепость Морро",
+    "parent": "havana",
+    "place": "morro-havana"
+  },
+  "moscow--teatr-sovremennik": {
+    "title": "Театр «Современник»",
+    "parent": "moscow"
+  },
+  "moscow--tretyakovskaya-galereya": {
+    "title": "Третьяковская галерея",
+    "parent": "moscow"
+  },
+  "munal": {
+    "title": "Национальный музей искусства",
+    "parent": "mexico-city",
+    "place": "munal"
+  },
+  "munich--lenbakhkhaus": {
+    "title": "Ленбаххаус",
+    "parent": "munich"
+  },
+  "munich--staraya-pinakoteka": {
+    "title": "Старая пинакотека",
+    "parent": "munich"
+  },
+  "munich-residenz": {
+    "title": "Мюнхенская резиденция",
+    "parent": "munich",
+    "place": "munich-residenz"
+  },
+  "musee-chagall-nice": {
+    "title": "Музей Шагала",
+    "parent": "nice",
+    "place": "musee-chagall-nice"
+  },
+  "musee-cluny": {
+    "title": "Музей Клюни",
+    "parent": "paris",
+    "place": "musee-cluny"
+  },
+  "musee-matisse-nice": {
+    "title": "Музей Матисса",
+    "parent": "nice",
+    "place": "musee-matisse-nice"
+  },
+  "musee-orsay": {
+    "title": "Музей Орсе",
+    "parent": "paris",
+    "place": "musee-orsay"
+  },
+  "musee-picasso-antibes": {
+    "title": "Музей Пикассо",
+    "parent": "antibes",
+    "place": "musee-picasso-antibes"
+  },
+  "museo-antropologia": {
+    "title": "Антропологический музей",
+    "parent": "mexico-city",
+    "place": "museo-antropologia"
+  },
+  "museo-escultura": {
+    "title": "Национальный музей скульптуры",
+    "parent": "valladolid",
+    "place": "museo-escultura"
+  },
+  "museo-stibbert": {
+    "title": "Музей Стибберта",
+    "parent": "florence",
+    "place": "museo-stibbert"
+  },
+  "museu-marinha": {
+    "title": "Морской музей",
+    "parent": "lisbon",
+    "place": "museu-marinha"
+  },
+  "museu-maritim-barcelona": {
+    "title": "Морской музей",
+    "parent": "barcelona",
+    "place": "museu-maritim-barcelona"
+  },
+  "musikverein": {
+    "title": "Музикферайн",
+    "parent": "vienna",
+    "place": "musikverein"
+  },
+  "nancy--muzey-izobrazitelnykh-iskusstv-nansi": {
+    "title": "Музей изобразительных искусств Нанси",
+    "parent": "nancy"
+  },
+  "nancy--muzey-shkoly-nansi": {
+    "title": "Музей школы Нанси",
+    "parent": "nancy"
+  },
+  "nancy--ploshchad-stanislava": {
+    "title": "Площадь Станислава",
+    "parent": "nancy"
+  },
+  "national-gallery": {
+    "title": "Национальная галерея",
+    "parent": "london",
+    "place": "national-gallery"
+  },
+  "national-museum-china": {
+    "title": "Национальный музей Китая",
+    "parent": "beijing",
+    "place": "national-museum-china"
+  },
+  "nauticus": {
+    "title": "Наутикус",
+    "parent": "norfolk",
+    "place": "nauticus"
+  },
+  "new-york--amerikanskiy-muzey-estestvennoy-istorii": {
+    "title": "Американский музей естественной истории",
+    "parent": "new-york"
+  },
+  "new-york--brodvey": {
+    "title": "Бродвей",
+    "parent": "new-york"
+  },
+  "new-york--empayr-steyt-bilding": {
+    "title": "Эмпайр-стейт-билдинг",
+    "parent": "new-york"
+  },
+  "new-york--metropoliten-muzey": {
+    "title": "Метрополитен-музей",
+    "parent": "new-york"
+  },
+  "new-york--muzey-sovremennogo-iskusstva-moma": {
+    "title": "Музей современного искусства MoMA",
+    "parent": "new-york"
+  },
+  "new-york--smotrovaya-ploshchadka-top-of-the-rock": {
+    "title": "Смотровая площадка Top of the Rock",
+    "parent": "new-york"
+  },
+  "new-york--sony-wonder-technology-lab": {
+    "title": "Sony Wonder Technology Lab",
+    "parent": "new-york"
+  },
+  "new-york--statuya-svobody": {
+    "title": "Статуя Свободы",
+    "parent": "new-york"
+  },
+  "new-york--tayms-skver": {
+    "title": "Таймс-сквер",
+    "parent": "new-york"
+  },
+  "new-york--tsentralnyy-park": {
+    "title": "Центральный парк",
+    "parent": "new-york"
+  },
+  "norfolk--linkor-viskonsin": {
+    "title": "Линкор «Висконсин»",
+    "parent": "norfolk"
+  },
+  "notre-dame-de-la-garde": {
+    "title": "Базилика Нотр-Дам-де-ла-Гард",
+    "parent": "marseille",
+    "place": "notre-dame-de-la-garde"
+  },
+  "notre-dame-paris": {
+    "title": "Нотр-Дам",
+    "parent": "paris",
+    "place": "notre-dame-paris"
+  },
+  "nuremberg--germanskiy-natsionalnyy-muzey": {
+    "title": "Германский национальный музей",
+    "parent": "nuremberg"
+  },
+  "nymphenburg": {
+    "title": "Дворец Нимфенбург",
+    "parent": "munich",
+    "place": "nymphenburg"
+  },
+  "oggersheim": {
+    "title": "Оггерсхайм",
+    "parent": "mannheim",
+    "place": "oggersheim"
+  },
+  "opificio-pietre-dure": {
+    "title": "Музей флорентийской мозаики",
+    "parent": "florence",
+    "place": "opificio-pietre-dure"
+  },
+  "orangerie": {
+    "title": "Музей Оранжери",
+    "parent": "paris",
+    "place": "orangerie"
+  },
+  "orvieto--sobor-orvieto": {
+    "title": "Собор Орвието",
+    "parent": "orvieto"
+  },
+  "ottawa--kanadskiy-detskiy-muzey": {
+    "title": "Канадский детский музей",
+    "parent": "ottawa"
+  },
+  "ottawa--kanadskiy-muzey-istorii": {
+    "title": "Канадский музей истории",
+    "parent": "ottawa"
+  },
+  "ottawa--kanadskiy-voennyy-muzey": {
+    "title": "Канадский военный музей",
+    "parent": "ottawa"
+  },
+  "oviedo--bazilika-san-khuan-el-real": {
+    "title": "Базилика Сан-Хуан-эль-Реаль",
+    "parent": "oviedo"
+  },
+  "oviedo--kafedralnyy-sobor-ovedo": {
+    "title": "Кафедральный собор Овьедо",
+    "parent": "oviedo"
+  },
+  "oviedo--muzey-izobrazitelnykh-iskusstv-asturii": {
+    "title": "Музей изобразительных искусств Астурии",
+    "parent": "oviedo"
+  },
+  "oxford--oksfordskiy-universitet": {
+    "title": "Оксфордский университет",
+    "parent": "oxford"
+  },
+  "padua--paduanskiy-universitet": {
+    "title": "Падуанский университет",
+    "parent": "padua"
+  },
+  "palacio-bellas-artes": {
+    "title": "Дворец изящных искусств",
+    "parent": "mexico-city",
+    "place": "palacio-bellas-artes"
+  },
+  "palacio-postal": {
+    "title": "Главпочтамт Мехико",
+    "parent": "mexico-city",
+    "place": "palacio-postal"
+  },
+  "palais-des-festivals": {
+    "title": "Дворец фестивалей",
+    "parent": "cannes",
+    "place": "palais-des-festivals"
+  },
+  "palais-des-papes": {
+    "title": "Папский дворец",
+    "parent": "avignon",
+    "place": "palais-des-papes"
+  },
+  "palau-generalitat": {
+    "title": "Дворец Женералитата",
+    "parent": "barcelona",
+    "place": "palau-generalitat"
+  },
+  "palau-guell": {
+    "title": "Дворец Гуэля",
+    "parent": "barcelona",
+    "place": "palau-guell"
+  },
+  "palau-musica-catalana": {
+    "title": "Дворец каталонской музыки",
+    "parent": "barcelona",
+    "place": "palau-musica-catalana"
+  },
+  "palazzo-pitti": {
+    "title": "Дворец Питти",
+    "parent": "florence",
+    "place": "palazzo-pitti"
+  },
+  "palazzo-reale-torino": {
+    "title": "Королевский дворец",
+    "parent": "turin",
+    "place": "palazzo-reale-torino"
+  },
+  "pantheon-paris": {
+    "title": "Пантеон",
+    "parent": "paris",
+    "place": "pantheon-paris"
+  },
+  "paris--latinskiy-kvartal": {
+    "title": "Латинский квартал",
+    "parent": "paris"
+  },
+  "paris--parizhskaya-opera": {
+    "title": "Парижская опера",
+    "parent": "paris"
+  },
+  "paris--sad-tyuilri": {
+    "title": "Сад Тюильри",
+    "parent": "paris"
+  },
+  "paris--tsentr-pompidu": {
+    "title": "Центр Помпиду",
+    "parent": "paris"
+  },
+  "parlee-beach": {
+    "title": "Пляж Парли",
+    "parent": "shediac",
+    "place": "parlee-beach"
+  },
+  "penafiel-castle--muzey-vina-ribera-del-duero": {
+    "title": "Музей вина Рибера-дель-Дуэро",
+    "parent": "penafiel-castle"
+  },
+  "peniscola--zamok-papy-luny": {
+    "title": "Замок Папы Луны",
+    "parent": "peniscola"
+  },
+  "perce--geopark-perse-i-pavilon-tektonik": {
+    "title": "Геопарк Персе и павильон Tektonik",
+    "parent": "perce"
+  },
+  "philadelphia--khudozhestvennyy-muzey-filadelfii": {
+    "title": "Художественный музей Филадельфии",
+    "parent": "philadelphia"
+  },
+  "philadelphia--kollektsiya-barnsa": {
+    "title": "Коллекция Барнса",
+    "parent": "philadelphia"
+  },
+  "piazzale-michelangelo": {
+    "title": "Площадь Микеланджело",
+    "parent": "florence",
+    "place": "piazzale-michelangelo"
+  },
+  "pinacoteca-brera": {
+    "title": "Пинакотека Брера",
+    "parent": "milan",
+    "place": "pinacoteca-brera"
+  },
+  "pisa--pizanskaya-bashnya": {
+    "title": "Пизанская башня",
+    "parent": "pisa"
+  },
+  "pisa--pizanskiy-baptisteriy": {
+    "title": "Пизанский баптистерий",
+    "parent": "pisa"
+  },
+  "pisa--pizanskiy-sobor": {
+    "title": "Пизанский собор",
+    "parent": "pisa"
+  },
+  "place-concorde": {
+    "title": "Площадь Согласия",
+    "parent": "paris",
+    "place": "place-concorde"
+  },
+  "plaza-mayor-madrid": {
+    "title": "Пласа-Майор",
+    "parent": "madrid",
+    "place": "plaza-mayor-madrid"
+  },
+  "plaza-revolucion-havana": {
+    "title": "Площадь Революции",
+    "parent": "havana",
+    "place": "plaza-revolucion-havana"
+  },
+  "plaza-vieja-havana": {
+    "title": "Старая площадь",
+    "parent": "havana",
+    "place": "plaza-vieja-havana"
+  },
+  "plimoth-plantation": {
+    "title": "Деревня пилигримов",
+    "parent": "plymouth",
+    "place": "plimoth-plantation"
+  },
+  "poblenou-beach": {
+    "title": "Пляж Побленоу",
+    "parent": "barcelona",
+    "place": "poblenou-beach"
+  },
+  "pointe-au-pere": {
+    "title": "Маяк Pointe-au-Père",
+    "parent": "rimouski",
+    "place": "pointe-au-pere"
+  },
+  "ponferrada--zamok-tamplierov-ponferrady": {
+    "title": "Замок тамплиеров Понферрады",
+    "parent": "ponferrada"
+  },
+  "porsche-museum": {
+    "title": "Музей Porsche",
+    "parent": "stuttgart",
+    "place": "porsche-museum"
+  },
+  "porto--dvorets-birzhi": {
+    "title": "Дворец Биржи",
+    "parent": "porto"
+  },
+  "porto--muzey-soaresha-dush-reysha": {
+    "title": "Музей Соареша-душ-Рейша",
+    "parent": "porto"
+  },
+  "porto--pogreba-calem": {
+    "title": "Погреба Cálem",
+    "parent": "porto"
+  },
+  "porto--sady-khrustalnogo-dvortsa": {
+    "title": "Сады Хрустального дворца",
+    "parent": "porto"
+  },
+  "porto--sobor-portu": {
+    "title": "Собор Порту",
+    "parent": "porto"
+  },
+  "porto--tserkov-klerigush": {
+    "title": "Церковь Клеригуш",
+    "parent": "porto"
+  },
+  "porto--tserkov-svyatogo-frantsiska": {
+    "title": "Церковь Святого Франциска",
+    "parent": "porto"
+  },
+  "porto--tserkov-svyatogo-ildefonso": {
+    "title": "Церковь Святого Ильдефонсо",
+    "parent": "porto"
+  },
+  "porto--vokzal-san-bentu": {
+    "title": "Вокзал Сан-Бенту",
+    "parent": "porto"
+  },
+  "prado-museum": {
+    "title": "Музей Прадо",
+    "parent": "madrid",
+    "place": "prado-museum"
+  },
+  "prague--bazilika-svyatogo-georgiya": {
+    "title": "Базилика Святого Георгия",
+    "parent": "prague"
+  },
+  "prague--mala-strana": {
+    "title": "Мала-Страна",
+    "parent": "prague"
+  },
+  "prague--nove-mesto": {
+    "title": "Нове-Место",
+    "parent": "prague"
+  },
+  "prague--prazhskie-kuranty": {
+    "title": "Пражские куранты",
+    "parent": "prague"
+  },
+  "prague--sobor-svyatogo-vita": {
+    "title": "Собор Святого Вита",
+    "parent": "prague"
+  },
+  "prague--stare-mesto": {
+    "title": "Старе-Место",
+    "parent": "prague"
+  },
+  "prague-castle": {
+    "title": "Пражский Град",
+    "parent": "prague",
+    "place": "prague-castle"
+  },
+  "prince-edward-island--nort-keyp-i-tsentr-vetrovoy-energii": {
+    "title": "Норт-Кейп и центр ветровой энергии",
+    "parent": "prince-edward-island"
+  },
+  "prince-edward-island--plyazh-kavendish": {
+    "title": "Пляж Кавендиш",
+    "parent": "prince-edward-island"
+  },
+  "promenade-des-anglais": {
+    "title": "Английская набережная",
+    "parent": "nice",
+    "place": "promenade-des-anglais"
+  },
+  "provincetown": {
+    "title": "Провинстаун",
+    "parent": "cape-cod",
+    "place": "provincetown"
+  },
+  "provincetown--monument-piligrimam": {
+    "title": "Монумент пилигримам",
+    "parent": "provincetown"
+  },
+  "provincetown--muzey-piratov": {
+    "title": "Музей пиратов",
+    "parent": "provincetown"
+  },
+  "queens-park": {
+    "title": "Парламент Онтарио",
+    "parent": "toronto",
+    "place": "queens-park"
+  },
+  "reims--bazilika-sen-remi": {
+    "title": "Базилика Сен-Реми",
+    "parent": "reims"
+  },
+  "reims--reymsskiy-sobor": {
+    "title": "Реймсский собор",
+    "parent": "reims"
+  },
+  "rembrandt-house": {
+    "title": "Дом Рембрандта",
+    "parent": "amsterdam",
+    "place": "rembrandt-house"
+  },
+  "rijksmuseum": {
+    "title": "Рейксмузеум",
+    "parent": "amsterdam",
+    "place": "rijksmuseum"
+  },
+  "riquewihr--muzey-karet": {
+    "title": "Музей карет",
+    "parent": "riquewihr"
+  },
+  "roc-del-quer": {
+    "title": "Roc del Quer — смотровая над Канильо",
+    "parent": "canillo",
+    "place": "roc-del-quer"
+  },
+  "rome--bazilika-santa-prassede": {
+    "title": "Базилика Санта-Прасседе",
+    "parent": "rome"
+  },
+  "rome--lateranskaya-bazilika": {
+    "title": "Латеранская базилика",
+    "parent": "rome"
+  },
+  "rome--san-petro-in-vinkoli": {
+    "title": "Сан-Пьетро-ин-Винколи",
+    "parent": "rome"
+  },
+  "rome--santa-kroche-in-dzheruzalemme": {
+    "title": "Санта-Кроче-ин-Джерузалемме",
+    "parent": "rome"
+  },
+  "rome--santa-mariya-madzhore": {
+    "title": "Санта-Мария-Маджоре",
+    "parent": "rome"
+  },
+  "rouen--tserkov-abbatstva-sent-uan": {
+    "title": "Церковь аббатства Сент-Уан",
+    "parent": "rouen"
+  },
+  "royal-delft": {
+    "title": "Фабрика королевского фарфора",
+    "parent": "delft",
+    "place": "royal-delft"
+  },
+  "royal-palace-amsterdam": {
+    "title": "Королевский дворец Амстердама",
+    "parent": "amsterdam",
+    "place": "royal-palace-amsterdam"
+  },
+  "royal-palace-madrid": {
+    "title": "Королевский дворец",
+    "parent": "madrid",
+    "place": "royal-palace-madrid"
+  },
+  "royal-tyrrell-museum": {
+    "title": "Королевский музей палеонтологии Тиррелла",
+    "parent": "drumheller",
+    "place": "royal-tyrrell-museum"
+  },
+  "sacre-coeur": {
+    "title": "Сакре-Кёр",
+    "parent": "paris",
+    "place": "sacre-coeur"
+  },
+  "sagrada-familia": {
+    "title": "Саграда Фамилия",
+    "parent": "barcelona",
+    "place": "sagrada-familia"
+  },
+  "saint-etienne-du-mont": {
+    "title": "Сент-Этьен-дю-Мон",
+    "parent": "paris",
+    "place": "saint-etienne-du-mont"
+  },
+  "saint-malo--sobor-sen-malo": {
+    "title": "Собор Сен-Мало",
+    "parent": "saint-malo"
+  },
+  "saint-severin": {
+    "title": "Сен-Северин",
+    "parent": "paris",
+    "place": "saint-severin"
+  },
+  "sainte-anne-de-beaupre--bazilika-sent-ann-de-bopre": {
+    "title": "Базилика Сент-Анн-де-Бопре",
+    "parent": "sainte-anne-de-beaupre"
+  },
+  "sainte-anne-de-beaupre--ierusalimskaya-panorama": {
+    "title": "Иерусалимская панорама",
+    "parent": "sainte-anne-de-beaupre"
+  },
+  "sainte-anne-de-kent--mylovarnya-olivier-soapery": {
+    "title": "Мыловарня Olivier Soapery",
+    "parent": "sainte-anne-de-kent"
+  },
+  "sainte-anne-des-monts--nauchnyy-tsentr-exploramer": {
+    "title": "Научный центр Exploramer",
+    "parent": "sainte-anne-des-monts"
+  },
+  "sainte-chapelle": {
+    "title": "Сен-Шапель",
+    "parent": "paris",
+    "place": "sainte-chapelle"
+  },
+  "sainte-clotilde": {
+    "title": "Базилика Святой Клотильды",
+    "parent": "paris",
+    "place": "sainte-clotilde"
+  },
+  "sainte-flavie--art-tsentr-marselya-ganona": {
+    "title": "Арт-центр Марселя Ганьона",
+    "parent": "sainte-flavie"
+  },
+  "salamanca--muzey-ar-nuvo-i-ar-deko": {
+    "title": "Музей ар-нуво и ар-деко",
+    "parent": "salamanca"
+  },
+  "salamanca--novyy-sobor-salamanki": {
+    "title": "Новый собор Саламанки",
+    "parent": "salamanca"
+  },
+  "salamanca--staryy-sobor-salamanki": {
+    "title": "Старый собор Саламанки",
+    "parent": "salamanca"
+  },
+  "salta--tsentralnaya-ploshchad-salty": {
+    "title": "Центральная площадь Сальты",
+    "parent": "salta"
+  },
+  "san-francisco-el-grande": {
+    "title": "Собор Святого Франциска Великого",
+    "parent": "madrid",
+    "place": "san-francisco-el-grande"
+  },
+  "san-marco-florence": {
+    "title": "Монастырь Сан-Марко",
+    "parent": "florence",
+    "place": "san-marco-florence"
+  },
+  "sant-pau": {
+    "title": "Госпиталь Сант-Пау",
+    "parent": "barcelona",
+    "place": "sant-pau"
+  },
+  "santa-croce-florence": {
+    "title": "Базилика Санта-Кроче",
+    "parent": "florence",
+    "place": "santa-croce-florence"
+  },
+  "santa-maria-del-mar": {
+    "title": "Санта-Мария-дель-Мар",
+    "parent": "barcelona",
+    "place": "santa-maria-del-mar"
+  },
+  "santiago-chile--kafedralnyy-sobor-santyago": {
+    "title": "Кафедральный собор Сантьяго",
+    "parent": "santiago-chile"
+  },
+  "santiago-chile--kholm-santa-lusiya": {
+    "title": "Холм Санта-Лусия",
+    "parent": "santiago-chile"
+  },
+  "santiago-chile--muzey-dokolumbova-iskusstva": {
+    "title": "Музей доколумбова искусства",
+    "parent": "santiago-chile"
+  },
+  "santiago-chile--tserkov-svyatogo-frantsiska": {
+    "title": "Церковь Святого Франциска",
+    "parent": "santiago-chile"
+  },
+  "santiago-de-compostela--muzey-istorii-galisii": {
+    "title": "Музей истории Галисии",
+    "parent": "santiago-de-compostela"
+  },
+  "santiago-de-compostela--muzey-palomnichestva": {
+    "title": "Музей паломничества",
+    "parent": "santiago-de-compostela"
+  },
+  "santiago-de-compostela--muzey-sobora-santyago": {
+    "title": "Музей собора Сантьяго",
+    "parent": "santiago-de-compostela"
+  },
+  "santiago-de-compostela--sobor-santyago-de-kompostela": {
+    "title": "Собор Сантьяго-де-Компостела",
+    "parent": "santiago-de-compostela"
+  },
+  "santo-tomas-avila": {
+    "title": "Монастырь Святого Фомы",
+    "parent": "avila",
+    "place": "santo-tomas-avila"
+  },
+  "scheveningen": {
+    "title": "Схевенинген",
+    "parent": "the-hague",
+    "place": "scheveningen"
+  },
+  "schonbrunn": {
+    "title": "Дворец Шёнбрунн",
+    "parent": "vienna",
+    "place": "schonbrunn"
+  },
+  "segovia--segoviyskiy-akveduk": {
+    "title": "Сеговийский акведук",
+    "parent": "segovia"
+  },
+  "segovia--segoviyskiy-sobor": {
+    "title": "Сеговийский собор",
+    "parent": "segovia"
+  },
+  "seville--arena-maestransa-i-muzey-korridy": {
+    "title": "Арена Маэстранса и музей корриды",
+    "parent": "seville"
+  },
+  "seville--muzey-tantsa-flamenko": {
+    "title": "Музей танца фламенко",
+    "parent": "seville"
+  },
+  "seville--ploshchad-ispanii": {
+    "title": "Площадь Испании",
+    "parent": "seville"
+  },
+  "seville--sevilskiy-alkasar": {
+    "title": "Севильский Алькасар",
+    "parent": "seville"
+  },
+  "seville--sevilskiy-sobor": {
+    "title": "Севильский собор",
+    "parent": "seville"
+  },
+  "shanghai--khram-tszinan": {
+    "title": "Храм Цзинъань",
+    "parent": "shanghai"
+  },
+  "shanghai--muzey-istorii-shankhaya": {
+    "title": "Музей истории Шанхая",
+    "parent": "shanghai"
+  },
+  "shanghai--naberezhnaya-vaytan": {
+    "title": "Набережная Вайтань",
+    "parent": "shanghai"
+  },
+  "shanghai--sad-radosti-yuyyuan": {
+    "title": "Сад Радости Юйюань",
+    "parent": "shanghai"
+  },
+  "shanghai--telebashnya-vostochnaya-zhemchuzhina": {
+    "title": "Телебашня «Восточная жемчужина»",
+    "parent": "shanghai"
+  },
+  "shanghai-disneyland": {
+    "title": "Диснейленд, Шанхай",
+    "parent": "shanghai",
+    "place": "shanghai-disneyland"
+  },
+  "shanghai-museum": {
+    "title": "Шанхайский музей",
+    "parent": "shanghai",
+    "place": "shanghai-museum"
+  },
+  "siena--sienskiy-sobor": {
+    "title": "Сиенский собор",
+    "parent": "siena"
+  },
+  "siena--svyatilishche-svyatoy-ekateriny-sienskoy": {
+    "title": "Святилище Святой Екатерины Сиенской",
+    "parent": "siena"
+  },
+  "sintra--dvorets-pena": {
+    "title": "Дворец Пена",
+    "parent": "sintra"
+  },
+  "sintra--kinta-da-regaleyra": {
+    "title": "Кинта-да-Регалейра",
+    "parent": "sintra"
+  },
+  "solingen--nemetskiy-muzey-klinkov": {
+    "title": "Немецкий музей клинков",
+    "parent": "solingen"
+  },
+  "sorbonne": {
+    "title": "Сорбонна",
+    "parent": "paris",
+    "place": "sorbonne"
+  },
+  "springfield--muzey-springfildskogo-arsenala": {
+    "title": "Музей Спрингфилдского арсенала",
+    "parent": "springfield"
+  },
+  "staedel": {
+    "title": "Музей Штеделя",
+    "parent": "frankfurt",
+    "place": "staedel"
+  },
+  "stanley-park": {
+    "title": "Stanley Park, Vancouver",
+    "parent": "vancouver",
+    "place": "stanley-park"
+  },
+  "strasbourg--malenkaya-frantsiya": {
+    "title": "Маленькая Франция",
+    "parent": "strasbourg"
+  },
+  "strasbourg--strasburgskiy-sobor": {
+    "title": "Страсбургский собор",
+    "parent": "strasbourg"
+  },
+  "strawbery-banke": {
+    "title": "Стробери-Бэнк",
+    "parent": "portsmouth",
+    "place": "strawbery-banke"
+  },
+  "summer-palace": {
+    "title": "Летний дворец, Пекин",
+    "parent": "beijing",
+    "place": "summer-palace"
+  },
+  "summerside--college-of-piping-i-shou-highland-storm": {
+    "title": "College of Piping и шоу Highland Storm",
+    "parent": "summerside"
+  },
+  "tanglewood": {
+    "title": "Тэнглвуд",
+    "parent": "berkshires",
+    "place": "tanglewood"
+  },
+  "tate-britain": {
+    "title": "Галерея Тейт Британия",
+    "parent": "london",
+    "place": "tate-britain"
+  },
+  "technisches-museum-wien": {
+    "title": "Технический музей",
+    "parent": "vienna",
+    "place": "technisches-museum-wien"
+  },
+  "temple-church": {
+    "title": "Церковь Темпла",
+    "parent": "london",
+    "place": "temple-church"
+  },
+  "temple-heaven": {
+    "title": "Храм Неба, Пекин",
+    "parent": "beijing",
+    "place": "temple-heaven"
+  },
+  "terracotta-army": {
+    "title": "Терракотовая армия, Сиань",
+    "parent": "xian",
+    "place": "terracotta-army"
+  },
+  "teruel--tserkov-svyatogo-petra": {
+    "title": "Церковь Святого Петра",
+    "parent": "teruel"
+  },
+  "the-breakers": {
+    "title": "Брейкерс",
+    "parent": "newport",
+    "place": "the-breakers"
+  },
+  "the-clark": {
+    "title": "Музей Кларка",
+    "parent": "berkshires",
+    "place": "the-clark"
+  },
+  "the-elms": {
+    "title": "Элмс",
+    "parent": "newport",
+    "place": "the-elms"
+  },
+  "tilcara--pukara-de-tilkara": {
+    "title": "Пукара-де-Тилькара",
+    "parent": "tilcara"
+  },
+  "tivoli--villa-d-este": {
+    "title": "Вилла д’Эсте",
+    "parent": "tivoli"
+  },
+  "toledo--sinagoga-del-transito": {
+    "title": "Синагога дель-Трансито",
+    "parent": "toledo"
+  },
+  "toledo--tserkov-santo-tome": {
+    "title": "Церковь Санто-Томе",
+    "parent": "toledo"
+  },
+  "toledo-cathedral": {
+    "title": "Собор Толедо",
+    "parent": "toledo",
+    "place": "toledo-cathedral"
+  },
+  "tomar--monastyr-ordena-khrista": {
+    "title": "Монастырь ордена Христа",
+    "parent": "tomar"
+  },
+  "toronto--akvarium-ripli": {
+    "title": "Аквариум Рипли",
+    "parent": "toronto"
+  },
+  "toronto--shri-svaminarayan-mandir": {
+    "title": "Шри Сваминараян Мандир",
+    "parent": "toronto"
+  },
+  "toronto--si-en-tauer": {
+    "title": "Си-Эн Тауэр",
+    "parent": "toronto"
+  },
+  "toronto--ulitsa-yang": {
+    "title": "Улица Янг",
+    "parent": "toronto"
+  },
+  "toronto--zal-khokkeynoy-slavy": {
+    "title": "Зал хоккейной славы",
+    "parent": "toronto"
+  },
+  "toronto-city-hall": {
+    "title": "Мэрия Торонто",
+    "parent": "toronto",
+    "place": "toronto-city-hall"
+  },
+  "trinidad-cuba--muzey-gorodskoy-istorii-trinidada": {
+    "title": "Музей городской истории Тринидада",
+    "parent": "trinidad-cuba"
+  },
+  "uffizi": {
+    "title": "Галерея Уффици",
+    "parent": "florence",
+    "place": "uffizi"
+  },
+  "ulm--ulmskiy-sobor": {
+    "title": "Ульмский собор",
+    "parent": "ulm"
+  },
+  "valencia--sady-turii": {
+    "title": "Сады Турии",
+    "parent": "valencia"
+  },
+  "valencia-cathedral": {
+    "title": "Кафедральный собор",
+    "parent": "valencia",
+    "place": "valencia-cathedral"
+  },
+  "van-gogh-museum": {
+    "title": "Музей Ван Гога",
+    "parent": "amsterdam",
+    "place": "van-gogh-museum"
+  },
+  "van-loon": {
+    "title": "Музей Ван Лон",
+    "parent": "amsterdam",
+    "place": "van-loon"
+  },
+  "vatican--muzei-vatikana": {
+    "title": "Музеи Ватикана",
+    "parent": "vatican"
+  },
+  "vatican--sikstinskaya-kapella": {
+    "title": "Сикстинская капелла",
+    "parent": "vatican"
+  },
+  "vatican--sobor-svyatogo-petra": {
+    "title": "Собор Святого Петра",
+    "parent": "vatican"
+  },
+  "vatican--vatikanskaya-pinakoteka": {
+    "title": "Ватиканская пинакотека",
+    "parent": "vatican"
+  },
+  "venice--bazilika-svyatogo-marka": {
+    "title": "Базилика Святого Марка",
+    "parent": "venice"
+  },
+  "verona--arena-di-verona": {
+    "title": "Арена-ди-Верона",
+    "parent": "verona"
+  },
+  "versailles--sady-versalya": {
+    "title": "Сады Версаля",
+    "parent": "versailles"
+  },
+  "viana-do-castelo--muzey-kostyuma": {
+    "title": "Музей костюма",
+    "parent": "viana-do-castelo"
+  },
+  "vic--episkopskiy-muzey-vika": {
+    "title": "Епископский музей Вика",
+    "parent": "vic"
+  },
+  "vienna--avstriyskaya-natsionalnaya-biblioteka": {
+    "title": "Австрийская национальная библиотека",
+    "parent": "vienna"
+  },
+  "vienna--imperatorskaya-sokrovishchnitsa": {
+    "title": "Императорская сокровищница",
+    "parent": "vienna"
+  },
+  "vienna--imperatorskie-apartamenty": {
+    "title": "Императорские апартаменты",
+    "parent": "vienna"
+  },
+  "vienna--muzey-sisi": {
+    "title": "Музей Сиси",
+    "parent": "vienna"
+  },
+  "vienna-state-opera": {
+    "title": "Венская опера",
+    "parent": "vienna",
+    "place": "vienna-state-opera"
+  },
+  "virginia-beach--akvarium-virdzhinii": {
+    "title": "Аквариум Вирджинии",
+    "parent": "virginia-beach"
+  },
+  "washington-dc--biblioteka-kongressa": {
+    "title": "Библиотека Конгресса",
+    "parent": "washington-dc"
+  },
+  "washington-dc--kapitoliy": {
+    "title": "Капитолий",
+    "parent": "washington-dc"
+  },
+  "washington-dc--natsionalnaya-galereya-iskusstva": {
+    "title": "Национальная галерея искусства",
+    "parent": "washington-dc"
+  },
+  "washington-dc--natsionalnyy-muzey-amerikanskoy-istorii": {
+    "title": "Национальный музей американской истории",
+    "parent": "washington-dc"
+  },
+  "washington-dc--natsionalnyy-muzey-aviatsii-i-kosmonavtiki": {
+    "title": "Национальный музей авиации и космонавтики",
+    "parent": "washington-dc"
+  },
+  "washington-dc--natsionalnyy-muzey-estestvennoy-istorii": {
+    "title": "Национальный музей естественной истории",
+    "parent": "washington-dc"
+  },
+  "washington-dc--staryy-pochtamt": {
+    "title": "Старый почтамт",
+    "parent": "washington-dc"
+  },
+  "washington-dc--teatr-forda": {
+    "title": "Театр Форда",
+    "parent": "washington-dc"
+  },
+  "westminster-cathedral": {
+    "title": "Вестминстерский собор",
+    "parent": "london",
+    "place": "westminster-cathedral"
+  },
+  "wilhelma": {
+    "title": "Зоопарк и ботанический сад",
+    "parent": "stuttgart",
+    "place": "wilhelma"
+  },
+  "windsor-castle": {
+    "title": "Виндзорский замок",
+    "parent": "windsor",
+    "place": "windsor-castle"
+  },
+  "wurzburg--vyurtsburgskaya-rezidentsiya": {
+    "title": "Вюрцбургская резиденция",
+    "parent": "wurzburg"
+  },
+  "xian--bolshaya-pagoda-dikikh-gusey": {
+    "title": "Большая пагода диких гусей",
+    "parent": "xian"
+  },
+  "xian--istoricheskiy-muzey-provintsii-shensi": {
+    "title": "Исторический музей провинции Шэньси",
+    "parent": "xian"
+  },
+  "yoho-national-park--izumrudnoe-ozero": {
+    "title": "Изумрудное озеро",
+    "parent": "yoho-national-park"
+  },
+  "yoho-national-park--prirodnyy-most": {
+    "title": "Природный мост",
+    "parent": "yoho-national-park"
+  },
+  "yonghe-temple": {
+    "title": "Храм Ламы, Пекин",
+    "parent": "beijing",
+    "place": "yonghe-temple"
+  },
+  "zocalo": {
+    "title": "Центральная площадь Мехико",
+    "parent": "mexico-city",
+    "place": "zocalo"
+  }
+}

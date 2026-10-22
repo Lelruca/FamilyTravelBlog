@@ -12,6 +12,7 @@ hero_image: "facebook_1103017334958134.jpg"
 date: "2025-02-13"
 auto_gallery: false
 draft: false
+attractions: ["palacio-postal","munal","mexico-city--freski-diego-rivery-v-ministerstve-obrazovaniya"]
 ---
 <p>Продолжение прогулки по центру Мехико.<br>Потом мы по традиции взяли почту-телефон-телеграф 😀<br>В нашем варианте это была почта , министерство образования и бывшее министерство связи, где теперь мексиканский художественный музей 😀</p>
 

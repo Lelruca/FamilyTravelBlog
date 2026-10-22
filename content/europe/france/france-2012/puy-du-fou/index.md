@@ -7,6 +7,7 @@ day_num: 5
 auto_gallery: false
 places:
   - puy-du-fou
+  - saumur
 hero_image: "IMG_1429.jpg"
 ---
 

@@ -12,6 +12,7 @@ hero_card_position: "center 55%"
 date: "2023-10-17"
 auto_gallery: false
 draft: false
+attractions: ["mannheim-palace"]
 ---
 <p>Утро +8 мы начали с изучения города в котором живет Митя - Mannheim.</p>
 

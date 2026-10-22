@@ -9,6 +9,7 @@ source_url: "https://olgau.livejournal.com/225039.html"
 places:
   - new-york
 hero_image: "DSC04867.jpg"
+attractions: ["new-york--metropoliten-muzey","new-york--tsentralnyy-park","new-york--empayr-steyt-bilding","new-york--tayms-skver","new-york--brodvey","new-york--statuya-svobody"]
 ---
 
 <p>Уверенно ответив на вопросы анкеты «не состоял и не участвовал» и оставив отпечатки пальцев немецких гостей на американский границе наша «четверка» (гости: Наташа с Валерой, я и Жена, моя двоюродный брат) двинулась покорять Нью-Йорк. Мы провели там 2 ночи и за это время успели:</p>

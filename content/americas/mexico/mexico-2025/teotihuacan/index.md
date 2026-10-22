@@ -11,6 +11,7 @@ hero_image: "20250215_103420.jpg"
 date: "2025-02-15"
 auto_gallery: false
 draft: false
+attractions: ["mexico-city--muzey-sumayya"]
 ---
 {{< row "20250215_100924.jpg 20250215_103713.jpg 20250215_103420.jpg" >}}
 

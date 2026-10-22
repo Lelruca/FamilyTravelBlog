@@ -12,6 +12,7 @@ places:
 hero_image: "2011-08-19_08.12.13.jpg"
 date: 2011-08-19
 auto_gallery: false
+attractions: ["bruhl--dvorets-augustusburg","solingen--nemetskiy-muzey-klinkov","cologne--kyolnskiy-sobor-i-sokrovishchnitsa","bruhl--park-phantasialand","cologne--kyolnskiy-zoopark"]
 ---
 Наступает время планировать новое путешествие, т.ч. пора уже написать отчет о прошедшем. Наверное есть свои плюсы и минусы и когда пишешь отчет по живим впечатлениям, и после прошествия какого-то времени.
 

@@ -10,6 +10,7 @@ hero_image: "20220902_110030.jpg"
 date: "2022-09-02"
 auto_gallery: false
 draft: false
+attractions: ["lucca--bazilika-san-frediano"]
 ---
 <p>Лукка<br>Как же мы все-таки удачно поселились! И купаемся каждый день и в 30 минутах езды чего только нет!</p>
 

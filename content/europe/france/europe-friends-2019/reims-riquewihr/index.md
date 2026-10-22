@@ -11,6 +11,7 @@ places:
 trip_days: [6]
 draft_plan: false
 hero_image: "20190819_182001.jpg"
+attractions: ["reims--reymsskiy-sobor","reims--bazilika-sen-remi"]
 ---
 
 <h2>Реймс</h2>

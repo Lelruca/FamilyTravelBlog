@@ -14,6 +14,7 @@ hero_image: "20210809_215349.jpg"
 date: "2021-08-09"
 auto_gallery: false
 draft: false
+attractions: ["conciergerie","sainte-chapelle","notre-dame-paris","louvre"]
 ---
 {{< row "20210809_084912.jpg 20210809_085337.jpg" >}}
 

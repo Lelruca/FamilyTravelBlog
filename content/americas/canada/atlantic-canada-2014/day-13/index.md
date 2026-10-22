@@ -10,7 +10,9 @@ source_url: "https://olgau.livejournal.com/185294.html"
 places:
   - kouchibouguac
   - moncton
+  - sainte-anne-de-kent
 hero_image: "up-1ULI5TNBS7IAN1NJ.jpg"
+attractions: ["sainte-anne-de-kent--mylovarnya-olivier-soapery"]
 ---
 
 <p>

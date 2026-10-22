@@ -13,6 +13,7 @@ readable_photos: true
 date: "2026-07-18"
 auto_gallery: false
 draft: false
+attractions: ["roc-del-quer"]
 ---
 <p>Но мы это сделали! На смотровую думали только  заезжать трудно, а оказалось и идти вверх-вниз. Вроде всего 2000, но дышится тяжело</p>
 

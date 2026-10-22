@@ -11,6 +11,7 @@ date: "2025-12-15"
 auto_gallery: false
 draft: false
 source_url: "https://www.facebook.com/media/set/?set=pcb.1339541734639025"
+attractions: ["berlin--treptov-park","berlin--berlinskaya-stena"]
 ---
 <p>А мы с утра планировали Рейхстаг, но сначала метро не остановилось, а когда мы попробовали перейти через мост, то оказалось, что весь центр полностью закрыт. Открыли интернет, поняли, что Владимир Зеленский прибыл раньше нас.</p>
 

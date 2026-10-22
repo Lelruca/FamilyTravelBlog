@@ -7,9 +7,18 @@ draft: false
 date: "2019-08-14"
 places:
   - paris
+  - musee-orsay
+  - montmartre
+  - louvre
+  - luxembourg-gardens
+  - eiffel-tower
+  - arc-triomphe
+  - place-concorde
+  - notre-dame-paris
 trip_days: [1, 2, 3]
 draft_plan: false
 hero_image: "IMG_20190816_131922.jpg"
+attractions: ["musee-orsay","montmartre","louvre","luxembourg-gardens","eiffel-tower","arc-triomphe","place-concorde","notre-dame-paris","paris--tsentr-pompidu","paris--parizhskaya-opera","paris--sad-tyuilri"]
 ---
 
 <p>Ребята прилетели в Париж без нас. И если мы к этому моменту считали себя "матерыми путешественниками", которые и в Китай могут самостоятельно, но для них такой выезд, когда с самолета в никуда был первым опытом и немного страшил. Поэтому они перестраховались и наняли гида их и встретить и провести первые экскурсии. Заодно научились ездить на метро и к нашей встрече они уже вовсю мотались везде сами. Москвичи они или нет!</p>

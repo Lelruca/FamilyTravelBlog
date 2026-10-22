@@ -13,6 +13,7 @@ hero_image: "20240323_113320.jpg"
 date: "2024-03-23"
 auto_gallery: false
 draft: false
+attractions: ["condom--sobor-kondoma"]
 ---
 <p>Квартируем мы сейчас в Тулузе. И по плану утром мы должны были пойти на экскурсию по городу. Но дождик нас испугал.</p>
 

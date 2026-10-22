@@ -11,6 +11,7 @@ hero_image: "20210727_105415.jpg"
 date: "2021-07-27"
 auto_gallery: false
 draft: false
+attractions: ["musee-picasso-antibes"]
 ---
 {{< row "20210727_105219.jpg 20210727_105300.jpg 20210727_105415.jpg 20210727_105456.jpg" >}}
 

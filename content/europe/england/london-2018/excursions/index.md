@@ -9,6 +9,7 @@ city: "London"
 places: ["london"]
 auto_gallery: false
 hero_card_image: "20180320_105017.jpg"
+attractions: ["london--sobor-svyatogo-pavla","london--londonskiy-siti"]
 ---
 
 <p>Вчера у нас было три музея, а сегодня три пешеходных экскурсии - это по Катиной классификации ;) Она нам их и провела. КАК нам повезло!!!</p>

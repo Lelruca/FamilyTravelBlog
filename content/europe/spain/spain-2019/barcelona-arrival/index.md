@@ -12,6 +12,7 @@ hero_image: "20191221_200921.jpg"
 date: "2019-12-21"
 auto_gallery: false
 draft: false
+attractions: ["font-magica","sagrada-familia","barcelona--ploshchad-katalonii","barcelona--ploshchad-ispanii"]
 ---
 <p>У нас "девичник трёх поколений" в Рождественской Испании.</p>
 

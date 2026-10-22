@@ -12,6 +12,7 @@ hero_image: "20240711_172613.jpg"
 hero_card_position: "center 52%"
 date: "2024-07-11"
 auto_gallery: false
+attractions: ["cartuja-miraflores","burgos-cathedral"]
 ---
 <p>Слушайте! После этого волшебного подземного храма судьба подарила нам чудесный подарок. Мы должны были ехать в один известный монастырь в  Бургосе, а каким-то чудом мы запутались и вбили в GPS - Cartuja de Miraflores.  И это было ЧУДО! Мы были там ОДНИ! И он был бесплатный. </p>
 

@@ -7,9 +7,11 @@ city: "Белем и Лиссабон"
 places:
   - lisbon
   - belem
+  - museu-marinha
 hero_image: "20160820_162105.jpg"
 date: 2016-08-20
 auto_gallery: false
+attractions: ["belem","museu-marinha","lisbon--monastyr-zheronimush","lisbon--belemskaya-bashnya"]
 ---
 Началось все пугающе неудачно!
 

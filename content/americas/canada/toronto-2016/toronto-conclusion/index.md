@@ -9,6 +9,7 @@ source_url: "https://olgau.livejournal.com/225039.html"
 places:
   - toronto
 hero_image: "20160616_182704.jpg"
+attractions: ["toronto--si-en-tauer","toronto--shri-svaminarayan-mandir","toronto--akvarium-ripli"]
 ---
 
 <p>Отдохнувших гостей вернули в Торонто, готовым к новым подвигам!</p>

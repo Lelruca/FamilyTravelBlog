@@ -9,6 +9,7 @@ city: "London"
 places: ["london"]
 auto_gallery: false
 hero_card_image: "20180316_122517.jpg"
+attractions: ["london--vestminsterskoe-abbatstvo","london--britanskiy-muzey"]
 ---
 
 <p>Митька с нами в Лондоне уже бывал, но в таком возрасте, что ничего не помнит :)</p>

@@ -14,6 +14,7 @@ hero_image: "facebook_762181705708367.jpg"
 date: "2023-08-08"
 auto_gallery: false
 draft: false
+attractions: ["mannheim-palace","oggersheim","heidelberg-castle"]
 ---
 <p>Mannheim, Germany</p>
 

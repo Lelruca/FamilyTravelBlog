@@ -11,6 +11,7 @@ places:
 trip_days: [12]
 draft_plan: false
 hero_image: "20190825_141346.jpg"
+attractions: ["nymphenburg","munich--staraya-pinakoteka"]
 ---
 
 <p>Чёрную полосу мы однозначно прошли. Сегодня был очередной удачный день! 😀</p>

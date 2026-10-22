@@ -6,6 +6,7 @@ weight: 70
 city: "Сальта"
 places:
   - salta
+  - buenos-aires
 hero_image: "facebook_1433901741869690.jpg"
 date: "2026-04-14"
 auto_gallery: false

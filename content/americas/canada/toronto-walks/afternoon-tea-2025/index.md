@@ -11,6 +11,7 @@ source_url: "https://www.facebook.com/share/p/1CcAamERLh/"
 auto_gallery: false
 draft: false
 hero_card_image: "fb_33244336275150623.jpg"
+attractions: ["queens-park"]
 ---
 
 <p>Благодаря советам Natalia Dankovtseva приобщаемся к  Рождественским традициям Торонто! </p>

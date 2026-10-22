@@ -6,9 +6,12 @@ weight: 6
 chapter_kind: "Заметка"
 layout: "photo-story"
 city: "London"
-places: ["london"]
+places:
+  - london
+  - national-gallery
 auto_gallery: false
 hero_card_image: "20180319_134324.jpg"
+attractions: ["national-gallery","london--muzey-londona","london--muzey-viktorii-i-alberta"]
 ---
 
 <p>Мы начали свой день с музея Лондона. ОЧЕНЬ я люблю такие музей - информативные и логичные! Это наш первый раз в этом музее, но теперь буду рекомендовать всем англоязычным, кто едет в Лондон начать именно с него. Вся картинка истории складывается а единое целое!</p>
