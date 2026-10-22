@@ -68,10 +68,7 @@
 
   {{- if $sights }}
   <section id="city-sights" role="tabpanel" aria-labelledby="city-tab-sights" hidden>
-  {{- $last := "" }}
   {{- range $sights }}
-    {{- $letter := upper (substr .title 0 1) }}
-    {{- if ne $letter $last }}<p class="city-letter">{{ $letter }}</p>{{ $last = $letter }}{{ end }}
     {{- $title := .title }}
     <div class="city-sight" id="a-{{ .id }}">
       <h3>{{ .title }}</h3>
