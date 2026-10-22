@@ -4110,5 +4110,29 @@
     "country_code": "ES",
     "source": "https://www.openstreetmap.org/relation/345059",
     "query": "Albarracín"
+  },
+  "verona": {
+    "lat": 45.4384958,
+    "lon": 10.9924122,
+    "name": "Verona",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/44830",
+    "query": "Verona Italy"
+  },
+  "padua": {
+    "lat": 45.4077172,
+    "lon": 11.8734455,
+    "name": "Padova",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/node/406747508",
+    "query": "Padova Italy"
+  },
+  "venice": {
+    "lat": 45.4371908,
+    "lon": 12.3345898,
+    "name": "Venezia",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/44741",
+    "query": "Venezia Italy"
   }
 }

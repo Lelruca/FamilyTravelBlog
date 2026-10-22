@@ -1,0 +1,1866 @@
+{
+  "trip": "germany-italy-2006",
+  "title": "К бабушке и северная Италия",
+  "archive_root": "Europe/2006 - К бабушке и северная Италия",
+  "photos": [
+    {
+      "source_name": "IMG_3400.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006 Осень\\Германия_2006\\IMG_3400.JPG",
+      "archive_name": "01 - У бабушки/01_IMG_3400.JPG",
+      "sha256": "c996eef70b312e83c5efe0094b252c9049fe3b18d8c0d54bd6bff49be3faca15",
+      "bytes": 179728,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:07 14:41:10",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_3400.JPG",
+      "r2_key": "germany-italy-2006/grandma/IMG_3400.JPG",
+      "drive_id": "1T1lXHdU9_aJVvYd4KDcVUnboQ3yAXVhf"
+    },
+    {
+      "source_name": "IMG_3401.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006 Осень\\Германия_2006\\IMG_3401.JPG",
+      "archive_name": "01 - У бабушки/02_IMG_3401.JPG",
+      "sha256": "c252962954630b5789d9bc7eea38cb0372bbbef4c67207ddcda4591cb2ec36d5",
+      "bytes": 177276,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:07 14:41:29",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_3401.JPG",
+      "r2_key": "germany-italy-2006/grandma/IMG_3401.JPG",
+      "drive_id": "1sgShkj7Gn29XLIFee1xuPKiU15vihUrc"
+    },
+    {
+      "source_name": "IMG_3403.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006 Осень\\Германия_2006\\IMG_3403.JPG",
+      "archive_name": "01 - У бабушки/03_IMG_3403.JPG",
+      "sha256": "7edd022fdaddf86bafad986e57ec27f6b2dd09f0bb1a58b5610dba79f593078f",
+      "bytes": 226417,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:07 15:02:49",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_3403.JPG",
+      "r2_key": "germany-italy-2006/grandma/IMG_3403.JPG",
+      "drive_id": "1uXMlIcwcPEAaHK4qGSkSBkavdLntN2J8"
+    },
+    {
+      "source_name": "IMG_3405.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006 Осень\\Германия_2006\\IMG_3405.JPG",
+      "archive_name": "01 - У бабушки/04_IMG_3405.JPG",
+      "sha256": "3f95f8a3c6e9daf2928724bbe111cb2f2f5cccdfba4923c1b445df80b43e96ca",
+      "bytes": 191992,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:07 15:09:56",
+      "exif_orientation": 1,
+      "chapter": "grandma",
+      "site_filename": "IMG_3405.JPG",
+      "r2_key": "germany-italy-2006/grandma/IMG_3405.JPG",
+      "drive_id": "1isU_kimXlmMThyOgqkJkYCMBNasjFP7G"
+    },
+    {
+      "source_name": "IMG_3414.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3414.JPG",
+      "archive_name": "02 - Альпы и Верона/01_IMG_3414.JPG",
+      "sha256": "2c43c146e7a5b89b7b286a2b063da8cbb8b4b5cd9e0d9df320f40283c23fbaf9",
+      "bytes": 113245,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:10 02:28:02",
+      "exif_orientation": 1,
+      "chapter": "verona",
+      "site_filename": "IMG_3414.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3414.JPG",
+      "drive_id": "1qJezKyvtM-gyI1wJHkuMzLIG9z_NHA66"
+    },
+    {
+      "source_name": "IMG_3419.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3419.JPG",
+      "archive_name": "02 - Альпы и Верона/02_IMG_3419.JPG",
+      "sha256": "bd3f04ff1caee55e497a495be1521cc943b6e62c2cb356287fe7ce95184e8276",
+      "bytes": 137975,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:10 02:31:33",
+      "exif_orientation": 1,
+      "chapter": "verona",
+      "site_filename": "IMG_3419.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3419.JPG",
+      "drive_id": "1NiOxhYs7aYzX9vO6z2StV2Cp5QMOlpjn"
+    },
+    {
+      "source_name": "IMG_3426.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3426.JPG",
+      "archive_name": "02 - Альпы и Верона/03_IMG_3426.JPG",
+      "sha256": "60862a6e3a8dedb01c337bab18af785b248163bd25c9aa5de5be881f2f2214d8",
+      "bytes": 142928,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:10 02:54:48",
+      "exif_orientation": 1,
+      "chapter": "verona",
+      "site_filename": "IMG_3426.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3426.JPG",
+      "drive_id": "1QxDNC2om9IuWGxsv2uDxOvskllDLCluy"
+    },
+    {
+      "source_name": "IMG_3434.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3434.JPG",
+      "archive_name": "02 - Альпы и Верона/04_IMG_3434.JPG",
+      "sha256": "e9ed6db9660adcbf1805a11a6798392f35bc292508355be0a738ca2f71af79cf",
+      "bytes": 191644,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:10 03:02:00",
+      "exif_orientation": 1,
+      "chapter": "verona",
+      "site_filename": "IMG_3434.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3434.JPG",
+      "drive_id": "1yhLk1HhDgtkn5G7vsJH8xyUGaTHY9MSj"
+    },
+    {
+      "source_name": "IMG_3442.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3442.JPG",
+      "archive_name": "02 - Альпы и Верона/05_IMG_3442.JPG",
+      "sha256": "55cd00bae4dd9e5f8352bab4b90d1bfc7a2f63546ac86565440d03c084217f90",
+      "bytes": 213735,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:10 06:35:12",
+      "exif_orientation": 1,
+      "chapter": "verona",
+      "site_filename": "IMG_3442.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3442.JPG",
+      "drive_id": "1E9oE1UtfeyI89lSjxdPMk17oPJIenPpE"
+    },
+    {
+      "source_name": "IMG_3443.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3443.JPG",
+      "archive_name": "02 - Альпы и Верона/06_IMG_3443.JPG",
+      "sha256": "b2e5e2ba3701e9de6c4f86859d37d8493d17396b9f9b73c1d313558305d25770",
+      "bytes": 270758,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:10 06:35:27",
+      "exif_orientation": 1,
+      "chapter": "verona",
+      "site_filename": "IMG_3443.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3443.JPG",
+      "drive_id": "1Lun88J5Gsz--k-SAq4qZs38VwDzdx8vf"
+    },
+    {
+      "source_name": "IMG_3445.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3445.JPG",
+      "archive_name": "02 - Альпы и Верона/07_IMG_3445.JPG",
+      "sha256": "f3841c099843d2091f7b8a69de30abdf1505da904ff0c3341d6bf61620a3c29e",
+      "bytes": 276034,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:10 06:48:50",
+      "exif_orientation": 1,
+      "chapter": "verona",
+      "site_filename": "IMG_3445.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3445.JPG",
+      "drive_id": "13V78h9lMEVAgd0xNGuZ0uaTR9vj_zJW7"
+    },
+    {
+      "source_name": "IMG_3448.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3448.JPG",
+      "archive_name": "02 - Альпы и Верона/08_IMG_3448.JPG",
+      "sha256": "5b7eef882699fc9a315349613b4a4d6366122fdc17d10dc7631bc649a66e27d9",
+      "bytes": 269340,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:10 06:52:29",
+      "exif_orientation": 1,
+      "chapter": "verona",
+      "site_filename": "IMG_3448.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3448.JPG",
+      "drive_id": "16qktyL-5FH0m5tOwXOEzbIQHJossNwQr"
+    },
+    {
+      "source_name": "IMG_3451.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3451.JPG",
+      "archive_name": "02 - Альпы и Верона/09_IMG_3451.JPG",
+      "sha256": "990bb30a29d7c0bbfafd57daa77dddf278846d797bb27cc17c21c3067f05de0a",
+      "bytes": 184925,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:10 07:06:38",
+      "exif_orientation": 1,
+      "chapter": "verona",
+      "site_filename": "IMG_3451.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3451.JPG",
+      "drive_id": "1yBQoiVjUGJYdoAQYrbd-cmZEa9JUoWgC"
+    },
+    {
+      "source_name": "IMG_3454.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3454.JPG",
+      "archive_name": "02 - Альпы и Верона/10_IMG_3454.JPG",
+      "sha256": "bd07e45b27010563444d46ac3125548d8c094677c2bc4ebbd1ec0d1063d59489",
+      "bytes": 313300,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:10 07:11:20",
+      "exif_orientation": 1,
+      "chapter": "verona",
+      "site_filename": "IMG_3454.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3454.JPG",
+      "drive_id": "1UkjH0n6BsF6ZcnB1A4qTu5ojOIw9CaaB"
+    },
+    {
+      "source_name": "IMG_3467.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3467.JPG",
+      "archive_name": "02 - Альпы и Верона/11_IMG_3467.JPG",
+      "sha256": "114872747871965e660f093c0f0614b2b5930ac3f68eca27719ab9d34ca2d263",
+      "bytes": 213427,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:10 08:23:50",
+      "exif_orientation": 1,
+      "chapter": "verona",
+      "site_filename": "IMG_3467.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3467.JPG",
+      "drive_id": "1VOBnTMQ3dL9-FVN5KGF5Gmaa9I1U2i0F"
+    },
+    {
+      "source_name": "IMG_3474.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3474.JPG",
+      "archive_name": "02 - Альпы и Верона/12_IMG_3474.JPG",
+      "sha256": "5eae69e646480871a62957156da0a8809ed7bfedd4fd491b4d9a0a172b65464d",
+      "bytes": 288565,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:10 09:44:18",
+      "exif_orientation": 1,
+      "chapter": "verona",
+      "site_filename": "IMG_3474.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3474.JPG",
+      "drive_id": "1HpRIkP6q_x1dLYUDk67WRVVv4VBYQIcx"
+    },
+    {
+      "source_name": "IMG_3480.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3480.JPG",
+      "archive_name": "02 - Альпы и Верона/13_IMG_3480.JPG",
+      "sha256": "2979fa9bcd4148120fdb68673442cd82d79bd05d7adb78fe67482ad3a5d36d2b",
+      "bytes": 243124,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:10 10:26:01",
+      "exif_orientation": 1,
+      "chapter": "verona",
+      "site_filename": "IMG_3480.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3480.JPG",
+      "drive_id": "1Am613Bgmrl0mMAKmjx6AaTmsEdxu7_W_"
+    },
+    {
+      "source_name": "IMG_3483.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3483.JPG",
+      "archive_name": "02 - Альпы и Верона/14_IMG_3483.JPG",
+      "sha256": "65122b6d76e680d47dac5c46048657b7ab30623e32e35156928b98e296143f5a",
+      "bytes": 204018,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:10 10:26:53",
+      "exif_orientation": 6,
+      "chapter": "verona",
+      "site_filename": "IMG_3483.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3483.JPG",
+      "drive_id": "1t9ucfjAB9f5vs03HpJWLXkC9AxZZfKd1"
+    },
+    {
+      "source_name": "IMG_3486.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3486.JPG",
+      "archive_name": "02 - Альпы и Верона/15_IMG_3486.JPG",
+      "sha256": "3812e03d29310f1802036e26dd8ff6e1bc9c03b3b0f8ea71fac4956cccc6a324",
+      "bytes": 158911,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:10 10:32:13",
+      "exif_orientation": 1,
+      "chapter": "verona",
+      "site_filename": "IMG_3486.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3486.JPG",
+      "drive_id": "1-spB_jxWai7sC2JefyT86RUQfn7aU-rO"
+    },
+    {
+      "source_name": "IMG_3499.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3499.JPG",
+      "archive_name": "02 - Альпы и Верона/16_IMG_3499.JPG",
+      "sha256": "2eb148769f008a4d61ea19285e08ecccb681145412ad8417d18184bdd9cbfe21",
+      "bytes": 214199,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:10 11:05:35",
+      "exif_orientation": 1,
+      "chapter": "verona",
+      "site_filename": "IMG_3499.JPG",
+      "r2_key": "germany-italy-2006/verona/IMG_3499.JPG",
+      "drive_id": "1qDydrt1d1HiWajsUQug5cVduv9rxFQq3"
+    },
+    {
+      "source_name": "IMG_3510.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3510.JPG",
+      "archive_name": "03 - Падуя/01_IMG_3510.JPG",
+      "sha256": "1b9783b8144329810b480476f43a0a679077eac7703bd5c2cc91c80e1ec4eb02",
+      "bytes": 202048,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:11 04:42:19",
+      "exif_orientation": 1,
+      "chapter": "padua",
+      "site_filename": "IMG_3510.JPG",
+      "r2_key": "germany-italy-2006/padua/IMG_3510.JPG",
+      "drive_id": "1GBFVaiHn0sUMwnNTX2DMdM4Yr0Wql8KP"
+    },
+    {
+      "source_name": "IMG_3512.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3512.JPG",
+      "archive_name": "03 - Падуя/02_IMG_3512.JPG",
+      "sha256": "06b88953308375782a6501f4b2f77e3181345ce2989debdd262c268bc4953b01",
+      "bytes": 229209,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:11 04:49:17",
+      "exif_orientation": 1,
+      "chapter": "padua",
+      "site_filename": "IMG_3512.JPG",
+      "r2_key": "germany-italy-2006/padua/IMG_3512.JPG",
+      "drive_id": "1sg8TSuYZ2JUDRjz7LSI-VVM2M0rkRIdf"
+    },
+    {
+      "source_name": "IMG_3515.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3515.JPG",
+      "archive_name": "03 - Падуя/03_IMG_3515.JPG",
+      "sha256": "ef0de1d86569f0980220738d4332dd29beea93e8785840fbc7ed2c956eb10c9d",
+      "bytes": 179895,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:11 04:55:09",
+      "exif_orientation": 1,
+      "chapter": "padua",
+      "site_filename": "IMG_3515.JPG",
+      "r2_key": "germany-italy-2006/padua/IMG_3515.JPG",
+      "drive_id": "1XX0E6dtJbuSGLHhLcTbvgKd_Ulq1BL_0"
+    },
+    {
+      "source_name": "IMG_3517.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3517.JPG",
+      "archive_name": "03 - Падуя/04_IMG_3517.JPG",
+      "sha256": "b25daa8bee0c436db862ed7c7c209a460b0776fca7a76c2965aa78b5f6b51155",
+      "bytes": 229761,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:11 04:56:26",
+      "exif_orientation": 1,
+      "chapter": "padua",
+      "site_filename": "IMG_3517.JPG",
+      "r2_key": "germany-italy-2006/padua/IMG_3517.JPG",
+      "drive_id": "1I_lg6-A_3xLyqGzA4L1_lexy2Tf6oQRz"
+    },
+    {
+      "source_name": "IMG_3518.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3518.JPG",
+      "archive_name": "03 - Падуя/05_IMG_3518.JPG",
+      "sha256": "f82cd59b84264e6b24cc660a63e416662f2a4aab835b7147fd94c34ab0d6d8c9",
+      "bytes": 364349,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:11 05:19:12",
+      "exif_orientation": 1,
+      "chapter": "padua",
+      "site_filename": "IMG_3518.JPG",
+      "r2_key": "germany-italy-2006/padua/IMG_3518.JPG",
+      "drive_id": "1hxzS2_3e-k5bQKV8W7lfus2AhlVBZNV5"
+    },
+    {
+      "source_name": "IMG_3521.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3521.JPG",
+      "archive_name": "03 - Падуя/06_IMG_3521.JPG",
+      "sha256": "ac53d4e38822dce5289b0fa7861a026023eacfc0b35990af94602a3af7aa135d",
+      "bytes": 268550,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:11 06:11:36",
+      "exif_orientation": 1,
+      "chapter": "padua",
+      "site_filename": "IMG_3521.JPG",
+      "r2_key": "germany-italy-2006/padua/IMG_3521.JPG",
+      "drive_id": "1UfPoQkl6JM5eqmp4oMwt7m7vYflAO2Qx"
+    },
+    {
+      "source_name": "IMG_3520.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3520.JPG",
+      "archive_name": "03 - Падуя/07_IMG_3520.JPG",
+      "sha256": "6de7f0fe702ecd5358347adb9176b2b1da816cd0a68c97ac52052a2b3c86228a",
+      "bytes": 232918,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:11 06:10:45",
+      "exif_orientation": 1,
+      "chapter": "padua",
+      "site_filename": "IMG_3520.JPG",
+      "r2_key": "germany-italy-2006/padua/IMG_3520.JPG",
+      "drive_id": "1LEFXi2TrfFfQMzAy5l25ii3cTcFNlDxS"
+    },
+    {
+      "source_name": "IMG_3524.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3524.JPG",
+      "archive_name": "03 - Падуя/08_IMG_3524.JPG",
+      "sha256": "706ad4cac8142ea092d6ab64213b64b1e1e4d99566fa9b164f22d512afaaf0fb",
+      "bytes": 210304,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:11 06:31:37",
+      "exif_orientation": 1,
+      "chapter": "padua",
+      "site_filename": "IMG_3524.JPG",
+      "r2_key": "germany-italy-2006/padua/IMG_3524.JPG",
+      "drive_id": "1pzj4f-9aNOx3ZpnvLSIkS47rXH3-V4Id"
+    },
+    {
+      "source_name": "IMG_3526.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3526.JPG",
+      "archive_name": "04 - Венеция/01_IMG_3526.JPG",
+      "sha256": "61dc408ee7fe132893e741f7f9ad5ca164d7cb5f68fc466cd6784cf59fff6d9c",
+      "bytes": 199537,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:11 08:49:02",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3526.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3526.JPG",
+      "drive_id": "1l6EiUhRtVDWBiv5MJQEtES6hDz0VJ3Tb"
+    },
+    {
+      "source_name": "IMG_3530.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3530.JPG",
+      "archive_name": "04 - Венеция/02_IMG_3530.JPG",
+      "sha256": "02917bae7c4a15e04f1148b3f80928b0da2a92538246ded75d6578f2c1eabac3",
+      "bytes": 257985,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:11 09:03:15",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3530.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3530.JPG",
+      "drive_id": "1OuFq9OcK2ibpeLVXH7i3AIHplaScjA3g"
+    },
+    {
+      "source_name": "IMG_3533.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3533.JPG",
+      "archive_name": "04 - Венеция/03_IMG_3533.JPG",
+      "sha256": "7c16557acae417fd54846d4b350cc1a99056dfe77f4aeb4d29c446968d39ab9f",
+      "bytes": 261003,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:11 09:03:56",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3533.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3533.JPG",
+      "drive_id": "15XY7wLkkGRiSphgdp48LSpXJXnE5AJK-"
+    },
+    {
+      "source_name": "IMG_3534.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3534.JPG",
+      "archive_name": "04 - Венеция/04_IMG_3534.JPG",
+      "sha256": "930f0b2f2042b7e3bd1b2b33865f6fe2cb4f93d5f7c2383b436daa8b03e8925f",
+      "bytes": 183850,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:11 09:04:18",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3534.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3534.JPG",
+      "drive_id": "1eKLFlp1AFlx6UfPBL6cX3EYP6urCqEBc"
+    },
+    {
+      "source_name": "IMG_3537.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3537.JPG",
+      "archive_name": "04 - Венеция/05_IMG_3537.JPG",
+      "sha256": "bdc3d92171cecdf5949ecce13a69eba608f05248d8904da234680472957a04d2",
+      "bytes": 152804,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:11 09:05:43",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3537.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3537.JPG",
+      "drive_id": "13BLBGUQKDM2pGWF1MmFsAFoO8sqZ97xD"
+    },
+    {
+      "source_name": "IMG_3541.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3541.JPG",
+      "archive_name": "04 - Венеция/06_IMG_3541.JPG",
+      "sha256": "5af23094e431c4764860aef77650fdb3490f215d96edb8a2f13e1532931ed455",
+      "bytes": 186890,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:11 09:06:46",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3541.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3541.JPG",
+      "drive_id": "1b5hdJR4tl9AsucOZD9y4-QVABg-nRuKY"
+    },
+    {
+      "source_name": "IMG_3544.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3544.JPG",
+      "archive_name": "04 - Венеция/07_IMG_3544.JPG",
+      "sha256": "c43a2512d9c8cc2eaa8ea7ebe288bbf832fba3cb6e3a6c32a7987624738c8744",
+      "bytes": 230074,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:11 09:38:02",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3544.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3544.JPG",
+      "drive_id": "1lj71y4gdRX8zppEM6ElMOIBFJPqcFSPZ"
+    },
+    {
+      "source_name": "IMG_3546.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3546.JPG",
+      "archive_name": "04 - Венеция/08_IMG_3546.JPG",
+      "sha256": "4f46730ec86a55ccaed133d349d244c218077342b18854852f37c9ef08b0be28",
+      "bytes": 270018,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:11 10:01:17",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3546.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3546.JPG",
+      "drive_id": "16u0Jn-h8iDxvDUsw7LiKpAmuzkGuyq7Q"
+    },
+    {
+      "source_name": "IMG_3545.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3545.JPG",
+      "archive_name": "04 - Венеция/09_IMG_3545.JPG",
+      "sha256": "01347a7adb17d0038f4b4db28c555b7c09644cd1d13b7d93eea1353db04bf6b8",
+      "bytes": 239443,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:11 09:40:40",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3545.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3545.JPG",
+      "drive_id": "1qJVSgRn72wWZr6-r0RKeeMao7qjdIGK6"
+    },
+    {
+      "source_name": "IMG_3550.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3550.JPG",
+      "archive_name": "04 - Венеция/10_IMG_3550.JPG",
+      "sha256": "8f86e3ced74a530c83de75765ca0beb2b13fc56f90f9273c20b68051f98aa52d",
+      "bytes": 194420,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:11 10:03:45",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3550.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3550.JPG",
+      "drive_id": "1W1kcemOga80Ve-ESD5jbmFnGgWvsOJfC"
+    },
+    {
+      "source_name": "IMG_3556.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3556.JPG",
+      "archive_name": "04 - Венеция/11_IMG_3556.JPG",
+      "sha256": "ca6bbaca22ec496c836ac8f39b5a7f0ab73bfe51bc447dbd6ad7aaa680284889",
+      "bytes": 291892,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:11 10:24:04",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3556.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3556.JPG",
+      "drive_id": "1B6WcKxQMfFJhChjpa1KpLB-VAWZIZe_W"
+    },
+    {
+      "source_name": "IMG_3557.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3557.JPG",
+      "archive_name": "04 - Венеция/12_IMG_3557.JPG",
+      "sha256": "abc1ebdcdff0a07ac304476ee9d9675326f53cbe79a338d99f6aaa1b2687f23e",
+      "bytes": 297981,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:11 10:24:26",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3557.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3557.JPG",
+      "drive_id": "1cEMfjYWZWkDLdThmGOZAcx8xgBTgdqZ8"
+    },
+    {
+      "source_name": "IMG_3558.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3558.JPG",
+      "archive_name": "04 - Венеция/13_IMG_3558.JPG",
+      "sha256": "0b70088fcc7cb39f48b6ea34360be430f8f213f42356d6a169d7ae9ccdcb9c44",
+      "bytes": 305201,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:11 10:29:56",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3558.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3558.JPG",
+      "drive_id": "15brOP575tocIz3mFSIxSCzaejaNJHDF0"
+    },
+    {
+      "source_name": "IMG_3563.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3563.JPG",
+      "archive_name": "04 - Венеция/14_IMG_3563.JPG",
+      "sha256": "f4b26dc3052d8b137ed8d95ccb61f0aec2c1c1b5208a0aafdbd5fd57e0224b45",
+      "bytes": 314808,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:11 10:40:06",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3563.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3563.JPG",
+      "drive_id": "1ftq0A2RLyr-LjLGac5feF-_IFwP_inR7"
+    },
+    {
+      "source_name": "IMG_3565.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3565.JPG",
+      "archive_name": "04 - Венеция/15_IMG_3565.JPG",
+      "sha256": "6e15256a0f36250d1b0ac0011a2817e263e5a9d1af2701c93386674cc2ffae83",
+      "bytes": 272339,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:11 10:59:07",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3565.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3565.JPG",
+      "drive_id": "1h_U0DVCXX2DNDMOtGvP25j8XJSqKl2Z6"
+    },
+    {
+      "source_name": "IMG_3570.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3570.JPG",
+      "archive_name": "04 - Венеция/16_IMG_3570.JPG",
+      "sha256": "9fb59b6abedd488c64ee110cdba64a97afdb2540e74cfd7c008fd13c5e76d71c",
+      "bytes": 251717,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:11 11:04:35",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3570.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3570.JPG",
+      "drive_id": "15xwwPmfA9BEzxtvWK5Jn9iSTGU4bRvzN"
+    },
+    {
+      "source_name": "IMG_3576.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3576.JPG",
+      "archive_name": "04 - Венеция/17_IMG_3576.JPG",
+      "sha256": "2934ded70685cb0b77daa507513eada9d97025acccb5145ebe06e2dce0e9c72d",
+      "bytes": 243507,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:11 11:47:35",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3576.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3576.JPG",
+      "drive_id": "1FivIWuCDComy1jN3kti-7sdxREAQGxLB"
+    },
+    {
+      "source_name": "IMG_3580.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3580.JPG",
+      "archive_name": "04 - Венеция/18_IMG_3580.JPG",
+      "sha256": "e81a1e98b4923560b5f2522c09151a0b06d74ed0434bab19771dcbca9991e9aa",
+      "bytes": 217054,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:11 11:48:54",
+      "exif_orientation": 1,
+      "chapter": "venice",
+      "site_filename": "IMG_3580.JPG",
+      "r2_key": "germany-italy-2006/venice/IMG_3580.JPG",
+      "drive_id": "1BQ2fU65ud90VGCa-95OrHjA7x5PdvjyO"
+    },
+    {
+      "source_name": "IMG_3581.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3581.JPG",
+      "archive_name": "05 - Милан/01_IMG_3581.JPG",
+      "sha256": "214b936b2192f70a3fd94ce008dc1d2b371c6e4b7a089306df7eded46dfa4102",
+      "bytes": 200067,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:12 06:38:42",
+      "exif_orientation": 1,
+      "chapter": "milan",
+      "site_filename": "IMG_3581.JPG",
+      "r2_key": "germany-italy-2006/milan/IMG_3581.JPG",
+      "drive_id": "1v6pqGxg2Wj1_tOy8LKW5mNKYx3C2zxT-"
+    },
+    {
+      "source_name": "IMG_3584.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3584.JPG",
+      "archive_name": "05 - Милан/02_IMG_3584.JPG",
+      "sha256": "60270d582cf88713f91789fcc7fb734800afbe7497bc7827a524a2f900c08145",
+      "bytes": 289467,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:12 07:09:59",
+      "exif_orientation": 1,
+      "chapter": "milan",
+      "site_filename": "IMG_3584.JPG",
+      "r2_key": "germany-italy-2006/milan/IMG_3584.JPG",
+      "drive_id": "12-S7wYaWNBItNN7S-Lqv1dx8BKf-l2qc"
+    },
+    {
+      "source_name": "IMG_3586.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3586.JPG",
+      "archive_name": "05 - Милан/03_IMG_3586.JPG",
+      "sha256": "954cae5a31799a2c0654d3546b2dadae130a8b89f32c451dee21a42e34b2f588",
+      "bytes": 301191,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:12 07:16:54",
+      "exif_orientation": 1,
+      "chapter": "milan",
+      "site_filename": "IMG_3586.JPG",
+      "r2_key": "germany-italy-2006/milan/IMG_3586.JPG",
+      "drive_id": "1FXmXph3n-j8BlhfuxKajvooXVrYNEWkN"
+    },
+    {
+      "source_name": "IMG_3588.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3588.JPG",
+      "archive_name": "05 - Милан/04_IMG_3588.JPG",
+      "sha256": "b4726af1bf2fbe990f3d709fb0edaf461162e0c51c8e8b8e74554aa197f9e09f",
+      "bytes": 213840,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:12 07:21:31",
+      "exif_orientation": 1,
+      "chapter": "milan",
+      "site_filename": "IMG_3588.JPG",
+      "r2_key": "germany-italy-2006/milan/IMG_3588.JPG",
+      "drive_id": "1bKg8xNiQp3C9mdYk1WIq5c97_jU-o6q7"
+    },
+    {
+      "source_name": "IMG_3591.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3591.JPG",
+      "archive_name": "05 - Милан/05_IMG_3591.JPG",
+      "sha256": "ef3ce33424d81c41a138327c9066b9ef0c8083ebf22a16d57afc8a3b5026702f",
+      "bytes": 237787,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:12 07:36:41",
+      "exif_orientation": 1,
+      "chapter": "milan",
+      "site_filename": "IMG_3591.JPG",
+      "r2_key": "germany-italy-2006/milan/IMG_3591.JPG",
+      "drive_id": "17PPIsiRAXu0ugMy9rDHDPm0EN9Bn3p_P"
+    },
+    {
+      "source_name": "IMG_3594.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3594.JPG",
+      "archive_name": "05 - Милан/06_IMG_3594.JPG",
+      "sha256": "7257c629b993cfe2a6e0b0b03d5dc94bced3c626b01917f1b4585c81ce1a0d90",
+      "bytes": 389309,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:12 07:42:05",
+      "exif_orientation": 1,
+      "chapter": "milan",
+      "site_filename": "IMG_3594.JPG",
+      "r2_key": "germany-italy-2006/milan/IMG_3594.JPG",
+      "drive_id": "1NHExyLZFh0n_XSTI9IHOZClzRdfcxUeq"
+    },
+    {
+      "source_name": "IMG_3595.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3595.JPG",
+      "archive_name": "05 - Милан/07_IMG_3595.JPG",
+      "sha256": "4f8f797de3b132e3b8977e1436789b09b2d62ccf856958eb6654144bd1f82768",
+      "bytes": 214108,
+      "width": 1024,
+      "height": 768,
+      "exif_date": "2006:11:12 07:58:53",
+      "exif_orientation": 1,
+      "chapter": "milan",
+      "site_filename": "IMG_3595.JPG",
+      "r2_key": "germany-italy-2006/milan/IMG_3595.JPG",
+      "drive_id": "1IoixynLtDJaep9pj6bE4wFfSI7ZOzCFj"
+    },
+    {
+      "source_name": "IMG_3597.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3597.JPG",
+      "archive_name": "05 - Милан/08_IMG_3597.JPG",
+      "sha256": "99fed332d335d53819ed49a1c7037a01e854d57c7652fecf3014ec8db9fd2217",
+      "bytes": 252154,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:12 08:02:16",
+      "exif_orientation": 1,
+      "chapter": "milan",
+      "site_filename": "IMG_3597.JPG",
+      "r2_key": "germany-italy-2006/milan/IMG_3597.JPG",
+      "drive_id": "1i-T3Ro77dJMt4FKfnh9xWUIula-OMW5_"
+    },
+    {
+      "source_name": "IMG_3598.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3598.JPG",
+      "archive_name": "05 - Милан/09_IMG_3598.JPG",
+      "sha256": "5b59b607edff7ace8c014003deb976449f7c04f7ef0fd764e902f64cb4f40fde",
+      "bytes": 234072,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:12 08:10:56",
+      "exif_orientation": 1,
+      "chapter": "milan",
+      "site_filename": "IMG_3598.JPG",
+      "r2_key": "germany-italy-2006/milan/IMG_3598.JPG",
+      "drive_id": "1cUynbYu8DbP_avl9sKkpbYYLqEwryDz6"
+    },
+    {
+      "source_name": "IMG_3600.JPG",
+      "source_path": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3600.JPG",
+      "archive_name": "05 - Милан/10_IMG_3600.JPG",
+      "sha256": "c11758a5038fbde7d2dd2fa27812f192444f9f44305207a6399076d3375293b5",
+      "bytes": 223342,
+      "width": 768,
+      "height": 1024,
+      "exif_date": "2006:11:12 08:12:46",
+      "exif_orientation": 1,
+      "chapter": "milan",
+      "site_filename": "IMG_3600.JPG",
+      "r2_key": "germany-italy-2006/milan/IMG_3600.JPG",
+      "drive_id": "1y5EdonatVqC1mFY7PpGGDCaDpJT_OU2H"
+    }
+  ],
+  "source": {
+    "source_path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Германия у бабушки (разные годы).docx",
+    "archive_name": "Источники/Германия у бабушки (разные годы).docx",
+    "sha256": "243621557acf4008e1c3f1318bfc24d2a51e61bf82ed89b6a3e03370a87dcbae",
+    "bytes": 44992,
+    "drive_id": "1jUo4agU9epC_Xb-DMQtQ0tQoCuTAkLl9",
+    "paragraph_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "ranges": {
+      "12": [
+        0,
+        72
+      ]
+    },
+    "original_heading": "Как я отдохнула (Гемания 2006)"
+  },
+  "publication": {
+    "draft": true
+  },
+  "drive_sync_verified": true,
+  "storage": {
+    "drive_sync_verified": true,
+    "r2_verified": true,
+    "drive_sync_checked_at": "2026-10-22T17:15:48.052Z"
+  },
+  "drive_trip_folder_id": "1wqPsRuFoJGfczOErEkLze6wtftCIjO5I",
+  "r2": {
+    "photos": [
+      {
+        "key": "germany-italy-2006/grandma/IMG_3400.JPG",
+        "original_archive_name": "01 - У бабушки/01_IMG_3400.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 179728,
+        "sha256": "c996eef70b312e83c5efe0094b252c9049fe3b18d8c0d54bd6bff49be3faca15",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/grandma/IMG_3400.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/grandma/IMG_3401.JPG",
+        "original_archive_name": "01 - У бабушки/02_IMG_3401.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 177276,
+        "sha256": "c252962954630b5789d9bc7eea38cb0372bbbef4c67207ddcda4591cb2ec36d5",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/grandma/IMG_3401.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/grandma/IMG_3403.JPG",
+        "original_archive_name": "01 - У бабушки/03_IMG_3403.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 226417,
+        "sha256": "7edd022fdaddf86bafad986e57ec27f6b2dd09f0bb1a58b5610dba79f593078f",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/grandma/IMG_3403.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/grandma/IMG_3405.JPG",
+        "original_archive_name": "01 - У бабушки/04_IMG_3405.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 191992,
+        "sha256": "3f95f8a3c6e9daf2928724bbe111cb2f2f5cccdfba4923c1b445df80b43e96ca",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/grandma/IMG_3405.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3414.JPG",
+        "original_archive_name": "02 - Альпы и Верона/01_IMG_3414.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 113245,
+        "sha256": "2c43c146e7a5b89b7b286a2b063da8cbb8b4b5cd9e0d9df320f40283c23fbaf9",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3414.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3419.JPG",
+        "original_archive_name": "02 - Альпы и Верона/02_IMG_3419.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 137975,
+        "sha256": "bd3f04ff1caee55e497a495be1521cc943b6e62c2cb356287fe7ce95184e8276",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3419.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3426.JPG",
+        "original_archive_name": "02 - Альпы и Верона/03_IMG_3426.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 142928,
+        "sha256": "60862a6e3a8dedb01c337bab18af785b248163bd25c9aa5de5be881f2f2214d8",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3426.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3434.JPG",
+        "original_archive_name": "02 - Альпы и Верона/04_IMG_3434.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 191644,
+        "sha256": "e9ed6db9660adcbf1805a11a6798392f35bc292508355be0a738ca2f71af79cf",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3434.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3442.JPG",
+        "original_archive_name": "02 - Альпы и Верона/05_IMG_3442.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 213735,
+        "sha256": "55cd00bae4dd9e5f8352bab4b90d1bfc7a2f63546ac86565440d03c084217f90",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3442.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3443.JPG",
+        "original_archive_name": "02 - Альпы и Верона/06_IMG_3443.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 270758,
+        "sha256": "b2e5e2ba3701e9de6c4f86859d37d8493d17396b9f9b73c1d313558305d25770",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3443.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3445.JPG",
+        "original_archive_name": "02 - Альпы и Верона/07_IMG_3445.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 276034,
+        "sha256": "f3841c099843d2091f7b8a69de30abdf1505da904ff0c3341d6bf61620a3c29e",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3445.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3448.JPG",
+        "original_archive_name": "02 - Альпы и Верона/08_IMG_3448.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 269340,
+        "sha256": "5b7eef882699fc9a315349613b4a4d6366122fdc17d10dc7631bc649a66e27d9",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3448.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3451.JPG",
+        "original_archive_name": "02 - Альпы и Верона/09_IMG_3451.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 184925,
+        "sha256": "990bb30a29d7c0bbfafd57daa77dddf278846d797bb27cc17c21c3067f05de0a",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3451.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3454.JPG",
+        "original_archive_name": "02 - Альпы и Верона/10_IMG_3454.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 313300,
+        "sha256": "bd07e45b27010563444d46ac3125548d8c094677c2bc4ebbd1ec0d1063d59489",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3454.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3467.JPG",
+        "original_archive_name": "02 - Альпы и Верона/11_IMG_3467.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 213427,
+        "sha256": "114872747871965e660f093c0f0614b2b5930ac3f68eca27719ab9d34ca2d263",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3467.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3474.JPG",
+        "original_archive_name": "02 - Альпы и Верона/12_IMG_3474.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 288565,
+        "sha256": "5eae69e646480871a62957156da0a8809ed7bfedd4fd491b4d9a0a172b65464d",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3474.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3480.JPG",
+        "original_archive_name": "02 - Альпы и Верона/13_IMG_3480.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 243124,
+        "sha256": "2979fa9bcd4148120fdb68673442cd82d79bd05d7adb78fe67482ad3a5d36d2b",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3480.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3483.JPG",
+        "original_archive_name": "02 - Альпы и Верона/14_IMG_3483.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 118442,
+        "sha256": "b5844acd218dc840e9fa09abbed2d2e97ac33f64704f02fef24f4a34c1f934b5",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3483.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3486.JPG",
+        "original_archive_name": "02 - Альпы и Верона/15_IMG_3486.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 158911,
+        "sha256": "3812e03d29310f1802036e26dd8ff6e1bc9c03b3b0f8ea71fac4956cccc6a324",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3486.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/verona/IMG_3499.JPG",
+        "original_archive_name": "02 - Альпы и Верона/16_IMG_3499.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 214199,
+        "sha256": "2eb148769f008a4d61ea19285e08ecccb681145412ad8417d18184bdd9cbfe21",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/verona/IMG_3499.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/padua/IMG_3510.JPG",
+        "original_archive_name": "03 - Падуя/01_IMG_3510.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 202048,
+        "sha256": "1b9783b8144329810b480476f43a0a679077eac7703bd5c2cc91c80e1ec4eb02",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/padua/IMG_3510.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/padua/IMG_3512.JPG",
+        "original_archive_name": "03 - Падуя/02_IMG_3512.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 229209,
+        "sha256": "06b88953308375782a6501f4b2f77e3181345ce2989debdd262c268bc4953b01",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/padua/IMG_3512.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/padua/IMG_3515.JPG",
+        "original_archive_name": "03 - Падуя/03_IMG_3515.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 179895,
+        "sha256": "ef0de1d86569f0980220738d4332dd29beea93e8785840fbc7ed2c956eb10c9d",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/padua/IMG_3515.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/padua/IMG_3517.JPG",
+        "original_archive_name": "03 - Падуя/04_IMG_3517.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 229761,
+        "sha256": "b25daa8bee0c436db862ed7c7c209a460b0776fca7a76c2965aa78b5f6b51155",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/padua/IMG_3517.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/padua/IMG_3518.JPG",
+        "original_archive_name": "03 - Падуя/05_IMG_3518.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 364349,
+        "sha256": "f82cd59b84264e6b24cc660a63e416662f2a4aab835b7147fd94c34ab0d6d8c9",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/padua/IMG_3518.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/padua/IMG_3521.JPG",
+        "original_archive_name": "03 - Падуя/06_IMG_3521.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 268550,
+        "sha256": "ac53d4e38822dce5289b0fa7861a026023eacfc0b35990af94602a3af7aa135d",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/padua/IMG_3521.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/padua/IMG_3520.JPG",
+        "original_archive_name": "03 - Падуя/07_IMG_3520.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 232918,
+        "sha256": "6de7f0fe702ecd5358347adb9176b2b1da816cd0a68c97ac52052a2b3c86228a",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/padua/IMG_3520.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/padua/IMG_3524.JPG",
+        "original_archive_name": "03 - Падуя/08_IMG_3524.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 210304,
+        "sha256": "706ad4cac8142ea092d6ab64213b64b1e1e4d99566fa9b164f22d512afaaf0fb",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/padua/IMG_3524.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3526.JPG",
+        "original_archive_name": "04 - Венеция/01_IMG_3526.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 199537,
+        "sha256": "61dc408ee7fe132893e741f7f9ad5ca164d7cb5f68fc466cd6784cf59fff6d9c",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3526.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3530.JPG",
+        "original_archive_name": "04 - Венеция/02_IMG_3530.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 257985,
+        "sha256": "02917bae7c4a15e04f1148b3f80928b0da2a92538246ded75d6578f2c1eabac3",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3530.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3533.JPG",
+        "original_archive_name": "04 - Венеция/03_IMG_3533.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 261003,
+        "sha256": "7c16557acae417fd54846d4b350cc1a99056dfe77f4aeb4d29c446968d39ab9f",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3533.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3534.JPG",
+        "original_archive_name": "04 - Венеция/04_IMG_3534.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 183850,
+        "sha256": "930f0b2f2042b7e3bd1b2b33865f6fe2cb4f93d5f7c2383b436daa8b03e8925f",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3534.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3537.JPG",
+        "original_archive_name": "04 - Венеция/05_IMG_3537.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 152804,
+        "sha256": "bdc3d92171cecdf5949ecce13a69eba608f05248d8904da234680472957a04d2",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3537.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3541.JPG",
+        "original_archive_name": "04 - Венеция/06_IMG_3541.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 186890,
+        "sha256": "5af23094e431c4764860aef77650fdb3490f215d96edb8a2f13e1532931ed455",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3541.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3544.JPG",
+        "original_archive_name": "04 - Венеция/07_IMG_3544.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 230074,
+        "sha256": "c43a2512d9c8cc2eaa8ea7ebe288bbf832fba3cb6e3a6c32a7987624738c8744",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3544.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3546.JPG",
+        "original_archive_name": "04 - Венеция/08_IMG_3546.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 270018,
+        "sha256": "4f46730ec86a55ccaed133d349d244c218077342b18854852f37c9ef08b0be28",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3546.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3545.JPG",
+        "original_archive_name": "04 - Венеция/09_IMG_3545.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 239443,
+        "sha256": "01347a7adb17d0038f4b4db28c555b7c09644cd1d13b7d93eea1353db04bf6b8",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3545.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3550.JPG",
+        "original_archive_name": "04 - Венеция/10_IMG_3550.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 194420,
+        "sha256": "8f86e3ced74a530c83de75765ca0beb2b13fc56f90f9273c20b68051f98aa52d",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3550.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3556.JPG",
+        "original_archive_name": "04 - Венеция/11_IMG_3556.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 291892,
+        "sha256": "ca6bbaca22ec496c836ac8f39b5a7f0ab73bfe51bc447dbd6ad7aaa680284889",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3556.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3557.JPG",
+        "original_archive_name": "04 - Венеция/12_IMG_3557.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 297981,
+        "sha256": "abc1ebdcdff0a07ac304476ee9d9675326f53cbe79a338d99f6aaa1b2687f23e",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3557.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3558.JPG",
+        "original_archive_name": "04 - Венеция/13_IMG_3558.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 305201,
+        "sha256": "0b70088fcc7cb39f48b6ea34360be430f8f213f42356d6a169d7ae9ccdcb9c44",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3558.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3563.JPG",
+        "original_archive_name": "04 - Венеция/14_IMG_3563.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 314808,
+        "sha256": "f4b26dc3052d8b137ed8d95ccb61f0aec2c1c1b5208a0aafdbd5fd57e0224b45",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3563.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3565.JPG",
+        "original_archive_name": "04 - Венеция/15_IMG_3565.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 272339,
+        "sha256": "6e15256a0f36250d1b0ac0011a2817e263e5a9d1af2701c93386674cc2ffae83",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3565.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3570.JPG",
+        "original_archive_name": "04 - Венеция/16_IMG_3570.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 251717,
+        "sha256": "9fb59b6abedd488c64ee110cdba64a97afdb2540e74cfd7c008fd13c5e76d71c",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3570.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3576.JPG",
+        "original_archive_name": "04 - Венеция/17_IMG_3576.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 243507,
+        "sha256": "2934ded70685cb0b77daa507513eada9d97025acccb5145ebe06e2dce0e9c72d",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3576.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/venice/IMG_3580.JPG",
+        "original_archive_name": "04 - Венеция/18_IMG_3580.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 217054,
+        "sha256": "e81a1e98b4923560b5f2522c09151a0b06d74ed0434bab19771dcbca9991e9aa",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/venice/IMG_3580.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/milan/IMG_3581.JPG",
+        "original_archive_name": "05 - Милан/01_IMG_3581.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 200067,
+        "sha256": "214b936b2192f70a3fd94ce008dc1d2b371c6e4b7a089306df7eded46dfa4102",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/milan/IMG_3581.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/milan/IMG_3584.JPG",
+        "original_archive_name": "05 - Милан/02_IMG_3584.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 289467,
+        "sha256": "60270d582cf88713f91789fcc7fb734800afbe7497bc7827a524a2f900c08145",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/milan/IMG_3584.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/milan/IMG_3586.JPG",
+        "original_archive_name": "05 - Милан/03_IMG_3586.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 301191,
+        "sha256": "954cae5a31799a2c0654d3546b2dadae130a8b89f32c451dee21a42e34b2f588",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/milan/IMG_3586.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/milan/IMG_3588.JPG",
+        "original_archive_name": "05 - Милан/04_IMG_3588.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 213840,
+        "sha256": "b4726af1bf2fbe990f3d709fb0edaf461162e0c51c8e8b8e74554aa197f9e09f",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/milan/IMG_3588.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/milan/IMG_3591.JPG",
+        "original_archive_name": "05 - Милан/05_IMG_3591.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 237787,
+        "sha256": "ef3ce33424d81c41a138327c9066b9ef0c8083ebf22a16d57afc8a3b5026702f",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/milan/IMG_3591.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/milan/IMG_3594.JPG",
+        "original_archive_name": "05 - Милан/06_IMG_3594.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 389309,
+        "sha256": "7257c629b993cfe2a6e0b0b03d5dc94bced3c626b01917f1b4585c81ce1a0d90",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/milan/IMG_3594.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/milan/IMG_3595.JPG",
+        "original_archive_name": "05 - Милан/07_IMG_3595.JPG",
+        "width": 1024,
+        "height": 768,
+        "bytes": 214108,
+        "sha256": "4f8f797de3b132e3b8977e1436789b09b2d62ccf856958eb6654144bd1f82768",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/milan/IMG_3595.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/milan/IMG_3597.JPG",
+        "original_archive_name": "05 - Милан/08_IMG_3597.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 252154,
+        "sha256": "99fed332d335d53819ed49a1c7037a01e854d57c7652fecf3014ec8db9fd2217",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/milan/IMG_3597.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/milan/IMG_3598.JPG",
+        "original_archive_name": "05 - Милан/09_IMG_3598.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 234072,
+        "sha256": "5b59b607edff7ace8c014003deb976449f7c04f7ef0fd764e902f64cb4f40fde",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/milan/IMG_3598.JPG",
+        "public_verified": true
+      },
+      {
+        "key": "germany-italy-2006/milan/IMG_3600.JPG",
+        "original_archive_name": "05 - Милан/10_IMG_3600.JPG",
+        "width": 768,
+        "height": 1024,
+        "bytes": 223342,
+        "sha256": "c11758a5038fbde7d2dd2fa27812f192444f9f44305207a6399076d3375293b5",
+        "public_url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/milan/IMG_3600.JPG",
+        "public_verified": true
+      }
+    ],
+    "status": "public-bytes-mime-sha256-verified",
+    "verified_at": "2026-10-22T17:17:48.144Z"
+  },
+  "owner_approval": {
+    "publication": false,
+    "cover": "IMG_3405.JPG — временно выбрана Ольгой; она уточнила, что на фото не она. Не подписывать людей без уточнения.",
+    "paragraph_splits": "Да, разделить по городам"
+  },
+  "chapters": [
+    {
+      "slug": "grandma",
+      "title": "У бабушки",
+      "folder": "01 - У бабушки",
+      "city": "Хюрт",
+      "places": [
+        "hurth"
+      ],
+      "hero_card_image": "IMG_3405.JPG",
+      "fragments": [
+        {
+          "source_index": 1,
+          "start": 0,
+          "end": 41,
+          "text": "КАК я отдохнула! Нет, ну КАК я отдохнула!",
+          "photo_blocks": []
+        },
+        {
+          "source_index": 2,
+          "start": 0,
+          "end": 101,
+          "text": "Можете представить себе уехать на каникулы к бабушке, без всех, как в былые времена. Мечта просто :-)",
+          "photo_blocks": []
+        },
+        {
+          "source_index": 3,
+          "start": 0,
+          "end": 1000,
+          "text": "Правда бабушка не давала мне просто лежать и читать книжки, она следила за моим правильным образом жизни и выгуливала меня по многу. Сама бабушка (ттт) чувствует себя на мой взгляд не плохо. Хотя она со мной не согласна, не в том смысле что жалуется на здоровье, а просто считает что в таком возрасте человек не может чувствовать себя лучше :-) Но гуляла со мной ежедневно минимум по 2 часа. А потом мы так разошлись, что несколько дней и по 5 часов подряд гуляли, при этом она сидела не больше 20 минут в общей сложности за это время! Даже на кладбище к деду пешком сходили, а это и довольно далеко и главное надо на холм корабкаться все время. Она после инфаркта туда еще пешком не ходила и мне все говорили что надо такси брать, но я чувствовала что она в силах это сделать сама и мы решили попробовать. У нас получилось и бабушка была этому очень рада, т.к. важно чувствовать уверенность в своих силах. Мало того, потом мы побежали в магазин, т.к. там распродавали интересные для нас кофточки ;-)",
+          "photo_blocks": [
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3400.JPG",
+                "IMG_3401.JPG"
+              ]
+            }
+          ]
+        },
+        {
+          "source_index": 4,
+          "start": 0,
+          "end": 243,
+          "text": "Бабушка заставила меня приодеться и хотя я первую неделю стойко держалась и покупала что-то только детям, но во вторую неделю все-таки меня переломили и я вошла во вкус и прикупила много новых вещей для работы. Мне давно надо было это сделать.",
+          "photo_blocks": []
+        },
+        {
+          "source_index": 5,
+          "start": 0,
+          "end": 2447,
+          "text": "Этот раз я летела новым для себя маршрутом через Штаты. Это был самый дешевый билет который я смогла в интернете найти, а мне было все равно как лететь. Причем я так была занята перед отъездом что даже толком не разобралась где у меня пересадка в Штатах. Аэропорт называется Newark, я поняла что это большое перевалочный пункт, а где это... Из Торонто я летела вообще на малюсеньком самолетике у которого в ряду только 3 красла (1+2), подлетаем, смотрю океанское побережье, красиво и большой город с высотками. Ну так любой американский город так выглядит. Но стало мне конечно уже любопытно где я нахожусь :-) Пересадка у меня была большая, часа 3. Поэтому я много гуляла по аэропорту и даже решила что-то перекусить. Сажусь за столик у окна с прекрасным видом на город и спрашиваю у соседей: «Что за станция такая?» :-) Они на меня покосились конечно, но со свойственной американцам терпимостью ко всему чему угодно, ответили что мол Нью-Йорк это, вид на Манхэтэн :-) Так я узнала что летела я через Нью-Йорк оказывается. Правда обратный путь был неудобным в этом смысле. Как я уже раньше говорила, рейсы в Торонто американцами рассматриваются как «внутренние» (когда летишь к ним то проходишь американскую границу в аэропорту Торонто), поэтому когда я летела обратно, то мне пришлось пройти гриницу в Штатах, получить свой багаж, пройти с ним таможню и... потом опять его сдать на рейс до Торонто. Особенно тяжело было что у меня обратная пересадка была всего 1,5 часа и мы на 40 минут опоздали и конечно пока багаж получили... Короче я бегом бежала по всему аэропорту потом (конечно мой выход был САМЫЙ последний!) и уже объявили что если поссажирка Уколова не проследует на борт через 2 минуты, то... Короче я забежала и двери закрылись :-) Но при всех этих минусах и неудобствах был один огромный плюс в этом перелете! Пустые самолеты! Просто из Нью-Йорка идет прямой рейс на Кельн, никто больше такие рейсы не делает, все летят во Франкфурт и там пересаживают на местные рейсы. А тут прямой. И много народу из Америки летит именно в Кельн? Мало! Очень мало! И туда и обратно я летела так что была одна на 3 сиденьях! Т.е. лежачий вариант! Особенно туда ночью мы летели и все спали как в поезде. Круто, я еще ни разу так не летала в самолетах. Поэтому я готова закрыть глаза на эти глупости с перетаскиванием багажа и переходами границы, тем более стоит отметить что меня как канадку не трогали вообще (по сравнению с теми же немцами рядом).",
+          "photo_blocks": []
+        },
+        {
+          "source_index": 7,
+          "start": 0,
+          "end": 1146,
+          "text": "Больше я никуда не ездила и ни с кем не общалась, хотя с родственниками созванивалась и встречалась с бабушкиными соседями. Но больше времени мне хотелось провести с бабушкой. Помимо прогулок и походов по магазинам мы с ней смотрели русской телевидение. Т.ч. я можно сказать что окунулась и в русскую атмосферу немножко. Мне понравилось :-) Может быть немножко откат к прошлом на телевидении (или это все-таки немножко «адаптированные» каналы: 1 и Россия под мирового зрителя), но много концертов,много интересный передач (я конечно стала фанаткой программы Звезды на льду, да и Две зведы тоже очень понравились). Но так же много и интересных передач с обсуждением новых необходимых законов (мне попались передачи про образование «родительских коммитетов» в воинских частях и про дорожное строительство). Говорят хорошо, законы принимают хорошие и правильные. Уж как это воплощается в жизнь я конечно не знаю ;-) Но мне кажется уже хорошо то что идет позитив по телевидению, это же тоже важно для людей, чтобы включил телевизор и не один беспредел и убийства, а чтобы было что-то для души и чтобы гордость была за страну. Так что я прониклась :-)",
+          "photo_blocks": []
+        },
+        {
+          "source_index": 8,
+          "start": 0,
+          "end": 358,
+          "text": "Бабушкин день рождения отметили в узком кругу с ее близкими соседями дома. Еще бабушку я уговорила пить «правильные» дозы витаминов С и В (привезла с собой) и хотя она первое время не соглашалась, но я ее «дожала» и к концу она даже сказала что похоже с нервами у нее стало лучше, даже мой отъест она довольно стоически перенесла, хотя это всегда грустно :-(",
+          "photo_blocks": [
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3403.JPG",
+                "IMG_3405.JPG"
+              ]
+            }
+          ]
+        },
+        {
+          "source_index": 9,
+          "start": 0,
+          "end": 744,
+          "text": "В это время досталось и другим членам моей семьи. Мы с Надеждой (женой брата) как раз «поменялись местами», я улетела к бабушке, а она тут приехала к Анютке в гости. Как раз попала на встречу со всеми учителями (очень хвалили ребенка) и потом у Ани были мини-каникулы и они уехали тоже на автобусе путешествовать по Канаде. В это время в Москве Сашка загремел в больницу и мама очень испугалась, распереживалась и Серега ее посадил в этот же день на самолет. Слава Богу с Сашей все обошлось и он уже сейчас снова вышел на работу. Мама пока в Москве, пытается оформить новый загран. паспорт раз уж попала туда, т.к. у нее скоро заканчивается. Поэтому не знаю когда вернется. Может у кого есть связи в Балашихинском ОВИРе чтобы ускорить это дело?",
+          "photo_blocks": []
+        },
+        {
+          "source_index": 10,
+          "start": 0,
+          "end": 380,
+          "text": "Серега конечно «попал», у него и 2 детей на руках и гости... Старался как мог, развозил детей, гостей, готовил обеды. Короче просто Золушок. Я к нему на выручку не бросилась, т.к. бабушка меня так ждала... И как всегда бывает еще и Митька приболел и ему пришлось с ним несколько дней дома сидеть. Но он достойно справился, даже встречали меня в идеально чистом доме и с обедом :-)",
+          "photo_blocks": []
+        },
+        {
+          "source_index": 11,
+          "start": 0,
+          "end": 291,
+          "text": "Поэтому я сейчас с новыми силами (а я действительно ОЧЕНЬ хорошо отдохнула) пытаюсь взвалить на себя побольше чтобы дать ему отдохнуть, но... пока у меня не шибко получается, т.к. я прихожу с работы уже полностью «никакая» (хочу спать, трудно привыкнуть к другому времени). Но я стараюсь :-)",
+          "photo_blocks": []
+        },
+        {
+          "source_index": 12,
+          "start": 0,
+          "end": 72,
+          "text": "Поэтому дорогие канадцы и вам еще не звонила, вечером просто не могу :-)",
+          "photo_blocks": []
+        }
+      ]
+    },
+    {
+      "slug": "verona",
+      "title": "Альпы и Верона",
+      "folder": "02 - Альпы и Верона",
+      "city": "Верона",
+      "places": [
+        "verona"
+      ],
+      "hero_card_image": "IMG_3467.JPG",
+      "fragments": [
+        {
+          "source_index": 6,
+          "start": 0,
+          "end": 592,
+          "text": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. ",
+          "photo_blocks": [
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3414.JPG",
+                "IMG_3419.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3426.JPG",
+                "IMG_3434.JPG"
+              ]
+            }
+          ]
+        },
+        {
+          "source_index": 6,
+          "start": 592,
+          "end": 914,
+          "text": "Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. ",
+          "photo_blocks": [
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3442.JPG",
+                "IMG_3443.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3445.JPG",
+                "IMG_3448.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3451.JPG",
+                "IMG_3454.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3467.JPG",
+                "IMG_3474.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3480.JPG",
+                "IMG_3483.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3486.JPG",
+                "IMG_3499.JPG"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "padua",
+      "title": "Падуя",
+      "folder": "03 - Падуя",
+      "city": "Падуя",
+      "places": [
+        "padua"
+      ],
+      "hero_card_image": "IMG_3510.JPG",
+      "fragments": [
+        {
+          "source_index": 6,
+          "start": 914,
+          "end": 1073,
+          "text": "Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. ",
+          "photo_blocks": [
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3510.JPG",
+                "IMG_3512.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3515.JPG",
+                "IMG_3517.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3518.JPG",
+                "IMG_3521.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3520.JPG",
+                "IMG_3524.JPG"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "venice",
+      "title": "Венеция",
+      "folder": "04 - Венеция",
+      "city": "Венеция",
+      "places": [
+        "venice"
+      ],
+      "hero_card_image": "IMG_3558.JPG",
+      "fragments": [
+        {
+          "source_index": 6,
+          "start": 1073,
+          "end": 1616,
+          "text": "Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. ",
+          "photo_blocks": [
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3526.JPG",
+                "IMG_3530.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3533.JPG",
+                "IMG_3534.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3537.JPG",
+                "IMG_3541.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3544.JPG",
+                "IMG_3546.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3545.JPG",
+                "IMG_3550.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3556.JPG",
+                "IMG_3557.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3558.JPG",
+                "IMG_3563.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3565.JPG",
+                "IMG_3570.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3576.JPG",
+                "IMG_3580.JPG"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "milan",
+      "title": "Милан",
+      "folder": "05 - Милан",
+      "city": "Милан",
+      "places": [
+        "milan"
+      ],
+      "hero_card_image": "IMG_3594.JPG",
+      "fragments": [
+        {
+          "source_index": 6,
+          "start": 1616,
+          "end": 3665,
+          "text": "Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О",
+          "photo_blocks": [
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3581.JPG",
+                "IMG_3584.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3586.JPG",
+                "IMG_3588.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3591.JPG",
+                "IMG_3594.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3595.JPG",
+                "IMG_3597.JPG"
+              ]
+            },
+            {
+              "kind": "row",
+              "names": [
+                "IMG_3598.JPG",
+                "IMG_3600.JPG"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rendered_paragraphs": [
+    "КАК я отдохнула! Нет, ну КАК я отдохнула!",
+    "Можете представить себе уехать на каникулы к бабушке, без всех, как в былые времена. Мечта просто :-)",
+    "Правда бабушка не давала мне просто лежать и читать книжки, она следила за моим правильным образом жизни и выгуливала меня по многу. Сама бабушка (ттт) чувствует себя на мой взгляд не плохо. Хотя она со мной не согласна, не в том смысле что жалуется на здоровье, а просто считает что в таком возрасте человек не может чувствовать себя лучше :-) Но гуляла со мной ежедневно минимум по 2 часа. А потом мы так разошлись, что несколько дней и по 5 часов подряд гуляли, при этом она сидела не больше 20 минут в общей сложности за это время! Даже на кладбище к деду пешком сходили, а это и довольно далеко и главное надо на холм корабкаться все время. Она после инфаркта туда еще пешком не ходила и мне все говорили что надо такси брать, но я чувствовала что она в силах это сделать сама и мы решили попробовать. У нас получилось и бабушка была этому очень рада, т.к. важно чувствовать уверенность в своих силах. Мало того, потом мы побежали в магазин, т.к. там распродавали интересные для нас кофточки ;-)",
+    "Бабушка заставила меня приодеться и хотя я первую неделю стойко держалась и покупала что-то только детям, но во вторую неделю все-таки меня переломили и я вошла во вкус и прикупила много новых вещей для работы. Мне давно надо было это сделать.",
+    "Этот раз я летела новым для себя маршрутом через Штаты. Это был самый дешевый билет который я смогла в интернете найти, а мне было все равно как лететь. Причем я так была занята перед отъездом что даже толком не разобралась где у меня пересадка в Штатах. Аэропорт называется Newark, я поняла что это большое перевалочный пункт, а где это... Из Торонто я летела вообще на малюсеньком самолетике у которого в ряду только 3 красла (1+2), подлетаем, смотрю океанское побережье, красиво и большой город с высотками. Ну так любой американский город так выглядит. Но стало мне конечно уже любопытно где я нахожусь :-) Пересадка у меня была большая, часа 3. Поэтому я много гуляла по аэропорту и даже решила что-то перекусить. Сажусь за столик у окна с прекрасным видом на город и спрашиваю у соседей: «Что за станция такая?» :-) Они на меня покосились конечно, но со свойственной американцам терпимостью ко всему чему угодно, ответили что мол Нью-Йорк это, вид на Манхэтэн :-) Так я узнала что летела я через Нью-Йорк оказывается. Правда обратный путь был неудобным в этом смысле. Как я уже раньше говорила, рейсы в Торонто американцами рассматриваются как «внутренние» (когда летишь к ним то проходишь американскую границу в аэропорту Торонто), поэтому когда я летела обратно, то мне пришлось пройти гриницу в Штатах, получить свой багаж, пройти с ним таможню и... потом опять его сдать на рейс до Торонто. Особенно тяжело было что у меня обратная пересадка была всего 1,5 часа и мы на 40 минут опоздали и конечно пока багаж получили... Короче я бегом бежала по всему аэропорту потом (конечно мой выход был САМЫЙ последний!) и уже объявили что если поссажирка Уколова не проследует на борт через 2 минуты, то... Короче я забежала и двери закрылись :-) Но при всех этих минусах и неудобствах был один огромный плюс в этом перелете! Пустые самолеты! Просто из Нью-Йорка идет прямой рейс на Кельн, никто больше такие рейсы не делает, все летят во Франкфурт и там пересаживают на местные рейсы. А тут прямой. И много народу из Америки летит именно в Кельн? Мало! Очень мало! И туда и обратно я летела так что была одна на 3 сиденьях! Т.е. лежачий вариант! Особенно туда ночью мы летели и все спали как в поезде. Круто, я еще ни разу так не летала в самолетах. Поэтому я готова закрыть глаза на эти глупости с перетаскиванием багажа и переходами границы, тем более стоит отметить что меня как канадку не трогали вообще (по сравнению с теми же немцами рядом).",
+    "Больше я никуда не ездила и ни с кем не общалась, хотя с родственниками созванивалась и встречалась с бабушкиными соседями. Но больше времени мне хотелось провести с бабушкой. Помимо прогулок и походов по магазинам мы с ней смотрели русской телевидение. Т.ч. я можно сказать что окунулась и в русскую атмосферу немножко. Мне понравилось :-) Может быть немножко откат к прошлом на телевидении (или это все-таки немножко «адаптированные» каналы: 1 и Россия под мирового зрителя), но много концертов,много интересный передач (я конечно стала фанаткой программы Звезды на льду, да и Две зведы тоже очень понравились). Но так же много и интересных передач с обсуждением новых необходимых законов (мне попались передачи про образование «родительских коммитетов» в воинских частях и про дорожное строительство). Говорят хорошо, законы принимают хорошие и правильные. Уж как это воплощается в жизнь я конечно не знаю ;-) Но мне кажется уже хорошо то что идет позитив по телевидению, это же тоже важно для людей, чтобы включил телевизор и не один беспредел и убийства, а чтобы было что-то для души и чтобы гордость была за страну. Так что я прониклась :-)",
+    "Бабушкин день рождения отметили в узком кругу с ее близкими соседями дома. Еще бабушку я уговорила пить «правильные» дозы витаминов С и В (привезла с собой) и хотя она первое время не соглашалась, но я ее «дожала» и к концу она даже сказала что похоже с нервами у нее стало лучше, даже мой отъест она довольно стоически перенесла, хотя это всегда грустно :-(",
+    "В это время досталось и другим членам моей семьи. Мы с Надеждой (женой брата) как раз «поменялись местами», я улетела к бабушке, а она тут приехала к Анютке в гости. Как раз попала на встречу со всеми учителями (очень хвалили ребенка) и потом у Ани были мини-каникулы и они уехали тоже на автобусе путешествовать по Канаде. В это время в Москве Сашка загремел в больницу и мама очень испугалась, распереживалась и Серега ее посадил в этот же день на самолет. Слава Богу с Сашей все обошлось и он уже сейчас снова вышел на работу. Мама пока в Москве, пытается оформить новый загран. паспорт раз уж попала туда, т.к. у нее скоро заканчивается. Поэтому не знаю когда вернется. Может у кого есть связи в Балашихинском ОВИРе чтобы ускорить это дело?",
+    "Серега конечно «попал», у него и 2 детей на руках и гости... Старался как мог, развозил детей, гостей, готовил обеды. Короче просто Золушок. Я к нему на выручку не бросилась, т.к. бабушка меня так ждала... И как всегда бывает еще и Митька приболел и ему пришлось с ним несколько дней дома сидеть. Но он достойно справился, даже встречали меня в идеально чистом доме и с обедом :-)",
+    "Поэтому я сейчас с новыми силами (а я действительно ОЧЕНЬ хорошо отдохнула) пытаюсь взвалить на себя побольше чтобы дать ему отдохнуть, но... пока у меня не шибко получается, т.к. я прихожу с работы уже полностью «никакая» (хочу спать, трудно привыкнуть к другому времени). Но я стараюсь :-)",
+    "Поэтому дорогие канадцы и вам еще не звонила, вечером просто не могу :-)",
+    "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. ",
+    "Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. ",
+    "Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. ",
+    "Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. ",
+    "Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
+  ],
+  "text_authorization": "Ольга разрешила разделить абзац 6 по городам, сохранив каждое слово и пунктуацию; 22.10.2026. Разделены только точные смежные фрагменты.",
+  "author_paragraphs": [
+    "КАК я отдохнула! Нет, ну КАК я отдохнула!",
+    "Можете представить себе уехать на каникулы к бабушке, без всех, как в былые времена. Мечта просто :-)",
+    "Правда бабушка не давала мне просто лежать и читать книжки, она следила за моим правильным образом жизни и выгуливала меня по многу. Сама бабушка (ттт) чувствует себя на мой взгляд не плохо. Хотя она со мной не согласна, не в том смысле что жалуется на здоровье, а просто считает что в таком возрасте человек не может чувствовать себя лучше :-) Но гуляла со мной ежедневно минимум по 2 часа. А потом мы так разошлись, что несколько дней и по 5 часов подряд гуляли, при этом она сидела не больше 20 минут в общей сложности за это время! Даже на кладбище к деду пешком сходили, а это и довольно далеко и главное надо на холм корабкаться все время. Она после инфаркта туда еще пешком не ходила и мне все говорили что надо такси брать, но я чувствовала что она в силах это сделать сама и мы решили попробовать. У нас получилось и бабушка была этому очень рада, т.к. важно чувствовать уверенность в своих силах. Мало того, потом мы побежали в магазин, т.к. там распродавали интересные для нас кофточки ;-)",
+    "Бабушка заставила меня приодеться и хотя я первую неделю стойко держалась и покупала что-то только детям, но во вторую неделю все-таки меня переломили и я вошла во вкус и прикупила много новых вещей для работы. Мне давно надо было это сделать.",
+    "Этот раз я летела новым для себя маршрутом через Штаты. Это был самый дешевый билет который я смогла в интернете найти, а мне было все равно как лететь. Причем я так была занята перед отъездом что даже толком не разобралась где у меня пересадка в Штатах. Аэропорт называется Newark, я поняла что это большое перевалочный пункт, а где это... Из Торонто я летела вообще на малюсеньком самолетике у которого в ряду только 3 красла (1+2), подлетаем, смотрю океанское побережье, красиво и большой город с высотками. Ну так любой американский город так выглядит. Но стало мне конечно уже любопытно где я нахожусь :-) Пересадка у меня была большая, часа 3. Поэтому я много гуляла по аэропорту и даже решила что-то перекусить. Сажусь за столик у окна с прекрасным видом на город и спрашиваю у соседей: «Что за станция такая?» :-) Они на меня покосились конечно, но со свойственной американцам терпимостью ко всему чему угодно, ответили что мол Нью-Йорк это, вид на Манхэтэн :-) Так я узнала что летела я через Нью-Йорк оказывается. Правда обратный путь был неудобным в этом смысле. Как я уже раньше говорила, рейсы в Торонто американцами рассматриваются как «внутренние» (когда летишь к ним то проходишь американскую границу в аэропорту Торонто), поэтому когда я летела обратно, то мне пришлось пройти гриницу в Штатах, получить свой багаж, пройти с ним таможню и... потом опять его сдать на рейс до Торонто. Особенно тяжело было что у меня обратная пересадка была всего 1,5 часа и мы на 40 минут опоздали и конечно пока багаж получили... Короче я бегом бежала по всему аэропорту потом (конечно мой выход был САМЫЙ последний!) и уже объявили что если поссажирка Уколова не проследует на борт через 2 минуты, то... Короче я забежала и двери закрылись :-) Но при всех этих минусах и неудобствах был один огромный плюс в этом перелете! Пустые самолеты! Просто из Нью-Йорка идет прямой рейс на Кельн, никто больше такие рейсы не делает, все летят во Франкфурт и там пересаживают на местные рейсы. А тут прямой. И много народу из Америки летит именно в Кельн? Мало! Очень мало! И туда и обратно я летела так что была одна на 3 сиденьях! Т.е. лежачий вариант! Особенно туда ночью мы летели и все спали как в поезде. Круто, я еще ни разу так не летала в самолетах. Поэтому я готова закрыть глаза на эти глупости с перетаскиванием багажа и переходами границы, тем более стоит отметить что меня как канадку не трогали вообще (по сравнению с теми же немцами рядом).",
+    "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О",
+    "Больше я никуда не ездила и ни с кем не общалась, хотя с родственниками созванивалась и встречалась с бабушкиными соседями. Но больше времени мне хотелось провести с бабушкой. Помимо прогулок и походов по магазинам мы с ней смотрели русской телевидение. Т.ч. я можно сказать что окунулась и в русскую атмосферу немножко. Мне понравилось :-) Может быть немножко откат к прошлом на телевидении (или это все-таки немножко «адаптированные» каналы: 1 и Россия под мирового зрителя), но много концертов,много интересный передач (я конечно стала фанаткой программы Звезды на льду, да и Две зведы тоже очень понравились). Но так же много и интересных передач с обсуждением новых необходимых законов (мне попались передачи про образование «родительских коммитетов» в воинских частях и про дорожное строительство). Говорят хорошо, законы принимают хорошие и правильные. Уж как это воплощается в жизнь я конечно не знаю ;-) Но мне кажется уже хорошо то что идет позитив по телевидению, это же тоже важно для людей, чтобы включил телевизор и не один беспредел и убийства, а чтобы было что-то для души и чтобы гордость была за страну. Так что я прониклась :-)",
+    "Бабушкин день рождения отметили в узком кругу с ее близкими соседями дома. Еще бабушку я уговорила пить «правильные» дозы витаминов С и В (привезла с собой) и хотя она первое время не соглашалась, но я ее «дожала» и к концу она даже сказала что похоже с нервами у нее стало лучше, даже мой отъест она довольно стоически перенесла, хотя это всегда грустно :-(",
+    "В это время досталось и другим членам моей семьи. Мы с Надеждой (женой брата) как раз «поменялись местами», я улетела к бабушке, а она тут приехала к Анютке в гости. Как раз попала на встречу со всеми учителями (очень хвалили ребенка) и потом у Ани были мини-каникулы и они уехали тоже на автобусе путешествовать по Канаде. В это время в Москве Сашка загремел в больницу и мама очень испугалась, распереживалась и Серега ее посадил в этот же день на самолет. Слава Богу с Сашей все обошлось и он уже сейчас снова вышел на работу. Мама пока в Москве, пытается оформить новый загран. паспорт раз уж попала туда, т.к. у нее скоро заканчивается. Поэтому не знаю когда вернется. Может у кого есть связи в Балашихинском ОВИРе чтобы ускорить это дело?",
+    "Серега конечно «попал», у него и 2 детей на руках и гости... Старался как мог, развозил детей, гостей, готовил обеды. Короче просто Золушок. Я к нему на выручку не бросилась, т.к. бабушка меня так ждала... И как всегда бывает еще и Митька приболел и ему пришлось с ним несколько дней дома сидеть. Но он достойно справился, даже встречали меня в идеально чистом доме и с обедом :-)",
+    "Поэтому я сейчас с новыми силами (а я действительно ОЧЕНЬ хорошо отдохнула) пытаюсь взвалить на себя побольше чтобы дать ему отдохнуть, но... пока у меня не шибко получается, т.к. я прихожу с работы уже полностью «никакая» (хочу спать, трудно привыкнуть к другому времени). Но я стараюсь :-)",
+    "Поэтому дорогие канадцы и вам еще не звонила, вечером просто не могу :-)"
+  ]
+}
