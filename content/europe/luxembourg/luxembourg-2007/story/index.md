@@ -2,7 +2,7 @@
 title: "Люксембург с бабушкой"
 draft: false
 date: "2007-11-06"
-weight: 1
+weight: 2
 chapter_kind: "Заметка"
 layout: "photo-story"
 city: "Luxembourg"
