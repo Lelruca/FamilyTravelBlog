@@ -1,3 +1,3 @@
 ---
-title: "Schloss Nymphenburg - дворец Нимфенбург, Мюнхен"
+title: "Schloss Nymphenburg - Дворец Нимфенбург, Мюнхен"
 ---

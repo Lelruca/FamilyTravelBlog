@@ -1,0 +1,650 @@
+{
+  "date": "2026-10-22",
+  "reason": "The current place-names partial splits only ASCII spaced hyphens. Normalize taxonomy metadata; Russian is primary in navigation, local name secondary. Story titles and bodies unchanged.",
+  "changes": [
+    {
+      "file": "content/places/aareschlucht/_index.md",
+      "before": "Aareschlucht - ущелье Аары, Швейцария",
+      "after": "Aareschlucht - Ущелье Аары, Швейцария"
+    },
+    {
+      "file": "content/places/agawa-rock/_index.md",
+      "before": "Agawa Rock Pictographs - наскальные рисунки Агава, Канада",
+      "after": "Agawa Rock Pictographs - Наскальные рисунки Агава, Канада"
+    },
+    {
+      "file": "content/places/aguasabon-falls/_index.md",
+      "before": "Aguasabon Falls - водопад Агуасабон, Канада",
+      "after": "Aguasabon Falls - Водопад Агуасабон, Канада"
+    },
+    {
+      "file": "content/places/albi-cathedral/_index.md",
+      "before": "Cathédrale Sainte-Cécile - собор Святой Цецилии, Альби",
+      "after": "Cathédrale Sainte-Cécile - Собор Святой Цецилии, Альби"
+    },
+    {
+      "file": "content/places/almudena-cathedral/_index.md",
+      "before": "Catedral de la Almudena - собор Альмудена, Мадрид",
+      "after": "Catedral de la Almudena - Собор Альмудена, Мадрид"
+    },
+    {
+      "file": "content/places/arnhem-war-museum/_index.md",
+      "before": "Arnhems Oorlogsmuseum 40-45 - военный музей, Арнем, Нидерланды",
+      "after": "Arnhems Oorlogsmuseum 40-45 - Военный музей, Арнем, Нидерланды"
+    },
+    {
+      "file": "content/places/bargello/_index.md",
+      "before": "Museo del Bargello - музей Барджелло, Италия",
+      "after": "Museo del Bargello - Музей Барджелло, Италия"
+    },
+    {
+      "file": "content/places/bic/_index.md",
+      "before": "Parc national du Bic - парк Bic, Канада",
+      "after": "Parc national du Bic - Парк Бик, Канада"
+    },
+    {
+      "file": "content/places/bilbao-fine-arts/_index.md",
+      "before": "Museo de Bellas Artes de Bilbao - музей изящных искусств, Бильбао",
+      "after": "Museo de Bellas Artes de Bilbao - Музей изящных искусств, Бильбао"
+    },
+    {
+      "file": "content/places/bodeguita-del-medio/_index.md",
+      "before": "La Bodeguita del Medio - бар «Бодегита дель Медио», Гавана",
+      "after": "La Bodeguita del Medio - Бар «Бодегита дель Медио», Гавана"
+    },
+    {
+      "file": "content/places/bonaventure-island/_index.md",
+      "before": "Île Bonaventure - остров Bonaventure, Канада",
+      "after": "Île Bonaventure - Остров Бонавантюр, Канада"
+    },
+    {
+      "file": "content/places/bruce-peninsula/_index.md",
+      "before": "Bruce Peninsula National Park - национальный парк Брюс",
+      "after": "Bruce Peninsula National Park - Национальный парк Брюс"
+    },
+    {
+      "file": "content/places/buenos-aires/_index.md",
+      "before": "Buenos Aires — Буэнос-Айрес, Аргентина",
+      "after": "Buenos Aires - Буэнос-Айрес, Аргентина"
+    },
+    {
+      "file": "content/places/burgos-cathedral/_index.md",
+      "before": "Catedral de Burgos - собор Бургоса",
+      "after": "Catedral de Burgos - Собор Бургоса"
+    },
+    {
+      "file": "content/places/cabo-da-roca/_index.md",
+      "before": "Cabo da Roca - мыс Рока, Португалия",
+      "after": "Cabo da Roca - Мыс Рока, Португалия"
+    },
+    {
+      "file": "content/places/cap-des-rosiers/_index.md",
+      "before": "Cap-des-Rosiers - маяк Cap-des-Rosiers, Канада",
+      "after": "Cap-des-Rosiers - Маяк Кап-де-Розье, Канада"
+    },
+    {
+      "file": "content/places/capuchos-convent/_index.md",
+      "before": "Convento dos Capuchos - монастырь капуцинов, Синтра",
+      "after": "Convento dos Capuchos - Монастырь капуцинов, Синтра"
+    },
+    {
+      "file": "content/places/cartuja-miraflores/_index.md",
+      "before": "Cartuja de Miraflores - монастырь Мирафлорес, Бургос",
+      "after": "Cartuja de Miraflores - Монастырь Мирафлорес, Бургос"
+    },
+    {
+      "file": "content/places/castel-sant-angelo/_index.md",
+      "before": "Castel Sant'Angelo - замок Святого Ангела, Италия",
+      "after": "Castel Sant'Angelo - Замок Святого Ангела, Италия"
+    },
+    {
+      "file": "content/places/castello-sforzesco/_index.md",
+      "before": "Castello Sforzesco - замок Сфорца, Милан",
+      "after": "Castello Sforzesco - Замок Сфорца, Милан"
+    },
+    {
+      "file": "content/places/castillo-de-la-mota/_index.md",
+      "before": "Castillo de la Mota - замок Ла-Мота, Медина-дель-Кампо",
+      "after": "Castillo de la Mota - Замок Ла-Мота, Медина-дель-Кампо"
+    },
+    {
+      "file": "content/places/catedral-havana/_index.md",
+      "before": "Catedral de La Habana - кафедральный собор, Гавана",
+      "after": "Catedral de La Habana - Кафедральный собор, Гавана"
+    },
+    {
+      "file": "content/places/cathedrale-major-marseille/_index.md",
+      "before": "Cathédrale de la Major - собор Ла Мажор, Марсель",
+      "after": "Cathédrale de la Major - Собор Ла Мажор, Марсель"
+    },
+    {
+      "file": "content/places/chapultepec-castle/_index.md",
+      "before": "Castillo de Chapultepec - дворец Чапультепек, Мехико",
+      "after": "Castillo de Chapultepec - Дворец Чапультепек, Мехико"
+    },
+    {
+      "file": "content/places/chateau-d-if/_index.md",
+      "before": "Château d'If - замок Иф, Марсель",
+      "after": "Château d'If - Замок Иф, Марсель"
+    },
+    {
+      "file": "content/places/chippewa-falls/_index.md",
+      "before": "Chippewa Falls - водопад Чиппева, Канада",
+      "after": "Chippewa Falls - Водопад Чиппева, Канада"
+    },
+    {
+      "file": "content/places/concon/_index.md",
+      "before": "Concón — Конкон, Чили",
+      "after": "Concón - Конкон, Чили"
+    },
+    {
+      "file": "content/places/crawford-lake/_index.md",
+      "before": "Crawford Lake - озеро Кроуфорд, Онтарио",
+      "after": "Crawford Lake - Озеро Кроуфорд, Онтарио"
+    },
+    {
+      "file": "content/places/cristo-havana/_index.md",
+      "before": "Cristo de La Habana - статуя Христа, Гавана",
+      "after": "Cristo de La Habana - Статуя Христа, Гавана"
+    },
+    {
+      "file": "content/places/cup-and-saucer/_index.md",
+      "before": "Cup and Saucer Trail - тропа Чашка и блюдце, Канада",
+      "after": "Cup and Saucer Trail - Тропа Чашка и блюдце, Канада"
+    },
+    {
+      "file": "content/places/eagle-canyon/_index.md",
+      "before": "Eagle Canyon - каньон Игл, Канада",
+      "after": "Eagle Canyon - Каньон Игл, Канада"
+    },
+    {
+      "file": "content/places/escher-museum/_index.md",
+      "before": "Escher in Het Paleis - музей Эшера, Гаага",
+      "after": "Escher in Het Paleis - Музей Эшера, Гаага"
+    },
+    {
+      "file": "content/places/flowerpot-island/_index.md",
+      "before": "Flowerpot Island - остров Flowerpot, Ontario",
+      "after": "Flowerpot Island - Остров Флауэрпот, Онтарио"
+    },
+    {
+      "file": "content/places/forillon/_index.md",
+      "before": "Parc national Forillon - парк Forillon, Канада",
+      "after": "Parc national Forillon - Парк Форийон, Канада"
+    },
+    {
+      "file": "content/places/frankfurt-cathedral/_index.md",
+      "before": "Kaiserdom St. Bartholomäus - собор Святого Варфоломея, Франкфурт",
+      "after": "Kaiserdom St. Bartholomäus - Собор Святого Варфоломея, Франкфурт"
+    },
+    {
+      "file": "content/places/fundacio-miro/_index.md",
+      "before": "Fundació Joan Miró - музей Миро, Барселона",
+      "after": "Fundació Joan Miró - Музей Миро, Барселона"
+    },
+    {
+      "file": "content/places/galleria-borghese/_index.md",
+      "before": "Galleria Borghese - галерея Боргезе, Италия",
+      "after": "Galleria Borghese - Галерея Боргезе, Италия"
+    },
+    {
+      "file": "content/places/gaspesie-park/_index.md",
+      "before": "Parc national de la Gaspésie - парк Gaspésie, Канада",
+      "after": "Parc national de la Gaspésie - Парк Гаспези, Канада"
+    },
+    {
+      "file": "content/places/gastown/_index.md",
+      "before": "Gastown, Vancouver, Канада",
+      "after": "Gastown - Гастаун, Ванкувер, Канада"
+    },
+    {
+      "file": "content/places/hamilton/_index.md",
+      "before": "Hamilton, Канада",
+      "after": "Hamilton - Гамильтон, Канада"
+    },
+    {
+      "file": "content/places/hofburg/_index.md",
+      "before": "Hofburg - дворец Хофбург, Вена",
+      "after": "Hofburg - Дворец Хофбург, Вена"
+    },
+    {
+      "file": "content/places/hoggs-falls/_index.md",
+      "before": "Hoggs Falls - водопад Хоггс, Ontario",
+      "after": "Hoggs Falls - Водопад Хоггс, Ontario"
+    },
+    {
+      "file": "content/places/hohenzollern-castle/_index.md",
+      "before": "Burg Hohenzollern - замок Гогенцоллерн, Германия",
+      "after": "Burg Hohenzollern - Замок Гогенцоллерн, Германия"
+    },
+    {
+      "file": "content/places/hornocal/_index.md",
+      "before": "Serranía del Hornocal — Орнокаль, Аргентина",
+      "after": "Serranía del Hornocal - Орнокаль, Аргентина"
+    },
+    {
+      "file": "content/places/humahuaca/_index.md",
+      "before": "Humahuaca — Умауака, Аргентина",
+      "after": "Humahuaca - Умауака, Аргентина"
+    },
+    {
+      "file": "content/places/iguazu-falls/_index.md",
+      "before": "Iguazú — Игуасу, Аргентина и Бразилия",
+      "after": "Iguazú - Игуасу, Аргентина и Бразилия"
+    },
+    {
+      "file": "content/places/incles-valley/_index.md",
+      "before": "Vall d’Incles — долина Инклес, Андорра",
+      "after": "Vall d’Incles - Долина Инклес, Андорра"
+    },
+    {
+      "file": "content/places/inglis-falls/_index.md",
+      "before": "Inglis Falls - водопад Инглис, Ontario",
+      "after": "Inglis Falls - Водопад Инглис, Ontario"
+    },
+    {
+      "file": "content/places/jardins-de-metis/_index.md",
+      "before": "Jardins de Métis - сады Métis, Канада",
+      "after": "Jardins de Métis - Сады Métis, Канада"
+    },
+    {
+      "file": "content/places/kakabeka-falls/_index.md",
+      "before": "Kakabeka Falls - водопад Какабека, Канада",
+      "after": "Kakabeka Falls - Водопад Какабека, Канада"
+    },
+    {
+      "file": "content/places/lake-superior-park/_index.md",
+      "before": "Lake Superior Provincial Park - парк Озеро Верхнее, Канада",
+      "after": "Lake Superior Provincial Park - Парк Озеро Верхнее, Канада"
+    },
+    {
+      "file": "content/places/leeds-castle/_index.md",
+      "before": "Leeds Castle - замок Лидс, Англия",
+      "after": "Leeds Castle - Замок Лидс, Англия"
+    },
+    {
+      "file": "content/places/leighton-house/_index.md",
+      "before": "Leighton House - дом-музей Лейтона, Лондон",
+      "after": "Leighton House - Дом-музей Лейтона, Лондон"
+    },
+    {
+      "file": "content/places/leutaschklamm/_index.md",
+      "before": "Leutaschklamm - ущелье Лойташкламм, Миттенвальд",
+      "after": "Leutaschklamm - Ущелье Лойташкламм, Миттенвальд"
+    },
+    {
+      "file": "content/places/liceu/_index.md",
+      "before": "Gran Teatre del Liceu - театр Лисеу, Барселона",
+      "after": "Gran Teatre del Liceu - Театр Лисеу, Барселона"
+    },
+    {
+      "file": "content/places/longwood-gardens/_index.md",
+      "before": "Longwood Gardens, США",
+      "after": "Longwood Gardens - Сады Лонгвуд, США"
+    },
+    {
+      "file": "content/places/lorsch-abbey/_index.md",
+      "before": "Kloster Lorsch - монастырь Лорш, Германия",
+      "after": "Kloster Lorsch - Монастырь Лорш, Германия"
+    },
+    {
+      "file": "content/places/los-cardones/_index.md",
+      "before": "Parque Nacional Los Cardones — Лос-Кардонес, Аргентина",
+      "after": "Parque Nacional Los Cardones - Лос-Кардонес, Аргентина"
+    },
+    {
+      "file": "content/places/manitoulin-island/_index.md",
+      "before": "Manitoulin Island - остров Манитулин, Канада",
+      "after": "Manitoulin Island - Остров Манитулин, Канада"
+    },
+    {
+      "file": "content/places/mcmichael-gallery/_index.md",
+      "before": "McMichael Canadian Art Collection - музей McMichael, Kleinburg",
+      "after": "McMichael Canadian Art Collection - Музей McMichael, Kleinburg"
+    },
+    {
+      "file": "content/places/medici-chapels/_index.md",
+      "before": "Cappelle Medicee - капелла Медичи, Флоренция",
+      "after": "Cappelle Medicee - Капелла Медичи, Флоренция"
+    },
+    {
+      "file": "content/places/mercedes-benz-museum/_index.md",
+      "before": "Mercedes-Benz Museum - музей Мерседес, Штутгарт",
+      "after": "Mercedes-Benz Museum - Музей Мерседес, Штутгарт"
+    },
+    {
+      "file": "content/places/miguasha/_index.md",
+      "before": "Parc national de Miguasha - парк Miguasha, Канада",
+      "after": "Parc national de Miguasha - Парк Miguasha, Канада"
+    },
+    {
+      "file": "content/places/minneapolis-institute-of-art/_index.md",
+      "before": "Minneapolis Institute of Art - художественный музей, Миннеаполис",
+      "after": "Minneapolis Institute of Art - Художественный музей, Миннеаполис"
+    },
+    {
+      "file": "content/places/monserrate/_index.md",
+      "before": "Parque e Palácio de Monserrate - парк и дворец Монсеррат, Синтра",
+      "after": "Parque e Palácio de Monserrate - Парк и дворец Монсеррат, Синтра"
+    },
+    {
+      "file": "content/places/mont-tremblant/_index.md",
+      "before": "Mont Tremblant, Канада",
+      "after": "Mont Tremblant - Мон-Трамблан, Канада"
+    },
+    {
+      "file": "content/places/monte-oliveto-maggiore/_index.md",
+      "before": "Abbazia di Monte Oliveto Maggiore - аббатство Монте-Оливето-Маджоре, Италия",
+      "after": "Abbazia di Monte Oliveto Maggiore - Аббатство Монте-Оливето-Маджоре, Италия"
+    },
+    {
+      "file": "content/places/montjuic-castle/_index.md",
+      "before": "Castell de Montjuïc - крепость Монжуик, Барселона",
+      "after": "Castell de Montjuïc - Крепость Монжуик, Барселона"
+    },
+    {
+      "file": "content/places/montserrat/_index.md",
+      "before": "Montserrat - монастырь Монтсеррат, Каталония",
+      "after": "Montserrat - Монастырь Монтсеррат, Каталония"
+    },
+    {
+      "file": "content/places/moritzburg-castle/_index.md",
+      "before": "Schloss Moritzburg - замок Морицбург, Германия",
+      "after": "Schloss Moritzburg - Замок Морицбург, Германия"
+    },
+    {
+      "file": "content/places/morro-havana/_index.md",
+      "before": "Castillo del Morro - крепость Морро, Гавана",
+      "after": "Castillo del Morro - Крепость Морро, Гавана"
+    },
+    {
+      "file": "content/places/musee-chagall-nice/_index.md",
+      "before": "Musée Marc Chagall - музей Шагала, Ницца",
+      "after": "Musée Marc Chagall - Музей Шагала, Ницца"
+    },
+    {
+      "file": "content/places/musee-matisse-nice/_index.md",
+      "before": "Musée Matisse - музей Матисса, Ницца",
+      "after": "Musée Matisse - Музей Матисса, Ницца"
+    },
+    {
+      "file": "content/places/musee-picasso-antibes/_index.md",
+      "before": "Musée Picasso - музей Пикассо, Антиб",
+      "after": "Musée Picasso - Музей Пикассо, Антиб"
+    },
+    {
+      "file": "content/places/museo-antropologia/_index.md",
+      "before": "Museo Nacional de Antropología - антропологический музей, Мехико",
+      "after": "Museo Nacional de Antropología - Антропологический музей, Мехико"
+    },
+    {
+      "file": "content/places/museo-escultura/_index.md",
+      "before": "Museo Nacional de Escultura - национальный музей скульптуры, Вальядолид",
+      "after": "Museo Nacional de Escultura - Национальный музей скульптуры, Вальядолид"
+    },
+    {
+      "file": "content/places/museo-stibbert/_index.md",
+      "before": "Museo Stibbert - музей Стибберта, Италия",
+      "after": "Museo Stibbert - Музей Стибберта, Италия"
+    },
+    {
+      "file": "content/places/notre-dame-de-la-garde/_index.md",
+      "before": "Notre-Dame de la Garde - базилика Нотр-Дам-де-ла-Гард, Марсель",
+      "after": "Notre-Dame de la Garde - Базилика Нотр-Дам-де-ла-Гард, Марсель"
+    },
+    {
+      "file": "content/places/nymphenburg/_index.md",
+      "before": "Schloss Nymphenburg - дворец Нимфенбург, Мюнхен",
+      "after": "Schloss Nymphenburg - Дворец Нимфенбург, Мюнхен"
+    },
+    {
+      "file": "content/places/opificio-pietre-dure/_index.md",
+      "before": "Opificio delle Pietre Dure - музей флорентийской мозаики, Флоренция",
+      "after": "Opificio delle Pietre Dure - Музей флорентийской мозаики, Флоренция"
+    },
+    {
+      "file": "content/places/ottawa/_index.md",
+      "before": "Оттава, Канада",
+      "after": "Ottawa - Оттава, Канада"
+    },
+    {
+      "file": "content/places/ouimet-canyon/_index.md",
+      "before": "Ouimet Canyon - каньон Уимет, Канада",
+      "after": "Ouimet Canyon - Каньон Уимет, Канада"
+    },
+    {
+      "file": "content/places/palacio-bellas-artes/_index.md",
+      "before": "Palacio de Bellas Artes - дворец изящных искусств, Мехико",
+      "after": "Palacio de Bellas Artes - Дворец изящных искусств, Мехико"
+    },
+    {
+      "file": "content/places/palau-guell/_index.md",
+      "before": "Palau Güell - дворец Гуэля, Барселона",
+      "after": "Palau Güell - Дворец Гуэля, Барселона"
+    },
+    {
+      "file": "content/places/palazzo-pitti/_index.md",
+      "before": "Palazzo Pitti - дворец Питти, Италия",
+      "after": "Palazzo Pitti - Дворец Питти, Италия"
+    },
+    {
+      "file": "content/places/pancake-bay/_index.md",
+      "before": "Pancake Bay - парк Панкейк-Бей, Канада",
+      "after": "Pancake Bay - Парк Панкейк-Бей, Канада"
+    },
+    {
+      "file": "content/places/pebble-beach-marathon/_index.md",
+      "before": "Pebble Beach - пляж Пеббл-Бич, Марафон, Канада",
+      "after": "Pebble Beach - Пляж Пеббл-Бич, Марафон, Канада"
+    },
+    {
+      "file": "content/places/penafiel-castle/_index.md",
+      "before": "Castillo de Peñafiel - замок Пеньяфьель, Испания",
+      "after": "Castillo de Peñafiel - Замок Пеньяфьель, Испания"
+    },
+    {
+      "file": "content/places/philadelphia/_index.md",
+      "before": "Филадельфия, США",
+      "after": "Philadelphia - Филадельфия, США"
+    },
+    {
+      "file": "content/places/piazzale-michelangelo/_index.md",
+      "before": "Piazzale Michelangelo - площадь Микеланджело, Флоренция",
+      "after": "Piazzale Michelangelo - Площадь Микеланджело, Флоренция"
+    },
+    {
+      "file": "content/places/plaza-revolucion-havana/_index.md",
+      "before": "Plaza de la Revolución - площадь Революции, Гавана",
+      "after": "Plaza de la Revolución - Площадь Революции, Гавана"
+    },
+    {
+      "file": "content/places/poblenou-beach/_index.md",
+      "before": "Platja del Bogatell - пляж Побленоу, Барселона",
+      "after": "Platja del Bogatell - Пляж Побленоу, Барселона"
+    },
+    {
+      "file": "content/places/poblet/_index.md",
+      "before": "Poblet - монастырь Поблет, Каталония",
+      "after": "Poblet - Монастырь Поблет, Каталония"
+    },
+    {
+      "file": "content/places/pointe-au-pere/_index.md",
+      "before": "Pointe-au-Père - маяк Pointe-au-Père, Канада",
+      "after": "Pointe-au-Père - Маяк Пуэнт-о-Пер, Канада"
+    },
+    {
+      "file": "content/places/porsche-museum/_index.md",
+      "before": "Porsche Museum - музей Porsche, Штутгарт",
+      "after": "Porsche Museum - Музей Порше, Штутгарт"
+    },
+    {
+      "file": "content/places/purmamarca/_index.md",
+      "before": "Purmamarca — Пурмамарка, Аргентина",
+      "after": "Purmamarca - Пурмамарка, Аргентина"
+    },
+    {
+      "file": "content/places/queens-park/_index.md",
+      "before": "Queen's Park - парламент Онтарио, Торонто",
+      "after": "Queen's Park - Парламент Онтарио, Торонто"
+    },
+    {
+      "file": "content/places/rhine-valley/_index.md",
+      "before": "Mittelrhein - круиз по Рейну, Германия",
+      "after": "Mittelrhein - Круиз по Рейну, Германия"
+    },
+    {
+      "file": "content/places/roc-del-quer/_index.md",
+      "before": "Roc del Quer — смотровая над Канильо, Андорра",
+      "after": "Roc del Quer - Смотровая над Канильо, Андорра"
+    },
+    {
+      "file": "content/places/royal-delft/_index.md",
+      "before": "Royal Delft - фабрика королевского фарфора, Дельфт",
+      "after": "Royal Delft - Фабрика королевского фарфора, Дельфт"
+    },
+    {
+      "file": "content/places/salta/_index.md",
+      "before": "Salta — Сальта, Аргентина",
+      "after": "Salta - Сальта, Аргентина"
+    },
+    {
+      "file": "content/places/san-bernabe/_index.md",
+      "before": "Ermita de San Bernabé - пещерный монастырь Сан-Бернабе, Испания",
+      "after": "Ermita de San Bernabé - Пещерный монастырь Сан-Бернабе, Испания"
+    },
+    {
+      "file": "content/places/san-francisco-el-grande/_index.md",
+      "before": "San Francisco el Grande - собор Святого Франциска Великого, Мадрид",
+      "after": "San Francisco el Grande - Собор Святого Франциска Великого, Мадрид"
+    },
+    {
+      "file": "content/places/san-marco-florence/_index.md",
+      "before": "Museo di San Marco - монастырь Сан-Марко, Флоренция",
+      "after": "Museo di San Marco - Монастырь Сан-Марко, Флоренция"
+    },
+    {
+      "file": "content/places/sand-city/_index.md",
+      "before": "Sand City - парк песчаных скульптур, Португалия",
+      "after": "Sand City - Парк песчаных скульптур, Португалия"
+    },
+    {
+      "file": "content/places/sant-pau/_index.md",
+      "before": "Recinte Modernista de Sant Pau - госпиталь Сант-Пау, Барселона",
+      "after": "Recinte Modernista de Sant Pau - Госпиталь Сант-Пау, Барселона"
+    },
+    {
+      "file": "content/places/santa-croce-florence/_index.md",
+      "before": "Santa Croce - базилика Санта-Кроче, Флоренция",
+      "after": "Santa Croce - Базилика Санта-Кроче, Флоренция"
+    },
+    {
+      "file": "content/places/santiago-chile/_index.md",
+      "before": "Santiago — Сантьяго, Чили",
+      "after": "Santiago - Сантьяго, Чили"
+    },
+    {
+      "file": "content/places/santo-tomas-avila/_index.md",
+      "before": "Real Monasterio de Santo Tomás - монастырь Святого Фомы, Авила",
+      "after": "Real Monasterio de Santo Tomás - Монастырь Святого Фомы, Авила"
+    },
+    {
+      "file": "content/places/schonbrunn/_index.md",
+      "before": "Schönbrunn - дворец Шёнбрунн, Вена",
+      "after": "Schönbrunn - Дворец Шёнбрунн, Вена"
+    },
+    {
+      "file": "content/places/sleeping-giant/_index.md",
+      "before": "Sleeping Giant - парк Спящий великан, Канада",
+      "after": "Sleeping Giant - Парк Спящий великан, Канада"
+    },
+    {
+      "file": "content/places/somme/_index.md",
+      "before": "Somme - поля сражений на Сомме, Франция",
+      "after": "Somme - Поля сражений на Сомме, Франция"
+    },
+    {
+      "file": "content/places/staedel/_index.md",
+      "before": "Städel Museum - музей Штеделя, Франкфурт",
+      "after": "Städel Museum - Музей Штеделя, Франкфурт"
+    },
+    {
+      "file": "content/places/stanley-park/_index.md",
+      "before": "Stanley Park, Vancouver, Канада",
+      "after": "Stanley Park - Парк Стэнли, Ванкувер, Канада"
+    },
+    {
+      "file": "content/places/tate-britain/_index.md",
+      "before": "Tate Britain - галерея Тейт Британия, Лондон",
+      "after": "Tate Britain - Галерея Тейт Британия, Лондон"
+    },
+    {
+      "file": "content/places/temple-church/_index.md",
+      "before": "Temple Church - церковь Темпла, Лондон",
+      "after": "Temple Church - Церковь Темпла, Лондон"
+    },
+    {
+      "file": "content/places/tilcara/_index.md",
+      "before": "Tilcara — Тилькара, Аргентина",
+      "after": "Tilcara - Тилькара, Аргентина"
+    },
+    {
+      "file": "content/places/toledo-cathedral/_index.md",
+      "before": "Catedral de Toledo - собор Толедо",
+      "after": "Catedral de Toledo - Собор Толедо"
+    },
+    {
+      "file": "content/places/toronto-city-hall/_index.md",
+      "before": "Toronto City Hall - мэрия Торонто",
+      "after": "Toronto City Hall - Мэрия Торонто"
+    },
+    {
+      "file": "content/places/uffizi/_index.md",
+      "before": "Galleria degli Uffizi - галерея Уффици, Италия",
+      "after": "Galleria degli Uffizi - Галерея Уффици, Италия"
+    },
+    {
+      "file": "content/places/uquia-church/_index.md",
+      "before": "Iglesia San Francisco de Paula — Укиа, Аргентина",
+      "after": "Iglesia San Francisco de Paula - Укиа, Аргентина"
+    },
+    {
+      "file": "content/places/valparaiso/_index.md",
+      "before": "Valparaíso — Вальпараисо, Чили",
+      "after": "Valparaíso - Вальпараисо, Чили"
+    },
+    {
+      "file": "content/places/vancouver/_index.md",
+      "before": "Vancouver — Ванкувер, Канада",
+      "after": "Vancouver - Ванкувер, Канада"
+    },
+    {
+      "file": "content/places/vaux-le-vicomte/_index.md",
+      "before": "Vaux-le-Vicomte - дворец Во-ле-Виконт, Франция",
+      "after": "Vaux-le-Vicomte - Дворец Во-ле-Виконт, Франция"
+    },
+    {
+      "file": "content/places/vina-del-mar/_index.md",
+      "before": "Viña del Mar — Винья-дель-Мар, Чили",
+      "after": "Viña del Mar - Винья-дель-Мар, Чили"
+    },
+    {
+      "file": "content/places/washington-dc/_index.md",
+      "before": "Вашингтон, США",
+      "after": "Washington - Вашингтон, США"
+    },
+    {
+      "file": "content/places/wilhelma/_index.md",
+      "before": "Wilhelma - зоопарк и ботанический сад, Штутгарт",
+      "after": "Wilhelma - Зоопарк и ботанический сад, Штутгарт"
+    },
+    {
+      "file": "content/places/zocalo/_index.md",
+      "before": "Zócalo - центральная площадь Мехико",
+      "after": "Zócalo - Центральная площадь Мехико"
+    }
+  ],
+  "owner_confirmation": {
+    "date": "2026-10-22",
+    "detail": "Владелец уточнила: в главе «Барселона с семьёй» много фотографий парка Гуэль. Это посещение 2024 года; отменённое посещение 2023 года остаётся исключённым."
+  }
+}

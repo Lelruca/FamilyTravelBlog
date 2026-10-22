@@ -1,3 +1,3 @@
 ---
-title: "Pointe-au-Père - маяк Pointe-au-Père, Канада"
+title: "Pointe-au-Père - Маяк Пуэнт-о-Пер, Канада"
 ---

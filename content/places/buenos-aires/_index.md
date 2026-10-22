@@ -1,3 +1,3 @@
 ---
-title: "Buenos Aires — Буэнос-Айрес, Аргентина"
+title: "Buenos Aires - Буэнос-Айрес, Аргентина"
 ---

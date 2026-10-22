@@ -1,3 +1,3 @@
 ---
-title: "Catedral de la Almudena - собор Альмудена, Мадрид"
+title: "Catedral de la Almudena - Собор Альмудена, Мадрид"
 ---

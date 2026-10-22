@@ -1,3 +1,3 @@
 ---
-title: "Humahuaca — Умауака, Аргентина"
+title: "Humahuaca - Умауака, Аргентина"
 ---

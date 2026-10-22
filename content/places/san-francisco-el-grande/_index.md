@@ -1,3 +1,3 @@
 ---
-title: "San Francisco el Grande - собор Святого Франциска Великого, Мадрид"
+title: "San Francisco el Grande - Собор Святого Франциска Великого, Мадрид"
 ---

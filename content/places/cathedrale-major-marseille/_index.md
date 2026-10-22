@@ -1,3 +1,3 @@
 ---
-title: "Cathédrale de la Major - собор Ла Мажор, Марсель"
+title: "Cathédrale de la Major - Собор Ла Мажор, Марсель"
 ---

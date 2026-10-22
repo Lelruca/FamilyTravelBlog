@@ -1,4 +1,4 @@
 ---
-title: "Gastown, Vancouver, Канада"
+title: "Gastown - Гастаун, Ванкувер, Канада"
 country: "Канада"
 ---

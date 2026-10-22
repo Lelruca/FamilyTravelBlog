@@ -1,3 +1,3 @@
 ---
-title: "Aareschlucht - ущелье Аары, Швейцария"
+title: "Aareschlucht - Ущелье Аары, Швейцария"
 ---

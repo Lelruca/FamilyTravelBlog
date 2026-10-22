@@ -13,7 +13,8 @@ for(const c of audit.chapters){
  const raw=fs.readFileSync(c.file,'utf8'),m=raw.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
  assert.ok(m,c.file+': missing front matter');
  const body=raw.slice(m[0].length);
- assert.equal(crypto.createHash('sha256').update(body).digest('hex'),c.body_sha256,c.file+': author text or photo layout changed');
+ const hash=c.body_sha256_lf?crypto.createHash('sha256').update(body.replace(/\r/g,'')).digest('hex'):crypto.createHash('sha256').update(body).digest('hex');
+ assert.equal(hash,c.body_sha256_lf||c.body_sha256,c.file+': author text or photo layout changed');
  const front=m[1];
  const inline=front.match(/^places:[ \t]*\[([^\]\r\n]*)\]/m),block=front.match(/^places:[ \t]*\r?\n((?:[ \t]+-[^\n]+\r?\n?)+)/m);
  const places=inline?inline[1].split(',').map(s=>s.trim().replace(/^['"]|['"]$/g,'')).filter(Boolean):block?block[1].trim().split('\n').map(s=>s.trim().replace(/^-\s*/,'').replace(/^['"]|['"]$/g,'')):[];
@@ -49,5 +50,5 @@ for(const [key,re]of Object.entries(rejected)){
  assert.ok(c,key+': missing regression case');
  assert.ok(!c.attractions.some(id=>re.test(registry[id].title)),key+': unvisited attraction was added');
 }
-console.log(`Verified ${audit.summary.trips} trips, ${files.length} chapters, ${used.size} attraction definitions and ${links} links. All chapter bodies are byte-for-byte unchanged.`);
+console.log(`Verified ${audit.summary.trips} trips, ${files.length} chapters, ${used.size} attraction definitions and ${links} links. Chapter text and photo markup unchanged; CRLF/LF differences ignored.`);
 console.log(`${audit.summary.photo_only_chapters} photo-only chapters and ${audit.summary.questions} explicit identification questions remain documented; these are not claimed as a complete inventory of unnamed photographs.`);

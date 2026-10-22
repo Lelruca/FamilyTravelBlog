@@ -1,4 +1,4 @@
 ---
-title: "Vancouver — Ванкувер, Канада"
+title: "Vancouver - Ванкувер, Канада"
 country: "Канада"
 ---

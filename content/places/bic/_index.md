@@ -1,3 +1,3 @@
 ---
-title: "Parc national du Bic - парк Bic, Канада"
+title: "Parc national du Bic - Парк Бик, Канада"
 ---

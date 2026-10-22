@@ -1,3 +1,3 @@
 ---
-title: "Gran Teatre del Liceu - театр Лисеу, Барселона"
+title: "Gran Teatre del Liceu - Театр Лисеу, Барселона"
 ---

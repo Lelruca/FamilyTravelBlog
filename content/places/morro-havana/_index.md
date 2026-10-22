@@ -1,3 +1,3 @@
 ---
-title: "Castillo del Morro - крепость Морро, Гавана"
+title: "Castillo del Morro - Крепость Морро, Гавана"
 ---

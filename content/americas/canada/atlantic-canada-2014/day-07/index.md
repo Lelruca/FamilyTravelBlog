@@ -10,7 +10,9 @@ source_url: "https://olgau.livejournal.com/183718.html"
 places:
   - highland-village
   - baddeck
+  - cape-breton
 hero_image: "IMG_4488.jpg"
+attractions: ["highland-village"]
 ---
 
 <p>Провинция Новая Шотландия считается САМОЙ красивой и САМОЙ интересной из трех атлантических провинции. Во всех отчетах советуют потратить на нее большее кол-во времени, а если времени мало, то и вовсе сосредоточется только на ней. </p>

@@ -1,3 +1,3 @@
 ---
-title: "Burg Hohenzollern - замок Гогенцоллерн, Германия"
+title: "Burg Hohenzollern - Замок Гогенцоллерн, Германия"
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Sleeping Giant - парк Спящий великан, Канада"
+title: "Sleeping Giant - Парк Спящий великан, Канада"
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Parque e Palácio de Monserrate - парк и дворец Монсеррат, Синтра"
+title: "Parque e Palácio de Monserrate - Парк и дворец Монсеррат, Синтра"
 ---

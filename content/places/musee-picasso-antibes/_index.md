@@ -1,3 +1,3 @@
 ---
-title: "Musée Picasso - музей Пикассо, Антиб"
+title: "Musée Picasso - Музей Пикассо, Антиб"
 ---

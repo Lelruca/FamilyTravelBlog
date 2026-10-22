@@ -1,3 +1,3 @@
 ---
-title: "Convento dos Capuchos - монастырь капуцинов, Синтра"
+title: "Convento dos Capuchos - Монастырь капуцинов, Синтра"
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Hoggs Falls - водопад Хоггс, Ontario"
+title: "Hoggs Falls - Водопад Хоггс, Ontario"
 ---

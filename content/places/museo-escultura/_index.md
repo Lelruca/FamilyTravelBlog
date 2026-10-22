@@ -1,3 +1,3 @@
 ---
-title: "Museo Nacional de Escultura - национальный музей скульптуры, Вальядолид"
+title: "Museo Nacional de Escultura - Национальный музей скульптуры, Вальядолид"
 ---

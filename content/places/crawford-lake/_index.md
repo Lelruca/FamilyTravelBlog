@@ -1,3 +1,3 @@
 ---
-title: "Crawford Lake - озеро Кроуфорд, Онтарио"
+title: "Crawford Lake - Озеро Кроуфорд, Онтарио"
 ---

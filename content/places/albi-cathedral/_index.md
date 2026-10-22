@@ -1,3 +1,3 @@
 ---
-title: "Cathédrale Sainte-Cécile - собор Святой Цецилии, Альби"
+title: "Cathédrale Sainte-Cécile - Собор Святой Цецилии, Альби"
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Leighton House - дом-музей Лейтона, Лондон"
+title: "Leighton House - Дом-музей Лейтона, Лондон"
 ---

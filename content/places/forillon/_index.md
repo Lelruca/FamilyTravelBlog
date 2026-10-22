@@ -1,3 +1,3 @@
 ---
-title: "Parc national Forillon - парк Forillon, Канада"
+title: "Parc national Forillon - Парк Форийон, Канада"
 ---

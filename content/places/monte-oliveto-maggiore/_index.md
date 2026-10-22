@@ -1,3 +1,3 @@
 ---
-title: "Abbazia di Monte Oliveto Maggiore - аббатство Монте-Оливето-Маджоре, Италия"
+title: "Abbazia di Monte Oliveto Maggiore - Аббатство Монте-Оливето-Маджоре, Италия"
 ---

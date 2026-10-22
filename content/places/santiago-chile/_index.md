@@ -1,3 +1,3 @@
 ---
-title: "Santiago — Сантьяго, Чили"
+title: "Santiago - Сантьяго, Чили"
 ---

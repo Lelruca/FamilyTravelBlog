@@ -1,3 +1,3 @@
 ---
-title: "Jardins de Métis - сады Métis, Канада"
+title: "Jardins de Métis - Сады Métis, Канада"
 ---

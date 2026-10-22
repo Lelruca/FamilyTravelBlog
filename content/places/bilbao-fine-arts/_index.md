@@ -1,3 +1,3 @@
 ---
-title: "Museo de Bellas Artes de Bilbao - музей изящных искусств, Бильбао"
+title: "Museo de Bellas Artes de Bilbao - Музей изящных искусств, Бильбао"
 ---

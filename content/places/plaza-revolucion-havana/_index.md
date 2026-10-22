@@ -1,3 +1,3 @@
 ---
-title: "Plaza de la Revolución - площадь Революции, Гавана"
+title: "Plaza de la Revolución - Площадь Революции, Гавана"
 ---

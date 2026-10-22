@@ -1,3 +1,3 @@
 ---
-title: "Museo del Bargello - музей Барджелло, Италия"
+title: "Museo del Bargello - Музей Барджелло, Италия"
 ---

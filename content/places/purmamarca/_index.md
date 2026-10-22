@@ -1,3 +1,3 @@
 ---
-title: "Purmamarca — Пурмамарка, Аргентина"
+title: "Purmamarca - Пурмамарка, Аргентина"
 ---

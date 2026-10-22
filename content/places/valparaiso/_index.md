@@ -1,3 +1,3 @@
 ---
-title: "Valparaíso — Вальпараисо, Чили"
+title: "Valparaíso - Вальпараисо, Чили"
 ---

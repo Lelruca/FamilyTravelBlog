@@ -1,3 +1,3 @@
 ---
-title: "Kloster Lorsch - монастырь Лорш, Германия"
+title: "Kloster Lorsch - Монастырь Лорш, Германия"
 ---

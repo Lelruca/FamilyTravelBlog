@@ -1,3 +1,3 @@
 ---
-title: "Eagle Canyon - каньон Игл, Канада"
+title: "Eagle Canyon - Каньон Игл, Канада"
 ---

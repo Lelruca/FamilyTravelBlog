@@ -234,7 +234,7 @@
     "place": "bodeguita-del-medio"
   },
   "bonaventure-island": {
-    "title": "Остров Bonaventure",
+    "title": "Остров Бонавантюр",
     "parent": "perce",
     "place": "bonaventure-island"
   },
@@ -501,7 +501,7 @@
     "parent": "condom"
   },
   "confucius-temple-beijing": {
-    "title": "Храм Конфуция, Пекин",
+    "title": "Храм Конфуция",
     "parent": "beijing",
     "place": "confucius-temple-beijing"
   },
@@ -674,7 +674,7 @@
     "place": "font-magica"
   },
   "forbidden-city-beijing": {
-    "title": "Запретный город, Пекин",
+    "title": "Запретный город",
     "parent": "beijing",
     "place": "forbidden-city-beijing"
   },
@@ -715,7 +715,7 @@
     "parent": "gaspe"
   },
   "gastown": {
-    "title": "Gastown, Vancouver",
+    "title": "Гастаун",
     "parent": "vancouver",
     "place": "gastown"
   },
@@ -784,7 +784,7 @@
     "place": "heidelberg-castle"
   },
   "heritage-park-calgary": {
-    "title": "Херитедж-парк, Калгари",
+    "title": "Херитедж-парк",
     "parent": "calgary",
     "place": "heritage-park-calgary"
   },
@@ -1577,7 +1577,7 @@
     "place": "poblenou-beach"
   },
   "pointe-au-pere": {
-    "title": "Маяк Pointe-au-Père",
+    "title": "Маяк Пуэнт-о-Пер",
     "parent": "rimouski",
     "place": "pointe-au-pere"
   },
@@ -1586,7 +1586,7 @@
     "parent": "ponferrada"
   },
   "porsche-museum": {
-    "title": "Музей Porsche",
+    "title": "Музей Порше",
     "parent": "stuttgart",
     "place": "porsche-museum"
   },
@@ -1714,7 +1714,7 @@
     "parent": "riquewihr"
   },
   "roc-del-quer": {
-    "title": "Roc del Quer — смотровая над Канильо",
+    "title": "Смотровая над Канильо",
     "parent": "canillo",
     "place": "roc-del-quer"
   },
@@ -1953,7 +1953,7 @@
     "parent": "shanghai"
   },
   "shanghai-disneyland": {
-    "title": "Диснейленд, Шанхай",
+    "title": "Диснейленд",
     "parent": "shanghai",
     "place": "shanghai-disneyland"
   },
@@ -1997,7 +1997,7 @@
     "place": "staedel"
   },
   "stanley-park": {
-    "title": "Stanley Park, Vancouver",
+    "title": "Парк Стэнли",
     "parent": "vancouver",
     "place": "stanley-park"
   },
@@ -2015,7 +2015,7 @@
     "place": "strawbery-banke"
   },
   "summer-palace": {
-    "title": "Летний дворец, Пекин",
+    "title": "Летний дворец",
     "parent": "beijing",
     "place": "summer-palace"
   },
@@ -2044,12 +2044,12 @@
     "place": "temple-church"
   },
   "temple-heaven": {
-    "title": "Храм Неба, Пекин",
+    "title": "Храм Неба",
     "parent": "beijing",
     "place": "temple-heaven"
   },
   "terracotta-army": {
-    "title": "Терракотовая армия, Сиань",
+    "title": "Терракотовая армия",
     "parent": "xian",
     "place": "terracotta-army"
   },
@@ -2283,7 +2283,7 @@
     "parent": "yoho-national-park"
   },
   "yonghe-temple": {
-    "title": "Храм Ламы, Пекин",
+    "title": "Храм Ламы",
     "parent": "beijing",
     "place": "yonghe-temple"
   },
@@ -2291,5 +2291,19 @@
     "title": "Центральная площадь Мехико",
     "parent": "mexico-city",
     "place": "zocalo"
+  },
+  "barcelona--park-guel": {
+    "title": "Парк Гуэль",
+    "parent": "barcelona"
+  },
+  "mcmichael-gallery": {
+    "title": "Музей Макмайкл",
+    "parent": "toronto",
+    "place": "mcmichael-gallery"
+  },
+  "highland-village": {
+    "title": "Музей Хайленд-Виллидж",
+    "parent": "cape-breton",
+    "place": "highland-village"
   }
 }

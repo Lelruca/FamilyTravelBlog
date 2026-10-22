@@ -1,3 +1,3 @@
 ---
-title: "Museo di San Marco - монастырь Сан-Марко, Флоренция"
+title: "Museo di San Marco - Монастырь Сан-Марко, Флоренция"
 ---

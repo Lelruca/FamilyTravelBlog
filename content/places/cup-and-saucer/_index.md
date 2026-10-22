@@ -1,3 +1,3 @@
 ---
-title: "Cup and Saucer Trail - тропа Чашка и блюдце, Канада"
+title: "Cup and Saucer Trail - Тропа Чашка и блюдце, Канада"
 ---

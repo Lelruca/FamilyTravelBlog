@@ -1,3 +1,3 @@
 ---
-title: "Piazzale Michelangelo - площадь Микеланджело, Флоренция"
+title: "Piazzale Michelangelo - Площадь Микеланджело, Флоренция"
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Notre-Dame de la Garde - базилика Нотр-Дам-де-ла-Гард, Марсель"
+title: "Notre-Dame de la Garde - Базилика Нотр-Дам-де-ла-Гард, Марсель"
 ---

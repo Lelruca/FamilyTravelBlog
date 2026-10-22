@@ -1,3 +1,3 @@
 ---
-title: "Bruce Peninsula National Park - национальный парк Брюс"
+title: "Bruce Peninsula National Park - Национальный парк Брюс"
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Schloss Moritzburg - замок Морицбург, Германия"
+title: "Schloss Moritzburg - Замок Морицбург, Германия"
 ---

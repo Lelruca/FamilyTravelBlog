@@ -1,3 +1,3 @@
 ---
-title: "Platja del Bogatell - пляж Побленоу, Барселона"
+title: "Platja del Bogatell - Пляж Побленоу, Барселона"
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Mercedes-Benz Museum - музей Мерседес, Штутгарт"
+title: "Mercedes-Benz Museum - Музей Мерседес, Штутгарт"
 ---

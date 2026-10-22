@@ -1,3 +1,3 @@
 ---
-title: "Catedral de Toledo - собор Толедо"
+title: "Catedral de Toledo - Собор Толедо"
 ---

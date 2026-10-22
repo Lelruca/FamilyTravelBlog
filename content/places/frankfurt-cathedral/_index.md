@@ -1,3 +1,3 @@
 ---
-title: "Kaiserdom St. Bartholomäus - собор Святого Варфоломея, Франкфурт"
+title: "Kaiserdom St. Bartholomäus - Собор Святого Варфоломея, Франкфурт"
 ---

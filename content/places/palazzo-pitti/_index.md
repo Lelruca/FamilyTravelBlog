@@ -1,3 +1,3 @@
 ---
-title: "Palazzo Pitti - дворец Питти, Италия"
+title: "Palazzo Pitti - Дворец Питти, Италия"
 ---

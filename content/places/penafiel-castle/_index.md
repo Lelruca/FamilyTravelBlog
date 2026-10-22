@@ -1,3 +1,3 @@
 ---
-title: "Castillo de Peñafiel - замок Пеньяфьель, Испания"
+title: "Castillo de Peñafiel - Замок Пеньяфьель, Испания"
 ---
