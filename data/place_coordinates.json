@@ -4110,5 +4110,13 @@
     "country_code": "ES",
     "source": "https://www.openstreetmap.org/relation/345059",
     "query": "Albarracín"
+  },
+  "malgrat-de-mar": {
+    "lat": 41.6459118,
+    "lon": 2.7414054,
+    "name": "Malgrat de Mar",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/346734",
+    "query": "Malgrat de Mar"
   }
 }
