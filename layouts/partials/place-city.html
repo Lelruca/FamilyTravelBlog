@@ -34,7 +34,6 @@
 {{- $sights := slice -}}
 {{- range $sightIds }}{{ $sights = $sights | append (dict "id" . "title" (strings.FirstUpper (index $attr .).title)) }}{{ end -}}
 {{- $sights = sort $sights "title" -}}
-{{- $norm := "[^\\p{L}\\p{N}]+" -}}
 
 <div id="place-city" class="max-w-3xl mx-auto px-4 py-10">
   {{ partial "breadcrumbs.html" . }}
@@ -68,16 +67,21 @@
 
   {{- if $sights }}
   <section id="city-sights" role="tabpanel" aria-labelledby="city-tab-sights" hidden>
+  {{- /* a sight and a button per chapter about it, labelled by the year; the chapter and trip are in the button's title */ -}}
   {{- range $sights }}
-    {{- $title := .title }}
     <div class="city-sight" id="a-{{ .id }}">
       <h3>{{ .title }}</h3>
+      <span class="city-years">
+      {{- $all := slice }}{{ range $sightCh.Get .id }}{{ $all = $all | append (printf "%v" (.Parent.Params.trip_year | default (.Date.Format "2006"))) }}{{ end }}
+      {{- $years := slice }}
       {{- range $sightCh.Get .id }}
-        {{- $same := eq (lower (replaceRE $norm "" .Title)) (lower (replaceRE $norm "" $title)) }}
         {{- $trip := .Parent }}
-        {{- $when := printf "%s, %v" ($trip.Params.cover_title | default $trip.Title) ($trip.Params.trip_year | default (.Date.Format "2006")) }}
-      <a href="{{ .RelPermalink }}">{{ if $same }}{{ $when }}{{ else }}{{ .Title }} <span>· {{ $when }}</span>{{ end }}</a>
+        {{- $year := printf "%v" ($trip.Params.trip_year | default (.Date.Format "2006")) }}
+        {{- $n := add 1 (len (where $years "." $year)) }}{{ $years = $years | append $year }}
+        {{- $about := printf "%s · %s, %s" .Title ($trip.Params.cover_title | default $trip.Title) $year }}
+      <a href="{{ .RelPermalink }}" title="{{ $about }}" aria-label="{{ $about }}">{{ $year }}{{ if gt (len (where $all "." $year)) 1 }}-{{ $n }}{{ end }}</a>
       {{- end }}
+      </span>
     </div>
   {{- end }}
   </section>
