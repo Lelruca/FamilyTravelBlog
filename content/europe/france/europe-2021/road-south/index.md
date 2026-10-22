@@ -3,10 +3,9 @@ title: "Дорога на юг"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 10
-city: "Lyon"
+city: "Paris"
 places:
   - paris
-  - lyon
 hero_image: "20210722_193232.jpg"
 date: "2021-07-23"
 auto_gallery: false

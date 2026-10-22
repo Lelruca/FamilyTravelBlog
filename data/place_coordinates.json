@@ -3575,14 +3575,6 @@
     "source": "https://www.openstreetmap.org/relation/1253164",
     "query": "Palais des Papes Avignon"
   },
-  "les-baux-de-provence": {
-    "lat": 43.7436458,
-    "lon": 4.7950342,
-    "name": "Les Baux-de-Provence",
-    "country_code": "FR",
-    "source": "https://www.openstreetmap.org/relation/422129",
-    "query": "Les Baux-de-Provence"
-  },
   "nice": {
     "lat": 43.7009358,
     "lon": 7.2683912,

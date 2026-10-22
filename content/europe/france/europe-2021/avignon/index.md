@@ -7,7 +7,6 @@ city: "Avignon"
 places:
   - avignon
   - palais-des-papes
-  - les-baux-de-provence
 hero_image: "20210724_155030.jpg"
 date: "2021-07-24"
 auto_gallery: false
