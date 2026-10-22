@@ -48,3 +48,4 @@
 .city-back{display:inline-block;margin-top:28px;font-size:14px;color:#2a9d8f;text-decoration:underline}
 @media(hover:hover){.city-ch:hover{border-left-color:#2a9d8f}.city-ch:hover .city-ch-title,.city-sight a:hover{color:#2a9d8f}}
 @media(max-width:640px){#places-list h2,#sights-found h2,.city-tabs{top:56px}#place-map{height:420px}.city-head h1{font-size:30px}.city-tabs button{padding:8px 13px;font-size:14px}}
+@media(pointer:coarse){.city-sight a{padding:8px 0 8px 12px}}
