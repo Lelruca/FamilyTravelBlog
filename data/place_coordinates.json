@@ -4078,5 +4078,21 @@
     "country_code": "IE",
     "source": "https://www.openstreetmap.org/relation/1109531",
     "query": "Dublin, Ireland"
+  },
+  "poblet": {
+    "lat": 41.381231,
+    "lon": 1.0824256,
+    "name": "Reial Monestir de Santa Maria de Poblet",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/174179237",
+    "query": "Monestir de Poblet"
+  },
+  "montblanc": {
+    "lat": 41.3762309,
+    "lon": 1.1620703,
+    "name": "Montblanc",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/343945",
+    "query": "Montblanc, Tarragona"
   }
 }
