@@ -66,6 +66,7 @@
     const n=visible().length;
     root.querySelector('#place-results').textContent = words.length ? `Найдено мест: ${n}${found.length ? `, достопримечательностей: ${found.length}` : ''}` : `Мест: ${n}`;
     root.querySelector('#places-empty').hidden = n !== 0 || found.length !== 0;
+    reset.hidden = !words.length && !country.value;
     if(mode==='map') renderMap();
     remember();
   }
@@ -77,6 +78,10 @@
   root.querySelectorAll('[data-place-mode]').forEach(button=>button.addEventListener('click',()=>setMode(button.dataset.placeMode)));
   root.querySelector('#place-map-reset').addEventListener('click',fit);
   input.addEventListener('input',filter);country.addEventListener('change',filter);
+  // clears the word and the country, keeps the view; the cleared search is what is remembered
+  const reset = root.querySelector('#place-reset');
+  reset.addEventListener('click', () => { input.value = ''; country.value = ''; filter();
+    if (!matchMedia('(pointer:coarse)').matches) input.focus({ preventScroll: true }); }); // no keyboard popping up on a phone
 
   // the country headings stay on top while scrolling; tapping one opens the list of countries to jump to
   root.querySelectorAll('.place-country-jump').forEach(b => b.addEventListener('click', () => jump.showModal()));

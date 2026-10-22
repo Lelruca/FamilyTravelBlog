@@ -2,7 +2,8 @@
 .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 #place-explorer header p{margin-top:10px}.place-context{display:block;color:#64748b;font-size:14px;line-height:1.6}
 .place-tools{display:flex;gap:12px;align-items:end;margin:24px 0 10px;flex-wrap:wrap}.place-search{flex:1;min-width:220px}.place-tools input,.place-tools select,.place-modes button,#place-map-reset{border:1px solid #cbd5e1;border-radius:8px;background:white;padding:10px 14px;color:#1e293b}.place-tools input{width:100%;font-size:16px}.place-modes{display:flex;gap:4px}.place-modes button[aria-pressed=true]{background:#1e293b;color:white;border-color:#1e293b}
-#place-explorer :focus-visible,#place-city :focus-visible{outline:2px solid #2a9d8f;outline-offset:2px}#place-results{margin-bottom:12px}
+#place-explorer :focus-visible,#place-city :focus-visible{outline:2px solid #2a9d8f;outline-offset:2px}.place-results-line{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 14px;margin-bottom:12px}#place-results{margin:0}
+#place-reset{background:none;border:0;padding:6px 0;color:#2a9d8f;font:inherit;font-size:14px;text-decoration:underline;cursor:pointer}
 
 /* the list: compact rows, the country heading stays on top while scrolling and opens the jump list */
 #places-list section{margin-bottom:10px;scroll-margin-top:60px}

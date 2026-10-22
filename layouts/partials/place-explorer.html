@@ -43,7 +43,7 @@
     <div><label for="place-country" class="sr-only">Страна</label><select id="place-country"><option value="">Все страны</option>{{ range sort (uniq $countries) }}<option>{{ . }}</option>{{ end }}</select></div>
     <div class="place-modes" role="group" aria-label="Вид мест"><button type="button" data-place-mode="list" aria-pressed="true">Список</button><button type="button" data-place-mode="map" aria-pressed="false">Карта</button></div>
   </div>
-  <p id="place-results" class="place-context" role="status" aria-live="polite"></p>
+  <div class="place-results-line"><p id="place-results" class="place-context" role="status" aria-live="polite"></p><button type="button" id="place-reset" hidden>× Сбросить поиск</button></div>
   <section id="place-map-panel" hidden aria-label="Карта мест"><div id="place-map"></div><p id="place-map-status" class="place-context" role="status"></p><button type="button" id="place-map-reset">Показать все найденные места</button></section>
   <div id="places-list">
   {{- $state := newScratch -}}
