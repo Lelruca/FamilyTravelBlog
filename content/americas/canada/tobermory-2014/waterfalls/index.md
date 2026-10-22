@@ -14,10 +14,10 @@ draft: false
 ---
 {{< row "IMG_4062.jpg IMG_4060.jpg IMG_4081.jpg" >}}
 
-{{< row "IMG_4067.jpg IMG_4068.jpg DSC01714.jpg" >}}
+{{< row "IMG_4068.jpg DSC01714.jpg" >}}
 
-{{< row "IMG_4082.jpg IMG_4086.jpg DSC01762.jpg" >}}
+{{< row "IMG_4086.jpg DSC01762.jpg" >}}
 
-{{< row "IMG_4097.jpg DSC01775.jpg DSC01720.jpg" >}}
+{{< row "DSC01775.jpg DSC01720.jpg" >}}
 
 {{< row "IMG_4101.jpg DSC01726.jpg DSC01764.jpg" >}}
