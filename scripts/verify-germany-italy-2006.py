@@ -31,11 +31,13 @@ class Page(HTMLParser):
  def handle_endtag(self,t):
   if t=='p' and self.p is not None:self.ps.append(''.join(self.p));self.p=None
 norm=lambda s:' '.join(s.split());count=0
-base=sys.argv[1] if len(sys.argv)>1 and sys.argv[1].startswith('http') else 'http://127.0.0.1:1372/'
+base=sys.argv[1] if len(sys.argv)>1 else 'http://127.0.0.1:1372/'
 for ch in c['chapters']:
  expected=[n for f in ch['fragments'] for b in f.get('photo_blocks',[]) for n in b['names']]
  rel=c['contentDir'].removeprefix('content/')+'/'+ch['slug']+'/'
- with urllib.request.urlopen(base+rel) as r:raw=r.read().decode();assert r.status==200
+ if base.startswith('http'):
+  with urllib.request.urlopen(base+rel) as r:raw=r.read().decode();assert r.status==200
+ else:raw=(Path(base)/rel/'index.html').read_text(encoding='utf-8')
  p=Page();p.feed(raw);assert [u.rsplit('/',1)[-1] for u in p.photos]==expected
  assert all(norm(f['text']) in [norm(x) for x in p.ps] for f in ch['fragments'])
  count+=len(expected)

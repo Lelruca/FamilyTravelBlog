@@ -1,6 +1,6 @@
 ---
 title: "Альпы и Верона"
-draft: true
+draft: false
 date: "2006-11-07"
 weight: 2
 chapter_kind: "Заметка"

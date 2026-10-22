@@ -1,6 +1,6 @@
 ---
 title: "Падуя"
-draft: true
+draft: false
 date: "2006-11-07"
 weight: 3
 chapter_kind: "Заметка"

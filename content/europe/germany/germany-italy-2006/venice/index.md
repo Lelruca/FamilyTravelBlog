@@ -1,6 +1,6 @@
 ---
 title: "Венеция"
-draft: true
+draft: false
 date: "2006-11-07"
 weight: 4
 chapter_kind: "Заметка"

@@ -1,6 +1,6 @@
 ---
 title: "У бабушки"
-draft: true
+draft: false
 date: "2006-11-07"
 weight: 1
 chapter_kind: "Заметка"

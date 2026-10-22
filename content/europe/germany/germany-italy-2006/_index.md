@@ -1,7 +1,7 @@
 ---
 title: "К бабушке и северная Италия"
 type: "trips"
-draft: true
+draft: false
 date: "2006-11-07"
 trip_year: 2006
 trip_start: "2006-11"

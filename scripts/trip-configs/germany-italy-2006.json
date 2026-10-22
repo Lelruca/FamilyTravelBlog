@@ -394,8 +394,9 @@
     }
   ],
   "owner_approval": {
-    "publication": false,
+    "publication": true,
     "cover": "IMG_3405.JPG — временно выбрана Ольгой; она уточнила, что на фото не она. Не подписывать людей без уточнения.",
-    "paragraph_splits": "Да, разделить по городам"
+    "paragraph_splits": "Да, разделить по городам",
+    "publication_request": "Публикуй — 22.10.2026"
   }
 }
