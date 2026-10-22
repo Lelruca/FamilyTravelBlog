@@ -20,9 +20,9 @@ draft: false
 
 {{< row "DSC01792.jpg DSC01803.jpg DSC01820.jpg" >}}
 
-{{< row "DSC01799.jpg DSC01835.jpg DSC01836.jpg" >}}
+{{< row "DSC01799.jpg DSC01836.jpg" >}}
 
-{{< row "DSC01831.jpg DSC01832.jpg DSC01834.jpg" >}}
+{{< row "DSC01831.jpg DSC01834.jpg" >}}
 
 {{< row "DSC01824.jpg DSC01839.jpg 20140629_132747.jpg" >}}
 

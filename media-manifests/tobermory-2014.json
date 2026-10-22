@@ -3,7 +3,7 @@
   "title": "2014 — Тобермори",
   "source": "",
   "archive_root": "North America/2014 - Тобермори",
-  "created": "2026-10-21T22:39:42.848Z",
+  "created": "2026-10-22T03:53:51.900Z",
   "match_threshold": 0.95,
   "chapters": [
     {
@@ -11,16 +11,16 @@
       "title": "Водопады",
       "originals_folder": "01 - Водопады",
       "without_post": true,
-      "photo_count": 15,
-      "original_count": 15
+      "photo_count": 12,
+      "original_count": 12
     },
     {
       "slug": "flowerpot",
       "title": "Тобермори и Flowerpot Island",
       "originals_folder": "02 - Тобермори и Flowerpot Island",
       "without_post": true,
-      "photo_count": 22,
-      "original_count": 22
+      "photo_count": 20,
+      "original_count": 20
     },
     {
       "slug": "grotto",
@@ -35,8 +35,8 @@
       "title": "Верёвочный парк",
       "originals_folder": "04 - Верёвочный парк",
       "without_post": true,
-      "photo_count": 17,
-      "original_count": 17
+      "photo_count": 15,
+      "original_count": 15
     }
   ],
   "photos": [
@@ -74,13 +74,13 @@
       "source_position": 3,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Водопады/03_IMG_4067.JPG",
+      "archive_name": "01 - Водопады/03_IMG_4068.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_4067.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_4068.JPG",
       "match_score": null,
-      "bytes": 2285807,
-      "sha256": "41e5f12dfb4921601e4909461310fd4af31e61ef0a90b89d361093fd92173a32",
-      "drive_id": "1TKNnrQqELn0GniN2v2XIFFlRTb4osRZ8"
+      "bytes": 2083105,
+      "sha256": "4776e447db40e57a146627a75de20f685bed270c6cb456cee3b62962426ca52d",
+      "drive_id": "1Lg4MLQKLPkzGTBON7mwWlajvSfBs54TH"
     },
     {
       "chapter": "waterfalls",
@@ -88,13 +88,13 @@
       "source_position": 4,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Водопады/04_IMG_4068.JPG",
+      "archive_name": "01 - Водопады/04_IMG_4081.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_4068.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_4081.JPG",
       "match_score": null,
-      "bytes": 2083105,
-      "sha256": "4776e447db40e57a146627a75de20f685bed270c6cb456cee3b62962426ca52d",
-      "drive_id": "1gmcclQzHwSdNBUOAgTKhtCPIIYdLNUCF"
+      "bytes": 1924359,
+      "sha256": "dd270d2bf9169c031aa9100c0b42327345a00f69abb9b2bd9c8001481f1cf88f",
+      "drive_id": "1K8XRllAlYMt_McD4dUEWGfM0Rku4NZw7"
     },
     {
       "chapter": "waterfalls",
@@ -102,13 +102,13 @@
       "source_position": 5,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Водопады/05_IMG_4081.JPG",
+      "archive_name": "01 - Водопады/05_IMG_4086.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_4081.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_4086.JPG",
       "match_score": null,
-      "bytes": 1924359,
-      "sha256": "dd270d2bf9169c031aa9100c0b42327345a00f69abb9b2bd9c8001481f1cf88f",
-      "drive_id": "1xj4a7l6NwC6f35ww3izlpPS-aUSETLy0"
+      "bytes": 1595196,
+      "sha256": "e553d13db69c3b84027a4879dbe2a2a3907ab71640bb2b0a39d5ef7035d6d654",
+      "drive_id": "1t8Cn6AlPqwJMQQVYQMOe7wbOm93b-LNc"
     },
     {
       "chapter": "waterfalls",
@@ -116,13 +116,13 @@
       "source_position": 6,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Водопады/06_IMG_4082.JPG",
+      "archive_name": "01 - Водопады/06_IMG_4101.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_4082.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_4101.JPG",
       "match_score": null,
-      "bytes": 2156731,
-      "sha256": "c1f549364b2a99acd84134d4ebcdf355e4567769047764aac7dc7a565a564368",
-      "drive_id": "1jPERlns6lD232zoBuhXMphbw1fAKcy2_"
+      "bytes": 1805957,
+      "sha256": "218095c396c515d970c235c86a5dc5386195aec4ad615db4073e596eba2f202f",
+      "drive_id": "1a18QWTzuIWZFTex0N1p2O9e23xpddoyX"
     },
     {
       "chapter": "waterfalls",
@@ -130,13 +130,13 @@
       "source_position": 7,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Водопады/07_IMG_4086.JPG",
+      "archive_name": "01 - Водопады/07_DSC01714.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_4086.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01714.JPG",
       "match_score": null,
-      "bytes": 1595196,
-      "sha256": "e553d13db69c3b84027a4879dbe2a2a3907ab71640bb2b0a39d5ef7035d6d654",
-      "drive_id": "1qfccL99T1QdJbxCt-74q8kwy4DonOQh8"
+      "bytes": 7581387,
+      "sha256": "3f04c377ea7ce4355888d3014b02a7c14ac68aa70d4839cc09bb5770f402af51",
+      "drive_id": "1OACzA_d2RsYacb5d3OgL73RNSqmXqQZu"
     },
     {
       "chapter": "waterfalls",
@@ -144,13 +144,13 @@
       "source_position": 8,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Водопады/08_IMG_4097.JPG",
+      "archive_name": "01 - Водопады/08_DSC01720.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_4097.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01720.JPG",
       "match_score": null,
-      "bytes": 1782263,
-      "sha256": "a01284acbcc03903db8b82828924bd4b4f9dde35f44cce9e5a89bd7eb9bce294",
-      "drive_id": "1vJFLw96-Jrc25PsLgTyGGMF8Q0B6YkI1"
+      "bytes": 5596015,
+      "sha256": "0b26a4ead246970a3c9f91658540d6c5411c396d8efabb45d269e36593d58164",
+      "drive_id": "10UOJDZUTakF5XJzAgozNu2tWzBKoVyXe"
     },
     {
       "chapter": "waterfalls",
@@ -158,13 +158,13 @@
       "source_position": 9,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Водопады/09_IMG_4101.JPG",
+      "archive_name": "01 - Водопады/09_DSC01726.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_4101.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01726.JPG",
       "match_score": null,
-      "bytes": 1805957,
-      "sha256": "218095c396c515d970c235c86a5dc5386195aec4ad615db4073e596eba2f202f",
-      "drive_id": "11ZIbl-F1IdbKnhPzwaBHN6Rtebfqhlqg"
+      "bytes": 7720773,
+      "sha256": "36726317dd77218b9962d624b9faed6400b01e68391bfac95d36d7ff49c0d423",
+      "drive_id": "1LPxAOkr5-ZOsu5dcKkEgpZfdydqc_RI8"
     },
     {
       "chapter": "waterfalls",
@@ -172,13 +172,13 @@
       "source_position": 10,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Водопады/10_DSC01714.JPG",
+      "archive_name": "01 - Водопады/10_DSC01762.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01714.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01762.JPG",
       "match_score": null,
-      "bytes": 7581387,
-      "sha256": "3f04c377ea7ce4355888d3014b02a7c14ac68aa70d4839cc09bb5770f402af51",
-      "drive_id": "1hib7xmbx99fDH6JczaP8tFGEbrKUYRYQ"
+      "bytes": 5909692,
+      "sha256": "772ce29b053615437c32649159246b9f1455ea144ad2eef80a6bebb81ba98b58",
+      "drive_id": "1SqHOoqLnFxJTgTapQ6ZYyKx82wZgCkYN"
     },
     {
       "chapter": "waterfalls",
@@ -186,13 +186,13 @@
       "source_position": 11,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Водопады/11_DSC01720.JPG",
+      "archive_name": "01 - Водопады/11_DSC01764.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01720.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01764.JPG",
       "match_score": null,
-      "bytes": 5596015,
-      "sha256": "0b26a4ead246970a3c9f91658540d6c5411c396d8efabb45d269e36593d58164",
-      "drive_id": "1oEwhjQ6j-FqCt9k2HeFdE0S22R6hPi6r"
+      "bytes": 6456778,
+      "sha256": "04ab33951721e2941e0ae582e745353740926db99a4e1f7827e79e8a88eb531d",
+      "drive_id": "1Vpt4CXyPtrBDz5H1juQLyzXwBSEjA5Uh"
     },
     {
       "chapter": "waterfalls",
@@ -200,55 +200,13 @@
       "source_position": 12,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Водопады/12_DSC01726.JPG",
-      "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01726.JPG",
-      "match_score": null,
-      "bytes": 7720773,
-      "sha256": "36726317dd77218b9962d624b9faed6400b01e68391bfac95d36d7ff49c0d423",
-      "drive_id": "1ZsmI3dz_2_RNVhfU0C839gC_wtqmXbdm"
-    },
-    {
-      "chapter": "waterfalls",
-      "position": 13,
-      "source_position": 13,
-      "facebook_id": null,
-      "caption": "",
-      "archive_name": "01 - Водопады/13_DSC01762.JPG",
-      "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01762.JPG",
-      "match_score": null,
-      "bytes": 5909692,
-      "sha256": "772ce29b053615437c32649159246b9f1455ea144ad2eef80a6bebb81ba98b58",
-      "drive_id": "1M-8GpEwsiXhrPfF9-CV5Yg6QHcIT0Yej"
-    },
-    {
-      "chapter": "waterfalls",
-      "position": 14,
-      "source_position": 14,
-      "facebook_id": null,
-      "caption": "",
-      "archive_name": "01 - Водопады/14_DSC01764.JPG",
-      "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01764.JPG",
-      "match_score": null,
-      "bytes": 6456778,
-      "sha256": "04ab33951721e2941e0ae582e745353740926db99a4e1f7827e79e8a88eb531d",
-      "drive_id": "1YiJIYzR7zB1MyPjyxwtAEjAzJiir18Za"
-    },
-    {
-      "chapter": "waterfalls",
-      "position": 15,
-      "source_position": 15,
-      "facebook_id": null,
-      "caption": "",
-      "archive_name": "01 - Водопады/15_DSC01775.JPG",
+      "archive_name": "01 - Водопады/12_DSC01775.JPG",
       "kind": "original",
       "original_relative_path": "2014/2014 Лето/Tobermory/DSC01775.JPG",
       "match_score": null,
       "bytes": 5947221,
       "sha256": "762010d1324dd96845a751fc28e3097e252dbd5e354983c1f5995e6c2ae66475",
-      "drive_id": "1L5MwBi6urHoKdGGG9hFC5D3FX2pbHskD"
+      "drive_id": "1pvEbyDmz7mU10l9xEod6S2YC3m7o02y_"
     },
     {
       "chapter": "flowerpot",
@@ -438,13 +396,13 @@
       "source_position": 14,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Тобермори и Flowerpot Island/14_DSC01835.JPG",
+      "archive_name": "02 - Тобермори и Flowerpot Island/14_DSC01836.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01835.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01836.JPG",
       "match_score": null,
-      "bytes": 4787715,
-      "sha256": "25c6242b5f41f5a3a909055bf677deda37411949570004a381f8307995507bf1",
-      "drive_id": "1V9E5-lTBkEPjTo6jfYTyBJCfSg147QYQ"
+      "bytes": 6535333,
+      "sha256": "dfbc69f414d277fd08dcec5429b58dc083862cb1beaf4e392df49d1f8c58aa44",
+      "drive_id": "1_CSD3iJsvEcnPlfVWnAfmY5-Wo5G-mn8"
     },
     {
       "chapter": "flowerpot",
@@ -452,13 +410,13 @@
       "source_position": 15,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Тобермори и Flowerpot Island/15_DSC01836.JPG",
+      "archive_name": "02 - Тобермори и Flowerpot Island/15_20140629_152710.jpg",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01836.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/20140629_152710.jpg",
       "match_score": null,
-      "bytes": 6535333,
-      "sha256": "dfbc69f414d277fd08dcec5429b58dc083862cb1beaf4e392df49d1f8c58aa44",
-      "drive_id": "1vakYcpig8bd2Ig-zqYA0VaGZTHUSP6_D"
+      "bytes": 2679312,
+      "sha256": "a5016f3ef15c676ecaf1a2c554e9a42fb399b3d65da3970baf393b98d6cb922b",
+      "drive_id": "1Wl7KIHS5gs9x8ckqEivReQ99m-vLmoMW"
     },
     {
       "chapter": "flowerpot",
@@ -466,13 +424,13 @@
       "source_position": 16,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Тобермори и Flowerpot Island/16_20140629_152710.jpg",
+      "archive_name": "02 - Тобермори и Flowerpot Island/16_IMG_20140629_154128.jpg",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/20140629_152710.jpg",
+      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_20140629_154128.jpg",
       "match_score": null,
-      "bytes": 2679312,
-      "sha256": "a5016f3ef15c676ecaf1a2c554e9a42fb399b3d65da3970baf393b98d6cb922b",
-      "drive_id": "102FpWTs1aVsMR0XYUh01c4LH0_tzbChm"
+      "bytes": 1990671,
+      "sha256": "1e4e4986962856c1b727518a6c2ac37b0d5a8d30f2d8043df90bd51396b565ba",
+      "drive_id": "1Z5FHUZlB2nlQuNujvzjXKmDeiO8HwleG"
     },
     {
       "chapter": "flowerpot",
@@ -480,13 +438,13 @@
       "source_position": 17,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Тобермори и Flowerpot Island/17_IMG_20140629_154128.jpg",
+      "archive_name": "02 - Тобермори и Flowerpot Island/17_20140629_132747.jpg",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_20140629_154128.jpg",
+      "original_relative_path": "2014/2014 Лето/Tobermory/20140629_132747.jpg",
       "match_score": null,
-      "bytes": 1990671,
-      "sha256": "1e4e4986962856c1b727518a6c2ac37b0d5a8d30f2d8043df90bd51396b565ba",
-      "drive_id": "1DvBqYkqUHjxazYKdZUTygQJQlD9ngr8H"
+      "bytes": 2029098,
+      "sha256": "bc74cb0001e1a4d3e2d471e66233ea6106d77fb21fa442b0b13914506631eae1",
+      "drive_id": "19hW7OyHd2CCZWSOLJZI6_RIdqKmydhTi"
     },
     {
       "chapter": "flowerpot",
@@ -494,13 +452,13 @@
       "source_position": 18,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Тобермори и Flowerpot Island/18_20140629_132747.jpg",
+      "archive_name": "02 - Тобермори и Flowerpot Island/18_DSC01824.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/20140629_132747.jpg",
+      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01824.JPG",
       "match_score": null,
-      "bytes": 2029098,
-      "sha256": "bc74cb0001e1a4d3e2d471e66233ea6106d77fb21fa442b0b13914506631eae1",
-      "drive_id": "1cCPK6FGjl9SGkbIfEh-laFkqtlcYscZx"
+      "bytes": 4359815,
+      "sha256": "d7a97bd6fb921b2b48926584c4ee73863f6b63453810bb2c1065706f77a549dc",
+      "drive_id": "1ekUFFSFLTvxEhTTZP_V1OVUc9TJNWEup"
     },
     {
       "chapter": "flowerpot",
@@ -508,13 +466,13 @@
       "source_position": 19,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Тобермори и Flowerpot Island/19_DSC01824.JPG",
+      "archive_name": "02 - Тобермори и Flowerpot Island/19_DSC01834.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01824.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01834.JPG",
       "match_score": null,
-      "bytes": 4359815,
-      "sha256": "d7a97bd6fb921b2b48926584c4ee73863f6b63453810bb2c1065706f77a549dc",
-      "drive_id": "1gz9sW0BcN-enaglU686iHqKgGg2fifCo"
+      "bytes": 6047725,
+      "sha256": "da41aaa9d4d15bad492e81c937697f0c31d10a7e3993a455a38289cdcbf3f2b2",
+      "drive_id": "1iQLcww49eF63Tw7zLCHJb_ktuzWi7M3V"
     },
     {
       "chapter": "flowerpot",
@@ -522,41 +480,13 @@
       "source_position": 20,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "02 - Тобермори и Flowerpot Island/20_DSC01832.JPG",
-      "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01832.JPG",
-      "match_score": null,
-      "bytes": 5543923,
-      "sha256": "202838c8e75caed7de78ac8f1c025945cb97b0d488216b494da6f94cb9670786",
-      "drive_id": "1wv8ZoR1uuSK8ZZeqGD3zLPXVMk3aguVq"
-    },
-    {
-      "chapter": "flowerpot",
-      "position": 21,
-      "source_position": 21,
-      "facebook_id": null,
-      "caption": "",
-      "archive_name": "02 - Тобермори и Flowerpot Island/21_DSC01834.JPG",
-      "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01834.JPG",
-      "match_score": null,
-      "bytes": 6047725,
-      "sha256": "da41aaa9d4d15bad492e81c937697f0c31d10a7e3993a455a38289cdcbf3f2b2",
-      "drive_id": "1JOePwq2n7RbXM6tdpe_esJ5OAC3IucfD"
-    },
-    {
-      "chapter": "flowerpot",
-      "position": 22,
-      "source_position": 22,
-      "facebook_id": null,
-      "caption": "",
-      "archive_name": "02 - Тобермори и Flowerpot Island/22_DSC01839.JPG",
+      "archive_name": "02 - Тобермори и Flowerpot Island/20_DSC01839.JPG",
       "kind": "original",
       "original_relative_path": "2014/2014 Лето/Tobermory/DSC01839.JPG",
       "match_score": null,
       "bytes": 4465079,
       "sha256": "b0ee0455e38f0b26fa4a77098237abaaa01488626c347f3a6e93bfb2ccfbf88d",
-      "drive_id": "1TVo6iUyS2nLfrWq5uIRjxsn_eYaft0VM"
+      "drive_id": "1XooysgX-OA6Xx2fqvvyKIkqcDfas9oZf"
     },
     {
       "chapter": "grotto",
@@ -900,13 +830,13 @@
       "source_position": 7,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "04 - Верёвочный парк/07_DSC01899.JPG",
+      "archive_name": "04 - Верёвочный парк/07_DSC01906.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01899.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01906.JPG",
       "match_score": null,
-      "bytes": 5353650,
-      "sha256": "381816bafd0f07e1473e7aba788461df49aefb80f711304b00c9aa2fe1a58953",
-      "drive_id": "1MqGYzzKAA3uCryTI7diy6-egCwHHVHdk"
+      "bytes": 6259740,
+      "sha256": "a11dc0ee39a37963b5c9855be28f93bca2ca36329442b3218058c35a8c7302e7",
+      "drive_id": "1GEKs16KilWvUy7VnDLqO00PZY6SdU4Yt"
     },
     {
       "chapter": "adventure-park",
@@ -914,13 +844,13 @@
       "source_position": 8,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "04 - Верёвочный парк/08_DSC01906.JPG",
+      "archive_name": "04 - Верёвочный парк/08_DSC01907.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01906.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01907.JPG",
       "match_score": null,
-      "bytes": 6259740,
-      "sha256": "a11dc0ee39a37963b5c9855be28f93bca2ca36329442b3218058c35a8c7302e7",
-      "drive_id": "1K5-wSZjnfYrPXeGQ5UYYNBjWSSIZdHqe"
+      "bytes": 6279634,
+      "sha256": "7f1aa4c87f05fe5e4e68e458c8c0906dd16fb3c568df6a26aba64cc4f5eb1aa1",
+      "drive_id": "1hsavO3UVsE1tExYcGrDtgLhF3OB2_4u3"
     },
     {
       "chapter": "adventure-park",
@@ -928,13 +858,13 @@
       "source_position": 9,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "04 - Верёвочный парк/09_DSC01907.JPG",
+      "archive_name": "04 - Верёвочный парк/09_IMG_20140630_140357.jpg",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01907.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_20140630_140357.jpg",
       "match_score": null,
-      "bytes": 6279634,
-      "sha256": "7f1aa4c87f05fe5e4e68e458c8c0906dd16fb3c568df6a26aba64cc4f5eb1aa1",
-      "drive_id": "14a4nmER_ZAAF9hPL1fiQnpiY8CUVJat2"
+      "bytes": 2219278,
+      "sha256": "a4979e77b94f9696b409fde39c7c0158f002d912d7b74b436ea6772d1a9e27ec",
+      "drive_id": "1a8b8J4kgXOo1H9YeeIfbZD6kYaLLIEwC"
     },
     {
       "chapter": "adventure-park",
@@ -942,13 +872,13 @@
       "source_position": 10,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "04 - Верёвочный парк/10_IMG_20140630_140357.jpg",
+      "archive_name": "04 - Верёвочный парк/10_DSC01914.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_20140630_140357.jpg",
+      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01914.JPG",
       "match_score": null,
-      "bytes": 2219278,
-      "sha256": "a4979e77b94f9696b409fde39c7c0158f002d912d7b74b436ea6772d1a9e27ec",
-      "drive_id": "1g6TPFZ6fGsaGWlGnSed3DdPKk6bnZUw5"
+      "bytes": 6144567,
+      "sha256": "d4ff4068fd2beca15d7d575839682e17c56de360df855c7c7700d178e5046926",
+      "drive_id": "17TaSJj3NFKBwZMqwnhHPTQwW2IGxBtSy"
     },
     {
       "chapter": "adventure-park",
@@ -956,13 +886,13 @@
       "source_position": 11,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "04 - Верёвочный парк/11_IMG_20140630_140425.jpg",
+      "archive_name": "04 - Верёвочный парк/11_DSC01915.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_20140630_140425.jpg",
+      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01915.JPG",
       "match_score": null,
-      "bytes": 2147423,
-      "sha256": "533d3d37291303b636289c44d134421aa5c20eae77376366849924f7393f6274",
-      "drive_id": "1Pshrq4Xms__bp6FJV8Z6qd2JsW1eZHQN"
+      "bytes": 6525321,
+      "sha256": "ba4cd6af0e687503831a1a53e2b4962fcf3b11c034e33b6a12590800bf36387b",
+      "drive_id": "16d1hG_e1IzwnzVsDVroPaYHsG4oXIabZ"
     },
     {
       "chapter": "adventure-park",
@@ -970,13 +900,13 @@
       "source_position": 12,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "04 - Верёвочный парк/12_DSC01914.JPG",
+      "archive_name": "04 - Верёвочный парк/12_DSC01916.JPG",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01914.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01916.JPG",
       "match_score": null,
-      "bytes": 6144567,
-      "sha256": "d4ff4068fd2beca15d7d575839682e17c56de360df855c7c7700d178e5046926",
-      "drive_id": "1QIHakr2qPye6CpqPDwOzDgTqs-nFzSuP"
+      "bytes": 6501293,
+      "sha256": "1ef43b605acbef5806d5579de74157b8384be6c3a065736c166e95f5eddf80e2",
+      "drive_id": "1YQkCp920JxsNuPC441q9afFpzQioX7SK"
     },
     {
       "chapter": "adventure-park",
@@ -984,13 +914,13 @@
       "source_position": 13,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "04 - Верёвочный парк/13_DSC01915.JPG",
+      "archive_name": "04 - Верёвочный парк/13_IMG_20140630_185222.jpg",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01915.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_20140630_185222.jpg",
       "match_score": null,
-      "bytes": 6525321,
-      "sha256": "ba4cd6af0e687503831a1a53e2b4962fcf3b11c034e33b6a12590800bf36387b",
-      "drive_id": "1_taQ5lrSwjGAoB0g2XhLCChM-k7WCWYB"
+      "bytes": 1652648,
+      "sha256": "e428b9f2c9ed66c616f8490a174ee0bcd27165a60ff470e0fdad39d68516427b",
+      "drive_id": "1xOPz_lZHb0-EtYSRUJPs1kOVmSN_KB79"
     },
     {
       "chapter": "adventure-park",
@@ -998,13 +928,13 @@
       "source_position": 14,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "04 - Верёвочный парк/14_DSC01916.JPG",
+      "archive_name": "04 - Верёвочный парк/14_IMG_20140706_153902.jpg",
       "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/DSC01916.JPG",
+      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_20140706_153902.jpg",
       "match_score": null,
-      "bytes": 6501293,
-      "sha256": "1ef43b605acbef5806d5579de74157b8384be6c3a065736c166e95f5eddf80e2",
-      "drive_id": "1cgKQDDTzhPMgcjvQsItqyWgy0XiFnlGk"
+      "bytes": 2373804,
+      "sha256": "7cd062ab4a888209d12015c062a1cdf967cd3f65c39d69d132c08b882b07ff99",
+      "drive_id": "1XQWBnqSfuTb9ww_0TzxPgGjucmIbxXD3"
     },
     {
       "chapter": "adventure-park",
@@ -1012,52 +942,58 @@
       "source_position": 15,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "04 - Верёвочный парк/15_IMG_20140630_185222.jpg",
-      "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_20140630_185222.jpg",
-      "match_score": null,
-      "bytes": 1652648,
-      "sha256": "e428b9f2c9ed66c616f8490a174ee0bcd27165a60ff470e0fdad39d68516427b",
-      "drive_id": "1h6pvPp5OL5SxfPlfZVARWdGaYjkvleQO"
-    },
-    {
-      "chapter": "adventure-park",
-      "position": 16,
-      "source_position": 16,
-      "facebook_id": null,
-      "caption": "",
-      "archive_name": "04 - Верёвочный парк/16_IMG_20140706_153902.jpg",
-      "kind": "original",
-      "original_relative_path": "2014/2014 Лето/Tobermory/IMG_20140706_153902.jpg",
-      "match_score": null,
-      "bytes": 2373804,
-      "sha256": "7cd062ab4a888209d12015c062a1cdf967cd3f65c39d69d132c08b882b07ff99",
-      "drive_id": "1EqNzsEh5O2pxuJO8J5-rtbR8ioO14JPH"
-    },
-    {
-      "chapter": "adventure-park",
-      "position": 17,
-      "source_position": 17,
-      "facebook_id": null,
-      "caption": "",
-      "archive_name": "04 - Верёвочный парк/17_IMG_20140706_172328.jpg",
+      "archive_name": "04 - Верёвочный парк/15_IMG_20140706_172328.jpg",
       "kind": "original",
       "original_relative_path": "2014/2014 Лето/Tobermory/IMG_20140706_172328.jpg",
       "match_score": null,
       "bytes": 2330271,
       "sha256": "4e6ddee31b5196cfad71f83f8318bbe7e8deae2c3fbda5a03dbd195fc9f2d9c8",
-      "drive_id": "1lMv1cDiWAmtu42k0emaQPER39xDFGpeL"
+      "drive_id": "1ixQYVhOrI1ielHZuZHKGMXK4dWuM4zq6"
     }
   ],
   "videos": [],
   "skipped": [],
-  "other_files": [],
+  "other_files": [
+    "01 - Водопады/03_IMG_4067.JPG",
+    "01 - Водопады/04_IMG_4068.JPG",
+    "01 - Водопады/05_IMG_4081.JPG",
+    "01 - Водопады/06_IMG_4082.JPG",
+    "01 - Водопады/07_IMG_4086.JPG",
+    "01 - Водопады/08_IMG_4097.JPG",
+    "01 - Водопады/09_IMG_4101.JPG",
+    "01 - Водопады/10_DSC01714.JPG",
+    "01 - Водопады/11_DSC01720.JPG",
+    "01 - Водопады/12_DSC01726.JPG",
+    "01 - Водопады/13_DSC01762.JPG",
+    "01 - Водопады/14_DSC01764.JPG",
+    "01 - Водопады/15_DSC01775.JPG",
+    "02 - Тобермори и Flowerpot Island/14_DSC01835.JPG",
+    "02 - Тобермори и Flowerpot Island/15_DSC01836.JPG",
+    "02 - Тобермори и Flowerpot Island/16_20140629_152710.jpg",
+    "02 - Тобермори и Flowerpot Island/17_IMG_20140629_154128.jpg",
+    "02 - Тобермори и Flowerpot Island/18_20140629_132747.jpg",
+    "02 - Тобермори и Flowerpot Island/19_DSC01824.JPG",
+    "02 - Тобермори и Flowerpot Island/20_DSC01832.JPG",
+    "02 - Тобермори и Flowerpot Island/21_DSC01834.JPG",
+    "02 - Тобермори и Flowerpot Island/22_DSC01839.JPG",
+    "04 - Верёвочный парк/07_DSC01899.JPG",
+    "04 - Верёвочный парк/08_DSC01906.JPG",
+    "04 - Верёвочный парк/09_DSC01907.JPG",
+    "04 - Верёвочный парк/10_IMG_20140630_140357.jpg",
+    "04 - Верёвочный парк/11_IMG_20140630_140425.jpg",
+    "04 - Верёвочный парк/12_DSC01914.JPG",
+    "04 - Верёвочный парк/13_DSC01915.JPG",
+    "04 - Верёвочный парк/14_DSC01916.JPG",
+    "04 - Верёвочный парк/15_IMG_20140630_185222.jpg",
+    "04 - Верёвочный парк/16_IMG_20140706_153902.jpg",
+    "04 - Верёвочный парк/17_IMG_20140706_172328.jpg"
+  ],
   "archive_verified": true,
   "drive_sync_verified": true,
-  "drive_sync_checked": "2026-10-21T22:40:18.751Z",
+  "drive_sync_checked": "2026-10-22T03:55:54.950Z",
   "drive_trip_folder_id": "1MEnLSg8WutNG7gIYk0w6DoUfKyzY2jmV",
   "r2": {
-    "checked": "2026-10-21T22:42:10.089Z",
+    "checked": "2026-10-22T03:56:04.740Z",
     "base": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "copies": [
       {
@@ -1081,23 +1017,13 @@
         "verified": true
       },
       {
-        "key": "tobermory-2014/adventure-park/DSC01899.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/tobermory-2014/adventure-park/DSC01899.jpg",
-        "width": 2000,
-        "height": 1500,
-        "bytes": 462639,
-        "sha256": "636b60b6ba67b47b1f1ef3f9cb988481fc36fbc2b142993f4a88c8e69df2495a",
-        "archive_name": "04 - Верёвочный парк/07_DSC01899.JPG",
-        "verified": true
-      },
-      {
         "key": "tobermory-2014/adventure-park/DSC01906.jpg",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/tobermory-2014/adventure-park/DSC01906.jpg",
         "width": 2000,
         "height": 1500,
         "bytes": 471320,
         "sha256": "16561897740e095df51ae4d7c37a3923bde4e80a1c88e454da60844b3f7a34d6",
-        "archive_name": "04 - Верёвочный парк/08_DSC01906.JPG",
+        "archive_name": "04 - Верёвочный парк/07_DSC01906.JPG",
         "verified": true
       },
       {
@@ -1107,7 +1033,7 @@
         "height": 1500,
         "bytes": 458231,
         "sha256": "fe4173427d97abf564ce72d0b8d46da541e6c204652490567212b8b49c3610d3",
-        "archive_name": "04 - Верёвочный парк/09_DSC01907.JPG",
+        "archive_name": "04 - Верёвочный парк/08_DSC01907.JPG",
         "verified": true
       },
       {
@@ -1117,7 +1043,7 @@
         "height": 1500,
         "bytes": 475250,
         "sha256": "8d0864b605e2c0744d4e141bfa31e8b6bd5e7671dfab1f110392a42454f6f17a",
-        "archive_name": "04 - Верёвочный парк/12_DSC01914.JPG",
+        "archive_name": "04 - Верёвочный парк/10_DSC01914.JPG",
         "verified": true
       },
       {
@@ -1127,7 +1053,7 @@
         "height": 1500,
         "bytes": 531863,
         "sha256": "34d5fbdbb967a359bbed850a5207c450cd52313eda3b9448da44092217a9b37f",
-        "archive_name": "04 - Верёвочный парк/13_DSC01915.JPG",
+        "archive_name": "04 - Верёвочный парк/11_DSC01915.JPG",
         "verified": true
       },
       {
@@ -1137,7 +1063,7 @@
         "height": 1500,
         "bytes": 475962,
         "sha256": "fef090aadcdf2ccf9aa7f5c7ac01a37d4b0db9f7df31155f3707649a47cb0887",
-        "archive_name": "04 - Верёвочный парк/14_DSC01916.JPG",
+        "archive_name": "04 - Верёвочный парк/12_DSC01916.JPG",
         "verified": true
       },
       {
@@ -1187,17 +1113,7 @@
         "height": 1500,
         "bytes": 644819,
         "sha256": "b170fdeaa8c6251fc66fe229fdbc69817a124e0321718630a94ed2e2c147c04d",
-        "archive_name": "04 - Верёвочный парк/10_IMG_20140630_140357.jpg",
-        "verified": true
-      },
-      {
-        "key": "tobermory-2014/adventure-park/IMG_20140630_140425.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/tobermory-2014/adventure-park/IMG_20140630_140425.jpg",
-        "width": 2000,
-        "height": 1500,
-        "bytes": 597063,
-        "sha256": "c89a4a41aeb1672dca4f03fbdb7bb97898f8a5cf7e1adda80336ad4051ac0126",
-        "archive_name": "04 - Верёвочный парк/11_IMG_20140630_140425.jpg",
+        "archive_name": "04 - Верёвочный парк/09_IMG_20140630_140357.jpg",
         "verified": true
       },
       {
@@ -1207,7 +1123,7 @@
         "height": 1500,
         "bytes": 382710,
         "sha256": "60fbbe627a42e2b0aa7cfed67f6158750abb39d2625f007c9de2da4c0082a6b4",
-        "archive_name": "04 - Верёвочный парк/15_IMG_20140630_185222.jpg",
+        "archive_name": "04 - Верёвочный парк/13_IMG_20140630_185222.jpg",
         "verified": true
       },
       {
@@ -1217,7 +1133,7 @@
         "height": 1500,
         "bytes": 728080,
         "sha256": "395cf72f012ff534d954c3fab9b9be56d425acefd235d47116d305b8a3661135",
-        "archive_name": "04 - Верёвочный парк/16_IMG_20140706_153902.jpg",
+        "archive_name": "04 - Верёвочный парк/14_IMG_20140706_153902.jpg",
         "verified": true
       },
       {
@@ -1227,7 +1143,7 @@
         "height": 1500,
         "bytes": 699694,
         "sha256": "35af2251993079715ba5686d51090597ba09cda4e49878b27869430b156d20b5",
-        "archive_name": "04 - Верёвочный парк/17_IMG_20140706_172328.jpg",
+        "archive_name": "04 - Верёвочный парк/15_IMG_20140706_172328.jpg",
         "verified": true
       },
       {
@@ -1237,7 +1153,7 @@
         "height": 2000,
         "bytes": 289531,
         "sha256": "92b4561d83a18d8728721d8924190d2720a24a41a69ef8dac49aff360a03e79a",
-        "archive_name": "02 - Тобермори и Flowerpot Island/18_20140629_132747.jpg",
+        "archive_name": "02 - Тобермори и Flowerpot Island/17_20140629_132747.jpg",
         "verified": true
       },
       {
@@ -1247,7 +1163,7 @@
         "height": 1500,
         "bytes": 472084,
         "sha256": "95dc28a28ff87861d2f89c1827896c7b33ca184c4b0e8cf62156fe83a9d4917e",
-        "archive_name": "02 - Тобермори и Flowerpot Island/16_20140629_152710.jpg",
+        "archive_name": "02 - Тобермори и Flowerpot Island/15_20140629_152710.jpg",
         "verified": true
       },
       {
@@ -1307,7 +1223,7 @@
         "height": 2000,
         "bytes": 314198,
         "sha256": "32764879ee0dc12dba9a3565cd08b0f444a25f62edeebb163f5494c7a0015de8",
-        "archive_name": "02 - Тобермори и Flowerpot Island/19_DSC01824.JPG",
+        "archive_name": "02 - Тобермори и Flowerpot Island/18_DSC01824.JPG",
         "verified": true
       },
       {
@@ -1321,33 +1237,13 @@
         "verified": true
       },
       {
-        "key": "tobermory-2014/flowerpot/DSC01832.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/tobermory-2014/flowerpot/DSC01832.jpg",
-        "width": 1500,
-        "height": 2000,
-        "bytes": 581305,
-        "sha256": "36319711c366da6e6edf3a9b2304f090400f778690506c152f46bb06cb5eb053",
-        "archive_name": "02 - Тобермори и Flowerpot Island/20_DSC01832.JPG",
-        "verified": true
-      },
-      {
         "key": "tobermory-2014/flowerpot/DSC01834.jpg",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/tobermory-2014/flowerpot/DSC01834.jpg",
         "width": 1500,
         "height": 2000,
         "bytes": 888466,
         "sha256": "b043d4532390730d000adb9f2e490962a85ca1cab5c19171539b54dc9b61b636",
-        "archive_name": "02 - Тобермори и Flowerpot Island/21_DSC01834.JPG",
-        "verified": true
-      },
-      {
-        "key": "tobermory-2014/flowerpot/DSC01835.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/tobermory-2014/flowerpot/DSC01835.jpg",
-        "width": 2000,
-        "height": 1500,
-        "bytes": 234487,
-        "sha256": "a230ce3a4a2b77758901c4a6b58eca04fcf6ea564b6fe39946dd09dfdf417e20",
-        "archive_name": "02 - Тобермори и Flowerpot Island/14_DSC01835.JPG",
+        "archive_name": "02 - Тобермори и Flowerpot Island/19_DSC01834.JPG",
         "verified": true
       },
       {
@@ -1357,7 +1253,7 @@
         "height": 1500,
         "bytes": 586972,
         "sha256": "a53e05b52ff2646b3eddf50373cee3a99768ac9718288754318621d6df4e7c49",
-        "archive_name": "02 - Тобермори и Flowerpot Island/15_DSC01836.JPG",
+        "archive_name": "02 - Тобермори и Flowerpot Island/14_DSC01836.JPG",
         "verified": true
       },
       {
@@ -1367,7 +1263,7 @@
         "height": 2000,
         "bytes": 315744,
         "sha256": "b0cbcbd579f0ae81c0b148421bd7e2f81e0df94814b9695bf78fb173cdca4a92",
-        "archive_name": "02 - Тобермори и Flowerpot Island/22_DSC01839.JPG",
+        "archive_name": "02 - Тобермори и Flowerpot Island/20_DSC01839.JPG",
         "verified": true
       },
       {
@@ -1397,7 +1293,7 @@
         "height": 1500,
         "bytes": 530699,
         "sha256": "b6be5fb8a1cc06a10e0149563991c30de4386bc8b7156d6be69666d38e4bb5d8",
-        "archive_name": "02 - Тобермори и Flowerpot Island/17_IMG_20140629_154128.jpg",
+        "archive_name": "02 - Тобермори и Flowerpot Island/16_IMG_20140629_154128.jpg",
         "verified": true
       },
       {
@@ -1637,7 +1533,7 @@
         "height": 1500,
         "bytes": 748832,
         "sha256": "ba21dab905160d80bd01d2fbf5be1d23c7bc7943fd31b9e65a0b6628f954e5a1",
-        "archive_name": "01 - Водопады/10_DSC01714.JPG",
+        "archive_name": "01 - Водопады/07_DSC01714.JPG",
         "verified": true
       },
       {
@@ -1647,7 +1543,7 @@
         "height": 1500,
         "bytes": 391177,
         "sha256": "c7b0cbb32809f54d22cab8e3820dbb19b62dc07655ad8d318454243755ab4692",
-        "archive_name": "01 - Водопады/11_DSC01720.JPG",
+        "archive_name": "01 - Водопады/08_DSC01720.JPG",
         "verified": true
       },
       {
@@ -1657,7 +1553,7 @@
         "height": 1500,
         "bytes": 784003,
         "sha256": "89fc9e10cc1e76d97fbe2d9c811480ea4f0f934eaf541b56e2fe6ee52fcf9923",
-        "archive_name": "01 - Водопады/12_DSC01726.JPG",
+        "archive_name": "01 - Водопады/09_DSC01726.JPG",
         "verified": true
       },
       {
@@ -1667,7 +1563,7 @@
         "height": 1500,
         "bytes": 460503,
         "sha256": "cc5620d871008f27f8af9c73d662e43fdd456bb81a9de20ae1f251ddbd8b0473",
-        "archive_name": "01 - Водопады/13_DSC01762.JPG",
+        "archive_name": "01 - Водопады/10_DSC01762.JPG",
         "verified": true
       },
       {
@@ -1677,7 +1573,7 @@
         "height": 1500,
         "bytes": 560935,
         "sha256": "cc8d4962ae7affe85699310c3701faabdd14e375cb29b94232d2cef9695440e2",
-        "archive_name": "01 - Водопады/14_DSC01764.JPG",
+        "archive_name": "01 - Водопады/11_DSC01764.JPG",
         "verified": true
       },
       {
@@ -1687,7 +1583,7 @@
         "height": 1500,
         "bytes": 406153,
         "sha256": "3ac2c782bea7bd1b46a997f75a6e02a0840f5e467613bbc1e3479b5fd3f56ea4",
-        "archive_name": "01 - Водопады/15_DSC01775.JPG",
+        "archive_name": "01 - Водопады/12_DSC01775.JPG",
         "verified": true
       },
       {
@@ -1711,23 +1607,13 @@
         "verified": true
       },
       {
-        "key": "tobermory-2014/waterfalls/IMG_4067.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/tobermory-2014/waterfalls/IMG_4067.jpg",
-        "width": 1126,
-        "height": 2000,
-        "bytes": 880294,
-        "sha256": "f48feb795dcb44c316fa190e06cb7303297c7428bed6512d482acf43e3ff20c2",
-        "archive_name": "01 - Водопады/03_IMG_4067.JPG",
-        "verified": true
-      },
-      {
         "key": "tobermory-2014/waterfalls/IMG_4068.jpg",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/tobermory-2014/waterfalls/IMG_4068.jpg",
         "width": 2000,
         "height": 1126,
         "bytes": 713479,
         "sha256": "88d5529090b5b2cfbd61bccfc7db1bd78fef394f709e4f1f81bc5b2d5d4e6628",
-        "archive_name": "01 - Водопады/04_IMG_4068.JPG",
+        "archive_name": "01 - Водопады/03_IMG_4068.JPG",
         "verified": true
       },
       {
@@ -1737,17 +1623,7 @@
         "height": 1126,
         "bytes": 671340,
         "sha256": "6c39cba40716957356e584e607f8b9a6a5cf3f6ec96e05d351a53bb7032704a2",
-        "archive_name": "01 - Водопады/05_IMG_4081.JPG",
-        "verified": true
-      },
-      {
-        "key": "tobermory-2014/waterfalls/IMG_4082.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/tobermory-2014/waterfalls/IMG_4082.jpg",
-        "width": 2000,
-        "height": 1126,
-        "bytes": 790132,
-        "sha256": "c5f63c2662f77a53c44740d42fe0ee83a688995a2220bd0b773a2a43aedbae8f",
-        "archive_name": "01 - Водопады/06_IMG_4082.JPG",
+        "archive_name": "01 - Водопады/04_IMG_4081.JPG",
         "verified": true
       },
       {
@@ -1757,17 +1633,7 @@
         "height": 1126,
         "bytes": 521051,
         "sha256": "519e4924c0f4f03c8945dc989f4c7559dfdfaea10ab31cb3f3693613d28d7280",
-        "archive_name": "01 - Водопады/07_IMG_4086.JPG",
-        "verified": true
-      },
-      {
-        "key": "tobermory-2014/waterfalls/IMG_4097.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/tobermory-2014/waterfalls/IMG_4097.jpg",
-        "width": 2000,
-        "height": 1126,
-        "bytes": 614054,
-        "sha256": "0b4e3187143bc925f4d8f11f07617407230bd031288be73dbb99c412550921f2",
-        "archive_name": "01 - Водопады/08_IMG_4097.JPG",
+        "archive_name": "01 - Водопады/05_IMG_4086.JPG",
         "verified": true
       },
       {
@@ -1777,7 +1643,7 @@
         "height": 1126,
         "bytes": 627878,
         "sha256": "a8bf30454518b25d13246ffe0fc7bdf3dfa51650ef28bcfe54f5477594d5464d",
-        "archive_name": "01 - Водопады/09_IMG_4101.JPG",
+        "archive_name": "01 - Водопады/06_IMG_4101.JPG",
         "verified": true
       }
     ]

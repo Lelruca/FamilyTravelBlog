@@ -226,6 +226,32 @@ part_of:
   leutaschklamm: mittenwald
 
 # Место, которое показывается в двух странах (вторая точка).
+  # Авиньон
+  palais-des-papes: avignon
+  # Антиб
+  musee-picasso-antibes: antibes
+  # Канны
+  palais-des-festivals: cannes
+  # Марсель
+  cathedrale-major-marseille: marseille
+  chateau-d-if: marseille
+  notre-dame-de-la-garde: marseille
+  # Милан
+  castello-sforzesco: milan
+  duomo-milano: milan
+  pinacoteca-brera: milan
+  # Ницца
+  musee-chagall-nice: nice
+  musee-matisse-nice: nice
+  promenade-des-anglais: nice
+  # Париж
+  invalides: paris
+  # Турин
+  mole-antonelliana: turin
+  palazzo-reale-torino: turin
+  # Bruce Peninsula
+  grotto-bruce: bruce-peninsula
+
 twins:
   iguazu-falls:
     - country: "Бразилия"

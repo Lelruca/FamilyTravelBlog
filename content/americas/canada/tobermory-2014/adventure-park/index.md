@@ -13,11 +13,11 @@ draft: false
 ---
 {{< row "IMG_20140630_075447.jpg IMG_20140630_105519.jpg IMG_20140630_132938.jpg" >}}
 
-{{< row "DSC01885.jpg DSC01894.jpg DSC01899.jpg" >}}
+{{< row "DSC01885.jpg DSC01894.jpg" >}}
 
 {{< row "IMG_20140630_134323.jpg DSC01906.jpg DSC01907.jpg" >}}
 
-{{< row "IMG_20140630_140357.jpg IMG_20140630_140425.jpg DSC01915.jpg" >}}
+{{< row "IMG_20140630_140357.jpg DSC01915.jpg" >}}
 
 {{< row "DSC01914.jpg DSC01916.jpg IMG_20140630_185222.jpg" >}}
 

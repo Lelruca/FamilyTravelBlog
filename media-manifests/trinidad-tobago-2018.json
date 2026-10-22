@@ -3,7 +3,7 @@
   "title": "2018 — Тринидад и Тобаго",
   "source": "",
   "archive_root": "North America/2018 - Тринидад и Тобаго",
-  "created": "2026-10-21T22:27:57.336Z",
+  "created": "2026-10-22T03:58:25.332Z",
   "match_threshold": 0.95,
   "chapters": [
     {
@@ -11,8 +11,8 @@
       "title": "Порт-оф-Спейн",
       "originals_folder": "01 - Порт-оф-Спейн",
       "without_post": true,
-      "photo_count": 21,
-      "original_count": 21
+      "photo_count": 15,
+      "original_count": 15
     }
   ],
   "photos": [
@@ -36,13 +36,13 @@
       "source_position": 2,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/02_20181011_160206.jpg",
+      "archive_name": "01 - Порт-оф-Спейн/02_20181011_160218.jpg",
       "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_160206.jpg",
+      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_160218.jpg",
       "match_score": null,
-      "bytes": 2112844,
-      "sha256": "8abb0f1f31187a7bc316e13aff59ae3edb2f6c134495d4e8f8cfeb86f766e9ef",
-      "drive_id": "18KR7i_RDoWBPsn9RNDAbSBa_ZlJO9dQc"
+      "bytes": 2467365,
+      "sha256": "44593800b475a80f48adb06f82a06cdfe072e0255075da1809fb52de21fe1be6",
+      "drive_id": "1tFxxZSlM4Yinw4b2KEkNLa6LTMw7CaUL"
     },
     {
       "chapter": "port-of-spain",
@@ -50,13 +50,13 @@
       "source_position": 3,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/03_20181011_160218.jpg",
+      "archive_name": "01 - Порт-оф-Спейн/03_20181011_160537.jpg",
       "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_160218.jpg",
+      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_160537.jpg",
       "match_score": null,
-      "bytes": 2467365,
-      "sha256": "44593800b475a80f48adb06f82a06cdfe072e0255075da1809fb52de21fe1be6",
-      "drive_id": "1QC-KaesqsT4xR4e90kms5ezJKAwZSOoF"
+      "bytes": 2704450,
+      "sha256": "bb27e14b6e7d94d0e00bdbae3c9ed459753af23678defc27bc6473fa2b887064",
+      "drive_id": "1DhorTfAvCaL6JIOZJ4eOM9ul6E9lXVp8"
     },
     {
       "chapter": "port-of-spain",
@@ -64,13 +64,13 @@
       "source_position": 4,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/04_20181011_160537.jpg",
+      "archive_name": "01 - Порт-оф-Спейн/04_20181011_160606.jpg",
       "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_160537.jpg",
+      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_160606.jpg",
       "match_score": null,
-      "bytes": 2704450,
-      "sha256": "bb27e14b6e7d94d0e00bdbae3c9ed459753af23678defc27bc6473fa2b887064",
-      "drive_id": "13nu0qecaOuZVQHaYECJ81vkwRrBG2WZh"
+      "bytes": 2739357,
+      "sha256": "4ef489b5c6c26e7f056baa5c65a9316df02359542ea141013278306775b13813",
+      "drive_id": "1_45EEPjKM5eFrF3XMOr6gT61QPWUy8nJ"
     },
     {
       "chapter": "port-of-spain",
@@ -78,13 +78,13 @@
       "source_position": 5,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/05_20181011_160606.jpg",
+      "archive_name": "01 - Порт-оф-Спейн/05_20181011_173931.jpg",
       "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_160606.jpg",
+      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_173931.jpg",
       "match_score": null,
-      "bytes": 2739357,
-      "sha256": "4ef489b5c6c26e7f056baa5c65a9316df02359542ea141013278306775b13813",
-      "drive_id": "1CHY4vcRAsILHEetjVaGac6TCfRSXAY6A"
+      "bytes": 3554180,
+      "sha256": "12ce678dc8108d3c8a63826f2ba33cd2d443ab67523a30ab598ec393d75af37f",
+      "drive_id": "11eULebYS7uYjWV7uCFyV27rPAPB6lBHe"
     },
     {
       "chapter": "port-of-spain",
@@ -92,13 +92,13 @@
       "source_position": 6,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/06_20181011_173931.jpg",
+      "archive_name": "01 - Порт-оф-Спейн/06_20181011_174023.jpg",
       "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_173931.jpg",
+      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_174023.jpg",
       "match_score": null,
-      "bytes": 3554180,
-      "sha256": "12ce678dc8108d3c8a63826f2ba33cd2d443ab67523a30ab598ec393d75af37f",
-      "drive_id": "1gQrDkxFQ3oq4e3aiNwA762E0DjPZ_DYj"
+      "bytes": 1609990,
+      "sha256": "945308a2361abfc01688751dd5640633b578f0dba47f197e6d92da75e79e17af",
+      "drive_id": "1tvyLKJIDXS0vT0yGbtB8HXi9GxsOEoKm"
     },
     {
       "chapter": "port-of-spain",
@@ -106,13 +106,13 @@
       "source_position": 7,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/07_20181011_174023.jpg",
+      "archive_name": "01 - Порт-оф-Спейн/07_20181011_174127.jpg",
       "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_174023.jpg",
+      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_174127.jpg",
       "match_score": null,
-      "bytes": 1609990,
-      "sha256": "945308a2361abfc01688751dd5640633b578f0dba47f197e6d92da75e79e17af",
-      "drive_id": "1zjl4YLD0My8Pmbhqr2scrdmjAq7wcbag"
+      "bytes": 1951479,
+      "sha256": "363d0208a703a6f73a512f6d63d79012f9f1a4f28e2a5e2adf44523064f31fac",
+      "drive_id": "1RC2JWBBzIJ_tSttDWUUcH3BPxmP9TPvF"
     },
     {
       "chapter": "port-of-spain",
@@ -120,13 +120,13 @@
       "source_position": 8,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/08_20181011_174127.jpg",
+      "archive_name": "01 - Порт-оф-Спейн/08_20181011_174537.jpg",
       "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_174127.jpg",
+      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_174537.jpg",
       "match_score": null,
-      "bytes": 1951479,
-      "sha256": "363d0208a703a6f73a512f6d63d79012f9f1a4f28e2a5e2adf44523064f31fac",
-      "drive_id": "1ABirLkCkeHUIbTdTAXP1KY7zm09oakXr"
+      "bytes": 2620193,
+      "sha256": "5d4205c5f1503ca0fc4dd6c91145ec69a076f341cd49dc9a9fbec31f82cc126f",
+      "drive_id": "1kmFhLel8pZ5ie4S8Iruhp6G6ZwItPzsY"
     },
     {
       "chapter": "port-of-spain",
@@ -134,13 +134,13 @@
       "source_position": 9,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/09_20181011_174531.jpg",
+      "archive_name": "01 - Порт-оф-Спейн/09_20181011_174622.jpg",
       "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_174531.jpg",
+      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_174622.jpg",
       "match_score": null,
-      "bytes": 2715030,
-      "sha256": "f029aae5081a490cb1786c4690886f91a077fe72ce4e584cfb23730b42db6607",
-      "drive_id": "10Mpk8Ekaytj_f_OftU4DuVNsMHmh1xiq"
+      "bytes": 3169356,
+      "sha256": "e5fd66ec82026a17efbd9c858fd1124736ff1fec967677c80ea27eaa6bc754fc",
+      "drive_id": "1-7KazpC2gyQxR7sNHhnxHB3bPgcELYY7"
     },
     {
       "chapter": "port-of-spain",
@@ -148,13 +148,13 @@
       "source_position": 10,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/10_20181011_174537.jpg",
+      "archive_name": "01 - Порт-оф-Спейн/10_20181011_174629.jpg",
       "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_174537.jpg",
+      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_174629.jpg",
       "match_score": null,
-      "bytes": 2620193,
-      "sha256": "5d4205c5f1503ca0fc4dd6c91145ec69a076f341cd49dc9a9fbec31f82cc126f",
-      "drive_id": "1zF6XwSs2p1Ky49Egjeqef-3ac7xOnDcK"
+      "bytes": 2798394,
+      "sha256": "03a7ff91ed60d16eabc33f302d8bb60a12d812961b1c239f33bb8603bc47b515",
+      "drive_id": "1uCnxiR1OkiDRajgjv2ewpwjVgaixn7cU"
     },
     {
       "chapter": "port-of-spain",
@@ -162,13 +162,13 @@
       "source_position": 11,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/11_20181011_174622.jpg",
+      "archive_name": "01 - Порт-оф-Спейн/11_20181011_180955.jpg",
       "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_174622.jpg",
+      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_180955.jpg",
       "match_score": null,
-      "bytes": 3169356,
-      "sha256": "e5fd66ec82026a17efbd9c858fd1124736ff1fec967677c80ea27eaa6bc754fc",
-      "drive_id": "1DgWViB3wdyz9I6RqKBvdqO5dN--pye9k"
+      "bytes": 2197604,
+      "sha256": "266fc723a079dd511473139bbcd22463f6774e1e741d5099fd8cb30e0e4c9e19",
+      "drive_id": "1IrHYCJ6jrt51Eqq1RW2AjdGmYRboB2he"
     },
     {
       "chapter": "port-of-spain",
@@ -176,13 +176,13 @@
       "source_position": 12,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/12_20181011_174629.jpg",
+      "archive_name": "01 - Порт-оф-Спейн/12_20181012_082922.jpg",
       "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_174629.jpg",
+      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181012_082922.jpg",
       "match_score": null,
-      "bytes": 2798394,
-      "sha256": "03a7ff91ed60d16eabc33f302d8bb60a12d812961b1c239f33bb8603bc47b515",
-      "drive_id": "1g4nAxxDB1O7HudSlK0twCEdPRcz-GSmp"
+      "bytes": 2194679,
+      "sha256": "b16bbf2674b4d0ab90b17a6f27ee1b6ba452166cad1aef942c4c1dd655c0ba0d",
+      "drive_id": "1VcCZuZqGHGwOsUuPn3JZue5OT6vzudZ-"
     },
     {
       "chapter": "port-of-spain",
@@ -190,13 +190,13 @@
       "source_position": 13,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/13_20181011_180357.jpg",
+      "archive_name": "01 - Порт-оф-Спейн/13_20181012_082949.jpg",
       "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_180357.jpg",
+      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181012_082949.jpg",
       "match_score": null,
-      "bytes": 2241451,
-      "sha256": "3990b9745e65d29bc879c87cc1fbd35c27b32b9ef4a0650df69cc93ab6d74db8",
-      "drive_id": "1FINA_iFlflbJxseHn4o7nAUKUqD9x3KM"
+      "bytes": 2224056,
+      "sha256": "743808877cb50a5697795b46b98bac7fea0821f40c6a762a19a60e659109a8ba",
+      "drive_id": "1ny9MxbSBKFRvvXBzIbC0IbgfSz6_k74I"
     },
     {
       "chapter": "port-of-spain",
@@ -204,13 +204,13 @@
       "source_position": 14,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/14_20181011_180955.jpg",
+      "archive_name": "01 - Порт-оф-Спейн/14_20181012_150606.jpg",
       "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181011_180955.jpg",
+      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181012_150606.jpg",
       "match_score": null,
-      "bytes": 2197604,
-      "sha256": "266fc723a079dd511473139bbcd22463f6774e1e741d5099fd8cb30e0e4c9e19",
-      "drive_id": "1nCLVNhpnPNfJEVeBxk7UGRJLjX3Vrpge"
+      "bytes": 3277520,
+      "sha256": "1e6b6a16c13bb5889e8aa1e303abf89e377d8a0518676e82f16a8f5bfc6ee60b",
+      "drive_id": "1PBMg8nlAEUJOMtLQP7TN0EH5eJ-_LuiE"
     },
     {
       "chapter": "port-of-spain",
@@ -218,108 +218,28 @@
       "source_position": 15,
       "facebook_id": null,
       "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/15_20181012_082350.jpg",
-      "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181012_082350.jpg",
-      "match_score": null,
-      "bytes": 2950208,
-      "sha256": "538eddb343ce27a90af6a08eb34b7635ea454e2e52567a3b418723c2e37bd7cb",
-      "drive_id": "1R7wZ8qAVR4hzt2A31YeJGwqWJX5uP0Mf"
-    },
-    {
-      "chapter": "port-of-spain",
-      "position": 16,
-      "source_position": 16,
-      "facebook_id": null,
-      "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/16_20181012_082922.jpg",
-      "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181012_082922.jpg",
-      "match_score": null,
-      "bytes": 2194679,
-      "sha256": "b16bbf2674b4d0ab90b17a6f27ee1b6ba452166cad1aef942c4c1dd655c0ba0d",
-      "drive_id": "1CD-xDlM6kx2alH04ZNFnJQJmko_B3nSG"
-    },
-    {
-      "chapter": "port-of-spain",
-      "position": 17,
-      "source_position": 17,
-      "facebook_id": null,
-      "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/17_20181012_082949.jpg",
-      "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181012_082949.jpg",
-      "match_score": null,
-      "bytes": 2224056,
-      "sha256": "743808877cb50a5697795b46b98bac7fea0821f40c6a762a19a60e659109a8ba",
-      "drive_id": "1yoxEhzYGkqroL1Fu4JV2eGgYuCchV14L"
-    },
-    {
-      "chapter": "port-of-spain",
-      "position": 18,
-      "source_position": 18,
-      "facebook_id": null,
-      "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/18_20181012_150606.jpg",
-      "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181012_150606.jpg",
-      "match_score": null,
-      "bytes": 3277520,
-      "sha256": "1e6b6a16c13bb5889e8aa1e303abf89e377d8a0518676e82f16a8f5bfc6ee60b",
-      "drive_id": "1XqhaFP-lnGM3VVDZ3WNEEzC3LQlKgjOf"
-    },
-    {
-      "chapter": "port-of-spain",
-      "position": 19,
-      "source_position": 19,
-      "facebook_id": null,
-      "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/19_20181012_150619.jpg",
-      "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181012_150619.jpg",
-      "match_score": null,
-      "bytes": 3545984,
-      "sha256": "c2bb5dc929b0aa7b7958da0ce702cc25443573e1384fc3885cdb1aba6fe463f0",
-      "drive_id": "1rQ-Hadg5rkiJIXlFP63BB44RYlZ7GYUU"
-    },
-    {
-      "chapter": "port-of-spain",
-      "position": 20,
-      "source_position": 20,
-      "facebook_id": null,
-      "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/20_20181012_150820.jpg",
-      "kind": "original",
-      "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181012_150820.jpg",
-      "match_score": null,
-      "bytes": 3043664,
-      "sha256": "84916775cfc527e85d4cff52ec36a492212d6b1435cae2c4d983b75281523768",
-      "drive_id": "1d2P2jL8pcQpzwcZAth5MGRaY-cSJ-7OB"
-    },
-    {
-      "chapter": "port-of-spain",
-      "position": 21,
-      "source_position": 21,
-      "facebook_id": null,
-      "caption": "",
-      "archive_name": "01 - Порт-оф-Спейн/21_20181012_150829.jpg",
+      "archive_name": "01 - Порт-оф-Спейн/15_20181012_150829.jpg",
       "kind": "original",
       "original_relative_path": "2018/2018 Осень + декабрь/Тринидат и Тобаго/20181012_150829.jpg",
       "match_score": null,
       "bytes": 2631080,
       "sha256": "565ac943d26e2c5c187538a5fb6f3660aee6703f07fe13681f4f6930242a2da9",
-      "drive_id": "1tNzRdXaHb0cIVnD9flOSBwa4FrvRrxbQ"
+      "drive_id": "13qFiqgRiCjJ2KIUlWU2SDmAv5e8uHScG"
     }
   ],
   "videos": [],
   "skipped": [],
-  "other_files": [],
+  "other_files": [
+    "01 - Порт-оф-Спейн/22_20181011_174703.mp4",
+    "01 - Порт-оф-Спейн/13_20181012_150606.jpg",
+    "01 - Порт-оф-Спейн/14_20181012_150829.jpg"
+  ],
   "archive_verified": true,
   "drive_sync_verified": true,
-  "drive_sync_checked": "2026-10-21T22:28:16.472Z",
+  "drive_sync_checked": "2026-10-22T03:58:37.966Z",
   "drive_trip_folder_id": "1RQGZbPuZsmURb1Rnw9Ut1ePmhEFlspFh",
   "r2": {
-    "checked": "2026-10-21T22:29:53.726Z",
+    "checked": "2026-10-22T03:58:49.579Z",
     "base": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "copies": [
       {
@@ -333,23 +253,13 @@
         "verified": true
       },
       {
-        "key": "trinidad-tobago-2018/port-of-spain/20181011_160206.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/trinidad-tobago-2018/port-of-spain/20181011_160206.jpg",
-        "width": 2000,
-        "height": 972,
-        "bytes": 288438,
-        "sha256": "20cc0dd8f5eecae146bb5e3de93cb4b81c20fc48dc51e6d1e5296f6f1268564e",
-        "archive_name": "01 - Порт-оф-Спейн/02_20181011_160206.jpg",
-        "verified": true
-      },
-      {
         "key": "trinidad-tobago-2018/port-of-spain/20181011_160218.jpg",
         "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/trinidad-tobago-2018/port-of-spain/20181011_160218.jpg",
         "width": 2000,
         "height": 972,
         "bytes": 363537,
         "sha256": "1e1f1dee164d715d4a282c804c37a999a5be37ad862f94375b55be951e8519e2",
-        "archive_name": "01 - Порт-оф-Спейн/03_20181011_160218.jpg",
+        "archive_name": "01 - Порт-оф-Спейн/02_20181011_160218.jpg",
         "verified": true
       },
       {
@@ -359,7 +269,7 @@
         "height": 2000,
         "bytes": 286617,
         "sha256": "8f9ec0c83dd9caffe85f80241e0fe05f106d45b84335706d42ead078daa8e5e9",
-        "archive_name": "01 - Порт-оф-Спейн/04_20181011_160537.jpg",
+        "archive_name": "01 - Порт-оф-Спейн/03_20181011_160537.jpg",
         "verified": true
       },
       {
@@ -369,7 +279,7 @@
         "height": 2000,
         "bytes": 285609,
         "sha256": "9c58601494de2145baf4723b27a71936cff3bed32e8a2003d85870f0ff481716",
-        "archive_name": "01 - Порт-оф-Спейн/05_20181011_160606.jpg",
+        "archive_name": "01 - Порт-оф-Спейн/04_20181011_160606.jpg",
         "verified": true
       },
       {
@@ -379,7 +289,7 @@
         "height": 972,
         "bytes": 518014,
         "sha256": "4d832b1373072979d70c50e5eb6f328c1ede0efa3e1839d1febd69fc4846de8c",
-        "archive_name": "01 - Порт-оф-Спейн/06_20181011_173931.jpg",
+        "archive_name": "01 - Порт-оф-Спейн/05_20181011_173931.jpg",
         "verified": true
       },
       {
@@ -389,7 +299,7 @@
         "height": 2000,
         "bytes": 194482,
         "sha256": "3cec83c73531b4b23abaccd95d2af45dafb6c65590033c5831bafa3458796229",
-        "archive_name": "01 - Порт-оф-Спейн/07_20181011_174023.jpg",
+        "archive_name": "01 - Порт-оф-Спейн/06_20181011_174023.jpg",
         "verified": true
       },
       {
@@ -399,17 +309,7 @@
         "height": 972,
         "bytes": 244044,
         "sha256": "7fccab6c0143d05b4d417c163d9576c89dd2a66289211116437c6111793953d5",
-        "archive_name": "01 - Порт-оф-Спейн/08_20181011_174127.jpg",
-        "verified": true
-      },
-      {
-        "key": "trinidad-tobago-2018/port-of-spain/20181011_174531.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/trinidad-tobago-2018/port-of-spain/20181011_174531.jpg",
-        "width": 2000,
-        "height": 972,
-        "bytes": 250763,
-        "sha256": "91740c4b7080cde7bff2a8e9ee6f937b29b79d3b17185914183304a7972db660",
-        "archive_name": "01 - Порт-оф-Спейн/09_20181011_174531.jpg",
+        "archive_name": "01 - Порт-оф-Спейн/07_20181011_174127.jpg",
         "verified": true
       },
       {
@@ -419,7 +319,7 @@
         "height": 972,
         "bytes": 225325,
         "sha256": "cc863dffbb106e6947eec51908c6caadc559408a30a1c5a1ca608569a277624b",
-        "archive_name": "01 - Порт-оф-Спейн/10_20181011_174537.jpg",
+        "archive_name": "01 - Порт-оф-Спейн/08_20181011_174537.jpg",
         "verified": true
       },
       {
@@ -429,7 +329,7 @@
         "height": 972,
         "bytes": 439011,
         "sha256": "3057b500199a2dc2f0c9a07a82574b1adefcd7d34925b530a76e050e9270d3db",
-        "archive_name": "01 - Порт-оф-Спейн/11_20181011_174622.jpg",
+        "archive_name": "01 - Порт-оф-Спейн/09_20181011_174622.jpg",
         "verified": true
       },
       {
@@ -439,17 +339,7 @@
         "height": 2000,
         "bytes": 358041,
         "sha256": "cbd03d29aea603c4a75e5a7f6c993312eac4a8c046974a51dc6cfc6fb3dbebda",
-        "archive_name": "01 - Порт-оф-Спейн/12_20181011_174629.jpg",
-        "verified": true
-      },
-      {
-        "key": "trinidad-tobago-2018/port-of-spain/20181011_180357.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/trinidad-tobago-2018/port-of-spain/20181011_180357.jpg",
-        "width": 972,
-        "height": 2000,
-        "bytes": 179536,
-        "sha256": "75b0492616035741966756364b43cc4d22f1600b57aaada0b50442ce6a0f7447",
-        "archive_name": "01 - Порт-оф-Спейн/13_20181011_180357.jpg",
+        "archive_name": "01 - Порт-оф-Спейн/10_20181011_174629.jpg",
         "verified": true
       },
       {
@@ -459,17 +349,7 @@
         "height": 2000,
         "bytes": 166350,
         "sha256": "2bb5156b660f0fd876e18eb56bd64efba494f80d2e0167a195ed78241bb8bdb9",
-        "archive_name": "01 - Порт-оф-Спейн/14_20181011_180955.jpg",
-        "verified": true
-      },
-      {
-        "key": "trinidad-tobago-2018/port-of-spain/20181012_082350.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/trinidad-tobago-2018/port-of-spain/20181012_082350.jpg",
-        "width": 972,
-        "height": 2000,
-        "bytes": 199407,
-        "sha256": "5bafe07a39fafa19cec5579b8b0f8f1a91846fd2fe276251ff5534c82433f760",
-        "archive_name": "01 - Порт-оф-Спейн/15_20181012_082350.jpg",
+        "archive_name": "01 - Порт-оф-Спейн/11_20181011_180955.jpg",
         "verified": true
       },
       {
@@ -479,7 +359,7 @@
         "height": 2000,
         "bytes": 139395,
         "sha256": "8aba036925d50a74037d12a3538bdfbc732144581f34e5acb7740cbb19621e48",
-        "archive_name": "01 - Порт-оф-Спейн/16_20181012_082922.jpg",
+        "archive_name": "01 - Порт-оф-Спейн/12_20181012_082922.jpg",
         "verified": true
       },
       {
@@ -489,7 +369,7 @@
         "height": 2000,
         "bytes": 188892,
         "sha256": "98352abaa7e2a1bf7ae9d3e494043596773bfd4f4f36c291a9a6d43ebe3f8654",
-        "archive_name": "01 - Порт-оф-Спейн/17_20181012_082949.jpg",
+        "archive_name": "01 - Порт-оф-Спейн/13_20181012_082949.jpg",
         "verified": true
       },
       {
@@ -499,27 +379,7 @@
         "height": 2000,
         "bytes": 401917,
         "sha256": "60025b336e7143de2ce2eaf503d4ea4877143e88786a544ea887d738d7fa581b",
-        "archive_name": "01 - Порт-оф-Спейн/18_20181012_150606.jpg",
-        "verified": true
-      },
-      {
-        "key": "trinidad-tobago-2018/port-of-spain/20181012_150619.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/trinidad-tobago-2018/port-of-spain/20181012_150619.jpg",
-        "width": 972,
-        "height": 2000,
-        "bytes": 486981,
-        "sha256": "6e281695417c5b0e57a18f48dea9604dcd5715ff5d65d420bb3e52f6895596fe",
-        "archive_name": "01 - Порт-оф-Спейн/19_20181012_150619.jpg",
-        "verified": true
-      },
-      {
-        "key": "trinidad-tobago-2018/port-of-spain/20181012_150820.jpg",
-        "url": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/trinidad-tobago-2018/port-of-spain/20181012_150820.jpg",
-        "width": 972,
-        "height": 2000,
-        "bytes": 351459,
-        "sha256": "275c9fc4aa9c3f407eea58cabd5a5bb2e5ff81ed440100669416b390a15cace8",
-        "archive_name": "01 - Порт-оф-Спейн/20_20181012_150820.jpg",
+        "archive_name": "01 - Порт-оф-Спейн/14_20181012_150606.jpg",
         "verified": true
       },
       {
@@ -529,7 +389,7 @@
         "height": 972,
         "bytes": 253683,
         "sha256": "51807620540ca3332b962215c910e4d6296e07e6968f8df4162a53750ad40c41",
-        "archive_name": "01 - Порт-оф-Спейн/21_20181012_150829.jpg",
+        "archive_name": "01 - Порт-оф-Спейн/15_20181012_150829.jpg",
         "verified": true
       }
     ]
