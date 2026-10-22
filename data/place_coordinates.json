@@ -4070,5 +4070,13 @@
     "country_code": "FR",
     "source": "https://www.openstreetmap.org/relation/78857",
     "query": "Saint-Paul-de-Vence"
+  },
+  "dublin": {
+    "lat": 53.3493795,
+    "lon": -6.2605593,
+    "name": "Dublin",
+    "country_code": "IE",
+    "source": "https://www.openstreetmap.org/relation/1109531",
+    "query": "Dublin, Ireland"
   }
 }
