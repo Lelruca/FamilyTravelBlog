@@ -4070,5 +4070,45 @@
     "country_code": "FR",
     "source": "https://www.openstreetmap.org/relation/78857",
     "query": "Saint-Paul-de-Vence"
+  },
+  "dublin": {
+    "lat": 53.3493795,
+    "lon": -6.2605593,
+    "name": "Dublin",
+    "country_code": "IE",
+    "source": "https://www.openstreetmap.org/relation/1109531",
+    "query": "Dublin, Ireland"
+  },
+  "poblet": {
+    "lat": 41.381231,
+    "lon": 1.0824256,
+    "name": "Reial Monestir de Santa Maria de Poblet",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/way/174179237",
+    "query": "Monestir de Poblet"
+  },
+  "montblanc": {
+    "lat": 41.3762309,
+    "lon": 1.1620703,
+    "name": "Montblanc",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/343945",
+    "query": "Montblanc, Tarragona"
+  },
+  "teruel": {
+    "lat": 40.3436719,
+    "lon": -1.1081939,
+    "name": "Teruel",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/344962",
+    "query": "Teruel city"
+  },
+  "albarracin": {
+    "lat": 40.4072825,
+    "lon": -1.4442792,
+    "name": "Albarracín",
+    "country_code": "ES",
+    "source": "https://www.openstreetmap.org/relation/345059",
+    "query": "Albarracín"
   }
 }
