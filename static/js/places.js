@@ -43,9 +43,9 @@
       const box=document.createElement('div');box.className='place-pop';
       const name=document.createElement('a');name.className='place-pop-name';name.href=row.href;name.textContent=title;
       box.append(name);
-      if (here) here.slice(0, 6).forEach(s => { const a=document.createElement('a');a.className='place-pop-sight';a.href=s.u;a.textContent=s.t;box.append(a); });
+      if (here) here.slice(0, 6).forEach(s => { const n=document.createElement('span');n.className='place-pop-sight';n.textContent=s.t;box.append(n); });
       if (here && here.length > 6) { const more=document.createElement('span');more.className='place-pop-more';more.textContent=`и ещё ${here.length - 6}`;box.append(more); }
-      const go=document.createElement('a');go.className='place-pop-go';go.href=here ? here[0].u.replace(/#.*/, '') : row.href;go.textContent='К заметкам →';
+      const go=document.createElement('a');go.className='place-pop-go';go.href=here ? here[0].u : row.href;go.textContent='К заметкам →';
       box.append(go);marker.bindPopup(box,{closeButton:true,autoPanPadding:[24,24]});
       clusters.addLayer(marker);
     });

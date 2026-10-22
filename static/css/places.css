@@ -24,7 +24,6 @@
 .place-pop{display:flex;flex-direction:column;gap:8px;min-width:160px}
 .place-pop-name{font:600 17px/1.3 Lora,Georgia,serif;color:#1e293b!important;text-decoration:none}
 .place-pop-sight{color:#1e293b!important;font-size:14px;line-height:1.3;text-decoration:none;margin-top:-4px}
-.place-pop-sight:hover{text-decoration:underline}
 .place-pop-more{color:#64748b;font-size:13px;margin-top:-4px}
 .place-pop-go{align-self:flex-start;background:#2a9d8f;color:#fff!important;border-radius:8px;padding:6px 12px;text-decoration:none;font-size:14px}
 
