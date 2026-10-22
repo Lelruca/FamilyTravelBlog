@@ -3782,5 +3782,13 @@
     "country_code": "NL",
     "source": "https://www.openstreetmap.org/node/2768974097",
     "query": "Arnhems Oorlogsmuseum"
+  },
+  "ottersum": {
+    "lat": 51.7025323,
+    "lon": 5.9824022,
+    "name": "Ottersum",
+    "country_code": "NL",
+    "source": "https://www.openstreetmap.org/relation/1419670",
+    "query": "Ottersum"
   }
 }
