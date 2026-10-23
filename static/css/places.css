@@ -9,20 +9,24 @@
 #place-explorer :focus-visible,#place-city :focus-visible{outline:2px solid #2a9d8f;outline-offset:2px}.place-results-line{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 14px;margin-bottom:12px}#place-results{margin:0}
 #place-reset{background:none;border:0;padding:6px 0;color:#2a9d8f;font:inherit;font-size:14px;text-decoration:underline;cursor:pointer}
 
-/* the list: compact rows, the country heading stays on top while scrolling and opens the jump list */
-#places-list section{margin-bottom:10px;scroll-margin-top:60px}
-#places-list h2,#sights-found h2{position:sticky;top:60px;z-index:2;margin:0;background:#f3f6f5;border-top:1px solid #e2e8f0}
-.place-country-jump,#sights-found h2{display:block;width:100%;text-align:left;padding:7px 12px 5px;font:600 12px/1.4 Inter,system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:#64748b;background:none;border:0;cursor:pointer}
-#sights-found h2{background:#f3f6f5;cursor:default}
-.place-country-jump span{font-size:10px;margin-left:2px}
-.place-row{display:flex;align-items:baseline;gap:8px;padding:5px 12px;color:#1e293b;text-decoration:none;font-size:15px;line-height:1.35;border-radius:6px}
+/* the list: compact rows under each country; the heading of an open country stays on top while scrolling;
+   a tap on it folds the country, «Свернуть все страны» leaves just their names */
+/* folded, the list reads as a table of countries; the open country gets a grey heading that stays on top */
+#places-list section{scroll-margin-top:60px;border-bottom:1px solid #e2e8f0}
+#places-list section:not(.folded){padding-bottom:8px}
+#places-list section.folded .place-row{display:none}
+#places-list h2{margin:0}
+#places-list section:not(.folded) h2{position:sticky;top:60px;z-index:2;background:#f3f6f5}
+.place-country-toggle{display:flex;justify-content:space-between;align-items:center;gap:8px;width:100%;text-align:left;padding:11px 12px;font:500 17px/1.3 Inter,system-ui,sans-serif;color:#1e293b;background:none;border:0;cursor:pointer}
+.place-country-toggle .place-arrow{flex-shrink:0;color:#64748b;transition:transform 200ms}
+#places-list section:not(.folded) .place-arrow{transform:rotate(180deg)}
+#sights-found h2{position:sticky;top:60px;z-index:2;margin:0;padding:8px 12px 6px;background:#f3f6f5;font:600 12px/1.4 Inter,system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:#64748b}
+#sights-found .place-row{padding-left:12px}
+.place-row{display:flex;align-items:baseline;gap:8px;padding:5px 12px 5px 24px;color:#1e293b;text-decoration:none;font-size:15px;line-height:1.35;border-radius:6px}
 .place-orig{color:#94a3b8;font-size:13px}
 #sights-found{margin-top:14px}
-#place-jump{padding:8px 0;border:1px solid #e2e8f0;border-radius:12px;width:min(360px,calc(100% - 32px));max-height:80dvh;overflow:auto}
-#place-jump::backdrop{background:rgb(15 23 42 / .3)}
-.place-jump-head{margin:0;padding:8px 20px;font:600 12px Inter,system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:#64748b}
-#place-jump button{display:block;width:100%;text-align:left;padding:9px 20px;font-size:16px;background:none;border:0;color:#1e293b;cursor:pointer}
-@media(hover:hover){.place-row:hover,#place-jump button:hover{background:#f1f5f4}.place-row:hover .place-title{color:#2a9d8f}}
+@media(hover:hover){.place-row:hover,.place-country-toggle:hover{background:#f1f5f4}.place-row:hover .place-title,.place-country-toggle:hover{color:#2a9d8f}}
+@media(prefers-reduced-motion:reduce){.place-country-toggle .place-arrow{transition:none}}
 
 /* the map: a point opens a small window with the name and «К заметкам →» */
 #place-map{height:520px;max-height:65dvh;border-radius:8px;background:#e2e8f0;z-index:0}#place-map-status{margin:10px 0}#place-map-reset{margin-bottom:20px;font-size:14px}.place-pin{background:none;border:0}.place-pin span{display:block;width:18px;height:18px;margin:5px;background:#2a9d8f;border:3px solid white;border-radius:50%;box-shadow:0 1px 5px #475569}.place-cluster{background:#2a9d8f;border:3px solid #d9efeb;border-radius:50%;color:white;text-align:center;font:600 14px/34px sans-serif}.leaflet-tooltip{color:#1e293b}
@@ -52,5 +56,5 @@
 .city-sight:target{background:#f1f8f6;border-radius:8px;padding-left:10px;padding-right:10px}
 .city-back{display:inline-block;margin-top:28px;font-size:14px;color:#2a9d8f;text-decoration:underline}
 @media(hover:hover){.city-ch:hover{border-left-color:#2a9d8f}.city-ch:hover .city-ch-title{color:#2a9d8f}.city-years a:hover{background:#2a9d8f;border-color:#2a9d8f;color:#fff}}
-@media(max-width:640px){#places-list h2,#sights-found h2,.city-tabs{top:56px}#place-map{height:420px}.city-head h1{font-size:30px}.city-tabs button{padding:8px 13px;font-size:14px}}
+@media(max-width:640px){#places-list section:not(.folded) h2,#sights-found h2,.city-tabs{top:56px}#place-map{height:420px}.city-head h1{font-size:30px}.city-tabs button{padding:8px 13px;font-size:14px}}
 @media(pointer:coarse){.city-years{gap:8px}.city-years a{padding:8px 14px}}

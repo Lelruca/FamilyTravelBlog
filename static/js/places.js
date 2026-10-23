@@ -4,7 +4,7 @@
   const input = root.querySelector('#place-search'), country = root.querySelector('#place-country');
   const rows = [...root.querySelectorAll('[data-place-item]')], groups = [...root.querySelectorAll('[data-place-group]')];
   const list = root.querySelector('#places-list'), panel = root.querySelector('#place-map-panel');
-  const status = root.querySelector('#place-map-status'), jump = root.querySelector('#place-jump');
+  const status = root.querySelector('#place-map-status');
   const sightsBox = root.querySelector('#sights-found'), sightsList = root.querySelector('#sights-list');
   let sights = []; try { sights = JSON.parse(root.querySelector('#sights-data').textContent) || []; } catch (e) {}
   let map, clusters, mode = 'list', sightsFound = [];
@@ -16,7 +16,14 @@
     && words.every(w => s.n.includes(w) || (words.length > 1 && s.cn.includes(w)));
   const visible = () => rows.filter(row => !row.hidden);
   const key = 'placeSearch';
-  const remember = () => { try { sessionStorage.setItem(key, JSON.stringify({ q: input.value, c: country.value, m: mode })); } catch (e) {} };
+  // the list is a table of countries: all folded, one open at a time; a search or a chosen country shows what it found
+  let openCountry = '';
+  const searching = () => !!(input.value.trim() || country.value);
+  function applyFolds() {
+    groups.forEach(g => { const shut = !searching() && g.dataset.country !== openCountry;
+      g.classList.toggle('folded', shut); g.querySelector('.place-country-toggle').setAttribute('aria-expanded', String(!shut)); });
+  }
+  const remember = () => { try { sessionStorage.setItem(key, JSON.stringify({ q: input.value, c: country.value, m: mode, o: openCountry })); } catch (e) {} };
 
   // map: a point opens a small window with the place's name and a way to its page
   function fit() { if (clusters?.getLayers().length) map.fitBounds(clusters.getBounds(), {padding:[30,30],maxZoom:12}); }
@@ -68,6 +75,7 @@
     root.querySelector('#places-empty').hidden = n !== 0 || found.length !== 0;
     reset.hidden = !words.length && !country.value;
     clearSearch.hidden = !input.value; clearCountry.hidden = !country.value;
+    applyFolds();
     if(mode==='map') renderMap();
     remember();
   }
@@ -88,21 +96,17 @@
   reset.addEventListener('click', () => { input.value = ''; country.value = ''; filter();
     if (!matchMedia('(pointer:coarse)').matches) input.focus({ preventScroll: true }); }); // no keyboard popping up on a phone
 
-  // the country headings stay on top while scrolling; tapping one opens the list of countries to jump to
-  root.querySelectorAll('.place-country-jump').forEach(b => b.addEventListener('click', () => jump.showModal()));
-  let target = null;
-  jump.addEventListener('click', e => {
-    const b = e.target.closest('[data-jump]');
-    target = b ? groups.find(x => x.dataset.country === b.dataset.jump) : null;
-    if (target && target.hidden) { country.value = ''; filter(); }
-    jump.close();
-  });
-  // scroll once the dialog has handed the focus back, or the browser scrolls back to the heading that opened it
-  jump.addEventListener('close', () => { const g = target; target = null; if (!g) return;
-    setTimeout(() => { g.querySelector('.place-country-jump').focus({ preventScroll: true }); g.scrollIntoView({ block: 'start' }); }, 30); });
+  // a tap on a country opens it and folds the one open before; a tap on the open country (its heading stays on top) folds it
+  root.querySelectorAll('.place-country-toggle').forEach(b => b.addEventListener('click', () => {
+    if (searching()) return;
+    const g = b.closest('[data-place-group]');
+    openCountry = openCountry === g.dataset.country ? '' : g.dataset.country; applyFolds(); remember();
+    // the country above may just have folded: keep the tapped heading where the eye is
+    if (g.getBoundingClientRect().top < 60) g.scrollIntoView({ block: 'start' });
+  }));
 
-  // coming back from a place page restores the search, the country and the view
-  try { const s = JSON.parse(sessionStorage.getItem(key) || '{}'); if (s.q) input.value = s.q; if (s.c) country.value = s.c; if (s.m === 'map') mode = 'map'; } catch (e) {}
+  // coming back from a place page restores the search, the country, the open country and the view
+  try { const s = JSON.parse(sessionStorage.getItem(key) || '{}'); if (s.q) input.value = s.q; if (s.c) country.value = s.c; if (s.m === 'map') mode = 'map'; if (s.o) openCountry = s.o; } catch (e) {}
   // «Города и достопримечательности →» from «По странам» arrives with ?country=Италия: open that country, no old search
   const wanted = new URLSearchParams(location.search).get('country');
   const option = wanted && [...country.options].find(o => o.value === wanted || o.value.startsWith(wanted + ' '));

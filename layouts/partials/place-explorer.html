@@ -50,7 +50,7 @@
   {{- range $entries }}
     {{- if ne .country ($state.Get "country") }}
       {{- if $state.Get "country" }}</section>{{ end }}
-      <section data-place-group data-country="{{ .country }}"><h2><button type="button" class="place-country-jump" aria-label="{{ .country }}: перейти к другой стране">{{ .country }} <span aria-hidden="true">▾</span></button></h2>
+      <section data-place-group data-country="{{ .country }}"><h2><button type="button" class="place-country-toggle" aria-expanded="false">{{ .country }}<svg class="place-arrow" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6" fill="none" stroke="currentColor" stroke-width="2"/></svg></button></h2>
       {{- $state.Set "country" .country -}}
     {{- end }}
     <a class="place-row" href="{{ .page.RelPermalink }}" data-place-item data-slug="{{ .slug }}" data-country="{{ .country }}" data-search="{{ .search }} {{ .slug }}"{{ with .geo }} data-lat="{{ .lat }}" data-lon="{{ .lon }}"{{ end }}><span class="place-title">{{ .title }}</span>{{ with .orig }}<span class="place-orig">{{ . }}</span>{{ end }}</a>
@@ -59,7 +59,6 @@
   </div>
   <section id="sights-found" hidden><h2>Достопримечательности</h2><div id="sights-list"></div></section>
   <p id="places-empty" hidden>Такого места пока нет в дневнике. Попробуйте другое название или выберите все страны.</p>
-  <dialog id="place-jump" aria-label="Перейти к стране"><p class="place-jump-head">К стране</p>{{ range sort (uniq $countries) }}<button type="button" data-jump="{{ . }}">{{ . }}</button>{{ end }}</dialog>
   <script type="application/json" id="sights-data">{{ $sights | jsonify | safeJS }}</script>
 </div>
 <script defer src="{{ "vendor/leaflet/leaflet.js" | relURL }}"></script>
