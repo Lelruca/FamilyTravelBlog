@@ -6022,9 +6022,15 @@
     "parent": "paris",
     "place": "notre-dame-paris",
     "types": [
+      "cathedral",
       "church"
     ],
     "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
       "церковь",
       "церкви",
       "церквей",
@@ -10515,6 +10521,464 @@
       "Капелльбрюкке",
       "Kapellbrücke",
       "Chapel Bridge"
+    ]
+  },
+  "paris--hotel-sainte-marie": {
+    "title": "Hôtel Sainte-Marie",
+    "parent": "paris",
+    "types": [
+      "hotel"
+    ],
+    "aliases": [
+      "Hotel Sainte-Marie"
+    ],
+    "search_terms": [
+      "отель",
+      "отели",
+      "гостиница",
+      "гостиницы",
+      "hotel",
+      "Hotel Sainte-Marie"
+    ]
+  },
+  "paris--fontaine-saint-michel": {
+    "title": "Фонтан Сен-Мишель",
+    "parent": "paris",
+    "types": [
+      "fountain",
+      "square"
+    ],
+    "aliases": [
+      "Fontaine Saint-Michel",
+      "Place Saint-Michel"
+    ],
+    "search_terms": [
+      "фонтан",
+      "фонтаны",
+      "фонтана",
+      "fountain",
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza",
+      "Fontaine Saint-Michel",
+      "Place Saint-Michel"
+    ]
+  },
+  "paris--arc-carrousel": {
+    "title": "Арка Каррузель",
+    "parent": "paris",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Arc de triomphe du Carrousel",
+      "Триумфальная арка Каррузель"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Arc de triomphe du Carrousel",
+      "Триумфальная арка Каррузель"
+    ]
+  },
+  "paris--joan-of-arc-pyramides": {
+    "title": "Памятник Жанне д’Арк на площади Пирамид",
+    "parent": "paris",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Jeanne d’Arc",
+      "Place des Pyramides"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Jeanne d’Arc",
+      "Place des Pyramides"
+    ]
+  },
+  "paris--pont-alexandre-iii": {
+    "title": "Мост Александра III",
+    "parent": "paris",
+    "types": [
+      "bridge"
+    ],
+    "aliases": [
+      "Pont Alexandre III"
+    ],
+    "search_terms": [
+      "мост",
+      "мосты",
+      "моста",
+      "мостов",
+      "bridge",
+      "Pont Alexandre III"
+    ]
+  },
+  "paris--square-rene-viviani": {
+    "title": "Сквер Рене-Вивиани и старейшее дерево Парижа",
+    "parent": "paris",
+    "types": [
+      "park"
+    ],
+    "aliases": [
+      "Square René-Viviani",
+      "Robinier du square René-Viviani"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "Square René-Viviani",
+      "Robinier du square René-Viviani"
+    ]
+  },
+  "paris--shakespeare-and-company": {
+    "title": "Книжный магазин Shakespeare and Company",
+    "parent": "paris",
+    "types": [
+      "bookshop"
+    ],
+    "aliases": [
+      "Shakespeare & Company"
+    ],
+    "search_terms": [
+      "книжный магазин",
+      "книжные магазины",
+      "книги",
+      "bookshop",
+      "bookstore",
+      "Shakespeare & Company"
+    ]
+  },
+  "paris--luxembourg-palace": {
+    "title": "Люксембургский дворец",
+    "parent": "paris",
+    "types": [
+      "palace",
+      "civic_building"
+    ],
+    "aliases": [
+      "Palais du Luxembourg",
+      "Сенат Франции"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "общественное здание",
+      "административное здание",
+      "civic building",
+      "Palais du Luxembourg",
+      "Сенат Франции"
+    ]
+  },
+  "paris--saint-sulpice": {
+    "title": "Церковь Сен-Сюльпис",
+    "parent": "paris",
+    "types": [
+      "church"
+    ],
+    "aliases": [
+      "Église Saint-Sulpice",
+      "Saint Sulpice"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "Église Saint-Sulpice",
+      "Saint Sulpice"
+    ]
+  },
+  "paris--fontaine-saint-sulpice": {
+    "title": "Фонтан Сен-Сюльпис",
+    "parent": "paris",
+    "types": [
+      "fountain"
+    ],
+    "aliases": [
+      "Fontaine Saint-Sulpice",
+      "Фонтан четырёх епископов"
+    ],
+    "search_terms": [
+      "фонтан",
+      "фонтаны",
+      "фонтана",
+      "fountain",
+      "Fontaine Saint-Sulpice",
+      "Фонтан четырёх епископов"
+    ]
+  },
+  "paris--fontaine-des-innocents": {
+    "title": "Фонтан Невинных",
+    "parent": "paris",
+    "types": [
+      "fountain"
+    ],
+    "aliases": [
+      "Fontaine des Innocents"
+    ],
+    "search_terms": [
+      "фонтан",
+      "фонтаны",
+      "фонтана",
+      "fountain",
+      "Fontaine des Innocents"
+    ]
+  },
+  "saint-malo--ramparts": {
+    "title": "Крепостные стены Сен-Мало",
+    "parent": "saint-malo",
+    "types": [
+      "historic_building",
+      "walking_route"
+    ],
+    "aliases": [
+      "Remparts de Saint-Malo"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "Remparts de Saint-Malo"
+    ]
+  },
+  "saint-malo--castle": {
+    "title": "Замок Сен-Мало",
+    "parent": "saint-malo",
+    "types": [
+      "castle"
+    ],
+    "aliases": [
+      "Château de Saint-Malo"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "Château de Saint-Malo"
+    ]
+  },
+  "saint-malo--bon-secours": {
+    "title": "Пляж Бон-Секур и морской бассейн",
+    "parent": "saint-malo",
+    "types": [
+      "beach"
+    ],
+    "aliases": [
+      "Plage de Bon-Secours",
+      "Piscine de Bon Secours"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach",
+      "Plage de Bon-Secours",
+      "Piscine de Bon Secours"
+    ]
+  },
+  "saint-malo--maison-du-quebec": {
+    "title": "Дом Квебека в Сен-Мало",
+    "parent": "saint-malo",
+    "types": [
+      "cultural_centre"
+    ],
+    "aliases": [
+      "Maison du Québec",
+      "Квебекская миссия"
+    ],
+    "search_terms": [
+      "культурный центр",
+      "культурные центры",
+      "culture centre",
+      "Maison du Québec",
+      "Квебекская миссия"
+    ]
+  },
+  "saumur--chateau-bouvet-ladubay": {
+    "title": "Шато-отель Bouvet-Ladubay",
+    "parent": "saumur",
+    "types": [
+      "hotel",
+      "historic_building"
+    ],
+    "aliases": [
+      "Château Bouvet-Ladubay"
+    ],
+    "search_terms": [
+      "отель",
+      "отели",
+      "гостиница",
+      "гостиницы",
+      "hotel",
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "Château Bouvet-Ladubay"
+    ]
+  },
+  "saumur--chateau-saumur": {
+    "title": "Замок Сомюра",
+    "parent": "saumur",
+    "types": [
+      "castle"
+    ],
+    "aliases": [
+      "Château de Saumur"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "Château de Saumur"
+    ]
+  },
+  "blois--chateau-blois": {
+    "title": "Замок Блуа",
+    "parent": "blois",
+    "types": [
+      "castle"
+    ],
+    "aliases": [
+      "Château royal de Blois"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "Château royal de Blois"
+    ]
+  },
+  "cellettes--chateau-la-rozelle": {
+    "title": "Шато-отель La Rozelle",
+    "parent": "cellettes",
+    "types": [
+      "hotel",
+      "historic_building"
+    ],
+    "aliases": [
+      "Château de La Rozelle"
+    ],
+    "search_terms": [
+      "отель",
+      "отели",
+      "гостиница",
+      "гостиницы",
+      "hotel",
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "Château de La Rozelle"
+    ]
+  },
+  "villandry--chateau-villandry": {
+    "title": "Замок Вилландри и сады",
+    "parent": "villandry",
+    "types": [
+      "castle",
+      "park"
+    ],
+    "aliases": [
+      "Château de Villandry"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "Château de Villandry"
+    ]
+  },
+  "fontainebleau--chateau-fontainebleau": {
+    "title": "Дворец Фонтенбло",
+    "parent": "fontainebleau",
+    "types": [
+      "palace",
+      "museum"
+    ],
+    "aliases": [
+      "Château de Fontainebleau"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "Château de Fontainebleau"
     ]
   }
 }

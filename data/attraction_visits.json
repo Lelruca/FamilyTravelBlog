@@ -56,6 +56,557 @@
         }
       ]
     },
+    "content/europe/france/france-2012/planning/index.md": {
+      "source_review": "read",
+      "visits": []
+    },
+    "content/europe/france/france-2012/paris-1/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "paris--hotel-sainte-marie",
+          "event": "stayed",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "Hôtel Sainte-Marie"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Имя прямо приведено автором; проживание не смешивается с осмотром достопримечательностей."
+        },
+        {
+          "id": "paris--fontaine-saint-michel",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 8,
+              "quote": "на площади св. Михаила у фонтана"
+            },
+            {
+              "photo": "paris-1/IMG_0837.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json"
+        },
+        {
+          "id": "notre-dame-paris",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 16,
+              "quote": "от Нотр-Дама до Эйфелевой башни"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "В первой главе наружный осмотр; вход внутрь прямо подтверждён только на следующий день."
+        },
+        {
+          "id": "eiffel-tower",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 16,
+              "quote": "до Эйфелевой башни"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Подъём на башню не описан."
+        },
+        {
+          "id": "louvre",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "paris-1/IMG_0877.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Внешний осмотр в этот день; вход в музей подтверждён следующей главой."
+        },
+        {
+          "id": "paris--arc-carrousel",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "paris-1/IMG_0883.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Самостоятельный внешний объект на маршруте, не Триумфальная арка на площади Звезды."
+        },
+        {
+          "id": "paris--joan-of-arc-pyramides",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "paris-1/IMG_0894.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Позолоченная конная статуя и окружение сопоставлены с парижским памятником."
+        },
+        {
+          "id": "paris--sad-tyuilri",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "paris-1/IMG_0918.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Панорамы, прогулка и скульптуры парка. Скульптуры и фонтаны внутри учитываются в составе сада."
+        },
+        {
+          "id": "place-concorde",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "paris-1/IMG_0932.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "На фото Луксорский обелиск и площадь; это не посещение Египта."
+        },
+        {
+          "id": "paris--pont-alexandre-iii",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "paris-1/IMG_0937.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Мост и позолоченные фигуры на пилонах."
+        },
+        {
+          "id": "invalides",
+          "event": "courtyard_and_exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "paris-1/IMG_0949.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Вошли во двор, сняты фасады. Вход в Музей армии и гробницу Наполеона в этой главе не подтверждён."
+        },
+        {
+          "id": "musee-orsay",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 44,
+              "quote": "с удовольствием побродили по залам"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Вечерний вход и аудиогид прямо описаны, хотя автор не фотографировала внутри."
+        }
+      ]
+    },
+    "content/europe/france/france-2012/paris-2/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "louvre",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 60,
+              "quote": "коллекцию итальянской живописи"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Залы греческих скульптур и итальянской живописи, Джоконда и другие произведения покрыты музеем. Отсутствие фотографий внутри объяснено автором."
+        },
+        {
+          "id": "paris--latinskiy-kvartal",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 69,
+              "quote": "латинскому кварталу"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json"
+        },
+        {
+          "id": "notre-dame-paris",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 69,
+              "quote": "в этот раз мы туда зашли"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Интерьер, витражи, придел и икона подтверждены текстом и снимками."
+        },
+        {
+          "id": "paris--square-rene-viviani",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 84,
+              "quote": "самое старое дерево в Париже"
+            },
+            {
+              "photo": "paris-2/IMG_1061.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Дерево на снимке с опорами сопоставлено с городской записью о робинии 1601 года. Один объект сквера с деревом."
+        },
+        {
+          "id": "paris--shakespeare-and-company",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "paris-2/IMG_1063.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Есть собственные кадры внутри и снаружи с читаемой вывеской IMG_1064.jpg."
+        },
+        {
+          "id": "musee-cluny",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "paris-2/IMG_1073.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Внешний осмотр средневекового Hôtel de Cluny. Вход в музейную экспозицию не утверждается."
+        },
+        {
+          "id": "pantheon-paris",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "paris-2/IMG_1078.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Фото фасада; внутреннее посещение не описано."
+        },
+        {
+          "id": "paris--luxembourg-palace",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 94,
+              "quote": "подошли к Люксембурскому дворцу"
+            },
+            {
+              "photo": "paris-2/IMG_1084.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Внешний вид из сада, без экскурсии по внутренним залам."
+        },
+        {
+          "id": "luxembourg-gardens",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 94,
+              "quote": "вернее его сад"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Скульптуры и фонтан Медичи на IMG_1085.jpg учтены в составе сада; отдельные входы в учреждения не выводятся из садовых фото."
+        },
+        {
+          "id": "paris--saint-sulpice",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "paris-2/IMG_1106.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Семейный портрет у фасада; вход внутрь не подтверждён."
+        },
+        {
+          "id": "paris--fontaine-saint-sulpice",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "paris-2/IMG_1098.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Фонтан на площади перед церковью."
+        },
+        {
+          "id": "paris--fontaine-des-innocents",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 110,
+              "quote": "а там огромный фонтан"
+            },
+            {
+              "photo": "paris-2/IMG_1111.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Фонтан на IMG_1111.jpg сопоставлен с городским памятником. Авторское описание двора не переписывалось."
+        }
+      ]
+    },
+    "content/europe/france/france-2012/le-pin-d-day/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "d-day-beaches--tsentr-dzhuno-bich",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 132,
+              "quote": "провел в немецкий бункер"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "В музее тоже были: хроника, залы и выводы автора; бункер и пляж — части экскурсии центра, не несколько выдуманных музеев."
+        }
+      ]
+    },
+    "content/europe/france/france-2012/mont-saint-michel/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "mont-saint-michel--abbatstvo-mon-sen-mishel",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 171,
+              "quote": "В Аббатстве мы опять взяли каждому аудиогид"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Церковь, монастырские залы, галереи и экспонаты покрыты одним комплексом; вход подтверждён описанием и фото."
+        },
+        {
+          "id": "saint-malo--ramparts",
+          "event": "walked",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 216,
+              "quote": "обойти весь этот старый город по периметру"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json"
+        },
+        {
+          "id": "saint-malo--castle",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "mont-saint-michel/IMG_1342.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Внешний осмотр с городского маршрута; музей внутри не считается посещённым."
+        },
+        {
+          "id": "saint-malo--bon-secours",
+          "event": "shore_walk_and_pool_view",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 216,
+              "quote": "увидели необычный бассейн"
+            },
+            {
+              "photo": "mont-saint-michel/IMG_1376.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Официальная туристическая запись сопоставлена с IMG_1376.jpg. В море походили ногами, но купальники не взяли и плавание в бассейне не приписывается."
+        },
+        {
+          "id": "saint-malo--maison-du-quebec",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 233,
+              "quote": "Зашли, оказалась квебекская миссия"
+            },
+            {
+              "photo": "mont-saint-michel/IMG_1382.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Собственный снимок входа и вывески; название подтверждено официальным туристическим справочником."
+        },
+        {
+          "id": "saint-malo--sobor-sen-malo",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 237,
+              "quote": "пошли в центральный собор"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Могила внутри относится к этому собору, не отдельная городская точка."
+        }
+      ]
+    },
+    "content/europe/france/france-2012/puy-du-fou/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "saumur--chateau-bouvet-ladubay",
+          "event": "stayed",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 278,
+              "quote": "Château Bouvet-Ladubay"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Проживание и сад подтверждены рассказом и собственными снимками; не означает экскурсию в винные погреба одноимённого производителя."
+        },
+        {
+          "id": "saumur--chateau-saumur",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "puy-du-fou/IMG_1477.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Внешний вид с городской прогулки. Фраза о том, что замок не выбран для экскурсии, не отменяет внешнего осмотра на фото."
+        }
+      ]
+    },
+    "content/europe/france/france-2012/cadre-noir-loire/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "saumur--chateau-bouvet-ladubay",
+          "event": "stayed",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 300,
+              "quote": "Бруно нас заранее спросил"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Продолжение проживания, подтверждённого предыдущей главой."
+        },
+        {
+          "id": "cadre-noir",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 304,
+              "quote": "видели как кадеты тренируются"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Реальная экскурсия; репетицию тоже видели по абзацу 314. Три иллюстрации трюков заимствованы и не считаются собственными фото спектакля."
+        },
+        {
+          "id": "villandry--chateau-villandry",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 326,
+              "quote": "мы прошли по нему с наушниками"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Внутреннее посещение подтверждено прямо, несмотря на невысокую авторскую оценку."
+        },
+        {
+          "id": "blois--chateau-blois",
+          "event": "exterior_driveby",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 365,
+              "quote": "замок мы даже объехали"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Внешний осмотр с машины; экскурсия внутрь не утверждается."
+        },
+        {
+          "id": "cellettes--chateau-la-rozelle",
+          "event": "stayed",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 357,
+              "quote": "Château de La Rozelle"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Находится в Селетте, а не в самом Блуа; география сверена по официальному адресу отеля."
+        }
+      ]
+    },
+    "content/europe/france/france-2012/chambord-fontainebleau/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "fontainebleau--chateau-fontainebleau",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 399,
+              "quote": "очень хороший аудио тур"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Внутренние залы, аудиогид и собственные фото; не только внешний вид дворца."
+        }
+      ]
+    },
+    "content/europe/france/france-2012/conclusion/index.md": {
+      "source_review": "read",
+      "visits": []
+    },
     "content/europe/germany/germany-2011/overview/index.md": {
       "source_review": "read",
       "visits": [

@@ -11,8 +11,9 @@ places:
   - villandry
   - chenonceau
   - blois
+  - cellettes
 hero_image: "IMG_1565.jpg"
-attractions: ["cadre-noir"]
+attractions: ["cadre-noir","saumur--chateau-bouvet-ladubay","villandry--chateau-villandry","blois--chateau-blois","cellettes--chateau-la-rozelle"]
 ---
 
 {{< beside "IMG_1530.jpg" >}}

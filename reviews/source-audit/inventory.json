@@ -3121,11 +3121,11 @@
       "trip_path": "content/europe/france/france-2012",
       "title": "\"День 6 - Cadre Noir, Замки Луары\"",
       "draft": false,
-      "source_sha256_lf": "da4ac4885de1c33e0a35a05bc533c2178fae5e3c010f68cbbccd600fd0a9558c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "4e073044af6e8954020063af0e94167ed91417315392909a06e11eba2d13cd09",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
       "file": "content/europe/france/france-2012/chambord-fontainebleau/index.md",
@@ -3133,11 +3133,11 @@
       "trip_path": "content/europe/france/france-2012",
       "title": "\"День 7 - Chambord, Фонтембло\"",
       "draft": false,
-      "source_sha256_lf": "c1ea46c8797d2b81ac5d4016566638ca251479a3011298a6a5cc7c081644c7c0",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "cae5b438cdc3fc885f70ac16e51ea25d3306aa214ac7cc416a8370f68b2f79df",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
       "file": "content/europe/france/france-2012/conclusion/index.md",
@@ -3146,10 +3146,10 @@
       "title": "\"Заключение\"",
       "draft": false,
       "source_sha256_lf": "e46f97246c2134ea10aefb3e74082c7ea093b946ac1e47952e91fef45e0f86bd",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
       "file": "content/europe/france/france-2012/le-pin-d-day/index.md",
@@ -3158,10 +3158,10 @@
       "title": "\"День 3 - Le Pin National Stud, D day beaches\"",
       "draft": false,
       "source_sha256_lf": "0d37da72bdec71a07c46fe962b1e2d1acb997a6d4c35309d18511cea8ee4f1d1",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
       "file": "content/europe/france/france-2012/mont-saint-michel/index.md",
@@ -3169,11 +3169,11 @@
       "trip_path": "content/europe/france/france-2012",
       "title": "\"День 4 - Аббатство Мон-Сен-Мишель\"",
       "draft": false,
-      "source_sha256_lf": "b3d0cc4b0b0a6032b0451c372d19fbd03be2e7999da94d2543805554f93328f6",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "2df66e7543c7ccc06e451dfe0edc7c51d132dad5735a138c64000e165ea52b2e",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
       "file": "content/europe/france/france-2012/paris-1/index.md",
@@ -3181,11 +3181,11 @@
       "trip_path": "content/europe/france/france-2012",
       "title": "\"Но теперь по порядку... День 1 – Париж\"",
       "draft": false,
-      "source_sha256_lf": "52051933198b540768fb656301b76e20ad0bfa818b5be1cfd3c4e23fee86b6ec",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "4969e3fc1a44c9ce583fc77898ef8b0c772b54d34742b233ae1951f975067d4c",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
       "file": "content/europe/france/france-2012/paris-2/index.md",
@@ -3193,11 +3193,11 @@
       "trip_path": "content/europe/france/france-2012",
       "title": "\"День 2 - Париж\"",
       "draft": false,
-      "source_sha256_lf": "9ec15279c46f5faeeb3866383e796bf8bded2bc46561bad65ccbeba756b63fba",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "659c776fd6c0aba47c7ea6c6af79dc5d28ff8f54f48ab6bf7782596111fdd5e5",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
       "file": "content/europe/france/france-2012/planning/index.md",
@@ -3206,10 +3206,10 @@
       "title": "\"Европа 2012 - планирование\"",
       "draft": false,
       "source_sha256_lf": "3da2265dfb0f6eef97778e37fe405c9e5569f83c09aa34ced666d8597677aa5b",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
       "file": "content/europe/france/france-2012/puy-du-fou/index.md",
@@ -3217,11 +3217,11 @@
       "trip_path": "content/europe/france/france-2012",
       "title": "\"День 5 - Puy du Fou\"",
       "draft": false,
-      "source_sha256_lf": "d071c90e96509257fe1afba630d6d11010ced253e8c8e19626d9f801b9d70ba9",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "dd0d82a6f48e4c8331102c514d44d88626546b937bb6f9ade28b2e95d2c1c64f",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/barcelona-christmas-markets/index.md",

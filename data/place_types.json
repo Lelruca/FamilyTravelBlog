@@ -2076,9 +2076,15 @@
   },
   "notre-dame-paris": {
     "types": [
+      "cathedral",
       "church"
     ],
     "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
       "церковь",
       "церкви",
       "церквей",
@@ -3813,6 +3819,87 @@
     ],
     "classification_sources": [
       "content/places/rhine-falls/_index.md"
+    ]
+  },
+  "le-pin-au-haras": {
+    "types": [
+      "equestrian_centre"
+    ],
+    "search_terms": [
+      "верховая езда",
+      "конная школа",
+      "лошади",
+      "equestrian"
+    ],
+    "classification_sources": [
+      "content/places/le-pin-au-haras/_index.md"
+    ]
+  },
+  "puy-du-fou": {
+    "types": [
+      "amusement_park"
+    ],
+    "search_terms": [
+      "парк развлечений",
+      "парки развлечений",
+      "аттракционы",
+      "amusement park",
+      "theme park"
+    ],
+    "classification_sources": [
+      "content/places/puy-du-fou/_index.md"
+    ]
+  },
+  "chenonceau": {
+    "types": [
+      "castle",
+      "museum"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "content/places/chenonceau/_index.md"
+    ]
+  },
+  "chambord": {
+    "types": [
+      "castle",
+      "museum"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "content/places/chambord/_index.md"
     ]
   }
 }

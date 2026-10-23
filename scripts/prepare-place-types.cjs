@@ -20,7 +20,11 @@ const standaloneTypes={
  'haut-koenigsbourg':['castle'],
  'hohenschwangau':['castle'],
  'neuschwanstein':['castle'],
- 'rhine-falls':['waterfall']
+ 'rhine-falls':['waterfall'],
+ 'le-pin-au-haras':['equestrian_centre'],
+ 'puy-du-fou':['amusement_park'],
+ 'chenonceau':['castle','museum'],
+ 'chambord':['castle','museum']
 };
 for(const [slug,types] of Object.entries(standaloneTypes)){
  const p=result[slug] ||= {types:[],search_terms:[],classification_sources:[]};
