@@ -10305,5 +10305,25 @@
       "beach",
       "Virginia Beach Oceanfront"
     ]
+  },
+  "zaandam--peter-house": {
+    "title": "Домик Петра I",
+    "parent": "zaandam",
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "aliases": [
+      "Домик Петра",
+      "Czaar Peterhuisje",
+      "Tsar Peter House"
+    ]
   }
 }
