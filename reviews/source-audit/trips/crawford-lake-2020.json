@@ -1,0 +1,100 @@
+{
+  "trip_path": "content/americas/canada/crawford-lake-2020",
+  "status": "complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "kind": "facebook_profile_json",
+    "record_index": 171,
+    "timestamp": 1605975217,
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "read": "Исходный пост Facebook прочитан полностью, включая все абзацы и хэштег; глава сайта также прочитана целиком. Служебные поля личного архива не публикуются. Авторский текст не менялся. Проверены все десять вложений: содержательных авторских подписей к ним нет."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 10,
+    "manifest": "media-manifests/crawford-lake-2020.json",
+    "method": "Все 10 текущих архивных изображений сверены по SHA-256 и просмотрены на контактных листах. Фотографии рассматриваются как самостоятельные источники сведений; панорама не означает вход во все видимые здания."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/canada/crawford-lake-2020/crawford-lake/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Парк Crawford Lake",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "погуляли в своем любимом парке Crawford Lake"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "crawford-lake"
+          },
+          "reason": "Один природный и исторический комплекс."
+        },
+        {
+          "label": "Озеро и деревянная тропа",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "полностью деревянная тропа вокруг озера"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "crawford-lake"
+          },
+          "reason": "Реальная прогулка вокруг озера, подтверждённая видами воды и настила."
+        },
+        {
+          "label": "Реконструированная деревня коренных жителей",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "деревня индейцев"
+            },
+            {
+              "photo": "crawford-lake/facebook_169641158135514.jpg"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "crawford-lake"
+          },
+          "reason": "На архивном снимке длинный дом снаружи. Вход внутрь и участие в программе не утверждаются. Археологический участок и воссозданные дома — части парка, не отдельные новые точки."
+        },
+        {
+          "label": "Деревянные скульптуры вдоль маршрута",
+          "event": "seen_on_trail",
+          "evidence": [
+            {
+              "photo": "crawford-lake/20201120_160032.jpg"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "crawford-lake"
+          },
+          "reason": "Части лесной тропы парка, не отдельные музеи или поездки."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "complete",
+    "questions": [],
+    "repeat_check": "Полный авторский текст, подписи и все архивные изображения повторно сопоставлены с перечнем и данными; прежние метки не использованы как доказательство полноты.",
+    "external_sources": [
+      {
+        "url": "https://www.conservationhalton.ca/parks/crawford-lake/",
+        "purpose": "Парк, меромиктическое озеро, археологический участок, реконструированные длинные дома и деревянная тропа."
+      }
+    ],
+    "new_attractions": []
+  }
+}

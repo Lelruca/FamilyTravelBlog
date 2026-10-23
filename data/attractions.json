@@ -11203,5 +11203,268 @@
       "memorial",
       "Sir Robert Borden Monument"
     ]
+  },
+  "vancouver--gastown-steam-clock": {
+    "title": "Паровые часы Гастауна",
+    "parent": "vancouver",
+    "types": [
+      "clock",
+      "monument"
+    ],
+    "aliases": [
+      "Gastown Steam Clock"
+    ],
+    "search_terms": [
+      "часы",
+      "куранты",
+      "астрономические часы",
+      "clock",
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Gastown Steam Clock"
+    ]
+  },
+  "vancouver--seawall": {
+    "title": "Набережная Ванкувера",
+    "parent": "vancouver",
+    "types": [
+      "walking_route"
+    ],
+    "aliases": [
+      "Vancouver Seawall",
+      "Seawall"
+    ],
+    "search_terms": [
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "Vancouver Seawall",
+      "Seawall"
+    ]
+  },
+  "vancouver--canada-place": {
+    "title": "Canada Place",
+    "parent": "vancouver",
+    "types": [
+      "cultural_centre",
+      "harbour"
+    ],
+    "aliases": [
+      "Канада-Плейс"
+    ],
+    "search_terms": [
+      "культурный центр",
+      "культурные центры",
+      "culture centre",
+      "Канада-Плейс",
+      "гавань",
+      "гавани",
+      "порт",
+      "порты",
+      "марина",
+      "harbour",
+      "harbor",
+      "marina"
+    ]
+  },
+  "vancouver--waterfront-station": {
+    "title": "Вокзал Waterfront Station",
+    "parent": "vancouver",
+    "types": [
+      "station",
+      "historic_building"
+    ],
+    "aliases": [
+      "Canadian Pacific Railway Station",
+      "Вокзал Уотерфронт"
+    ],
+    "search_terms": [
+      "вокзал",
+      "вокзалы",
+      "железнодорожная станция",
+      "station",
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "Canadian Pacific Railway Station",
+      "Вокзал Уотерфронт"
+    ]
+  },
+  "vancouver--angel-of-victory": {
+    "title": "Памятник «Ангел Победы»",
+    "parent": "vancouver",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Angel of Victory"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Angel of Victory"
+    ]
+  },
+  "vancouver--harbour-centre": {
+    "title": "Harbour Centre / Vancouver Lookout",
+    "parent": "vancouver",
+    "types": [
+      "tower",
+      "viewpoint"
+    ],
+    "aliases": [
+      "Харбор-центр",
+      "Ванкувер-Лукаут"
+    ],
+    "search_terms": [
+      "башня",
+      "башни",
+      "башен",
+      "tower",
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck",
+      "Харбор-центр",
+      "Ванкувер-Лукаут"
+    ]
+  },
+  "vancouver--sinclair-centre": {
+    "title": "Sinclair Centre",
+    "parent": "vancouver",
+    "types": [
+      "shopping_centre",
+      "historic_building"
+    ],
+    "aliases": [
+      "Синклер-центр"
+    ],
+    "search_terms": [
+      "торговый центр",
+      "торговые центры",
+      "магазины",
+      "shopping mall",
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "Синклер-центр"
+    ]
+  },
+  "vancouver--fairmont-hotel-vancouver": {
+    "title": "Fairmont Hotel Vancouver",
+    "parent": "vancouver",
+    "types": [
+      "hotel",
+      "historic_building"
+    ],
+    "aliases": [
+      "Отель Ванкувер"
+    ],
+    "search_terms": [
+      "отель",
+      "отели",
+      "гостиница",
+      "гостиницы",
+      "hotel",
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "Отель Ванкувер"
+    ]
+  },
+  "port-elgin--beaches": {
+    "title": "Пляжи Порт-Элгина на озере Гурон",
+    "parent": "port-elgin",
+    "types": [
+      "beach",
+      "lake"
+    ],
+    "aliases": [
+      "Port Elgin beaches",
+      "Lake Huron",
+      "Гурон"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach",
+      "озеро",
+      "озёра",
+      "озера",
+      "озёр",
+      "lake",
+      "Port Elgin beaches",
+      "Lake Huron",
+      "Гурон"
+    ]
+  },
+  "port-elgin--waterfront-promenade": {
+    "title": "Набережная Порт-Элгина",
+    "parent": "port-elgin",
+    "types": [
+      "walking_route"
+    ],
+    "aliases": [
+      "Port Elgin Waterfront Promenade"
+    ],
+    "search_terms": [
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "Port Elgin Waterfront Promenade"
+    ]
+  },
+  "port-elgin--harbour": {
+    "title": "Гавань Порт-Элгина",
+    "parent": "port-elgin",
+    "types": [
+      "harbour"
+    ],
+    "aliases": [
+      "Port Elgin Harbour"
+    ],
+    "search_terms": [
+      "гавань",
+      "гавани",
+      "порт",
+      "порты",
+      "марина",
+      "harbour",
+      "harbor",
+      "marina",
+      "Port Elgin Harbour"
+    ]
+  },
+  "vancouver--le-soleil-hotel": {
+    "title": "Le Soleil hotel",
+    "parent": "vancouver",
+    "types": [
+      "hotel"
+    ],
+    "aliases": [
+      "Executive Hotel Le Soleil"
+    ],
+    "search_terms": [
+      "отель",
+      "отели",
+      "гостиница",
+      "гостиницы",
+      "hotel",
+      "Le Soleil hotel",
+      "Executive Hotel Le Soleil"
+    ]
   }
 }

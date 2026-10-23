@@ -24,7 +24,8 @@ const standaloneTypes={
  'le-pin-au-haras':['equestrian_centre'],
  'puy-du-fou':['amusement_park'],
  'chenonceau':['castle','museum'],
- 'chambord':['castle','museum']
+ 'chambord':['castle','museum'],
+ 'crawford-lake':['park','lake','archaeological_site']
 };
 for(const [slug,types] of Object.entries(standaloneTypes)){
  const p=result[slug] ||= {types:[],search_terms:[],classification_sources:[]};

@@ -2,6 +2,10 @@
   "status": "partial",
   "default_for_unlisted_chapters": "not_audited",
   "chapters": {
+    "content/americas/canada/crawford-lake-2020/crawford-lake/index.md": {
+      "source_review": "read",
+      "visits": []
+    },
     "content/americas/usa/detroit-windsor-2016/story/index.md": {
       "source_review": "read",
       "visits": [
@@ -1510,6 +1514,55 @@
         }
       ]
     },
+    "content/americas/canada/port-elgin-2021/port-elgin/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "port-elgin--beaches",
+          "event": "visited_and_swimming",
+          "participants": [
+            "мама Лели",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "на озере Гурон"
+            },
+            {
+              "photo": "port-elgin/20210714_120442.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/port-elgin-2021.json",
+          "note": "Купание мамы и Мити подтверждено текстом и снимком. Точный участок пляжа не везде установлен, поэтому не подставляется произвольное название."
+        },
+        {
+          "id": "port-elgin--waterfront-promenade",
+          "event": "walked_and_cycled",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 1,
+              "quote": "многокилометровые променады"
+            }
+          ],
+          "report": "reviews/source-audit/trips/port-elgin-2021.json",
+          "note": "Пешие прогулки и велосипеды; полный маршрут до соседних городов не утверждается."
+        },
+        {
+          "id": "port-elgin--harbour",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "port-elgin/20210713_164848.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/port-elgin-2021.json",
+          "note": "Собственная фотография лодок и городской гавани, без утверждения прогулки на яхте."
+        }
+      ]
+    },
     "content/americas/canada/quebec-virginia-2013/canada-games/index.md": {
       "source_review": "read",
       "visits": [
@@ -1684,6 +1737,157 @@
     "content/americas/canada/quebec-virginia-2013/conclusion/index.md": {
       "source_review": "read",
       "visits": []
+    },
+    "content/americas/canada/vancouver-2023/vancouver/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "gastown",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "районе Gastown"
+            }
+          ],
+          "report": "reviews/source-audit/trips/vancouver-2023.json"
+        },
+        {
+          "id": "vancouver--gastown-steam-clock",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "vancouver/20230211_115647.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/vancouver-2023.json",
+          "note": "Семейный снимок непосредственно у часов."
+        },
+        {
+          "id": "stanley-park",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "Stanley Park"
+            }
+          ],
+          "report": "reviews/source-audit/trips/vancouver-2023.json",
+          "note": "Тотемы на семейных кадрах, лужайки и прибрежные маршруты учтены в составе парка."
+        },
+        {
+          "id": "vancouver--seawall",
+          "event": "walked",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "Очень красивая набережная"
+            }
+          ],
+          "report": "reviews/source-audit/trips/vancouver-2023.json",
+          "note": "Прогулка и собственные снимки у воды; полный обход всех 28 км не приписывается."
+        },
+        {
+          "id": "vancouver--canada-place",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "vancouver/20230210_192946.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/vancouver-2023.json",
+          "note": "Ночная прогулка у подсвеченных парусов и семейный портрет у читаемой вывески. Вход на аттракцион FlyOver не утверждается."
+        },
+        {
+          "id": "vancouver--waterfront-station",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "vancouver/20230211_114320.jpg"
+            },
+            {
+              "source_attachment_path": "attachments.0.data.12.media.description",
+              "quote": "Union Station"
+            }
+          ],
+          "report": "reviews/source-audit/trips/vancouver-2023.json",
+          "note": "Снят фасад исторического вокзала; сам факт пользования метро не устанавливает проход через этот вход. Автор сравнивает вокзал с Union Station в Торонто; это подпись-аналогия, не посещение торонтского вокзала."
+        },
+        {
+          "id": "vancouver--angel-of-victory",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "vancouver/20230211_114512.jpg"
+            },
+            {
+              "source_attachment_path": "attachments.0.data.13.media.description",
+              "quote": "Памятник железнодорожникам"
+            }
+          ],
+          "report": "reviews/source-audit/trips/vancouver-2023.json",
+          "note": "Изображение ангела с солдатом сопоставлено с городским реестром искусства."
+        },
+        {
+          "id": "vancouver--harbour-centre",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "vancouver/20230213_084516.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/vancouver-2023.json",
+          "note": "Смотровая башня видна с улицы; подъём наверх не утверждается."
+        },
+        {
+          "id": "vancouver--sinclair-centre",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "vancouver/20230211_114116.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/vancouver-2023.json",
+          "note": "Фасад и часовая башня; вход в торговую галерею этим снимком не доказан."
+        },
+        {
+          "id": "vancouver--fairmont-hotel-vancouver",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "vancouver/20230210_111920.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/vancouver-2023.json",
+          "note": "Узнаваемый фасад с зелёной крышей. Проживание в этом отеле не приписывается."
+        },
+        {
+          "id": "vancouver--le-soleil-hotel",
+          "event": "entered",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "vancouver/20230210_092426.jpg"
+            },
+            {
+              "source_attachment_path": "attachments.0.data.22.media.description",
+              "quote": "Le Soleil hotel"
+            }
+          ],
+          "report": "reviews/source-audit/trips/vancouver-2023.json",
+          "note": "Имя дано в исходной подписи к собственному снимку интерьера. Вход в вестибюль подтверждён; ночлег в этом отеле не утверждается."
+        }
+      ]
     }
   }
 }

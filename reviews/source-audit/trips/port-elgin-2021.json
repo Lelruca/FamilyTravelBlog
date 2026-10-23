@@ -1,0 +1,187 @@
+{
+  "trip_path": "content/americas/canada/port-elgin-2021",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "kind": "facebook_profile_json",
+    "record_index": 170,
+    "timestamp": 1626710507,
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "read": "Исходный пост Facebook прочитан полностью, включая все абзацы и хэштег; глава сайта также прочитана целиком. Служебные поля личного архива не публикуются. Авторский текст не менялся. Просмотрены подписи всех 13 вложений: единственная авторская подпись описывает домик, она уже присутствует на странице."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 13,
+    "manifest": "media-manifests/port-elgin-2021.json",
+    "method": "Все 13 текущих архивных изображений сверены по SHA-256 и просмотрены на контактных листах. Фотографии рассматриваются как самостоятельные источники сведений; панорама не означает вход во все видимые здания."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/canada/port-elgin-2021/port-elgin/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Порт-Элгин",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "мы ездим в городок Port Elgin"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "port-elgin"
+          },
+          "reason": "Текущий отдых — Леля, её мама и Митя. Упоминание летней традиции не создаёт дат для всех предыдущих лет."
+        },
+        {
+          "label": "Торонто",
+          "event": "distance_reference",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "250 км от Торонто"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Точка отсчёта расстояния, не экскурсия в Торонто."
+        },
+        {
+          "label": "Озеро Гурон и городские пляжи",
+          "event": "visited_and_swimming",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "на озере Гурон"
+            },
+            {
+              "photo": "port-elgin/20210714_120442.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "port-elgin--beaches"
+          },
+          "reason": "Купание мамы и Мити подтверждено текстом и снимком. Точный участок пляжа не везде установлен, поэтому не подставляется произвольное название.",
+          "participants": [
+            "мама Лели",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Набережная и береговой променад",
+          "event": "walked_and_cycled",
+          "evidence": [
+            {
+              "source_paragraph": 1,
+              "quote": "многокилометровые променады"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "port-elgin--waterfront-promenade"
+          },
+          "reason": "Пешие прогулки и велосипеды; полный маршрут до соседних городов не утверждается."
+        },
+        {
+          "label": "Гавань Порт-Элгина",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "port-elgin/20210713_164848.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "port-elgin--harbour"
+          },
+          "reason": "Собственная фотография лодок и городской гавани, без утверждения прогулки на яхте."
+        },
+        {
+          "label": "Cottage park с домиком",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "Домик небольшой, но"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Проживание и интерьер подтверждены; название комплекса не указано."
+        },
+        {
+          "label": "Кафе, рестораны, магазины и мороженое",
+          "event": "visited_and_takeaway",
+          "evidence": [
+            {
+              "source_paragraph": 3,
+              "quote": "в магазины и рестораны за доставкой"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Часть поручений выполнял Митя; конкретные заведения не названы."
+        },
+        {
+          "label": "Баскетбольная площадка",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 3,
+              "quote": "ходил играл в баскетбол сам"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Митя играл один; название площадки и адрес отсутствуют."
+        },
+        {
+          "label": "Полицейский участок Порт-Элгина",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "Митя пешком сходил в полицейский участок"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Посещение Мити за найденным велосипедом подтверждено. Конкретный адрес участка не указан; не отдельная экскурсия всей семьи."
+        },
+        {
+          "label": "Вечерние концерты на набережной",
+          "event": "general_description",
+          "evidence": [
+            {
+              "source_paragraph": 1,
+              "quote": "на которой вечером концерты"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Автор описывает достоинства городка; отдельное посещённое выступление в 2021 не названо."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_explicit_identification_questions",
+    "questions": [
+      "Не названы комплекс домиков, заведения, баскетбольная площадка и конкретный полицейский участок.",
+      "Не каждый береговой кадр позволяет установить точное название пляжа; сохранена обоснованная общая привязка к пляжам Порт-Элгина."
+    ],
+    "repeat_check": "Полный авторский текст, подписи и все архивные изображения повторно сопоставлены с перечнем и данными; прежние метки не использованы как доказательство полноты.",
+    "external_sources": [
+      {
+        "url": "https://www.saugeenshores.ca/recreation-facilities-and-culture/waterfront-and-beaches/",
+        "purpose": "Муниципальная информация о пляжах и променаде."
+      },
+      {
+        "url": "https://www.saugeenshores.ca/recreation-facilities-and-culture/harbour/",
+        "purpose": "Идентификация городской гавани."
+      }
+    ],
+    "new_attractions": [
+      "port-elgin--beaches",
+      "port-elgin--waterfront-promenade",
+      "port-elgin--harbour"
+    ]
+  }
+}

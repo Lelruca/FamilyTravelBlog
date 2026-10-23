@@ -14,7 +14,7 @@ readable_photos: true
 auto_gallery: false
 date: "2023-02-13"
 draft: false
-attractions: ["gastown","stanley-park"]
+attractions: ["gastown","stanley-park","vancouver--gastown-steam-clock","vancouver--seawall","vancouver--canada-place","vancouver--waterfront-station","vancouver--angel-of-victory","vancouver--harbour-centre","vancouver--sinclair-centre","vancouver--fairmont-hotel-vancouver","vancouver--le-soleil-hotel"]
 ---
 <p>Совершенно неожиданный «девичник трех поколений» в Ванкувер был более «деловой поездкой» (медицинский туризм). Но мы познакомились с самим городом.  Наташа была тут на соревнованиях и тоже ничего не видела.</p>
 

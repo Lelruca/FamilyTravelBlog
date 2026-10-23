@@ -1,0 +1,356 @@
+{
+  "trip_path": "content/americas/canada/vancouver-2023",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "kind": "facebook_profile_json",
+    "record_index": 128,
+    "timestamp": 1676317927,
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "read": "Исходный пост Facebook прочитан полностью, включая все абзацы и хэштег; глава сайта также прочитана целиком. Служебные поля личного архива не публикуются. Авторский текст не менялся. Прочитаны также все подписи и названия вложений; 7 непустых авторских подписей сохранены дословно в fb_caption архивного реестра."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 24,
+    "manifest": "media-manifests/vancouver-2023.json",
+    "method": "Все 24 текущих архивных изображений сверены по SHA-256 и просмотрены на контактных листах. Фотографии рассматриваются как самостоятельные источники сведений; панорама не означает вход во все видимые здания."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/canada/vancouver-2023/vancouver/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Ванкувер",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "мы познакомились с самим городом"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "vancouver"
+          },
+          "reason": "Три поколения женщин; не приписывается присутствие Сергея или Мити."
+        },
+        {
+          "label": "Прошлые соревнования Наташи в Ванкувере",
+          "event": "previous_visit",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Наташа была тут на соревнованиях"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Не соревнования во время текущей поездки; площадка не названа."
+        },
+        {
+          "label": "Север Испании и Торонто",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "Вспоминаются города на севере Испании"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Сравнения городских козырьков и плотности застройки."
+        },
+        {
+          "label": "Центр Ванкувера",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 3,
+              "quote": "А какой современный ДТ"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "vancouver"
+          },
+          "reason": "Реальные пешие прогулки, без выдуманной главной улицы."
+        },
+        {
+          "label": "SkyTrain",
+          "event": "used_transport",
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "Ездили на метро"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "vancouver"
+          },
+          "reason": "Проезд подтверждён; линия и все конкретные станции не названы."
+        },
+        {
+          "label": "Гастаун",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "районе Gastown"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "gastown"
+          }
+        },
+        {
+          "label": "Паровые часы Гастауна",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "vancouver/20230211_115647.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "vancouver--gastown-steam-clock"
+          },
+          "reason": "Семейный снимок непосредственно у часов."
+        },
+        {
+          "label": "Торговый центр возле Гастауна",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Зашли в мол по соседству"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Название не приведено; соседние наружные фасады не доказывают, в какой торговый центр вошли."
+        },
+        {
+          "label": "Стэнли-парк",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "Stanley Park"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "stanley-park"
+          },
+          "reason": "Тотемы на семейных кадрах, лужайки и прибрежные маршруты учтены в составе парка."
+        },
+        {
+          "label": "Набережная Ванкувера",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "Очень красивая набережная"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "vancouver--seawall"
+          },
+          "reason": "Прогулка и собственные снимки у воды; полный обход всех 28 км не приписывается."
+        },
+        {
+          "label": "Canada Place",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "vancouver/20230210_192946.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "vancouver--canada-place"
+          },
+          "reason": "Ночная прогулка у подсвеченных парусов и семейный портрет у читаемой вывески. Вход на аттракцион FlyOver не утверждается."
+        },
+        {
+          "label": "Waterfront Station",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "vancouver/20230211_114320.jpg"
+            },
+            {
+              "source_attachment_path": "attachments.0.data.12.media.description",
+              "quote": "Union Station"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "vancouver--waterfront-station"
+          },
+          "reason": "Снят фасад исторического вокзала; сам факт пользования метро не устанавливает проход через этот вход. Автор сравнивает вокзал с Union Station в Торонто; это подпись-аналогия, не посещение торонтского вокзала."
+        },
+        {
+          "label": "Памятник Angel of Victory",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "vancouver/20230211_114512.jpg"
+            },
+            {
+              "source_attachment_path": "attachments.0.data.13.media.description",
+              "quote": "Памятник железнодорожникам"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "vancouver--angel-of-victory"
+          },
+          "reason": "Изображение ангела с солдатом сопоставлено с городским реестром искусства."
+        },
+        {
+          "label": "Harbour Centre и Vancouver Lookout",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "vancouver/20230213_084516.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "vancouver--harbour-centre"
+          },
+          "reason": "Смотровая башня видна с улицы; подъём наверх не утверждается."
+        },
+        {
+          "label": "Sinclair Centre",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "vancouver/20230211_114116.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "vancouver--sinclair-centre"
+          },
+          "reason": "Фасад и часовая башня; вход в торговую галерею этим снимком не доказан."
+        },
+        {
+          "label": "Fairmont Hotel Vancouver",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "vancouver/20230210_111920.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "vancouver--fairmont-hotel-vancouver"
+          },
+          "reason": "Узнаваемый фасад с зелёной крышей. Проживание в этом отеле не приписывается."
+        },
+        {
+          "label": "Le Soleil hotel",
+          "event": "entered",
+          "evidence": [
+            {
+              "photo": "vancouver/20230210_092426.jpg"
+            },
+            {
+              "source_attachment_path": "attachments.0.data.22.media.description",
+              "quote": "Le Soleil hotel"
+            }
+          ],
+          "decision": "add",
+          "reason": "Имя дано в исходной подписи к собственному снимку интерьера. Вход в вестибюль подтверждён; ночлег в этом отеле не утверждается.",
+          "target": {
+            "attraction": "vancouver--le-soleil-hotel"
+          }
+        },
+        {
+          "label": "Скульптура из металлических колец",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "vancouver/20230211_114255.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Есть семейный снимок, собственное название не установлено."
+        },
+        {
+          "label": "Горы на горизонте",
+          "event": "distant_view",
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "горы не горизонте"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "vancouver"
+          },
+          "reason": "Из вида гор не выводятся подъём на Граус-Маунтин или иные загородные экскурсии."
+        },
+        {
+          "label": "Будущее возвращение в окрестности",
+          "event": "future_plan",
+          "evidence": [
+            {
+              "source_paragraph": 8,
+              "quote": "придется вернуться уже туристами"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Намерение будущей поездки, не состоявшаяся экскурсия по окрестностям."
+        },
+        {
+          "label": "Троллейбус Ванкувера",
+          "event": "seen_transport",
+          "evidence": [
+            {
+              "source_attachment_path": "attachments.0.data.20.media.description",
+              "quote": "Тролейбус!"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "vancouver"
+          },
+          "reason": "Сфотографирован с улицы; поездка именно на этом троллейбусе не утверждается."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_explicit_identification_questions",
+    "questions": [
+      "Не установлены название посещённого торгового центра и скульптуры из металлических колец."
+    ],
+    "repeat_check": "Полный авторский текст, подписи и все архивные изображения повторно сопоставлены с перечнем и данными; прежние метки не использованы как доказательство полноты.",
+    "external_sources": [
+      {
+        "url": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=24",
+        "purpose": "Название и расположение Angel of Victory у Waterfront Station."
+      },
+      {
+        "url": "https://www.destinationvancouver.com/things-to-do/listings/steamclock",
+        "purpose": "Идентификация паровых часов."
+      }
+    ],
+    "new_attractions": [
+      "vancouver--gastown-steam-clock",
+      "vancouver--seawall",
+      "vancouver--canada-place",
+      "vancouver--waterfront-station",
+      "vancouver--angel-of-victory",
+      "vancouver--harbour-centre",
+      "vancouver--sinclair-centre",
+      "vancouver--fairmont-hotel-vancouver",
+      "vancouver--le-soleil-hotel"
+    ]
+  }
+}

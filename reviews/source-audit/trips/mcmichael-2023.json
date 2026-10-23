@@ -7,7 +7,7 @@
     "record_index": 92,
     "timestamp": 1699206839,
     "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
-    "read": "Полностью прочитаны три авторских абзаца и строка хэштега исходного поста, полностью прочитана глава сайта. Сырой JSON Facebook с личными служебными данными не копируется в Git."
+    "read": "Полностью прочитаны три авторских абзаца и строка хэштега исходного поста, полностью прочитана глава сайта. Сырой JSON Facebook с личными служебными данными не копируется в Git. Дополнительно прочитаны все пять непустых подписей к 14 исходным фотографиям: имена художников и семейная подпись. Новых географических объектов они не называют."
   },
   "photographs": {
     "status": "reviewed",
@@ -63,6 +63,33 @@
             "places": "toronto"
           },
           "reason": "Музей находится в Kleinburg; владелец ранее прямо отнесла его в навигации к Торонто. Сама поездка по Торонто из этого поста не выводится."
+        },
+        {
+          "label": "Произведения Tom Thomson, Jock Macdonald, Lawren Harris, Caven Atkins",
+          "event": "seen_museum_artworks",
+          "evidence": [
+            {
+              "source_attachment_path": "attachments.0.data.2.media.description",
+              "quote": "Tom Thomson"
+            },
+            {
+              "source_attachment_path": "attachments.0.data.7.media.description",
+              "quote": "Jock Macdonald, 1939"
+            },
+            {
+              "source_attachment_path": "attachments.0.data.8.media.description",
+              "quote": "Lawren Harris, 1929"
+            },
+            {
+              "source_attachment_path": "attachments.0.data.9.media.description",
+              "quote": "Caven Atkins, 1935"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "mcmichael-gallery"
+          },
+          "reason": "Имена художников и даты произведений в музейных подписях; не отдельные музеи или новые города."
         }
       ]
     }

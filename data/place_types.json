@@ -3901,5 +3901,38 @@
     "classification_sources": [
       "content/places/chambord/_index.md"
     ]
+  },
+  "crawford-lake": {
+    "types": [
+      "park",
+      "lake",
+      "archaeological_site"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "озеро",
+      "озёра",
+      "озера",
+      "озёр",
+      "lake",
+      "археология",
+      "археологический памятник",
+      "руины",
+      "раскопки",
+      "archaeology",
+      "ruins"
+    ],
+    "classification_sources": [
+      "content/places/crawford-lake/_index.md"
+    ]
   }
 }

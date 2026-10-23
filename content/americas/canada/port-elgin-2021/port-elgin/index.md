@@ -9,6 +9,7 @@ places:
 hero_image: "20210715_124726.jpg"
 date: "2021-07-10"
 auto_gallery: false
+attractions: ["port-elgin--beaches","port-elgin--waterfront-promenade","port-elgin--harbour"]
 draft: false
 ---
 <p>Как-то незаметно для нас, у нас появилась "дачная" традиция. Почти каждое лето мы ездим в городок Port Elgin, что на озере Гурон. Он вроде всего 250 км от Торонто (как и многие другие "пляжные направления"), но нет прямых хайвеев и кажется далеко. </p>

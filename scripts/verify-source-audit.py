@@ -47,6 +47,13 @@ for report_file in reports:
             for e in o['evidence']:
                 if 'source_paragraph' in e:
                     assert e['quote'] in paragraphs[e['source_paragraph']],f"{report_file}: unsupported quotation {o['label']}"
+                if 'source_attachment_path' in e:
+                    assert r['source'].get('kind')=='facebook_profile_json','Attachment quote requires a Facebook source'
+                    caption=post
+                    for part in e['source_attachment_path'].split('.'):
+                        caption=caption[int(part)] if isinstance(caption,list) else caption[part]
+                    caption=caption.encode('latin1').decode('utf-8')
+                    assert e['quote'] in caption,f"{report_file}: unsupported image caption {o['label']}"
             target=o.get('target')
             if isinstance(target,dict):
                 if 'attraction' in target:

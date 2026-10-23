@@ -458,10 +458,10 @@
       "title": "\"Crawford Lake\"",
       "draft": false,
       "source_sha256_lf": "784e8853f22846224881ef7e64afe09e52dd6219c67c15768cb51f546204637c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "complete",
+      "report": "reviews/source-audit/trips/crawford-lake-2020.json"
     },
     {
       "file": "content/americas/canada/gaspe-2020/bic-pointe-au-pere/index.md",
@@ -769,11 +769,11 @@
       "trip_path": "content/americas/canada/port-elgin-2021",
       "title": "\"Port Elgin\"",
       "draft": false,
-      "source_sha256_lf": "fd3f10a642122a48ae26948680823bbeda102ab77f6367315d016f10daa7607d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "681bbdb8d2e284ea748ab9504d09c8484bd663e1cb60f432bd545e0e93ed9b6f",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/port-elgin-2021.json"
     },
     {
       "file": "content/americas/canada/quebec-montreal-2003/story/index.md",
@@ -1177,11 +1177,11 @@
       "trip_path": "content/americas/canada/vancouver-2023",
       "title": "\"Ванкувер\"",
       "draft": false,
-      "source_sha256_lf": "d7b66d5e9a77e4cf38f6a9eff5e0ddc761951fe8728a42988c908d784c84b92f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "0fbb97f29288c061400c36adcd11d0190aaa5e786ffa08b572b3e433f197abde",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/vancouver-2023.json"
     },
     {
       "file": "content/americas/cuba/cuba-2025/excursions/index.md",
