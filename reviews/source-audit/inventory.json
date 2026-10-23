@@ -601,11 +601,11 @@
       "trip_path": "content/americas/canada/mont-tremblant-2012",
       "title": "\"Mont Tremblant\"",
       "draft": false,
-      "source_sha256_lf": "9f1b3b7eb0f5ea2d67fa557f2db3c5eb1c292d007475ec5ca16a46b69f8bad58",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "0291a91cdb4822d913b851ef1c25641b71083692d01d9615bec236c1b07ef8d9",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/mont-tremblant-2012.json"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/amethysts-canyons/index.md",
@@ -781,11 +781,11 @@
       "trip_path": "content/americas/canada/quebec-montreal-2003",
       "title": "\"Квебек-Монреаль\"",
       "draft": false,
-      "source_sha256_lf": "2d84f37973612e4accbccc127b46a88769119b14fbe8901328fa0f5c70906a52",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "d1c18633ea36985e898dcd01d1a3d5af9fbc8cebf2da1e511fe0efafe8a7d03c",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/quebec-montreal-2003.json"
     },
     {
       "file": "content/americas/canada/quebec-virginia-2013/canada-games/index.md",

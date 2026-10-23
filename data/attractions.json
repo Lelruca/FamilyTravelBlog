@@ -11960,5 +11960,76 @@
     "aliases": [
       "Grand Falls waterfall"
     ]
+  },
+  "quebec-city--citadel": {
+    "title": "Цитадель Квебека",
+    "parent": "quebec-city",
+    "types": [
+      "castle"
+    ],
+    "aliases": [
+      "Citadelle de Québec",
+      "Quebec Citadel"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "Citadelle de Québec",
+      "Quebec Citadel"
+    ]
+  },
+  "quebec-city--carriage-tour": {
+    "title": "Каретная прогулка по Квебеку",
+    "parent": "quebec-city",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "quebec-city--russian-cannons": {
+    "title": "Русские пушки на набережной Квебека",
+    "parent": "quebec-city",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
+  },
+  "mont-tremblant--ski-resort": {
+    "title": "Горнолыжный курорт Мон-Тремблан",
+    "parent": "mont-tremblant",
+    "place": "mont-tremblant",
+    "types": [
+      "ski_resort"
+    ],
+    "aliases": [
+      "Mont Tremblant Ski Resort"
+    ],
+    "search_terms": [
+      "горнолыжный курорт",
+      "лыжи",
+      "горные лыжи",
+      "ski resort",
+      "skiing",
+      "Mont Tremblant Ski Resort"
+    ]
   }
 }

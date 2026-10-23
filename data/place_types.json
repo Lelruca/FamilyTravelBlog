@@ -3698,6 +3698,22 @@
       "content/places/acadian-historical-village/_index.md"
     ]
   },
+  "mont-tremblant": {
+    "types": [
+      "ski_resort"
+    ],
+    "search_terms": [
+      "горнолыжный курорт",
+      "лыжи",
+      "горные лыжи",
+      "ski resort",
+      "skiing",
+      "Mont Tremblant Ski Resort"
+    ],
+    "classification_sources": [
+      "data/attractions.json#mont-tremblant--ski-resort"
+    ]
+  },
   "kroller-muller": {
     "types": [
       "museum",

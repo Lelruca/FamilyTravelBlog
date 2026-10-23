@@ -767,5 +767,15 @@
       "ship",
       "schooner"
     ]
+  },
+  "ski_resort": {
+    "title": "Горнолыжный курорт",
+    "search_terms": [
+      "горнолыжный курорт",
+      "лыжи",
+      "горные лыжи",
+      "ski resort",
+      "skiing"
+    ]
   }
 }

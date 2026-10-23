@@ -11,7 +11,7 @@ places:
   - montreal
   - sainte-anne-de-beaupre
 auto_gallery: false
-attractions: ["sainte-anne-de-beaupre--bazilika-sent-ann-de-bopre","sainte-anne-de-beaupre--ierusalimskaya-panorama","montreal--muzey-istorii-monrealya","montreal--bazilika-notr-dam-de-monreal","montreal--oratoriy-svyatogo-iosifa","montreal--mon-ruayal","montreal--monrealskiy-biodom","montreal--monrealskiy-insektariy","montreal--monrealskiy-botanicheskiy-sad"]
+attractions: ["sainte-anne-de-beaupre--bazilika-sent-ann-de-bopre","sainte-anne-de-beaupre--ierusalimskaya-panorama","montreal--muzey-istorii-monrealya","montreal--bazilika-notr-dam-de-monreal","montreal--oratoriy-svyatogo-iosifa","montreal--mon-ruayal","montreal--monrealskiy-biodom","montreal--monrealskiy-insektariy","montreal--monrealskiy-botanicheskiy-sad","quebec-city--citadel","quebec-city--carriage-tour","quebec-city--russian-cannons"]
 ---
 
 <p>Всем-всем большой привет!</p>
