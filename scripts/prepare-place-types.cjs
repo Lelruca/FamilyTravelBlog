@@ -10,9 +10,21 @@ for(const [id,a] of Object.entries(attractions))if(a.place){
  p.search_terms=[...new Set([...p.search_terms,...a.search_terms])];
  p.classification_sources.push(`data/attractions.json#${id}`);
 }
-for(const slug of ['kroller-muller','mcmichael-gallery']){
+const standaloneTypes={
+ 'kroller-muller':['museum','gallery'],
+ 'mcmichael-gallery':['museum','gallery'],
+ 'ballenberg':['museum'],
+ 'trummelbachfaelle':['waterfall'],
+ 'aareschlucht':['canyon'],
+ 'pilatus':['mountain'],
+ 'haut-koenigsbourg':['castle'],
+ 'hohenschwangau':['castle'],
+ 'neuschwanstein':['castle'],
+ 'rhine-falls':['waterfall']
+};
+for(const [slug,types] of Object.entries(standaloneTypes)){
  const p=result[slug] ||= {types:[],search_terms:[],classification_sources:[]};
- p.types=[...new Set([...p.types,'museum','gallery'])];
+ p.types=[...new Set([...p.types,...types])];
  p.search_terms=[...new Set([...p.search_terms,...p.types.flatMap(t=>vocabulary[t].search_terms)])];
  p.classification_sources.push(`content/places/${slug}/_index.md`);
 }

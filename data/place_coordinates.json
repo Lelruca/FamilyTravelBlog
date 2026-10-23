@@ -4248,5 +4248,14 @@
     "source": "https://www.openstreetmap.org/relation/1840166",
     "query": "Concord Massachusetts",
     "note": "Concord, Middlesex County, Massachusetts; North Bridge photographed during Liberty Ride, not Concord in New Hampshire."
+  },
+  "rhine-falls": {
+    "lat": 47.6772222222,
+    "lon": 8.6158333333,
+    "name": "Rhine Falls / Rheinfall",
+    "country_code": "CH",
+    "source": "https://www.wikidata.org/wiki/Q214924",
+    "query": "Rheinfall Switzerland",
+    "note": "Самостоятельное природное место; выявлено по собственному снимку P8252216.JPG от 25 августа 2011. Не Рейхенбахский водопад."
   }
 }

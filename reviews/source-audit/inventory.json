@@ -3589,11 +3589,11 @@
       "trip_path": "content/europe/germany/germany-2011",
       "title": "\"Эльзас\"",
       "draft": false,
-      "source_sha256_lf": "331ab7363facd80f3e5c4e133f22cdf9f11c022a6877bb7cc7a2fd757512ed61",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "4d429621eb05780013d92e84383ff5728bb2ac5bf6acd250d65c24b239316826",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
       "file": "content/europe/germany/germany-2011/bavaria/index.md",
@@ -3601,11 +3601,11 @@
       "trip_path": "content/europe/germany/germany-2011",
       "title": "\"Швейцария 3\"",
       "draft": false,
-      "source_sha256_lf": "7e70bb61dd19abda6b98fb2c843b6a9f1a299a5b18060c8dc2f5beb7542576f1",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "0893a6237c4580b6b60b4c04ced15ac7580447bad6032372d0a1fc15665a6721",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
       "file": "content/europe/germany/germany-2011/belgium/index.md",
@@ -3613,11 +3613,11 @@
       "trip_path": "content/europe/germany/germany-2011",
       "title": "\"Бельгия\"",
       "draft": false,
-      "source_sha256_lf": "9107203ab2f9f90b4d043cbd15ba9525317ecded9edfb48224ca17869d112a1d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "95e2b21c8a7d8b65b8b22be3a45a7120bcf6be9fcd1443e9575b65b9cc11ccd3",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
       "file": "content/europe/germany/germany-2011/castles/index.md",
@@ -3626,10 +3626,10 @@
       "title": "\"Замки Людовика II\"",
       "draft": false,
       "source_sha256_lf": "b6d770c5c33f81412160974fdf0d4aa3736f16602fea33ccc334d73294a44af7",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
       "file": "content/europe/germany/germany-2011/holland/index.md",
@@ -3638,10 +3638,10 @@
       "title": "\"Голландия\"",
       "draft": false,
       "source_sha256_lf": "43efb6e4f9a1faf235d13e1500b7360da3344e9a914cad6d0c85f2d3014d6055",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
       "file": "content/europe/germany/germany-2011/london/index.md",
@@ -3650,10 +3650,10 @@
       "title": "\"Лондон\"",
       "draft": false,
       "source_sha256_lf": "a84fb26351f6aad6a74feec91174c79d381a0d75097eaa44bbe65b9f49c76019",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
       "file": "content/europe/germany/germany-2011/overview/index.md",
@@ -3662,10 +3662,10 @@
       "title": "\"У бабушки, Кельн и окрестности\"",
       "draft": false,
       "source_sha256_lf": "beb14c9d05c989c1a0f5ac522bc8f54c81e0b27329220ebdda4651a247e907bd",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
       "file": "content/europe/germany/germany-2011/switzerland-1/index.md",
@@ -3673,11 +3673,11 @@
       "trip_path": "content/europe/germany/germany-2011",
       "title": "\"Швейцария 1\"",
       "draft": false,
-      "source_sha256_lf": "4e0999e553ba80c8fe1bae250776afbb9c2f1c00ef562a8c124b96dc62de0bdb",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "1d2471a62fa7c714a65f74256d8b7523353194b39f7fba682f70886580bc421f",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
       "file": "content/europe/germany/germany-2011/switzerland-2/index.md",
@@ -3685,11 +3685,11 @@
       "trip_path": "content/europe/germany/germany-2011",
       "title": "\"Швейцария 2\"",
       "draft": false,
-      "source_sha256_lf": "88db9c81f78e0bb75880abc9d0324ebc9d63d56a33b891c22d0fbce15a8385e7",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "440695b5face8d267e60d852e27ebdd6262e48be98a641f1325780c65518fac3",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
       "file": "content/europe/germany/germany-italy-2006/grandma/index.md",

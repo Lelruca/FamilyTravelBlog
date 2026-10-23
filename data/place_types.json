@@ -3681,5 +3681,138 @@
     "classification_sources": [
       "content/places/kroller-muller/_index.md"
     ]
+  },
+  "ballenberg": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "content/places/ballenberg/_index.md"
+    ]
+  },
+  "trummelbachfaelle": {
+    "types": [
+      "waterfall"
+    ],
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall"
+    ],
+    "classification_sources": [
+      "content/places/trummelbachfaelle/_index.md"
+    ]
+  },
+  "aareschlucht": {
+    "types": [
+      "canyon"
+    ],
+    "search_terms": [
+      "каньон",
+      "каньоны",
+      "ущелье",
+      "ущелья",
+      "canyon",
+      "gorge"
+    ],
+    "classification_sources": [
+      "content/places/aareschlucht/_index.md"
+    ]
+  },
+  "pilatus": {
+    "types": [
+      "mountain"
+    ],
+    "search_terms": [
+      "гора",
+      "горы",
+      "холм",
+      "холмы",
+      "mountain",
+      "hill"
+    ],
+    "classification_sources": [
+      "content/places/pilatus/_index.md"
+    ]
+  },
+  "haut-koenigsbourg": {
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ],
+    "classification_sources": [
+      "content/places/haut-koenigsbourg/_index.md"
+    ]
+  },
+  "hohenschwangau": {
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ],
+    "classification_sources": [
+      "content/places/hohenschwangau/_index.md"
+    ]
+  },
+  "neuschwanstein": {
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ],
+    "classification_sources": [
+      "content/places/neuschwanstein/_index.md"
+    ]
+  },
+  "rhine-falls": {
+    "types": [
+      "waterfall"
+    ],
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall"
+    ],
+    "classification_sources": [
+      "content/places/rhine-falls/_index.md"
+    ]
   }
 }

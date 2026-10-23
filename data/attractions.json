@@ -10325,5 +10325,196 @@
       "Czaar Peterhuisje",
       "Tsar Peter House"
     ]
+  },
+  "durbuy--chateau-durbuy": {
+    "title": "Замок Дюрбюи",
+    "parent": "durbuy",
+    "types": [
+      "castle"
+    ],
+    "aliases": [
+      "Château de Durbuy",
+      "Château des comtes d’Ursel"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "Château de Durbuy",
+      "Château des comtes d’Ursel"
+    ]
+  },
+  "lauterbrunnen--staubbach-falls": {
+    "title": "Штауббахский водопад",
+    "parent": "lauterbrunnen",
+    "types": [
+      "waterfall"
+    ],
+    "aliases": [
+      "Staubbach Falls",
+      "Staubbachfall",
+      "Штауббах"
+    ],
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall",
+      "Staubbach Falls",
+      "Staubbachfall",
+      "Штауббах"
+    ]
+  },
+  "lauterbrunnen--hotel-staubbach": {
+    "title": "Hotel Staubbach",
+    "parent": "lauterbrunnen",
+    "types": [
+      "hotel"
+    ],
+    "aliases": [
+      "Гостиница Штауббах"
+    ],
+    "search_terms": [
+      "отель",
+      "отели",
+      "гостиница",
+      "гостиницы",
+      "hotel",
+      "Гостиница Штауббах"
+    ]
+  },
+  "meiringen--sherlock-holmes-monument": {
+    "title": "Памятник Шерлоку Холмсу",
+    "parent": "meiringen",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Sherlock Holmes Statue",
+      "Sherlock Holmes Monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Sherlock Holmes Statue",
+      "Sherlock Holmes Monument"
+    ]
+  },
+  "meiringen--tea-room-frutiger": {
+    "title": "Кондитерская Frutal-Beck / Tea-Room Frutiger",
+    "parent": "meiringen",
+    "types": [
+      "restaurant"
+    ],
+    "aliases": [
+      "Frutal",
+      "Frutal-Beck",
+      "Tea Room Frutiger"
+    ],
+    "search_terms": [
+      "ресторан",
+      "рестораны",
+      "бар",
+      "кабаре",
+      "restaurant",
+      "cabaret",
+      "Frutal",
+      "Frutal-Beck",
+      "Tea Room Frutiger"
+    ]
+  },
+  "colmar--kyriad-cite-administrative": {
+    "title": "Kyriad Hotel Colmar Cite Administrative",
+    "parent": "colmar",
+    "types": [
+      "hotel"
+    ],
+    "aliases": [],
+    "search_terms": [
+      "отель",
+      "отели",
+      "гостиница",
+      "гостиницы",
+      "hotel"
+    ]
+  },
+  "schwangau--bei-weirich": {
+    "title": "Гостиница и ресторан Bei Weirich",
+    "parent": "schwangau",
+    "types": [
+      "hotel",
+      "restaurant"
+    ],
+    "aliases": [
+      "Bei Weirich"
+    ],
+    "search_terms": [
+      "отель",
+      "отели",
+      "гостиница",
+      "гостиницы",
+      "hotel",
+      "ресторан",
+      "рестораны",
+      "бар",
+      "кабаре",
+      "restaurant",
+      "cabaret",
+      "Bei Weirich"
+    ]
+  },
+  "lucerne--lake-lucerne": {
+    "title": "Люцернское озеро",
+    "parent": "lucerne",
+    "types": [
+      "lake"
+    ],
+    "aliases": [
+      "Фирвальдштетское озеро",
+      "Lake Lucerne",
+      "Vierwaldstättersee"
+    ],
+    "search_terms": [
+      "озеро",
+      "озёра",
+      "озера",
+      "озёр",
+      "lake",
+      "Фирвальдштетское озеро",
+      "Lake Lucerne",
+      "Vierwaldstättersee"
+    ]
+  },
+  "lucerne--chapel-bridge": {
+    "title": "Капельбрюкке",
+    "parent": "lucerne",
+    "types": [
+      "bridge"
+    ],
+    "aliases": [
+      "Капелльбрюкке",
+      "Kapellbrücke",
+      "Chapel Bridge"
+    ],
+    "search_terms": [
+      "мост",
+      "мосты",
+      "моста",
+      "мостов",
+      "bridge",
+      "Капелльбрюкке",
+      "Kapellbrücke",
+      "Chapel Bridge"
+    ]
   }
 }

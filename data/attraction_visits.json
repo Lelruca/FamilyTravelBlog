@@ -56,6 +56,353 @@
         }
       ]
     },
+    "content/europe/germany/germany-2011/overview/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "cologne--kyolnskiy-zoopark",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 17,
+              "quote": "походы в зоопарк"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Место привычных семейных посещений; в контексте пребывания у бабушки в Кёльне."
+        },
+        {
+          "id": "bruhl--park-phantasialand",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 17,
+              "quote": "парк атракционов Phantasialand"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
+        },
+        {
+          "id": "bruhl--dvorets-augustusburg",
+          "event": "exterior_and_park",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 18,
+              "quote": "Дворец Augustusburg, погуляли там в парке"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Прогулка по парку подтверждена. Посещение внутренних залов не приписывается."
+        },
+        {
+          "id": "solingen--nemetskiy-muzey-klinkov",
+          "event": "visited",
+          "participants": [
+            "Сергей",
+            "Наташа",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 30,
+              "quote": "поездка Сереги с детьми в Немецкий музей клинков"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Автор не была с ними; музей и его сад учитываются одним объектом."
+        },
+        {
+          "id": "cologne--kyolnskiy-sobor-i-sokrovishchnitsa",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 57,
+              "quote": "мы никогда не ходили в сокровищницу собора, а зря"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Подъём описан в абзаце 46; вход в сокровищницу подтверждают последовательность текста и фотографии. Вещи в экспозиции не являются отдельными местами."
+        }
+      ]
+    },
+    "content/europe/germany/germany-2011/holland/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "rijksmuseum",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 90,
+              "quote": "в Rijksmuseum"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Внутри открытого крыла слушали аудиоэкскурсию. Реставрация остальных залов не означает, что музей не посетили."
+        },
+        {
+          "id": "zaandam--peter-house",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 91,
+              "quote": "музей уже закрылся"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Оставлен по прямому указанию владельца. Семья приехала и осмотрела снаружи; вход внутрь не приписывается."
+        }
+      ]
+    },
+    "content/europe/germany/germany-2011/belgium/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "durbuy--park-topier",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 114,
+              "quote": "парк Topiaries"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
+        },
+        {
+          "id": "durbuy--chateau-durbuy",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "belgium/P8172006.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Замок виден на семейных фотографиях из парка; внутреннее посещение не утверждается."
+        }
+      ]
+    },
+    "content/europe/germany/germany-2011/alsace/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "riquewihr--muzey-karet",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 179,
+              "quote": "каретный музей"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Фотография кареты у музея сохранилась также в неиспользованных архивных материалах."
+        },
+        {
+          "id": "colmar--kyriad-cite-administrative",
+          "event": "stayed",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 199,
+              "quote": "Kyriad Hotel Colmar Cite Administrative"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Название дословно есть в исходнике; это проживание, не музей."
+        }
+      ]
+    },
+    "content/europe/germany/germany-2011/switzerland-1/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "lauterbrunnen--hotel-staubbach",
+          "event": "stayed",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 219,
+              "quote": "Hotel Staubbach"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Описание проживания подтверждено последующими абзацами, завтраками и семейными снимками."
+        },
+        {
+          "id": "lucerne--lake-lucerne",
+          "event": "boat_trip",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 236,
+              "quote": "прокатились по озеру"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Часть описанного золотого маршрута из Люцерна на Пилатус."
+        },
+        {
+          "id": "lucerne--chapel-bridge",
+          "event": "walked_across",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "switzerland-1/P8232056.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "На семейном снимке виден крытый мост с живописными треугольными панелями. Идентификация сопоставлена с официальным описанием моста."
+        },
+        {
+          "id": "lauterbrunnen--staubbach-falls",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 283,
+              "quote": "потащила Серегу осматривать вблизи водопад"
+            },
+            {
+              "photo": "switzerland-1/P8232121.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Водопад перед Hotel Staubbach сопоставлен с собственным снимком и описанием гостиницы. Дети в этот момент остались в гостинице."
+        }
+      ]
+    },
+    "content/europe/germany/germany-2011/switzerland-2/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "allmendhubel",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 297,
+              "quote": "Allmendhubel"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Луга, детская площадка и дорога — части одного посещения."
+        },
+        {
+          "id": "meiringen--reykhenbakhskiy-vodopad",
+          "event": "narrative_inclusion_owner_confirmed",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 313,
+              "quote": "Рейхенбахский водопад"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Сохранён по рассказу и прямому уточнению владельца. Ранее преждевременно назван только планом; эта оценка отозвана. Рассказ краток, отдельного кадра водопада в проверенных 276 изображениях не установлено; это не основание удалять объект."
+        },
+        {
+          "id": "meiringen--sherlock-holmes-monument",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 339,
+              "quote": "его памятник на центральной площади"
+            },
+            {
+              "photo": "switzerland-2/P8242195.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Семейный снимок автора рядом с памятником прямо подтверждает осмотр."
+        },
+        {
+          "id": "meiringen--tea-room-frutiger",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 347,
+              "quote": "туда мы и отправились испробовать это лакомство"
+            },
+            {
+              "photo": "switzerland-2/P8242199.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Название Frutal-Beck читается на собственном снимке в полном разрешении. Муниципальный справочник подтверждает кондитерскую Frutal в Майрингене. Скульптура безе у входа покрыта этим заведением."
+        }
+      ]
+    },
+    "content/europe/germany/germany-2011/bavaria/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "schwangau--bei-weirich",
+          "event": "stayed_and_ate",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 391,
+              "quote": "Bei Weirich"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Собственное название и адрес сохранены в оригинальном DOCX, хотя в версии сайта скобка с адресом отсутствует. Авторский текст сайта не переписывался."
+        }
+      ]
+    },
+    "content/europe/germany/germany-2011/castles/index.md": {
+      "source_review": "read",
+      "visits": []
+    },
+    "content/europe/germany/germany-2011/london/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "legoland-windsor",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 443,
+              "quote": "ездили все вместе в Леголенд"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Семья была вместе с родственниками; не добавляются отдельные миниатюры и аттракционы."
+        },
+        {
+          "id": "national-gallery",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 446,
+              "quote": "мы ходили только в национальную галерею"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Внутри слушали аудиоэкскурсии парами; Митя продолжил после двух часов."
+        }
+      ]
+    },
     "content/americas/canada/mcmichael-2023/mcmichael/index.md": {
       "source_review": "read",
       "visits": [
