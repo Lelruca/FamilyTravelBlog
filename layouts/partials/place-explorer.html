@@ -43,14 +43,14 @@
     <div class="place-field"><label for="place-country" class="sr-only">Страна</label><select id="place-country"><option value="">Все страны</option>{{ range sort (uniq $countries) }}<option>{{ . }}</option>{{ end }}</select><button type="button" class="place-clear" data-clear="place-country" aria-label="Все страны" hidden>×</button></div>
     <div class="place-modes" role="group" aria-label="Вид мест"><button type="button" data-place-mode="list" aria-pressed="true">Список</button><button type="button" data-place-mode="map" aria-pressed="false">Карта</button></div>
   </div>
-  <div class="place-results-line"><p id="place-results" class="place-context" role="status" aria-live="polite"></p><button type="button" id="place-reset" hidden>× Сбросить поиск</button></div>
+  <div class="place-results-line"><p id="place-results" class="place-context" role="status" aria-live="polite"></p><button type="button" id="place-reset" hidden>× Сбросить поиск</button><button type="button" id="place-fold-all">Свернуть все страны</button></div>
   <section id="place-map-panel" hidden aria-label="Карта мест"><div id="place-map"></div><p id="place-map-status" class="place-context" role="status"></p><button type="button" id="place-map-reset">Показать все найденные места</button></section>
   <div id="places-list">
   {{- $state := newScratch -}}
   {{- range $entries }}
     {{- if ne .country ($state.Get "country") }}
       {{- if $state.Get "country" }}</section>{{ end }}
-      <section data-place-group data-country="{{ .country }}"><h2><button type="button" class="place-country-jump" aria-label="{{ .country }}: перейти к другой стране">{{ .country }} <span aria-hidden="true">▾</span></button></h2>
+      <section data-place-group data-country="{{ .country }}"><h2><button type="button" class="place-country-toggle" aria-expanded="true">{{ .country }}<svg class="place-arrow" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6" fill="none" stroke="currentColor" stroke-width="2"/></svg></button></h2>
       {{- $state.Set "country" .country -}}
     {{- end }}
     <a class="place-row" href="{{ .page.RelPermalink }}" data-place-item data-slug="{{ .slug }}" data-country="{{ .country }}" data-search="{{ .search }} {{ .slug }}"{{ with .geo }} data-lat="{{ .lat }}" data-lon="{{ .lon }}"{{ end }}><span class="place-title">{{ .title }}</span>{{ with .orig }}<span class="place-orig">{{ . }}</span>{{ end }}</a>
@@ -59,7 +59,6 @@
   </div>
   <section id="sights-found" hidden><h2>Достопримечательности</h2><div id="sights-list"></div></section>
   <p id="places-empty" hidden>Такого места пока нет в дневнике. Попробуйте другое название или выберите все страны.</p>
-  <dialog id="place-jump" aria-label="Перейти к стране"><p class="place-jump-head">К стране</p>{{ range sort (uniq $countries) }}<button type="button" data-jump="{{ . }}">{{ . }}</button>{{ end }}</dialog>
   <script type="application/json" id="sights-data">{{ $sights | jsonify | safeJS }}</script>
 </div>
 <script defer src="{{ "vendor/leaflet/leaflet.js" | relURL }}"></script>
