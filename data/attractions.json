@@ -12503,5 +12503,94 @@
       "казино",
       "casino"
     ]
+  },
+  "washington-dc--us-botanic-garden": {
+    "title": "Ботанический сад США",
+    "parent": "washington-dc",
+    "types": [
+      "botanical_garden"
+    ],
+    "aliases": [
+      "United States Botanic Garden",
+      "US Botanic Garden",
+      "Exposed: The Secret Life of Roots"
+    ],
+    "search_terms": [
+      "ботанический сад",
+      "ботанические сады",
+      "ботаника",
+      "botanical garden",
+      "United States Botanic Garden",
+      "US Botanic Garden",
+      "Exposed: The Secret Life of Roots"
+    ]
+  },
+  "washington-dc--vietnam-veterans-memorial": {
+    "title": "Мемориал ветеранов Вьетнама",
+    "parent": "washington-dc",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Vietnam Veterans Memorial",
+      "Three Servicemen",
+      "Три солдата"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Vietnam Veterans Memorial",
+      "Three Servicemen",
+      "Три солдата"
+    ]
+  },
+  "rehoboth-beach--beach-and-boardwalk": {
+    "title": "Пляж и набережная Рехобот-Бич",
+    "parent": "rehoboth-beach",
+    "types": [
+      "beach",
+      "walking_route"
+    ],
+    "aliases": [
+      "Rehoboth Beach",
+      "Rehoboth Boardwalk"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach",
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "Rehoboth Beach",
+      "Rehoboth Boardwalk"
+    ]
+  },
+  "ocean-city-maryland--beach": {
+    "title": "Пляж Оушен-Сити, Мэриленд",
+    "parent": "ocean-city-maryland",
+    "types": [
+      "beach"
+    ],
+    "aliases": [
+      "Ocean City Beach",
+      "Ocean City Maryland"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach",
+      "Ocean City Beach",
+      "Ocean City Maryland"
+    ]
   }
 }

@@ -1,0 +1,107 @@
+{
+  "status": "structure_inspected_not_a_reading_certificate",
+  "sources": [
+    {
+      "source": "G:/My Drive/Family Travel Blog Photos/Отчеты/2016 Aug - Детройт и Виндзор.docx",
+      "sha256": "1d78e72fe498a2148b6b9f7c969084ec5a60d42d0f76d308a437d93aa67083e1",
+      "direct_paragraphs": 57,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 23
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2011_ Европейское турне (Швейцария, Эльзас, Германия, Голландия, Бельгия).docx",
+      "sha256": "1f3a8bca05f26e4d2c030f5d5b4d6dc51d2404e9cdc1d725373206679590b29f",
+      "direct_paragraphs": 450,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 112
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2012_ Франция.docx",
+      "sha256": "7e8e8c3df89cc7a954b226a881ea8f7a275821bcfa989d8b35d88364af2beda1",
+      "direct_paragraphs": 439,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 146
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2013_ Квебек и Вирджиния Бич.docx",
+      "sha256": "2ba287da2f20a086fb3cc2e5bae964a2af20b7fc92ba38a1652710de1f8b0be7",
+      "direct_paragraphs": 257,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 78
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2014_ Атлантическая Канада.docx",
+      "sha256": "0b6e37b415c44fc053c28f1d490a8efc4313c339aa4c501d9c45554c0674a5d4",
+      "direct_paragraphs": 989,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 300
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2015 лето_ Наше освоение Новой Англии_.docx",
+      "sha256": "215d892bab553f2ba3f043ba1b19961f4ca93549e5063206200dfabd76d838f7",
+      "direct_paragraphs": 329,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 127
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Канада - разное.docx",
+      "sha256": "79b47ac3921c68aeae4304b4f874adc54760d35e98aec4bbc8cc25a9036ee827",
+      "direct_paragraphs": 36,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [
+        {
+          "p": 28,
+          "field": "alt",
+          "text": "IMG_20121223_141100 (1)"
+        },
+        {
+          "p": 28,
+          "field": "title",
+          "text": "IMG_20121223_141100 (1)"
+        },
+        {
+          "p": 30,
+          "field": "alt",
+          "text": "IMG_20121224_124144 (1)"
+        },
+        {
+          "p": 30,
+          "field": "title",
+          "text": "IMG_20121224_124144 (1)"
+        }
+      ],
+      "image_reference_count": 2
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Онтарио (разное).docx",
+      "sha256": "cc92b2bdd74ee5d22c1b6a5fda45bf431fe2f0ecee696134724a094fb779f8a7",
+      "direct_paragraphs": 242,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 86
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Штаты - разное.docx",
+      "sha256": "758ad0f0edcbad5b83c7b18c31692fd8c83cae0e25a93037371ee1ea8d80ad7f",
+      "direct_paragraphs": 193,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 56
+    }
+  ]
+}

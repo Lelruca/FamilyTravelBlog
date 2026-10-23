@@ -7,9 +7,9 @@
       "source_sha256": "758ad0f0edcbad5b83c7b18c31692fd8c83cae0e25a93037371ee1ea8d80ad7f",
       "section_start": "Конец абзаца 41, текстовые абзацы 43–123",
       "text_status": "read",
-      "photos_status": "not_reviewed",
-      "data_status": "not_reconciled",
-      "question": "В исходном DOCX найден отдельный полный рассказ о Вашингтоне и пляжах Делавэра/Мэриленда в августе 2015. В текущем снимке 72 поездок соответствующей поездки нет. Нужно проверить остальные рабочие копии и подготовить отдельные данные по исходнику. Не присоединять события 2015 к Вашингтону 2011.",
+      "photos_status": "reviewed",
+      "data_status": "prepared_separately_site_scope_open",
+      "question": "Полный текст и все 89 оригиналов проверены; отдельные данные сохранены в supplemental/washington-2015.json и data/attraction_visits.json#source_reviews. В снимке сайта нет главы этой поездки. Нужно учесть самостоятельный источник при последующей интеграции данных; не присоединять к 2011 году.",
       "objects_found_so_far": [
         "Национальный музей естественной истории",
         "Национальная галерея искусства — несколько посещений; Леля отдельно возвращалась",
@@ -23,7 +23,24 @@
         "Rehoboth Beach — прогулка, без купания",
         "Ocean City, Maryland — Леля купалась",
         "Ферма по обратной дороге — купили яблоки, название неизвестно"
-      ]
+      ],
+      "report": "reviews/source-audit/supplemental/washington-2015.json"
+    },
+    {
+      "label": "Новый год в Москве — 2003",
+      "source": "C:/Users/user/.codex/worktrees/detroit-note/FamilyTravelBlog/content/europe/russia/moscow-new-year-2003/story/index.md",
+      "text_status": "partially_read_not_complete",
+      "photos_status": "not_reviewed",
+      "data_status": "not_reconciled",
+      "question": "Личный неопубликованный черновик из прежней рабочей копии: текст не совпадает с московской поездкой 2012 и отсутствует в текущем снимке. Нужно отдельно проверить исходный DOCX и причину исключения; страницы не восстанавливаются автоматически."
+    },
+    {
+      "label": "У бабушки — ноябрь 2008",
+      "source": "C:/Users/user/.codex/worktrees/publish-quebec-2003/FamilyTravelBlog/content/europe/germany/germany-london-brussels-2008/grandma/index.md",
+      "text_status": "partially_read_not_complete",
+      "photos_status": "not_reviewed",
+      "data_status": "not_reconciled",
+      "question": "Глава старого черновика не найдена в нынешнем снимке по точному тексту, тогда как Лондон и Брюссель из того же старого пути уже совпали с нынешними главами. Нужна сверка с исходником и историей объединения."
     }
   ]
 }

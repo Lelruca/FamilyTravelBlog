@@ -19,10 +19,15 @@ for key,a in attractions.items():
     assert a.get('types') and a.get('search_terms'),f'{key}: missing semantic classification'
     assert all(t in types for t in a['types']),f'{key}: unknown type'
     assert Path(f"content/places/{a['parent']}/_index.md").exists(),f'{key}: missing geographic parent'
-reports=list(Path('reviews/source-audit/trips').glob('*.json'))
+reports=list(Path('reviews/source-audit/trips').glob('*.json'))+list(Path('reviews/source-audit/supplemental').glob('*.json'))
 read=set();photos=set();objects=0
 for report_file in reports:
     r=load(report_file)
+    valid_photo_keys={p['key'] for p in r['photographs'].get('additional_originals',[])}
+    manifest_path=r['photographs'].get('manifest')
+    if manifest_path:
+        image_data_path=Path('data/photos')/Path(manifest_path).name
+        if image_data_path.exists():valid_photo_keys.update(load(image_data_path))
     for original in r['photographs'].get('additional_originals',[]):
         assert hashlib.sha256(Path(original['source']).read_bytes()).hexdigest()==original['sha256'],f"Additional original changed: {original['source']}"
     source=Path(r['source']['path'])
@@ -47,14 +52,19 @@ for report_file in reports:
         paragraphs=[''.join(t.text or '' for t in p.findall('.//w:t',ns)) for p in doc.findall('.//w:body/w:p',ns)]
     trip_files={c['file'] for c in inventory['chapters'] if c['trip_path']==r['trip_path']}
     assert trip_files=={c['file'] for c in r['chapters']},f'{report_file}: missing trip chapters'
-    for c in r['chapters']:
-        if c['text_status']=='read':read.add(c['file'])
-        if r['photographs'].get('status')=='reviewed':photos.add(c['file'])
-        front=Path(c['file']).read_text('utf-8').split('---',2)[1]
+    for c in r['chapters']+r.get('sections',[]):
+        if c.get('file'):
+            if c['text_status']=='read':read.add(c['file'])
+            if r['photographs'].get('status')=='reviewed':photos.add(c['file'])
+            front=Path(c['file']).read_text('utf-8').split('---',2)[1]
+        else:
+            front=None
         for o in c['objects']:
             objects+=1
             assert o.get('decision') and o.get('event') and o.get('evidence'),f'{report_file}: unexplained object'
             for e in o['evidence']:
+                if 'photo' in e:
+                    assert e['photo'] in valid_photo_keys,f"Unresolvable photo evidence: {report_file}: {e['photo']}"
                 if 'photo' in e and r['source'].get('kind')=='photograph_manifest':
                     assert e['photo'] in photo_keys,f"Unknown source photograph: {e['photo']}"
                 if 'source_paragraph' in e:
@@ -70,13 +80,13 @@ for report_file in reports:
             if isinstance(target,dict):
                 if 'attraction' in target:
                     aid=target['attraction'];assert aid in attractions,f'Unknown attraction {aid}'
-                    if o['decision'] in ('retain','add','revise_existing_definition','covered_by_museum'):
+                    if front is not None and o['decision'] in ('retain','add','revise_existing_definition','covered_by_museum'):
                         assert f'"{aid}"' in front,f'{aid}: missing chapter relation'
                 if 'places' in target:assert Path(f"content/places/{target['places']}/_index.md").exists()
 for c in inventory['chapters']:
     assert (c['text_status']=='read')==(c['file'] in read),f"Inventory reading status differs: {c['file']}"
     assert (c['photos_status']=='reviewed')==(c['file'] in photos),f"Inventory photograph status differs: {c['file']}"
-print(f'{len(reports)} trip reports; {len(read)}/{len(actual)} chapters read; {len(photos)}/{len(actual)} chapters with photos reviewed; {objects} object decisions with evidence.')
+print(f'{len(reports)} source reports; {len(read)}/{len(actual)} chapters read; {len(photos)}/{len(actual)} chapters with photos reviewed; {objects} object decisions with evidence.')
 print('Audit IN PROGRESS. Valid evidence and valid structure do not prove absence of omissions.')
 if '--require-complete' in sys.argv:
     assert all(c['text_status']=='read' and c['photos_status']=='reviewed' and c['reconciliation_status']=='complete' for c in inventory['chapters']),'Unread or unreconciled materials remain'

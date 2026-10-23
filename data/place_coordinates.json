@@ -4274,5 +4274,21 @@
     "country_code": "US",
     "source": "https://www.openstreetmap.org/way/705808932",
     "query": "Barnes Arboretum, Merion, Pennsylvania — former Barnes gallery building, current Maguire Art Museum; historical occupancy verified at https://www.sju.edu/maguire-art-museum/about"
+  },
+  "rehoboth-beach": {
+    "lat": 38.7164771,
+    "lon": -75.0835107,
+    "name": "Рехобот-Бич, Делавэр",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/380444",
+    "query": "Рехобот-Бич, Делавэр; city, not a precise position of a swimmer on the beach"
+  },
+  "ocean-city-maryland": {
+    "lat": 38.3315412,
+    "lon": -75.0874151,
+    "name": "Оушен-Сити, Мэриленд",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/13299347",
+    "query": "Оушен-Сити, Мэриленд; city, not a precise position of a swimmer on the beach"
   }
 }

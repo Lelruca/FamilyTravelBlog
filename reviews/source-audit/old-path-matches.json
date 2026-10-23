@@ -1,0 +1,261 @@
+{
+  "status": "text_mapping_only_not_full_material_reconciliation",
+  "items": [
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/antwerp/index.md",
+      "body_sha256": "07026bc2b4d2766bcf51a6a2d608cdeb2f5fe6760b3b57a9d281e1cd82c59f6a",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/antwerp/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/antwerp/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/autoworld/index.md",
+      "body_sha256": "ed4db748937afeb931c678c27cd0d2e230fcddd74b2c367f92c6b70272dee0a5",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/autoworld/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/autoworld/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/beaune/index.md",
+      "body_sha256": "9fb359d7408cc47eb09020c01cf73e90405c76de8253aa3d1efd854b44f39f8d",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/beaune/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/beaune/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/bruges/index.md",
+      "body_sha256": "a0d9d3225e1a73eb5e1f5c5e3e3588d85055e1682b8d0fe57d275bd081865f3b",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/bruges/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/bruges/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/brussels/index.md",
+      "body_sha256": "8943a08783497f0b7d90dddcad22a6b40121101318df61e4f2fecfd538a7ddc8",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/brussels/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/brussels/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/cluny/index.md",
+      "body_sha256": "6236a8f71e3bc68fbfe6930be1935dbcd80b0827358306f76eba454a34cf4684",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/cluny/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/cluny/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/dijon/index.md",
+      "body_sha256": "4dc1302b82325a20ff3074fe599441dbc133973eb0652409e73300dc130707aa",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/dijon/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/dijon/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/eupen/index.md",
+      "body_sha256": "278d6340254ae72ebc24a199a5c8860d01d2bca144122c205e8a4219f505a6ba",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/eupen/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/eupen/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/european-talks/index.md",
+      "body_sha256": "30c429dd2c0d3e578f369de9908f750b516cd5c76f1bffe27137ce94db1a1d1b",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/european-talks/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/european-talks/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/ghent/index.md",
+      "body_sha256": "68444ace0290a2f76ad3c6cfe9290622ed64bc25f8bd678f22ccf0acb2ec54f9",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/ghent/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/ghent/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/kleve/index.md",
+      "body_sha256": "eacb8052a5656a50d1412dca84e6068bfc886016a598d595fa3c44e463f7478e",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/kleve/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/kleve/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/kroller-muller/index.md",
+      "body_sha256": "5ea7dbad99147cbcb6448f10c29e1620eb66afcf6591f902d813da7733c8d5cc",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/kroller-muller/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/kroller-muller/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/lyon/index.md",
+      "body_sha256": "d7f78d35aab70033dcc4cc5b488d7a5e26f9305cbdbdc7a47449ab2220be1314",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/lyon/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/lyon/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/military-museum/index.md",
+      "body_sha256": "359a224103edc554666f7ba521485cd4406b1e120df1ee04f9f7691d4ca308a5",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/military-museum/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/military-museum/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/musical-instruments/index.md",
+      "body_sha256": "74a173827b3728167d1606a634a32d73b381ca1025a7f69e12dd74c7984a7a78",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/musical-instruments/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/musical-instruments/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/nancy/index.md",
+      "body_sha256": "8869a51271a0f8b9193f4a81ac912a6166cf0f27bb62c2dda707db2baa64f77a",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/nancy/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/nancy/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/netherlands/index.md",
+      "body_sha256": "8240826b0a89832e42d86023d4fa31570dfcece4549e9fd08df55f91442f3310",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/netherlands/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/netherlands/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/relatives/index.md",
+      "body_sha256": "c61f05c4aaa7c6e1e22351ee101c262fdbc1b8761858e703de230e0ad5f64ff2",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/christmas-2014-2015/relatives/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/christmas-2014-2015/relatives/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/detroit-note/FamilyTravelBlog",
+      "file": "content/europe/russia/moscow-new-year-2003/story/index.md",
+      "body_sha256": "882345b6fa47b9d7d6bd4b2a1979da52b0bc1e49ef00a7ac767bafe9d6a88246",
+      "normalized_text_exact_matches": [],
+      "normalized_text_contained_in": [],
+      "status": "unmatched_text_requires_reading"
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/publish-quebec-2003/FamilyTravelBlog",
+      "file": "content/europe/germany/germany-london-brussels-2008/brussels/index.md",
+      "body_sha256": "6cf254ceb355f508ce58f37748e49ed8c1b5e18d75ccee2ecfbf1fb0b56940fd",
+      "normalized_text_exact_matches": [
+        "content/europe/belgium/brussels-2008/story/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/belgium/brussels-2008/story/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/publish-quebec-2003/FamilyTravelBlog",
+      "file": "content/europe/germany/germany-london-brussels-2008/grandma/index.md",
+      "body_sha256": "f8a346f031e466858f5f35fe6019c54ae7821332fc6c400c9bedc0e57aa485fc",
+      "normalized_text_exact_matches": [],
+      "normalized_text_contained_in": [],
+      "status": "unmatched_text_requires_reading"
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/publish-quebec-2003/FamilyTravelBlog",
+      "file": "content/europe/germany/germany-london-brussels-2008/london/index.md",
+      "body_sha256": "a646d2f7ca96c6036a7b1bee0c9fd41ae2d299f8953ae418abef724acc9e801a",
+      "normalized_text_exact_matches": [
+        "content/europe/england/london-cambridge-2008/story/index.md"
+      ],
+      "normalized_text_contained_in": [
+        "content/europe/england/london-cambridge-2008/story/index.md"
+      ],
+      "status": "text_duplicate_photo_material_still_to_reconcile"
+    }
+  ]
+}
