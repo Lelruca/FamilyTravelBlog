@@ -15,7 +15,7 @@
         "Национальная галерея искусства — несколько посещений; Леля отдельно возвращалась",
         "Капитолий — только снаружи",
         "Библиотека Конгресса — вошли",
-        "Ботаническая выставка корней — вошли, учреждение ещё не установлено",
+        "Ботанический сад США — посещена выставка корней, учреждение установлено по тексту, фото и официальной выставке",
         "Музей авиации и космонавтики — Сергей отдельно",
         "Немецкий ресторан — название неизвестно",
         "Монументы войнам, Вашингтону и Линкольну",
@@ -29,18 +29,20 @@
     {
       "label": "Новый год в Москве — 2003",
       "source": "C:/Users/user/.codex/worktrees/detroit-note/FamilyTravelBlog/content/europe/russia/moscow-new-year-2003/story/index.md",
-      "text_status": "partially_read_not_complete",
-      "photos_status": "not_reviewed",
-      "data_status": "not_reconciled",
-      "question": "Личный неопубликованный черновик из прежней рабочей копии: текст не совпадает с московской поездкой 2012 и отсутствует в текущем снимке. Нужно отдельно проверить исходный DOCX и причину исключения; страницы не восстанавливаются автоматически."
+      "text_status": "read",
+      "photos_status": "unavailable_owner_scans_pending",
+      "data_status": "prepared_separately_site_scope_open",
+      "question": "Все 145 абзацев исходного DOCX полностью прочитаны и совпадают со старым draft. Отдельные решения сохранены в supplemental/moscow-new-year-2003.json. В архиве только текст; ожидаются ранее упомянутые владельцем сканы бумажных фото. Текст не публикуется и не присоединяется к Москве 2012.",
+      "report": "reviews/source-audit/supplemental/moscow-new-year-2003.json"
     },
     {
       "label": "У бабушки — ноябрь 2008",
       "source": "C:/Users/user/.codex/worktrees/publish-quebec-2003/FamilyTravelBlog/content/europe/germany/germany-london-brussels-2008/grandma/index.md",
-      "text_status": "partially_read_not_complete",
-      "photos_status": "not_reviewed",
-      "data_status": "not_reconciled",
-      "question": "Глава старого черновика не найдена в нынешнем снимке по точному тексту, тогда как Лондон и Брюссель из того же старого пути уже совпали с нынешними главами. Нужна сверка с исходником и историей объединения."
+      "text_status": "read",
+      "photos_status": "available_material_reviewed",
+      "data_status": "prepared_separately_site_scope_open",
+      "question": "Весь раздел отпуска 2008 и старая глава У бабушки прочитаны. Поездка Сергея в Москву и вход с бабушкой в Кельнский собор учтены отдельно; Лондон и Брюссель сверены в своих отчётах со всеми 65 оригиналами. Самостоятельная глава о бабушке отсутствует в текущем снимке, интеграция состава остаётся открытой.",
+      "report": "reviews/source-audit/supplemental/grandma-2008.json"
     }
   ]
 }

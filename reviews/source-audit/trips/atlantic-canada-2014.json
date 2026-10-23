@@ -247,8 +247,12 @@
               "photo": "day-02/DSC02117.jpg"
             }
           ],
-          "decision": "pending_identification",
-          "reason": "Фото подтверждает внешний вид, имя и точная остановка не установлены."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Фото подтверждает внешний вид, имя и точная остановка не установлены."
+          }
         },
         {
           "label": "Пляж Парли",
@@ -500,11 +504,15 @@
               "photo": "day-04/20140805_160005.jpg"
             }
           ],
-          "decision": "add",
-          "target": {
-            "attraction": "charlottetown--founders-hall"
-          },
-          "reason": "Вывеска читается на фасаде; вход не утверждается."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "charlottetown--founders-hall"
+            },
+            "reason": "Вывеска читается на фасаде; вход не утверждается."
+          }
         },
         {
           "label": "Peake’s Wharf",
@@ -514,11 +522,15 @@
               "photo": "day-04/20140805_164018.jpg"
             }
           ],
-          "decision": "add",
-          "target": {
-            "attraction": "charlottetown--peakes-wharf"
-          },
-          "reason": "Вывеска на собственном снимке. Ресторан Peake’s Quay виден снаружи; ужин внутри не подтверждён."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "charlottetown--peakes-wharf"
+            },
+            "reason": "Вывеска на собственном снимке. Ресторан Peake’s Quay виден снаружи; ужин внутри не подтверждён."
+          }
         },
         {
           "label": "Province House",
@@ -528,8 +540,12 @@
               "photo": "day-04/20140805_173042.jpg"
             }
           ],
-          "decision": "pending_identification",
-          "reason": "Фасад сфотографирован; название требует отдельного сопоставления с первичным описанием здания."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Фасад сфотографирован; название требует отдельного сопоставления с первичным описанием здания."
+          }
         },
         {
           "label": "Собор в Шарлоттауне",
@@ -539,8 +555,12 @@
               "photo": "day-04/20140805_170511.jpg"
             }
           ],
-          "decision": "pending_identification",
-          "reason": "Фасад есть на собственном снимке; название не угадывается."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Фасад есть на собственном снимке; название не угадывается."
+          }
         },
         {
           "label": "Бронзовая мышка",
@@ -550,8 +570,12 @@
               "photo": "day-04/20140805_173617.jpg"
             }
           ],
-          "decision": "pending_identification",
-          "reason": "Собственный снимок малой скульптуры; имя неизвестно."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Собственный снимок малой скульптуры; имя неизвестно."
+          }
         },
         {
           "label": "Экскурсия по добыче мидий",
@@ -817,8 +841,12 @@
               "photo": "day-07/DSC02299.jpg"
             }
           ],
-          "decision": "pending_identification",
-          "reason": "Собственный снимок; название не определено."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Собственный снимок; название не определено."
+          }
         }
       ]
     },
@@ -1220,8 +1248,12 @@
               "photo": "day-10/IMG_4749.jpg"
             }
           ],
-          "decision": "pending_identification",
-          "reason": "Название ACADIA читается на борту, но вход на судно не подтверждён; отдельное музейное посещение не выводится."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Название ACADIA читается на борту, но вход на судно не подтверждён; отдельное музейное посещение не выводится."
+          }
         },
         {
           "label": "Морской музей — фасад",
@@ -1231,8 +1263,12 @@
               "photo": "day-10/IMG_4751.jpg"
             }
           ],
-          "decision": "pending_identification",
-          "reason": "Фасад с морским символом, собственного подтверждения входа нет; имя требует сверки."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Фасад с морским символом, собственного подтверждения входа нет; имя требует сверки."
+          }
         },
         {
           "label": "Halifax Public Gardens",
@@ -1377,8 +1413,12 @@
               "photo": "day-11/IMG_4830.jpg"
             }
           ],
-          "decision": "pending_identification",
-          "reason": "Вывески читаются на IMG_4830 и IMG_4831. Не смешиваются с посещением учреждения."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Вывески читаются на IMG_4830 и IMG_4831. Не смешиваются с посещением учреждения."
+          }
         },
         {
           "label": "Bluenose II",
@@ -1749,11 +1789,15 @@
               "photo": "day-14/DSC02348.jpg"
             }
           ],
-          "decision": "add",
-          "target": {
-            "attraction": "fredericton--city-hall"
-          },
-          "reason": "На фото у входа читаются City Hall и Visitor Information. Посещение служебных помещений не утверждается."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "fredericton--city-hall"
+            },
+            "reason": "На фото у входа читаются City Hall и Visitor Information. Посещение служебных помещений не утверждается."
+          }
         },
         {
           "label": "Другие исторические здания и фонтан Фредриктона",
@@ -1763,8 +1807,12 @@
               "photo": "day-14/DSC02319.jpg"
             }
           ],
-          "decision": "pending_identification",
-          "reason": "Фокусные снимки DSC02319, DSC02320, DSC02343, DSC02349 требуют отдельного установления названий."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Фокусные снимки DSC02319, DSC02320, DSC02343, DSC02349 требуют отдельного установления названий."
+          }
         },
         {
           "label": "Водопад Гранд-Фолс",
@@ -1898,11 +1946,6 @@
         "question": "Внешний осмотр по пути; названия неизвестны."
       },
       {
-        "chapter": "content/americas/canada/atlantic-canada-2014/day-02/index.md",
-        "object": "Неизвестный маяк по дороге",
-        "question": "Фото подтверждает внешний вид, имя и точная остановка не установлены."
-      },
-      {
         "chapter": "content/americas/canada/atlantic-canada-2014/day-03/index.md",
         "object": "Ресторан с лобстерами",
         "question": "Реальный ужин; заведение не названо."
@@ -1928,21 +1971,6 @@
         "question": "Вошли на выставку недели Британской Колумбии; точное название площадки не установлено."
       },
       {
-        "chapter": "content/americas/canada/atlantic-canada-2014/day-04/index.md",
-        "object": "Province House",
-        "question": "Фасад сфотографирован; название требует отдельного сопоставления с первичным описанием здания."
-      },
-      {
-        "chapter": "content/americas/canada/atlantic-canada-2014/day-04/index.md",
-        "object": "Собор в Шарлоттауне",
-        "question": "Фасад есть на собственном снимке; название не угадывается."
-      },
-      {
-        "chapter": "content/americas/canada/atlantic-canada-2014/day-04/index.md",
-        "object": "Бронзовая мышка",
-        "question": "Собственный снимок малой скульптуры; имя неизвестно."
-      },
-      {
         "chapter": "content/americas/canada/atlantic-canada-2014/day-05/index.md",
         "object": "Коневодческая ферма",
         "question": "Экскурсия состоялась для всех четырёх; личность владельца и название фермы не установлены."
@@ -1963,11 +1991,6 @@
         "question": "Ночёвка; название отсутствует."
       },
       {
-        "chapter": "content/americas/canada/atlantic-canada-2014/day-07/index.md",
-        "object": "Историческое каменное здание Баддека",
-        "question": "Собственный снимок; название не определено."
-      },
-      {
         "chapter": "content/americas/canada/atlantic-canada-2014/day-08/index.md",
         "object": "Ресторан у причала",
         "question": "Название отсутствует."
@@ -1981,16 +2004,6 @@
         "chapter": "content/americas/canada/atlantic-canada-2014/day-10/index.md",
         "object": "Гостиница около Цитадели",
         "question": "Описание новой гостиницы не даёт надёжного названия."
-      },
-      {
-        "chapter": "content/americas/canada/atlantic-canada-2014/day-10/index.md",
-        "object": "CSS Acadia",
-        "question": "Название ACADIA читается на борту, но вход на судно не подтверждён; отдельное музейное посещение не выводится."
-      },
-      {
-        "chapter": "content/americas/canada/atlantic-canada-2014/day-10/index.md",
-        "object": "Морской музей — фасад",
-        "question": "Фасад с морским символом, собственного подтверждения входа нет; имя требует сверки."
       },
       {
         "chapter": "content/americas/canada/atlantic-canada-2014/day-11/index.md",
@@ -2009,11 +2022,6 @@
       },
       {
         "chapter": "content/americas/canada/atlantic-canada-2014/day-11/index.md",
-        "object": "Бывшая почта и Bank of Montreal",
-        "question": "Вывески читаются на IMG_4830 и IMG_4831. Не смешиваются с посещением учреждения."
-      },
-      {
-        "chapter": "content/americas/canada/atlantic-canada-2014/day-11/index.md",
         "object": "Холодный пляж по дороге",
         "question": "Леля и Митя попробовали воду ногами; полное купание не утверждается."
       },
@@ -2026,11 +2034,6 @@
         "chapter": "content/americas/canada/atlantic-canada-2014/day-13/index.md",
         "object": "Вторая тропа к пляжу",
         "question": "Прошли настил к пляжу; собственное название маршрута не указано."
-      },
-      {
-        "chapter": "content/americas/canada/atlantic-canada-2014/day-14/index.md",
-        "object": "Другие исторические здания и фонтан Фредриктона",
-        "question": "Фокусные снимки DSC02319, DSC02320, DSC02343, DSC02349 требуют отдельного установления названий."
       },
       {
         "chapter": "content/americas/canada/atlantic-canada-2014/day-14/index.md",
@@ -2066,6 +2069,7 @@
       "fredericton--walking-tour",
       "fredericton--city-hall",
       "grand-falls--waterfall"
-    ]
+    ],
+    "photo_scope": "Уточнение владельца 23.10.2026: случайные видимые объекты исключены; серии фактического посещения и фото-главы учитываются. Историческая трактовка сохранена только для проверяемости исправления."
   }
 }

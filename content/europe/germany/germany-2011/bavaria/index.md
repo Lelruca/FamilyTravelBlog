@@ -7,7 +7,6 @@ city: "Ballenberg, Stein am Rhein и Schwangau"
 places:
   - ballenberg
   - stein-am-rhein
-  - rhine-falls
   - schwangau
 hero_image: "P8252210.jpg"
 date: 2011-08-25

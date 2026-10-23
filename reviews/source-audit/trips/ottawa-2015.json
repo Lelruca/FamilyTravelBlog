@@ -198,11 +198,15 @@
               "photo": "ottawa/img_5606.jpg"
             }
           ],
-          "decision": "add",
-          "target": {
-            "attraction": "ottawa--george-brown-monument"
-          },
-          "reason": "На собственном снимке читается BROWN; сопоставлено с официальным перечнем памятников холма."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "ottawa--george-brown-monument"
+            },
+            "reason": "На собственном снимке читается BROWN; сопоставлено с официальным перечнем памятников холма."
+          }
         },
         {
           "label": "Памятник Роберту Бордену",
@@ -212,11 +216,15 @@
               "photo": "ottawa/img_5627.jpg"
             }
           ],
-          "decision": "add",
-          "target": {
-            "attraction": "ottawa--robert-borden-monument"
-          },
-          "reason": "На собственном семейном снимке читается BORDEN; это не могила или музей Бордена."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "ottawa--robert-borden-monument"
+            },
+            "reason": "На собственном семейном снимке читается BORDEN; это не могила или музей Бордена."
+          }
         },
         {
           "label": "Река Оттава и дальний берег",
@@ -341,6 +349,7 @@
       "ottawa--women-are-persons",
       "ottawa--george-brown-monument",
       "ottawa--robert-borden-monument"
-    ]
+    ],
+    "photo_scope": "Уточнение владельца 23.10.2026: случайные видимые объекты исключены; серии фактического посещения и фото-главы учитываются. Историческая трактовка сохранена только для проверяемости исправления."
   }
 }

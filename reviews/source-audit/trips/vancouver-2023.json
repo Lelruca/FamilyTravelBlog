@@ -217,11 +217,15 @@
               "photo": "vancouver/20230213_084516.jpg"
             }
           ],
-          "decision": "add",
-          "target": {
-            "attraction": "vancouver--harbour-centre"
-          },
-          "reason": "Смотровая башня видна с улицы; подъём наверх не утверждается."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "vancouver--harbour-centre"
+            },
+            "reason": "Смотровая башня видна с улицы; подъём наверх не утверждается."
+          }
         },
         {
           "label": "Sinclair Centre",
@@ -231,11 +235,15 @@
               "photo": "vancouver/20230211_114116.jpg"
             }
           ],
-          "decision": "add",
-          "target": {
-            "attraction": "vancouver--sinclair-centre"
-          },
-          "reason": "Фасад и часовая башня; вход в торговую галерею этим снимком не доказан."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "vancouver--sinclair-centre"
+            },
+            "reason": "Фасад и часовая башня; вход в торговую галерею этим снимком не доказан."
+          }
         },
         {
           "label": "Fairmont Hotel Vancouver",
@@ -245,11 +253,15 @@
               "photo": "vancouver/20230210_111920.jpg"
             }
           ],
-          "decision": "add",
-          "target": {
-            "attraction": "vancouver--fairmont-hotel-vancouver"
-          },
-          "reason": "Узнаваемый фасад с зелёной крышей. Проживание в этом отеле не приписывается."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "vancouver--fairmont-hotel-vancouver"
+            },
+            "reason": "Узнаваемый фасад с зелёной крышей. Проживание в этом отеле не приписывается."
+          }
         },
         {
           "label": "Le Soleil hotel",
@@ -277,8 +289,12 @@
               "photo": "vancouver/20230211_114255.jpg"
             }
           ],
-          "decision": "pending_identification",
-          "reason": "Есть семейный снимок, собственное название не установлено."
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Есть семейный снимок, собственное название не установлено."
+          }
         },
         {
           "label": "Горы на горизонте",
@@ -351,6 +367,7 @@
       "vancouver--sinclair-centre",
       "vancouver--fairmont-hotel-vancouver",
       "vancouver--le-soleil-hotel"
-    ]
+    ],
+    "photo_scope": "Уточнение владельца 23.10.2026: случайные видимые объекты исключены; серии фактического посещения и фото-главы учитываются. Историческая трактовка сохранена только для проверяемости исправления."
   }
 }

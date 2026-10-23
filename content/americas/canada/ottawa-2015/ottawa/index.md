@@ -8,7 +8,7 @@ layout: "photo-story"
 city: "Оттава"
 places: ["ottawa"]
 auto_gallery: false
-attractions: ["ottawa--parliament-hill","ottawa--women-are-persons","ottawa--george-brown-monument","ottawa--robert-borden-monument"]
+attractions: ["ottawa--parliament-hill","ottawa--women-are-persons"]
 ---
 
 <p>Во второй день нашего мини-путешествия мы выспались и отправились в Парламент. Вот спать можно было бы и поменьше, т.к. билеты на весь день на бесплатное посещение Парламента уже закончились :-) Ну мы не сильно расстраивались, а просто погуляли, подурачились, пофоткались...</p>

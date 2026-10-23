@@ -5,7 +5,7 @@ layout: "photo-story"
 weight: 60
 day_num: 5
 auto_gallery: false
-attractions: ["saumur--chateau-bouvet-ladubay","saumur--chateau-saumur"]
+attractions: ["saumur--chateau-bouvet-ladubay"]
 places:
   - puy-du-fou
   - saumur

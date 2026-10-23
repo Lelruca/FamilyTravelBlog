@@ -4249,15 +4249,6 @@
     "query": "Concord Massachusetts",
     "note": "Concord, Middlesex County, Massachusetts; North Bridge photographed during Liberty Ride, not Concord in New Hampshire."
   },
-  "rhine-falls": {
-    "lat": 47.6772222222,
-    "lon": 8.6158333333,
-    "name": "Rhine Falls / Rheinfall",
-    "country_code": "CH",
-    "source": "https://www.wikidata.org/wiki/Q214924",
-    "query": "Rheinfall Switzerland",
-    "note": "Самостоятельное природное место; выявлено по собственному снимку P8252216.JPG от 25 августа 2011. Не Рейхенбахский водопад."
-  },
   "cellettes": {
     "lat": 47.528055555555554,
     "lon": 1.3805555555555555,
@@ -4298,13 +4289,5 @@
     "country_code": "US",
     "source": "https://www.openstreetmap.org/relation/112100",
     "query": "Лонг-Бич, California, USA; municipal geographic term"
-  },
-  "beverly-hills": {
-    "lat": 34.0696501,
-    "lon": -118.3963062,
-    "name": "Беверли-Хиллз",
-    "country_code": "US",
-    "source": "https://www.openstreetmap.org/relation/3503615",
-    "query": "Беверли-Хиллз, California, USA; municipal geographic term"
   }
 }

@@ -11,7 +11,7 @@ places:
   - notre-dame-paris
   - eiffel-tower
 hero_image: "IMG_0877.jpg"
-attractions: ["musee-orsay","notre-dame-paris","eiffel-tower","paris--hotel-sainte-marie","paris--fontaine-saint-michel","louvre","paris--arc-carrousel","paris--joan-of-arc-pyramides","paris--sad-tyuilri","place-concorde","paris--pont-alexandre-iii","invalides"]
+attractions: ["musee-orsay","notre-dame-paris","eiffel-tower","paris--hotel-sainte-marie","paris--fontaine-saint-michel","louvre","paris--sad-tyuilri","invalides"]
 ---
 
 <p>От бабушки до Парижа на самом деле не так и далеко, примерно 500 км или 5 часов пути. Выехали мы в 6 утра и уже в 10 часов подъезжали к Парижу. Подъезд со стороны Бельгии как-то не отличается особой красотой - спальные районы с довольно убогими высотками. Не знаю, все это добавляло скептицизма к моему почему-то внутренне довольно настороженному отношению к этому знаменитому городу.</p>

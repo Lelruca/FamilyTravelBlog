@@ -20,7 +20,6 @@ const standaloneTypes={
  'haut-koenigsbourg':['castle'],
  'hohenschwangau':['castle'],
  'neuschwanstein':['castle'],
- 'rhine-falls':['waterfall'],
  'le-pin-au-haras':['equestrian_centre'],
  'puy-du-fou':['amusement_park'],
  'chenonceau':['castle','museum'],

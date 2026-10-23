@@ -9,7 +9,7 @@ places:
   - mont-saint-michel
   - saint-malo
 hero_image: "IMG_1218.jpg"
-attractions: ["mont-saint-michel--abbatstvo-mon-sen-mishel","saint-malo--sobor-sen-malo","saint-malo--ramparts","saint-malo--castle","saint-malo--bon-secours","saint-malo--maison-du-quebec"]
+attractions: ["mont-saint-michel--abbatstvo-mon-sen-mishel","saint-malo--sobor-sen-malo","saint-malo--ramparts","saint-malo--bon-secours","saint-malo--maison-du-quebec"]
 ---
 
 <p>(Ну вот, описать первые 3 дня мне сразу по приезду времени хватило, а вот продолжение пишу уже через несколько месяцев).</p>
