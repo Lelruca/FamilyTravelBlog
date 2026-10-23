@@ -411,6 +411,181 @@
           "note": "Выставка и коллекции составляют посещение одного музея."
         }
       ]
+    },
+    "content/americas/canada/quebec-virginia-2013/canada-games/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "sherbrooke--jacques-cartier-park",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 51,
+              "quote": "отправились на церемонию закрытия"
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
+          "note": "Место церемонии 17 августа 2013 установлено по сообщению правительства Канады; дата совпадает с семейными фотографиями. Церемонию открытия родители смотрели по телевизору."
+        }
+      ]
+    },
+    "content/americas/canada/quebec-virginia-2013/magog/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "magog--lake-memphremagog",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 85,
+              "quote": "на берегу озера"
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
+          "note": "Авторский рассказ и собственные панорамы набережной сопоставлены с муниципальными сведениями о береговой зоне Магога. Не утверждается купание или прогулка на корабле."
+        }
+      ]
+    },
+    "content/americas/canada/quebec-virginia-2013/virginia-beach-1/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "virginia-beach--king-neptune",
+          "event": "exterior",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 118,
+              "quote": "побежали к океану и к Нептуну"
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
+          "note": "Семейный снимок 20130818_232622.jpg подтверждает непосредственный осмотр статуи."
+        },
+        {
+          "id": "virginia-beach--oceanfront-beach",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 122,
+              "quote": "это длинный пляж с хорошим песком"
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
+        },
+        {
+          "id": "virginia-beach--boardwalk",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 122,
+              "quote": "набережная"
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
+          "note": "В рассказе деревянный настил; авторскую формулировку не исправляли. Официальное название Boardwalk подтверждено городским туристическим источником."
+        }
+      ]
+    },
+    "content/americas/canada/quebec-virginia-2013/virginia-beach-2/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "virginia-beach--oceanfront-beach",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 131,
+              "quote": "пляжу я ставлю 10 баллов из 10"
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
+        },
+        {
+          "id": "virginia-beach--boardwalk",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 144,
+              "quote": "велосипед кататься по набережной"
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
+          "note": "Велопрогулка без Сергея."
+        }
+      ]
+    },
+    "content/americas/canada/quebec-virginia-2013/virginia-beach-3/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "virginia-beach--akvarium-virdzhinii",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 160,
+              "quote": "Были мы, во-первых, в"
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
+        },
+        {
+          "id": "military-aviation-museum",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 173,
+              "quote": "военно-исторический авиационный музей"
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
+          "note": "Самолёты и залы учитываются в составе одного музея."
+        },
+        {
+          "id": "nauticus",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 213,
+              "quote": "в музее \"Наутикус\" в городе Норфолк"
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
+        },
+        {
+          "id": "norfolk--linkor-viskonsin",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 238,
+              "quote": "Мы по нему полазили конечно"
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
+          "note": "Посещение корабля прямо подтверждено текстом и семейными кадрами; общий заимствованный снимок не является единственным основанием."
+        }
+      ]
+    },
+    "content/americas/canada/quebec-virginia-2013/conclusion/index.md": {
+      "source_review": "read",
+      "visits": []
     }
   }
 }

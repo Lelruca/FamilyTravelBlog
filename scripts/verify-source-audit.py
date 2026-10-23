@@ -61,3 +61,4 @@ print(f'{len(reports)} trip reports; {len(read)}/{len(actual)} chapters read; {l
 print('Audit IN PROGRESS. Valid evidence and valid structure do not prove absence of omissions.')
 if '--require-complete' in sys.argv:
     assert all(c['text_status']=='read' and c['photos_status']=='reviewed' and c['reconciliation_status']=='complete' for c in inventory['chapters']),'Unread or unreconciled materials remain'
+    assert inventory.get('cross_worktree_scope')=='reconciled','Other active draft sources have not been reconciled'

@@ -10195,5 +10195,115 @@
       "museum",
       "museums"
     ]
+  },
+  "sherbrooke--jacques-cartier-park": {
+    "title": "Парк Жак-Картье",
+    "parent": "sherbrooke",
+    "types": [
+      "park"
+    ],
+    "aliases": [
+      "Parc Jacques-Cartier",
+      "Jacques-Cartier Park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "Parc Jacques-Cartier",
+      "Jacques-Cartier Park"
+    ]
+  },
+  "magog--lake-memphremagog": {
+    "title": "Озеро Мемфремагог",
+    "parent": "magog",
+    "types": [
+      "lake"
+    ],
+    "aliases": [
+      "Lac Memphrémagog",
+      "Lake Memphremagog"
+    ],
+    "search_terms": [
+      "озеро",
+      "озёра",
+      "озера",
+      "озёр",
+      "lake",
+      "Lac Memphrémagog",
+      "Lake Memphremagog"
+    ]
+  },
+  "virginia-beach--king-neptune": {
+    "title": "Статуя Нептуна",
+    "parent": "virginia-beach",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "King Neptune",
+      "King Neptune Statue"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "King Neptune",
+      "King Neptune Statue"
+    ]
+  },
+  "virginia-beach--boardwalk": {
+    "title": "Набережная Вирджиния-Бич",
+    "parent": "virginia-beach",
+    "types": [
+      "street",
+      "walking_route"
+    ],
+    "aliases": [
+      "Virginia Beach Boardwalk"
+    ],
+    "search_terms": [
+      "улица",
+      "улицы",
+      "улиц",
+      "проспект",
+      "бульвар",
+      "набережная",
+      "набережные",
+      "street",
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "Virginia Beach Boardwalk"
+    ]
+  },
+  "virginia-beach--oceanfront-beach": {
+    "title": "Пляж Вирджиния-Бич",
+    "parent": "virginia-beach",
+    "types": [
+      "beach"
+    ],
+    "aliases": [
+      "Virginia Beach Oceanfront"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach",
+      "Virginia Beach Oceanfront"
+    ]
   }
 }

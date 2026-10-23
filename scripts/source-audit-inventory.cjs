@@ -23,7 +23,22 @@ const chapters = walk('content').filter(f => f.endsWith('/index.md') && !f.start
 });
 const result = {version:2, status:'in_progress', baseline_commit:previous.baseline_commit || cp.execFileSync('git',['rev-parse','HEAD'],{encoding:'utf8'}).trim(),
   scope:'Every chapter in content, including drafts. Sources and photographs require separate explicit review; file discovery is not reading.',
+  cross_worktree_scope:previous.cross_worktree_scope || 'pending_reconciliation_of_other_active_drafts',
   trips:[...new Set(chapters.map(c=>c.trip_path))].sort(), chapters};
+if(process.argv.includes('--sync-reports')){
+  const dir='reviews/source-audit/trips';
+  for(const name of fs.readdirSync(dir).filter(f=>f.endsWith('.json'))){
+    const report=JSON.parse(fs.readFileSync(`${dir}/${name}`,'utf8'));
+    for(const c of chapters.filter(c=>c.trip_path===report.trip_path)){
+      const reviewed=report.chapters.find(r=>r.file===c.file);
+      if(!reviewed)continue;
+      c.text_status=reviewed.text_status;
+      c.photos_status=report.photographs.status==='reviewed'?'reviewed':'unreviewed';
+      c.reconciliation_status=report.status==='complete'?'complete':report.photographs.status==='reviewed'?'identifications_open':'pending';
+      c.report=`${dir}/${name}`;
+    }
+  }
+}
 fs.mkdirSync(path.dirname(file),{recursive:true});
 fs.writeFileSync(file,JSON.stringify(result,null,2)+'\n');
 console.log(`${result.trips.length} trips, ${chapters.length} chapters; read ${chapters.filter(c=>c.text_status==='read').length}; photos reviewed ${chapters.filter(c=>c.photos_status==='reviewed').length}. Audit remains in progress.`);

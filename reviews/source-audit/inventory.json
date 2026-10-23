@@ -3,6 +3,7 @@
   "status": "in_progress",
   "baseline_commit": "fa414a929c95a5aa99cde29446c7b66a162ff942",
   "scope": "Every chapter in content, including drafts. Sources and photographs require separate explicit review; file discovery is not reading.",
+  "cross_worktree_scope": "pending_reconciliation_of_other_active_drafts",
   "trips": [
     "content/americas/argentina/south-america-2026",
     "content/americas/canada/atlantic-canada-2014",
@@ -792,11 +793,11 @@
       "trip_path": "content/americas/canada/quebec-virginia-2013",
       "title": "\"Canada Games\"",
       "draft": false,
-      "source_sha256_lf": "e40d8c907ba6072bb771ae9d1e8d800c7fe186efb89d297fa063baf5de98426e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "d0bf121b95339a54e29bcf7f9245ad6ceff9f2965bf6f23466db3ea43fafae14",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
     },
     {
       "file": "content/americas/canada/quebec-virginia-2013/conclusion/index.md",
@@ -805,10 +806,10 @@
       "title": "\"Заключение\"",
       "draft": false,
       "source_sha256_lf": "2d806f1d0c7b1e2b4dbbc6368dc7b57572c5c71e96ab685ec19558974cbfb595",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
     },
     {
       "file": "content/americas/canada/quebec-virginia-2013/magog/index.md",
@@ -816,11 +817,11 @@
       "trip_path": "content/americas/canada/quebec-virginia-2013",
       "title": "\"Magog\"",
       "draft": false,
-      "source_sha256_lf": "7738e28d64ca4371df7633554f8a9ad386f61a5acd2bbef2ebd97108dad010f4",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "f74853f99b46d4fadca34895a148b9cd5a4efbd1c82c487e73287b2556da91eb",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
     },
     {
       "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-1/index.md",
@@ -828,11 +829,11 @@
       "trip_path": "content/americas/canada/quebec-virginia-2013",
       "title": "\"Вирджиния Бич\"",
       "draft": false,
-      "source_sha256_lf": "e6721a858e2733b0b8bd7596c8a3795e6f2aceb4081a02f7fa9edc204338e1a7",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "195b4d02ac8808c37f21c59fcb5e9661c87d82eaf4f93ae0feefcbb4df46a05a",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
     },
     {
       "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-2/index.md",
@@ -840,11 +841,11 @@
       "trip_path": "content/americas/canada/quebec-virginia-2013",
       "title": "\"Океан\"",
       "draft": false,
-      "source_sha256_lf": "69d11900d9ad72dbf58e7867c61458db21368d127ee8581d19d9be583fdaa5dc",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "cd547e2ae311e9a0ff94a4e8bc440690fb28cb84a31b2b9b3bae6ef3f18553f7",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
     },
     {
       "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-3/index.md",
@@ -853,10 +854,10 @@
       "title": "\"Музеи\"",
       "draft": false,
       "source_sha256_lf": "0fb3286136392939b8ea458cf370558526850244411b223618318ca735d11f9f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
     },
     {
       "file": "content/americas/canada/rockies-2018/badlands/index.md",
