@@ -1,0 +1,56 @@
+{
+  "trip_path": "content/americas/usa/detroit-windsor-2016",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/Отчеты/2016 Aug - Детройт и Виндзор.docx",
+    "sha256": "1d78e72fe498a2148b6b9f7c969084ec5a60d42d0f76d308a437d93aa67083e1",
+    "read": "Все 57 абзацев OOXML, включая заголовок, заключительный абзац, пустые строки и прежние вставки; восемь содержательных авторских абзацев прочитаны целиком.",
+    "chapter_text_read": ["story", "detroit"],
+    "owner_rule": "Деревня Форда учитывается одним объектом. Внутренние объекты не перечисляются и отдельных меток не получают."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "manifest": "media-manifests/detroit-windsor-2016.json",
+    "reviewed": 53,
+    "method": "Визуально просмотрены пять контактных листов всех 52 текущих оригиналов глав и отдельной обложки. Перед просмотром каждый оригинал сопоставлен с SHA-256 реестра.",
+    "scope": "Текущий состав сайта; не весь семейный архив OneDrive и не удалённые владельцем фотографии.",
+    "result": "Фото подтверждают посещение деревни, музея Форда, художественного музея и проезд по городу. Неназванные городские здания и ресторан не идентифицированы по догадке."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/usa/detroit-windsor-2016/story/index.md",
+      "text_status": "read",
+      "objects": [
+        {"label":"Детройт","event":"mentioned","evidence":[{"source_paragraph":2,"quote":"решили совместить нашу поезду на южный берег Канады с «разведкой» Детройта"}],"decision":"covered_in_other_chapter","target":"content/americas/usa/detroit-windsor-2016/detroit/index.md","reason":"В этой главе вступление к поездке; городской осмотр описан в следующей главе."},
+        {"label":"Торонто","event":"mentioned","evidence":[{"source_paragraph":2,"quote":"рассказывают у нас в Торонто"}],"decision":"exclude","reason":"Домашний город и отправная точка, осмотр в этой поездке не описан."},
+        {"label":"Дирборн","event":"visited","evidence":[{"source_paragraph":2,"quote":"музей и деревня самого Форда в пригороде – Дирборне"}],"decision":"retain","target":{"places":"dearborn"}},
+        {"label":"Гринфилд-Виллидж","event":"visited","evidence":[{"source_paragraph":2,"quote":"купили билет в деревню и музей"},{"source_paragraph":4,"quote":"В одной этой деревне можно целый день провести и не заметить!"}],"decision":"retain","target":{"attraction":"dearborn--grinfild-villidzh"}},
+        {"label":"Музей Генри Форда","event":"visited","evidence":[{"source_paragraph":25,"quote":"В итоге мы пробежали «по верхушкам» и в музей Форда."}],"decision":"retain","target":{"attraction":"dearborn--muzey-genri-forda"}},
+        {"label":"Экскурсия на работающий завод Форда","event":"cancelled_plan","evidence":[{"source_paragraph":2,"quote":"мы решили что в этот раз у нас времени не хватит и купили билет в деревню и музей"}],"decision":"exclude","reason":"Прямой отказ от заводской экскурсии. Не размечать как посещённый завод; точное название тура не установлено по источнику."}
+      ]
+    },
+    {
+      "file": "content/americas/usa/detroit-windsor-2016/detroit/index.md",
+      "text_status": "read",
+      "objects": [
+        {"label":"Детройт","event":"visited","evidence":[{"source_paragraph":42,"quote":"Очень красивый даунтаун, чисто, много новых зданий, ремонт везде идет."}],"decision":"retain","target":{"places":"detroit"}},
+        {"label":"Детройтский институт искусств","event":"visited","evidence":[{"source_paragraph":42,"quote":"В кассе музея я вдруг вспомнила спросить нет ли скидок для CAA/AAA членов и мне продали 2 билета по цене одного!"},{"source_paragraph":42,"quote":"Сам музей очень хорош! Колоекция богатая!"}],"decision":"retain","target":{"attraction":"detroit--detroytskiy-institut-iskusstv"},"photo":"story/20160702_170452.jpg"},
+        {"label":"Музей истории Детройта","event":"mentioned","evidence":[{"source_paragraph":51,"quote":"Напротив той же галереи – музей истории Детройта, например."}],"decision":"exclude","reason":"Пример оставшегося интересного места; вход и осмотр не описаны. Не превращать сожаление о недосмотренном в посещение."},
+        {"label":"Виндзор (Онтарио)","event":"visited","evidence":[{"source_paragraph":54,"quote":"Ужинали мы в Виндзоре – городе на канадкой стороне."}],"decision":"retain","target":{"places":"windsor-ontario"}},
+        {"label":"Университет в Виндзоре","event":"exterior","evidence":[{"source_paragraph":54,"quote":"Мы покрутились вокруг университета (на предмет инвестиций)"}],"decision":"pending_identification","reason":"Окрестности университета осмотрены; вход не утверждается. Собственное название в авторском тексте отсутствует, автоматически не подставлено."},
+        {"label":"Ресторан в Виндзоре","event":"visited","evidence":[{"source_paragraph":54,"quote":"Ужинали мы в Виндзоре"}],"decision":"exclude","reason":"Название не сообщено и на просмотренном кадре ужина не прочитано. Событие покрыто географией Виндзора."},
+        {"label":"Городские здания на снимках Детройта","event":"exterior","evidence":[{"photo":"story/20160702_171802.jpg"},{"photo":"story/20160702_171957.jpg"},{"photo":"story/20160702_172049.jpg"},{"photo":"cover/20160806_133129.jpg"}],"decision":"exclude","reason":"Панорамы и городской проезд покрыты меткой Детройта; названия отдельных зданий не подтверждены и не выдуманы."},
+        {"label":"Повторный приезд в Дирборн с детьми","event":"visited_other_date","evidence":[{"source_paragraph":55,"quote":"А в Детройт мы потом вернулись с детьми, но тоже на один день и только в Дирборн."}],"decision":"retain_geography_only","target":{"places":"dearborn"},"reason":"Повторный приезд подтверждён, но состав повторно посещённых учреждений не назван. Не приписывать детям художественный музей или конкретную программу."},
+        {"label":"Музей Форда","event":"cross_reference","evidence":[{"source_paragraph":42,"quote":"жаль в музее Форда мы не спросили!"}],"decision":"covered_in_other_chapter","target":"content/americas/usa/detroit-windsor-2016/story/index.md","reason":"Сравнение билетов, а не новое посещение в Детройте."}
+      ]
+    }
+  ],
+  "reconciliation": {
+    "existing_attractions_accounted_for": ["dearborn--grinfild-villidzh","dearborn--muzey-genri-forda","detroit--detroytskiy-institut-iskusstv"],
+    "new_attractions": [],
+    "navigation_changes": [],
+    "reason_no_component_additions": "Прямое указание владельца: деревня Форда — один объект; её внутренние детали нигде не перечислять.",
+    "questions": ["Собственное название университета в Виндзоре не подтверждено исходным текстом; не подменять внешнее знакомство посещением внутри."],
+    "repeat_check": "После чтения обеих глав повторно сопоставлены все перечисленные выше самостоятельные объекты с текущими places/attractions. Три имеющиеся предметные метки подтверждены; отменённый завод и упомянутый исторический музей не добавлены."
+  }
+}

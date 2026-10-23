@@ -1,0 +1,416 @@
+{
+  "status": "partial",
+  "default_for_unlisted_chapters": "not_audited",
+  "chapters": {
+    "content/americas/usa/detroit-windsor-2016/story/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "dearborn--grinfild-villidzh",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "купили билет в деревню и музей"
+            },
+            {
+              "source_paragraph": 4,
+              "quote": "В одной этой деревне можно целый день провести и не заметить!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/detroit-windsor-2016.json"
+        },
+        {
+          "id": "dearborn--muzey-genri-forda",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 25,
+              "quote": "В итоге мы пробежали «по верхушкам» и в музей Форда."
+            }
+          ],
+          "report": "reviews/source-audit/trips/detroit-windsor-2016.json"
+        }
+      ]
+    },
+    "content/americas/usa/detroit-windsor-2016/detroit/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "detroit--detroytskiy-institut-iskusstv",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 42,
+              "quote": "В кассе музея я вдруг вспомнила спросить нет ли скидок для CAA/AAA членов и мне продали 2 билета по цене одного!"
+            },
+            {
+              "source_paragraph": 42,
+              "quote": "Сам музей очень хорош! Колоекция богатая!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/detroit-windsor-2016.json"
+        }
+      ]
+    },
+    "content/americas/canada/mcmichael-2023/mcmichael/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "mcmichael-gallery",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "McMichael - это один из наших любимых музеев Торонто и окрестностей."
+            },
+            {
+              "source_paragraph": 1,
+              "quote": "Он всем хорош."
+            },
+            {
+              "photo": "mcmichael/20231104_140857.jpg"
+            },
+            {
+              "photo": "mcmichael/20231104_143052.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mcmichael-2023.json",
+          "note": "Самостоятельное музейное учреждение. Название коллекции не превращено в отдельное место. Городская группировка Торонто сохраняет прежнее прямое указание владельца; это не утверждение об административных границах Торонто."
+        }
+      ]
+    },
+    "content/americas/usa/new-england-2015/cape-cod/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "cape-cod--covells-beach",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "Купались мы каждый день по 2 раза"
+            },
+            {
+              "photo": "cape-cod/DSC04441.JPG"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "Посещение подтверждено рассказом, имя читается на собственной фотографии."
+        }
+      ]
+    },
+    "content/americas/usa/new-england-2015/pilgrims/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "provincetown--monument-piligrimam",
+          "event": "visited_and_adjacent_museum",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 38,
+              "quote": "И мы туда все поднялись!!!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "Официально единый комплекс Pilgrim Monument and Provincetown Museum. Подъём подтверждён; отдельное посещение музея в тексте не сформулировано. Тип museum описывает комплекс, а не доказывает вход в музей."
+        },
+        {
+          "id": "provincetown--muzey-piratov",
+          "event": "visited",
+          "participants": [
+            "Наташа",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 45,
+              "quote": "дети сходили в музей пиратов вдвоем"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "Посещение остальных членов семьи не утверждается."
+        },
+        {
+          "id": "plimoth-plantation",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 57,
+              "quote": "Plantation (5+/5+/4/4/3)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "Единый музейный комплекс; внутренние объекты отдельно не перечисляются."
+        },
+        {
+          "id": "mayflower-ii",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 77,
+              "quote": "Mayflower II"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
+        }
+      ]
+    },
+    "content/americas/usa/new-england-2015/settlement/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "strawbery-banke",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 101,
+              "quote": "после посещения музея"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
+        },
+        {
+          "id": "ogunquit--ogunquit-beach",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 122,
+              "quote": "Мы правда только ножки помочили"
+            },
+            {
+              "photo": "settlement/20150813_191210.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "Посещение подтверждено рассказом, имя читается на собственной фотографии."
+        }
+      ]
+    },
+    "content/americas/usa/new-england-2015/boston/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "boston--freedom-trail",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 149,
+              "quote": "Мы так и прошли, читая надписи"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "Описание краснокирпичного маршрута сопоставлено с официальным описанием Freedom Trail; подтверждены отдельные остановки фотографиями. Не утверждается прохождение всех 16 остановок."
+        },
+        {
+          "id": "boston--muzey-nauki-bostona",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 165,
+              "quote": "детском музее Науки"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "Оценки музея и выставки различаются; прочерк в отдельной оценке не доказывает отсутствия участника."
+        },
+        {
+          "id": "boston--west-end",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 181,
+              "quote": "через довольно непримечательный район - West End"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "Пеший осмотр района подтверждён; существующая метка музея не равна географической метке района."
+        },
+        {
+          "id": "boston--muzey-vest-enda",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 181,
+              "quote": "Зашли и “попали”"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
+        },
+        {
+          "id": "boston--public-garden",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "boston/20150814_094639.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "На собственном фото читается Public Garden, 1837. Не отождествлять с первым городским парком Boston Common 1634 года."
+        },
+        {
+          "id": "boston--massachusetts-state-house",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "boston/20150814_105125.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "На снимке семья перед узнаваемым фасадом с золотым куполом; это внешний осмотр, вход не подтверждён."
+        },
+        {
+          "id": "boston--old-state-house",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "boston/20150814_120252.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "Здание опознано по собственному снимку; официальная страница подтверждает имя и музейную функцию. Подтверждён внешний осмотр, вход в музей не описан."
+        }
+      ]
+    },
+    "content/americas/usa/new-england-2015/american-revolution/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "lexington--liberty-ride",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 191,
+              "quote": "Liberty ride (2/3/2/2/5)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "Состоявшаяся экскурсия с индивидуальными оценками; сохранить как экскурсионный маршрут, не как музей."
+        },
+        {
+          "id": "concord-ma--north-bridge",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "american-revolution/20150815_135422.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "Сопоставлены мост и соседняя могила британских солдат (20150815_135327.jpg) с официальными материалами NPS. Конкорд добавлен в places главы; это не Конкорд в Нью-Гэмпшире. Мемориальные детали не дробятся на отдельные метки."
+        }
+      ]
+    },
+    "content/americas/usa/new-england-2015/industrial-revolution/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "lowell--natsionalnyy-istoricheskiy-park-louella",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 212,
+              "quote": "вся фабрика сейчас это национальный музей"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "Цеха и экспозиции не получают отдельных меток."
+        },
+        {
+          "id": "springfield--muzey-springfildskogo-arsenala",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 236,
+              "quote": "нам рассказали про американскую оружейную промышленность"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
+        }
+      ]
+    },
+    "content/americas/usa/new-england-2015/gilded-age/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "the-breakers",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 259,
+              "quote": "The Breakers"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "Сад, пляж и внутренние помещения покрыты одним объектом."
+        },
+        {
+          "id": "the-elms",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 276,
+              "quote": "The Elms"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
+        }
+      ]
+    },
+    "content/americas/usa/new-england-2015/cultural-heritage/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "tanglewood",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 297,
+              "quote": "Мы попали на концерт"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
+        },
+        {
+          "id": "the-clark",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 313,
+              "quote": "The Clark"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json",
+          "note": "Выставка и коллекции составляют посещение одного музея."
+        }
+      ]
+    }
+  }
+}

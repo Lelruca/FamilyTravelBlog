@@ -1,0 +1,20 @@
+{
+  "source_commit": "4080467910f9a4383d6308259e25f34ee7b6aab9",
+  "source_branch": "codex/places-full-audit",
+  "status": "prior_corrections_preserved_not_newly_audited",
+  "associations": {
+    "content/europe/france/europe-friends-2019/munich-residence/index.md": [
+      "munich--deutsches-museum"
+    ],
+    "content/europe/france/europe-friends-2019/munich-rothenburg/index.md": [
+      "munich--ns-dokumentationszentrum"
+    ],
+    "content/europe/france/barcelona-occitanie-2024/barcelona/index.md": [
+      "barcelona--park-guel"
+    ],
+    "content/americas/canada/atlantic-canada-2014/day-07/index.md": [
+      "highland-village"
+    ]
+  },
+  "note": "Четыре уже подготовленных исправления отсутствовали в снимке origin/main. Сохранены определения, связи и ранее согласованная группировка Highland Village. Эти главы НЕ помечаются прочитанными в новом аудите; исходники и фото каждой поездки ещё нужно пройти заново. Макмайкл отдельно уже проверен по исходному Facebook JSON и всем фотографиям."
+}

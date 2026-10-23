@@ -4239,5 +4239,14 @@
     "country_code": "CU",
     "source": "https://www.openstreetmap.org/relation/5887667",
     "query": "Ciego de Ávila, Cuba"
+  },
+  "concord-massachusetts": {
+    "lat": 42.4605189,
+    "lon": -71.3488963,
+    "name": "Concord, Massachusetts",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/1840166",
+    "query": "Concord Massachusetts",
+    "note": "Concord, Middlesex County, Massachusetts; North Bridge photographed during Liberty Ride, not Concord in New Hampshire."
   }
 }

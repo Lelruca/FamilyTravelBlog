@@ -1,0 +1,3685 @@
+{
+  "agawa-rock": {
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ],
+    "classification_sources": [
+      "data/attractions.json#agawa-rock"
+    ]
+  },
+  "albertina": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#albertina"
+    ]
+  },
+  "albi-cathedral": {
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#albi-cathedral"
+    ]
+  },
+  "alcazar-segovia": {
+    "types": [
+      "palace",
+      "castle"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ],
+    "classification_sources": [
+      "data/attractions.json#alcazar-segovia"
+    ]
+  },
+  "alhambra": {
+    "types": [
+      "palace",
+      "castle"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ],
+    "classification_sources": [
+      "data/attractions.json#alhambra"
+    ]
+  },
+  "allmendhubel": {
+    "types": [
+      "mountain"
+    ],
+    "search_terms": [
+      "гора",
+      "горы",
+      "холм",
+      "холмы",
+      "mountain",
+      "hill"
+    ],
+    "classification_sources": [
+      "data/attractions.json#allmendhubel"
+    ]
+  },
+  "almudena-cathedral": {
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#almudena-cathedral"
+    ]
+  },
+  "amsterdam-museum": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#amsterdam-museum"
+    ]
+  },
+  "arc-triomphe": {
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ],
+    "classification_sources": [
+      "data/attractions.json#arc-triomphe"
+    ]
+  },
+  "barcelona-cathedral": {
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#barcelona-cathedral"
+    ]
+  },
+  "bargello": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#bargello"
+    ]
+  },
+  "barri-gotic": {
+    "types": [
+      "district"
+    ],
+    "search_terms": [
+      "район",
+      "районы",
+      "квартал",
+      "кварталы",
+      "district",
+      "neighbourhood"
+    ],
+    "classification_sources": [
+      "data/attractions.json#barri-gotic"
+    ]
+  },
+  "belem": {
+    "types": [
+      "district"
+    ],
+    "search_terms": [
+      "район",
+      "районы",
+      "квартал",
+      "кварталы",
+      "district",
+      "neighbourhood"
+    ],
+    "classification_sources": [
+      "data/attractions.json#belem"
+    ]
+  },
+  "belvedere": {
+    "types": [
+      "museum",
+      "gallery",
+      "palace"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art",
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ],
+    "classification_sources": [
+      "data/attractions.json#belvedere"
+    ]
+  },
+  "bilbao-fine-arts": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#bilbao-fine-arts"
+    ]
+  },
+  "binnenhof": {
+    "types": [
+      "civic_building"
+    ],
+    "search_terms": [
+      "общественное здание",
+      "административное здание",
+      "civic building"
+    ],
+    "classification_sources": [
+      "data/attractions.json#binnenhof"
+    ]
+  },
+  "bioparc-valencia": {
+    "types": [
+      "zoo"
+    ],
+    "search_terms": [
+      "зоопарк",
+      "зоопарки",
+      "зоопарка",
+      "зоопарков",
+      "животные",
+      "биопарк",
+      "zoo"
+    ],
+    "classification_sources": [
+      "data/attractions.json#bioparc-valencia"
+    ]
+  },
+  "bodeguita-del-medio": {
+    "types": [
+      "restaurant"
+    ],
+    "search_terms": [
+      "ресторан",
+      "рестораны",
+      "бар",
+      "кабаре",
+      "restaurant",
+      "cabaret"
+    ],
+    "classification_sources": [
+      "data/attractions.json#bodeguita-del-medio"
+    ]
+  },
+  "bonaventure-island": {
+    "types": [
+      "island"
+    ],
+    "search_terms": [
+      "остров",
+      "острова",
+      "островов",
+      "island"
+    ],
+    "classification_sources": [
+      "data/attractions.json#bonaventure-island"
+    ]
+  },
+  "burgos-cathedral": {
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#burgos-cathedral"
+    ]
+  },
+  "cabo-da-roca": {
+    "types": [
+      "cape"
+    ],
+    "search_terms": [
+      "мыс",
+      "мысы",
+      "мыса",
+      "cape"
+    ],
+    "classification_sources": [
+      "data/attractions.json#cabo-da-roca"
+    ]
+  },
+  "cadre-noir": {
+    "types": [
+      "equestrian_centre"
+    ],
+    "search_terms": [
+      "верховая езда",
+      "конная школа",
+      "лошади",
+      "equestrian"
+    ],
+    "classification_sources": [
+      "data/attractions.json#cadre-noir"
+    ]
+  },
+  "capitolio-havana": {
+    "types": [
+      "civic_building"
+    ],
+    "search_terms": [
+      "общественное здание",
+      "административное здание",
+      "civic building"
+    ],
+    "classification_sources": [
+      "data/attractions.json#capitolio-havana"
+    ]
+  },
+  "capuchos-convent": {
+    "types": [
+      "monastery"
+    ],
+    "search_terms": [
+      "монастырь",
+      "монастыри",
+      "монастыря",
+      "монастырей",
+      "аббатство",
+      "аббатства",
+      "monastery",
+      "abbey"
+    ],
+    "classification_sources": [
+      "data/attractions.json#capuchos-convent"
+    ]
+  },
+  "cartuja-miraflores": {
+    "types": [
+      "monastery"
+    ],
+    "search_terms": [
+      "монастырь",
+      "монастыри",
+      "монастыря",
+      "монастырей",
+      "аббатство",
+      "аббатства",
+      "monastery",
+      "abbey"
+    ],
+    "classification_sources": [
+      "data/attractions.json#cartuja-miraflores"
+    ]
+  },
+  "casa-batllo": {
+    "types": [
+      "historic_house",
+      "museum"
+    ],
+    "search_terms": [
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#casa-batllo"
+    ]
+  },
+  "casa-mila": {
+    "types": [
+      "historic_house",
+      "museum"
+    ],
+    "search_terms": [
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#casa-mila"
+    ]
+  },
+  "castel-sant-angelo": {
+    "types": [
+      "castle",
+      "museum"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#castel-sant-angelo"
+    ]
+  },
+  "castello-sforzesco": {
+    "types": [
+      "castle",
+      "museum"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#castello-sforzesco"
+    ]
+  },
+  "catedral-havana": {
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#catedral-havana"
+    ]
+  },
+  "cathedrale-major-marseille": {
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#cathedrale-major-marseille"
+    ]
+  },
+  "champs-elysees": {
+    "types": [
+      "street"
+    ],
+    "search_terms": [
+      "улица",
+      "улицы",
+      "улиц",
+      "проспект",
+      "бульвар",
+      "набережная",
+      "набережные",
+      "street"
+    ],
+    "classification_sources": [
+      "data/attractions.json#champs-elysees"
+    ]
+  },
+  "chapultepec-castle": {
+    "types": [
+      "palace",
+      "museum"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#chapultepec-castle"
+    ]
+  },
+  "chateau-d-if": {
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ],
+    "classification_sources": [
+      "data/attractions.json#chateau-d-if"
+    ]
+  },
+  "ciutat-arts-ciencies": {
+    "types": [
+      "cultural_centre"
+    ],
+    "search_terms": [
+      "культурный центр",
+      "культурные центры",
+      "culture centre"
+    ],
+    "classification_sources": [
+      "data/attractions.json#ciutat-arts-ciencies"
+    ]
+  },
+  "colosseum": {
+    "types": [
+      "archaeological_site"
+    ],
+    "search_terms": [
+      "археология",
+      "археологический памятник",
+      "руины",
+      "раскопки",
+      "archaeology",
+      "ruins"
+    ],
+    "classification_sources": [
+      "data/attractions.json#colosseum"
+    ]
+  },
+  "conciergerie": {
+    "types": [
+      "palace",
+      "prison"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "тюрьма",
+      "тюрьмы",
+      "prison"
+    ],
+    "classification_sources": [
+      "data/attractions.json#conciergerie"
+    ]
+  },
+  "confucius-temple-beijing": {
+    "types": [
+      "temple"
+    ],
+    "search_terms": [
+      "храм",
+      "храмы",
+      "храма",
+      "храмов",
+      "святилище",
+      "temple"
+    ],
+    "classification_sources": [
+      "data/attractions.json#confucius-temple-beijing"
+    ]
+  },
+  "coyoacan": {
+    "types": [
+      "district"
+    ],
+    "search_terms": [
+      "район",
+      "районы",
+      "квартал",
+      "кварталы",
+      "district",
+      "neighbourhood"
+    ],
+    "classification_sources": [
+      "data/attractions.json#coyoacan"
+    ]
+  },
+  "cristo-havana": {
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ],
+    "classification_sources": [
+      "data/attractions.json#cristo-havana"
+    ]
+  },
+  "cup-and-saucer": {
+    "types": [
+      "trail"
+    ],
+    "search_terms": [
+      "тропа",
+      "тропы",
+      "пеший маршрут",
+      "хайкинг",
+      "trail",
+      "hiking"
+    ],
+    "classification_sources": [
+      "data/attractions.json#cup-and-saucer"
+    ]
+  },
+  "dali-theatre-museum": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#dali-theatre-museum"
+    ]
+  },
+  "duomo-milano": {
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#duomo-milano"
+    ]
+  },
+  "eiffel-tower": {
+    "types": [
+      "tower"
+    ],
+    "search_terms": [
+      "башня",
+      "башни",
+      "башен",
+      "tower"
+    ],
+    "classification_sources": [
+      "data/attractions.json#eiffel-tower"
+    ]
+  },
+  "escher-museum": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#escher-museum"
+    ]
+  },
+  "font-magica": {
+    "types": [
+      "fountain"
+    ],
+    "search_terms": [
+      "фонтан",
+      "фонтаны",
+      "фонтана",
+      "fountain"
+    ],
+    "classification_sources": [
+      "data/attractions.json#font-magica"
+    ]
+  },
+  "forbidden-city-beijing": {
+    "types": [
+      "palace",
+      "museum"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#forbidden-city-beijing"
+    ]
+  },
+  "frankfurt-cathedral": {
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#frankfurt-cathedral"
+    ]
+  },
+  "fundacio-miro": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#fundacio-miro"
+    ]
+  },
+  "galleria-accademia": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#galleria-accademia"
+    ]
+  },
+  "galleria-borghese": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#galleria-borghese"
+    ]
+  },
+  "gastown": {
+    "types": [
+      "district"
+    ],
+    "search_terms": [
+      "район",
+      "районы",
+      "квартал",
+      "кварталы",
+      "district",
+      "neighbourhood"
+    ],
+    "classification_sources": [
+      "data/attractions.json#gastown"
+    ]
+  },
+  "gran-teatro-havana": {
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ],
+    "classification_sources": [
+      "data/attractions.json#gran-teatro-havana"
+    ]
+  },
+  "grotto-bruce": {
+    "types": [
+      "cave"
+    ],
+    "search_terms": [
+      "пещера",
+      "пещеры",
+      "грот",
+      "гроты",
+      "cave",
+      "grotto"
+    ],
+    "classification_sources": [
+      "data/attractions.json#grotto-bruce"
+    ]
+  },
+  "heeresgeschichtliches-museum": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#heeresgeschichtliches-museum"
+    ]
+  },
+  "heidelberg-castle": {
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ],
+    "classification_sources": [
+      "data/attractions.json#heidelberg-castle"
+    ]
+  },
+  "heritage-park-calgary": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#heritage-park-calgary"
+    ]
+  },
+  "hofburg": {
+    "types": [
+      "palace"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ],
+    "classification_sources": [
+      "data/attractions.json#hofburg"
+    ]
+  },
+  "hyde-park": {
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "data/attractions.json#hyde-park"
+    ]
+  },
+  "invalides": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#invalides"
+    ]
+  },
+  "karwendel": {
+    "types": [
+      "mountain"
+    ],
+    "search_terms": [
+      "гора",
+      "горы",
+      "холм",
+      "холмы",
+      "mountain",
+      "hill"
+    ],
+    "classification_sources": [
+      "data/attractions.json#karwendel"
+    ]
+  },
+  "kunsthistorisches-museum": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#kunsthistorisches-museum"
+    ]
+  },
+  "lapin-agile": {
+    "types": [
+      "restaurant"
+    ],
+    "search_terms": [
+      "ресторан",
+      "рестораны",
+      "бар",
+      "кабаре",
+      "restaurant",
+      "cabaret"
+    ],
+    "classification_sources": [
+      "data/attractions.json#lapin-agile"
+    ]
+  },
+  "legoland-windsor": {
+    "types": [
+      "amusement_park"
+    ],
+    "search_terms": [
+      "парк развлечений",
+      "парки развлечений",
+      "аттракционы",
+      "amusement park",
+      "theme park"
+    ],
+    "classification_sources": [
+      "data/attractions.json#legoland-windsor"
+    ]
+  },
+  "leighton-house": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#leighton-house"
+    ]
+  },
+  "leutaschklamm": {
+    "types": [
+      "canyon"
+    ],
+    "search_terms": [
+      "каньон",
+      "каньоны",
+      "ущелье",
+      "ущелья",
+      "canyon",
+      "gorge"
+    ],
+    "classification_sources": [
+      "data/attractions.json#leutaschklamm"
+    ]
+  },
+  "liceu": {
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ],
+    "classification_sources": [
+      "data/attractions.json#liceu"
+    ]
+  },
+  "lorsch-abbey": {
+    "types": [
+      "monastery"
+    ],
+    "search_terms": [
+      "монастырь",
+      "монастыри",
+      "монастыря",
+      "монастырей",
+      "аббатство",
+      "аббатства",
+      "monastery",
+      "abbey"
+    ],
+    "classification_sources": [
+      "data/attractions.json#lorsch-abbey"
+    ]
+  },
+  "louvre": {
+    "types": [
+      "museum",
+      "gallery",
+      "palace"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art",
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ],
+    "classification_sources": [
+      "data/attractions.json#louvre"
+    ]
+  },
+  "luxembourg-gardens": {
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "data/attractions.json#luxembourg-gardens"
+    ]
+  },
+  "mannheim-palace": {
+    "types": [
+      "palace"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ],
+    "classification_sources": [
+      "data/attractions.json#mannheim-palace"
+    ]
+  },
+  "mauritshuis": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#mauritshuis"
+    ]
+  },
+  "mayflower-ii": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#mayflower-ii"
+    ]
+  },
+  "medici-chapels": {
+    "types": [
+      "chapel",
+      "museum"
+    ],
+    "search_terms": [
+      "часовня",
+      "часовни",
+      "капелла",
+      "капеллы",
+      "храм",
+      "chapel",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#medici-chapels"
+    ]
+  },
+  "mercedes-benz-museum": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#mercedes-benz-museum"
+    ]
+  },
+  "military-aviation-museum": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#military-aviation-museum"
+    ]
+  },
+  "minneapolis-institute-of-art": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#minneapolis-institute-of-art"
+    ]
+  },
+  "mnac": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#mnac"
+    ]
+  },
+  "mole-antonelliana": {
+    "types": [
+      "historic_house",
+      "museum"
+    ],
+    "search_terms": [
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#mole-antonelliana"
+    ]
+  },
+  "monserrate": {
+    "types": [
+      "palace",
+      "park"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "data/attractions.json#monserrate"
+    ]
+  },
+  "montjuic-castle": {
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ],
+    "classification_sources": [
+      "data/attractions.json#montjuic-castle"
+    ]
+  },
+  "montmartre": {
+    "types": [
+      "district"
+    ],
+    "search_terms": [
+      "район",
+      "районы",
+      "квартал",
+      "кварталы",
+      "district",
+      "neighbourhood"
+    ],
+    "classification_sources": [
+      "data/attractions.json#montmartre"
+    ]
+  },
+  "moritzburg-castle": {
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ],
+    "classification_sources": [
+      "data/attractions.json#moritzburg-castle"
+    ]
+  },
+  "morro-havana": {
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ],
+    "classification_sources": [
+      "data/attractions.json#morro-havana"
+    ]
+  },
+  "munal": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#munal"
+    ]
+  },
+  "munich-residenz": {
+    "types": [
+      "palace",
+      "museum"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#munich-residenz"
+    ]
+  },
+  "musee-chagall-nice": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#musee-chagall-nice"
+    ]
+  },
+  "musee-cluny": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#musee-cluny"
+    ]
+  },
+  "musee-matisse-nice": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#musee-matisse-nice"
+    ]
+  },
+  "musee-orsay": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#musee-orsay"
+    ]
+  },
+  "musee-picasso-antibes": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#musee-picasso-antibes"
+    ]
+  },
+  "museo-antropologia": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#museo-antropologia"
+    ]
+  },
+  "museo-escultura": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#museo-escultura"
+    ]
+  },
+  "museo-stibbert": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#museo-stibbert"
+    ]
+  },
+  "museu-marinha": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#museu-marinha"
+    ]
+  },
+  "museu-maritim-barcelona": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#museu-maritim-barcelona"
+    ]
+  },
+  "musikverein": {
+    "types": [
+      "concert_hall"
+    ],
+    "search_terms": [
+      "концерт",
+      "концерты",
+      "концертный зал",
+      "музыка",
+      "concert"
+    ],
+    "classification_sources": [
+      "data/attractions.json#musikverein"
+    ]
+  },
+  "national-gallery": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#national-gallery"
+    ]
+  },
+  "national-museum-china": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#national-museum-china"
+    ]
+  },
+  "nauticus": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#nauticus"
+    ]
+  },
+  "notre-dame-de-la-garde": {
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#notre-dame-de-la-garde"
+    ]
+  },
+  "notre-dame-paris": {
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#notre-dame-paris"
+    ]
+  },
+  "nymphenburg": {
+    "types": [
+      "palace"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ],
+    "classification_sources": [
+      "data/attractions.json#nymphenburg"
+    ]
+  },
+  "oggersheim": {
+    "types": [
+      "district"
+    ],
+    "search_terms": [
+      "район",
+      "районы",
+      "квартал",
+      "кварталы",
+      "district",
+      "neighbourhood"
+    ],
+    "classification_sources": [
+      "data/attractions.json#oggersheim"
+    ]
+  },
+  "opificio-pietre-dure": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#opificio-pietre-dure"
+    ]
+  },
+  "orangerie": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#orangerie"
+    ]
+  },
+  "palacio-bellas-artes": {
+    "types": [
+      "palace",
+      "cultural_centre",
+      "museum"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "культурный центр",
+      "культурные центры",
+      "culture centre",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#palacio-bellas-artes"
+    ]
+  },
+  "palacio-postal": {
+    "types": [
+      "civic_building"
+    ],
+    "search_terms": [
+      "общественное здание",
+      "административное здание",
+      "civic building"
+    ],
+    "classification_sources": [
+      "data/attractions.json#palacio-postal"
+    ]
+  },
+  "palais-des-festivals": {
+    "types": [
+      "cultural_centre"
+    ],
+    "search_terms": [
+      "культурный центр",
+      "культурные центры",
+      "culture centre"
+    ],
+    "classification_sources": [
+      "data/attractions.json#palais-des-festivals"
+    ]
+  },
+  "palais-des-papes": {
+    "types": [
+      "palace"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ],
+    "classification_sources": [
+      "data/attractions.json#palais-des-papes"
+    ]
+  },
+  "palau-generalitat": {
+    "types": [
+      "civic_building"
+    ],
+    "search_terms": [
+      "общественное здание",
+      "административное здание",
+      "civic building"
+    ],
+    "classification_sources": [
+      "data/attractions.json#palau-generalitat"
+    ]
+  },
+  "palau-guell": {
+    "types": [
+      "palace"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ],
+    "classification_sources": [
+      "data/attractions.json#palau-guell"
+    ]
+  },
+  "palau-musica-catalana": {
+    "types": [
+      "concert_hall"
+    ],
+    "search_terms": [
+      "концерт",
+      "концерты",
+      "концертный зал",
+      "музыка",
+      "concert"
+    ],
+    "classification_sources": [
+      "data/attractions.json#palau-musica-catalana"
+    ]
+  },
+  "palazzo-pitti": {
+    "types": [
+      "palace",
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#palazzo-pitti"
+    ]
+  },
+  "palazzo-reale-torino": {
+    "types": [
+      "palace",
+      "museum"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#palazzo-reale-torino"
+    ]
+  },
+  "pantheon-paris": {
+    "types": [
+      "mausoleum"
+    ],
+    "search_terms": [
+      "мавзолей",
+      "усыпальница",
+      "гробница",
+      "mausoleum"
+    ],
+    "classification_sources": [
+      "data/attractions.json#pantheon-paris"
+    ]
+  },
+  "parlee-beach": {
+    "types": [
+      "beach"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach"
+    ],
+    "classification_sources": [
+      "data/attractions.json#parlee-beach"
+    ]
+  },
+  "piazzale-michelangelo": {
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ],
+    "classification_sources": [
+      "data/attractions.json#piazzale-michelangelo"
+    ]
+  },
+  "pinacoteca-brera": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#pinacoteca-brera"
+    ]
+  },
+  "place-concorde": {
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ],
+    "classification_sources": [
+      "data/attractions.json#place-concorde"
+    ]
+  },
+  "plaza-mayor-madrid": {
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ],
+    "classification_sources": [
+      "data/attractions.json#plaza-mayor-madrid"
+    ]
+  },
+  "plaza-revolucion-havana": {
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ],
+    "classification_sources": [
+      "data/attractions.json#plaza-revolucion-havana"
+    ]
+  },
+  "plaza-vieja-havana": {
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ],
+    "classification_sources": [
+      "data/attractions.json#plaza-vieja-havana"
+    ]
+  },
+  "plimoth-plantation": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#plimoth-plantation"
+    ]
+  },
+  "poblenou-beach": {
+    "types": [
+      "beach"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach"
+    ],
+    "classification_sources": [
+      "data/attractions.json#poblenou-beach"
+    ]
+  },
+  "pointe-au-pere": {
+    "types": [
+      "tower"
+    ],
+    "search_terms": [
+      "башня",
+      "башни",
+      "башен",
+      "tower"
+    ],
+    "classification_sources": [
+      "data/attractions.json#pointe-au-pere"
+    ]
+  },
+  "porsche-museum": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#porsche-museum"
+    ]
+  },
+  "prado-museum": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#prado-museum"
+    ]
+  },
+  "prague-castle": {
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ],
+    "classification_sources": [
+      "data/attractions.json#prague-castle"
+    ]
+  },
+  "promenade-des-anglais": {
+    "types": [
+      "street"
+    ],
+    "search_terms": [
+      "улица",
+      "улицы",
+      "улиц",
+      "проспект",
+      "бульвар",
+      "набережная",
+      "набережные",
+      "street"
+    ],
+    "classification_sources": [
+      "data/attractions.json#promenade-des-anglais"
+    ]
+  },
+  "provincetown": {
+    "types": [
+      "town"
+    ],
+    "search_terms": [
+      "город",
+      "города",
+      "городок",
+      "town",
+      "city"
+    ],
+    "classification_sources": [
+      "data/attractions.json#provincetown"
+    ]
+  },
+  "queens-park": {
+    "types": [
+      "civic_building"
+    ],
+    "search_terms": [
+      "общественное здание",
+      "административное здание",
+      "civic building"
+    ],
+    "classification_sources": [
+      "data/attractions.json#queens-park"
+    ]
+  },
+  "rembrandt-house": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#rembrandt-house"
+    ]
+  },
+  "rijksmuseum": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#rijksmuseum"
+    ]
+  },
+  "roc-del-quer": {
+    "types": [
+      "viewpoint"
+    ],
+    "search_terms": [
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck"
+    ],
+    "classification_sources": [
+      "data/attractions.json#roc-del-quer"
+    ]
+  },
+  "royal-delft": {
+    "types": [
+      "factory",
+      "museum"
+    ],
+    "search_terms": [
+      "фабрика",
+      "фабрики",
+      "завод",
+      "мануфактура",
+      "производство",
+      "factory",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#royal-delft"
+    ]
+  },
+  "royal-palace-amsterdam": {
+    "types": [
+      "palace"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ],
+    "classification_sources": [
+      "data/attractions.json#royal-palace-amsterdam"
+    ]
+  },
+  "royal-palace-madrid": {
+    "types": [
+      "palace"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ],
+    "classification_sources": [
+      "data/attractions.json#royal-palace-madrid"
+    ]
+  },
+  "royal-tyrrell-museum": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#royal-tyrrell-museum"
+    ]
+  },
+  "sacre-coeur": {
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#sacre-coeur"
+    ]
+  },
+  "sagrada-familia": {
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#sagrada-familia"
+    ]
+  },
+  "saint-etienne-du-mont": {
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#saint-etienne-du-mont"
+    ]
+  },
+  "saint-severin": {
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#saint-severin"
+    ]
+  },
+  "sainte-chapelle": {
+    "types": [
+      "chapel"
+    ],
+    "search_terms": [
+      "часовня",
+      "часовни",
+      "капелла",
+      "капеллы",
+      "храм",
+      "chapel"
+    ],
+    "classification_sources": [
+      "data/attractions.json#sainte-chapelle"
+    ]
+  },
+  "sainte-clotilde": {
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#sainte-clotilde"
+    ]
+  },
+  "san-francisco-el-grande": {
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#san-francisco-el-grande"
+    ]
+  },
+  "san-marco-florence": {
+    "types": [
+      "museum",
+      "monastery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "монастырь",
+      "монастыри",
+      "монастыря",
+      "монастырей",
+      "аббатство",
+      "аббатства",
+      "monastery",
+      "abbey"
+    ],
+    "classification_sources": [
+      "data/attractions.json#san-marco-florence"
+    ]
+  },
+  "sant-pau": {
+    "types": [
+      "historic_hospital"
+    ],
+    "search_terms": [
+      "госпиталь",
+      "госпитали",
+      "больница",
+      "больницы",
+      "hospital"
+    ],
+    "classification_sources": [
+      "data/attractions.json#sant-pau"
+    ]
+  },
+  "santa-croce-florence": {
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#santa-croce-florence"
+    ]
+  },
+  "santa-maria-del-mar": {
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#santa-maria-del-mar"
+    ]
+  },
+  "santo-tomas-avila": {
+    "types": [
+      "monastery"
+    ],
+    "search_terms": [
+      "монастырь",
+      "монастыри",
+      "монастыря",
+      "монастырей",
+      "аббатство",
+      "аббатства",
+      "monastery",
+      "abbey"
+    ],
+    "classification_sources": [
+      "data/attractions.json#santo-tomas-avila"
+    ]
+  },
+  "scheveningen": {
+    "types": [
+      "district",
+      "beach"
+    ],
+    "search_terms": [
+      "район",
+      "районы",
+      "квартал",
+      "кварталы",
+      "district",
+      "neighbourhood",
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach"
+    ],
+    "classification_sources": [
+      "data/attractions.json#scheveningen"
+    ]
+  },
+  "schonbrunn": {
+    "types": [
+      "palace"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ],
+    "classification_sources": [
+      "data/attractions.json#schonbrunn"
+    ]
+  },
+  "shanghai-disneyland": {
+    "types": [
+      "amusement_park"
+    ],
+    "search_terms": [
+      "парк развлечений",
+      "парки развлечений",
+      "аттракционы",
+      "amusement park",
+      "theme park"
+    ],
+    "classification_sources": [
+      "data/attractions.json#shanghai-disneyland"
+    ]
+  },
+  "shanghai-museum": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#shanghai-museum"
+    ]
+  },
+  "sorbonne": {
+    "types": [
+      "university"
+    ],
+    "search_terms": [
+      "университет",
+      "университеты",
+      "университета",
+      "колледж",
+      "university",
+      "college"
+    ],
+    "classification_sources": [
+      "data/attractions.json#sorbonne"
+    ]
+  },
+  "staedel": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#staedel"
+    ]
+  },
+  "stanley-park": {
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "data/attractions.json#stanley-park"
+    ]
+  },
+  "strawbery-banke": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#strawbery-banke"
+    ]
+  },
+  "summer-palace": {
+    "types": [
+      "palace"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ],
+    "classification_sources": [
+      "data/attractions.json#summer-palace"
+    ]
+  },
+  "tanglewood": {
+    "types": [
+      "concert_hall"
+    ],
+    "search_terms": [
+      "концерт",
+      "концерты",
+      "концертный зал",
+      "музыка",
+      "concert"
+    ],
+    "classification_sources": [
+      "data/attractions.json#tanglewood"
+    ]
+  },
+  "tate-britain": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#tate-britain"
+    ]
+  },
+  "technisches-museum-wien": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#technisches-museum-wien"
+    ]
+  },
+  "temple-church": {
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#temple-church"
+    ]
+  },
+  "temple-heaven": {
+    "types": [
+      "temple"
+    ],
+    "search_terms": [
+      "храм",
+      "храмы",
+      "храма",
+      "храмов",
+      "святилище",
+      "temple"
+    ],
+    "classification_sources": [
+      "data/attractions.json#temple-heaven"
+    ]
+  },
+  "terracotta-army": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#terracotta-army"
+    ]
+  },
+  "the-breakers": {
+    "types": [
+      "historic_house",
+      "museum"
+    ],
+    "search_terms": [
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#the-breakers"
+    ]
+  },
+  "the-clark": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#the-clark"
+    ]
+  },
+  "the-elms": {
+    "types": [
+      "historic_house",
+      "museum"
+    ],
+    "search_terms": [
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#the-elms"
+    ]
+  },
+  "toledo-cathedral": {
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#toledo-cathedral"
+    ]
+  },
+  "toronto-city-hall": {
+    "types": [
+      "civic_building"
+    ],
+    "search_terms": [
+      "общественное здание",
+      "административное здание",
+      "civic building"
+    ],
+    "classification_sources": [
+      "data/attractions.json#toronto-city-hall"
+    ]
+  },
+  "uffizi": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#uffizi"
+    ]
+  },
+  "valencia-cathedral": {
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#valencia-cathedral"
+    ]
+  },
+  "van-gogh-museum": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#van-gogh-museum"
+    ]
+  },
+  "van-loon": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#van-loon"
+    ]
+  },
+  "vienna-state-opera": {
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ],
+    "classification_sources": [
+      "data/attractions.json#vienna-state-opera"
+    ]
+  },
+  "westminster-cathedral": {
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#westminster-cathedral"
+    ]
+  },
+  "wilhelma": {
+    "types": [
+      "zoo",
+      "botanical_garden",
+      "park"
+    ],
+    "search_terms": [
+      "зоопарк",
+      "зоопарки",
+      "зоопарка",
+      "зоопарков",
+      "животные",
+      "биопарк",
+      "zoo",
+      "ботанический сад",
+      "ботанические сады",
+      "ботаника",
+      "botanical garden",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "data/attractions.json#wilhelma"
+    ]
+  },
+  "windsor-castle": {
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ],
+    "classification_sources": [
+      "data/attractions.json#windsor-castle"
+    ]
+  },
+  "yonghe-temple": {
+    "types": [
+      "temple"
+    ],
+    "search_terms": [
+      "храм",
+      "храмы",
+      "храма",
+      "храмов",
+      "святилище",
+      "temple"
+    ],
+    "classification_sources": [
+      "data/attractions.json#yonghe-temple"
+    ]
+  },
+  "zocalo": {
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ],
+    "classification_sources": [
+      "data/attractions.json#zocalo"
+    ]
+  },
+  "mcmichael-gallery": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "data/attractions.json#mcmichael-gallery",
+      "content/places/mcmichael-gallery/_index.md"
+    ]
+  },
+  "highland-village": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "data/attractions.json#highland-village"
+    ]
+  },
+  "kroller-muller": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ],
+    "classification_sources": [
+      "content/places/kroller-muller/_index.md"
+    ]
+  }
+}
