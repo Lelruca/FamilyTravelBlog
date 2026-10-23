@@ -12571,5 +12571,111 @@
       "square",
       "plaza"
     ]
+  },
+  "kleve--neuer-tiergarten": {
+    "title": "Исторические сады Клеве — Neuer Tiergarten",
+    "parent": "kleve",
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ]
+  },
+  "kleve--tiergarten": {
+    "title": "Зоопарк Клеве",
+    "parent": "kleve",
+    "types": [
+      "zoo"
+    ],
+    "search_terms": [
+      "зоопарк",
+      "зоопарки",
+      "зоопарка",
+      "зоопарков",
+      "животные",
+      "биопарк",
+      "zoo"
+    ]
+  },
+  "london--tower-of-london": {
+    "title": "Тауэр",
+    "parent": "london",
+    "types": [
+      "castle",
+      "museum"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "london--thames-boat-trip": {
+    "title": "Прогулка на кораблике по Темзе",
+    "parent": "london",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "london--big-ben": {
+    "title": "Биг-Бен",
+    "parent": "london",
+    "types": [
+      "tower",
+      "clock"
+    ],
+    "search_terms": [
+      "башня",
+      "башни",
+      "башен",
+      "tower",
+      "часы",
+      "куранты",
+      "астрономические часы",
+      "clock"
+    ]
+  },
+  "london--buckingham-palace": {
+    "title": "Букингемский дворец",
+    "parent": "london",
+    "types": [
+      "palace"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ]
   }
 }

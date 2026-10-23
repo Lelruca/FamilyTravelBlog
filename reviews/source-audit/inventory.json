@@ -3758,10 +3758,10 @@
       "title": "\"Бабушке 95 лет\"",
       "draft": false,
       "source_sha256_lf": "ef2d6ad6360122abee438f24226c39fb6a83a7aac9304e44ace2c3ca2c560710",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-london-2009.json"
     },
     {
       "file": "content/europe/germany/germany-london-2009/bruhl/index.md",
@@ -3770,10 +3770,10 @@
       "title": "\"Дворцы Брюля\"",
       "draft": false,
       "source_sha256_lf": "1b8fd53fb839c10f61ab09cfcf883de69b3e107b4109043127ff9e8a66f06808",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-london-2009.json"
     },
     {
       "file": "content/europe/germany/germany-london-2009/cologne/index.md",
@@ -3782,10 +3782,10 @@
       "title": "\"Кёльн: собор и музей шоколада\"",
       "draft": false,
       "source_sha256_lf": "05dce9c9c09189f2e87c5db1b0d5eee3eacf7a0bf3620bd5ec29cf52102efb3a",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-london-2009.json"
     },
     {
       "file": "content/europe/germany/germany-london-2009/grandma-kleve/index.md",
@@ -3793,11 +3793,11 @@
       "trip_path": "content/europe/germany/germany-london-2009",
       "title": "\"У бабушки, Клеве и Phantasialand\"",
       "draft": false,
-      "source_sha256_lf": "646b264ecbd701e8f3fe315ce5a54d0698685b4a764d1cfac0a6bbfa5c7f1774",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "53cf24be676d416619321ddecac4bafed50f999f916b77c99600e4df4ab37e7e",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-london-2009.json"
     },
     {
       "file": "content/europe/germany/germany-london-2009/london/index.md",
@@ -3805,11 +3805,11 @@
       "trip_path": "content/europe/germany/germany-london-2009",
       "title": "\"Лондон — в гостях у Кати\"",
       "draft": false,
-      "source_sha256_lf": "d092f270e6141543deaebc900e72eb89d21adae2f54ab47db51ecf33e7993493",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "42b181216749664f00cd9879e54c7ce41223070ad61266d9c7a0a443e87d2822",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-london-2009.json"
     },
     {
       "file": "content/europe/ireland/dublin-2025/dublin/index.md",

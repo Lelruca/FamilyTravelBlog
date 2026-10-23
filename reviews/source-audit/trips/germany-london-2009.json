@@ -1,0 +1,2969 @@
+{
+  "trip_path": "content/europe/germany/germany-london-2009",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Германия у бабушки (разные годы).docx",
+    "sha256": "243621557acf4008e1c3f1318bfc24d2a51e61bf82ed89b6a3e03370a87dcbae",
+    "read": "Все исходные абзацы 37–74 отпуска 2009 прочитаны полностью: планирование, семейные обстоятельства, экскурсии, проект дома, конец отпуска и финальная фраза о фотографиях. Все 63 абзаца пяти глав совпали с одобренными rendered_paragraphs; разбиение не потеряло концовки. Подписи и фото-материалы проверены отдельно."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 369,
+    "unique_sha256": 334,
+    "manifest": "media-manifests/germany-london-2009.json",
+    "method": "Все 369 файлов исходной папки Germany-England с подпапкой Kleve_PuchaPucha просмотрены на 31 листе; 334 разных SHA-256, 35 побайтовых дубликатов не считаются повторными посещениями. Все 123 выбранных архивных оригинала отдельно сверены по SHA-256. Аттракционы парков и музейные экспонаты остаются внутри комплексов.",
+    "additional_originals": [
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\CIMG3289a.jpg",
+        "key": "CIMG3289a.jpg",
+        "sha256": "32cb39a216255538a73eaf3589d1adef76890643947576458772241ea7bac032"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Copy of PA310357.JPG",
+        "key": "Copy of PA310357.JPG",
+        "sha256": "7fbf84a8658b5f7e941d45628a9f20ae7babbf54a251c95ca60acd38de14b5b2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Copy of PA310358.JPG",
+        "key": "Copy of PA310358.JPG",
+        "sha256": "88b819882830a8ad07d398d07834c7b22b39bd24c7449476831042e86005b94c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Copy of PA310359.JPG",
+        "key": "Copy of PA310359.JPG",
+        "sha256": "4d8b305cd0bcf0f0e2e35111fc3261ad345f2a56a9bf906c4793212ffd87041e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Copy of PA310360.JPG",
+        "key": "Copy of PA310360.JPG",
+        "sha256": "eb7a4c8a545d6b00944ca54a6c957470c0b31e919fe529d5e494cba750636503"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Copy of PA310361.JPG",
+        "key": "Copy of PA310361.JPG",
+        "sha256": "dffd348574e3b63b28c6eba0a184beabb38191e1fc85afdef7f6dd6ce3171994"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Copy of PB010413.JPG",
+        "key": "Copy of PB010413.JPG",
+        "sha256": "14203a0edbd47366774e761f4edb001dc83916698a76b1833ed5cce23822e654"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\IMGP1441.JPG",
+        "key": "IMGP1441.JPG",
+        "sha256": "3cbdbac1da099a44efeb02ee775ef662901d0da3e234a71b82035ae1514d9d0f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\IMGP1443.JPG",
+        "key": "IMGP1443.JPG",
+        "sha256": "72bdc8c81929e2b44ba0053d06155500f9975d4fc99eeee5c380b7e5506f0bd0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\IMGP1445.JPG",
+        "key": "IMGP1445.JPG",
+        "sha256": "08a7b9a3a1ede197f0c427d7110f96a45a9f5ffc24a471cd85f64f1903c67b9a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\IMGP1446.JPG",
+        "key": "IMGP1446.JPG",
+        "sha256": "f946bb82a11e53598699223ffcd615335ce2da043c9edb708ad6d8bd28b97870"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\IMGP1449.JPG",
+        "key": "IMGP1449.JPG",
+        "sha256": "d5db910ce325e700867fa504495f59e3e4979591a1fc5d4e3a607575ebc07dc7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010031.JPG",
+        "key": "Kleve_PuchaPucha/P1010031.JPG",
+        "sha256": "40805ab0bd4df76492e49ae319be08aacc641f2a7bd6b659d9615f64f08e7055"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010032.JPG",
+        "key": "Kleve_PuchaPucha/P1010032.JPG",
+        "sha256": "e8553afebc7e4ca2ace657e2f200d851454000b5d0db23a4c728ba9f68240834"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010033.JPG",
+        "key": "Kleve_PuchaPucha/P1010033.JPG",
+        "sha256": "07769d88c1b7fd8538ec68ba904e20732144196f416b8bd86aada5ed398730ba"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010034.JPG",
+        "key": "Kleve_PuchaPucha/P1010034.JPG",
+        "sha256": "b59d8f0b0b4c4fe2a55e94611d97bcdbcab48be6dd6ef270e2fec45e3d89b366"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010035.JPG",
+        "key": "Kleve_PuchaPucha/P1010035.JPG",
+        "sha256": "e2b97f7f948f6e1a1d0c83155f4014de656c40a1ca1b6d3527dc9a53db81a2b4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010036.JPG",
+        "key": "Kleve_PuchaPucha/P1010036.JPG",
+        "sha256": "bcc586afc35ba2e98540de228042fa3f2f7ee990b9572c1148a54920de39689a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010037.JPG",
+        "key": "Kleve_PuchaPucha/P1010037.JPG",
+        "sha256": "d1ddea6f3d5579fc5f3a2465c2475407333bb937d7823a0a3b68380240c24c5a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010038.JPG",
+        "key": "Kleve_PuchaPucha/P1010038.JPG",
+        "sha256": "34428da4e6b11639a8d196d8a83d6576d31df2774f40737b9aca411e75d5010f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010039.JPG",
+        "key": "Kleve_PuchaPucha/P1010039.JPG",
+        "sha256": "39c914e33f08ad91f4b7469bda18e85067fbc43daacefd3ad62641b326ac7195"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010040.JPG",
+        "key": "Kleve_PuchaPucha/P1010040.JPG",
+        "sha256": "1db1f34de4b23e236e251433943db71cb57cef32a54c7342ebb8848f0bc9a8e3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010041.JPG",
+        "key": "Kleve_PuchaPucha/P1010041.JPG",
+        "sha256": "695695d941606078be954342fe2752f31adeb70d3fcac15fd7ed7ac754bdc4f0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010042.JPG",
+        "key": "Kleve_PuchaPucha/P1010042.JPG",
+        "sha256": "7ac0fa5cc1caf63b8e1a1131813689e07c402f9fe1f0161d5982e34b7faebd47"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010043.JPG",
+        "key": "Kleve_PuchaPucha/P1010043.JPG",
+        "sha256": "f9292c3d51fb3d93ab6577d0488e97edc1df5f0c35333b943e441b19e16ef1ed"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010044.JPG",
+        "key": "Kleve_PuchaPucha/P1010044.JPG",
+        "sha256": "cecb9a8dab8898c0885cdb0cb087e2d7bef0d0d8a3e81a97af5fb70581bbae19"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010045.JPG",
+        "key": "Kleve_PuchaPucha/P1010045.JPG",
+        "sha256": "f81d8455565b0b33158972d1f6e2ba9855b44ab56830ef4d76eb6777753f19cd"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010046.JPG",
+        "key": "Kleve_PuchaPucha/P1010046.JPG",
+        "sha256": "2a65833d57381456de797d4847053e7b3ae1fe4390d1d729db8e5642ca8ddea6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010047.JPG",
+        "key": "Kleve_PuchaPucha/P1010047.JPG",
+        "sha256": "db7e72d37f545501961b08d68b70e47d538d0957d56754ad09e786f234947ec1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010048.JPG",
+        "key": "Kleve_PuchaPucha/P1010048.JPG",
+        "sha256": "f2c4e58b4a3555212b1ce43e27d85fe1aca3bf4bc26f0130ae0d925f31602ff5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010049.JPG",
+        "key": "Kleve_PuchaPucha/P1010049.JPG",
+        "sha256": "9305ea16c3135f1df24f01907608ca0f811150cfbe886a82516ed2175aa88107"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010050.JPG",
+        "key": "Kleve_PuchaPucha/P1010050.JPG",
+        "sha256": "0c92d215265dccfbafc11d2cd9f5b040e57543497d4205e5c71f206430a3fbfd"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010051.JPG",
+        "key": "Kleve_PuchaPucha/P1010051.JPG",
+        "sha256": "767556a154ff16aa599d80153b549c6f36173f95c486de027d855bd333ab5fe6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010052.JPG",
+        "key": "Kleve_PuchaPucha/P1010052.JPG",
+        "sha256": "ebe9eaab6ca1235dfff43823f69e3394a0b86fd17cec3d3393aa9e78077341d1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010053.JPG",
+        "key": "Kleve_PuchaPucha/P1010053.JPG",
+        "sha256": "d1af8e84d8aa316d0d1f7a86a2dc00bfa144baa8c27e382cd73cc22a998d9a57"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010054.JPG",
+        "key": "Kleve_PuchaPucha/P1010054.JPG",
+        "sha256": "5782e5f6e09bdfe7a4eaaacbeb54818d08f64e28e4485874b1d220cd84339117"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010055.JPG",
+        "key": "Kleve_PuchaPucha/P1010055.JPG",
+        "sha256": "2f76725e50e5904b6e84eb92d5740b63042f20f3f335afa32d160afc17d0fbab"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010056.JPG",
+        "key": "Kleve_PuchaPucha/P1010056.JPG",
+        "sha256": "531defff1f56c17731a87b601e9e4ff7eff1e6271f1211c1215ebd8083bc759c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010057.JPG",
+        "key": "Kleve_PuchaPucha/P1010057.JPG",
+        "sha256": "f090d29dff18feb07a6e3718b9ce5e9fb13a177996e8e53beb922b9fb4ad5343"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010058.JPG",
+        "key": "Kleve_PuchaPucha/P1010058.JPG",
+        "sha256": "3c325e16e00572327167f793cf401732631c731b1a3df956146f43158c8b915b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\Kleve_PuchaPucha\\P1010059.JPG",
+        "key": "Kleve_PuchaPucha/P1010059.JPG",
+        "sha256": "d3b800fe440c01f7f1be31a7fe16b61f675b7be0276d7af0c0115cb8d6a3a84f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010031.JPG",
+        "key": "P1010031.JPG",
+        "sha256": "40805ab0bd4df76492e49ae319be08aacc641f2a7bd6b659d9615f64f08e7055"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010032.JPG",
+        "key": "P1010032.JPG",
+        "sha256": "e8553afebc7e4ca2ace657e2f200d851454000b5d0db23a4c728ba9f68240834"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010033.JPG",
+        "key": "P1010033.JPG",
+        "sha256": "07769d88c1b7fd8538ec68ba904e20732144196f416b8bd86aada5ed398730ba"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010034.JPG",
+        "key": "P1010034.JPG",
+        "sha256": "b59d8f0b0b4c4fe2a55e94611d97bcdbcab48be6dd6ef270e2fec45e3d89b366"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010035.JPG",
+        "key": "P1010035.JPG",
+        "sha256": "e2b97f7f948f6e1a1d0c83155f4014de656c40a1ca1b6d3527dc9a53db81a2b4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010036.JPG",
+        "key": "P1010036.JPG",
+        "sha256": "bcc586afc35ba2e98540de228042fa3f2f7ee990b9572c1148a54920de39689a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010037.JPG",
+        "key": "P1010037.JPG",
+        "sha256": "d1ddea6f3d5579fc5f3a2465c2475407333bb937d7823a0a3b68380240c24c5a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010038.JPG",
+        "key": "P1010038.JPG",
+        "sha256": "34428da4e6b11639a8d196d8a83d6576d31df2774f40737b9aca411e75d5010f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010039.JPG",
+        "key": "P1010039.JPG",
+        "sha256": "39c914e33f08ad91f4b7469bda18e85067fbc43daacefd3ad62641b326ac7195"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010040.JPG",
+        "key": "P1010040.JPG",
+        "sha256": "1db1f34de4b23e236e251433943db71cb57cef32a54c7342ebb8848f0bc9a8e3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010041.JPG",
+        "key": "P1010041.JPG",
+        "sha256": "695695d941606078be954342fe2752f31adeb70d3fcac15fd7ed7ac754bdc4f0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010042.JPG",
+        "key": "P1010042.JPG",
+        "sha256": "7ac0fa5cc1caf63b8e1a1131813689e07c402f9fe1f0161d5982e34b7faebd47"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010043.JPG",
+        "key": "P1010043.JPG",
+        "sha256": "f9292c3d51fb3d93ab6577d0488e97edc1df5f0c35333b943e441b19e16ef1ed"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010044.JPG",
+        "key": "P1010044.JPG",
+        "sha256": "cecb9a8dab8898c0885cdb0cb087e2d7bef0d0d8a3e81a97af5fb70581bbae19"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010045.JPG",
+        "key": "P1010045.JPG",
+        "sha256": "f81d8455565b0b33158972d1f6e2ba9855b44ab56830ef4d76eb6777753f19cd"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010046.JPG",
+        "key": "P1010046.JPG",
+        "sha256": "2a65833d57381456de797d4847053e7b3ae1fe4390d1d729db8e5642ca8ddea6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010047.JPG",
+        "key": "P1010047.JPG",
+        "sha256": "db7e72d37f545501961b08d68b70e47d538d0957d56754ad09e786f234947ec1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010048.JPG",
+        "key": "P1010048.JPG",
+        "sha256": "f2c4e58b4a3555212b1ce43e27d85fe1aca3bf4bc26f0130ae0d925f31602ff5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010049.JPG",
+        "key": "P1010049.JPG",
+        "sha256": "9305ea16c3135f1df24f01907608ca0f811150cfbe886a82516ed2175aa88107"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010050.JPG",
+        "key": "P1010050.JPG",
+        "sha256": "0c92d215265dccfbafc11d2cd9f5b040e57543497d4205e5c71f206430a3fbfd"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010051.JPG",
+        "key": "P1010051.JPG",
+        "sha256": "767556a154ff16aa599d80153b549c6f36173f95c486de027d855bd333ab5fe6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010052.JPG",
+        "key": "P1010052.JPG",
+        "sha256": "ebe9eaab6ca1235dfff43823f69e3394a0b86fd17cec3d3393aa9e78077341d1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010053.JPG",
+        "key": "P1010053.JPG",
+        "sha256": "d1af8e84d8aa316d0d1f7a86a2dc00bfa144baa8c27e382cd73cc22a998d9a57"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010054.JPG",
+        "key": "P1010054.JPG",
+        "sha256": "5782e5f6e09bdfe7a4eaaacbeb54818d08f64e28e4485874b1d220cd84339117"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010055.JPG",
+        "key": "P1010055.JPG",
+        "sha256": "2f76725e50e5904b6e84eb92d5740b63042f20f3f335afa32d160afc17d0fbab"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010056.JPG",
+        "key": "P1010056.JPG",
+        "sha256": "531defff1f56c17731a87b601e9e4ff7eff1e6271f1211c1215ebd8083bc759c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010057.JPG",
+        "key": "P1010057.JPG",
+        "sha256": "f090d29dff18feb07a6e3718b9ce5e9fb13a177996e8e53beb922b9fb4ad5343"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010058.JPG",
+        "key": "P1010058.JPG",
+        "sha256": "3c325e16e00572327167f793cf401732631c731b1a3df956146f43158c8b915b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\P1010059.JPG",
+        "key": "P1010059.JPG",
+        "sha256": "d3b800fe440c01f7f1be31a7fe16b61f675b7be0276d7af0c0115cb8d6a3a84f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA220281.JPG",
+        "key": "PA220281.JPG",
+        "sha256": "31e4516f731d9c4992ab30ec86e34cc0cd40eec7fff6578fb44435f3fc9ad522"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA220282.JPG",
+        "key": "PA220282.JPG",
+        "sha256": "532d9962d1fd83062861ce7b3513bc888e767b6eeaadd0252fc4aed616c3e3be"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA220283.JPG",
+        "key": "PA220283.JPG",
+        "sha256": "82312fde21cd85ca324ac080d98c60b867c80b70ef31ba660b4f67d3e21243fb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270284.JPG",
+        "key": "PA270284.JPG",
+        "sha256": "64dc2c164ec1ff7d6fb757d39bc79c12343bf9c2bdb30235229969047482fae6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270285.JPG",
+        "key": "PA270285.JPG",
+        "sha256": "bf34797453dedf397a64bbf926af975aac0a264a7143f05417117fb399613a07"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270286.JPG",
+        "key": "PA270286.JPG",
+        "sha256": "29785ddea5e87b42784f237ba37ea4b173a32d30da2b0213ef27c5f7e02c08e4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270287.JPG",
+        "key": "PA270287.JPG",
+        "sha256": "5268669e9b55d392b839be5b986cf766da190df65b32d9261f358621fd01c749"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270288.JPG",
+        "key": "PA270288.JPG",
+        "sha256": "7ede5270dcd44e4984fb392e9fbe1ffcdd5deb5dbb142aff3071e1e598dac3bf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270289.JPG",
+        "key": "PA270289.JPG",
+        "sha256": "ef5006879290b3d27cf0d9739f0c85b7bb5b1460cb6149883b6b91e1aecabcf0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270290.JPG",
+        "key": "PA270290.JPG",
+        "sha256": "761469de553f3fbd064e915df55e5aec6470d0d437fee85bb8b0ed10c05a9a1b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270291.JPG",
+        "key": "PA270291.JPG",
+        "sha256": "5ffa98ee475dd063464c6682c66e17e0df21a35546baec71eb082c43c45b7373"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270292.JPG",
+        "key": "PA270292.JPG",
+        "sha256": "70bf1727392ba1fccc85c55e7f4a046e27e28aa08318fa324020d769689e425a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270293.JPG",
+        "key": "PA270293.JPG",
+        "sha256": "c2f6aec4df2e07dd1f00a6ee5c7fbc791786433156825a2e526b2781c198cfbc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270294.JPG",
+        "key": "PA270294.JPG",
+        "sha256": "a67574e432292ebac2473ea86043c32bae1506ee9cd82aa6cad6aa7c25ad7a3b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270295.JPG",
+        "key": "PA270295.JPG",
+        "sha256": "13703efb041e0224ef88eacce842a48df7de556e3f8c463461e96e5d36e4cd0a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270296.JPG",
+        "key": "PA270296.JPG",
+        "sha256": "5c331142f0344bd7ed6a6d7baff93531902e408ed2976d3cf61c8999095f60c4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270297.JPG",
+        "key": "PA270297.JPG",
+        "sha256": "b57e789597a0bab80c0edc74422ff1ca7dafa8adfc0c19d558fd14245940ce53"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270298.JPG",
+        "key": "PA270298.JPG",
+        "sha256": "56e34bd74141199c434a89464f135f08372580d42057fd63a254acc20b1c2ce4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270299.JPG",
+        "key": "PA270299.JPG",
+        "sha256": "fc98cebb2f4bb2b20d0792a40a7bb969cab37be6c009ab3d36446e6dd6f4b60f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270300.JPG",
+        "key": "PA270300.JPG",
+        "sha256": "bae2f3b39ecaa8ebb2b92b2870dfc3239e6ad6eda3a84c49ef704a690831c310"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270301.JPG",
+        "key": "PA270301.JPG",
+        "sha256": "19af49362fe00a7fddc6029f9b3b586dfae50f1149302577cc27d13a55364fff"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270302.JPG",
+        "key": "PA270302.JPG",
+        "sha256": "bc0686bbc26c46f6189df6e1c787ef90fa4cb5bd69183294856c6810091e5a26"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270303.JPG",
+        "key": "PA270303.JPG",
+        "sha256": "e7f63a136f11fa9f4ad589378949804576dccc0e65e285412598c3c8ac8e0411"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270304.JPG",
+        "key": "PA270304.JPG",
+        "sha256": "edb1be1f4ccd66ccb07aedaa97bbf731aa9a9c83c6d43cd1fb36cc205b998629"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270305.JPG",
+        "key": "PA270305.JPG",
+        "sha256": "b359b2ed287f9941f3b71f300fdb453df36b64b5f49cc8c594ce4e437edb4aae"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270306.JPG",
+        "key": "PA270306.JPG",
+        "sha256": "c988cd83a0f4d46a047f1e6512334d61d9bcf99695ab4c86e85dd09b94e2147f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270307.JPG",
+        "key": "PA270307.JPG",
+        "sha256": "e256aa39bc7fb8fd360cbfea70e723b891f0d1f6d32f490c1920fa06bbfee968"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270308.JPG",
+        "key": "PA270308.JPG",
+        "sha256": "19f9e5f1226a8a6fe44ad4faffc1199dcbf70e94de6e359d2f66fc64288e99eb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA270309.JPG",
+        "key": "PA270309.JPG",
+        "sha256": "9eb056e348c9081340837982d7f12ae7a37ea088d81b7b412ce28eb382b2bcfc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA280310.JPG",
+        "key": "PA280310.JPG",
+        "sha256": "02074adfca7460180a1f67741381b0265dfe67d7ed1a68f227b44f933ae7c5b8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA280311.JPG",
+        "key": "PA280311.JPG",
+        "sha256": "d26ab940fc2c756cd4fa806e68670550624889193ad53b6875be579dfe6417c3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA280312.JPG",
+        "key": "PA280312.JPG",
+        "sha256": "e4c4431e46dbfb3c504abfaf30b22638617422ad3ac4aa77400bac01a2e23511"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA280313.JPG",
+        "key": "PA280313.JPG",
+        "sha256": "0c339c486420704b698800e903cee22c4731f078e9163a83a3838c53e745d2c1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290314.JPG",
+        "key": "PA290314.JPG",
+        "sha256": "74dc4b89e87fa1f008fdcdcee399af3b04654fded9dd6bb2839c3b1970fdeeac"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290315.JPG",
+        "key": "PA290315.JPG",
+        "sha256": "e316ac813bd8bdd419f1fc0d08bba5a8fe39ca9131f9d6341e27eed59d169904"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290316.JPG",
+        "key": "PA290316.JPG",
+        "sha256": "94f3fa76a524a93b0534e91cb0be39f88f0e4bfdb05b95b74f6e876faa534b3b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290317.JPG",
+        "key": "PA290317.JPG",
+        "sha256": "c2fc2eb7bccb4d31ebd108ca02128be50eb35150f170c6f86833449dcd9d6c60"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290318.JPG",
+        "key": "PA290318.JPG",
+        "sha256": "bacde817214904514f9f6b944bfba2663c107aa2ffd207a8e7e37ebdcbc0adb7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290319.JPG",
+        "key": "PA290319.JPG",
+        "sha256": "a78b5bb4e79db9c65fcb4309162ab09707b834fee9b288fa7c9385482573e810"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290320.JPG",
+        "key": "PA290320.JPG",
+        "sha256": "7f254354c04dac20f22784dc3b2ead95689802a05179dd021623d309556bd51d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290321.JPG",
+        "key": "PA290321.JPG",
+        "sha256": "5df79010189ae1616d0735d29ab5f1c66c3b5f885535543ab6647d1e6e75cf08"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290322.JPG",
+        "key": "PA290322.JPG",
+        "sha256": "d8d81fa8459bcbc8cf6e6963f5cff1948457f82cdf3ae001ad007c90b4efc0af"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290323.JPG",
+        "key": "PA290323.JPG",
+        "sha256": "9fa95860a6f5c241f6bf093b25f14ad37946198bd68539354a318d38df7a4b31"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290324.JPG",
+        "key": "PA290324.JPG",
+        "sha256": "66460efbeeb7fd43c63daf34f950eb82224b431879fffe71b576a9a7e57b4902"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290325.JPG",
+        "key": "PA290325.JPG",
+        "sha256": "d4166b1570fdf77db83de4779185a9565296fb03c523c80c9980841d45daa676"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290326.JPG",
+        "key": "PA290326.JPG",
+        "sha256": "04e6742dca321c6cf0d6ab6543411aed3e2fcee6b0c990937b23a8ac26281d95"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290327.JPG",
+        "key": "PA290327.JPG",
+        "sha256": "e75c1f0743157e35e585975156ae114cfee86f4b3b35a23e713c94201cc4a994"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290329.JPG",
+        "key": "PA290329.JPG",
+        "sha256": "b1758b49816919ebc0d2895693f8f0333486422a3d36f2c91ac9fbb356f57fbf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290330.JPG",
+        "key": "PA290330.JPG",
+        "sha256": "8cf7f860fd55b7f6dd7b4f3e0497e94aaeaf62c31cf4d17203a1c45d11831f43"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290331.JPG",
+        "key": "PA290331.JPG",
+        "sha256": "5db250b757d007cef8362f8346d458966bea4912c022b022474e8799a6e530e3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290332.JPG",
+        "key": "PA290332.JPG",
+        "sha256": "4e2c8ff0fb04078634ce6663412500ff3e6aee671d70e3a69d159e5046649be3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290333.JPG",
+        "key": "PA290333.JPG",
+        "sha256": "f8fc57b995b2341568b35c0d53a4b2603ee0f69484de65970c70a8d09b0456f4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290334.JPG",
+        "key": "PA290334.JPG",
+        "sha256": "856691863c83103f7c5f97892a66ee74a5be40885f8e07ac9a7de50ceb087656"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290335.JPG",
+        "key": "PA290335.JPG",
+        "sha256": "0a53fb68cfa40dc33d6a4c63fa5d15229f67e5665d39cb7d2dbf369997b7a995"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290336.JPG",
+        "key": "PA290336.JPG",
+        "sha256": "08e7564a11c3cd4ad0a6905b88b0f1a9ef02728cba2659527328588c5c179d92"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290337.JPG",
+        "key": "PA290337.JPG",
+        "sha256": "638c37a941830bc011d4b6b957304ccbfb936c0a155e2aede7557821a75f7a99"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290338.JPG",
+        "key": "PA290338.JPG",
+        "sha256": "326f9e0c83893d8f1d38b99333423f52583f6a56ac60f5c2f62b51feb64a232a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290339.JPG",
+        "key": "PA290339.JPG",
+        "sha256": "61c729a268aab9ef6ecf1ac33c539ed3d085f74461156c79297ddde35d1592ec"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290340.JPG",
+        "key": "PA290340.JPG",
+        "sha256": "4c001c824aef4677b43f083c12c9464824294e9bf9e69548a9389e9bacb426ae"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290341.JPG",
+        "key": "PA290341.JPG",
+        "sha256": "0e3d0742bc92ff802deaefcb24e103900653cbde82f71490f7d5a9d78cbfb55c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290342.JPG",
+        "key": "PA290342.JPG",
+        "sha256": "fed96df278371d7a7269f3a101d67ff9bfb0775c3c34ff81c9753a25963e46f0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290343.JPG",
+        "key": "PA290343.JPG",
+        "sha256": "8242f53dde72dd92eec4389d7fac93be5ec6b1d2b169d46466271be51759b1bf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290344.JPG",
+        "key": "PA290344.JPG",
+        "sha256": "0fbdc05443cadcae3e33b4ee27ac88b509ed046e34523109e84a8f21d8ab1228"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290345.JPG",
+        "key": "PA290345.JPG",
+        "sha256": "6a770d0494cdb76d0f8ebcb721ea3b484f6879b685f328133c2712c79b51b1f2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290346.JPG",
+        "key": "PA290346.JPG",
+        "sha256": "cbf1082c99f74d4ea776ca5ac30b2530f5c887d4eed67745921677e4aa7e74d5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290347.JPG",
+        "key": "PA290347.JPG",
+        "sha256": "1a0e2b278014746a060ab83d2c61dce4f6e59fc582d0df0c15f1ce947a11a2b0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290348.JPG",
+        "key": "PA290348.JPG",
+        "sha256": "5c814c39e2e3f96c82e3e66dc53a5bfe0740e0f6804d02ee95cf4c705ac33ec3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290349.JPG",
+        "key": "PA290349.JPG",
+        "sha256": "7d8ef639fb54e5da923c21358d7f5b77214a87cdcdef823b10ce074a9203bd18"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290350.JPG",
+        "key": "PA290350.JPG",
+        "sha256": "8bd6febe46bbc09eb876a0c827d75702a00d5b632f3e806a576e45334f6ffac7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290351.JPG",
+        "key": "PA290351.JPG",
+        "sha256": "02b7ffe2a88ce271793eefb52320290c6ac5dd26c566e18176039f3f0132023a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA290352.JPG",
+        "key": "PA290352.JPG",
+        "sha256": "0812a4b17e3e3f039dd69233ffe7805258a0ad2938047804b97119af5cbe829e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA300353.JPG",
+        "key": "PA300353.JPG",
+        "sha256": "7f94c40c3dde92ebb4a69630afb51df47ff78bc18ddf565473a23d8960e45a4a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA300354.JPG",
+        "key": "PA300354.JPG",
+        "sha256": "e0bfdbaa722bb0b84fe5d0ccb3ead4764671ed4614f41064718f3820a5ad5b86"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310355.JPG",
+        "key": "PA310355.JPG",
+        "sha256": "0579701c57062bd8fd7d3ff7e8aa9eddf82a2bb61c16ec37e5fada0b6f349e72"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310356.JPG",
+        "key": "PA310356.JPG",
+        "sha256": "0df3e24d60d39033057932acf8c64c7533e08b59e6ad82f127d294ba8676a947"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310357.JPG",
+        "key": "PA310357.JPG",
+        "sha256": "7fbf84a8658b5f7e941d45628a9f20ae7babbf54a251c95ca60acd38de14b5b2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310358.JPG",
+        "key": "PA310358.JPG",
+        "sha256": "88b819882830a8ad07d398d07834c7b22b39bd24c7449476831042e86005b94c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310359.JPG",
+        "key": "PA310359.JPG",
+        "sha256": "4d8b305cd0bcf0f0e2e35111fc3261ad345f2a56a9bf906c4793212ffd87041e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310360.JPG",
+        "key": "PA310360.JPG",
+        "sha256": "eb7a4c8a545d6b00944ca54a6c957470c0b31e919fe529d5e494cba750636503"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310361.JPG",
+        "key": "PA310361.JPG",
+        "sha256": "dffd348574e3b63b28c6eba0a184beabb38191e1fc85afdef7f6dd6ce3171994"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310362.JPG",
+        "key": "PA310362.JPG",
+        "sha256": "b82b579caddfaeafa6de695b79be56a058527ade36f0da2f83f5e7f581117ddc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310363.JPG",
+        "key": "PA310363.JPG",
+        "sha256": "7b27090bc4c6d4c02ab83818421ff21f837d52de310cbf64c3a260e1eac41e4c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310364.JPG",
+        "key": "PA310364.JPG",
+        "sha256": "3379811ebb481029c7f698b7a93ef179ebafa74b4a7f296b0d8dac59a0a6235f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310365.JPG",
+        "key": "PA310365.JPG",
+        "sha256": "5f09c8c8d13b19e8ac1c89dbfbf3f27aa0425bbd7e3951b93659049d8c04a43e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310366.JPG",
+        "key": "PA310366.JPG",
+        "sha256": "85349e0519047b90f24e60faac54b1bda03bb7e57bcf3064713092adbac4016b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310367.JPG",
+        "key": "PA310367.JPG",
+        "sha256": "a23e57f6711dd077635d4096539d01dbafae849574ce9c3684e432b6dc5c6fb9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310368.JPG",
+        "key": "PA310368.JPG",
+        "sha256": "e500a334477dd5cceaeb6045e2cd93631bf1614b48c910239a35812e65fc6695"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310369.JPG",
+        "key": "PA310369.JPG",
+        "sha256": "eb8a67b0281bb89421cc5d651f3c1d0018da0dc9aa0af97c8a63be2a04f0f1b2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310370.JPG",
+        "key": "PA310370.JPG",
+        "sha256": "9923024ef14b88cd1bb5a270be2ffe05980196ca39b8d9c0fd6dc39972db38ab"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310371.JPG",
+        "key": "PA310371.JPG",
+        "sha256": "4dc46bfe0094ee6ff3097930e280b89fed6f2bea6930e66fdad6a443d56d86ca"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310372.JPG",
+        "key": "PA310372.JPG",
+        "sha256": "fef33dd9ab3d953bfa30681f7cc21b5a6f17162b5b0fc141efd80eb5bdcb55dd"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310373.JPG",
+        "key": "PA310373.JPG",
+        "sha256": "cde0b0dbcb8fb032897d89bdab61dffcf6aa3c3666cfce12948bce83db259ae7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310374.JPG",
+        "key": "PA310374.JPG",
+        "sha256": "4b3c69981b15041ff3d5ac5133e663ae0416ffcb4466a1c5ceb5213928c5e0a9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310375.JPG",
+        "key": "PA310375.JPG",
+        "sha256": "91b981eaf3fa23c42cc6b2c5befd4c90492271edfc66fb4697613188cbb2acf9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310376.JPG",
+        "key": "PA310376.JPG",
+        "sha256": "499cd546d7ee8810c6a63c9dccafbb720c654ff68262f902a4e98e2a0dbb9437"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310377.JPG",
+        "key": "PA310377.JPG",
+        "sha256": "c48fe9b2b1efea2d08cc4d3fcf2e4d8d8dfd2f6e8faaf72067c854977c9cd0ca"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310378.JPG",
+        "key": "PA310378.JPG",
+        "sha256": "0cb9868389524b1a843a8de46f4194f72f972cd53a7703a79f4d624dbb12c1f5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310379.JPG",
+        "key": "PA310379.JPG",
+        "sha256": "a80768a9c88c32648d400fe5dcb8454b2c437ecf5151ebffa3ebbd2e217bcefa"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310380.JPG",
+        "key": "PA310380.JPG",
+        "sha256": "c1fb1df6d5121f3e07adb79c5eed94429f32978af4e39002e800898d89784180"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310381.JPG",
+        "key": "PA310381.JPG",
+        "sha256": "2f9d57395774eeb97ca565419e95a5d54e8514356e613682c9106e68574ee37b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310382.JPG",
+        "key": "PA310382.JPG",
+        "sha256": "1844623a260eac1b1163643b5bb2d942b5615dd4b9bcaf2ed6e193d509fb5ac5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310383.JPG",
+        "key": "PA310383.JPG",
+        "sha256": "85fceead9bcf91717416675fc15eeb31bb3653840061194fdbf223d5897c794f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310384.JPG",
+        "key": "PA310384.JPG",
+        "sha256": "5d0148084c6e4937ee74fbf19058a59f2e2e428de30f8c30e599b58d51e834fc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310385.JPG",
+        "key": "PA310385.JPG",
+        "sha256": "f386b90560a6249d3b824c92e26a500c37856c817934035c078ad5a46f56bad9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310386.JPG",
+        "key": "PA310386.JPG",
+        "sha256": "95224688a510188d16671c9a0f7844a249ad33830d82cfec31b68c6a16886cdf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310387.JPG",
+        "key": "PA310387.JPG",
+        "sha256": "6710b4d33f43b666f6db84edcf63efec5b0cd8849408bb27508d9e098fa476bb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310388.JPG",
+        "key": "PA310388.JPG",
+        "sha256": "2d1d83e0cd17345b4bd1081b8b339522a8716d5c118e02e75d64a5a7552156b1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310389.JPG",
+        "key": "PA310389.JPG",
+        "sha256": "11e7c2c86b875afe270a63306371cbef8bb630bbfc6609168c599be194c9da27"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310390.JPG",
+        "key": "PA310390.JPG",
+        "sha256": "7421320ba4dd2fe2d8ea108bcd063047855b140f8da037e40bc4b7158fc578fc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310391.JPG",
+        "key": "PA310391.JPG",
+        "sha256": "a594f899652557606da32386b13bdda27b9220ba7f68245d448567d5f91ac268"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310392.JPG",
+        "key": "PA310392.JPG",
+        "sha256": "de3579740d11edd3e3427ec8dcb870240a945493371c60e66724f7071ceb7355"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310393.JPG",
+        "key": "PA310393.JPG",
+        "sha256": "1cabd20623808c0a4fbc70907588a35d9100ac433e0f3750886df4d16b86d612"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310394.JPG",
+        "key": "PA310394.JPG",
+        "sha256": "5c24c54ffaab58b1e6253d0f62003711c2b61d9734ed951bffbe3c583ef03fac"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310395.JPG",
+        "key": "PA310395.JPG",
+        "sha256": "0e1f16b2bbe8e1ca131bb499d0796c74fce0fe3f8134a00dbb96dace63c868ed"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310396.JPG",
+        "key": "PA310396.JPG",
+        "sha256": "89bebd52e2be0f34917e0b17f01e5bfe19ca6df27c4939b632895afae451e85a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310397.JPG",
+        "key": "PA310397.JPG",
+        "sha256": "8ce1304c0cef34b079342e2473a9dc44d849699451fd278d77301fb33d60596a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310398.JPG",
+        "key": "PA310398.JPG",
+        "sha256": "ad3e4f6ebe4323df60b4f341dd8a5db304a827eff09f76eeb592a1862226783d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310399.JPG",
+        "key": "PA310399.JPG",
+        "sha256": "8c39b022dd8442e93a73109e78707fa8277f6c6a567d4ab705cb84a4f121b2a7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310400.JPG",
+        "key": "PA310400.JPG",
+        "sha256": "a9112ff047b64dc26ff0c2cf7749beb8d642bbc3e83af500205876225d535b39"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310401.JPG",
+        "key": "PA310401.JPG",
+        "sha256": "ef80194c235f6399b73288a4a82b7de459ce72184b7f189c562c9916dad5522d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310402.JPG",
+        "key": "PA310402.JPG",
+        "sha256": "5b1266a0ca2cabcd4294c10cef9b1da9e8daac74577e048065338bfe637611a2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PA310403.JPG",
+        "key": "PA310403.JPG",
+        "sha256": "5e5183fb52ff30463b4f5c4264c57a69a692ed13c9ae6fcf02b06669d873ef0b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010404.JPG",
+        "key": "PB010404.JPG",
+        "sha256": "4a2843f8b17d42fa189cfc9409ef32a7384c2334aa340144b588245c342632d9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010408.JPG",
+        "key": "PB010408.JPG",
+        "sha256": "b280e1bb414e5bbe451f1d783623ee3e1e0ef99c200fedb4f8309484cca423fc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010409.JPG",
+        "key": "PB010409.JPG",
+        "sha256": "778fd148c29f60c9457dc9909bfe0dd78937b42614f0d9372a8754f7082a9a4d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010410.JPG",
+        "key": "PB010410.JPG",
+        "sha256": "bf361943e4f0bfd6bf9d9f1aa14f32c52609a3c4839ca8a2cdeed19dbcf3c59d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010411.JPG",
+        "key": "PB010411.JPG",
+        "sha256": "f50fae192b426773029004d20d419212f187317f9cd8e5a6fcf70365ebce820c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010412.JPG",
+        "key": "PB010412.JPG",
+        "sha256": "a71a8c248fbcb35c4711103f9e19bf393e0b9f5ddef7c9c611491bf1201bc6c5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010413.JPG",
+        "key": "PB010413.JPG",
+        "sha256": "14203a0edbd47366774e761f4edb001dc83916698a76b1833ed5cce23822e654"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010414.JPG",
+        "key": "PB010414.JPG",
+        "sha256": "77c44926ff21a162583269ed55b3fb48dfb3f1eb00de6fd42ae1af97caabb141"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010415.JPG",
+        "key": "PB010415.JPG",
+        "sha256": "5b6342efb537affdc8c20ecd315b983eebf5272060783393f8c10ea0311f8684"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010416.JPG",
+        "key": "PB010416.JPG",
+        "sha256": "c6d29970c9edc4422922b16c48cc538fcf477cdf7214b100b1b2270abdc1d920"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010417.JPG",
+        "key": "PB010417.JPG",
+        "sha256": "4052c664ece0c790a417663dfa4d8ef93dd391fc297652806ff32af5cd847dbb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010418.JPG",
+        "key": "PB010418.JPG",
+        "sha256": "1201d82ab3dfdf96bb23f62e336da9752786d43443bd9d780bb6fc8317ce9e83"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010419.JPG",
+        "key": "PB010419.JPG",
+        "sha256": "b2df561f08ad2bd4cf963f1d693cae1dc9c1e97c6d7beaeac3f7bcbb3e313b08"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010420.JPG",
+        "key": "PB010420.JPG",
+        "sha256": "fde9eaf040b8dc085340687ff43640ddfc2d1dd04e6eb348c016b4fa01312e00"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010421.JPG",
+        "key": "PB010421.JPG",
+        "sha256": "2c086af781a3a69fc265726b43eae30bc03fee027fe84904ab3c2a1688cf3dcf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010422.JPG",
+        "key": "PB010422.JPG",
+        "sha256": "8684367fc838763d3cf591fcb24ab24057f7e9ae1080ffac9557855bcdda1e07"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010423.JPG",
+        "key": "PB010423.JPG",
+        "sha256": "f47e9268441ba2de0d9409ec9ea7f9e68ccac3b73ac5cd38f7aa4f2f39f18331"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010424.JPG",
+        "key": "PB010424.JPG",
+        "sha256": "7820ec6cd9ccf73cad070a5f34dfc1c59921ef258f3d361d66573127179d7f1e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010425.JPG",
+        "key": "PB010425.JPG",
+        "sha256": "2d8577d55f212ca8dac9230b73a26ace3ad10376ea535d0fa126c756f916ab01"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010426.JPG",
+        "key": "PB010426.JPG",
+        "sha256": "66c5479f4e5bf891cd749149893d495ad7d5bec5b29ce0c3e66a13a488d76b3e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010427.JPG",
+        "key": "PB010427.JPG",
+        "sha256": "4cb6a978a720ae01c5d274b9f71a3a62b579fd1c2ff94137b0270d66aef0c209"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010428.JPG",
+        "key": "PB010428.JPG",
+        "sha256": "74803a82083774fa7537bfe4721bbbde56033b3ae94cff65ef67ebe89db06381"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010429.JPG",
+        "key": "PB010429.JPG",
+        "sha256": "a9cbb8d2dda7524ba5ee9a1e5776a9e0bb7ababf5929b1f9c3fd7ab2668b90ed"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010430.JPG",
+        "key": "PB010430.JPG",
+        "sha256": "c390747d2e9ada262c6c8c5454e0503e604ac273670f590add401a56c682ef55"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010431.JPG",
+        "key": "PB010431.JPG",
+        "sha256": "2b03a2487f7c25bcc2b60ee23475cd7a87a9818324968977dfa4b952ab21076c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010432.JPG",
+        "key": "PB010432.JPG",
+        "sha256": "3803e0fffaa8d9c7a28c3eaa6ea509b99dc215ca51283237e08e96c525597274"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB010433.JPG",
+        "key": "PB010433.JPG",
+        "sha256": "fcc51538839d65afd4bb0f76b2b1da64222edb247bf0db6aa0877c161b0d82a0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020434.JPG",
+        "key": "PB020434.JPG",
+        "sha256": "cd8e27d79382ed6a11d5c3f5f55391d979763f65e8bdd4e4328d759e4f86e715"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020435.JPG",
+        "key": "PB020435.JPG",
+        "sha256": "1fec7daf34a635616dac5f3d482ba694daed750831d24d422a384a0396f4c9d7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020436.JPG",
+        "key": "PB020436.JPG",
+        "sha256": "987c74dee0a38ac0669546eaf5cd6bb961c2ba436e16cd99d05305e7bf30e6a8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020437.JPG",
+        "key": "PB020437.JPG",
+        "sha256": "13bf778769ed2d5a84016ecd1c47c24457b051e4c505002b7728eb8abc27443b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020438.JPG",
+        "key": "PB020438.JPG",
+        "sha256": "f410bef0abadfdf92d55d883fc62607d05a6165d788e90a0835d182725ceac2f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020439.JPG",
+        "key": "PB020439.JPG",
+        "sha256": "853aeefcc0512f42636b11ed7b555846396db4246a7ab58f0fbd5a4a65657a0c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020440.JPG",
+        "key": "PB020440.JPG",
+        "sha256": "849d04c8c9ba3421a064e976e1824f9098cb4e8a52992aa324c712cedc8e04f2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020441.JPG",
+        "key": "PB020441.JPG",
+        "sha256": "70d0fdffd1929d5d638cbb1984b30217da141d07b4b0de232ce49355cd3e0728"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020442.JPG",
+        "key": "PB020442.JPG",
+        "sha256": "91f7b4924ed64d9b82dda1ab6c73624f16321a453a0831b841599eec52247128"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020443.JPG",
+        "key": "PB020443.JPG",
+        "sha256": "4c84c4fd95bf97d139b1f615c070cc58ac6e52ba412fee01b1a50b9b9b0e0e79"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020444.JPG",
+        "key": "PB020444.JPG",
+        "sha256": "fce0c34d873b982749e49dddee71242fa13b48743fa02c12e5b84513c12242f6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020445.JPG",
+        "key": "PB020445.JPG",
+        "sha256": "98511a8665e4d167de2b8a6bf4ceee50b4300e5346a64a9c1eb4dd9991503c58"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020446.JPG",
+        "key": "PB020446.JPG",
+        "sha256": "f1a93292b9254c07d13238125d3f3dc6bb70e6ea4fc573d6461e2d2573c8fc49"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020447.JPG",
+        "key": "PB020447.JPG",
+        "sha256": "122bea938281fb9329d153d7d51d49820e1b0e0944bb7e809636aef93bcd6064"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020448.JPG",
+        "key": "PB020448.JPG",
+        "sha256": "8977cce2aaa67e3d0254bcf062efbf9b01c565eed3ea73a6122f16e58cf19e96"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020449.JPG",
+        "key": "PB020449.JPG",
+        "sha256": "50e5d7fee4ff7431796255bb2d1aaed12b816cb73a6d9d69a9c7bfbbd50bcc34"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020450.JPG",
+        "key": "PB020450.JPG",
+        "sha256": "d418f72dd0383edea955746e14e260afb8bc6e852255c5b21b01f53a37b4ae3c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020451.JPG",
+        "key": "PB020451.JPG",
+        "sha256": "74be42a5294cb53b0b09197b8148ee179d94d2235568410a858ae6b2033d2cf3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020452.JPG",
+        "key": "PB020452.JPG",
+        "sha256": "c018ca5b2647832567b85fd8ec5a841667e74c278643cf456a2353b33ebde768"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020453.JPG",
+        "key": "PB020453.JPG",
+        "sha256": "274b2380bd9b58d6f9af38f94ec81b910fff8bf129416fecee57face55dff33b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020454.JPG",
+        "key": "PB020454.JPG",
+        "sha256": "3ab2ab14e0619049dc4ef09473ed5ac0b529cb2de24e30d90408f8ccb7dc1fd4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020455.JPG",
+        "key": "PB020455.JPG",
+        "sha256": "1755a688b6d0cf9ecec85aa63f85a06475effb96111513628fd18a503230f5db"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020456.JPG",
+        "key": "PB020456.JPG",
+        "sha256": "4348acd322a0d76229285e84de7c1c203f85ab2ff1016d315c113cff1bc2147f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020457.JPG",
+        "key": "PB020457.JPG",
+        "sha256": "f12137437586192ea5826d211ab66b6cca8023e5fc27b1d7c4705f402475dd40"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020458.JPG",
+        "key": "PB020458.JPG",
+        "sha256": "d160954ad12883bc75f9ecccfc715ac1f365f8f326ca7503702890b4056f86a7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB020459.JPG",
+        "key": "PB020459.JPG",
+        "sha256": "bbb46fb27949a615dfd54298febeb1196279e7f6f7049a981ef1832af3b2493a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040460.JPG",
+        "key": "PB040460.JPG",
+        "sha256": "acea4e06b76c9cddffa8209f4d9f8d098cbd7710730f56a50f319b8a9f0feb20"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040461.JPG",
+        "key": "PB040461.JPG",
+        "sha256": "11bb33912d22811372a36b7205d804aa5217fff5d7588e376704cac3737de83c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040462.JPG",
+        "key": "PB040462.JPG",
+        "sha256": "fd7edc66b1e389e9e91af00eafa185757f4164fb2eb83bb6923b05df9ce137c9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040463.JPG",
+        "key": "PB040463.JPG",
+        "sha256": "a7e573ae92a38b30fd97add4dfd7084633d21fd3f9d1a029f9de9d29c0329bfc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040464.JPG",
+        "key": "PB040464.JPG",
+        "sha256": "0363be0ab91498b0cb7a70552ce4679129406c257e63cac94d3f8ad97f82d1d0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040465.JPG",
+        "key": "PB040465.JPG",
+        "sha256": "0ebe12ffb077a801194e8c03ac883078faaf38bf0d047c1ee722c1f14fde15e2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040466.JPG",
+        "key": "PB040466.JPG",
+        "sha256": "ba32e1638ce6a823ace38464cf752443ab825a141606533498f1a4827b68c85f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040467.JPG",
+        "key": "PB040467.JPG",
+        "sha256": "e53c6df5a27e798bfd090ec221e4607d54babd593f46272af483489621a08189"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040468.JPG",
+        "key": "PB040468.JPG",
+        "sha256": "d3833a0145c7c62288899faf6cb3bfdabbc78be5bf019f6dc7d88251a37d2083"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040469.JPG",
+        "key": "PB040469.JPG",
+        "sha256": "c564b6f8f12c83b0f68bb1bdb4650b1ea424529d2928f2d4ce15f971b5a4b710"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040470.JPG",
+        "key": "PB040470.JPG",
+        "sha256": "ec3b05f7075fdba390c1d12be26372c06c81d6d953999a3b0fd7e730aedb9179"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040471.JPG",
+        "key": "PB040471.JPG",
+        "sha256": "7272bbc7e8b58899890baeb6aa20f83fc316af5602fe38f998bf12fc8f190b9d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040472.JPG",
+        "key": "PB040472.JPG",
+        "sha256": "3bb35c2d1c09e43125401cce1b5334a5750443bc6ea97c3e5fd94b4d1ed5e2fc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040473.JPG",
+        "key": "PB040473.JPG",
+        "sha256": "8d74f218b2dd82b41cb4b9ec44703825170f287ad38d8156bf28730050de2d51"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040474.JPG",
+        "key": "PB040474.JPG",
+        "sha256": "2f7e4df055f4f2d7ad7570fa4d93111ef977939f0de75d18a978f880eb0e90e5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040475.JPG",
+        "key": "PB040475.JPG",
+        "sha256": "b3f8b5cdefa724bd23c6dc9249bbe3236be17144cfe26cfb850cc294686cb52a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB040476.JPG",
+        "key": "PB040476.JPG",
+        "sha256": "95831dafd2a16df2019f0d46cf7c6ae44859bb1424c93939a1995d8e96e7c965"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050477.JPG",
+        "key": "PB050477.JPG",
+        "sha256": "d8b7c0fa657d7af374a79b7c4153e1f7b2a35529e29b28f1b15de9b0d9d64453"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050478.JPG",
+        "key": "PB050478.JPG",
+        "sha256": "211444665ac1bc6ab6e2c09880a8161684dd4958f8dc5291903c155c0a8271cc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050479.JPG",
+        "key": "PB050479.JPG",
+        "sha256": "8da214e83f5dbaad088fa955e2bf9fb6e2340a8a38b27c16cdb81cf7e30206be"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050480.JPG",
+        "key": "PB050480.JPG",
+        "sha256": "e8b8756d623a814b0c6982d97fd5af2ca6aac538ff8c79f6b42e3f0aaa04f48b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050481.JPG",
+        "key": "PB050481.JPG",
+        "sha256": "21b8c19bf9664718d1f6d853bd843063961e71f30217ecc14752a7f90efa6ad6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050482.JPG",
+        "key": "PB050482.JPG",
+        "sha256": "5d96e2b7ea90abeec0b1f06ca75b0e6bf005d018126da52d45f84d9d4538ca6e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050483.JPG",
+        "key": "PB050483.JPG",
+        "sha256": "88cd6f676de8ddd5b3175de77edacb488fca74a15775e29dc18dd1c97888c6a6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050484.JPG",
+        "key": "PB050484.JPG",
+        "sha256": "0a5d6b7ea93b292a717e74ed8e433cf373917e3bec35c66faf2de3af46fc734c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050485.JPG",
+        "key": "PB050485.JPG",
+        "sha256": "c7de8e3f5af1a301923043d7b491eeacb30d4be43e0c7374d089a370b5e99267"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050486.JPG",
+        "key": "PB050486.JPG",
+        "sha256": "ea38002c9c770c4272d6ff5465fb08418fae6f5ab7194777fa71745689050e49"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050487.JPG",
+        "key": "PB050487.JPG",
+        "sha256": "cb45b591b4017116831a33e13072d8694888d09ebb68644af9b1f22f03526cc3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050488.JPG",
+        "key": "PB050488.JPG",
+        "sha256": "0ade4a17f4a3b99abdb160503d154398e6d178b9c0c595ef1765b3b6c0904d9c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050489.JPG",
+        "key": "PB050489.JPG",
+        "sha256": "07e5a1044d6bb947dd373cb37e5c5d904b0c01ada097b7d2073a89ade5235827"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050490.JPG",
+        "key": "PB050490.JPG",
+        "sha256": "eb2ec1170e9cb4f867bf9f18d46a545ec7db0619f5dc5e4552e420a1289e4bb5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050491.JPG",
+        "key": "PB050491.JPG",
+        "sha256": "37e271e46f73c98a0f04b2fd924de95dd91738988abf1c857ef09498b37af70b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050492.JPG",
+        "key": "PB050492.JPG",
+        "sha256": "c1c488ebcc23845571f63fc29825319f4c3d45ea3810d22a49118bc758dabcd9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050493.JPG",
+        "key": "PB050493.JPG",
+        "sha256": "6cf566fb910f05cfb22d2a00b4e452ac09a78f399b1510cdc82b69f39e4d3749"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050494.JPG",
+        "key": "PB050494.JPG",
+        "sha256": "34a670a9610973297cfd0befa5d4cc68d21a301f1a43ecdd76a56743b783cfb4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050495.JPG",
+        "key": "PB050495.JPG",
+        "sha256": "fe61ddade68e612539c87699f0357508b0a3134bfe0be6914fca2617dabe281b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050496.JPG",
+        "key": "PB050496.JPG",
+        "sha256": "1c89cd636e15c8af9917d69d2e0fa4cea0ef2f5a6e6283e6993777c819795c21"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050497.JPG",
+        "key": "PB050497.JPG",
+        "sha256": "63a8ff62ff699702a7fd0573699e1ac0c2750e0c20dee94e6f938d428190f528"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050498.JPG",
+        "key": "PB050498.JPG",
+        "sha256": "37426b3bab4b24a7f6e5c5cb59e519fe0ec115936fd8c6e974c870400cd9a91a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050499.JPG",
+        "key": "PB050499.JPG",
+        "sha256": "4db86cb73326680016de9907823e311f88361c4da65501c891bf7b7f44034e71"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050500.JPG",
+        "key": "PB050500.JPG",
+        "sha256": "59b1baa96bcf7e949ba132cdc1ab94c63a95cb64ef2154ac4c2069cea6991a3e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050501.JPG",
+        "key": "PB050501.JPG",
+        "sha256": "e71417ad33b1bad22033c9660ae5fb5cc3d89ab5be04fb009ebbc191aad1bffb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050502.JPG",
+        "key": "PB050502.JPG",
+        "sha256": "be09f67d0a5376f7f459da3c392660ed63409f76c5e2db8d84983e97bbb2b20a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050503.JPG",
+        "key": "PB050503.JPG",
+        "sha256": "8565f9ff0af8e48107976240a280a495b4718431183d9db15dfd97971b700279"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050504.JPG",
+        "key": "PB050504.JPG",
+        "sha256": "c1129cc6fa86009016b14c4c218d2726f758e6f1115d0bf4f87c7c548831a2e8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050505.JPG",
+        "key": "PB050505.JPG",
+        "sha256": "025e897900343d5ed55f8639f214468493a2b3723cd1d579e7dcd51969956714"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050506.JPG",
+        "key": "PB050506.JPG",
+        "sha256": "c8f1b2371eac0a9f131f83e85dec4b2ded7e56d7314cafa49332416ed8be4a5c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050507.JPG",
+        "key": "PB050507.JPG",
+        "sha256": "703c893b82b36d2bb6a1d32fc309008750f246d3b2d5cc4886d2f3672875b92a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB050508.JPG",
+        "key": "PB050508.JPG",
+        "sha256": "a25224cc9a2ad2e595f5df3965f7321612697ffe409330609b3967141b2ca3d9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB060509.JPG",
+        "key": "PB060509.JPG",
+        "sha256": "8b38c322197e31051df3fe8cbda1cf652421acd66a05f0c99e841767a4b54844"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB060510.JPG",
+        "key": "PB060510.JPG",
+        "sha256": "3125c0cff37c6864c44309701bf46f150709a471c63a809e9b5dd6800ed342ac"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB070511.JPG",
+        "key": "PB070511.JPG",
+        "sha256": "bf95485324af10fae23ec9752549b59c2fd635ffd79c9721b911fbc1522ff25a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB070512.JPG",
+        "key": "PB070512.JPG",
+        "sha256": "9f727b4b57261a4088bcb5aefd3cf923ac1c6456562cfe25fd70b23ddce7d889"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB070513.JPG",
+        "key": "PB070513.JPG",
+        "sha256": "669af058e9f21acc2de168e0d2b912993f180c8556052155cb6abdb358286697"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB070514.JPG",
+        "key": "PB070514.JPG",
+        "sha256": "25d7b3153a6cb88e0092c42e444d10076ec67d7e1fae76b30aa2c45e7f78bcc5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB070515.JPG",
+        "key": "PB070515.JPG",
+        "sha256": "4ead7d62a0619409bd2541f60ff63843da9511d3f96a688d3e72b47b738db0af"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB070516.JPG",
+        "key": "PB070516.JPG",
+        "sha256": "30a63fe58350d4151afe6cf0a5184ca2fe2eb0adcee8b63675ccc5a7e0bcf941"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB070517.JPG",
+        "key": "PB070517.JPG",
+        "sha256": "924158dbfb19187204ef6249eae25ad0e44588cc8e0b46272a8371e27346b907"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB070518.JPG",
+        "key": "PB070518.JPG",
+        "sha256": "27e57222425f1a697cec1f4caf57775abae7c2415b107e19ca018d2976dae6de"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB070519.JPG",
+        "key": "PB070519.JPG",
+        "sha256": "40dd86a7c205ea1e508c14c773458eb87af6a2be457d29bac7d63f2b549f2e54"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB070520.JPG",
+        "key": "PB070520.JPG",
+        "sha256": "96d48505e668136ddbe33565f7cac76bd69b3e9f78a370eff905b72cd7593c74"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB070521.JPG",
+        "key": "PB070521.JPG",
+        "sha256": "d3bebf6160bd66a955983d45f3617fd40f8acfb075d0370e19c9dd8111a21d02"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080522.JPG",
+        "key": "PB080522.JPG",
+        "sha256": "8d957c76b1a80efbac486e8111ff7d9e0a0b23b27e8cdc7974cf2c7b28cee2f4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080523.JPG",
+        "key": "PB080523.JPG",
+        "sha256": "436ebe3ab2430007ae8ba37f1401c807c83f3d60d14c34f1a6fd35e0f97441c8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080524.JPG",
+        "key": "PB080524.JPG",
+        "sha256": "9775cb38d332d5a3699bce3883b5461c06de5ccd0fa33bc345685cd27d949dd0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080525.JPG",
+        "key": "PB080525.JPG",
+        "sha256": "6aadb2e577c0c32cc0e42bdbbf6d4d99e2b01eb97f390c489e5db9bb15ba16b0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080526.JPG",
+        "key": "PB080526.JPG",
+        "sha256": "2cc856b227c669cb14a625b9a6413081b516e4525bc90f541fbb654fc0dbd593"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080527.JPG",
+        "key": "PB080527.JPG",
+        "sha256": "3236d97b633123b367289855c191060828aa41d9200d9c90856b49234089834b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080528.JPG",
+        "key": "PB080528.JPG",
+        "sha256": "14a5a38fd54b1fb3a542893a09204710cb76382301e02631c7fd66e8ba7e3a26"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080529.JPG",
+        "key": "PB080529.JPG",
+        "sha256": "dad1f91d71559d53155e4ad6e22aee321a104ce1d0e85b1d794063390c8c62fb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080530.JPG",
+        "key": "PB080530.JPG",
+        "sha256": "7931841abc5e0ae6264441be9228af17262378b26f212a09100f75518584bf24"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080531.JPG",
+        "key": "PB080531.JPG",
+        "sha256": "90a8ef2a3f80f040620384872aee57ea0cea6f976d4510aa8fde8f07c00b60ef"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080532.JPG",
+        "key": "PB080532.JPG",
+        "sha256": "81f666230c51ea84b7c75c206965c7a2374d4160dc730de94d6ae8fb445936f1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080533.JPG",
+        "key": "PB080533.JPG",
+        "sha256": "440059635be96048beedc8d1cdbe867d8f2280474d42fa78866eb5d444ceb04f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080534.JPG",
+        "key": "PB080534.JPG",
+        "sha256": "782210582f25de85c3cc5e2a6cd1423bcf5543aa87ca6556d79a2302f546adda"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080535.JPG",
+        "key": "PB080535.JPG",
+        "sha256": "f41429ee1f6eb9c972e8730aff040b496fc9723b69e99bdfd1efef2e3bacaa9f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080536.JPG",
+        "key": "PB080536.JPG",
+        "sha256": "fe0fa359b878c69b2aa502feb7d399d7b94d9b40b70171ffcd2f0adee2922e14"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080537.JPG",
+        "key": "PB080537.JPG",
+        "sha256": "dc0d921b5e10753f552431486bf6f49e2392df6b5ddc2c28849f54826283a026"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080538.JPG",
+        "key": "PB080538.JPG",
+        "sha256": "8534d114b1cdcd6b1082ff6f464544afb6c1b2ea29dbd16f13b1c7a2bed65827"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080539.JPG",
+        "key": "PB080539.JPG",
+        "sha256": "ecdfd63d7bb945fcf33ba717058e12a90d9426eb963d42bb445f61caf9b8995a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080540.JPG",
+        "key": "PB080540.JPG",
+        "sha256": "93b5d2941fd40b77db71360d69f73198186445117f47fb3e44165f1345ee2a7f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080541.JPG",
+        "key": "PB080541.JPG",
+        "sha256": "d1b8b4748e144aac3371d7c810030f5cab25f63a6932fea6ea6c74df2b76568d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080542.JPG",
+        "key": "PB080542.JPG",
+        "sha256": "c7f78ee197ad3cd4c2312afaee2e2cff58f7d0f108f27052c1341963394972b5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080543.JPG",
+        "key": "PB080543.JPG",
+        "sha256": "b1c0a19700f4c7d94fa05ad5c228fa27ebf345034cc27e379ef53a979a2aeca1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080544.JPG",
+        "key": "PB080544.JPG",
+        "sha256": "45a663cb80300d6dc31b60b0c2580a227c7b0a605bcb77d60092719739d676a7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080545.JPG",
+        "key": "PB080545.JPG",
+        "sha256": "c68cad5c00328107862049ffe7759bf7ac46a13a43bd491a7f4f99bda6798b43"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080546.JPG",
+        "key": "PB080546.JPG",
+        "sha256": "0c4e12dcd3db0959bf2db5a19ef2bd94d19eb3340877443d3f1dc4edaca9213b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080547.JPG",
+        "key": "PB080547.JPG",
+        "sha256": "4c73e11181f520e42031ac122878d7dc8ea5788fda88a9a099e58fec6758bd31"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080548.JPG",
+        "key": "PB080548.JPG",
+        "sha256": "453f46746ecf724fbba011e5d65129721f9ad4254483b285a5f26ee5eacf7165"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080549.JPG",
+        "key": "PB080549.JPG",
+        "sha256": "d46886ef8b4e9deda75c9674f45677fd213769ac5ed4e770773daa4ee13520fd"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080550.JPG",
+        "key": "PB080550.JPG",
+        "sha256": "ff56575f6e5dab9ebc92be51da8c8b5785faf669cb1fc39b38d30ddef475b983"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080551.JPG",
+        "key": "PB080551.JPG",
+        "sha256": "3acab991a02168b7728ee85fb722624465baf099421cb86a735a17c3c700486b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080552.JPG",
+        "key": "PB080552.JPG",
+        "sha256": "f892c112604e0e7dcbaa42f75ec2d1676bcbc607b1806db7715865c84b57d233"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080553.JPG",
+        "key": "PB080553.JPG",
+        "sha256": "3c737c95a2d743b9c475a919f7c93bb6bb8e639759c390ad6642da04a3ca3d0c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080554.JPG",
+        "key": "PB080554.JPG",
+        "sha256": "43783592bf60a571688ad6392ba7405947796cdad1ea6b93c57af0bb71689fae"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080555.JPG",
+        "key": "PB080555.JPG",
+        "sha256": "30e4f5993e6290f958b3fa72ae9479114081f6e67b4b3692f922f9621d094d26"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080556.JPG",
+        "key": "PB080556.JPG",
+        "sha256": "b55202bd6a38339ab39f416f65962c179fc90932640ae8a30d4eca997f7fb00a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080557.JPG",
+        "key": "PB080557.JPG",
+        "sha256": "30d300a39a8b2fc72d2a94a9f177e76166e24c0c8a09a257386192dc325906c7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080558.JPG",
+        "key": "PB080558.JPG",
+        "sha256": "136f6afe32b937cd9fdf96989aeeca26680944175aa6c90d9129f8f5516731b7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080559.JPG",
+        "key": "PB080559.JPG",
+        "sha256": "ed3105e7f4574ebd9f9a1b34959a973fcb12ae0da4c3686155babc998d200630"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080560.JPG",
+        "key": "PB080560.JPG",
+        "sha256": "f79fb9f81f697dd3f80837554455110bc33efc2379fcffc433e62e8fc4755323"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080561.JPG",
+        "key": "PB080561.JPG",
+        "sha256": "36132df4b8d6fb02ecdd5d7bfc547aeb44ebc8d3c5a6983b00d96d89c7380bc0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080562.JPG",
+        "key": "PB080562.JPG",
+        "sha256": "0a9452c36eff9a0f59295d1c51fe8148b7358f3af6c5ca0d21ee754ca54c4140"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080563.JPG",
+        "key": "PB080563.JPG",
+        "sha256": "4749b3f102db7f87dd2dbb90cbce5337e5a4e27ebed5e4333be9179277bcd08b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080564.JPG",
+        "key": "PB080564.JPG",
+        "sha256": "0cb128392e549cbddeb4c45893826dcc89eef342082f13d593c5e0fd3d780c74"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080565.JPG",
+        "key": "PB080565.JPG",
+        "sha256": "693a4188b0bc26b0137fde22b1a6a75ff66bce1fc30e7c18aaccd0332c8f42f8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080566.JPG",
+        "key": "PB080566.JPG",
+        "sha256": "3dd19ff4d5febf71f4246d8dcc28196f10a124f0aa7c39fcf08a4059583e0bc3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080567.JPG",
+        "key": "PB080567.JPG",
+        "sha256": "6976802c7b3aff62b6154b7f3885bc64f324bc73299a261c99cf4dbaec05d05b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080568.JPG",
+        "key": "PB080568.JPG",
+        "sha256": "d409906be20dbf23b982dc30567e5288ea58d9c81a84c0aab22c4937649ca986"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080569.JPG",
+        "key": "PB080569.JPG",
+        "sha256": "fd83c36c7781b3d803c98e9ad892b58996f30d16a528f961b6d8d2801374b805"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080570.JPG",
+        "key": "PB080570.JPG",
+        "sha256": "548737b072988cd8211af366e3b1f9456c5efe883f2715a71f009a117e168cf9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080571.JPG",
+        "key": "PB080571.JPG",
+        "sha256": "c2b0cd7c5ef94eb2c74555b2e28a0d2662a5ca5d26aa0bc1f57fc66f4f30eb43"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080572.JPG",
+        "key": "PB080572.JPG",
+        "sha256": "f240d115bba6eb6ff4466831a3b56dda1014d914b497579cb418f2318b972089"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080573.JPG",
+        "key": "PB080573.JPG",
+        "sha256": "63d20e77848ea8cdf28fe85919efe3332f1445f9695c11e9d54084762bb46079"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080574.JPG",
+        "key": "PB080574.JPG",
+        "sha256": "10d46aca536978ac4385bb25989b5ef36d2a6d3acd6e833fd7ffe38bbf7d7d22"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080575.JPG",
+        "key": "PB080575.JPG",
+        "sha256": "f9811c1b10dff9d9f9c65750ebd2420c5e055c6bf293cf596f88c7e65a472ec9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080576.JPG",
+        "key": "PB080576.JPG",
+        "sha256": "ebc33b26ad74c6826720ee73d8016d2480e4f06fbcd234332eac69e6a848ff57"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080577.JPG",
+        "key": "PB080577.JPG",
+        "sha256": "e505d9bc3eb64a6ee1aaad24e9710b2f12ca8a5d59369df2616980a492e45b7d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080578.JPG",
+        "key": "PB080578.JPG",
+        "sha256": "fa23f5e2c8d0b00a67f44d17652c6a5968fca473c8b3f959565137b01c66f887"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080579.JPG",
+        "key": "PB080579.JPG",
+        "sha256": "948eb4c0f551ba3cf2f4aec43a6202aae1b4faac92d84e69e1b77ffab16f1b82"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080580.JPG",
+        "key": "PB080580.JPG",
+        "sha256": "a56b115e28d3ceea1bf435857c25c5561e3145384e0ea495498fb9b90f0861da"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080581.JPG",
+        "key": "PB080581.JPG",
+        "sha256": "d413b0531889b8348f7a33a7eaece0cd759075b256d9750e8b432865140743c1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080582.JPG",
+        "key": "PB080582.JPG",
+        "sha256": "5eb7c37f4a422421bc195b049716660e096612364cb37682636972f915fe1fc6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2009\\2009 Осень\\Germany-England\\PB080583.JPG",
+        "key": "PB080583.JPG",
+        "sha256": "abdca1514e588158118770473dba68ebd8d99a7d143bfdffc6d3858e8a3e0cc5"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "file": "content/europe/germany/germany-london-2009/grandma-kleve/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Хюрт — у бабушки",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 39,
+              "quote": "Начну рассказ с планирования поездки. Мы планировали поездку всей семьей летом, но не сложилось у нас по деньгам и многому другому. Поэтому мы решили что Серега проведет больше времени с детьми летом, а к бабушке я поеду одна. Но у Сереги отпуска и отгулов столько скопилось что он и летом отдохнул пару недель с детьми и еще у него запасов достаточно :-) Поэтому стали проскальзовать мысли, а не поехать ли Сереге со мной как обычно, ну хотя бы на 2 недельки (я на 3 собиралась).  Вдвоем веселее, Серега машину берет (я с коробкой неавтоматической не езжу), мы по Европе катаемся. Опять же у бабушки всегда в доме за год накапливается работа для мужских рук, которую она никому кроме Сережи не доверяет делать :-) Ну вроде решили ехать вдвоем. Конечно же захотели тут же заехать к Катюше в Лондон, очень интересно было посмотреть как ее детки растут! И тут же стало грустно нам, что мы вот каждый год со всеми встречаемся, на всех смотрим, а сами одни и одни :-( И захотелось нам с собой хотя бы Митьку взять, которого теперь можно «людям показывать» :-) Вроде все у нас сходилось по деньгам и билетам, но тут возмутилась бабушка. Она уже давно говорила что для детей она стара и ей с ними сложно. Поэтому Анюту с Наташей она еще принимает, потому что они большие, а маленьких уже не может. Ну нет, так нет... Мы постарались ее успокоить что оба варината нас устраивают. И это так и было, т.к. с Митькой конечно прикольно, но это уже не отдых получается ;-) Свои плюсы, свои минусы. Но бабушка как обычно сначала отказала, а потом переживала, думала, мама моя еще ее не поддержала, а сказала типа: «Зря ты, Митька очень спокойный и с ним не сложно». Короче бабушка стала переживать, что опять у нас отпуск без детей и стала настаивать чтобы мы Митьку взяли. Так что до последнего момента мы не могли определиться ни со сроками, ни с составом.  Но в итоге мы остановились на варианте что Сережа с Митей летят на 2 неделе, в середине которых мы летим в Лондон к Кате (когда и мы уже со временем разберемся и бабушке будет время от нас отдохнуть), а последнюю третью неделю я остаюсь с бабушкой одна общаться."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "hurth"
+          },
+          "reason": "Окончательный состав — Леля, Сергей, Митя; отменённый летний план не считается отдельной поездкой.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Частное жильё родственников",
+          "event": "visited_private",
+          "evidence": [
+            {
+              "source_paragraph": 44,
+              "quote": "Первыми мы ездили к родственникам в Клеве. Там мы провели чудесный день! Сначала гуляли по центральному парку, в этом парке и небольшой «зоопарк» простенький и всякие горки... Вообще дети это здорого! Вот сами бы мы 4-ро взрослых просто так в парк бы не пошли гулять, а с ребенком выбрались, даже на животных посмотрели и тоже получили удовольствие :-) Пока мы гуляли Валере повзонили с работы и теща ответила что «он гуляет в парке». Мы над ним прикалывались потом что он так «культурно проводит время» :-) Митьку приняли очень хорошо, хотя вел он себя безобразно :-( Он вообще всю поездку вел себя... не так как обычно дома. Слишком много впечатлений! Особенно после каждого перелета был новый всплеск активности. Но у этой родни много мальчишек было сыновей и внуков сейчас и они со спокойствием и большой доброжелательностью к Митьке относлись и он это явно чувствовал и даже уезжать не хотел :-) Так что первый «выход в люди» прошел удачно :-) "
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Семейные визиты в Германии; частные адреса не разыскиваются.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Семейный врач, больница и бытовые магазины",
+          "event": "ordinary_service_or_background",
+          "evidence": [
+            {
+              "source_paragraph": 40,
+              "quote": "Закупились мы билетами, почти уже запаковали сумки с радостным предвкушением и... в наш дом пришел грипп, так я понимаю как раз «свиной»... Заболела Наташка первая, температура, горло... День, два... легче не становится, а нам через пару дней улетать. Повели ее к врачу (чтобы хоть понять что происходит)! Говорят что да, грипп, отпаивайте куриным бульоном и давайте жаропонижающие если надо... От гриппа лекарств нет (у нас тут не лечат точно). Ладно... И тут за 2 дня до вылета у Митьки +40С. Мрак! И билет терять жалко – уже настроились, и маму с двумя больными детьми оставлять страшно, и вести к бабушке заразу еще страшнее :-( Сами в срочном порядке принимаем убойные дозы всех возможных витаминов, сосем каждый час гомеопатию от гриппа, чеснок... все что можем придумать :-) Везу Митьку к нашему семейному доктору. Грипп. Я говорю: «Нам послезавтра лететь в Европу...» (сама еще боюсь что в карантин нафиг посадят там). Ну доктор внимательнее Митьку осмотрел, прощупал: «Точно грипп, вы ему в самолет возьмите что-то пососать, а то уши будет сильно закладывать» :-) Короче так и повезли больного ребенка! Жаропонижающими напичкали и повезли. Я честно говоря ожидала что за 2 дня он уже оттемпературит хотя бы. Митька всегда очень быстро и легко болеет. День-два и побежал в садик. А тут... За 2 дня дома он вроде как раз околемался и температура дома спала, но 3-ий день в 2 самолетах, часов 15 в пути его конечно «добили» и к бабушке мы его с температурой высокой опять привезли. Стали бабушку вместе с нами противогрипозной гомеопатией пичкать. Короче начало отпуска было совсем не таким как виделось в мечтах :-) Но Митька не подвел и через день-другой он уже околемался, а на его хорошем настроение и высокая температура никак не сказывалась, только уставший конечно был: перелет, переход времени и болезнь – все вместе."
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Болезнь и подготовка к поездке, не туристические посещения учреждений.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Кладбище — могила деда",
+          "event": "visited_private_family",
+          "evidence": [
+            {
+              "source_paragraph": 42,
+              "quote": "Бабушка нас тоже встретила не в лучшей форме, не с гриппом, а с простудой  - поэтому первые дни я помню плохо :-) Было просто страшно и думалось в основном о здоровье всех. Хотя в эти дни мы сразу начали делать «дела». Ну «мы» это конечно громко сказано. Сережа конечно. Заменил в кухне плафон и «дал свет», подкрутил все розетки-ручки, закупки на машине мы сделали разные. И потом конечно самое большое дело было – могилу дедову мы переделали. Там в центре был цветник, который каждый год мы подрезали и облагораживали. Но за прошедшие годы многолетнее растение себя изжило и надо было что-то менять. Бабушка уже не хотела что-то сажать, за чем надо было ухаживать, и их с мамой идея была уложить весь центр мелкими мраморными камешками. Эту задумку Серега и выполнил. Получилось очень хорошо и бабушка была очень рада, т.к. этот вопрос ее волновал. "
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Семейная могила и хозяйственные работы, не создаётся публичная точка.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Клеве",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 44,
+              "quote": "Первыми мы ездили к родственникам в Клеве. Там мы провели чудесный день! Сначала гуляли по центральному парку, в этом парке и небольшой «зоопарк» простенький и всякие горки... Вообще дети это здорого! Вот сами бы мы 4-ро взрослых просто так в парк бы не пошли гулять, а с ребенком выбрались, даже на животных посмотрели и тоже получили удовольствие :-) Пока мы гуляли Валере повзонили с работы и теща ответила что «он гуляет в парке». Мы над ним прикалывались потом что он так «культурно проводит время» :-) Митьку приняли очень хорошо, хотя вел он себя безобразно :-( Он вообще всю поездку вел себя... не так как обычно дома. Слишком много впечатлений! Особенно после каждого перелета был новый всплеск активности. Но у этой родни много мальчишек было сыновей и внуков сейчас и они со спокойствием и большой доброжелательностью к Митьке относлись и он это явно чувствовал и даже уезжать не хотел :-) Так что первый «выход в люди» прошел удачно :-) "
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "kleve"
+          },
+          "reason": "Семейный визит и прогулка.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Исторические сады Клеве — Neuer Tiergarten",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 44,
+              "quote": "Первыми мы ездили к родственникам в Клеве. Там мы провели чудесный день! Сначала гуляли по центральному парку, в этом парке и небольшой «зоопарк» простенький и всякие горки... Вообще дети это здорого! Вот сами бы мы 4-ро взрослых просто так в парк бы не пошли гулять, а с ребенком выбрались, даже на животных посмотрели и тоже получили удовольствие :-) Пока мы гуляли Валере повзонили с работы и теща ответила что «он гуляет в парке». Мы над ним прикалывались потом что он так «культурно проводит время» :-) Митьку приняли очень хорошо, хотя вел он себя безобразно :-( Он вообще всю поездку вел себя... не так как обычно дома. Слишком много впечатлений! Особенно после каждого перелета был новый всплеск активности. Но у этой родни много мальчишек было сыновей и внуков сейчас и они со спокойствием и большой доброжелательностью к Митьке относлись и он это явно чувствовал и даже уезжать не хотел :-) Так что первый «выход в люди» прошел удачно :-) "
+            },
+            {
+              "photo": "P1010036.JPG"
+            },
+            {
+              "photo": "P1010040.JPG"
+            },
+            {
+              "photo": "P1010044.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "kleve--neuer-tiergarten"
+          },
+          "reason": "Рассказ о центральном парке и большая серия у канала, боскетов и площадок P1010034–49. Ансамбль сопоставлен с городским описанием; отдельные статуи не выделяются.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Зоопарк Клеве — Tiergarten Kleve",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 44,
+              "quote": "Первыми мы ездили к родственникам в Клеве. Там мы провели чудесный день! Сначала гуляли по центральному парку, в этом парке и небольшой «зоопарк» простенький и всякие горки... Вообще дети это здорого! Вот сами бы мы 4-ро взрослых просто так в парк бы не пошли гулять, а с ребенком выбрались, даже на животных посмотрели и тоже получили удовольствие :-) Пока мы гуляли Валере повзонили с работы и теща ответила что «он гуляет в парке». Мы над ним прикалывались потом что он так «культурно проводит время» :-) Митьку приняли очень хорошо, хотя вел он себя безобразно :-( Он вообще всю поездку вел себя... не так как обычно дома. Слишком много впечатлений! Особенно после каждого перелета был новый всплеск активности. Но у этой родни много мальчишек было сыновей и внуков сейчас и они со спокойствием и большой доброжелательностью к Митьке относлись и он это явно чувствовал и даже уезжать не хотел :-) Так что первый «выход в люди» прошел удачно :-) "
+            },
+            {
+              "photo": "P1010050.JPG"
+            },
+            {
+              "photo": "P1010053.JPG"
+            },
+            {
+              "photo": "P1010055.JPG"
+            },
+            {
+              "photo": "P1010057.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "kleve--tiergarten"
+          },
+          "reason": "В тексте прямо описаны животные; серия P1010050–57 показывает кормление и контактный вольер. Название и местоположение сопоставлены с первичным сайтом Tiergarten. Это отдельный зоопарк, не фиктивное посещение музея Kurhaus по соседству.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Крытый детский игровой центр",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 45,
+              "quote": "Другой поезкой у нас была встреча с семьей где растет девочка с теми же проблемами что и у Митьки были.  Интернет сейчас способен объединять и сдруживать людей со всего света! Эту девочку я неблюдаю уже 3 года, каждый год встречаемся на немецкой земле и я радуюсь ее успехам. А тут мы и своего красавца привезли показать :-) Нас встречали особой программой развлечений. Отвезли в детский игровой центр. Как же классно! Ничего похожего у нас в Канаде нет :-( А надо бы. Это у нас ТУТ длинные снежные зимы! А там огромный повильон с кучей развлечений. Батут здоровенный надувный , разные огромные лазелки,  лодочки в искусственном озерке и паровоз... Ну ОЧЕНЬ нам понравилось! Ну и конечно наообщались в удовольствие :-) А Митьке наконец и правильная хорошая горячая еда перепала! А то с его диетой сложно было в путешествии. Первую неделю мы еще держались на тех продуктах что с собой привезли и вроде даже нашли все необходимое в Германии: соевое молоко, йогурты, печенья специальные... Но он ничего не ел :-( Не тот вкус ему и все тут! Кстати в Англии он все ел прекрасно, видимо ближе к нашему вкус.  "
+            },
+            {
+              "photo": "PA270284.JPG"
+            },
+            {
+              "photo": "PA270295.JPG"
+            },
+            {
+              "photo": "PA270303.JPG"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Вход и катание подтверждены рассказом и большой серией PA270284–309/IMGP1441–43. Имя папки Kleve_PuchaPucha само по себе не устанавливает торговое название и адрес центра.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Кёльнский зоопарк и аквариум",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 46,
+              "quote": "Еще в эту первую неделю Серега с Митькой посетили кельнский зоопарк и аквариум (зоопарк и у нас неплохой, а вот аквариума нет). И целый день мы все вместе провели в местном «Фантазия лэнде», типа Диснейленда что-то. Мне он ОЧЕНЬ нравится, мы еще с маленькой Наташкой там пару раз были. И по моим впечатлениям он больше похож именно на Диснейленд в Штатах, а не на тот парк который у нас. У нас более «жесткие» атракционы, страшные. А тут все более «волшебное» что-ли... И работает этот парк ежедневно до 1 ноября! Мы попали на последнюю неделю, в будни, народ все равно был (непонятно откуда), но конечно почти везде мы проходили без очередей или ждали минут 5 максимум. А летом в каникулы конечно совсем другое дело! Зато мы на всем что можно было Митьке по возрасту-росту прокатились."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "cologne--kyolnskiy-zoopark-i-akvarium"
+          },
+          "reason": "Сергей и Митя ходили отдельно. Леля этим посещением не помечается; общий комплекс не дробится на вольеры.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Phantasialand",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 46,
+              "quote": "Еще в эту первую неделю Серега с Митькой посетили кельнский зоопарк и аквариум (зоопарк и у нас неплохой, а вот аквариума нет). И целый день мы все вместе провели в местном «Фантазия лэнде», типа Диснейленда что-то. Мне он ОЧЕНЬ нравится, мы еще с маленькой Наташкой там пару раз были. И по моим впечатлениям он больше похож именно на Диснейленд в Штатах, а не на тот парк который у нас. У нас более «жесткие» атракционы, страшные. А тут все более «волшебное» что-ли... И работает этот парк ежедневно до 1 ноября! Мы попали на последнюю неделю, в будни, народ все равно был (непонятно откуда), но конечно почти везде мы проходили без очередей или ждали минут 5 максимум. А летом в каникулы конечно совсем другое дело! Зато мы на всем что можно было Митьке по возрасту-росту прокатились."
+            },
+            {
+              "photo": "PA290314.JPG"
+            },
+            {
+              "photo": "PA290319.JPG"
+            },
+            {
+              "photo": "PA290325.JPG"
+            },
+            {
+              "photo": "PA290348.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "bruhl--park-phantasialand"
+          },
+          "reason": "Провели день втроём, катались на доступных по росту аттракционах. Серия PA290314–352 подтверждает посещение. Отдельные тематические фасады и аттракционы не самостоятельные места.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Disneyland в США и канадский парк",
+          "event": "comparison_or_previous_visit",
+          "evidence": [
+            {
+              "source_paragraph": 46,
+              "quote": "Еще в эту первую неделю Серега с Митькой посетили кельнский зоопарк и аквариум (зоопарк и у нас неплохой, а вот аквариума нет). И целый день мы все вместе провели в местном «Фантазия лэнде», типа Диснейленда что-то. Мне он ОЧЕНЬ нравится, мы еще с маленькой Наташкой там пару раз были. И по моим впечатлениям он больше похож именно на Диснейленд в Штатах, а не на тот парк который у нас. У нас более «жесткие» атракционы, страшные. А тут все более «волшебное» что-ли... И работает этот парк ежедневно до 1 ноября! Мы попали на последнюю неделю, в будни, народ все равно был (непонятно откуда), но конечно почти везде мы проходили без очередей или ждали минут 5 максимум. А летом в каникулы конечно совсем другое дело! Зато мы на всем что можно было Митьке по возрасту-росту прокатились."
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Автор сравнивает парки и прежние посещения с Наташей. Это не остановки германского отпуска 2009.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "IKEA",
+          "event": "service_stop",
+          "evidence": [
+            {
+              "source_paragraph": 47,
+              "quote": "Так и пролетела первая неделя. Митька уже был совсем здоров и бабушка тоже околемалась от простуды и от тревоги как она с нами управится :-) В принципе все оказалось не так страшно. Мы все втроем разместились в ее большой комнате, купили специально в IKEA раскладушку для Митьки, а она в спальне своей могла отдыхать и делать что хочет. Эту идею предложила моя мама и она оказалась очень удачной и удобной. Мы только Митьку у бабушки в комнате укладывали спать, а сами до ночи смотрели телек все вместе или играли в карты, а потом Серега относил Митьку на его раскладушку и все мы ложились. "
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Покупка раскладушки; отдел детских игр не самостоятельная достопримечательность.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-london-2009/london/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Лондон — семейный визит",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 48,
+              "quote": "Следующим нашим «путешествием в путешествии» была поездка к Кате. Это с нашей стороны уже такое традиционное «нашествие» и делаем мы его как-то не совсем обдуманно, в смысле не особенно думаем насколько интересно и удобно это Катюше и ее семье. И именно поэтому в этот год мы попали ну в САМОЕ неудачное для ребят время :-) У них ДВОЕ маленьких детей (у нас никогда не было сразу 2-е маленьких и мы это как-то не очень осознаем), Катюша недавно вышла на работу, няня одна дома «зашивается», Катя после работы бежит домой и тоже «зашивается». На работе тоже приходится работать все 100% времени, т.к. уходит она рано. Вот такое вот тяжелое время, когда все «заезженные» и поэтому и напряжения между всеми больше... А тут мы – здрасьте! Но скажу честно, даже если бы я немножко мозгами раскинула и подумала не только о своих желаниях, я бы все равно поехала :-) Не знаю согласиться ли со мной Катюша, но мне сейчас «с период переосмысления жизни среднего возраста» как-то особенно хочется сохранять семейные связи. А так же хочется чтобы и дети знали своих родных. И возможность увидиться лично, пообщаться, это так здорого! "
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "london"
+          },
+          "reason": "Поездка Лели, Сергея и Мити к Кате и Дэвиду; Вика оставалась дома с няней в детских вылазках.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Лондонский аквариум",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 51,
+              "quote": "Развлекались мы с детьми, вернее с мальчишками, Вику оставляли дома с няней :-) Посетили опять аквариум, потом в этот вечер мы уже одни отмечали хэлувин (Митька требовал). Интересно что пишут что праздник «родом» из Англии, но видимо свой расцвет он получил в Америке. Поэтому в Англии мы мало что нашли на тему хелувина, но была экскурсия на кораблике по Темзе где рассказывали детям всякие «страшилки» про разные здания которые мы проплывали. Я бы сказала «слабенько», но Митьке понравилось! И он много запомнил! Вообще «побочным» результатом всего нашего путешествия оказалось то что Митька много для себя интересного узнал и как-бы «запомнил». Я не думаю что в 6 лет он что-то запомнит надолго, но в целом он пока запомнил гораздо больше чем я думала. Он Биг Бэна и замка Тауэр, до Вестминстерского аббатсва :-О Вроде он без особой охоты все это наблюдал, но все равно впечатлений много.  И любопытно ЧТО ему запало больше всего. В Тауэре выставлены королевские регалии и короны и пока стоишь в очереди их посмотреть, то крутят на стене фильм про коронацию Елизаветы II. Вот этот ФИЛЬМ ему больше всего понравился, ну и корона тоже :-) И еще ему было очень интересно что в Англии говорят на «нашем английском языке», но некоторые слова разные. Он все запоминал эти различия и очень веселился :-) Другое произношение он как-то не отметил, видимо в Канаде тут СТОЛЬКО произношений что ему ухо ничего не режет :-) Но понимал он всех совершенно без проблем. В этом смысле в Англии ему понравилось больше чем в Германии, где его не понимали дети его возраста (все подростки и молодые взрослые на англ. свободно говорят!).  Но он выучил 3-4 немецких слова и оставался один в IKEA в детской комнате играть :-)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "london--londonskiy-akvarium"
+          },
+          "reason": "Прямое описание «Посетили опять аквариум»; предыдущий визит не смешивается с текущим.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя",
+            "Катя",
+            "Дэвид",
+            "Оскар"
+          ]
+        },
+        {
+          "label": "Темза — хэллоуинская прогулка на кораблике",
+          "event": "guided_boat_trip",
+          "evidence": [
+            {
+              "source_paragraph": 51,
+              "quote": "Развлекались мы с детьми, вернее с мальчишками, Вику оставляли дома с няней :-) Посетили опять аквариум, потом в этот вечер мы уже одни отмечали хэлувин (Митька требовал). Интересно что пишут что праздник «родом» из Англии, но видимо свой расцвет он получил в Америке. Поэтому в Англии мы мало что нашли на тему хелувина, но была экскурсия на кораблике по Темзе где рассказывали детям всякие «страшилки» про разные здания которые мы проплывали. Я бы сказала «слабенько», но Митьке понравилось! И он много запомнил! Вообще «побочным» результатом всего нашего путешествия оказалось то что Митька много для себя интересного узнал и как-бы «запомнил». Я не думаю что в 6 лет он что-то запомнит надолго, но в целом он пока запомнил гораздо больше чем я думала. Он Биг Бэна и замка Тауэр, до Вестминстерского аббатсва :-О Вроде он без особой охоты все это наблюдал, но все равно впечатлений много.  И любопытно ЧТО ему запало больше всего. В Тауэре выставлены королевские регалии и короны и пока стоишь в очереди их посмотреть, то крутят на стене фильм про коронацию Елизаветы II. Вот этот ФИЛЬМ ему больше всего понравился, ну и корона тоже :-) И еще ему было очень интересно что в Англии говорят на «нашем английском языке», но некоторые слова разные. Он все запоминал эти различия и очень веселился :-) Другое произношение он как-то не отметил, видимо в Канаде тут СТОЛЬКО произношений что ему ухо ничего не режет :-) Но понимал он всех совершенно без проблем. В этом смысле в Англии ему понравилось больше чем в Германии, где его не понимали дети его возраста (все подростки и молодые взрослые на англ. свободно говорят!).  Но он выучил 3-4 немецких слова и оставался один в IKEA в детской комнате играть :-)"
+            },
+            {
+              "photo": "PA310396.JPG"
+            },
+            {
+              "photo": "PA310397.JPG"
+            },
+            {
+              "photo": "PA310400.JPG"
+            },
+            {
+              "photo": "PA310403.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "london--thames-boat-trip"
+          },
+          "reason": "Вечерняя экскурсия с историями для детей, после совместного похода уже своей семьёй. Ночные кадры Мити в маске на борту; видимые на берегах здания не становятся отдельными посещениями.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Биг-Бен",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 66,
+              "quote": "В последний день в Лондоне, когда ребята уже ушли на работу, мы пошли просто гулять по городу. Редко-редко нам удается погулять вместе, а уж особенно одному Митьке с родителями. Еще с Наташкой мы как-то бывало гуляли втроем, а сейчас жизнь такая сумашедшая... Один сюда с одним ребенком, другой в другое место. Если и выбираемся куда-то все вместе, то вчетвером. В этом смысле как раз приезд Жениной семьи этим летом нас «заставил» много времени  провести всем вместе :-) Ну так вот, поехали мы просто в центр города, очередной раз Митька посмотрел на Big Ben, потом мы прошли в Вестминстерское аббатство. Там мы ни разу не были, а мама моя очень рекомендовала. Там очень удачно все продумано. Там с Серегой дали сразу «слушать» путеводитель – очень интересно рассказывали что есть что и кто где захоронен. А детям давали картонную «дощечку» с прикрепленным к ней листом с вопросами разными. Надо было посчитать сколько найдешь львов, орлов и еще кого-то. Т.е. на всяких скульптурах или изображениях. Ну и главное пообещали дать в конце приз если он все это выполнит. Очень здорого его отвлекли :-) Мы имели возможность все спокойно прослушать и осмотреть. В конце Митька работал надо вопросами сам! Там я бы сказала больше лет на 10 расчитан был вопросник, а не на 6. Но он своими каракулями добросовестно писал ответы на исторические вопросы – как мог :-) Опять же что-то в голове осталось. В итоге дали ему шоколадную медаль большую :-) (конечно давали всем вне зависимости что там накалякано). Поскольку ему нельзя шоколад, он ее бабушке в подарок отвез. Погода была чудасная и мы решили пройтись пешком до Букенгемского дворца, показать Митьке караул там. Мы прошлись по центру, потом прогулялись по  St.James парку вдоль пруда с разными птицами, посмотрели на стражников и даже видели конную гвардию. Т.е. такое размеренный день провели, необычный. Потому что когда мы с Наташей или сами по себе, то старались больше «для ума» получить и по музеям больше бегали. А тут по парку гуляли :-) Потом там же, рядом со дворцом, зашли пообещать в небольшой, но приятный ресторанчик и попытались выбрать типично английские блюда. Митька был в восторге, он вообще любитель «красивой жизни», а тут все было так элегантно обставленно. Он даже смог заставить себя вести себя чинно и прилично (я ему сказала что иначе его из взрослого ресторана тут же выпрут ;-)).  Короче вот такой вроде бы довольно «пустой» день получился, а какой-то спокойный, приятный и запоминающийся."
+            },
+            {
+              "photo": "PA310358.JPG"
+            },
+            {
+              "photo": "PB020436.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "london--big-ben"
+          },
+          "reason": "Автор прямо пишет, что очередной раз показывали Мите; семейные фото PA310358/59 и PB020434–36. Подъём на часовую башню не подтверждён.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Тауэр",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 51,
+              "quote": "Развлекались мы с детьми, вернее с мальчишками, Вику оставляли дома с няней :-) Посетили опять аквариум, потом в этот вечер мы уже одни отмечали хэлувин (Митька требовал). Интересно что пишут что праздник «родом» из Англии, но видимо свой расцвет он получил в Америке. Поэтому в Англии мы мало что нашли на тему хелувина, но была экскурсия на кораблике по Темзе где рассказывали детям всякие «страшилки» про разные здания которые мы проплывали. Я бы сказала «слабенько», но Митьке понравилось! И он много запомнил! Вообще «побочным» результатом всего нашего путешествия оказалось то что Митька много для себя интересного узнал и как-бы «запомнил». Я не думаю что в 6 лет он что-то запомнит надолго, но в целом он пока запомнил гораздо больше чем я думала. Он Биг Бэна и замка Тауэр, до Вестминстерского аббатсва :-О Вроде он без особой охоты все это наблюдал, но все равно впечатлений много.  И любопытно ЧТО ему запало больше всего. В Тауэре выставлены королевские регалии и короны и пока стоишь в очереди их посмотреть, то крутят на стене фильм про коронацию Елизаветы II. Вот этот ФИЛЬМ ему больше всего понравился, ну и корона тоже :-) И еще ему было очень интересно что в Англии говорят на «нашем английском языке», но некоторые слова разные. Он все запоминал эти различия и очень веселился :-) Другое произношение он как-то не отметил, видимо в Канаде тут СТОЛЬКО произношений что ему ухо ничего не режет :-) Но понимал он всех совершенно без проблем. В этом смысле в Англии ему понравилось больше чем в Германии, где его не понимали дети его возраста (все подростки и молодые взрослые на англ. свободно говорят!).  Но он выучил 3-4 немецких слова и оставался один в IKEA в детской комнате играть :-)"
+            },
+            {
+              "photo": "PA310377.JPG"
+            },
+            {
+              "photo": "PA310386.JPG"
+            },
+            {
+              "photo": "PA310390.JPG"
+            },
+            {
+              "photo": "PA310393.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "london--tower-of-london"
+          },
+          "reason": "Митя смотрел королевские регалии и фильм о коронации; большая серия PA310375–395 внутри крепости подтверждает вход. Это музейный комплекс, пропущенный в метках главы.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Королевские регалии, фильм и экспонаты Тауэра",
+          "event": "seen_as_exhibits",
+          "evidence": [
+            {
+              "source_paragraph": 51,
+              "quote": "Развлекались мы с детьми, вернее с мальчишками, Вику оставляли дома с няней :-) Посетили опять аквариум, потом в этот вечер мы уже одни отмечали хэлувин (Митька требовал). Интересно что пишут что праздник «родом» из Англии, но видимо свой расцвет он получил в Америке. Поэтому в Англии мы мало что нашли на тему хелувина, но была экскурсия на кораблике по Темзе где рассказывали детям всякие «страшилки» про разные здания которые мы проплывали. Я бы сказала «слабенько», но Митьке понравилось! И он много запомнил! Вообще «побочным» результатом всего нашего путешествия оказалось то что Митька много для себя интересного узнал и как-бы «запомнил». Я не думаю что в 6 лет он что-то запомнит надолго, но в целом он пока запомнил гораздо больше чем я думала. Он Биг Бэна и замка Тауэр, до Вестминстерского аббатсва :-О Вроде он без особой охоты все это наблюдал, но все равно впечатлений много.  И любопытно ЧТО ему запало больше всего. В Тауэре выставлены королевские регалии и короны и пока стоишь в очереди их посмотреть, то крутят на стене фильм про коронацию Елизаветы II. Вот этот ФИЛЬМ ему больше всего понравился, ну и корона тоже :-) И еще ему было очень интересно что в Англии говорят на «нашем английском языке», но некоторые слова разные. Он все запоминал эти различия и очень веселился :-) Другое произношение он как-то не отметил, видимо в Канаде тут СТОЛЬКО произношений что ему ухо ничего не режет :-) Но понимал он всех совершенно без проблем. В этом смысле в Англии ему понравилось больше чем в Германии, где его не понимали дети его возраста (все подростки и молодые взрослые на англ. свободно говорят!).  Но он выучил 3-4 немецких слова и оставался один в IKEA в детской комнате играть :-)"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "london--tower-of-london"
+          },
+          "reason": "Части одного посещённого комплекса; не отдельные самостоятельные точки.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Музей науки",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 52,
+              "quote": "Еще одим нашим совместным походом был музей техники. Там Митька наглым образом оседлал (в прямом смысле этого слова) Дэвида и ездил на нем весь день по музею и она обсуждали там всякие технические штучки. Оскар не отстал от брата и оседлал Серегу и Серега с ним ходил, играл и показывал что-то. Мы с Катей дружненько под это дело ушли в тень и болтали о своем о девечьем :-) Конечно с детьми времени на болтавню было мало, но... такая наша материнская доля теперь, пока дети не подрастут :-)  Когда Оскар устал и ему было пора спать, мы сами еще в соседний музей «натуральной истории» сходили. Я ходила смотреть драгоценные камни и бриллианты, а Серега с Митькой динозавров :-) А потом мы еще в их интересном магазинчике крутились, потому что Катюша подарила нашим детям сертификат подарочный в этот музейный магазин и мы выбирали там подарки :-)"
+            },
+            {
+              "photo": "PB010409.JPG"
+            },
+            {
+              "photo": "PB010412.JPG"
+            },
+            {
+              "photo": "PB010416.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "london--muzey-nauki"
+          },
+          "reason": "Совместный поход с Катей, Дэвидом и Оскаром; фото в интерактивных экспозициях PB010409–417.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя",
+            "Катя",
+            "Дэвид",
+            "Оскар"
+          ]
+        },
+        {
+          "label": "Музей естествознания",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 52,
+              "quote": "Еще одим нашим совместным походом был музей техники. Там Митька наглым образом оседлал (в прямом смысле этого слова) Дэвида и ездил на нем весь день по музею и она обсуждали там всякие технические штучки. Оскар не отстал от брата и оседлал Серегу и Серега с ним ходил, играл и показывал что-то. Мы с Катей дружненько под это дело ушли в тень и болтали о своем о девечьем :-) Конечно с детьми времени на болтавню было мало, но... такая наша материнская доля теперь, пока дети не подрастут :-)  Когда Оскар устал и ему было пора спать, мы сами еще в соседний музей «натуральной истории» сходили. Я ходила смотреть драгоценные камни и бриллианты, а Серега с Митькой динозавров :-) А потом мы еще в их интересном магазинчике крутились, потому что Катюша подарила нашим детям сертификат подарочный в этот музейный магазин и мы выбирали там подарки :-)"
+            },
+            {
+              "photo": "PB010418.JPG"
+            },
+            {
+              "photo": "PB010420.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "london--muzey-estestvoznaniya"
+          },
+          "reason": "После ухода семьи Оскара вошли своей семьёй.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Драгоценные камни и бриллианты",
+          "event": "visited_exhibition",
+          "evidence": [
+            {
+              "source_paragraph": 52,
+              "quote": "Еще одим нашим совместным походом был музей техники. Там Митька наглым образом оседлал (в прямом смысле этого слова) Дэвида и ездил на нем весь день по музею и она обсуждали там всякие технические штучки. Оскар не отстал от брата и оседлал Серегу и Серега с ним ходил, играл и показывал что-то. Мы с Катей дружненько под это дело ушли в тень и болтали о своем о девечьем :-) Конечно с детьми времени на болтавню было мало, но... такая наша материнская доля теперь, пока дети не подрастут :-)  Когда Оскар устал и ему было пора спать, мы сами еще в соседний музей «натуральной истории» сходили. Я ходила смотреть драгоценные камни и бриллианты, а Серега с Митькой динозавров :-) А потом мы еще в их интересном магазинчике крутились, потому что Катюша подарила нашим детям сертификат подарочный в этот музейный магазин и мы выбирали там подарки :-)"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "london--muzey-estestvoznaniya"
+          },
+          "reason": "Леля пошла в минералогическую экспозицию; не отдельная галерея вне музея.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Динозавры",
+          "event": "visited_exhibition",
+          "evidence": [
+            {
+              "source_paragraph": 52,
+              "quote": "Еще одим нашим совместным походом был музей техники. Там Митька наглым образом оседлал (в прямом смысле этого слова) Дэвида и ездил на нем весь день по музею и она обсуждали там всякие технические штучки. Оскар не отстал от брата и оседлал Серегу и Серега с ним ходил, играл и показывал что-то. Мы с Катей дружненько под это дело ушли в тень и болтали о своем о девечьем :-) Конечно с детьми времени на болтавню было мало, но... такая наша материнская доля теперь, пока дети не подрастут :-)  Когда Оскар устал и ему было пора спать, мы сами еще в соседний музей «натуральной истории» сходили. Я ходила смотреть драгоценные камни и бриллианты, а Серега с Митькой динозавров :-) А потом мы еще в их интересном магазинчике крутились, потому что Катюша подарила нашим детям сертификат подарочный в этот музейный магазин и мы выбирали там подарки :-)"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "london--muzey-estestvoznaniya"
+          },
+          "reason": "Сергей и Митя смотрели динозавров отдельно от Лели.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Музейный магазин",
+          "event": "service_stop",
+          "evidence": [
+            {
+              "source_paragraph": 52,
+              "quote": "Еще одим нашим совместным походом был музей техники. Там Митька наглым образом оседлал (в прямом смысле этого слова) Дэвида и ездил на нем весь день по музею и она обсуждали там всякие технические штучки. Оскар не отстал от брата и оседлал Серегу и Серега с ним ходил, играл и показывал что-то. Мы с Катей дружненько под это дело ушли в тень и болтали о своем о девечьем :-) Конечно с детьми времени на болтавню было мало, но... такая наша материнская доля теперь, пока дети не подрастут :-)  Когда Оскар устал и ему было пора спать, мы сами еще в соседний музей «натуральной истории» сходили. Я ходила смотреть драгоценные камни и бриллианты, а Серега с Митькой динозавров :-) А потом мы еще в их интересном магазинчике крутились, потому что Катюша подарила нашим детям сертификат подарочный в этот музейный магазин и мы выбирали там подарки :-)"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "london--muzey-estestvoznaniya"
+          },
+          "reason": "Выбор подарков по сертификату при том же музее; не отдельная географическая точка.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Частный дом Кати и проект нового дома",
+          "event": "private_visit_and_future_plans",
+          "evidence": [
+            {
+              "source_paragraph": 56,
+              "quote": "Второе большое впечатление от поездки к Кате это конечно ДОМ который они купили! Это что-то такое невообразимо огромное, что не помещается в моей голове для анализа и впечатлений :-) Я так понимаю что это просто настолько за гранью того уровня жизни и круга к которым я принадлежу, что у меня ассоциации сразу с любовными романами и английскими лордами, а не с реальной жизнью и людьми :-) Катя меня спрашивает впечатления, мысли. А я понимаю что у меня не может быть особых мыслей, я не мыслю такими категорями просто :-)"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Личное жильё и планы переустройства; домашняя библиотека, галерея, кинозал и будущие школы не публичные посещённые объекты.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Вестминстерское аббатство",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 66,
+              "quote": "В последний день в Лондоне, когда ребята уже ушли на работу, мы пошли просто гулять по городу. Редко-редко нам удается погулять вместе, а уж особенно одному Митьке с родителями. Еще с Наташкой мы как-то бывало гуляли втроем, а сейчас жизнь такая сумашедшая... Один сюда с одним ребенком, другой в другое место. Если и выбираемся куда-то все вместе, то вчетвером. В этом смысле как раз приезд Жениной семьи этим летом нас «заставил» много времени  провести всем вместе :-) Ну так вот, поехали мы просто в центр города, очередной раз Митька посмотрел на Big Ben, потом мы прошли в Вестминстерское аббатство. Там мы ни разу не были, а мама моя очень рекомендовала. Там очень удачно все продумано. Там с Серегой дали сразу «слушать» путеводитель – очень интересно рассказывали что есть что и кто где захоронен. А детям давали картонную «дощечку» с прикрепленным к ней листом с вопросами разными. Надо было посчитать сколько найдешь львов, орлов и еще кого-то. Т.е. на всяких скульптурах или изображениях. Ну и главное пообещали дать в конце приз если он все это выполнит. Очень здорого его отвлекли :-) Мы имели возможность все спокойно прослушать и осмотреть. В конце Митька работал надо вопросами сам! Там я бы сказала больше лет на 10 расчитан был вопросник, а не на 6. Но он своими каракулями добросовестно писал ответы на исторические вопросы – как мог :-) Опять же что-то в голове осталось. В итоге дали ему шоколадную медаль большую :-) (конечно давали всем вне зависимости что там накалякано). Поскольку ему нельзя шоколад, он ее бабушке в подарок отвез. Погода была чудасная и мы решили пройтись пешком до Букенгемского дворца, показать Митьке караул там. Мы прошлись по центру, потом прогулялись по  St.James парку вдоль пруда с разными птицами, посмотрели на стражников и даже видели конную гвардию. Т.е. такое размеренный день провели, необычный. Потому что когда мы с Наташей или сами по себе, то старались больше «для ума» получить и по музеям больше бегали. А тут по парку гуляли :-) Потом там же, рядом со дворцом, зашли пообещать в небольшой, но приятный ресторанчик и попытались выбрать типично английские блюда. Митька был в восторге, он вообще любитель «красивой жизни», а тут все было так элегантно обставленно. Он даже смог заставить себя вести себя чинно и прилично (я ему сказала что иначе его из взрослого ресторана тут же выпрут ;-)).  Короче вот такой вроде бы довольно «пустой» день получился, а какой-то спокойный, приятный и запоминающийся."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "london--vestminsterskoe-abbatstvo"
+          },
+          "reason": "Прямо описан вход, аудиогид взрослых и детский вопросник с медалью. Внутреннее фото не требуется для подробно описанного посещения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Сент-Джеймсский парк",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 66,
+              "quote": "В последний день в Лондоне, когда ребята уже ушли на работу, мы пошли просто гулять по городу. Редко-редко нам удается погулять вместе, а уж особенно одному Митьке с родителями. Еще с Наташкой мы как-то бывало гуляли втроем, а сейчас жизнь такая сумашедшая... Один сюда с одним ребенком, другой в другое место. Если и выбираемся куда-то все вместе, то вчетвером. В этом смысле как раз приезд Жениной семьи этим летом нас «заставил» много времени  провести всем вместе :-) Ну так вот, поехали мы просто в центр города, очередной раз Митька посмотрел на Big Ben, потом мы прошли в Вестминстерское аббатство. Там мы ни разу не были, а мама моя очень рекомендовала. Там очень удачно все продумано. Там с Серегой дали сразу «слушать» путеводитель – очень интересно рассказывали что есть что и кто где захоронен. А детям давали картонную «дощечку» с прикрепленным к ней листом с вопросами разными. Надо было посчитать сколько найдешь львов, орлов и еще кого-то. Т.е. на всяких скульптурах или изображениях. Ну и главное пообещали дать в конце приз если он все это выполнит. Очень здорого его отвлекли :-) Мы имели возможность все спокойно прослушать и осмотреть. В конце Митька работал надо вопросами сам! Там я бы сказала больше лет на 10 расчитан был вопросник, а не на 6. Но он своими каракулями добросовестно писал ответы на исторические вопросы – как мог :-) Опять же что-то в голове осталось. В итоге дали ему шоколадную медаль большую :-) (конечно давали всем вне зависимости что там накалякано). Поскольку ему нельзя шоколад, он ее бабушке в подарок отвез. Погода была чудасная и мы решили пройтись пешком до Букенгемского дворца, показать Митьке караул там. Мы прошлись по центру, потом прогулялись по  St.James парку вдоль пруда с разными птицами, посмотрели на стражников и даже видели конную гвардию. Т.е. такое размеренный день провели, необычный. Потому что когда мы с Наташей или сами по себе, то старались больше «для ума» получить и по музеям больше бегали. А тут по парку гуляли :-) Потом там же, рядом со дворцом, зашли пообещать в небольшой, но приятный ресторанчик и попытались выбрать типично английские блюда. Митька был в восторге, он вообще любитель «красивой жизни», а тут все было так элегантно обставленно. Он даже смог заставить себя вести себя чинно и прилично (я ему сказала что иначе его из взрослого ресторана тут же выпрут ;-)).  Короче вот такой вроде бы довольно «пустой» день получился, а какой-то спокойный, приятный и запоминающийся."
+            },
+            {
+              "photo": "PB020445.JPG"
+            },
+            {
+              "photo": "PB020448.JPG"
+            },
+            {
+              "photo": "PB020452.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "london--sent-dzheymsskiy-park"
+          },
+          "reason": "Прогулка вдоль пруда; собственная серия с пеликанами PB020445–53. Птицы — часть прогулки, не посещение другого зоопарка.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Букингемский дворец",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 66,
+              "quote": "В последний день в Лондоне, когда ребята уже ушли на работу, мы пошли просто гулять по городу. Редко-редко нам удается погулять вместе, а уж особенно одному Митьке с родителями. Еще с Наташкой мы как-то бывало гуляли втроем, а сейчас жизнь такая сумашедшая... Один сюда с одним ребенком, другой в другое место. Если и выбираемся куда-то все вместе, то вчетвером. В этом смысле как раз приезд Жениной семьи этим летом нас «заставил» много времени  провести всем вместе :-) Ну так вот, поехали мы просто в центр города, очередной раз Митька посмотрел на Big Ben, потом мы прошли в Вестминстерское аббатство. Там мы ни разу не были, а мама моя очень рекомендовала. Там очень удачно все продумано. Там с Серегой дали сразу «слушать» путеводитель – очень интересно рассказывали что есть что и кто где захоронен. А детям давали картонную «дощечку» с прикрепленным к ней листом с вопросами разными. Надо было посчитать сколько найдешь львов, орлов и еще кого-то. Т.е. на всяких скульптурах или изображениях. Ну и главное пообещали дать в конце приз если он все это выполнит. Очень здорого его отвлекли :-) Мы имели возможность все спокойно прослушать и осмотреть. В конце Митька работал надо вопросами сам! Там я бы сказала больше лет на 10 расчитан был вопросник, а не на 6. Но он своими каракулями добросовестно писал ответы на исторические вопросы – как мог :-) Опять же что-то в голове осталось. В итоге дали ему шоколадную медаль большую :-) (конечно давали всем вне зависимости что там накалякано). Поскольку ему нельзя шоколад, он ее бабушке в подарок отвез. Погода была чудасная и мы решили пройтись пешком до Букенгемского дворца, показать Митьке караул там. Мы прошлись по центру, потом прогулялись по  St.James парку вдоль пруда с разными птицами, посмотрели на стражников и даже видели конную гвардию. Т.е. такое размеренный день провели, необычный. Потому что когда мы с Наташей или сами по себе, то старались больше «для ума» получить и по музеям больше бегали. А тут по парку гуляли :-) Потом там же, рядом со дворцом, зашли пообещать в небольшой, но приятный ресторанчик и попытались выбрать типично английские блюда. Митька был в восторге, он вообще любитель «красивой жизни», а тут все было так элегантно обставленно. Он даже смог заставить себя вести себя чинно и прилично (я ему сказала что иначе его из взрослого ресторана тут же выпрут ;-)).  Короче вот такой вроде бы довольно «пустой» день получился, а какой-то спокойный, приятный и запоминающийся."
+            },
+            {
+              "photo": "PB020454.JPG"
+            },
+            {
+              "photo": "PB020455.JPG"
+            },
+            {
+              "photo": "PB020457.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "london--buckingham-palace"
+          },
+          "reason": "Шли к дворцу посмотреть караул; серия у фасада и ворот PB020454–57. Внутренние парадные залы не подтверждены.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Караул и конная гвардия",
+          "event": "observed_on_city_walk",
+          "evidence": [
+            {
+              "source_paragraph": 66,
+              "quote": "В последний день в Лондоне, когда ребята уже ушли на работу, мы пошли просто гулять по городу. Редко-редко нам удается погулять вместе, а уж особенно одному Митьке с родителями. Еще с Наташкой мы как-то бывало гуляли втроем, а сейчас жизнь такая сумашедшая... Один сюда с одним ребенком, другой в другое место. Если и выбираемся куда-то все вместе, то вчетвером. В этом смысле как раз приезд Жениной семьи этим летом нас «заставил» много времени  провести всем вместе :-) Ну так вот, поехали мы просто в центр города, очередной раз Митька посмотрел на Big Ben, потом мы прошли в Вестминстерское аббатство. Там мы ни разу не были, а мама моя очень рекомендовала. Там очень удачно все продумано. Там с Серегой дали сразу «слушать» путеводитель – очень интересно рассказывали что есть что и кто где захоронен. А детям давали картонную «дощечку» с прикрепленным к ней листом с вопросами разными. Надо было посчитать сколько найдешь львов, орлов и еще кого-то. Т.е. на всяких скульптурах или изображениях. Ну и главное пообещали дать в конце приз если он все это выполнит. Очень здорого его отвлекли :-) Мы имели возможность все спокойно прослушать и осмотреть. В конце Митька работал надо вопросами сам! Там я бы сказала больше лет на 10 расчитан был вопросник, а не на 6. Но он своими каракулями добросовестно писал ответы на исторические вопросы – как мог :-) Опять же что-то в голове осталось. В итоге дали ему шоколадную медаль большую :-) (конечно давали всем вне зависимости что там накалякано). Поскольку ему нельзя шоколад, он ее бабушке в подарок отвез. Погода была чудасная и мы решили пройтись пешком до Букенгемского дворца, показать Митьке караул там. Мы прошлись по центру, потом прогулялись по  St.James парку вдоль пруда с разными птицами, посмотрели на стражников и даже видели конную гвардию. Т.е. такое размеренный день провели, необычный. Потому что когда мы с Наташей или сами по себе, то старались больше «для ума» получить и по музеям больше бегали. А тут по парку гуляли :-) Потом там же, рядом со дворцом, зашли пообещать в небольшой, но приятный ресторанчик и попытались выбрать типично английские блюда. Митька был в восторге, он вообще любитель «красивой жизни», а тут все было так элегантно обставленно. Он даже смог заставить себя вести себя чинно и прилично (я ему сказала что иначе его из взрослого ресторана тут же выпрут ;-)).  Короче вот такой вроде бы довольно «пустой» день получился, а какой-то спокойный, приятный и запоминающийся."
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "target": {
+            "places": "london"
+          },
+          "reason": "Наблюдали во время прогулки. Посты, отдельные стражники и фоновые здания не дробятся на точки. Не объявляется вход в казармы.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Ресторан рядом с дворцом",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 66,
+              "quote": "В последний день в Лондоне, когда ребята уже ушли на работу, мы пошли просто гулять по городу. Редко-редко нам удается погулять вместе, а уж особенно одному Митьке с родителями. Еще с Наташкой мы как-то бывало гуляли втроем, а сейчас жизнь такая сумашедшая... Один сюда с одним ребенком, другой в другое место. Если и выбираемся куда-то все вместе, то вчетвером. В этом смысле как раз приезд Жениной семьи этим летом нас «заставил» много времени  провести всем вместе :-) Ну так вот, поехали мы просто в центр города, очередной раз Митька посмотрел на Big Ben, потом мы прошли в Вестминстерское аббатство. Там мы ни разу не были, а мама моя очень рекомендовала. Там очень удачно все продумано. Там с Серегой дали сразу «слушать» путеводитель – очень интересно рассказывали что есть что и кто где захоронен. А детям давали картонную «дощечку» с прикрепленным к ней листом с вопросами разными. Надо было посчитать сколько найдешь львов, орлов и еще кого-то. Т.е. на всяких скульптурах или изображениях. Ну и главное пообещали дать в конце приз если он все это выполнит. Очень здорого его отвлекли :-) Мы имели возможность все спокойно прослушать и осмотреть. В конце Митька работал надо вопросами сам! Там я бы сказала больше лет на 10 расчитан был вопросник, а не на 6. Но он своими каракулями добросовестно писал ответы на исторические вопросы – как мог :-) Опять же что-то в голове осталось. В итоге дали ему шоколадную медаль большую :-) (конечно давали всем вне зависимости что там накалякано). Поскольку ему нельзя шоколад, он ее бабушке в подарок отвез. Погода была чудасная и мы решили пройтись пешком до Букенгемского дворца, показать Митьке караул там. Мы прошлись по центру, потом прогулялись по  St.James парку вдоль пруда с разными птицами, посмотрели на стражников и даже видели конную гвардию. Т.е. такое размеренный день провели, необычный. Потому что когда мы с Наташей или сами по себе, то старались больше «для ума» получить и по музеям больше бегали. А тут по парку гуляли :-) Потом там же, рядом со дворцом, зашли пообещать в небольшой, но приятный ресторанчик и попытались выбрать типично английские блюда. Митька был в восторге, он вообще любитель «красивой жизни», а тут все было так элегантно обставленно. Он даже смог заставить себя вести себя чинно и прилично (я ему сказала что иначе его из взрослого ресторана тут же выпрут ;-)).  Короче вот такой вроде бы довольно «пустой» день получился, а какой-то спокойный, приятный и запоминающийся."
+            },
+            {
+              "photo": "PB020458.JPG"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Обед описан, название отсутствует. Бытовая остановка без устанавливаемого места, отдельная точка не создаётся.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Метро и городские виды",
+          "event": "transport_and_incidental_views",
+          "evidence": [
+            {
+              "photo": "PA310373.JPG"
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "target": {
+            "places": "london"
+          },
+          "reason": "PA310373/74 и соседние городские фотографии: транспорт, фасады и панорамы маршрута. Случайные видимые церкви и памятники не добавляются.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-london-2009/cologne/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Кёльнский собор",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 68,
+              "quote": "Следующую неделю у бабушки мы провели тоже активно. Ни с кем больше не встречались, но сами с Митькой ездили и в город смотреть Кельнский собор, и в музей шоколада (очень интересный у них такой музей, любопытный, Серега с Наташей уже были, а мы с Митькой первый раз). А самым необычным открытием для нас стал местный дворец Schloss Augustusburg. Он находится оказывается рядом с местным Диснейлендом в 10 минутах езды от бабушки и мы там ни разу не были! Это я перед поездкой в интернете проверяла какие еще развлечения есть около бабушки и вдруг наткнулась на этот дворец. И в комментариях народ писал что чуть ли не лучший дворец во всей Германии... Ну я удивилась, но решила что раз он «под боком» то надо обязательно съездить. Первый раз мы поехали утром и у нас было несколько часов  только (в этот день у бабушки был визит к глазному врачу назначет, специально так было сделано чтобы Серега мог ее на машине свозить, а то доктор ее далеко переехал). Впечатления просто потрясающие! «Версаль отдыхает» ;-) И сам дворец и парк его окружающий (а были мы в ноябре к сожалению, трудно представить как это выглядит летом)! Гуляющих много, а вот в самом дворце не так много туристов. Внутрь запускают только группами с экскурсоводом. Нам троим и еще одному китайцу провели отдельную экскурсию на английском языке. Девченка-экскурсовод была очень хорошая! Она рассказывала не просто историю дворца и людей, но она рассказывала какие-то интересные, простые, но очень запоминающиеся факты из жизни той эпохи. Эти факты объясняли и многие детали строительства (например высота ступенек парадной лестницы должна была позволять дамам в тяжелых платьях легко подниматься) и просто создала у нас ощущение той эпохи. Дворец строился с тот же временной период что и Версаль, местным кельнским главой церкви. Но бросалось в глаза состояние всего: как-будто вчера построено все, «с иголочки». Объяснение этому мы получили в самом конце экскурсии. Оказывается во времена ФРГ, когда столица была в Бонне, этот дворец использовался для всех официальных приемов и мероприятий. И Брежнего там принимали, и королева Елизавета там останавливалась даже. Ну и конечно немцы с их педантичностью все содержали в идеальном порядке. Сейчас конечно столица далеко и дворец потерял свою значимость, но пока еще все в суперском состоянии, т.к. что всем кто попадет в те края очень рекомендую посетить! "
+            },
+            {
+              "photo": "PB040460.JPG"
+            },
+            {
+              "photo": "PB040461.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "cologne--kyolnskiy-sobor"
+          },
+          "reason": "«Ездили ... смотреть ... собор» и фото у портала PB040460/61. Внутреннего осмотра или сокровищницы в 2009 материалами не доказано.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Музей шоколада",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 68,
+              "quote": "Следующую неделю у бабушки мы провели тоже активно. Ни с кем больше не встречались, но сами с Митькой ездили и в город смотреть Кельнский собор, и в музей шоколада (очень интересный у них такой музей, любопытный, Серега с Наташей уже были, а мы с Митькой первый раз). А самым необычным открытием для нас стал местный дворец Schloss Augustusburg. Он находится оказывается рядом с местным Диснейлендом в 10 минутах езды от бабушки и мы там ни разу не были! Это я перед поездкой в интернете проверяла какие еще развлечения есть около бабушки и вдруг наткнулась на этот дворец. И в комментариях народ писал что чуть ли не лучший дворец во всей Германии... Ну я удивилась, но решила что раз он «под боком» то надо обязательно съездить. Первый раз мы поехали утром и у нас было несколько часов  только (в этот день у бабушки был визит к глазному врачу назначет, специально так было сделано чтобы Серега мог ее на машине свозить, а то доктор ее далеко переехал). Впечатления просто потрясающие! «Версаль отдыхает» ;-) И сам дворец и парк его окружающий (а были мы в ноябре к сожалению, трудно представить как это выглядит летом)! Гуляющих много, а вот в самом дворце не так много туристов. Внутрь запускают только группами с экскурсоводом. Нам троим и еще одному китайцу провели отдельную экскурсию на английском языке. Девченка-экскурсовод была очень хорошая! Она рассказывала не просто историю дворца и людей, но она рассказывала какие-то интересные, простые, но очень запоминающиеся факты из жизни той эпохи. Эти факты объясняли и многие детали строительства (например высота ступенек парадной лестницы должна была позволять дамам в тяжелых платьях легко подниматься) и просто создала у нас ощущение той эпохи. Дворец строился с тот же временной период что и Версаль, местным кельнским главой церкви. Но бросалось в глаза состояние всего: как-будто вчера построено все, «с иголочки». Объяснение этому мы получили в самом конце экскурсии. Оказывается во времена ФРГ, когда столица была в Бонне, этот дворец использовался для всех официальных приемов и мероприятий. И Брежнего там принимали, и королева Елизавета там останавливалась даже. Ну и конечно немцы с их педантичностью все содержали в идеальном порядке. Сейчас конечно столица далеко и дворец потерял свою значимость, но пока еще все в суперском состоянии, т.к. что всем кто попадет в те края очень рекомендую посетить! "
+            },
+            {
+              "photo": "PB040469.JPG"
+            },
+            {
+              "photo": "PB040472.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "cologne--muzey-shokolada"
+          },
+          "reason": "Рассказ о первом посещении Лели и Мити; Сергей был прежде с Наташей, но в нынешней серии сам внутри PB040472. Вход всех троих в этот год подтверждён.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Предыдущее посещение музея Сергеем и Наташей",
+          "event": "previous_visit",
+          "evidence": [
+            {
+              "source_paragraph": 68,
+              "quote": "Следующую неделю у бабушки мы провели тоже активно. Ни с кем больше не встречались, но сами с Митькой ездили и в город смотреть Кельнский собор, и в музей шоколада (очень интересный у них такой музей, любопытный, Серега с Наташей уже были, а мы с Митькой первый раз). А самым необычным открытием для нас стал местный дворец Schloss Augustusburg. Он находится оказывается рядом с местным Диснейлендом в 10 минутах езды от бабушки и мы там ни разу не были! Это я перед поездкой в интернете проверяла какие еще развлечения есть около бабушки и вдруг наткнулась на этот дворец. И в комментариях народ писал что чуть ли не лучший дворец во всей Германии... Ну я удивилась, но решила что раз он «под боком» то надо обязательно съездить. Первый раз мы поехали утром и у нас было несколько часов  только (в этот день у бабушки был визит к глазному врачу назначет, специально так было сделано чтобы Серега мог ее на машине свозить, а то доктор ее далеко переехал). Впечатления просто потрясающие! «Версаль отдыхает» ;-) И сам дворец и парк его окружающий (а были мы в ноябре к сожалению, трудно представить как это выглядит летом)! Гуляющих много, а вот в самом дворце не так много туристов. Внутрь запускают только группами с экскурсоводом. Нам троим и еще одному китайцу провели отдельную экскурсию на английском языке. Девченка-экскурсовод была очень хорошая! Она рассказывала не просто историю дворца и людей, но она рассказывала какие-то интересные, простые, но очень запоминающиеся факты из жизни той эпохи. Эти факты объясняли и многие детали строительства (например высота ступенек парадной лестницы должна была позволять дамам в тяжелых платьях легко подниматься) и просто создала у нас ощущение той эпохи. Дворец строился с тот же временной период что и Версаль, местным кельнским главой церкви. Но бросалось в глаза состояние всего: как-будто вчера построено все, «с иголочки». Объяснение этому мы получили в самом конце экскурсии. Оказывается во времена ФРГ, когда столица была в Бонне, этот дворец использовался для всех официальных приемов и мероприятий. И Брежнего там принимали, и королева Елизавета там останавливалась даже. Ну и конечно немцы с их педантичностью все содержали в идеальном порядке. Сейчас конечно столица далеко и дворец потерял свою значимость, но пока еще все в суперском состоянии, т.к. что всем кто попадет в те края очень рекомендую посетить! "
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Год не указан. Не добавляет Наташу к составу нынешнего посещения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Набережная Рейна и экспонаты музея",
+          "event": "walk_and_exhibits",
+          "evidence": [
+            {
+              "photo": "PB040465.JPG"
+            },
+            {
+              "photo": "PB040475.JPG"
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "target": {
+            "places": "cologne"
+          },
+          "reason": "Набережная, фоновые башни и музейные макеты входят в существующий городской/музейный маршрут. Модель фермы не посещение отдельной фермы.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-london-2009/bruhl/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Брюль",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 68,
+              "quote": "Следующую неделю у бабушки мы провели тоже активно. Ни с кем больше не встречались, но сами с Митькой ездили и в город смотреть Кельнский собор, и в музей шоколада (очень интересный у них такой музей, любопытный, Серега с Наташей уже были, а мы с Митькой первый раз). А самым необычным открытием для нас стал местный дворец Schloss Augustusburg. Он находится оказывается рядом с местным Диснейлендом в 10 минутах езды от бабушки и мы там ни разу не были! Это я перед поездкой в интернете проверяла какие еще развлечения есть около бабушки и вдруг наткнулась на этот дворец. И в комментариях народ писал что чуть ли не лучший дворец во всей Германии... Ну я удивилась, но решила что раз он «под боком» то надо обязательно съездить. Первый раз мы поехали утром и у нас было несколько часов  только (в этот день у бабушки был визит к глазному врачу назначет, специально так было сделано чтобы Серега мог ее на машине свозить, а то доктор ее далеко переехал). Впечатления просто потрясающие! «Версаль отдыхает» ;-) И сам дворец и парк его окружающий (а были мы в ноябре к сожалению, трудно представить как это выглядит летом)! Гуляющих много, а вот в самом дворце не так много туристов. Внутрь запускают только группами с экскурсоводом. Нам троим и еще одному китайцу провели отдельную экскурсию на английском языке. Девченка-экскурсовод была очень хорошая! Она рассказывала не просто историю дворца и людей, но она рассказывала какие-то интересные, простые, но очень запоминающиеся факты из жизни той эпохи. Эти факты объясняли и многие детали строительства (например высота ступенек парадной лестницы должна была позволять дамам в тяжелых платьях легко подниматься) и просто создала у нас ощущение той эпохи. Дворец строился с тот же временной период что и Версаль, местным кельнским главой церкви. Но бросалось в глаза состояние всего: как-будто вчера построено все, «с иголочки». Объяснение этому мы получили в самом конце экскурсии. Оказывается во времена ФРГ, когда столица была в Бонне, этот дворец использовался для всех официальных приемов и мероприятий. И Брежнего там принимали, и королева Елизавета там останавливалась даже. Ну и конечно немцы с их педантичностью все содержали в идеальном порядке. Сейчас конечно столица далеко и дворец потерял свою значимость, но пока еще все в суперском состоянии, т.к. что всем кто попадет в те края очень рекомендую посетить! "
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "bruhl"
+          },
+          "reason": "Два самостоятельных выезда к дворцам.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Дворец Аугустусбург",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 68,
+              "quote": "Следующую неделю у бабушки мы провели тоже активно. Ни с кем больше не встречались, но сами с Митькой ездили и в город смотреть Кельнский собор, и в музей шоколада (очень интересный у них такой музей, любопытный, Серега с Наташей уже были, а мы с Митькой первый раз). А самым необычным открытием для нас стал местный дворец Schloss Augustusburg. Он находится оказывается рядом с местным Диснейлендом в 10 минутах езды от бабушки и мы там ни разу не были! Это я перед поездкой в интернете проверяла какие еще развлечения есть около бабушки и вдруг наткнулась на этот дворец. И в комментариях народ писал что чуть ли не лучший дворец во всей Германии... Ну я удивилась, но решила что раз он «под боком» то надо обязательно съездить. Первый раз мы поехали утром и у нас было несколько часов  только (в этот день у бабушки был визит к глазному врачу назначет, специально так было сделано чтобы Серега мог ее на машине свозить, а то доктор ее далеко переехал). Впечатления просто потрясающие! «Версаль отдыхает» ;-) И сам дворец и парк его окружающий (а были мы в ноябре к сожалению, трудно представить как это выглядит летом)! Гуляющих много, а вот в самом дворце не так много туристов. Внутрь запускают только группами с экскурсоводом. Нам троим и еще одному китайцу провели отдельную экскурсию на английском языке. Девченка-экскурсовод была очень хорошая! Она рассказывала не просто историю дворца и людей, но она рассказывала какие-то интересные, простые, но очень запоминающиеся факты из жизни той эпохи. Эти факты объясняли и многие детали строительства (например высота ступенек парадной лестницы должна была позволять дамам в тяжелых платьях легко подниматься) и просто создала у нас ощущение той эпохи. Дворец строился с тот же временной период что и Версаль, местным кельнским главой церкви. Но бросалось в глаза состояние всего: как-будто вчера построено все, «с иголочки». Объяснение этому мы получили в самом конце экскурсии. Оказывается во времена ФРГ, когда столица была в Бонне, этот дворец использовался для всех официальных приемов и мероприятий. И Брежнего там принимали, и королева Елизавета там останавливалась даже. Ну и конечно немцы с их педантичностью все содержали в идеальном порядке. Сейчас конечно столица далеко и дворец потерял свою значимость, но пока еще все в суперском состоянии, т.к. что всем кто попадет в те края очень рекомендую посетить! "
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "bruhl--dvorets-augustusburg"
+          },
+          "reason": "Подробно описана экскурсия внутрь с англоязычным гидом для семьи и ещё одного посетителя. Наличие только наружных фото не отменяет вход.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Дворцовый парк и аллея между дворцами",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 69,
+              "quote": "Дворцов на самом деле два. Один большой, а второй «охотничий дворец», маленький. Расположен он через парк, который сначала регулярный парк с фонтанами, водоемами, скульптурами и клумбами, а потом переходит в англ. парк просто с алеями среди высоченных деревьев. Пройдя минут 40 через все это великолепие приходишь к охотнечьему дворцу, который тоже представляет из себя маленькую жемчужину (извиняюсь за высокопарный слог, но правда очень интересный, каждая комната уникальна). Чтобы пройтись по парку и посмотреть маленький дворец нам пришлось приехать в другой день, но мы ни капельки не пожалели :-) Еще мы с бабушкой много гуляли, ходили купаться в бассейн рядом с ее домом. Очень классный там бассейн, с 4 разными бассейнами внутри, каждый с каким-то особенным развлечением, солярием, разными джакузи и душами, и огромной горкой из которой ты вылетаешь прямо на улицу в открытый бассейн :-) Температура была где-то в районе +10 градусов обычно и хоть и не очень приятно лететь мокрым по этому желобу на улицу, но прикольно. Митька катался и плавал на улице всю неделю и ничего :-)"
+            },
+            {
+              "photo": "PB050488.JPG"
+            },
+            {
+              "photo": "PB050496.JPG"
+            },
+            {
+              "photo": "PB050500.JPG"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "bruhl--dvorets-augustusburg"
+          },
+          "reason": "Регулярный и английский парк описаны и показаны большой серией PB050488–502. Статуи, вазы и фонтаны остаются частями одного дворцового парка.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Охотничий дворец Фалькенлуст",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 69,
+              "quote": "Дворцов на самом деле два. Один большой, а второй «охотничий дворец», маленький. Расположен он через парк, который сначала регулярный парк с фонтанами, водоемами, скульптурами и клумбами, а потом переходит в англ. парк просто с алеями среди высоченных деревьев. Пройдя минут 40 через все это великолепие приходишь к охотнечьему дворцу, который тоже представляет из себя маленькую жемчужину (извиняюсь за высокопарный слог, но правда очень интересный, каждая комната уникальна). Чтобы пройтись по парку и посмотреть маленький дворец нам пришлось приехать в другой день, но мы ни капельки не пожалели :-) Еще мы с бабушкой много гуляли, ходили купаться в бассейн рядом с ее домом. Очень классный там бассейн, с 4 разными бассейнами внутри, каждый с каким-то особенным развлечением, солярием, разными джакузи и душами, и огромной горкой из которой ты вылетаешь прямо на улицу в открытый бассейн :-) Температура была где-то в районе +10 градусов обычно и хоть и не очень приятно лететь мокрым по этому желобу на улицу, но прикольно. Митька катался и плавал на улице всю неделю и ничего :-)"
+            },
+            {
+              "photo": "PB080532.JPG"
+            },
+            {
+              "photo": "PB080541.JPG"
+            },
+            {
+              "photo": "PB080552.JPG"
+            },
+            {
+              "photo": "PB080555.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "bruhl--okhotnichiy-dvorets-falkenlust"
+          },
+          "reason": "Отдельный повторный приезд, комнаты описаны; внутренняя серия PB080532–58 подтверждает вход. Имя установлено по паре дворцов на первичном сайте комплекса.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Соколиная экспозиция и детская площадка дворцового маршрута",
+          "event": "visited_site_components",
+          "evidence": [
+            {
+              "photo": "PB080533.JPG"
+            },
+            {
+              "photo": "PB080563.JPG"
+            },
+            {
+              "photo": "PB080572.JPG"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "bruhl--okhotnichiy-dvorets-falkenlust"
+          },
+          "reason": "Серия экспозиции с манекенами и прогулка после дворца PB080559–83. Не выделяются отдельные музей, лес, площадка и каждый аттракцион; самостоятельные названия по фото не угадываются.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Бассейн рядом с домом бабушки",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 69,
+              "quote": "Дворцов на самом деле два. Один большой, а второй «охотничий дворец», маленький. Расположен он через парк, который сначала регулярный парк с фонтанами, водоемами, скульптурами и клумбами, а потом переходит в англ. парк просто с алеями среди высоченных деревьев. Пройдя минут 40 через все это великолепие приходишь к охотнечьему дворцу, который тоже представляет из себя маленькую жемчужину (извиняюсь за высокопарный слог, но правда очень интересный, каждая комната уникальна). Чтобы пройтись по парку и посмотреть маленький дворец нам пришлось приехать в другой день, но мы ни капельки не пожалели :-) Еще мы с бабушкой много гуляли, ходили купаться в бассейн рядом с ее домом. Очень классный там бассейн, с 4 разными бассейнами внутри, каждый с каким-то особенным развлечением, солярием, разными джакузи и душами, и огромной горкой из которой ты вылетаешь прямо на улицу в открытый бассейн :-) Температура была где-то в районе +10 градусов обычно и хоть и не очень приятно лететь мокрым по этому желобу на улицу, но прикольно. Митька катался и плавал на улице всю неделю и ничего :-)"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Ходили купаться, Митя катался на горке и плавал в уличном бассейне. Название комплекса не дано; по описанию не присваивается конкретный аквапарк.",
+          "participants": [
+            "Леля",
+            "Митя",
+            "бабушка"
+          ]
+        },
+        {
+          "label": "Версаль и Бонн",
+          "event": "comparison_and_historical_context",
+          "evidence": [
+            {
+              "source_paragraph": 68,
+              "quote": "Следующую неделю у бабушки мы провели тоже активно. Ни с кем больше не встречались, но сами с Митькой ездили и в город смотреть Кельнский собор, и в музей шоколада (очень интересный у них такой музей, любопытный, Серега с Наташей уже были, а мы с Митькой первый раз). А самым необычным открытием для нас стал местный дворец Schloss Augustusburg. Он находится оказывается рядом с местным Диснейлендом в 10 минутах езды от бабушки и мы там ни разу не были! Это я перед поездкой в интернете проверяла какие еще развлечения есть около бабушки и вдруг наткнулась на этот дворец. И в комментариях народ писал что чуть ли не лучший дворец во всей Германии... Ну я удивилась, но решила что раз он «под боком» то надо обязательно съездить. Первый раз мы поехали утром и у нас было несколько часов  только (в этот день у бабушки был визит к глазному врачу назначет, специально так было сделано чтобы Серега мог ее на машине свозить, а то доктор ее далеко переехал). Впечатления просто потрясающие! «Версаль отдыхает» ;-) И сам дворец и парк его окружающий (а были мы в ноябре к сожалению, трудно представить как это выглядит летом)! Гуляющих много, а вот в самом дворце не так много туристов. Внутрь запускают только группами с экскурсоводом. Нам троим и еще одному китайцу провели отдельную экскурсию на английском языке. Девченка-экскурсовод была очень хорошая! Она рассказывала не просто историю дворца и людей, но она рассказывала какие-то интересные, простые, но очень запоминающиеся факты из жизни той эпохи. Эти факты объясняли и многие детали строительства (например высота ступенек парадной лестницы должна была позволять дамам в тяжелых платьях легко подниматься) и просто создала у нас ощущение той эпохи. Дворец строился с тот же временной период что и Версаль, местным кельнским главой церкви. Но бросалось в глаза состояние всего: как-будто вчера построено все, «с иголочки». Объяснение этому мы получили в самом конце экскурсии. Оказывается во времена ФРГ, когда столица была в Бонне, этот дворец использовался для всех официальных приемов и мероприятий. И Брежнего там принимали, и королева Елизавета там останавливалась даже. Ну и конечно немцы с их педантичностью все содержали в идеальном порядке. Сейчас конечно столица далеко и дворец потерял свою значимость, но пока еще все в суперском состоянии, т.к. что всем кто попадет в те края очень рекомендую посетить! "
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Версаль — сравнение, Бонн — историческая справка о приёмах во дворце. Не посещённые города этого маршрута.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Глазной врач бабушки",
+          "event": "service_trip",
+          "evidence": [
+            {
+              "source_paragraph": 68,
+              "quote": "Следующую неделю у бабушки мы провели тоже активно. Ни с кем больше не встречались, но сами с Митькой ездили и в город смотреть Кельнский собор, и в музей шоколада (очень интересный у них такой музей, любопытный, Серега с Наташей уже были, а мы с Митькой первый раз). А самым необычным открытием для нас стал местный дворец Schloss Augustusburg. Он находится оказывается рядом с местным Диснейлендом в 10 минутах езды от бабушки и мы там ни разу не были! Это я перед поездкой в интернете проверяла какие еще развлечения есть около бабушки и вдруг наткнулась на этот дворец. И в комментариях народ писал что чуть ли не лучший дворец во всей Германии... Ну я удивилась, но решила что раз он «под боком» то надо обязательно съездить. Первый раз мы поехали утром и у нас было несколько часов  только (в этот день у бабушки был визит к глазному врачу назначет, специально так было сделано чтобы Серега мог ее на машине свозить, а то доктор ее далеко переехал). Впечатления просто потрясающие! «Версаль отдыхает» ;-) И сам дворец и парк его окружающий (а были мы в ноябре к сожалению, трудно представить как это выглядит летом)! Гуляющих много, а вот в самом дворце не так много туристов. Внутрь запускают только группами с экскурсоводом. Нам троим и еще одному китайцу провели отдельную экскурсию на английском языке. Девченка-экскурсовод была очень хорошая! Она рассказывала не просто историю дворца и людей, но она рассказывала какие-то интересные, простые, но очень запоминающиеся факты из жизни той эпохи. Эти факты объясняли и многие детали строительства (например высота ступенек парадной лестницы должна была позволять дамам в тяжелых платьях легко подниматься) и просто создала у нас ощущение той эпохи. Дворец строился с тот же временной период что и Версаль, местным кельнским главой церкви. Но бросалось в глаза состояние всего: как-будто вчера построено все, «с иголочки». Объяснение этому мы получили в самом конце экскурсии. Оказывается во времена ФРГ, когда столица была в Бонне, этот дворец использовался для всех официальных приемов и мероприятий. И Брежнего там принимали, и королева Елизавета там останавливалась даже. Ну и конечно немцы с их педантичностью все содержали в идеальном порядке. Сейчас конечно столица далеко и дворец потерял свою значимость, но пока еще все в суперском состоянии, т.к. что всем кто попадет в те края очень рекомендую посетить! "
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Назначенный приём и подвоз на машине; медицинская бытовая остановка без названия, туристическая точка не создаётся.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-london-2009/birthday/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Китайский ресторан-буфет возле дома бабушки",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 71,
+              "quote": "Ну и конечно центральным мероприятием было ее день рождение! Мы же каждый год ездим в это время чтобы составить ей компанию на день рождения (не будем упоминать что и билеты в ноябре обычно самые дешевые ;-)), а в этом году оказалось что у нее юбилейный год! 95 лет! Мы раньше старались дома собрать ее друзей-соседей, хотя Надя их всех один год вытаскивала и в ресторан. Но последние годы бабушка никуда не хотела ходить, то еда не такая, то продует от двери, то сидеть неудобно... А сейчас что-то на наших витаминах у нее и кости перестали болеть, и простужаться она стала меньше (т-т-т), короче согласилась она пойти куда-нибудь в ресторан отмечать. Одни ее соседи заболели, поэтому мы решили просто пойти семьей, т.к. нас было немало, да один Митька с его энергией создает видимость целой толпы :-) Поэтому всю неделю мы ездили и присматривались к разным ресторанам и кафешкам. Я больше настраивалась на кафе с разными пироженными и мороженным – бабушка любит. Но то далеко, то неуютно... И вдруг недалеко от ее дома мы увидели объявление что тут китайский ресторан-буфет.  Надо сказать что самое главное что с сожалением всегда вспоминает бабушка о Канаде, это то что у нас такие хорошие рестораны-буфеты :-) Ну это когда ты приходишь и ешь сколько хочешь, сам ходишь и выбираешь, накладываешь, пробуешь. Не нравится можешь другое что-то взять... И тут мы находим такое же заведение рядом с ней. Конечно же решено было идти именно туда. Бабушке в ее возрасте это очень удобно, т.к. если идти в обычный ресторан и заказать одно блюдо, то не знаешь понравится ли оно ей, сможет ли она его прожевать хорошо и т.п. А тут мы пришли, она с удовольствием наложила на тарелку всего по чуть-чуть и напробовалась :-) В итоге она осталась очень довольна своим днем рождения и тем что мы ей нашли ее любимый ресторанчик недалеко от нее. Говорит что будет куда с Сашей сходить, а то он ее обычно зовет, зовет... :-) Но это было днем, а с утра 7 ноября бабушка не отходила от телефона :-) Было море поздравлений ото всех, Серега с утра сбегал за букетом, а потом пошли соседи с букетами и поздравлениями – еле ваз хватило :-)  В обед мы сходили в ресторан (специально решили что вечером это будет тяжело для пищеварения всем ;-)), а вечером дома пригласили еще соседку, которая бабушке помогает, и пили чай с тортом.  Так что весь день прошел празднично и хорошо. "
+            },
+            {
+              "photo": "PB070513.JPG"
+            },
+            {
+              "photo": "PB070516.JPG"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Состоявшееся семейное празднование 95-летия; фотографии внутри подтверждают обед. Название отсутствует, бытовое заведение не добавляется отдельной точкой.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя",
+            "бабушка"
+          ]
+        },
+        {
+          "label": "Дом бабушки — день рождения",
+          "event": "visited_private",
+          "evidence": [
+            {
+              "source_paragraph": 71,
+              "quote": "Ну и конечно центральным мероприятием было ее день рождение! Мы же каждый год ездим в это время чтобы составить ей компанию на день рождения (не будем упоминать что и билеты в ноябре обычно самые дешевые ;-)), а в этом году оказалось что у нее юбилейный год! 95 лет! Мы раньше старались дома собрать ее друзей-соседей, хотя Надя их всех один год вытаскивала и в ресторан. Но последние годы бабушка никуда не хотела ходить, то еда не такая, то продует от двери, то сидеть неудобно... А сейчас что-то на наших витаминах у нее и кости перестали болеть, и простужаться она стала меньше (т-т-т), короче согласилась она пойти куда-нибудь в ресторан отмечать. Одни ее соседи заболели, поэтому мы решили просто пойти семьей, т.к. нас было немало, да один Митька с его энергией создает видимость целой толпы :-) Поэтому всю неделю мы ездили и присматривались к разным ресторанам и кафешкам. Я больше настраивалась на кафе с разными пироженными и мороженным – бабушка любит. Но то далеко, то неуютно... И вдруг недалеко от ее дома мы увидели объявление что тут китайский ресторан-буфет.  Надо сказать что самое главное что с сожалением всегда вспоминает бабушка о Канаде, это то что у нас такие хорошие рестораны-буфеты :-) Ну это когда ты приходишь и ешь сколько хочешь, сам ходишь и выбираешь, накладываешь, пробуешь. Не нравится можешь другое что-то взять... И тут мы находим такое же заведение рядом с ней. Конечно же решено было идти именно туда. Бабушке в ее возрасте это очень удобно, т.к. если идти в обычный ресторан и заказать одно блюдо, то не знаешь понравится ли оно ей, сможет ли она его прожевать хорошо и т.п. А тут мы пришли, она с удовольствием наложила на тарелку всего по чуть-чуть и напробовалась :-) В итоге она осталась очень довольна своим днем рождения и тем что мы ей нашли ее любимый ресторанчик недалеко от нее. Говорит что будет куда с Сашей сходить, а то он ее обычно зовет, зовет... :-) Но это было днем, а с утра 7 ноября бабушка не отходила от телефона :-) Было море поздравлений ото всех, Серега с утра сбегал за букетом, а потом пошли соседи с букетами и поздравлениями – еле ваз хватило :-)  В обед мы сходили в ресторан (специально решили что вечером это будет тяжело для пищеварения всем ;-)), а вечером дома пригласили еще соседку, которая бабушке помогает, и пили чай с тортом.  Так что весь день прошел празднично и хорошо. "
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Празднование дома, телефонные поздравления и гости; частное жильё.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Магазины и прогулки последней недели",
+          "event": "service_stops_and_walks",
+          "evidence": [
+            {
+              "source_paragraph": 72,
+              "quote": "Последнюю неделю мы с бабушкой остались вдвоем и занялись походами по магазинам. Не то чтобы мне очень нужно было что-то покупать из одежды, да и в Канаде мне дешевле, но... Традиция у нас такая :-) А потом наша бабушка такая модница, что поход по магазинам это то на что она согласна всегда :-) Как бы себя не чувствовала, как бы не устала, но будет ходить часами, и еще домой прийдет и будет мерить обновки если что купили ей :-) Я с ног валюсь, а она нет. Но главное что это давало нам интерес и повод гулять подолгу. И мы каждый день по 2-3 часа «работали» :-) А для ее 95 лет я считаю это хороший результат :-) Так что в итоге я обзавелась обновками европейского дизайна :-) Хорошая была такая неделя, спокойная, размеренная... Отдохнули мы после большого коллектива :-) У меня было время без семьи, интернета и прочей электроники подумать о чем-то :-)"
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "target": {
+            "places": "hurth"
+          },
+          "reason": "После отъезда Сергея и Мити Леля осталась с бабушкой; неназванные магазины не создаются по каждой покупке.",
+          "participants": [
+            "Леля",
+            "бабушка"
+          ]
+        },
+        {
+          "label": "Собственный фотоаппарат и заключительные заметки",
+          "event": "no_new_location",
+          "evidence": [
+            {
+              "source_paragraph": 74,
+              "quote": "Фотки я еще с фотоаппарата не скачала, но сделаю на днях."
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Финальная фраза о скачивании фотографий, нового объекта не содержит.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_two_unnamed_visited_venues",
+    "questions": [
+      {
+        "object": "Крытый детский игровой центр",
+        "question": "Вход и катание подтверждены рассказом и большой серией PA270284–309/IMGP1441–43. Имя папки Kleve_PuchaPucha само по себе не устанавливает торговое название и адрес центра."
+      },
+      {
+        "object": "Бассейн рядом с домом бабушки",
+        "question": "Ходили купаться, Митя катался на горке и плавал в уличном бассейне. Название комплекса не дано; по описанию не присваивается конкретный аквапарк."
+      }
+    ],
+    "repeat_check": "Полный рассказ, пять глав, все исходные фото и данные сопоставлены. Добавлены отсутствовавший Тауэр, прямо описанные Букингемский дворец/Биг-Бен/Темза и подтверждённые парк с зоопарком Клеве. Отдельные участники и музейные залы учтены. Неназванные бытовые остановки не порождают точки или дополнительные вопросы.",
+    "external_sources": [
+      {
+        "url": "https://www.hrp.org.uk/tower-of-london/",
+        "purpose": "Тауэр и королевские регалии, один комплекс."
+      },
+      {
+        "url": "https://www.parliament.uk/about/living-heritage/building/palace/architecture/palacestructure/towers-of-parliament/",
+        "purpose": "Идентификация Биг-Бена/часовой башни; не утверждается подъём."
+      },
+      {
+        "url": "https://www.rct.uk/visit/buckingham-palace",
+        "purpose": "Букингемский дворец; современная информация не заменяет доказательства внешнего осмотра 2009."
+      },
+      {
+        "url": "https://kleve-erleben.de/klever-gartenanlagen/",
+        "purpose": "Исторические сады Клеве и парковый ансамбль."
+      },
+      {
+        "url": "https://tiergarten-kleve.de/haufig-gestellte-fragen/",
+        "purpose": "Название зоопарка Клеве."
+      },
+      {
+        "url": "https://koelnerzoo.de/portfolio/aquarium/",
+        "purpose": "Аквариум в составе Кёльнского зоопарка."
+      },
+      {
+        "url": "https://www.schlossbruehl.de/besichtigung/",
+        "purpose": "Дворцы Augustusburg и Falkenlust, музейные помещения/экспозиции."
+      }
+    ]
+  }
+}
