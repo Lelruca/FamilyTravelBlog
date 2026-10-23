@@ -12,7 +12,7 @@ places:
   - louisbourg
   - sydney
 hero_image: "DSC02304.jpg"
-attractions: ["baddeck--muzey-aleksandra-bella"]
+attractions: ["baddeck--muzey-aleksandra-bella","louisbourg--fortress-of-louisbourg","sydney--giant-fiddle","sydney--scottish-immigrants-monument"]
 ---
 
 <p>Это был наш еще один день на острове (или он все-таки полуостров?) Cape Breton. Мы специально оставляли себе место для маневра, т.к. смотреть природу надо в хорошую погоду. Но природу мы посмотрели вчера, а на сегодня у нас была исторически-научная программа :-)</p>

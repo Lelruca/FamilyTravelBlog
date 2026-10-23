@@ -6,6 +6,7 @@ layout: "photo-story"
 weight: 90
 day_num: 8
 auto_gallery: false
+attractions: ["cape-breton--cabot-trail","cape-breton--skyline-trail","cape-breton--highlands-national-park","cape-breton--dixons-zodiac-seafari"]
 source_url: "https://olgau.livejournal.com/183936.html"
 places:
   - cape-breton

@@ -25,7 +25,11 @@ const standaloneTypes={
  'puy-du-fou':['amusement_park'],
  'chenonceau':['castle','museum'],
  'chambord':['castle','museum'],
- 'crawford-lake':['park','lake','archaeological_site']
+ 'crawford-lake':['park','lake','archaeological_site'],
+ 'acadian-historical-village':['museum'],
+ 'peggys-cove':['lighthouse'],
+ 'hopewell-rocks':['park'],
+ 'kouchibouguac':['park']
 };
 for(const [slug,types] of Object.entries(standaloneTypes)){
  const p=result[slug] ||= {types:[],search_terms:[],classification_sources:[]};

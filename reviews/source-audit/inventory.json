@@ -266,10 +266,10 @@
       "title": "\"Атлантика 2014 - заключение\"",
       "draft": false,
       "source_sha256_lf": "49ed2b8409d38ecfbab260e0118f3d0566f42f33f09dd94de67f2ceef19ccce6",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-01/index.md",
@@ -277,11 +277,11 @@
       "trip_path": "content/americas/canada/atlantic-canada-2014",
       "title": "\"Атлантика - день 1\"",
       "draft": false,
-      "source_sha256_lf": "8fb14f7cc1ed547fa403ecbc6d3b689ef2705dca9f21fda0947dcd8f845dffaa",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "fdcf1f1e7cdc9f8b15be3f9467732a22c10fcaebbe36443cdf08520826cf67c9",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-02/index.md",
@@ -289,11 +289,11 @@
       "trip_path": "content/americas/canada/atlantic-canada-2014",
       "title": "\"День 2 - Acadian Historical Village, Parlee beach\"",
       "draft": false,
-      "source_sha256_lf": "1dda7a2f06d3cc75a1faa43068dac2ed8c9e601bcfd325c9b17b9e347465576d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "62d3664096f4dd8b9c79282c2b029918c33993da80609ff97b423aefed464f3a",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-03/index.md",
@@ -301,11 +301,11 @@
       "trip_path": "content/americas/canada/atlantic-canada-2014",
       "title": "\"День 3 - Hopewell Rocks\"",
       "draft": false,
-      "source_sha256_lf": "60495447e9af4b8c7e371c680407f0e28daf14300db632dc896d344e29c84aeb",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "3246f9e039cf2b9e4c05f6deaeee4008a53ec25b7b3a861d0089920718163b29",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-04/index.md",
@@ -313,11 +313,11 @@
       "trip_path": "content/americas/canada/atlantic-canada-2014",
       "title": "\"День 4 - PEI\"",
       "draft": false,
-      "source_sha256_lf": "947dab390831ac0cb2fd06688b0b0c6360c11bc05ebd0078ff3493773e6ac69e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "53c7e4d6327869a561c5dfd25a009809e822fe9c9304b5e46ac89f04a9000fc8",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-05/index.md",
@@ -326,10 +326,10 @@
       "title": "\"День 5 - PEI\"",
       "draft": false,
       "source_sha256_lf": "94106fd8790996cd1ba7e8864c87106fb13151f3db7951a01ba08ba6a6624cea",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-06/index.md",
@@ -337,11 +337,11 @@
       "trip_path": "content/americas/canada/atlantic-canada-2014",
       "title": "\"День 6 - PEI\"",
       "draft": false,
-      "source_sha256_lf": "c819db79ae7a7a10352afe1f3e9ac323c6fd86d22e04a80a0dce49e3f02b1df2",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "3216e22eebb5f80bbab194a98c6216498ccf2b2f7c82830c7734b1af44dbc375",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-07/index.md",
@@ -349,11 +349,11 @@
       "trip_path": "content/americas/canada/atlantic-canada-2014",
       "title": "\"День 7 - Nova Scotia, Highland Village Museum\"",
       "draft": false,
-      "source_sha256_lf": "6c01d82d753c96468e47d3624b0662c1f73f4b29fc1ba32aa256b84d9ec66f74",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "f21200bd1d1f5b56c56a72e1966fd5cdae43cc6162f3b774daa3ed6055535344",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-08/index.md",
@@ -361,11 +361,11 @@
       "trip_path": "content/americas/canada/atlantic-canada-2014",
       "title": "\"День 8 - Cape Breton, Skyline trail, Cabot trail\"",
       "draft": false,
-      "source_sha256_lf": "31722a40c38e617e62440b7191066f310ef7a993f1af9d835fa9beea7ca6ab7a",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "60a3d09f09a6b19bc3624a78124d85ba3bec1684a8195e4f25ee38ceb9843a37",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-09/index.md",
@@ -373,11 +373,11 @@
       "trip_path": "content/americas/canada/atlantic-canada-2014",
       "title": "\"День 9 - Cape Breton - Alexander Bell, Fortress of Louisbourg, Sydney\"",
       "draft": false,
-      "source_sha256_lf": "9e8b94d8d8049301a536afdc597ede40dbe21f433cf427c858944922a7da634d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "7355a8fd6bda4e2686e80aaff423115d62f8c0143f0e7f1ec7fb12b4b2ec8913",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-10/index.md",
@@ -385,11 +385,11 @@
       "trip_path": "content/americas/canada/atlantic-canada-2014",
       "title": "\"День 10 - Halifax\"",
       "draft": false,
-      "source_sha256_lf": "6ce3167253e832d478efd9cdc5e0e14d4bee7f4c6d75882b83b5a8244d317f28",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "0fcdec0aa0803a6d783172066e8bc6b36e5773e79b4f8a50ca19c397b630413d",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-11/index.md",
@@ -397,11 +397,11 @@
       "trip_path": "content/americas/canada/atlantic-canada-2014",
       "title": "\"День 11 - Lunenburg, Peggy’s Cove, Halifax Citadel\"",
       "draft": false,
-      "source_sha256_lf": "4a0c38f404411610abfad61b12a1cee4b9f51937526f171635ff74d1443bacb7",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "c68c8c17b6fb95da219c6a5cb58e083ba59eab0089df235008501c1c0dd0b5ab",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-12/index.md",
@@ -409,11 +409,11 @@
       "trip_path": "content/americas/canada/atlantic-canada-2014",
       "title": "\"День 12 - Joggins Fossil Cliffs, Shediac\"",
       "draft": false,
-      "source_sha256_lf": "f7bc5eb8953df1089b520f21f2d34d2f446f847ece7a80c27b68e6f41db8ae8d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "18f24f813acebeda21c302750b73e2b5e8fae84faa18aaccbbe375d49c5f12d6",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-13/index.md",
@@ -421,11 +421,11 @@
       "trip_path": "content/americas/canada/atlantic-canada-2014",
       "title": "\"День 13 - NB: Olivier Soapery, Kouchibouguac National Park, Moncton\"",
       "draft": false,
-      "source_sha256_lf": "38c1e99dcd44457d658cdca40aaa218482be060b51fc207bbdc5d78bafbc862d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "8946aedcf831842d902cd37eaab5bae3b674889886f7900cad3d6dc02b385df6",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/day-14/index.md",
@@ -433,11 +433,11 @@
       "trip_path": "content/americas/canada/atlantic-canada-2014",
       "title": "\"День 14 - Frederiction, Grand Falls, Rivière-du-Loup\"",
       "draft": false,
-      "source_sha256_lf": "082c762f6f9f79f5e7fed8ef34ba7527d4b51458d5cac7a7988894b1dc965d9e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "f2f06bda06b102cb851d2295d090a5ca19e7462bf8c1f08b5e5386390176a1ec",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/planning/index.md",
@@ -446,10 +446,10 @@
       "title": "\"Атлантика - планирование\"",
       "draft": false,
       "source_sha256_lf": "b8e7347d9710c55fd212fef6fa01fae484d0de1d561bae97bb5b53cbea55cb26",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
       "file": "content/americas/canada/crawford-lake-2020/crawford-lake/index.md",

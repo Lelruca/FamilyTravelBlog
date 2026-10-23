@@ -10,7 +10,7 @@ source_url: "https://olgau.livejournal.com/183550.html"
 places:
   - prince-edward-island
 hero_image: "IMG_4362.jpg"
-attractions: ["prince-edward-island--nort-keyp-i-tsentr-vetrovoy-energii"]
+attractions: ["prince-edward-island--nort-keyp-i-tsentr-vetrovoy-energii","prince-edward-island--tightline-fishing"]
 ---
 
 <p>На острове предлагается просто бесчисленное количество различных морских развлечений. Можно и на серьезную рыбалку выбраться, можно просто покататься, можно даже понырять... После подробного изучения вопроса я выбрала вот этот вариант - <b>Deep sea fishing</b> <a href="http://www.tightlinetours.com/tours/experiences.html#deepsea">http://www.tightlinetours.com/tours/experiences.html#deepsea</a>. У них мне понравилась программа и разумные цены. </p>

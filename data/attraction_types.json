@@ -736,5 +736,36 @@
       "harbor",
       "marina"
     ]
+  },
+  "lighthouse": {
+    "title": "Маяк",
+    "search_terms": [
+      "маяк",
+      "маяки",
+      "маяков",
+      "lighthouse"
+    ]
+  },
+  "fossil_site": {
+    "title": "Место окаменелостей",
+    "search_terms": [
+      "окаменелости",
+      "окаменелостей",
+      "палеонтология",
+      "fossil site",
+      "fossil cliffs"
+    ]
+  },
+  "ship": {
+    "title": "Судно",
+    "search_terms": [
+      "судно",
+      "корабль",
+      "корабли",
+      "яхта",
+      "шхуна",
+      "ship",
+      "schooner"
+    ]
   }
 }

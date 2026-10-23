@@ -8,10 +8,11 @@ day_num: 12
 auto_gallery: false
 source_url: "https://olgau.livejournal.com/185020.html"
 places:
+  - parlee-beach
   - joggins
   - shediac
 hero_image: "IMG_4928.jpg"
-attractions: ["joggins--muzey-okamenelostey-dzhogginsa"]
+attractions: ["joggins--muzey-okamenelostey-dzhogginsa","parlee-beach","shediac--giant-lobster"]
 ---
 
 <p>Что мне нравилось в нашей поездке, что было много очень разнообразных развлечений. Скалы с окаменелостями в Джоггинсе    – уникальнейший палеонтологический объект на побережье залива Фанди, внесенный в список Всемирного наследия ЮНЕСКО. (<b>Joggins Fossil Cliffs  - (4/3/3/5)</b>) </p>

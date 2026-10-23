@@ -1180,6 +1180,29 @@
       "data/attractions.json#invalides"
     ]
   },
+  "joggins": {
+    "types": [
+      "museum",
+      "fossil_site"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "окаменелости",
+      "окаменелостей",
+      "палеонтология",
+      "fossil site",
+      "fossil cliffs",
+      "Joggins Fossil Cliffs"
+    ],
+    "classification_sources": [
+      "data/attractions.json#joggins--muzey-okamenelostey-dzhogginsa"
+    ]
+  },
   "karwendel": {
     "types": [
       "mountain"
@@ -3657,6 +3680,24 @@
       "data/attractions.json#highland-village"
     ]
   },
+  "acadian-historical-village": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "Acadian Historical Village"
+    ],
+    "classification_sources": [
+      "data/attractions.json#acadian-historical-village",
+      "content/places/acadian-historical-village/_index.md"
+    ]
+  },
   "kroller-muller": {
     "types": [
       "museum",
@@ -3933,6 +3974,60 @@
     ],
     "classification_sources": [
       "content/places/crawford-lake/_index.md"
+    ]
+  },
+  "peggys-cove": {
+    "types": [
+      "lighthouse"
+    ],
+    "search_terms": [
+      "маяк",
+      "маяки",
+      "маяков",
+      "lighthouse"
+    ],
+    "classification_sources": [
+      "content/places/peggys-cove/_index.md"
+    ]
+  },
+  "hopewell-rocks": {
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/hopewell-rocks/_index.md"
+    ]
+  },
+  "kouchibouguac": {
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/kouchibouguac/_index.md"
     ]
   }
 }

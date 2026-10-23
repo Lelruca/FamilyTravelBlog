@@ -12,7 +12,7 @@ places:
   - peggys-cove
   - halifax
 hero_image: "IMG_4802.jpg"
-attractions: ["halifax--tsitadel-galifaksa","lunenburg--muzey-rybolovstva-atlantiki"]
+attractions: ["halifax--tsitadel-galifaksa","lunenburg--muzey-rybolovstva-atlantiki","lunenburg--essential-walking-tour","lunenburg--academy","lunenburg--bluenose-ii"]
 ---
 
 <p><b>Луненберг (4/5/4/4)</b> – небольшой городок в примерно 100 км от Галифакса, который является охраняемым памятником ЮНЕСКО.  Еще в самом начале планирования, я нашла рекомендации местного гида и мы записались на утреннюю экскурсию. И не прогадали! Город очень красив сам по себе, но все-таки когда тебе все рассказывают и объясняют, то это совсем другое дело!</p>

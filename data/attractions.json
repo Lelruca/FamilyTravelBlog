@@ -3525,10 +3525,11 @@
     ]
   },
   "joggins--muzey-okamenelostey-dzhogginsa": {
-    "title": "Музей окаменелостей Джоггинса",
+    "title": "Джоггинс — музей и скалы с окаменелостями",
     "parent": "joggins",
     "types": [
-      "museum"
+      "museum",
+      "fossil_site"
     ],
     "search_terms": [
       "музей",
@@ -3536,8 +3537,15 @@
       "музея",
       "музеев",
       "museum",
-      "museums"
-    ]
+      "museums",
+      "окаменелости",
+      "окаменелостей",
+      "палеонтология",
+      "fossil site",
+      "fossil cliffs",
+      "Joggins Fossil Cliffs"
+    ],
+    "place": "joggins"
   },
   "karwendel": {
     "title": "Карвендель",
@@ -7283,7 +7291,9 @@
     "parent": "prince-edward-island",
     "types": [
       "cape",
-      "science_centre"
+      "science_centre",
+      "museum",
+      "lighthouse"
     ],
     "search_terms": [
       "мыс",
@@ -7294,7 +7304,17 @@
       "научные центры",
       "наука",
       "science centre",
-      "science center"
+      "science center",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "маяк",
+      "маяки",
+      "маяков",
+      "lighthouse"
     ]
   },
   "prince-edward-island--plyazh-kavendish": {
@@ -11465,6 +11485,480 @@
       "hotel",
       "Le Soleil hotel",
       "Executive Hotel Le Soleil"
+    ]
+  },
+  "bathurst--appalachian-range-route": {
+    "title": "Аппалачская туристическая дорога",
+    "parent": "bathurst",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "Appalachian Range Route"
+    ],
+    "aliases": [
+      "Appalachian Range Route"
+    ]
+  },
+  "bathurst--acadian-coastal-drive": {
+    "title": "Акадийская прибрежная дорога",
+    "parent": "bathurst",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "Acadian Coastal Drive"
+    ],
+    "aliases": [
+      "Acadian Coastal Drive"
+    ]
+  },
+  "acadian-historical-village": {
+    "title": "Акадийская историческая деревня",
+    "parent": "acadian-historical-village",
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "Acadian Historical Village"
+    ],
+    "aliases": [
+      "Acadian Historical Village"
+    ],
+    "place": "acadian-historical-village"
+  },
+  "shediac--parlee-beach-motel": {
+    "title": "Parlee Beach Motel",
+    "parent": "shediac",
+    "types": [
+      "hotel"
+    ],
+    "search_terms": [
+      "отель",
+      "отели",
+      "гостиница",
+      "гостиницы",
+      "hotel"
+    ]
+  },
+  "charlottetown--costumed-walking-tour": {
+    "title": "Костюмированная экскурсия по Шарлоттауну",
+    "parent": "charlottetown",
+    "types": [
+      "walking_route",
+      "tour"
+    ],
+    "search_terms": [
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "charlottetown--founders-hall": {
+    "title": "Founders’ Hall",
+    "parent": "charlottetown",
+    "types": [
+      "historic_building"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
+  },
+  "charlottetown--peakes-wharf": {
+    "title": "Peake’s Wharf",
+    "parent": "charlottetown",
+    "types": [
+      "harbour"
+    ],
+    "search_terms": [
+      "гавань",
+      "гавани",
+      "порт",
+      "порты",
+      "марина",
+      "harbour",
+      "harbor",
+      "marina"
+    ]
+  },
+  "prince-edward-island--tightline-fishing": {
+    "title": "Морская рыбалка Tightline Tours",
+    "parent": "prince-edward-island",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "Deep Sea Fishing"
+    ],
+    "aliases": [
+      "Deep Sea Fishing"
+    ]
+  },
+  "cape-breton--cabot-trail": {
+    "title": "Кабот-Трейл",
+    "parent": "cape-breton",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "Cabot Trail"
+    ],
+    "aliases": [
+      "Cabot Trail"
+    ]
+  },
+  "cape-breton--skyline-trail": {
+    "title": "Скайлайн-Трейл",
+    "parent": "cape-breton",
+    "types": [
+      "trail"
+    ],
+    "search_terms": [
+      "тропа",
+      "тропы",
+      "пеший маршрут",
+      "хайкинг",
+      "trail",
+      "hiking",
+      "Skyline Trail"
+    ],
+    "aliases": [
+      "Skyline Trail"
+    ]
+  },
+  "cape-breton--highlands-national-park": {
+    "title": "Национальный парк Кейп-Бретон-Хайлендс",
+    "parent": "cape-breton",
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "Cape Breton Highlands National Park"
+    ],
+    "aliases": [
+      "Cape Breton Highlands National Park"
+    ]
+  },
+  "cape-breton--dixons-zodiac-seafari": {
+    "title": "Dixon’s Zodiac Seafari, Neil’s Harbour",
+    "parent": "cape-breton",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "louisbourg--fortress-of-louisbourg": {
+    "title": "Крепость Луисбург",
+    "parent": "louisbourg",
+    "types": [
+      "castle",
+      "museum"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "Fortress of Louisbourg"
+    ],
+    "aliases": [
+      "Fortress of Louisbourg"
+    ]
+  },
+  "sydney--giant-fiddle": {
+    "title": "Гигантская скрипка Сиднея",
+    "parent": "sydney",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Giant Fiddle"
+    ],
+    "aliases": [
+      "Giant Fiddle"
+    ]
+  },
+  "sydney--scottish-immigrants-monument": {
+    "title": "Памятник шотландским иммигрантам",
+    "parent": "sydney",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
+  },
+  "halifax--nova-scotian-crystal": {
+    "title": "Мастерская Nova Scotian Crystal",
+    "parent": "halifax",
+    "types": [
+      "factory"
+    ],
+    "search_terms": [
+      "фабрика",
+      "фабрики",
+      "завод",
+      "мануфактура",
+      "производство",
+      "factory"
+    ]
+  },
+  "halifax--wave": {
+    "title": "Скульптура «Волна»",
+    "parent": "halifax",
+    "types": [
+      "artwork"
+    ],
+    "search_terms": [
+      "искусство",
+      "фреска",
+      "фрески",
+      "роспись",
+      "artwork",
+      "mural",
+      "The Wave"
+    ],
+    "aliases": [
+      "The Wave"
+    ]
+  },
+  "lunenburg--essential-walking-tour": {
+    "title": "Пешеходная экскурсия по Луненбергу",
+    "parent": "lunenburg",
+    "types": [
+      "walking_route",
+      "tour"
+    ],
+    "search_terms": [
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "Essential Lunenburg Tour"
+    ],
+    "aliases": [
+      "Essential Lunenburg Tour"
+    ]
+  },
+  "lunenburg--academy": {
+    "title": "Академия Луненберга",
+    "parent": "lunenburg",
+    "types": [
+      "historic_academy",
+      "historic_building"
+    ],
+    "search_terms": [
+      "академия",
+      "академии",
+      "образование",
+      "academy",
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "Lunenburg Academy"
+    ],
+    "aliases": [
+      "Lunenburg Academy"
+    ]
+  },
+  "lunenburg--bluenose-ii": {
+    "title": "Блюноуз II",
+    "parent": "lunenburg",
+    "types": [
+      "ship"
+    ],
+    "search_terms": [
+      "судно",
+      "корабль",
+      "корабли",
+      "яхта",
+      "шхуна",
+      "ship",
+      "schooner",
+      "Bluenose II"
+    ],
+    "aliases": [
+      "Bluenose II"
+    ]
+  },
+  "shediac--giant-lobster": {
+    "title": "Гигантский лобстер Шедиака",
+    "parent": "shediac",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Giant Lobster"
+    ],
+    "aliases": [
+      "Giant Lobster"
+    ]
+  },
+  "kouchibouguac--mikmaq-cedar-trail": {
+    "title": "Кедровая тропа микмаков",
+    "parent": "kouchibouguac",
+    "types": [
+      "trail"
+    ],
+    "search_terms": [
+      "тропа",
+      "тропы",
+      "пеший маршрут",
+      "хайкинг",
+      "trail",
+      "hiking",
+      "Mi’kmaq Cedar Trail"
+    ],
+    "aliases": [
+      "Mi’kmaq Cedar Trail"
+    ]
+  },
+  "fredericton--soldier-for-a-day": {
+    "title": "Программа «День в солдатах»",
+    "parent": "fredericton",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "Soldier for a Day"
+    ],
+    "aliases": [
+      "Soldier for a Day"
+    ]
+  },
+  "fredericton--walking-tour": {
+    "title": "Пешеходная экскурсия по Фредриктону",
+    "parent": "fredericton",
+    "types": [
+      "walking_route",
+      "tour"
+    ],
+    "search_terms": [
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "fredericton--city-hall": {
+    "title": "Ратуша Фредриктона",
+    "parent": "fredericton",
+    "types": [
+      "civic_building",
+      "historic_building"
+    ],
+    "search_terms": [
+      "общественное здание",
+      "административное здание",
+      "civic building",
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "Fredericton City Hall"
+    ],
+    "aliases": [
+      "Fredericton City Hall"
+    ]
+  },
+  "grand-falls--waterfall": {
+    "title": "Водопад Гранд-Фолс",
+    "parent": "grand-falls",
+    "types": [
+      "waterfall"
+    ],
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall",
+      "Grand Falls waterfall"
+    ],
+    "aliases": [
+      "Grand Falls waterfall"
     ]
   }
 }

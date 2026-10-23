@@ -12,7 +12,7 @@ places:
   - grand-falls
   - riviere-du-loup
 hero_image: "DSC02327.jpg"
-attractions: ["fredericton--khudozhestvennaya-galereya-biverbruk"]
+attractions: ["fredericton--khudozhestvennaya-galereya-biverbruk","fredericton--soldier-for-a-day","fredericton--walking-tour","fredericton--city-hall","grand-falls--waterfall"]
 ---
 
 <p>Последний день нашего путешествия оказался богатым на разные эмоции. Он был лучшим днем для Мити и полным разочарованием для нас с Наташей.</p>
