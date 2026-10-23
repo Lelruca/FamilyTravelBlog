@@ -1,0 +1,343 @@
+{
+  "trip_path": "content/americas/canada/tobermory-2014",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\.tmp\\source-material-audit\\media-manifests\\tobermory-2014.json",
+    "sha256": "8fefa69b737dbd7d474440737e0af2ad65bb63a35c018743f60d45f4c456234c",
+    "kind": "photograph_manifest",
+    "read": "Все четыре главы и страница поездки прочитаны целиком. Все главы состоят из фотографий: manifest явно помечает without_post. Авторских рассказов, заключений и оценок в известном комплекте нет. Отсутствие текста в этом комплекте не доказывает отсутствие ещё не сверенных внешних материалов."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 65,
+    "manifest": "media-manifests/tobermory-2014.json",
+    "method": "65 архивных оригиналов сверены по SHA-256 и просмотрены полностью на шести контактных листах, включая поздние кадры 6 июля."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/canada/tobermory-2014/waterfalls/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Водопад Хоггс",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "waterfalls/DSC01720.jpg"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "hoggs-falls"
+          },
+          "reason": "Указатель Hoggs Falls на собственном снимке; водопад на IMG_4068 и DSC01775."
+        },
+        {
+          "label": "Водопад Инглис",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "waterfalls/IMG_4086.jpg"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "inglis-falls"
+          },
+          "reason": "Ступенчатый каскад соответствует названию главы и официальному описанию Inglis Falls."
+        },
+        {
+          "label": "Третий высокий водопад",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "waterfalls/DSC01714.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Другой профиль: узкая высокая струя под нависающей стеной. Возможно Eugenia Falls, но название не установлено надёжно. Его нельзя молча отнести к двум водопадам из заголовка."
+        },
+        {
+          "label": "Лесные тропы, каменная ограда и беседка",
+          "event": "visited_site_components",
+          "evidence": [
+            {
+              "photo": "waterfalls/DSC01726.jpg"
+            }
+          ],
+          "decision": "covered_by_sites",
+          "reason": "Части прогулок у водопадов; отдельные названия сооружений отсутствуют."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/tobermory-2014/flowerpot/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Тобермори — гавань и набережная",
+          "event": "walked",
+          "evidence": [
+            {
+              "photo": "flowerpot/IMG_4105.jpg"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "tobermory"
+          },
+          "reason": "Семья на набережной и у лодочной гавани."
+        },
+        {
+          "label": "Лодочная экскурсия из Тобермори",
+          "event": "attended",
+          "evidence": [
+            {
+              "photo": "flowerpot/IMG_20140629_133120.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Семья внутри экскурсионного судна; оператор и название судна неизвестны."
+        },
+        {
+          "label": "Flowerpot Island и скалы-столбы",
+          "event": "viewed_from_boat",
+          "evidence": [
+            {
+              "photo": "flowerpot/DSC01831.jpg"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "flowerpot-island"
+          },
+          "reason": "Столбы видны с воды, на DSC01834 видны посетители на суше, но это не доказывает высадку семьи на остров."
+        },
+        {
+          "label": "Затонувшее судно под водой",
+          "event": "viewed_from_boat",
+          "evidence": [
+            {
+              "photo": "flowerpot/DSC01792.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Остов виден сквозь воду; название судна не определено. Погружения не было оснований утверждать."
+        },
+        {
+          "label": "Маяк у выхода из гавани",
+          "event": "viewed_from_boat",
+          "evidence": [
+            {
+              "photo": "flowerpot/DSC01799.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Собственный снимок маяка с воды; имя требует сверки, наземное посещение не подтверждено."
+        },
+        {
+          "label": "Место пикника",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "flowerpot/20140629_152710.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Семья за столом у каменной стены. По этому кадру нельзя надёжно доказать нахождение именно на Flowerpot Island."
+        },
+        {
+          "label": "Улица с магазинами",
+          "event": "walked",
+          "evidence": [
+            {
+              "photo": "flowerpot/IMG_20140629_154128.jpg"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "tobermory"
+          },
+          "reason": "Прогулка; вход в отдельные магазины не подтверждён."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/tobermory-2014/grotto/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "The Grotto",
+          "event": "exterior_and_surroundings",
+          "evidence": [
+            {
+              "photo": "grotto/DSC01870.jpg"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "grotto-bruce"
+          },
+          "reason": "Семья у края грота и на скалах. Спуск внутрь полости по этим кадрам не подтверждён."
+        },
+        {
+          "label": "Bruce Peninsula National Park",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "grotto/DSC01879.jpg"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "bruce-peninsula"
+          },
+          "reason": "Прогулка к гроту и по берегу; это парк, а не только отдельная пещера."
+        },
+        {
+          "label": "Бухта и галечный пляж у грота",
+          "event": "shore_visit",
+          "evidence": [
+            {
+              "photo": "grotto/DSC01853.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Посещение берега подтверждено; собственное название бухты не задано. На DSC01855 ребёнок в купальном костюме на берегу, но его плавание в озере не доказано."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/tobermory-2014/adventure-park/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Гостиница",
+          "event": "overnight",
+          "evidence": [
+            {
+              "photo": "adventure-park/IMG_20140630_075447.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Номер с детьми; название гостиницы не видно."
+        },
+        {
+          "label": "Верёвочный парк",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "adventure-park/DSC01894.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Семья проходит верёвочные препятствия; название и точное место парка неизвестны."
+        },
+        {
+          "label": "Уличный бассейн",
+          "event": "swimming",
+          "evidence": [
+            {
+              "photo": "adventure-park/DSC01914.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Митя в бассейне; объект не назван. Нельзя автоматически считать его частью верёвочного парка или гостиницы."
+        },
+        {
+          "label": "Ресторан",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "adventure-park/IMG_20140630_185222.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Семейный ужин, меню видно частично; заведение не установлено."
+        },
+        {
+          "label": "Пляж 6 июля 2014",
+          "event": "visited_separate_date",
+          "evidence": [
+            {
+              "photo": "adventure-park/IMG_20140706_153902.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Оба кадра 20140706 относятся к иной дате, чем поездка 28–30 июня. Место не установлено; не назначается Тобермори только из-за расположения в главе."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_explicit_identification_questions",
+    "questions": [
+      {
+        "chapter": "content/americas/canada/tobermory-2014/waterfalls/index.md",
+        "object": "Третий высокий водопад",
+        "question": "Другой профиль: узкая высокая струя под нависающей стеной. Возможно Eugenia Falls, но название не установлено надёжно. Его нельзя молча отнести к двум водопадам из заголовка."
+      },
+      {
+        "chapter": "content/americas/canada/tobermory-2014/flowerpot/index.md",
+        "object": "Лодочная экскурсия из Тобермори",
+        "question": "Семья внутри экскурсионного судна; оператор и название судна неизвестны."
+      },
+      {
+        "chapter": "content/americas/canada/tobermory-2014/flowerpot/index.md",
+        "object": "Затонувшее судно под водой",
+        "question": "Остов виден сквозь воду; название судна не определено. Погружения не было оснований утверждать."
+      },
+      {
+        "chapter": "content/americas/canada/tobermory-2014/flowerpot/index.md",
+        "object": "Маяк у выхода из гавани",
+        "question": "Собственный снимок маяка с воды; имя требует сверки, наземное посещение не подтверждено."
+      },
+      {
+        "chapter": "content/americas/canada/tobermory-2014/flowerpot/index.md",
+        "object": "Место пикника",
+        "question": "Семья за столом у каменной стены. По этому кадру нельзя надёжно доказать нахождение именно на Flowerpot Island."
+      },
+      {
+        "chapter": "content/americas/canada/tobermory-2014/grotto/index.md",
+        "object": "Бухта и галечный пляж у грота",
+        "question": "Посещение берега подтверждено; собственное название бухты не задано. На DSC01855 ребёнок в купальном костюме на берегу, но его плавание в озере не доказано."
+      },
+      {
+        "chapter": "content/americas/canada/tobermory-2014/adventure-park/index.md",
+        "object": "Гостиница",
+        "question": "Номер с детьми; название гостиницы не видно."
+      },
+      {
+        "chapter": "content/americas/canada/tobermory-2014/adventure-park/index.md",
+        "object": "Верёвочный парк",
+        "question": "Семья проходит верёвочные препятствия; название и точное место парка неизвестны."
+      },
+      {
+        "chapter": "content/americas/canada/tobermory-2014/adventure-park/index.md",
+        "object": "Уличный бассейн",
+        "question": "Митя в бассейне; объект не назван. Нельзя автоматически считать его частью верёвочного парка или гостиницы."
+      },
+      {
+        "chapter": "content/americas/canada/tobermory-2014/adventure-park/index.md",
+        "object": "Ресторан",
+        "question": "Семейный ужин, меню видно частично; заведение не установлено."
+      },
+      {
+        "chapter": "content/americas/canada/tobermory-2014/adventure-park/index.md",
+        "object": "Пляж 6 июля 2014",
+        "question": "Оба кадра 20140706 относятся к иной дате, чем поездка 28–30 июня. Место не установлено; не назначается Тобермори только из-за расположения в главе."
+      }
+    ],
+    "repeat_check": "Весь известный фотографический комплект повторно сопоставлен с объектами. Обнаружен третий высокий водопад и несоответствие даты двух пляжных кадров; оба вопроса сохранены явно. Заголовок главы не заменяет проверку изображения.",
+    "external_sources": [
+      {
+        "url": "https://www.greysauble.on.ca/portfolio/inglis-falls-conservation-area/",
+        "purpose": "Сверка ступенчатого каскада Inglis Falls."
+      },
+      {
+        "url": "https://www.greysauble.on.ca/portfolio/eugenia-falls-conservation-area/",
+        "purpose": "Кандидат для третьего водопада; окончательная идентификация не заявлена."
+      }
+    ]
+  }
+}

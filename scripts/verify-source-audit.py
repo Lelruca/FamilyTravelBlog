@@ -25,7 +25,15 @@ for report_file in reports:
     r=load(report_file)
     source=Path(r['source']['path'])
     assert hashlib.sha256(source.read_bytes()).hexdigest()==r['source']['sha256'],f'{report_file}: source changed'
-    if r['source'].get('kind')=='facebook_profile_json':
+    if r['source'].get('kind')=='photograph_manifest':
+        manifest=load(source)
+        photo_data=load(f"data/photos/{manifest['trip']}.json")
+        archive=Path('G:/My Drive/Family Travel Blog Photos')/manifest['archive_root']
+        photo_keys=set(photo_data)
+        for original in manifest['photos']:
+            assert hashlib.sha256((archive/original['archive_name']).read_bytes()).hexdigest()==original['sha256'],'Original photograph changed'
+        paragraphs=[]
+    elif r['source'].get('kind')=='facebook_profile_json':
         posts=json.loads(source.read_text('utf-8'))
         post=posts[r['source']['record_index']]
         text='\n'.join(d.get('post','') for d in post.get('data',[]))
@@ -45,6 +53,8 @@ for report_file in reports:
             objects+=1
             assert o.get('decision') and o.get('event') and o.get('evidence'),f'{report_file}: unexplained object'
             for e in o['evidence']:
+                if 'photo' in e and r['source'].get('kind')=='photograph_manifest':
+                    assert e['photo'] in photo_keys,f"Unknown source photograph: {e['photo']}"
                 if 'source_paragraph' in e:
                     assert e['quote'] in paragraphs[e['source_paragraph']],f"{report_file}: unsupported quotation {o['label']}"
                 if 'source_attachment_path' in e:

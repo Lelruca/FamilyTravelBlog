@@ -2354,6 +2354,35 @@
       "source_review": "read",
       "visits": []
     },
+    "content/americas/canada/tobermory-2014/waterfalls/index.md": {
+      "source_review": "read",
+      "visits": []
+    },
+    "content/americas/canada/tobermory-2014/flowerpot/index.md": {
+      "source_review": "read",
+      "visits": []
+    },
+    "content/americas/canada/tobermory-2014/grotto/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "grotto-bruce",
+          "event": "exterior_and_surroundings",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "grotto/DSC01870.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/tobermory-2014.json",
+          "note": "Семья у края грота и на скалах. Спуск внутрь полости по этим кадрам не подтверждён."
+        }
+      ]
+    },
+    "content/americas/canada/tobermory-2014/adventure-park/index.md": {
+      "source_review": "read",
+      "visits": []
+    },
     "content/americas/canada/vancouver-2023/vancouver/index.md": {
       "source_review": "read",
       "visits": [

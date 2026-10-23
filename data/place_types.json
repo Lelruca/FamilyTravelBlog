@@ -4029,5 +4029,67 @@
     "classification_sources": [
       "content/places/kouchibouguac/_index.md"
     ]
+  },
+  "inglis-falls": {
+    "types": [
+      "waterfall"
+    ],
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall"
+    ],
+    "classification_sources": [
+      "content/places/inglis-falls/_index.md"
+    ]
+  },
+  "hoggs-falls": {
+    "types": [
+      "waterfall"
+    ],
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall"
+    ],
+    "classification_sources": [
+      "content/places/hoggs-falls/_index.md"
+    ]
+  },
+  "flowerpot-island": {
+    "types": [
+      "island"
+    ],
+    "search_terms": [
+      "остров",
+      "острова",
+      "островов",
+      "island"
+    ],
+    "classification_sources": [
+      "content/places/flowerpot-island/_index.md"
+    ]
+  },
+  "bruce-peninsula": {
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/bruce-peninsula/_index.md"
+    ]
   }
 }

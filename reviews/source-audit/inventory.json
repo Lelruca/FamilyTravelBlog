@@ -1010,10 +1010,10 @@
       "title": "\"Верёвочный парк и бассейн\"",
       "draft": false,
       "source_sha256_lf": "0a2f6af2a05cc373a5510a15be1e8f8c2826632050a8a03b5bde68ace2281285",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/tobermory-2014.json"
     },
     {
       "file": "content/americas/canada/tobermory-2014/flowerpot/index.md",
@@ -1022,10 +1022,10 @@
       "title": "\"Тобермори и Flowerpot Island\"",
       "draft": false,
       "source_sha256_lf": "8a58d6e4df4cc665cde7347172abbfc9da8b07e84b011d73ba8b56f4dfc28f69",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/tobermory-2014.json"
     },
     {
       "file": "content/americas/canada/tobermory-2014/grotto/index.md",
@@ -1034,10 +1034,10 @@
       "title": "\"The Grotto\"",
       "draft": false,
       "source_sha256_lf": "14fd01eae1f33377e8be7f11291735df8fe32d85f1444ed9713e27dea7eaa0de",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/tobermory-2014.json"
     },
     {
       "file": "content/americas/canada/tobermory-2014/waterfalls/index.md",
@@ -1046,10 +1046,10 @@
       "title": "\"Водопады Inglis и Hoggs Falls\"",
       "draft": false,
       "source_sha256_lf": "27f213b546eba486cff3647330ac6823d017a7b4b0251c90db71b796f384582f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/tobermory-2014.json"
     },
     {
       "file": "content/americas/canada/toronto-2016/new-york/index.md",

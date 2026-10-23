@@ -29,7 +29,11 @@ const standaloneTypes={
  'acadian-historical-village':['museum'],
  'peggys-cove':['lighthouse'],
  'hopewell-rocks':['park'],
- 'kouchibouguac':['park']
+ 'kouchibouguac':['park'],
+ 'inglis-falls':['waterfall'],
+ 'hoggs-falls':['waterfall'],
+ 'flowerpot-island':['island'],
+ 'bruce-peninsula':['park']
 };
 for(const [slug,types] of Object.entries(standaloneTypes)){
  const p=result[slug] ||= {types:[],search_terms:[],classification_sources:[]};
