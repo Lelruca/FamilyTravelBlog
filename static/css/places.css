@@ -11,17 +11,18 @@
 
 /* the list: compact rows under each country; the heading of an open country stays on top while scrolling;
    a tap on it folds the country, «Свернуть все страны» leaves just their names */
-#places-list section{margin-bottom:10px;scroll-margin-top:60px}
-#places-list section.folded{margin-bottom:4px}
+/* folded, the list reads as a table of countries; the open country gets a grey heading that stays on top */
+#places-list section{scroll-margin-top:60px;border-bottom:1px solid #e2e8f0}
+#places-list section:not(.folded){padding-bottom:8px}
 #places-list section.folded .place-row{display:none}
-#places-list h2,#sights-found h2{position:sticky;top:60px;z-index:2;margin:0;background:#f3f6f5;border-top:1px solid #e2e8f0}
-#places-list section.folded h2{position:static}
-.place-country-toggle,#sights-found h2{display:flex;align-items:center;gap:6px;width:100%;text-align:left;padding:8px 12px 6px;font:600 12px/1.4 Inter,system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:#64748b;background:none;border:0;cursor:pointer}
-#sights-found h2{display:block;background:#f3f6f5;cursor:default}
-.place-country-toggle .place-arrow{flex-shrink:0;transition:transform 200ms}
-#places-list section.folded .place-arrow{transform:rotate(-90deg)}
-#place-fold-all{background:none;border:0;padding:6px 0;margin-left:auto;color:#2a9d8f;font:inherit;font-size:14px;text-decoration:underline;cursor:pointer}
-.place-row{display:flex;align-items:baseline;gap:8px;padding:5px 12px;color:#1e293b;text-decoration:none;font-size:15px;line-height:1.35;border-radius:6px}
+#places-list h2{margin:0}
+#places-list section:not(.folded) h2{position:sticky;top:60px;z-index:2;background:#f3f6f5}
+.place-country-toggle{display:flex;justify-content:space-between;align-items:center;gap:8px;width:100%;text-align:left;padding:11px 12px;font:500 17px/1.3 Inter,system-ui,sans-serif;color:#1e293b;background:none;border:0;cursor:pointer}
+.place-country-toggle .place-arrow{flex-shrink:0;color:#64748b;transition:transform 200ms}
+#places-list section:not(.folded) .place-arrow{transform:rotate(180deg)}
+#sights-found h2{position:sticky;top:60px;z-index:2;margin:0;padding:8px 12px 6px;background:#f3f6f5;font:600 12px/1.4 Inter,system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:#64748b}
+#sights-found .place-row{padding-left:12px}
+.place-row{display:flex;align-items:baseline;gap:8px;padding:5px 12px 5px 24px;color:#1e293b;text-decoration:none;font-size:15px;line-height:1.35;border-radius:6px}
 .place-orig{color:#94a3b8;font-size:13px}
 #sights-found{margin-top:14px}
 @media(hover:hover){.place-row:hover,.place-country-toggle:hover{background:#f1f5f4}.place-row:hover .place-title,.place-country-toggle:hover{color:#2a9d8f}}
@@ -55,5 +56,5 @@
 .city-sight:target{background:#f1f8f6;border-radius:8px;padding-left:10px;padding-right:10px}
 .city-back{display:inline-block;margin-top:28px;font-size:14px;color:#2a9d8f;text-decoration:underline}
 @media(hover:hover){.city-ch:hover{border-left-color:#2a9d8f}.city-ch:hover .city-ch-title{color:#2a9d8f}.city-years a:hover{background:#2a9d8f;border-color:#2a9d8f;color:#fff}}
-@media(max-width:640px){#places-list h2,#sights-found h2,.city-tabs{top:56px}#place-map{height:420px}.city-head h1{font-size:30px}.city-tabs button{padding:8px 13px;font-size:14px}}
+@media(max-width:640px){#places-list section:not(.folded) h2,#sights-found h2,.city-tabs{top:56px}#place-map{height:420px}.city-head h1{font-size:30px}.city-tabs button{padding:8px 13px;font-size:14px}}
 @media(pointer:coarse){.city-years{gap:8px}.city-years a{padding:8px 14px}}

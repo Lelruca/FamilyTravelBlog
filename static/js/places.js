@@ -16,16 +16,14 @@
     && words.every(w => s.n.includes(w) || (words.length > 1 && s.cn.includes(w)));
   const visible = () => rows.filter(row => !row.hidden);
   const key = 'placeSearch';
-  const foldAll = root.querySelector('#place-fold-all');
-  let folded = [];
+  // the list is a table of countries: all folded, one open at a time; a search or a chosen country shows what it found
+  let openCountry = '';
   const searching = () => !!(input.value.trim() || country.value);
   function applyFolds() {
-    groups.forEach(g => { const shut = !searching() && folded.includes(g.dataset.country);
+    groups.forEach(g => { const shut = !searching() && g.dataset.country !== openCountry;
       g.classList.toggle('folded', shut); g.querySelector('.place-country-toggle').setAttribute('aria-expanded', String(!shut)); });
-    foldAll.hidden = searching();
-    foldAll.textContent = groups.some(g => !folded.includes(g.dataset.country)) ? 'Свернуть все страны' : 'Развернуть все страны';
   }
-  const remember = () => { try { sessionStorage.setItem(key, JSON.stringify({ q: input.value, c: country.value, m: mode, f: folded })); } catch (e) {} };
+  const remember = () => { try { sessionStorage.setItem(key, JSON.stringify({ q: input.value, c: country.value, m: mode, o: openCountry })); } catch (e) {} };
 
   // map: a point opens a small window with the place's name and a way to its page
   function fit() { if (clusters?.getLayers().length) map.fitBounds(clusters.getBounds(), {padding:[30,30],maxZoom:12}); }
@@ -98,16 +96,17 @@
   reset.addEventListener('click', () => { input.value = ''; country.value = ''; filter();
     if (!matchMedia('(pointer:coarse)').matches) input.focus({ preventScroll: true }); }); // no keyboard popping up on a phone
 
-  // countries are open; a tap on a country folds or unfolds it, «Свернуть все страны» leaves just the country names
-  // (a quick way to a country). A search or a chosen country always shows its places, whatever is folded.
+  // a tap on a country opens it and folds the one open before; a tap on the open country (its heading stays on top) folds it
   root.querySelectorAll('.place-country-toggle').forEach(b => b.addEventListener('click', () => {
-    const c = b.closest('[data-place-group]').dataset.country;
-    folded = folded.includes(c) ? folded.filter(x => x !== c) : folded.concat(c); applyFolds(); remember();
+    if (searching()) return;
+    const g = b.closest('[data-place-group]');
+    openCountry = openCountry === g.dataset.country ? '' : g.dataset.country; applyFolds(); remember();
+    // the country above may just have folded: keep the tapped heading where the eye is
+    if (g.getBoundingClientRect().top < 60) g.scrollIntoView({ block: 'start' });
   }));
-  foldAll.addEventListener('click', () => { folded = groups.some(g => !folded.includes(g.dataset.country)) ? groups.map(g => g.dataset.country) : []; applyFolds(); remember(); });
 
-  // coming back from a place page restores the search, the country, the folded countries and the view
-  try { const s = JSON.parse(sessionStorage.getItem(key) || '{}'); if (s.q) input.value = s.q; if (s.c) country.value = s.c; if (s.m === 'map') mode = 'map'; if (Array.isArray(s.f)) folded = s.f; } catch (e) {}
+  // coming back from a place page restores the search, the country, the open country and the view
+  try { const s = JSON.parse(sessionStorage.getItem(key) || '{}'); if (s.q) input.value = s.q; if (s.c) country.value = s.c; if (s.m === 'map') mode = 'map'; if (s.o) openCountry = s.o; } catch (e) {}
   // «Города и достопримечательности →» from «По странам» arrives with ?country=Италия: open that country, no old search
   const wanted = new URLSearchParams(location.search).get('country');
   const option = wanted && [...country.options].find(o => o.value === wanted || o.value.startsWith(wanted + ' '));
