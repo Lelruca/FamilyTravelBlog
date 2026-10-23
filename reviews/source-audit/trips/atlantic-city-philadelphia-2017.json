@@ -1,0 +1,675 @@
+{
+  "trip_path": "content/americas/usa/atlantic-city-philadelphia-2017",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Штаты - разное.docx",
+    "sha256": "758ad0f0edcbad5b83c7b18c31692fd8c83cae0e25a93037371ee1ea8d80ad7f",
+    "read": "Полностью прочитаны заголовок и все семь текстовых абзацев 183–192, а также обе главы сайта, включая заметку о забытых паспортах. Подписи в metadata сопоставлены с фотографиями этикеток."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 72,
+    "manifest": "media-manifests/atlantic-city-philadelphia-2017.json",
+    "method": "38 выбранных архивных оригиналов проверены по SHA-256, а также просмотрены все остальные фото обеих указанных исходных папок — 34 дополнительных кадра, всего 72. Шесть контактных листов. Включены музейные этикетки и интерьер казино, которых нет на сайте.",
+    "additional_originals": [
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170804_012232.jpg",
+        "key": "additional/atlantic-city/20170804_012232.jpg",
+        "sha256": "3c2631d64f9656dcb99705b13d27063c5376d725798d29cfe380c99f59332cfc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170804_121059.jpg",
+        "key": "additional/atlantic-city/20170804_121059.jpg",
+        "sha256": "d1f4bf65c05fc3073e98212576411369de2e84977e475bd333d3ee1e3175d42e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170804_121321.jpg",
+        "key": "additional/atlantic-city/20170804_121321.jpg",
+        "sha256": "d9328260f400a37fac00390f84e5980cfc6e264fbb1574a7bbfd09b7bc8bdfc2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170804_122816.jpg",
+        "key": "additional/atlantic-city/20170804_122816.jpg",
+        "sha256": "97aaaac2f4847d795b0a916d11f791ee5c896a89a11027012a8f04072b615d39"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170804_145308.jpg",
+        "key": "additional/atlantic-city/20170804_145308.jpg",
+        "sha256": "833b0f5db5fca710cf7a90fd16e322f071a7070f2be88356c4ef1cf1a6456447"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170804_150024.jpg",
+        "key": "additional/atlantic-city/20170804_150024.jpg",
+        "sha256": "7cb7b7d3f1ba8955dd845b955afe36de0342d7fd6989996e5a6d6a4e184ce1eb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170804_150114.jpg",
+        "key": "additional/atlantic-city/20170804_150114.jpg",
+        "sha256": "e4ceb61f9f89be4188dc2496c9fb5adfe7d27a431c4ceee37151b3ea356dc671"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170804_150235.jpg",
+        "key": "additional/atlantic-city/20170804_150235.jpg",
+        "sha256": "bd4b6fd5ef889eddc0aa2c19a6bb2a9f762bce2a3afdb00bf394d28553a36480"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170804_184038.jpg",
+        "key": "additional/atlantic-city/20170804_184038.jpg",
+        "sha256": "2e6b7c614dd2075e0be666bc791f65905dee54013fb002e17de0c3cd1511d556"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170804_222814.jpg",
+        "key": "additional/atlantic-city/20170804_222814.jpg",
+        "sha256": "638fe8e153d1ef4695eb03659385a4b23a362e22a9e9627b91dd4c23a02e2648"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170804_222837.jpg",
+        "key": "additional/atlantic-city/20170804_222837.jpg",
+        "sha256": "3e646d5bf0d88bdaf38a911db37f1ebf63cbbdb3dcf3f6fd32a24571814d6c8d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170804_223543.jpg",
+        "key": "additional/atlantic-city/20170804_223543.jpg",
+        "sha256": "c01cd02c7606081ba9218b78ddda6214c346c882a59d1ec6a5e46ed1a2f28099"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170804_223651.jpg",
+        "key": "additional/atlantic-city/20170804_223651.jpg",
+        "sha256": "680eb9e6310cc39d42eb24bd5608cbac0a46a5487e56dbe4e31c06385b05686b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170804_224241.jpg",
+        "key": "additional/atlantic-city/20170804_224241.jpg",
+        "sha256": "c47af3522dcc41c5aecb5a954c0f449ee935674f706cf9ee8f93186c3c8c221e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170805_214437.jpg",
+        "key": "additional/atlantic-city/20170805_214437.jpg",
+        "sha256": "8d5ac4929a0bb9086d1d45cd3ec29a78f14cb2e114284aa5a848d9d7dcee983c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Atlantic City\\20170805_214649.jpg",
+        "key": "additional/atlantic-city/20170805_214649.jpg",
+        "sha256": "a3478a00aabe8f478ebbab0264b119f197f7ab413be93448917657964d461a41"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_131950.jpg",
+        "key": "additional/philadelphia/20170805_131950.jpg",
+        "sha256": "834c9d2605bad1973ea30a3fe3a8a7de0f8e19234d4b2a002270779bd3f8e7cd"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_134922.jpg",
+        "key": "additional/philadelphia/20170805_134922.jpg",
+        "sha256": "e8e7a92984da90963be987f065386659be54e19c8c41af6990ea7b4f89d3306f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_140239.jpg",
+        "key": "additional/philadelphia/20170805_140239.jpg",
+        "sha256": "f90cff35c1526990a5228bf7a7009165731c1dfa2fbebc44e35087fd06ea0b8a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_140654.jpg",
+        "key": "additional/philadelphia/20170805_140654.jpg",
+        "sha256": "e16bd4e45c8cfbe4326ed341951c6b14955f42e7892652caea05144b400fb531"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_141032.jpg",
+        "key": "additional/philadelphia/20170805_141032.jpg",
+        "sha256": "69a7a895634160a0de85e9f6f3a61a3e14c47037d0e9de2837f657b4adaced3b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_144149.jpg",
+        "key": "additional/philadelphia/20170805_144149.jpg",
+        "sha256": "4cd0f9d33563abee9be1013e70fcc11cd0678bf98ea983adecb7f0868798f474"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_145848.jpg",
+        "key": "additional/philadelphia/20170805_145848.jpg",
+        "sha256": "966cc36f2348df26c7ff9ddb7dd9c0a251a567de6aade5f440a085bc836a43c5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_145947.jpg",
+        "key": "additional/philadelphia/20170805_145947.jpg",
+        "sha256": "76ed17048ca6d973d131ab1ea8e704a5b6c0e80734b910d12abbe10f316a2028"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_150028.jpg",
+        "key": "additional/philadelphia/20170805_150028.jpg",
+        "sha256": "b6c33c63642212f98b8c56885495f85904284147f5e5c16f2acbfe20234ccbb0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_150110.jpg",
+        "key": "additional/philadelphia/20170805_150110.jpg",
+        "sha256": "a550a345e630b8753b016cdb1e10e350a7485d1fc1f23f3dd0258e860eff446f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_150250.jpg",
+        "key": "additional/philadelphia/20170805_150250.jpg",
+        "sha256": "aeb87f443cad52bcf5f3257cadfa0f22194a2e6d5d6ebcf4b4d9e58fc33b21c2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_151650.jpg",
+        "key": "additional/philadelphia/20170805_151650.jpg",
+        "sha256": "718d045ce75a410e194dfc55f1593836f99b1818a18afad2598e46f2889608ac"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_153316.jpg",
+        "key": "additional/philadelphia/20170805_153316.jpg",
+        "sha256": "e08cd8118b82303b6a48ebad49a4d5284d256d7f595694703883975751fe1562"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_153726.jpg",
+        "key": "additional/philadelphia/20170805_153726.jpg",
+        "sha256": "564a3d48db0824334fed7e9ac29be7606121874b3564ef7babd27ede6e0d61a2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_153857.jpg",
+        "key": "additional/philadelphia/20170805_153857.jpg",
+        "sha256": "258ea8f887920192d673523520d7f8b95d89ca4d5c6e4707c1a6bc7f7869e958"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_153901.jpg",
+        "key": "additional/philadelphia/20170805_153901.jpg",
+        "sha256": "473d7630ed0c2ad3e79ed38bebb9cd64eeab4107cbaa19b227da6a4c32b0bf2c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_154736.jpg",
+        "key": "additional/philadelphia/20170805_154736.jpg",
+        "sha256": "aa1cacd2fca92f4797351747c849b007576a3d719a280fa0f8dbaa57938eb555"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2017\\2017 лето\\Philadelphia\\20170805_191025.jpg",
+        "key": "additional/philadelphia/20170805_191025.jpg",
+        "sha256": "e1fc204a0812cbdc41a1c5c5d4af42a54ac833bde07755fa1dc7a29684f1951a"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "file": "content/americas/usa/atlantic-city-philadelphia-2017/atlantic-city/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Атлантик-Сити",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 184,
+              "quote": "Сколько тем у меня есть в журнале, где обсуждается восточное побережье и куда хорошо ехать купаться, а куда не стоит. Мнения разные, но все они сходятся в том, что Atlantic City место куда соваться НЕ НАДО! <lj-cut text=\"Но...\">Но... у нас планы поменялись в самый последний момент и единственное что более-менее по цене и расстоянию нам подошло оказался именно Atlantic City. Поскольку желание было в основном покупаться и окультуриться, то мы решили плюнуть на все казино и пр., собрались и поехали!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "atlantic-city"
+          },
+          "reason": "Сергей, Леля и Наташа; состав уточнён в абзаце 190."
+        },
+        {
+          "label": "Пляж Атлантик-Сити",
+          "event": "swimming",
+          "evidence": [
+            {
+              "source_paragraph": 185,
+              "quote": "В целом нам, для наших целей и взрослой компании - понравилось. Пляжи хорошие (правда вода прохладная была, но нас это не испугало), длиннющая деревянная набережная. Да, на ней полно вяких лавочек и едален, но с другой стороны создается ощущение курорта, праздника... отпуска :-) Мы много просто гуляли, один вечер покатались на карусели и постреляла Наташка в тире. Купались. Короче вполне."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "atlantic-city--beach"
+          },
+          "reason": "Купались несмотря на прохладную воду; это состоявшееся занятие."
+        },
+        {
+          "label": "Деревянная набережная",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 185,
+              "quote": "В целом нам, для наших целей и взрослой компании - понравилось. Пляжи хорошие (правда вода прохладная была, но нас это не испугало), длиннющая деревянная набережная. Да, на ней полно вяких лавочек и едален, но с другой стороны создается ощущение курорта, праздника... отпуска :-) Мы много просто гуляли, один вечер покатались на карусели и постреляла Наташка в тире. Купались. Короче вполне."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "atlantic-city--boardwalk"
+          },
+          "reason": "Много гуляли днём и ночью."
+        },
+        {
+          "label": "Карусель на пирсе",
+          "event": "attended",
+          "evidence": [
+            {
+              "source_paragraph": 185,
+              "quote": "В целом нам, для наших целей и взрослой компании - понравилось. Пляжи хорошие (правда вода прохладная была, но нас это не испугало), длиннющая деревянная набережная. Да, на ней полно вяких лавочек и едален, но с другой стороны создается ощущение курорта, праздника... отпуска :-) Мы много просто гуляли, один вечер покатались на карусели и постреляла Наташка в тире. Купались. Короче вполне."
+            },
+            {
+              "photo": "atlantic-city/20170804_222836.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Катались Сергей и Наташа на собственном IMG 222836; имя карусели и площадки не установлены.",
+          "participants": [
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Тир на пирсе",
+          "event": "attended",
+          "evidence": [
+            {
+              "source_paragraph": 185,
+              "quote": "В целом нам, для наших целей и взрослой компании - понравилось. Пляжи хорошие (правда вода прохладная была, но нас это не испугало), длиннющая деревянная набережная. Да, на ней полно вяких лавочек и едален, но с другой стороны создается ощущение курорта, праздника... отпуска :-) Мы много просто гуляли, один вечер покатались на карусели и постреляла Наташка в тире. Купались. Короче вполне."
+            },
+            {
+              "photo": "atlantic-city/20170804_223649.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Стреляла Наташа; участие Сергея/Лели не утверждается. Название тира отсутствует.",
+          "participants": [
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Гостиница — вестибюль и номер с сейфом",
+          "event": "overnight",
+          "evidence": [
+            {
+              "source_paragraph": 190,
+              "quote": "Стыдно признаватья в таком, но мы втроем (с Наташей) спонтанно поехали \"на море\" покупаться в наш лонг викенд. Первое что нам попалось относительно дешево и близко был - Atlantic city, который в 900 км. Так вот, замечательно отдохнув и накупавшись мы так расслабились... что оставили паспорта в сейфе отеля. Обнаружили это ровно на середине пути. Первый порыв был развернуться и ехать обратно, что мы и сделали. Но проехав пару км. мы стали осознавать, что лишние 1000 км. за день мы вряд ли сделаем, почитали интернет и... развернулись в сторону канадской границы. Из документов у нас у всех троих были водительские права с собой. У нас было достаточно времени чтобы попридумывать разные варианты развития событий. Ну ЧТО с нами могли сделать в конце концов? Отправить обратно в Штаты не могли точно, уж туда нас не примут. Или оставалось жить на мосту между странами (как известный герой фильма \"Приключения итальянцев в России\") или... ну попасть в канадскую каталажку что-ли?.."
+            },
+            {
+              "photo": "atlantic-city/20170804_012207.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Название неизвестно. Интерьер 012207 не назначается гостинице по соседнему фасаду казино."
+        },
+        {
+          "label": "Trump Taj Mahal — фасад",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "atlantic-city/20170804_121417.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "atlantic-city--taj-mahal"
+          },
+          "reason": "Историческое имя с вывески на собственном фото августа 2017. Вход внутрь и проживание не утверждаются."
+        },
+        {
+          "label": "Caesars — фасад",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "atlantic-city/20170804_150054.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "atlantic-city--caesars"
+          },
+          "reason": "Читается CAESARS; не считается семейной гостиницей без основания."
+        },
+        {
+          "label": "Ripley’s Believe It or Not! — фасад",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "atlantic-city/20170804_144504.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "atlantic-city--ripleys"
+          },
+          "reason": "Музейный фасад виден с набережной; вход в музей не подтверждается."
+        },
+        {
+          "label": "Hard Rock Cafe — фасад",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "additional/atlantic-city/20170804_121059.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Вывеска на дополнительном 121059. Обед внутри не подтверждается, отдельная точка пока не добавлена."
+        },
+        {
+          "label": "Wild Wild West Casino — арка",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "additional/atlantic-city/20170804_150114.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "atlantic-city--wild-wild-west"
+          },
+          "reason": "Вывеска на дополнительном 150114; вход и игра не утверждаются."
+        },
+        {
+          "label": "Неустановленное казино — зал игровых автоматов",
+          "event": "visited_interior",
+          "evidence": [
+            {
+              "photo": "additional/atlantic-city/20170805_214437.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "214437 показывает людей внутри зала. Название комплекса не установлено; наличие кадра не доказывает игру семьи на деньги."
+        },
+        {
+          "label": "Мемориал Корейской войны в Нью-Джерси",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "atlantic-city/20170804_145207.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "145207 и 145308 показывают скульптурный мемориал на набережной; имя требует первичной сверки. Не смешивается с вашингтонским мемориалом."
+        },
+        {
+          "label": "Колесо обозрения",
+          "event": "viewed",
+          "evidence": [
+            {
+              "photo": "atlantic-city/20170804_215910.jpg"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "atlantic-city"
+          },
+          "reason": "Много раз видно на пирсе; посадка семьи на колесо не подтверждена."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/usa/atlantic-city-philadelphia-2017/philadelphia/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Художественный музей Филадельфии",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 189,
+              "quote": "А культурно - Филадельфия под боком! Около часа всего. Мы выбрались на один день, правда проспали и день получился коротким ;-) Провели в художественном музее только 4 часа - очень нам он понравился! (Коллекцию Barnes foundation мы смотрели в прошлый свой \"набег\" на Фили). Просто погуляли по городу. Признаюсь, в Штатах мне мало городов симпатичны. Последняя моя командировка в ЛА, где я жила в даунтауне меня просто подкосила... Но вот Филадельфия нам всем очень понравилась! Широкие проспекты, парки, домики старинные и современный центр. Куча музеев и истории. Мне кажется незаслужено мало изучена туристами, да уж больно соседи ее круты и интересны :-) А мне кажется Филадельфия заслуживает отдельной вдумчивой поездки."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "philadelphia--khudozhestvennyy-muzey-filadelfii"
+          },
+          "reason": "Четыре часа внутри, собственные музейные кадры."
+        },
+        {
+          "label": "Китайский зал, японский дом, скульптуры, картины и музейные комнаты",
+          "event": "seen_as_exhibits",
+          "evidence": [
+            {
+              "photo": "philadelphia/20170805_140332.jpg"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "philadelphia--khudozhestvennyy-muzey-filadelfii"
+          },
+          "reason": "Архитектурные ансамбли внутри музея: не посещения Японии, Китая или отдельных дворцов."
+        },
+        {
+          "label": "Картины Гольциуса, Миро, Кандинского, Таннинг и Кассат",
+          "event": "seen_as_exhibits",
+          "evidence": [
+            {
+              "photo": "additional/philadelphia/20170805_145848.jpg"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "philadelphia--khudozhestvennyy-muzey-filadelfii"
+          },
+          "reason": "Шесть собственных фотографий этикеток подтверждают музейные подписи. Картины не становятся самостоятельными точками на карте."
+        },
+        {
+          "label": "Музей Родена",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "philadelphia/20170805_155045.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "philadelphia--rodin-museum"
+          },
+          "reason": "В этой поездке в музей вошли: собственные фотографии интерьера 155045, 155615, входной указатель 154736 и сад. В 2008 был только внешний осмотр."
+        },
+        {
+          "label": "«Мыслитель», «Врата ада», «Поцелуй» и скульптуры музея Родена",
+          "event": "seen_as_exhibits",
+          "evidence": [
+            {
+              "photo": "philadelphia/20170805_154854.jpg"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "philadelphia--rodin-museum"
+          },
+          "reason": "Произведения внутри одного музея и сада; не отдельные городские посещения."
+        },
+        {
+          "label": "Коллекция Барнса",
+          "event": "previous_visit",
+          "evidence": [
+            {
+              "source_paragraph": 189,
+              "quote": "А культурно - Филадельфия под боком! Около часа всего. Мы выбрались на один день, правда проспали и день получился коротким ;-) Провели в художественном музее только 4 часа - очень нам он понравился! (Коллекцию Barnes foundation мы смотрели в прошлый свой \"набег\" на Фили). Просто погуляли по городу. Признаюсь, в Штатах мне мало городов симпатичны. Последняя моя командировка в ЛА, где я жила в даунтауне меня просто подкосила... Но вот Филадельфия нам всем очень понравилась! Широкие проспекты, парки, домики старинные и современный центр. Куча музеев и истории. Мне кажется незаслужено мало изучена туристами, да уж больно соседи ее круты и интересны :-) А мне кажется Филадельфия заслуживает отдельной вдумчивой поездки."
+            }
+          ],
+          "decision": "exclude",
+          "reason": "В тексте явно отнесена к прошлому визиту 2008; не добавляется к 2017."
+        },
+        {
+          "label": "Лос-Анджелес",
+          "event": "previous_business_trip",
+          "evidence": [
+            {
+              "source_paragraph": 189,
+              "quote": "А культурно - Филадельфия под боком! Около часа всего. Мы выбрались на один день, правда проспали и день получился коротким ;-) Провели в художественном музее только 4 часа - очень нам он понравился! (Коллекцию Barnes foundation мы смотрели в прошлый свой \"набег\" на Фили). Просто погуляли по городу. Признаюсь, в Штатах мне мало городов симпатичны. Последняя моя командировка в ЛА, где я жила в даунтауне меня просто подкосила... Но вот Филадельфия нам всем очень понравилась! Широкие проспекты, парки, домики старинные и современный центр. Куча музеев и истории. Мне кажется незаслужено мало изучена туристами, да уж больно соседи ее круты и интересны :-) А мне кажется Филадельфия заслуживает отдельной вдумчивой поездки."
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Описание прежней командировки, не остановка текущей поездки."
+        },
+        {
+          "label": "Роки — скульптура у музея",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "additional/philadelphia/20170805_153316.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Фигура боксёра с поднятыми руками на 153316; требуется первичная сверка имени."
+        },
+        {
+          "label": "Конный памятник у Художественного музея",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "philadelphia/20170805_153831.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "153831/153857/153901: самостоятельный фокусный монумент, имя не установлено."
+        },
+        {
+          "label": "Стоящий памятник возле Художественного музея",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "additional/philadelphia/20170805_131950.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "131950: отдельная фигура, не смешивается с конным монументом."
+        },
+        {
+          "label": "Фонтан возле Художественного музея",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "additional/philadelphia/20170805_153726.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "153726: самостоятельный фонтан с зелёным бассейном, название не установлено."
+        },
+        {
+          "label": "Историческое здание на углу",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "philadelphia/20170805_171504.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "171504: краснокирпичный фасад с тёмной отделкой, не названный в тексте."
+        },
+        {
+          "label": "Церковь с романским фасадом и памятник рядом",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "philadelphia/20170805_191109.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "191109 и 191025: церковь и отдельная фигура у ограды, без подтверждения входа. Названия не определены."
+        },
+        {
+          "label": "Канадская граница — возвращение",
+          "event": "transport",
+          "evidence": [
+            {
+              "source_paragraph": 192,
+              "quote": "Действительность превзошла наши ожидания :-) На границе у нас без проблем приняли в окошко машины водительские права, \"прокатили\" и только потом спросили есть ли у нас свидетельства о рождении (подтверждающие гражданство). Мы дружно покачали головой - нету. А откуда вы вообще едите - из Штатов, а как туда то попали - ну, были паспорта, но забыли в гостинице... Покачал парень головой, посочувствовал нам, идиотам, и пропустил :-О "
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "reason": "Рассказ о документах не создаёт туристическое посещение пограничного учреждения или вымышленной каталажки."
+        },
+        {
+          "label": "Досмотр в «домике»",
+          "event": "hypothetical_not_realized",
+          "evidence": [
+            {
+              "source_paragraph": 191,
+              "quote": "На самом деле мы надеялись что отправлят нас в \"домик\" на дополнительные заявления, объяснения и выяснения личности и... пропустят."
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Предположение о процедуре, а не состоявшийся визит."
+        },
+        {
+          "label": "Филадельфия — улицы и парки",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 189,
+              "quote": "А культурно - Филадельфия под боком! Около часа всего. Мы выбрались на один день, правда проспали и день получился коротким ;-) Провели в художественном музее только 4 часа - очень нам он понравился! (Коллекцию Barnes foundation мы смотрели в прошлый свой \"набег\" на Фили). Просто погуляли по городу. Признаюсь, в Штатах мне мало городов симпатичны. Последняя моя командировка в ЛА, где я жила в даунтауне меня просто подкосила... Но вот Филадельфия нам всем очень понравилась! Широкие проспекты, парки, домики старинные и современный центр. Куча музеев и истории. Мне кажется незаслужено мало изучена туристами, да уж больно соседи ее круты и интересны :-) А мне кажется Филадельфия заслуживает отдельной вдумчивой поездки."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "philadelphia"
+          },
+          "reason": "Городская прогулка подтверждена; пожелание вернуться не означает дополнительные посещения музеев."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_explicit_identification_questions",
+    "questions": [
+      {
+        "object": "Карусель на пирсе",
+        "question": "Катались Сергей и Наташа на собственном IMG 222836; имя карусели и площадки не установлены.",
+        "chapter": "content/americas/usa/atlantic-city-philadelphia-2017/atlantic-city/index.md"
+      },
+      {
+        "object": "Тир на пирсе",
+        "question": "Стреляла Наташа; участие Сергея/Лели не утверждается. Название тира отсутствует.",
+        "chapter": "content/americas/usa/atlantic-city-philadelphia-2017/atlantic-city/index.md"
+      },
+      {
+        "object": "Гостиница — вестибюль и номер с сейфом",
+        "question": "Название неизвестно. Интерьер 012207 не назначается гостинице по соседнему фасаду казино.",
+        "chapter": "content/americas/usa/atlantic-city-philadelphia-2017/atlantic-city/index.md"
+      },
+      {
+        "object": "Hard Rock Cafe — фасад",
+        "question": "Вывеска на дополнительном 121059. Обед внутри не подтверждается, отдельная точка пока не добавлена.",
+        "chapter": "content/americas/usa/atlantic-city-philadelphia-2017/atlantic-city/index.md"
+      },
+      {
+        "object": "Неустановленное казино — зал игровых автоматов",
+        "question": "214437 показывает людей внутри зала. Название комплекса не установлено; наличие кадра не доказывает игру семьи на деньги.",
+        "chapter": "content/americas/usa/atlantic-city-philadelphia-2017/atlantic-city/index.md"
+      },
+      {
+        "object": "Мемориал Корейской войны в Нью-Джерси",
+        "question": "145207 и 145308 показывают скульптурный мемориал на набережной; имя требует первичной сверки. Не смешивается с вашингтонским мемориалом.",
+        "chapter": "content/americas/usa/atlantic-city-philadelphia-2017/atlantic-city/index.md"
+      },
+      {
+        "object": "Роки — скульптура у музея",
+        "question": "Фигура боксёра с поднятыми руками на 153316; требуется первичная сверка имени.",
+        "chapter": "content/americas/usa/atlantic-city-philadelphia-2017/philadelphia/index.md"
+      },
+      {
+        "object": "Конный памятник у Художественного музея",
+        "question": "153831/153857/153901: самостоятельный фокусный монумент, имя не установлено.",
+        "chapter": "content/americas/usa/atlantic-city-philadelphia-2017/philadelphia/index.md"
+      },
+      {
+        "object": "Стоящий памятник возле Художественного музея",
+        "question": "131950: отдельная фигура, не смешивается с конным монументом.",
+        "chapter": "content/americas/usa/atlantic-city-philadelphia-2017/philadelphia/index.md"
+      },
+      {
+        "object": "Фонтан возле Художественного музея",
+        "question": "153726: самостоятельный фонтан с зелёным бассейном, название не установлено.",
+        "chapter": "content/americas/usa/atlantic-city-philadelphia-2017/philadelphia/index.md"
+      },
+      {
+        "object": "Историческое здание на углу",
+        "question": "171504: краснокирпичный фасад с тёмной отделкой, не названный в тексте.",
+        "chapter": "content/americas/usa/atlantic-city-philadelphia-2017/philadelphia/index.md"
+      },
+      {
+        "object": "Церковь с романским фасадом и памятник рядом",
+        "question": "191109 и 191025: церковь и отдельная фигура у ограды, без подтверждения входа. Названия не определены.",
+        "chapter": "content/americas/usa/atlantic-city-philadelphia-2017/philadelphia/index.md"
+      }
+    ],
+    "repeat_check": "Повторно сопоставлены рассказ, все фото обеих папок и данные. Отдельно добавлен реально посещённый музей Родена, отсутствующий в тексте и старых метках; общий художественный музей его не заменяет.",
+    "new_attractions": [
+      "atlantic-city--beach",
+      "atlantic-city--boardwalk",
+      "atlantic-city--taj-mahal",
+      "atlantic-city--caesars",
+      "atlantic-city--ripleys",
+      "atlantic-city--wild-wild-west"
+    ]
+  }
+}

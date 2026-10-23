@@ -12404,5 +12404,104 @@
       "Коллекция Барнса в Мерионе",
       "Мерион"
     ]
+  },
+  "atlantic-city--beach": {
+    "title": "Пляж Атлантик-Сити",
+    "parent": "atlantic-city",
+    "types": [
+      "beach"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach"
+    ]
+  },
+  "atlantic-city--boardwalk": {
+    "title": "Набережная Атлантик-Сити",
+    "parent": "atlantic-city",
+    "types": [
+      "walking_route"
+    ],
+    "aliases": [
+      "Atlantic City Boardwalk"
+    ],
+    "search_terms": [
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "Atlantic City Boardwalk"
+    ]
+  },
+  "atlantic-city--taj-mahal": {
+    "title": "Trump Taj Mahal — исторический комплекс",
+    "parent": "atlantic-city",
+    "types": [
+      "casino",
+      "hotel"
+    ],
+    "aliases": [
+      "Trump Taj Mahal"
+    ],
+    "search_terms": [
+      "казино",
+      "casino",
+      "отель",
+      "отели",
+      "гостиница",
+      "гостиницы",
+      "hotel",
+      "Trump Taj Mahal"
+    ]
+  },
+  "atlantic-city--caesars": {
+    "title": "Caesars Atlantic City",
+    "parent": "atlantic-city",
+    "types": [
+      "casino",
+      "hotel"
+    ],
+    "search_terms": [
+      "казино",
+      "casino",
+      "отель",
+      "отели",
+      "гостиница",
+      "гостиницы",
+      "hotel"
+    ]
+  },
+  "atlantic-city--ripleys": {
+    "title": "Ripley’s Believe It or Not! в Атлантик-Сити",
+    "parent": "atlantic-city",
+    "types": [
+      "museum"
+    ],
+    "aliases": [
+      "Ripley’s Believe It or Not!"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "Ripley’s Believe It or Not!"
+    ]
+  },
+  "atlantic-city--wild-wild-west": {
+    "title": "Wild Wild West Casino",
+    "parent": "atlantic-city",
+    "types": [
+      "casino"
+    ],
+    "search_terms": [
+      "казино",
+      "casino"
+    ]
   }
 }

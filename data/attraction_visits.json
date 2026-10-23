@@ -618,6 +618,115 @@
       "source_review": "read",
       "visits": []
     },
+    "content/americas/usa/atlantic-city-philadelphia-2017/atlantic-city/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "atlantic-city--beach",
+          "event": "swimming",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 185,
+              "quote": "В целом нам, для наших целей и взрослой компании - понравилось. Пляжи хорошие (правда вода прохладная была, но нас это не испугало), длиннющая деревянная набережная. Да, на ней полно вяких лавочек и едален, но с другой стороны создается ощущение курорта, праздника... отпуска :-) Мы много просто гуляли, один вечер покатались на карусели и постреляла Наташка в тире. Купались. Короче вполне."
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json",
+          "note": "Купались несмотря на прохладную воду; это состоявшееся занятие."
+        },
+        {
+          "id": "atlantic-city--boardwalk",
+          "event": "walked",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 185,
+              "quote": "В целом нам, для наших целей и взрослой компании - понравилось. Пляжи хорошие (правда вода прохладная была, но нас это не испугало), длиннющая деревянная набережная. Да, на ней полно вяких лавочек и едален, но с другой стороны создается ощущение курорта, праздника... отпуска :-) Мы много просто гуляли, один вечер покатались на карусели и постреляла Наташка в тире. Купались. Короче вполне."
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json",
+          "note": "Много гуляли днём и ночью."
+        },
+        {
+          "id": "atlantic-city--taj-mahal",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "atlantic-city/20170804_121417.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json",
+          "note": "Историческое имя с вывески на собственном фото августа 2017. Вход внутрь и проживание не утверждаются."
+        },
+        {
+          "id": "atlantic-city--caesars",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "atlantic-city/20170804_150054.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json",
+          "note": "Читается CAESARS; не считается семейной гостиницей без основания."
+        },
+        {
+          "id": "atlantic-city--ripleys",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "atlantic-city/20170804_144504.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json",
+          "note": "Музейный фасад виден с набережной; вход в музей не подтверждается."
+        },
+        {
+          "id": "atlantic-city--wild-wild-west",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "additional/atlantic-city/20170804_150114.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json",
+          "note": "Вывеска на дополнительном 150114; вход и игра не утверждаются."
+        }
+      ]
+    },
+    "content/americas/usa/atlantic-city-philadelphia-2017/philadelphia/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "philadelphia--khudozhestvennyy-muzey-filadelfii",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 189,
+              "quote": "А культурно - Филадельфия под боком! Около часа всего. Мы выбрались на один день, правда проспали и день получился коротким ;-) Провели в художественном музее только 4 часа - очень нам он понравился! (Коллекцию Barnes foundation мы смотрели в прошлый свой \"набег\" на Фили). Просто погуляли по городу. Признаюсь, в Штатах мне мало городов симпатичны. Последняя моя командировка в ЛА, где я жила в даунтауне меня просто подкосила... Но вот Филадельфия нам всем очень понравилась! Широкие проспекты, парки, домики старинные и современный центр. Куча музеев и истории. Мне кажется незаслужено мало изучена туристами, да уж больно соседи ее круты и интересны :-) А мне кажется Филадельфия заслуживает отдельной вдумчивой поездки."
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json",
+          "note": "Четыре часа внутри, собственные музейные кадры."
+        },
+        {
+          "id": "philadelphia--rodin-museum",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "philadelphia/20170805_155045.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json",
+          "note": "В этой поездке в музей вошли: собственные фотографии интерьера 155045, 155615, входной указатель 154736 и сад. В 2008 был только внешний осмотр."
+        }
+      ]
+    },
     "content/americas/canada/crawford-lake-2020/crawford-lake/index.md": {
       "source_review": "read",
       "visits": []

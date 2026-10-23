@@ -777,5 +777,12 @@
       "ski resort",
       "skiing"
     ]
+  },
+  "casino": {
+    "title": "Казино",
+    "search_terms": [
+      "казино",
+      "casino"
+    ]
   }
 }

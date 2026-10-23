@@ -1513,11 +1513,11 @@
       "trip_path": "content/americas/usa/atlantic-city-philadelphia-2017",
       "title": "\"Atlantic City\"",
       "draft": false,
-      "source_sha256_lf": "46697092186fb9157792f5c5b81f802c16703f4f543e961b7dca8ad952f36fca",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "7429978207ea6f9bc8e967b08e58ab0bb5759b6954271f7e4d42f6310cce6eda",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json"
     },
     {
       "file": "content/americas/usa/atlantic-city-philadelphia-2017/philadelphia/index.md",
@@ -1525,11 +1525,11 @@
       "trip_path": "content/americas/usa/atlantic-city-philadelphia-2017",
       "title": "\"Филадельфия\"",
       "draft": false,
-      "source_sha256_lf": "b160a05efd9dfede0939b549af29c8ef9da5809ad5efdd6b4b7c03015ae17237",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "40107f7c6846a461cc14bbaabd87ebd7adec3a5260294093743bd9a6d112d045",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json"
     },
     {
       "file": "content/americas/usa/chicago-2017/day-1/index.md",
