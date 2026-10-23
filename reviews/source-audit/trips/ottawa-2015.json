@@ -1,0 +1,346 @@
+{
+  "trip_path": "content/americas/canada/ottawa-2015",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Онтарио (разное).docx",
+    "sha256": "cc92b2bdd74ee5d22c1b6a5fda45bf431fe2f0ecee696134724a094fb779f8a7",
+    "read": "Полностью прочитаны три главы сайта и все 33 текстовых абзаца исходного раздела Оттава 9 мая 2015 - тюльпаны и не только, включая 20 подписей с годами 2009/2015 и финальную заметку. Музейный абзац 82 учтён по исходной последовательности. Все 200 уникальных текущих архивных путей из photos, museum_archive_inventory и owner_extra_archive_references проверены и просмотрены; туда входят исторические и невыбранные варианты музейных кадров."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 200,
+    "manifest": "media-manifests/ottawa-2015.json",
+    "method": "Все указанные полные архивные оригиналы сверены по SHA-256 и просмотрены на контактных листах. Снимки экспонатов внутри музея не становятся независимыми географическими посещениями."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/canada/ottawa-2015/tulips/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Оттава",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 38,
+              "quote": "ездили в нашу столицу – Оттаву"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "ottawa"
+          }
+        },
+        {
+          "label": "Канадский фестиваль тюльпанов",
+          "event": "attended",
+          "evidence": [
+            {
+              "source_paragraph": 38,
+              "quote": "весной там фестиваль тюльпанов"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "ottawa--canadian-tulip-festival"
+          },
+          "reason": "Состоявшееся посещение подтверждено всем рассказом и фото, а не одной общей фразой о ежегодном событии."
+        },
+        {
+          "label": "Комиссарский парк",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 46,
+              "quote": "вдоль озера, где мы и гуляли"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "ottawa--commissioners-park"
+          },
+          "reason": "Парк с тюльпанами у Dow’s Lake установлен по указателю IMG_5406.JPG, последовательности снимков и официальному описанию NCC."
+        },
+        {
+          "label": "Озеро Дау",
+          "event": "shore_walk",
+          "evidence": [
+            {
+              "source_paragraph": 46,
+              "quote": "вдоль озера"
+            },
+            {
+              "photo": "tulips/img_5406.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "ottawa--dows-lake"
+          },
+          "reason": "Указатель с названием Dows Lake читается на IMG_5406.JPG. Плавание и катание на лодке не описаны."
+        },
+        {
+          "label": "Показ военной техники в парке",
+          "event": "attended",
+          "evidence": [
+            {
+              "source_paragraph": 68,
+              "quote": "показ военной техники"
+            }
+          ],
+          "decision": "pending_site_identification",
+          "reason": "Мероприятие реально посетили, но точное название площадки в тексте отсутствует. Указатель к HMCS Carleton рядом не доказывает посещение военной базы."
+        },
+        {
+          "label": "Зимний фестиваль ледовых скульптур и каток на канале",
+          "event": "future_plan",
+          "evidence": [
+            {
+              "source_paragraph": 38,
+              "quote": "это мероприятие у нас еще в планах"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Общее описание зимней Оттавы, не майское посещение."
+        },
+        {
+          "label": "Больница рождения принцессы и Нидерланды",
+          "event": "historical_context",
+          "evidence": [
+            {
+              "source_paragraph": 38,
+              "quote": "канадские власти на время"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "История фестиваля; посещения больницы или Нидерландов в этой поездке не утверждаются."
+        },
+        {
+          "label": "Монреаль и Торонто",
+          "event": "companions_origin",
+          "evidence": [
+            {
+              "source_paragraph": 43,
+              "quote": "Наташа приехала к нам из Монреаля"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Маршруты приезда участников, не осмотр обоих городов в рамках поездки в Оттаву."
+        },
+        {
+          "label": "Парламентский холм",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "tulips/img_5581.jpg"
+            }
+          ],
+          "decision": "covered_in_other_chapter",
+          "target": {
+            "attraction": "ottawa--parliament-hill"
+          },
+          "reason": "Общий семейный кадр IMG_5581.JPG в этой главе иллюстрирует состав участников; посещение подробно учтено во второй главе."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/ottawa-2015/ottawa/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Оттава",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 88,
+              "quote": "нашего мини-путешествия"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "ottawa"
+          }
+        },
+        {
+          "label": "Парламентский холм и здания Парламента",
+          "event": "exterior_and_grounds",
+          "evidence": [
+            {
+              "source_paragraph": 88,
+              "quote": "билеты на весь день на бесплатное посещение Парламента уже закончились"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "ottawa--parliament-hill"
+          },
+          "reason": "Прогулка снаружи и по территории состоялась; экскурсии внутрь и подъёма на Башню мира не было."
+        },
+        {
+          "label": "Памятник «Женщины — личности!»",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "ottawa/img_5601-lelkapc.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "ottawa--women-are-persons"
+          },
+          "reason": "Семейные снимки у скульптурной группы на Парламентском холме. Современное перемещение памятника не переносится на маршрут 2015 года."
+        },
+        {
+          "label": "Памятник Джорджу Брауну",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "ottawa/img_5606.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "ottawa--george-brown-monument"
+          },
+          "reason": "На собственном снимке читается BROWN; сопоставлено с официальным перечнем памятников холма."
+        },
+        {
+          "label": "Памятник Роберту Бордену",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "ottawa/img_5627.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "ottawa--robert-borden-monument"
+          },
+          "reason": "На собственном семейном снимке читается BORDEN; это не могила или музей Бордена."
+        },
+        {
+          "label": "Река Оттава и дальний берег",
+          "event": "viewed",
+          "evidence": [
+            {
+              "photo": "ottawa/img_5613.jpg"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "ottawa"
+          },
+          "reason": "Панорамы со смотровой площадки; мост, дальние здания и берега не объявляются посещёнными из-за их присутствия на заднем плане."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/ottawa-2015/museum/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Канадский военный музей",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 82,
+              "quote": "мы отправились в музей военной истории"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "ottawa--kanadskiy-voennyy-muzey"
+          },
+          "reason": "9 мая 2015. Автор смотрела прежде всего раздел Второй мировой войны, остальные прошли все экспозиции. Танк Т-34 и встреча возле него — часть этого посещения."
+        },
+        {
+          "label": "Канадский музей истории",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 112,
+              "quote": "отправились в музей канадской истории"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "ottawa--kanadskiy-muzey-istorii"
+          },
+          "reason": "10 мая 2015. Закрытый на реконструкцию исторический этаж не означает, что не вошли в открытые части музея."
+        },
+        {
+          "label": "Канадский детский музей",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 114,
+              "quote": "мы отправились в «детский музей»"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "ottawa--kanadskiy-detskiy-muzey"
+          },
+          "reason": "Реальное посещение в составе Канадского музея истории. На фото костюмы, сцены, кухня, лодка и транспорт — музейные экспонаты, не новые страны и учреждения."
+        },
+        {
+          "label": "Прежнее посещение детского музея в 2009",
+          "event": "previous_visit_2009",
+          "evidence": [
+            {
+              "source_paragraph": 114,
+              "quote": "где 6 лет назад"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "ottawa--kanadskiy-detskiy-muzey"
+          },
+          "reason": "Подтверждено старыми фото в сравнении «до/после». Не смешивается с датой 2015. Сведения необходимо учесть при последующей проверке исходника поездки Жени с семьёй 2009."
+        },
+        {
+          "label": "Будущая фотосессия через пять лет",
+          "event": "future_plan",
+          "evidence": [
+            {
+              "source_paragraph": 230,
+              "quote": "Следующая фотосессия через 5 лет"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Шутливое намерение, не доказательство состоявшейся поездки в 2020."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_explicit_identification_questions",
+    "questions": [
+      "Точная площадка показа военной техники не названа. Не приписывается вход в HMCS Carleton."
+    ],
+    "repeat_check": "Полный текст раздела DOCX, все главы сайта и фотографии повторно сопоставлены с объектами и их данными. Авторский текст не изменялся.",
+    "external_sources": [
+      {
+        "url": "https://ncc-ccn.gc.ca/places/commissioners-park-and-dows-lake",
+        "purpose": "Идентификация парка и озера у тюльпанов."
+      },
+      {
+        "url": "https://www.canada.ca/en/canadian-heritage/services/art-monuments/monuments/women-are-persons.html",
+        "purpose": "Название скульптурной группы; текущая локация не используется для исторического маршрута 2015."
+      },
+      {
+        "url": "https://www.canada.ca/en/public-services-procurement/services/infrastructure-buildings/parliamentary-precinct/discover/statues.html?wbdisable=true",
+        "purpose": "Идентификация Брауна и Бордена на семейных снимках."
+      }
+    ],
+    "new_attractions": [
+      "ottawa--canadian-tulip-festival",
+      "ottawa--commissioners-park",
+      "ottawa--dows-lake",
+      "ottawa--parliament-hill",
+      "ottawa--women-are-persons",
+      "ottawa--george-brown-monument",
+      "ottawa--robert-borden-monument"
+    ]
+  }
+}

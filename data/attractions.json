@@ -3261,15 +3261,22 @@
       "музея",
       "музеев",
       "museum",
-      "museums"
+      "museums",
+      "Canadian Warplane Heritage Museum",
+      "Авиационный музей Гамильтона"
+    ],
+    "aliases": [
+      "Canadian Warplane Heritage Museum",
+      "Авиационный музей Гамильтона"
     ]
   },
   "hamilton--spencer-gorge-i-vodopady": {
-    "title": "Spencer Gorge и водопады",
+    "title": "Spencer Gorge, водопады Тью и Уэбстера",
     "parent": "hamilton",
     "types": [
       "canyon",
-      "waterfall"
+      "waterfall",
+      "park"
     ],
     "search_terms": [
       "каньон",
@@ -3281,7 +3288,37 @@
       "водопад",
       "водопады",
       "водопада",
-      "waterfall"
+      "waterfall",
+      "Spencer Gorge",
+      "Tew Falls",
+      "Tew’s Falls",
+      "Webster Falls",
+      "Webster’s Falls",
+      "Тью",
+      "Тью-Фолс",
+      "водопад Тью",
+      "водопад Уэбстера",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "aliases": [
+      "Spencer Gorge",
+      "Tew Falls",
+      "Tew’s Falls",
+      "Webster Falls",
+      "Webster’s Falls",
+      "Тью",
+      "Тью-Фолс",
+      "водопад Тью",
+      "водопад Уэбстера"
     ]
   },
   "hangzhou--khram-lininsy": {
@@ -6155,7 +6192,13 @@
       "музея",
       "музеев",
       "museum",
-      "museums"
+      "museums",
+      "Canadian Children’s Museum",
+      "Musée canadien des enfants"
+    ],
+    "aliases": [
+      "Canadian Children’s Museum",
+      "Musée canadien des enfants"
     ]
   },
   "ottawa--kanadskiy-muzey-istorii": {
@@ -6170,7 +6213,17 @@
       "музея",
       "музеев",
       "museum",
-      "museums"
+      "museums",
+      "Canadian Museum of History",
+      "Canadian Museum of Civilization",
+      "Канадский музей цивилизации",
+      "Musée canadien de l’histoire"
+    ],
+    "aliases": [
+      "Canadian Museum of History",
+      "Canadian Museum of Civilization",
+      "Канадский музей цивилизации",
+      "Musée canadien de l’histoire"
     ]
   },
   "ottawa--kanadskiy-voennyy-muzey": {
@@ -6185,7 +6238,13 @@
       "музея",
       "музеев",
       "museum",
-      "museums"
+      "museums",
+      "Canadian War Museum",
+      "Musée canadien de la guerre"
+    ],
+    "aliases": [
+      "Canadian War Museum",
+      "Musée canadien de la guerre"
     ]
   },
   "oviedo--bazilika-san-khuan-el-real": {
@@ -10979,6 +11038,170 @@
       "museum",
       "museums",
       "Château de Fontainebleau"
+    ]
+  },
+  "ottawa--canadian-tulip-festival": {
+    "title": "Канадский фестиваль тюльпанов",
+    "parent": "ottawa",
+    "types": [
+      "festival"
+    ],
+    "aliases": [
+      "Canadian Tulip Festival",
+      "Festival canadien des tulipes"
+    ],
+    "search_terms": [
+      "фестиваль",
+      "фестивали",
+      "праздник",
+      "festival",
+      "Canadian Tulip Festival",
+      "Festival canadien des tulipes"
+    ]
+  },
+  "ottawa--commissioners-park": {
+    "title": "Комиссарский парк",
+    "parent": "ottawa",
+    "types": [
+      "park"
+    ],
+    "aliases": [
+      "Commissioners Park",
+      "Parc des Commissaires"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "Commissioners Park",
+      "Parc des Commissaires"
+    ]
+  },
+  "ottawa--dows-lake": {
+    "title": "Озеро Дау",
+    "parent": "ottawa",
+    "types": [
+      "lake"
+    ],
+    "aliases": [
+      "Dow’s Lake",
+      "Dows Lake",
+      "Lac Dow"
+    ],
+    "search_terms": [
+      "озеро",
+      "озёра",
+      "озера",
+      "озёр",
+      "lake",
+      "Dow’s Lake",
+      "Dows Lake",
+      "Lac Dow"
+    ]
+  },
+  "ottawa--parliament-hill": {
+    "title": "Парламентский холм и Парламент Канады",
+    "parent": "ottawa",
+    "types": [
+      "civic_building",
+      "historic_building",
+      "park"
+    ],
+    "aliases": [
+      "Parliament Hill",
+      "Colline du Parlement",
+      "Башня мира",
+      "Peace Tower"
+    ],
+    "search_terms": [
+      "общественное здание",
+      "административное здание",
+      "civic building",
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "Parliament Hill",
+      "Colline du Parlement",
+      "Башня мира",
+      "Peace Tower"
+    ]
+  },
+  "ottawa--women-are-persons": {
+    "title": "Памятник «Женщины — личности!»",
+    "parent": "ottawa",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Women Are Persons!",
+      "Famous Five",
+      "Знаменитая пятёрка"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Women Are Persons!",
+      "Famous Five",
+      "Знаменитая пятёрка"
+    ]
+  },
+  "ottawa--george-brown-monument": {
+    "title": "Памятник Джорджу Брауну",
+    "parent": "ottawa",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "George Brown Monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "George Brown Monument"
+    ]
+  },
+  "ottawa--robert-borden-monument": {
+    "title": "Памятник Роберту Бордену",
+    "parent": "ottawa",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Sir Robert Borden Monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Sir Robert Borden Monument"
     ]
   }
 }

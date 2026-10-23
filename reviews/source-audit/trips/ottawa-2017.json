@@ -1,0 +1,131 @@
+{
+  "trip_path": "content/americas/canada/ottawa",
+  "status": "complete",
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Онтарио (разное).docx",
+    "sha256": "cc92b2bdd74ee5d22c1b6a5fda45bf431fe2f0ecee696134724a094fb779f8a7",
+    "read": "Полностью прочитаны глава сайта и все шесть текстовых абзацев раздела Оттава - исторический музей - июль 2017, включая исходный заголовок и заключительную оценку. Изображения: два исторических семейных кадра 2009 года и два снимка 2017 года."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 4,
+    "manifest": "media-manifests/ottawa-2017.json",
+    "method": "Все указанные полные архивные оригиналы сверены по SHA-256 и просмотрены на контактных листах. Снимки экспонатов внутри музея не становятся независимыми географическими посещениями."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/canada/ottawa/museum-2017/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Оттава",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 233,
+              "quote": "попали в Оттаву"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "ottawa"
+          },
+          "reason": "Текущий раздел относится к столичному маршруту; музей истории физически находится в Гатино, существующая региональная привязка к Оттаве сохранена."
+        },
+        {
+          "label": "Канадский музей истории",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 237,
+              "quote": "попали во вновь открытый этаж"
+            }
+          ],
+          "decision": "revise_existing_definition",
+          "target": {
+            "attraction": "ottawa--kanadskiy-muzey-istorii"
+          },
+          "reason": "Прежнее название «Канадской Цивилизации» в абзаце 233 — тот же музей, а не второе учреждение. Снимки 2009 года явно отделены от 2017."
+        },
+        {
+          "label": "Прежний Canada Hall",
+          "event": "previous_visit",
+          "evidence": [
+            {
+              "source_paragraph": 233,
+              "quote": "Вот, нашла в архивах несколько фото"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "ottawa--kanadskiy-muzey-istorii"
+          },
+          "reason": "Два архивных снимка иллюстрируют прежнюю экспозицию; не утверждают её сохранность в 2017."
+        },
+        {
+          "label": "Церковь Святого Онуфрия внутри музея",
+          "event": "seen_as_museum_exhibit",
+          "evidence": [
+            {
+              "source_paragraph": 238,
+              "quote": "украинская церковь осталась"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "ottawa--kanadskiy-muzey-istorii"
+          },
+          "reason": "Перевезённый из Альберты музейный объект. Не создаётся посещение церкви в Альберте; название установлено по собственному описанию музея."
+        },
+        {
+          "label": "Альберта",
+          "event": "exhibit_origin",
+          "evidence": [
+            {
+              "source_paragraph": 238,
+              "quote": "привезли из Альберты"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Происхождение музейного объекта, не поездка в провинцию в июле 2017."
+        },
+        {
+          "label": "Москва",
+          "event": "companions_origin",
+          "evidence": [
+            {
+              "source_paragraph": 237,
+              "quote": "с знакомыми из Москвы"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Место происхождения спутников, не остановка маршрута."
+        },
+        {
+          "label": "Викинги, Атлантика, американские конфликты",
+          "event": "exhibition_context",
+          "evidence": [
+            {
+              "source_paragraph": 239,
+              "quote": "первых вояжей викингов"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Обсуждение содержания экспозиции, а не географические посещения."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "complete",
+    "questions": [],
+    "repeat_check": "Полный текст раздела DOCX, все главы сайта и фотографии повторно сопоставлены с объектами и их данными. Авторский текст не изменялся.",
+    "external_sources": [
+      {
+        "url": "https://www.historymuseum.ca/teachers-zone/think-like-a-historian-working-with-primary-source-evidence/artifacts/st-onuphrius-ukrainian-catholic-church/",
+        "purpose": "Идентификация музейной церкви, перемещённой из Альберты."
+      }
+    ],
+    "new_attractions": []
+  }
+}

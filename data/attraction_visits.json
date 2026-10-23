@@ -954,6 +954,43 @@
         }
       ]
     },
+    "content/americas/canada/hamilton-2014/story/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "hamilton--spencer-gorge-i-vodopady",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 8,
+              "quote": "парк Spencer Gorge/Webster's Falls"
+            },
+            {
+              "photo": "story/20140421_111715.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/hamilton-2014.json",
+          "note": "Высокий узкий водопад на 20140421_111715.jpg — Тью, широкий второй на 20140421_114926.jpg — Уэбстера. Оба названия добавлены к существующему парковому комплексу, без повторных точек."
+        },
+        {
+          "id": "hamilton--kanadskiy-muzey-voennoy-aviatsii",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 30,
+              "quote": "http://www.warplane.com/"
+            },
+            {
+              "photo": "story/20140421_124446.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/hamilton-2014.json",
+          "note": "Текст, входная вывеска и семейные фотографии подтверждают вход; добавлено официальное имя Canadian Warplane Heritage Museum. Самолёты и тренажёры покрыты музеем."
+        }
+      ]
+    },
     "content/americas/canada/mcmichael-2023/mcmichael/index.md": {
       "source_review": "read",
       "visits": [
@@ -1307,6 +1344,169 @@
           ],
           "report": "reviews/source-audit/trips/new-england-2015.json",
           "note": "Выставка и коллекции составляют посещение одного музея."
+        }
+      ]
+    },
+    "content/americas/canada/ottawa-2015/tulips/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "ottawa--canadian-tulip-festival",
+          "event": "attended",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 38,
+              "quote": "весной там фестиваль тюльпанов"
+            }
+          ],
+          "report": "reviews/source-audit/trips/ottawa-2015.json",
+          "note": "Состоявшееся посещение подтверждено всем рассказом и фото, а не одной общей фразой о ежегодном событии."
+        },
+        {
+          "id": "ottawa--commissioners-park",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 46,
+              "quote": "вдоль озера, где мы и гуляли"
+            }
+          ],
+          "report": "reviews/source-audit/trips/ottawa-2015.json",
+          "note": "Парк с тюльпанами у Dow’s Lake установлен по указателю IMG_5406.JPG, последовательности снимков и официальному описанию NCC."
+        },
+        {
+          "id": "ottawa--dows-lake",
+          "event": "shore_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 46,
+              "quote": "вдоль озера"
+            },
+            {
+              "photo": "tulips/img_5406.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/ottawa-2015.json",
+          "note": "Указатель с названием Dows Lake читается на IMG_5406.JPG. Плавание и катание на лодке не описаны."
+        }
+      ]
+    },
+    "content/americas/canada/ottawa-2015/ottawa/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "ottawa--parliament-hill",
+          "event": "exterior_and_grounds",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 88,
+              "quote": "билеты на весь день на бесплатное посещение Парламента уже закончились"
+            }
+          ],
+          "report": "reviews/source-audit/trips/ottawa-2015.json",
+          "note": "Прогулка снаружи и по территории состоялась; экскурсии внутрь и подъёма на Башню мира не было."
+        },
+        {
+          "id": "ottawa--women-are-persons",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "ottawa/img_5601-lelkapc.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/ottawa-2015.json",
+          "note": "Семейные снимки у скульптурной группы на Парламентском холме. Современное перемещение памятника не переносится на маршрут 2015 года."
+        },
+        {
+          "id": "ottawa--george-brown-monument",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "ottawa/img_5606.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/ottawa-2015.json",
+          "note": "На собственном снимке читается BROWN; сопоставлено с официальным перечнем памятников холма."
+        },
+        {
+          "id": "ottawa--robert-borden-monument",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "ottawa/img_5627.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/ottawa-2015.json",
+          "note": "На собственном семейном снимке читается BORDEN; это не могила или музей Бордена."
+        }
+      ]
+    },
+    "content/americas/canada/ottawa-2015/museum/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "ottawa--kanadskiy-voennyy-muzey",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 82,
+              "quote": "мы отправились в музей военной истории"
+            }
+          ],
+          "report": "reviews/source-audit/trips/ottawa-2015.json",
+          "note": "9 мая 2015. Автор смотрела прежде всего раздел Второй мировой войны, остальные прошли все экспозиции. Танк Т-34 и встреча возле него — часть этого посещения."
+        },
+        {
+          "id": "ottawa--kanadskiy-muzey-istorii",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 112,
+              "quote": "отправились в музей канадской истории"
+            }
+          ],
+          "report": "reviews/source-audit/trips/ottawa-2015.json",
+          "note": "10 мая 2015. Закрытый на реконструкцию исторический этаж не означает, что не вошли в открытые части музея."
+        },
+        {
+          "id": "ottawa--kanadskiy-detskiy-muzey",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 114,
+              "quote": "мы отправились в «детский музей»"
+            }
+          ],
+          "report": "reviews/source-audit/trips/ottawa-2015.json",
+          "note": "Реальное посещение в составе Канадского музея истории. На фото костюмы, сцены, кухня, лодка и транспорт — музейные экспонаты, не новые страны и учреждения."
+        }
+      ]
+    },
+    "content/americas/canada/ottawa/museum-2017/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "ottawa--kanadskiy-muzey-istorii",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 237,
+              "quote": "попали во вновь открытый этаж"
+            }
+          ],
+          "report": "reviews/source-audit/trips/ottawa-2017.json",
+          "note": "Прежнее название «Канадской Цивилизации» в абзаце 233 — тот же музей, а не второе учреждение. Снимки 2009 года явно отделены от 2017."
         }
       ]
     },

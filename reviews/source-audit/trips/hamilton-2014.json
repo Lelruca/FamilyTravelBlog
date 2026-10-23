@@ -1,0 +1,159 @@
+{
+  "trip_path": "content/americas/canada/hamilton-2014",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Онтарио (разное).docx",
+    "sha256": "cc92b2bdd74ee5d22c1b6a5fda45bf431fe2f0ecee696134724a094fb779f8a7",
+    "read": "Полностью прочитаны глава сайта и все 16 текстовых абзацев исходного раздела Hamilton, Ontario - Apr 2014, включая заголовок и финальные рекомендации. Остальные разделы общего DOCX прочитаны отдельно для Оттавы 2015 и 2017."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 20,
+    "manifest": "media-manifests/hamilton-2014.json",
+    "method": "Все указанные полные архивные оригиналы сверены по SHA-256 и просмотрены на контактных листах. Снимки экспонатов внутри музея не становятся независимыми географическими посещениями."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/canada/hamilton-2014/story/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Гамильтон",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 3,
+              "quote": "город Гамильтон"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "hamilton"
+          }
+        },
+        {
+          "label": "Торонто, Москва и МКАД",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 1,
+              "quote": "за МКАД-ом жизни нет"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Сравнение с жизнью и привычками семьи."
+        },
+        {
+          "label": "Ниагарский водопад",
+          "event": "previous_route_comparison",
+          "evidence": [
+            {
+              "source_paragraph": 3,
+              "quote": "Мы его всегда проезжаем"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Описание привычного пути, не посещение Ниагары в этот день."
+        },
+        {
+          "label": "Университет Гамильтона",
+          "event": "mentioned",
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "Университет в нем хороший"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Имя не указано; посещение университета не утверждается. Место встречи Наташи в абзаце 5 также не названо."
+        },
+        {
+          "label": "Spencer Gorge, водопады Тью и Уэбстера",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 8,
+              "quote": "парк Spencer Gorge/Webster's Falls"
+            },
+            {
+              "photo": "story/20140421_111715.jpg"
+            }
+          ],
+          "decision": "revise_existing_definition",
+          "target": {
+            "attraction": "hamilton--spencer-gorge-i-vodopady"
+          },
+          "reason": "Высокий узкий водопад на 20140421_111715.jpg — Тью, широкий второй на 20140421_114926.jpg — Уэбстера. Оба названия добавлены к существующему парковому комплексу, без повторных точек."
+        },
+        {
+          "label": "Канадский музей военной авиации",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 30,
+              "quote": "http://www.warplane.com/"
+            },
+            {
+              "photo": "story/20140421_124446.jpg"
+            }
+          ],
+          "decision": "revise_existing_definition",
+          "target": {
+            "attraction": "hamilton--kanadskiy-muzey-voennoy-aviatsii"
+          },
+          "reason": "Текст, входная вывеска и семейные фотографии подтверждают вход; добавлено официальное имя Canadian Warplane Heritage Museum. Самолёты и тренажёры покрыты музеем."
+        },
+        {
+          "label": "Авиационный музей в Вирджинии",
+          "event": "previous_visit",
+          "evidence": [
+            {
+              "source_paragraph": 17,
+              "quote": "в котором мы были в Вирджинии"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Сравнение с предыдущей поездкой 2013 года, которая проверена отдельно."
+        },
+        {
+          "label": "Downsview",
+          "event": "historical_context",
+          "evidence": [
+            {
+              "source_paragraph": 17,
+              "quote": "самолеты собирали на  Downsview"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Место производства самолётов и жительства друзей, не остановка маршрута."
+        },
+        {
+          "label": "Полёты на музейных самолётах",
+          "event": "mentioned_offer",
+          "evidence": [
+            {
+              "source_paragraph": 31,
+              "quote": "Там еще можно"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Предложение музея; семья не утверждает, что летала."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_explicit_identification_questions",
+    "questions": [
+      "Название университета и место встречи Наташи не установлены; факт экскурсии в университет не выводится из упоминания."
+    ],
+    "repeat_check": "Полный текст раздела DOCX, все главы сайта и фотографии повторно сопоставлены с объектами и их данными. Авторский текст не изменялся.",
+    "external_sources": [
+      {
+        "url": "https://conservationhamilton.ca/conservation-areas/spencer-gorge/",
+        "purpose": "Названия обоих водопадов в природоохранной зоне."
+      }
+    ],
+    "new_attractions": []
+  }
+}

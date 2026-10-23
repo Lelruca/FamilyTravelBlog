@@ -578,10 +578,10 @@
       "title": "\"Hamilton: водопады и авиационный музей\"",
       "draft": false,
       "source_sha256_lf": "65886dd47a66e791ad7f3a99b01edbb4fc87ba9e7fea2616ca106303ee1012c5",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/hamilton-2014.json"
     },
     {
       "file": "content/americas/canada/mcmichael-2023/mcmichael/index.md",
@@ -722,10 +722,10 @@
       "title": "\"Музеи\"",
       "draft": false,
       "source_sha256_lf": "305d1dc77b6a69a137d6df9bf8241b97af5933250d161f93f93903d0c30109bc",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/ottawa-2015.json"
     },
     {
       "file": "content/americas/canada/ottawa-2015/ottawa/index.md",
@@ -733,11 +733,11 @@
       "trip_path": "content/americas/canada/ottawa-2015",
       "title": "\"Оттава\"",
       "draft": false,
-      "source_sha256_lf": "b3ee45c7a84fef68e0861b958b7252d47693579b2ef8ec398e7b447926723c1d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "e200aec72db8b4d7b582f7484337c8a874ce62def02f5dc0e2bdd58a31eff26d",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/ottawa-2015.json"
     },
     {
       "file": "content/americas/canada/ottawa-2015/tulips/index.md",
@@ -745,11 +745,11 @@
       "trip_path": "content/americas/canada/ottawa-2015",
       "title": "\"Тюльпаны\"",
       "draft": false,
-      "source_sha256_lf": "bbfb8fc4c40915806eebc83e0e0dbee54f9bce3f4b5ccc74078b9246c9fe8104",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "8ecddb5b66aceefc0b7bd9a229b6be776a9663adc35bf60acc283e3a4560297c",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/ottawa-2015.json"
     },
     {
       "file": "content/americas/canada/ottawa/museum-2017/index.md",
@@ -758,10 +758,10 @@
       "title": "\"Исторический музей — июль 2017\"",
       "draft": false,
       "source_sha256_lf": "860dbdd336170f3b54f38e73599de5b7827ec7c2230739c8f0bcbbce6d8df9fd",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "complete",
+      "report": "reviews/source-audit/trips/ottawa-2017.json"
     },
     {
       "file": "content/americas/canada/port-elgin-2021/port-elgin/index.md",
