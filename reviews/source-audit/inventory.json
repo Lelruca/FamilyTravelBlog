@@ -1597,11 +1597,11 @@
       "trip_path": "content/americas/usa/los-angeles-disneyland-2007",
       "title": "\"Диснейленд\"",
       "draft": false,
-      "source_sha256_lf": "40a2a4021d252f13a89015d33213725bc934bafefad31ed6879607a5ce936635",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "6e3fada6329127a58b2d0e610ec0914fd17a2cb15ad796c1faab4a2194b610e6",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/los-angeles-disneyland-2007.json"
     },
     {
       "file": "content/americas/usa/los-angeles-disneyland-2007/los-angeles/index.md",
@@ -1609,11 +1609,11 @@
       "trip_path": "content/americas/usa/los-angeles-disneyland-2007",
       "title": "\"Лос-Анджелес\"",
       "draft": false,
-      "source_sha256_lf": "3304f42f2dd504d04337c3ca7c88a03921c951bd3578b44427594dd84151efbf",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "2c0311ae7bc59071531beaa5c0408f8cbfb85d5b6092597154f8f91c0aab58ad",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/los-angeles-disneyland-2007.json"
     },
     {
       "file": "content/americas/usa/minneapolis-2022/minneapolis/index.md",

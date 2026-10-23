@@ -12592,5 +12592,134 @@
       "Ocean City Beach",
       "Ocean City Maryland"
     ]
+  },
+  "long-beach--aquarium-of-the-pacific": {
+    "title": "Океанариум Aquarium of the Pacific",
+    "parent": "long-beach",
+    "types": [
+      "aquarium"
+    ],
+    "aliases": [
+      "Aquarium of the Pacific",
+      "Тихоокеанский океанариум"
+    ],
+    "search_terms": [
+      "аквариум",
+      "аквариумы",
+      "аквариума",
+      "океанариум",
+      "aquarium",
+      "Aquarium of the Pacific",
+      "Тихоокеанский океанариум"
+    ]
+  },
+  "long-beach--queen-mary": {
+    "title": "Корабль-музей Queen Mary",
+    "parent": "long-beach",
+    "types": [
+      "museum",
+      "ship"
+    ],
+    "aliases": [
+      "RMS Queen Mary",
+      "Куин Мэри"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "судно",
+      "корабль",
+      "корабли",
+      "яхта",
+      "шхуна",
+      "ship",
+      "schooner",
+      "RMS Queen Mary",
+      "Куин Мэри"
+    ]
+  },
+  "long-beach--scorpion-submarine": {
+    "title": "Музейная подводная лодка Scorpion",
+    "parent": "long-beach",
+    "types": [
+      "museum",
+      "ship"
+    ],
+    "aliases": [
+      "Scorpion Submarine",
+      "советская подводная лодка"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "судно",
+      "корабль",
+      "корабли",
+      "яхта",
+      "шхуна",
+      "ship",
+      "schooner",
+      "Scorpion Submarine",
+      "советская подводная лодка"
+    ]
+  },
+  "los-angeles--hollywood-walk-of-fame": {
+    "title": "Голливудская Аллея славы",
+    "parent": "los-angeles",
+    "types": [
+      "street",
+      "monument"
+    ],
+    "aliases": [
+      "Hollywood Walk of Fame",
+      "Голливуд"
+    ],
+    "search_terms": [
+      "улица",
+      "улицы",
+      "улиц",
+      "проспект",
+      "бульвар",
+      "набережная",
+      "набережные",
+      "street",
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Hollywood Walk of Fame",
+      "Голливуд"
+    ]
+  },
+  "disneyland-anaheim": {
+    "title": "Диснейленд в Анахайме",
+    "parent": "disneyland-anaheim",
+    "place": "disneyland-anaheim",
+    "types": [
+      "amusement_park"
+    ],
+    "aliases": [
+      "Disneyland Park",
+      "Диснейленд Калифорния"
+    ],
+    "search_terms": [
+      "парк развлечений",
+      "парки развлечений",
+      "аттракционы",
+      "amusement park",
+      "theme park",
+      "Disneyland Park",
+      "Диснейленд Калифорния"
+    ]
   }
 }

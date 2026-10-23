@@ -4290,5 +4290,21 @@
     "country_code": "US",
     "source": "https://www.openstreetmap.org/relation/13299347",
     "query": "Оушен-Сити, Мэриленд; city, not a precise position of a swimmer on the beach"
+  },
+  "long-beach": {
+    "lat": 33.7690164,
+    "lon": -118.191604,
+    "name": "Лонг-Бич",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/112100",
+    "query": "Лонг-Бич, California, USA; municipal geographic term"
+  },
+  "beverly-hills": {
+    "lat": 34.0696501,
+    "lon": -118.3963062,
+    "name": "Беверли-Хиллз",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/3503615",
+    "query": "Беверли-Хиллз, California, USA; municipal geographic term"
   }
 }

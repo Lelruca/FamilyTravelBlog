@@ -32,6 +32,8 @@ for report_file in reports:
         assert hashlib.sha256(Path(original['source']).read_bytes()).hexdigest()==original['sha256'],f"Additional original changed: {original['source']}"
     source=Path(r['source']['path'])
     assert hashlib.sha256(source.read_bytes()).hexdigest()==r['source']['sha256'],f'{report_file}: source changed'
+    for extra in r['source'].get('additional_files',[]):
+        assert hashlib.sha256(Path(extra['path']).read_bytes()).hexdigest()==extra['sha256'],f"Additional author source changed: {extra['path']}"
     if r['source'].get('kind')=='photograph_manifest':
         manifest=load(source)
         photo_data=load(f"data/photos/{manifest['trip']}.json")
@@ -63,6 +65,10 @@ for report_file in reports:
             objects+=1
             assert o.get('decision') and o.get('event') and o.get('evidence'),f'{report_file}: unexplained object'
             for e in o['evidence']:
+                if 'source_file' in e:
+                    extra_path=Path(e['source_file'])
+                    assert hashlib.sha256(extra_path.read_bytes()).hexdigest()==e['source_sha256'],'Author text source changed'
+                    assert e['quote'].replace('\r\n','\n') in extra_path.read_text('utf-8'),f"Unsupported additional-source quote: {o['label']}"
                 if 'photo' in e:
                     assert e['photo'] in valid_photo_keys,f"Unresolvable photo evidence: {report_file}: {e['photo']}"
                 if 'photo' in e and r['source'].get('kind')=='photograph_manifest':

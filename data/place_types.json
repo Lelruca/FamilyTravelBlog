@@ -3748,6 +3748,23 @@
       "data/attractions.json#barnes-merion"
     ]
   },
+  "disneyland-anaheim": {
+    "types": [
+      "amusement_park"
+    ],
+    "search_terms": [
+      "парк развлечений",
+      "парки развлечений",
+      "аттракционы",
+      "amusement park",
+      "theme park",
+      "Disneyland Park",
+      "Диснейленд Калифорния"
+    ],
+    "classification_sources": [
+      "data/attractions.json#disneyland-anaheim"
+    ]
+  },
   "kroller-muller": {
     "types": [
       "museum",

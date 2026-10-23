@@ -1,0 +1,2071 @@
+{
+  "trip_path": "content/americas/usa/los-angeles-disneyland-2007",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Штаты - разное.docx",
+    "sha256": "758ad0f0edcbad5b83c7b18c31692fd8c83cae0e25a93037371ee1ea8d80ad7f",
+    "read": "Полностью прочитаны четыре старых абзаца LJ о планировании декабря 2007; все четыре поздних авторских TXT (исходные и одобренные правки); обе главы сайта, включая заголовок океанариума и финальные заметки. Позднее описание состоявшейся поездки не заменено ранними планами.",
+    "additional_files": [
+      {
+        "path": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Дополнение автора.txt",
+        "sha256": "d38307ae38b6a01186fbb0dee708cc23f20d56755a2d30d0d86f9556c042ad99",
+        "read": "fully_read"
+      },
+      {
+        "path": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Дополнение автора, правка окончания.txt",
+        "sha256": "33f555aacff77e5446293f8cd0d7bd28f8c0af10abeb1e129935eda2bf450609",
+        "read": "fully_read"
+      },
+      {
+        "path": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Диснейленд, диктовка автора.txt",
+        "sha256": "49f982e58a4a70b6047d9321c12fa5e6b78973fcfc1331bb235580276d8f4785",
+        "read": "fully_read"
+      },
+      {
+        "path": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Диснейленд, лёгкая правка.txt",
+        "sha256": "10135dea117b92aabf0b87316c142ce56e42c0aeea986da73ede01f98ac908bd",
+        "read": "fully_read"
+      }
+    ]
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 250,
+    "manifest": "media-manifests/los-angeles-disneyland-2007.json",
+    "method": "Все 250 JPG исходной папки просмотрены на 21 контактном листе. Все 73 архивные копии manifest отдельно сверены по SHA-256. Два исключённых владельцем фото остаются только основаниями аудита, на страницу не возвращены.",
+    "additional_originals": [
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4180.JPG",
+        "key": "IMG_4180.JPG",
+        "sha256": "01c5b85d9d7bfb5f25c2950260fccc5359c858098667aec2c398f8c88af5df5f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4181.JPG",
+        "key": "IMG_4181.JPG",
+        "sha256": "6c573cf5c6d904d8cd53bc9278737a586c7004f1b71919164b22e2521310439c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4182.JPG",
+        "key": "IMG_4182.JPG",
+        "sha256": "c08246f6cb62d637ff11159d45daad6fe4004e8bbdc7311e5179669be138bbda"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4183.JPG",
+        "key": "IMG_4183.JPG",
+        "sha256": "8b0a4ba0f19f9eee0ee04eadc8d83457eee2c83c7ec481c9118d50cdf43c7694"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4184.JPG",
+        "key": "IMG_4184.JPG",
+        "sha256": "32895ae2530e04c87f75b90c41a127c6b1b89988b55cf4bb05ec6b7763ffab94"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4185.JPG",
+        "key": "IMG_4185.JPG",
+        "sha256": "0722d36bc7cc45161050474160a4bd3dec94a0612c33b934b0f8c09530a8dc55"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4186.JPG",
+        "key": "IMG_4186.JPG",
+        "sha256": "853521e40c7171886d474183f2a7705f6b5aed86ef809e7db68a13f63cc7216b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4187.JPG",
+        "key": "IMG_4187.JPG",
+        "sha256": "ac2aa6237ba6071b161a06b499d24d2baf5b47c05a15f5adf3e6d1bbaf42dc69"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4188.JPG",
+        "key": "IMG_4188.JPG",
+        "sha256": "7a7cdc0ba1173dd3b1121698f2922f6f5b586ea2dd3c863e8098e07d5bd9366d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4189.JPG",
+        "key": "IMG_4189.JPG",
+        "sha256": "cf0b7611d2e7bcc0133e907ba6034ef1e45716ea4b39b1a3e0cdfd4e41ca2761"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4190.JPG",
+        "key": "IMG_4190.JPG",
+        "sha256": "8979c0a066e88805030763e8a6db1a4399d84856fde65b101dac70a40ffcfc69"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4191.JPG",
+        "key": "IMG_4191.JPG",
+        "sha256": "80588c64a0bc79eb2ead62b64cc6b31cc5b09b47d4fbc46706a7aca4b45b3e91"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4192.JPG",
+        "key": "IMG_4192.JPG",
+        "sha256": "c5b87e1140ee3116f924b9631b430bf937c2634ab2e939fbad57f56e9295903a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4193.JPG",
+        "key": "IMG_4193.JPG",
+        "sha256": "9cfe1f808a3b0c846c05cc57e7d7206e3c7c72c66c8390c5a12146681253ba24"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4194.JPG",
+        "key": "IMG_4194.JPG",
+        "sha256": "06b32c728813f855194b4b7012f1149f376bda995c605669f6cd8bd3241edca2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4195.JPG",
+        "key": "IMG_4195.JPG",
+        "sha256": "c6502159fe11c7d7a82fe66a127a5a1351bf78867c9494532cc27a237b5a416b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4196.JPG",
+        "key": "IMG_4196.JPG",
+        "sha256": "9ca6b3e3785bf19bb6e1b0a09cfca7a8a1eb27f88e7469887cbc20c729852069"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4197.JPG",
+        "key": "IMG_4197.JPG",
+        "sha256": "d47b441460a5e53d0eb35ed3b1e1224f4bd5720d5d021ed68c18d9e597dbb86d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4198.JPG",
+        "key": "IMG_4198.JPG",
+        "sha256": "ff024981b997e02bb02aa15043c799cc7f209a8f9ef28fbef703a4caca73c3c9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4199.JPG",
+        "key": "IMG_4199.JPG",
+        "sha256": "dd8c7fd82afe231e286919ea21914ca757a521a88622dde820a1a7f1fa57adc2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4200.JPG",
+        "key": "IMG_4200.JPG",
+        "sha256": "caf30163081073b88e8b7097b7a3f4cf725875948d6dec3988ed467b2e41a79d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4201.JPG",
+        "key": "IMG_4201.JPG",
+        "sha256": "da21a04e97dc73923c9a17e67c8fc72d42f11ea6aa1f01fb4fecdb915b7d3ef5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4202.JPG",
+        "key": "IMG_4202.JPG",
+        "sha256": "bcb780755f52064d607e57284f30216829e9c0f1df023f5d62f54a91c336f3ea"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4203.JPG",
+        "key": "IMG_4203.JPG",
+        "sha256": "95073d2f3c4d9bab4bc851be03e70575f984cb34c8d423e48c83abf83b2b6a69"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4204.JPG",
+        "key": "IMG_4204.JPG",
+        "sha256": "4d4490c25471348d927699bed08bcccf6d1c4dd60541e7abca947e28bd918b54"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4205.JPG",
+        "key": "IMG_4205.JPG",
+        "sha256": "429e59002369da00950a6307eddf0ec8c6a9aaf855cd51836e45c1b76daa7413"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4206.JPG",
+        "key": "IMG_4206.JPG",
+        "sha256": "041ee97c3a0ebc4b5992306ab326824c3fed55cfa18b06e447e8bab19581f9f3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4207.JPG",
+        "key": "IMG_4207.JPG",
+        "sha256": "1da421987dd363d843321ea7b0cdae5a86126fa1a764cff8a7b57bac30fe773f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4208.JPG",
+        "key": "IMG_4208.JPG",
+        "sha256": "0f0af91ae3a1d65e06f1ff9c698d37c8ca3f5ac9cd40524bcb8931274f37edc5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4209.JPG",
+        "key": "IMG_4209.JPG",
+        "sha256": "ca2b968cc50c52082be5934203cb4650f1914a65818aa3d344c7ec12cb408a3e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4210.JPG",
+        "key": "IMG_4210.JPG",
+        "sha256": "31a74d412f7b3853f55dc59c18d6d3993e8934b924d7e16c3966939740c015a8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4211.JPG",
+        "key": "IMG_4211.JPG",
+        "sha256": "fa67aac484991fda436c3010dbae881c1d2ceda9f576ce0193cf9e83d9720d4a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4212.JPG",
+        "key": "IMG_4212.JPG",
+        "sha256": "261291f861047b317616d459ecb40ca9755c0a236963b839509e0bf1bfd92052"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4213.JPG",
+        "key": "IMG_4213.JPG",
+        "sha256": "2db1bed47cc4f6a70b699b2588cf44add701703e4dba8ebad865b95495834584"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4214.JPG",
+        "key": "IMG_4214.JPG",
+        "sha256": "b9743ffae4ffe80efb1ce47f3eec0353a9f984b04f06cacf61f74664992ac555"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4215.JPG",
+        "key": "IMG_4215.JPG",
+        "sha256": "d406877828bdfbabad4fdc457ef26ebee7bc776969d1f8999651e40248feecc5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4216.JPG",
+        "key": "IMG_4216.JPG",
+        "sha256": "a1910987c596fad3532a41203d6628bb6c89f3b5a06599e7f18085bb946b4e04"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4217.JPG",
+        "key": "IMG_4217.JPG",
+        "sha256": "ff6a855e7437fea8dfee0725063d80827fe96166eae0506c0f4e1cb164cfeff5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4218.JPG",
+        "key": "IMG_4218.JPG",
+        "sha256": "13571c62d3757a59f951f58572778b0a377316a10a09517e4af5c3bf69b2398c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4219.JPG",
+        "key": "IMG_4219.JPG",
+        "sha256": "7bee7190611560d248072e6798ab1501ff0679ad1b4ba33bb5b062e8f3dc372f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4220.JPG",
+        "key": "IMG_4220.JPG",
+        "sha256": "943dd9faae6891f7ebdc34b8f0b6d7e608b84d60d8d9cd082935a10a10778098"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4221.JPG",
+        "key": "IMG_4221.JPG",
+        "sha256": "0760d5aeef87091c9acaee6febea8752d9a2e014df9a233c628267ed81eb8be9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4222.JPG",
+        "key": "IMG_4222.JPG",
+        "sha256": "700ea7d6318e4309ca7a2a6d92f30e8d55c01e4ec6c9a1ecad6027bf791e02c8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4223.JPG",
+        "key": "IMG_4223.JPG",
+        "sha256": "d043904556b309fa66782b2c3de758a79b0d76043f350c63f3071f182b1b926d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4224.JPG",
+        "key": "IMG_4224.JPG",
+        "sha256": "402a77490e88c5b9d65212fd58287ab585d01144f1fa338683558cdba927d632"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4225.JPG",
+        "key": "IMG_4225.JPG",
+        "sha256": "6d70e9d8790b97232c7da007bfefe27ce3719211417efa992a5fc34e1680ad52"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4226.JPG",
+        "key": "IMG_4226.JPG",
+        "sha256": "e302d1daef7606852dae0bb171d5afda13948b912160ec24e998d82ee396618b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4227.JPG",
+        "key": "IMG_4227.JPG",
+        "sha256": "bf851c4239024c297f88cd9a76c7abbe09afa491bfe2d500d5e5ef329e14f73e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4228.JPG",
+        "key": "IMG_4228.JPG",
+        "sha256": "fd6487f0d76062ebaee5ded7b7f379da359e3c5b9923099ee450b3c92c62593c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4229.JPG",
+        "key": "IMG_4229.JPG",
+        "sha256": "8b90787fa728a93b64cce842ea8f13d0286298f44f8a592d0717d27ec91debbb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4230.JPG",
+        "key": "IMG_4230.JPG",
+        "sha256": "1c39ac1e2ce0f8139f3e259fb76c43070fe7cfeb04870eed5a95d24eb40c36fe"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4231.JPG",
+        "key": "IMG_4231.JPG",
+        "sha256": "2567cba285c89374aa6a7a2f4bc4267941ae6eecebbd9208e2ae24ce73e6ddf1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4232.JPG",
+        "key": "IMG_4232.JPG",
+        "sha256": "74e8091fa6f00351f3a7c2fe712368f4a85232966b25334df17f3d3914a5a001"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4233.JPG",
+        "key": "IMG_4233.JPG",
+        "sha256": "93e80e86361f5d107400957593254a2eb8828ee2a004a9411ca9330ef0500fae"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4234.JPG",
+        "key": "IMG_4234.JPG",
+        "sha256": "267c3af81f0388b43cc527ef2f235d1e9836ab76e707b5856b6990c1a9c670cc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4235.JPG",
+        "key": "IMG_4235.JPG",
+        "sha256": "fdebcb3b88b71be6265e89cf72f04194cd2ca5a440d75011ec215a8f1e5415cf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4236.JPG",
+        "key": "IMG_4236.JPG",
+        "sha256": "8d727cce68fc42f340e3a9250038bf6f4d0e409cc38012e9c5f7f7c04b5531ce"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4237.JPG",
+        "key": "IMG_4237.JPG",
+        "sha256": "9844fb5d64bf6c91f3ca491e5c001c04b8d8ade38a38af12ab47363b68692b4a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4238.JPG",
+        "key": "IMG_4238.JPG",
+        "sha256": "46fb2c2fc8b11d9048d563b517fc7af6be0b59a37c16b3bf3dc38512790bfd36"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4239.JPG",
+        "key": "IMG_4239.JPG",
+        "sha256": "88213841f403f07a3f045409992f9a9dffa686809c54565d1061e08550e029a5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4240.JPG",
+        "key": "IMG_4240.JPG",
+        "sha256": "ba4627ef643061bd1710b99a558b88b8a3f18986b85e7f40f711494a6e8d7b90"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4241.JPG",
+        "key": "IMG_4241.JPG",
+        "sha256": "5757777a5952210109fbf6aed92ebc460751c5853a569a9e35f1b367464171ab"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4242.JPG",
+        "key": "IMG_4242.JPG",
+        "sha256": "666f0019cd88c66d11d65831128d19e6e02cf5ded0a52b0d6553a59bd3d471a3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4243.JPG",
+        "key": "IMG_4243.JPG",
+        "sha256": "1ec1055361b4d1d7edb1e9b9dd892ee2a88d0ba2882fb5c48cd5bb621d7b78f0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4244.JPG",
+        "key": "IMG_4244.JPG",
+        "sha256": "523f71620ec8179e3b7e816c74052547407179aec302c730b0b977ac96f43b5e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4245.JPG",
+        "key": "IMG_4245.JPG",
+        "sha256": "64d49c0f508cbf4dbb14322a4226e84dedab7d173877b5f4b10f8d1978ba7092"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4246.JPG",
+        "key": "IMG_4246.JPG",
+        "sha256": "f3fd118c0c02ab014c8c1bc45b6ab3f5206cb210c7e46446dcd80d59931fd895"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4247.JPG",
+        "key": "IMG_4247.JPG",
+        "sha256": "f14387bc21d59fb653168fbbb4cab28e8276fbdc3276381d018368972f354c4a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4248.JPG",
+        "key": "IMG_4248.JPG",
+        "sha256": "d2a81aed2eaa2dd4eae101406536c313273115ffdd1052a154ce7a7a02a2e89e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4249.JPG",
+        "key": "IMG_4249.JPG",
+        "sha256": "8b8ee5f28129584c0a0ee51ca39d6716834db87d99f6b2f410350ad25cfa5578"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4250.JPG",
+        "key": "IMG_4250.JPG",
+        "sha256": "0ad99569c26d001fb8b5c99212e48d50707844a9440840fb8c247696f01315f7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4251.JPG",
+        "key": "IMG_4251.JPG",
+        "sha256": "ae2138d3910e35ff80acc901833a3817175c57e9bed372e1c748d2c9b283945c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4252.JPG",
+        "key": "IMG_4252.JPG",
+        "sha256": "fe946e95e5115727382b1cc21f5c359a369fd144f210eb80b8eb7fc199c0c1f3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4253.JPG",
+        "key": "IMG_4253.JPG",
+        "sha256": "f9b6a7224ed3a379f723d8f167c779a90774c22efdce9c1a2deadf59f9c3896c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4254.JPG",
+        "key": "IMG_4254.JPG",
+        "sha256": "261784db20af8e4b39263331a397b332e226ab769aebf3f09626ca825890528c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4255.JPG",
+        "key": "IMG_4255.JPG",
+        "sha256": "cf4e41c628ee0c456554333d265dd0528bd101822c4459580e020eac3153dd63"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4256.JPG",
+        "key": "IMG_4256.JPG",
+        "sha256": "c624f824ef3f2b86cb20c94477ac7f572a16af8a860f48ff0cbd1b6c5a4c7178"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4257.JPG",
+        "key": "IMG_4257.JPG",
+        "sha256": "cc2d9bb7a7cdcc0f3ff6bea243a5b6860c42520aa31caf7055bfae3ea9893341"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4258.JPG",
+        "key": "IMG_4258.JPG",
+        "sha256": "7692e72ed295776c98a355d59fb965ba157d533a8e14245205fbe78d09456c74"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4259.JPG",
+        "key": "IMG_4259.JPG",
+        "sha256": "a44836b61e347edc99440dbf7466351958028535c846c2b777d02ee4331272f0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4260.JPG",
+        "key": "IMG_4260.JPG",
+        "sha256": "f37c2e2327745090c2fe494e79a55cfe037a2fc3b44e467c283852d5f7c35148"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4261.JPG",
+        "key": "IMG_4261.JPG",
+        "sha256": "66996ed7e6b60a4dae2f1cc9a4a09997d1e5bb79191e3e3852642cbe795e481a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4262.JPG",
+        "key": "IMG_4262.JPG",
+        "sha256": "549988c5700cfdab282c62ffa1009f4e565d66ec47603e678d91e92f23c96d02"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4263.JPG",
+        "key": "IMG_4263.JPG",
+        "sha256": "99b7e0636866a5a03dfbdd374785e735125be94b489ff440ab1195624b1a07d4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4264.JPG",
+        "key": "IMG_4264.JPG",
+        "sha256": "7c99efe8126bd22312dffabdad619d545d7159277798137927c230f62a17995b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4265.JPG",
+        "key": "IMG_4265.JPG",
+        "sha256": "48067f8af0cf7f0a79d41173f3f8a8ea42e6046495021ba2f1639ffb9df28cb6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4266.JPG",
+        "key": "IMG_4266.JPG",
+        "sha256": "9bd860956b68d4815e880694bbc20eaba5a7cdf1f4a2245741dcf80fb524a6b5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4267.JPG",
+        "key": "IMG_4267.JPG",
+        "sha256": "663029c6ae99cf8cfe0155f4d5c88ec7541b2bcb138d863c23dff3d480c6ce16"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4268.JPG",
+        "key": "IMG_4268.JPG",
+        "sha256": "dde2418c4cdcf3545e8417241961d6fef537d99c82e45b44a2293840c2480cc5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4269.JPG",
+        "key": "IMG_4269.JPG",
+        "sha256": "ad2895a1b21bc0e2feb585d143d0abd62c62c26779ee3331d1d6b7ebf2db644e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4270.JPG",
+        "key": "IMG_4270.JPG",
+        "sha256": "8d4e3876608f139e7bc7af526f6e28df05141b4cccfd69a74ad42120cc5c294d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4271.JPG",
+        "key": "IMG_4271.JPG",
+        "sha256": "a16123ae2a37199eb5819b53692c3a283be52c633713c329e8f3a4b811c9efe3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4272.JPG",
+        "key": "IMG_4272.JPG",
+        "sha256": "09c05e88aa6ee4a7aafc97adb3643d6daa80badaad577079d1a399d0e12ec6d6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4273.JPG",
+        "key": "IMG_4273.JPG",
+        "sha256": "2a2384958ec7fbd4d9de857004cea214699287dbc7e096ee60a5016574a37e85"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4274.JPG",
+        "key": "IMG_4274.JPG",
+        "sha256": "48abd4f47e1e55e53060430504d85526bd5feb58f85f317c974a0cc9accfcf8a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4275.JPG",
+        "key": "IMG_4275.JPG",
+        "sha256": "f9904a1d34d20c92c51fe36219114680d72198400f6cd92fdc4e3f42b241cf53"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4276.JPG",
+        "key": "IMG_4276.JPG",
+        "sha256": "8008bfde4fdcc0d658628c07acaafc702224f2d8ef7bc3735e9b80f9161e325d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4277.JPG",
+        "key": "IMG_4277.JPG",
+        "sha256": "0ac3820ddd158d3df2bc567a61c465ccf4c322bd079bba81dd80c49a255b9793"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4278.JPG",
+        "key": "IMG_4278.JPG",
+        "sha256": "ea6312fbe25cbe7e281833331feb57b97f6be74defc8edf247a1e626891a4adc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4279.JPG",
+        "key": "IMG_4279.JPG",
+        "sha256": "e0c83de8b1c4fc63d3f6fea7aaa59e81a76fdeb942d532c1dadb19a0a3e1cc5b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4280.JPG",
+        "key": "IMG_4280.JPG",
+        "sha256": "f59de415d935183c9aaa0cfcd80984587c330d3653a7faf39bc9fd13a757452c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4281.JPG",
+        "key": "IMG_4281.JPG",
+        "sha256": "b3b742c82f298dcf0e9f6a154da2a57cf59cc81bc1b1b8cf40efc26f6d4d9cb2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4282.JPG",
+        "key": "IMG_4282.JPG",
+        "sha256": "91422e122929bd2a685a05d84ecb72d5b8f2e53b97e456110c69a4f114e68896"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4283.JPG",
+        "key": "IMG_4283.JPG",
+        "sha256": "d2c135435c13c7ef8a3bbd86d5e29f2a62350d1952c7b52af99f01013e361a71"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4284.JPG",
+        "key": "IMG_4284.JPG",
+        "sha256": "5b12e3d179a8d804e5e4c64df27668dd4ac708d6c55e030e3a50db4dbc251f1e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4285.JPG",
+        "key": "IMG_4285.JPG",
+        "sha256": "255636a5f243a4d8aa90506f18b1721cfa6eb08b879f07e5bef4fbefaf3c4a50"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4286.JPG",
+        "key": "IMG_4286.JPG",
+        "sha256": "dc42fa8423bd3947f5d205dc50119daa4abf24be3acc45b82410b57abc9aa65f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4287.JPG",
+        "key": "IMG_4287.JPG",
+        "sha256": "64a1702af18287ef144a284b20f4dd15fea31379fc75ffc47505a24be29b97c6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4288.JPG",
+        "key": "IMG_4288.JPG",
+        "sha256": "8c92d342c7ca07d095bb2093bf23e9d18c1defaf08ec3cd298a7d19d68ec0563"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4289.JPG",
+        "key": "IMG_4289.JPG",
+        "sha256": "ab4f2dca871339a8547096763cd6b4f06ab9e0948bab8e5744a58e493b8f8871"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4290.JPG",
+        "key": "IMG_4290.JPG",
+        "sha256": "fb6f6d67a4a2cebfa8615e446da230aeb4b43df17dc27a299fae24a19f27a556"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4291.JPG",
+        "key": "IMG_4291.JPG",
+        "sha256": "dbb94586bd139cdb77361b046e7fa0300e9890fdac99db221aa7b06c39b3800e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4292.JPG",
+        "key": "IMG_4292.JPG",
+        "sha256": "a051c46764f472f0e9286dae01b0c3dcbf9ffdc38363e6c9d331fc6a7a02f91c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4293.JPG",
+        "key": "IMG_4293.JPG",
+        "sha256": "2dac8360c02f2b6592860a4f89f2da6ec5eb177f39d456fac16774a3dd46105f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4294.JPG",
+        "key": "IMG_4294.JPG",
+        "sha256": "85f1ef58387d70131fd9ed9f2c76abd5bf2b6f1f259110994bbb8107da2791f9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4295.JPG",
+        "key": "IMG_4295.JPG",
+        "sha256": "10c4b8158ca9afced477ce4e3dd16a14db39f7ae0505d4126f6f50d4003b6905"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4296.JPG",
+        "key": "IMG_4296.JPG",
+        "sha256": "aa1197d06a3fb76fa80ad22dddabf1190d60a9718c2989ac4d635518ef4ad12b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4297.JPG",
+        "key": "IMG_4297.JPG",
+        "sha256": "63c3b59ad5675668a72069a24e7a4020887d80b70cd929160f185eb9c38d0f46"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4298.JPG",
+        "key": "IMG_4298.JPG",
+        "sha256": "44a5f46d1529754cab76344715c1e9b59e3c6b0108532a0473fda1e199a2bad8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4299.JPG",
+        "key": "IMG_4299.JPG",
+        "sha256": "4ff5821eec89f2179a511145270847c88b67ad5e5e890f23ec5306fac857b346"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4300.JPG",
+        "key": "IMG_4300.JPG",
+        "sha256": "6d85309edeacbc742b46937aa12448a5657d12a2d87cda655b8878e600611dd4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4301.JPG",
+        "key": "IMG_4301.JPG",
+        "sha256": "29b8afcc0bd0113261a928c49527d606806bae6098bc19b941d75d7e056bf8eb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4302.JPG",
+        "key": "IMG_4302.JPG",
+        "sha256": "69ba9e9c2b28c6cba8ec8475e24db70db22714bc4703390631645800d1993e5e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4303.JPG",
+        "key": "IMG_4303.JPG",
+        "sha256": "28d4de2d6ee212ee869402fd8b81cefc4e349f8d37badce772174acfb3334fa4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4304.JPG",
+        "key": "IMG_4304.JPG",
+        "sha256": "d04ae2243c1c641763370c9e6b2f20aa246307598e924ce1874178ec9c76a818"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4305.JPG",
+        "key": "IMG_4305.JPG",
+        "sha256": "03c5759a82b1d76b79934612e537d9adf7c4e03770737866eb58aa914f052a64"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4306.JPG",
+        "key": "IMG_4306.JPG",
+        "sha256": "c7a9d5d599bcd3f15b3be16b4e6f22464831d00b0972a383b43649b6bc9d2033"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4307.JPG",
+        "key": "IMG_4307.JPG",
+        "sha256": "c0d464f0df02b54af3e26bcec2b0810b1db4bbd4b8fec18a74a179c6a7e63197"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4308.JPG",
+        "key": "IMG_4308.JPG",
+        "sha256": "7429a5b041ec1f1e95b421d9a77ca281daafe80f677027e11bf048dff60aec35"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4309.JPG",
+        "key": "IMG_4309.JPG",
+        "sha256": "63312cc366fffe72807f8c135c1b39d5c0181baf73354df1b1c59d0fbedee4a0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4310.JPG",
+        "key": "IMG_4310.JPG",
+        "sha256": "0e11c056dbf2869ae07507026495468284a228253866c6f9355fbaac3349c7e0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4311.JPG",
+        "key": "IMG_4311.JPG",
+        "sha256": "7978a771bf5a02edb4bc532d0db5c64a0591bb901e6546cf2700aee7413ef270"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4312.JPG",
+        "key": "IMG_4312.JPG",
+        "sha256": "71a5d8af8c9bc280c35398e65a6a6912d770a356b3b7370c3944b9644001a45f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4313.JPG",
+        "key": "IMG_4313.JPG",
+        "sha256": "f44720eb661380835cc187bea04bda067f809f0d54485f5ed25115bf68eb9bad"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4314.JPG",
+        "key": "IMG_4314.JPG",
+        "sha256": "fce34b82f9c5823bc8f56085315bd7bbddeaa4945034751503135c496091a31e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4315.JPG",
+        "key": "IMG_4315.JPG",
+        "sha256": "ab6989c3fb07693ab5839cf9d2e8fc08aa281f203f4301a9b42fb5a83796eb60"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4316.JPG",
+        "key": "IMG_4316.JPG",
+        "sha256": "b11982290782cc46bae934475c0a09518e3b4ed2c0d3ffb8dbe89285926090fb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4317.JPG",
+        "key": "IMG_4317.JPG",
+        "sha256": "f09e5ebfd103371a3c008118319348e5b8327e5e180c941f16d52909fca0bcea"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4318.JPG",
+        "key": "IMG_4318.JPG",
+        "sha256": "c77e34d21ab77f7307f1db89ed7d55e8c4264b6c69d354863a73b9ba37d7d31f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4319.JPG",
+        "key": "IMG_4319.JPG",
+        "sha256": "9fe2e0c510aa87797b2d1de11f6cf1e4dd8c65cc163c348ec932ed4fe1295f4a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4320.JPG",
+        "key": "IMG_4320.JPG",
+        "sha256": "de9b98eaec8cdce9d8391cf8aacf5238c755c9c1a8f540553ee992d6819d02a3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4321.JPG",
+        "key": "IMG_4321.JPG",
+        "sha256": "7664087692d899fe5c5418fd713b9a12f102309b1966ef4268713a588cf8c0ec"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4322.JPG",
+        "key": "IMG_4322.JPG",
+        "sha256": "bbdb46f1c529978d8c7fbe0eb81f1e196229e945d22f48de074fbf9004f3e487"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4323.JPG",
+        "key": "IMG_4323.JPG",
+        "sha256": "1fed525a4b2b5fbe90b6c3d5d40b210205a784c6e946b8cde399b96eba9f167e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4324.JPG",
+        "key": "IMG_4324.JPG",
+        "sha256": "69beba25ecca12a16884045d16b718f2be60aa67457f6e16eeeb3d1a9935171a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4325.JPG",
+        "key": "IMG_4325.JPG",
+        "sha256": "a711934e459060ee72028499a21fff9637e2e4661ba3aed3390463b05f6f3b70"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4326.JPG",
+        "key": "IMG_4326.JPG",
+        "sha256": "406420c42dac12e5088513f95a25e68904b6d5a89a2eed5467269980b5789551"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4327.JPG",
+        "key": "IMG_4327.JPG",
+        "sha256": "dde60a5f5a460212dbdd2ef500df55d65a915e9bb330033a334a9ffeda1ac155"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4328.JPG",
+        "key": "IMG_4328.JPG",
+        "sha256": "c64e8bc98396c1231aa3541d278552b74078ffc6d5f01c2842b231a95ce749e6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4329.JPG",
+        "key": "IMG_4329.JPG",
+        "sha256": "a3450c847900121796851b568bb9789ceb5469b28f452da76861092c57d92648"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4330.JPG",
+        "key": "IMG_4330.JPG",
+        "sha256": "58aef9768b2e525bf6f4f5b0348941d0fde3d0438426a104dc733cb9bdbb76e6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4331.JPG",
+        "key": "IMG_4331.JPG",
+        "sha256": "3235c6897d4abfc694e0d44ffb46a216946119259d8d2edf70fd76bc4c510704"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4332.JPG",
+        "key": "IMG_4332.JPG",
+        "sha256": "846b0c7afc794fd1ed42a29151579ade53766f5ae1b6f322755ed4f411cad524"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4333.JPG",
+        "key": "IMG_4333.JPG",
+        "sha256": "6d65e739a4515a6e3cf64f5fede7d9edb5ac0b12ee12f57c80ec786d25029c04"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4334.JPG",
+        "key": "IMG_4334.JPG",
+        "sha256": "1bc73cf4be06d1ba11e85f948c070fa365eb54c85eb97a20d79195be1c26f79f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4335.JPG",
+        "key": "IMG_4335.JPG",
+        "sha256": "27c3e4b4ad2252b6023084c851e98515447f8143c57ca2342352c3a966e42895"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4336.JPG",
+        "key": "IMG_4336.JPG",
+        "sha256": "7c7dcf380956e4aeac4fb7e608ae469dbea5324acf25934cc1831b0a7f8d4a17"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4337.JPG",
+        "key": "IMG_4337.JPG",
+        "sha256": "249ca53de516b2507601e8f1ba261edef1f17cb6c35f4206e49d89dab4bd488c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4338.JPG",
+        "key": "IMG_4338.JPG",
+        "sha256": "47db00ad20c92b27072a586e80b8488919498270c571a9056aad8a03c8159164"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4339.JPG",
+        "key": "IMG_4339.JPG",
+        "sha256": "e3ca061805377969a16df7e170f27bdded6b80980fc5796b3d9aa5b0149acd1d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4340.JPG",
+        "key": "IMG_4340.JPG",
+        "sha256": "97c9f9820e24d0d7c47d2a1eb5a7eae587ad85bef4dbe1f5336089412cd36811"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4341.JPG",
+        "key": "IMG_4341.JPG",
+        "sha256": "f0b135afc85faa08e88e716092bd26f6248cd46838dd296ec58569b975b9276a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4342.JPG",
+        "key": "IMG_4342.JPG",
+        "sha256": "24a3bd49504d0f9663d5f2706ea659f19fb0cad62fcc2fcf34bb25436157f85f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4343.JPG",
+        "key": "IMG_4343.JPG",
+        "sha256": "e342e998418b67ebc737b015560e5049ef3236d76e24fe1c4ae647371161173d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4344.JPG",
+        "key": "IMG_4344.JPG",
+        "sha256": "13ad7cf522724b1e5e2df10b2ac4ed221efb3e6bafc32e55d801be10ac140b13"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4345.JPG",
+        "key": "IMG_4345.JPG",
+        "sha256": "e43dbc455fe8d46b457b6a685aa13732ad6cf02fd302923f7ff3e19eee3e2ead"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4346.JPG",
+        "key": "IMG_4346.JPG",
+        "sha256": "13a34d370aa788e4d3b0d362c73cb0456c090afaabc98eddd024b1c30df68ba8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4347.JPG",
+        "key": "IMG_4347.JPG",
+        "sha256": "44f4ef932f434eb9a4457bf5d212f216e577a5371577b4ebd2f65ad614b4cf0c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4348.JPG",
+        "key": "IMG_4348.JPG",
+        "sha256": "23147a36c87ec421d55084f6b810925270bfd4cbfa7691260ff652615e0e8bc8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4349.JPG",
+        "key": "IMG_4349.JPG",
+        "sha256": "c772f778a79981ebce0392b9f609bd6efb1543ee282d4bf806d407094b1d3ec4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4350.JPG",
+        "key": "IMG_4350.JPG",
+        "sha256": "6f36f20209eb4469954f6b3a85cfec2eb3ee006677f6e0531fa6281c261b25e5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4351.JPG",
+        "key": "IMG_4351.JPG",
+        "sha256": "2836c63104d5e138931f66017d4872be4f9b0171d0a233c3b298419d713d1706"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4352.JPG",
+        "key": "IMG_4352.JPG",
+        "sha256": "aa446a0fcb003f0f6239d67f741f631912110451a0cf380d96878ad119af021c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4353.JPG",
+        "key": "IMG_4353.JPG",
+        "sha256": "a19e18d3c55b95019077971172f78eb2d2c3655f43585fecda686f0c2048d235"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4354.JPG",
+        "key": "IMG_4354.JPG",
+        "sha256": "0e769743f1ebc03d2e859d74d1bba4f24f35d23c246dcf9915c5e6a45a3bb671"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4355.JPG",
+        "key": "IMG_4355.JPG",
+        "sha256": "9da63a44bc5c181f1fa2e8077a90a2826a278c109cada05fe40d8299f8118f66"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4356.JPG",
+        "key": "IMG_4356.JPG",
+        "sha256": "59ca1cd9791dac534513a46148ac35046d3b6f5500af5bb7ccb5020a2f3fd00e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4357.JPG",
+        "key": "IMG_4357.JPG",
+        "sha256": "179cd007f3c6a2e85670e66f378c367aa234e53a659beacc1ebfc80f7d51d4f2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4358.JPG",
+        "key": "IMG_4358.JPG",
+        "sha256": "0cb12fe99ce8a6674daeb269a4ae455f8c8d83e8431d895be9fa6e5da59c3628"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4359.JPG",
+        "key": "IMG_4359.JPG",
+        "sha256": "e2c59d21a7499698cbabd958dc328af5de2f3afb7217591c3678039c5016f5c5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4360.JPG",
+        "key": "IMG_4360.JPG",
+        "sha256": "43aff08771d88d1cdc07bd51741b843c418169ccdfe99bbbeeadecc9ba670733"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4361.JPG",
+        "key": "IMG_4361.JPG",
+        "sha256": "f161f3476f9c2f4d0fa2318b15bee41884a66e7ea325db129b9575836b9425d8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4362.JPG",
+        "key": "IMG_4362.JPG",
+        "sha256": "ea7eeb9f9904b2148bfa09c0bd0975db478a1b82819e890eb8bd9f6d231f6bd7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4363.JPG",
+        "key": "IMG_4363.JPG",
+        "sha256": "22fc1a95af4bfcb78976680706f5cea3e20bfa233e3c8c15d44afb9a4dc6cce9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4364.JPG",
+        "key": "IMG_4364.JPG",
+        "sha256": "7b80a7b99b52f98b1d7d60477b4694c4f80135b633e3986064960f63a90cae32"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4365.JPG",
+        "key": "IMG_4365.JPG",
+        "sha256": "a7bd98f201d44cd6026654a48f8af8557aa9d12b42d24e6efc216e2db7689e63"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4366.JPG",
+        "key": "IMG_4366.JPG",
+        "sha256": "0d01951c6b6f6dacf1ebf4e82fe6f273a99589f043d400c810e490dbd28c1d95"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4367.JPG",
+        "key": "IMG_4367.JPG",
+        "sha256": "3302ea791f72dccb83b1ad906507cad1f2529beef260b4e4b0f1aabc141f511f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4368.JPG",
+        "key": "IMG_4368.JPG",
+        "sha256": "5889244dcfb63a66417f0b91973336214db860acb9304258fd5e1b4ff1c5433e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4369.JPG",
+        "key": "IMG_4369.JPG",
+        "sha256": "25d942d486936f5edae8c1c0e199e76d5530e2513cf0d3d6958392174c39f3d0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4370.JPG",
+        "key": "IMG_4370.JPG",
+        "sha256": "7fa03a5433f3965c4df3943e583014d3b17e96d8eed206c4c69bbff29aa4fdc0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4371.JPG",
+        "key": "IMG_4371.JPG",
+        "sha256": "dae010fe14bca51d7457e23a36d37f7353e2f1fa099b8fa08bfe809c457c8d08"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4372.JPG",
+        "key": "IMG_4372.JPG",
+        "sha256": "136535cbe8f2f5b1d70ca412f42488ff8d91a9ccb86458d072f3b16b6b6537ba"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4373.JPG",
+        "key": "IMG_4373.JPG",
+        "sha256": "aa0e6f7310e57129a653d7affe6644ffea218084819f8186833e4d529dd65941"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4374.JPG",
+        "key": "IMG_4374.JPG",
+        "sha256": "c98a27addc49f3c000159e72cfb9322f0660ae714b19acc4096156d92fe5891f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4375.JPG",
+        "key": "IMG_4375.JPG",
+        "sha256": "9dcb6be78f8efaa9a83bf3df739f77ad3630563112cbdb4f9ff9bcac5e976109"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4376.JPG",
+        "key": "IMG_4376.JPG",
+        "sha256": "8237855f52030584649c3264b9b09ac57775429af2ebff15304fe14a6cb12ae4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4377.JPG",
+        "key": "IMG_4377.JPG",
+        "sha256": "751fd6fd0105912db36e1411e5098e402fad275af905322610b633ef7fb93fd1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4378.JPG",
+        "key": "IMG_4378.JPG",
+        "sha256": "e58fb64cddf5b3bbd6b6cdd0ccf72a41558aa9a6fa5530b5440ebb182f016ad5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4379.JPG",
+        "key": "IMG_4379.JPG",
+        "sha256": "d4c54075b029d969dd75546ca71df7a5eaf68622f36a487de6ab2285b9d91836"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4380.JPG",
+        "key": "IMG_4380.JPG",
+        "sha256": "b17951872d22aeeb8257745759332cd1c82bb424145210b69102ea2dbe6030cc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4381.JPG",
+        "key": "IMG_4381.JPG",
+        "sha256": "b4cb075c85f3974fbd4bb1cb3ed882034b6bae495c5f6a061f983d2a3272a0d4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4382.JPG",
+        "key": "IMG_4382.JPG",
+        "sha256": "782c48fd49b58da6203eb2aa23fda53601caf531d481d9f8333bab0d4f30b68d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4383.JPG",
+        "key": "IMG_4383.JPG",
+        "sha256": "e509127864999bab738f786422048994fa81104bd67f8806ee160a4e91723a9a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4384.JPG",
+        "key": "IMG_4384.JPG",
+        "sha256": "fea2d67a01d68f11ec0c408527f7dd9660ba7aaf1884c923004fe64fbe6f3792"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4385.JPG",
+        "key": "IMG_4385.JPG",
+        "sha256": "d198a174b72490f49b171963f88bb35a95ce3a4dd05d9de7744d59a10275420e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4386.JPG",
+        "key": "IMG_4386.JPG",
+        "sha256": "83a5d5fcdd712b68389a342b6fc396735cbcff359aa6a48ac3810c972a15447f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4387.JPG",
+        "key": "IMG_4387.JPG",
+        "sha256": "0743b7d75cdca8eeeb71be8a6276fbc3bc7fd225e27fe1139af19190c05926f4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4388.JPG",
+        "key": "IMG_4388.JPG",
+        "sha256": "5cc1a0ff6beb31209170d9ab88c9a39f1cb636bcfcc30cb8ca4af11090b4fe7f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4389.JPG",
+        "key": "IMG_4389.JPG",
+        "sha256": "2e5d08b5b395eb01e0fcc1eef6c64aa7e71f18601a0a987bb3488004fb5e1d4a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4390.JPG",
+        "key": "IMG_4390.JPG",
+        "sha256": "3763a164250c179ef4eb03f0ae27a84a87c6e5cb83d08ffbb748dc0ad76dd29b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4391.JPG",
+        "key": "IMG_4391.JPG",
+        "sha256": "883d8efd04f56161a847067f8bb34294ec325b3da75fccd10f448bb3633a700f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4392.JPG",
+        "key": "IMG_4392.JPG",
+        "sha256": "be0877756a8cdf21133bc03477dc013cf06d5cf9672e217d8092e0a45e1eafb8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4393.JPG",
+        "key": "IMG_4393.JPG",
+        "sha256": "190afcff8dd8f99352492b41c76ffc6b81050756a09fbe3f00cc1679294c2954"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4394.JPG",
+        "key": "IMG_4394.JPG",
+        "sha256": "4c01188ed408bf1d2494267a360a3861af77c17f43c4a6cfa6a5f448ebde28d6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4395.JPG",
+        "key": "IMG_4395.JPG",
+        "sha256": "a53bdb0c04a81971a7ce6b509980ab4c7b31900184b437e379f93e989c8e5c05"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4396.JPG",
+        "key": "IMG_4396.JPG",
+        "sha256": "5f35253ce2b143548f83f3bd361fee37bb51003475ba98b71c9e6ba6d22d8b34"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4397.JPG",
+        "key": "IMG_4397.JPG",
+        "sha256": "a769b8b8c1767b4b63261eecedc4a7c1b6722bf003d6f349ff020e879963958e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4398.JPG",
+        "key": "IMG_4398.JPG",
+        "sha256": "4afb5956d5ddae0830bca0b0b31018cf60df4566197e836c86c810190e57514a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4399.JPG",
+        "key": "IMG_4399.JPG",
+        "sha256": "343a518802b747e9ba8140fb17dbf5fed956ec06a0293222cb842d581b3da1fc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4400.JPG",
+        "key": "IMG_4400.JPG",
+        "sha256": "b2ab9a6d83a1a29af9b14a20a9cecb6ba524515f78c7da96239045c6829a56e9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4401.JPG",
+        "key": "IMG_4401.JPG",
+        "sha256": "6997037e8c29677d8ec9a98adb5d0df19a952db330667d6889554e3022a377e4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4402.JPG",
+        "key": "IMG_4402.JPG",
+        "sha256": "c5369ea7ffc1c5f02cccb8d195d63a404ae780d56927f97ff2ecc902172d56bf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4403.JPG",
+        "key": "IMG_4403.JPG",
+        "sha256": "1596f821b078ff7662d2fbd6e73cd46db3c29d66d8c081bac584123280808ed4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4404.JPG",
+        "key": "IMG_4404.JPG",
+        "sha256": "0b1d9bd733ee0b3c8711b74cfbd53a69f644a87f0fd077745bc6db50bc072e37"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4405.JPG",
+        "key": "IMG_4405.JPG",
+        "sha256": "cda033a1550a2a837538f0ab8565fd3cdf9d1cf19364712670c19b8a1b0fec69"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4406.JPG",
+        "key": "IMG_4406.JPG",
+        "sha256": "e801d89f1687d2be370b8d1bfa2b0ef91da363d0ed4b4ce7ca5a2b189e691b16"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4407.JPG",
+        "key": "IMG_4407.JPG",
+        "sha256": "1eadbe2b0d697a85cae6756fde566736487b657a4c0548eb99434952e4b3fcd8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4408.JPG",
+        "key": "IMG_4408.JPG",
+        "sha256": "a7d527000e8c16fc7f2cc25197e1140b052c8643bcb7b1ce7a910510d4191607"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4409.JPG",
+        "key": "IMG_4409.JPG",
+        "sha256": "67bba581a5c61ed10c91a4fd2301b7dd4f3482266006f4dd4cae862a03274352"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4410.JPG",
+        "key": "IMG_4410.JPG",
+        "sha256": "eb077ad5c3f83b6fbe23af74664af385ee4ce86b8dfaa7b1ac6fffcf5c48dc71"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4411.JPG",
+        "key": "IMG_4411.JPG",
+        "sha256": "69321c0019bef899898eec56e5f9ca84574c0c738ba605ace5f6a2a32c158655"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4412.JPG",
+        "key": "IMG_4412.JPG",
+        "sha256": "943be0d119bec7eb39a1de89ab7db709abd97cbedc9c45dc3b079204245d3f63"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4413.JPG",
+        "key": "IMG_4413.JPG",
+        "sha256": "dde165440a7b66a00344fac163f21921533d6c97533497e556e4fe1d8c8fc7e7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4414.JPG",
+        "key": "IMG_4414.JPG",
+        "sha256": "d7a7f051b865968444f9187a572f236c23568c79cf8ef84a933b8f83241a626e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4415.JPG",
+        "key": "IMG_4415.JPG",
+        "sha256": "fc054fea33149dbd35bd0ae611947284c5e06053fd1a54a6a3b8ea3627275fa2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4416.JPG",
+        "key": "IMG_4416.JPG",
+        "sha256": "44bda0f78521b2e582cb519af880e35104c34118114df230241620f5f6e5863e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4417.JPG",
+        "key": "IMG_4417.JPG",
+        "sha256": "d9c61756b49c16656a29b31d5a50aa5924ecaebdba4dca29c637231cd464f4f2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4418.JPG",
+        "key": "IMG_4418.JPG",
+        "sha256": "6b964e1366bf68c161d7508c30d6eb963dd0936627bfae100f4ac74901e71d7d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4419.JPG",
+        "key": "IMG_4419.JPG",
+        "sha256": "61b66c10d62fb643deb75421a6104b9d2fc1b17d09b13b765cd6bf2928335091"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4420.JPG",
+        "key": "IMG_4420.JPG",
+        "sha256": "cf655002275d82370baa1789d2ad9f6ae17153444420fc63be5be02d54f7494b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4421.JPG",
+        "key": "IMG_4421.JPG",
+        "sha256": "f80be22a473152203c86b6e9f21c683e3107f0991b28687d625cb05e966dc8c6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4422.JPG",
+        "key": "IMG_4422.JPG",
+        "sha256": "ca202273dce58689a359a7efed8c8e536e13cac42a1bf3ee1df04b70130084fc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4423.JPG",
+        "key": "IMG_4423.JPG",
+        "sha256": "8e2594773f4e89d022173d3041af4b27f4cef8cc442c8c5950e468ade5e99a2d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4424.JPG",
+        "key": "IMG_4424.JPG",
+        "sha256": "3068c9805e5a8041973ffbfa682cf6b3da09ca246d1fb1ef6c8fcb24b1193d8a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4425.JPG",
+        "key": "IMG_4425.JPG",
+        "sha256": "282944399568c2f2ef73e7733c16d169621d812ceb9a59da1faab50709c6e71c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4426.JPG",
+        "key": "IMG_4426.JPG",
+        "sha256": "0b13c2f49635624e8bc5d7ad4dafd1040e6de07a1f13819a3c08b669c2e8509f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4427.JPG",
+        "key": "IMG_4427.JPG",
+        "sha256": "f79ca3403a31e64021b0e9e9294b24d24769f5e443a0a1429d69729112e9dddb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4428.JPG",
+        "key": "IMG_4428.JPG",
+        "sha256": "4ec40cff838173c22411e908933ba6ceaced4dd60deafc6a0a7b5e16ab3e9ac5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2007\\2007 Декабрь Дисней Лэнд\\IMG_4429.JPG",
+        "key": "IMG_4429.JPG",
+        "sha256": "bdfd8361e5a8ec360084a810b8e12cf5f9f95b1efab4cf9b0667913a4a94b459"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "file": "content/americas/usa/los-angeles-disneyland-2007/los-angeles/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Лос-Анджелес",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_file": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Дополнение автора, правка окончания.txt",
+              "source_sha256": "33f555aacff77e5446293f8cd0d7bd28f8c0af10abeb1e129935eda2bf450609",
+              "quote": "В то время я работала с клиентом в Лос-Анджелесе и регулярно летала туда в командировки. И однажды решила немного задержаться, чтобы Наташа прилетела ко мне и мы вместе посмотрели Лос-Анджелес, а потом отправились в Диснейленд."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "los-angeles"
+          },
+          "reason": "Текущая поездка Лели и Наташи отделена от регулярных рабочих командировок.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Аэропорт Лос-Анджелеса",
+          "event": "transport_arrival",
+          "evidence": [
+            {
+              "source_file": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Дополнение автора, правка окончания.txt",
+              "source_sha256": "33f555aacff77e5446293f8cd0d7bd28f8c0af10abeb1e129935eda2bf450609",
+              "quote": "И вот вечер пятницы. Я закончила работу и еду встречать Наташу в аэропорт."
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "reason": "Встреча прилетающей Наташи; терминал не назван, музейной экскурсии нет.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Закусочные, заправки и район около аэропорта",
+          "event": "service_stops",
+          "evidence": [
+            {
+              "source_file": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Дополнение автора, правка окончания.txt",
+              "source_sha256": "33f555aacff77e5446293f8cd0d7bd28f8c0af10abeb1e129935eda2bf450609",
+              "quote": "Вокруг — латиноамериканский район, практически полностью испаноязычный. Начинаю останавливаться, заходить в какие-то закусочные, на заправки, подходить к работникам и спрашивать: «Do you speak English?» Все мотают головой и что-то бормочут по-испански."
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Поиск дороги, конкретные названия отсутствуют. Это не набор туристических объектов."
+        },
+        {
+          "label": "Лонг-Бич",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "los-angeles/img_4183.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "places": "long-beach"
+          },
+          "reason": "Отдельный город: океанариум и Queen Mary не находятся в муниципальных границах Лос-Анджелеса.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Aquarium of the Pacific",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "los-angeles/img_4199.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "long-beach--aquarium-of-the-pacific"
+          },
+          "reason": "Имя читается на здании; собственные кадры Наташи внутри экспозиций и у контактного бассейна подтверждают вход.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Рыбы, медузы, скаты, акулы, морские львы и контактные бассейны",
+          "event": "seen_as_exhibits",
+          "evidence": [
+            {
+              "photo": "IMG_4253.JPG"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "long-beach--aquarium-of-the-pacific"
+          },
+          "reason": "Экспозиции одного океанариума, не самостоятельные места наблюдения животных в океане. Наташа взаимодействует с контактным бассейном.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Queen Mary",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_file": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Дополнение автора, правка окончания.txt",
+              "source_sha256": "33f555aacff77e5446293f8cd0d7bd28f8c0af10abeb1e129935eda2bf450609",
+              "quote": "А дальше у нас была очень интересная программа. Начали мы с самого города. Ну, не совсем города — поехали смотреть корабль Queen Mary. Рядом стояла советская подводная лодка, в которую можно было залезть. Для меня посещение подлодки, наверное, было даже интереснее, чем самого корабля. Но интересными были оба. Потом мы заехали в Голливуд, погуляли по аллее, посмотрели звёзды и всё, что там можно посмотреть. Хотя, на мой взгляд, там не сильно интересно. Но это был интересный опыт. А потом нас ждал Диснейленд.\r\n"
+            },
+            {
+              "photo": "los-angeles/img_4276.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "long-beach--queen-mary"
+          },
+          "reason": "Поднялись на корабль, ходили по палубам, коридорам и каюте; не только увидели его с берега. Проживание в корабельном отеле не утверждается.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Queen Mary Village, кассы и модель корабля в разрезе",
+          "event": "visited_site_components",
+          "evidence": [
+            {
+              "photo": "IMG_4260.JPG"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "long-beach--queen-mary"
+          },
+          "reason": "Собственные фото 4257–4269: части музейного комплекса; не отдельные независимые посещения.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Советская подводная лодка Scorpion",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_file": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Дополнение автора, правка окончания.txt",
+              "source_sha256": "33f555aacff77e5446293f8cd0d7bd28f8c0af10abeb1e129935eda2bf450609",
+              "quote": "А дальше у нас была очень интересная программа. Начали мы с самого города. Ну, не совсем города — поехали смотреть корабль Queen Mary. Рядом стояла советская подводная лодка, в которую можно было залезть. Для меня посещение подлодки, наверное, было даже интереснее, чем самого корабля. Но интересными были оба. Потом мы заехали в Голливуд, погуляли по аллее, посмотрели звёзды и всё, что там можно посмотреть. Хотя, на мой взгляд, там не сильно интересно. Но это был интересный опыт. А потом нас ждал Диснейленд.\r\n"
+            },
+            {
+              "photo": "los-angeles/img_4298.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "long-beach--scorpion-submarine"
+          },
+          "reason": "Отдельный музейный объект рядом с Queen Mary. Оба участника внутри; фото проходов и перископа. Имя Scorpion сопоставлено с городскими материалами Лонг-Бича.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Голливуд и Аллея славы",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_file": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Дополнение автора, правка окончания.txt",
+              "source_sha256": "33f555aacff77e5446293f8cd0d7bd28f8c0af10abeb1e129935eda2bf450609",
+              "quote": "А дальше у нас была очень интересная программа. Начали мы с самого города. Ну, не совсем города — поехали смотреть корабль Queen Mary. Рядом стояла советская подводная лодка, в которую можно было залезть. Для меня посещение подлодки, наверное, было даже интереснее, чем самого корабля. Но интересными были оба. Потом мы заехали в Голливуд, погуляли по аллее, посмотрели звёзды и всё, что там можно посмотреть. Хотя, на мой взгляд, там не сильно интересно. Но это был интересный опыт. А потом нас ждал Диснейленд.\r\n"
+            },
+            {
+              "photo": "los-angeles/img_4306.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "los-angeles--hollywood-walk-of-fame"
+          },
+          "reason": "Гуляли по аллее и смотрели звёзды; фотографии с уличным персонажем.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Беверли-Хиллз",
+          "event": "viewed_from_bus",
+          "evidence": [
+            {
+              "photo": "los-angeles/img_4307.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "places": "beverly-hills"
+          },
+          "reason": "Собственный кадр указателя Beverly Hills из движущегося транспорта; выход и прогулка по парку не подтверждены.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Городская автобусная экскурсия",
+          "event": "transport_tour",
+          "evidence": [
+            {
+              "photo": "los-angeles/img_4308.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Наташа на открытом верхнем этаже автобуса в IMG_4308; оператор и точный маршрут неизвестны."
+        },
+        {
+          "label": "Фасад гостиницы в Лонг-Бич",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "IMG_4180.JPG"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "IMG_4180/81/82: высотный отель. Ночёвка именно в нём не подтверждена; название не определяется по одному фасаду."
+        },
+        {
+          "label": "Ресторан возле океанариума",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "IMG_4187.JPG"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "IMG_4187: Наташа перед ресторанным фасадом; название и вход требуют сверки."
+        },
+        {
+          "label": "Маяк и прогулочная гавань Лонг-Бича",
+          "event": "shore_walk_and_distant_view",
+          "evidence": [
+            {
+              "photo": "IMG_4188.JPG"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "IMG_4188–4195: прогулка по берегу, маяк виден издали. Подход к маяку и круиз на яхтах не подтверждены."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/usa/los-angeles-disneyland-2007/disneyland/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Диснейленд в Анахайме",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_file": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Диснейленд, лёгкая правка.txt",
+              "source_sha256": "10135dea117b92aabf0b87316c142ce56e42c0aeea986da73ede01f98ac908bd",
+              "quote": "Мы все на самом деле сходили в Walt Disney World, который во Флориде и который к нам ближе из Торонто. А мы с Наташей поехали в оригинальный Disneyland. Он меньше, состоит всего из двух парков. Один более диснеевский, с персонажами, с более лёгкими каталками, а второй уже более серьёзный, с высокими и страшными аттракционами."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Состоявшееся посещение подтверждено поздним рассказом и всем фотокомплектом, не только планом старого LJ.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Walt Disney World во Флориде",
+          "event": "ambiguous_other_visit",
+          "evidence": [
+            {
+              "source_file": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Диснейленд, лёгкая правка.txt",
+              "source_sha256": "10135dea117b92aabf0b87316c142ce56e42c0aeea986da73ede01f98ac908bd",
+              "quote": "Мы все на самом деле сходили в Walt Disney World, который во Флориде и который к нам ближе из Торонто. А мы с Наташей поехали в оригинальный Disneyland. Он меньше, состоит всего из двух парков. Один более диснеевский, с персонажами, с более лёгкими каталками, а второй уже более серьёзный, с высокими и страшными аттракционами."
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Фраза «Мы все на самом деле сходили» отличается от общего сравнения в старом LJ. Дата отдельного семейного визита во Флориду неизвестна; к калифорнийской поездке 2007 не присоединяется."
+        },
+        {
+          "label": "Второй парк комплекса",
+          "event": "mentioned",
+          "evidence": [
+            {
+              "source_file": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Диснейленд, лёгкая правка.txt",
+              "source_sha256": "10135dea117b92aabf0b87316c142ce56e42c0aeea986da73ede01f98ac908bd",
+              "quote": "Мы все на самом деле сходили в Walt Disney World, который во Флориде и который к нам ближе из Торонто. А мы с Наташей поехали в оригинальный Disneyland. Он меньше, состоит всего из двух парков. Один более диснеевский, с персонажами, с более лёгкими каталками, а второй уже более серьёзный, с высокими и страшными аттракционами."
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Описание состава комплекса не доказывает вход во второй парк. В 250 просмотренных фото узнаются сцены Disneyland Park; отдельного подтверждения второго входа не найдено."
+        },
+        {
+          "label": "Дом Микки Мауса и встреча с Микки",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_file": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Диснейленд, лёгкая правка.txt",
+              "source_sha256": "10135dea117b92aabf0b87316c142ce56e42c0aeea986da73ede01f98ac908bd",
+              "quote": "Мы пришли, покатались немножко, а потом Наташа говорит: «Хочу пойти к Микки Маусу в домик». Я говорю: «Куда тебе, старушке 12-летней?» Она говорит: «А я хочу». И мы пошли."
+            },
+            {
+              "photo": "disneyland/img_4357.jpg"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Внутри дома и Mickey’s Movie Barn; оба участника на фото с Микки. Один парковый комплекс, не отдельный жилой дом или музей.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Дом Минни Маус",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "disneyland/img_4364.jpg"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Розовый фасад и интерьеры 4361–4367: отдельный тематический домик внутри того же парка; не смешивается с домом Микки в перечне оснований.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Toontown, игровая тюрьма, автомобиль и дерево-дом",
+          "event": "visited_site_components",
+          "evidence": [
+            {
+              "photo": "IMG_4345.JPG"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Указатель Toontown на 4345, Наташа позирует у игровых декораций и внутри домика. Это не настоящая тюрьма или прокат дорожного автомобиля.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Лодочный аттракцион среди искусственных джунглей",
+          "event": "attended",
+          "evidence": [
+            {
+              "photo": "disneyland/img_4320.jpg"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Наташа в лодке, модели слонов и других животных в 4317–4328. Это парковый аттракцион, не сафари или новый зоопарк. Точное имя в источнике не написано.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Дом на дереве со сценами Тарзана",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "disneyland/img_4329.jpg"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Поднялись по мосткам, снимки внутри и у сцен; часть парка. Каталожное название на дату 2007 не приписывается без сверки.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Паровозная станция у входа",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "disneyland/img_4312.jpg"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Фото у входа не подтверждает поездку на Disneyland Railroad.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Фасад It’s a Small World",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "IMG_4368.JPG"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Фото Лели перед фасадом 4368; вход внутрь именно этого аттракциона по кадру не доказывается.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Автомобильный аттракцион",
+          "event": "attended",
+          "evidence": [
+            {
+              "photo": "IMG_4372.JPG"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Наташа в машине на направляемой трассе (4372), не только рядом с выставочной машиной. Название ещё не сверено.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Аттракцион с Баззом Лайтером",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "disneyland/img_4376.jpg"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Наташа внутри тематической площадки; точное название каталога не выдумывается.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Колёсный пароход в парке",
+          "event": "attended",
+          "evidence": [
+            {
+              "photo": "IMG_4379.JPG"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Наташа на борту и у рубки на 4379–4381; это отдельное парковое катание, не Queen Mary и не круиз в другом городе.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Остров, каноэ и макет орла на берегу",
+          "event": "viewed_from_attraction",
+          "evidence": [
+            {
+              "photo": "IMG_4382.JPG"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "4382–4385: вид с паркового маршрута, высадка на остров и гребля семьи не подтверждаются.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Тематический аттракцион с рождественскими декорациями в помещении",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "IMG_4386.JPG"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "4386/4387: осмотрели интерьер. Имя аттракциона в материале отсутствует.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Вечерний рождественский парад",
+          "event": "observed",
+          "evidence": [
+            {
+              "photo": "disneyland/img_4388.jpg"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Собственные кадры 4388–4398 с Лелей и парадом, а не рекламная картинка.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Крытый аттракцион с макетом механизма",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "disneyland/img_4399.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "4399–4401: Наташа внутри, но название аттракциона не установлено."
+        },
+        {
+          "label": "Парковая конка",
+          "event": "attended",
+          "evidence": [
+            {
+              "photo": "IMG_4409.JPG"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Наташа внутри вагона, отдельные фото лошади и вида из вагона 4409–4416. Не все транспортные средства на Main Street объявляются использованными.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Парковый двухэтажный автобус и открытый автомобиль",
+          "event": "viewed",
+          "evidence": [
+            {
+              "photo": "IMG_4413.JPG"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "4413/4417: транспорт парка с другими людьми, поездка семьи на них не подтверждена.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Замок и ночные огни парка",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "disneyland/img_4421.jpg"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "4420–4422: осмотрели декоративный замок; не создаётся посещение исторического дворца.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Dumbo — летающий слон",
+          "event": "attended",
+          "evidence": [
+            {
+              "photo": "IMG_4423.JPG"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Наташа в кабинке аттракциона на 4423/4424.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Кафе с мороженым и покупки значков/шапок",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_file": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Диснейленд, лёгкая правка.txt",
+              "source_sha256": "10135dea117b92aabf0b87316c142ce56e42c0aeea986da73ede01f98ac908bd",
+              "quote": "Потом мы разошлись, съели мороженое, купили шапки, купили специальные ленточки на шею, на которые принято собирать свои посещения Диснейлендов в виде значков. Купили себе по значку этого года и очень-очень были довольны своей поездкой.\r\n"
+            },
+            {
+              "photo": "IMG_4425.JPG"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Ели в парке, 4425/4426 показывают кафе с зелёной фигурой слона. Собственное название кафе неизвестно."
+        },
+        {
+          "label": "Суперпасс Dream Fastpass",
+          "event": "used_ticket",
+          "evidence": [
+            {
+              "photo": "disneyland/img_4369.jpg"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Материальный билет и рассказ подтверждают использование аттракционов; сам пропуск не доказывает посещение каждого существующего аттракциона без отдельного основания.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Встречи с персонажами",
+          "event": "attended",
+          "evidence": [
+            {
+              "photo": "disneyland/img_4402.jpg"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "disneyland-anaheim"
+          },
+          "reason": "Микки, Плуто, Дональд и бурундук — актёры парка, не самостоятельные географические объекты.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Гостиница возле парка",
+          "event": "booked_identity_unknown",
+          "evidence": [
+            {
+              "source_paragraph": 19,
+              "quote": "Я уже машину себе зарезеривировала (100$ на неделю!!!! По сравнению с Европой это просто вообще даром!), гостиницу на выходные прямо рядом со входном в парк, так что будем гулять :-) Там ТЕПЛО! +18!"
+            },
+            {
+              "photo": "IMG_4428.JPG"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "В LJ номер забронирован; фасад на IMG_4428 не устанавливает название и не доказывает, что именно в этом здании жили."
+        },
+        {
+          "label": "Мозаика с всадником",
+          "event": "exterior_or_public_interior",
+          "evidence": [
+            {
+              "photo": "IMG_4429.JPG"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "IMG_4429: отдельный фокусный объект, место и название не установлены. Не считается новым посещённым музеем."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_explicit_identification_questions",
+    "questions": [
+      {
+        "object": "Городская автобусная экскурсия",
+        "question": "Наташа на открытом верхнем этаже автобуса в IMG_4308; оператор и точный маршрут неизвестны.",
+        "chapter": "content/americas/usa/los-angeles-disneyland-2007/los-angeles/index.md"
+      },
+      {
+        "object": "Фасад гостиницы в Лонг-Бич",
+        "question": "IMG_4180/81/82: высотный отель. Ночёвка именно в нём не подтверждена; название не определяется по одному фасаду.",
+        "chapter": "content/americas/usa/los-angeles-disneyland-2007/los-angeles/index.md"
+      },
+      {
+        "object": "Ресторан возле океанариума",
+        "question": "IMG_4187: Наташа перед ресторанным фасадом; название и вход требуют сверки.",
+        "chapter": "content/americas/usa/los-angeles-disneyland-2007/los-angeles/index.md"
+      },
+      {
+        "object": "Маяк и прогулочная гавань Лонг-Бича",
+        "question": "IMG_4188–4195: прогулка по берегу, маяк виден издали. Подход к маяку и круиз на яхтах не подтверждены.",
+        "chapter": "content/americas/usa/los-angeles-disneyland-2007/los-angeles/index.md"
+      },
+      {
+        "object": "Walt Disney World во Флориде",
+        "question": "Фраза «Мы все на самом деле сходили» отличается от общего сравнения в старом LJ. Дата отдельного семейного визита во Флориду неизвестна; к калифорнийской поездке 2007 не присоединяется.",
+        "chapter": "content/americas/usa/los-angeles-disneyland-2007/disneyland/index.md"
+      },
+      {
+        "object": "Крытый аттракцион с макетом механизма",
+        "question": "4399–4401: Наташа внутри, но название аттракциона не установлено.",
+        "chapter": "content/americas/usa/los-angeles-disneyland-2007/disneyland/index.md"
+      },
+      {
+        "object": "Кафе с мороженым и покупки значков/шапок",
+        "question": "Ели в парке, 4425/4426 показывают кафе с зелёной фигурой слона. Собственное название кафе неизвестно.",
+        "chapter": "content/americas/usa/los-angeles-disneyland-2007/disneyland/index.md"
+      },
+      {
+        "object": "Гостиница возле парка",
+        "question": "В LJ номер забронирован; фасад на IMG_4428 не устанавливает название и не доказывает, что именно в этом здании жили.",
+        "chapter": "content/americas/usa/los-angeles-disneyland-2007/disneyland/index.md"
+      },
+      {
+        "object": "Мозаика с всадником",
+        "question": "IMG_4429: отдельный фокусный объект, место и название не установлены. Не считается новым посещённым музеем.",
+        "chapter": "content/americas/usa/los-angeles-disneyland-2007/disneyland/index.md"
+      },
+      "Точные исторические названия некоторых внутренних аттракционов 2007 (лодка среди джунглей, дом Тарзана, автомобильная трасса, пароход, крытые площадки) не переписываются по современным названиям. Их факты посещения сохранены в составе парка с фотооснованиями."
+    ],
+    "repeat_check": "Полный комплект исходных и поздних авторских текстов, 250 оригиналов и данные сверены. Океанариум, Queen Mary и подводная лодка добавлены отдельно; их входы подтверждены внутренними фото. Второй парк не объявлен посещённым только из-за общего описания курорта.",
+    "external_sources": [
+      {
+        "url": "https://www.aquariumofpacific.org/visit/parking",
+        "purpose": "Название океанариума и город Лонг-Бич."
+      },
+      {
+        "url": "https://www.longbeach.gov/globalassets/city-manager/media-library/documents/memos-to-the-mayor-tabbed-file-list-folders/2021/july-20--2021---queen-mary-study-session-report",
+        "purpose": "Городской материал о Scorpion рядом с Queen Mary; современное состояние не переносится на факт визита 2007."
+      }
+    ],
+    "new_attractions": [
+      "long-beach--aquarium-of-the-pacific",
+      "long-beach--queen-mary",
+      "long-beach--scorpion-submarine",
+      "los-angeles--hollywood-walk-of-fame",
+      "disneyland-anaheim"
+    ]
+  }
+}
