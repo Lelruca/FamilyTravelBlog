@@ -84,7 +84,12 @@
     root.querySelectorAll('[data-place-mode]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.placeMode===m)));
     list.hidden=mode!=='list';panel.hidden=mode!=='map';filter(); // the map draws only what the search found
   }
-  root.querySelectorAll('[data-place-mode]').forEach(button=>button.addEventListener('click',()=>setMode(button.dataset.placeMode)));
+  root.querySelectorAll('[data-place-mode]').forEach(button=>button.addEventListener('click',()=>{
+    // the country open in the list goes to the map with the reader: it becomes the chosen country (one × brings the world back)
+    if (button.dataset.placeMode === 'map' && mode !== 'map' && openCountry && !searching()
+      && [...country.options].some(o => o.value === openCountry)) country.value = openCountry;
+    setMode(button.dataset.placeMode);
+  }));
   root.querySelector('#place-map-reset').addEventListener('click',fit);
   input.addEventListener('input',filter);country.addEventListener('change',filter);
   // clears the word and the country, keeps the view; the cleared search is what is remembered
