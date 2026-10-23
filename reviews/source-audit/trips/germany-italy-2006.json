@@ -1,0 +1,1804 @@
+{
+  "trip_path": "content/europe/germany/germany-italy-2006",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Германия у бабушки (разные годы).docx",
+    "sha256": "243621557acf4008e1c3f1318bfc24d2a51e61bf82ed89b6a3e03370a87dcbae",
+    "read": "Все абзацы поездки 2006 прочитаны, включая конец абзаца 12 до заголовка 2007. Все пять глав сайта целиком прочитаны: вступление, переезды, короткая Падуя, религиозный вывод и заключение. Целый DOCX разных годов уже прочитан отдельно, однако другие поездки имеют свои статусы."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 203,
+    "manifest": "media-manifests/germany-italy-2006.json",
+    "method": "Все 196 оригиналов папки 2006_Italy на 17 контактных листах и все 7 оригиналов Германия_2006 на одном листе просмотрены. 56 выбранных архивных оригиналов отдельно сверены по SHA-256. Случайные фасады и детали городских кадров не превращены в самостоятельные точки.",
+    "additional_originals": [
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3406.JPG",
+        "key": "Alpes/IMG_3406.JPG",
+        "sha256": "7b3da69f54002540c35989d551a938383e9418fe747f9ebc9bb0226b8e54436a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3407.JPG",
+        "key": "Alpes/IMG_3407.JPG",
+        "sha256": "9a1dedfb72a6dbff6143d4c8b9a7179f549600708a810bd8a94b046c9b5ee4d5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3408.JPG",
+        "key": "Alpes/IMG_3408.JPG",
+        "sha256": "fbc85fe18aab6c2fcdec1a3cce8bcc75c4faa36ffc91dd7e7d4f8d5246fd19aa"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3412.JPG",
+        "key": "Alpes/IMG_3412.JPG",
+        "sha256": "30dd5fc30c3460b938686267846142ab0dbd89c6d7645626644b772e60eb72a8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3413.JPG",
+        "key": "Alpes/IMG_3413.JPG",
+        "sha256": "cda233215d4341146ff3dece9b57010913f9f6ae772f8f9252d13a5eb4abf4d8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3414.JPG",
+        "key": "Alpes/IMG_3414.JPG",
+        "sha256": "2c43c146e7a5b89b7b286a2b063da8cbb8b4b5cd9e0d9df320f40283c23fbaf9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3415.JPG",
+        "key": "Alpes/IMG_3415.JPG",
+        "sha256": "e9aa13cc43af9edbf2fd07db7a83fd1d354915f4c4f55d555baf0a9699311a9f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3416.JPG",
+        "key": "Alpes/IMG_3416.JPG",
+        "sha256": "a83ffbfa9ec76a2d96664c839dd78ee0cf1597a63f1d3fdcf0a6227b60670d68"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3417.JPG",
+        "key": "Alpes/IMG_3417.JPG",
+        "sha256": "af35b95ab2d2b70d3a341bc816ca2ee8e06df4e80aebcd7678159b2515d9d4c9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3418.JPG",
+        "key": "Alpes/IMG_3418.JPG",
+        "sha256": "ead8020c2d35ea31a9c05d212d1b1183f173d1fe458647d3119a0b4c5f99ba20"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3419.JPG",
+        "key": "Alpes/IMG_3419.JPG",
+        "sha256": "bd3f04ff1caee55e497a495be1521cc943b6e62c2cb356287fe7ce95184e8276"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3420.JPG",
+        "key": "Alpes/IMG_3420.JPG",
+        "sha256": "2edd8502f5b7666d448292f4565bbd6ccd1544fa55d2ee8032c80fa71fe17838"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3421.JPG",
+        "key": "Alpes/IMG_3421.JPG",
+        "sha256": "aa2327d62b484c5af6d5ac06f0d106a94e4e6efd7a733099093280742cf8fd23"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3422.JPG",
+        "key": "Alpes/IMG_3422.JPG",
+        "sha256": "ef9513075ae3199fc879f18ede80e053e07a421ac33e4b99b52bec0cf85aea6b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3423.JPG",
+        "key": "Alpes/IMG_3423.JPG",
+        "sha256": "104d5cf8e49a2464d1ea397cf7c5d5f96df1ce7e8073f9b62159da669b78277e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3424.JPG",
+        "key": "Alpes/IMG_3424.JPG",
+        "sha256": "1b098a203c818fb173e5169fc9b98b7e1f7a528177bf2fc484005bc7d2ef07a8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3425.JPG",
+        "key": "Alpes/IMG_3425.JPG",
+        "sha256": "dc54e4f084dcf7b8707a5af7743e3a25909c3899091d06e73e00b4723f2f69b4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3426.JPG",
+        "key": "Alpes/IMG_3426.JPG",
+        "sha256": "60862a6e3a8dedb01c337bab18af785b248163bd25c9aa5de5be881f2f2214d8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3427.JPG",
+        "key": "Alpes/IMG_3427.JPG",
+        "sha256": "de120f6ec8f8e5a205f62324dc8ec398ed6050fe89ef51c99825f1b9fdda6d22"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3428.JPG",
+        "key": "Alpes/IMG_3428.JPG",
+        "sha256": "968e2b87334de5c0f2907ccd535db0b80a0f92e51fe4a3c1fe40c6712103ae96"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3429.JPG",
+        "key": "Alpes/IMG_3429.JPG",
+        "sha256": "590fa1a58c86b03023c3698898f7a8f12440089237a0aceea9ba1ba1c141a3b8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3430.JPG",
+        "key": "Alpes/IMG_3430.JPG",
+        "sha256": "f1b3569562a40dd5395a64acc1b8dc7f4e92bb687aa97a6561e52ffb7d93436f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3431.JPG",
+        "key": "Alpes/IMG_3431.JPG",
+        "sha256": "8c6fcaffc1262337a7eadc9f16b8e5af9516dc15d7b29a84264c987a15250ef2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3432.JPG",
+        "key": "Alpes/IMG_3432.JPG",
+        "sha256": "1cfb2cd94d09b6387991822f87dfa60e6cb8a2982b51e5f0a9e37f671e8ba342"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3433.JPG",
+        "key": "Alpes/IMG_3433.JPG",
+        "sha256": "36e8e7141efcc928dbafc5550cea92eff5400f657903fe63888f37156eda007f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3434.JPG",
+        "key": "Alpes/IMG_3434.JPG",
+        "sha256": "e9ed6db9660adcbf1805a11a6798392f35bc292508355be0a738ca2f71af79cf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3435.JPG",
+        "key": "Alpes/IMG_3435.JPG",
+        "sha256": "0c7b4ddeb73b5808d855656ea657b061629e0f9fadb670d65a21b440d8d77747"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3436.JPG",
+        "key": "Alpes/IMG_3436.JPG",
+        "sha256": "4634433fcb5502a2ab7bf75f30ef6c2b269371eaaa3707edc4803ad0984c173c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3437.JPG",
+        "key": "Alpes/IMG_3437.JPG",
+        "sha256": "537dc9669c15a2b50861c5da890bc1b084bb7d37f370dfb58bd606ab002bcc26"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Alpes\\IMG_3438.JPG",
+        "key": "Alpes/IMG_3438.JPG",
+        "sha256": "36e71e556eedd20b9e4b8991e33eb5fa5bb97edfc062200717359d4f23cc3d7a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3439.JPG",
+        "key": "Verona/IMG_3439.JPG",
+        "sha256": "976764d39242b1c36dde3b908d3299df749705c4adc9d3e23996dda75b14eb8e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3440.JPG",
+        "key": "Verona/IMG_3440.JPG",
+        "sha256": "60db0fd1cad287a08c83aecd73ad53eb4cf80414f7e665551985f6805db9365e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3441.JPG",
+        "key": "Verona/IMG_3441.JPG",
+        "sha256": "7f7a2e92dd026949686a5d06801e376c6e4bd596d665ece99f2773a030f3d8ac"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3442.JPG",
+        "key": "Verona/IMG_3442.JPG",
+        "sha256": "55cd00bae4dd9e5f8352bab4b90d1bfc7a2f63546ac86565440d03c084217f90"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3443.JPG",
+        "key": "Verona/IMG_3443.JPG",
+        "sha256": "b2e5e2ba3701e9de6c4f86859d37d8493d17396b9f9b73c1d313558305d25770"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3444.JPG",
+        "key": "Verona/IMG_3444.JPG",
+        "sha256": "bcb47506b6f8cff4fc2eaf438a5e3b4e8aadf325e5ef691dd14879876b6983ea"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3445.JPG",
+        "key": "Verona/IMG_3445.JPG",
+        "sha256": "f3841c099843d2091f7b8a69de30abdf1505da904ff0c3341d6bf61620a3c29e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3446.JPG",
+        "key": "Verona/IMG_3446.JPG",
+        "sha256": "5823bdf683e9aa21bb8db605ffcd94098a3e64320409ca1463f22196b6ff5387"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3447.JPG",
+        "key": "Verona/IMG_3447.JPG",
+        "sha256": "a2c88291ce4ded1be1a47b0e17e5bf6e2d2a77eb415c61d99b3c12e2128e1e4b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3448.JPG",
+        "key": "Verona/IMG_3448.JPG",
+        "sha256": "5b7eef882699fc9a315349613b4a4d6366122fdc17d10dc7631bc649a66e27d9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3449.JPG",
+        "key": "Verona/IMG_3449.JPG",
+        "sha256": "a294c8e2807cbcf46cfc6f4a85ee2ab56e52da599c430de7061be194d7990699"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3450.JPG",
+        "key": "Verona/IMG_3450.JPG",
+        "sha256": "45e186898f7fae1b8d741bbf283b2360208bfca014ab83e72fb88367ce745b6d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3451.JPG",
+        "key": "Verona/IMG_3451.JPG",
+        "sha256": "990bb30a29d7c0bbfafd57daa77dddf278846d797bb27cc17c21c3067f05de0a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3452.JPG",
+        "key": "Verona/IMG_3452.JPG",
+        "sha256": "172287c5932b390c968a1cd7c62b3b24ec1fcc11d791a4f6a67d55d943ff6747"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3453.JPG",
+        "key": "Verona/IMG_3453.JPG",
+        "sha256": "382a73669d29524f7154de53ac21e59075aa765a1684acbfbbcbc0670687ff9f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3454.JPG",
+        "key": "Verona/IMG_3454.JPG",
+        "sha256": "bd07e45b27010563444d46ac3125548d8c094677c2bc4ebbd1ec0d1063d59489"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3455.JPG",
+        "key": "Verona/IMG_3455.JPG",
+        "sha256": "f8c6e6cc06f0c29564c7ec18d5b8e784bd31f28a4112d5ff6115121ea502cf23"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3456.JPG",
+        "key": "Verona/IMG_3456.JPG",
+        "sha256": "19c17aec3cd6bf21257c667c70e22318e3603efec47c73d638a6c5e17f208ac1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3457.JPG",
+        "key": "Verona/IMG_3457.JPG",
+        "sha256": "0c6003cc7fa5db935cb1339b057307f8eab43b3fd3ffc473143ac71886cacc0e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3458.JPG",
+        "key": "Verona/IMG_3458.JPG",
+        "sha256": "5daa803b0ab7458475604884374125084cdd7558c550dcf610da80fa4cf911fb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3459.JPG",
+        "key": "Verona/IMG_3459.JPG",
+        "sha256": "9025bd8bf8c279ae3909c2a2ad8b65ed50a8bfc67507059f3f80a230d5714a57"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3460.JPG",
+        "key": "Verona/IMG_3460.JPG",
+        "sha256": "f3a37c6ee82a6ba67f480e13f75bd250fdccc0ebef1a7e82c79a4b1f2d97606c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3461.JPG",
+        "key": "Verona/IMG_3461.JPG",
+        "sha256": "a8993da690a1dcc85d53b3ad3353c6ceb4c3683e8c7231d580bc20ce812cdf78"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3462.JPG",
+        "key": "Verona/IMG_3462.JPG",
+        "sha256": "fa25dd3565cc68624e5258686e2917f4035a9ccc080a8b65109a74cc3a42ff4f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3463.JPG",
+        "key": "Verona/IMG_3463.JPG",
+        "sha256": "7e6c23ca99127c6a47f11e3a6e62c2acbf455ce9c4f94c09311c411cd6a0ca3e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3464.JPG",
+        "key": "Verona/IMG_3464.JPG",
+        "sha256": "de897895d8ba2ab4f1d199b74552e035ba89010e6e14d9bb2af1148f0433ee4a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3465.JPG",
+        "key": "Verona/IMG_3465.JPG",
+        "sha256": "8a08f0ea099d525892e37b3d58e6b1cc055ce2aea7d2fe70998da144ddff6932"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3466.JPG",
+        "key": "Verona/IMG_3466.JPG",
+        "sha256": "a7c10af922d9e2d36a56f5cb2b65845be3acdf7359893679dd2ef99b1c84cb89"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3467.JPG",
+        "key": "Verona/IMG_3467.JPG",
+        "sha256": "114872747871965e660f093c0f0614b2b5930ac3f68eca27719ab9d34ca2d263"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3468.JPG",
+        "key": "Verona/IMG_3468.JPG",
+        "sha256": "8eebde45196be3142c7412443781935e09c2e62e06633271981eead911805961"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3469.JPG",
+        "key": "Verona/IMG_3469.JPG",
+        "sha256": "f19c89b645fc8da889f6e8aed78f7b2311717a1bc0b4547db1f8a9e85df0fbc3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3470.JPG",
+        "key": "Verona/IMG_3470.JPG",
+        "sha256": "5c0796273a4f84020685047797103d8ad46461fee1d6951a956befec754f6306"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3471.JPG",
+        "key": "Verona/IMG_3471.JPG",
+        "sha256": "dc2a3e209a654ca7a8fdcd0ac9fe3df21d48a7e4dfd0c953ea05c75020eed8a1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3472.JPG",
+        "key": "Verona/IMG_3472.JPG",
+        "sha256": "2db6b32d6a0e0fa15aa128cabd5b93ad88ce187fc4b163765461ad9d48c36314"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3473.JPG",
+        "key": "Verona/IMG_3473.JPG",
+        "sha256": "328d27ab300f66cc682b39b77aceccaf66d89e037b3c2acdaa77b47831828d54"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3474.JPG",
+        "key": "Verona/IMG_3474.JPG",
+        "sha256": "5eae69e646480871a62957156da0a8809ed7bfedd4fd491b4d9a0a172b65464d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3475.JPG",
+        "key": "Verona/IMG_3475.JPG",
+        "sha256": "a444787597e93323e02bb8dd9dea89be6e18a4833fcd77bd6ce7ed53de05f37a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3476.JPG",
+        "key": "Verona/IMG_3476.JPG",
+        "sha256": "d68d9d5ab811f7adc788a4dd677f2b6b890ad176682b3b7536addaa64d980ba8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3477.JPG",
+        "key": "Verona/IMG_3477.JPG",
+        "sha256": "e060c771e0e7b00530e655f2b867f062469ab2d6558ff567be77e58d0ebe7a40"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3478.JPG",
+        "key": "Verona/IMG_3478.JPG",
+        "sha256": "5f977ac1049921743c4cfd9c8175249b27a396626f628a40341571bb55220bb1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3479.JPG",
+        "key": "Verona/IMG_3479.JPG",
+        "sha256": "f1afd40a2855c0aeedd3fed69c50bc09a9a6f2ca53162b3ecfd77f6d6e8e7af6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3480.JPG",
+        "key": "Verona/IMG_3480.JPG",
+        "sha256": "2979fa9bcd4148120fdb68673442cd82d79bd05d7adb78fe67482ad3a5d36d2b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3481.JPG",
+        "key": "Verona/IMG_3481.JPG",
+        "sha256": "ab6d8cbf3a9549dbceec77fc98543432929118bcb031fc50a98bd11439ffc17f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3482.JPG",
+        "key": "Verona/IMG_3482.JPG",
+        "sha256": "d664ebb2db0f1172f02284e6bc7c294380ed1f820468628c86fa2f0f91f9bc71"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3483.JPG",
+        "key": "Verona/IMG_3483.JPG",
+        "sha256": "65122b6d76e680d47dac5c46048657b7ab30623e32e35156928b98e296143f5a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3484.JPG",
+        "key": "Verona/IMG_3484.JPG",
+        "sha256": "4588d5ce5fda91711b18c7651eef04e2992e727967f3f4040cfb47d3a4888abd"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3485.JPG",
+        "key": "Verona/IMG_3485.JPG",
+        "sha256": "2a185858245dfc6b428c806ea0f21f7bc61f8330b833073d09b7f4b5ca8cc32f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3486.JPG",
+        "key": "Verona/IMG_3486.JPG",
+        "sha256": "3812e03d29310f1802036e26dd8ff6e1bc9c03b3b0f8ea71fac4956cccc6a324"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3487.JPG",
+        "key": "Verona/IMG_3487.JPG",
+        "sha256": "cd1ca10dc2863d1510e1ff5bf46df7d04fa4cc88c50544bf1ec0f5cc7b2f494c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3488.JPG",
+        "key": "Verona/IMG_3488.JPG",
+        "sha256": "d78133f128096c7ea594416511b0e4ed2e73d6d2bddc5d2a8048b8bc327c8a15"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3489.JPG",
+        "key": "Verona/IMG_3489.JPG",
+        "sha256": "98725d9074935a4ba3f73835b0b7da649ba76876750f60c10284677abf29351f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3490.JPG",
+        "key": "Verona/IMG_3490.JPG",
+        "sha256": "fa9aac589bf36556ac7f1ccc5db2d4086a811f51676a0d82208b06b41c40345d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3491.JPG",
+        "key": "Verona/IMG_3491.JPG",
+        "sha256": "9d2e5057891767aa77341b774c57f7c51d44274e00a190e60d99304954162a4a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3492.JPG",
+        "key": "Verona/IMG_3492.JPG",
+        "sha256": "5c72e628b71a5ab68d21da45e6a40c16c94e18eaf237b8ee50f18151fcf7e6bd"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3493.JPG",
+        "key": "Verona/IMG_3493.JPG",
+        "sha256": "e1ea3b457c71214ba080b8ffb1c4877670d9e853f0ae0bb91a7684e7db4d2ce3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3494.JPG",
+        "key": "Verona/IMG_3494.JPG",
+        "sha256": "73af5a224d40046d618f1b1cdf504757b9ebb64ab883c306eb9497996b31872e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3495.JPG",
+        "key": "Verona/IMG_3495.JPG",
+        "sha256": "b9b37e91637b24ad612a7b8be9e5b786ef6254440b84cdd2561481ba33f0c2c6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3496.JPG",
+        "key": "Verona/IMG_3496.JPG",
+        "sha256": "e1b23323397dad27efaf4887cf943f53a1c5f11f7c6d3a3bd5fa915b211e861c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3497.JPG",
+        "key": "Verona/IMG_3497.JPG",
+        "sha256": "b8e3b5bbae65f56ed8a2e83aaac5ef76142aa319c2304969d53fba4c50b155c1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3498.JPG",
+        "key": "Verona/IMG_3498.JPG",
+        "sha256": "e9aa5881666fd772bd05d8987b1f796c8e195daaf80637f903d88e69fb024789"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3499.JPG",
+        "key": "Verona/IMG_3499.JPG",
+        "sha256": "2eb148769f008a4d61ea19285e08ecccb681145412ad8417d18184bdd9cbfe21"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3501.JPG",
+        "key": "Verona/IMG_3501.JPG",
+        "sha256": "92a4f050135f266cc4d4ef0e5311f83d88d50b4e5f406860bea24cdc6ace7ba6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3502.JPG",
+        "key": "Verona/IMG_3502.JPG",
+        "sha256": "50057f9d2e5c345290acc3bec7928ea6c88b837eb0c880e5408b0176560e5ddf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3503.JPG",
+        "key": "Verona/IMG_3503.JPG",
+        "sha256": "32e1cc63bc328856220d96cda4c9d18b404dca4ffceae176bc9686d9439a84ce"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3504.JPG",
+        "key": "Verona/IMG_3504.JPG",
+        "sha256": "640b4d23b235d212bd16c7c78c57b350d7173ed39ce883a6ab4eda6ad4eba3c5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3506.JPG",
+        "key": "Verona/IMG_3506.JPG",
+        "sha256": "1a3cf7cd11d94e45c141df2e07dbcd56807e00d29e57aa598f8f3ed961c8a20e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3507.JPG",
+        "key": "Verona/IMG_3507.JPG",
+        "sha256": "67ddbee5ec1be27fcff8c9d7ce49831726625ef529b2d23894d5b13cd98e3143"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3508.JPG",
+        "key": "Verona/IMG_3508.JPG",
+        "sha256": "265f8e8e12d216e2cbee565b855b7d3fa0e8b000ec7ccdfe2e193ecdb57769b3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Verona\\IMG_3509.JPG",
+        "key": "Verona/IMG_3509.JPG",
+        "sha256": "52e3c9dd43c6989ba0ea92c76edbbdd785c0f32347de65cf894a7bf1d7a1c2ee"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3525.JPG",
+        "key": "Венеция/IMG_3525.JPG",
+        "sha256": "e5741e468aaa8d9d78835f6e7619fd87ed9f593b026d7c999f5109f32fad442d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3526.JPG",
+        "key": "Венеция/IMG_3526.JPG",
+        "sha256": "61dc408ee7fe132893e741f7f9ad5ca164d7cb5f68fc466cd6784cf59fff6d9c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3527.JPG",
+        "key": "Венеция/IMG_3527.JPG",
+        "sha256": "347a58890ad45c19f8183238fd2ddec32ab542fb055053061c89e2bbca1d3402"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3528.JPG",
+        "key": "Венеция/IMG_3528.JPG",
+        "sha256": "7f759817056712e78c88746fe4f1c5791ef34630ec4e559c7a7291562f6351aa"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3529.JPG",
+        "key": "Венеция/IMG_3529.JPG",
+        "sha256": "971cf3d4b90b8b1a42e29b0fef3465a461348f56af881a329884473cce3fae7a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3530.JPG",
+        "key": "Венеция/IMG_3530.JPG",
+        "sha256": "02917bae7c4a15e04f1148b3f80928b0da2a92538246ded75d6578f2c1eabac3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3531.JPG",
+        "key": "Венеция/IMG_3531.JPG",
+        "sha256": "e683aad53f346898ff6cdb4b95a677ea11da36d389255911e5a21aa7e8df483f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3532.JPG",
+        "key": "Венеция/IMG_3532.JPG",
+        "sha256": "baa4d33bc05ad1f950cfb3cee2b287b99a18d764d7dec5da37a70bcc83daf1b7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3533.JPG",
+        "key": "Венеция/IMG_3533.JPG",
+        "sha256": "7c16557acae417fd54846d4b350cc1a99056dfe77f4aeb4d29c446968d39ab9f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3534.JPG",
+        "key": "Венеция/IMG_3534.JPG",
+        "sha256": "930f0b2f2042b7e3bd1b2b33865f6fe2cb4f93d5f7c2383b436daa8b03e8925f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3535.JPG",
+        "key": "Венеция/IMG_3535.JPG",
+        "sha256": "81e7cda142d9bb7af8d10701b4595c2f316369ff4c01927282aa13917af1cdf6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3536.JPG",
+        "key": "Венеция/IMG_3536.JPG",
+        "sha256": "2e9e83ca9718e59253d512e74eb7d6740445159344ceece3f3063b658bd20e12"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3537.JPG",
+        "key": "Венеция/IMG_3537.JPG",
+        "sha256": "bdc3d92171cecdf5949ecce13a69eba608f05248d8904da234680472957a04d2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3538.JPG",
+        "key": "Венеция/IMG_3538.JPG",
+        "sha256": "e6eccbd54c4c820056b69c1866fae4694adc54581126bd14ec55e13018417b81"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3539.JPG",
+        "key": "Венеция/IMG_3539.JPG",
+        "sha256": "5b3a0edf30d47441d876b807637a4cfe959879c8d5d1e7d551ad819aa2e13989"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3540.JPG",
+        "key": "Венеция/IMG_3540.JPG",
+        "sha256": "86f044c66b68691879c8ed62faf6eb515680bae492a042ed9d3fcc9bf69dde21"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3541.JPG",
+        "key": "Венеция/IMG_3541.JPG",
+        "sha256": "5af23094e431c4764860aef77650fdb3490f215d96edb8a2f13e1532931ed455"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3542.JPG",
+        "key": "Венеция/IMG_3542.JPG",
+        "sha256": "0407bb60b0f3593b1866ac04090b5f85aeb5041c15716de033fcb847916364ae"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3543.JPG",
+        "key": "Венеция/IMG_3543.JPG",
+        "sha256": "e9d4b1fa64b2f27a43862aada1e292b1f7f9883f9ee4cfde03394268a1d782c7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3544.JPG",
+        "key": "Венеция/IMG_3544.JPG",
+        "sha256": "c43a2512d9c8cc2eaa8ea7ebe288bbf832fba3cb6e3a6c32a7987624738c8744"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3545.JPG",
+        "key": "Венеция/IMG_3545.JPG",
+        "sha256": "01347a7adb17d0038f4b4db28c555b7c09644cd1d13b7d93eea1353db04bf6b8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3546.JPG",
+        "key": "Венеция/IMG_3546.JPG",
+        "sha256": "4f46730ec86a55ccaed133d349d244c218077342b18854852f37c9ef08b0be28"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3547.JPG",
+        "key": "Венеция/IMG_3547.JPG",
+        "sha256": "758fdeadc5079bbd4238bcd0442883ee877368d4f0d7ef1e1f234c5dbfb069eb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3548.JPG",
+        "key": "Венеция/IMG_3548.JPG",
+        "sha256": "e281a3192f32f8ef1688575f312e0687140ddf38aad3c538855dcb89569eaf15"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3549.JPG",
+        "key": "Венеция/IMG_3549.JPG",
+        "sha256": "3e9542ed5571167b75527171e6a58833949bbd1171be651e9b58cdb2fa137140"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3550.JPG",
+        "key": "Венеция/IMG_3550.JPG",
+        "sha256": "8f86e3ced74a530c83de75765ca0beb2b13fc56f90f9273c20b68051f98aa52d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3551.JPG",
+        "key": "Венеция/IMG_3551.JPG",
+        "sha256": "e184268dbd66bd7d5b163f6bd9e9d2caa9b87d1c18dd53213e102b5d6083eb7a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3552.JPG",
+        "key": "Венеция/IMG_3552.JPG",
+        "sha256": "341eac0ec6d6c5a1e2a6a29fd448e7aba8767b1acb7a5dd1e1ef85c9513d00fa"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3553.JPG",
+        "key": "Венеция/IMG_3553.JPG",
+        "sha256": "b2e0afdf5f10828c2d07fa0e616287d27bfbf2aeb8b718dc302882e42985af3a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3554.JPG",
+        "key": "Венеция/IMG_3554.JPG",
+        "sha256": "80efc41edbcc2346aad9517d2eefad3308fd00caad91bd41639c64aab5a41d3a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3555.JPG",
+        "key": "Венеция/IMG_3555.JPG",
+        "sha256": "dc279293d90e4e04357beb65b58067c8f9dc03e10f26fd56d3475ac939237968"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3556.JPG",
+        "key": "Венеция/IMG_3556.JPG",
+        "sha256": "ca6bbaca22ec496c836ac8f39b5a7f0ab73bfe51bc447dbd6ad7aaa680284889"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3557.JPG",
+        "key": "Венеция/IMG_3557.JPG",
+        "sha256": "abc1ebdcdff0a07ac304476ee9d9675326f53cbe79a338d99f6aaa1b2687f23e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3558.JPG",
+        "key": "Венеция/IMG_3558.JPG",
+        "sha256": "0b70088fcc7cb39f48b6ea34360be430f8f213f42356d6a169d7ae9ccdcb9c44"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3559.JPG",
+        "key": "Венеция/IMG_3559.JPG",
+        "sha256": "26cac2c3fceaf3a9b493c4728d5790a0a6221fb4e1a20a4b97794041cca283ea"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3560.JPG",
+        "key": "Венеция/IMG_3560.JPG",
+        "sha256": "85c56cf809f95772ad81c5db42b0e0b61b3339122ec55e6e366a74fb05e12830"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3561.JPG",
+        "key": "Венеция/IMG_3561.JPG",
+        "sha256": "8e53853ebe5c0b820ab67b2846af20f4ea2e1ca4348b5fdb65eb8f0a0f6db0a9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3562.JPG",
+        "key": "Венеция/IMG_3562.JPG",
+        "sha256": "ed670f6dd895210ab4bd277b292b0581576d56a6981d49b17abd0dbc195ae73d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3563.JPG",
+        "key": "Венеция/IMG_3563.JPG",
+        "sha256": "f4b26dc3052d8b137ed8d95ccb61f0aec2c1c1b5208a0aafdbd5fd57e0224b45"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3564.JPG",
+        "key": "Венеция/IMG_3564.JPG",
+        "sha256": "697e8cceaa0bad8faacc3c62e4a2c5579d0a94ac55c7464b590838a0c6ed1a34"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3565.JPG",
+        "key": "Венеция/IMG_3565.JPG",
+        "sha256": "6e15256a0f36250d1b0ac0011a2817e263e5a9d1af2701c93386674cc2ffae83"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3566.JPG",
+        "key": "Венеция/IMG_3566.JPG",
+        "sha256": "282e92319cc264687982d798ffbf715df7a2e8fe4b133852862647466a07df46"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3567.JPG",
+        "key": "Венеция/IMG_3567.JPG",
+        "sha256": "805d487428df96266becfbc17f123b653ba865ef92948753ca76666c8df4d603"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3568.JPG",
+        "key": "Венеция/IMG_3568.JPG",
+        "sha256": "13ee8b103c5282009c9865f0f33b8f20e68cd3b77a671fdab94bec9a3ba6884a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3569.JPG",
+        "key": "Венеция/IMG_3569.JPG",
+        "sha256": "1674ee93f78e62917f2698c56595efa209dad1443f957adfedead9160e1663d6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3570.JPG",
+        "key": "Венеция/IMG_3570.JPG",
+        "sha256": "9fb59b6abedd488c64ee110cdba64a97afdb2540e74cfd7c008fd13c5e76d71c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3571.JPG",
+        "key": "Венеция/IMG_3571.JPG",
+        "sha256": "a78ba401aaba67d40c23f71d42503f17934c8d85dc0df836e7b2da3dd23215bb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3572.JPG",
+        "key": "Венеция/IMG_3572.JPG",
+        "sha256": "41894683596140deb589bcbb8ed91920ef99f61310eb0b76849a36c3fc99b885"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3573.JPG",
+        "key": "Венеция/IMG_3573.JPG",
+        "sha256": "2ccb59ed134865fd181e03af906110a63b9961d2a6be6ef396c8a086540ac0cf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3574.JPG",
+        "key": "Венеция/IMG_3574.JPG",
+        "sha256": "5bf4353496deb596f0d1731572b0cf6fc1fb60587dd20eb8baa92dc736689db4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3575.JPG",
+        "key": "Венеция/IMG_3575.JPG",
+        "sha256": "e5381545ae6e932abbeebf4a8a4e0e778ceefc70d90cf14790fd7608d87d1948"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3576.JPG",
+        "key": "Венеция/IMG_3576.JPG",
+        "sha256": "2934ded70685cb0b77daa507513eada9d97025acccb5145ebe06e2dce0e9c72d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3577.JPG",
+        "key": "Венеция/IMG_3577.JPG",
+        "sha256": "2a2c551f2ea26b466e0655d64ee745ea1d68b4f12e8f1683b7b4b59ed789100b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3578.JPG",
+        "key": "Венеция/IMG_3578.JPG",
+        "sha256": "56db49dceb6611a96e96736c0e968b4e46f0ac0292ed96c42d6bb7e1e04a46f8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3579.JPG",
+        "key": "Венеция/IMG_3579.JPG",
+        "sha256": "b437e7fa5d1b8371ff5675613d383b0a2e526abd640532b80a0aa109611f99a8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Венеция\\IMG_3580.JPG",
+        "key": "Венеция/IMG_3580.JPG",
+        "sha256": "e81a1e98b4923560b5f2522c09151a0b06d74ed0434bab19771dcbca9991e9aa"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3581.JPG",
+        "key": "Милан/IMG_3581.JPG",
+        "sha256": "214b936b2192f70a3fd94ce008dc1d2b371c6e4b7a089306df7eded46dfa4102"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3582.JPG",
+        "key": "Милан/IMG_3582.JPG",
+        "sha256": "9564a5e84620a048d342e47d6e4db909c3b6d92d3e6da5cdc41054d69c9c5f59"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3583.JPG",
+        "key": "Милан/IMG_3583.JPG",
+        "sha256": "f0e21706ec915a63140e7da6913c77a70ab132a148361ba5d28c38a5abd1bc87"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3584.JPG",
+        "key": "Милан/IMG_3584.JPG",
+        "sha256": "60270d582cf88713f91789fcc7fb734800afbe7497bc7827a524a2f900c08145"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3585.JPG",
+        "key": "Милан/IMG_3585.JPG",
+        "sha256": "d886a735171af6ada3b8a63473ea5243f250854358b636ebaf3315a5d8a011ca"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3586.JPG",
+        "key": "Милан/IMG_3586.JPG",
+        "sha256": "954cae5a31799a2c0654d3546b2dadae130a8b89f32c451dee21a42e34b2f588"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3587.JPG",
+        "key": "Милан/IMG_3587.JPG",
+        "sha256": "0f3e4af273d521643b57fdd669c6086f598fe5254845c653b8a41380fb9080ed"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3588.JPG",
+        "key": "Милан/IMG_3588.JPG",
+        "sha256": "b4726af1bf2fbe990f3d709fb0edaf461162e0c51c8e8b8e74554aa197f9e09f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3589.JPG",
+        "key": "Милан/IMG_3589.JPG",
+        "sha256": "a08bb3be4b118458c91b1c898d4141c761c7bf20c57a924df0ae0a91ef00547c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3590.JPG",
+        "key": "Милан/IMG_3590.JPG",
+        "sha256": "7bb89a8de3ddccdb941f6a23e1a2bc63725d14f79ff55284d275494af19989f2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3591.JPG",
+        "key": "Милан/IMG_3591.JPG",
+        "sha256": "ef3ce33424d81c41a138327c9066b9ef0c8083ebf22a16d57afc8a3b5026702f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3592.JPG",
+        "key": "Милан/IMG_3592.JPG",
+        "sha256": "f3d4ac49d3c2af6fcaa3c11652a7678585dd254a6ba101258115259a03a3d31b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3593.JPG",
+        "key": "Милан/IMG_3593.JPG",
+        "sha256": "464b506e052c7a4a9de4d8a6e2a79c690863df2c4377e78bce2958a861713abf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3594.JPG",
+        "key": "Милан/IMG_3594.JPG",
+        "sha256": "7257c629b993cfe2a6e0b0b03d5dc94bced3c626b01917f1b4585c81ce1a0d90"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3595.JPG",
+        "key": "Милан/IMG_3595.JPG",
+        "sha256": "4f8f797de3b132e3b8977e1436789b09b2d62ccf856958eb6654144bd1f82768"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3596.JPG",
+        "key": "Милан/IMG_3596.JPG",
+        "sha256": "23c9f6932cf7d41567be5e562951f88d4e64c691eb830831cb116d6787a52315"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3597.JPG",
+        "key": "Милан/IMG_3597.JPG",
+        "sha256": "99fed332d335d53819ed49a1c7037a01e854d57c7652fecf3014ec8db9fd2217"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3598.JPG",
+        "key": "Милан/IMG_3598.JPG",
+        "sha256": "5b59b607edff7ace8c014003deb976449f7c04f7ef0fd764e902f64cb4f40fde"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3599.JPG",
+        "key": "Милан/IMG_3599.JPG",
+        "sha256": "a02debc03eca1f73413af219818e6b7b6ec0f26187ba46838dea22af4c3c70b0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3600.JPG",
+        "key": "Милан/IMG_3600.JPG",
+        "sha256": "c11758a5038fbde7d2dd2fa27812f192444f9f44305207a6399076d3375293b5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3601.JPG",
+        "key": "Милан/IMG_3601.JPG",
+        "sha256": "292f72790fe50c37a9cd8511e8e95c6a8443b844c0c84286eacaafe07a26cc23"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3602.JPG",
+        "key": "Милан/IMG_3602.JPG",
+        "sha256": "376e4dc255b2b893626709f07469aa9b84967486bfedbd82d374c34297259333"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3603.JPG",
+        "key": "Милан/IMG_3603.JPG",
+        "sha256": "e4c60abd8a2868b6bfcb6e8d25b8d784f2db54d9f845b5ac21be6e72eec48861"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3604.JPG",
+        "key": "Милан/IMG_3604.JPG",
+        "sha256": "b6e1727f8d4ce1c7eb3e076b7e60b26f5e18ac074eb1b570a832662045f3fe04"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3605.JPG",
+        "key": "Милан/IMG_3605.JPG",
+        "sha256": "5349489a3b5db6a1e3e5a2c284456a79ce6888258c994e86fde5b4461a0fe0b3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Милан\\IMG_3606.JPG",
+        "key": "Милан/IMG_3606.JPG",
+        "sha256": "d36d7d8ca48c17a223cb0c46633ca6a974cf0434305a3521212b8cdb53f716c1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3510.JPG",
+        "key": "Падуа/IMG_3510.JPG",
+        "sha256": "1b9783b8144329810b480476f43a0a679077eac7703bd5c2cc91c80e1ec4eb02"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3511.JPG",
+        "key": "Падуа/IMG_3511.JPG",
+        "sha256": "5fa507bdc89d34cf01135aba4e10581d0d9c1ebfe8a92b56f479b8d3da62d7ea"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3512.JPG",
+        "key": "Падуа/IMG_3512.JPG",
+        "sha256": "06b88953308375782a6501f4b2f77e3181345ce2989debdd262c268bc4953b01"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3513.JPG",
+        "key": "Падуа/IMG_3513.JPG",
+        "sha256": "97531e03f2be4a6675afc77f71ae0b23745f6172c9dd9f045cd1d9499401f1e7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3514.JPG",
+        "key": "Падуа/IMG_3514.JPG",
+        "sha256": "3d5d68f42fff86948594e2b7c2236f5557889afedab86e6f84aeed949a7e26f4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3515.JPG",
+        "key": "Падуа/IMG_3515.JPG",
+        "sha256": "ef0de1d86569f0980220738d4332dd29beea93e8785840fbc7ed2c956eb10c9d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3516.JPG",
+        "key": "Падуа/IMG_3516.JPG",
+        "sha256": "86b697d6783405fe3b88539891447161d5485ec8ef1402d0a2f58c8ca4d75256"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3517.JPG",
+        "key": "Падуа/IMG_3517.JPG",
+        "sha256": "b25daa8bee0c436db862ed7c7c209a460b0776fca7a76c2965aa78b5f6b51155"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3518.JPG",
+        "key": "Падуа/IMG_3518.JPG",
+        "sha256": "f82cd59b84264e6b24cc660a63e416662f2a4aab835b7147fd94c34ab0d6d8c9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3519.JPG",
+        "key": "Падуа/IMG_3519.JPG",
+        "sha256": "6ae97b11212e714428a5c7c6033db814c182014e432c77637277a119f4f8ef30"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3520.JPG",
+        "key": "Падуа/IMG_3520.JPG",
+        "sha256": "6de7f0fe702ecd5358347adb9176b2b1da816cd0a68c97ac52052a2b3c86228a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3521.JPG",
+        "key": "Падуа/IMG_3521.JPG",
+        "sha256": "ac53d4e38822dce5289b0fa7861a026023eacfc0b35990af94602a3af7aa135d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3522.JPG",
+        "key": "Падуа/IMG_3522.JPG",
+        "sha256": "a83bda2407b32417ca8561abe3f955dfa5c72cc80a10c31beb9d8f196798e92c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3523.JPG",
+        "key": "Падуа/IMG_3523.JPG",
+        "sha256": "293a570b3aeceee5d5dba95aafc9d4821acc8a03884d35de4abc8cf3b70f023e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006_Italy\\Падуа\\IMG_3524.JPG",
+        "key": "Падуа/IMG_3524.JPG",
+        "sha256": "706ad4cac8142ea092d6ab64213b64b1e1e4d99566fa9b164f22d512afaaf0fb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006 Осень\\Германия_2006\\IMG_3399.JPG",
+        "key": "grandma/IMG_3399.JPG",
+        "sha256": "51445fb73eecf3c28b4ef68362c8ecadbcc5e302000be6214c4a2c12053e8875"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006 Осень\\Германия_2006\\IMG_3400.JPG",
+        "key": "grandma/IMG_3400.JPG",
+        "sha256": "c996eef70b312e83c5efe0094b252c9049fe3b18d8c0d54bd6bff49be3faca15"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006 Осень\\Германия_2006\\IMG_3401.JPG",
+        "key": "grandma/IMG_3401.JPG",
+        "sha256": "c252962954630b5789d9bc7eea38cb0372bbbef4c67207ddcda4591cb2ec36d5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006 Осень\\Германия_2006\\IMG_3402.JPG",
+        "key": "grandma/IMG_3402.JPG",
+        "sha256": "068b8c7181a7abdf1db1923bc458dace4b042b13e16ac159ccf7c19c7f58086b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006 Осень\\Германия_2006\\IMG_3403.JPG",
+        "key": "grandma/IMG_3403.JPG",
+        "sha256": "7edd022fdaddf86bafad986e57ec27f6b2dd09f0bb1a58b5610dba79f593078f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006 Осень\\Германия_2006\\IMG_3404.JPG",
+        "key": "grandma/IMG_3404.JPG",
+        "sha256": "4c965737e1a95170d0bc5c49ac57702ff7f8a650a5c9b949f1dc14b991bca71d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2006\\2006 Осень\\Германия_2006\\IMG_3405.JPG",
+        "key": "grandma/IMG_3405.JPG",
+        "sha256": "3f95f8a3c6e9daf2928724bbe111cb2f2f5cccdfba4923c1b445df80b43e96ca"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "file": "content/europe/germany/germany-italy-2006/grandma/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Хюрт — у бабушки",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "Можете представить себе уехать на каникулы к бабушке, без всех, как в былые времена. Мечта просто :-)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "hurth"
+          },
+          "reason": "Семейный визит, прогулки и день рождения. Хюрт задан существующей главой; частный адрес не разыскивается.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Кладбище деда",
+          "event": "visited_private_family",
+          "evidence": [
+            {
+              "source_paragraph": 3,
+              "quote": "Правда бабушка не давала мне просто лежать и читать книжки, она следила за моим правильным образом жизни и выгуливала меня по многу. Сама бабушка (ттт) чувствует себя на мой взгляд не плохо. Хотя она со мной не согласна, не в том смысле что жалуется на здоровье, а просто считает что в таком возрасте человек не может чувствовать себя лучше :-) Но гуляла со мной ежедневно минимум по 2 часа. А потом мы так разошлись, что несколько дней и по 5 часов подряд гуляли, при этом она сидела не больше 20 минут в общей сложности за это время! Даже на кладбище к деду пешком сходили, а это и довольно далеко и главное надо на холм корабкаться все время. Она после инфаркта туда еще пешком не ходила и мне все говорили что надо такси брать, но я чувствовала что она в силах это сделать сама и мы решили попробовать. У нас получилось и бабушка была этому очень рада, т.к. важно чувствовать уверенность в своих силах. Мало того, потом мы побежали в магазин, т.к. там распродавали интересные для нас кофточки ;-)"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Семейная могила без названия кладбища; отдельную публичную точку не создаём.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Магазины одежды",
+          "event": "service_stops",
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "Бабушка заставила меня приодеться и хотя я первую неделю стойко держалась и покупала что-то только детям, но во вторую неделю все-таки меня переломили и я вошла во вкус и прикупила много новых вещей для работы. Мне давно надо было это сделать."
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Бытовой шопинг без названий.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Аэропорт Newark",
+          "event": "airport_transit",
+          "evidence": [
+            {
+              "source_paragraph": 5,
+              "quote": "Этот раз я летела новым для себя маршрутом через Штаты. Это был самый дешевый билет который я смогла в интернете найти, а мне было все равно как лететь. Причем я так была занята перед отъездом что даже толком не разобралась где у меня пересадка в Штатах. Аэропорт называется Newark, я поняла что это большое перевалочный пункт, а где это... Из Торонто я летела вообще на малюсеньком самолетике у которого в ряду только 3 красла (1+2), подлетаем, смотрю океанское побережье, красиво и большой город с высотками. Ну так любой американский город так выглядит. Но стало мне конечно уже любопытно где я нахожусь :-) Пересадка у меня была большая, часа 3. Поэтому я много гуляла по аэропорту и даже решила что-то перекусить. Сажусь за столик у окна с прекрасным видом на город и спрашиваю у соседей: «Что за станция такая?» :-) Они на меня покосились конечно, но со свойственной американцам терпимостью ко всему чему угодно, ответили что мол Нью-Йорк это, вид на Манхэтэн :-) Так я узнала что летела я через Нью-Йорк оказывается. Правда обратный путь был неудобным в этом смысле. Как я уже раньше говорила, рейсы в Торонто американцами рассматриваются как «внутренние» (когда летишь к ним то проходишь американскую границу в аэропорту Торонто), поэтому когда я летела обратно, то мне пришлось пройти гриницу в Штатах, получить свой багаж, пройти с ним таможню и... потом опять его сдать на рейс до Торонто. Особенно тяжело было что у меня обратная пересадка была всего 1,5 часа и мы на 40 минут опоздали и конечно пока багаж получили... Короче я бегом бежала по всему аэропорту потом (конечно мой выход был САМЫЙ последний!) и уже объявили что если поссажирка Уколова не проследует на борт через 2 минуты, то... Короче я забежала и двери закрылись :-) Но при всех этих минусах и неудобствах был один огромный плюс в этом перелете! Пустые самолеты! Просто из Нью-Йорка идет прямой рейс на Кельн, никто больше такие рейсы не делает, все летят во Франкфурт и там пересаживают на местные рейсы. А тут прямой. И много народу из Америки летит именно в Кельн? Мало! Очень мало! И туда и обратно я летела так что была одна на 3 сиденьях! Т.е. лежачий вариант! Особенно туда ночью мы летели и все спали как в поезде. Круто, я еще ни разу так не летала в самолетах. Поэтому я готова закрыть глаза на эти глупости с перетаскиванием багажа и переходами границы, тем более стоит отметить что меня как канадку не трогали вообще (по сравнению с теми же немцами рядом)."
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Реальная пересадка и еда в аэропорту; выхода на экскурсию в Нью-Йорк нет.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Манхэттен",
+          "event": "distant_view_from_airport",
+          "evidence": [
+            {
+              "source_paragraph": 5,
+              "quote": "Этот раз я летела новым для себя маршрутом через Штаты. Это был самый дешевый билет который я смогла в интернете найти, а мне было все равно как лететь. Причем я так была занята перед отъездом что даже толком не разобралась где у меня пересадка в Штатах. Аэропорт называется Newark, я поняла что это большое перевалочный пункт, а где это... Из Торонто я летела вообще на малюсеньком самолетике у которого в ряду только 3 красла (1+2), подлетаем, смотрю океанское побережье, красиво и большой город с высотками. Ну так любой американский город так выглядит. Но стало мне конечно уже любопытно где я нахожусь :-) Пересадка у меня была большая, часа 3. Поэтому я много гуляла по аэропорту и даже решила что-то перекусить. Сажусь за столик у окна с прекрасным видом на город и спрашиваю у соседей: «Что за станция такая?» :-) Они на меня покосились конечно, но со свойственной американцам терпимостью ко всему чему угодно, ответили что мол Нью-Йорк это, вид на Манхэтэн :-) Так я узнала что летела я через Нью-Йорк оказывается. Правда обратный путь был неудобным в этом смысле. Как я уже раньше говорила, рейсы в Торонто американцами рассматриваются как «внутренние» (когда летишь к ним то проходишь американскую границу в аэропорту Торонто), поэтому когда я летела обратно, то мне пришлось пройти гриницу в Штатах, получить свой багаж, пройти с ним таможню и... потом опять его сдать на рейс до Торонто. Особенно тяжело было что у меня обратная пересадка была всего 1,5 часа и мы на 40 минут опоздали и конечно пока багаж получили... Короче я бегом бежала по всему аэропорту потом (конечно мой выход был САМЫЙ последний!) и уже объявили что если поссажирка Уколова не проследует на борт через 2 минуты, то... Короче я забежала и двери закрылись :-) Но при всех этих минусах и неудобствах был один огромный плюс в этом перелете! Пустые самолеты! Просто из Нью-Йорка идет прямой рейс на Кельн, никто больше такие рейсы не делает, все летят во Франкфурт и там пересаживают на местные рейсы. А тут прямой. И много народу из Америки летит именно в Кельн? Мало! Очень мало! И туда и обратно я летела так что была одна на 3 сиденьях! Т.е. лежачий вариант! Особенно туда ночью мы летели и все спали как в поезде. Круто, я еще ни разу так не летала в самолетах. Поэтому я готова закрыть глаза на эти глупости с перетаскиванием багажа и переходами границы, тем более стоит отметить что меня как канадку не трогали вообще (по сравнению с теми же немцами рядом)."
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Вид из окна аэропорта. Посещение Нью-Йорка из этого не следует.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Торонто и Кельн — аэропорты маршрута",
+          "event": "transport",
+          "evidence": [
+            {
+              "source_paragraph": 5,
+              "quote": "Этот раз я летела новым для себя маршрутом через Штаты. Это был самый дешевый билет который я смогла в интернете найти, а мне было все равно как лететь. Причем я так была занята перед отъездом что даже толком не разобралась где у меня пересадка в Штатах. Аэропорт называется Newark, я поняла что это большое перевалочный пункт, а где это... Из Торонто я летела вообще на малюсеньком самолетике у которого в ряду только 3 красла (1+2), подлетаем, смотрю океанское побережье, красиво и большой город с высотками. Ну так любой американский город так выглядит. Но стало мне конечно уже любопытно где я нахожусь :-) Пересадка у меня была большая, часа 3. Поэтому я много гуляла по аэропорту и даже решила что-то перекусить. Сажусь за столик у окна с прекрасным видом на город и спрашиваю у соседей: «Что за станция такая?» :-) Они на меня покосились конечно, но со свойственной американцам терпимостью ко всему чему угодно, ответили что мол Нью-Йорк это, вид на Манхэтэн :-) Так я узнала что летела я через Нью-Йорк оказывается. Правда обратный путь был неудобным в этом смысле. Как я уже раньше говорила, рейсы в Торонто американцами рассматриваются как «внутренние» (когда летишь к ним то проходишь американскую границу в аэропорту Торонто), поэтому когда я летела обратно, то мне пришлось пройти гриницу в Штатах, получить свой багаж, пройти с ним таможню и... потом опять его сдать на рейс до Торонто. Особенно тяжело было что у меня обратная пересадка была всего 1,5 часа и мы на 40 минут опоздали и конечно пока багаж получили... Короче я бегом бежала по всему аэропорту потом (конечно мой выход был САМЫЙ последний!) и уже объявили что если поссажирка Уколова не проследует на борт через 2 минуты, то... Короче я забежала и двери закрылись :-) Но при всех этих минусах и неудобствах был один огромный плюс в этом перелете! Пустые самолеты! Просто из Нью-Йорка идет прямой рейс на Кельн, никто больше такие рейсы не делает, все летят во Франкфурт и там пересаживают на местные рейсы. А тут прямой. И много народу из Америки летит именно в Кельн? Мало! Очень мало! И туда и обратно я летела так что была одна на 3 сиденьях! Т.е. лежачий вариант! Особенно туда ночью мы летели и все спали как в поезде. Круто, я еще ни разу так не летала в самолетах. Поэтому я готова закрыть глаза на эти глупости с перетаскиванием багажа и переходами границы, тем более стоит отметить что меня как канадку не трогали вообще (по сравнению с теми же немцами рядом)."
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "reason": "Маршрут перелёта, не самостоятельные достопримечательности.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Франкфурт",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 5,
+              "quote": "Этот раз я летела новым для себя маршрутом через Штаты. Это был самый дешевый билет который я смогла в интернете найти, а мне было все равно как лететь. Причем я так была занята перед отъездом что даже толком не разобралась где у меня пересадка в Штатах. Аэропорт называется Newark, я поняла что это большое перевалочный пункт, а где это... Из Торонто я летела вообще на малюсеньком самолетике у которого в ряду только 3 красла (1+2), подлетаем, смотрю океанское побережье, красиво и большой город с высотками. Ну так любой американский город так выглядит. Но стало мне конечно уже любопытно где я нахожусь :-) Пересадка у меня была большая, часа 3. Поэтому я много гуляла по аэропорту и даже решила что-то перекусить. Сажусь за столик у окна с прекрасным видом на город и спрашиваю у соседей: «Что за станция такая?» :-) Они на меня покосились конечно, но со свойственной американцам терпимостью ко всему чему угодно, ответили что мол Нью-Йорк это, вид на Манхэтэн :-) Так я узнала что летела я через Нью-Йорк оказывается. Правда обратный путь был неудобным в этом смысле. Как я уже раньше говорила, рейсы в Торонто американцами рассматриваются как «внутренние» (когда летишь к ним то проходишь американскую границу в аэропорту Торонто), поэтому когда я летела обратно, то мне пришлось пройти гриницу в Штатах, получить свой багаж, пройти с ним таможню и... потом опять его сдать на рейс до Торонто. Особенно тяжело было что у меня обратная пересадка была всего 1,5 часа и мы на 40 минут опоздали и конечно пока багаж получили... Короче я бегом бежала по всему аэропорту потом (конечно мой выход был САМЫЙ последний!) и уже объявили что если поссажирка Уколова не проследует на борт через 2 минуты, то... Короче я забежала и двери закрылись :-) Но при всех этих минусах и неудобствах был один огромный плюс в этом перелете! Пустые самолеты! Просто из Нью-Йорка идет прямой рейс на Кельн, никто больше такие рейсы не делает, все летят во Франкфурт и там пересаживают на местные рейсы. А тут прямой. И много народу из Америки летит именно в Кельн? Мало! Очень мало! И туда и обратно я летела так что была одна на 3 сиденьях! Т.е. лежачий вариант! Особенно туда ночью мы летели и все спали как в поезде. Круто, я еще ни разу так не летала в самолетах. Поэтому я готова закрыть глаза на эти глупости с перетаскиванием багажа и переходами границы, тем более стоит отметить что меня как канадку не трогали вообще (по сравнению с теми же немцами рядом)."
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Автор сравнивает обычные маршруты с нынешним прямым рейсом; пересадки во Франкфурте в этой поездке не было.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Дом бабушки",
+          "event": "visited_private",
+          "evidence": [
+            {
+              "source_paragraph": 8,
+              "quote": "Бабушкин день рождения отметили в узком кругу с ее близкими соседями дома. Еще бабушку я уговорила пить «правильные» дозы витаминов С и В (привезла с собой) и хотя она первое время не соглашалась, но я ее «дожала» и к концу она даже сказала что похоже с нервами у нее стало лучше, даже мой отъест она довольно стоически перенесла, хотя это всегда грустно :-("
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Семейные фотографии и день рождения дома, частная точка.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Московская больница, Балашихинский ОВИР и поездка родственниц по Канаде",
+          "event": "other_family_background",
+          "evidence": [
+            {
+              "source_paragraph": 9,
+              "quote": "В это время досталось и другим членам моей семьи. Мы с Надеждой (женой брата) как раз «поменялись местами», я улетела к бабушке, а она тут приехала к Анютке в гости. Как раз попала на встречу со всеми учителями (очень хвалили ребенка) и потом у Ани были мини-каникулы и они уехали тоже на автобусе путешествовать по Канаде. В это время в Москве Сашка загремел в больницу и мама очень испугалась, распереживалась и Серега ее посадил в этот же день на самолет. Слава Богу с Сашей все обошлось и он уже сейчас снова вышел на работу. Мама пока в Москве, пытается оформить новый загран. паспорт раз уж попала туда, т.к. у нее скоро заканчивается. Поэтому не знаю когда вернется. Может у кого есть связи в Балашихинском ОВИРе чтобы ускорить это дело?"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Семейные новости вне собственного маршрута к бабушке/в Италию; конкретные туристические объекты не названы. Медицинские и паспортные учреждения не становятся достопримечательностями.",
+          "participants": [
+            "Леля"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-italy-2006/verona/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Австрийские Альпы — автобусный переезд",
+          "event": "travelled_through",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
+            },
+            {
+              "photo": "Alpes/IMG_3414.JPG"
+            },
+            {
+              "photo": "Alpes/IMG_3426.JPG"
+            },
+            {
+              "photo": "Alpes/IMG_3434.JPG"
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "reason": "Горный перевал и пейзажи описаны; название перевала не дано. Дальние деревни, замки, мосты и тоннели не выделяются в отдельные точки.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Верона",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "verona"
+          },
+          "reason": "Городская экскурсия в составе автобусной группы.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Арена ди Верона",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
+            },
+            {
+              "photo": "Verona/IMG_3467.JPG"
+            },
+            {
+              "photo": "Verona/IMG_3474.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "verona--arena-di-verona"
+          },
+          "reason": "Названный в тексте римский «театр типа Колизея» сопоставлен с ареной на фото; внутренней экскурсии и оперного представления не подтверждено.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Базилика Сан-Дзено",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "Verona/IMG_3442.JPG"
+            },
+            {
+              "photo": "Verona/IMG_3445.JPG"
+            },
+            {
+              "photo": "Verona/IMG_3451.JPG"
+            },
+            {
+              "photo": "Verona/IMG_3454.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "verona--san-zeno"
+          },
+          "reason": "Цель самостоятельной серии IMG_3442–55: фасад, клуатр, внутренние нефы, крипта и бронзовые двери. Это подтверждённый вход, а не случайный фасад. Название сверено с сайтом Chiese Vive.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Двор дома Джульетты",
+          "event": "visited_courtyard",
+          "evidence": [
+            {
+              "photo": "Verona/IMG_3479.JPG"
+            },
+            {
+              "photo": "Verona/IMG_3480.JPG"
+            },
+            {
+              "photo": "Verona/IMG_3481.JPG"
+            },
+            {
+              "photo": "Verona/IMG_3483.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "verona--juliets-house"
+          },
+          "reason": "Серия IMG_3479–85: входной проход с записками, балкон и статуя во дворе. Внутренний музей дома не объявляется посещённым.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Старинные церкви Вероны",
+          "event": "general_description",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "target": {
+            "places": "verona"
+          },
+          "reason": "Общее описание; подтверждённая по серии Сан-Дзено выделена выше. Остальные городские фасады, арки, памятники и башни не превращаются в каталог увиденного.",
+          "participants": [
+            "Леля"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-italy-2006/padua/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Падуя",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "padua"
+          },
+          "reason": "Состоявшаяся городская экскурсия.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Падуанский университет — двор Palazzo Bo",
+          "event": "visited_courtyard",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
+            },
+            {
+              "photo": "Падуа/IMG_3521.JPG"
+            },
+            {
+              "photo": "Падуа/IMG_3522.JPG"
+            },
+            {
+              "photo": "Падуа/IMG_3524.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "padua--paduanskiy-universitet"
+          },
+          "reason": "Не только упоминание университета: серия IMG_3521/22/24 из старого двора с гербами подтверждает вход. Анатомический театр не подтверждён и не добавляется.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Базилика Святого Антония — комплекс и клуатр",
+          "event": "visited_complex",
+          "evidence": [
+            {
+              "photo": "Падуа/IMG_3515.JPG"
+            },
+            {
+              "photo": "Падуа/IMG_3516.JPG"
+            },
+            {
+              "photo": "Падуа/IMG_3518.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "padua--saint-anthony-basilica"
+          },
+          "reason": "Серия IMG_3515–18 показывает подход к базилике и её клуатр; название сопоставлено с официальным описанием. Посещение отдельного Museo Antoniano не выводится из входа в клуатр.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Prato della Valle",
+          "event": "walked",
+          "evidence": [
+            {
+              "photo": "Падуа/IMG_3510.JPG"
+            },
+            {
+              "photo": "Падуа/IMG_3511.JPG"
+            },
+            {
+              "photo": "Падуа/IMG_3512.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "padua--prato-della-valle"
+          },
+          "reason": "Последовательная серия IMG_3510–12: прогулка группы у овального канала и статуй площади. Статуи не разбиваются на самостоятельные точки.",
+          "participants": [
+            "Леля"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-italy-2006/venice/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Венеция",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "venice"
+          },
+          "reason": "Городская экскурсия, каналы и пешеходная часть.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Базилика Святого Марка",
+          "event": "visited_and_loggia",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
+            },
+            {
+              "photo": "Венеция/IMG_3563.JPG"
+            },
+            {
+              "photo": "Венеция/IMG_3576.JPG"
+            },
+            {
+              "photo": "Венеция/IMG_3577.JPG"
+            },
+            {
+              "photo": "Венеция/IMG_3580.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "venice--bazilika-svyatogo-marka"
+          },
+          "reason": "Прямой рассказ о соборе; серия фасада, колонн и вида с лоджии у коней IMG_3563/64/3575–80 подтверждает подъём на лоджию. Не утверждается осмотр каждой музейной экспозиции.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Гранд-канал — поездка на катере",
+          "event": "boat_trip",
+          "evidence": [
+            {
+              "photo": "Венеция/IMG_3525.JPG"
+            },
+            {
+              "photo": "Венеция/IMG_3526.JPG"
+            },
+            {
+              "photo": "Венеция/IMG_3531.JPG"
+            },
+            {
+              "photo": "Венеция/IMG_3542.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "venice--grand-canal"
+          },
+          "reason": "Серия IMG_3525–42 из одной пассажирской лодки показывает поездку по каналу. Видимые по пути церкви и дворцы не считаются отдельными посещениями. Оператор и тип билета не выдумываются.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Площадь Сан-Марко",
+          "event": "walked",
+          "evidence": [
+            {
+              "photo": "Венеция/IMG_3547.JPG"
+            },
+            {
+              "photo": "Венеция/IMG_3554.JPG"
+            },
+            {
+              "photo": "Венеция/IMG_3561.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "venice--st-marks-square"
+          },
+          "reason": "Много кадров прогулки по площади IMG_3547–62 и виды с лоджии. Это одна площадь; колокольня, колонны и часовая башня не добавляются по одному внешнему снимку.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Дворец дожей и прочие фасады на каналах",
+          "event": "incidental_exterior",
+          "evidence": [
+            {
+              "photo": "Венеция/IMG_3541.JPG"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "Объекты видны во время общего маршрута. Отдельный рассказ или серия входа во дворец отсутствует; музейного посещения не добавляем.",
+          "participants": [
+            "Леля"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-italy-2006/milan/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Милан",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "milan"
+          },
+          "reason": "Городская экскурсия в группе.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Миланский собор",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
+            },
+            {
+              "photo": "Милан/IMG_3598.JPG"
+            },
+            {
+              "photo": "Милан/IMG_3601.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "duomo-milano"
+          },
+          "reason": "Автор прямо пишет о выходе из собора после молитвы, дополнительный IMG_3601 показывает внутренний неф. Соседний отдельный музей собора и крыша не подтверждены.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Святой гвоздь в соборе",
+          "event": "seen_as_relic",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "duomo-milano"
+          },
+          "reason": "Святыня в составе одного собора, не самостоятельная точка. Современное описание реликвии не заменяет факт молитвы в 2006.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Замок Сфорца — снаружи и территория у замка",
+          "event": "exterior_and_grounds",
+          "evidence": [
+            {
+              "photo": "Милан/IMG_3581.JPG"
+            },
+            {
+              "photo": "Милан/IMG_3582.JPG"
+            },
+            {
+              "photo": "Милан/IMG_3584.JPG"
+            },
+            {
+              "photo": "Милан/IMG_3586.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "milan--sforza-castle"
+          },
+          "reason": "Последовательная серия IMG_3581–88 показывает прогулку группы вокруг замка; внутренние музейные залы не показаны и не утверждаются.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Галерея Виктора Эммануила II",
+          "event": "walked_inside",
+          "evidence": [
+            {
+              "photo": "Милан/IMG_3591.JPG"
+            },
+            {
+              "photo": "Милан/IMG_3592.JPG"
+            },
+            {
+              "photo": "Милан/IMG_3593.JPG"
+            },
+            {
+              "photo": "Милан/IMG_3594.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "milan--galleria-vittorio-emanuele-ii"
+          },
+          "reason": "Подход и внутренний пассаж в серии IMG_3591–94. Это торговая галерея, не художественный музей.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Сирмионе — остановка после Милана",
+          "event": "walked",
+          "evidence": [
+            {
+              "photo": "Милан/IMG_3603.JPG"
+            },
+            {
+              "photo": "Милан/IMG_3605.JPG"
+            },
+            {
+              "photo": "Милан/IMG_3606.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "places": "sirmione"
+          },
+          "reason": "Отдельный финальный комплект IMG_3602–06: берег, замок и город с экскурсионной группой. Остановка подтверждается серией, хотя в тексте не названа. Не относится к городу Милану.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Замок Скалигеров в Сирмионе",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "Милан/IMG_3603.JPG"
+            },
+            {
+              "photo": "Милан/IMG_3604.JPG"
+            },
+            {
+              "photo": "Милан/IMG_3606.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "sirmione--scaliger-castle"
+          },
+          "reason": "Три разных близких вида замка IMG_3603/04/06 с группой; имя и город сверены с муниципальным сайтом. Вход за кассу и подъём на башни не утверждаются.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Озеро у Сирмионе",
+          "event": "shore_view",
+          "evidence": [
+            {
+              "photo": "Милан/IMG_3602.JPG"
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "target": {
+            "places": "sirmione"
+          },
+          "reason": "IMG_3602: берег на закате. Не добавляются купание или самостоятельный круиз по озеру.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Петербург, Париж",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Сравнение архитектуры Милана; не посещения в нынешней поездке.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Гостиница автобусной группы",
+          "event": "overnight_identity_unknown",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Автор упоминает соседку по автобусу и гостинице; название места ночлега отсутствует и туристическая точка не создаётся.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Святой Антоний — разночтение города в исходнике",
+          "event": "ambiguous_relic_attribution",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Автор связывает мощи Святого Антония с Вероной, тогда как комплекс Sant’Antonio на фотографиях — в Падуе, а в Вероне снята Сан-Дзено. Текст сохраняется дословно; точное место поклонения этим мощам не утверждается только по исправлению географии.",
+          "participants": [
+            "Леля"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_one_source_ambiguity",
+    "questions": [
+      {
+        "object": "Святой Антоний — разночтение города в исходнике",
+        "question": "Автор связывает мощи Святого Антония с Вероной, тогда как комплекс Sant’Antonio на фотографиях — в Падуе, а в Вероне снята Сан-Дзено. Текст сохраняется дословно; точное место поклонения этим мощам не утверждается только по исправлению географии."
+      }
+    ],
+    "external_sources": [
+      {
+        "url": "https://www.chieseverona.it/it/le-chiese/la-basilica-di-san-zeno",
+        "purpose": "Название Сан-Дзено, бронзовые двери и архитектура комплекса."
+      },
+      {
+        "url": "https://www.museiverona.com/casa-giulietta/",
+        "purpose": "Название комплекса дома Джульетты; современные правила не переносятся на 2006."
+      },
+      {
+        "url": "https://www.unipd.it/en/cortile-antico",
+        "purpose": "Двор Palazzo Bo с колоннами и гербами."
+      },
+      {
+        "url": "https://giubileo2025.diocesipadova.it/basilica-di-santantonio-padova/",
+        "purpose": "Святой Антоний и комплекс в Падуе; музей при клуатре не считается посещённым."
+      },
+      {
+        "url": "https://www.basilicasanmarco.it/basilica/museo-di-san-marco/",
+        "purpose": "Лоджия с конями; не распространяет посещение на все музейные залы."
+      },
+      {
+        "url": "https://www.comune.sirmione.bs.it/it/vivere/751539",
+        "purpose": "Замок Скалигеров в Сирмионе."
+      },
+      {
+        "url": "https://www.yesmilano.it/esplora/luoghi/castello-sforzesco",
+        "purpose": "Замок Сфорца, территория и отдельные музеи."
+      },
+      {
+        "url": "https://www.duomomilano.it/en/liturgical/triduum-holy-nail-and-rite-of-the-nivola-2026/",
+        "purpose": "Идентификация реликвии, не календарь визита."
+      }
+    ],
+    "repeat_check": "Исходный раздел, пять глав, все 203 оригинала и данные сопоставлены. Серии входа/осмотра учтены, случайные детали не дробятся. Леля путешествует без Сергея и детей; попутчики в итальянской группе не назначаются членами семьи."
+  }
+}

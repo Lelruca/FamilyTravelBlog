@@ -3698,10 +3698,10 @@
       "title": "\"У бабушки\"",
       "draft": false,
       "source_sha256_lf": "dcb75a5f3ecdacc57b3ebf33c84b81b46e394d91bc67a1f540554b91ba9dec5f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-italy-2006.json"
     },
     {
       "file": "content/europe/germany/germany-italy-2006/milan/index.md",
@@ -3709,11 +3709,11 @@
       "trip_path": "content/europe/germany/germany-italy-2006",
       "title": "\"Милан\"",
       "draft": false,
-      "source_sha256_lf": "3eec18e7428b1b96626898e2277e6d897bc41e0b4771d2c24c9e14db01685ac0",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "5ec9cd1401389a61496f5c52f1c87badb56661e8ccfbf11d722ccc9179fa24cd",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-italy-2006.json"
     },
     {
       "file": "content/europe/germany/germany-italy-2006/padua/index.md",
@@ -3721,11 +3721,11 @@
       "trip_path": "content/europe/germany/germany-italy-2006",
       "title": "\"Падуя\"",
       "draft": false,
-      "source_sha256_lf": "ee9510d3442862c4172e344e22dd725f3bef3112d9818fdc5d58cf55d0aa7770",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "647bb0fe7569bb4270419b5f0c474b68a0a61d496f200239a755a3f23a121093",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-italy-2006.json"
     },
     {
       "file": "content/europe/germany/germany-italy-2006/venice/index.md",
@@ -3733,11 +3733,11 @@
       "trip_path": "content/europe/germany/germany-italy-2006",
       "title": "\"Венеция\"",
       "draft": false,
-      "source_sha256_lf": "01f0c2cd44a634f6e359ad4f60e05090790c25f3ebcf3c949232b50881e0582e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "76d43cae00f18b34581742d81a5edd2a5ddfa877c461d3f6c7a104572b7fa41f",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-italy-2006.json"
     },
     {
       "file": "content/europe/germany/germany-italy-2006/verona/index.md",
@@ -3745,11 +3745,11 @@
       "trip_path": "content/europe/germany/germany-italy-2006",
       "title": "\"Альпы и Верона\"",
       "draft": false,
-      "source_sha256_lf": "e4e3204c30e4a637a4d61faa9683c359c03d32f4c82b7c29721b0d2cb7550566",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "8e64d618446604fcc23f695899107e28a47df7e50993cee7ef1cd9123238622b",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/germany-italy-2006.json"
     },
     {
       "file": "content/europe/germany/germany-london-2009/birthday/index.md",

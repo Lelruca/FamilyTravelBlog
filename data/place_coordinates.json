@@ -4289,5 +4289,13 @@
     "country_code": "US",
     "source": "https://www.openstreetmap.org/relation/112100",
     "query": "Лонг-Бич, California, USA; municipal geographic term"
+  },
+  "sirmione": {
+    "lat": 45.492869,
+    "lon": 10.6077258,
+    "name": "Сирмионе",
+    "country_code": "IT",
+    "source": "https://www.openstreetmap.org/relation/45072",
+    "query": "Sirmione, Italy; municipal centre, not a claim about precise location inside the castle"
   }
 }

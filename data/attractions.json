@@ -12334,5 +12334,159 @@
       "административное здание",
       "civic building"
     ]
+  },
+  "verona--san-zeno": {
+    "title": "Базилика Сан-Дзено",
+    "parent": "verona",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "verona--juliets-house": {
+    "title": "Дом Джульетты",
+    "parent": "verona",
+    "types": [
+      "museum",
+      "historic_house"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa"
+    ]
+  },
+  "padua--saint-anthony-basilica": {
+    "title": "Базилика Святого Антония",
+    "parent": "padua",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "padua--prato-della-valle": {
+    "title": "Прато-делла-Валле",
+    "parent": "padua",
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ]
+  },
+  "venice--grand-canal": {
+    "title": "Гранд-канал",
+    "parent": "venice",
+    "types": [
+      "canal"
+    ],
+    "search_terms": [
+      "канал",
+      "каналы",
+      "канала",
+      "каналов",
+      "canal",
+      "canals",
+      "waterway"
+    ]
+  },
+  "venice--st-marks-square": {
+    "title": "Площадь Сан-Марко",
+    "parent": "venice",
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ]
+  },
+  "milan--sforza-castle": {
+    "title": "Замок Сфорца",
+    "parent": "milan",
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ]
+  },
+  "milan--galleria-vittorio-emanuele-ii": {
+    "title": "Галерея Виктора Эммануила II",
+    "parent": "milan",
+    "types": [
+      "shopping_centre",
+      "historic_building"
+    ],
+    "search_terms": [
+      "торговый центр",
+      "торговые центры",
+      "магазины",
+      "shopping mall",
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
+  },
+  "sirmione--scaliger-castle": {
+    "title": "Замок Скалигеров",
+    "parent": "sirmione",
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ]
   }
 }
