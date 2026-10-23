@@ -3714,6 +3714,40 @@
       "data/attractions.json#mont-tremblant--ski-resort"
     ]
   },
+  "barnes-merion": {
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art",
+      "Barnes Foundation Merion",
+      "Коллекция Барнса в Мерионе",
+      "Мерион"
+    ],
+    "classification_sources": [
+      "data/attractions.json#barnes-merion"
+    ]
+  },
   "kroller-muller": {
     "types": [
       "museum",
@@ -4106,6 +4140,31 @@
     ],
     "classification_sources": [
       "content/places/bruce-peninsula/_index.md"
+    ]
+  },
+  "longwood-gardens": {
+    "types": [
+      "botanical_garden",
+      "park"
+    ],
+    "search_terms": [
+      "ботанический сад",
+      "ботанические сады",
+      "ботаника",
+      "botanical garden",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/longwood-gardens/_index.md"
     ]
   }
 }

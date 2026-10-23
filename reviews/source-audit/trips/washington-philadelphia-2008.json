@@ -1,0 +1,1707 @@
+{
+  "trip_path": "content/americas/usa/washington-philadelphia-2008",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Штаты - разное.docx",
+    "sha256": "758ad0f0edcbad5b83c7b18c31692fd8c83cae0e25a93037371ee1ea8d80ad7f",
+    "read": "Полностью прочитаны заголовок и все десять авторских абзацев 22–31 исходного раздела; включая финальный путь домой, оценки музеев и планы, от которых отказались. Обе главы сайта сопоставлены с разделом."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 248,
+    "manifest": "media-manifests/washington-philadelphia-2008.json",
+    "method": "63 архивных выбранных оригинала проверены по SHA-256; просмотрены они и все 185 перечисленных исключённых исходных кадров, включая archive-only P9010749. Всего 21 контактный лист.",
+    "additional_originals": [
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8290475.JPG",
+        "key": "excluded/P8290475.JPG",
+        "sha256": "b63c55779560de53810475dfadb8816889104117af6371e63b4128fcd436d297"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8290477.JPG",
+        "key": "excluded/P8290477.JPG",
+        "sha256": "b239001cd6e93d27197af65b84b6b35b1ad016467b091248a93f75d334bad6a7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8290479.JPG",
+        "key": "excluded/P8290479.JPG",
+        "sha256": "fce6f31cb00e5d881886286f0b90421a028c237c4a050367bf5c028e014f8019"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8290482.JPG",
+        "key": "excluded/P8290482.JPG",
+        "sha256": "a655890650a4546ef78ae8aca7f51a440d8e0726d86a60a33ce0657a4e9aa068"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8290483.JPG",
+        "key": "excluded/P8290483.JPG",
+        "sha256": "bd36a601ba468feb8dcbf17469d785742bca013146677970ebb730703de004cb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8290484.JPG",
+        "key": "excluded/P8290484.JPG",
+        "sha256": "1f532c12d4a91c3d6b3382efaa5b8dbcaf0b0a567e720e6d23f2350b5ddf19d6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8290487.JPG",
+        "key": "excluded/P8290487.JPG",
+        "sha256": "6a2721706b7e5a98464873e45779ff6b8165e4fb2468dccd64e1abd549404979"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8290490.JPG",
+        "key": "excluded/P8290490.JPG",
+        "sha256": "6c9f9a537a58010f374c1bea32ca6921070489fee5e7ccf8c863c15f71902517"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8290491.JPG",
+        "key": "excluded/P8290491.JPG",
+        "sha256": "803590a372a763169faa99922b6bb492250c2e86277ba73d96911b15a2d9a2e4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8290492.JPG",
+        "key": "excluded/P8290492.JPG",
+        "sha256": "84cb08e2564773636c95ebd1b4570bdd3cf7d9b1cc3c6763742d92573e58c126"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8290493.JPG",
+        "key": "excluded/P8290493.JPG",
+        "sha256": "6240e95d22b786d67a8ea08e0dfa103844b0ab4398ef53a7b40c168ebc81c9b0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8290494.JPG",
+        "key": "excluded/P8290494.JPG",
+        "sha256": "317afc2259dae9015564f32e3d78c48cdf72efd7669529b7ce92514d60ef6369"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8290495.JPG",
+        "key": "excluded/P8290495.JPG",
+        "sha256": "637a496a34048df83fcf2d06c3943d432ec413af16a0332dd6b56df44af1a5ff"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8290497.JPG",
+        "key": "excluded/P8290497.JPG",
+        "sha256": "7c87a9e4f9bcb20a3fd46e58e99fe8103bfcfc9c39b9fac5b024cb8244e496d3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8290498.JPG",
+        "key": "excluded/P8290498.JPG",
+        "sha256": "bb1222ee1e718fd030bb864d7653fa2470948f6c603a018169640ba439197fbc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300500.JPG",
+        "key": "excluded/P8300500.JPG",
+        "sha256": "01ed2c3956073813fe10626072547e827216beb0a467f89e03f5944bb74481b3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300501.JPG",
+        "key": "excluded/P8300501.JPG",
+        "sha256": "0ab236e56a8813e20a35ca384b62811a521073054e4b5b85c013e331e8a3c6fb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300502.JPG",
+        "key": "excluded/P8300502.JPG",
+        "sha256": "66a4041b74833fcd8996012d2a0a5c7fce835697bf5e72464163168bb3d034f4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300503.JPG",
+        "key": "excluded/P8300503.JPG",
+        "sha256": "66c0f8d58818236b1a9583f9c5c1c1bdc301403aa60fe2ed7967a5345e66957d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300504.JPG",
+        "key": "excluded/P8300504.JPG",
+        "sha256": "136c618527070c81c3864d59a6c6e65ed045b4933c279069ed44579d7a278de6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300506.JPG",
+        "key": "excluded/P8300506.JPG",
+        "sha256": "6c7983dd42ad28e9a9d09ee33f34ea60167be772feac6ec18ec11303a8ef578e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300507.JPG",
+        "key": "excluded/P8300507.JPG",
+        "sha256": "7a572925ae61c5be9d7d38f75930c7328a527044c8d00d666fd8c22a367ab9f4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300511.JPG",
+        "key": "excluded/P8300511.JPG",
+        "sha256": "50d8f062ea03bf9d04c114823200a5a5c7f115c3c902bf1404d03c3002127e34"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300512.JPG",
+        "key": "excluded/P8300512.JPG",
+        "sha256": "2f35b4c7db738c1581bd4212e5f575a6bcc28af341f6eae6418ec4fefa07945a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300514.JPG",
+        "key": "excluded/P8300514.JPG",
+        "sha256": "d610085c764ad6a2aa78ac6c2df3e5de65536c1632cf4ea617881a1347e8c141"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300516.JPG",
+        "key": "excluded/P8300516.JPG",
+        "sha256": "6053cae722359f8dc66df160b9a96219fae1e49c476f7442b5552d90034ca559"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300517.JPG",
+        "key": "excluded/P8300517.JPG",
+        "sha256": "1d84ef0aa9b036c5b1174e3e10fb6e27b8e02f2c6fcd417a94dc287bba9baf9e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300518.JPG",
+        "key": "excluded/P8300518.JPG",
+        "sha256": "f3f31bcdd68baa055a7614c382702943387e1649b62f6fd1ac4c6b8d7709e8b3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300520.JPG",
+        "key": "excluded/P8300520.JPG",
+        "sha256": "b1fc6e7d2bd8905477f3752bd753e23031aa7739346e0cfeaedec139a0927385"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300521.JPG",
+        "key": "excluded/P8300521.JPG",
+        "sha256": "6ba9d3c07b41acff78f41373d944e2ff505a6e8ab28cdc93171927857f1caed6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300522.JPG",
+        "key": "excluded/P8300522.JPG",
+        "sha256": "cfe893745e0f874469d75dd35bf5f5a43bc597bae291efc45b4066461087bbb7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300523.JPG",
+        "key": "excluded/P8300523.JPG",
+        "sha256": "fe4d12423ab9f50ba7e1e401e15a97ae6f580add59269b63e373d1ba909a3e76"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300525.JPG",
+        "key": "excluded/P8300525.JPG",
+        "sha256": "67d9a15019b8766874cf814aefad94c59b5cc9154d94510d3b8eae42a33f6320"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300526.JPG",
+        "key": "excluded/P8300526.JPG",
+        "sha256": "baf2c074e081735d32c64917b180639b4fefaf298e3c88fc0e6d5c65930f3083"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300529.JPG",
+        "key": "excluded/P8300529.JPG",
+        "sha256": "f86cc8fab88cc6d1376dd7050cfbd3c4c9a5d8c284fc7cbfa7376b1d646493c3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300530.JPG",
+        "key": "excluded/P8300530.JPG",
+        "sha256": "2252e96d829d47a647f7b05c75e5c9e6f59035417d7b51f2182d1249303a7b82"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300535.JPG",
+        "key": "excluded/P8300535.JPG",
+        "sha256": "4ed9fbd4849b2a078538d8e7a33ad90309266145e1732e5be5f1cf89757088cf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300536.JPG",
+        "key": "excluded/P8300536.JPG",
+        "sha256": "6c3851f5547bd1daf23bd2a3a9640f73712cf48ce8899abf313e5b7ec556a048"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300539.JPG",
+        "key": "excluded/P8300539.JPG",
+        "sha256": "b6b04873080bbff8f60ed8cffbfd0335012dd76456e38ad736aa7d9cc8503c3d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300542.JPG",
+        "key": "excluded/P8300542.JPG",
+        "sha256": "967d214abbdcafbb7d17fa9be4e1695d76dedfaaec64dbf3254de2cc1e0f1dcf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300543.JPG",
+        "key": "excluded/P8300543.JPG",
+        "sha256": "59d2799d4f282ea315032bf5d876bca3debbee604dece19650bb4f8f9dfc73ae"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300544.JPG",
+        "key": "excluded/P8300544.JPG",
+        "sha256": "2a156dc4a70be9f3768364a8a65a88fa59bb1555819837165fd66823390e8097"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300545.JPG",
+        "key": "excluded/P8300545.JPG",
+        "sha256": "e0cff33777c8d2e3dd77fb6ca1dd437bacb109f2044314db9b70d3a2ca192af4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300546.JPG",
+        "key": "excluded/P8300546.JPG",
+        "sha256": "3f8a0f26e240c0f4e947ef98f1cdfb4ff2fb4fc714de9d480449ef9177fe8505"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300547.JPG",
+        "key": "excluded/P8300547.JPG",
+        "sha256": "ef1a238f14711117e0a9de3104be12c8c312dc07aef712f833cb650a1790f42a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300550.JPG",
+        "key": "excluded/P8300550.JPG",
+        "sha256": "bbdf5513cbb681b01980113eb629cea828b7c5a5d0e0abb61dc00e08b81d9198"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300551.JPG",
+        "key": "excluded/P8300551.JPG",
+        "sha256": "189553aec455fc6d97d21bf20672b4890c0f0b193f31c567afbde03efa62e9b3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300552.JPG",
+        "key": "excluded/P8300552.JPG",
+        "sha256": "885e89749fc367649aa4715df59b99611d5e5d4401d4dcc0cf59ab7d4a02011e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300553.JPG",
+        "key": "excluded/P8300553.JPG",
+        "sha256": "b87f7c6aab01fc3587a5790fbb90d09561376c6fec23e12bc13e27536f294ef9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300559.JPG",
+        "key": "excluded/P8300559.JPG",
+        "sha256": "2256b9a6cec00475621c9e0a24d848e7699cc2a5c71cb2779de0afe18704fd9b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300560.JPG",
+        "key": "excluded/P8300560.JPG",
+        "sha256": "390fff79b15639fbff392e054d431ebe4dac0e6c4c5ea5449370caedb0e3068e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300561.JPG",
+        "key": "excluded/P8300561.JPG",
+        "sha256": "acfd3c6a441ea1a0217ac920d3c68003e252e8fd6cba7a9ad18b307893a3bba8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300562.JPG",
+        "key": "excluded/P8300562.JPG",
+        "sha256": "5f116b27b2392b40701a52471ddfdda98f7b693fee8889cc5ebeebc64f04746f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300564.JPG",
+        "key": "excluded/P8300564.JPG",
+        "sha256": "bc110a1de1f5ffabee45bd13b87efb116af4d638fee0eacc576a39dd4deadf11"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300565.JPG",
+        "key": "excluded/P8300565.JPG",
+        "sha256": "0dc3678cc87a785b0c7314c8c10f6d50e5ca54114c28ae3e71f007b56638110b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300566.JPG",
+        "key": "excluded/P8300566.JPG",
+        "sha256": "037d460a3f35afa36af1f0ca8a708c5a20ab0805c1b9639accfe7383dc59bb5f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300570.JPG",
+        "key": "excluded/P8300570.JPG",
+        "sha256": "59348d3024e4b34e2587038c842350ccc4ddd1ad4a25805dfb08679aa570c856"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300571.JPG",
+        "key": "excluded/P8300571.JPG",
+        "sha256": "ce0029793cc91eac533ab00b07a0db40a91f20b4166b5c9e0c80d51ccf55b99d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300572.JPG",
+        "key": "excluded/P8300572.JPG",
+        "sha256": "f2af6f5249d9e9ae62922b5044719ec787001fffb3e4e544e9a8572b46ef7aba"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300573.JPG",
+        "key": "excluded/P8300573.JPG",
+        "sha256": "75d82b53cdd1d92e57de35a0dacbfad42fe9ec9c86e5b7e4905e1fcbc5979d60"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300575.JPG",
+        "key": "excluded/P8300575.JPG",
+        "sha256": "0add720b7e3cc70893581847a5c97b9e66dfc7dd5dc2a3631cdb86e19d18b633"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300576.JPG",
+        "key": "excluded/P8300576.JPG",
+        "sha256": "97c7e400266fd2e1994a8f03b59b740eecf4b6b339027f66ff0ad996cdd33c26"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300579.JPG",
+        "key": "excluded/P8300579.JPG",
+        "sha256": "107e20225ef391ab3116df7b9cacb588016595a1cab241266d4e353f097eed85"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300580.JPG",
+        "key": "excluded/P8300580.JPG",
+        "sha256": "9d1d94723bf4f4e87cf4d3f6950d04586e364fee9b8a5a27702b844fa0908fd6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300583.JPG",
+        "key": "excluded/P8300583.JPG",
+        "sha256": "d7c7f47f491285e38609603a089a539b2c39ec41c0eb26a35dced226cc30a3c5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300584.JPG",
+        "key": "excluded/P8300584.JPG",
+        "sha256": "3cc79f2d8feadc9c468c9639c1a2eb01cb16b430341f7df6edd7002c43beb5e7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300585.JPG",
+        "key": "excluded/P8300585.JPG",
+        "sha256": "e8ba1808fba4b83d5288a5b53d31b61a71765ae15301510aaa67cfed920935a7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300586.JPG",
+        "key": "excluded/P8300586.JPG",
+        "sha256": "f10bb1ee27358512376684f11cf1719677b9f2f2c134883dc828ff84ffb93cc7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300587.JPG",
+        "key": "excluded/P8300587.JPG",
+        "sha256": "d797ad26f71977ff5816380a13324856f95d1850444958a2e981bffd8121d656"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300588.JPG",
+        "key": "excluded/P8300588.JPG",
+        "sha256": "2dd0b8213218663c07fa75c0c52658cf8cc9b8f04daabd03431c371f620afeee"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300589.JPG",
+        "key": "excluded/P8300589.JPG",
+        "sha256": "146253d526c98465ce3798484ee9aba2e777eae48c20a0f36808cce35328539b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300591.JPG",
+        "key": "excluded/P8300591.JPG",
+        "sha256": "915691064270747b27b6c31ec76ab864507cfeeed0176bce8dd1e85610ae260b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300592.JPG",
+        "key": "excluded/P8300592.JPG",
+        "sha256": "dea1ea8bd5829b03586d03331baa89bae93abe65bf0a28d1ba6cf164fcccd4ae"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300594.JPG",
+        "key": "excluded/P8300594.JPG",
+        "sha256": "a3e82fde53689e55cdddf14e6927cb9637210df240edf2fdcc7e865cfb888cf0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300595.JPG",
+        "key": "excluded/P8300595.JPG",
+        "sha256": "0fa7523b23b3e99509d140f1549f8edac9a9ec5478366770c752aa2c2074b0ca"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300596.JPG",
+        "key": "excluded/P8300596.JPG",
+        "sha256": "6008e8045f39f54a5141d220c22ee6c7084f925ee2b4997c01835f99b0db8baa"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300597.JPG",
+        "key": "excluded/P8300597.JPG",
+        "sha256": "f64c8ec8def8c823b2f4adb7ca6ebb72f15cbb178baf88f00f81071307ee29cf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300598.JPG",
+        "key": "excluded/P8300598.JPG",
+        "sha256": "182a1f5d8711e31fd4bd4ec2cca34d07def847659ae72437da5e4b8e543578d1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300599.JPG",
+        "key": "excluded/P8300599.JPG",
+        "sha256": "f12ce584ade684730ed2743857e83e0cb1d8a4abd0aad92b42ecfe286ebb822f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300600.JPG",
+        "key": "excluded/P8300600.JPG",
+        "sha256": "0188e6fcc28102dd9a267173f464cf7b844df38ef7f24b84c760ce702f2851c9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300601.JPG",
+        "key": "excluded/P8300601.JPG",
+        "sha256": "6683d6efe812a50e1adfd4e6670b9c285501548b7ee144eb190590fce7c89731"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300602.JPG",
+        "key": "excluded/P8300602.JPG",
+        "sha256": "f88daf29584358e8576011f70cb24736ea032ee0808a07e11de448f2fc13d362"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300604.JPG",
+        "key": "excluded/P8300604.JPG",
+        "sha256": "b758372145461136f6559d3da824c66c8842fbf70df64c5636f0210ac7b1a1c1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300606.JPG",
+        "key": "excluded/P8300606.JPG",
+        "sha256": "9134b92cf5be5339559c4ad5d82fdd3c5c3b170d84e4c7750a76804b2a06ca9b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300607.JPG",
+        "key": "excluded/P8300607.JPG",
+        "sha256": "c56ef1c5df20be964ae48a171280105c87ff4049c7372ae712478cbdaeee50d5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300608.JPG",
+        "key": "excluded/P8300608.JPG",
+        "sha256": "7784c814e00f5341d95cf0e1d86f9c74fdda7c4244a7d9d06a9b767d848dd6f0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300609.JPG",
+        "key": "excluded/P8300609.JPG",
+        "sha256": "0a81a6a80d7f843eb1b60fb5e15eab611b9d5dd13cab4b61e9acae180c41c592"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300610.JPG",
+        "key": "excluded/P8300610.JPG",
+        "sha256": "74af7434085d01ed0d7bdfff2fe7fa548a937ea1c259a764c9897e9d7e5ac1a7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300613.JPG",
+        "key": "excluded/P8300613.JPG",
+        "sha256": "0f6835c558f2446f643b288ade73224e1976e3f09d552e1110e63caff0c153e0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300614.JPG",
+        "key": "excluded/P8300614.JPG",
+        "sha256": "d748634cc829ba238138d2205c3a9706cca78d81dca2fd9bc3e5cdc194865321"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300615.JPG",
+        "key": "excluded/P8300615.JPG",
+        "sha256": "1783fc9df5d3b3d6ae43285da3fee82b9506366207af6099cc690316a64a6f14"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300618.JPG",
+        "key": "excluded/P8300618.JPG",
+        "sha256": "406552e99e4a3e84b64ba385bf7ff7c672e841f09a0b220f048c4768a287c160"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300620.JPG",
+        "key": "excluded/P8300620.JPG",
+        "sha256": "155ae6686321ac3fff9d56ef72f3e1eb9d7cf95052895639f9f59ca6ec38b3cc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300623.JPG",
+        "key": "excluded/P8300623.JPG",
+        "sha256": "14f5c6d9150bd8c93b7b69654f03ef7b5282e9482c856a53c05c4adc83c5deba"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300624.JPG",
+        "key": "excluded/P8300624.JPG",
+        "sha256": "2062d2d8a0affb056669257d720a018b6f429eb3abd9101d2cd3fd268ad1910f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300625.JPG",
+        "key": "excluded/P8300625.JPG",
+        "sha256": "b50576ad9d81331c520e907e3993633b4851d267c460af3f82fd2916423fef69"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300626.JPG",
+        "key": "excluded/P8300626.JPG",
+        "sha256": "b7610367601f8dbe5f69253a2653ce0de5a607c89f58d7dc49d64b156bb6c58a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300627.JPG",
+        "key": "excluded/P8300627.JPG",
+        "sha256": "57c052a6f22248647b6f70336110fe8023d51249e1bc3a69a3dbc918f1cc0fc0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300631.JPG",
+        "key": "excluded/P8300631.JPG",
+        "sha256": "0498cc4ee13911d65d0b00175b3ef0ca803407c073934a4e045d88c49a16bff6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300632.JPG",
+        "key": "excluded/P8300632.JPG",
+        "sha256": "1586d542abbd027a7d73cd3fcd9c479f7b51af153d9222427f42ba1668e48593"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300633.JPG",
+        "key": "excluded/P8300633.JPG",
+        "sha256": "5e539712bb0e74c566661f01a6ae0e1595eff65f6a0d195854a224037b1df702"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300634.JPG",
+        "key": "excluded/P8300634.JPG",
+        "sha256": "4bbc31e15ce1f66f2661d45cf2d4f5959cb521e3d8ed603eab75dfbae32d6884"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300635.JPG",
+        "key": "excluded/P8300635.JPG",
+        "sha256": "fbb52bace41da731c0676159fb52869a2114ee68165f3ed434d4042ed0b3b8a0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300636.JPG",
+        "key": "excluded/P8300636.JPG",
+        "sha256": "d3ad0df99fed720fb5b1ebfda73a92fb8a814bdcabef832d67fa81c8a869ec42"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300637.JPG",
+        "key": "excluded/P8300637.JPG",
+        "sha256": "5e935a9ad7c5d8921082e1f407b4f25ea6af816c9d269b0127971a27af6d64a8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300639.JPG",
+        "key": "excluded/P8300639.JPG",
+        "sha256": "36c98b2e6c2951e7d0f68acc8cc25ea52bfc3ead92789c0780e23a7d317e9ad8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300641.JPG",
+        "key": "excluded/P8300641.JPG",
+        "sha256": "c5367204184f38ef9891c06556f494bddad4aeabfed1753a608a5e0956b9d5fa"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300642.JPG",
+        "key": "excluded/P8300642.JPG",
+        "sha256": "dac198a21205e828e03a542f005e181e552617969862cacd2b78dfcdc08d2a28"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300643.JPG",
+        "key": "excluded/P8300643.JPG",
+        "sha256": "19ba002487c0119d3e22d49cd1c3eb8da584dfbede3efdbeef236d52c925d2fe"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300644.JPG",
+        "key": "excluded/P8300644.JPG",
+        "sha256": "f1d5322f31789b68e3fa721e593aa8b74e6004a87d2d0e94aa1235319dd6dbc5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300646.JPG",
+        "key": "excluded/P8300646.JPG",
+        "sha256": "7f8a3015094da01e0e8ee526ec0867726b02af1faf42ab21465d3c2ca0b420dc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300647.JPG",
+        "key": "excluded/P8300647.JPG",
+        "sha256": "b3ce6c878ce26a46fee00f1a7ca1ed6e703ce648973b59a1f1f84d23a90681fc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300648.JPG",
+        "key": "excluded/P8300648.JPG",
+        "sha256": "e02eddae6cf1581ec8ca302e0e02a2a2afd8b4d733f7811fa62c52b72de692d9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300650.JPG",
+        "key": "excluded/P8300650.JPG",
+        "sha256": "c2b8a8919577c29136a4d6a24af63aa9c1b94bb1f299cfec36f172a0123dd05d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300651.JPG",
+        "key": "excluded/P8300651.JPG",
+        "sha256": "07649020eb051044328528485fd141600909b497ce15e96eb79f49862fd9125e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300653.JPG",
+        "key": "excluded/P8300653.JPG",
+        "sha256": "dbdd9201cf2064c8f1766b3522fef768218c9e3dcf678fc733fb5de722f76023"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300656.JPG",
+        "key": "excluded/P8300656.JPG",
+        "sha256": "ea77715eef75133d89b5aea395e5fc99f11b71308168aaf63e4e5ff1a4761b1d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300658.JPG",
+        "key": "excluded/P8300658.JPG",
+        "sha256": "561824efee235e4e9240e9f8e1fc4e70d113f89a1903ffc4ffd743fcddc16c68"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300659.JPG",
+        "key": "excluded/P8300659.JPG",
+        "sha256": "346f093b0e013e6fb3b6393a45307029bfbc4182de0094d86f4bd464bfe372ca"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300660.JPG",
+        "key": "excluded/P8300660.JPG",
+        "sha256": "bf9fa55b390cbb7896b78a51e177a52910d4b6e74e25f6248f4ffd5e627c134d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300661.JPG",
+        "key": "excluded/P8300661.JPG",
+        "sha256": "a54edbdf617d3bc1c225415f70f387a41342911994eeff7458259d9654019fd0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300662.JPG",
+        "key": "excluded/P8300662.JPG",
+        "sha256": "f356cbeeabeddd105eed285538f2ab1d2e20d6cca56a4dfd927e121732f6ee2c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300663.JPG",
+        "key": "excluded/P8300663.JPG",
+        "sha256": "73f5d6145a30023f0f7b86a638cc146eb788f9d209350581badbb0f6087ae9eb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300665.JPG",
+        "key": "excluded/P8300665.JPG",
+        "sha256": "cf3435ccfb37162903bf7b147a21ccc8c2376798ce466683c69b9cdfe489dfaf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300667.JPG",
+        "key": "excluded/P8300667.JPG",
+        "sha256": "10008400490b69edf4a9c027ab2572f9f090d737a69a5c4899e2a555799ab535"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300668.JPG",
+        "key": "excluded/P8300668.JPG",
+        "sha256": "e606bb692d058fed2f395c6de5c18c844c4991a8ffdd07cadf8c0c8f6a0d9aa0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300669.JPG",
+        "key": "excluded/P8300669.JPG",
+        "sha256": "d352cf57a54c7b956aa376edfae4e30818ea22ad3e8b0e4ce45b88056f1e3516"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300671.JPG",
+        "key": "excluded/P8300671.JPG",
+        "sha256": "a11073e4ec66f6a5691257a307caaf6a35dc81098178a798f7a054746942a1e5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300672.JPG",
+        "key": "excluded/P8300672.JPG",
+        "sha256": "1ac43b9424ab66074c1727ab5eafc963e9d61f875df8d583f1e49e4a4ebf0a93"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300673.JPG",
+        "key": "excluded/P8300673.JPG",
+        "sha256": "a78847d491ffec8a6373e13fadd7ca709d07d8d828e1d1b41be82421246c5091"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300674.JPG",
+        "key": "excluded/P8300674.JPG",
+        "sha256": "c795abc904b48ec9b636dc54c8dc5c93598ec61008d70b44735081fa3ea1fa27"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300675.JPG",
+        "key": "excluded/P8300675.JPG",
+        "sha256": "1ca65010b48cd052aec7d292a56a0323c2175bc9ef50c0796eddd1cb1a239347"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300677.JPG",
+        "key": "excluded/P8300677.JPG",
+        "sha256": "bdfa2bd00877f1bb08b40e830dfde7c1d4bd6e50a43e2692086960ad4c35c237"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300678.JPG",
+        "key": "excluded/P8300678.JPG",
+        "sha256": "dbc7ea942510c8e7ed79e77a5507661925a5c85c7e39f96b3c585625fdcc786d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300682.JPG",
+        "key": "excluded/P8300682.JPG",
+        "sha256": "b7eacbfc9887efe0e2d454b3e6285126d2574aa8030be2e4ac062f10fb380728"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8300685.JPG",
+        "key": "excluded/P8300685.JPG",
+        "sha256": "c92b2f5afe7ee4a67e96a481e6cec5646940b24b6de683c934828955eac4864f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310687.JPG",
+        "key": "excluded/P8310687.JPG",
+        "sha256": "4e95df5d2751e033b18ec098e99d99e0ccfc55fc79a4ce4f6ca6f1331df458e7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310690.JPG",
+        "key": "excluded/P8310690.JPG",
+        "sha256": "2e9f776f3f31183359bde723e95cd76765975bd0088f374ded61cbf6e194d19d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310691.JPG",
+        "key": "excluded/P8310691.JPG",
+        "sha256": "9b2a35d66e8b7fd5c2bf0483e53172651ca88d0d09fe8b7347d9c2d5617ccbe2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310692.JPG",
+        "key": "excluded/P8310692.JPG",
+        "sha256": "2c4632bf8074c2172047a14fc56cdfa690ff1963e69f4d9d8d04e09e029c1971"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310693.JPG",
+        "key": "excluded/P8310693.JPG",
+        "sha256": "a10935fbdd125137381ab34943ab2a41d796da1de6de14362c73f8f0b8fa8449"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310694.JPG",
+        "key": "excluded/P8310694.JPG",
+        "sha256": "c708dc4fbdffe5fececd2c48c3d7cdd58e124d8ee3abbfb36fa72450927dfefe"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310695.JPG",
+        "key": "excluded/P8310695.JPG",
+        "sha256": "185746e1050cf8f83c62d20b2a9f6506a6907038f8c48207fae2d7268a89fbaa"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310696.JPG",
+        "key": "excluded/P8310696.JPG",
+        "sha256": "c98a851a460f097dc51b8ce772c337373d8c181ad44c0a337bb9d0a1669d93a9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310698.JPG",
+        "key": "excluded/P8310698.JPG",
+        "sha256": "bbe1744fc9d1f1973a904abc925b1ccd14d8f57226058bd3cf6f693d2ed753c0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310700.JPG",
+        "key": "excluded/P8310700.JPG",
+        "sha256": "4f0f1363863a7bf6a2f632e43fcf3d9489827c84f41b28a4669df71ede6a01ff"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310702.JPG",
+        "key": "excluded/P8310702.JPG",
+        "sha256": "e9759501ec949f254ba68cd464e96598689834f8aba5c1a07e4f807c5e8adf82"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310703.JPG",
+        "key": "excluded/P8310703.JPG",
+        "sha256": "1d58300b0d7ff07697db2b2d29b615bd3f6fb7a4766aaf905081d46412ce0a2f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310705.JPG",
+        "key": "excluded/P8310705.JPG",
+        "sha256": "f320f7dd3fdc3787e53499910e732544331a5447b6c3b00311b18d3fb2e5d3ad"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310707.JPG",
+        "key": "excluded/P8310707.JPG",
+        "sha256": "2d54a68035754a8730361be475fa579c733f2e076d560cdfe027efc34f0e9a71"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310708.JPG",
+        "key": "excluded/P8310708.JPG",
+        "sha256": "29526dbfa0fd47e61c15d9e75ad99eb0025f0609681a9c340ad529c811183bcb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P8310709.JPG",
+        "key": "excluded/P8310709.JPG",
+        "sha256": "a3a0939395604d1b52032f6d4abb5e093ff51790eddf2935c272ea5c3d6e6748"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010712.JPG",
+        "key": "excluded/P9010712.JPG",
+        "sha256": "3b34baeda809fa9b0531ec9793cd65af0aa822afd6ce7863185f3cb8585c64b7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010713.JPG",
+        "key": "excluded/P9010713.JPG",
+        "sha256": "b3d1141864efe319579b15a9beb5ace0e270af108afa8469ddd20efe37bd0503"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010714.JPG",
+        "key": "excluded/P9010714.JPG",
+        "sha256": "47bd43af5794a1860df90800e6e5e819ae1e7f5e2f17bd962812a803e489a4e5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010716.JPG",
+        "key": "excluded/P9010716.JPG",
+        "sha256": "c6e04e7c5b817d87b38f704da534a9f4521251df6bfc8a23e397b0f215222556"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010718.JPG",
+        "key": "excluded/P9010718.JPG",
+        "sha256": "d43737fe302892be08f215e2a1c013f9c5d46006bb31aba107c5458ac86e395f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010719.JPG",
+        "key": "excluded/P9010719.JPG",
+        "sha256": "5af6717302e171681eab5bddc56107c94f2009515395c4d9d487e269393123e9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010720.JPG",
+        "key": "excluded/P9010720.JPG",
+        "sha256": "e650a647d0d607a5b7b3f4ff0118cf2617435964c5efaabcedcc626202cd3332"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010722.JPG",
+        "key": "excluded/P9010722.JPG",
+        "sha256": "a5c48c39377d2c64bb67ed9d40933902b2c32131443866ed96a35983fd22edd8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010724.JPG",
+        "key": "excluded/P9010724.JPG",
+        "sha256": "ff4dc92844f18ba8edecc8a74b365882d900f17886687f7a151cfbf228c7d07c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010725.JPG",
+        "key": "excluded/P9010725.JPG",
+        "sha256": "e4516f2debbb0045bced7df499fd3834b14958ef6383bc09190c18bcbe895dfd"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010727.JPG",
+        "key": "excluded/P9010727.JPG",
+        "sha256": "2743bc8f6735972ace0d3e2995aec4d6a3003845bff7ed6625f0416bcc5d397b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010729.JPG",
+        "key": "excluded/P9010729.JPG",
+        "sha256": "6679503ea86b72f6c370bf6fb226bdc6fe2dbcc1f1dd40b031fd919b7b4833cc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010730.JPG",
+        "key": "excluded/P9010730.JPG",
+        "sha256": "d02b20360e68302f7f382f74e10279668936acf0bfb4968bd26132d88607630f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010731.JPG",
+        "key": "excluded/P9010731.JPG",
+        "sha256": "9a9e2635a71c88ec89af42c331a99d504496a93c8b5c167f82c230194428376e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010732.JPG",
+        "key": "excluded/P9010732.JPG",
+        "sha256": "842f1f642c3678960374c38f5fd39f4d17ca8ed739f05d4c0e11eb74aa4ad46c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010734.JPG",
+        "key": "excluded/P9010734.JPG",
+        "sha256": "6bcf66854fe93cc8e402cf22f2314d95539e8680ff0a02d25b440251ed06d695"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010735.JPG",
+        "key": "excluded/P9010735.JPG",
+        "sha256": "8cd37d08f1fbfbc9a4fe304db793783bc9352218a5cbbcacb9ff78485bd3ad25"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010736.JPG",
+        "key": "excluded/P9010736.JPG",
+        "sha256": "9e80e1641f88e04a7beb28a0ac4296e1968855c15a713e68a6a3f18ee339a5e0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010738.JPG",
+        "key": "excluded/P9010738.JPG",
+        "sha256": "775a16b81b50d97aec687df20ccf604167a6874ba2f7df35ee85cc4cd9450679"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010739.JPG",
+        "key": "excluded/P9010739.JPG",
+        "sha256": "06ffe1b49bfae60c6f6e07f18fdfc9e69915097b6bd7c287515a8c1084c5fc0c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010740.JPG",
+        "key": "excluded/P9010740.JPG",
+        "sha256": "8e7c2a43c8b3efbfae4a7b070d6d8640e97afcdbf2abbb3e2478df5643f3387a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010743.JPG",
+        "key": "excluded/P9010743.JPG",
+        "sha256": "47bca5220347782fb1b28fad8be53410c8ab3ad76e8ad2010be771c8bd843ffc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010744.JPG",
+        "key": "excluded/P9010744.JPG",
+        "sha256": "9de3e1d8fbad08118b717f13c8e3d2501f4c68df011b061ec209b2203047e19f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010745.JPG",
+        "key": "excluded/P9010745.JPG",
+        "sha256": "ceb361cc6d070f571ec94e475a1c9d23ca13675067f67be90d56989fb3cc8595"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010748.JPG",
+        "key": "excluded/P9010748.JPG",
+        "sha256": "edd992558e7df46d8febacc43a1a306b3cff8f55b7b5f4044fa9905602c36a46"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010751.JPG",
+        "key": "excluded/P9010751.JPG",
+        "sha256": "a5bea114ecd3cedad8e0a1bd18506130a49f65d9f093b34c1cfdd7dcfe557bd9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010753.JPG",
+        "key": "excluded/P9010753.JPG",
+        "sha256": "c32b0996f370da87d88cef70e441cbe3d22ecf55ce45f4fa87a9239cdd342976"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010754.JPG",
+        "key": "excluded/P9010754.JPG",
+        "sha256": "dff34b0759343042739f16d290fc88d20ae0d65c12cbb61d1eb16901b7d8cec1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010755.JPG",
+        "key": "excluded/P9010755.JPG",
+        "sha256": "cf3d95da8f366acc12698d4f869be8758edefc9b8fe7f9ab2462a23fe1dc4277"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010756.JPG",
+        "key": "excluded/P9010756.JPG",
+        "sha256": "aefa747c98dc235333db87638b50bc7e9d3c6283cc638b5dee45869ab6578409"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010757.JPG",
+        "key": "excluded/P9010757.JPG",
+        "sha256": "f1c9134147854944cc8d08eadb5474e5b2f7bf5aa6c5fec84fa80c9de99250ed"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010758.JPG",
+        "key": "excluded/P9010758.JPG",
+        "sha256": "8ca70da0bc27e2c18af719f278b698ef49ed3938e294c7347dced6f550cb18df"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2008\\2008 Лето\\USA\\P9010749.JPG",
+        "key": "excluded/P9010749.JPG",
+        "sha256": "50d7535a6d45c7c52f37251475feb1d8e38b03b7688d906125536287f05c26d5"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "file": "content/americas/usa/washington-philadelphia-2008/washington/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Вашингтон",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 22,
+              "quote": "Еще полгода назад наши друзья стали подбивать нас съездить на выходные перед школой в Вашингтон-Филадельфию. Мы договорились с мамой что она посидит дома с Митькой (мама пока не выездная в Штаты), а мы втроем съездим. Как обычно и бывает в последний момент друзья нас «кинули» :-Р и мы остались одни. Ехать не очень хотелось. Причин «не ехать» было много. И одни остались, и финансово истрепались с ремонтами за лето, и вообще именно в Штаты именно сейчас как-то не хотелось ;-)... Но поскольку я за это лето вообще никуда не выезжала, то мне хотелось все-таки как-то вырваться из дома хоть чуть-чуть. Опять же Наташку мы почти все лето не видели: она то в Европе, то на даче и мы ей обещали что поедем... Поэтому через все «не хочу» где-то за 4 дня до празников мы все-таки решили что надо ехать. И начали планировать в срочном порядке. Хорошо у нас была Катюша констультантом. Она училась в Филадельфии, была ни раз в Вашингтоне и мы ее 2 вечера по телефону доставали, получая нахаляву кучу ценной информации :-) Потом мы опробовали новый для себя сайт www.Priceline.com. В принципе в интернете полно сайтов которые находят разные предложения о скидках в гостиницах и там ты можешь выбрать что тебе подходит. Но в центре Вашингтона все приличное где-то было от 139$ за номер. А на этом сайте ты выбираешь район, выбираешь «звездность» и называешь свою цену и сразу кредитную карту даешь. Т.е. если какая-то гостиница соглашается, то ты уже купил (не зная что). Немножко страшно с одной стороны, но прикольно. Поэтому мы сели играть в эту «рулетку». И начиная с 30$ и тихонько увеличивая купили очень крутую гостиницу (Omni Shoreham Hotel) за 77$ за ночь, 4 звезды. Гостиница очень прикольная, 1930 года со всем представлением о крутизне того времени. Ходишь по ней как по музею: все в мраморе, везде люстры хрустальные, картины, цветы... Но при этом плоский большой телевизор в номере, все навороты в ванной и т.д. Короче мы очень довольны. 2 ночи мы провели в этой гостинице."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "washington-dc"
+          },
+          "reason": "Сергей, Леля, Наташа; Митя остался дома с бабушкой, друзья отказались."
+        },
+        {
+          "label": "Omni Shoreham Hotel",
+          "event": "overnight",
+          "evidence": [
+            {
+              "source_paragraph": 22,
+              "quote": "Еще полгода назад наши друзья стали подбивать нас съездить на выходные перед школой в Вашингтон-Филадельфию. Мы договорились с мамой что она посидит дома с Митькой (мама пока не выездная в Штаты), а мы втроем съездим. Как обычно и бывает в последний момент друзья нас «кинули» :-Р и мы остались одни. Ехать не очень хотелось. Причин «не ехать» было много. И одни остались, и финансово истрепались с ремонтами за лето, и вообще именно в Штаты именно сейчас как-то не хотелось ;-)... Но поскольку я за это лето вообще никуда не выезжала, то мне хотелось все-таки как-то вырваться из дома хоть чуть-чуть. Опять же Наташку мы почти все лето не видели: она то в Европе, то на даче и мы ей обещали что поедем... Поэтому через все «не хочу» где-то за 4 дня до празников мы все-таки решили что надо ехать. И начали планировать в срочном порядке. Хорошо у нас была Катюша констультантом. Она училась в Филадельфии, была ни раз в Вашингтоне и мы ее 2 вечера по телефону доставали, получая нахаляву кучу ценной информации :-) Потом мы опробовали новый для себя сайт www.Priceline.com. В принципе в интернете полно сайтов которые находят разные предложения о скидках в гостиницах и там ты можешь выбрать что тебе подходит. Но в центре Вашингтона все приличное где-то было от 139$ за номер. А на этом сайте ты выбираешь район, выбираешь «звездность» и называешь свою цену и сразу кредитную карту даешь. Т.е. если какая-то гостиница соглашается, то ты уже купил (не зная что). Немножко страшно с одной стороны, но прикольно. Поэтому мы сели играть в эту «рулетку». И начиная с 30$ и тихонько увеличивая купили очень крутую гостиницу (Omni Shoreham Hotel) за 77$ за ночь, 4 звезды. Гостиница очень прикольная, 1930 года со всем представлением о крутизне того времени. Ходишь по ней как по музею: все в мраморе, везде люстры хрустальные, картины, цветы... Но при этом плоский большой телевизор в номере, все навороты в ванной и т.д. Короче мы очень довольны. 2 ночи мы провели в этой гостинице."
+            },
+            {
+              "photo": "washington/p8290476.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "washington-dc--omni-shoreham"
+          },
+          "reason": "Прожили две ночи, фотографии вестибюля и сада подтверждают пребывание."
+        },
+        {
+          "label": "Метро и станция Woodley Park–Zoo/Adams Morgan",
+          "event": "transport_used",
+          "evidence": [
+            {
+              "source_paragraph": 23,
+              "quote": "Выезд мы наметили в 7 утра, но как обычно реально выехали в 8-мь. Путь в Вашингтон лежал по другой дорое и по другим штатам чем мы ехали в Нью-Йорк. Сделав всего 3 небольших «технических остановки» на обмен валюты, покупку кофе, пересечение границы и др. нужны, закусывая прямо в пути бутербродами из дома, мы поселились в гостице уже в 5 часов вечера. Учитывая что путь этот 900 с лишнем км. через горы еще и Серега меня за руль не пускал, я считаю что мы очень успешно проехали. Мы вообще в город въехали в 4 часа, но поскольку это был конец рабочего дня, то еще час мы до центра пробивались. В Вашингтоне времени было у нас не так много и на вечер у нас было уже все запланировано на случай если мы приедем достаточно рано. Мы бросили вещи, оставили машину и побежали к метро (5 минут от гостиницы). Разобрались с системой оплаты проезда, 3 остановки и мы в самом центре. Залезли на башню на старом почтампте и обозрели окресности. Что приятно в Вашингтоне, практически все везде бесплатно :-) Потом нашли несколько рекламок компаний которые делают вечерние обзорные экскурсии по городу «в огнях». Договорились с одной и они нас «подобрали» прямо там где мы были, мы даже успели перекусить пока их ждали."
+            },
+            {
+              "photo": "excluded/P8300635.JPG"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "washington-dc"
+          },
+          "reason": "Метро использовали; название читается на станции в исключённом P8300635. Наличие Zoo в названии не доказывает посещение зоопарка."
+        },
+        {
+          "label": "Старый почтамт — башня",
+          "event": "ascent",
+          "evidence": [
+            {
+              "source_paragraph": 23,
+              "quote": "Выезд мы наметили в 7 утра, но как обычно реально выехали в 8-мь. Путь в Вашингтон лежал по другой дорое и по другим штатам чем мы ехали в Нью-Йорк. Сделав всего 3 небольших «технических остановки» на обмен валюты, покупку кофе, пересечение границы и др. нужны, закусывая прямо в пути бутербродами из дома, мы поселились в гостице уже в 5 часов вечера. Учитывая что путь этот 900 с лишнем км. через горы еще и Серега меня за руль не пускал, я считаю что мы очень успешно проехали. Мы вообще в город въехали в 4 часа, но поскольку это был конец рабочего дня, то еще час мы до центра пробивались. В Вашингтоне времени было у нас не так много и на вечер у нас было уже все запланировано на случай если мы приедем достаточно рано. Мы бросили вещи, оставили машину и побежали к метро (5 минут от гостиницы). Разобрались с системой оплаты проезда, 3 остановки и мы в самом центре. Залезли на башню на старом почтампте и обозрели окресности. Что приятно в Вашингтоне, практически все везде бесплатно :-) Потом нашли несколько рекламок компаний которые делают вечерние обзорные экскурсии по городу «в огнях». Договорились с одной и они нас «подобрали» прямо там где мы были, мы даже успели перекусить пока их ждали."
+            },
+            {
+              "photo": "washington/p8300499.jpg"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "washington-dc--staryy-pochtamt"
+          },
+          "reason": "Поднялись и смотрели город сверху; не только фасад."
+        },
+        {
+          "label": "Перекус в Старом почтамте",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 23,
+              "quote": "Выезд мы наметили в 7 утра, но как обычно реально выехали в 8-мь. Путь в Вашингтон лежал по другой дорое и по другим штатам чем мы ехали в Нью-Йорк. Сделав всего 3 небольших «технических остановки» на обмен валюты, покупку кофе, пересечение границы и др. нужны, закусывая прямо в пути бутербродами из дома, мы поселились в гостице уже в 5 часов вечера. Учитывая что путь этот 900 с лишнем км. через горы еще и Серега меня за руль не пускал, я считаю что мы очень успешно проехали. Мы вообще в город въехали в 4 часа, но поскольку это был конец рабочего дня, то еще час мы до центра пробивались. В Вашингтоне времени было у нас не так много и на вечер у нас было уже все запланировано на случай если мы приедем достаточно рано. Мы бросили вещи, оставили машину и побежали к метро (5 минут от гостиницы). Разобрались с системой оплаты проезда, 3 остановки и мы в самом центре. Залезли на башню на старом почтампте и обозрели окресности. Что приятно в Вашингтоне, практически все везде бесплатно :-) Потом нашли несколько рекламок компаний которые делают вечерние обзорные экскурсии по городу «в огнях». Договорились с одной и они нас «подобрали» прямо там где мы были, мы даже успели перекусить пока их ждали."
+            },
+            {
+              "photo": "excluded/P8300511.JPG"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "washington-dc--staryy-pochtamt"
+          },
+          "reason": "Семья за столом на P8300511; конкретная торговая точка не определена."
+        },
+        {
+          "label": "Вечерняя автобусная экскурсия",
+          "event": "attended",
+          "evidence": [
+            {
+              "source_paragraph": 23,
+              "quote": "Выезд мы наметили в 7 утра, но как обычно реально выехали в 8-мь. Путь в Вашингтон лежал по другой дорое и по другим штатам чем мы ехали в Нью-Йорк. Сделав всего 3 небольших «технических остановки» на обмен валюты, покупку кофе, пересечение границы и др. нужны, закусывая прямо в пути бутербродами из дома, мы поселились в гостице уже в 5 часов вечера. Учитывая что путь этот 900 с лишнем км. через горы еще и Серега меня за руль не пускал, я считаю что мы очень успешно проехали. Мы вообще в город въехали в 4 часа, но поскольку это был конец рабочего дня, то еще час мы до центра пробивались. В Вашингтоне времени было у нас не так много и на вечер у нас было уже все запланировано на случай если мы приедем достаточно рано. Мы бросили вещи, оставили машину и побежали к метро (5 минут от гостиницы). Разобрались с системой оплаты проезда, 3 остановки и мы в самом центре. Залезли на башню на старом почтампте и обозрели окресности. Что приятно в Вашингтоне, практически все везде бесплатно :-) Потом нашли несколько рекламок компаний которые делают вечерние обзорные экскурсии по городу «в огнях». Договорились с одной и они нас «подобрали» прямо там где мы были, мы даже успели перекусить пока их ждали."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "washington-dc--night-monuments-tour"
+          },
+          "reason": "Состоялась, автобус доставил в гостиницу около 23 часов. Оператор не назван."
+        },
+        {
+          "label": "Капитолий",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "washington/p8300515.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "washington-dc--kapitoliy"
+          },
+          "reason": "Семейные кадры у фасада, вход внутрь не описан. Не смешивается с экскурсией 2011."
+        },
+        {
+          "label": "Белый дом",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "washington/p8300540.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "washington-dc--white-house"
+          },
+          "reason": "Семейные фото у ограды; внутрь не входили по имеющимся материалам."
+        },
+        {
+          "label": "Мемориал Джефферсона",
+          "event": "visited_rotunda",
+          "evidence": [
+            {
+              "photo": "washington/p8300558.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "washington-dc--jefferson-memorial"
+          },
+          "reason": "Наташа внутри у статуи."
+        },
+        {
+          "label": "Мемориал Рузвельта",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "washington/p8300577.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "washington-dc--fdr-memorial"
+          },
+          "reason": "Семейные фотографии в скульптурном комплексе; хлебная очередь, FDR с собакой, радио и Элеонора — части одного мемориала."
+        },
+        {
+          "label": "Мемориал Второй мировой войны",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "washington/p8300593.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "washington-dc--world-war-ii-memorial"
+          },
+          "reason": "Семейные фотографии фонтанного комплекса и стена звёзд P8300588."
+        },
+        {
+          "label": "Монумент Вашингтона",
+          "event": "viewed_from_memorials",
+          "evidence": [
+            {
+              "photo": "washington/p8300590.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "washington-dc--washington-monument"
+          },
+          "reason": "Много собственных видов с других монументов. Подъём не утверждается."
+        },
+        {
+          "label": "Мемориал Линкольна",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "washington/p8300611.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "washington-dc--lincoln-memorial"
+          },
+          "reason": "Леля и Сергей внутри колоннады, статуя отдельно снята."
+        },
+        {
+          "label": "Мемориал морской пехоты — Иводзима",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "washington/p8300630.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "washington-dc--marine-corps-memorial"
+          },
+          "reason": "Собственная ночная фотография и подробный снимок щита History of the U.S. Marine Corps. Географически Арлингтон, региональная привязка Вашингтон."
+        },
+        {
+          "label": "Неизвестный мемориал с небольшой ротондой",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "washington/p8300622.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "P8300622: собственный семейный кадр, точное место не установлено. Не назначается кладбищу только по ночной экскурсии."
+        },
+        {
+          "label": "Охраняемая площадка ночью",
+          "event": "observed",
+          "evidence": [
+            {
+              "photo": "excluded/P8300620.JPG"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "P8300620 с ограждением и служащим; по тёмному кадру объект не определяется."
+        },
+        {
+          "label": "Национальная галерея искусства",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 25,
+              "quote": "Автобус нас потом доставил прямо в гостиницу часов в 11 вечера и мы «откинули коньки» с тем чтобы на следующий день вскочить ни свет ни зоря и отправится по музеям. Музеев в Вашингтоне очень много! Часть основных, национальных, находятся прямо на одно «площади». Все рядышком, удобно. Сначала мы пошли в картинную галлерею, причем так подгодали чтобы попасть на обзорную экскурсию (спасибо Катюша подсказала заранее посмотреть расписание). Что сказать, удовольствие конечно получили, т.к. коллекция конечно богатая от ранних итальянцев до современности. Все не посмотришь. Но Леонардо, Рембранта и т.д. мы конечно почтили своим вниманием. Правда насколько я понимаю, все-таки самые сильные коллекции все-таки в Нью-Йорке :-) Потом мы отправились в музей авиации и космонавтики. Тут я не фанатка конечно, но коллекция конечно богатейшая. В залах космонавтики мы конечно придирчиво высматривали исторические нестыковки – не нашли :-) Все на месте: и запуск нашего первого спутника, и Гагарин и Терешкова, а Леонову который первый в открытый космос вышел вообще отдельный макет посвящен. Да, полету на луну отведено больше места, но я считаю это справедливым, т.к. это все-таки их музей :-) Из действительно интересного оказались залы истории изобретения самолета. Мы с Серегой были в шоке, первый официальный показ самолета братьев Уайтс был в 1905 году, а в первую мировую войну уже были у всех на вооружении сотни самолетов!!! Вот это развитие техники. Кстати в этом же зале мужчина стоял у стола и наглядно для деток объяснял как же так получается что самолет летает. И наконец до меня ДОШЛО! Я теперь примерно представляю «почему же он летает и не падает» ;-)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "washington-dc--natsionalnaya-galereya-iskusstva"
+          },
+          "reason": "Состоявшаяся экскурсия и внутренние снимки."
+        },
+        {
+          "label": "Сад скульптур Национальной галереи",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "washington/p8300670.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "washington-dc--nga-sculpture-garden"
+          },
+          "reason": "Наташа у фонтана, отдельно сняты произведения сада; «заяц на камне» сопоставлен с официальным каталогом."
+        },
+        {
+          "label": "Произведения сада скульптур",
+          "event": "seen_as_exhibits",
+          "evidence": [
+            {
+              "photo": "excluded/P8300668.JPG"
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "attraction": "washington-dc--nga-sculpture-garden"
+          },
+          "reason": "Фокусные кадры P8300668/0671/0672 относятся к музейному саду, не к новым городам или отдельным посещениям."
+        },
+        {
+          "label": "Национальный музей авиации и космонавтики",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 25,
+              "quote": "Автобус нас потом доставил прямо в гостиницу часов в 11 вечера и мы «откинули коньки» с тем чтобы на следующий день вскочить ни свет ни зоря и отправится по музеям. Музеев в Вашингтоне очень много! Часть основных, национальных, находятся прямо на одно «площади». Все рядышком, удобно. Сначала мы пошли в картинную галлерею, причем так подгодали чтобы попасть на обзорную экскурсию (спасибо Катюша подсказала заранее посмотреть расписание). Что сказать, удовольствие конечно получили, т.к. коллекция конечно богатая от ранних итальянцев до современности. Все не посмотришь. Но Леонардо, Рембранта и т.д. мы конечно почтили своим вниманием. Правда насколько я понимаю, все-таки самые сильные коллекции все-таки в Нью-Йорке :-) Потом мы отправились в музей авиации и космонавтики. Тут я не фанатка конечно, но коллекция конечно богатейшая. В залах космонавтики мы конечно придирчиво высматривали исторические нестыковки – не нашли :-) Все на месте: и запуск нашего первого спутника, и Гагарин и Терешкова, а Леонову который первый в открытый космос вышел вообще отдельный макет посвящен. Да, полету на луну отведено больше места, но я считаю это справедливым, т.к. это все-таки их музей :-) Из действительно интересного оказались залы истории изобретения самолета. Мы с Серегой были в шоке, первый официальный показ самолета братьев Уайтс был в 1905 году, а в первую мировую войну уже были у всех на вооружении сотни самолетов!!! Вот это развитие техники. Кстати в этом же зале мужчина стоял у стола и наглядно для деток объяснял как же так получается что самолет летает. И наконец до меня ДОШЛО! Я теперь примерно представляю «почему же он летает и не падает» ;-)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "washington-dc--natsionalnyy-muzey-aviatsii-i-kosmonavtiki"
+          },
+          "reason": "Самолёты, ракеты, кабины, интерактивные столы — экспонаты внутри одного музея."
+        },
+        {
+          "label": "McDonald’s в музее",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 26,
+              "quote": "Посмотрев самые интересные залы (на весь музей нужен ни один день) мы решили перекусить в Макдональдсе (других точек там нет). Раз в 10 лет позволили себе по жирному и неполезному бутерброду, но удовольствие не получили. Действительно гадость порядочная и «камнем» упала в желудок. Но все-таки мы подкрепились и побежали в следующий музей «истории природы» (? Как в русском языке называются такие музеи?), там всякие кости динозавров, потом чучела животных и т.п. Я такое вообще не очень люблю, но я для себя нашла несколько залов посвященных разным минералам и драгоценным камням ;-) Очень интересно! Очень много полезного для себя узнала и увидела совершенно уникальные минералы и камни. Получила много удовольствия. Наташка с Серегой тоже вроде довольны своими динозаврами остались. Мы еще стерео кино про «морских динозавров» там посмотрели (хоть посидели чуть-чуть ;-)). В этом музее мы больше всего проходили, т.к. он работает чуть дольше и у нас больше никаких планов не было. Вечером мы хотели посидеть просто в ресторанчике, но после обеда в Макдональдсе мы ничего не хотели уже, купили по мороженному и поехали на метро в гостиницу. Вроде мои даже кино смотрели вечером, но я вырубилась сразу :-)"
+            },
+            {
+              "photo": "excluded/P8300667.JPG"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "washington-dc--natsionalnyy-muzey-aviatsii-i-kosmonavtiki"
+          },
+          "reason": "Обед подтверждён текстом и P8300667; не отдельная точка без адреса."
+        },
+        {
+          "label": "Национальный музей естественной истории",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 26,
+              "quote": "Посмотрев самые интересные залы (на весь музей нужен ни один день) мы решили перекусить в Макдональдсе (других точек там нет). Раз в 10 лет позволили себе по жирному и неполезному бутерброду, но удовольствие не получили. Действительно гадость порядочная и «камнем» упала в желудок. Но все-таки мы подкрепились и побежали в следующий музей «истории природы» (? Как в русском языке называются такие музеи?), там всякие кости динозавров, потом чучела животных и т.п. Я такое вообще не очень люблю, но я для себя нашла несколько залов посвященных разным минералам и драгоценным камням ;-) Очень интересно! Очень много полезного для себя узнала и увидела совершенно уникальные минералы и камни. Получила много удовольствия. Наташка с Серегой тоже вроде довольны своими динозаврами остались. Мы еще стерео кино про «морских динозавров» там посмотрели (хоть посидели чуть-чуть ;-)). В этом музее мы больше всего проходили, т.к. он работает чуть дольше и у нас больше никаких планов не было. Вечером мы хотели посидеть просто в ресторанчике, но после обеда в Макдональдсе мы ничего не хотели уже, купили по мороженному и поехали на метро в гостиницу. Вроде мои даже кино смотрели вечером, но я вырубилась сразу :-)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "washington-dc--natsionalnyy-muzey-estestvennoy-istorii"
+          },
+          "reason": "Осмотрели минералы, динозавров, посмотрели стереофильм о морских динозаврах. Все трое."
+        },
+        {
+          "label": "Национальный архив — фасад",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "excluded/P8300673.JPG"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "P8300673/74: здание напротив сада с надписью об архиве. Название требует отдельной первичной сверки; вход в архив не утверждается."
+        },
+        {
+          "label": "Конный памятник, белый памятник на площади и церковь возле Белого дома",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "excluded/P8300529.JPG"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Разные фокусные объекты P8300539, P8300529, P8300536/552. Их имена не установлены."
+        },
+        {
+          "label": "Скульптуры орлов у здания",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "excluded/P8290492.JPG"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "P8290491/492: собственный снимок, учреждение и название скульптур не определены."
+        },
+        {
+          "label": "Палатка с антивоенными плакатами",
+          "event": "observed_street_event",
+          "evidence": [
+            {
+              "photo": "excluded/P8300547.JPG"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "washington-dc"
+          },
+          "reason": "Уличная акция у ограды на P8300545–547; не музей и не визит в упомянутые на плакатах страны."
+        },
+        {
+          "label": "Леонардо, Рембрандт, братья Райт, Гагарин и Леонов",
+          "event": "exhibition_context",
+          "evidence": [
+            {
+              "source_paragraph": 25,
+              "quote": "Автобус нас потом доставил прямо в гостиницу часов в 11 вечера и мы «откинули коньки» с тем чтобы на следующий день вскочить ни свет ни зоря и отправится по музеям. Музеев в Вашингтоне очень много! Часть основных, национальных, находятся прямо на одно «площади». Все рядышком, удобно. Сначала мы пошли в картинную галлерею, причем так подгодали чтобы попасть на обзорную экскурсию (спасибо Катюша подсказала заранее посмотреть расписание). Что сказать, удовольствие конечно получили, т.к. коллекция конечно богатая от ранних итальянцев до современности. Все не посмотришь. Но Леонардо, Рембранта и т.д. мы конечно почтили своим вниманием. Правда насколько я понимаю, все-таки самые сильные коллекции все-таки в Нью-Йорке :-) Потом мы отправились в музей авиации и космонавтики. Тут я не фанатка конечно, но коллекция конечно богатейшая. В залах космонавтики мы конечно придирчиво высматривали исторические нестыковки – не нашли :-) Все на месте: и запуск нашего первого спутника, и Гагарин и Терешкова, а Леонову который первый в открытый космос вышел вообще отдельный макет посвящен. Да, полету на луну отведено больше места, но я считаю это справедливым, т.к. это все-таки их музей :-) Из действительно интересного оказались залы истории изобретения самолета. Мы с Серегой были в шоке, первый официальный показ самолета братьев Уайтс был в 1905 году, а в первую мировую войну уже были у всех на вооружении сотни самолетов!!! Вот это развитие техники. Кстати в этом же зале мужчина стоял у стола и наглядно для деток объяснял как же так получается что самолет летает. И наконец до меня ДОШЛО! Я теперь примерно представляю «почему же он летает и не падает» ;-)"
+            }
+          ],
+          "decision": "covered_by_museums",
+          "reason": "Имена и события в музейных экспозициях, не независимые географические объекты."
+        },
+        {
+          "label": "Ресторан на вечер",
+          "event": "plan_not_realized",
+          "evidence": [
+            {
+              "source_paragraph": 26,
+              "quote": "Посмотрев самые интересные залы (на весь музей нужен ни один день) мы решили перекусить в Макдональдсе (других точек там нет). Раз в 10 лет позволили себе по жирному и неполезному бутерброду, но удовольствие не получили. Действительно гадость порядочная и «камнем» упала в желудок. Но все-таки мы подкрепились и побежали в следующий музей «истории природы» (? Как в русском языке называются такие музеи?), там всякие кости динозавров, потом чучела животных и т.п. Я такое вообще не очень люблю, но я для себя нашла несколько залов посвященных разным минералам и драгоценным камням ;-) Очень интересно! Очень много полезного для себя узнала и увидела совершенно уникальные минералы и камни. Получила много удовольствия. Наташка с Серегой тоже вроде довольны своими динозаврами остались. Мы еще стерео кино про «морских динозавров» там посмотрели (хоть посидели чуть-чуть ;-)). В этом музее мы больше всего проходили, т.к. он работает чуть дольше и у нас больше никаких планов не было. Вечером мы хотели посидеть просто в ресторанчике, но после обеда в Макдональдсе мы ничего не хотели уже, купили по мороженному и поехали на метро в гостиницу. Вроде мои даже кино смотрели вечером, но я вырубилась сразу :-)"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "От ужина отказались после обеда; вместо него купили мороженое."
+        },
+        {
+          "label": "Городские фасады и дальние виды с башни",
+          "event": "viewed",
+          "evidence": [
+            {
+              "photo": "washington/p8300505.jpg"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "washington-dc"
+          },
+          "reason": "Фасады в панорамах не доказывают вход в здания; отдельные узнаваемые фокусные объекты выделены выше."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/usa/washington-philadelphia-2008/philadelphia/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Балтимор",
+          "event": "drive_through",
+          "evidence": [
+            {
+              "source_paragraph": 27,
+              "quote": "Утром у нас был ранний подъем и переезд в Филадельфию. Дело в том что около Филадельфии есть уникальная частная коллекция в которую мы обязательно хотели попасть, но планировали это на день отъезда в понедельник. Однако они мне ответили что в понедельник у них праздник и пришлось договариваться на воскресенье. Там все только по записи и последнее время «запуска» было в 1:30 :-( Ни то, ни се для нас, но от этого приходилось строить все свое время в Филадельфии. Поэтому чтобы хоть что-то увидеть в Филях мы выехали очень рано, проехали «сквозь» Балтимор (очень нам понравился город «на первых взгляд») без остановок и сразу припарковались в центре города, рядом с местом от куда отходят различные обзорные экскурсии. Залезли на 2-этажный открытый автобус – солнце парило нещадно (все дни были безоблачные и в районе 30). Очень слабый был гид, нес всякую чушь :-( Очень жалко, т.к. город очень красивый. Как-то «широко раскинут» с фонтанами и разными красивыми и довольно старыми (в американском понимании конечно) зданиями. Лицезрели мы «с улицы» и художественную галлерею и музей Родена, но внутрь не попали. Основная проблема этих автобусов в Филадельфии (это я прочла по интернету и потом мы это наблюдали) что вроде система как везде – билет действителен на сутки, можно выходить и заходить опять, но столько народу, что если выйдешь из автобуса, то потом фиг сядешь :-( А времени у нас было в обрез. Поэтому мы получили только общее и очень благоприятное впечатление, жаль не было больше времени на изучение этого города."
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Прямо указано без остановки; не экскурсионное посещение."
+        },
+        {
+          "label": "Филадельфия — автобусная экскурсия",
+          "event": "attended",
+          "evidence": [
+            {
+              "source_paragraph": 27,
+              "quote": "Утром у нас был ранний подъем и переезд в Филадельфию. Дело в том что около Филадельфии есть уникальная частная коллекция в которую мы обязательно хотели попасть, но планировали это на день отъезда в понедельник. Однако они мне ответили что в понедельник у них праздник и пришлось договариваться на воскресенье. Там все только по записи и последнее время «запуска» было в 1:30 :-( Ни то, ни се для нас, но от этого приходилось строить все свое время в Филадельфии. Поэтому чтобы хоть что-то увидеть в Филях мы выехали очень рано, проехали «сквозь» Балтимор (очень нам понравился город «на первых взгляд») без остановок и сразу припарковались в центре города, рядом с местом от куда отходят различные обзорные экскурсии. Залезли на 2-этажный открытый автобус – солнце парило нещадно (все дни были безоблачные и в районе 30). Очень слабый был гид, нес всякую чушь :-( Очень жалко, т.к. город очень красивый. Как-то «широко раскинут» с фонтанами и разными красивыми и довольно старыми (в американском понимании конечно) зданиями. Лицезрели мы «с улицы» и художественную галлерею и музей Родена, но внутрь не попали. Основная проблема этих автобусов в Филадельфии (это я прочла по интернету и потом мы это наблюдали) что вроде система как везде – билет действителен на сутки, можно выходить и заходить опять, но столько народу, что если выйдешь из автобуса, то потом фиг сядешь :-( А времени у нас было в обрез. Поэтому мы получили только общее и очень благоприятное впечатление, жаль не было больше времени на изучение этого города."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "philadelphia"
+          },
+          "reason": "Осмотрели город с двухэтажного открытого автобуса, не выходили у каждого музея."
+        },
+        {
+          "label": "Художественный музей Филадельфии",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 27,
+              "quote": "Утром у нас был ранний подъем и переезд в Филадельфию. Дело в том что около Филадельфии есть уникальная частная коллекция в которую мы обязательно хотели попасть, но планировали это на день отъезда в понедельник. Однако они мне ответили что в понедельник у них праздник и пришлось договариваться на воскресенье. Там все только по записи и последнее время «запуска» было в 1:30 :-( Ни то, ни се для нас, но от этого приходилось строить все свое время в Филадельфии. Поэтому чтобы хоть что-то увидеть в Филях мы выехали очень рано, проехали «сквозь» Балтимор (очень нам понравился город «на первых взгляд») без остановок и сразу припарковались в центре города, рядом с местом от куда отходят различные обзорные экскурсии. Залезли на 2-этажный открытый автобус – солнце парило нещадно (все дни были безоблачные и в районе 30). Очень слабый был гид, нес всякую чушь :-( Очень жалко, т.к. город очень красивый. Как-то «широко раскинут» с фонтанами и разными красивыми и довольно старыми (в американском понимании конечно) зданиями. Лицезрели мы «с улицы» и художественную галлерею и музей Родена, но внутрь не попали. Основная проблема этих автобусов в Филадельфии (это я прочла по интернету и потом мы это наблюдали) что вроде система как везде – билет действителен на сутки, можно выходить и заходить опять, но столько народу, что если выйдешь из автобуса, то потом фиг сядешь :-( А времени у нас было в обрез. Поэтому мы получили только общее и очень благоприятное впечатление, жаль не было больше времени на изучение этого города."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "philadelphia--khudozhestvennyy-muzey-filadelfii"
+          },
+          "reason": "Автор прямо говорит, что внутрь не попали."
+        },
+        {
+          "label": "Музей Родена",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 27,
+              "quote": "Утром у нас был ранний подъем и переезд в Филадельфию. Дело в том что около Филадельфии есть уникальная частная коллекция в которую мы обязательно хотели попасть, но планировали это на день отъезда в понедельник. Однако они мне ответили что в понедельник у них праздник и пришлось договариваться на воскресенье. Там все только по записи и последнее время «запуска» было в 1:30 :-( Ни то, ни се для нас, но от этого приходилось строить все свое время в Филадельфии. Поэтому чтобы хоть что-то увидеть в Филях мы выехали очень рано, проехали «сквозь» Балтимор (очень нам понравился город «на первых взгляд») без остановок и сразу припарковались в центре города, рядом с местом от куда отходят различные обзорные экскурсии. Залезли на 2-этажный открытый автобус – солнце парило нещадно (все дни были безоблачные и в районе 30). Очень слабый был гид, нес всякую чушь :-( Очень жалко, т.к. город очень красивый. Как-то «широко раскинут» с фонтанами и разными красивыми и довольно старыми (в американском понимании конечно) зданиями. Лицезрели мы «с улицы» и художественную галлерею и музей Родена, но внутрь не попали. Основная проблема этих автобусов в Филадельфии (это я прочла по интернету и потом мы это наблюдали) что вроде система как везде – билет действителен на сутки, можно выходить и заходить опять, но столько народу, что если выйдешь из автобуса, то потом фиг сядешь :-( А времени у нас было в обрез. Поэтому мы получили только общее и очень благоприятное впечатление, жаль не было больше времени на изучение этого города."
+            },
+            {
+              "photo": "philadelphia/p8310704.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "philadelphia--rodin-museum"
+          },
+          "reason": "Увидели фасад и «Мыслителя» с улицы; снимок указателя Rodin Museum на P8310705 подтверждает место. Входа в экспозицию нет."
+        },
+        {
+          "label": "Коллекция Барнса в Мерионе",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 29,
+              "quote": "http://www.barnesfoundation.org. Да, мы были правы что построили всю нашу поездку вокруг этого посещения. Это уникальная коллекция импрессионистов и пост-импрессионистов. Я не большой знаток и еще 2 года назад когда нас Катюша в Нью-Йорке водила по всем музеям «современного искусства» мы от души плевались. Но тут я что-то все лето искала себе на кухню картину, насмотрелась в интернете на современное искусство и что-то меня вдруг «приплющило» на импрессионистов :-О Но дело в том что Альберт Барнс начал коллекционировать франц. импрессионистов в тот момент когда они только начали писать свои картины. Мне кажется это самая большая коллекция этих художников. Везде в музеях ну 5-10 картин одного художника, а тут Ренуара – 181 картина, Сезана 59, Матиса 59, Пикассо 49! Причем что особенно интересно, от ранних работ до самых поздних, т.е. творчество каждого художника можно отследить в развитии, а импрессионисты очень менялись! Даже Наташка сказала: «Я думала Пикассо только треугольнички и умел рисовать, а оказывается он неплохо рисовал вначале» :-) Очень интересно, очень познавательно, не так «глаза разбегаются» как в музеях где собраны все направления и стили. И что-то особенное. От души рекомендую всем кто окажется в районе Филадельфии :-) И торопитесь! Нам сказали что на месте имения решено провести автомагистраль и видимо придется галерее переезжать в другое место, они считают что года на 3 им придется закрыться :-("
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "barnes-merion"
+          },
+          "reason": "В 2008 коллекция находилась в исходном здании Мериона; современный кампус Филадельфии открыт в 2012. Историческая точка выделена отдельно, с типами museum/gallery."
+        },
+        {
+          "label": "King of Prussia — гостиница Sheraton",
+          "event": "overnight",
+          "evidence": [
+            {
+              "source_paragraph": 30,
+              "quote": "На вечер у нас тоже уже было запланировано мероприятия и поэтому оставалось несколько часов «не то ни се», мы решили сделать небольшой «крюк» и заселиться в гостиницу которую мы заказывали уже в пригороде, чтобы потом сразу домой стартовать. В этом городе (King of Prussia) еще очень большой торговый центр (прямо в 5 минутях от нашей гостиницы оказался) где мы хотели еще и пошопиться с утра для полного кайфа. Гостиница «Ширатон» – 3 звезды оказалась противоположность нашей гостинице в Вашингтоне (заказывалась тоже как «кот в мешке» по прайслисту и обошлась нам около 60$ за ночь). Современная «бетонная коробка» без всяких «излишеств» в вестибюлях, и наворотов типа «плоского телевизора» в номере, но как-то все равно более комфортная и удобная. Мы успели поселиться и даже прошвырнуться по торговому центру. Купили Наташке рюкзах для школы, как и планировали, и поняли что ничего особенно интересного для нас нет. Магазины все те же что и у нас, цены тоже, т.ч. решили с утра время на шопинг не тратить, а сразу домой ехать, чтобы раньше вернуться. Нашей последней туристической точкой был парк Longwood gardens http://www.longwoodgardens.org/ Вернее это наверное ботанический сад, или помесь ботанического сада с кучей оранжерей и парка с диковинно подстриженными кустами и деревьями с кучей разных интересных фонтанов. Что-то (очень удаленно) типа нашего Питергофа, но без дворца ;-) Я вообще не большая любительница ботаники, но получила огромное удовольствие. Кувшинки ТАКИЕ что кажется что я сяду и меня выдержат, а цветы! А всякие диковенные растения со всего света. А уж регулярные парки с фонтанами я вообще люблю. Мы же приехали не просто так, а на особое представление (в честь праздника). Причем на подъезде к парку на огромных щитах висело: «Распродано – мест нет!». Машины были со всех штатов! К нам, стоящим в очереди из машин на въезд, подошло несколько работников с вопросом: «А билеты то у вас есть?» Видимо наши онтарийские номера вызывали недоверие, но у нас в дикой Канаде тоже есть интернет и кредитные карточки, поэтому мы были полностью подготовлены и обилечены заранее :-) Летом в этом парке каждые выходные (кажется) устраивают предстваление: фонтаны подсвечиваются разными огнями и под музыку «пляшут». А в честь праздинка в фонтанам и музыке добавили еще фейерверки. Народу было!.. Причем все со своими стульями или пледами и я думаю чуть ли ни с утра занимали места ;-) Мы поняли что безнадежно опоздали и нагло решили что как только начнется мы прямо с краю дорожки в центре и примостимся. Так Серега с Наташкой и сделали (их тут же заставили сесть на землю), а я нашла себя замечательное место «в елке» (действительно не под елкой, там уже чей то плед лежал огромный, а пришлось прямо в елку влезть, но зато я стояла и видимость у меня была наверное лучше всех :)). Вот само представление хотя и интересное и грандиозное меня не так сильно впечатлило. Что-то подобное мы видели в Германии и там мне показалось намного лучше была достигнута гармония между всплесками фонтанов и музыкой, здесь больше общее «впечатление» и масштабность поражали. Но все равно было здорого и дало нам такой «заключительный аккорд» для всей нашей поездки."
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Город и сеть названы, конкретный отель не установлен; не назначается центру Филадельфии."
+        },
+        {
+          "label": "Торговый центр в King of Prussia",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 30,
+              "quote": "На вечер у нас тоже уже было запланировано мероприятия и поэтому оставалось несколько часов «не то ни се», мы решили сделать небольшой «крюк» и заселиться в гостиницу которую мы заказывали уже в пригороде, чтобы потом сразу домой стартовать. В этом городе (King of Prussia) еще очень большой торговый центр (прямо в 5 минутях от нашей гостиницы оказался) где мы хотели еще и пошопиться с утра для полного кайфа. Гостиница «Ширатон» – 3 звезды оказалась противоположность нашей гостинице в Вашингтоне (заказывалась тоже как «кот в мешке» по прайслисту и обошлась нам около 60$ за ночь). Современная «бетонная коробка» без всяких «излишеств» в вестибюлях, и наворотов типа «плоского телевизора» в номере, но как-то все равно более комфортная и удобная. Мы успели поселиться и даже прошвырнуться по торговому центру. Купили Наташке рюкзах для школы, как и планировали, и поняли что ничего особенно интересного для нас нет. Магазины все те же что и у нас, цены тоже, т.ч. решили с утра время на шопинг не тратить, а сразу домой ехать, чтобы раньше вернуться. Нашей последней туристической точкой был парк Longwood gardens http://www.longwoodgardens.org/ Вернее это наверное ботанический сад, или помесь ботанического сада с кучей оранжерей и парка с диковинно подстриженными кустами и деревьями с кучей разных интересных фонтанов. Что-то (очень удаленно) типа нашего Питергофа, но без дворца ;-) Я вообще не большая любительница ботаники, но получила огромное удовольствие. Кувшинки ТАКИЕ что кажется что я сяду и меня выдержат, а цветы! А всякие диковенные растения со всего света. А уж регулярные парки с фонтанами я вообще люблю. Мы же приехали не просто так, а на особое представление (в честь праздника). Причем на подъезде к парку на огромных щитах висело: «Распродано – мест нет!». Машины были со всех штатов! К нам, стоящим в очереди из машин на въезд, подошло несколько работников с вопросом: «А билеты то у вас есть?» Видимо наши онтарийские номера вызывали недоверие, но у нас в дикой Канаде тоже есть интернет и кредитные карточки, поэтому мы были полностью подготовлены и обилечены заранее :-) Летом в этом парке каждые выходные (кажется) устраивают предстваление: фонтаны подсвечиваются разными огнями и под музыку «пляшут». А в честь праздинка в фонтанам и музыке добавили еще фейерверки. Народу было!.. Причем все со своими стульями или пледами и я думаю чуть ли ни с утра занимали места ;-) Мы поняли что безнадежно опоздали и нагло решили что как только начнется мы прямо с краю дорожки в центре и примостимся. Так Серега с Наташкой и сделали (их тут же заставили сесть на землю), а я нашла себя замечательное место «в елке» (действительно не под елкой, там уже чей то плед лежал огромный, а пришлось прямо в елку влезть, но зато я стояла и видимость у меня была наверное лучше всех :)). Вот само представление хотя и интересное и грандиозное меня не так сильно впечатлило. Что-то подобное мы видели в Германии и там мне показалось намного лучше была достигнута гармония между всплесками фонтанов и музыкой, здесь больше общее «впечатление» и масштабность поражали. Но все равно было здорого и дало нам такой «заключительный аккорд» для всей нашей поездки."
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Купили Наташе рюкзак; точное название торгового центра в рассказе отсутствует."
+        },
+        {
+          "label": "Longwood Gardens",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 30,
+              "quote": "На вечер у нас тоже уже было запланировано мероприятия и поэтому оставалось несколько часов «не то ни се», мы решили сделать небольшой «крюк» и заселиться в гостиницу которую мы заказывали уже в пригороде, чтобы потом сразу домой стартовать. В этом городе (King of Prussia) еще очень большой торговый центр (прямо в 5 минутях от нашей гостиницы оказался) где мы хотели еще и пошопиться с утра для полного кайфа. Гостиница «Ширатон» – 3 звезды оказалась противоположность нашей гостинице в Вашингтоне (заказывалась тоже как «кот в мешке» по прайслисту и обошлась нам около 60$ за ночь). Современная «бетонная коробка» без всяких «излишеств» в вестибюлях, и наворотов типа «плоского телевизора» в номере, но как-то все равно более комфортная и удобная. Мы успели поселиться и даже прошвырнуться по торговому центру. Купили Наташке рюкзах для школы, как и планировали, и поняли что ничего особенно интересного для нас нет. Магазины все те же что и у нас, цены тоже, т.ч. решили с утра время на шопинг не тратить, а сразу домой ехать, чтобы раньше вернуться. Нашей последней туристической точкой был парк Longwood gardens http://www.longwoodgardens.org/ Вернее это наверное ботанический сад, или помесь ботанического сада с кучей оранжерей и парка с диковинно подстриженными кустами и деревьями с кучей разных интересных фонтанов. Что-то (очень удаленно) типа нашего Питергофа, но без дворца ;-) Я вообще не большая любительница ботаники, но получила огромное удовольствие. Кувшинки ТАКИЕ что кажется что я сяду и меня выдержат, а цветы! А всякие диковенные растения со всего света. А уж регулярные парки с фонтанами я вообще люблю. Мы же приехали не просто так, а на особое представление (в честь праздника). Причем на подъезде к парку на огромных щитах висело: «Распродано – мест нет!». Машины были со всех штатов! К нам, стоящим в очереди из машин на въезд, подошло несколько работников с вопросом: «А билеты то у вас есть?» Видимо наши онтарийские номера вызывали недоверие, но у нас в дикой Канаде тоже есть интернет и кредитные карточки, поэтому мы были полностью подготовлены и обилечены заранее :-) Летом в этом парке каждые выходные (кажется) устраивают предстваление: фонтаны подсвечиваются разными огнями и под музыку «пляшут». А в честь праздинка в фонтанам и музыке добавили еще фейерверки. Народу было!.. Причем все со своими стульями или пледами и я думаю чуть ли ни с утра занимали места ;-) Мы поняли что безнадежно опоздали и нагло решили что как только начнется мы прямо с краю дорожки в центре и примостимся. Так Серега с Наташкой и сделали (их тут же заставили сесть на землю), а я нашла себя замечательное место «в елке» (действительно не под елкой, там уже чей то плед лежал огромный, а пришлось прямо в елку влезть, но зато я стояла и видимость у меня была наверное лучше всех :)). Вот само представление хотя и интересное и грандиозное меня не так сильно впечатлило. Что-то подобное мы видели в Германии и там мне показалось намного лучше была достигнута гармония между всплесками фонтанов и музыкой, здесь больше общее «впечатление» и масштабность поражали. Но все равно было здорого и дало нам такой «заключительный аккорд» для всей нашей поездки."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "longwood-gardens"
+          },
+          "reason": "Прогулка по саду, оранжереи и бассейны с кувшинками, вечернее шоу фонтанов и фейерверков."
+        },
+        {
+          "label": "Оранжереи, топиарии, бонсай, водные растения и фонтаны",
+          "event": "visited_site_components",
+          "evidence": [
+            {
+              "source_paragraph": 30,
+              "quote": "На вечер у нас тоже уже было запланировано мероприятия и поэтому оставалось несколько часов «не то ни се», мы решили сделать небольшой «крюк» и заселиться в гостиницу которую мы заказывали уже в пригороде, чтобы потом сразу домой стартовать. В этом городе (King of Prussia) еще очень большой торговый центр (прямо в 5 минутях от нашей гостиницы оказался) где мы хотели еще и пошопиться с утра для полного кайфа. Гостиница «Ширатон» – 3 звезды оказалась противоположность нашей гостинице в Вашингтоне (заказывалась тоже как «кот в мешке» по прайслисту и обошлась нам около 60$ за ночь). Современная «бетонная коробка» без всяких «излишеств» в вестибюлях, и наворотов типа «плоского телевизора» в номере, но как-то все равно более комфортная и удобная. Мы успели поселиться и даже прошвырнуться по торговому центру. Купили Наташке рюкзах для школы, как и планировали, и поняли что ничего особенно интересного для нас нет. Магазины все те же что и у нас, цены тоже, т.ч. решили с утра время на шопинг не тратить, а сразу домой ехать, чтобы раньше вернуться. Нашей последней туристической точкой был парк Longwood gardens http://www.longwoodgardens.org/ Вернее это наверное ботанический сад, или помесь ботанического сада с кучей оранжерей и парка с диковинно подстриженными кустами и деревьями с кучей разных интересных фонтанов. Что-то (очень удаленно) типа нашего Питергофа, но без дворца ;-) Я вообще не большая любительница ботаники, но получила огромное удовольствие. Кувшинки ТАКИЕ что кажется что я сяду и меня выдержат, а цветы! А всякие диковенные растения со всего света. А уж регулярные парки с фонтанами я вообще люблю. Мы же приехали не просто так, а на особое представление (в честь праздника). Причем на подъезде к парку на огромных щитах висело: «Распродано – мест нет!». Машины были со всех штатов! К нам, стоящим в очереди из машин на въезд, подошло несколько работников с вопросом: «А билеты то у вас есть?» Видимо наши онтарийские номера вызывали недоверие, но у нас в дикой Канаде тоже есть интернет и кредитные карточки, поэтому мы были полностью подготовлены и обилечены заранее :-) Летом в этом парке каждые выходные (кажется) устраивают предстваление: фонтаны подсвечиваются разными огнями и под музыку «пляшут». А в честь праздинка в фонтанам и музыке добавили еще фейерверки. Народу было!.. Причем все со своими стульями или пледами и я думаю чуть ли ни с утра занимали места ;-) Мы поняли что безнадежно опоздали и нагло решили что как только начнется мы прямо с краю дорожки в центре и примостимся. Так Серега с Наташкой и сделали (их тут же заставили сесть на землю), а я нашла себя замечательное место «в елке» (действительно не под елкой, там уже чей то плед лежал огромный, а пришлось прямо в елку влезть, но зато я стояла и видимость у меня была наверное лучше всех :)). Вот само представление хотя и интересное и грандиозное меня не так сильно впечатлило. Что-то подобное мы видели в Германии и там мне показалось намного лучше была достигнута гармония между всплесками фонтанов и музыкой, здесь больше общее «впечатление» и масштабность поражали. Но все равно было здорого и дало нам такой «заключительный аккорд» для всей нашей поездки."
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "places": "longwood-gardens"
+          },
+          "reason": "Части одного сада; отдельные садовые павильоны и растения не новые географические точки."
+        },
+        {
+          "label": "Фонтанное шоу с фейерверками",
+          "event": "attended",
+          "evidence": [
+            {
+              "source_paragraph": 30,
+              "quote": "На вечер у нас тоже уже было запланировано мероприятия и поэтому оставалось несколько часов «не то ни се», мы решили сделать небольшой «крюк» и заселиться в гостиницу которую мы заказывали уже в пригороде, чтобы потом сразу домой стартовать. В этом городе (King of Prussia) еще очень большой торговый центр (прямо в 5 минутях от нашей гостиницы оказался) где мы хотели еще и пошопиться с утра для полного кайфа. Гостиница «Ширатон» – 3 звезды оказалась противоположность нашей гостинице в Вашингтоне (заказывалась тоже как «кот в мешке» по прайслисту и обошлась нам около 60$ за ночь). Современная «бетонная коробка» без всяких «излишеств» в вестибюлях, и наворотов типа «плоского телевизора» в номере, но как-то все равно более комфортная и удобная. Мы успели поселиться и даже прошвырнуться по торговому центру. Купили Наташке рюкзах для школы, как и планировали, и поняли что ничего особенно интересного для нас нет. Магазины все те же что и у нас, цены тоже, т.ч. решили с утра время на шопинг не тратить, а сразу домой ехать, чтобы раньше вернуться. Нашей последней туристической точкой был парк Longwood gardens http://www.longwoodgardens.org/ Вернее это наверное ботанический сад, или помесь ботанического сада с кучей оранжерей и парка с диковинно подстриженными кустами и деревьями с кучей разных интересных фонтанов. Что-то (очень удаленно) типа нашего Питергофа, но без дворца ;-) Я вообще не большая любительница ботаники, но получила огромное удовольствие. Кувшинки ТАКИЕ что кажется что я сяду и меня выдержат, а цветы! А всякие диковенные растения со всего света. А уж регулярные парки с фонтанами я вообще люблю. Мы же приехали не просто так, а на особое представление (в честь праздника). Причем на подъезде к парку на огромных щитах висело: «Распродано – мест нет!». Машины были со всех штатов! К нам, стоящим в очереди из машин на въезд, подошло несколько работников с вопросом: «А билеты то у вас есть?» Видимо наши онтарийские номера вызывали недоверие, но у нас в дикой Канаде тоже есть интернет и кредитные карточки, поэтому мы были полностью подготовлены и обилечены заранее :-) Летом в этом парке каждые выходные (кажется) устраивают предстваление: фонтаны подсвечиваются разными огнями и под музыку «пляшут». А в честь праздинка в фонтанам и музыке добавили еще фейерверки. Народу было!.. Причем все со своими стульями или пледами и я думаю чуть ли ни с утра занимали места ;-) Мы поняли что безнадежно опоздали и нагло решили что как только начнется мы прямо с краю дорожки в центре и примостимся. Так Серега с Наташкой и сделали (их тут же заставили сесть на землю), а я нашла себя замечательное место «в елке» (действительно не под елкой, там уже чей то плед лежал огромный, а пришлось прямо в елку влезть, но зато я стояла и видимость у меня была наверное лучше всех :)). Вот само представление хотя и интересное и грандиозное меня не так сильно впечатлило. Что-то подобное мы видели в Германии и там мне показалось намного лучше была достигнута гармония между всплесками фонтанов и музыкой, здесь больше общее «впечатление» и масштабность поражали. Но все равно было здорого и дало нам такой «заключительный аккорд» для всей нашей поездки."
+            }
+          ],
+          "decision": "covered_by_site",
+          "target": {
+            "places": "longwood-gardens"
+          },
+          "reason": "Купленные билеты использованы; семейные фотографии на площадке и фейерверки подтверждают."
+        },
+        {
+          "label": "Петергоф и Германия",
+          "event": "comparison_previous_visit",
+          "evidence": [
+            {
+              "source_paragraph": 30,
+              "quote": "На вечер у нас тоже уже было запланировано мероприятия и поэтому оставалось несколько часов «не то ни се», мы решили сделать небольшой «крюк» и заселиться в гостиницу которую мы заказывали уже в пригороде, чтобы потом сразу домой стартовать. В этом городе (King of Prussia) еще очень большой торговый центр (прямо в 5 минутях от нашей гостиницы оказался) где мы хотели еще и пошопиться с утра для полного кайфа. Гостиница «Ширатон» – 3 звезды оказалась противоположность нашей гостинице в Вашингтоне (заказывалась тоже как «кот в мешке» по прайслисту и обошлась нам около 60$ за ночь). Современная «бетонная коробка» без всяких «излишеств» в вестибюлях, и наворотов типа «плоского телевизора» в номере, но как-то все равно более комфортная и удобная. Мы успели поселиться и даже прошвырнуться по торговому центру. Купили Наташке рюкзах для школы, как и планировали, и поняли что ничего особенно интересного для нас нет. Магазины все те же что и у нас, цены тоже, т.ч. решили с утра время на шопинг не тратить, а сразу домой ехать, чтобы раньше вернуться. Нашей последней туристической точкой был парк Longwood gardens http://www.longwoodgardens.org/ Вернее это наверное ботанический сад, или помесь ботанического сада с кучей оранжерей и парка с диковинно подстриженными кустами и деревьями с кучей разных интересных фонтанов. Что-то (очень удаленно) типа нашего Питергофа, но без дворца ;-) Я вообще не большая любительница ботаники, но получила огромное удовольствие. Кувшинки ТАКИЕ что кажется что я сяду и меня выдержат, а цветы! А всякие диковенные растения со всего света. А уж регулярные парки с фонтанами я вообще люблю. Мы же приехали не просто так, а на особое представление (в честь праздника). Причем на подъезде к парку на огромных щитах висело: «Распродано – мест нет!». Машины были со всех штатов! К нам, стоящим в очереди из машин на въезд, подошло несколько работников с вопросом: «А билеты то у вас есть?» Видимо наши онтарийские номера вызывали недоверие, но у нас в дикой Канаде тоже есть интернет и кредитные карточки, поэтому мы были полностью подготовлены и обилечены заранее :-) Летом в этом парке каждые выходные (кажется) устраивают предстваление: фонтаны подсвечиваются разными огнями и под музыку «пляшут». А в честь праздинка в фонтанам и музыке добавили еще фейерверки. Народу было!.. Причем все со своими стульями или пледами и я думаю чуть ли ни с утра занимали места ;-) Мы поняли что безнадежно опоздали и нагло решили что как только начнется мы прямо с краю дорожки в центре и примостимся. Так Серега с Наташкой и сделали (их тут же заставили сесть на землю), а я нашла себя замечательное место «в елке» (действительно не под елкой, там уже чей то плед лежал огромный, а пришлось прямо в елку влезть, но зато я стояла и видимость у меня была наверное лучше всех :)). Вот само представление хотя и интересное и грандиозное меня не так сильно впечатлило. Что-то подобное мы видели в Германии и там мне показалось намного лучше была достигнута гармония между всплесками фонтанов и музыкой, здесь больше общее «впечатление» и масштабность поражали. Но все равно было здорого и дало нам такой «заключительный аккорд» для всей нашей поездки."
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Сравнения регулярного сада и прежнего представления, не остановки этой поездки."
+        },
+        {
+          "label": "Филадельфийская ратуша",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "philadelphia/p8310699.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "P8310699/700/709: фокусные фасады; имя нуждается в первичной сверке. Вход не утверждается."
+        },
+        {
+          "label": "Чёрная скульптура из округлых объёмов",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "philadelphia/p8310701.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "P8310701: отдельное произведение в городе, имя не установлено."
+        },
+        {
+          "label": "Красочное здание с панелями на фасаде",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "philadelphia/p8310697.jpg"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "P8310697: название здания не установлено."
+        },
+        {
+          "label": "Высотное здание и исторический дом",
+          "event": "viewed_from_tour_bus",
+          "evidence": [
+            {
+              "photo": "excluded/P8310707.JPG"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "P8310702 и P8310707: фокусные кадры разных зданий. Не приписываются входы или названия."
+        },
+        {
+          "label": "Мосты на переезде и в Филадельфии",
+          "event": "driven_or_viewed",
+          "evidence": [
+            {
+              "photo": "excluded/P8310693.JPG"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "P8310693–696: мост по дороге действительно пересекали, другой виден с машины/автобуса. Точные названия не определены."
+        },
+        {
+          "label": "Ресторан в маленьком городе по дороге домой",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 31,
+              "quote": "Утром мы сразу рванили в сторону границы :-) И так же Серега вел без перерывов, только один раз заехали в крошечный городок и зашли в нормальный ресторанчик поели хоть по человечески. А то все дни мы питались то Макдональдсом, то Сабвеем и прочим фаст фудом. Просто совершенно не было времени на еду. Но тоже полезно. А то бывает идешь мимо таких забегаловок и вроде хочется и понимаешь что вредно и не ешь. А тут мы «наелись досыта» и на какое-то время полное отвращение выработали :-) Так что с одним «прощальным обедом» мы прибыли в Торонто часам к 4-ем, что оставило нам время отдохнуть и подготовиться к первому учебному дню :-) "
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Городок и ресторан не названы."
+        },
+        {
+          "label": "McDonald’s и Subway вне музейного обеда",
+          "event": "food_stops",
+          "evidence": [
+            {
+              "source_paragraph": 31,
+              "quote": "Утром мы сразу рванили в сторону границы :-) И так же Серега вел без перерывов, только один раз заехали в крошечный городок и зашли в нормальный ресторанчик поели хоть по человечески. А то все дни мы питались то Макдональдсом, то Сабвеем и прочим фаст фудом. Просто совершенно не было времени на еду. Но тоже полезно. А то бывает идешь мимо таких забегаловок и вроде хочется и понимаешь что вредно и не ешь. А тут мы «наелись досыта» и на какое-то время полное отвращение выработали :-) Так что с одним «прощальным обедом» мы прибыли в Торонто часам к 4-ем, что оставило нам время отдохнуть и подготовиться к первому учебному дню :-) "
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "reason": "Автор суммирует питание за поездку; адреса и отдельные филиалы не установлены."
+        },
+        {
+          "label": "Торонто",
+          "event": "return_home",
+          "evidence": [
+            {
+              "source_paragraph": 31,
+              "quote": "Утром мы сразу рванили в сторону границы :-) И так же Серега вел без перерывов, только один раз заехали в крошечный городок и зашли в нормальный ресторанчик поели хоть по человечески. А то все дни мы питались то Макдональдсом, то Сабвеем и прочим фаст фудом. Просто совершенно не было времени на еду. Но тоже полезно. А то бывает идешь мимо таких забегаловок и вроде хочется и понимаешь что вредно и не ешь. А тут мы «наелись досыта» и на какое-то время полное отвращение выработали :-) Так что с одним «прощальным обедом» мы прибыли в Торонто часам к 4-ем, что оставило нам время отдохнуть и подготовиться к первому учебному дню :-) "
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Домашний пункт прибытия, не дополнительная экскурсия."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_explicit_identification_questions",
+    "questions": [
+      {
+        "object": "Неизвестный мемориал с небольшой ротондой",
+        "question": "P8300622: собственный семейный кадр, точное место не установлено. Не назначается кладбищу только по ночной экскурсии.",
+        "chapter": "content/americas/usa/washington-philadelphia-2008/washington/index.md"
+      },
+      {
+        "object": "Охраняемая площадка ночью",
+        "question": "P8300620 с ограждением и служащим; по тёмному кадру объект не определяется.",
+        "chapter": "content/americas/usa/washington-philadelphia-2008/washington/index.md"
+      },
+      {
+        "object": "Национальный архив — фасад",
+        "question": "P8300673/74: здание напротив сада с надписью об архиве. Название требует отдельной первичной сверки; вход в архив не утверждается.",
+        "chapter": "content/americas/usa/washington-philadelphia-2008/washington/index.md"
+      },
+      {
+        "object": "Конный памятник, белый памятник на площади и церковь возле Белого дома",
+        "question": "Разные фокусные объекты P8300539, P8300529, P8300536/552. Их имена не установлены.",
+        "chapter": "content/americas/usa/washington-philadelphia-2008/washington/index.md"
+      },
+      {
+        "object": "Скульптуры орлов у здания",
+        "question": "P8290491/492: собственный снимок, учреждение и название скульптур не определены.",
+        "chapter": "content/americas/usa/washington-philadelphia-2008/washington/index.md"
+      },
+      {
+        "object": "King of Prussia — гостиница Sheraton",
+        "question": "Город и сеть названы, конкретный отель не установлен; не назначается центру Филадельфии.",
+        "chapter": "content/americas/usa/washington-philadelphia-2008/philadelphia/index.md"
+      },
+      {
+        "object": "Торговый центр в King of Prussia",
+        "question": "Купили Наташе рюкзак; точное название торгового центра в рассказе отсутствует.",
+        "chapter": "content/americas/usa/washington-philadelphia-2008/philadelphia/index.md"
+      },
+      {
+        "object": "Филадельфийская ратуша",
+        "question": "P8310699/700/709: фокусные фасады; имя нуждается в первичной сверке. Вход не утверждается.",
+        "chapter": "content/americas/usa/washington-philadelphia-2008/philadelphia/index.md"
+      },
+      {
+        "object": "Чёрная скульптура из округлых объёмов",
+        "question": "P8310701: отдельное произведение в городе, имя не установлено.",
+        "chapter": "content/americas/usa/washington-philadelphia-2008/philadelphia/index.md"
+      },
+      {
+        "object": "Красочное здание с панелями на фасаде",
+        "question": "P8310697: название здания не установлено.",
+        "chapter": "content/americas/usa/washington-philadelphia-2008/philadelphia/index.md"
+      },
+      {
+        "object": "Высотное здание и исторический дом",
+        "question": "P8310702 и P8310707: фокусные кадры разных зданий. Не приписываются входы или названия.",
+        "chapter": "content/americas/usa/washington-philadelphia-2008/philadelphia/index.md"
+      },
+      {
+        "object": "Мосты на переезде и в Филадельфии",
+        "question": "P8310693–696: мост по дороге действительно пересекали, другой виден с машины/автобуса. Точные названия не определены.",
+        "chapter": "content/americas/usa/washington-philadelphia-2008/philadelphia/index.md"
+      },
+      {
+        "object": "Ресторан в маленьком городе по дороге домой",
+        "question": "Городок и ресторан не названы.",
+        "chapter": "content/americas/usa/washington-philadelphia-2008/philadelphia/index.md"
+      }
+    ],
+    "repeat_check": "Все текстовые и фотографические объекты сопоставлены с решениями. Музеи Родена и искусства не объявлены посещёнными изнутри. Барнс выделен в историческую точку Мериона, не в современный музейный адрес.",
+    "external_sources": [
+      {
+        "url": "https://www.sju.edu/maguire-art-museum/about",
+        "purpose": "Исходное здание коллекции Барнса в Мерионе, использовавшееся 1925–2011."
+      },
+      {
+        "url": "https://www.barnesfoundation.org/about",
+        "purpose": "История исходного кампуса и переноса коллекции в Филадельфию."
+      },
+      {
+        "url": "https://www.nga.gov/artworks/108993-thinker-rock",
+        "purpose": "Сопоставление фотографии зайца на камне с официальным каталогом сада скульптур."
+      }
+    ],
+    "new_attractions": [
+      "washington-dc--omni-shoreham",
+      "washington-dc--marine-corps-memorial",
+      "washington-dc--nga-sculpture-garden",
+      "philadelphia--rodin-museum",
+      "barnes-merion"
+    ]
+  }
+}

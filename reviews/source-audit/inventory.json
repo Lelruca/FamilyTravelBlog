@@ -1729,11 +1729,11 @@
       "trip_path": "content/americas/usa/new-york-2006",
       "title": "\"Нью-Йорк – город контрастов\"",
       "draft": false,
-      "source_sha256_lf": "3d024d6ea1f73d30d09f5dac4a49c94ffab37a62c8c92411231a183e1eb6b4da",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "cd937c8734955f00ab2407a279a8862c70751970dcf0f0a2f809619a918b80f8",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/new-york-2006.json"
     },
     {
       "file": "content/americas/usa/new-york-2012/day-1/index.md",
@@ -1789,11 +1789,11 @@
       "trip_path": "content/americas/usa/washington-2011",
       "title": "\"Вашингтон\"",
       "draft": false,
-      "source_sha256_lf": "72ced8e1c52eb84c48d919d2ebd6bea56291821f15ae3f59f4817e6b428838b0",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "044c0de993cd4be04ce6547adb273d3dfa0eb4083a0271e4b9441dc0c051ce0e",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/washington-2011.json"
     },
     {
       "file": "content/americas/usa/washington-philadelphia-2008/philadelphia/index.md",
@@ -1801,11 +1801,11 @@
       "trip_path": "content/americas/usa/washington-philadelphia-2008",
       "title": "\"Филадельфия\"",
       "draft": false,
-      "source_sha256_lf": "14e435922e9b2a7eb0f3176566789d16e95f0b604fc87baaebd7052ce53117ce",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "c99f109d5f4b24ac9a6392d48751b51e6c4f55dd4306b6fbab2d7c4140c07433",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/washington-philadelphia-2008.json"
     },
     {
       "file": "content/americas/usa/washington-philadelphia-2008/washington/index.md",
@@ -1813,11 +1813,11 @@
       "trip_path": "content/americas/usa/washington-philadelphia-2008",
       "title": "\"Вашингтон\"",
       "draft": false,
-      "source_sha256_lf": "aed4999873c6b43f120aa91b691954d67074335532dc48e3c9484311a7ab1da3",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "5425ece413e67e0b4cf83422ebe81564a227b35863a4be0ff9f776eb6b630abe",
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/washington-philadelphia-2008.json"
     },
     {
       "file": "content/asia/china/china-2019/departure/index.md",

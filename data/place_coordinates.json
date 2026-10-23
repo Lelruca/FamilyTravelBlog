@@ -4266,5 +4266,13 @@
     "source": "https://www.wikidata.org/wiki/Q1135624",
     "query": "Cellettes Loir-et-Cher",
     "note": "Ночлег в Château de La Rozelle, 15 bis rue de la Rozelle. Не относится к одноимённой коммуне в Charente и не находится в самом городе Blois."
+  },
+  "barnes-merion": {
+    "lat": 39.9978692,
+    "lon": -75.2407181,
+    "name": "Историческое здание коллекции Барнса, Мерион",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/way/705808932",
+    "query": "Barnes Arboretum, Merion, Pennsylvania — former Barnes gallery building, current Maguire Art Museum; historical occupancy verified at https://www.sju.edu/maguire-art-museum/about"
   }
 }

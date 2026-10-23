@@ -10,7 +10,49 @@
     "status": "reviewed",
     "reviewed": 31,
     "manifest": "media-manifests/quebec-montreal-2003.json",
-    "method": "Архивные оригиналы сверены по SHA-256 и просмотрены; отдельно просмотрены все перечисленные в manifest исключённые кадры в исходной папке OneDrive. Невыбранные тёмные интерьеры также учтены."
+    "method": "Архивные оригиналы сверены по SHA-256 и просмотрены; отдельно просмотрены все перечисленные в manifest исключённые кадры в исходной папке OneDrive. Невыбранные тёмные интерьеры также учтены.",
+    "additional_originals": [
+      {
+        "source": "D:\\OneDrive\\Photo\\2003\\2003 Лето_Montreal_Quebec\\mq_0010.JPG",
+        "key": "excluded/mq_0010.JPG",
+        "sha256": "76eced94fa2ae321906b0363ef90dea989a54301edbf42f9b0f9f1e70b5973e8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2003\\2003 Лето_Montreal_Quebec\\mq_0012.JPG",
+        "key": "excluded/mq_0012.JPG",
+        "sha256": "738b7fdfca06417254f293ed64851be7acf42bef222ae87d77298a08e7d7c050"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2003\\2003 Лето_Montreal_Quebec\\mq_0013.JPG",
+        "key": "excluded/mq_0013.JPG",
+        "sha256": "6d8fcfc076364252477d169a023f9726fa7a2e9c7a86387c1fd7386111197eaa"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2003\\2003 Лето_Montreal_Quebec\\mq_0014.JPG",
+        "key": "excluded/mq_0014.JPG",
+        "sha256": "3e483ff9705eeb8c914871312efadfbfb45c5c405431e448fa7a8e7ad0fe43bd"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2003\\2003 Лето_Montreal_Quebec\\mq_0015_p.JPG",
+        "key": "excluded/mq_0015_p.JPG",
+        "sha256": "e6825a58d6a5e08e6a0d5a2440538dfda4008f6c727cecac0c08da4deb2ff012"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2003\\2003 Лето_Montreal_Quebec\\mq_0020.JPG",
+        "key": "excluded/mq_0020.JPG",
+        "sha256": "a7de24e279f5ab139a0a6f98d1d4bd1cc5d68b0dcad14bd3bf4a612e9cadb292"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2003\\2003 Лето_Montreal_Quebec\\mq_0021.JPG",
+        "key": "excluded/mq_0021.JPG",
+        "sha256": "55779ebb52e326f7f5b4bf8ba197afc8d376dc5376453615641567e0d1babfef"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2003\\2003 Лето_Montreal_Quebec\\mq_0031.JPG",
+        "key": "excluded/mq_0031.JPG",
+        "sha256": "be3f926cb5d978e9121174f76bb685eb074b0ebd7e2d324538a93e7e778326a6"
+      }
+    ]
   },
   "chapters": [
     {

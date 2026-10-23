@@ -9774,7 +9774,8 @@
     "title": "Театр Форда",
     "parent": "washington-dc",
     "types": [
-      "theatre"
+      "theatre",
+      "museum"
     ],
     "search_terms": [
       "театр",
@@ -9785,7 +9786,13 @@
       "оперы",
       "theatre",
       "theater",
-      "opera"
+      "opera",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "westminster-cathedral": {
@@ -12030,6 +12037,372 @@
       "ski resort",
       "skiing",
       "Mont Tremblant Ski Resort"
+    ]
+  },
+  "new-york--guggenheim": {
+    "title": "Музей Соломона Гуггенхайма",
+    "parent": "new-york",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "aliases": [
+      "Solomon R. Guggenheim Museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art",
+      "Solomon R. Guggenheim Museum"
+    ]
+  },
+  "new-york--circle-line-cruise": {
+    "title": "Круиз Circle Line по нью-йоркской гавани",
+    "parent": "new-york",
+    "types": [
+      "tour"
+    ],
+    "aliases": [
+      "Circle Line"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "Circle Line"
+    ]
+  },
+  "washington-dc--night-monuments-tour": {
+    "title": "Ночная экскурсия по монументам Вашингтона",
+    "parent": "washington-dc",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "washington-dc--washington-monument": {
+    "title": "Монумент Вашингтона",
+    "parent": "washington-dc",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Washington Monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Washington Monument"
+    ]
+  },
+  "washington-dc--lincoln-memorial": {
+    "title": "Мемориал Линкольна",
+    "parent": "washington-dc",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Lincoln Memorial"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Lincoln Memorial"
+    ]
+  },
+  "washington-dc--jefferson-memorial": {
+    "title": "Мемориал Джефферсона",
+    "parent": "washington-dc",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Thomas Jefferson Memorial"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Thomas Jefferson Memorial"
+    ]
+  },
+  "washington-dc--fdr-memorial": {
+    "title": "Мемориал Франклина Делано Рузвельта",
+    "parent": "washington-dc",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Franklin Delano Roosevelt Memorial",
+      "FDR Memorial"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Franklin Delano Roosevelt Memorial",
+      "FDR Memorial"
+    ]
+  },
+  "washington-dc--world-war-ii-memorial": {
+    "title": "Мемориал Второй мировой войны",
+    "parent": "washington-dc",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "World War II Memorial"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "World War II Memorial"
+    ]
+  },
+  "washington-dc--korean-war-memorial": {
+    "title": "Мемориал ветеранов Корейской войны",
+    "parent": "washington-dc",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Korean War Veterans Memorial"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Korean War Veterans Memorial"
+    ]
+  },
+  "washington-dc--white-house": {
+    "title": "Белый дом",
+    "parent": "washington-dc",
+    "types": [
+      "civic_building",
+      "historic_building"
+    ],
+    "aliases": [
+      "White House"
+    ],
+    "search_terms": [
+      "общественное здание",
+      "административное здание",
+      "civic building",
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "White House"
+    ]
+  },
+  "washington-dc--tidal-basin": {
+    "title": "Тайдал-Бейсин",
+    "parent": "washington-dc",
+    "types": [
+      "lake"
+    ],
+    "aliases": [
+      "Tidal Basin"
+    ],
+    "search_terms": [
+      "озеро",
+      "озёра",
+      "озера",
+      "озёр",
+      "lake",
+      "Tidal Basin"
+    ]
+  },
+  "washington-dc--omni-shoreham": {
+    "title": "Omni Shoreham Hotel",
+    "parent": "washington-dc",
+    "types": [
+      "hotel"
+    ],
+    "search_terms": [
+      "отель",
+      "отели",
+      "гостиница",
+      "гостиницы",
+      "hotel"
+    ]
+  },
+  "washington-dc--marine-corps-memorial": {
+    "title": "Мемориал морской пехоты США — Иводзима",
+    "parent": "washington-dc",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "US Marine Corps War Memorial",
+      "Iwo Jima Memorial",
+      "Арлингтон"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "US Marine Corps War Memorial",
+      "Iwo Jima Memorial",
+      "Арлингтон"
+    ]
+  },
+  "washington-dc--nga-sculpture-garden": {
+    "title": "Сад скульптур Национальной галереи искусства",
+    "parent": "washington-dc",
+    "types": [
+      "park",
+      "gallery"
+    ],
+    "aliases": [
+      "National Gallery of Art Sculpture Garden"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art",
+      "National Gallery of Art Sculpture Garden"
+    ]
+  },
+  "philadelphia--rodin-museum": {
+    "title": "Музей Родена в Филадельфии",
+    "parent": "philadelphia",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "aliases": [
+      "Rodin Museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art",
+      "Rodin Museum"
+    ]
+  },
+  "barnes-merion": {
+    "title": "Коллекция Барнса — историческое здание в Мерионе",
+    "parent": "barnes-merion",
+    "place": "barnes-merion",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "aliases": [
+      "Barnes Foundation Merion",
+      "Коллекция Барнса в Мерионе",
+      "Мерион"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art",
+      "Barnes Foundation Merion",
+      "Коллекция Барнса в Мерионе",
+      "Мерион"
     ]
   }
 }

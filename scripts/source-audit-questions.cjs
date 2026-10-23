@@ -9,6 +9,11 @@ for(const file of fs.readdirSync(dir).filter(f=>f.endsWith('.json')).sort()){
  out+=`\n## ${r.trip_path}\n\n`;
  for(const item of q){count++;out+=typeof item==='string'?`- ${item}\n`:`- **${item.object||'Уточнение'}**: ${item.question||JSON.stringify(item)}${item.chapter?` (глава: ${item.chapter})`:''}\n`;}
 }
-out+=`\nВсего открытых записей: ${count}. Основания и решения сохранены в отчётах trips/*.json.\n`;
+if(fs.existsSync('reviews/source-audit/source-gaps.json')){
+ const gaps=JSON.parse(fs.readFileSync('reviews/source-audit/source-gaps.json','utf8'));
+ out+='\n## Материалы, отсутствующие в текущем составе поездок\n\n';
+ for(const item of gaps.items.filter(x=>x.data_status!=='reconciled')){count++;out+=`- **${item.label}**: ${item.question}\n`;}
+}
+out+=`\nВсего открытых записей: ${count}. Основания и решения сохранены в отчётах trips/*.json и source-gaps.json.\n`;
 fs.writeFileSync('reviews/source-audit/QUESTIONS.md',out);
 console.log(`${count} questions collected in reviews/source-audit/QUESTIONS.md`);

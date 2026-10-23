@@ -9,7 +9,7 @@ city: "Вашингтон"
 places:
   - washington-dc
 auto_gallery: false
-attractions: ["washington-dc--natsionalnaya-galereya-iskusstva","washington-dc--natsionalnyy-muzey-aviatsii-i-kosmonavtiki","washington-dc--biblioteka-kongressa","washington-dc--kapitoliy","washington-dc--teatr-forda","washington-dc--natsionalnyy-muzey-amerikanskoy-istorii","washington-dc--natsionalnyy-muzey-estestvennoy-istorii"]
+attractions: ["washington-dc--natsionalnaya-galereya-iskusstva","washington-dc--natsionalnyy-muzey-aviatsii-i-kosmonavtiki","washington-dc--biblioteka-kongressa","washington-dc--kapitoliy","washington-dc--teatr-forda","washington-dc--natsionalnyy-muzey-amerikanskoy-istorii","washington-dc--natsionalnyy-muzey-estestvennoy-istorii","washington-dc--night-monuments-tour","washington-dc--washington-monument","washington-dc--lincoln-memorial","washington-dc--jefferson-memorial","washington-dc--fdr-memorial","washington-dc--world-war-ii-memorial","washington-dc--korean-war-memorial","washington-dc--white-house","washington-dc--tidal-basin"]
 ---
 
 <p>Каждый год, в мае месяце, в аккурат на мой день рождения, Наташка с Серегой уезжают на соревнования. Потому что у нас праздничные выходные и для соревнований это очень удобно. А я, мама и Митька остаемся одни. В прошлом году мы с компанией друзей ездили на природу. В этом году та же компания собралась в Вашингтон. Я была в Вашингтоне в Серегой и Наташей уже, но подумала что мама моя теперь с паспортом канадским, а в Штатах еще толком не была. Поэтому сначала идея была нам с ней смотаться, но куда Митьку девать? На соревнованиях ему делать нечего, оставить с Женей можно конечно (вот им радость ;-)), но как-то грустно... И решили мы его с собой взять тоже, т.к. 7 лет человеку, надо его тоже просвещать!</p>

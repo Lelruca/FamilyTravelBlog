@@ -33,7 +33,8 @@ const standaloneTypes={
  'inglis-falls':['waterfall'],
  'hoggs-falls':['waterfall'],
  'flowerpot-island':['island'],
- 'bruce-peninsula':['park']
+ 'bruce-peninsula':['park'],
+ 'longwood-gardens':['botanical_garden','park']
 };
 for(const [slug,types] of Object.entries(standaloneTypes)){
  const p=result[slug] ||= {types:[],search_terms:[],classification_sources:[]};

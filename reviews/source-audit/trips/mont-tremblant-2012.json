@@ -10,7 +10,29 @@
     "status": "reviewed",
     "reviewed": 10,
     "manifest": "media-manifests/mont-tremblant-2012.json",
-    "method": "Архивные оригиналы сверены по SHA-256 и просмотрены; отдельно просмотрены все перечисленные в manifest исключённые кадры в исходной папке OneDrive. Невыбранные тёмные интерьеры также учтены."
+    "method": "Архивные оригиналы сверены по SHA-256 и просмотрены; отдельно просмотрены все перечисленные в manifest исключённые кадры в исходной папке OneDrive. Невыбранные тёмные интерьеры также учтены.",
+    "additional_originals": [
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012-2013 Зима\\IMG_20121223_141052.jpg",
+        "key": "excluded/IMG_20121223_141052.jpg",
+        "sha256": "6a85bf8b4ee3c6e668d68aa3d5523a2bd04076307c66866211b790fc4942505b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012-2013 Зима\\IMG_20121223_141112.jpg",
+        "key": "excluded/IMG_20121223_141112.jpg",
+        "sha256": "d02732255f863a73321f868b670dc81b36d18a22e52bd297741dc558cbe0d5c5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012-2013 Зима\\IMG_20121224_121054.jpg",
+        "key": "excluded/IMG_20121224_121054.jpg",
+        "sha256": "e8884695c2ee550fd5932b7cfac8a14efd10655f9999f4e4c48c2c8cb82fb005"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012-2013 Зима\\IMG_20121224_121057.jpg",
+        "key": "excluded/IMG_20121224_121057.jpg",
+        "sha256": "c9c21f7f84ca7f63c40fe548af469cee5de1bc3b1af087742d1d6c332ca375f5"
+      }
+    ]
   },
   "chapters": [
     {

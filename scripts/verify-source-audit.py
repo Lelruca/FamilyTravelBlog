@@ -23,6 +23,8 @@ reports=list(Path('reviews/source-audit/trips').glob('*.json'))
 read=set();photos=set();objects=0
 for report_file in reports:
     r=load(report_file)
+    for original in r['photographs'].get('additional_originals',[]):
+        assert hashlib.sha256(Path(original['source']).read_bytes()).hexdigest()==original['sha256'],f"Additional original changed: {original['source']}"
     source=Path(r['source']['path'])
     assert hashlib.sha256(source.read_bytes()).hexdigest()==r['source']['sha256'],f'{report_file}: source changed'
     if r['source'].get('kind')=='photograph_manifest':
@@ -79,3 +81,6 @@ print('Audit IN PROGRESS. Valid evidence and valid structure do not prove absenc
 if '--require-complete' in sys.argv:
     assert all(c['text_status']=='read' and c['photos_status']=='reviewed' and c['reconciliation_status']=='complete' for c in inventory['chapters']),'Unread or unreconciled materials remain'
     assert inventory.get('cross_worktree_scope')=='reconciled','Other active draft sources have not been reconciled'
+    gaps_path=Path('reviews/source-audit/source-gaps.json')
+    if gaps_path.exists():
+        assert all(g.get('data_status')=='reconciled' for g in load(gaps_path)['items']),'Additional original-source trips remain unreconciled'
