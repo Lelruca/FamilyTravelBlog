@@ -4226,10 +4226,10 @@
       "title": "\"У бабушки\"",
       "draft": false,
       "source_sha256_lf": "b5b790ac2df1b1c0c807e396c7421d52bdd7cc5bc12b01d690a9a3db36e13449",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/luxembourg-2007.json"
     },
     {
       "file": "content/europe/luxembourg/luxembourg-2007/rome/index.md",
@@ -4237,11 +4237,11 @@
       "trip_path": "content/europe/luxembourg/luxembourg-2007",
       "title": "\"Рим\"",
       "draft": false,
-      "source_sha256_lf": "fed6e2b7101f0290bcc9811344feccc3af6a21ba39f9922ac9c18b522b3660e3",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "630dd3e28e70e94baf0e312b3dc8553594786edd9c80cde46e81ec21cbfb0352",
+      "text_status": "read",
+      "photos_status": "partial_damaged_original",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/luxembourg-2007.json"
     },
     {
       "file": "content/europe/luxembourg/luxembourg-2007/story/index.md",
@@ -4250,10 +4250,10 @@
       "title": "\"Люксембург с бабушкой\"",
       "draft": false,
       "source_sha256_lf": "e29a8eb485c0985368efc1a3a579e592500b45df8820dc45c2956cc31a2977ae",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "reviewed",
+      "reconciliation_status": "identifications_open",
+      "report": "reviews/source-audit/trips/luxembourg-2007.json"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/amsterdam-museums/index.md",

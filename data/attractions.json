@@ -12488,5 +12488,88 @@
       "castle",
       "fortress"
     ]
+  },
+  "rome--colosseum": {
+    "title": "Колизей",
+    "parent": "rome",
+    "types": [
+      "arena",
+      "archaeological_site"
+    ],
+    "search_terms": [
+      "арена",
+      "арены",
+      "амфитеатр",
+      "arena",
+      "amphitheatre",
+      "археология",
+      "археологический памятник",
+      "руины",
+      "раскопки",
+      "archaeology",
+      "ruins"
+    ]
+  },
+  "rome--roman-forum": {
+    "title": "Римский форум",
+    "parent": "rome",
+    "types": [
+      "archaeological_site"
+    ],
+    "search_terms": [
+      "археология",
+      "археологический памятник",
+      "руины",
+      "раскопки",
+      "archaeology",
+      "ruins"
+    ]
+  },
+  "rome--trevi-fountain": {
+    "title": "Фонтан Треви",
+    "parent": "rome",
+    "types": [
+      "fountain"
+    ],
+    "search_terms": [
+      "фонтан",
+      "фонтаны",
+      "фонтана",
+      "fountain"
+    ]
+  },
+  "rome--spanish-steps": {
+    "title": "Испанская лестница",
+    "parent": "rome",
+    "types": [
+      "monument",
+      "walking_route"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route"
+    ]
+  },
+  "rome--capitoline-square": {
+    "title": "Капитолийская площадь",
+    "parent": "rome",
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ]
   }
 }

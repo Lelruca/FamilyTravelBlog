@@ -9,7 +9,7 @@ city: "Rome"
 places: ["rome", "vatican"]
 hero_card_image: "IMG_4145.JPG"
 auto_gallery: false
-attractions: ["vatican--sobor-svyatogo-petra"]
+attractions: ["rome--colosseum","rome--roman-forum","rome--trevi-fountain","rome--spanish-steps","rome--san-petro-in-vinkoli","rome--capitoline-square","vatican--muzei-vatikana","vatican--sikstinskaya-kapella","vatican--sobor-svyatogo-petra"]
 ---
 
 <p>Однако мы были верны себе и конечно же успели съездить на экскурсию автобусную с русскоязычной компанией. В этот раз мы забрались аж в Рим!</p>

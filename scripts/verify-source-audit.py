@@ -57,7 +57,7 @@ for report_file in reports:
     for c in r['chapters']+r.get('sections',[]):
         if c.get('file'):
             if c['text_status']=='read':read.add(c['file'])
-            if r['photographs'].get('status')=='reviewed':photos.add(c['file'])
+            if c.get('photos_status',r['photographs'].get('status'))=='reviewed':photos.add(c['file'])
             front=Path(c['file']).read_text('utf-8').split('---',2)[1]
         else:
             front=None
