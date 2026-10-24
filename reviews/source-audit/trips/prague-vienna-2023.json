@@ -1,0 +1,880 @@
+{
+  "trip_path": "content/europe/austria/prague-vienna-2023",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 127,
+    "record_indices": [
+      127,
+      126,
+      125,
+      124,
+      123,
+      122,
+      121,
+      120,
+      119,
+      118,
+      116
+    ],
+    "read": "Полностью прочитаны все 11 исходных постов и подписи, затем все главы и имеющиеся исправления опечаток. Главы Вены организованы тематически; повтор одного посещения в заключении не посчитан новым входом."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/prague-vienna-2023.json",
+    "method": "Только авторский рассказ и содержательные подписи. Ни одной новой точки по фоновому изображению. Площадка концерта проверена по официальному архиву программы, без просмотра каждого снимка."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/austria/prague-vienna-2023/lisbon-transit/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, соответствующий пост и все подписи прочитаны целиком. Неоднозначность общего состава парка отделена от прямых подтверждений музейных входов.",
+      "objects": [
+        {
+          "label": "Лиссабон",
+          "event": "layover_city_walk",
+          "evidence": [
+            {
+              "source_record_index": 127,
+              "source_paragraph": 5,
+              "quote": "На самом деле в Лиссабоне мы оказались проездом"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "lisbon"
+          },
+          "reason": "Реально вышли в город, гуляли и посетили сад; забастовка не сорвала прогулку.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Ботанический сад в центре Лиссабона",
+          "event": "entered_name_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 127,
+              "source_paragraph": 8,
+              "quote": "мы совершенно случайно прошли мимо ботанического сада"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "lisbon--botanicheskiy-sad-lissabona"
+          },
+          "reason": "Развёрнутый личный рассказ подтверждает посещение. Сохранено общее русское имя; точное португальское название не подставлено и вынесено в вопросы.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Bairro Alto, любимая смотровая, кафе и Институт вина",
+          "event": "city_walk_and_brief_caption",
+          "evidence": [
+            {
+              "source_record_index": 127,
+              "source_paragraph": 7,
+              "quote": "прогулялись по району Bairro Alto"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Имена смотровой и кафе отсутствуют. Подпись «Институт вина!» не доказывает дегустацию или отдельный музей.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/prague-old-town/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, соответствующий пост и все подписи прочитаны целиком. Неоднозначность общего состава парка отделена от прямых подтверждений музейных входов.",
+      "objects": [
+        {
+          "label": "Прага",
+          "event": "guided_walk",
+          "evidence": [
+            {
+              "source_record_index": 126,
+              "source_paragraph": 2,
+              "quote": "решили взять гида"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "prague"
+          },
+          "reason": "Два дня экскурсии по разным берегам, не посещение всех встреченных зданий.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Staré Město",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_record_index": 126,
+              "source_paragraph": 2,
+              "quote": "Ста́ре-Ме́сто"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "prague--stare-mesto"
+          },
+          "reason": "Именованный район четырёхчасовой прогулки.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Nové Město",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_record_index": 126,
+              "source_paragraph": 2,
+              "quote": "Нове-Место"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "prague--nove-mesto"
+          },
+          "reason": "Второй именованный район той же экскурсии.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Пражские куранты и ратуша",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_record_index": 126,
+              "source_attachment_path": "attachments.0.data.9.media.description",
+              "quote": "Астрономические часы на Ратуше"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "prague--prazhskie-kuranty"
+          },
+          "reason": "История и механизм описаны авторской подписью, подъём в башню не заявлен.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Карлов мост",
+          "event": "exterior_view",
+          "evidence": [
+            {
+              "source_record_index": 126,
+              "source_attachment_path": "attachments.0.data.18.media.description",
+              "quote": "Карлов мост заложен точно по заветам астрологов в 1357 году. Там дата закладки была палиндромом: 1-3-5-7-9-7-5-3-1 - год, месяц, день, час, минута. 🙂"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "prague--karlov-most"
+          },
+          "reason": "Конкретный объект содержательно назван и рассказан в авторской подписи; не определяется по фону. Факт перехода всего моста не утверждается.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Вацлав, Ян Гус, Юнгман, инсталляция Давида Черного, Пороховая башня и Сословный театр",
+          "event": "brief_guided_city_details",
+          "evidence": [
+            {
+              "source_record_index": 126,
+              "source_attachment_path": "attachments.0.data.3.media.description",
+              "quote": "Из современного :) Типа потерянная династия. \n\"Известная инсталляция скульптора и художника Давида Черного висит под потолком в пассаже Люцерна: святой Вацлав сидит на брюхе своего мертвого коня, подвешенного за ноги. Она представляет собой альтернативную адаптация статуи святого Вацлава на Вацлавской площади.\""
+            },
+            {
+              "source_record_index": 126,
+              "source_attachment_path": "attachments.0.data.4.media.description",
+              "quote": "Ратуша и памятник Яну Гусу - основатель чешской ветви протестанства. Но сейчас у них по опросам 85% атеисты, 10% католики и 3% протестанты"
+            },
+            {
+              "source_record_index": 126,
+              "source_attachment_path": "attachments.0.data.13.media.description",
+              "quote": "Памятник \"возродителю чешского языка\" - Йохану Юнгману. Чехия получила независимость после 1 мировой войны. 400 лет официальный язык был немецкий. Чешский только в деревнях. Но хотели возродить славянские корни. Учили чешский с немецкого! Юнгман создал словарь-пятитомник немецко-чешский.\nГид сказала что чешский сложный язык. Со всеми склоненияии/спряжениями как славянский но с порядком слов из немецкого.\nПонимать на слух зная любой славянский легко, а дальше...."
+            },
+            {
+              "source_record_index": 126,
+              "source_attachment_path": "attachments.0.data.16.media.description",
+              "quote": "Пороховая башня, единственная осталась от городской крепосной стены"
+            },
+            {
+              "source_record_index": 126,
+              "source_attachment_path": "attachments.0.data.17.media.description",
+              "quote": "Театр, для которого Моцарт на заказ написал Дон Жуан-а. С тех пор внутри ничего не меняют. Там фильм про Моцарта снимали"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Краткие детали городской экскурсии. Не добавляются отдельные входы в театр, башню и новые музейные учреждения по каждому имени.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Hotel Hastal и гастрономические остановки",
+          "event": "lodging_and_meals",
+          "evidence": [
+            {
+              "source_record_index": 126,
+              "source_paragraph": 5,
+              "quote": "Hotel Hastal Prague Old Town."
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "История отеля и впечатления от кухни сохранены в городском рассказе, без каталога магазинов и кафе.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/prague-castle/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, соответствующий пост и все подписи прочитаны целиком. Неоднозначность общего состава парка отделена от прямых подтверждений музейных входов.",
+      "objects": [
+        {
+          "label": "Пражский град — музейный дворцовый комплекс",
+          "event": "entered_museums",
+          "evidence": [
+            {
+              "source_record_index": 125,
+              "source_paragraph": 6,
+              "quote": "Дальше мы пошли по музеям - дворец, домики где жила гвардия"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "prague-castle"
+          },
+          "reason": "Дворец и Золотая улица осмотрены, несмотря на плохую оценку пустых интерьеров. Музейный тип добавлен самому комплексу.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Собор Святого Вита",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 125,
+              "source_attachment_path": "attachments.0.data.17.media.description",
+              "quote": "К мощам святого Вацлава подхода нет, можно только издали сфотографировать."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "prague--sobor-svyatogo-vita"
+          },
+          "reason": "Осмотр внутри подтверждён описанием витража и мощей. К раке Вацлава не подходили вплотную, на башню не заявлен подъём.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Базилика Святого Георгия",
+          "event": "visited_extent_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 125,
+              "source_attachment_path": "attachments.0.data.24.media.description",
+              "quote": "Мощи Св. Людмилы (христианской бабушки Вацлава) покоятся в Храме Св. Георгия, это старинная церковь романского стиля."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "prague--bazilika-svyatogo-georgiya"
+          },
+          "reason": "Прямое собственное имя в авторской подписи; объём внутреннего осмотра подробно не установлен.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Malá Strana",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_record_index": 125,
+              "source_paragraph": 7,
+              "quote": "Под замком на берегу район Малая Сторона."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "prague--mala-strana"
+          },
+          "reason": "Содержательно описанный район у замка.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Градчаны, Масарик, советский памятник и церковь Николая",
+          "event": "guided_quarter_details",
+          "evidence": [
+            {
+              "source_record_index": 125,
+              "source_paragraph": 1,
+              "quote": "Район Градчаны"
+            },
+            {
+              "source_record_index": 125,
+              "source_attachment_path": "attachments.0.data.4.media.description",
+              "quote": "Тут же памятник советскому войну. Удивило кол-во цветов. Гид сказала - 9 мая. За памятником следят чехи."
+            },
+            {
+              "source_record_index": 125,
+              "source_attachment_path": "attachments.0.data.29.media.description",
+              "quote": "Церковь святого Николая"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Детали общей прогулки; не приписывается посещение каждой церкви или дворца аристократов.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/vienna-walks/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, соответствующий пост и все подписи прочитаны целиком. Неоднозначность общего состава парка отделена от прямых подтверждений музейных входов.",
+      "objects": [
+        {
+          "label": "Вена — прогулки с Катей",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_record_index": 124,
+              "source_paragraph": 1,
+              "quote": "моя сестра из Лондона"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "vienna"
+          },
+          "reason": "Катя прилетела на полтора дня для совместных прогулок, затем улетела. Ей не приписываются все последующие музеи.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Катя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/vienna-food/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, соответствующий пост и все подписи прочитаны целиком. Неоднозначность общего состава парка отделена от прямых подтверждений музейных входов.",
+      "objects": [
+        {
+          "label": "Венская кухня и кондитерские",
+          "event": "meals",
+          "evidence": [
+            {
+              "source_record_index": 123,
+              "source_paragraph": 2,
+              "quote": "А так мы отработали все"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "vienna"
+          },
+          "reason": "Гастрономический рассказ, а не перечень отдельных достопримечательностей. Точный состав всех застолий не установлен.",
+          "participants": null
+        },
+        {
+          "label": "Кафе Sacher и напиток spritz",
+          "event": "brief_food_stops",
+          "evidence": [
+            {
+              "source_record_index": 123,
+              "source_attachment_path": "attachments.0.data.0.media.description",
+              "quote": "Кафе Zacher"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Короткая подпись к кафе, кондитерская тема сохраняется в городе без новой отдельной точки.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/hofburg/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, соответствующий пост и все подписи прочитаны целиком. Неоднозначность общего состава парка отделена от прямых подтверждений музейных входов.",
+      "objects": [
+        {
+          "label": "Хофбург",
+          "event": "entered_named_museum_route",
+          "evidence": [
+            {
+              "source_record_index": 122,
+              "source_paragraph": 0,
+              "quote": "Но мы их всех нашли и побороли, в смысле посетили"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "hofburg"
+          },
+          "reason": "Слово «всех» ограничено перечисленными ниже музеями, не всеми учреждениями огромного комплекса.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Музей Сиси",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 122,
+              "source_paragraph": 1,
+              "quote": "Самый раскрученный - музей Сиси"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "vienna--muzey-sisi"
+          },
+          "reason": "Отдельно описанная экспозиция с аудиогидом.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Императорские апартаменты",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 122,
+              "source_paragraph": 2,
+              "quote": "Эта часть музея плавно переходит в императорские апартаменты."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "vienna--imperatorskie-apartamenty"
+          },
+          "reason": "Действительно прошли залы, не только читали о дворце.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Императорская сокровищница",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 122,
+              "source_paragraph": 3,
+              "quote": "Другой музей дворца - королевская сокровищница."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "vienna--imperatorskaya-sokrovishchnitsa"
+          },
+          "reason": "Прямой рассказ об осмотренных предметах; отдельные короны не новые точки.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Австрийская национальная библиотека — парадный зал",
+          "event": "visited_state_hall",
+          "evidence": [
+            {
+              "source_record_index": 122,
+              "source_paragraph": 4,
+              "quote": "парадный зал национальной библиотеки"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "vienna--avstriyskaya-natsionalnaya-biblioteka"
+          },
+          "reason": "Посетили парадный зал, не все рабочие и закрытые фонды национальной библиотеки.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Прочие музеи Хофбурга",
+          "event": "not_confirmed",
+          "evidence": [
+            {
+              "source_record_index": 122,
+              "source_paragraph": 5,
+              "quote": "Может во дворце есть еще музеи, но мы больше не нашли."
+            }
+          ],
+          "decision": "exclude_as_visits",
+          "reason": "Другие музеи комплекса не добавляются по слову «Хофбург».",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/opera-concert/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, соответствующий пост и все подписи прочитаны целиком. Неоднозначность общего состава парка отделена от прямых подтверждений музейных входов.",
+      "objects": [
+        {
+          "label": "Венская опера — «Дон Паскуале»",
+          "event": "attended_opera",
+          "evidence": [
+            {
+              "source_record_index": 121,
+              "source_paragraph": 1,
+              "quote": "Слушали мы Дон Пасквале Доницетти."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "vienna-state-opera"
+          },
+          "reason": "Купили билеты и посетили спектакль, несмотря на умеренное впечатление; места и ложи не отдельные объекты.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Musikverein — концерт с Адамом Фишером",
+          "event": "attended_symphonic_concert",
+          "evidence": [
+            {
+              "source_record_index": 121,
+              "source_paragraph": 4,
+              "quote": "Попали на концерт под управлением Адама Фишера!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "musikverein"
+          },
+          "reason": "Площадка подтверждена архивом оркестра по дирижёру, Брамсу и Рихарду Штраусу в мае 2023. Не догадка по общей фотографии зала.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Концерты в церкви и прежняя оперетта в саду",
+          "event": "rejected_option_and_previous_trip",
+          "evidence": [
+            {
+              "source_record_index": 121,
+              "source_paragraph": 3,
+              "quote": "я почти купила пока не поняла, что там всего 6 музыкантов"
+            }
+          ],
+          "decision": "exclude_as_current_visits",
+          "reason": "Церковный концерт не купили; оперетта в саду была в прежней поездке с Наташей, не сейчас.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/art-museums/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, соответствующий пост и все подписи прочитаны целиком. Неоднозначность общего состава парка отделена от прямых подтверждений музейных входов.",
+      "objects": [
+        {
+          "label": "Художественно-исторический музей",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 120,
+              "source_paragraph": 2,
+              "quote": "Конечно в первую очередь Kunsthistorisches"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "kunsthistorisches-museum"
+          },
+          "reason": "Прямое описание коллекции и собственного посещения. Картины, залы художников и временная выставка — части этого музея.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Альбертина",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 120,
+              "source_paragraph": 5,
+              "quote": "Музей Альберитина"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "albertina"
+          },
+          "reason": "Прямое описание коллекции и собственного посещения. Картины, залы художников и временная выставка — части этого музея.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Бельведер",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 120,
+              "source_paragraph": 6,
+              "quote": "Последней нашей галлереей был сегодня Бельведер"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "belvedere"
+          },
+          "reason": "Прямое описание коллекции и собственного посещения. Картины, залы художников и временная выставка — части этого музея.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/schonbrunn/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, соответствующий пост и все подписи прочитаны целиком. Неоднозначность общего состава парка отделена от прямых подтверждений музейных входов.",
+      "objects": [
+        {
+          "label": "Шёнбрунн — дворец и парк",
+          "event": "entered_palace_and_walked_park",
+          "evidence": [
+            {
+              "source_record_index": 119,
+              "source_paragraph": 1,
+              "quote": "Внутри дворца дают бесплатно аудиогид"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "schonbrunn"
+          },
+          "reason": "Вошли в назначенное время после парка; исторический рассказ и личная оценка подтверждают осмотр.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Музей карет, лабиринт, зоопарк и розарий",
+          "event": "facilities_mentioned_entry_not_established",
+          "evidence": [
+            {
+              "source_record_index": 119,
+              "source_paragraph": 0,
+              "quote": "в парке дополнительно музей карет, лабиринт, большой городской зоопарк"
+            }
+          ],
+          "decision": "covered_by_complex",
+          "reason": "Это описание состава комплекса. Общая фраза «успели все другое посмотреть» не доказывает отдельный билетный вход в каждое учреждение.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/technical-military/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, соответствующий пост и все подписи прочитаны целиком. Неоднозначность общего состава парка отделена от прямых подтверждений музейных входов.",
+      "objects": [
+        {
+          "label": "Технический музей Вены",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 118,
+              "source_paragraph": 1,
+              "quote": "Технический музей мы пропустить никак не могли"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "technisches-museum-wien"
+          },
+          "reason": "Посетили оба взрослых, включая Лелю. Темы литья, инструменты, телевидение и транспорт — залы одного музея.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Военно-исторический музей Вены",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 118,
+              "source_paragraph": 2,
+              "quote": "Второй музей из категории \"для мальчиков\""
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "heeresgeschichtliches-museum"
+          },
+          "reason": "Леля тоже осматривала музей и подробно описывает свои впечатления. Категория «для мальчиков» не исключает её из посетителей. Тот же визит рассказан в последней главе.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/last-day/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, соответствующий пост и все подписи прочитаны целиком. Неоднозначность общего состава парка отделена от прямых подтверждений музейных входов.",
+      "objects": [
+        {
+          "label": "Военно-исторический музей — утро перед вылетом",
+          "event": "same_visit_recounted",
+          "evidence": [
+            {
+              "source_record_index": 116,
+              "source_paragraph": 4,
+              "quote": "С утреца мы легкой рысью побежали в музей военной истрии."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "heeresgeschichtliches-museum"
+          },
+          "reason": "Это уточнение времени уже описанного визита, не второй вход.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Вена",
+          "event": "departure_and_summary",
+          "evidence": [
+            {
+              "source_record_index": 116,
+              "source_paragraph": 6,
+              "quote": "Итог - Вена прекрасна"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "vienna"
+          },
+          "reason": "Подведены итоги реальной музейной программы, не посещение всех 70 музеев Vienna Pass.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Лиссабон, Париж и Лондон",
+          "event": "onward_transit_and_comparison",
+          "evidence": [
+            {
+              "source_record_index": 116,
+              "source_paragraph": 1,
+              "quote": "Т.ч. Лиссабон нас призвал раньше."
+            }
+          ],
+          "decision": "exclude_as_new_sightseeing",
+          "reason": "Дополнительная ночь из-за переноса рейса, а Париж и Лондон только сравнения туристических возможностей.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled_garden_name_open",
+    "questions": [
+      {
+        "object": "Ботанический сад Лиссабона, май 2023",
+        "question": "В пересадку после Bairro Alto случайно вошли в бесплатный воскресным утром ботанический сад в центре. Какое его точное португальское название? Сам визит и общее имя сохранены, конкретный сад из нескольких учреждений без основания не подставлен."
+      },
+      {
+        "object": "Шёнбрунн: музей карет и зоопарк, май 2023",
+        "question": "После перечисления музея карет, лабиринта и зоопарка сказано, что до входа во дворец «успели все другое посмотреть». Были ли отдельные входы в музей карет и зоопарк? Пока эти части учтены в составе комплекса без утверждения отдельных музейных посещений."
+      }
+    ],
+    "external_sources": [
+      {
+        "url": "https://www.wienersymphoniker.at/konzert/fischer-rachlin-brahms-r-strauss-24-05-2023",
+        "purpose": "Официальная майская программа Адама Фишера, Брамса и Рихарда Штрауса подтверждает Musikverein, Großer Saal. Новая дата посещения из этой страницы не приписывается."
+      }
+    ],
+    "repeat_check": "Все 11 глав сопоставлены с полными оригиналами и подписями. Карлов мост добавлен по содержательной авторской подписи. Хофбург и Пражский град классифицированы также как музейные комплексы, Шёнбрунн включает парк. Сиси, апартаменты, сокровищница и парадный зал библиотеки подтверждены отдельно; остальные музеи Хофбурга не приписаны. Музей карет и зоопарк Шёнбрунна только перечислены в составе комплекса. Технический и военный музеи посетили оба взрослых. Катя только в совместных прогулках, прежняя поездка с Наташей отделена. Прикладные предметы, картины, памятники в кратких подписях и фоновые фасады не стали новыми точками."
+  }
+}

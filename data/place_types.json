@@ -1136,7 +1136,8 @@
   },
   "hofburg": {
     "types": [
-      "palace"
+      "palace",
+      "museum"
     ],
     "search_terms": [
       "дворец",
@@ -1144,7 +1145,13 @@
       "дворца",
       "дворцов",
       "резиденция",
-      "palace"
+      "palace",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ],
     "classification_sources": [
       "data/attractions.json#hofburg"
@@ -2625,7 +2632,8 @@
   },
   "prague-castle": {
     "types": [
-      "castle"
+      "castle",
+      "museum"
     ],
     "search_terms": [
       "замок",
@@ -2636,7 +2644,13 @@
       "крепости",
       "цитадель",
       "castle",
-      "fortress"
+      "fortress",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ],
     "classification_sources": [
       "data/attractions.json#prague-castle"
@@ -3069,7 +3083,8 @@
   },
   "schonbrunn": {
     "types": [
-      "palace"
+      "palace",
+      "park"
     ],
     "search_terms": [
       "дворец",
@@ -3077,7 +3092,17 @@
       "дворца",
       "дворцов",
       "резиденция",
-      "palace"
+      "palace",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
     ],
     "classification_sources": [
       "data/attractions.json#schonbrunn"

@@ -2042,10 +2042,10 @@
       "title": "\"Kunsthistorisches, Albertina, Belvedere\"",
       "draft": false,
       "source_sha256_lf": "90ca9147763dced92021dbc907b2121072ff24ba8c78bf2ae9f7853a6ee68f64",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/hofburg/index.md",
@@ -2054,10 +2054,10 @@
       "title": "\"Hofburg\"",
       "draft": false,
       "source_sha256_lf": "4d32d0bc68fd74b6c539d69840c51b291bbf4ec4c9884e7dcea0549188f6f0c9",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/last-day/index.md",
@@ -2066,10 +2066,10 @@
       "title": "\"Последний день в Wien\"",
       "draft": false,
       "source_sha256_lf": "0984bffe825671968ee1ba8d22d750445c7cc66641e348e3af545f5efd7bc442",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/lisbon-transit/index.md",
@@ -2078,10 +2078,10 @@
       "title": "\"Lisboa - пересадка\"",
       "draft": false,
       "source_sha256_lf": "ade811edbc9da3c2c7aef73f9afcf5653bce0a0329c8bf0ba097e5a6e7f622ad",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/opera-concert/index.md",
@@ -2090,10 +2090,10 @@
       "title": "\"Венская опера и концерт\"",
       "draft": false,
       "source_sha256_lf": "b48eef33bfc06c76d6ea41de4ff7f7b2e6dfd6565daefe621df8a9ebea4cf46e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/prague-castle/index.md",
@@ -2102,10 +2102,10 @@
       "title": "\"Praha - Hradčany и Malá Strana\"",
       "draft": false,
       "source_sha256_lf": "e94c094209470f2f225f255c3ff411a91b0c687e83a8535e6386a4edd6280c5e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/prague-old-town/index.md",
@@ -2113,11 +2113,11 @@
       "trip_path": "content/europe/austria/prague-vienna-2023",
       "title": "\"Praha - Staré Město и Nové Město\"",
       "draft": false,
-      "source_sha256_lf": "1cbc2985995973a61fa66a1b0a6d14e28d71074d805a91fbe2dc826c5a29763e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "eda3cf25431bd7f488fddc8105f3f7241c800f0e75f55396eafd3212a462eeef",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/schonbrunn/index.md",
@@ -2126,10 +2126,10 @@
       "title": "\"Schönbrunn\"",
       "draft": false,
       "source_sha256_lf": "e0e9c09c91a60b768b9a8c3a7a4e50e2a7142b07b00c1d9b786b1e1e54d7c53a",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/technical-military/index.md",
@@ -2138,10 +2138,10 @@
       "title": "\"Технический и военный музеи\"",
       "draft": false,
       "source_sha256_lf": "644e49108c6d145e561337647ef6ea51f5dd22a7395195408245e0cae5ddee27",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/vienna-food/index.md",
@@ -2150,10 +2150,10 @@
       "title": "\"Wien - кухня и кондитерские\"",
       "draft": false,
       "source_sha256_lf": "0c9cc7439a76dcc24e2e49e7e672a6fe1120290b43492df986e7c0ca5031fd7b",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/vienna-walks/index.md",
@@ -2162,10 +2162,10 @@
       "title": "\"Wien - прогулки с Катей\"",
       "draft": false,
       "source_sha256_lf": "20621301b9c9ecb685efd383bfffdea3fde204770baf67db5d508fee3a3ba985",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
       "file": "content/europe/belgium/brussels-2008/story/index.md",

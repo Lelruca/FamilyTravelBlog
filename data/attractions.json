@@ -3395,7 +3395,8 @@
     "parent": "vienna",
     "place": "hofburg",
     "types": [
-      "palace"
+      "palace",
+      "museum"
     ],
     "search_terms": [
       "дворец",
@@ -3403,7 +3404,13 @@
       "дворца",
       "дворцов",
       "резиденция",
-      "palace"
+      "palace",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "hyde-park": {
@@ -7273,7 +7280,8 @@
     "parent": "prague",
     "place": "prague-castle",
     "types": [
-      "castle"
+      "castle",
+      "museum"
     ],
     "search_terms": [
       "замок",
@@ -7284,7 +7292,13 @@
       "крепости",
       "цитадель",
       "castle",
-      "fortress"
+      "fortress",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "prince-edward-island--nort-keyp-i-tsentr-vetrovoy-energii": {
@@ -8299,7 +8313,8 @@
     "parent": "vienna",
     "place": "schonbrunn",
     "types": [
-      "palace"
+      "palace",
+      "park"
     ],
     "search_terms": [
       "дворец",
@@ -8307,7 +8322,17 @@
       "дворца",
       "дворцов",
       "резиденция",
-      "palace"
+      "palace",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
     ]
   },
   "segovia--segoviyskiy-akveduk": {
@@ -12854,6 +12879,23 @@
       "Терри Фокс",
       "Тэрри Фокс",
       "Terry Fox"
+    ]
+  },
+  "prague--karlov-most": {
+    "title": "Карлов мост",
+    "parent": "prague",
+    "types": [
+      "bridge"
+    ],
+    "search_terms": [
+      "мост",
+      "мосты",
+      "моста",
+      "мостов",
+      "bridge",
+      "Karlův most",
+      "Charles Bridge",
+      "Карлов мост"
     ]
   }
 }
