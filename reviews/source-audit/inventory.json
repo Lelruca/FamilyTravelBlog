@@ -3230,10 +3230,10 @@
       "title": "\"Барселона - Рождество под пальмами\"",
       "draft": false,
       "source_sha256_lf": "ca04580bd72b535fa94a5ba5d1f6e5a5edcb70d832c87dd386a6aa4ea20ffe27",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/barcelona-circus/index.md",
@@ -3242,10 +3242,10 @@
       "title": "\"Барселона - прогулки и цирк\"",
       "draft": false,
       "source_sha256_lf": "3cb9a461ce7572a01aadefe6459fdfdf3157538342d713302b1840f7abccacb7",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/berlin-first-day/index.md",
@@ -3253,11 +3253,11 @@
       "trip_path": "content/europe/germany/east-germany-winter-2025",
       "title": "\"Берлин - экскурсия и Картинная галерея\"",
       "draft": false,
-      "source_sha256_lf": "b4244d2fe7512b6d3c8452a310c83d0070789d776007523ec961489699cff481",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "f8a1f2fbd51ffc1cc5f39fe9726104c51b8ba4228d4c59eaad1e1e437aca0c4a",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/berlin-museum-island/index.md",
@@ -3265,11 +3265,11 @@
       "trip_path": "content/europe/germany/east-germany-winter-2025",
       "title": "\"Берлин - Музейный остров\"",
       "draft": false,
-      "source_sha256_lf": "9c2ef887f15d5573c337372047a5642ccddc13936e2d449978e97f9e49ac1f8d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "8b1b0197faf24496ed3cfc8b0da4334f61a1b575af6383d524ecac6bd3194e07",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/berlin-technical-museum/index.md",
@@ -3278,10 +3278,10 @@
       "title": "\"Берлин - технический музей и опера\"",
       "draft": false,
       "source_sha256_lf": "3f1d96d91ff7423024e6d5a099b6a80636ba66f3d224ba3a1f4bad2c3afcd8d0",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/berlin-treptow-wall/index.md",
@@ -3290,10 +3290,10 @@
       "title": "\"Берлин - Трептов-парк и стена\"",
       "draft": false,
       "source_sha256_lf": "f0fc695dccca1eec51b302e1c9d7898e2043d11c23d01c0b9a8caee9af9c0d63",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/dresden-gallery-opera/index.md",
@@ -3302,10 +3302,10 @@
       "title": "\"Дрезден - галерея и опера\"",
       "draft": false,
       "source_sha256_lf": "7378ed473e51c1288695581ad18ff5501b5c52088804f1ecb45162229c0dfae0",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/dresden-treasury/index.md",
@@ -3314,10 +3314,10 @@
       "title": "\"Дрезден - сокровищница\"",
       "draft": false,
       "source_sha256_lf": "cfdcc72b235c85ec11521be7cc55c53295ba80068d46fb93459854f81826ba2c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/i-love-barcelona/index.md",
@@ -3326,10 +3326,10 @@
       "title": "\"Заключение: I ❤️ Barcelona!!!\"",
       "draft": false,
       "source_sha256_lf": "54f812553f99900bc14b32df944f90de8a9f3455e2b19f42accb082ae7789e5e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/lisbon/index.md",
@@ -3338,10 +3338,10 @@
       "title": "\"Лиссабон\"",
       "draft": false,
       "source_sha256_lf": "7ec9e98c4ce0c24ae4277ab5df3221338685478c0284bcbda4f7ee351735e8ea",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/moritzburg-meissen/index.md",
@@ -3350,10 +3350,10 @@
       "title": "\"Военный музей, Морицбург, Мейсен\"",
       "draft": false,
       "source_sha256_lf": "30d23c2d2fc83c19280037df3818c6d959f84cea365dfc2edcf0769bd39b7569",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
       "file": "content/europe/germany/east-germany-winter-2025/vic/index.md",
@@ -3361,11 +3361,11 @@
       "trip_path": "content/europe/germany/east-germany-winter-2025",
       "title": "\"Снова Барселона - поездка в Вик\"",
       "draft": false,
-      "source_sha256_lf": "0d51d11f0fa735e4b657204ea91ad577717762da8070c91bc40f626ae8577f64",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "004681e1aecf7ff1808a32fd549fb848d118f104fbf447d60cc956afb7ec794a",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/amsterdam/index.md",

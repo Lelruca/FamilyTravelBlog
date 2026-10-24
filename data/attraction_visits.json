@@ -3773,6 +3773,608 @@
         }
       ]
     },
+    "content/europe/germany/east-germany-winter-2025/lisbon/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "lisbon--tserkov-svyatogo-rokha",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 40,
+              "source_paragraph": 1,
+              "quote": "Igreja de São Roque"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Прямое подтверждение входа, другие неназванные церкви не отдельные точки."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "lisbon",
+          "event": "city_walk_and_markets",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 40,
+              "source_paragraph": 0,
+              "quote": "мы посетили сразу 3 рынка"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Реальная прогулка; рынки и площади не названы, их имена не угадываются."
+        }
+      ]
+    },
+    "content/europe/germany/east-germany-winter-2025/barcelona-christmas-markets/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "barcelona",
+          "event": "city_markets",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 39,
+              "source_paragraph": 0,
+              "quote": "Рождественские рынки Барселоны"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Покупка живой ёлки и прогулка. Колумб и собор — ориентиры рынков, вход в собор не заявлен."
+        }
+      ]
+    },
+    "content/europe/germany/east-germany-winter-2025/barcelona-circus/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "barcelona",
+          "event": "city_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 38,
+              "source_paragraph": 0,
+              "quote": "Сегодня много гуляли по Барселоне."
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Набережная и праздничные улицы, без списка каждого фасада."
+        }
+      ]
+    },
+    "content/europe/germany/east-germany-winter-2025/dresden-treasury/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "dresden--drezdenskiy-zamok-rezidentsiya",
+          "event": "entered_museum_complex",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 37,
+              "source_paragraph": 5,
+              "quote": "Нам ОЧЕНЬ понравился дворец саксонских курфюрстов!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Осмотр музейного комплекса, а не только фасада."
+        },
+        {
+          "id": "dresden--sokrovishchnitsa-zelyonye-svody",
+          "event": "entered_historic_treasury",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 37,
+              "source_paragraph": 6,
+              "quote": "старая сокровищница, где всё лежит так, как Август сам разложил."
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Вошли с аудиогидом несмотря на отсутствие фотографий: запрет съёмки не означает отсутствие посещения."
+        },
+        {
+          "id": "dresden--sokrovishchnitsa-zelyonye-svody",
+          "event": "entered_new_treasury",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 37,
+              "source_paragraph": 7,
+              "quote": "А Новая — не хуже!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Вторая часть сокровищницы, один существующий объект с двумя явно различёнными посещёнными экспозициями."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/east-germany-winter-2025/dresden-gallery-opera/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "dresden--drezdenskaya-kartinnaya-galereya",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 36,
+              "source_paragraph": 2,
+              "quote": "Потом, конечно, Дрезденская галерея!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Музей посещён, даже если сильного эмоционального отклика не случилось."
+        },
+        {
+          "id": "dresden--opera-zempera",
+          "event": "attended_performance",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 36,
+              "source_paragraph": 5,
+              "quote": "Опера была мрак"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Два билета всё-таки нашли, «Снежную королеву» дослушали. Первое отсутствие билетов в кассе не стало отменой."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/east-germany-winter-2025/moritzburg-meissen/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "dresden--voenno-istoricheskiy-muzey-bundesvera",
+          "event": "entered_historical_galleries",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 35,
+              "source_paragraph": 3,
+              "quote": "Мы прошли исторические залы."
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Вошли в музей; современные залы сознательно пропустили."
+        },
+        {
+          "id": "moritzburg-castle",
+          "event": "visited_castle_exhibition",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 35,
+              "source_paragraph": 4,
+              "quote": "заехали в замок Морицбург."
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Рассказ о Золушке и примерке туфельки; отдельные декорации не новые места."
+        },
+        {
+          "id": "meissen--meysenskaya-farforovaya-manufaktura",
+          "event": "entered_museum_and_workshop",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 35,
+              "source_paragraph": 7,
+              "quote": "Мы посмотрели и музей, и были на демонстрации всех этапов!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Обе части визита явно подтверждены; производственные этапы — внутри одного комплекса."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/east-germany-winter-2025/berlin-first-day/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "berlin--memorial-zhertvam-kholokosta",
+          "event": "walked_memorial",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 34,
+              "source_attachment_path": "attachments.0.data.11.media.description",
+              "quote": "Мне понравился этот монумент жертвам холокоста. Сначала вроде плиты (проблемы) и не замечаешь, а потом бац и ты уже внутри лабиринта из которого нет выхода...."
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Содержательная авторская подпись описывает личное пространственное впечатление внутри лабиринта, перенесена в текст главы."
+        },
+        {
+          "id": "berlin--berlinskaya-kartinnaya-galereya",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 34,
+              "source_paragraph": 4,
+              "quote": "Дальше поехали в Gemäldegalerie"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Отдельная картинная галерея старых мастеров, не Старая национальная галерея следующего дня."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "berlin",
+          "event": "guided_city_walk",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 34,
+              "source_paragraph": 1,
+              "quote": "4-часовой платный групповой тур"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Групповая городская экскурсия не подтверждает вход во все здания маршрута."
+        }
+      ]
+    },
+    "content/europe/germany/east-germany-winter-2025/berlin-museum-island/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "berlin--muzeynyy-ostrov",
+          "event": "visited_museum_complex",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 0,
+              "quote": "Это всё «Музейный остров»."
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Общий комплекс; конкретные посещения ниже, а не буквальный вход во все музейные учреждения острова."
+        },
+        {
+          "id": "berlin--berlinskiy-sobor",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 1,
+              "quote": "Перед открытием музеев ещё успели в собор."
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Репетиция органа и свеча подтверждают вход внутрь."
+        },
+        {
+          "id": "berlin--staryy-muzey",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 2,
+              "quote": "«Старый музей» — это Древние Греция и Рим."
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Случайный, но состоявшийся вход."
+        },
+        {
+          "id": "berlin--novyy-muzey",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 3,
+              "quote": "А мечтали мы о Новом музее"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Осмотр египетской и доисторической частей, Нефертити и золотой колпак — экспонаты одного музея."
+        },
+        {
+          "id": "berlin--muzey-bode",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 6,
+              "quote": "Не зашёл нам музей Bode"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "«Не зашёл» означает не понравился, а не отказ от входа."
+        },
+        {
+          "id": "berlin--panorama-pergamona",
+          "event": "entered_temporary_exhibition",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 6,
+              "quote": "панорама от Пергамона тоже «ни о чём»"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Временная экспозиция посещена по музейному пассу."
+        },
+        {
+          "id": "berlin--staraya-natsionalnaya-galereya",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 7,
+              "quote": "В завершении погрузились в изучение немецкой художественной школы"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Пропущенный пятый музей марафона. Установлен по содержанию финального рассказа и авторским подписям работ; официальный каталог и список выставки 2025 подтверждают Alte Nationalgalerie, включая временно показанный портрет Пёльцига."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/east-germany-winter-2025/berlin-technical-museum/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "berlin--nemetskiy-tekhnicheskiy-muzey",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 30,
+              "source_paragraph": 1,
+              "quote": "Начали мы чисто с инженерных залов"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Осмотрели инженерные и транспортные залы, не отдельные музеи самолётов/паровозов."
+        },
+        {
+          "id": "berlin--nemetskaya-opera-berlina",
+          "event": "attended_performance",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 30,
+              "source_paragraph": 6,
+              "quote": "Слушали HÄNSEL UND GRETEL"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Действительно слушали оперу в западном театре. Staatsoper — только историческое сравнение, в ней спектакль не заявлен."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/east-germany-winter-2025/berlin-treptow-wall/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "berlin--treptov-park",
+          "event": "visited_memorial",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 29,
+              "source_paragraph": 2,
+              "quote": "Там похоронено 7 тыс. советских солдат."
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Цель поездки — воинский мемориал; тип monument добавлен к типу park, это не посещение всех объектов большого парка."
+        },
+        {
+          "id": "berlin--berlinskaya-stena",
+          "event": "visited_wall",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 29,
+              "source_paragraph": 3,
+              "quote": "Потом — смотреть на стену."
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Сохранился рассказ о фактическом осмотре, точная галерея/участок не подставляются без названия в тексте."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/east-germany-winter-2025/vic/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "vic--episkopskiy-muzey-vika",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_file": "media-manifests/east-germany-winter-2025-texts/vic.txt",
+              "source_sha256": "7ae361e62316592650cf288710c7af0906cc890d12aaa30bd5ebc103bda26ac6",
+              "quote": "Музей епископства Вика (Museu Episcopal de Vic, MEV)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Прямой музейный рассказ; сельские церкви происхождения коллекции не отдельные посещения."
+        },
+        {
+          "id": "vic--la-vella",
+          "event": "exterior",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_file": "content/europe/germany/east-germany-winter-2025/vic/index.md",
+              "source_sha256": "5965e1e915cd353f81916d7ab79855299322034f830eb28e872e56a5f81c49bf",
+              "quote": "Ла Велья (La Vella) — одна из капгроссос"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Развёрнутый отдельный абзац нынешней главы о названном памятнике, не распознавание случайного прохожего или фасада."
+        },
+        {
+          "id": "vic--via-restaurant",
+          "event": "meal_experience",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_file": "media-manifests/east-germany-winter-2025-texts/vic.txt",
+              "source_sha256": "7ae361e62316592650cf288710c7af0906cc890d12aaa30bd5ebc103bda26ac6",
+              "quote": "Один из лучших гастрономических опытов в моей жизни."
+            },
+            {
+              "source_file": "content/europe/germany/east-germany-winter-2025/vic/index.md",
+              "source_sha256": "5965e1e915cd353f81916d7ab79855299322034f830eb28e872e56a5f81c49bf",
+              "quote": "VIA Restaurant — в старинном особняке Casa Fontcuberta"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Развёрнутый самостоятельный рассказ о состоявшемся обеде и конкретное имя в нынешнем тексте. Особняк отдельно не добавлен; прошлый французский ресторан с Катей и Дэвидом — только сравнение."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "vic",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_file": "media-manifests/east-germany-winter-2025-texts/vic.txt",
+              "source_sha256": "7ae361e62316592650cf288710c7af0906cc890d12aaa30bd5ebc103bda26ac6",
+              "quote": "В Vic мы давно хотели выбраться"
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Прежнее желание исполнилось в эту поездку."
+        }
+      ]
+    },
+    "content/europe/germany/east-germany-winter-2025/i-love-barcelona/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "barcelona--muzey-nauki-cosmocaixa",
+          "event": "entered",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/east-germany-winter-2025-texts/barcelona-final.txt",
+              "source_sha256": "c062e5c646f88649e71afa77ec1fe4a05f73bd3feaea7b1834bc6726acec9565",
+              "quote": "CosmoCaixa — музей науки в Барселоне."
+            }
+          ],
+          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+          "note": "Именно заключение подтверждает музей; космические залы и аквариум внутри одного учреждения. Полный состав не угадан, Леля и Наташа прямо названы."
+        }
+      ],
+      "place_visits": []
+    },
     "content/europe/france/europe-friends-2019/planning/index.md": {
       "source_review": "read",
       "visits": [],

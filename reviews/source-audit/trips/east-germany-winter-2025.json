@@ -1,0 +1,1010 @@
+{
+  "trip_path": "content/europe/germany/east-germany-winter-2025",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 40,
+    "record_indices": [
+      40,
+      39,
+      38,
+      37,
+      36,
+      35,
+      34,
+      33,
+      30,
+      29
+    ],
+    "additional_files": [
+      {
+        "path": "media-manifests/east-germany-winter-2025-texts/vic.txt",
+        "sha256": "7ae361e62316592650cf288710c7af0906cc890d12aaa30bd5ebc103bda26ac6"
+      },
+      {
+        "path": "media-manifests/east-germany-winter-2025-texts/barcelona-final.txt",
+        "sha256": "c062e5c646f88649e71afa77ec1fe4a05f73bd3feaea7b1834bc6726acec9565"
+      },
+      {
+        "path": "media-manifests/east-germany-winter-2025-texts/bauman.txt",
+        "sha256": "94b6f7b2c5d302d7bb2324cc06ad0d20aaa7c7a6b8b40b43d57cc12fcfa5a620"
+      }
+    ],
+    "read": "Полностью прочитаны десять исходных постов со всеми 51 подписями, три дополнительных авторских TXT и двенадцать нынешних глав, включая заключение. Поздние абзацы о Ла Велья и VIA цитируются из текущей страницы с хешем."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/east-germany-winter-2025.json",
+    "method": "Только текст и содержательные авторские подписи. Отсутствие фотографий в исторических Зелёных сводах не принято за отсутствие посещения."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/lisbon/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост либо дополнительный TXT и все подписи прочитаны; заключение сопоставлено с основными главами.",
+      "objects": [
+        {
+          "label": "Лиссабон и три рождественских рынка",
+          "event": "city_walk_and_markets",
+          "evidence": [
+            {
+              "source_record_index": 40,
+              "source_paragraph": 0,
+              "quote": "мы посетили сразу 3 рынка"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "lisbon"
+          },
+          "reason": "Реальная прогулка; рынки и площади не названы, их имена не угадываются.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Церковь Святого Роха",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 40,
+              "source_paragraph": 1,
+              "quote": "Igreja de São Roque"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "lisbon--tserkov-svyatogo-rokha"
+          },
+          "reason": "Прямое подтверждение входа, другие неназванные церкви не отдельные точки.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/barcelona-christmas-markets/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост либо дополнительный TXT и все подписи прочитаны; заключение сопоставлено с основными главами.",
+      "objects": [
+        {
+          "label": "Рождественские рынки Барселоны",
+          "event": "city_markets",
+          "evidence": [
+            {
+              "source_record_index": 39,
+              "source_paragraph": 0,
+              "quote": "Рождественские рынки Барселоны"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "barcelona"
+          },
+          "reason": "Покупка живой ёлки и прогулка. Колумб и собор — ориентиры рынков, вход в собор не заявлен.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/barcelona-circus/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост либо дополнительный TXT и все подписи прочитаны; заключение сопоставлено с основными главами.",
+      "objects": [
+        {
+          "label": "Барселона",
+          "event": "city_walk",
+          "evidence": [
+            {
+              "source_record_index": 38,
+              "source_paragraph": 0,
+              "quote": "Сегодня много гуляли по Барселоне."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "barcelona"
+          },
+          "reason": "Набережная и праздничные улицы, без списка каждого фасада.",
+          "participants": null
+        },
+        {
+          "label": "Цирк-шапито",
+          "event": "attended_name_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 38,
+              "source_paragraph": 2,
+              "quote": "мы с удовольствием сходили в цирк!"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Развёрнутый рассказ о спектакле подтверждает посещение; труппа не названа, вопрос записан отдельно.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/dresden-treasury/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост либо дополнительный TXT и все подписи прочитаны; заключение сопоставлено с основными главами.",
+      "objects": [
+        {
+          "label": "Дрезденский замок-резиденция",
+          "event": "entered_museum_complex",
+          "evidence": [
+            {
+              "source_record_index": 37,
+              "source_paragraph": 5,
+              "quote": "Нам ОЧЕНЬ понравился дворец саксонских курфюрстов!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "dresden--drezdenskiy-zamok-rezidentsiya"
+          },
+          "reason": "Осмотр музейного комплекса, а не только фасада.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Исторические Зелёные своды",
+          "event": "entered_historic_treasury",
+          "evidence": [
+            {
+              "source_record_index": 37,
+              "source_paragraph": 6,
+              "quote": "старая сокровищница, где всё лежит так, как Август сам разложил."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "dresden--sokrovishchnitsa-zelyonye-svody"
+          },
+          "reason": "Вошли с аудиогидом несмотря на отсутствие фотографий: запрет съёмки не означает отсутствие посещения.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Новые Зелёные своды",
+          "event": "entered_new_treasury",
+          "evidence": [
+            {
+              "source_record_index": 37,
+              "source_paragraph": 7,
+              "quote": "А Новая — не хуже!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "dresden--sokrovishchnitsa-zelyonye-svody"
+          },
+          "reason": "Вторая часть сокровищницы, один существующий объект с двумя явно различёнными посещёнными экспозициями.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Оружие, монеты, одежда, инструменты и парадные залы",
+          "event": "complex_collections",
+          "evidence": [
+            {
+              "source_record_index": 37,
+              "source_paragraph": 8,
+              "quote": "коллекции оружия, монет, одежда, инструменты, парадные залы!"
+            }
+          ],
+          "decision": "covered_by_complex",
+          "reason": "Перечень музеев/коллекций внутри резиденции не превращён в отдельную точку каждого зала и предмета.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Молодёжное общежитие и аэропорт",
+          "event": "lodging_and_transit",
+          "evidence": [
+            {
+              "source_record_index": 37,
+              "source_paragraph": 1,
+              "quote": "Заселились в молодёжное общежитие"
+            }
+          ],
+          "decision": "exclude_as_sightseeing",
+          "reason": "Транспорт и жильё, без угадывания гостиницы.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/dresden-gallery-opera/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост либо дополнительный TXT и все подписи прочитаны; заключение сопоставлено с основными главами.",
+      "objects": [
+        {
+          "label": "Дрезденская картинная галерея",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 36,
+              "source_paragraph": 2,
+              "quote": "Потом, конечно, Дрезденская галерея!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "dresden--drezdenskaya-kartinnaya-galereya"
+          },
+          "reason": "Музей посещён, даже если сильного эмоционального отклика не случилось.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Опера Земпера",
+          "event": "attended_performance",
+          "evidence": [
+            {
+              "source_record_index": 36,
+              "source_paragraph": 5,
+              "quote": "Опера была мрак"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "dresden--opera-zempera"
+          },
+          "reason": "Два билета всё-таки нашли, «Снежную королеву» дослушали. Первое отсутствие билетов в кассе не стало отменой.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Dresdner Striezelmarkt и саксонский ресторан",
+          "event": "market_walk_and_meal",
+          "evidence": [
+            {
+              "source_record_index": 36,
+              "source_paragraph": 7,
+              "quote": "Dresdner Striezelmarkt"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Названный рынок и еда — часть дрезденского дня, без отдельной точки каждой ярмарки и неназванного ресторана.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/moritzburg-meissen/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост либо дополнительный TXT и все подписи прочитаны; заключение сопоставлено с основными главами.",
+      "objects": [
+        {
+          "label": "Военно-исторический музей Бундесвера",
+          "event": "entered_historical_galleries",
+          "evidence": [
+            {
+              "source_record_index": 35,
+              "source_paragraph": 3,
+              "quote": "Мы прошли исторические залы."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "dresden--voenno-istoricheskiy-muzey-bundesvera"
+          },
+          "reason": "Вошли в музей; современные залы сознательно пропустили.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Замок Морицбург",
+          "event": "visited_castle_exhibition",
+          "evidence": [
+            {
+              "source_record_index": 35,
+              "source_paragraph": 4,
+              "quote": "заехали в замок Морицбург."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "moritzburg-castle"
+          },
+          "reason": "Рассказ о Золушке и примерке туфельки; отдельные декорации не новые места.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Мейсенская фарфоровая мануфактура — музей и демонстрация",
+          "event": "entered_museum_and_workshop",
+          "evidence": [
+            {
+              "source_record_index": 35,
+              "source_paragraph": 7,
+              "quote": "Мы посмотрели и музей, и были на демонстрации всех этапов!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "meissen--meysenskaya-farforovaya-manufaktura"
+          },
+          "reason": "Обе части визита явно подтверждены; производственные этапы — внутри одного комплекса.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/berlin-first-day/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост либо дополнительный TXT и все подписи прочитаны; заключение сопоставлено с основными главами.",
+      "objects": [
+        {
+          "label": "Берлин — Discover Berlin",
+          "event": "guided_city_walk",
+          "evidence": [
+            {
+              "source_record_index": 34,
+              "source_paragraph": 1,
+              "quote": "4-часовой платный групповой тур"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "berlin"
+          },
+          "reason": "Групповая городская экскурсия не подтверждает вход во все здания маршрута.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Мемориал жертвам Холокоста",
+          "event": "walked_memorial",
+          "evidence": [
+            {
+              "source_record_index": 34,
+              "source_attachment_path": "attachments.0.data.11.media.description",
+              "quote": "Мне понравился этот монумент жертвам холокоста. Сначала вроде плиты (проблемы) и не замечаешь, а потом бац и ты уже внутри лабиринта из которого нет выхода...."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "berlin--memorial-zhertvam-kholokosta"
+          },
+          "reason": "Содержательная авторская подпись описывает личное пространственное впечатление внутри лабиринта, перенесена в текст главы.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Берлинская Gemäldegalerie",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 34,
+              "source_paragraph": 4,
+              "quote": "Дальше поехали в Gemäldegalerie"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "berlin--berlinskaya-kartinnaya-galereya"
+          },
+          "reason": "Отдельная картинная галерея старых мастеров, не Старая национальная галерея следующего дня.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Центральный платный рождественский рынок",
+          "event": "visited_name_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 34,
+              "source_paragraph": 15,
+              "quote": "на центральный рождественский рынок — он платный"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Посетили, купили кружки и ушли; название и место не угаданы, вопрос собран отдельно. Филармония в короткой подписи не означает концерт.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/berlin-museum-island/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост либо дополнительный TXT и все подписи прочитаны; заключение сопоставлено с основными главами.",
+      "objects": [
+        {
+          "label": "Музейный остров",
+          "event": "visited_museum_complex",
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 0,
+              "quote": "Это всё «Музейный остров»."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "berlin--muzeynyy-ostrov"
+          },
+          "reason": "Общий комплекс; конкретные посещения ниже, а не буквальный вход во все музейные учреждения острова.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Берлинский собор",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 1,
+              "quote": "Перед открытием музеев ещё успели в собор."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "berlin--berlinskiy-sobor"
+          },
+          "reason": "Репетиция органа и свеча подтверждают вход внутрь.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Старый музей",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 2,
+              "quote": "«Старый музей» — это Древние Греция и Рим."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "berlin--staryy-muzey"
+          },
+          "reason": "Случайный, но состоявшийся вход.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Новый музей",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 3,
+              "quote": "А мечтали мы о Новом музее"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "berlin--novyy-muzey"
+          },
+          "reason": "Осмотр египетской и доисторической частей, Нефертити и золотой колпак — экспонаты одного музея.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Музей Боде",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 6,
+              "quote": "Не зашёл нам музей Bode"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "berlin--muzey-bode"
+          },
+          "reason": "«Не зашёл» означает не понравился, а не отказ от входа.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Панорама Пергамона",
+          "event": "entered_temporary_exhibition",
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 6,
+              "quote": "панорама от Пергамона тоже «ни о чём»"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "berlin--panorama-pergamona"
+          },
+          "reason": "Временная экспозиция посещена по музейному пассу.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Основное здание Пергамского музея",
+          "event": "closed",
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 0,
+              "quote": "Пергамон закрыт на реконструкцию"
+            }
+          ],
+          "decision": "exclude_as_entered",
+          "reason": "Панорама не подменяет вход в закрытое основное здание и его основные залы.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Старая национальная галерея",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 7,
+              "quote": "В завершении погрузились в изучение немецкой художественной школы"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "berlin--staraya-natsionalnaya-galereya"
+          },
+          "reason": "Пропущенный пятый музей марафона. Установлен по содержанию финального рассказа и авторским подписям работ; официальный каталог и список выставки 2025 подтверждают Alte Nationalgalerie, включая временно показанный портрет Пёльцига.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Британский музей, Египет и происхождение экспонатов",
+          "event": "comparison_and_collection_origins",
+          "evidence": [
+            {
+              "source_record_index": 33,
+              "source_paragraph": 0,
+              "quote": "это один Британский музей в Лондоне"
+            }
+          ],
+          "decision": "exclude_as_current_places",
+          "reason": "Сравнение и музейные этикетки не создают поездки в Лондон, Гизу, Фивы и Амарну.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/berlin-technical-museum/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост либо дополнительный TXT и все подписи прочитаны; заключение сопоставлено с основными главами.",
+      "objects": [
+        {
+          "label": "Немецкий технический музей",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 30,
+              "source_paragraph": 1,
+              "quote": "Начали мы чисто с инженерных залов"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "berlin--nemetskiy-tekhnicheskiy-muzey"
+          },
+          "reason": "Осмотрели инженерные и транспортные залы, не отдельные музеи самолётов/паровозов.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Бауманка, музеи Мюнхена и Вены",
+          "event": "memories_and_comparisons",
+          "evidence": [
+            {
+              "source_file": "media-manifests/east-germany-winter-2025-texts/bauman.txt",
+              "source_sha256": "94b6f7b2c5d302d7bb2324cc06ad0d20aaa7c7a6b8b40b43d57cc12fcfa5a620",
+              "quote": "6 полных лет в Бауманке"
+            },
+            {
+              "source_record_index": 30,
+              "source_paragraph": 4,
+              "quote": "технические музеи в Мюнхене и Вене"
+            }
+          ],
+          "decision": "exclude_as_current_visits",
+          "reason": "Университетские воспоминания и прежние любимые музеи, не пункты нынешней поездки.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Deutsche Oper Berlin",
+          "event": "attended_performance",
+          "evidence": [
+            {
+              "source_record_index": 30,
+              "source_paragraph": 6,
+              "quote": "Слушали HÄNSEL UND GRETEL"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "berlin--nemetskaya-opera-berlina"
+          },
+          "reason": "Действительно слушали оперу в западном театре. Staatsoper — только историческое сравнение, в ней спектакль не заявлен.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Шёнеберг и рынок Потсдамской площади",
+          "event": "district_walk_and_market",
+          "evidence": [
+            {
+              "source_record_index": 30,
+              "source_paragraph": 5,
+              "quote": "в район Schöneberg"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Городские прогулки и глинтвейн. Наблюдение за горкой не означает, что сами катались.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/berlin-treptow-wall/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост либо дополнительный TXT и все подписи прочитаны; заключение сопоставлено с основными главами.",
+      "objects": [
+        {
+          "label": "Рейхстаг",
+          "event": "distant_view_entry_failed",
+          "evidence": [
+            {
+              "source_record_index": 29,
+              "source_paragraph": 1,
+              "quote": "Посмотрели на стеклянный купол издалека"
+            }
+          ],
+          "decision": "exclude_as_entered",
+          "reason": "Не попали из-за перекрытий; не добавлен подъём в купол или парламентская экскурсия.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Трептов-парк — советский мемориал",
+          "event": "visited_memorial",
+          "evidence": [
+            {
+              "source_record_index": 29,
+              "source_paragraph": 2,
+              "quote": "Там похоронено 7 тыс. советских солдат."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "berlin--treptov-park"
+          },
+          "reason": "Цель поездки — воинский мемориал; тип monument добавлен к типу park, это не посещение всех объектов большого парка.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Берлинская стена",
+          "event": "visited_wall",
+          "evidence": [
+            {
+              "source_record_index": 29,
+              "source_paragraph": 3,
+              "quote": "Потом — смотреть на стену."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "berlin--berlinskaya-stena"
+          },
+          "reason": "Сохранился рассказ о фактическом осмотре, точная галерея/участок не подставляются без названия в тексте.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Аллея Карла Маркса и Александрплац",
+          "event": "city_walk",
+          "evidence": [
+            {
+              "source_record_index": 29,
+              "source_paragraph": 5,
+              "quote": "Прошлись по аллее Карла Маркса."
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Короткие остановки городской прогулки, без отдельной новой точки каждой площади.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Кёльн, Дюссельдорф, Клеве, Бавария, Манхайм, Франкфурт, Вена, Лондон и Париж",
+          "event": "past_trips_and_comparisons",
+          "evidence": [
+            {
+              "source_record_index": 29,
+              "source_paragraph": 8,
+              "quote": "мы больше 20 лет ездили в Кёльн"
+            }
+          ],
+          "decision": "exclude_as_current_visits",
+          "reason": "Итоговые сравнения с прежним опытом не расширяют географию текущего маршрута.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/vic/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост либо дополнительный TXT и все подписи прочитаны; заключение сопоставлено с основными главами.",
+      "objects": [
+        {
+          "label": "Вик",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_file": "media-manifests/east-germany-winter-2025-texts/vic.txt",
+              "source_sha256": "7ae361e62316592650cf288710c7af0906cc890d12aaa30bd5ebc103bda26ac6",
+              "quote": "В Vic мы давно хотели выбраться"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "vic"
+          },
+          "reason": "Прежнее желание исполнилось в эту поездку.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Епископский музей Вика",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_file": "media-manifests/east-germany-winter-2025-texts/vic.txt",
+              "source_sha256": "7ae361e62316592650cf288710c7af0906cc890d12aaa30bd5ebc103bda26ac6",
+              "quote": "Музей епископства Вика (Museu Episcopal de Vic, MEV)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "vic--episkopskiy-muzey-vika"
+          },
+          "reason": "Прямой музейный рассказ; сельские церкви происхождения коллекции не отдельные посещения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Ла Велья — памятник праздничной фигуре Вика",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_file": "content/europe/germany/east-germany-winter-2025/vic/index.md",
+              "source_sha256": "5965e1e915cd353f81916d7ab79855299322034f830eb28e872e56a5f81c49bf",
+              "quote": "Ла Велья (La Vella) — одна из капгроссос"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "vic--la-vella"
+          },
+          "reason": "Развёрнутый отдельный абзац нынешней главы о названном памятнике, не распознавание случайного прохожего или фасада.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "VIA Restaurant",
+          "event": "meal_experience",
+          "evidence": [
+            {
+              "source_file": "media-manifests/east-germany-winter-2025-texts/vic.txt",
+              "source_sha256": "7ae361e62316592650cf288710c7af0906cc890d12aaa30bd5ebc103bda26ac6",
+              "quote": "Один из лучших гастрономических опытов в моей жизни."
+            },
+            {
+              "source_file": "content/europe/germany/east-germany-winter-2025/vic/index.md",
+              "source_sha256": "5965e1e915cd353f81916d7ab79855299322034f830eb28e872e56a5f81c49bf",
+              "quote": "VIA Restaurant — в старинном особняке Casa Fontcuberta"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "vic--via-restaurant"
+          },
+          "reason": "Развёрнутый самостоятельный рассказ о состоявшемся обеде и конкретное имя в нынешнем тексте. Особняк отдельно не добавлен; прошлый французский ресторан с Катей и Дэвидом — только сравнение.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/i-love-barcelona/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост либо дополнительный TXT и все подписи прочитаны; заключение сопоставлено с основными главами.",
+      "objects": [
+        {
+          "label": "CosmoCaixa",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_file": "media-manifests/east-germany-winter-2025-texts/barcelona-final.txt",
+              "source_sha256": "c062e5c646f88649e71afa77ec1fe4a05f73bd3feaea7b1834bc6726acec9565",
+              "quote": "CosmoCaixa — музей науки в Барселоне."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "barcelona--muzey-nauki-cosmocaixa"
+          },
+          "reason": "Именно заключение подтверждает музей; космические залы и аквариум внутри одного учреждения. Полный состав не угадан, Леля и Наташа прямо названы.",
+          "participants": null
+        },
+        {
+          "label": "Тибидабо",
+          "event": "abandoned_ascent",
+          "evidence": [
+            {
+              "source_file": "media-manifests/east-germany-winter-2025-texts/barcelona-final.txt",
+              "source_sha256": "c062e5c646f88649e71afa77ec1fe4a05f73bd3feaea7b1834bc6726acec9565",
+              "quote": "дождь нас испугал."
+            }
+          ],
+          "decision": "exclude_as_completed_visit",
+          "reason": "Доехали на автобусе к началу подъёма, но гору и парк на вершине не посетили; вместо них вошли в музей.",
+          "participants": null
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled_two_names_open",
+    "questions": [
+      {
+        "object": "Цирк-шапито в Барселоне, декабрь 2025",
+        "question": "Как назывался посещённый цирк? Сам факт и рассказ сохранены, конкретная труппа не угадана."
+      },
+      {
+        "object": "Центральный платный рождественский рынок Берлина, декабрь 2025",
+        "question": "Как назывался рынок в первый берлинский вечер? Расположение не выведено из общего слова «центральный»."
+      }
+    ],
+    "limitations": [
+      {
+        "chapter": "lisbon",
+        "detail": "В исходном посте и нынешней главе есть повреждённый стык «и ⁷». Полностью прочитан доступный текст, но утраченный фрагмент не восстановлен и возможные сведения из него не проверены."
+      }
+    ],
+    "external_sources": [
+      {
+        "url": "https://www.smb.museum/fileadmin/website/Presse/Pressematerial/2025/07/03_ANG_Corinth_Werkliste.pdf",
+        "purpose": "Официальный список временной выставки Alte Nationalgalerie 2025 содержит подписанный автором портрет Ханса Пёльцига."
+      },
+      {
+        "url": "https://search.smb.museum/object/obj-962291?doc_types=Gem%C3%A4lde&materials=Eiche&page=5",
+        "purpose": "Официальная коллекция Alte Nationalgalerie: Waldmüller, Nach der Schule, 1841 — подтверждение финального музея острова."
+      }
+    ],
+    "repeat_check": "Все двенадцать глав, включая заключение и Вик, сопоставлены с исходниками. Добавлена пропущенная Старая национальная галерея, отличная от Gemäldegalerie; Пергамон закрыт, посещена только панорама. Обе сокровищницы Дрездена посещены, у Мейсена подтверждены и музей, и демонстрации. Добавлены рассказанный мемориал Холокоста, Ла Велья и самостоятельный ресторанный эпизод VIA. Рейхстаг и Тибидабо не посещены, Staatsoper только сравнение. CosmoCaixa найден в заключении, не пропущен. Экспонаты, карусели и краткие городские детали не стали отдельными точками. Авторские тела глав сохранены."
+  }
+}

@@ -882,7 +882,8 @@
     "title": "Трептов-парк",
     "parent": "berlin",
     "types": [
-      "park"
+      "park",
+      "monument"
     ],
     "search_terms": [
       "парк",
@@ -894,7 +895,14 @@
       "сада",
       "садов",
       "park",
-      "garden"
+      "garden",
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "советский воинский мемориал"
     ]
   },
   "bilbao-fine-arts": {
@@ -13016,6 +13024,90 @@
       "historic building",
       "Arco de Santa María",
       "Арка Санта-Мария"
+    ]
+  },
+  "berlin--memorial-zhertvam-kholokosta": {
+    "title": "Мемориал жертвам Холокоста",
+    "parent": "berlin",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Holocaust Memorial",
+      "Denkmal für die ermordeten Juden Europas"
+    ]
+  },
+  "berlin--staraya-natsionalnaya-galereya": {
+    "title": "Старая национальная галерея",
+    "parent": "berlin",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art",
+      "Alte Nationalgalerie",
+      "Старая национальная галерея"
+    ]
+  },
+  "vic--la-vella": {
+    "title": "Памятник Ла Велья",
+    "parent": "vic",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "La Vella",
+      "капгроссос"
+    ]
+  },
+  "vic--via-restaurant": {
+    "title": "VIA Restaurant",
+    "parent": "vic",
+    "types": [
+      "restaurant"
+    ],
+    "search_terms": [
+      "ресторан",
+      "рестораны",
+      "бар",
+      "кабаре",
+      "restaurant",
+      "cabaret",
+      "VIA Restaurant",
+      "Casa Fontcuberta",
+      "Fontcuberta"
     ]
   }
 }
