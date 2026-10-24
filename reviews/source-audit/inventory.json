@@ -1226,10 +1226,10 @@
       "title": "\"Пепе и современная Куба\"",
       "draft": false,
       "source_sha256_lf": "cc2c83451e11a2d38d389579e21b64c325a56ed2dbc1a6a46ddec40260828b04",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/trinidad-2017.json"
     },
     {
       "file": "content/americas/cuba/trinidad-2017/road/index.md",
@@ -1238,10 +1238,10 @@
       "title": "\"Дорога и сахарная плантация\"",
       "draft": false,
       "source_sha256_lf": "79f22d4460c0ac95f925fd3a5c8339017020cdd5cb1236b73e5ff4213a785a8c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/trinidad-2017.json"
     },
     {
       "file": "content/americas/cuba/trinidad-2017/trinidad/index.md",
@@ -1250,10 +1250,10 @@
       "title": "\"Тринидад\"",
       "draft": false,
       "source_sha256_lf": "22f7355a3d5e395159736e42ea6ed8e2a1eefd131dd28aa15b0346a12b8631cb",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/trinidad-2017.json"
     },
     {
       "file": "content/americas/mexico/mexico-2015/cenote-ek-balam/index.md",
