@@ -2894,10 +2894,10 @@
       "title": "\"Ахен, Турне, Сомма и дорога в Руан\"",
       "draft": false,
       "source_sha256_lf": "bcc2330f6da6b14bda22c99f0c77108b7b003319a44cf54216f2218941b23f43",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/conclusion/index.md",
@@ -2906,10 +2906,10 @@
       "title": "\"Заключение и наши оценки\"",
       "draft": false,
       "source_sha256_lf": "dd2fcfc1d1dcbbe840f8f297f0543a0c619787aa7b7b26f3c6f278202682ed9a",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/disney-fontainebleau/index.md",
@@ -2918,10 +2918,10 @@
       "title": "\"Диснейленд, Во-ле-Виконт и Фонтенбло\"",
       "draft": false,
       "source_sha256_lf": "a3215d7c62313e2adf414e9223c0ac346e4e50a23fa6e4d7378b6229d0e3bcf2",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/fussen-castles/index.md",
@@ -2929,11 +2929,11 @@
       "trip_path": "content/europe/france/europe-friends-2019",
       "title": "\"Фюссен и замки Людовика\"",
       "draft": false,
-      "source_sha256_lf": "6336fd8e483b6c387e40e56c5bc8e6dd4ff1efe9a1556c91a61e9131e9f5f172",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "44dac10fdf239574ea01acc7571d55657f8332d628f62bdb4214eb049f4fe425",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/meaux/index.md",
@@ -2942,10 +2942,10 @@
       "title": "\"Музей Первой мировой войны в Мо и сады Версаля\"",
       "draft": false,
       "source_sha256_lf": "447740ebac7a81df5f9d0814ab6fd0116427cf02fa18b62d7924eaa075374794",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/mittenwald/index.md",
@@ -2954,10 +2954,10 @@
       "title": "\"Миттенвальд, Карвендель и Лойташкламм\"",
       "draft": false,
       "source_sha256_lf": "f27f20a231a7debb07df0a10cb90977e663f0020da4d050648d52a9c6ea64b24",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/munich-nymphenburg/index.md",
@@ -2966,10 +2966,10 @@
       "title": "\"Мюнхен, Нимфенбург и Пинакотека\"",
       "draft": false,
       "source_sha256_lf": "956ac1390edb881e713ae9caac98be968caca8dbc59cd20be757e0a51ce00808",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/munich-residence/index.md",
@@ -2978,10 +2978,10 @@
       "title": "\"Мюнхенская резиденция\"",
       "draft": false,
       "source_sha256_lf": "0003762f4ff9c3aa436f3e96a180a529357f65411a99d40c562a9cd01441b1a6",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/munich-rothenburg/index.md",
@@ -2989,11 +2989,11 @@
       "trip_path": "content/europe/france/europe-friends-2019",
       "title": "\"Прощание с друзьями и Ротенбург\"",
       "draft": false,
-      "source_sha256_lf": "f99c55d036dc670ddf1fa8cff6fef38bd6666dc337be99f139f31e82fefe2121",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "58b148aa05f66897324a99bda0ad6dc23321e9a609085da4858a10dcbe265d80",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/nuremberg/index.md",
@@ -3002,10 +3002,10 @@
       "title": "\"Нюрнберг вместо туманных Альп\"",
       "draft": false,
       "source_sha256_lf": "fa94620f222e891b74dd3c331f303cab00827697dfb5e2f1304e109f80ba8fd8",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/paris/index.md",
@@ -3014,10 +3014,10 @@
       "title": "\"Париж: Таня, Полина и Миша\"",
       "draft": false,
       "source_sha256_lf": "3de1643e6e9d84310ee24cc2f10aa7669c8e2d944efd11f646def50d2535c2ec",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/planning/index.md",
@@ -3026,10 +3026,10 @@
       "title": "\"Планирование\"",
       "draft": false,
       "source_sha256_lf": "a915c28e003fe725b39eff1049c2a62c23aa58b688f28d1b6d5dc199416e31ff",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/reims-riquewihr/index.md",
@@ -3037,11 +3037,11 @@
       "trip_path": "content/europe/france/europe-friends-2019",
       "title": "\"Реймс и Риквир\"",
       "draft": false,
-      "source_sha256_lf": "942d430b9f7e11879cb70abb7ae7dce6ab376635484e602fc73f290ae3950776",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "414d37c43f05587d414c6279214ca2cdc11fec49860dda86c1699f051ead44b2",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/rhine-cologne/index.md",
@@ -3050,10 +3050,10 @@
       "title": "\"Рейн и Кёльн\"",
       "draft": false,
       "source_sha256_lf": "9ec1609ec23c84489cd573df4907684f2f869651a7542d8c076fbee1431b4840",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/rouen-honfleur/index.md",
@@ -3062,10 +3062,10 @@
       "title": "\"Руан и Онфлёр\"",
       "draft": false,
       "source_sha256_lf": "712d61038d39bb9fb5ed8fca7dda24c126aa68e29221852102b5e652aebf7e18",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/strasbourg/index.md",
@@ -3073,11 +3073,11 @@
       "trip_path": "content/europe/france/europe-friends-2019",
       "title": "\"Страсбург\"",
       "draft": false,
-      "source_sha256_lf": "0f3669250a3ea2587adcde15eb6b89aa5458aaa3139fb572a3148bdbde5142dd",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "ecace5ba1599b859c8589c9d3028c5165d7d76c0392c4c27a86b1e9acaecdf55",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/stuttgart-hohenzollern-ulm/index.md",
@@ -3086,10 +3086,10 @@
       "title": "\"Германия: Мерседес, Гогенцоллерн и Ульм\"",
       "draft": false,
       "source_sha256_lf": "74a9f60b1bbf0a1d6c395c865875cf6df2d226eb3feb6aa606c2b2ad4906c089",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/versailles/index.md",
@@ -3097,11 +3097,11 @@
       "trip_path": "content/europe/france/europe-friends-2019",
       "title": "\"Поехали - Версаль\"",
       "draft": false,
-      "source_sha256_lf": "d60d945823a5aa145efa5be694f07796e6979c34323ed622f5f4eb349097b246",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "e2fd10f56a03286945183e91e3d250869ddd844c43cd3f131e21809deb73803b",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/wurzburg-rudesheim/index.md",
@@ -3110,10 +3110,10 @@
       "title": "\"Вюрцбург и Рюдесхайм\"",
       "draft": false,
       "source_sha256_lf": "bb2bbc1b63e67d819d0995c41f65e6e8287611284b18a82da7cbbaf3e50c6e5b",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
       "file": "content/europe/france/france-2012/cadre-noir-loire/index.md",

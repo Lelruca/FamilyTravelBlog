@@ -62,6 +62,9 @@ for report_file in reports:
             if c.get('photos_status',r['photographs'].get('status'))=='reviewed':photos.add(c['file'])
             if c.get('photos_status',r['photographs'].get('status'))=='not_required_for_text_decisions':
                 assert all(not o.get('target') or any('quote' in e for e in o['evidence']) for o in c['objects']),'Photo-only target requires a scoped photographic review'
+            if c.get('photos_status')=='scoped_story_block_review':
+                blocks=r['photographs'].get('scoped_blocks',[])
+                assert any(b.get('chapter')==Path(c['file']).parent.name and b.get('reviewed') and b.get('scope') for b in blocks),'Scoped photo review needs an explicit story block and limits'
             front=Path(c['file']).read_text('utf-8').split('---',2)[1]
         else:
             front=None
@@ -72,7 +75,19 @@ for report_file in reports:
                 if 'source_file' in e:
                     extra_path=Path(e['source_file'])
                     assert hashlib.sha256(extra_path.read_bytes()).hexdigest()==e['source_sha256'],'Author text source changed'
-                    assert e['quote'].replace('\r\n','\n') in extra_path.read_text('utf-8'),f"Unsupported additional-source quote: {o['label']}"
+                    if extra_path.suffix.lower()=='.docx':
+                        with zipfile.ZipFile(extra_path) as z:
+                            extra_doc=ET.fromstring(z.read('word/document.xml'))
+                        extra_ns={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
+                        extra_paragraphs=[''.join(t.text or '' for t in p.findall('.//w:t',extra_ns)) for p in extra_doc.findall('.//w:body/w:p',extra_ns)]
+                        extra_text=extra_paragraphs[e['source_paragraph_extra']] if 'source_paragraph_extra' in e else '\n'.join(extra_paragraphs)
+                    elif extra_path.suffix.lower()=='.json':
+                        extra_data=load(extra_path)
+                        assert isinstance(extra_data.get('paragraphs'),list) and all(isinstance(p,str) for p in extra_data['paragraphs']),'Additional JSON source must contain explicit author paragraphs'
+                        extra_text='\n'.join(extra_data['paragraphs'])
+                    else:
+                        extra_text=extra_path.read_text('utf-8')
+                    assert e['quote'].replace('\r\n','\n') in extra_text,f"Unsupported additional-source quote: {o['label']}"
                 if 'photo' in e:
                     assert e['photo'] in valid_photo_keys,f"Unresolvable photo evidence: {report_file}: {e['photo']}"
                 if 'photo' in e and r['source'].get('kind')=='photograph_manifest':
@@ -99,7 +114,7 @@ for c in inventory['chapters']:
 print(f'{len(reports)} source reports; {len(read)}/{len(actual)} chapters read; {len(photos)}/{len(actual)} chapters with photos reviewed; {objects} object decisions with evidence.')
 print('Audit IN PROGRESS. Valid evidence and valid structure do not prove absence of omissions.')
 if '--require-complete' in sys.argv:
-    assert all(c['text_status']=='read' and c['photos_status'] in ('reviewed','not_required_for_text_decisions') and c['reconciliation_status']=='complete' for c in inventory['chapters']),'Unread or unreconciled materials remain'
+    assert all(c['text_status']=='read' and c['photos_status'] in ('reviewed','not_required_for_text_decisions','scoped_story_block_review') and c['reconciliation_status']=='complete' for c in inventory['chapters']),'Unread or unreconciled materials remain'
     assert inventory.get('cross_worktree_scope')=='reconciled','Other active draft sources have not been reconciled'
     gaps_path=Path('reviews/source-audit/source-gaps.json')
     if gaps_path.exists():

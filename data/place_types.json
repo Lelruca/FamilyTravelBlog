@@ -2129,7 +2129,8 @@
   },
   "nymphenburg": {
     "types": [
-      "palace"
+      "palace",
+      "park"
     ],
     "search_terms": [
       "дворец",
@@ -2137,7 +2138,17 @@
       "дворца",
       "дворцов",
       "резиденция",
-      "palace"
+      "palace",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
     ],
     "classification_sources": [
       "data/attractions.json#nymphenburg"

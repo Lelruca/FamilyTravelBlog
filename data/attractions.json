@@ -6104,7 +6104,8 @@
     "parent": "munich",
     "place": "nymphenburg",
     "types": [
-      "palace"
+      "palace",
+      "park"
     ],
     "search_terms": [
       "дворец",
@@ -6112,7 +6113,17 @@
       "дворца",
       "дворцов",
       "резиденция",
-      "palace"
+      "palace",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
     ]
   },
   "oggersheim": {
@@ -12561,6 +12572,37 @@
       "chapel",
       "Capela das Almas",
       "Алмаш"
+    ]
+  },
+  "reims--gh-martel": {
+    "title": "Погреба Champagne GH Martel & Co",
+    "parent": "reims",
+    "types": [
+      "winery"
+    ],
+    "search_terms": [
+      "винодельня",
+      "винодельни",
+      "винный погреб",
+      "вино",
+      "winery",
+      "Погреба Champagne GH Martel & Co"
+    ]
+  },
+  "strasbourg--city-history-museum": {
+    "title": "Исторический музей Страсбурга",
+    "parent": "strasbourg",
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "Исторический музей Страсбурга"
     ]
   }
 }
