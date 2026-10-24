@@ -12,7 +12,7 @@ places:
   - rome
   - colosseum
   - galleria-borghese
-attractions: ["colosseum","galleria-borghese","rome--santa-mariya-madzhore"]
+attractions: ["colosseum","rome--santa-mariya-madzhore","galleria-borghese"]
 ---
 <p>Сколько раз в путешествиях я уже сталкивалась с тем, что стоит хоть на один день не строить четких планов, как все получается довольно “размазано”. Хотя нельзя сказать, что у нас СОВСЕМ не было планов, у нас были билеты в музей на вечер и утром мы хотели посетить Колизей, Форум и несколько церквей, т.е. почти никаких планов :-)</p>
 

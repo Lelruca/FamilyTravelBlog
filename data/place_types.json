@@ -704,7 +704,8 @@
   },
   "colosseum": {
     "types": [
-      "archaeological_site"
+      "archaeological_site",
+      "arena"
     ],
     "search_terms": [
       "археология",
@@ -712,7 +713,12 @@
       "руины",
       "раскопки",
       "archaeology",
-      "ruins"
+      "ruins",
+      "арена",
+      "арены",
+      "амфитеатр",
+      "arena",
+      "amphitheatre"
     ],
     "classification_sources": [
       "data/attractions.json#colosseum"
@@ -3798,6 +3804,22 @@
     ],
     "classification_sources": [
       "content/places/lake-temagami/_index.md"
+    ]
+  },
+  "pompeii": {
+    "types": [
+      "archaeological_site"
+    ],
+    "search_terms": [
+      "археология",
+      "археологический памятник",
+      "руины",
+      "раскопки",
+      "archaeology",
+      "ruins"
+    ],
+    "classification_sources": [
+      "content/places/pompeii/_index.md"
     ]
   },
   "coba": {

@@ -13,6 +13,7 @@ for(const [id,a] of Object.entries(attractions))if(a.place){
 const standaloneTypes={
  'sainte-marie-among-the-hurons':['museum','historic_building'],
  'lake-temagami':['lake'],
+ 'pompeii':['archaeological_site'],
  'coba':['archaeological_site'],
  'tulum':['archaeological_site'],
  'chichen-itza':['archaeological_site'],

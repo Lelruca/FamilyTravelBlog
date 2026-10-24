@@ -2089,7 +2089,8 @@
     "parent": "rome",
     "place": "colosseum",
     "types": [
-      "archaeological_site"
+      "archaeological_site",
+      "arena"
     ],
     "search_terms": [
       "археология",
@@ -2097,7 +2098,12 @@
       "руины",
       "раскопки",
       "archaeology",
-      "ruins"
+      "ruins",
+      "арена",
+      "арены",
+      "амфитеатр",
+      "arena",
+      "amphitheatre"
     ]
   },
   "conciergerie": {
@@ -12009,27 +12015,6 @@
       "plaza"
     ]
   },
-  "rome--colosseum": {
-    "title": "Колизей",
-    "parent": "rome",
-    "types": [
-      "arena",
-      "archaeological_site"
-    ],
-    "search_terms": [
-      "арена",
-      "арены",
-      "амфитеатр",
-      "arena",
-      "amphitheatre",
-      "археология",
-      "археологический памятник",
-      "руины",
-      "раскопки",
-      "archaeology",
-      "ruins"
-    ]
-  },
   "rome--roman-forum": {
     "title": "Римский форум",
     "parent": "rome",
@@ -12340,6 +12325,31 @@
       "Вестминстерский дворец",
       "Houses of Parliament",
       "Palace of Westminster"
+    ]
+  },
+  "rome--trevi-fountain": {
+    "title": "Фонтан Треви",
+    "parent": "rome",
+    "types": [
+      "fountain"
+    ],
+    "search_terms": [
+      "фонтан",
+      "фонтаны",
+      "фонтана",
+      "fountain"
+    ]
+  },
+  "rome--pantheon": {
+    "title": "Пантеон",
+    "parent": "rome",
+    "types": [
+      "historic_building"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building"
     ]
   }
 }

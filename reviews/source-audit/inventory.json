@@ -4082,10 +4082,10 @@
       "title": "\"Римские каникулы - Заключение\"",
       "draft": false,
       "source_sha256_lf": "be06ec7435bcd904e1d6a4ba2e54a8b342a70733300f0bc55714f1605edac373",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/florence-duomo/index.md",
@@ -4093,11 +4093,11 @@
       "trip_path": "content/europe/italy/rome-2015-2016",
       "title": "\"Форенция - 463 ступеньки к небу\"",
       "draft": false,
-      "source_sha256_lf": "28f3a73a57b056ceb0f8bce772a7d3dd266378b68c0bf620b8abd784dd52280f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "5a5d1d07370fb8c7493d6fbd56b269917e04678c7acff3269d4163d651c08423",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/florence-museums/index.md",
@@ -4105,11 +4105,11 @@
       "trip_path": "content/europe/italy/rome-2015-2016",
       "title": "\"Флоренция - музеи\"",
       "draft": false,
-      "source_sha256_lf": "180f15c8d627d0bd4bd2ee90cc2447c60515ab68894229f0b5e5ceccc4dc3ebf",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "1ba20998092b5f14c3b476dcc1bbcf6cffc85ef0110354d789ab095c8fb28f25",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/florence-uffizi/index.md",
@@ -4118,10 +4118,10 @@
       "title": "\"Флоренция - знакомство и галерея Уффици\"",
       "draft": false,
       "source_sha256_lf": "28dc5a714146984b8e702bfcf166c4a31c71131b0f2fee82a8def147da7df271",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/kleve/index.md",
@@ -4129,11 +4129,11 @@
       "trip_path": "content/europe/italy/rome-2015-2016",
       "title": "\"Альпы и Новый год в Германии\"",
       "draft": false,
-      "source_sha256_lf": "f7a728bd68fd544de3d3448a93c23372fe0cbcd3a1b9cb45788d6b55b64f216c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "4298a540826de29fa954b0c06847f12777a53648e6208c61e4bc6cbf7b37218c",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/milan/index.md",
@@ -4142,10 +4142,10 @@
       "title": "\"Милан\"",
       "draft": false,
       "source_sha256_lf": "5b64bec0e499a5edcf01ce11f0249f1ba0132213f1daba92f28fc6767743f56e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/naples/index.md",
@@ -4154,10 +4154,10 @@
       "title": "\"Неаполь... \"",
       "draft": false,
       "source_sha256_lf": "04a8d628dfb0f58adbdd42d71ab820ad8eeeab88e249b235485185aadcd16f0d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/pompeii/index.md",
@@ -4166,10 +4166,10 @@
       "title": "\"...и Помпеи\"",
       "draft": false,
       "source_sha256_lf": "8247e85024978fe5481af16c4a52abb4626f704459f7e969e2ca554ae4591bec",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/rome-colosseum/index.md",
@@ -4177,11 +4177,11 @@
       "trip_path": "content/europe/italy/rome-2015-2016",
       "title": "\"Рим - Колизей, Санта-Мария-Маджоре, галерея Боргезе\"",
       "draft": false,
-      "source_sha256_lf": "b6c69734db47c2530cc58cc6d11297af0b8fc509c73d691aa0e5418b36b63b23",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "ba5744321ee1decc5b237cd2d9d87060bf2a20f6a0e266042dc820bf66e87287",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/rome-night/index.md",
@@ -4189,11 +4189,11 @@
       "trip_path": "content/europe/italy/rome-2015-2016",
       "title": "\"Рим - ночное знакомство\"",
       "draft": false,
-      "source_sha256_lf": "290ce6dafeb65d1acfef89261f6f651c0e0a210b55a1cd5d3b9c8ab31f4f1214",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "78c7adb5242ce3dc42e22eb7ca91000b7f60843a43cec58eb173144359c07eb9",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/tivoli/index.md",
@@ -4201,11 +4201,11 @@
       "trip_path": "content/europe/italy/rome-2015-2016",
       "title": "\"Рим - последний день\"",
       "draft": false,
-      "source_sha256_lf": "53993d93c4580d7a1282c4631443516a8e0bc135a66b3f2a6b0a8a84d522829a",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "ac8af1907682588acc0a1623c12580099aec599cf56c75b251d8df71486bef17",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/vatican/index.md",
@@ -4214,10 +4214,10 @@
       "title": "\"Ватикан\"",
       "draft": false,
       "source_sha256_lf": "8223cd5e7996d87f8de00a6e3f5ad1c917c4cae504b3021d229afd60973527dc",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
       "file": "content/europe/luxembourg/luxembourg-2007/grandma/index.md",
@@ -4237,7 +4237,7 @@
       "trip_path": "content/europe/luxembourg/luxembourg-2007",
       "title": "\"Рим\"",
       "draft": false,
-      "source_sha256_lf": "97cd64859261a02c5a59f0de9c73109c5270d145653ccce394597515ee7b2faa",
+      "source_sha256_lf": "c55d70e696e20c3a2178169b58569f03414bc86178cdbbc49af9746d38df9b97",
       "text_status": "read",
       "photos_status": "partial_damaged_original",
       "reconciliation_status": "pending",
