@@ -1,0 +1,193 @@
+{
+  "trip_path": "content/europe/andorra/andorra-pyrenees-2026",
+  "status": "text_audit_complete_with_geography_question",
+  "source": {
+    "path": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/fb-archive/АНДОРРА-И-МАТАРО-ИСХОДНИК-2026-10-16.md",
+    "sha256": "db18f7cab1979a782435225564dd60a18259cb49c7dc17ac4b7be6719f2a3758",
+    "kind": "owner_text",
+    "additional_files": [
+      {
+        "path": "media-manifests/andorra-pyrenees-2026.json",
+        "sha256": "67cd3f296b6ff17fa7cb5fb84bab7b27f88d4d12d6966869f5ba7ba3f18b8689"
+      }
+    ],
+    "read": "Полностью прочитан раздел Андорры с предварительным планом и исходным рассказом; все три главы и актуальные text_records/author_text_arrangements/confirmed_hotel/geo_records прочитаны. Переработанные ранее версии не подменяют последнюю авторскую редакцию."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/andorra-pyrenees-2026.json",
+    "method": "Использованы авторский текст, согласованные названия трёх самостоятельных глав и ранее сохранённые доказательства географии. Новый покадровый каталог не составлялся."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/andorra/andorra-pyrenees-2026/arrival/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава прочитана полностью и сопоставлена с соответствующими строками исходного рассказа и сохранённой авторской редакцией.",
+      "objects": [
+        {
+          "label": "Пиренеи и Андорра",
+          "event": "mountain_trip",
+          "evidence": [
+            {
+              "source_paragraph": 18,
+              "quote": "Очень красиво! И ходят коровы."
+            }
+          ],
+          "decision": "covered_by_trip",
+          "reason": "Реальная горная поездка, без отдельных точек для каждой коровы, горы и неназванной церкви. Состав группы поимённо в исходнике не раскрыт.",
+          "participants": null
+        },
+        {
+          "label": "Hotel Roc Meler & SPA, Канильо",
+          "event": "stayed_and_used_hotel_spa",
+          "evidence": [
+            {
+              "source_paragraph": 26,
+              "quote": "Теперь у нас СПА в отеле"
+            },
+            {
+              "source_file": "media-manifests/andorra-pyrenees-2026.json",
+              "source_sha256": "67cd3f296b6ff17fa7cb5fb84bab7b27f88d4d12d6966869f5ba7ba3f18b8689",
+              "source_json_path": "confirmed_hotel.name",
+              "quote": "Hotel Roc Meler & SPA"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "canillo"
+          },
+          "reason": "Название гостиницы отдельно дано владельцем и сохранено в реестре. Проживание, еда и собственный SPA остаются одним бытовым эпизодом, не набором новых туристических точек.",
+          "participants": null
+        },
+        {
+          "label": "Sant Joan de Caselles и придорожное водохранилище",
+          "event": "incidental_image_or_unidentified",
+          "evidence": [
+            {
+              "source_paragraph": 19,
+              "quote": "где церкви XI столетия"
+            }
+          ],
+          "decision": "exclude_as_separate_places",
+          "reason": "Обобщённая характеристика региона не рассказ о конкретной церкви. Прежняя визуальная атрибуция в манифесте не даёт основания добавлять точку; имя водоёма неизвестно и для рассказа не требуется.",
+          "participants": null
+        },
+        {
+          "label": "Анды, Канадские Скалистые горы и Альпы",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 19,
+              "quote": "как горы Южной Америки"
+            }
+          ],
+          "decision": "exclude_as_current_visits",
+          "reason": "Сравнение горных регионов, не маршрут этой поездки.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/andorra/andorra-pyrenees-2026/incles/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава прочитана полностью и сопоставлена с соответствующими строками исходного рассказа и сохранённой авторской редакцией.",
+      "objects": [
+        {
+          "label": "Долина Инклес",
+          "event": "hiked",
+          "evidence": [
+            {
+              "source_paragraph": 22,
+              "quote": "Оно кажется что просто, а ноги наломали!"
+            },
+            {
+              "source_file": "media-manifests/andorra-pyrenees-2026.json",
+              "source_sha256": "67cd3f296b6ff17fa7cb5fb84bab7b27f88d4d12d6966869f5ba7ba3f18b8689",
+              "source_json_path": "geo_records.0.place",
+              "quote": "Incles"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "incles-valley"
+          },
+          "reason": "Глава посвящена одной большой серии прогулки. Согласованное имя главы и сохранённая проверка карты маршрута указывают Incles; отдельно перечисленные на карте направления не считаются пройденными тропами.",
+          "participants": null
+        },
+        {
+          "label": "Мадриу-Перафита-Кларор",
+          "event": "source_geography_unresolved",
+          "evidence": [
+            {
+              "source_paragraph": 21,
+              "quote": "А долина Мадриу-Перафита-Кларор"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Название в исходнике расходится с сохранённой проверкой маршрута Incles. Старый абзац удержан вне сайта; новый визит в Мадриу не заявлен. Неоднозначность в файле вопросов.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/andorra/andorra-pyrenees-2026/roc-del-quer/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава прочитана полностью и сопоставлена с соответствующими строками исходного рассказа и сохранённой авторской редакцией.",
+      "objects": [
+        {
+          "label": "Roc del Quer",
+          "event": "visited_viewpoint",
+          "evidence": [
+            {
+              "source_paragraph": 23,
+              "quote": "На смотровую думали только  заезжать трудно"
+            },
+            {
+              "source_file": "media-manifests/andorra-pyrenees-2026.json",
+              "source_sha256": "67cd3f296b6ff17fa7cb5fb84bab7b27f88d4d12d6966869f5ba7ba3f18b8689",
+              "source_json_path": "geo_records.1.place",
+              "quote": "Roc del Quer, Canillo"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "roc-del-quer"
+          },
+          "reason": "Прямой рассказ о подъёме и большая самостоятельная серия согласованной главы. Смотровая и подход к ней — один объект.",
+          "participants": null
+        },
+        {
+          "label": "Ordino, Josa de Cadí, Gósol, Mirador de Gresolet и Pedraforca",
+          "event": "unconfirmed_itinerary",
+          "evidence": [
+            {
+              "source_paragraph": 13,
+              "quote": "Это предварительный план, а не подтверждённый маршрут."
+            }
+          ],
+          "decision": "exclude_as_visits",
+          "reason": "Пункты подготовленного плана не подтверждены фактическим рассказом и не добавлены в посещения.",
+          "participants": null
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled_geography_open",
+    "questions": [
+      {
+        "object": "Андорра 2026 — Мадриу или Инклес",
+        "question": "В исходном рассказе названа долина Мадриу-Перафита-Кларор, а сохранённая проверка карты и согласованная глава указывают Incles. Были ли вы также в Мадриу? Пока отдельное посещение Мадриу не добавлено, спорный исходный абзац сохранён в архиве."
+      }
+    ],
+    "limitations": [
+      {
+        "detail": "Три видео Андорры не просмотрены в этом аудите: решения основаны на рассказе и согласованных главах. Возможные дополнительные сведения в видео не проверены, объекты из них не добавлены."
+      }
+    ],
+    "repeat_check": "Все три главы и весь исходный рассказ Андорры сопоставлены. У каждой названной географической единицы есть решение; исходный план не принят за факт. Сохранены Инклес и Roc del Quer, гостиница учтена внутри Канильо. Не добавлены конкретная церковь, неустановленный водоём, элементы инфраструктуры SPA и места предварительного плана. Авторский текст, фото и структура глав не менялись."
+  }
+}

@@ -2,6 +2,81 @@
   "status": "partial",
   "default_for_unlisted_chapters": "not_audited",
   "chapters": {
+    "content/europe/andorra/andorra-pyrenees-2026/arrival/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "canillo",
+          "event": "stayed_and_used_hotel_spa",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 26,
+              "quote": "Теперь у нас СПА в отеле"
+            },
+            {
+              "source_file": "media-manifests/andorra-pyrenees-2026.json",
+              "source_sha256": "67cd3f296b6ff17fa7cb5fb84bab7b27f88d4d12d6966869f5ba7ba3f18b8689",
+              "source_json_path": "confirmed_hotel.name",
+              "quote": "Hotel Roc Meler & SPA"
+            }
+          ],
+          "report": "reviews/source-audit/trips/andorra-pyrenees-2026.json",
+          "note": "Название гостиницы отдельно дано владельцем и сохранено в реестре. Проживание, еда и собственный SPA остаются одним бытовым эпизодом, не набором новых туристических точек."
+        }
+      ]
+    },
+    "content/europe/andorra/andorra-pyrenees-2026/incles/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "incles-valley",
+          "event": "hiked",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 22,
+              "quote": "Оно кажется что просто, а ноги наломали!"
+            },
+            {
+              "source_file": "media-manifests/andorra-pyrenees-2026.json",
+              "source_sha256": "67cd3f296b6ff17fa7cb5fb84bab7b27f88d4d12d6966869f5ba7ba3f18b8689",
+              "source_json_path": "geo_records.0.place",
+              "quote": "Incles"
+            }
+          ],
+          "report": "reviews/source-audit/trips/andorra-pyrenees-2026.json",
+          "note": "Глава посвящена одной большой серии прогулки. Согласованное имя главы и сохранённая проверка карты маршрута указывают Incles; отдельно перечисленные на карте направления не считаются пройденными тропами."
+        }
+      ]
+    },
+    "content/europe/andorra/andorra-pyrenees-2026/roc-del-quer/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "roc-del-quer",
+          "event": "visited_viewpoint",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 23,
+              "quote": "На смотровую думали только  заезжать трудно"
+            },
+            {
+              "source_file": "media-manifests/andorra-pyrenees-2026.json",
+              "source_sha256": "67cd3f296b6ff17fa7cb5fb84bab7b27f88d4d12d6966869f5ba7ba3f18b8689",
+              "source_json_path": "geo_records.1.place",
+              "quote": "Roc del Quer, Canillo"
+            }
+          ],
+          "report": "reviews/source-audit/trips/andorra-pyrenees-2026.json",
+          "note": "Прямой рассказ о подъёме и большая самостоятельная серия согласованной главы. Смотровая и подход к ней — один объект."
+        }
+      ],
+      "place_visits": []
+    },
     "content/americas/canada/atlantic-canada-2014/planning/index.md": {
       "source_review": "read",
       "visits": [],

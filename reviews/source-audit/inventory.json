@@ -2006,10 +2006,10 @@
       "title": "\"Пиренеи и Андорра\"",
       "draft": false,
       "source_sha256_lf": "541da6be0cf2088d6c6e0dfdeff6e33e1a73ccd2f7576da2bbc46592d090b9c0",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/andorra-pyrenees-2026.json"
     },
     {
       "file": "content/europe/andorra/andorra-pyrenees-2026/incles/index.md",
@@ -2018,10 +2018,10 @@
       "title": "\"Долина Инклес\"",
       "draft": false,
       "source_sha256_lf": "e4bf49bdd5f8673686841c9d1c33f96cb42b9c6db183c1c3ade2e0aaa9d6e368",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/andorra-pyrenees-2026.json"
     },
     {
       "file": "content/europe/andorra/andorra-pyrenees-2026/roc-del-quer/index.md",
@@ -2030,10 +2030,10 @@
       "title": "\"Roc del Quer\"",
       "draft": false,
       "source_sha256_lf": "f675750c3e1923684b51ef22e5cfb470c92930c635384910c0e5b6dc55ddc927",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/andorra-pyrenees-2026.json"
     },
     {
       "file": "content/europe/austria/prague-vienna-2023/art-museums/index.md",
