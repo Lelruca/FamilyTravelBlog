@@ -4586,10 +4586,10 @@
       "title": "\"Отдых в Algarve\"",
       "draft": false,
       "source_sha256_lf": "320dd8430dff7052dd9fdb04a562fee919cc62c0d160980e0949f4c09fa15b4d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
       "file": "content/europe/portugal/iberia-2022/astorga/index.md",
@@ -4598,10 +4598,10 @@
       "title": "\"Astorga\"",
       "draft": false,
       "source_sha256_lf": "2da5597ea6aa3dccb98d244478eb8fee69f6e90888dcf8e3e3e9c5f0788ce6d1",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
       "file": "content/europe/portugal/iberia-2022/aveiro/index.md",
@@ -4610,10 +4610,10 @@
       "title": "\"Aveiro и дорога в Porto\"",
       "draft": false,
       "source_sha256_lf": "256a900ad4862a105469f8d1dc8950c8bb7dd51358fd256d6ac0d1cc2c783bce",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
       "file": "content/europe/portugal/iberia-2022/faro/index.md",
@@ -4622,10 +4622,10 @@
       "title": "\"Faro\"",
       "draft": false,
       "source_sha256_lf": "af4d004abba7bb635c1660425331db5e81c1295456fd5f12ae75330b3c9137fb",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
       "file": "content/europe/portugal/iberia-2022/leon/index.md",
@@ -4634,10 +4634,10 @@
       "title": "\"León\"",
       "draft": false,
       "source_sha256_lf": "ba7422c0a0469ef6d27df6d38e42690bf2ec23e7c1910a2c6f843a8c6fa82f9e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
       "file": "content/europe/portugal/iberia-2022/lisbon/index.md",
@@ -4645,11 +4645,11 @@
       "trip_path": "content/europe/portugal/iberia-2022",
       "title": "\"Lisboa\"",
       "draft": false,
-      "source_sha256_lf": "a3dfe6323ada701c6b01d2e7b2c24fabd1cd02248a94e88bb8623c58bf37251b",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "9c9e5f4cda0d8c6bb4d5d2b969e989c642a57b93dce18db23a1177eb579026dc",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
       "file": "content/europe/portugal/iberia-2022/oviedo/index.md",
@@ -4658,10 +4658,10 @@
       "title": "\"Oviedo\"",
       "draft": false,
       "source_sha256_lf": "115d47825fb79254f0e326b5cd3353be30426a574aa413cf918a216122e53466",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
       "file": "content/europe/portugal/iberia-2022/porto-wine/index.md",
@@ -4669,11 +4669,11 @@
       "trip_path": "content/europe/portugal/iberia-2022",
       "title": "\"Porto - дома портвейна\"",
       "draft": false,
-      "source_sha256_lf": "e9993efeb586c6fc08cf5852186b6f3434ba7cc89e608294c5bbf0889aece1ff",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "913c4826047ea2c16a52e9de582857338a83bdb6dc06a1f753ef13e69294dd64",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
       "file": "content/europe/portugal/iberia-2022/porto/index.md",
@@ -4682,10 +4682,10 @@
       "title": "\"Porto\"",
       "draft": false,
       "source_sha256_lf": "b1bdedee988a5c49414812ccbfc90604573135e24a087b08aa6a825a9c0338c4",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
       "file": "content/europe/portugal/iberia-2022/salamanca/index.md",
@@ -4694,10 +4694,10 @@
       "title": "\"Salamanca\"",
       "draft": false,
       "source_sha256_lf": "1bdb2dadbe0382a9a3b1d13876389534c46a14ce5be4ae55f1f87c801f640f73",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
       "file": "content/europe/portugal/iberia-2022/sand-city/index.md",
@@ -4706,10 +4706,10 @@
       "title": "\"Algarve - Sand City\"",
       "draft": false,
       "source_sha256_lf": "687e1d62e0e374c65940a9306ec9e15a5462138cc0e20e47d097cbf45fb0a1e1",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
       "file": "content/europe/portugal/iberia-2022/santiago/index.md",
@@ -4718,10 +4718,10 @@
       "title": "\"Santiago de Compostela\"",
       "draft": false,
       "source_sha256_lf": "2fcee0bd0e04fa71993d611f6877d09c161fb06bb0f0d286715b6c4f3d60d6b7",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
       "file": "content/europe/portugal/iberia-2022/seville/index.md",
@@ -4729,11 +4729,11 @@
       "trip_path": "content/europe/portugal/iberia-2022",
       "title": "\"Sevilla\"",
       "draft": false,
-      "source_sha256_lf": "da5c74906db804e3c02a6a552abe2e5b7489cb95d5a5a00acac83ad9c8fb7954",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "f5ac00d1a77e281c66c749cdc6d726e1f138924c3496436b4a7820640ccccba1",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
       "file": "content/europe/portugal/portugal-2024/capuchos-cabo-da-roca/index.md",

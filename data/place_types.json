@@ -3845,6 +3845,26 @@
       "data/attractions.json#disneyland-anaheim"
     ]
   },
+  "sand-city": {
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/sand-city/_index.md"
+    ]
+  },
   "san-bernabe": {
     "types": [
       "cave",

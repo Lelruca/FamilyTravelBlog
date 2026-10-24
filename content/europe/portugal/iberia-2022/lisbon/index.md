@@ -11,7 +11,7 @@ hero_image: "20220703_104943.jpg"
 date: "2022-07-03"
 auto_gallery: false
 draft: false
-attractions: ["belem"]
+attractions: ["belem","lisbon--monastyr-zheronimush"]
 ---
 {{< row "20220702_134659.jpg 20220702_135108.jpg" >}}
 
