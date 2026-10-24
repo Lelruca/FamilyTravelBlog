@@ -3771,6 +3771,74 @@
       "data/attractions.json#disneyland-anaheim"
     ]
   },
+  "monte-da-ravasqueira": {
+    "types": [
+      "museum",
+      "winery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "винодельня",
+      "винодельни",
+      "винный погреб",
+      "вино",
+      "winery"
+    ],
+    "classification_sources": [
+      "content/places/monte-da-ravasqueira/_index.md"
+    ]
+  },
+  "cabo-sao-vicente": {
+    "types": [
+      "cape"
+    ],
+    "search_terms": [
+      "мыс",
+      "мысы",
+      "мыса",
+      "cape"
+    ],
+    "classification_sources": [
+      "content/places/cabo-sao-vicente/_index.md"
+    ]
+  },
+  "el-escorial": {
+    "types": [
+      "monastery",
+      "palace",
+      "museum"
+    ],
+    "search_terms": [
+      "монастырь",
+      "монастыри",
+      "монастыря",
+      "монастырей",
+      "аббатство",
+      "аббатства",
+      "monastery",
+      "abbey",
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "content/places/el-escorial/_index.md"
+    ]
+  },
   "sainte-marie-among-the-hurons": {
     "types": [
       "museum",

@@ -4297,5 +4297,21 @@
     "country_code": "US",
     "source": "https://gateway.okhistory.org/explore/locations/p13982/",
     "query": "Saint Joseph, Michigan; verified geographic record"
+  },
+  "monte-da-ravasqueira": {
+    "lat": 38.74655555555556,
+    "lon": -8.00775,
+    "name": "Monte da Ravasqueira",
+    "country_code": "PT",
+    "source": "https://www.visitalentejo.pt/fotos/editor2/pdfs/alentejo_en.pdf",
+    "query": "Monte da Ravasqueira, Arraiolos; regional tourism GPS"
+  },
+  "cabo-sao-vicente": {
+    "lat": 37.0226155,
+    "lon": -8.9966125,
+    "name": "Cabo de São Vicente",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/node/5003941303",
+    "query": "Named cape; primary OSM node coordinates"
   }
 }

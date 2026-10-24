@@ -4801,11 +4801,11 @@
       "trip_path": "content/europe/portugal/portugal-spain-2016",
       "title": "\"Албуфейра и пробковое производство\"",
       "draft": false,
-      "source_sha256_lf": "37b6a890c5800bcf92c08f0e1bd9ab16b4e5f66d065b2ff14f097ea1c83c76aa",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "a0dc0a5f36fcc17b9614a7c439ed0122bd18055fbb14db7db93e016ebe05d472",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/alhambra/index.md",
@@ -4814,10 +4814,10 @@
       "title": "\"Альгамбра - \\\"Только аллах победитель\\\"\"",
       "draft": false,
       "source_sha256_lf": "91828fff5b8cb8e324ffb855804260e0f7ba312b03885414b28177e1d1bd28c4",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/almunecar/index.md",
@@ -4826,10 +4826,10 @@
       "title": "\"Альмуньекар\"",
       "draft": false,
       "source_sha256_lf": "06bcbe6d138a07e59d8bf7cc9e7c626d42d3d1824b8023af76c68ac2e1e12f4d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/arraiolos/index.md",
@@ -4837,11 +4837,11 @@
       "trip_path": "content/europe/portugal/portugal-spain-2016",
       "title": "\"Аррайо́луш - КАК живет глубинка!\"",
       "draft": false,
-      "source_sha256_lf": "7fdc328afd68fc97cbd89d10b1216f20a1231b95d45d1ef3425abe095e20a069",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "666a319724eeb555abdbdb1936fc72a6e8f8f4b6195ecab23b2037429f272ddc",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/belem/index.md",
@@ -4849,11 +4849,11 @@
       "trip_path": "content/europe/portugal/portugal-spain-2016",
       "title": "\"Белем - мы в Португалии\"",
       "draft": false,
-      "source_sha256_lf": "3d6f5d692e8ce11a4642553382d20d1a12e7080049d4a33bc256f7c20a15b0b3",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "ad0658eba478f34da56bce1dda374446957d598312b986ec8c9bd2fc142f3f3b",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/belmonte/index.md",
@@ -4862,10 +4862,10 @@
       "title": "\"Белмонте\"",
       "draft": false,
       "source_sha256_lf": "c56556e0eeac04617e37c8037e5c487437c2a9496b97b30e339da71040420155",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/consuegra/index.md",
@@ -4873,11 +4873,11 @@
       "trip_path": "content/europe/portugal/portugal-spain-2016",
       "title": "\"Консуэгра и мельницы Дон Кихота\"",
       "draft": false,
-      "source_sha256_lf": "d7d6547aeffd3b5da84410d712ab133f9a073c4ee42b17c83e513b03ee7b2903",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "c69db17082affc79e628bb21098bb104c6d725afd04f4e208810bc3ae650dec3",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/escorial-salamanca/index.md",
@@ -4886,10 +4886,10 @@
       "title": "\"Эскориал - Саламанка\"",
       "draft": false,
       "source_sha256_lf": "50316c9f814d7cebf8c17117de39794cf0b76ea7060559447c7fbcc85fcd9f1f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/jerez-seville/index.md",
@@ -4898,10 +4898,10 @@
       "title": "\"Испания - Херес и Севилья\"",
       "draft": false,
       "source_sha256_lf": "437b2d441abf54347b49cb964591d0d54c2ce15e4d3a3413517f05b7719772c3",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/lisbon-final/index.md",
@@ -4909,11 +4909,11 @@
       "trip_path": "content/europe/portugal/portugal-spain-2016",
       "title": "\"Лиссабон - заключительное\"",
       "draft": false,
-      "source_sha256_lf": "c10c661a1b7f2f16e69783ba07063582b526343e2c295e46d83e32dec0b4ae08",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "ad9272ca7807fb699a8d69c139fbe9efa9822a5be7aba2bfcb00935f8df49463",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/lisbon/index.md",
@@ -4921,11 +4921,11 @@
       "trip_path": "content/europe/portugal/portugal-spain-2016",
       "title": "\"Лиссабон\"",
       "draft": false,
-      "source_sha256_lf": "2f403cfa21244d86efa06515e59e185eb2b428f5168fe63dbacb9d9c51f6a59f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "e09a73dae12fdadc81421dfc2ac2e704d40d3c84100a65449471d74ad49473d4",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/madrid/index.md",
@@ -4933,11 +4933,11 @@
       "trip_path": "content/europe/portugal/portugal-spain-2016",
       "title": "\"Мадрид\"",
       "draft": false,
-      "source_sha256_lf": "f395a98ef6ea381a42e8b6f950c4992cf726f854e853aaef89ce8f76d080f8e4",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "95c769eb6598d4bedca6db4c0ad5b5dc3708fa3b772621bb6883c7d6371d65c9",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/seville/index.md",
@@ -4945,11 +4945,11 @@
       "trip_path": "content/europe/portugal/portugal-spain-2016",
       "title": "\"Севилья\"",
       "draft": false,
-      "source_sha256_lf": "75e901ea9372525478b6c5c06cdd5de01569ed6393c2b88bb190bd7e10367857",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "cb6d72e8a1b750e2bf3683080df863396f623ebc41245702c0788bf085cc3a8b",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/sintra/index.md",
@@ -4958,10 +4958,10 @@
       "title": "\"Синтра\"",
       "draft": false,
       "source_sha256_lf": "fc62ba71e2045440a64906175b0894dbd0114e629061c3070e49505449f1bbf6",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/toledo/index.md",
@@ -4969,11 +4969,11 @@
       "trip_path": "content/europe/portugal/portugal-spain-2016",
       "title": "\"Толедо\"",
       "draft": false,
-      "source_sha256_lf": "1412d89900a4bfadf704337b90a531105095329e8f7921e7a560bac131df4239",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "c63d6b538c6e3318e07419b187cc8f51ef1ef413d72ea33bf85303868fb2f0e3",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/tomar-batalha-nazare/index.md",
@@ -4982,10 +4982,10 @@
       "title": "\"Тамплиеры! (Томар - Баталья - Назаре)\"",
       "draft": false,
       "source_sha256_lf": "0bf9bc26b2089cef8f1615827d2a1da3b2080c3698a4f31102686a2273afaa91",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
       "file": "content/europe/russia/moscow-new-year-2012/story/index.md",

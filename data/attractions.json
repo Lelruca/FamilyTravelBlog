@@ -3943,21 +3943,6 @@
       "abbey"
     ]
   },
-  "lisbon--muzey-vina-i-degustatsiya": {
-    "title": "Музей вина и дегустация",
-    "parent": "lisbon",
-    "types": [
-      "museum"
-    ],
-    "search_terms": [
-      "музей",
-      "музеи",
-      "музея",
-      "музеев",
-      "museum",
-      "museums"
-    ]
-  },
   "lisbon--natsionalnyy-muzey-karet": {
     "title": "Национальный музей карет",
     "parent": "lisbon",
@@ -9055,7 +9040,8 @@
     "title": "Синагога дель-Трансито",
     "parent": "toledo",
     "types": [
-      "temple"
+      "temple",
+      "museum"
     ],
     "search_terms": [
       "храм",
@@ -9063,7 +9049,13 @@
       "храма",
       "храмов",
       "святилище",
-      "temple"
+      "temple",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "toledo--tserkov-santo-tome": {
@@ -12350,6 +12342,60 @@
       "историческое здание",
       "архитектура",
       "historic building"
+    ]
+  },
+  "lisbon--museu-fado": {
+    "title": "Музей фаду",
+    "parent": "lisbon",
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "фаду",
+      "фадо",
+      "Fado"
+    ]
+  },
+  "lisbon--museu-azulejo": {
+    "title": "Музей азулежу",
+    "parent": "lisbon",
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "азулежу",
+      "плитка",
+      "изразцы",
+      "azulejo"
+    ]
+  },
+  "seville--metropol-parasol": {
+    "title": "Метрополь Парасоль — «Грибы»",
+    "parent": "seville",
+    "types": [
+      "viewpoint"
+    ],
+    "search_terms": [
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck",
+      "Metropol Parasol",
+      "Setas",
+      "грибы"
     ]
   }
 }

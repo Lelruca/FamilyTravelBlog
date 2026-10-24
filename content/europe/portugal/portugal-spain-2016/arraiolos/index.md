@@ -5,6 +5,7 @@ layout: "photo-story"
 weight: 40
 city: "Аррайолуш"
 places:
+  - monte-da-ravasqueira
   - arraiolos
 hero_image: "20160823_115058.jpg"
 date: 2016-08-22

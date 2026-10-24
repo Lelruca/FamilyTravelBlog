@@ -42,7 +42,7 @@ for (const [,attrs,html] of rows) {
   assert.ok(coord,`${slug}: missing reviewed coordinates`);
   assert.ok(Number.isFinite(coord.lat) && Math.abs(coord.lat)<=85 && Number.isFinite(coord.lon) && Math.abs(coord.lon)<=180,`${slug}: invalid coordinates`);
   const reviewedSource = /^https:\/\/(?:www\.openstreetmap\.org\/(?:node|way|relation)\/\d+|wiki\.openstreetmap\.org\/wiki\/[^\s]+|www\.wikidata\.org\/wiki\/Q\d+|en\.wikipedia\.org\/wiki\/[^\s]+)$/.test(coord.source)
-    || ['https://longwoodgardens.org/visit/directions','https://www.tremblant.ca/plan/getting-here','https://gateway.okhistory.org/explore/locations/p13982/'].includes(coord.source);
+    || ['https://longwoodgardens.org/visit/directions','https://www.tremblant.ca/plan/getting-here','https://gateway.okhistory.org/explore/locations/p13982/','https://www.visitalentejo.pt/fotos/editor2/pdfs/alentejo_en.pdf'].includes(coord.source);
   assert.ok(reviewedSource,`${slug}: missing reviewed geographic source`);
   assert.ok(attrs.includes('data-lat=') && attrs.includes('data-lon='),`${slug}: coordinates not rendered`);
   const href = attrs.match(/href=(?:"([^"]+)"|([^\s>]+))/).slice(1).find(Boolean).replace(/^\/FamilyTravelBlog/,'');

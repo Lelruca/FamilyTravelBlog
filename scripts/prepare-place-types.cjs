@@ -11,6 +11,9 @@ for(const [id,a] of Object.entries(attractions))if(a.place){
  p.classification_sources.push(`data/attractions.json#${id}`);
 }
 const standaloneTypes={
+ 'monte-da-ravasqueira':['museum','winery'],
+ 'cabo-sao-vicente':['cape'],
+ 'el-escorial':['monastery','palace','museum'],
  'sainte-marie-among-the-hurons':['museum','historic_building'],
  'lake-temagami':['lake'],
  'pompeii':['archaeological_site'],

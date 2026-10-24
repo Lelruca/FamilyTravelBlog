@@ -11,7 +11,7 @@ places:
 hero_image: "20160820_162105.jpg"
 date: 2016-08-20
 auto_gallery: false
-attractions: ["belem","museu-marinha","lisbon--monastyr-zheronimush","lisbon--belemskaya-bashnya"]
+attractions: ["belem","lisbon--monastyr-zheronimush","museu-marinha","lisbon--belemskaya-bashnya"]
 ---
 Началось все пугающе неудачно!
 
