@@ -613,11 +613,11 @@
       "trip_path": "content/americas/canada/north-ontario-2020",
       "title": "\"Аметисты, Ouimet и Eagle Canyon\"",
       "draft": false,
-      "source_sha256_lf": "2f1651c9c89ef9a7a0298bed8292bfe6027b4f24bf1075e16cf595c0feb3a6e3",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "c43c64151e85d36909b97027f2236e5f4346f8c1db782e2a6e4fc10cb5255091",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/lake-superior-park/index.md",
@@ -626,10 +626,10 @@
       "title": "\"Прощанье с Lake Superior\"",
       "draft": false,
       "source_sha256_lf": "b8d9ced4b1d790237ca8da26661d3945d6055efe6216382042e1ae717253dc4d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/lake-superior/index.md",
@@ -638,10 +638,10 @@
       "title": "\"Lake Superior\"",
       "draft": false,
       "source_sha256_lf": "5d92cbf6c07fb36c26ace92582f4a92b4c7873e2c17a016e8780c17595b4c08f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/manitoulin/index.md",
@@ -650,10 +650,10 @@
       "title": "\"Manitoulin Island\"",
       "draft": false,
       "source_sha256_lf": "65e9df1618c971b5b2e581203040b30df41f4b72705f9a0d9a7d301cb767fbfb",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/nipigon-wawa/index.md",
@@ -662,10 +662,10 @@
       "title": "\"Обратно на юг - Nipigon и Wawa\"",
       "draft": false,
       "source_sha256_lf": "7138b323017739d4b53940127e761e21b90b0c658696796f9229b724b41c636c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/red-rock/index.md",
@@ -674,10 +674,10 @@
       "title": "\"Red Rock\"",
       "draft": false,
       "source_sha256_lf": "2158932fe8b8c4ebb5a385207399bb2c83f3ace5554ea804925c59e2372e071f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/sault-ste-marie/index.md",
@@ -686,10 +686,10 @@
       "title": "\"До Sault Ste. Marie\"",
       "draft": false,
       "source_sha256_lf": "f0c6a7ffc88f8600fa6a9f9bb3c58bbafd70e7087ff1a13b4b6b42619ab8d9a5",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/sleeping-giant/index.md",
@@ -698,10 +698,10 @@
       "title": "\"Sleeping Giant\"",
       "draft": false,
       "source_sha256_lf": "188e678ce42e76a5293f9f859c3648dbb39599d19525522f28d74a2d2efe5938",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
       "file": "content/americas/canada/north-ontario-2020/thunder-bay/index.md",
@@ -709,11 +709,11 @@
       "trip_path": "content/americas/canada/north-ontario-2020",
       "title": "\"Thunder Bay\"",
       "draft": false,
-      "source_sha256_lf": "01684e650dc62ec19b852e6484ae01cf00cf8d5c55978c2630d41e515bd81159",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "1387365ae3551de06a5058404495263a9751550a7a2e19dbca197e262946e3c0",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
       "file": "content/americas/canada/ottawa-2015/museum/index.md",

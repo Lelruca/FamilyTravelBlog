@@ -10802,6 +10802,467 @@
       ],
       "place_visits": []
     },
+    "content/americas/canada/north-ontario-2020/sault-ste-marie/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "sault-ste-marie",
+          "event": "walked_and_overnight",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 189,
+              "source_paragraph": 5,
+              "quote": "Городок очень приятный"
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Набережная и ночёвка, вся четвёрка."
+        }
+      ]
+    },
+    "content/americas/canada/north-ontario-2020/lake-superior/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "agawa-rock",
+          "event": "hiked",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 188,
+              "source_paragraph": 12,
+              "quote": "Agawa Rock Indian Pictographs Trail"
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Вся четвёрка прошла маршрут, а не музей внутри здания."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "chippewa-falls",
+          "event": "visited",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 188,
+              "source_paragraph": 11,
+              "quote": "Начали с Chippewa Falls"
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Два порога и сравнение с картиной, один водопад."
+        },
+        {
+          "id": "white-river",
+          "event": "visited",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 188,
+              "source_attachment_path": "attachments.0.data.13.media.description",
+              "quote": "Канада - родина Винни-Пуха (White River)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Настоящая остановка; зоопарк Лондона и Виннипег в исторической справке не посещения."
+        },
+        {
+          "id": "aguasabon-falls",
+          "event": "visited",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 188,
+              "source_paragraph": 15,
+              "quote": "Aguasabon Falls & Gorge"
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Конкретный водопад и ущелье в финале дня."
+        }
+      ]
+    },
+    "content/americas/canada/north-ontario-2020/amethysts-canyons/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "blue-point-amethyst-mine",
+          "event": "amethyst_digging",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 187,
+              "source_paragraph": 2,
+              "quote": "Blue Point Amethyst Mine."
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Развёрнутый самостоятельный эпизод, добыча аметистов стала фаворитом молодёжи в заключении. Отдельная точка у рудника, не в центре Thunder Bay."
+        },
+        {
+          "id": "ouimet-canyon",
+          "event": "visited",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 187,
+              "source_paragraph": 3,
+              "quote": "Следующим пунктом нашей программы был Ouimet Canyon."
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Конкретный каньон в рассказе; легендарная голова — часть пейзажа."
+        },
+        {
+          "id": "eagle-canyon",
+          "event": "suspension_bridge_walk",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 187,
+              "source_paragraph": 5,
+              "quote": "Мы прошли тропу с подвесными мостами"
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Прогулка через два моста, не все дополнительные развлечения частного парка."
+        }
+      ]
+    },
+    "content/americas/canada/north-ontario-2020/red-rock/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "red-rock-ontario",
+          "event": "stayed_and_walked",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 186,
+              "source_paragraph": 1,
+              "quote": "Мы остановились на две ночи в небольшом городишке Red Rock"
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Вся четвёрка жила здесь; утреннюю прогулку совершили только Леля и Митя."
+        }
+      ]
+    },
+    "content/americas/canada/north-ontario-2020/thunder-bay/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "thunder-bay--terry-fox-memorial",
+          "event": "exterior_visit",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 185,
+              "source_attachment_path": "attachments.0.data.10.media.description",
+              "quote": "Монумент  Тэрри Фоксу - национальный герой Канады. В 1980 году он заболел раком, потерял одну ногу и решил пересечь всю Канаду бегом собирая средства на исследования рака."
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Содержательная авторская подпись с личным открытием истории героя, не опознание фонового памятника."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "sleeping-giant",
+          "event": "overnight_hike",
+          "participants": [
+            "Лиза",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 185,
+              "source_paragraph": 1,
+              "quote": "Лиза у нас сертифицированный \"инструктор по выживанию\""
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "С рюкзаками и ночёвкой пошли только Лиза и Митя; родители уехали в город."
+        },
+        {
+          "id": "thunder-bay",
+          "event": "walked_and_overnight",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 185,
+              "source_paragraph": 2,
+              "quote": "А мы с Серегой наоборот поехали"
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Только родители, музейные входы не приписаны."
+        },
+        {
+          "id": "kakabeka-falls",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 185,
+              "source_attachment_path": "attachments.0.data.2.media.description",
+              "quote": "Kakabeka Falls - этот водопад ещё называют Ниагарой севера. И действительно он тоже в виде подковы, похож. Нам понравился."
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Поездка родителей, пока молодёжь в походе."
+        }
+      ]
+    },
+    "content/americas/canada/north-ontario-2020/sleeping-giant/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "sleeping-giant",
+          "event": "hiked_short_trails",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 184,
+              "source_paragraph": 1,
+              "quote": "мы ходили на короткие маршруты"
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "За детьми приехали Леля с Сергеем и прошли короткие маршруты; их не записывают в ночной поход."
+        }
+      ]
+    },
+    "content/americas/canada/north-ontario-2020/nipigon-wawa/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "nipigon",
+          "event": "roadside_stop",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 183,
+              "source_attachment_path": "attachments.0.data.0.media.description",
+              "quote": "Nipigon Ontario"
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Остановка на обратном пути; короткая подпись к мосту не отдельная точка."
+        },
+        {
+          "id": "pebble-beach-marathon",
+          "event": "visited",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 183,
+              "source_attachment_path": "attachments.0.data.12.media.description",
+              "quote": "Pebble beach - уникальное место. Пляж из довольно крупных булыжников. Очень разных и красивых!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Прямо описан необычный каменный пляж."
+        },
+        {
+          "id": "wawa",
+          "event": "beach_stop_and_overnight",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 183,
+              "source_attachment_path": "attachments.0.data.18.media.description",
+              "quote": "Wawa - наша сегодняшняя база. Самый старый город в этих местах - начало 18 века!\nWawa в переводе с языка индейцев - дикий гусь. \nСтатуя из стали 9 метров в высоту была поставлена для привлечения туристов, когда новый хайвей обошёл город стороной :)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "В Wawa ночевали; на Carden Cove другие люди купались, собственное купание группы не заявлено."
+        }
+      ]
+    },
+    "content/americas/canada/north-ontario-2020/lake-superior-park/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "lake-superior-park",
+          "event": "anniversary_hike",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 182,
+              "source_attachment_path": "attachments.0.data.0.media.description",
+              "quote": "Сегодня мы начали свой день с парка - Lake Superior. Он огромен!\nМы решили отметить свою 28 годовщину подъёмом на горку."
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Прошли горный маршрут всей четвёркой, имя тропы не угадывается."
+        },
+        {
+          "id": "pancake-bay",
+          "event": "beach_visit",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 182,
+              "source_attachment_path": "attachments.0.data.5.media.description",
+              "quote": "Следующим номером нашей программы был пляж. Чем южнее двигаешься, тем больше пляжных парков. Мы заехали попрощаться с озером Superior в парк Pancake Bay.  Он какой-то бескрайный, песок, прозрачная и прогретая вода.... Народу много, но поскольку размеры огромны скученности нет совсем."
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Пляж посетили. Поздняя подпись уточняет, что в Superior полноценно купалась только Лиза."
+        },
+        {
+          "id": "manitoulin-island",
+          "event": "arrived_and_overnight",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 182,
+              "source_attachment_path": "attachments.0.data.9.media.description",
+              "quote": "Ночевать же сегодня мы приехали на остров Manitoulin Island - это самый большой остров в пресной воде. И он находится уже во втором ро размеру Великом озере - озере Гурон. Остров встретил нас своим знаменитым закатом."
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Реальная ночёвка на острове, а не просто сравнение с другими Великими озёрами."
+        }
+      ]
+    },
+    "content/americas/canada/north-ontario-2020/manitoulin/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "cup-and-saucer",
+          "event": "hiked_youth_only",
+          "participants": [
+            "Лиза",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 181,
+              "source_attachment_path": "attachments.0.data.0.media.description",
+              "quote": "Молодая часть нашей группы залезла опять на гору. Прошли знаменитый Cup and Saucer Trail"
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Маршрут прошли только Лиза и Митя. Родители гуляли по берегу."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "manitoulin-island",
+          "event": "walked",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 181,
+              "source_attachment_path": "attachments.0.data.3.media.description",
+              "quote": "А мы с Серегой нашли променад вдоль залива озера Гурон и наслаждались прогулкой"
+            }
+          ],
+          "report": "reviews/source-audit/trips/north-ontario-2020.json",
+          "note": "Прогулка родителей по променаду; в подписи отдельно назван Providence Bay."
+        }
+      ]
+    },
     "content/americas/canada/ottawa-2015/tulips/index.md": {
       "source_review": "read",
       "visits": [

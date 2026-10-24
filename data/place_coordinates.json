@@ -4321,5 +4321,13 @@
     "country_code": "CA",
     "source": "https://www.openstreetmap.org/relation/8271776",
     "query": "Chandler, Quebec"
+  },
+  "blue-point-amethyst-mine": {
+    "lat": 48.6851702,
+    "lon": -88.662844,
+    "name": "Blue Point Amethyst Mine",
+    "country_code": "CA",
+    "source": "https://bluepointamethystmine.ca/",
+    "query": "Blue Point Amethyst Mine official GeoCoordinates"
   }
 }

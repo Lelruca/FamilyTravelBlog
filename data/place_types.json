@@ -3809,6 +3809,201 @@
       "data/attractions.json#disneyland-anaheim"
     ]
   },
+  "blue-point-amethyst-mine": {
+    "types": [
+      "mine"
+    ],
+    "search_terms": [
+      "рудник",
+      "рудники",
+      "шахта",
+      "шахты",
+      "карьер",
+      "карьеры",
+      "добыча",
+      "mine",
+      "quarry"
+    ],
+    "classification_sources": [
+      "content/places/blue-point-amethyst-mine/_index.md"
+    ]
+  },
+  "sleeping-giant": {
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/sleeping-giant/_index.md"
+    ]
+  },
+  "lake-superior-park": {
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/lake-superior-park/_index.md"
+    ]
+  },
+  "chippewa-falls": {
+    "types": [
+      "waterfall"
+    ],
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall"
+    ],
+    "classification_sources": [
+      "content/places/chippewa-falls/_index.md"
+    ]
+  },
+  "aguasabon-falls": {
+    "types": [
+      "waterfall",
+      "canyon"
+    ],
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall",
+      "каньон",
+      "каньоны",
+      "ущелье",
+      "ущелья",
+      "canyon",
+      "gorge"
+    ],
+    "classification_sources": [
+      "content/places/aguasabon-falls/_index.md"
+    ]
+  },
+  "kakabeka-falls": {
+    "types": [
+      "waterfall"
+    ],
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall"
+    ],
+    "classification_sources": [
+      "content/places/kakabeka-falls/_index.md"
+    ]
+  },
+  "ouimet-canyon": {
+    "types": [
+      "canyon"
+    ],
+    "search_terms": [
+      "каньон",
+      "каньоны",
+      "ущелье",
+      "ущелья",
+      "canyon",
+      "gorge"
+    ],
+    "classification_sources": [
+      "content/places/ouimet-canyon/_index.md"
+    ]
+  },
+  "eagle-canyon": {
+    "types": [
+      "canyon"
+    ],
+    "search_terms": [
+      "каньон",
+      "каньоны",
+      "ущелье",
+      "ущелья",
+      "canyon",
+      "gorge"
+    ],
+    "classification_sources": [
+      "content/places/eagle-canyon/_index.md"
+    ]
+  },
+  "pancake-bay": {
+    "types": [
+      "park",
+      "beach"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach"
+    ],
+    "classification_sources": [
+      "content/places/pancake-bay/_index.md"
+    ]
+  },
+  "pebble-beach-marathon": {
+    "types": [
+      "beach"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach"
+    ],
+    "classification_sources": [
+      "content/places/pebble-beach-marathon/_index.md"
+    ]
+  },
+  "manitoulin-island": {
+    "types": [
+      "island"
+    ],
+    "search_terms": [
+      "остров",
+      "острова",
+      "островов",
+      "island"
+    ],
+    "classification_sources": [
+      "content/places/manitoulin-island/_index.md"
+    ]
+  },
   "bic": {
     "types": [
       "park"

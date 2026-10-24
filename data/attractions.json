@@ -12837,5 +12837,23 @@
       "exhibition",
       "Nova Lumina — ночной световой маршрут"
     ]
+  },
+  "thunder-bay--terry-fox-memorial": {
+    "title": "Мемориал Терри Фокса",
+    "parent": "thunder-bay",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Терри Фокс",
+      "Тэрри Фокс",
+      "Terry Fox"
+    ]
   }
 }

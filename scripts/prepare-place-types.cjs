@@ -11,6 +11,17 @@ for(const [id,a] of Object.entries(attractions))if(a.place){
  p.classification_sources.push(`data/attractions.json#${id}`);
 }
 const standaloneTypes={
+ 'blue-point-amethyst-mine':['mine'],
+ 'sleeping-giant':['park'],
+ 'lake-superior-park':['park'],
+ 'chippewa-falls':['waterfall'],
+ 'aguasabon-falls':['waterfall','canyon'],
+ 'kakabeka-falls':['waterfall'],
+ 'ouimet-canyon':['canyon'],
+ 'eagle-canyon':['canyon'],
+ 'pancake-bay':['park','beach'],
+ 'pebble-beach-marathon':['beach'],
+ 'manitoulin-island':['island'],
  'bic':['park'],
  'jardins-de-metis':['botanical_garden','park'],
  'gaspesie-park':['park'],
