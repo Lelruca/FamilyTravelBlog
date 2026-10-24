@@ -3,7 +3,7 @@ Use --require-complete to reject all unread or unreconciled material explicitly.
 Run with the bundled Python runtime from the repository root.
 """
 from pathlib import Path
-import hashlib,json,re,sys,zipfile,xml.etree.ElementTree as ET
+import hashlib,html,json,re,sys,zipfile,xml.etree.ElementTree as ET
 
 root=Path.cwd()
 load=lambda p:json.loads(Path(p).read_text('utf-8'))
@@ -44,6 +44,8 @@ for report_file in reports:
         paragraphs=[]
     elif r['source'].get('kind')=='owner_text':
         paragraphs=source.read_text('utf-8').splitlines()
+    elif r['source'].get('kind')=='facebook_html':
+        paragraphs=[html.unescape(re.sub(r'<[^>]+>','',source.read_text('utf-8').replace('<br />','\n')))]
     elif r['source'].get('kind')=='facebook_profile_json':
         posts=json.loads(source.read_text('utf-8'))
         post=posts[r['source']['record_index']]
@@ -83,8 +85,14 @@ for report_file in reports:
                         extra_text=extra_paragraphs[e['source_paragraph_extra']] if 'source_paragraph_extra' in e else '\n'.join(extra_paragraphs)
                     elif extra_path.suffix.lower()=='.json':
                         extra_data=load(extra_path)
-                        assert isinstance(extra_data.get('paragraphs'),list) and all(isinstance(p,str) for p in extra_data['paragraphs']),'Additional JSON source must contain explicit author paragraphs'
-                        extra_text='\n'.join(extra_data['paragraphs'])
+                        if 'source_json_path' in e:
+                            for part in e['source_json_path'].split('.'):
+                                extra_data=extra_data[int(part)] if isinstance(extra_data,list) else extra_data[part]
+                            assert isinstance(extra_data,str),'JSON evidence must address one explicit text field'
+                            extra_text=extra_data
+                        else:
+                            assert isinstance(extra_data.get('paragraphs'),list) and all(isinstance(p,str) for p in extra_data['paragraphs']),'Additional JSON source must contain explicit author paragraphs'
+                            extra_text='\n'.join(extra_data['paragraphs'])
                     else:
                         extra_text=extra_path.read_text('utf-8')
                     assert e['quote'].replace('\r\n','\n') in extra_text,f"Unsupported additional-source quote: {o['label']}"

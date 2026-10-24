@@ -10151,29 +10151,6 @@
       "Deutsches Museum"
     ]
   },
-  "munich--ns-dokumentationszentrum": {
-    "title": "Центр истории национал-социализма",
-    "parent": "munich",
-    "types": [
-      "museum"
-    ],
-    "aliases": [
-      "Музей национал-социализма",
-      "Музей нацизма",
-      "NS-Dokumentationszentrum"
-    ],
-    "search_terms": [
-      "музей",
-      "музеи",
-      "музея",
-      "музеев",
-      "museum",
-      "museums",
-      "Музей национал-социализма",
-      "Музей нацизма",
-      "NS-Dokumentationszentrum"
-    ]
-  },
   "barcelona--park-guel": {
     "title": "Парк Гуэль",
     "parent": "barcelona",
@@ -12603,6 +12580,36 @@
       "museum",
       "museums",
       "Исторический музей Страсбурга"
+    ]
+  },
+  "yoho-national-park--takakkaw-falls": {
+    "title": "Водопад Такакко (Takakkaw Falls)",
+    "parent": "yoho-national-park",
+    "types": [
+      "waterfall"
+    ],
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall",
+      "Водопад Такакко (Takakkaw Falls)"
+    ]
+  },
+  "edmonton--alberta-legislature": {
+    "title": "Парламент Альберты",
+    "parent": "edmonton",
+    "types": [
+      "historic_building"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "Парламент Альберты",
+      "парламент",
+      "законодательное собрание",
+      "Alberta Legislature"
     ]
   }
 }

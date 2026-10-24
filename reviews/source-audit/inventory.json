@@ -866,10 +866,10 @@
       "title": "\"Badlands\"",
       "draft": false,
       "source_sha256_lf": "23aa6347ba4650fcd05638eaf7997b04acd752fc3c3e558e3ebfa6e9ba767d57",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
       "file": "content/americas/canada/rockies-2018/banff/index.md",
@@ -878,10 +878,10 @@
       "title": "\"Банф\"",
       "draft": false,
       "source_sha256_lf": "cf9dc21cac4c13684079240b09c2b09c02e4db41bf9bacb0267122f2e6c346b2",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
       "file": "content/americas/canada/rockies-2018/calgary/index.md",
@@ -890,10 +890,10 @@
       "title": "\"Калгари\"",
       "draft": false,
       "source_sha256_lf": "8e1c78127306653bd721d8321acb6b777bf106e77f7817b2affd4b22b4ec1c5d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
       "file": "content/americas/canada/rockies-2018/edmonton/index.md",
@@ -901,11 +901,11 @@
       "trip_path": "content/americas/canada/rockies-2018",
       "title": "\"Эдмонтон\"",
       "draft": false,
-      "source_sha256_lf": "d935560e0efaf91b388af39bff495507be774a978221a8616cf1f21bf0e8fda5",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "368003f444d615cb9651b4c728663975c611a250236f2053ddc8450e178d21d3",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
       "file": "content/americas/canada/rockies-2018/heritage-park/index.md",
@@ -914,10 +914,10 @@
       "title": "\"Heritage Park\"",
       "draft": false,
       "source_sha256_lf": "58b834da2d014bc601aa54dec5f0ab77f61996ec7115d6997ebfab1716a5ef30",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
       "file": "content/americas/canada/rockies-2018/icefields-parkway/index.md",
@@ -926,10 +926,10 @@
       "title": "\"Icefields Parkway\"",
       "draft": false,
       "source_sha256_lf": "2d3666a162d82d7c6ad695be01e03fb6714842b9fb7fef12d1c7ddfed5de2b69",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
       "file": "content/americas/canada/rockies-2018/jasper/index.md",
@@ -938,10 +938,10 @@
       "title": "\"Джаспер\"",
       "draft": false,
       "source_sha256_lf": "15063ae560c2fdde4b6c4c5c19095fb7a20b04e2c885b548b4250fa21053676c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
       "file": "content/americas/canada/rockies-2018/kootenay/index.md",
@@ -950,10 +950,10 @@
       "title": "\"Kootenay\"",
       "draft": false,
       "source_sha256_lf": "97a76b9c23609c180a5a0dc18426452b625adbf12df8d364ca2d018594a48942",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
       "file": "content/americas/canada/rockies-2018/lake-louise/index.md",
@@ -962,10 +962,10 @@
       "title": "\"Озеро Луиз\"",
       "draft": false,
       "source_sha256_lf": "d2fe26fccd836070453b897e45585398f16ddeb99a5a703c971bedbe48026d95",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
       "file": "content/americas/canada/rockies-2018/royal-tyrrell/index.md",
@@ -974,10 +974,10 @@
       "title": "\"Royal Tyrrell Museum\"",
       "draft": false,
       "source_sha256_lf": "e7e2bade714ffffc13565732e2889c36d8a7d122cebf234e3f8ab5bfe6a33f55",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
       "file": "content/americas/canada/rockies-2018/stampede/index.md",
@@ -986,10 +986,10 @@
       "title": "\"Calgary Stampede\"",
       "draft": false,
       "source_sha256_lf": "a7d91a040b8358a7b79d1b12311ed4c9d1fd4c9481c3a7df3585b5fd28626cde",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
       "file": "content/americas/canada/rockies-2018/yoho/index.md",
@@ -997,11 +997,11 @@
       "trip_path": "content/americas/canada/rockies-2018",
       "title": "\"Yoho\"",
       "draft": false,
-      "source_sha256_lf": "b310da75bb2bd391407a4848d637899f564f732e61ecfeb00bd47005cf0a0940",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "da5da4dce032660b39b55f8977269c3c18dda151f2dba0e2db42e861424f7a55",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
       "file": "content/americas/canada/tobermory-2014/adventure-park/index.md",

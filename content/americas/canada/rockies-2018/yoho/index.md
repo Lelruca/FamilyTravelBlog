@@ -10,7 +10,7 @@ hero_image: "IMG_1449.jpg"
 date: "2018-07-04"
 auto_gallery: false
 draft: false
-attractions: ["yoho-national-park--izumrudnoe-ozero","yoho-national-park--prirodnyy-most"]
+attractions: ["yoho-national-park--izumrudnoe-ozero","yoho-national-park--prirodnyy-most","yoho-national-park--takakkaw-falls"]
 ---
 <p>Альберта - В парк Yoho  мы попали сразу после озера Луиз. Основная достопримечательность в нем - другое зеленое озеро – Emerald Lake (Изумрудное озеро). Вроде тоже зеленое, но совсем другой оттенок, более глубокий!</p>
 

@@ -10868,6 +10868,552 @@
       "visits": [],
       "place_visits": []
     },
+    "content/americas/canada/rockies-2018/calgary/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "calgary",
+          "event": "walked",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_file": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/alberta-2018/fb-missing-posts.json",
+              "source_sha256": "db67e90aef1e96d6b324cfeb6c9a19f6113906973370497f03bde2997ebe94a6",
+              "source_json_path": "0.text",
+              "quote": "Калгари больше всего напоминает Торонто."
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Прогулка по городу, без утверждения подъёма на башню."
+        }
+      ]
+    },
+    "content/americas/canada/rockies-2018/heritage-park/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "heritage-park-calgary",
+          "event": "entered",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_file": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/alberta-2018/fb-missing-posts.json",
+              "source_sha256": "db67e90aef1e96d6b324cfeb6c9a19f6113906973370497f03bde2997ebe94a6",
+              "source_json_path": "1.text",
+              "quote": "Heritage Park Historical Village"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Целая глава названа этим музеем, авторские подписи раскрывают поезд, историческую деревню, коллекции машин и заправок. Один комплекс."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/americas/canada/rockies-2018/badlands/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "drumheller",
+          "event": "landscape_visit",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_file": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/alberta-2018/fb-missing-posts.json",
+              "source_sha256": "db67e90aef1e96d6b324cfeb6c9a19f6113906973370497f03bde2997ebe94a6",
+              "source_json_path": "2.text",
+              "quote": "Сами же badlands очень живописны."
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Рассказ описывает ландшафт и образования, без придумывания конкретной тропы или смотровой."
+        }
+      ]
+    },
+    "content/americas/canada/rockies-2018/royal-tyrrell/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "royal-tyrrell-museum",
+          "event": "entered",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_file": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/alberta-2018/fb-missing-posts.json",
+              "source_sha256": "db67e90aef1e96d6b324cfeb6c9a19f6113906973370497f03bde2997ebe94a6",
+              "source_json_path": "3.text",
+              "quote": "Royal Tyrrell Museum - очень серьезный палеонтологический музей!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Подробный рассказ, очередь и коллекция подтверждают вход; отдельные динозавры не точки."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "drumheller",
+          "event": "museum_destination",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_file": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/alberta-2018/fb-missing-posts.json",
+              "source_sha256": "db67e90aef1e96d6b324cfeb6c9a19f6113906973370497f03bde2997ebe94a6",
+              "source_json_path": "3.text",
+              "quote": "На землях Альберты проживало большое кол-во динозавров."
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Географическая связь музейной главы."
+        }
+      ]
+    },
+    "content/americas/canada/rockies-2018/banff/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "banff--muzey-buffalo-nations-luxton",
+          "event": "entered",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "А в самый ливень посетили музей местных индейцев."
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Вход прямо подтверждён, конкретное имя уже раскрыто отдельным текстовым абзацем главы."
+        },
+        {
+          "id": "banff--ozero-minnevanka",
+          "event": "visited",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Первое наше знакомство с горами и главное с озерами небывалых цветов началось с Lake Minnewanka"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Именованное озеро в рассказе."
+        },
+        {
+          "id": "banff--fairmont-banff-springs",
+          "event": "visited_entry_extent_unspecified",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "И дошли до известной гостиницы Fairmont Banff Springs"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Не приписывается ночёвка: жили в другом месте. Фраза «можно гулять» сама по себе не доказывает осмотр всех внутренних залов."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "banff",
+          "event": "stayed_and_walked",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "В самом Банфе мы прожили 4 ночи"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Ночлег и прогулки; отель Hidden Ridge входит в рассказ о размещении."
+        }
+      ]
+    },
+    "content/americas/canada/rockies-2018/kootenay/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "kootenay-national-park--mramornyy-kanon",
+          "event": "walked",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Очень-очень красивые каньон Marble canyon."
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Прямо назван и описан."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "kootenay-national-park",
+          "event": "visited",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Kootenay National Park - туда мы попали спасаясь от плохой погоды."
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Реальный выезд в другую провинцию."
+        }
+      ]
+    },
+    "content/americas/canada/rockies-2018/lake-louise/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "lake-louise--ozero-agnes",
+          "event": "hiked_to",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "нашим конечным пунктом было озеро Агнесс"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Все дошли, включая маму автора; снег не отдельная достопримечательность."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "lake-louise",
+          "event": "hike",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "На популярную тропу к чайному домику от озера Луиз мы пошли с друзьями из Торонто"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "К основной четвёрке присоединились друзья из Торонто, имена в тексте не перечислены."
+        }
+      ]
+    },
+    "content/americas/canada/rockies-2018/yoho/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "yoho-national-park--izumrudnoe-ozero",
+          "event": "visited",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Emerald Lake (Изумрудное озеро)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Конкретное озеро в рассказе."
+        },
+        {
+          "id": "yoho-national-park--prirodnyy-most",
+          "event": "visited",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Мы без особого энутзиазма туда зарулили"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Вся группа у моста, Митя отдельно залезал на камни."
+        },
+        {
+          "id": "yoho-national-park--takakkaw-falls",
+          "event": "visited",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Takakkaw Falls – в переводе с индейского - «Это прекрасно!»"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Прямо описанный последний эпизод главы был пропущен в данных."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "yoho-national-park",
+          "event": "visited",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "В парк Yoho  мы попали сразу после озера Луиз."
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Автор прямо сообщает последовательность."
+        }
+      ]
+    },
+    "content/americas/canada/rockies-2018/icefields-parkway/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "icefields-parkway",
+          "event": "scenic_drive",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "дорога между двумя этими парками - Icefields Parkway"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Главный предмет рассказа — дорога и остановки по пути."
+        }
+      ]
+    },
+    "content/americas/canada/rockies-2018/jasper/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "jasper--lednik-atabaska",
+          "event": "viewed_from_cafe_terrace",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Посмотрели на все с террасы кафе и поехали дальше."
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Автобусная экскурсия и выход на лёд НЕ состоялись: ближайших билетов не было."
+        },
+        {
+          "id": "jasper--kanon-malin",
+          "event": "walked",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "мы замечательно прогулялись вдоль каньона (Maligne Canyon)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Прямое подтверждение прогулки."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "jasper",
+          "event": "stayed_and_walked",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "А вот сам городок Джаспер нам ОЧЕНЬ понравился!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Ночлег и прогулка; частный дом, церкви и школы не дополнительные точки."
+        }
+      ]
+    },
+    "content/americas/canada/rockies-2018/edmonton/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "edmonton--west-edmonton-mall",
+          "event": "entered",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_file": "media-manifests/rockies-2018.json",
+              "source_sha256": "b0dc571add165024ce2e370b09933c533653a328ae5745c6b78fd4b7d8ab196e",
+              "source_json_path": "edmonton_owner_text.paragraphs.1",
+              "quote": "Мы честно отработали мол и получили даже больше удовольствия, чем ожидали!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Посещение всего комплекса; аквапарк, каток и гостиницы в описании не означают самостоятельные посещения каждого."
+        },
+        {
+          "id": "edmonton--alberta-legislature",
+          "event": "entered_guided_tour",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_file": "media-manifests/rockies-2018.json",
+              "source_sha256": "b0dc571add165024ce2e370b09933c533653a328ae5745c6b78fd4b7d8ab196e",
+              "source_json_path": "edmonton_owner_text.paragraphs.4",
+              "quote": "А сам парламент конечно восхищает! Нам повезло попасть на бесплатную экскурсию внутрь. Узнали много фактов про провинцую, про устройство парламента, про историю женского движения."
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Прямо сказано про бесплатную экскурсию внутрь. Это самостоятельный содержательный эпизод, ранее пропущенный."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "edmonton",
+          "event": "visited",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_file": "media-manifests/rockies-2018.json",
+              "source_sha256": "b0dc571add165024ce2e370b09933c533653a328ae5745c6b78fd4b7d8ab196e",
+              "source_json_path": "edmonton_owner_text.paragraphs.0",
+              "quote": "Обратно мы возвращались уже через столицу Альберты - Эдмонтон и  прямую дорогу в Калгари. Мы не знали что ожидать от Эдмонтона, если делать поиск, то основная достопримечательность которую называют - торговый центр West Edmonton Mall. Это самый крупный мол в северной Америке. Там внутри и 2 отеля, и каток, и “улицы”, и 800 магазинов и даже водный парк атракционов! А так же разные сцены, где кто-то выступает. Такой огромный “город под крышей”, но наверное иначе как выжить тут зимой!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Прямой авторский текст, переданный владельцем 18 октября."
+        }
+      ]
+    },
+    "content/americas/canada/rockies-2018/stampede/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "calgary--kalgariyskiy-stampid",
+          "event": "attended",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_file": "content/americas/canada/rockies-2018/stampede/index.md",
+              "source_sha256": "fef373cd91ec28c9fabfb4f6f7efd1597f567e9f9bb6765cff96959db94bb4d1",
+              "quote": "Мы специально приурочили эту поездку к Calgary Stampede"
+            }
+          ],
+          "report": "reviews/source-audit/trips/rockies-2018.json",
+          "note": "Состоявшиеся события подробно описаны в текущей главе. Независимый исходный текст этой главы в найденном HTML-архиве отсутствует; ограничение не скрывается. Разные номера шоу — один фестиваль."
+        }
+      ],
+      "place_visits": []
+    },
     "content/europe/italy/rome-2015-2016/kleve/index.md": {
       "source_review": "read",
       "visits": [],
