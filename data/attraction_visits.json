@@ -857,6 +857,64 @@
         }
       ]
     },
+    "content/europe/spain/barcelona-museums-2025/museums/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "barcelona--muzey-muzyki-barselony",
+          "event": "entered",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 1,
+              "quote": "Музей музыкальных инструментов."
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-museums-2025.json",
+          "note": "Прямой рассказ о коллекции; детская комната и инструменты — части музея."
+        },
+        {
+          "id": "barcelona--muzey-dizayna-barselony",
+          "event": "entered",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 3,
+              "quote": "Второй музей - дизайна"
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-museums-2025.json",
+          "note": "Развёрнутое описание четырёх этажей и экологической экспозиции; ни этаж, ни стенд не отдельная точка."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "barcelona",
+          "event": "museum_day",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "нетуристическая Барселона"
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-museums-2025.json",
+          "note": "Только музейный день, прежние посещения всех основных музеев не переносятся в этот рассказ."
+        }
+      ]
+    },
     "content/europe/switzerland/bern-2023/bern/index.md": {
       "source_review": "read",
       "visits": [],
@@ -8463,6 +8521,39 @@
         }
       ]
     },
+    "content/europe/spain/montserrat-2025/montserrat/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "montserrat--muzey-montserrata",
+          "event": "entered",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 3,
+              "quote": "Потом мы пришли в музей"
+            }
+          ],
+          "report": "reviews/source-audit/trips/montserrat-2025.json",
+          "note": "Прямо описаны фильм и коллекция русских икон. Не создаются отдельные точки по картинам."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "montserrat",
+          "event": "entered_and_service",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "К Мадонне мы подходили под звуки органа"
+            }
+          ],
+          "report": "reviews/source-audit/trips/montserrat-2025.json",
+          "note": "Прямое посещение храма и святыни на Успение, один монастырский комплекс. Известны Леля, Сергей, Наташа и Марина по обложке, в музее указано шесть человек; полный состав не угадывается."
+        }
+      ]
+    },
     "content/americas/usa/new-england-2015/cape-cod/index.md": {
       "source_review": "read",
       "visits": [
@@ -9492,6 +9583,46 @@
           ],
           "report": "reviews/source-audit/trips/ottawa-2017.json",
           "note": "Текущий раздел относится к столичному маршруту; музей истории физически находится в Гатино, существующая региональная привязка к Оттаве сохранена."
+        }
+      ]
+    },
+    "content/europe/spain/poblet-2025/poblet/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "poblet",
+          "event": "entered",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 3,
+              "quote": "Мы сначала посетили монастырь цистерцианцев"
+            }
+          ],
+          "report": "reviews/source-audit/trips/poblet-2025.json",
+          "note": "Усыпальница королей — часть монастыря, не ещё одна точка."
+        },
+        {
+          "id": "montblanc",
+          "event": "walked_and_lunch",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 5,
+              "quote": "На ланч мы поехали в средневековый городок на горе Montblanc"
+            }
+          ],
+          "report": "reviews/source-audit/trips/poblet-2025.json",
+          "note": "Реальное посещение, ресторан не назван."
         }
       ]
     },
@@ -12208,6 +12339,103 @@
       "source_review": "read",
       "visits": [],
       "place_visits": []
+    },
+    "content/europe/spain/teruel-2025/teruel-albarracin/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "teruel--tserkov-svyatogo-petra",
+          "event": "entered_complex",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "церковь Святого Петра, при которой они лежат"
+            }
+          ],
+          "report": "reviews/source-audit/trips/teruel-2025.json",
+          "note": "Церковь и мавзолей — один посещённый комплекс; две скульптуры не отдельные объекты."
+        },
+        {
+          "id": "teruel--catedral-santa-maria",
+          "event": "visited_interior_described_in_author_caption",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_attachment_path": "attachments.0.data.15.media.description",
+              "quote": "Catedral de Santa María de Mediavilla (Кафедральный собор Теруэля)\nИменно в нём находится знаменитый деревянный позднеготический ретабло (иконостас/алтарь), один из главных шедевров города."
+            }
+          ],
+          "report": "reviews/source-audit/trips/teruel-2025.json",
+          "note": "Не определение по случайному фону: авторская подпись прямо называет собор и рассказывает о деревянном ретабло внутри. Сама подпись остаётся без изменений."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "valencia",
+          "event": "attended_show",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Наташа потащила нас на мюзикл"
+            }
+          ],
+          "report": "reviews/source-audit/trips/teruel-2025.json",
+          "note": "Спектакль состоялся; точный театр не назван и не угадывается."
+        },
+        {
+          "id": "teruel",
+          "event": "walked",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 1,
+              "quote": "Теруэль с большим кол-вом памятников"
+            }
+          ],
+          "report": "reviews/source-audit/trips/teruel-2025.json",
+          "note": "Прогулка по городу и явно рассказанные объекты."
+        },
+        {
+          "id": "albarracin",
+          "event": "walked_and_climbed",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "мы с удовольствием побродили по средневековым улочкам"
+            }
+          ],
+          "report": "reviews/source-audit/trips/teruel-2025.json",
+          "note": "Вся группа дошла, включая маму автора. Название отельной смотровой или каждой лестницы не придумывается."
+        }
+      ]
     },
     "content/americas/canada/tobermory-2014/waterfalls/index.md": {
       "source_review": "read",

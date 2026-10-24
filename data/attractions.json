@@ -12611,5 +12611,30 @@
       "законодательное собрание",
       "Alberta Legislature"
     ]
+  },
+  "teruel--catedral-santa-maria": {
+    "title": "Кафедральный собор Санта-Мария-де-Медиавилья",
+    "parent": "teruel",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "Catedral de Santa María de Mediavilla",
+      "собор Теруэля"
+    ]
   }
 }

@@ -3782,6 +3782,49 @@
       "data/attractions.json#disneyland-anaheim"
     ]
   },
+  "montserrat": {
+    "types": [
+      "monastery",
+      "mountain"
+    ],
+    "search_terms": [
+      "монастырь",
+      "монастыри",
+      "монастыря",
+      "монастырей",
+      "аббатство",
+      "аббатства",
+      "monastery",
+      "abbey",
+      "гора",
+      "горы",
+      "холм",
+      "холмы",
+      "mountain",
+      "hill"
+    ],
+    "classification_sources": [
+      "content/places/montserrat/_index.md"
+    ]
+  },
+  "poblet": {
+    "types": [
+      "monastery"
+    ],
+    "search_terms": [
+      "монастырь",
+      "монастыри",
+      "монастыря",
+      "монастырей",
+      "аббатство",
+      "аббатства",
+      "monastery",
+      "abbey"
+    ],
+    "classification_sources": [
+      "content/places/poblet/_index.md"
+    ]
+  },
   "bussaco": {
     "types": [
       "palace",

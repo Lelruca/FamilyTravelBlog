@@ -5006,10 +5006,10 @@
       "title": "\"Музыка и дизайн\"",
       "draft": false,
       "source_sha256_lf": "adfb0b942e017e8484f48498d41decbccdaae7622446916a8b1de3658edefc0e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/barcelona-museums-2025.json"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/bilbao/index.md",
@@ -5162,10 +5162,10 @@
       "title": "\"Монтсеррат\"",
       "draft": false,
       "source_sha256_lf": "dab2b1fdd24fa53194d18d793bb3d4b43f5dafeac5dec39fe7dff468593e140a",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/montserrat-2025.json"
     },
     {
       "file": "content/europe/spain/peniscola-valencia-2024/peniscola/index.md",
@@ -5198,10 +5198,10 @@
       "title": "\"Поблет и Монбланк\"",
       "draft": false,
       "source_sha256_lf": "5e10d6b9989127e10f9f18449a7cbe37172acb0876e751d4cf216a354c2c5b97",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/poblet-2025.json"
     },
     {
       "file": "content/europe/spain/spain-2019/barcelona-arrival/index.md",
@@ -5293,11 +5293,11 @@
       "trip_path": "content/europe/spain/teruel-2025",
       "title": "\"Валенсия, Теруэль и Альбаррасин\"",
       "draft": false,
-      "source_sha256_lf": "e18fd5fb2deb04efc2327bc6f9698213102670f622bc576cd0666be6bbbff70e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "3cb0f04316dba8dbfc40d3976f1175eccb38ac35a745eb3aa1a8e10dfabc2c73",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/teruel-2025.json"
     },
     {
       "file": "content/europe/switzerland/bern-2023/bern/index.md",

@@ -11,6 +11,8 @@ for(const [id,a] of Object.entries(attractions))if(a.place){
  p.classification_sources.push(`data/attractions.json#${id}`);
 }
 const standaloneTypes={
+ 'montserrat':['monastery','mountain'],
+ 'poblet':['monastery'],
  'bussaco':['palace','park','hotel'],
  'casa-de-mateus':['palace','park'],
  'praia-das-catedrais':['beach'],
