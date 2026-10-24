@@ -12318,5 +12318,28 @@
       "Grand Sirenis",
       "Сиренис"
     ]
+  },
+  "london--houses-of-parliament": {
+    "title": "Парламент — Вестминстерский дворец",
+    "parent": "london",
+    "types": [
+      "palace",
+      "civic_building"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "общественное здание",
+      "административное здание",
+      "civic building",
+      "парламент",
+      "Вестминстерский дворец",
+      "Houses of Parliament",
+      "Palace of Westminster"
+    ]
   }
 }

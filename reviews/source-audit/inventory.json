@@ -2401,11 +2401,11 @@
       "trip_path": "content/europe/england/london-2018",
       "title": "\"2018 март - London - мартовские каникулы\"",
       "draft": false,
-      "source_sha256_lf": "320be01b9397b8e8b6c968f957c2dbd49e6ee03538f04560eb533469b1845860",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "4fee8d726f301786406a0d8edf5491e4eb05b71d9db693eaf1977a17a00918be",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
       "file": "content/europe/england/london-2018/conclusions/index.md",
@@ -2414,10 +2414,10 @@
       "title": "\"London - итоги\"",
       "draft": false,
       "source_sha256_lf": "5e10af3032c641a3bb9d04224c43ae00b8471d75c08aba609acc973d9debd041",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
       "file": "content/europe/england/london-2018/excursions/index.md",
@@ -2425,11 +2425,11 @@
       "trip_path": "content/europe/england/london-2018",
       "title": "\"Экскурсии\"",
       "draft": false,
-      "source_sha256_lf": "39a244de36f330ca6e6f79b161a5f24ad341604f2c1b84b3204ed3cbeecf999a",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "0e07faa6f888dc3356e556d1c15992caa961425600c95cb4a6f7d4ea9f7d8bef",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
       "file": "content/europe/england/london-2018/museums/index.md",
@@ -2437,11 +2437,11 @@
       "trip_path": "content/europe/england/london-2018",
       "title": "\"London - музеи\"",
       "draft": false,
-      "source_sha256_lf": "3a6f60706a84b7c1b75ca3f7b5df59630ca792368b04d354baac206c39c384db",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "1be7cd24131dffa8f3c762721e3af30305e45d3ac0881882ad5cf9e66bea86ed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
       "file": "content/europe/england/london-2018/oxford/index.md",
@@ -2450,10 +2450,10 @@
       "title": "\"Oxford\"",
       "draft": false,
       "source_sha256_lf": "f034faa01ad70cacb21fb1e9e1e83a66872468f2da767f899d3a0889d988278d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
       "file": "content/europe/england/london-2018/stylist/index.md",
@@ -2462,10 +2462,10 @@
       "title": "\"London - стилист\"",
       "draft": false,
       "source_sha256_lf": "53e92bf93f52e2dcf3d11f55f5990003d6103b61b7fb96e9707e45b5c866236d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
       "file": "content/europe/england/london-2018/weekend/index.md",
@@ -2473,11 +2473,11 @@
       "trip_path": "content/europe/england/london-2018",
       "title": "\"London - выходные с семьей\"",
       "draft": false,
-      "source_sha256_lf": "0490a3503ab756fdc773452db89122020924da6d58afa03f96c7fb7bec24fbf8",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "5d7d0a19843b889f6c8db2f10c54fb7e5437b69e9f55f0f72acbf8368f764836",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
       "file": "content/europe/england/london-2018/westminster/index.md",
@@ -2486,10 +2486,10 @@
       "title": "\"Вестминстер и британский музей\"",
       "draft": false,
       "source_sha256_lf": "65e9b9e78fb18670c68bc5e443a74926ce6ef82dd23095d801572cc8725e7a5e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
       "file": "content/europe/england/london-2022/hyde-park/index.md",
