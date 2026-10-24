@@ -277,7 +277,8 @@
     "parent": "astorga",
     "types": [
       "cathedral",
-      "church"
+      "church",
+      "museum"
     ],
     "search_terms": [
       "собор",
@@ -292,7 +293,13 @@
       "храмы",
       "базилика",
       "базилики",
-      "church"
+      "church",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "aveiro--muzey-aveyru-monastyr-iisusa": {
@@ -3799,7 +3806,8 @@
     "parent": "leon",
     "types": [
       "cathedral",
-      "church"
+      "church",
+      "museum"
     ],
     "search_terms": [
       "собор",
@@ -3814,7 +3822,13 @@
       "храмы",
       "базилика",
       "базилики",
-      "church"
+      "church",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "leon--muzey-leona": {
@@ -7006,14 +7020,21 @@
     "title": "Погреба Cálem",
     "parent": "porto",
     "types": [
-      "winery"
+      "winery",
+      "museum"
     ],
     "search_terms": [
       "винодельня",
       "винодельни",
       "винный погреб",
       "вино",
-      "winery"
+      "winery",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "porto--sady-khrustalnogo-dvortsa": {
@@ -12396,6 +12417,150 @@
       "Metropol Parasol",
       "Setas",
       "грибы"
+    ]
+  },
+  "baiona--monterreal-fortress": {
+    "title": "Крепость Монтерреаль",
+    "parent": "baiona",
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "Monterreal",
+      "Монреаль",
+      "форт"
+    ]
+  },
+  "braga--bom-jesus-do-monte": {
+    "title": "Святилище Бон-Жезуш-ду-Монти",
+    "parent": "braga",
+    "types": [
+      "church",
+      "temple"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "храма",
+      "храмов",
+      "святилище",
+      "temple",
+      "Bom Jesus do Monte",
+      "Бон-Жезуш"
+    ]
+  },
+  "viana-do-castelo--misericordia": {
+    "title": "Дом милосердия и церковь Мизерикордия",
+    "parent": "viana-do-castelo",
+    "types": [
+      "historic_building",
+      "church"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "Misericórdia",
+      "милосердие"
+    ]
+  },
+  "porto--ramos-pinto": {
+    "title": "Ramos Pinto — погреба и музей",
+    "parent": "porto",
+    "types": [
+      "winery",
+      "museum"
+    ],
+    "search_terms": [
+      "винодельня",
+      "винодельни",
+      "винный погреб",
+      "вино",
+      "winery",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "Ramos Pinto",
+      "Рамуш Пинту",
+      "портвейн"
+    ]
+  },
+  "porto--lello-bookshop": {
+    "title": "Книжный магазин Lello",
+    "parent": "porto",
+    "types": [
+      "bookshop"
+    ],
+    "search_terms": [
+      "книжный магазин",
+      "книжные магазины",
+      "книги",
+      "bookshop",
+      "bookstore",
+      "Lello",
+      "Леллу"
+    ]
+  },
+  "porto--carmo-carmelitas": {
+    "title": "Церкви Карму и Кармелиташ",
+    "parent": "porto",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "Carmo",
+      "Carmelitas"
+    ]
+  },
+  "porto--capela-das-almas": {
+    "title": "Часовня Алмаш",
+    "parent": "porto",
+    "types": [
+      "chapel"
+    ],
+    "search_terms": [
+      "часовня",
+      "часовни",
+      "капелла",
+      "капеллы",
+      "храм",
+      "chapel",
+      "Capela das Almas",
+      "Алмаш"
     ]
   }
 }

@@ -11,6 +11,7 @@ places:
   - combarro
   - cambados
 hero_image: "IMG_9675.JPG"
+attractions: ["baiona--monterreal-fortress"]
 ---
 
 <p>"Медовый месяц" после 25 лет совместной жизни.</p>

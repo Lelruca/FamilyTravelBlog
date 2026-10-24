@@ -9,7 +9,7 @@ auto_gallery: false
 places:
   - porto
 hero_image: "IMG_0949.JPG"
-attractions: ["porto--tserkov-svyatogo-ildefonso","porto--sobor-portu"]
+attractions: ["porto--tserkov-svyatogo-ildefonso","porto--capela-das-almas","porto--ramos-pinto","porto--sobor-portu"]
 ---
 
 <p>С утра пошли смотреть голубые церкви  Порто. Вообще не часто мы так надолго зависаем в одном городе, а тут вот выделили для Порто три дня и вначале расстроились, что много. А под конец всех этих гуляний, как-то втянулись и получили удовольствие. </p>

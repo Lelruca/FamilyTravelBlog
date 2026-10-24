@@ -9,7 +9,7 @@ auto_gallery: false
 places:
   - santiago-de-compostela
 hero_image: "20170625_130329.jpg"
-attractions: ["santiago-de-compostela--sobor-santyago-de-kompostela","santiago-de-compostela--muzey-istorii-galisii","santiago-de-compostela--muzey-palomnichestva","santiago-de-compostela--muzey-sobora-santyago"]
+attractions: ["santiago-de-compostela--muzey-istorii-galisii","santiago-de-compostela--muzey-palomnichestva","santiago-de-compostela--sobor-santyago-de-kompostela","santiago-de-compostela--muzey-sobora-santyago"]
 ---
 
 <p>Сантьяго-де-Компостела - является третьей католической святыней после Рима и Иерусалима. Пилигримы со всего мира совершают камино - или приходят в этот город пешком из разных точек Европы (путь святого Иакова).</p>

@@ -11,7 +11,7 @@ horizontal_facade: "IMG_0202.JPG"
 places:
   - leon
 hero_image: "IMG_0220.JPG"
-attractions: ["leon--leonskiy-sobor","leon--muzey-leona","leon--bazilika-svyatogo-isidora"]
+attractions: ["leon--leonskiy-sobor","leon--leonskiy-sobor","leon--muzey-leona","leon--bazilika-svyatogo-isidora"]
 ---
 
 <p>Ночевка в историческом центре, на 2 этаже над баром очень экзотична. В 3 часа проснулась от истошных женских криков, мужской перебранки и ударов об стены и двери гостиницы.</p>

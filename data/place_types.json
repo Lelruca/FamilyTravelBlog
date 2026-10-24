@@ -3771,6 +3771,81 @@
       "data/attractions.json#disneyland-anaheim"
     ]
   },
+  "bussaco": {
+    "types": [
+      "palace",
+      "park",
+      "hotel"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "отель",
+      "отели",
+      "гостиница",
+      "гостиницы",
+      "hotel"
+    ],
+    "classification_sources": [
+      "content/places/bussaco/_index.md"
+    ]
+  },
+  "casa-de-mateus": {
+    "types": [
+      "palace",
+      "park"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/casa-de-mateus/_index.md"
+    ]
+  },
+  "praia-das-catedrais": {
+    "types": [
+      "beach"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach"
+    ],
+    "classification_sources": [
+      "content/places/praia-das-catedrais/_index.md"
+    ]
+  },
   "monte-da-ravasqueira": {
     "types": [
       "museum",

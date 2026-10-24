@@ -4370,10 +4370,10 @@
       "title": "\"Astorga, Ponferrada\"",
       "draft": false,
       "source_sha256_lf": "f381a3f401cfb185539928f53a303f7f0bc2dcd0a462491633cf74d04b3fe132",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/aveiro/index.md",
@@ -4382,10 +4382,10 @@
       "title": "\"Aveiro\"",
       "draft": false,
       "source_sha256_lf": "54d61ca2bdde298279a2deb52b74e2751dd9985b5e1a32145a5722387b638f48",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/baiona-combarro-cambados/index.md",
@@ -4393,11 +4393,11 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"Baiona, Combarro, Cambados\"",
       "draft": false,
-      "source_sha256_lf": "81a95e4621cfe5d6f7e94e1e90687843bc5c1b38a099739ab71065a35041bb2b",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "2334b6a773c32183ba94a2dc35270734cfdc99368cde1cc4eb930855cf15b31f",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/braganca/index.md",
@@ -4406,10 +4406,10 @@
       "title": "\"Bragança, Casa de Alpajares Enoteca & Spa\"",
       "draft": false,
       "source_sha256_lf": "31cbe7aa75f1e53b21f5e09ff06694c4330dd9d9530e81c9e56d9d1b883b5d1c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/bussaco/index.md",
@@ -4418,10 +4418,10 @@
       "title": "\"Серебряная свадьба (Palace Bussaco)\"",
       "draft": false,
       "source_sha256_lf": "f93342023e03330c97be5150bd5cb279cc37855f98eabadc1d9e84f00f5d7bd4",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/coimbra/index.md",
@@ -4430,10 +4430,10 @@
       "title": "\"Coimbra\"",
       "draft": false,
       "source_sha256_lf": "2491837350f5a23c62293eb6ce68396ab89b2d196845dbcffd77132869e67a3e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/douro/index.md",
@@ -4442,10 +4442,10 @@
       "title": "\"Долина реки Дору\"",
       "draft": false,
       "source_sha256_lf": "70ee1df15c3d2f52892eec6505738453de9bf52eb2cbebf308bf324e86756c8e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/esposende-viana-barcelos/index.md",
@@ -4453,11 +4453,11 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"Esposende, Viana do Castelo, Barcelos\"",
       "draft": false,
-      "source_sha256_lf": "a7596864cdb40180e3319b646b9be0f850d67fe1e56ca8b8667ca32f049b69bb",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "031219e174ab76c98e6621c24573832f68a5088f6e17f3c7d4ae4c78b5f92160",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/guimaraes-braga/index.md",
@@ -4465,11 +4465,11 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"Guimarães, Braga\"",
       "draft": false,
-      "source_sha256_lf": "231e5a9bbdb05862c99a602a21a168aa9c1aded502db2475c9b464a7f93ccfbb",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "558654bead4f61bb3a84ea28948f4459bc81b724d218532c5bc8ed32c7fd6b47",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/lamego/index.md",
@@ -4478,10 +4478,10 @@
       "title": "\"Lamego\"",
       "draft": false,
       "source_sha256_lf": "bd7c71500be9e2ca31407d42311f97f249cbfad886be757b537c79d10be42a5e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/leon/index.md",
@@ -4489,11 +4489,11 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"León\"",
       "draft": false,
-      "source_sha256_lf": "af87abd3a40441fb21459f8e18fbdd9cc6c80f2ee522eac0037154e4f1bbb383",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "20dbee686db7c9ba28278694f6b2c352131dbd2db00a0598a9feb95ff67006fb",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/oviedo/index.md",
@@ -4501,11 +4501,11 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"Oviedo\"",
       "draft": false,
-      "source_sha256_lf": "1ebfea4d0961355ada8e833cc0beaaba6f8bf56a170ee964f6fb114534ea0620",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "3a53ddc84bfcfc3b6bbd4c30fb6de5d9887e76ef5961fcb63630d4de8cf5528d",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/porto-1/index.md",
@@ -4514,10 +4514,10 @@
       "title": "\"Porto — день 1\"",
       "draft": false,
       "source_sha256_lf": "a2377cb0ed4e5c02ee13c61905d9c668d98425e3ba68c437b9b3a7f3b16df89f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/porto-2/index.md",
@@ -4525,11 +4525,11 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"Porto — день 2\"",
       "draft": false,
-      "source_sha256_lf": "a557038922d704709b7cc2b08256ed81c9a442039144ad1b48460be88cb5186c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "bc1ac3c2dc9135435827524d9cfcf7e5ba51669caedaff0696fdbc70619e038a",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/porto-3/index.md",
@@ -4537,11 +4537,11 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"Porto — день 3\"",
       "draft": false,
-      "source_sha256_lf": "3cb8a5be7bbd4f17bc958e476d37d4aad13d83407e33b1fb0f278f70f084b504",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "642217e905acef80e280931f4959081bf20a5df7f5cd3b643b3ac449ea53db80",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/praia-das-catedrais-gijon/index.md",
@@ -4550,10 +4550,10 @@
       "title": "\"Praia das Catedrais, Cudillero, Gijón\"",
       "draft": false,
       "source_sha256_lf": "e65e0ec66abf12ceebdb8c4e6393fb2ec72c53e69967b0bcd996b2758d1a1d13",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/santiago-de-compostela/index.md",
@@ -4561,11 +4561,11 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"Santiago de Compostela\"",
       "draft": false,
-      "source_sha256_lf": "a81495deddce7b61b99cf26f70733f74ecec4ce14f2dc45f69615f5f6877f6c3",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "6d4c5d1b82e8d9a94b886bb603415298c1ed208f7dba181f29002860ebe191cc",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/summary/index.md",
@@ -4574,10 +4574,10 @@
       "title": "\"Итоги\"",
       "draft": false,
       "source_sha256_lf": "0ba9a44028a39f1d6dd79c24ca1ce023ef1dc4a17443ee8b1fb57857e8f8d972",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
       "file": "content/europe/portugal/iberia-2022/algarve-rest/index.md",

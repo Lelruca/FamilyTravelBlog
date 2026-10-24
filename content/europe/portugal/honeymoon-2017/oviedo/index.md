@@ -10,7 +10,7 @@ places:
   - oviedo
 plain_body_bold: true
 hero_image: "IMG_9947.JPG"
-attractions: ["oviedo--bazilika-san-khuan-el-real","oviedo--muzey-izobrazitelnykh-iskusstv-asturii"]
+attractions: ["oviedo--bazilika-san-khuan-el-real","oviedo--kafedralnyy-sobor-ovedo","oviedo--muzey-izobrazitelnykh-iskusstv-asturii"]
 ---
 
 <p>Сегодня у нас в планах были "пики Европы", смотреть в пещере как сыр делают (Cueva-exposicón Cabrales) и посетить колыбель реконкисты (Covadonga). Но это 250 км круг, а прогноз показывал проливной дождь весь день! Мы плюнули на планы и поехали в место следующей дислокации, город Овьедо, который всего в 50 км. Правда по дороге наконец заехали в продуктовый, закупились соками, фруктами и орешками чтобы пережить тяжелые времена сиесты. Дальше я планировала если дождь, то сходить в соседний торговый центр на шопинг. Но приехали - моросило и мы пошли смотреть город.</p>

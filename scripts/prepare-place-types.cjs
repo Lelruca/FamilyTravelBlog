@@ -11,6 +11,9 @@ for(const [id,a] of Object.entries(attractions))if(a.place){
  p.classification_sources.push(`data/attractions.json#${id}`);
 }
 const standaloneTypes={
+ 'bussaco':['palace','park','hotel'],
+ 'casa-de-mateus':['palace','park'],
+ 'praia-das-catedrais':['beach'],
  'monte-da-ravasqueira':['museum','winery'],
  'cabo-sao-vicente':['cape'],
  'el-escorial':['monastery','palace','museum'],
