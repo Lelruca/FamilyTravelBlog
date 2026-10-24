@@ -7,14 +7,11 @@ city: "Madrid"
 places:
   - madrid
   - prado-museum
-  - san-francisco-el-grande
-  - almudena-cathedral
-  - plaza-mayor-madrid
 hero_image: "20191226_151218.jpg"
 date: "2019-12-26"
 auto_gallery: false
 draft: false
-attractions: ["prado-museum","san-francisco-el-grande","almudena-cathedral","plaza-mayor-madrid"]
+attractions: ["prado-museum","madrid--casa-museo-lope-de-vega"]
 ---
 <p>Осознавать то, что я теперь житель провинции я начала в Барселоне, когда три дня перемещения в людских потоках явно были для меня в новинку. Но я сделала вид, что "ничего такого особенного".</p>
 

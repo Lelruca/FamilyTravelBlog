@@ -5209,11 +5209,11 @@
       "trip_path": "content/europe/spain/spain-2019",
       "title": "\"Барселона: первые шаги\"",
       "draft": false,
-      "source_sha256_lf": "a091df4f290d671ab0c27728ec3b75a28dac930f324311f036506bbfe8b588ac",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "4b65f4bf761375e5dcfc5292c25f684be7de45d2cc51e660563bfff1ebb53f19",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/spain-2019.json"
     },
     {
       "file": "content/europe/spain/spain-2019/gaudi-modernisme/index.md",
@@ -5221,11 +5221,11 @@
       "trip_path": "content/europe/spain/spain-2019",
       "title": "\"Барселона: Гауди и модерн\"",
       "draft": false,
-      "source_sha256_lf": "74d578c2374d3c33dc8c1baebe9d8872f6f02c3bf7cafb6bacd31b171029bada",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "e630d757bcbd3f5ec482f93078f62f45e54fb6e861f93aedd268d4e403b3f7c3",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/spain-2019.json"
     },
     {
       "file": "content/europe/spain/spain-2019/gothic-quarter/index.md",
@@ -5233,11 +5233,11 @@
       "trip_path": "content/europe/spain/spain-2019",
       "title": "\"Барселона: Готический квартал\"",
       "draft": false,
-      "source_sha256_lf": "1900ab5cce6560b23e08d3e60cd95f8b7daaf1c32736cd1fc5249fdd798f5c1a",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "bb3e94f00e318ae8bb6e8b11163f71315fc6463a00d6b8887767a25b2adca8a0",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/spain-2019.json"
     },
     {
       "file": "content/europe/spain/spain-2019/madrid/index.md",
@@ -5245,11 +5245,11 @@
       "trip_path": "content/europe/spain/spain-2019",
       "title": "\"Мадрид\"",
       "draft": false,
-      "source_sha256_lf": "efb052f1c47f10ad95731b4a4843cac306de49491c04cbdedd4299d927680e92",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "12af74bbac6e89d672ebb6bcdb0a20a7fd096b7205a4fea529300af02020ff34",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/spain-2019.json"
     },
     {
       "file": "content/europe/spain/spain-2019/sagrada-sant-pau/index.md",
@@ -5258,10 +5258,10 @@
       "title": "\"Барселона: Саграда Фамилия и Сант-Пау\"",
       "draft": false,
       "source_sha256_lf": "aa5563aa0cc8f969fb55dffe6e49b78c8b10c0af19ecd5ad983197ae3ae21b6d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/spain-2019.json"
     },
     {
       "file": "content/europe/spain/spain-2019/torrevieja/index.md",
@@ -5270,10 +5270,10 @@
       "title": "\"Торревьеха: Рождество с семьёй\"",
       "draft": false,
       "source_sha256_lf": "26c79c9f0dd0e06585b41883df8e3494af78aa59a5396e62e9e8afee0c3242c6",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/spain-2019.json"
     },
     {
       "file": "content/europe/spain/spain-2019/valencia/index.md",
@@ -5282,10 +5282,10 @@
       "title": "\"Валенсия\"",
       "draft": false,
       "source_sha256_lf": "a0bd79639bc30040a3590acce8a2d6b4f958d4a262eed3cfe812a586ccfdb959",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/spain-2019.json"
     },
     {
       "file": "content/europe/spain/teruel-2025/teruel-albarracin/index.md",

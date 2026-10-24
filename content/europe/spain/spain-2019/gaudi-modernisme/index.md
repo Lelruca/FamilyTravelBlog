@@ -7,13 +7,11 @@ city: "Barcelona"
 places:
   - barcelona
   - palau-guell
-  - casa-batllo
-  - casa-mila
 hero_image: "20191222_132532.jpg"
 date: "2019-12-22"
 auto_gallery: false
 draft: false
-attractions: ["palau-guell","casa-batllo","casa-mila"]
+attractions: ["palau-guell"]
 ---
 <p> Гауди меня честно потряс!</p>
 

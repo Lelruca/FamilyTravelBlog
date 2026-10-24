@@ -13074,6 +13074,373 @@
       "visits": [],
       "place_visits": []
     },
+    "content/europe/spain/spain-2019/barcelona-arrival/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "barcelona",
+          "event": "walked",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Первый - Барселона."
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Начало поездки трёх поколений женщин, Сергей только советовал маршрут из другой поездки."
+        }
+      ]
+    },
+    "content/europe/spain/spain-2019/gaudi-modernisme/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "palau-guell",
+          "event": "entered_photo_story",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "photo": "gaudi-modernisme/20191222_122209.jpg"
+            },
+            {
+              "photo": "gaudi-modernisme/20191222_125201.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Самостоятельная именованная серия из 9 кадров дворца; точечно проверены фасад и интерьер. Это большой фотоэпизод, а не один фон."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "barcelona",
+          "event": "architectural_walk",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Гауди меня честно потряс!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Рассказ о восприятии архитектуры, не доказательство входа в каждый дом."
+        }
+      ]
+    },
+    "content/europe/spain/spain-2019/gothic-quarter/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "barri-gotic",
+          "event": "walked",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "исторический центр"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Средневековые улицы и архитектура прямо раскрыты рассказом."
+        },
+        {
+          "id": "barcelona-cathedral",
+          "event": "exterior_photo_story",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "photo": "gothic-quarter/20191222_092134.jpg"
+            },
+            {
+              "source_file": "content/europe/spain/spain-2019/gothic-quarter/index.md",
+              "source_sha256": "1ab28538dd4f023c5c5ed7a7b9bf0f3524f2f159c5bfa8b0e81b34475d5bde0e",
+              "quote": "Кафедральный собор"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Большая отдельная серия собора, прилегающей рождественской ярмарки и деталей прогулки. Проверен характерный кадр у стен; вход внутрь не приписывается."
+        },
+        {
+          "id": "palau-generalitat",
+          "event": "entered_photo_story",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "photo": "gothic-quarter/20191222_102455.jpg"
+            },
+            {
+              "source_file": "content/europe/spain/spain-2019/gothic-quarter/index.md",
+              "source_sha256": "1ab28538dd4f023c5c5ed7a7b9bf0f3524f2f159c5bfa8b0e81b34475d5bde0e",
+              "quote": "Дворец Женералитата"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Большой именованный фотоэпизод площади и дворца из 9 кадров, характерный кадр подтверждает внутренний двор. Каждая колонна и зал не точка."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/spain/spain-2019/sagrada-sant-pau/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "sagrada-familia",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "А Саграда - сильная, очень сильная!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Самостоятельное содержательное впечатление автора и большая серия; ночные проходные кадры не дублируют это посещение в первой главе."
+        },
+        {
+          "id": "sant-pau",
+          "event": "exterior_photo_story",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "photo": "sagrada-sant-pau/20191223_121159.jpg"
+            },
+            {
+              "source_file": "content/europe/spain/spain-2019/sagrada-sant-pau/index.md",
+              "source_sha256": "41bfdc5a04f71be5854a2b4bafd840253e8a6d59efb2667a5d4b62905e6d4ec8",
+              "quote": "Госпиталь Сант-Пау"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Самостоятельная именованная серия из 10 кадров; точечная проверка фасада. Вход в музейную экспозицию из внешнего осмотра не выводится."
+        },
+        {
+          "id": "palau-musica-catalana",
+          "event": "exterior_photo_story",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "photo": "sagrada-sant-pau/20191222_152059.jpg"
+            },
+            {
+              "source_file": "content/europe/spain/spain-2019/sagrada-sant-pau/index.md",
+              "source_sha256": "41bfdc5a04f71be5854a2b4bafd840253e8a6d59efb2667a5d4b62905e6d4ec8",
+              "quote": "Дворец каталонской музыки"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Самостоятельная именованная серия из 7 кадров. Подтверждён внешний осмотр; концерт и осмотр зала не приписываются."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/spain/spain-2019/valencia/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "valencia--sady-turii",
+          "event": "walked",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Посередине города огромный парк (русло отведенной реки)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Прямо описанный парк и городской маршрут."
+        },
+        {
+          "id": "ciutat-arts-ciencies",
+          "event": "exterior_complex",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Тут же выстроен парк искусств"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Описана архитектура комплекса; в оперу, планетарий, музей науки и океанариум по этому тексту не входили."
+        },
+        {
+          "id": "valencia-cathedral",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Кафедральный собор показался мне"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Внутренние фрески и часовня Грааля раскрыты прямо в рассказе. Часовня — часть одного собора."
+        },
+        {
+          "id": "bioparc-valencia",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Зоопарк классный конечно"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Посетили по рекомендации Сергея; сам он в этой поездке не присутствовал."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "valencia",
+          "event": "guided_walk",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "мне тоже очень понравился город!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Три женщины; упоминание февральского посещения мужа не означает присутствие Сергея сейчас."
+        }
+      ]
+    },
+    "content/europe/spain/spain-2019/torrevieja/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "torrevieja",
+          "event": "family_christmas_and_walk",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_file": "content/europe/spain/spain-2019/torrevieja/index.md",
+              "source_sha256": "b471973a910ff1518d8ad38c4f967f528845fa97881008d715a7b50726ae3e3e",
+              "quote": "Мой брат уже давно купил себе"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Прочитан авторский рассказ, добавленный на страницу отдельно от трёх постов. Независимая исходная запись этого дополнения в найденном HTML отсутствует; ограничение сохранено."
+        }
+      ]
+    },
+    "content/europe/spain/spain-2019/madrid/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "prado-museum",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Мы с мамой целый день отдали музею Прадо!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Целый день с аудиогидом только Леля и Ома. Наташа проводила самостоятельную программу."
+        },
+        {
+          "id": "madrid--casa-museo-lope-de-vega",
+          "event": "entered_french_guided_tour",
+          "participants": [
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "В дом-музей Лопа де Вега"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Наташа сходила с франкоязычной группой; автор с мамой отказались из-за языка. Это состоявшийся отдельный музейный визит, ранее пропущенный."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "madrid",
+          "event": "city_visit_and_tour_bus",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "кататься по городу на туристическом автобусе"
+            }
+          ],
+          "report": "reviews/source-audit/trips/spain-2019.json",
+          "note": "Автобусный обзор состоялся в первый день; дальнейшую программу выполнили, а не отменили из-за очередей."
+        }
+      ]
+    },
     "content/europe/spain/teruel-2025/teruel-albarracin/index.md": {
       "source_review": "read",
       "visits": [

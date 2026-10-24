@@ -450,48 +450,6 @@
       "science center"
     ]
   },
-  "barcelona--ploshchad-ispanii": {
-    "title": "Площадь Испании",
-    "parent": "barcelona",
-    "types": [
-      "square"
-    ],
-    "search_terms": [
-      "площадь",
-      "площади",
-      "площадей",
-      "square",
-      "plaza"
-    ]
-  },
-  "barcelona--ploshchad-katalonii": {
-    "title": "Площадь Каталонии",
-    "parent": "barcelona",
-    "types": [
-      "square"
-    ],
-    "search_terms": [
-      "площадь",
-      "площади",
-      "площадей",
-      "square",
-      "plaza"
-    ]
-  },
-  "barcelona--ploshchad-sant-zhaume": {
-    "title": "Площадь Сант-Жауме",
-    "parent": "barcelona",
-    "types": [
-      "square"
-    ],
-    "search_terms": [
-      "площадь",
-      "площади",
-      "площадей",
-      "square",
-      "plaza"
-    ]
-  },
   "barcelona-cathedral": {
     "title": "Кафедральный собор",
     "parent": "barcelona",
@@ -12683,6 +12641,31 @@
       "Meijiawu",
       "Longjing",
       "Лунцзин"
+    ]
+  },
+  "madrid--casa-museo-lope-de-vega": {
+    "title": "Дом-музей Лопе де Вега",
+    "parent": "madrid",
+    "types": [
+      "museum",
+      "historic_house"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa",
+      "Lope de Vega",
+      "Лопе де Вега"
     ]
   }
 }
