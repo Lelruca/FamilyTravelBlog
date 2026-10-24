@@ -2362,7 +2362,10 @@
       "живопись",
       "картины",
       "gallery",
-      "art"
+      "art",
+      "Палатинская галерея",
+      "Галерея Палатина",
+      "Galleria Palatina"
     ],
     "classification_sources": [
       "data/attractions.json#palazzo-pitti"

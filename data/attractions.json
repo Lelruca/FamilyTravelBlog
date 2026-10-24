@@ -6485,7 +6485,10 @@
       "живопись",
       "картины",
       "gallery",
-      "art"
+      "art",
+      "Палатинская галерея",
+      "Галерея Палатина",
+      "Galleria Palatina"
     ]
   },
   "palazzo-reale-torino": {
@@ -12904,6 +12907,26 @@
       "Karlův most",
       "Charles Bridge",
       "Карлов мост"
+    ]
+  },
+  "florence--i-mosaici-di-lastrucci": {
+    "title": "Мастерская мозаики I Mosaici di Lastrucci",
+    "parent": "florence",
+    "types": [
+      "factory"
+    ],
+    "search_terms": [
+      "фабрика",
+      "фабрики",
+      "завод",
+      "мануфактура",
+      "производство",
+      "factory",
+      "мастерская",
+      "мастерские",
+      "мозаика",
+      "флорентийская мозаика",
+      "I Mosaici di Lastrucci"
     ]
   }
 }

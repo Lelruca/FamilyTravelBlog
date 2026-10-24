@@ -3829,11 +3829,11 @@
       "trip_path": "content/europe/italy/florence-2025",
       "title": "\"Флорентийская мозаика\"",
       "draft": false,
-      "source_sha256_lf": "e8de7740d1cbe8742e2ebd91604ec3361963626aa3711d90f3d3d02111723748",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "7161f1c8d6fa1e658ef13dda4a1e44f980e6fe4c8488ac69488537578b49ed8d",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/florence-2025.json"
     },
     {
       "file": "content/europe/italy/florence-2025/free-museum-day/index.md",
@@ -3842,10 +3842,10 @@
       "title": "\"День бесплатных музеев\"",
       "draft": false,
       "source_sha256_lf": "8a2c6971df8c2febbaa563c18219fc2d5d4480d0e4412279d4fb03bec9a082eb",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/florence-2025.json"
     },
     {
       "file": "content/europe/italy/florence-2025/san-marco-uffizi/index.md",
@@ -3854,10 +3854,10 @@
       "title": "\"Сан-Марко и Уффици\"",
       "draft": false,
       "source_sha256_lf": "ff5465a0fc7638cc2afed2989791f4268e7a468e88ec91c886f3401c67bc0516",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/florence-2025.json"
     },
     {
       "file": "content/europe/italy/italy-2022/accademia-stibbert/index.md",

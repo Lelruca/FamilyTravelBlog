@@ -4284,6 +4284,182 @@
       "visits": [],
       "place_visits": []
     },
+    "content/europe/italy/florence-2025/san-marco-uffizi/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "san-marco-florence",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 45,
+              "source_paragraph": 5,
+              "quote": "Сегодня из нового сходили в монастырь Cан Марко"
+            }
+          ],
+          "report": "reviews/source-audit/trips/florence-2025.json",
+          "note": "Осмотр фресок келий; отдельные фрески не новые объекты."
+        },
+        {
+          "id": "uffizi",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 45,
+              "source_paragraph": 6,
+              "quote": "большую часть дня провели в Уффицы"
+            }
+          ],
+          "report": "reviews/source-audit/trips/florence-2025.json",
+          "note": "Реальное продолжительное посещение; галерея автопортретов учтена в составе музея."
+        },
+        {
+          "id": "piazzale-michelangelo",
+          "event": "walked_viewpoint",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 45,
+              "source_paragraph": 7,
+              "quote": "пешком подняться на площадь к Давиду"
+            }
+          ],
+          "report": "reviews/source-audit/trips/florence-2025.json",
+          "note": "Прямо описаны подъём и закат; копия Давида не превращается в посещение Галереи Академии в этот день."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/italy/florence-2025/free-museum-day/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "palazzo-pitti",
+          "event": "entered_palatine_gallery",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 44,
+              "source_paragraph": 2,
+              "quote": "сегодня мы были в другой художественной галерее — Палатина."
+            }
+          ],
+          "report": "reviews/source-audit/trips/florence-2025.json",
+          "note": "Визит конкретно в Палатинскую галерею, не во все музеи Питти и не в сады Боболи. Поисковые слова дополнены названием галереи."
+        },
+        {
+          "id": "galleria-accademia",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 44,
+              "source_attachment_path": "attachments.0.data.5.media.description",
+              "quote": "Поздний Микеланджело в Галерее Академии - почему-то меня он очень цепляет...."
+            }
+          ],
+          "report": "reviews/source-audit/trips/florence-2025.json",
+          "note": "Посещение подтверждено авторским описанием осмотренной скульптуры и несколькими подписями, а не распознаванием случайного фона."
+        },
+        {
+          "id": "medici-chapels",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 44,
+              "source_paragraph": 10,
+              "quote": "Зашли конечно в капеллу Медичи"
+            }
+          ],
+          "report": "reviews/source-audit/trips/florence-2025.json",
+          "note": "Прямой рассказ и серия содержательных подписей; мозаики и гробницы не отдельные маркеры."
+        },
+        {
+          "id": "bargello",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 44,
+              "source_attachment_path": "attachments.0.data.18.media.description",
+              "quote": "Музей Барджелло — ранний Микеланджело, «Бахус»."
+            }
+          ],
+          "report": "reviews/source-audit/trips/florence-2025.json",
+          "note": "Конкретный экспонат назван автором в музее, есть ещё две музейные подписи. Основной абзац музея не называет, но источник посещение подтверждает."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/italy/florence-2025/florentine-mosaic/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "opificio-pietre-dure",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 43,
+              "source_paragraph": 0,
+              "quote": "Музей Флорентийской мозаики."
+            }
+          ],
+          "report": "reviews/source-audit/trips/florence-2025.json",
+          "note": "Большой личный рассказ об экспозиции и технологии; это отдельный музей, не мастерская из следующего абзаца."
+        },
+        {
+          "id": "florence--i-mosaici-di-lastrucci",
+          "event": "visited_workshop",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 43,
+              "source_paragraph": 5,
+              "quote": "Мы и зашли, там мастер сидит и работает"
+            },
+            {
+              "source_file": "content/europe/italy/florence-2025/florentine-mosaic/index.md",
+              "source_sha256": "6fe4cc6fc580abe65a9563aceceb77960bfd654c0611cb9e6910ad235c769da6",
+              "quote": "I Mosaici di Lastrucci"
+            }
+          ],
+          "report": "reviews/source-audit/trips/florence-2025.json",
+          "note": "Самостоятельный развёрнутый рассказ об экскурсии действующего мастера. Точное имя напечатано в текущей главе отдельной заметкой; не названо музеем."
+        }
+      ],
+      "place_visits": []
+    },
     "content/europe/france/france-2012/planning/index.md": {
       "source_review": "read",
       "visits": [],
