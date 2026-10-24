@@ -1537,11 +1537,11 @@
       "trip_path": "content/americas/usa/chicago-2017",
       "title": "\"День 1. Знакомство с Чикаго\"",
       "draft": false,
-      "source_sha256_lf": "38da6581de71771af7ee9a75934f28643388ac9165ac1cc9b7fd8ff591d15a2c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "99e6acdd3a4fdcc0c71affb00e8dd1d417ac2574a3dd0fef90ccec3e2bb3b8e1",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/chicago-2017.json"
     },
     {
       "file": "content/americas/usa/chicago-2017/day-2/index.md",
@@ -1549,11 +1549,11 @@
       "trip_path": "content/americas/usa/chicago-2017",
       "title": "\"День 2. Круиз и прогулки по городу\"",
       "draft": false,
-      "source_sha256_lf": "57fef1c77ab33f3292846c464a408e68b955ea13faece4e13bb24c303145dac2",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "7bcff8040365b054708ddd0a805cc2113836fec44d76b724630a4d345b25cc0e",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/chicago-2017.json"
     },
     {
       "file": "content/americas/usa/chicago-2017/day-3/index.md",
@@ -1562,10 +1562,10 @@
       "title": "\"День 3. Художественный музей\"",
       "draft": false,
       "source_sha256_lf": "9f11b7cadb977e5ee3e871a34d57b4f76f1012f805611447f3f5933b7d6052f9",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/chicago-2017.json"
     },
     {
       "file": "content/americas/usa/detroit-windsor-2016/detroit/index.md",

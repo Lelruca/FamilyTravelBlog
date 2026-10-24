@@ -4289,5 +4289,13 @@
     "country_code": "US",
     "source": "https://www.openstreetmap.org/relation/112100",
     "query": "Лонг-Бич, California, USA; municipal geographic term"
+  },
+  "st-joseph-mi": {
+    "lat": 42.10976,
+    "lon": -86.48002,
+    "name": "St. Joseph, Michigan",
+    "country_code": "US",
+    "source": "https://gateway.okhistory.org/explore/locations/p13982/",
+    "query": "Saint Joseph, Michigan; verified geographic record"
   }
 }

@@ -12284,5 +12284,35 @@
       "Manneken Pis",
       "писающий мальчик"
     ]
+  },
+  "chicago--harold-washington-library": {
+    "title": "Библиотека Гарольда Вашингтона",
+    "parent": "chicago",
+    "types": [
+      "library"
+    ],
+    "search_terms": [
+      "библиотека",
+      "библиотеки",
+      "библиотек",
+      "книги",
+      "library",
+      "Harold Washington Library"
+    ]
+  },
+  "chicago--architecture-cruise": {
+    "title": "Архитектурный круиз по Чикаго",
+    "parent": "chicago",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "архитектурный круиз",
+      "прогулка на кораблике"
+    ]
   }
 }
