@@ -4742,10 +4742,10 @@
       "title": "\"Монастырь капуцинов и мыс Рока\"",
       "draft": false,
       "source_sha256_lf": "d406aa985fd044ff3c2da5c006119084331349b1566c089140bc51b5f4dcbe4b",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-2024.json"
     },
     {
       "file": "content/europe/portugal/portugal-2024/lisbon-belem/index.md",
@@ -4754,10 +4754,10 @@
       "title": "\"Лиссабон и Белем\"",
       "draft": false,
       "source_sha256_lf": "91ffd820217cbf8c6d6909063d3a15da432307c59efdf18b7c0ee894478f1593",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-2024.json"
     },
     {
       "file": "content/europe/portugal/portugal-2024/monserrate-palace/index.md",
@@ -4766,10 +4766,10 @@
       "title": "\"Синтра: дворец Монсеррат\"",
       "draft": false,
       "source_sha256_lf": "55248cff01981110bd59c90594423ce62b84dee6781e36157e1bbf5571ba732a",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-2024.json"
     },
     {
       "file": "content/europe/portugal/portugal-2024/monserrate-park/index.md",
@@ -4778,10 +4778,10 @@
       "title": "\"Синтра: парк Монсеррат\"",
       "draft": false,
       "source_sha256_lf": "866b5c2d6ca1b0f6d2d72835ec052c7872d9b79237a11c1e04e694c8a0763767",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-2024.json"
     },
     {
       "file": "content/europe/portugal/portugal-2024/setubal/index.md",
@@ -4790,10 +4790,10 @@
       "title": "\"Сетубал\"",
       "draft": false,
       "source_sha256_lf": "8c99b79407b40d33f355e3ad8b376c02fcc5d8702831e55daa76c68034a78a43",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/portugal-2024.json"
     },
     {
       "file": "content/europe/portugal/portugal-spain-2016/albufeira/index.md",

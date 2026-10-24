@@ -12339,6 +12339,149 @@
         }
       ]
     },
+    "content/europe/portugal/portugal-2024/lisbon-belem/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "belem",
+          "event": "district_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 85,
+              "source_paragraph": 0,
+              "quote": "А субботу провели в Балеме"
+            }
+          ],
+          "report": "reviews/source-audit/trips/portugal-2024.json",
+          "note": "Рассказ о районе, отдельные фоновые здания из фото не добавляются."
+        },
+        {
+          "id": "museu-marinha",
+          "event": "entered",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 85,
+              "source_paragraph": 0,
+              "quote": "И заново сходили в морской музей."
+            }
+          ],
+          "report": "reviews/source-audit/trips/portugal-2024.json",
+          "note": "Повторное действительное посещение в этой поездке. Первая усталая экскурсия относится к другой поездке."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "lisbon",
+          "event": "city_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 85,
+              "source_paragraph": 0,
+              "quote": "первый вечер гуляли просто по городу"
+            }
+          ],
+          "report": "reviews/source-audit/trips/portugal-2024.json",
+          "note": "Реальная прогулка, не посещение всех лиссабонских музеев по обобщённой фразе о прежних поездках."
+        }
+      ]
+    },
+    "content/europe/portugal/portugal-2024/setubal/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "setubal",
+          "event": "city_exploration",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 84,
+              "source_paragraph": 0,
+              "quote": "Одной из целей нашего \"залета в Португалию\" было изучения города Сетубал."
+            }
+          ],
+          "report": "reviews/source-audit/trips/portugal-2024.json",
+          "note": "Исторический центр, бульвар, пляж, кафе и молы описаны как городской опыт; отдельные имена не подставляются."
+        }
+      ]
+    },
+    "content/europe/portugal/portugal-2024/monserrate-park/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "monserrate",
+          "event": "walked_park",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 83,
+              "source_paragraph": 2,
+              "quote": "Начали с парка Монссерат"
+            }
+          ],
+          "report": "reviews/source-audit/trips/portugal-2024.json",
+          "note": "Одна часть общего комплекса, отдельно описанная в главе; прогулка с гидом. Полный состав не перенесён из другой поездки."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/portugal/portugal-2024/monserrate-palace/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "monserrate",
+          "event": "entered_palace",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 82,
+              "source_paragraph": 2,
+              "quote": "Это наш с Серегой 2 визит в Монсеррат"
+            }
+          ],
+          "report": "reviews/source-audit/trips/portugal-2024.json",
+          "note": "Реальный второй по счёту жизненный визит Лели и Сергея, тот же комплекс и день, что глава парка; не две разные поездки. Полный состав дополнительных спутников неизвестен."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/portugal/portugal-2024/capuchos-cabo-da-roca/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "capuchos-convent",
+          "event": "guided_interior_visit",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 81,
+              "source_paragraph": 0,
+              "quote": "Совершенно новым для нас всех местом в Синтре стал монастырь капуцинов."
+            }
+          ],
+          "report": "reviews/source-audit/trips/portugal-2024.json",
+          "note": "Рассказ о посещении с гидом; кельи, столовая и пробковая отделка описаны внутри комплекса."
+        },
+        {
+          "id": "cabo-da-roca",
+          "event": "visited_cape",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 81,
+              "source_paragraph": 6,
+              "quote": "наконец доехали до самой западной точки Европы - Мыс Рока"
+            }
+          ],
+          "report": "reviews/source-audit/trips/portugal-2024.json",
+          "note": "Прямое подтверждение приезда, а не план. Подъём в маяк и другие платные посещения не приписаны."
+        }
+      ],
+      "place_visits": []
+    },
     "content/europe/portugal/portugal-spain-2016/belem/index.md": {
       "source_review": "read",
       "visits": [
