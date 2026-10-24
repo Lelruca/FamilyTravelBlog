@@ -1826,10 +1826,10 @@
       "title": "\"Поехали!\"",
       "draft": false,
       "source_sha256_lf": "f72bd32d4046991bbf2db138b69205e784f29b2793a96ede68bcf8532047427c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
       "file": "content/asia/china/china-2019/disney-conclusion/index.md",
@@ -1838,10 +1838,10 @@
       "title": "\"Шанхай - Диснейленд и и заключение\"",
       "draft": false,
       "source_sha256_lf": "d07da3119ead82c17de042adfecaadeccf07cf0921328ec2eea17adfbe2613f0",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
       "file": "content/asia/china/china-2019/forbidden-city/index.md",
@@ -1850,10 +1850,10 @@
       "title": "\"Пекин - Запретный город (Гагун)\"",
       "draft": false,
       "source_sha256_lf": "9b875e68b5c91ae28d92fc5746aab5e2bf553531fb3a82917b4942464cd8a032",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
       "file": "content/asia/china/china-2019/great-wall-summer-palace/index.md",
@@ -1862,10 +1862,10 @@
       "title": "\"Пекин - Китайская стена - Летний дворец\"",
       "draft": false,
       "source_sha256_lf": "d78e24e3caeffc886f0c33ca0b33fded29c6a2c6ae026c319e701953d97c6408",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
       "file": "content/asia/china/china-2019/hangzhou/index.md",
@@ -1873,11 +1873,11 @@
       "trip_path": "content/asia/china/china-2019",
       "title": "\"Ханчжоу - шелк, чай и многое другое\"",
       "draft": false,
-      "source_sha256_lf": "19d4603ff2418c8c22eba4b7b88c02e313d18771d3b6e2ffa16091285ac493ec",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "88f3573742afa37d9afe96dff7ce2e3f013d8619535654d54232139106245761",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
       "file": "content/asia/china/china-2019/lama-confucius-museum/index.md",
@@ -1886,10 +1886,10 @@
       "title": "\"Пекин - Yonghegong Lama Temple - храм Конфуция - Национальный музей - Красный театр\"",
       "draft": false,
       "source_sha256_lf": "432714df9734f753dae44b5e41fdefb8f3ba3eb9a717b6cdab3b18dd6cb07c65",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
       "file": "content/asia/china/china-2019/longmen-grottoes/index.md",
@@ -1898,10 +1898,10 @@
       "title": "\"Лоян - Гроты Лунмэнь\"",
       "draft": false,
       "source_sha256_lf": "195a9a6190e2196e935a22305ce479f05ea81b5010846ed3598e6e2c48a88948",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
       "file": "content/asia/china/china-2019/planning/index.md",
@@ -1910,10 +1910,10 @@
       "title": "\"Планирование\"",
       "draft": false,
       "source_sha256_lf": "0f4978f48b60986199871286eac900ffe76b140f433da2ab3847655827ac132d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
       "file": "content/asia/china/china-2019/qianmen-duck/index.md",
@@ -1922,10 +1922,10 @@
       "title": "\"Пекин - улица Цяньмэн - пекинская утка\"",
       "draft": false,
       "source_sha256_lf": "02a19768b6f534c0393f5f0c35e3c2ad54fba48868d4ccd22239fde0c86c4fd5",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
       "file": "content/asia/china/china-2019/shanghai-museum-bund/index.md",
@@ -1934,10 +1934,10 @@
       "title": "\"Шанхай - музей и набережная\"",
       "draft": false,
       "source_sha256_lf": "541fcce553219956d53ae84e042981f35c1b06391b095c5eb00df0aea563f25c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
       "file": "content/asia/china/china-2019/shanghai/index.md",
@@ -1946,10 +1946,10 @@
       "title": "\"Шанхай - первое знакомство и... Пушкин\"",
       "draft": false,
       "source_sha256_lf": "b1a46ac8b16c8f6c6c3d42fa3c5debc3d1be94b09a6cfaaa7543e1db00570227",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
       "file": "content/asia/china/china-2019/temple-heaven/index.md",
@@ -1958,10 +1958,10 @@
       "title": "\"Пекин - Храм Неба\"",
       "draft": false,
       "source_sha256_lf": "257b227d11dcf070d5ef6fa080574762af0fec139ad34bc4d5476cbcca28f99b",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
       "file": "content/asia/china/china-2019/terracotta-army/index.md",
@@ -1970,10 +1970,10 @@
       "title": "\"Сиань - Терракотовая Армия\"",
       "draft": false,
       "source_sha256_lf": "43827d179357732bcc31ef06963cacb3a22e9bf9ea9f0371344bc90cfc01715d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
       "file": "content/asia/china/china-2019/visas/index.md",
@@ -1982,10 +1982,10 @@
       "title": "\"Визы\"",
       "draft": false,
       "source_sha256_lf": "64381186dd4b429a00d1742bc1319770b813b2d533ed9049c15615e0ed683b86",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
       "file": "content/asia/china/china-2019/xian/index.md",
@@ -1994,10 +1994,10 @@
       "title": "\"Сиань - древняя столица, исторический музей, шоу династии Тан\"",
       "draft": false,
       "source_sha256_lf": "58da855284f8640f9a861fbccece0fe2460ba15e06740d7fe0368ba4e26392e3",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
       "file": "content/europe/andorra/andorra-pyrenees-2026/arrival/index.md",

@@ -4,9 +4,16 @@ Run with the bundled Python runtime from the repository root.
 """
 from pathlib import Path
 import hashlib,html,json,re,sys,zipfile,xml.etree.ElementTree as ET
+from functools import cache
 
 root=Path.cwd()
-load=lambda p:json.loads(Path(p).read_text('utf-8'))
+@cache
+def load(p):
+    return json.loads(Path(p).read_text('utf-8'))
+
+@cache
+def source_hash(p):
+    return hashlib.sha256(Path(p).read_bytes()).hexdigest()
 inventory=load('reviews/source-audit/inventory.json')
 attractions=load('data/attractions.json')
 types=load('data/attraction_types.json')
@@ -29,11 +36,11 @@ for report_file in reports:
         image_data_path=Path('data/photos')/Path(manifest_path).name
         if image_data_path.exists():valid_photo_keys.update(load(image_data_path))
     for original in r['photographs'].get('additional_originals',[]):
-        assert hashlib.sha256(Path(original['source']).read_bytes()).hexdigest()==original['sha256'],f"Additional original changed: {original['source']}"
+        assert source_hash(original['source'])==original['sha256'],f"Additional original changed: {original['source']}"
     source=Path(r['source']['path'])
-    assert hashlib.sha256(source.read_bytes()).hexdigest()==r['source']['sha256'],f'{report_file}: source changed'
+    assert source_hash(source)==r['source']['sha256'],f'{report_file}: source changed'
     for extra in r['source'].get('additional_files',[]):
-        assert hashlib.sha256(Path(extra['path']).read_bytes()).hexdigest()==extra['sha256'],f"Additional author source changed: {extra['path']}"
+        assert source_hash(extra['path'])==extra['sha256'],f"Additional author source changed: {extra['path']}"
     if r['source'].get('kind')=='photograph_manifest':
         manifest=load(source)
         photo_data=load(f"data/photos/{manifest['trip']}.json")
@@ -47,7 +54,7 @@ for report_file in reports:
     elif r['source'].get('kind')=='facebook_html':
         paragraphs=[html.unescape(re.sub(r'<[^>]+>','',source.read_text('utf-8').replace('<br />','\n')))]
     elif r['source'].get('kind')=='facebook_profile_json':
-        posts=json.loads(source.read_text('utf-8'))
+        posts=load(source)
         post=posts[r['source']['record_index']]
         text='\n'.join(d.get('post','') for d in post.get('data',[]))
         paragraphs=text.encode('latin1').decode('utf-8').split('\n')
@@ -76,7 +83,7 @@ for report_file in reports:
             for e in o['evidence']:
                 if 'source_file' in e:
                     extra_path=Path(e['source_file'])
-                    assert hashlib.sha256(extra_path.read_bytes()).hexdigest()==e['source_sha256'],'Author text source changed'
+                    assert source_hash(extra_path)==e['source_sha256'],'Author text source changed'
                     if extra_path.suffix.lower()=='.docx':
                         with zipfile.ZipFile(extra_path) as z:
                             extra_doc=ET.fromstring(z.read('word/document.xml'))

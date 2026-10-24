@@ -3291,7 +3291,8 @@
   },
   "terracotta-army": {
     "types": [
-      "museum"
+      "museum",
+      "archaeological_site"
     ],
     "search_terms": [
       "музей",
@@ -3299,7 +3300,13 @@
       "музея",
       "музеев",
       "museum",
-      "museums"
+      "museums",
+      "археология",
+      "археологический памятник",
+      "руины",
+      "раскопки",
+      "archaeology",
+      "ruins"
     ],
     "classification_sources": [
       "data/attractions.json#terracotta-army"
@@ -3780,6 +3787,49 @@
     ],
     "classification_sources": [
       "data/attractions.json#disneyland-anaheim"
+    ]
+  },
+  "great-wall-mutianyu": {
+    "types": [
+      "historic_building"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ],
+    "classification_sources": [
+      "content/places/great-wall-mutianyu/_index.md"
+    ]
+  },
+  "longmen-grottoes": {
+    "types": [
+      "archaeological_site",
+      "temple",
+      "cave"
+    ],
+    "search_terms": [
+      "археология",
+      "археологический памятник",
+      "руины",
+      "раскопки",
+      "archaeology",
+      "ruins",
+      "храм",
+      "храмы",
+      "храма",
+      "храмов",
+      "святилище",
+      "temple",
+      "пещера",
+      "пещеры",
+      "грот",
+      "гроты",
+      "cave",
+      "grotto"
+    ],
+    "classification_sources": [
+      "content/places/longmen-grottoes/_index.md"
     ]
   },
   "montserrat": {
