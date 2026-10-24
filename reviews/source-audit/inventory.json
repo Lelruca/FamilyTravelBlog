@@ -1058,10 +1058,10 @@
       "title": "\"Два дня в Нью-Йорке\"",
       "draft": false,
       "source_sha256_lf": "4bd1228eec71abaec084648b40e4e36ef396621c60dd8cf9f06c9fad64fea306",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/toronto-2016.json"
     },
     {
       "file": "content/americas/canada/toronto-2016/temagami-1/index.md",
@@ -1070,10 +1070,10 @@
       "title": "\"Озеро Темагами - кораблик\"",
       "draft": false,
       "source_sha256_lf": "9188021087e1f7ed52e8db74822c98a878498286adf4557e6b9156293cd54baa",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/toronto-2016.json"
     },
     {
       "file": "content/americas/canada/toronto-2016/temagami-2/index.md",
@@ -1082,10 +1082,10 @@
       "title": "\"Озеро Темагами - отдых\"",
       "draft": false,
       "source_sha256_lf": "96684e249485aead722815ac21ba30adb83df3a298bdede8f50b28c91ddefb4d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/toronto-2016.json"
     },
     {
       "file": "content/americas/canada/toronto-2016/temagami-3/index.md",
@@ -1094,10 +1094,10 @@
       "title": "\"Озеро Темагами - флора и фауна\"",
       "draft": false,
       "source_sha256_lf": "52c32bf5569650ccceb6ddac8499cd26c6dc2bcdaece9830ccc8c4fb0e75e248",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/toronto-2016.json"
     },
     {
       "file": "content/americas/canada/toronto-2016/toronto-1/index.md",
@@ -1106,10 +1106,10 @@
       "title": "\"Они наконец приехали!\"",
       "draft": false,
       "source_sha256_lf": "bf9dae9f706c39c4c521ee48bead8830efc3a81c5704044dcdb53204e26472a6",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/toronto-2016.json"
     },
     {
       "file": "content/americas/canada/toronto-2016/toronto-conclusion/index.md",
@@ -1118,10 +1118,10 @@
       "title": "\"Торонто\"",
       "draft": false,
       "source_sha256_lf": "0aa1025343d3aa49832775afde093d5392b7bc2cf88253ce354dc96882f3dcb8",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/toronto-2016.json"
     },
     {
       "file": "content/americas/canada/toronto-walks/afternoon-tea-2025/index.md",

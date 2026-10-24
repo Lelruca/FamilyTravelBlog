@@ -11,6 +11,8 @@ for(const [id,a] of Object.entries(attractions))if(a.place){
  p.classification_sources.push(`data/attractions.json#${id}`);
 }
 const standaloneTypes={
+ 'sainte-marie-among-the-hurons':['museum','historic_building'],
+ 'lake-temagami':['lake'],
  'coba':['archaeological_site'],
  'tulum':['archaeological_site'],
  'chichen-itza':['archaeological_site'],

@@ -3765,6 +3765,41 @@
       "data/attractions.json#disneyland-anaheim"
     ]
   },
+  "sainte-marie-among-the-hurons": {
+    "types": [
+      "museum",
+      "historic_building"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ],
+    "classification_sources": [
+      "content/places/sainte-marie-among-the-hurons/_index.md"
+    ]
+  },
+  "lake-temagami": {
+    "types": [
+      "lake"
+    ],
+    "search_terms": [
+      "озеро",
+      "озёра",
+      "озера",
+      "озёр",
+      "lake"
+    ],
+    "classification_sources": [
+      "content/places/lake-temagami/_index.md"
+    ]
+  },
   "coba": {
     "types": [
       "archaeological_site"
