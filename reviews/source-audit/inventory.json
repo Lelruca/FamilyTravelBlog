@@ -2594,10 +2594,10 @@
       "title": "\"Барселона с семьёй\"",
       "draft": false,
       "source_sha256_lf": "3d142dfb9b6d75566d263f3b97adc3a0a28d7a38d1134777ac23e9a4195c791a",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json"
     },
     {
       "file": "content/europe/france/barcelona-occitanie-2024/carcassonne/index.md",
@@ -2606,10 +2606,10 @@
       "title": "\"Каркассон\"",
       "draft": false,
       "source_sha256_lf": "03ef57ed03033f4a40112e072488e7686c35a6d833815e4e0e77648050f8dad4",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json"
     },
     {
       "file": "content/europe/france/barcelona-occitanie-2024/condom-armagnac/index.md",
@@ -2617,11 +2617,11 @@
       "trip_path": "content/europe/france/barcelona-occitanie-2024",
       "title": "\"Кондом, арманьяк и Тулуза\"",
       "draft": false,
-      "source_sha256_lf": "f32d2c0f3157644c4be32816343fc1e4724c48576ebfe02080e80b0f1694beac",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "4e81c69343d398e6796fd46cb27dfab1bb9aea782d1c0ad89e01490f1fdfebaf",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json"
     },
     {
       "file": "content/europe/france/barcelona-occitanie-2024/cordes-albi/index.md",
@@ -2630,10 +2630,10 @@
       "title": "\"Кордс-сюр-Сьель и Альби\"",
       "draft": false,
       "source_sha256_lf": "9495acd50f9c2f7f9b2f80e4466d9e4d68a598d72d53b1edaeb151e39b0875aa",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json"
     },
     {
       "file": "content/europe/france/barcelona-occitanie-2024/dali-figueres/index.md",
@@ -2642,10 +2642,10 @@
       "title": "\"Театр-музей Дали в Фигерасе\"",
       "draft": false,
       "source_sha256_lf": "cfdae5c7191095cd59f346629ed530e07be421982d6b2c388d1594b4563f004d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json"
     },
     {
       "file": "content/europe/france/christmas-2014-2015/alps-final/index.md",

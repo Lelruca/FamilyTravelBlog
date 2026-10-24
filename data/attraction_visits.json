@@ -990,6 +990,329 @@
         }
       ]
     },
+    "content/europe/france/barcelona-occitanie-2024/barcelona/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "barcelona--park-guel",
+          "event": "walked_park",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 90,
+              "source_paragraph": 3,
+              "quote": "лёгкое повторение основных любимых достопримечательностей"
+            },
+            {
+              "photo": "barcelona/20240321_135042.jpg",
+              "observation": "Характерная архитектура входа с террасы парка, один представитель большой самостоятельной серии."
+            },
+            {
+              "photo": "barcelona/20240321_132445.jpg",
+              "observation": "Семейная группа на тропе той же большой парковой серии; имена не определяются по лицам."
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Именно допустимый владельцем случай большой серии одного парка: отдельный последовательный блок 21 марта, не случайный фасад на прогулке. Саграда на дальнем фоне не считается посещённой."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "barcelona",
+          "event": "family_stay_and_guided_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 90,
+              "source_paragraph": 4,
+              "quote": "в этот раз прошли по городу с гидом - 4 часа."
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Семейный отдых, встреча с родственниками и городская экскурсия; полный состав разных прогулок не назван."
+        }
+      ]
+    },
+    "content/europe/france/barcelona-occitanie-2024/dali-figueres/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "dali-theatre-museum",
+          "event": "entered",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 89,
+              "source_paragraph": 2,
+              "quote": "Не все работы и экспозиции мне кажутся равнозначными."
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Личный разбор увиденных экспозиций подтверждает визит, финальное «надо заехать» — рекомендация, а не несбывшийся план."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/france/barcelona-occitanie-2024/carcassonne/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "carcassonne--krepost-karkasson",
+          "event": "entered_castle_and_walked_walls",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 88,
+              "source_paragraph": 3,
+              "quote": "Потом залезли и в сам замок."
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Зашли в замок и прошли стены; лавки, вино и отдельные башни входят в один комплекс. Наташа прямо названа в конце главы."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "carcassonne",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 88,
+              "source_paragraph": 2,
+              "quote": "Каркассон это и замок и старый город внутри него."
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Городская часть подтверждена отдельно от замкового входа."
+        }
+      ]
+    },
+    "content/europe/france/barcelona-occitanie-2024/condom-armagnac/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "condom--mousquetaires",
+          "event": "visited_monument",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 1,
+              "quote": "смотреть памятник мушкетерам"
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Самостоятельная цель поездки, подробный абзац о даре Церетели; отсутствовал в данных."
+        },
+        {
+          "id": "condom--sobor-kondoma",
+          "event": "visited_entry_unspecified",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 3,
+              "quote": "Городок 7 тыс. жителей, а какой собор!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Собор обсуждается автором; по одной фразе не утверждается вход во все помещения."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "condom",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 2,
+              "quote": "Небольшой городок с гордым (для англоязычного уха) именем Condom"
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Действительный заезд ради памятника и прогулка."
+        },
+        {
+          "id": "larressingle",
+          "event": "walked_village",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 8,
+              "quote": "Первым пунктом намеченной нам программы был город Larressingle."
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Не просто совет: непосредственно описаны впечатления от фактического заезда."
+        },
+        {
+          "id": "montreal-gers",
+          "event": "walked_village",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 10,
+              "quote": "Обычная деревня, пастораль."
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Реальные впечатления от звуков и прогулки. Не канадский Монреаль."
+        },
+        {
+          "id": "domaine-de-meillan",
+          "event": "winery_visit_and_tasting",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 11,
+              "quote": "В винодельне нас приняли как своих."
+            },
+            {
+              "source_record_index": 87,
+              "source_attachment_path": "attachments.0.data.23.media.description",
+              "quote": "Domaine de Meillan"
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Название есть в авторской подписи. Винодельня находится в Larroque-sur-l’Osse между Кондомом и Монреалем, поэтому дана самостоятельной точкой. Сергей участвовал в дегустации со сплёвыванием, а не полностью отказался."
+        },
+        {
+          "id": "toulouse",
+          "event": "stayed_and_walked",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 15,
+              "quote": "Потом мы вернулись в Тулузу."
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Утреннюю экскурсию отменили из-за дождя, но вечером действительно гуляли. Отмена гида не отменяет город."
+        }
+      ]
+    },
+    "content/europe/france/barcelona-occitanie-2024/cordes-albi/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "cordes-sur-ciel--muzey-shokolada",
+          "event": "entered_and_tasted",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 86,
+              "source_paragraph": 4,
+              "quote": "Зарулили мы и в музей шоколада."
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Подтверждена экспозиция шоколадных и сахарных скульптур, не производство; точное французское имя не угадано."
+        },
+        {
+          "id": "albi-cathedral",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 86,
+              "source_paragraph": 5,
+              "quote": "зато внутри!!! Очень нам понравился!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Внутренний осмотр прямо подтверждён, не только внешний кирпичный фасад."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "cordes-sur-ciel",
+          "event": "walked_fortified_village",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 86,
+              "source_paragraph": 1,
+              "quote": "Сначала мы поехали в живописную деревню"
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Подъём, старые дома и виды описаны; отдельный музейный вход в неназванный замок не приписывается."
+        },
+        {
+          "id": "albi",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 86,
+              "source_paragraph": 5,
+              "quote": "Следующим номером нашей программы был город Альби"
+            }
+          ],
+          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+          "note": "Реальная следующая остановка."
+        }
+      ]
+    },
     "content/europe/switzerland/bern-2023/bern/index.md": {
       "source_review": "read",
       "visits": [],

@@ -4337,5 +4337,13 @@
     "country_code": "GB",
     "source": "https://www.openstreetmap.org/node/255415813",
     "query": "Provender Norton Kent (Olga Romanoff)"
+  },
+  "domaine-de-meillan": {
+    "lat": 43.96228,
+    "lon": 0.282201,
+    "name": "Domaine de Meillan",
+    "country_code": "FR",
+    "source": "https://www.tourisme-gers.com/producteur/domaine-de-meillan/",
+    "query": "Domaine de Meillan Larroque-sur-l’Osse, official tourism GeoCoordinates"
   }
 }

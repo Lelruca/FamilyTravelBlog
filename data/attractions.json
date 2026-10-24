@@ -12928,5 +12928,24 @@
       "флорентийская мозаика",
       "I Mosaici di Lastrucci"
     ]
+  },
+  "condom--mousquetaires": {
+    "title": "Памятник д’Артаньяну и трём мушкетёрам",
+    "parent": "condom",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Церетели",
+      "мушкетёры",
+      "мушкетеры",
+      "D’Artagnan et les trois mousquetaires"
+    ]
   }
 }

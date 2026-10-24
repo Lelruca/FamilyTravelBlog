@@ -3845,6 +3845,21 @@
       "data/attractions.json#disneyland-anaheim"
     ]
   },
+  "domaine-de-meillan": {
+    "types": [
+      "winery"
+    ],
+    "search_terms": [
+      "винодельня",
+      "винодельни",
+      "винный погреб",
+      "вино",
+      "winery"
+    ],
+    "classification_sources": [
+      "content/places/domaine-de-meillan/_index.md"
+    ]
+  },
   "provender-house": {
     "types": [
       "historic_house"
