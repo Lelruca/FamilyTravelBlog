@@ -2758,6 +2758,57 @@
         }
       ]
     },
+    "content/americas/cuba/cuba-2025/varadero/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "varadero",
+          "event": "resort_stay",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 51,
+              "source_paragraph": 1,
+              "quote": "Поэтому полетели на Варадеро"
+            }
+          ],
+          "report": "reviews/source-audit/trips/cuba-2025.json",
+          "note": "Только Сергей и Митя, автор пересказывает их поездку и не была участницей. Точный отель не назван."
+        }
+      ]
+    },
+    "content/americas/cuba/cuba-2025/havana/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "havana",
+          "event": "guided_city_tour",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 50,
+              "source_paragraph": 1,
+              "quote": "Серёга заказал им индивидуальную экскурсию на русском на старом автомобиле"
+            }
+          ],
+          "report": "reviews/source-audit/trips/cuba-2025.json",
+          "note": "Реальная экскурсия отца и сына на старом автомобиле, не только несбывшееся желание."
+        }
+      ]
+    },
+    "content/americas/cuba/cuba-2025/excursions/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": []
+    },
     "content/americas/usa/detroit-windsor-2016/story/index.md": {
       "source_review": "read",
       "visits": [

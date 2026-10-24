@@ -1189,11 +1189,11 @@
       "trip_path": "content/americas/cuba/cuba-2025",
       "title": "\"Сахар, ром, сигары и крокодилы\"",
       "draft": false,
-      "source_sha256_lf": "6f56db2bd55840da8b5e3ac3ff0399e0b31ade2c13da7aae3f7e3c7eb70cb1a2",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "e868504a0431ba3bbbfa7b6060064a6a6247a1e9f5388896e0353f469d854231",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/cuba-2025.json"
     },
     {
       "file": "content/americas/cuba/cuba-2025/havana/index.md",
@@ -1201,11 +1201,11 @@
       "trip_path": "content/americas/cuba/cuba-2025",
       "title": "\"Гавана\"",
       "draft": false,
-      "source_sha256_lf": "723ae19bd7c23049708274c3746428d03929b52d79a8b1c3a0564adb7ad98f70",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "de21ad107411cf83413e8611f4fc37c14ce889faa0f7962e874a35bf5e7589b3",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/cuba-2025.json"
     },
     {
       "file": "content/americas/cuba/cuba-2025/varadero/index.md",
@@ -1214,10 +1214,10 @@
       "title": "\"Варадеро\"",
       "draft": false,
       "source_sha256_lf": "e2f053a75db432d1d7c2d78b09a8a98e6c1860254db5b439698c289476e021ca",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/cuba-2025.json"
     },
     {
       "file": "content/americas/cuba/trinidad-2017/cuba/index.md",
