@@ -11,6 +11,9 @@ for(const [id,a] of Object.entries(attractions))if(a.place){
  p.classification_sources.push(`data/attractions.json#${id}`);
 }
 const standaloneTypes={
+ 'san-bernabe':['cave','church','monastery'],
+ 'castillo-de-la-mota':['castle'],
+ 'penafiel-castle':['castle','museum'],
  'domaine-de-meillan':['winery'],
  'provender-house':['historic_house'],
  'leeds-castle':['castle'],

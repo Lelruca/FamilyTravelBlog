@@ -12947,5 +12947,75 @@
       "мушкетеры",
       "D’Artagnan et les trois mousquetaires"
     ]
+  },
+  "bilbao--guggenheim": {
+    "title": "Музей Гуггенхайма",
+    "parent": "bilbao",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art",
+      "Guggenheim",
+      "Гуггенхайм",
+      "Гугенхайм"
+    ]
+  },
+  "san-sebastian--monte-igueldo": {
+    "title": "Монте-Игельдо: фуникулер и парк",
+    "parent": "san-sebastian",
+    "types": [
+      "amusement_park",
+      "viewpoint"
+    ],
+    "search_terms": [
+      "парк развлечений",
+      "парки развлечений",
+      "аттракционы",
+      "amusement park",
+      "theme park",
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck",
+      "Monte Igueldo",
+      "Monte Igeldo",
+      "фуникулер"
+    ]
+  },
+  "burgos--arco-santa-maria": {
+    "title": "Ворота Святой Марии",
+    "parent": "burgos",
+    "types": [
+      "historic_building"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "Arco de Santa María",
+      "Арка Санта-Мария"
+    ]
   }
 }

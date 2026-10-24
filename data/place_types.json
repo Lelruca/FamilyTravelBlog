@@ -3845,6 +3845,85 @@
       "data/attractions.json#disneyland-anaheim"
     ]
   },
+  "san-bernabe": {
+    "types": [
+      "cave",
+      "church",
+      "monastery"
+    ],
+    "search_terms": [
+      "пещера",
+      "пещеры",
+      "грот",
+      "гроты",
+      "cave",
+      "grotto",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "монастырь",
+      "монастыри",
+      "монастыря",
+      "монастырей",
+      "аббатство",
+      "аббатства",
+      "monastery",
+      "abbey"
+    ],
+    "classification_sources": [
+      "content/places/san-bernabe/_index.md"
+    ]
+  },
+  "castillo-de-la-mota": {
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ],
+    "classification_sources": [
+      "content/places/castillo-de-la-mota/_index.md"
+    ]
+  },
+  "penafiel-castle": {
+    "types": [
+      "castle",
+      "museum"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "content/places/penafiel-castle/_index.md"
+    ]
+  },
   "domaine-de-meillan": {
     "types": [
       "winery"

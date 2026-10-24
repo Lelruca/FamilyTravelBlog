@@ -1,0 +1,755 @@
+{
+  "trip_path": "content/europe/spain/basque-castile-2024",
+  "status": "text_audit_complete_with_source_limitations",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 80,
+    "record_indices": [
+      80,
+      79,
+      78,
+      77,
+      76,
+      75,
+      74,
+      73,
+      72
+    ],
+    "additional_files": [
+      {
+        "path": "media-manifests/basque-castile-2024.json",
+        "sha256": "684278d3b16a104670072596a0ddd655f0b68925dea439188bd10b67fa088cdc"
+      }
+    ],
+    "read": "Полностью прочитаны девять исходных постов, все 22 подписи, девять текущих глав и owner_editorial_updates/owner_geographical_corrections. Более поздние содержательные абзацы цитируются отдельно из текущих глав с хешами; они не выдаются за найденные в старом Facebook-посте."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/basque-castile-2024.json",
+    "method": "Решения только по рассказу, авторским подписям и поздним текстовым дополнениям; каждый снимок не идентифицировался."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/spain/basque-castile-2024/bilbao/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный исходный пост и все подписи прочитаны. Участники, посещения и исключения сверены между главами.",
+      "objects": [
+        {
+          "label": "Бильбао",
+          "event": "city_walk",
+          "evidence": [
+            {
+              "source_record_index": 80,
+              "source_paragraph": 6,
+              "quote": "Милый исторический центр."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "bilbao"
+          },
+          "reason": "Реальная прогулка по старой и новой частям. Состав первого дня не расширен автоматически до состава последнего.",
+          "participants": null
+        },
+        {
+          "label": "Музей изящных искусств Бильбао",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 80,
+              "source_paragraph": 8,
+              "quote": "Сходили в художественный музей басков."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "bilbao-fine-arts"
+          },
+          "reason": "Посетили несмотря на скромную оценку; не перепутан с этнографическим Basque Museum.",
+          "participants": null
+        },
+        {
+          "label": "Музей Гуггенхайма",
+          "event": "exterior_only",
+          "evidence": [
+            {
+              "source_record_index": 80,
+              "source_paragraph": 8,
+              "quote": "В сам музей Гугенхайма мы не пошли"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "bilbao--guggenheim"
+          },
+          "reason": "Названная архитектурная цель современной части прогулки; только внешний осмотр, внутри музея не были.",
+          "participants": null
+        },
+        {
+          "label": "Астурия, Андалузия, Галисия; прокат автомобиля",
+          "event": "comparisons_and_logistics",
+          "evidence": [
+            {
+              "source_record_index": 80,
+              "source_paragraph": 1,
+              "quote": "Астурия для меня почти так же хороша как Андалузия"
+            }
+          ],
+          "decision": "exclude_as_current_visits",
+          "reason": "Прежние предпочтения и ситуация с машиной, не дополнительные посещения.",
+          "participants": null
+        },
+        {
+          "label": "Мост Бискайя и другие городские детали",
+          "event": "brief_caption",
+          "evidence": [
+            {
+              "source_file": "content/europe/spain/basque-castile-2024/bilbao/index.md",
+              "source_sha256": "f6b7fb141d4fedcb29b3c55ca4274e8375d2127024243abc64721d6a384e3099",
+              "quote": "музей Гугенхайма"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Согласованная подпись моста есть в owner_editorial_updates, но короткий единичный эпизод не развёрнут в самостоятельный рассказ. Не выводить поездку на мосту из фото.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/san-sebastian/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный исходный пост и все подписи прочитаны. Участники, посещения и исключения сверены между главами.",
+      "objects": [
+        {
+          "label": "Сан-Себастьян",
+          "event": "resort_walk",
+          "evidence": [
+            {
+              "source_record_index": 79,
+              "source_paragraph": 2,
+              "quote": "Как курортный городок нам Сан-Себастьян"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "san-sebastian"
+          },
+          "reason": "Набережная и пляжный отдых описаны прямо.",
+          "participants": null
+        },
+        {
+          "label": "Монте-Игельдо: фуникулер и парк аттракционов",
+          "event": "visited_funicular_and_park",
+          "evidence": [
+            {
+              "source_file": "content/europe/spain/basque-castile-2024/san-sebastian/index.md",
+              "source_sha256": "ec26ef4636b70356cf45c126484fe7d8ebe25385377531a57af2006176e061b3",
+              "quote": "На самой горе парк аттракционов."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "san-sebastian--monte-igueldo"
+          },
+          "reason": "Развёрнутая авторская редакция описывает подъём, виды и лодочный аттракцион. Название комплекса проверено по официальному оператору. Один комплекс, не каждая карусель.",
+          "participants": null
+        },
+        {
+          "label": "Лодочный аттракцион на горе",
+          "event": "rode_boat_attraction",
+          "evidence": [
+            {
+              "source_file": "content/europe/spain/basque-castile-2024/san-sebastian/index.md",
+              "source_sha256": "ec26ef4636b70356cf45c126484fe7d8ebe25385377531a57af2006176e061b3",
+              "quote": "Мы с Наташей прокатились на лодочке"
+            }
+          ],
+          "decision": "covered_by_complex",
+          "reason": "Именно Леля и Наташа, без приписывания поездки Сергею и Оме.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Пляж и купание",
+          "event": "swam",
+          "evidence": [
+            {
+              "source_record_index": 79,
+              "source_paragraph": 3,
+              "quote": "Вода, наверное потому что залив мелкий"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Авторская подпись прямо описывает готовую купаться маму и Наташу. Точное имя пляжа не угадано; теннисный корт только осматривали.",
+          "participants": null
+        },
+        {
+          "label": "Мэрия, теннисные корты, пинчос и мишленовские рестораны",
+          "event": "city_details_and_unvisited_dining",
+          "evidence": [
+            {
+              "source_file": "content/europe/spain/basque-castile-2024/san-sebastian/index.md",
+              "source_sha256": "ec26ef4636b70356cf45c126484fe7d8ebe25385377531a57af2006176e061b3",
+              "quote": "В этот раз мы не приобщились к высокой кухне"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Краткие городские/пищевые детали; посещения мишленовского ресторана прямо не было.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/san-bernabe/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный исходный пост и все подписи прочитаны. Участники, посещения и исключения сверены между главами.",
+      "objects": [
+        {
+          "label": "Пещерная церковь Сан-Бернабе",
+          "event": "guided_interior_visit",
+          "evidence": [
+            {
+              "source_record_index": 78,
+              "source_paragraph": 1,
+              "quote": "пускают только по одному пути и только с группой"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "san-bernabe"
+          },
+          "reason": "Реальная пещерная экскурсия. Авторская география Риоха ранее исправлена владельцем на Бургос; нынешний текст сохранён.",
+          "participants": null
+        },
+        {
+          "label": "Неназванные деревни по дороге",
+          "event": "road_landscape",
+          "evidence": [
+            {
+              "source_record_index": 78,
+              "source_paragraph": 2,
+              "quote": "Деревушки все ухоженные!"
+            }
+          ],
+          "decision": "exclude_as_separate_places",
+          "reason": "Дорожные впечатления, не восстановление названий каждой деревни по фотографиям.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/miraflores-burgos/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный исходный пост и все подписи прочитаны. Участники, посещения и исключения сверены между главами.",
+      "objects": [
+        {
+          "label": "Cartuja de Miraflores",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 77,
+              "source_paragraph": 0,
+              "quote": "вбили в GPS - Cartuja de Miraflores."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "cartuja-miraflores"
+          },
+          "reason": "Фактически вошли в пустую церковь; могилы родителей и брата Изабеллы — внутри одного комплекса.",
+          "participants": null
+        },
+        {
+          "label": "Другой первоначально намеченный монастырь",
+          "event": "route_replaced",
+          "evidence": [
+            {
+              "source_record_index": 77,
+              "source_paragraph": 0,
+              "quote": "Мы должны были ехать в один известный монастырь"
+            }
+          ],
+          "decision": "exclude_as_visit",
+          "reason": "План сменился Мирафлоресом, имя отвергнутого монастыря не подставлено.",
+          "participants": null
+        },
+        {
+          "label": "Бургос",
+          "event": "city_walk",
+          "evidence": [
+            {
+              "source_record_index": 77,
+              "source_paragraph": 3,
+              "quote": "Впереди нас ждал Бургос"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "burgos"
+          },
+          "reason": "Действительная городская прогулка.",
+          "participants": null
+        },
+        {
+          "label": "Собор Бургоса",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 77,
+              "source_paragraph": 6,
+              "quote": "Много очень красивых капелл"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "burgos-cathedral"
+          },
+          "reason": "Описаны интерьер, капеллы и витражи; скептическая оценка не отменяет осмотр.",
+          "participants": null
+        },
+        {
+          "label": "Ворота Святой Марии",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_file": "content/europe/spain/basque-castile-2024/miraflores-burgos/index.md",
+              "source_sha256": "f0df7597dce7664551522dda1fa9b502e6618e24b8bb02b1e571c1add0bc11bb",
+              "quote": "Ворота Святой Марии, один из символов Бургоса."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "burgos--arco-santa-maria"
+          },
+          "reason": "Два абзаца текущего рассказа о воротах и фигурах, самостоятельный описанный объект, а не подпись к случайному фасаду.",
+          "participants": null
+        },
+        {
+          "label": "Леон, Шартр и Реймс",
+          "event": "comparisons",
+          "evidence": [
+            {
+              "source_file": "content/europe/spain/basque-castile-2024/miraflores-burgos/index.md",
+              "source_sha256": "f0df7597dce7664551522dda1fa9b502e6618e24b8bb02b1e571c1add0bc11bb",
+              "quote": "За образец взяли французские соборы - Шартр, Реймс."
+            }
+          ],
+          "decision": "exclude_as_current_visits",
+          "reason": "Сравнения архитектуры и прежних предпочтений, не дополнительные соборы текущей поездки.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/penafiel-wine/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный исходный пост и все подписи прочитаны. Участники, посещения и исключения сверены между главами.",
+      "objects": [
+        {
+          "label": "Замок Пеньяфьель и музей вина",
+          "event": "guided_castle_and_museum_visit",
+          "evidence": [
+            {
+              "source_record_index": 76,
+              "source_paragraph": 0,
+              "quote": "и про вино прослушали и тур по замку получили"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "penafiel-castle--muzey-vina-ribera-del-duero"
+          },
+          "reason": "Посетили и музей, и замок. Самостоятельной географической точке добавлены castle/museum, чтобы музей находился вне города.",
+          "participants": null
+        },
+        {
+          "label": "Ресторан с ягнёнком, городская экскурсия и винная дегустация",
+          "event": "meal_and_city_tasting",
+          "evidence": [
+            {
+              "source_record_index": 76,
+              "source_paragraph": 3,
+              "quote": "На вечер у нас был тур с гидом-сомелье 3 уровня"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "valladolid"
+          },
+          "reason": "Дегустация в городе состоялась, точные названия заведений не приведены. Бутылки и регионы этикеток не отдельные поездки.",
+          "participants": null
+        },
+        {
+          "label": "Винодельня с сомелье",
+          "event": "declined_expensive_option",
+          "evidence": [
+            {
+              "source_record_index": 76,
+              "source_paragraph": 3,
+              "quote": "на винодельню мы с ней не поехали - дорого"
+            }
+          ],
+          "decision": "exclude_as_visit",
+          "reason": "Не путать отказ от выезда на винодельню с состоявшейся городской дегустацией.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/valladolid/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный исходный пост и все подписи прочитаны. Участники, посещения и исключения сверены между главами.",
+      "objects": [
+        {
+          "label": "Национальный музей скульптуры",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 75,
+              "source_paragraph": 1,
+              "quote": "мы посетили национальный музей скульптуры"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "museo-escultura"
+          },
+          "reason": "Реально осмотренная деревянная церковная скульптура; не посещение каждого собора происхождения экспонатов.",
+          "participants": null
+        },
+        {
+          "label": "Вальядолид",
+          "event": "stayed_and_walked",
+          "evidence": [
+            {
+              "source_record_index": 75,
+              "source_paragraph": 0,
+              "quote": "Общие сведения про город Вальядолид."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "valladolid"
+          },
+          "reason": "Город-база подтверждён также соседней главой; скоростной поезд упомянут как транспортная справка, поездка на нём не заявлена.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/isabella/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный исходный пост и все подписи прочитаны. Участники, посещения и исключения сверены между главами.",
+      "objects": [
+        {
+          "label": "Castillo de la Mota",
+          "event": "visited_entry_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 74,
+              "source_paragraph": 0,
+              "quote": "Замок Castillo de la Mota"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "castillo-de-la-mota"
+          },
+          "reason": "Действительная остановка, точный объём входа из одного восторженного предложения не восстанавливается.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Дворец завещания Изабеллы в Medina del Campo",
+          "event": "visited_palace",
+          "evidence": [
+            {
+              "source_record_index": 74,
+              "source_paragraph": 1,
+              "quote": "Palacio Real Testamentario de Isabel la Católica"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "medina-del-campo--dvorets-zaveshchaniya-izabelly-katolicheskoy"
+          },
+          "reason": "Сохранено прямо указанное испанское название. Русское «Дуэньяс» не породило второй дворец; расхождение вынесено в вопросы.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Королевский монастырь Святого Фомы",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 74,
+              "source_paragraph": 2,
+              "quote": "The Royal Monastery of Santo Tomás in Ávila"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "santo-tomas-avila"
+          },
+          "reason": "Посещение до отказа Наташи продолжать музейный день; могила Хуана внутри комплекса.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Эскориал",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 74,
+              "source_paragraph": 4,
+              "quote": "И мы втроем рванули в Эскориал"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "el-escorial"
+          },
+          "reason": "Наташа осталась отдыхать; трое — Леля, Сергей и Ома. Живопись и спальни входят в комплекс, не новые галереи.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Авила",
+          "event": "evening_city_walk",
+          "evidence": [
+            {
+              "source_record_index": 74,
+              "source_paragraph": 6,
+              "quote": "Вечером еще с Серегой по Авиле пробежались"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "avila"
+          },
+          "reason": "Вечерняя прогулка прямо только с Сергеем, вид из отеля не означает обход всех стен.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/segovia/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный исходный пост и все подписи прочитаны. Участники, посещения и исключения сверены между главами.",
+      "objects": [
+        {
+          "label": "Алькасар Сеговии",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_file": "content/europe/spain/basque-castile-2024/segovia/index.md",
+              "source_sha256": "370af865ef8adfec733d026030bfd23b91fac392f27b9c763ac360a47c0b2a14",
+              "quote": "А интерьеры дворца шикарны!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "alcazar-segovia"
+          },
+          "reason": "Текущая авторская редакция подтверждает интерьер, а не только историческую справку о дворце.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Акведук Сеговии",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_record_index": 73,
+              "source_paragraph": 7,
+              "quote": "Римский акведук II века н.э."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "segovia--segoviyskiy-akveduk"
+          },
+          "reason": "Рассказанный наружный памятник, не музейный вход.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Собор Сеговии",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 72,
+              "source_paragraph": 5,
+              "quote": "в этом путешествии мы посетили много \"серьезных\" и известных соборов - Бургос, Сеговия"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "segovia--segoviyskiy-sobor"
+          },
+          "reason": "Посещение явно подтверждено в следующей главе; не пропущено из-за краткости исходного поста самой Сеговии.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа",
+            "Ома"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/toledo/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный исходный пост и все подписи прочитаны. Участники, посещения и исключения сверены между главами.",
+      "objects": [
+        {
+          "label": "Толедо",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 72,
+              "source_paragraph": 3,
+              "quote": "у нас был повод показать ей"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "toledo"
+          },
+          "reason": "Спонтанно состоявшаяся поездка, хотя раньше не планировалась. Повторный абзац исходника не означает два посещения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Толедский собор",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 72,
+              "source_paragraph": 5,
+              "quote": "Но жемчужина это конечно СОБОР!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "toledo-cathedral"
+          },
+          "reason": "Подробные впечатления от интерьера. Повреждённый хвост исходного поста не мешает прямому подтверждению собора.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Музеи Мадрида и шопинг",
+          "event": "closed_or_abandoned",
+          "evidence": [
+            {
+              "source_record_index": 72,
+              "source_paragraph": 0,
+              "quote": "но... они закрыты ВСЕ!"
+            }
+          ],
+          "decision": "exclude_as_visits",
+          "reason": "Авторская причина выбора Толедо, не утверждение текущего расписания музеев. Шопинг также отвергнут.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Аэропорт Мадрида и возможное возвращение поездом",
+          "event": "actual_flight_and_contingency",
+          "evidence": [
+            {
+              "source_record_index": 72,
+              "source_paragraph": 7,
+              "quote": "Но повезло и меня посадили."
+            }
+          ],
+          "decision": "exclude_as_sightseeing",
+          "reason": "Проблема посадочного — транспортный эпизод, поезд остался запасным вариантом.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа",
+            "Ома"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled_palace_name_open",
+    "questions": [
+      {
+        "object": "Дворец в Medina del Campo, июль 2024",
+        "question": "В одном абзаце стоят русское «дворец Дуэньяс» и испанское Palacio Real Testamentario de Isabel la Católica. Это разные названия; какой именно дворец посетили? Пока сохранено прямо приведённое испанское имя, второго объекта не добавлено."
+      }
+    ],
+    "limitations": [
+      {
+        "chapter": "toledo",
+        "detail": "Исходный Facebook-пост содержит дубль абзаца и повреждённый стык рассказа о соборе с транспортной историей. Полностью прочитаны и оригинал, и согласованная нынешняя версия; восстановление утраченных исходных слов этим аудитом не подтверждено."
+      },
+      {
+        "chapter": "san-sebastian",
+        "detail": "Видео лодочного аттракциона не просмотрено; сам аттракцион и состав Леля/Наташа подтверждены прямым нынешним текстом. Поздние авторские дополнения цитируются из нынешних глав, независимые полные сообщения этих редакций не извлекались заново."
+      }
+    ],
+    "external_sources": [
+      {
+        "url": "https://www.monteigueldo.es/el-funicular",
+        "purpose": "Официальное имя фуникулера 1912 года, идентичность комплекса Монте-Игельдо."
+      }
+    ],
+    "repeat_check": "Все девять глав прочитаны; подтверждение Сеговийского собора найдено в следующей главе Толедо. Добавлены рассказанные комплекс Монте-Игельдо и ворота Святой Марии. Гуггенхайм сохранён строго как внешний осмотр, а художественный музей реально посетили. Музей вина в замке получил самостоятельный музейный тип. Винодельня с сомелье отменена, городская дегустация состоялась. Наташа не посещала Эскориал, вечерняя Авила — только родители. Русское и испанское названия дворца не породили две точки. Авторские тексты и фотографии не менялись."
+  }
+}

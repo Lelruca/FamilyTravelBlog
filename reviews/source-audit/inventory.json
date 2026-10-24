@@ -5017,11 +5017,11 @@
       "trip_path": "content/europe/spain/basque-castile-2024",
       "title": "\"Бильбао\"",
       "draft": false,
-      "source_sha256_lf": "70c3eeab7441ec86bec6a9ab899d693084882bfacfe648b30e049e6d484fdee8",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "377fc5e6dfdf5250b95cbff1880aa88b912f0db85da6b759d398c6969006aae0",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/isabella/index.md",
@@ -5030,10 +5030,10 @@
       "title": "\"По следам Изабеллы Кастильской и Эскориал\"",
       "draft": false,
       "source_sha256_lf": "73e683c033a648c0e8589ea6a016187201c42a9ec6bfaa68f789c5f9053ebfd5",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/miraflores-burgos/index.md",
@@ -5041,11 +5041,11 @@
       "trip_path": "content/europe/spain/basque-castile-2024",
       "title": "\"Мирафлорес и Бургос\"",
       "draft": false,
-      "source_sha256_lf": "9a08c3720e37f7347e9b398baf5652ac98f66876ad12edd0dabfb7f18f12a232",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "f41c14f8af54b36fb0aac0cd5e83aa518df8660b5a412cbb3ef08c5fcae71781",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/penafiel-wine/index.md",
@@ -5054,10 +5054,10 @@
       "title": "\"Пеньяфьель и вино\"",
       "draft": false,
       "source_sha256_lf": "bbc34307e09095ad0719f918e19f954a706f0ac345f81e27259229d10a1e8dcc",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/san-bernabe/index.md",
@@ -5066,10 +5066,10 @@
       "title": "\"Пещерный монастырь Сан-Бернабе\"",
       "draft": false,
       "source_sha256_lf": "67e7874d025678d56a19e12828cfac13d4a4ce5a81545888298bd2ed7671261f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/san-sebastian/index.md",
@@ -5077,11 +5077,11 @@
       "trip_path": "content/europe/spain/basque-castile-2024",
       "title": "\"Сан-Себастьян\"",
       "draft": false,
-      "source_sha256_lf": "95aaf3bfc8c26d87ff41ff16bfc391bb571c737b49f579fc33257a53a8ac3ed6",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "491bbcec99f97a46fa1a471d1810068afeee42b2bb75ef93e0222d15ac14bc9d",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/segovia/index.md",
@@ -5090,10 +5090,10 @@
       "title": "\"Сеговия\"",
       "draft": false,
       "source_sha256_lf": "e349c31c0b1f99637c1cf4f05c6215c9a45ead80fa6321b27e59f553bd22e945",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/toledo/index.md",
@@ -5102,10 +5102,10 @@
       "title": "\"Толедо\"",
       "draft": false,
       "source_sha256_lf": "d7bd9c1c42525b7b5ee0f86b5e659226a5cca4fa23fbe353eb7ae20161612a51",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
       "file": "content/europe/spain/basque-castile-2024/valladolid/index.md",
@@ -5114,10 +5114,10 @@
       "title": "\"Вальядолид\"",
       "draft": false,
       "source_sha256_lf": "fd48a538cfe1dd6cdf4ea176530bb658e60092ace25bd3d5b238a9570ef81a6f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
       "file": "content/europe/spain/madrid-2024/cathedrals-palace/index.md",
