@@ -1297,7 +1297,8 @@
   "leighton-house": {
     "types": [
       "museum",
-      "gallery"
+      "gallery",
+      "historic_house"
     ],
     "search_terms": [
       "музей",
@@ -1319,7 +1320,14 @@
       "живопись",
       "картины",
       "gallery",
-      "art"
+      "art",
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa"
     ],
     "classification_sources": [
       "data/attractions.json#leighton-house"
@@ -3832,6 +3840,42 @@
     ],
     "classification_sources": [
       "data/attractions.json#disneyland-anaheim"
+    ]
+  },
+  "provender-house": {
+    "types": [
+      "historic_house"
+    ],
+    "search_terms": [
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa"
+    ],
+    "classification_sources": [
+      "content/places/provender-house/_index.md"
+    ]
+  },
+  "leeds-castle": {
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ],
+    "classification_sources": [
+      "content/places/leeds-castle/_index.md"
     ]
   },
   "blue-point-amethyst-mine": {

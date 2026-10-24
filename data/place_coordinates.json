@@ -4329,5 +4329,13 @@
     "country_code": "CA",
     "source": "https://bluepointamethystmine.ca/",
     "query": "Blue Point Amethyst Mine official GeoCoordinates"
+  },
+  "provender-house": {
+    "lat": 51.3117843,
+    "lon": 0.8307077,
+    "name": "Provender House",
+    "country_code": "GB",
+    "source": "https://www.openstreetmap.org/node/255415813",
+    "query": "Provender Norton Kent (Olga Romanoff)"
   }
 }

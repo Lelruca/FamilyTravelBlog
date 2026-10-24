@@ -9068,6 +9068,268 @@
         }
       ]
     },
+    "content/europe/england/london-2022/windsor/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "windsor-castle",
+          "event": "entered",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 135,
+              "source_paragraph": 4,
+              "quote": "Сам замок очень интересный!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-2022.json",
+          "note": "Реальный осмотр общедоступной части замка."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "windsor",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 135,
+              "source_paragraph": 1,
+              "quote": "повезли смотреть Винзор"
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-2022.json",
+          "note": "Леля с встретившими родственниками; полный состав не указан."
+        }
+      ]
+    },
+    "content/europe/england/london-2022/national-gallery/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "national-gallery",
+          "event": "entered",
+          "participants": [
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 134,
+              "source_paragraph": 0,
+              "quote": "я побежала сразу в Национальную галлерею"
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-2022.json",
+          "note": "Леля посетила галерею одна, пока ей выделили несколько свободных часов."
+        },
+        {
+          "id": "london--trafalgarskaya-ploshchad",
+          "event": "exterior_walk",
+          "participants": [
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 134,
+              "source_paragraph": 1,
+              "quote": "насладилась видами Трафальгарской площади"
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-2022.json",
+          "note": "Ожидание открытия музея на площади."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/england/london-2022/tate-britain/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "tate-britain",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Катя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 133,
+              "source_paragraph": 2,
+              "quote": "А шли мы в музей TATE Britain."
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-2022.json",
+          "note": "Осмотр коллекции, бесплатная экскурсия и обед в музейном кафе."
+        },
+        {
+          "id": "westminster-cathedral",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Катя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 133,
+              "source_paragraph": 6,
+              "quote": "На обратном пути забрели в Вестминстерский собор"
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-2022.json",
+          "note": "Прямо описан интерьер; не путать с аббатством."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/england/london-2022/kent/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "provender-house",
+          "event": "guided_interior_visit",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 132,
+              "source_paragraph": 3,
+              "quote": "Реально древнее англ. поместье в 17 комнат"
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-2022.json",
+          "note": "Развёрнутый рассказ об экскурсии. Название установлено по официальному сайту владельца и реестру Historic England; это Norton возле Faversham, не одноимённый дом в Whitstable. Полный состав группы не указан."
+        },
+        {
+          "id": "leeds-castle",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Катя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 132,
+              "source_paragraph": 5,
+              "quote": "Потом поехали в замок - Leeds Castle."
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-2022.json",
+          "note": "Обсуждены реально осмотренные интерьеры; Леля и Катя названы, другие спутники не установлены."
+        },
+        {
+          "id": "london",
+          "event": "attended_performance",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 132,
+              "source_paragraph": 7,
+              "quote": "ходили на мюзикл \"Гамильтон\""
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-2022.json",
+          "note": "Леля и неназванная племянница посетили спектакль. Название театра отсутствует в рассказе; новая точка по одной внешней атрибуции площадки не добавляется."
+        }
+      ]
+    },
+    "content/europe/england/london-2022/hyde-park/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "london--kensingtonskie-sady",
+          "event": "walked",
+          "participants": [
+            "Леля",
+            "Катя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 131,
+              "source_paragraph": 2,
+              "quote": "войти там в сад"
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-2022.json",
+          "note": "Маршрут от Кенсингтонского дворца в Гайд-парк описан прямо."
+        },
+        {
+          "id": "hyde-park",
+          "event": "walked",
+          "participants": [
+            "Леля",
+            "Катя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 131,
+              "source_paragraph": 2,
+              "quote": "плавно переходит в Гайд-парк"
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-2022.json",
+          "note": "Прогулка с собакой; её купание не превращается в купание всех участников."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/england/london-2022/legal-london/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "temple-church",
+          "event": "visited_entry_unspecified",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 130,
+              "source_paragraph": 1,
+              "quote": "церковь Тамплиеров"
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-2022.json",
+          "note": "Остановка юридической экскурсии; текст не уточняет вход внутрь."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "london",
+          "event": "guided_city_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 130,
+              "source_paragraph": 1,
+              "quote": "И так до Сити дошли, и там погуляли!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-2022.json",
+          "note": "Дворики юридических объединений и городская прогулка; названия отдельных Inn не приведены."
+        }
+      ]
+    },
+    "content/europe/england/london-2022/leighton-house/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "leighton-house",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Катя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 129,
+              "source_paragraph": 1,
+              "quote": "завела меня в небольшой музей - Leighton house."
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-2022.json",
+          "note": "Леля и её сестра осмотрели дом-музей с восточными интерьерами."
+        }
+      ],
+      "place_visits": []
+    },
     "content/europe/england/london-cambridge-2008/story/index.md": {
       "source_review": "read",
       "visits": [

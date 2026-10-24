@@ -3724,7 +3724,8 @@
     "place": "leighton-house",
     "types": [
       "museum",
-      "gallery"
+      "gallery",
+      "historic_house"
     ],
     "search_terms": [
       "музей",
@@ -3746,7 +3747,14 @@
       "живопись",
       "картины",
       "gallery",
-      "art"
+      "art",
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa"
     ]
   },
   "leon--bazilika-svyatogo-isidora": {

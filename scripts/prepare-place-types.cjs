@@ -11,6 +11,8 @@ for(const [id,a] of Object.entries(attractions))if(a.place){
  p.classification_sources.push(`data/attractions.json#${id}`);
 }
 const standaloneTypes={
+ 'provender-house':['historic_house'],
+ 'leeds-castle':['castle'],
  'blue-point-amethyst-mine':['mine'],
  'sleeping-giant':['park'],
  'lake-superior-park':['park'],

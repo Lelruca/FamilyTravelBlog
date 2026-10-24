@@ -2498,10 +2498,10 @@
       "title": "\"Kensington Gardens и Hyde Park\"",
       "draft": false,
       "source_sha256_lf": "6be8634446f7a25f61b71053fb29f97d94fb57f595afc55e654b0dcc062907d4",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/london-2022.json"
     },
     {
       "file": "content/europe/england/london-2022/kent/index.md",
@@ -2509,11 +2509,11 @@
       "trip_path": "content/europe/england/london-2022",
       "title": "\"Kent - «принцесса» Ольга и Leeds Castle\"",
       "draft": false,
-      "source_sha256_lf": "415f53d9a7c5bf1bfd61cb6268a3d6da26b3e8431a54b30b8deffef8a2f1d087",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "42e3d77da26a6392b0f54032756dffe67137d010e988b318bf970bb591a1828f",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/london-2022.json"
     },
     {
       "file": "content/europe/england/london-2022/legal-london/index.md",
@@ -2522,10 +2522,10 @@
       "title": "\"Юридический Лондон и City\"",
       "draft": false,
       "source_sha256_lf": "27b4d5f62f1b2a03c1d47b8dffd33776513251c5ed7323effea14335228aeb77",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/london-2022.json"
     },
     {
       "file": "content/europe/england/london-2022/leighton-house/index.md",
@@ -2534,10 +2534,10 @@
       "title": "\"Leighton House и воскресный обед\"",
       "draft": false,
       "source_sha256_lf": "3dbdcb7807444931fb1d7d051811c0735144d864111c8572ca9ae0b0bee95edc",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/london-2022.json"
     },
     {
       "file": "content/europe/england/london-2022/national-gallery/index.md",
@@ -2546,10 +2546,10 @@
       "title": "\"National Gallery и Afternoon tea\"",
       "draft": false,
       "source_sha256_lf": "052aa20a6c524e1ed38646cc133a3e86386fc429399e2c56a58e492575d62752",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/london-2022.json"
     },
     {
       "file": "content/europe/england/london-2022/tate-britain/index.md",
@@ -2558,10 +2558,10 @@
       "title": "\"Tate Britain и Вестминстерский собор\"",
       "draft": false,
       "source_sha256_lf": "6dd8072775fd818bbc0b869a4f21c94a7f09faa39ef66d3388b08de96da65afa",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/london-2022.json"
     },
     {
       "file": "content/europe/england/london-2022/windsor/index.md",
@@ -2570,10 +2570,10 @@
       "title": "\"Windsor\"",
       "draft": false,
       "source_sha256_lf": "8983e99683a5872c5ddf029023781173175d18d3583094118c3f468b5b4ac569",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/london-2022.json"
     },
     {
       "file": "content/europe/england/london-cambridge-2008/story/index.md",

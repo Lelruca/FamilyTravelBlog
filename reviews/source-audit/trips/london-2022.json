@@ -1,0 +1,591 @@
+{
+  "trip_path": "content/europe/england/london-2022",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 135,
+    "record_indices": [
+      135,
+      134,
+      133,
+      132,
+      131,
+      130,
+      129
+    ],
+    "read": "Полностью прочитаны семь исходных постов со всеми авторскими подписями и семь текущих глав. Исторические исправления опечаток не отменялись."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/london-2022.json",
+    "method": "Решения по рассказу и содержательным авторским подписям. Фоновые фотографии не каталогизировались."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/england/london-2022/windsor/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, полный исходный пост и все авторские подписи прочитаны; закрытые части отделены от посещённых.",
+      "objects": [
+        {
+          "label": "Виндзор",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 135,
+              "source_paragraph": 1,
+              "quote": "повезли смотреть Винзор"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "windsor"
+          },
+          "reason": "Леля с встретившими родственниками; полный состав не указан.",
+          "participants": null
+        },
+        {
+          "label": "Виндзорский замок",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 135,
+              "source_paragraph": 4,
+              "quote": "Сам замок очень интересный!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "windsor-castle"
+          },
+          "reason": "Реальный осмотр общедоступной части замка.",
+          "participants": null
+        },
+        {
+          "label": "St George’s Chapel и могила Елизаветы II",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 135,
+              "source_paragraph": 3,
+              "quote": "Посетили могилу ее Величества Елизоветы 2."
+            }
+          ],
+          "decision": "covered_by_complex",
+          "reason": "Посещение внутри Виндзорского комплекса, подтверждённое также содержательной подписью о часовне; отдельная точка захоронения не нужна.",
+          "participants": null
+        },
+        {
+          "label": "Королевская жилая часть",
+          "event": "not_accessible",
+          "evidence": [
+            {
+              "source_record_index": 135,
+              "source_attachment_path": "attachments.0.data.6.media.description",
+              "quote": "Жилая часть (королевская резиденция) - туда прохода нет"
+            }
+          ],
+          "decision": "exclude_as_visit",
+          "reason": "Не переносить факт входа в замок на закрытые королевские помещения.",
+          "participants": null
+        },
+        {
+          "label": "Хитроу, парковка и домашний ужин",
+          "event": "travel_and_private_life",
+          "evidence": [
+            {
+              "source_record_index": 135,
+              "source_paragraph": 1,
+              "quote": "он рядом с Хитроу"
+            }
+          ],
+          "decision": "exclude_as_sightseeing",
+          "reason": "Перелёт, происшествие с машиной и семейный быт не самостоятельные достопримечательности.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/england/london-2022/national-gallery/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, полный исходный пост и все авторские подписи прочитаны; закрытые части отделены от посещённых.",
+      "objects": [
+        {
+          "label": "Национальная галерея",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 134,
+              "source_paragraph": 0,
+              "quote": "я побежала сразу в Национальную галлерею"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "national-gallery"
+          },
+          "reason": "Леля посетила галерею одна, пока ей выделили несколько свободных часов.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Трафальгарская площадь",
+          "event": "exterior_walk",
+          "evidence": [
+            {
+              "source_record_index": 134,
+              "source_paragraph": 1,
+              "quote": "насладилась видами Трафальгарской площади"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "london--trafalgarskaya-ploshchad"
+          },
+          "reason": "Ожидание открытия музея на площади.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Canada House, фонтаны и памятники",
+          "event": "brief_square_details",
+          "evidence": [
+            {
+              "source_record_index": 134,
+              "source_paragraph": 1,
+              "quote": "Сanada house"
+            }
+          ],
+          "decision": "covered_by_square",
+          "reason": "Краткие детали рассказа о площади; вход в Canada House не заявлен.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Rosewood London — afternoon tea",
+          "event": "meal_experience",
+          "evidence": [
+            {
+              "source_record_index": 134,
+              "source_paragraph": 5,
+              "quote": "Этот раз в Rosewood."
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Развёрнутый эпизод чаепития сохраняется в лондонском рассказе; отдельный ресторанный маркер не добавляется. Полный состав гостей не назван.",
+          "participants": null
+        },
+        {
+          "label": "Лувр, итальянская живопись и отдельные картины",
+          "event": "comparison_and_exhibits",
+          "evidence": [
+            {
+              "source_record_index": 134,
+              "source_paragraph": 3,
+              "quote": "привет Лувру"
+            }
+          ],
+          "decision": "exclude_as_separate_places",
+          "reason": "Лувр только сравнение, художники и картины — содержимое посещённой галереи.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/england/london-2022/tate-britain/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, полный исходный пост и все авторские подписи прочитаны; закрытые части отделены от посещённых.",
+      "objects": [
+        {
+          "label": "Tate Britain",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 133,
+              "source_paragraph": 2,
+              "quote": "А шли мы в музей TATE Britain."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "tate-britain"
+          },
+          "reason": "Осмотр коллекции, бесплатная экскурсия и обед в музейном кафе.",
+          "participants": [
+            "Леля",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Вестминстерский католический собор",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 133,
+              "source_paragraph": 6,
+              "quote": "На обратном пути забрели в Вестминстерский собор"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "westminster-cathedral"
+          },
+          "reason": "Прямо описан интерьер; не путать с аббатством.",
+          "participants": [
+            "Леля",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Британский музей",
+          "event": "alternative_not_selected",
+          "evidence": [
+            {
+              "source_record_index": 133,
+              "source_paragraph": 1,
+              "quote": "Бритский музей не может быть лишним никогда"
+            }
+          ],
+          "decision": "exclude_as_visit",
+          "reason": "Обсуждённый вариант, выбран Tate Britain.",
+          "participants": [
+            "Леля",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Вестминстерское аббатство и Парламент",
+          "event": "exterior_and_route",
+          "evidence": [
+            {
+              "source_record_index": 133,
+              "source_attachment_path": "attachments.0.data.1.media.description",
+              "quote": "На примере Вестминстерского аббатства Катя мне еще раз показала разницу между \"классической готикой\" (не помню точное название, на фото окна слева) и перпендикулярной готикой - справа."
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Пример окон и прогулка после ошибки в метро; входов не заявлено.",
+          "participants": [
+            "Леля",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Универмаг, каток, скульптура Анны Павловой",
+          "event": "incidental_caption",
+          "evidence": [
+            {
+              "source_record_index": 133,
+              "source_attachment_path": "attachments.0.data.20.media.description",
+              "quote": "Шопинг в обычном большом универмаге - шляпки 😀"
+            }
+          ],
+          "decision": "exclude_as_separate_places",
+          "reason": "Краткие подписи не развиты в самостоятельный рассказ. Торговое заведение не угадывается.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/england/london-2022/kent/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, полный исходный пост и все авторские подписи прочитаны; закрытые части отделены от посещённых.",
+      "objects": [
+        {
+          "label": "Provender House — поместье Ольги Романовой",
+          "event": "guided_interior_visit",
+          "evidence": [
+            {
+              "source_record_index": 132,
+              "source_paragraph": 3,
+              "quote": "Реально древнее англ. поместье в 17 комнат"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "places": "provender-house"
+          },
+          "reason": "Развёрнутый рассказ об экскурсии. Название установлено по официальному сайту владельца и реестру Historic England; это Norton возле Faversham, не одноимённый дом в Whitstable. Полный состав группы не указан.",
+          "participants": null
+        },
+        {
+          "label": "Leeds Castle",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 132,
+              "source_paragraph": 5,
+              "quote": "Потом поехали в замок - Leeds Castle."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "leeds-castle"
+          },
+          "reason": "Обсуждены реально осмотренные интерьеры; Леля и Катя названы, другие спутники не установлены.",
+          "participants": [
+            "Леля",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Мюзикл «Гамильтон»",
+          "event": "attended_performance",
+          "evidence": [
+            {
+              "source_record_index": 132,
+              "source_paragraph": 7,
+              "quote": "ходили на мюзикл \"Гамильтон\""
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "london"
+          },
+          "reason": "Леля и неназванная племянница посетили спектакль. Название театра отсутствует в рассказе; новая точка по одной внешней атрибуции площадки не добавляется.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/england/london-2022/hyde-park/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, полный исходный пост и все авторские подписи прочитаны; закрытые части отделены от посещённых.",
+      "objects": [
+        {
+          "label": "Кенсингтонские сады",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_record_index": 131,
+              "source_paragraph": 2,
+              "quote": "войти там в сад"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "london--kensingtonskie-sady"
+          },
+          "reason": "Маршрут от Кенсингтонского дворца в Гайд-парк описан прямо.",
+          "participants": [
+            "Леля",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Гайд-парк",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_record_index": 131,
+              "source_paragraph": 2,
+              "quote": "плавно переходит в Гайд-парк"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "hyde-park"
+          },
+          "reason": "Прогулка с собакой; её купание не превращается в купание всех участников.",
+          "participants": [
+            "Леля",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Кенсингтонский дворец",
+          "event": "passed_exterior",
+          "evidence": [
+            {
+              "source_record_index": 131,
+              "source_paragraph": 2,
+              "quote": "до  Кесингтонского дворца"
+            }
+          ],
+          "decision": "covered_by_gardens_route",
+          "reason": "Ориентир входа в сад; посещение дворца не описано.",
+          "participants": [
+            "Леля",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Спектакль по Диккенсу со школьным классом",
+          "event": "attended_venue_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 131,
+              "source_paragraph": 5,
+              "quote": "с классом ходили в театр на Дикенса"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Само посещение сохранено, название и театр неизвестны и вынесены в файл вопросов.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/england/london-2022/legal-london/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, полный исходный пост и все авторские подписи прочитаны; закрытые части отделены от посещённых.",
+      "objects": [
+        {
+          "label": "Temple Church",
+          "event": "visited_entry_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 130,
+              "source_paragraph": 1,
+              "quote": "церковь Тамплиеров"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "temple-church"
+          },
+          "reason": "Остановка юридической экскурсии; текст не уточняет вход внутрь.",
+          "participants": null
+        },
+        {
+          "label": "Юридический Лондон, Inns of Court и Сити",
+          "event": "guided_city_walk",
+          "evidence": [
+            {
+              "source_record_index": 130,
+              "source_paragraph": 1,
+              "quote": "И так до Сити дошли, и там погуляли!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "london"
+          },
+          "reason": "Дворики юридических объединений и городская прогулка; названия отдельных Inn не приведены.",
+          "participants": null
+        },
+        {
+          "label": "Здания судов",
+          "event": "closed",
+          "evidence": [
+            {
+              "source_record_index": 130,
+              "source_paragraph": 1,
+              "quote": "сами суды были закрыты"
+            }
+          ],
+          "decision": "exclude_as_interior_visit",
+          "reason": "Субботняя экскурсия не включала вход в закрытые суды.",
+          "participants": null
+        },
+        {
+          "label": "Пабы, магазинчики, церкви и частная вечеринка",
+          "event": "incidental_and_private",
+          "evidence": [
+            {
+              "source_record_index": 130,
+              "source_paragraph": 1,
+              "quote": "И всякие пабы, магазинчики, церкви"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Не названы и не рассказаны как самостоятельные объекты.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/england/london-2022/leighton-house/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, полный исходный пост и все авторские подписи прочитаны; закрытые части отделены от посещённых.",
+      "objects": [
+        {
+          "label": "Leighton House",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 129,
+              "source_paragraph": 1,
+              "quote": "завела меня в небольшой музей - Leighton house."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "leighton-house"
+          },
+          "reason": "Леля и её сестра осмотрели дом-музей с восточными интерьерами.",
+          "participants": [
+            "Леля",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Супермаркет и воскресный обед",
+          "event": "private_life_and_shopping",
+          "evidence": [
+            {
+              "source_record_index": 129,
+              "source_paragraph": 2,
+              "quote": "за продуктами к традиционному англ. обеду"
+            }
+          ],
+          "decision": "exclude_as_sightseeing",
+          "reason": "Рассказ о быте и технологиях магазина, без отдельной туристической точки.",
+          "participants": [
+            "Леля",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Будущая поездка Кати в Канаду",
+          "event": "future_wish",
+          "evidence": [
+            {
+              "source_record_index": 129,
+              "source_paragraph": 6,
+              "quote": "Я тоже так хочу одна на неделю"
+            }
+          ],
+          "decision": "exclude_as_visit",
+          "reason": "Пожелание на будущее, не часть состоявшегося маршрута.",
+          "participants": null
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled_one_question",
+    "questions": [
+      {
+        "object": "Диккенс, школьный спектакль в Лондоне, ноябрь 2022",
+        "question": "Как назывался спектакль и в каком театре он шёл? Факт посещения учтён в лондонском рассказе; название площадки не угадано."
+      }
+    ],
+    "external_sources": [
+      {
+        "url": "https://provenderhouse.co.uk/",
+        "purpose": "Имение Princess Olga Romanoff: Provender Lane, Norton, Faversham, Kent."
+      },
+      {
+        "url": "https://historicengland.org.uk/listing/the-list/list-entry/1374517",
+        "purpose": "Уточнение идентичности исторического дома Provender в Norton."
+      },
+      {
+        "url": "https://www.openstreetmap.org/node/255415813",
+        "purpose": "Координаты самого дома; одноимённый объект Whitstable исключён."
+      }
+    ],
+    "repeat_check": "Все семь исходных постов сопоставлены с главами и метками. Добавлено прямо описанное поместье; самостоятельный замок получил тип castle, дом Лейтона historic_house. Королевское жилое крыло и суды закрыты. Вход в Westminster Cathedral подтверждён отдельно от внешнего примера Westminster Abbey. Состав каждой прогулки установлен отдельно, не распространён на всю семью. Картины, бытовые места и краткие фоновые подписи не стали точками."
+  }
+}

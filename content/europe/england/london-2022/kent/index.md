@@ -6,6 +6,8 @@ weight: 40
 city: "Kent"
 places:
   - leeds-castle
+  - provender-house
+  - london
 hero_image: "20221124_133337.jpg"
 date: "2022-11-24"
 auto_gallery: false
