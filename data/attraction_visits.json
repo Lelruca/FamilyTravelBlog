@@ -16505,6 +16505,101 @@
         }
       ]
     },
+    "content/americas/canada/toronto-walks/yonge-street/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "toronto--ulitsa-yang",
+          "event": "guided_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 154,
+              "source_paragraph": 0,
+              "quote": "экскурсии по Торонто (улица Янг)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/toronto-walks.json",
+          "note": "Прямо названный маршрут с экскурсоводом. Имена всех участников в посте отсутствуют."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/americas/canada/toronto-walks/the-ward/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "toronto-city-hall",
+          "event": "visited_roof_terrace",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 112,
+              "source_paragraph": 2,
+              "quote": "мы поднялись на \"козырек\" здания новой мэрии."
+            }
+          ],
+          "report": "reviews/source-audit/trips/toronto-walks.json",
+          "note": "Прямо описан подъём на наружную террасу; вход в кабинеты мэрии не приписан."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "toronto",
+          "event": "guided_city_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 112,
+              "source_paragraph": 1,
+              "quote": "экскурсию по центру города (район Wart)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/toronto-walks.json",
+          "note": "Реальная историческая экскурсия по району, не полный список входов в показанные здания."
+        }
+      ]
+    },
+    "content/americas/canada/toronto-walks/queens-park/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "queens-park",
+          "event": "guided_interior_visit",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 91,
+              "source_paragraph": 0,
+              "quote": "решили сходить на бесплатную экскурсию по Парламенту Онтарио."
+            }
+          ],
+          "report": "reviews/source-audit/trips/toronto-walks.json",
+          "note": "Экскурсия в здании; зал и крылья подтверждены подписями. Это не только парк снаружи."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/americas/canada/toronto-walks/afternoon-tea-2025/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "queens-park",
+          "event": "guided_interior_visit_and_tea",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "G:/My Drive/Family Travel Blog Photos/North America/2022-2023 - Экскурсии по Торонто/04 - Afternoon Tea and Tour 2025/Источники/Текст Ольги.txt",
+              "source_sha256": "d66bc57d05d3c5704ed945dbf15f6efb43ca6fcb8f36369e001ac0c0f9d735c6",
+              "quote": "Afternoon Tea and Tour в здании правительства Онтарио."
+            }
+          ],
+          "report": "reviews/source-audit/trips/toronto-walks.json",
+          "note": "Отдельное посещение 2025 года, не повторный пересказ экскурсии 2023 года. День съёмки неизвестен, сохранена оговорка в главе."
+        }
+      ],
+      "place_visits": []
+    },
     "content/americas/cuba/trinidad-2017/cuba/index.md": {
       "source_review": "read",
       "visits": [],

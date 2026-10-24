@@ -1130,10 +1130,10 @@
       "title": "\"Afternoon Tea and Tour в Парламенте Онтарио (2025)\"",
       "draft": false,
       "source_sha256_lf": "62a0232fc560bf40b46fcc68ca17181178b35a66dd847b8fef860a7745b0f023",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/toronto-walks.json"
     },
     {
       "file": "content/americas/canada/toronto-walks/queens-park/index.md",
@@ -1142,10 +1142,10 @@
       "title": "\"Парламент Онтарио (2023)\"",
       "draft": false,
       "source_sha256_lf": "85a8ed0d7cd4e3722c6ea5192bc573e94a54661e8c1ec8b492a6100767e13862",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/toronto-walks.json"
     },
     {
       "file": "content/americas/canada/toronto-walks/the-ward/index.md",
@@ -1154,10 +1154,10 @@
       "title": "\"Центр города и The Ward (2023)\"",
       "draft": false,
       "source_sha256_lf": "fa741968212c4a5e127fc9c2f80a98a5e141c2c7cca823d533e6a829c2c15705",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/toronto-walks.json"
     },
     {
       "file": "content/americas/canada/toronto-walks/yonge-street/index.md",
@@ -1166,10 +1166,10 @@
       "title": "\"Улица Янг (2022)\"",
       "draft": false,
       "source_sha256_lf": "f547a4cf42d5fb6ca2be3c841d62f184f16d2eb21b3e61de1de6905a63a90920",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/toronto-walks.json"
     },
     {
       "file": "content/americas/canada/vancouver-2023/vancouver/index.md",
