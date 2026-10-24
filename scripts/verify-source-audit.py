@@ -42,6 +42,8 @@ for report_file in reports:
         for original in manifest['photos']:
             assert hashlib.sha256((archive/original['archive_name']).read_bytes()).hexdigest()==original['sha256'],'Original photograph changed'
         paragraphs=[]
+    elif r['source'].get('kind')=='owner_text':
+        paragraphs=source.read_text('utf-8').splitlines()
     elif r['source'].get('kind')=='facebook_profile_json':
         posts=json.loads(source.read_text('utf-8'))
         post=posts[r['source']['record_index']]

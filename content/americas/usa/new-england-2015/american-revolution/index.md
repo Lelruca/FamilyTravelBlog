@@ -10,7 +10,7 @@ hero_image: "20150815_135816.jpg"
 places:
   - lexington
   - concord-massachusetts
-attractions: ["lexington--liberty-ride","concord-ma--north-bridge"]
+attractions: ["lexington--liberty-ride"]
 ---
 
 <p>На следующий день мы двинулись по “местам революционной славы”.  </p>

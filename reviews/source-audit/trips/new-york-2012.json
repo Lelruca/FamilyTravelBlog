@@ -1,0 +1,1807 @@
+{
+  "trip_path": "content/americas/usa/new-york-2012",
+  "status": "materials_reviewed",
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2012 - Нью-Йорк\\Источники\\2026-10-20 - Текст автора.txt",
+    "sha256": "da664d62c673660fcaca588f256c36c668dad8af1318999aefbb6c9841d6d19d",
+    "kind": "owner_text",
+    "read": "Полный авторский TXT прочитан целиком, включая вступление с отдельной поездкой Наташи/Сергея, все четыре дня, оценки и заключение; позднее дополнение о ярмарке и крыше прочитано полностью. Все четыре главы сайта проверены по порядку, фотографии и музейные подписи просмотрены.",
+    "additional_files": [
+      {
+        "path": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2012 - Нью-Йорк\\Источники\\2026-10-20 - Дополнение ко второму дню.txt",
+        "sha256": "8392faaa2fb94d869aef33bd37ededc7ff255dce5135a290676907bb91219b02",
+        "read": "fully_read"
+      }
+    ]
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 206,
+    "manifest": "media-manifests/new-york-2012.json",
+    "method": "Все 206 исходных фотографий просмотрены на 18 листах; вывески Majestic и Dylan’s Candy Bar прочитаны отдельно, все 56 выбранных архивных оригиналов сверены по SHA-256. Ошибка года камеры не изменяет подтверждённый владельцем год; метаданные оригиналов не переписывались.",
+    "additional_originals": [
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0001.JPG",
+        "key": "IMG_0001.JPG",
+        "sha256": "401ef990f7b2883945ce3df6f8aa1f28d54bac76d773770812e6fe1a80baa505"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0002.JPG",
+        "key": "IMG_0002.JPG",
+        "sha256": "21c5f4a10fa38a2d10eddd1726e60dba1e5f2e3ca733a7f3291fb4a8721df390"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0003.JPG",
+        "key": "IMG_0003.JPG",
+        "sha256": "c3b813ca5bac366da24eceacd8a90aaf70d2343d24714c5950a6973a6df1945e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0004.JPG",
+        "key": "IMG_0004.JPG",
+        "sha256": "5a6e429b28373f692c3b4af48a4f9d655c499618a67ac04fa93255e99f35dc99"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0005.JPG",
+        "key": "IMG_0005.JPG",
+        "sha256": "74f872ae2cb07d822a4d94aea7af34a5fbca4f36ce01a117b9003c2304fedf2f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0006.JPG",
+        "key": "IMG_0006.JPG",
+        "sha256": "ec417bed1c647d837b284a662ad34f1ec6efb1e641dbbc2e603480203dafb7e6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0007.JPG",
+        "key": "IMG_0007.JPG",
+        "sha256": "c63c2050418ba71cf2f48f6531bbf02a205e27ef7e37c28e1cdb65619d138255"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0008.JPG",
+        "key": "IMG_0008.JPG",
+        "sha256": "390aba151e6a44deccba8f7365db98eddb4cd9fedcb105e86436696f22c406be"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0009.JPG",
+        "key": "IMG_0009.JPG",
+        "sha256": "fd81e1ac580fa81d95f6435fb24058d4d3e1dc7f66faa7886cdebae8078515d6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0010.JPG",
+        "key": "IMG_0010.JPG",
+        "sha256": "3240121e2240407ec4875eafaa16fd39f13be907d696fa24532990a9c038e0e2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0011.JPG",
+        "key": "IMG_0011.JPG",
+        "sha256": "352d24f6de1eb093b6de8ebdf0ad5ed49e0ca10d75c9df6c417a1f6ecbbfad21"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0016.JPG",
+        "key": "IMG_0016.JPG",
+        "sha256": "5208485b677983fc3e190a30fef865ded34652a1fc60461b3803d3d18dfe4920"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0017.JPG",
+        "key": "IMG_0017.JPG",
+        "sha256": "eca994a16cf7786674b40dc1d899417048d96a586a9ef0e3e6161cd4102da8dd"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0018.JPG",
+        "key": "IMG_0018.JPG",
+        "sha256": "35a0ad8c73ecd31561683eb0ba2f0bb1ef3a1831c5fdf2b20eed3e266e03a9a0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0019.JPG",
+        "key": "IMG_0019.JPG",
+        "sha256": "b5263fac87ebd5d8e1e9f358f60aab58b72b215ed82ab9a5d8027de606e3704c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0020.JPG",
+        "key": "IMG_0020.JPG",
+        "sha256": "d39fd82cb796bfa6cf2fba4a58fcb4d06dcfd0922a094efda9ca090f5eb2d035"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0021.JPG",
+        "key": "IMG_0021.JPG",
+        "sha256": "f0190630f38ff3bab47c3d31cb00d96a4e1acd3bc83e99f89a48faad62be27b5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0022.JPG",
+        "key": "IMG_0022.JPG",
+        "sha256": "f020b1be3640c965730f6c8f7c5e377f6d3d48a8c237982ada0929bf98d1332c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0023.JPG",
+        "key": "IMG_0023.JPG",
+        "sha256": "9e5ddec7394a0a70fa7e1a020e5ebca71f285a7fc8e5239126d53138915e95c5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0024.JPG",
+        "key": "IMG_0024.JPG",
+        "sha256": "65ebb7f052bfbc7aa469de6180c6fc29803d5eebff8c95f16f1f0ff455f9f657"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0025.JPG",
+        "key": "IMG_0025.JPG",
+        "sha256": "1bb1ead76558b4120f35fe16fcb273a4ff9da1614a83478367967dccd16829a5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0026.JPG",
+        "key": "IMG_0026.JPG",
+        "sha256": "70b824390ab0c3f8c99b076eb87ba87fd90fe1748ed4dbb74cdec640d0038b97"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0028.JPG",
+        "key": "IMG_0028.JPG",
+        "sha256": "985d291facf51e5e1c00cd8b8241ca3411736fab848caec9967f955b95f3220c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0029.JPG",
+        "key": "IMG_0029.JPG",
+        "sha256": "23a3bd26c18a9a51d2568351e24dd667f18ed3251676606f48c2fc421ad6a604"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0030.JPG",
+        "key": "IMG_0030.JPG",
+        "sha256": "d9e777f717e8cdab50ded4a923b586c2a8da5a1c987976d0b1a1043af59261b2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0031.JPG",
+        "key": "IMG_0031.JPG",
+        "sha256": "c3e9d5ac8f40ebe622f3d9bdff79b9014a1b1f6127ff5de7ca3ff9c25dfe71d4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0032.JPG",
+        "key": "IMG_0032.JPG",
+        "sha256": "bb9ba1ae7c8590a07ddb4eb4f98f60fc12add62876ce3dd4d0269367e12e4854"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0033.JPG",
+        "key": "IMG_0033.JPG",
+        "sha256": "cfd70b16bc753c72f67ba34fd1eeea142bd69cb1047a95f0a5bf5aa568ee192f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0034.JPG",
+        "key": "IMG_0034.JPG",
+        "sha256": "c41d6f6713e9b5a30b7076d0e6078cd402c75474c3da60b0ac9884c8157cc985"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0035.JPG",
+        "key": "IMG_0035.JPG",
+        "sha256": "bc151c0596823abe671709f081cb889b55efdcb823644ce07b599d78b95b2d35"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0036.JPG",
+        "key": "IMG_0036.JPG",
+        "sha256": "a4e6e43016b7084519429d1288574704375ef590ef55d825e12d0c0a44ce0d8a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0038.JPG",
+        "key": "IMG_0038.JPG",
+        "sha256": "e5ccec9497f5903970515a74827c4fe98af97cb425f1073387bea35cead5420c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0039.JPG",
+        "key": "IMG_0039.JPG",
+        "sha256": "cd76970c77e6377ea6478ed3e6da026255f6452ef89a9e3b86e809da6b5100d3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0040.JPG",
+        "key": "IMG_0040.JPG",
+        "sha256": "a7fbc89672df529e889c2a64fab085903351a06691e9b3ec371fbe71d20675c1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0041.JPG",
+        "key": "IMG_0041.JPG",
+        "sha256": "21e99689cfcb01fb12e62f7d9373b0b3b3b180c49c8df2d61a4345f99f5c58c5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0042.JPG",
+        "key": "IMG_0042.JPG",
+        "sha256": "7324343c368cab28e5cd29ab6f75923af063aebd66bb5757bb3f7af6eaf265f5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0043.JPG",
+        "key": "IMG_0043.JPG",
+        "sha256": "d2cb43dd8279e91382aad3df221399c147f566fc041e16b464b4e4c9a2992296"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0044.JPG",
+        "key": "IMG_0044.JPG",
+        "sha256": "400654f18c25927aef4a57d6e2a9b2b3d5a6375cb39afb7ef28c97cf7eeb111c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0045.JPG",
+        "key": "IMG_0045.JPG",
+        "sha256": "95758abb82e856340218b648c8a0378afabc93c5f9e6d81fa06b39e42e832625"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0046.JPG",
+        "key": "IMG_0046.JPG",
+        "sha256": "66fac704599a7d84e92ee43b44e3e89e3cfcc5f58af5f407468b1f84ce4a8d11"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0047.JPG",
+        "key": "IMG_0047.JPG",
+        "sha256": "b68b1bdade575a0bdec0f2f1e3f5ed272ecd238e21d1a67573cab8d60000138a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0048.JPG",
+        "key": "IMG_0048.JPG",
+        "sha256": "563d0385e34633a1282b065fa07d546a78f50f51eca202e5e28c82657909eea5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0049.JPG",
+        "key": "IMG_0049.JPG",
+        "sha256": "d63e6b8a69f4b73bcacee662c8c8226f881ae10e20e3e2c7c30b3ebbceb75d93"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0050.JPG",
+        "key": "IMG_0050.JPG",
+        "sha256": "7ed193013bf4debf7bf4fc05e46f3e1e55208f0f9cff2519f414fe5042dda70d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0052.JPG",
+        "key": "IMG_0052.JPG",
+        "sha256": "de1f3ddf72f05e25a020883626ee8991ddf5f24f338ccf7879d6f0ff4f1a3a58"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0058.JPG",
+        "key": "IMG_0058.JPG",
+        "sha256": "dc5a5cbd0215a93ff155ce59a99241b6e5a469b126c91790fe1524746631ae22"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0059.JPG",
+        "key": "IMG_0059.JPG",
+        "sha256": "fa05a93b67e4abc22f00263447df2d5fb83c35e73de1472c0d1dd0052fd9d691"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0060.JPG",
+        "key": "IMG_0060.JPG",
+        "sha256": "b6b2965ac6f4f4a3484215860f559c9eb89385b63c722be7dfddaa2d59fc41ae"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0061.JPG",
+        "key": "IMG_0061.JPG",
+        "sha256": "b86a906b1cfcf44a6aebb5681673b1f17c0a5eedb8b4563a4cb157a3e3d1fd79"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0062.JPG",
+        "key": "IMG_0062.JPG",
+        "sha256": "5aff6df041094b15e9685a456f5103d08ff4671d4d05fbbe3d34dee10b164766"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0063.JPG",
+        "key": "IMG_0063.JPG",
+        "sha256": "64eeae321cebb339f375fe728c3dc93d39a60b5b379ee2be944adfbf29f90148"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0064.JPG",
+        "key": "IMG_0064.JPG",
+        "sha256": "814b38e8544222ba509e75bc047f8908f8e0d1a4e6d6994ff9f195f1bcf8ae71"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0065.JPG",
+        "key": "IMG_0065.JPG",
+        "sha256": "70b9931491d25195d6b76d9122dcbb28cb41562948cfb4e4ece4be16305da6a5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0066.JPG",
+        "key": "IMG_0066.JPG",
+        "sha256": "fd278235ca9e327cdb5e72b417829a360b4071d0c3903ada18208543f71bcc04"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0067.JPG",
+        "key": "IMG_0067.JPG",
+        "sha256": "c09dea8b16a1c0b5b24560758f4355f774509cd19303ed622720de1544d23ba1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0068.JPG",
+        "key": "IMG_0068.JPG",
+        "sha256": "fbd8d706b26fdb9dae432a073b4f2ef30de28bf6464a115b21053013723034ed"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0069.JPG",
+        "key": "IMG_0069.JPG",
+        "sha256": "d3613cdcdb12a08e2aa26d416f06e01b415fcb294cb62fdc35cdde6b428fd7a2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0070.JPG",
+        "key": "IMG_0070.JPG",
+        "sha256": "43dc15d6a5825e649547795eb5dda99f35688664b882f8d75225875b60ebbb57"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0071.JPG",
+        "key": "IMG_0071.JPG",
+        "sha256": "cdaf1925f9ea7dd1db13f5f76010de21a58ea5a87fccbb8f6af752ae01e3ca14"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0072.JPG",
+        "key": "IMG_0072.JPG",
+        "sha256": "cd86eb88be15a1c708b14e5e07fdf74eabd965a3a6f7a6861302a62ed2c1c9f7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0073.JPG",
+        "key": "IMG_0073.JPG",
+        "sha256": "729aafc20729a2fd42ce70765587bdc234cacb2fc90fb22ba986ddbf1b1d9a08"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0074.JPG",
+        "key": "IMG_0074.JPG",
+        "sha256": "66a0b4f7417383795afd713b8b9916e4cbf167082508b960781f2ef7b4cc1e72"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0075.JPG",
+        "key": "IMG_0075.JPG",
+        "sha256": "649569087dcc6c2a3556c17032249dc16583194eef1201370d74832694c1a9e5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0076.JPG",
+        "key": "IMG_0076.JPG",
+        "sha256": "412973f7bd7c5f17fd7c6827b67daaf1a827eaf4aa65306f06975e8f3a3f5ffe"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0077.JPG",
+        "key": "IMG_0077.JPG",
+        "sha256": "efb4aac53c54027859703b9253327b6abfc88ec90b95da6f0b05c6e02481ecce"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0078.JPG",
+        "key": "IMG_0078.JPG",
+        "sha256": "77cb8574e15b97520022b00d23a417886cdb9faa359ae73e8723796410c79d97"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0079.JPG",
+        "key": "IMG_0079.JPG",
+        "sha256": "7208cb6c56a92e1aaaeddf15d23982aaeb7081915753a5117bd6f503eafc815c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0080.JPG",
+        "key": "IMG_0080.JPG",
+        "sha256": "b0508222d4c0ee51ff13ea6baf65ba591a4aae135fcf797f7b81a74098d71030"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0081.JPG",
+        "key": "IMG_0081.JPG",
+        "sha256": "daff1d779824e7d51be49f671918ce25c2b730be813931a17e5fdd15818419f2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0082.JPG",
+        "key": "IMG_0082.JPG",
+        "sha256": "3533d35f1147587c7d01e54c1d37733f3850b990d8335e41a92c6c5fd20efac7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0083.JPG",
+        "key": "IMG_0083.JPG",
+        "sha256": "84bbd20070db57ce64718d1fef8557fb44562896663928429451a46140dd3f31"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0084.JPG",
+        "key": "IMG_0084.JPG",
+        "sha256": "5637bebc8091e1c8d6a33a57825617f838c1db5185ccec6db9e24b893d376496"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0085.JPG",
+        "key": "IMG_0085.JPG",
+        "sha256": "e69ef77dc0a755db31a55c8d1b97738e1c664bcfcccccf69242c472453e2da6b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0086.JPG",
+        "key": "IMG_0086.JPG",
+        "sha256": "88f973b1c89335ff9536f707c1ac9b5828adbfe75480066d31fd3d77f1b73192"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0087.JPG",
+        "key": "IMG_0087.JPG",
+        "sha256": "4fb0a6100c0b094a4cca95134a7d76e6a060646bd61c5294b8dba02c572c4cfc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0088.JPG",
+        "key": "IMG_0088.JPG",
+        "sha256": "5e8448f93f4407325e34d0aca4f82f0a9d41cb61518521a2d6134f031f724fc4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0089.JPG",
+        "key": "IMG_0089.JPG",
+        "sha256": "4666628e3e914411caad44dd19a9b5c10aabc8d9b0a84654dedba73cca2e428f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0090.JPG",
+        "key": "IMG_0090.JPG",
+        "sha256": "37abd45e3b549d5745b8fa5600bfbdf375745eba24cc4e00e857034b97c0a752"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0091.JPG",
+        "key": "IMG_0091.JPG",
+        "sha256": "854f24704834dc730438127c806eb14d12de616ab9f00860ed6729e8f920eaaf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0092.JPG",
+        "key": "IMG_0092.JPG",
+        "sha256": "8839fa0dd6dcd65edf0289aaa8c23c115f885619b556265354ffdb21ec358604"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0093.JPG",
+        "key": "IMG_0093.JPG",
+        "sha256": "3e7168c80af9e076df6b736d7c7bc3bc07ee1609243c33c7b33aa90609835d20"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0094.JPG",
+        "key": "IMG_0094.JPG",
+        "sha256": "ab286cc0830e02ef848172f41c72a8ad1d6318f7da579033b0629d1fa0b7a1ad"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0095.JPG",
+        "key": "IMG_0095.JPG",
+        "sha256": "0519a895ef05a8305cbd48f8239eb1fcf05a516f1918bce1bcab9fab771333f1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0096.JPG",
+        "key": "IMG_0096.JPG",
+        "sha256": "d372fbda5f9d15f1408e3537e06ab534109da602525b5d8970c1a96940c23feb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0097.JPG",
+        "key": "IMG_0097.JPG",
+        "sha256": "883274ada59da2a8848bc671aaf63060579e1d6e61da91001da97412bba08bab"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0098.JPG",
+        "key": "IMG_0098.JPG",
+        "sha256": "b4cd81b3b476035d595abcbe166c984741943d94ccefddb638d71b227f81f05a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0099.JPG",
+        "key": "IMG_0099.JPG",
+        "sha256": "ba067b098948f054076df1f30c95de4b36b70d10310ba7f04fa993bbe025ba46"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0100.JPG",
+        "key": "IMG_0100.JPG",
+        "sha256": "1829837ceeb3c70be05b8ba3635e577246068b16b84cecefc9c4b01c7b00bf79"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0101.JPG",
+        "key": "IMG_0101.JPG",
+        "sha256": "e2be52aca7fce52231c2d9ae2f94c5bd6855dcb6e2ae03998df2d55ac6330fcb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0102.JPG",
+        "key": "IMG_0102.JPG",
+        "sha256": "419fdb421f6c33587bc75fc23a93742671b35f685372c984f370f7a42e83b371"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0103.JPG",
+        "key": "IMG_0103.JPG",
+        "sha256": "03fff16653bea4ee9c69ea02bd72e30ef6f5ad4882fe83617fa327fc46c423d3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0104.JPG",
+        "key": "IMG_0104.JPG",
+        "sha256": "ca063455f5cbbae3e3e7cdb97f66a8f014068def71634f9b807b26cd303a3c39"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0105.JPG",
+        "key": "IMG_0105.JPG",
+        "sha256": "8629f91ca237bafb3991f127a875770be721d69dd0e4f1c34fafc789cb5ccc5b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0106.JPG",
+        "key": "IMG_0106.JPG",
+        "sha256": "52a1a481c483ef58b4d10a1672e2c2f6e6e9f8d12100993f85437de16d6604fb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0107.JPG",
+        "key": "IMG_0107.JPG",
+        "sha256": "f54b09ccaa7c5b8f66ed0e31721454c130102d2fa5a60573ee1a65a2676e32ed"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0108.JPG",
+        "key": "IMG_0108.JPG",
+        "sha256": "be360da761fd579e102960a8206ae91fc52ac49d0a31e1fb44541ad89beefbdc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0109.JPG",
+        "key": "IMG_0109.JPG",
+        "sha256": "8e00cc81e8dcd2d61ac25ad18380911db3b4aaa108951ee7e50d246539d6f4e4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0110.JPG",
+        "key": "IMG_0110.JPG",
+        "sha256": "fbe40a054bd223dcf3b5c89110c0c335a27b643dc43a2082c282c2a1095f7bc6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0111.JPG",
+        "key": "IMG_0111.JPG",
+        "sha256": "cfe74a50557834970243435d2fb4fd11f7e4b3bb1358527308fccf00ebb5e6d0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0112.JPG",
+        "key": "IMG_0112.JPG",
+        "sha256": "4073f03f0dc2bf18f6f113901ce3c20a4137c5b790358fd8853ff1e241d02384"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0113.JPG",
+        "key": "IMG_0113.JPG",
+        "sha256": "eec4f98f3d591176614bd0b5cad128e74de23e0d1d6ca57d7117819169487bdb"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0114.JPG",
+        "key": "IMG_0114.JPG",
+        "sha256": "5d387eefdb2f831cdf8e2da4be5e4d619ec1736126b527593506dc5be108b6ef"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0115.JPG",
+        "key": "IMG_0115.JPG",
+        "sha256": "7c8db36b2f101b0ec417cc2c8474df7c65aa1ce1f88010d808675503ae71be58"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0116.JPG",
+        "key": "IMG_0116.JPG",
+        "sha256": "85b86706b66df2a28d8eda9f80c4deac9a4d0536d929b740d60711cceeb99349"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0117.JPG",
+        "key": "IMG_0117.JPG",
+        "sha256": "bf00204399c5808353088f8fa4e0bb0dc740ae0e94a2d66f9606198eaae23004"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0118.JPG",
+        "key": "IMG_0118.JPG",
+        "sha256": "9c976b6e87e377857b8940e3b6b09a96babeab575352209b94c0215ae6baa9e1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0119.JPG",
+        "key": "IMG_0119.JPG",
+        "sha256": "992a1a2100bd67567e5e4cb410915f74cabefcb2ec057aea8f2989d9c53029c2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0120.JPG",
+        "key": "IMG_0120.JPG",
+        "sha256": "e56900d21bdfdb5c00e889bee09591dddfeffb880b2800809ae6717020ee533d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0121.JPG",
+        "key": "IMG_0121.JPG",
+        "sha256": "d2b3d569ec552cf0afcbc928c7dece7645ba7162b24b28a8ceda2f81b705f971"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0122.JPG",
+        "key": "IMG_0122.JPG",
+        "sha256": "96786460c1c4eb457f3c55befecb94521121ddbd91d5734fc8cf5bd377a189e0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0123.JPG",
+        "key": "IMG_0123.JPG",
+        "sha256": "7bb17364550f6141c519ab400ada87bf694ab916e414e106be2343f6da4a92de"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0124.JPG",
+        "key": "IMG_0124.JPG",
+        "sha256": "3ef1a088941fc215c2fdb7844d81c9c95c402112152d673001c525707038baca"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0125.JPG",
+        "key": "IMG_0125.JPG",
+        "sha256": "4a5ac1e4b5f97463dd585ed480655076cfd1a623ef01e339cc1898dda8f27697"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0126.JPG",
+        "key": "IMG_0126.JPG",
+        "sha256": "83be756bf4fb5ad715d2287c496eda5746572b2aca40ea50558099bdf224b704"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0127.JPG",
+        "key": "IMG_0127.JPG",
+        "sha256": "87d54a562ed5d154e902195f390247fd39cd10f9986cc444d93818670a0c4a10"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0128.JPG",
+        "key": "IMG_0128.JPG",
+        "sha256": "82e4feb7343498afb7979cc2264db2083841fa724db5a015745f89017dd7c127"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0129.JPG",
+        "key": "IMG_0129.JPG",
+        "sha256": "8b37bb4cca4338f6459b05f327122d33ba1ba9a090921827454878b48dfea4f2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0130.JPG",
+        "key": "IMG_0130.JPG",
+        "sha256": "4e00c074595b81638513f8a75684e282d7c8eb1c6bd77eac17b34945acf271ad"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0131.JPG",
+        "key": "IMG_0131.JPG",
+        "sha256": "642423e9397b1d10dec41d8264bd3166e9fe8a27966539e51ee46bf112828b09"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0132.JPG",
+        "key": "IMG_0132.JPG",
+        "sha256": "061434547fde4f8780dbc11500db7743ed0d1b231862c9e2cad5f3878785e92b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0133.JPG",
+        "key": "IMG_0133.JPG",
+        "sha256": "7dc4a3b0403cdea1e9ab7d0a8f4d0d4f6334fbb47d20f3d3266a6e9cadb1971c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0134.JPG",
+        "key": "IMG_0134.JPG",
+        "sha256": "f9c87de407356bda76dfb79472eeaf0fbf5446bf1815825a241ceb2c095b2f54"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0135.JPG",
+        "key": "IMG_0135.JPG",
+        "sha256": "0083aa0ff1124f04a5f6e5e666a858d3ba1567ab2ea16eeedcc4792ac4f63d8c"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0136.JPG",
+        "key": "IMG_0136.JPG",
+        "sha256": "e4aa46c5b5452e00898d680e66b6fcfefb392e2886055cb0faad7a7dec86c69b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0137.JPG",
+        "key": "IMG_0137.JPG",
+        "sha256": "477143e392420bd59aa113fa6f7cabee4f472f3b17ee8eaa8240ed829917e040"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0138.JPG",
+        "key": "IMG_0138.JPG",
+        "sha256": "22d05897465f7f14b8c28fd19ba9efaa9dc0898cc41575e405af4f40fbc999c4"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0139.JPG",
+        "key": "IMG_0139.JPG",
+        "sha256": "fc8fa5ad841d6d3c1bc95fed6bb5ac76dbac18cdb7eb1af4198ad9a21a8465ee"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0140.JPG",
+        "key": "IMG_0140.JPG",
+        "sha256": "73669e613bc70a37ce790586a8e1ab0e703a8acdf9b176d6999b9c2214876400"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0141.JPG",
+        "key": "IMG_0141.JPG",
+        "sha256": "4946a146d15663a07e5c76c080742f7645a53c458f8490f601f57a274dbee301"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0142.JPG",
+        "key": "IMG_0142.JPG",
+        "sha256": "46ed273d0e64bf6e78a6dd6918927458aee499ced0fc27bf282a0f50d421e812"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0143.JPG",
+        "key": "IMG_0143.JPG",
+        "sha256": "ff21995291e89266bd99d41847f3f8ba4f9b2f4d207c4c2bd882202bb9de6b8b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0144.JPG",
+        "key": "IMG_0144.JPG",
+        "sha256": "0307fe4a8c73c7f06b0385791b0f42ffa0afe2abb94af1b4ea6529191aeb6e56"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0145.JPG",
+        "key": "IMG_0145.JPG",
+        "sha256": "cd7f3e33480a0ee0eb47bc63cc68e5a2d26c7ccdf984784a6283e9a59c9c306e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0146.JPG",
+        "key": "IMG_0146.JPG",
+        "sha256": "7a76fdfd7018febe946bcc79652bbe5b08eb747df467219d2e18c67f9fa72dc3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0147.JPG",
+        "key": "IMG_0147.JPG",
+        "sha256": "8f426d668dedc23dee24c51d32b46f999241a5e542c60229ad9951629cf49675"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0148.JPG",
+        "key": "IMG_0148.JPG",
+        "sha256": "68b1ac58bc7239e62e7516c54852cad5d66285952039cf60931254e524ce2681"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0149.JPG",
+        "key": "IMG_0149.JPG",
+        "sha256": "9dffe85088ac7d1c23744c183a1ca4dd9ea1803651245ea3105d38be6fee5637"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0150.JPG",
+        "key": "IMG_0150.JPG",
+        "sha256": "bf38787e12f021284daecf61987c6546646a37bf9950ff993a972c409744c84b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0151.JPG",
+        "key": "IMG_0151.JPG",
+        "sha256": "e2631aa4506bc0b180e9c31227b4cb91dbba2bc77a487a4934bb1f27acc1686b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0152.JPG",
+        "key": "IMG_0152.JPG",
+        "sha256": "638346425316203242c51e9c8aba63a5f046b346ebf20f2f4025d39531961bb5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0153.JPG",
+        "key": "IMG_0153.JPG",
+        "sha256": "487b1001a09e3e0523fdc82ea39c3c9a2119ee4ebbefef0fce175e744522e526"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0154.JPG",
+        "key": "IMG_0154.JPG",
+        "sha256": "e362ec64972cd6a305c88fadd32823bd736fa317700c430cb3a77ee6d77d1296"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0155.JPG",
+        "key": "IMG_0155.JPG",
+        "sha256": "5b30405e6e10d6167f72b4f4144e7f2545a456724fae939c9949888ecd36b73a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0156.JPG",
+        "key": "IMG_0156.JPG",
+        "sha256": "45a14b722e52f9537e6b14db0c73f4f96250daa9d6614bd0031a2b0e8d8dad56"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0157.JPG",
+        "key": "IMG_0157.JPG",
+        "sha256": "29d2fd3e487769584aa50c99aca21bb2d66500c22013a15209e1ebb344df519a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0158.JPG",
+        "key": "IMG_0158.JPG",
+        "sha256": "664c340c81488e0a204376078febed63db6c917c7fde240576ae8ac8817c0d72"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0159.JPG",
+        "key": "IMG_0159.JPG",
+        "sha256": "445b1c200f8ec4a42261ee486c72d7716d1704bd8f5b02da81590cd94da589d5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0160.JPG",
+        "key": "IMG_0160.JPG",
+        "sha256": "c86f0031e8acf0c386b66b6d28bff2c2499ae76c80927591f2db1a3f3329f5f1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0161.JPG",
+        "key": "IMG_0161.JPG",
+        "sha256": "6fe729bbeb45aaf91e7089b56fdc73b709b84c37806bdd90be081ba5b9f433c8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0162.JPG",
+        "key": "IMG_0162.JPG",
+        "sha256": "f3e5af752bb6d210b0463de14ea238a642778a585fc2af6e9bcc680decbc7ed8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0163.JPG",
+        "key": "IMG_0163.JPG",
+        "sha256": "0b9892d7474e092291bc83fbe2ddf300b6f2a40bb35139ee4e9a0695707ce516"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0164.JPG",
+        "key": "IMG_0164.JPG",
+        "sha256": "a6084b0a64e6c8fa1a2849c4df5c8ba8b8d541440e69434dbfe8c2a0ec8cd78d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0165.JPG",
+        "key": "IMG_0165.JPG",
+        "sha256": "e8f8ed22213bef482ce76e7a6feb0d0b967b38f1d1bbd036321b553b5f55db79"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0166.JPG",
+        "key": "IMG_0166.JPG",
+        "sha256": "89f47c054cb35051ce72bfb0efef85e07617f27562603148b6f1faae68516769"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0167.JPG",
+        "key": "IMG_0167.JPG",
+        "sha256": "cfe0d66ed8333727132d90ab7fc96869b16a5364dea274964ef78eab6bf20826"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0168.JPG",
+        "key": "IMG_0168.JPG",
+        "sha256": "7f27ecc9b6768934c564af6ed8cf933c42c0340d08eb80f341ffb21ccc1b4927"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0169.JPG",
+        "key": "IMG_0169.JPG",
+        "sha256": "f6365daaeb57b628a0e6f7472ca1c64d7ce7e8df3c0df3cd6b979efbcbd89d8e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0170.JPG",
+        "key": "IMG_0170.JPG",
+        "sha256": "91a6d9cc81540d717fa9fc92dd0daf3cc0b74dc9cd04a368be5e59381377d5d1"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0171.JPG",
+        "key": "IMG_0171.JPG",
+        "sha256": "f91e7d3dee13c3c72e37d599eee7dcc9085977965c218b12c2b4ce87215fe265"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0172.JPG",
+        "key": "IMG_0172.JPG",
+        "sha256": "6ec1ea74e132b26beb41068d33114d78c6de4c6bc9e5859139dd39d68e394678"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0173.JPG",
+        "key": "IMG_0173.JPG",
+        "sha256": "ed0f25cef4e50c473f11f230556ecee5d6400781a4393e37a4c750b787cc5410"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0174.JPG",
+        "key": "IMG_0174.JPG",
+        "sha256": "4a38b872851203e95bf818e372ef4aa57ca8a9ee3bf9e7ba38c3d42cd6aa8f96"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0175.JPG",
+        "key": "IMG_0175.JPG",
+        "sha256": "425b291647e47380aedf358a3cc680d7fb78dbee7184e23aca615318297abf2e"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0176.JPG",
+        "key": "IMG_0176.JPG",
+        "sha256": "13090c0aaf71e02b2936e6c58a1f4725aa954f4753ef4317b3b3cd54f2be659b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0177.JPG",
+        "key": "IMG_0177.JPG",
+        "sha256": "4a4f53e878058900f18a2aeaaf0c3b6a8c1fc573ee6c7ad399d0447ed9ef7943"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0178.JPG",
+        "key": "IMG_0178.JPG",
+        "sha256": "df6d0f882cf3aa85ab84ff45364998b42dea6f62f3008ab1a0d5777ba0b563cf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0179.JPG",
+        "key": "IMG_0179.JPG",
+        "sha256": "9bef8b9a2e6ff9a47a75bb0afb0d19b87f0c9e8a733b9f73257cecde9a668c64"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0180.JPG",
+        "key": "IMG_0180.JPG",
+        "sha256": "5b919cb601909f24d836085fcde3180f96095f1701ad68eb1bfc9c2afc9bf779"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0181.JPG",
+        "key": "IMG_0181.JPG",
+        "sha256": "0969ae55b591e82a36cd9707a839f33c6fb6e885cbc403d48fe4c35227c91f93"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0182.JPG",
+        "key": "IMG_0182.JPG",
+        "sha256": "46ea2979805be78e60b40c47c9a23e00e681135648530145197f0b2b45714058"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0183.JPG",
+        "key": "IMG_0183.JPG",
+        "sha256": "4f62f0cf8adf82f2dce1662317034838567dd7ec30212061c0425a3a41a370bc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0184.JPG",
+        "key": "IMG_0184.JPG",
+        "sha256": "52f0509cfa4e90f9ac3f0de997b4829a5192416a76a8648ddfcf9102dc62e80a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0185.JPG",
+        "key": "IMG_0185.JPG",
+        "sha256": "beaa502e6e1c9d44dc02f581b225627afb5015ac96e8e1badab63e6065adbc4a"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0186.JPG",
+        "key": "IMG_0186.JPG",
+        "sha256": "4f3149561fe53187f41a65c88a702e6f3e292a2c95bd936333fd93e69ba70f85"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0187.JPG",
+        "key": "IMG_0187.JPG",
+        "sha256": "dfa8f3f54a5b5dd1a7cf704fabfe16d727be2e0adbda099a2104d6ba099700d5"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0188.JPG",
+        "key": "IMG_0188.JPG",
+        "sha256": "1cf432f012f4f1de2decc71c60d61aeeb69e853f17ff0d2b1543a3b948fc1cc6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0189.JPG",
+        "key": "IMG_0189.JPG",
+        "sha256": "3d1b5b18f4be92602755c95597faa190908bb3f3baa3a496662c4d80186fb848"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0190.JPG",
+        "key": "IMG_0190.JPG",
+        "sha256": "1eedd9ae138ebe97faa3adc83ede2bbb84bfc4af75c609d363a4db13414896a9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0191.JPG",
+        "key": "IMG_0191.JPG",
+        "sha256": "8d5b5558e7b2ba6993dbc90f355820d348e053488fd787c43d9c143e28f74a3b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0192.JPG",
+        "key": "IMG_0192.JPG",
+        "sha256": "c3fd94caf1af36a96c76067a311a900bbaac78841850d9048af9fb9914251021"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0193.JPG",
+        "key": "IMG_0193.JPG",
+        "sha256": "d71084ba5f91ef03a897e831983972ecf4818abf1ad5d7d09925791d1c2f39dc"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0194.JPG",
+        "key": "IMG_0194.JPG",
+        "sha256": "0f3f63e258feaafcca7f48b47f449237f19d927cbcbbe9d5f5318af8eaab6f82"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0195.JPG",
+        "key": "IMG_0195.JPG",
+        "sha256": "169caca80cbb2bc22f2fa8e4a70ef26d3f9787f5c6098aa3e7894d81dd823a3d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0196.JPG",
+        "key": "IMG_0196.JPG",
+        "sha256": "e4e589affa397b5aac8a27639ff508ca4633bea3078d62ab5186d39f3fbeafd3"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0197.JPG",
+        "key": "IMG_0197.JPG",
+        "sha256": "801f28c181a5f80d93a8e54257306a9a7d82eae59c12d8c0bc544725c4ff607f"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0198.JPG",
+        "key": "IMG_0198.JPG",
+        "sha256": "54de962cc5ee5e6626a0e9aaccc87a863e68a5e04e5582676b548b38213acf6b"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0199.JPG",
+        "key": "IMG_0199.JPG",
+        "sha256": "c92193ade4d2299d3451adb984109e71ad8d6fca600147e1ddbbbec5129b11b6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0200.JPG",
+        "key": "IMG_0200.JPG",
+        "sha256": "82f5bd24c1e934b01b14a9321b5db6e4d3c91bc1c893dd8e697fd66df47fd455"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0201.JPG",
+        "key": "IMG_0201.JPG",
+        "sha256": "cc60bcb452844b6e447f579a79c1e6b9d56b4b236f64a2da8628d98d15af4332"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0202.JPG",
+        "key": "IMG_0202.JPG",
+        "sha256": "fafd221da11213b1c9808c78742404ae925854908910e1d55e6de0af1b47d3d6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0203.JPG",
+        "key": "IMG_0203.JPG",
+        "sha256": "110077d9493397c8665e390c6f9c9066b93454aa797f3f0c1b8f1c54e7aefe99"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0204.JPG",
+        "key": "IMG_0204.JPG",
+        "sha256": "f6c2f55f144fcffcf912b4847469f8d460d4b0dde3929982cae53da6531edd18"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0205.JPG",
+        "key": "IMG_0205.JPG",
+        "sha256": "04aefce7614d047436cb658e8da8caeb5454eb580800a3cbbe62120e557f0eb9"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0206.JPG",
+        "key": "IMG_0206.JPG",
+        "sha256": "15821e9390e388bbab336ff975e5aac39ef54874910693dbc0081c4ecbda8534"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0207.JPG",
+        "key": "IMG_0207.JPG",
+        "sha256": "efbb1701e0fc7e1e87f774c4d1675d3dd497d74d2e5c4484a47c286232614f17"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0208.JPG",
+        "key": "IMG_0208.JPG",
+        "sha256": "dc2af9c15e8d664b077f04ff5942f080f43a2eb7f3aaee47ef96b2198ff39ba7"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0209.JPG",
+        "key": "IMG_0209.JPG",
+        "sha256": "cce252660c481c60cace1e274ccb4ca079d1f7e23455f85bb689a891cd469976"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0210.JPG",
+        "key": "IMG_0210.JPG",
+        "sha256": "d4108b4725e4bbcfa1adf3545d7ad5030eb660556b3874dc295bdeb76d0e9d27"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0211.JPG",
+        "key": "IMG_0211.JPG",
+        "sha256": "71a42bb5aeed81694417befef0b7fa26ae5fa13b40b18287f73bc55e0d97d88d"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0212.JPG",
+        "key": "IMG_0212.JPG",
+        "sha256": "ede7d2ad4b8bff9053edd2094c51a5e182e3716fa0b42c960464b347544e1af8"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0213.JPG",
+        "key": "IMG_0213.JPG",
+        "sha256": "a444dc3d5c0340cabbc7ce2a1e22514807608efb2666e83f0f5fc8eab325adc0"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0214.JPG",
+        "key": "IMG_0214.JPG",
+        "sha256": "9a67d7abcd08dd9c344f341acbb600528a9850e4b302eeebde490da0b5d7a231"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0215.JPG",
+        "key": "IMG_0215.JPG",
+        "sha256": "e57ae6c99d7c509a82242b496d084a8a01e27452ab897342d212ac741cb37bf6"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0216.JPG",
+        "key": "IMG_0216.JPG",
+        "sha256": "a600bf8e76975f23512374bd4e6d31a624768c9242db0d77bbcc0167ee9a39e2"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0217.JPG",
+        "key": "IMG_0217.JPG",
+        "sha256": "f88cda69713fd6f58c4e54053dcf00523009665c7877c50178244755c65515cf"
+      },
+      {
+        "source": "D:\\OneDrive\\Photo\\2012\\2012 Весна\\New York\\IMG_0218.JPG",
+        "key": "IMG_0218.JPG",
+        "sha256": "518915fca8d827d6919ce94435459dcba88e059e5789314d3374fd2e2027c1a9"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "file": "content/americas/usa/new-york-2012/day-1/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Нью-Йорк — Манхэттен",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "Мне очень хотелось ответить каждому лично (и я постараюсь это выполнить), но читала я все в «походном режиме», т.к. мы на 4 дня уезжали в Нью Йорк в гости к Катюше, моей однокласcнице. Ездила я с мамой и Митькой, это наше уже традиционное путешествие в таком составе на мой день рождения. Один год мы по Канаде катались, в прошлом году в Вашингтон ездили. А все потому, что это у нас праздничные выходные обычно, и поэтому именно в эти дни проходит всегда чемпионат Канады по фехтованию. А проходит он всегда в разных местах по стране, и Наташка с Серегой нас обычно «бросают», ну и нам приходится развлекаться самим. В этот раз они летали в Саскатун (это очень далеко, в «центре» Канады – дыра-дырой).\\"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "new-york"
+          },
+          "reason": "Леля, мама и Митя приехали на четыре дня, жили у одноклассницы Кати. Катя из Нью-Йорка не смешивается с родственницей Катей в Лондоне.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Саскатун — параллельная поездка Сергея и Наташи",
+          "event": "parallel_family_trip",
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "Мне очень хотелось ответить каждому лично (и я постараюсь это выполнить), но читала я все в «походном режиме», т.к. мы на 4 дня уезжали в Нью Йорк в гости к Катюше, моей однокласcнице. Ездила я с мамой и Митькой, это наше уже традиционное путешествие в таком составе на мой день рождения. Один год мы по Канаде катались, в прошлом году в Вашингтон ездили. А все потому, что это у нас праздничные выходные обычно, и поэтому именно в эти дни проходит всегда чемпионат Канады по фехтованию. А проходит он всегда в разных местах по стране, и Наташка с Серегой нас обычно «бросают», ну и нам приходится развлекаться самим. В этот раз они летали в Саскатун (это очень далеко, в «центре» Канады – дыра-дырой).\\"
+            }
+          ],
+          "decision": "exclude_from_new_york_itinerary",
+          "reason": "В тексте прямо сказано, что Сергей и Наташа улетели на чемпионат по фехтованию в Саскатун. Это другая поездка двух членов семьи; к посещениям Нью-Йорка они не присоединяются. Подробного рассказа об объектах Саскатуна здесь нет.",
+          "participants": [
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Вашингтон и прежняя поездка по Канаде",
+          "event": "previous_trip_reference",
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "Мне очень хотелось ответить каждому лично (и я постараюсь это выполнить), но читала я все в «походном режиме», т.к. мы на 4 дня уезжали в Нью Йорк в гости к Катюше, моей однокласcнице. Ездила я с мамой и Митькой, это наше уже традиционное путешествие в таком составе на мой день рождения. Один год мы по Канаде катались, в прошлом году в Вашингтон ездили. А все потому, что это у нас праздничные выходные обычно, и поэтому именно в эти дни проходит всегда чемпионат Канады по фехтованию. А проходит он всегда в разных местах по стране, и Наташка с Серегой нас обычно «бросают», ну и нам приходится развлекаться самим. В этот раз они летали в Саскатун (это очень далеко, в «центре» Канады – дыра-дырой).\\"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Автор вспоминает прежние дни рождения, не текущие остановки в Вашингтоне.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Автобус, граница, метро",
+          "event": "transport",
+          "evidence": [
+            {
+              "source_paragraph": 3,
+              "quote": "Ну а мы в ночь с четверга на пятницу сели в автобус (хотя с прошлого года я зарекалась кататься на автобусах, уж больно неудобно ночью в них спать, да еще на границе всех выгружают с вещами, но **( [Collapse](https://olgau.livejournal.com/137622.html#cutid1) )**"
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "reason": "Ночной автобус и транспорт, не отдельные достопримечательности.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Квартира Кати",
+          "event": "private_stay",
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "... другой дешевой и удобной альтернативы я не нашла. Самой ехать на машине – два дня в пути терять, а тут ночью везут...) и 4 дня у Катюши тусовались! Она пустила нас в свою маленькую, но очень уютную квартиру, и конечно ее мы сильно потеснили и выселили на диванчик, но сами расположились с комфортом, а бедная Катя нас еще кормила целыми днями, горячие завтраки и обеды готовила! Живет Катя в самом центре Манхетана! Мы везде ходили пешком, только один день на метро прокатились, т.к. дождь шел и просто надо же и такой опыт получить :-)\\"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Жили в частной квартире, не в гостинице. Адрес не восстанавливается и точка жилья не создаётся.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Sony Wonder Technology Lab",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 5,
+              "quote": "В первый день мы утром бросили вещи и пошли исследовать город. Сначала пошли в какой-то небольшой детский музей технологий под эгидой SONY. Простенько, немного, но бесплатно ;-) Интересно было как мультики делают.Сначала на компьютере ты мог создать своего героя, а потом в специальной кабине, ты сам перед камерой танцевал (камера основные точки тела – колени, локти. плечи и т.п. фиксировала движения), а потом вместо тебя накладывали твоего героя, и получился мультик как он танцует! Даже мне было интересно :-) НУ и много подобного – робота программировал Митька, «операцию» делал через специальную «руку»...\\"
+            },
+            {
+              "photo": "IMG_0002.JPG"
+            },
+            {
+              "photo": "IMG_0006.JPG"
+            },
+            {
+              "photo": "IMG_0010.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "new-york--sony-wonder-technology-lab"
+          },
+          "reason": "Подробный рассказ о детском музее технологий и серия IMG_0002–17 из интерактивных экспозиций. Не магазин Sony.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Анимация, робот и хирургический манипулятор",
+          "event": "visited_exhibits",
+          "evidence": [
+            {
+              "source_paragraph": 5,
+              "quote": "В первый день мы утром бросили вещи и пошли исследовать город. Сначала пошли в какой-то небольшой детский музей технологий под эгидой SONY. Простенько, немного, но бесплатно ;-) Интересно было как мультики делают.Сначала на компьютере ты мог создать своего героя, а потом в специальной кабине, ты сам перед камерой танцевал (камера основные точки тела – колени, локти. плечи и т.п. фиксировала движения), а потом вместо тебя накладывали твоего героя, и получился мультик как он танцует! Даже мне было интересно :-) НУ и много подобного – робота программировал Митька, «операцию» делал через специальную «руку»...\\"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "new-york--sony-wonder-technology-lab"
+          },
+          "reason": "Интерактивные станции одного музея, не отдельные учреждения.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "MoMA",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Потом мы пошли в музей современного (modern) искусства (MoMA). Ну-у-у-у, на любителя конечно :-) Но мы брали «наушники» и с ними намного интереснее, там и картину Дали нам «рассказали» и Пикассо. И когда тебе «подсказывают» ты видишь и понимаешь гораздо больше! Ну а импрессионистов и подсказывать не надо, от Моне мы получили большое удовольствие.\\"
+            },
+            {
+              "photo": "IMG_0022.JPG"
+            },
+            {
+              "photo": "IMG_0024.JPG"
+            },
+            {
+              "photo": "IMG_0026.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "new-york--muzey-sovremennogo-iskusstva-moma"
+          },
+          "reason": "Прямое описание посещения с аудиогидом, Моне, Дали и Пикассо; собственная серия внутри IMG_0022–26.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Top of the Rock",
+          "event": "ascended",
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "После этого мы полезли на смотровую площадку, правда не на Empire State Building (которая выше всего), а на Top of the Rock, с которой считается лучше вид. И действительно вид очень хороший! Плюс нет решеток, а просто стекло. Хотя у нас была бумажка где рассказывалось как какое здание называется, это все равно мало что дает, поэтому мы просто смотрели на панораму не пытаясь поять что есть что :-) Ну парк конечно и так понятно.\\"
+            },
+            {
+              "photo": "IMG_0029.JPG"
+            },
+            {
+              "photo": "IMG_0038.JPG"
+            },
+            {
+              "photo": "IMG_0040.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "new-york--smotrovaya-ploshchadka-top-of-the-rock"
+          },
+          "reason": "Прямо поднялись на смотровую площадку; большая серия IMG_0028–44 с мамой и Митей за стеклом.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Empire State Building",
+          "event": "unselected_alternative_and_distant_view",
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "После этого мы полезли на смотровую площадку, правда не на Empire State Building (которая выше всего), а на Top of the Rock, с которой считается лучше вид. И действительно вид очень хороший! Плюс нет решеток, а просто стекло. Хотя у нас была бумажка где рассказывалось как какое здание называется, это все равно мало что дает, поэтому мы просто смотрели на панораму не пытаясь поять что есть что :-) Ну парк конечно и так понятно.\\"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Автор прямо уточняет, что поднялись на другую площадку; вид здания в панораме не посещение этой башни.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Обзорная прогулка на пароходике вокруг юга Манхэттена",
+          "event": "boat_trip",
+          "evidence": [
+            {
+              "source_paragraph": 8,
+              "quote": "Ближе к вечеру мы совершили еще одну обзорную экскурсию, но уже на пароходике вокруг южной оконечности Манхетана, где вблизи рассмотрели и сфотографировали статую Свободы.\\"
+            },
+            {
+              "photo": "IMG_0047.JPG"
+            },
+            {
+              "photo": "IMG_0058.JPG"
+            },
+            {
+              "photo": "IMG_0061.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "new-york--manhattan-boat-trip"
+          },
+          "reason": "Поездка описана и подтверждена серией IMG_0047–61 из пассажирского салона. Оператор Circle Line не назначается только по общему маршруту.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Статуя Свободы",
+          "event": "viewed_from_boat",
+          "evidence": [
+            {
+              "source_paragraph": 8,
+              "quote": "Ближе к вечеру мы совершили еще одну обзорную экскурсию, но уже на пароходике вокруг южной оконечности Манхетана, где вблизи рассмотрели и сфотографировали статую Свободы.\\"
+            },
+            {
+              "photo": "IMG_0049.JPG"
+            },
+            {
+              "photo": "IMG_0050.JPG"
+            },
+            {
+              "photo": "IMG_0052.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "new-york--statuya-svobody"
+          },
+          "reason": "Подробно рассмотрели и сняли с воды; серии IMG_0049–52. Высадка на Liberty Island и вход в памятник не описаны.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Фасады храмов, небоскрёбы и мосты по пути",
+          "event": "incidental_exterior",
+          "evidence": [
+            {
+              "photo": "IMG_0018.JPG"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "Автор отдельно объясняет, что рассматривали общую панораму, не разбирая каждое здание. Случайно видимые храмы и фасады не становятся точками или вопросами.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/usa/new-york-2012/day-2/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Majestic Theatre — Фантом оперы",
+          "event": "attended",
+          "evidence": [
+            {
+              "source_paragraph": 9,
+              "quote": "На следующей день (который был моим днем рождения) нас Катюша в качестве подарка отвела на бродвейский мюзикл «Фантом оперы». Билеты нам достались в ложе, которая прямо над сценой!!!! Мы в ней одни сидели! Сначала боялись что сбоку будет не все видно, но оказалось видно было прекрасно, мы как-будто внутри сцены сидели, все ТАК близко! Все мы в большом восторге! Потом в небольшом уютном ресторанчике распили бутылочку вина в честь праздника :-)\\"
+            },
+            {
+              "photo": "IMG_0093.JPG"
+            },
+            {
+              "photo": "IMG_0094.JPG"
+            },
+            {
+              "photo": "IMG_0095.JPG"
+            },
+            {
+              "photo": "IMG_0099.JPG"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "new-york--majestic-theatre"
+          },
+          "reason": "Спектакль в подаренной Катею ложе над сценой. На IMG_0093/94 читаются Majestic и Phantom, серия IMG_0095–99 внутри подтверждает театр. Другие театральные вывески в уличных видах не посещения.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Ресторан после мюзикла",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 9,
+              "quote": "На следующей день (который был моим днем рождения) нас Катюша в качестве подарка отвела на бродвейский мюзикл «Фантом оперы». Билеты нам достались в ложе, которая прямо над сценой!!!! Мы в ней одни сидели! Сначала боялись что сбоку будет не все видно, но оказалось видно было прекрасно, мы как-будто внутри сцены сидели, все ТАК близко! Все мы в большом восторге! Потом в небольшом уютном ресторанчике распили бутылочку вина в честь праздника :-)\\"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Праздничное вино и ужин описаны; заведение не названо, бытовая остановка не становится самостоятельной точкой.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Уличная ярмарка на улице Кати",
+          "event": "attended",
+          "evidence": [
+            {
+              "source_file": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2012 - Нью-Йорк\\Источники\\2026-10-20 - Дополнение ко второму дню.txt",
+              "source_sha256": "8392faaa2fb94d869aef33bd37ededc7ff255dce5135a290676907bb91219b02",
+              "quote": "В этот же день на катиной улице была \"ярмарка\", когда все движение перекрывают и разные лавочки, едальни на улице. Мы с удовольствием приобщились."
+            },
+            {
+              "photo": "IMG_0063.JPG"
+            },
+            {
+              "photo": "IMG_0066.JPG"
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "target": {
+            "places": "new-york"
+          },
+          "reason": "Позднее дополнение автора подтверждает участие. Не угадываются название фестиваля, улица и отдельные лавки.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Коламбус-сёркл",
+          "event": "walked_and_rest_stop",
+          "evidence": [
+            {
+              "photo": "IMG_0073.JPG"
+            },
+            {
+              "photo": "IMG_0076.JPG"
+            },
+            {
+              "photo": "IMG_0081.JPG"
+            },
+            {
+              "photo": "IMG_0083.JPG"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Таймс-сквер",
+          "event": "walked",
+          "evidence": [
+            {
+              "photo": "IMG_0090.JPG"
+            },
+            {
+              "photo": "IMG_0091.JPG"
+            },
+            {
+              "photo": "IMG_0092.JPG"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Крыша дома Кати — ночная съёмка",
+          "event": "private_rooftop_view",
+          "evidence": [
+            {
+              "source_file": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2012 - Нью-Йорк\\Источники\\2026-10-20 - Дополнение ко второму дню.txt",
+              "source_sha256": "8392faaa2fb94d869aef33bd37ededc7ff255dce5135a290676907bb91219b02",
+              "quote": "А потом с крыши Катиного дома смотрели на дома и я пробовала свой новый фотоаппарат на ночной сьемке\r\n"
+            },
+            {
+              "photo": "IMG_0101.JPG"
+            },
+            {
+              "photo": "IMG_0106.JPG"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Автор прямо дополнила рассказ. Это частная крыша, не публичная смотровая площадка и не посещение каждого видимого здания. Не смешивается с террасой Metropolitan на следующий день.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя",
+            "Катя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/usa/new-york-2012/day-3/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Central Park",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 10,
+              "quote": "Еще один день нас Катюша водила пешком по городу, по Центральному парку (действительно внутри него забываешь, что вокруг «каменные джунгли»), и еще пол-дня мы провели в Мэтрополинэт музее, который (как мы обсудили) ближе всего к Эрмитажу – там и египетские-древнегреческие залы, и посуда-мебель, и доспехи средневековые и конечно же много-много картин! Самое большое удовольствие мы опять же получили от импрессионистов, скажем так, эта поездка у нас прошла под их знаком.\\"
+            },
+            {
+              "photo": "IMG_0201.JPG"
+            },
+            {
+              "photo": "IMG_0205.JPG"
+            },
+            {
+              "photo": "IMG_0206.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "new-york--tsentralnyy-park"
+          },
+          "reason": "Прогулка с Катей подробно описана, собственная серия IMG_0200–10 с семьёй. Скульптуры и фонтан в парке не дробятся.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Metropolitan Museum of Art",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 10,
+              "quote": "Еще один день нас Катюша водила пешком по городу, по Центральному парку (действительно внутри него забываешь, что вокруг «каменные джунгли»), и еще пол-дня мы провели в Мэтрополинэт музее, который (как мы обсудили) ближе всего к Эрмитажу – там и египетские-древнегреческие залы, и посуда-мебель, и доспехи средневековые и конечно же много-много картин! Самое большое удовольствие мы опять же получили от импрессионистов, скажем так, эта поездка у нас прошла под их знаком.\\"
+            },
+            {
+              "photo": "IMG_0138.JPG"
+            },
+            {
+              "photo": "IMG_0147.JPG"
+            },
+            {
+              "photo": "IMG_0180.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "new-york--metropoliten-muzey"
+          },
+          "reason": "Провели полдня; большая серия IMG_0137–198 из разных залов. Полностью прочитана авторская оценка, не только название музея.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Египетские, античные залы, доспехи, мебель и живопись",
+          "event": "visited_exhibits",
+          "evidence": [
+            {
+              "source_paragraph": 10,
+              "quote": "Еще один день нас Катюша водила пешком по городу, по Центральному парку (действительно внутри него забываешь, что вокруг «каменные джунгли»), и еще пол-дня мы провели в Мэтрополинэт музее, который (как мы обсудили) ближе всего к Эрмитажу – там и египетские-древнегреческие залы, и посуда-мебель, и доспехи средневековые и конечно же много-много картин! Самое большое удовольствие мы опять же получили от импрессионистов, скажем так, эта поездка у нас прошла под их знаком.\\"
+            },
+            {
+              "photo": "IMG_0140.JPG"
+            },
+            {
+              "photo": "IMG_0152.JPG"
+            },
+            {
+              "photo": "IMG_0161.JPG"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "new-york--metropoliten-muzey"
+          },
+          "reason": "Храм, статуи, рыцарские доспехи и интерьеры — экспонаты одного музея; не посещения Египта, Греции или иных дворцов.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Терраса Metropolitan — Cloud City",
+          "event": "visited_exhibition",
+          "evidence": [
+            {
+              "photo": "IMG_0167.JPG"
+            },
+            {
+              "photo": "IMG_0169.JPG"
+            },
+            {
+              "photo": "IMG_0171.JPG"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "new-york--metropoliten-muzey"
+          },
+          "reason": "Серия IMG_0167–71 с крыши и инсталляцией. Первичная страница Met датирует её 15.05–04.11.2012, дополнительно подтверждая уже установленный владельцем 2012 год. Вход внутрь каждого модуля не утверждается.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Магазин сладостей Dylan’s Candy Bar",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "IMG_0116.JPG"
+            },
+            {
+              "photo": "IMG_0118.JPG"
+            },
+            {
+              "photo": "IMG_0123.JPG"
+            },
+            {
+              "photo": "IMG_0124.JPG"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя",
+            "Катя"
+          ]
+        },
+        {
+          "label": "Эрмитаж",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 10,
+              "quote": "Еще один день нас Катюша водила пешком по городу, по Центральному парку (действительно внутри него забываешь, что вокруг «каменные джунгли»), и еще пол-дня мы провели в Мэтрополинэт музее, который (как мы обсудили) ближе всего к Эрмитажу – там и египетские-древнегреческие залы, и посуда-мебель, и доспехи средневековые и конечно же много-много картин! Самое большое удовольствие мы опять же получили от импрессионистов, скажем так, эта поездка у нас прошла под их знаком.\\"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Сравнение коллекций Metropolitan с Эрмитажем; Санкт-Петербург не остановка этой поездки.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/usa/new-york-2012/day-4/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Американский музей естественной истории",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 11,
+              "quote": "В последний день нас чуть подвела погода, был сильный дождь, Катюша уже работала, а мы прокатились на метро в Музей Естествознания, где посмотрели кости динозавров, посетили планетарий и многое другое, а потом еще погуляли по городу и даже для интереса прошлись по магазинам :-) Так что можно сказать что всю экскурсионную программу мы выполнили и впечатление от Нью-Йорка получили.\\"
+            },
+            {
+              "photo": "IMG_0212.JPG"
+            },
+            {
+              "photo": "IMG_0213.JPG"
+            },
+            {
+              "photo": "IMG_0215.JPG"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "new-york--amerikanskiy-muzey-estestvennoy-istorii"
+          },
+          "reason": "Прямо посетили в дождливый день; серия IMG_0212–218 внутри экспозиций. Катя работала и с ними не ходила.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Планетарий",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 11,
+              "quote": "В последний день нас чуть подвела погода, был сильный дождь, Катюша уже работала, а мы прокатились на метро в Музей Естествознания, где посмотрели кости динозавров, посетили планетарий и многое другое, а потом еще погуляли по городу и даже для интереса прошлись по магазинам :-) Так что можно сказать что всю экскурсионную программу мы выполнили и впечатление от Нью-Йорка получили.\\"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "new-york--amerikanskiy-muzey-estestvennoy-istorii"
+          },
+          "reason": "Посещение прямо описано в том же музейном дне. Учтено внутри музея, не пропущено из-за отсутствия отдельного фото купола. Название конкретной программы не выдумывается.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Динозавры и природные диорамы",
+          "event": "visited_exhibits",
+          "evidence": [
+            {
+              "source_paragraph": 11,
+              "quote": "В последний день нас чуть подвела погода, был сильный дождь, Катюша уже работала, а мы прокатились на метро в Музей Естествознания, где посмотрели кости динозавров, посетили планетарий и многое другое, а потом еще погуляли по городу и даже для интереса прошлись по магазинам :-) Так что можно сказать что всю экскурсионную программу мы выполнили и впечатление от Нью-Йорка получили.\\"
+            },
+            {
+              "photo": "IMG_0214.JPG"
+            },
+            {
+              "photo": "IMG_0216.JPG"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "new-york--amerikanskiy-muzey-estestvennoy-istorii"
+          },
+          "reason": "Кости динозавров названы в тексте; морские львы, животные и североамериканские культуры на снимках — музейные экспозиции, не отдельные живые зоопарки или поездки в эти регионы.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Метро и магазины перед отъездом",
+          "event": "transport_and_service_stops",
+          "evidence": [
+            {
+              "source_paragraph": 11,
+              "quote": "В последний день нас чуть подвела погода, был сильный дождь, Катюша уже работала, а мы прокатились на метро в Музей Естествознания, где посмотрели кости динозавров, посетили планетарий и многое другое, а потом еще погуляли по городу и даже для интереса прошлись по магазинам :-) Так что можно сказать что всю экскурсионную программу мы выполнили и впечатление от Нью-Йорка получили.\\"
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "target": {
+            "places": "new-york"
+          },
+          "reason": "Прокатились на метро, немного прошлись по неназванным магазинам; отдельные точки не создаются.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Ночной автобус обратно и возвращение семьи",
+          "event": "transport",
+          "evidence": [
+            {
+              "source_paragraph": 12,
+              "quote": "Сегодня ночью мы вернулись в 6 утра, Серега с Наташкой прилетели на 30 минут раньше :-) И все – рабочий день! Правда я работать осталась из дома и Митька в школу не пошел, а остальные уже работают."
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "reason": "Вернулись в 6 утра, Сергей и Наташа прилетели отдельно. Не назначаются Нью-Йорку их фехтовальные посещения.",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_explicit_exclusions",
+    "questions": [],
+    "repeat_check": "Полный исходник, дополнение автора, четыре главы, 206 оригиналов и данные сопоставлены. Входы, подъём, театральное представление, прогулка по воде и осмотр Статуи Свободы с лодки разделены. Панорамные фасады не каталогизируются. Планетарий и музейные экспозиции учтены в составе музея.",
+    "external_sources": [
+      {
+        "url": "https://www.metmuseum.org/exhibitions/listings/2012/tomas-saraceno",
+        "purpose": "Инсталляция на собственном фото IMG_0171 — Cloud City 2012, терраса музея. Совпадение дополнительно подтверждает год из указания владельца."
+      },
+      {
+        "url": "https://www.ibdb.com/broadway-production/the-phantom-of-the-opera-4491",
+        "purpose": "Театр Majestic в период спектакля, сверенный также с собственной вывеской IMG_0094."
+      },
+      {
+        "url": "https://nycgovparks.org/parks/central-park/highlights/7738",
+        "purpose": "Идентификация Коламбус-сёркл по собственному ансамблю фонтана и колонны."
+      }
+    ],
+    "photo_scope": "Рассказ — основное основание. Фото учитываются только как редкое исключение: большая серия в самой главе явно заменяет рассказ о месте и позволяет читателю понять, где оно показано. Количество неопубликованных оригиналов и отдельные виды не обосновывают точку. Неназванные детали не превращаются в вопросы."
+  }
+}

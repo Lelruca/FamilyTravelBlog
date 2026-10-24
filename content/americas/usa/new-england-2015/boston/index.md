@@ -9,7 +9,7 @@ auto_gallery: false
 hero_image: "20150814_102359.jpg"
 places:
   - boston
-attractions: ["boston--muzey-nauki-bostona","boston--muzey-vest-enda","boston--public-garden","boston--west-end","boston--freedom-trail"]
+attractions: ["boston--muzey-nauki-bostona","boston--muzey-vest-enda","boston--west-end","boston--freedom-trail"]
 ---
 
 <p><b>Бостон </b>(1629) <b>(5/4/5/3/3)</b>, крупнейший город Новой Англии, полный истории, музеев и архитектуры, рядом же ряд самый лучших университетов мира - Гарвард, Массачусетский Технологический… </p>

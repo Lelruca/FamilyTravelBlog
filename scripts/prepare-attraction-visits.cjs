@@ -5,14 +5,16 @@ const reportPaths=['reviews/source-audit/trips','reviews/source-audit/supplement
 for(const reportPath of reportPaths){
  const report=JSON.parse(fs.readFileSync(reportPath,'utf8'));
  for(const chapter of [...report.chapters,...(report.sections||[])]){
-  const visits=[];
+  const visits=[],place_visits=[];
   for(const o of chapter.objects){
+   if(o.target?.places&&['retain','add','revise_existing_definition'].includes(o.decision))
+    place_visits.push({id:o.target.places,event:o.event,participants:o.participants||null,evidence:o.evidence,report:reportPath,...(o.reason?{note:o.reason}:{})});
    if(!o.target?.attraction||!['retain','add','revise_existing_definition'].includes(o.decision))continue;
    visits.push({id:o.target.attraction,event:o.event,participants:o.participants||null,
     evidence:o.evidence,report:reportPath,...(o.reason?{note:o.reason}:{})});
   }
-  if(chapter.file)chapters[chapter.file]={source_review:'read',visits};
-  else source_reviews[report.source_id]={source_review:'read',title:report.title,site_chapter:null,visits,report:reportPath};
+  if(chapter.file)chapters[chapter.file]={source_review:'read',visits,place_visits};
+  else source_reviews[report.source_id]={source_review:'read',title:report.title,site_chapter:null,visits,place_visits,report:reportPath};
  }
 }
 fs.writeFileSync('data/attraction_visits.json',JSON.stringify({status:'partial',default_for_unlisted_chapters:'not_audited',chapters,source_reviews},null,2)+'\n');

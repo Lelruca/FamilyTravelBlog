@@ -5854,7 +5854,8 @@
     "title": "Американский музей естественной истории",
     "parent": "new-york",
     "types": [
-      "museum"
+      "museum",
+      "planetarium"
     ],
     "search_terms": [
       "музей",
@@ -5862,7 +5863,11 @@
       "музея",
       "музеев",
       "museum",
-      "museums"
+      "museums",
+      "планетарий",
+      "планетарии",
+      "планетария",
+      "planetarium"
     ]
   },
   "new-york--brodvey": {
@@ -9996,36 +10001,6 @@
       "Freedom Trail"
     ]
   },
-  "boston--public-garden": {
-    "title": "Общественный сад Бостона",
-    "parent": "boston",
-    "types": [
-      "park",
-      "botanical_garden"
-    ],
-    "aliases": [
-      "Boston Public Garden",
-      "Public Garden"
-    ],
-    "search_terms": [
-      "парк",
-      "парки",
-      "парка",
-      "парков",
-      "сад",
-      "сады",
-      "сада",
-      "садов",
-      "park",
-      "garden",
-      "ботанический сад",
-      "ботанические сады",
-      "ботаника",
-      "botanical garden",
-      "Boston Public Garden",
-      "Public Garden"
-    ]
-  },
   "boston--west-end": {
     "title": "Вест-Энд",
     "parent": "boston",
@@ -10063,35 +10038,6 @@
       "beach",
       "Covell’s Beach",
       "Covell's Beach"
-    ]
-  },
-  "concord-ma--north-bridge": {
-    "title": "Северный мост",
-    "parent": "concord-massachusetts",
-    "types": [
-      "bridge",
-      "monument"
-    ],
-    "aliases": [
-      "North Bridge",
-      "Old North Bridge",
-      "Minute Man National Historical Park"
-    ],
-    "search_terms": [
-      "мост",
-      "мосты",
-      "моста",
-      "мостов",
-      "bridge",
-      "памятник",
-      "памятники",
-      "монумент",
-      "мемориал",
-      "monument",
-      "memorial",
-      "North Bridge",
-      "Old North Bridge",
-      "Minute Man National Historical Park"
     ]
   },
   "lexington--liberty-ride": {
@@ -10588,24 +10534,6 @@
       "Robinier du square René-Viviani"
     ]
   },
-  "paris--shakespeare-and-company": {
-    "title": "Книжный магазин Shakespeare and Company",
-    "parent": "paris",
-    "types": [
-      "bookshop"
-    ],
-    "aliases": [
-      "Shakespeare & Company"
-    ],
-    "search_terms": [
-      "книжный магазин",
-      "книжные магазины",
-      "книги",
-      "bookshop",
-      "bookstore",
-      "Shakespeare & Company"
-    ]
-  },
   "paris--luxembourg-palace": {
     "title": "Люксембургский дворец",
     "parent": "paris",
@@ -10935,53 +10863,6 @@
       "Peace Tower"
     ]
   },
-  "ottawa--women-are-persons": {
-    "title": "Памятник «Женщины — личности!»",
-    "parent": "ottawa",
-    "types": [
-      "monument"
-    ],
-    "aliases": [
-      "Women Are Persons!",
-      "Famous Five",
-      "Знаменитая пятёрка"
-    ],
-    "search_terms": [
-      "памятник",
-      "памятники",
-      "монумент",
-      "мемориал",
-      "monument",
-      "memorial",
-      "Women Are Persons!",
-      "Famous Five",
-      "Знаменитая пятёрка"
-    ]
-  },
-  "vancouver--gastown-steam-clock": {
-    "title": "Паровые часы Гастауна",
-    "parent": "vancouver",
-    "types": [
-      "clock",
-      "monument"
-    ],
-    "aliases": [
-      "Gastown Steam Clock"
-    ],
-    "search_terms": [
-      "часы",
-      "куранты",
-      "астрономические часы",
-      "clock",
-      "памятник",
-      "памятники",
-      "монумент",
-      "мемориал",
-      "monument",
-      "memorial",
-      "Gastown Steam Clock"
-    ]
-  },
   "vancouver--seawall": {
     "title": "Набережная Ванкувера",
     "parent": "vancouver",
@@ -10999,31 +10880,6 @@
       "walking route",
       "Vancouver Seawall",
       "Seawall"
-    ]
-  },
-  "vancouver--canada-place": {
-    "title": "Canada Place",
-    "parent": "vancouver",
-    "types": [
-      "cultural_centre",
-      "harbour"
-    ],
-    "aliases": [
-      "Канада-Плейс"
-    ],
-    "search_terms": [
-      "культурный центр",
-      "культурные центры",
-      "culture centre",
-      "Канада-Плейс",
-      "гавань",
-      "гавани",
-      "порт",
-      "порты",
-      "марина",
-      "harbour",
-      "harbor",
-      "marina"
     ]
   },
   "vancouver--waterfront-station": {
@@ -11111,27 +10967,6 @@
       "walking trail",
       "walking route",
       "Port Elgin Waterfront Promenade"
-    ]
-  },
-  "port-elgin--harbour": {
-    "title": "Гавань Порт-Элгина",
-    "parent": "port-elgin",
-    "types": [
-      "harbour"
-    ],
-    "aliases": [
-      "Port Elgin Harbour"
-    ],
-    "search_terms": [
-      "гавань",
-      "гавани",
-      "порт",
-      "порты",
-      "марина",
-      "harbour",
-      "harbor",
-      "marina",
-      "Port Elgin Harbour"
     ]
   },
   "vancouver--le-soleil-hotel": {
@@ -11829,44 +11664,6 @@
       "Korean War Veterans Memorial"
     ]
   },
-  "washington-dc--white-house": {
-    "title": "Белый дом",
-    "parent": "washington-dc",
-    "types": [
-      "civic_building",
-      "historic_building"
-    ],
-    "aliases": [
-      "White House"
-    ],
-    "search_terms": [
-      "общественное здание",
-      "административное здание",
-      "civic building",
-      "историческое здание",
-      "архитектура",
-      "historic building",
-      "White House"
-    ]
-  },
-  "washington-dc--tidal-basin": {
-    "title": "Тайдал-Бейсин",
-    "parent": "washington-dc",
-    "types": [
-      "lake"
-    ],
-    "aliases": [
-      "Tidal Basin"
-    ],
-    "search_terms": [
-      "озеро",
-      "озёра",
-      "озера",
-      "озёр",
-      "lake",
-      "Tidal Basin"
-    ]
-  },
   "washington-dc--omni-shoreham": {
     "title": "Omni Shoreham Hotel",
     "parent": "washington-dc",
@@ -11879,67 +11676,6 @@
       "гостиница",
       "гостиницы",
       "hotel"
-    ]
-  },
-  "washington-dc--marine-corps-memorial": {
-    "title": "Мемориал морской пехоты США — Иводзима",
-    "parent": "washington-dc",
-    "types": [
-      "monument"
-    ],
-    "aliases": [
-      "US Marine Corps War Memorial",
-      "Iwo Jima Memorial",
-      "Арлингтон"
-    ],
-    "search_terms": [
-      "памятник",
-      "памятники",
-      "монумент",
-      "мемориал",
-      "monument",
-      "memorial",
-      "US Marine Corps War Memorial",
-      "Iwo Jima Memorial",
-      "Арлингтон"
-    ]
-  },
-  "washington-dc--nga-sculpture-garden": {
-    "title": "Сад скульптур Национальной галереи искусства",
-    "parent": "washington-dc",
-    "types": [
-      "park",
-      "gallery"
-    ],
-    "aliases": [
-      "National Gallery of Art Sculpture Garden"
-    ],
-    "search_terms": [
-      "парк",
-      "парки",
-      "парка",
-      "парков",
-      "сад",
-      "сады",
-      "сада",
-      "садов",
-      "park",
-      "garden",
-      "галерея",
-      "галереи",
-      "галерею",
-      "галерей",
-      "картинная галерея",
-      "картинные галереи",
-      "художественная галерея",
-      "художественные галереи",
-      "пинакотека",
-      "искусство",
-      "живопись",
-      "картины",
-      "gallery",
-      "art",
-      "National Gallery of Art Sculpture Garden"
     ]
   },
   "philadelphia--rodin-museum": {
@@ -12271,44 +12007,6 @@
       "art"
     ]
   },
-  "cambridge--kings-college-chapel": {
-    "title": "Часовня Королевского колледжа",
-    "parent": "cambridge",
-    "types": [
-      "chapel",
-      "church"
-    ],
-    "search_terms": [
-      "часовня",
-      "часовни",
-      "капелла",
-      "капеллы",
-      "храм",
-      "chapel",
-      "церковь",
-      "церкви",
-      "церквей",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "cambridge--trinity-college": {
-    "title": "Тринити-колледж — дворы",
-    "parent": "cambridge",
-    "types": [
-      "university"
-    ],
-    "search_terms": [
-      "университет",
-      "университеты",
-      "университета",
-      "колледж",
-      "university",
-      "college"
-    ]
-  },
   "brussels--grand-place": {
     "title": "Гран-Плас",
     "parent": "brussels",
@@ -12321,172 +12019,6 @@
       "площадей",
       "square",
       "plaza"
-    ]
-  },
-  "brussels--town-hall": {
-    "title": "Ратуша Брюсселя",
-    "parent": "brussels",
-    "types": [
-      "civic_building"
-    ],
-    "search_terms": [
-      "общественное здание",
-      "административное здание",
-      "civic building"
-    ]
-  },
-  "verona--san-zeno": {
-    "title": "Базилика Сан-Дзено",
-    "parent": "verona",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "verona--juliets-house": {
-    "title": "Дом Джульетты",
-    "parent": "verona",
-    "types": [
-      "museum",
-      "historic_house"
-    ],
-    "search_terms": [
-      "музей",
-      "музеи",
-      "музея",
-      "музеев",
-      "museum",
-      "museums",
-      "исторический дом",
-      "особняк",
-      "особняки",
-      "вилла",
-      "виллы",
-      "historic house",
-      "villa"
-    ]
-  },
-  "padua--saint-anthony-basilica": {
-    "title": "Базилика Святого Антония",
-    "parent": "padua",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "padua--prato-della-valle": {
-    "title": "Прато-делла-Валле",
-    "parent": "padua",
-    "types": [
-      "square"
-    ],
-    "search_terms": [
-      "площадь",
-      "площади",
-      "площадей",
-      "square",
-      "plaza"
-    ]
-  },
-  "venice--grand-canal": {
-    "title": "Гранд-канал",
-    "parent": "venice",
-    "types": [
-      "canal"
-    ],
-    "search_terms": [
-      "канал",
-      "каналы",
-      "канала",
-      "каналов",
-      "canal",
-      "canals",
-      "waterway"
-    ]
-  },
-  "venice--st-marks-square": {
-    "title": "Площадь Сан-Марко",
-    "parent": "venice",
-    "types": [
-      "square"
-    ],
-    "search_terms": [
-      "площадь",
-      "площади",
-      "площадей",
-      "square",
-      "plaza"
-    ]
-  },
-  "milan--sforza-castle": {
-    "title": "Замок Сфорца",
-    "parent": "milan",
-    "types": [
-      "castle"
-    ],
-    "search_terms": [
-      "замок",
-      "замки",
-      "замка",
-      "замков",
-      "крепость",
-      "крепости",
-      "цитадель",
-      "castle",
-      "fortress"
-    ]
-  },
-  "milan--galleria-vittorio-emanuele-ii": {
-    "title": "Галерея Виктора Эммануила II",
-    "parent": "milan",
-    "types": [
-      "shopping_centre",
-      "historic_building"
-    ],
-    "search_terms": [
-      "торговый центр",
-      "торговые центры",
-      "магазины",
-      "shopping mall",
-      "историческое здание",
-      "архитектура",
-      "historic building"
-    ]
-  },
-  "sirmione--scaliger-castle": {
-    "title": "Замок Скалигеров",
-    "parent": "sirmione",
-    "types": [
-      "castle"
-    ],
-    "search_terms": [
-      "замок",
-      "замки",
-      "замка",
-      "замков",
-      "крепость",
-      "крепости",
-      "цитадель",
-      "castle",
-      "fortress"
     ]
   },
   "rome--colosseum": {
@@ -12523,53 +12055,6 @@
       "раскопки",
       "archaeology",
       "ruins"
-    ]
-  },
-  "rome--trevi-fountain": {
-    "title": "Фонтан Треви",
-    "parent": "rome",
-    "types": [
-      "fountain"
-    ],
-    "search_terms": [
-      "фонтан",
-      "фонтаны",
-      "фонтана",
-      "fountain"
-    ]
-  },
-  "rome--spanish-steps": {
-    "title": "Испанская лестница",
-    "parent": "rome",
-    "types": [
-      "monument",
-      "walking_route"
-    ],
-    "search_terms": [
-      "памятник",
-      "памятники",
-      "монумент",
-      "мемориал",
-      "monument",
-      "memorial",
-      "пешеходный маршрут",
-      "прогулка",
-      "walking trail",
-      "walking route"
-    ]
-  },
-  "rome--capitoline-square": {
-    "title": "Капитолийская площадь",
-    "parent": "rome",
-    "types": [
-      "square"
-    ],
-    "search_terms": [
-      "площадь",
-      "площади",
-      "площадей",
-      "square",
-      "plaza"
     ]
   },
   "kleve--neuer-tiergarten": {
@@ -12676,6 +12161,37 @@
       "дворцов",
       "резиденция",
       "palace"
+    ]
+  },
+  "new-york--manhattan-boat-trip": {
+    "title": "Прогулка на пароходике у Манхэттена",
+    "parent": "new-york",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "new-york--majestic-theatre": {
+    "title": "Театр Majestic",
+    "parent": "new-york",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
     ]
   }
 }

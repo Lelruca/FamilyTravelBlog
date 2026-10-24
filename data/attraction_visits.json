@@ -4,7 +4,8 @@
   "chapters": {
     "content/americas/canada/atlantic-canada-2014/planning/index.md": {
       "source_review": "read",
-      "visits": []
+      "visits": [],
+      "place_visits": []
     },
     "content/americas/canada/atlantic-canada-2014/day-01/index.md": {
       "source_review": "read",
@@ -33,6 +34,32 @@
           ],
           "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
           "note": "Дорога как отдельный маршрут; Bathurst — конечный пункт дня, не единственное место прохождения маршрута."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "montreal",
+          "event": "overnight",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 14,
+              "quote": "Вернее даже надо начать с нулевого дня, т.к. стараясь съэкономить время мы отправились в свое путешествие в пятницу после работы! Мы хотели воспользоваться преимуществом наличия свободной студенческой квартиры в Монреале и мне кажется эта мысль была очень удачной. Правда вместо обычных 5 часов до Монреаля мы ехали больше 6-ти (попробуй выбраться из Торонто в пятницу накануне праздников!), но приехали, переночевали и в 8 утра мы уже были «на колесах». Это существенно сократило нам перегон в сторону Атлантики до каких-то 780 км. И мы могли ехать комфортно с остановками. Чтобы добраться до Атлантических провинций мы должны были пересечь провинцию Квебек, что само по себе тоже любопытно, для нас Квебек-сити был раньше самой восточной точкой, которую мы посещали в Канаде. А чем «глубже» в Квебек, тем все «французее и французее» :-) И вот – офицальная точка начала нашего путешествия – граница с провинцией Нью Брансвик!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
+        },
+        {
+          "id": "bathurst",
+          "event": "overnight",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 48,
+              "quote": "Поселившись в гостинце мы побежали кушать, а поскольку конечно же хотелось «пощупать океан», то выбрали ресторан на побережье. И не прогадали! И воду теплую потрогали и вид бы потрясающий! "
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
         }
       ]
     },
@@ -89,7 +116,8 @@
           ],
           "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
         }
-      ]
+      ],
+      "place_visits": []
     },
     "content/americas/canada/atlantic-canada-2014/day-03/index.md": {
       "source_review": "read",
@@ -106,6 +134,21 @@
           ],
           "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
           "note": "Повторное посещение подтверждается последовательностью рассказа."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "hopewell-rocks",
+          "event": "visited_low_tide",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 127,
+              "quote": "И... (надеваю каску, т.к. думаю меня мало кто поймет) нам как-то... не пошло. Показалось довольно скучновато. Нет, с удовольствием прошлись по тропинке, спустились на дно, пофоткались в разных видах и на разных фонах (из серии «я там был», но зато хоть себя пощелкали в разных комбинациях). Каменные «остравки» там действительно ОЧЕНЬ живописные. Их снизу вода подмывает, а сверху они широкие, с травой и деревьями :-) Но может мы до этого видели много профессиональных фото этого места? Может просто не попали в нужное настроение, но все мы дружно как-то заскучали :-( Нет, мы отработали по полной и прошли на все смотровые площадки! Но даже виды нас не так впечатлили, потому что вода там коричневого цвета (что объяснимо такими большими перепадами!), а нам хотелось видеть голубую ;-) И даже полного прилива мы не дождались – позорно ретировались. Поэтому фото стащу в интернете, для сравнения. "
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+          "note": "Гуляли по берегу и смотровым площадкам; до полной высокой воды не остались."
         }
       ]
     },
@@ -137,6 +180,20 @@
           ],
           "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
         }
+      ],
+      "place_visits": [
+        {
+          "id": "charlottetown",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 166,
+              "quote": "Плана по дням на PEI у меня не было, т.к. мы останавливались в центре острова, в столице Шарлоттауне и поэтому нам было все равно куда и в какой последовательности ездить. Был примерный список и дальше ориентация на погоду. Когда нет 100% определенности это всегда вносит хаос :-) Да еще погода все время «дурила», обещали дожди, а потом их переносили..."
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
+        }
       ]
     },
     "content/americas/canada/atlantic-canada-2014/day-05/index.md": {
@@ -155,7 +212,8 @@
           "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
           "note": "Посещены дневная демонстрация и вечернее шоу."
         }
-      ]
+      ],
+      "place_visits": []
     },
     "content/americas/canada/atlantic-canada-2014/day-06/index.md": {
       "source_review": "read",
@@ -186,7 +244,8 @@
           "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
           "note": "Ссылка на оператора в исходнике, состоявшийся выход подтверждён последующими абзацами и фото. Все четверо участвовали."
         }
-      ]
+      ],
+      "place_visits": []
     },
     "content/americas/canada/atlantic-canada-2014/day-07/index.md": {
       "source_review": "read",
@@ -203,6 +262,32 @@
           ],
           "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
           "note": "Один музей; дома и совместное валяние ткани входят в его посещение."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "cape-breton",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 387,
+              "quote": "Мы даже не сразу поняли, что это не океан, это внутренние озера острова Cape Breton!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
+        },
+        {
+          "id": "baddeck",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 427,
+              "quote": "Вечером мы проехали в центр города погулять и покушать. Прикольно... но ничего особенного ;-)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
         }
       ]
     },
@@ -260,7 +345,8 @@
           "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
           "note": "Трёхчасовой круиз состоялся; китов не увидели. Это не отменённая экскурсия."
         }
-      ]
+      ],
+      "place_visits": []
     },
     "content/americas/canada/atlantic-canada-2014/day-09/index.md": {
       "source_review": "read",
@@ -311,6 +397,20 @@
             {
               "source_paragraph": 623,
               "quote": "И по дороге еще увидели памятник шотланским иммигрантам:"
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "sydney",
+          "event": "overnight_and_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 609,
+              "quote": "В заключении мы купили настоящего свежевыпеченного хлеба и поехали на место своей новой ночевки в город Сидней :-)"
             }
           ],
           "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
@@ -369,6 +469,20 @@
             {
               "source_paragraph": 695,
               "quote": "Потом полезли обратно в гору чтобы погулять в городском саду (Halifax Public Gardens - (<b>4/5/4/5</b>). Вот уж действительно красотища! Чем-то лондонские парки мне напомнило, но поменьше :-)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "halifax",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 642,
+              "quote": "А дорога наша лежала в сторону столицы Новой Шотландии, и самого крупного города во всем это регионе – Галифакса <b>(5/5/3/5)</b>. Честно говоря, мы уже так «наприродились» к этому времени, что с большим удовольствием въехали в ГОРОД! :-) С гостиницей нам очень повезло, я долго выбирала и мучилась (дороги они в центре), а тут в самом центре у цитадели только весной построили и открыли новую гостиницу и я успела ухватить скидку. Т.ч. мы поставили машину и пошли гулять ногами. Наверное мы многое упустили, гуляя без гида, и поэтому и рассказать то мне про город особо нечего. Только свои впечатления :-) Город на горе расположен и когда мы спускались к набережной, то было очень круто (а уж подниматься…). Нам с Сережей и особенно Митьке город очень понравился. Он какой-то и крупный, и старинный с интересными старыми зданиями, и при этом современный."
             }
           ],
           "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
@@ -442,6 +556,33 @@
           "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
           "note": "Вошли и участвовали в экскурсии."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "lunenburg",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 707,
+              "quote": "<b>Луненберг (4/5/4/4)</b> – небольшой городок в примерно 100 км от Галифакса, который является охраняемым памятником ЮНЕСКО.  Еще в самом начале планирования, я нашла рекомендации местного гида и мы записались на утреннюю экскурсию. И не прогадали! Город очень красив сам по себе, но все-таки когда тебе все рассказывают и объясняют, то это совсем другое дело!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
+        },
+        {
+          "id": "peggys-cove",
+          "event": "exterior_and_grounds",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 789,
+              "quote": "Честно говоря настроение у нас было так себе. Мы устали, толком не поели и тащились черте куда, чтобы посмотреть на какой-то маяк, хотя кругом этих маяков куда не плюнь ;-) Поэтому особого восторга мы не испытывали, но подавили желание сфоткать все «на ходу» и поехать дальше. Остановились и пошли гулять. И надо сказать, что там действительно прикольно :-) Там какие-то большие камни, на которых можно прыгать, сидеть или лежать и наслаждаться видами. А виды классные! Вода синяя, небо голубое, заливчик… Как-то все очень умиротворенно. В итоге мы остались довольны <b>(4/3/5/4)</b>. Сделали фотосъемку семейную и поехали обратно в Галифакс. "
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+          "note": "Гуляли у маяка по скалам; вход внутрь не утверждается."
+        }
       ]
     },
     "content/americas/canada/atlantic-canada-2014/day-12/index.md": {
@@ -489,7 +630,8 @@
           "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
           "note": "Наташа и Леля гуляли по городу, семейный снимок у памятника."
         }
-      ]
+      ],
+      "place_visits": []
     },
     "content/americas/canada/atlantic-canada-2014/day-13/index.md": {
       "source_review": "read",
@@ -517,6 +659,33 @@
             }
           ],
           "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "kouchibouguac",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 883,
+              "quote": "А потом мы поехали в национальный парк с непроизносимым названием Kouchibouguac National Park (4/4/4/4). И хотя мы не большие любители парков, но как-то так хорошо пошло!  Там такие приятные пешеходные маршруты! При въезде в парк вот такой «памятник», тут представители всех… жителей этой местности – индейцы, франц. и… англичане(?)."
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
+        },
+        {
+          "id": "moncton",
+          "event": "service_stop",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 913,
+              "quote": "Потом наша машина затребовала от нас, чтобы мы ей масло поменяли (уже больше 5 тыс. км. мы проехали к этому моменту) и мы без труда нашли привычную нам контору Mr.Lube в городе Moncton. Я так устала, что что-то не сделала ни одной фотографии города Монктона, хотя мы его на машине не раз проезжали. И он нам очень понравился. Какой-то такой очень современный, при том с красивым центром и набережной. Не Галифакс по размерам конечно, но какой-то вполне хороший по размерам. Хоть он пока еще считается вторым по численности населения в Нью Брансвике (уступая тысячу Сэн Джонсу, оба порядка 70 тыс.), но к нему «приклеен» четвертый по населению город Diepee и вместе они составляют самый большой мегаполис Нью Брансвика.  И как я понимаю, это центр франкоязычного Нью Брансвика."
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+          "note": "Реальная остановка для замены масла; точный филиал не установлен. Заимствованный ночной вид не доказывает прогулку ночью."
         }
       ]
     },
@@ -576,11 +745,38 @@
           "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
           "note": "Отдельный водопад в городе; городской географический термин не переименован в водопад."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "fredericton",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 922,
+              "quote": "Обязательном пунктом нашего путешествия была столица Нью Брансвика – Фредриктон <b>(4/3/2/5+)</b>. Cкажу честно, при всей моей любви и лояльности к Нью Брансвику – мне не понравилось, и Наташе. Серега правда сказал, что ничего особенно плохого и это мы привередничаем. Но мне Фредриктон показался каким-то мрачным и безликим. Кирпичные дома-кубики, пару улочек в центре и «деревня» вокруг. Нет, я постаралась настроить себя как можно позитивнее и «дать шанс». Из хорошего, например, если у тебя машина с номерами другой провинции, то в туристическом центре тебе дадут билет на бесплатную парковку сроком на 3 дня :-) Да и сама центральная улица вполне приятна:"
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
+        },
+        {
+          "id": "riviere-du-loup",
+          "event": "overnight",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 973,
+              "quote": "Первоначально я планировала провести весь день в Фредриктоне и там же заночевать, но потом решила проделать вечером часть пути и заночевать уже в Квебеке в городке Rivière-du-Loup. Хотя этот город был выбран мной чисто стратегически, он оказался расположен на живописнейшем берегу реки святого Лаврентия. Она такая широкая и красивая в этом месте! Вот такой вид был из нашего окна:"
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
+        }
       ]
     },
     "content/americas/canada/atlantic-canada-2014/conclusion/index.md": {
       "source_review": "read",
-      "visits": []
+      "visits": [],
+      "place_visits": []
     },
     "content/americas/usa/atlantic-city-philadelphia-2017/atlantic-city/index.md": {
       "source_review": "read",
@@ -611,6 +807,21 @@
           "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json",
           "note": "Много гуляли днём и ночью."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "atlantic-city",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 184,
+              "quote": "Сколько тем у меня есть в журнале, где обсуждается восточное побережье и куда хорошо ехать купаться, а куда не стоит. Мнения разные, но все они сходятся в том, что Atlantic City место куда соваться НЕ НАДО! <lj-cut text=\"Но...\">Но... у нас планы поменялись в самый последний момент и единственное что более-менее по цене и расстоянию нам подошло оказался именно Atlantic City. Поскольку желание было в основном покупаться и окультуриться, то мы решили плюнуть на все казино и пр., собрались и поехали!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json",
+          "note": "Сергей, Леля и Наташа; состав уточнён в абзаце 190."
+        }
       ]
     },
     "content/americas/usa/atlantic-city-philadelphia-2017/philadelphia/index.md": {
@@ -628,18 +839,21 @@
           ],
           "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json",
           "note": "Четыре часа внутри, собственные музейные кадры."
-        },
+        }
+      ],
+      "place_visits": [
         {
-          "id": "philadelphia--rodin-museum",
-          "event": "visited",
+          "id": "philadelphia",
+          "event": "walked",
           "participants": null,
           "evidence": [
             {
-              "photo": "philadelphia/20170805_155045.jpg"
+              "source_paragraph": 189,
+              "quote": "А культурно - Филадельфия под боком! Около часа всего. Мы выбрались на один день, правда проспали и день получился коротким ;-) Провели в художественном музее только 4 часа - очень нам он понравился! (Коллекцию Barnes foundation мы смотрели в прошлый свой \"набег\" на Фили). Просто погуляли по городу. Признаюсь, в Штатах мне мало городов симпатичны. Последняя моя командировка в ЛА, где я жила в даунтауне меня просто подкосила... Но вот Филадельфия нам всем очень понравилась! Широкие проспекты, парки, домики старинные и современный центр. Куча музеев и истории. Мне кажется незаслужено мало изучена туристами, да уж больно соседи ее круты и интересны :-) А мне кажется Филадельфия заслуживает отдельной вдумчивой поездки."
             }
           ],
           "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json",
-          "note": "В этой поездке в музей вошли: собственные фотографии интерьера 155045, 155615, входной указатель 154736 и сад. В 2008 был только внешний осмотр."
+          "note": "Городская прогулка подтверждена; пожелание вернуться не означает дополнительные посещения музеев."
         }
       ]
     },
@@ -664,24 +878,45 @@
           ],
           "report": "reviews/source-audit/trips/brussels-2008.json",
           "note": "Центральная площадь на PB250098–109, прогулка и обед в неназванном ресторане на площади."
-        },
+        }
+      ],
+      "place_visits": [
         {
-          "id": "brussels--town-hall",
-          "event": "exterior",
-          "participants": null,
+          "id": "brussels",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
           "evidence": [
             {
-              "photo": "PB250107.JPG"
+              "source_paragraph": 31,
+              "quote": "Вернувшись вечером в Кельн мы сразу взяли в аэропорту машину и началась новая, более мобильная часть нашего отпуска в Германии. Еще в Канаде мы планировали доехать в этом году до Берлина, но после Лондона мы поняли что мы переполнены впечатлениями и Берлин только смешает все в нашей голове. Поэтому мы чуть снизили темпы, ограничились поездками по окресностям. Из больших интересных поездок съездили с Серегой в Брюссель (это как и Амстердам всего 2 часа на машине от бабушки!). Я была уже там с экскурсией с Наташей, Серега был первый раз. Но нам обоим очень понравился этот город. Какой-то он... правильной пропорции. Очень красивый, ухоженный и довольно большой старинный центр и совершенно новая современная часть города, которая выстроенна очень современно и при этом очень гармонично сочетаемо со старой частью. Сейчас все службы Евросоюза занимают чуть ли не пол города, на машине сложно там ездить, но очень интересно! Мы уже в городе брали экскурсию на автобусе, а потом просто много ходили ногами по центру и уже по тому как нас ребята в Лондоне научили, сели потом обедать в ресторанчике на центральной площади :-) Очень приятная поездка тоже получилась, познавательная."
             }
           ],
           "report": "reviews/source-audit/trips/brussels-2008.json",
-          "note": "PB250099/103/107/109 показывают фасад; вход не утверждается."
+          "note": "Текущий визит вдвоём отделён от прежней экскурсии Лели с Наташей."
         }
       ]
     },
     "content/americas/canada/crawford-lake-2020/crawford-lake/index.md": {
       "source_review": "read",
-      "visits": []
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "crawford-lake",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "погуляли в своем любимом парке Crawford Lake"
+            }
+          ],
+          "report": "reviews/source-audit/trips/crawford-lake-2020.json",
+          "note": "Один природный и исторический комплекс."
+        }
+      ]
     },
     "content/americas/usa/detroit-windsor-2016/story/index.md": {
       "source_review": "read",
@@ -714,6 +949,20 @@
           ],
           "report": "reviews/source-audit/trips/detroit-windsor-2016.json"
         }
+      ],
+      "place_visits": [
+        {
+          "id": "dearborn",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "музей и деревня самого Форда в пригороде – Дирборне"
+            }
+          ],
+          "report": "reviews/source-audit/trips/detroit-windsor-2016.json"
+        }
       ]
     },
     "content/americas/usa/detroit-windsor-2016/detroit/index.md": {
@@ -735,11 +984,38 @@
           ],
           "report": "reviews/source-audit/trips/detroit-windsor-2016.json"
         }
+      ],
+      "place_visits": [
+        {
+          "id": "detroit",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 42,
+              "quote": "Очень красивый даунтаун, чисто, много новых зданий, ремонт везде идет."
+            }
+          ],
+          "report": "reviews/source-audit/trips/detroit-windsor-2016.json"
+        },
+        {
+          "id": "windsor-ontario",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 54,
+              "quote": "Ужинали мы в Виндзоре – городе на канадкой стороне."
+            }
+          ],
+          "report": "reviews/source-audit/trips/detroit-windsor-2016.json"
+        }
       ]
     },
     "content/europe/france/france-2012/planning/index.md": {
       "source_review": "read",
-      "visits": []
+      "visits": [],
+      "place_visits": []
     },
     "content/europe/france/france-2012/paris-1/index.md": {
       "source_review": "read",
@@ -799,42 +1075,6 @@
           "note": "Подъём на башню не описан."
         },
         {
-          "id": "louvre",
-          "event": "exterior",
-          "participants": null,
-          "evidence": [
-            {
-              "photo": "paris-1/IMG_0877.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/france-2012.json",
-          "note": "Внешний осмотр в этот день; вход в музей подтверждён следующей главой."
-        },
-        {
-          "id": "paris--sad-tyuilri",
-          "event": "visited",
-          "participants": null,
-          "evidence": [
-            {
-              "photo": "paris-1/IMG_0918.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/france-2012.json",
-          "note": "Панорамы, прогулка и скульптуры парка. Скульптуры и фонтаны внутри учитываются в составе сада."
-        },
-        {
-          "id": "invalides",
-          "event": "courtyard_and_exterior",
-          "participants": null,
-          "evidence": [
-            {
-              "photo": "paris-1/IMG_0949.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/france-2012.json",
-          "note": "Вошли во двор, сняты фасады. Вход в Музей армии и гробницу Наполеона в этой главе не подтверждён."
-        },
-        {
           "id": "musee-orsay",
           "event": "visited",
           "participants": null,
@@ -846,6 +1086,20 @@
           ],
           "report": "reviews/source-audit/trips/france-2012.json",
           "note": "Вечерний вход и аудиогид прямо описаны, хотя автор не фотографировала внутри."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "paris",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "подъезжали к Парижу"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json"
         }
       ]
     },
@@ -907,18 +1161,6 @@
           "note": "Дерево на снимке с опорами сопоставлено с городской записью о робинии 1601 года. Один объект сквера с деревом."
         },
         {
-          "id": "paris--shakespeare-and-company",
-          "event": "visited",
-          "participants": null,
-          "evidence": [
-            {
-              "photo": "paris-2/IMG_1063.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/france-2012.json",
-          "note": "Есть собственные кадры внутри и снаружи с читаемой вывеской IMG_1064.jpg."
-        },
-        {
           "id": "paris--luxembourg-palace",
           "event": "exterior",
           "participants": null,
@@ -963,6 +1205,20 @@
           "report": "reviews/source-audit/trips/france-2012.json",
           "note": "Фонтан на IMG_1111.jpg сопоставлен с городским памятником. Авторское описание двора не переписывалось."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "paris",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 50,
+              "quote": "Париж утром"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json"
+        }
       ]
     },
     "content/europe/france/france-2012/le-pin-d-day/index.md": {
@@ -980,6 +1236,34 @@
           ],
           "report": "reviews/source-audit/trips/france-2012.json",
           "note": "В музее тоже были: хроника, залы и выводы автора; бункер и пляж — части экскурсии центра, не несколько выдуманных музеев."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "le-pin-au-haras",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 122,
+              "quote": "Экскурсовод на самом деле просто работница этого завода"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Экскурсия и лошади подтверждены текстом и фотографиями. Место получает тип конный центр."
+        },
+        {
+          "id": "d-day-beaches",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 132,
+              "quote": "канадского Juno Beach"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Конкретно Джуно-Бич, не все пляжи высадки."
         }
       ]
     },
@@ -1056,6 +1340,32 @@
           "report": "reviews/source-audit/trips/france-2012.json",
           "note": "Могила внутри относится к этому собору, не отдельная городская точка."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "mont-saint-michel",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 169,
+              "quote": "мы конечно же поднялись на самый верх"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json"
+        },
+        {
+          "id": "saint-malo",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 200,
+              "quote": "мы выбрали город Saint-Malo"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json"
+        }
       ]
     },
     "content/europe/france/france-2012/puy-du-fou/index.md": {
@@ -1073,6 +1383,33 @@
           ],
           "report": "reviews/source-audit/trips/france-2012.json",
           "note": "Проживание и сад подтверждены рассказом и собственными снимками; не означает экскурсию в винные погреба одноимённого производителя."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "puy-du-fou",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 261,
+              "quote": "пробыли в парке большую часть дня"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Три шоу, ремесленные деревни, животные и фонтаны покрыты одним парком; реконструкции не обозначаются как античные памятники."
+        },
+        {
+          "id": "saumur",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 294,
+              "quote": "по городу вечером"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json"
         }
       ]
     },
@@ -1144,6 +1481,59 @@
           "report": "reviews/source-audit/trips/france-2012.json",
           "note": "Находится в Селетте, а не в самом Блуа; география сверена по официальному адресу отеля."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "saumur",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 304,
+              "quote": "du Cadre Noir"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "География конной школы, не новая экскурсия по городу."
+        },
+        {
+          "id": "chenonceau",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 344,
+              "quote": "ОЧЕНЬ хороший аудио гид"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Посещены внутренние залы, кухня и парк с лабиринтом. Общий вид сбоку заимствован, но посещение независимо подтверждено рассказом и семейными снимками."
+        },
+        {
+          "id": "blois",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 372,
+              "quote": "погуляли по городу"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json"
+        },
+        {
+          "id": "cellettes",
+          "event": "stayed",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 357,
+              "quote": "Château de La Rozelle"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Местоположение фактического ночлега, установлено по официальному адресу; прогулка по центру деревни не приписывается."
+        }
       ]
     },
     "content/europe/france/france-2012/chambord-fontainebleau/index.md": {
@@ -1162,11 +1552,27 @@
           "report": "reviews/source-audit/trips/france-2012.json",
           "note": "Внутренние залы, аудиогид и собственные фото; не только внешний вид дворца."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "chambord",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 382,
+              "quote": "Внутри он огромен"
+            }
+          ],
+          "report": "reviews/source-audit/trips/france-2012.json",
+          "note": "Собственная лестница, внутренние комнаты и крыша подтверждены текстом и фото. Совет смотреть снаружи не означает, что сами внутрь не входили."
+        }
       ]
     },
     "content/europe/france/france-2012/conclusion/index.md": {
       "source_review": "read",
-      "visits": []
+      "visits": [],
+      "place_visits": []
     },
     "content/europe/germany/germany-2011/overview/index.md": {
       "source_review": "read",
@@ -1239,6 +1645,61 @@
           "report": "reviews/source-audit/trips/germany-2011.json",
           "note": "Подъём описан в абзаце 46; вход в сокровищницу подтверждают последовательность текста и фотографии. Вещи в экспозиции не являются отдельными местами."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "hurth",
+          "event": "stayed",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "около дома у бабушки"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Частный адрес не публикуется; география подтверждается главой и семейными фотографиями."
+        },
+        {
+          "id": "cologne",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 46,
+              "quote": "посещений Кельна"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
+        },
+        {
+          "id": "bruhl",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 18,
+              "quote": "в Брюль"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
+        },
+        {
+          "id": "solingen",
+          "event": "visited",
+          "participants": [
+            "Сергей",
+            "Наташа",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 30,
+              "quote": "в г. Золинген"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
+        }
       ]
     },
     "content/europe/germany/germany-2011/holland/index.md": {
@@ -1270,6 +1731,33 @@
           "report": "reviews/source-audit/trips/germany-2011.json",
           "note": "Оставлен по прямому указанию владельца. Семья приехала и осмотрела снаружи; вход внутрь не приписывается."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "amsterdam",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 82,
+              "quote": "в Амстердам - солнышко"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
+        },
+        {
+          "id": "zaandam",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 91,
+              "quote": "поехали в пригород"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Сопоставлены адресные таблички и фотографии домика."
+        }
       ]
     },
     "content/europe/germany/germany-2011/belgium/index.md": {
@@ -1283,6 +1771,33 @@
             {
               "source_paragraph": 114,
               "quote": "парк Topiaries"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "remouchamps",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 98,
+              "quote": "http://www.mondesauvage.be/grottes/fr/acces.htm"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Исходная ссылка, полный рассказ о входе и лодках, фото; название также прямо есть в главе сайта."
+        },
+        {
+          "id": "durbuy",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 114,
+              "quote": "Durbuy"
             }
           ],
           "report": "reviews/source-audit/trips/germany-2011.json"
@@ -1317,6 +1832,45 @@
           ],
           "report": "reviews/source-audit/trips/germany-2011.json",
           "note": "Название дословно есть в исходнике; это проживание, не музей."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "haut-koenigsbourg",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 155,
+              "quote": "попали на англоязычную экскурссию по замку"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Вход внутрь прямо подтверждён экскурсией и собственными фото; не только вид снаружи."
+        },
+        {
+          "id": "riquewihr",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 171,
+              "quote": "нами был выбран Riquewihr"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
+        },
+        {
+          "id": "colmar",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 199,
+              "quote": "в Кольмар (Colmar)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
         }
       ]
     },
@@ -1367,6 +1921,45 @@
           ],
           "report": "reviews/source-audit/trips/germany-2011.json",
           "note": "Водопад перед Hotel Staubbach сопоставлен с собственным снимком и описанием гостиницы. Дети в этот момент остались в гостинице."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "lauterbrunnen",
+          "event": "stayed",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 219,
+              "quote": "Lauterbrunnen"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
+        },
+        {
+          "id": "lucerne",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 226,
+              "quote": "по которому мы успели немножко погулять"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
+        },
+        {
+          "id": "pilatus",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 226,
+              "quote": "остановилась на Mt Pilatus"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Озёрный корабль, зубчатая дорога, вершина, смотровые тропы и спуск описаны подробно; парапланеристов только наблюдали."
         }
       ]
     },
@@ -1431,6 +2024,71 @@
           "report": "reviews/source-audit/trips/germany-2011.json",
           "note": "Название Frutal-Beck читается на собственном снимке в полном разрешении. Муниципальный справочник подтверждает кондитерскую Frutal в Майрингене. Скульптура безе у входа покрыта этим заведением."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "lauterbrunnen",
+          "event": "stayed",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 288,
+              "quote": "в той же гостинице"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Продолжение проживания Hotel Staubbach, подтверждённого предыдущей главой."
+        },
+        {
+          "id": "murren",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 293,
+              "quote": "погуляли по Mürren"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
+        },
+        {
+          "id": "trummelbachfaelle",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 309,
+              "quote": "поехали смотреть Трюммельбахский водопад"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Описаны вход, лифт, тоннели и каскады; отсутствие отдельной большой фотогалереи не является основанием исключения."
+        },
+        {
+          "id": "aareschlucht",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 321,
+              "quote": "погуляли и пофотографировали"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Вход, маршрут, выход и обратная электричка подробно описаны и подтверждены собственными фотографиями."
+        },
+        {
+          "id": "meiringen",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 339,
+              "quote": "В деревушку Майринген"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
+        }
       ]
     },
     "content/europe/germany/germany-2011/bavaria/index.md": {
@@ -1449,11 +2107,78 @@
           "report": "reviews/source-audit/trips/germany-2011.json",
           "note": "Собственное название и адрес сохранены в оригинальном DOCX, хотя в версии сайта скобка с адресом отсутствует. Авторский текст сайта не переписывался."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "ballenberg",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 361,
+              "quote": "Т.е. вроде ходишь, смотришь"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Фраза о плане в начале главы дополнена состоявшимся посещением и оценкой. Один музей под открытым небом, без отдельных точек для его зданий."
+        },
+        {
+          "id": "stein-am-rhein",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 371,
+              "quote": "Stein am Rhein"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
+        },
+        {
+          "id": "schwangau",
+          "event": "stayed",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 391,
+              "quote": "Schwangau"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
+        }
       ]
     },
     "content/europe/germany/germany-2011/castles/index.md": {
       "source_review": "read",
-      "visits": []
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "hohenschwangau",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 413,
+              "quote": "Экскурссия была очень интересная"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Вышли из первого замка в абзаце 414; внутреннее посещение подтверждено, а не предполагается по виду фасада."
+        },
+        {
+          "id": "neuschwanstein",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 428,
+              "quote": "Мне трудно все это описать, фотографировать внутри не разрешают"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "Автор описывает собственное впечатление и внутренние залы. Три фотографии интерьеров заимствованы и не использованы как единственное доказательство."
+        }
+      ]
     },
     "content/europe/germany/germany-2011/london/index.md": {
       "source_review": "read",
@@ -1489,11 +2214,55 @@
           "report": "reviews/source-audit/trips/germany-2011.json",
           "note": "Внутри слушали аудиоэкскурсии парами; Митя продолжил после двух часов."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "london",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 440,
+              "quote": "улетали домой мы из Лондона"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json"
+        },
+        {
+          "id": "windsor",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 443,
+              "quote": "в Леголенд"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-2011.json",
+          "note": "География парка, не утверждение посещения Виндзорского замка."
+        }
       ]
     },
     "content/europe/germany/germany-italy-2006/grandma/index.md": {
       "source_review": "read",
-      "visits": []
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "hurth",
+          "event": "visited",
+          "participants": [
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "Можете представить себе уехать на каникулы к бабушке, без всех, как в былые времена. Мечта просто :-)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-italy-2006.json",
+          "note": "Семейный визит, прогулки и день рождения. Хюрт задан существующей главой; частный адрес не разыскивается."
+        }
+      ]
     },
     "content/europe/germany/germany-italy-2006/verona/index.md": {
       "source_review": "read",
@@ -1518,52 +2287,23 @@
           ],
           "report": "reviews/source-audit/trips/germany-italy-2006.json",
           "note": "Названный в тексте римский «театр типа Колизея» сопоставлен с ареной на фото; внутренней экскурсии и оперного представления не подтверждено."
-        },
+        }
+      ],
+      "place_visits": [
         {
-          "id": "verona--san-zeno",
-          "event": "visited",
+          "id": "verona",
+          "event": "walked",
           "participants": [
             "Леля"
           ],
           "evidence": [
             {
-              "photo": "Verona/IMG_3442.JPG"
-            },
-            {
-              "photo": "Verona/IMG_3445.JPG"
-            },
-            {
-              "photo": "Verona/IMG_3451.JPG"
-            },
-            {
-              "photo": "Verona/IMG_3454.JPG"
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
             }
           ],
           "report": "reviews/source-audit/trips/germany-italy-2006.json",
-          "note": "Цель самостоятельной серии IMG_3442–55: фасад, клуатр, внутренние нефы, крипта и бронзовые двери. Это подтверждённый вход, а не случайный фасад. Название сверено с сайтом Chiese Vive."
-        },
-        {
-          "id": "verona--juliets-house",
-          "event": "visited_courtyard",
-          "participants": [
-            "Леля"
-          ],
-          "evidence": [
-            {
-              "photo": "Verona/IMG_3479.JPG"
-            },
-            {
-              "photo": "Verona/IMG_3480.JPG"
-            },
-            {
-              "photo": "Verona/IMG_3481.JPG"
-            },
-            {
-              "photo": "Verona/IMG_3483.JPG"
-            }
-          ],
-          "report": "reviews/source-audit/trips/germany-italy-2006.json",
-          "note": "Серия IMG_3479–85: входной проход с записками, балкон и статуя во дворе. Внутренний музей дома не объявляется посещённым."
+          "note": "Городская экскурсия в составе автобусной группы."
         }
       ]
     },
@@ -1593,46 +2333,23 @@
           ],
           "report": "reviews/source-audit/trips/germany-italy-2006.json",
           "note": "Не только упоминание университета: серия IMG_3521/22/24 из старого двора с гербами подтверждает вход. Анатомический театр не подтверждён и не добавляется."
-        },
+        }
+      ],
+      "place_visits": [
         {
-          "id": "padua--saint-anthony-basilica",
-          "event": "visited_complex",
-          "participants": [
-            "Леля"
-          ],
-          "evidence": [
-            {
-              "photo": "Падуа/IMG_3515.JPG"
-            },
-            {
-              "photo": "Падуа/IMG_3516.JPG"
-            },
-            {
-              "photo": "Падуа/IMG_3518.JPG"
-            }
-          ],
-          "report": "reviews/source-audit/trips/germany-italy-2006.json",
-          "note": "Серия IMG_3515–18 показывает подход к базилике и её клуатр; название сопоставлено с официальным описанием. Посещение отдельного Museo Antoniano не выводится из входа в клуатр."
-        },
-        {
-          "id": "padua--prato-della-valle",
+          "id": "padua",
           "event": "walked",
           "participants": [
             "Леля"
           ],
           "evidence": [
             {
-              "photo": "Падуа/IMG_3510.JPG"
-            },
-            {
-              "photo": "Падуа/IMG_3511.JPG"
-            },
-            {
-              "photo": "Падуа/IMG_3512.JPG"
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
             }
           ],
           "report": "reviews/source-audit/trips/germany-italy-2006.json",
-          "note": "Последовательная серия IMG_3510–12: прогулка группы у овального канала и статуй площади. Статуи не разбиваются на самостоятельные точки."
+          "note": "Состоявшаяся городская экскурсия."
         }
       ]
     },
@@ -1665,49 +2382,23 @@
           ],
           "report": "reviews/source-audit/trips/germany-italy-2006.json",
           "note": "Прямой рассказ о соборе; серия фасада, колонн и вида с лоджии у коней IMG_3563/64/3575–80 подтверждает подъём на лоджию. Не утверждается осмотр каждой музейной экспозиции."
-        },
+        }
+      ],
+      "place_visits": [
         {
-          "id": "venice--grand-canal",
-          "event": "boat_trip",
-          "participants": [
-            "Леля"
-          ],
-          "evidence": [
-            {
-              "photo": "Венеция/IMG_3525.JPG"
-            },
-            {
-              "photo": "Венеция/IMG_3526.JPG"
-            },
-            {
-              "photo": "Венеция/IMG_3531.JPG"
-            },
-            {
-              "photo": "Венеция/IMG_3542.JPG"
-            }
-          ],
-          "report": "reviews/source-audit/trips/germany-italy-2006.json",
-          "note": "Серия IMG_3525–42 из одной пассажирской лодки показывает поездку по каналу. Видимые по пути церкви и дворцы не считаются отдельными посещениями. Оператор и тип билета не выдумываются."
-        },
-        {
-          "id": "venice--st-marks-square",
+          "id": "venice",
           "event": "walked",
           "participants": [
             "Леля"
           ],
           "evidence": [
             {
-              "photo": "Венеция/IMG_3547.JPG"
-            },
-            {
-              "photo": "Венеция/IMG_3554.JPG"
-            },
-            {
-              "photo": "Венеция/IMG_3561.JPG"
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
             }
           ],
           "report": "reviews/source-audit/trips/germany-italy-2006.json",
-          "note": "Много кадров прогулки по площади IMG_3547–62 и виды с лоджии. Это одна площадь; колокольня, колонны и часовая башня не добавляются по одному внешнему снимку."
+          "note": "Городская экскурсия, каналы и пешеходная часть."
         }
       ]
     },
@@ -1734,72 +2425,23 @@
           ],
           "report": "reviews/source-audit/trips/germany-italy-2006.json",
           "note": "Автор прямо пишет о выходе из собора после молитвы, дополнительный IMG_3601 показывает внутренний неф. Соседний отдельный музей собора и крыша не подтверждены."
-        },
+        }
+      ],
+      "place_visits": [
         {
-          "id": "milan--sforza-castle",
-          "event": "exterior_and_grounds",
+          "id": "milan",
+          "event": "walked",
           "participants": [
             "Леля"
           ],
           "evidence": [
             {
-              "photo": "Милан/IMG_3581.JPG"
-            },
-            {
-              "photo": "Милан/IMG_3582.JPG"
-            },
-            {
-              "photo": "Милан/IMG_3584.JPG"
-            },
-            {
-              "photo": "Милан/IMG_3586.JPG"
+              "source_paragraph": 6,
+              "quote": "Еще я в этом году ездила опять с русскоязычной группой на автобусе на экскурсию в северную Италию: Верона-Падуя-Венеция-Милан. Получила огромное удовольствие! 3 дня и 4 ночи (две из них в автобусе). Начать с того что к утру первого дня мы пересекли Альпы в Австрии через перевал. Конечно современный перевал это мосты, тунели и прекрасная широкая автомагистраль, но все равно красота необыкновенная! И куча разных деревенек с таким классическим пейзажем. И восход в горах и много небольших старых замков (которые раньше взымали «пошлину» на этом пути). Все это конечно очень меня впечатлило. Потом были очень интересные старинны города. Верона с древнеримским театром (или как это правильно назвать, типа Колизея?). В очень хорошем состоянии и там сейчас оперные представления летом проходят, т.к. акустика такая, что до сих пор наши ученые не могу разгадать этот секрет. Много очень интересных старинных церквей. Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. Потом Венеция. Откровенно говоря она меня меньше всего впечатлила. Может я не романтик, а может просто ноябрь не лучшее время, хотя погода была чудесная, солнечная и +20 все дни. Да и не показалось мне все так плохо как я слышала: никаких запахов, да и реставрацией итальянцы занимаются много. Но... не проняло меня что-ли. Хотя собор святого Марка меня потряс конечно. Больше всего своими разномастными колоннами (каждый купец привозил «с берега» что мог), т.е. зеленая в паре с красной или серой. Видно что действительно строили всем миром. Зато вот Милан меня покорил. Это экономическое сердце Италии и просто большой красивый город выстроенные «недавно» (18-19 вв.). Типа Питера, Парижа... Такого плана. Я понала что мне это ближе по духу, все-таки глубокую старину я не умею чувстовать :-О Очень красивый город и конечно это знаменитый собор (второй по велечине в мире)... Вообще надо сказать что поездка моя помимо экскурсионный получилась так же и поломнической, чему я очень рада. Каждый из этих уважаемых городов с глубокими католическими традициями имеет свою святыню и к каждой из них, хотя бы не на долго мы имели возможность приобщиться. Это мощи святого Антония в Вероне, святого Марка в Венеции и главная святыня миланского собора – один из гвоздей, которым был распят Христос. Когда я вышла из этого собора после молитвы, я ощущала такой прилив душевный сил, такую благодать... это не передашь словами. Еще из неожиданный приятностей этой поездки оказалась моя встреча с моей соседкой (по автобусу и гостинице), необыкновенно интересная дама из Питербурга, интеллигентнейшая и очень эрудированная личность. Она ученый физик, которая теперь уже на пенсии общается на каких-то конференциях с другими такими людьми, они через свои работы и знания приходят к понимаю мироздания, существования Бога, объяснению всевозможных явлений и способов передачи информации... Короче объяснить это я не смогу и не со всем может быть как православная верующая я могу согласиться, но то что мне было очень интересно и полезно встретиться с такой нестандартной личностью это факт. Во всяком случае я задумалась об очень многих вещах, о который у меня обычно не хватает времени подумать :-) Я сначала слушала ее просто как воспитанный человек с большей долей скептицизма, но ведь она ровестница моей мамы и поэтому я старалась быть вежливой и приветливой. А потом мне действительно было интересно. И видимо слушала я действительно хорошо, т.к. похвастаюсь, что эта дама потом нашла меня уже в Кельне и подарила свою недавно вышедшую книгу :-) Почему то я ей тоже приглянулась, уже не знаю чем :-О"
             }
           ],
           "report": "reviews/source-audit/trips/germany-italy-2006.json",
-          "note": "Последовательная серия IMG_3581–88 показывает прогулку группы вокруг замка; внутренние музейные залы не показаны и не утверждаются."
-        },
-        {
-          "id": "milan--galleria-vittorio-emanuele-ii",
-          "event": "walked_inside",
-          "participants": [
-            "Леля"
-          ],
-          "evidence": [
-            {
-              "photo": "Милан/IMG_3591.JPG"
-            },
-            {
-              "photo": "Милан/IMG_3592.JPG"
-            },
-            {
-              "photo": "Милан/IMG_3593.JPG"
-            },
-            {
-              "photo": "Милан/IMG_3594.JPG"
-            }
-          ],
-          "report": "reviews/source-audit/trips/germany-italy-2006.json",
-          "note": "Подход и внутренний пассаж в серии IMG_3591–94. Это торговая галерея, не художественный музей."
-        },
-        {
-          "id": "sirmione--scaliger-castle",
-          "event": "exterior",
-          "participants": [
-            "Леля"
-          ],
-          "evidence": [
-            {
-              "photo": "Милан/IMG_3603.JPG"
-            },
-            {
-              "photo": "Милан/IMG_3604.JPG"
-            },
-            {
-              "photo": "Милан/IMG_3606.JPG"
-            }
-          ],
-          "report": "reviews/source-audit/trips/germany-italy-2006.json",
-          "note": "Три разных близких вида замка IMG_3603/04/06 с группой; имя и город сверены с муниципальным сайтом. Вход за кассу и подъём на башни не утверждаются."
+          "note": "Городская экскурсия в группе."
         }
       ]
     },
@@ -1905,6 +2547,42 @@
           ],
           "report": "reviews/source-audit/trips/germany-london-2009.json",
           "note": "Провели день втроём, катались на доступных по росту аттракционах. Серия PA290314–352 подтверждает посещение. Отдельные тематические фасады и аттракционы не самостоятельные места."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "hurth",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 39,
+              "quote": "Начну рассказ с планирования поездки. Мы планировали поездку всей семьей летом, но не сложилось у нас по деньгам и многому другому. Поэтому мы решили что Серега проведет больше времени с детьми летом, а к бабушке я поеду одна. Но у Сереги отпуска и отгулов столько скопилось что он и летом отдохнул пару недель с детьми и еще у него запасов достаточно :-) Поэтому стали проскальзовать мысли, а не поехать ли Сереге со мной как обычно, ну хотя бы на 2 недельки (я на 3 собиралась).  Вдвоем веселее, Серега машину берет (я с коробкой неавтоматической не езжу), мы по Европе катаемся. Опять же у бабушки всегда в доме за год накапливается работа для мужских рук, которую она никому кроме Сережи не доверяет делать :-) Ну вроде решили ехать вдвоем. Конечно же захотели тут же заехать к Катюше в Лондон, очень интересно было посмотреть как ее детки растут! И тут же стало грустно нам, что мы вот каждый год со всеми встречаемся, на всех смотрим, а сами одни и одни :-( И захотелось нам с собой хотя бы Митьку взять, которого теперь можно «людям показывать» :-) Вроде все у нас сходилось по деньгам и билетам, но тут возмутилась бабушка. Она уже давно говорила что для детей она стара и ей с ними сложно. Поэтому Анюту с Наташей она еще принимает, потому что они большие, а маленьких уже не может. Ну нет, так нет... Мы постарались ее успокоить что оба варината нас устраивают. И это так и было, т.к. с Митькой конечно прикольно, но это уже не отдых получается ;-) Свои плюсы, свои минусы. Но бабушка как обычно сначала отказала, а потом переживала, думала, мама моя еще ее не поддержала, а сказала типа: «Зря ты, Митька очень спокойный и с ним не сложно». Короче бабушка стала переживать, что опять у нас отпуск без детей и стала настаивать чтобы мы Митьку взяли. Так что до последнего момента мы не могли определиться ни со сроками, ни с составом.  Но в итоге мы остановились на варианте что Сережа с Митей летят на 2 неделе, в середине которых мы летим в Лондон к Кате (когда и мы уже со временем разберемся и бабушке будет время от нас отдохнуть), а последнюю третью неделю я остаюсь с бабушкой одна общаться."
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-london-2009.json",
+          "note": "Окончательный состав — Леля, Сергей, Митя; отменённый летний план не считается отдельной поездкой."
+        },
+        {
+          "id": "kleve",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 44,
+              "quote": "Первыми мы ездили к родственникам в Клеве. Там мы провели чудесный день! Сначала гуляли по центральному парку, в этом парке и небольшой «зоопарк» простенький и всякие горки... Вообще дети это здорого! Вот сами бы мы 4-ро взрослых просто так в парк бы не пошли гулять, а с ребенком выбрались, даже на животных посмотрели и тоже получили удовольствие :-) Пока мы гуляли Валере повзонили с работы и теща ответила что «он гуляет в парке». Мы над ним прикалывались потом что он так «культурно проводит время» :-) Митьку приняли очень хорошо, хотя вел он себя безобразно :-( Он вообще всю поездку вел себя... не так как обычно дома. Слишком много впечатлений! Особенно после каждого перелета был новый всплеск активности. Но у этой родни много мальчишек было сыновей и внуков сейчас и они со спокойствием и большой доброжелательностью к Митьке относлись и он это явно чувствовал и даже уезжать не хотел :-) Так что первый «выход в люди» прошел удачно :-) "
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-london-2009.json",
+          "note": "Семейный визит и прогулка."
         }
       ]
     },
@@ -2133,6 +2811,25 @@
           "report": "reviews/source-audit/trips/germany-london-2009.json",
           "note": "Шли к дворцу посмотреть караул; серия у фасада и ворот PB020454–57. Внутренние парадные залы не подтверждены."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "london",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 48,
+              "quote": "Следующим нашим «путешествием в путешествии» была поездка к Кате. Это с нашей стороны уже такое традиционное «нашествие» и делаем мы его как-то не совсем обдуманно, в смысле не особенно думаем насколько интересно и удобно это Катюше и ее семье. И именно поэтому в этот год мы попали ну в САМОЕ неудачное для ребят время :-) У них ДВОЕ маленьких детей (у нас никогда не было сразу 2-е маленьких и мы это как-то не очень осознаем), Катюша недавно вышла на работу, няня одна дома «зашивается», Катя после работы бежит домой и тоже «зашивается». На работе тоже приходится работать все 100% времени, т.к. уходит она рано. Вот такое вот тяжелое время, когда все «заезженные» и поэтому и напряжения между всеми больше... А тут мы – здрасьте! Но скажу честно, даже если бы я немножко мозгами раскинула и подумала не только о своих желаниях, я бы все равно поехала :-) Не знаю согласиться ли со мной Катюша, но мне сейчас «с период переосмысления жизни среднего возраста» как-то особенно хочется сохранять семейные связи. А так же хочется чтобы и дети знали своих родных. И возможность увидиться лично, пообщаться, это так здорого! "
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-london-2009.json",
+          "note": "Поездка Лели, Сергея и Мити к Кате и Дэвиду; Вика оставалась дома с няней в детских вылазках."
+        }
       ]
     },
     "content/europe/germany/germany-london-2009/cologne/index.md": {
@@ -2184,7 +2881,8 @@
           "report": "reviews/source-audit/trips/germany-london-2009.json",
           "note": "Рассказ о первом посещении Лели и Мити; Сергей был прежде с Наташей, но в нынешней серии сам внутри PB040472. Вход всех троих в этот год подтверждён."
         }
-      ]
+      ],
+      "place_visits": []
     },
     "content/europe/germany/germany-london-2009/bruhl/index.md": {
       "source_review": "read",
@@ -2235,11 +2933,31 @@
           "report": "reviews/source-audit/trips/germany-london-2009.json",
           "note": "Отдельный повторный приезд, комнаты описаны; внутренняя серия PB080532–58 подтверждает вход. Имя установлено по паре дворцов на первичном сайте комплекса."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "bruhl",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 68,
+              "quote": "Следующую неделю у бабушки мы провели тоже активно. Ни с кем больше не встречались, но сами с Митькой ездили и в город смотреть Кельнский собор, и в музей шоколада (очень интересный у них такой музей, любопытный, Серега с Наташей уже были, а мы с Митькой первый раз). А самым необычным открытием для нас стал местный дворец Schloss Augustusburg. Он находится оказывается рядом с местным Диснейлендом в 10 минутах езды от бабушки и мы там ни разу не были! Это я перед поездкой в интернете проверяла какие еще развлечения есть около бабушки и вдруг наткнулась на этот дворец. И в комментариях народ писал что чуть ли не лучший дворец во всей Германии... Ну я удивилась, но решила что раз он «под боком» то надо обязательно съездить. Первый раз мы поехали утром и у нас было несколько часов  только (в этот день у бабушки был визит к глазному врачу назначет, специально так было сделано чтобы Серега мог ее на машине свозить, а то доктор ее далеко переехал). Впечатления просто потрясающие! «Версаль отдыхает» ;-) И сам дворец и парк его окружающий (а были мы в ноябре к сожалению, трудно представить как это выглядит летом)! Гуляющих много, а вот в самом дворце не так много туристов. Внутрь запускают только группами с экскурсоводом. Нам троим и еще одному китайцу провели отдельную экскурсию на английском языке. Девченка-экскурсовод была очень хорошая! Она рассказывала не просто историю дворца и людей, но она рассказывала какие-то интересные, простые, но очень запоминающиеся факты из жизни той эпохи. Эти факты объясняли и многие детали строительства (например высота ступенек парадной лестницы должна была позволять дамам в тяжелых платьях легко подниматься) и просто создала у нас ощущение той эпохи. Дворец строился с тот же временной период что и Версаль, местным кельнским главой церкви. Но бросалось в глаза состояние всего: как-будто вчера построено все, «с иголочки». Объяснение этому мы получили в самом конце экскурсии. Оказывается во времена ФРГ, когда столица была в Бонне, этот дворец использовался для всех официальных приемов и мероприятий. И Брежнего там принимали, и королева Елизавета там останавливалась даже. Ну и конечно немцы с их педантичностью все содержали в идеальном порядке. Сейчас конечно столица далеко и дворец потерял свою значимость, но пока еще все в суперском состоянии, т.к. что всем кто попадет в те края очень рекомендую посетить! "
+            }
+          ],
+          "report": "reviews/source-audit/trips/germany-london-2009.json",
+          "note": "Два самостоятельных выезда к дворцам."
+        }
       ]
     },
     "content/europe/germany/germany-london-2009/birthday/index.md": {
       "source_review": "read",
-      "visits": []
+      "visits": [],
+      "place_visits": []
     },
     "content/americas/canada/hamilton-2014/story/index.md": {
       "source_review": "read",
@@ -2275,6 +2993,20 @@
           ],
           "report": "reviews/source-audit/trips/hamilton-2014.json",
           "note": "Текст, входная вывеска и семейные фотографии подтверждают вход; добавлено официальное имя Canadian Warplane Heritage Museum. Самолёты и тренажёры покрыты музеем."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "hamilton",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 3,
+              "quote": "город Гамильтон"
+            }
+          ],
+          "report": "reviews/source-audit/trips/hamilton-2014.json"
         }
       ]
     },
@@ -2318,39 +3050,6 @@
           ],
           "report": "reviews/source-audit/trips/london-cambridge-2008.json",
           "note": "Дэвид показывал места своей учёбы и проживания; дворы и корпуса на фото. Не утверждается вход в каждое здание."
-        },
-        {
-          "id": "cambridge--kings-college-chapel",
-          "event": "visited",
-          "participants": [
-            "Леля",
-            "Сергей"
-          ],
-          "evidence": [
-            {
-              "photo": "PB150059.JPG"
-            }
-          ],
-          "report": "reviews/source-audit/trips/london-cambridge-2008.json",
-          "note": "Внутренние кадры PB150056–60: веерный свод, витражи и органная перегородка. Сопоставлено с первичной страницей колледжа; вход подтверждён независимо от общего текста."
-        },
-        {
-          "id": "cambridge--trinity-college",
-          "event": "walked",
-          "participants": [
-            "Леля",
-            "Сергей",
-            "Катя",
-            "Дэвид",
-            "Оскар"
-          ],
-          "evidence": [
-            {
-              "photo": "PB150070.JPG"
-            }
-          ],
-          "report": "reviews/source-audit/trips/london-cambridge-2008.json",
-          "note": "PB150067–72: большой двор с фонтаном и двор перед библиотекой. Участники в кадре; вход в библиотеку не доказан."
         },
         {
           "id": "london--britanskiy-muzey",
@@ -2404,6 +3103,49 @@
           ],
           "report": "reviews/source-audit/trips/london-cambridge-2008.json",
           "note": "Автор прямо пишет, что зашли после военного музея."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "london",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 23,
+              "quote": "Потом мы встретились у бабушки уже в Германии и тем неделю просто отдыхали. В бассейн я ходила, по магазинам, просто с бабушкой гуляли и общались. Только съездил Серега в Амстердам на экскурсию. Мы с Наташкой до этого ездили, а Серега не был, поэтому я с бабушкой осталась, а Серега ездил один. А в целом первая неделя была просто неделей релаксирующей. В конце же этой недели нас ждал «основной акцент» нашего отпуска – поездка в Лондон. Самолетные перелеты в Европе просто как автобусные поездки. За 10-20 евро можно в любой город улететь. Мы улетели в Лондон рано утром в пятницу и вернулись вечером в понедельник. Наше пребывание там сразу было взято под полный контроль со стороны наших ответственных родственников :-) Все-таки у нас с сестрой что-то общее есть, поэтому еще до отъезда мы получили четкие инструкции как действовать в свой первый день и как оказалось все последующие дни были так же уже заранее запланированы к нашему приезду."
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-cambridge-2008.json",
+          "note": "Пятница–понедельник с Сергеем; визит к родственникам."
+        },
+        {
+          "id": "amsterdam",
+          "event": "visited",
+          "participants": [
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 23,
+              "quote": "Потом мы встретились у бабушки уже в Германии и тем неделю просто отдыхали. В бассейн я ходила, по магазинам, просто с бабушкой гуляли и общались. Только съездил Серега в Амстердам на экскурсию. Мы с Наташкой до этого ездили, а Серега не был, поэтому я с бабушкой осталась, а Серега ездил один. А в целом первая неделя была просто неделей релаксирующей. В конце же этой недели нас ждал «основной акцент» нашего отпуска – поездка в Лондон. Самолетные перелеты в Европе просто как автобусные поездки. За 10-20 евро можно в любой город улететь. Мы улетели в Лондон рано утром в пятницу и вернулись вечером в понедельник. Наше пребывание там сразу было взято под полный контроль со стороны наших ответственных родственников :-) Все-таки у нас с сестрой что-то общее есть, поэтому еще до отъезда мы получили четкие инструкции как действовать в свой первый день и как оказалось все последующие дни были так же уже заранее запланированы к нашему приезду."
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-cambridge-2008.json",
+          "note": "Сергей один; Леля осталась с бабушкой. Предыдущая поездка Лели и Наташи отделена от этого посещения."
+        },
+        {
+          "id": "cambridge",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 26,
+              "quote": "На следующей день по нашей наглой просьбе «вывести нас за пределы Лондона куда-нибудь» ребята решили свозить нас в Кэмбридж. Это была наша особенно заветная мечта (которую же мы конечно не постеснялись высказать), т.к. Женя в своих путевых заметках описывал как это особенно классно посетить университет с один из выпускников и нам хотелось того же :-) Дэвид безропотно выполнил требование этих наглых родственников, отвез нас в Кэмбридж. Действительно было очень интересно когда он показывал где он жил, рассказывал как и что устроено, проводил нас какими-то улочками... Классно! Кэмбридж нам очень понравился. Такой старинный городок, а уж про университет и говорить нечего. ВПЕЧАТЛЯЕТ! Хотя если честно, я поймала себя на том что все-таки не уверена что мне нравится именно такая старина. К моему стыду, один из современных филиалов (стекло и бетон со всеми наворотами техники) университета Торонто, мне как-то показался ближе по духу :-( Серега мне сказал что я ничего не понимаю... Т.е. он прочувствовал :-) Нет, мне тоже понравилось очень конечно :-)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/london-cambridge-2008.json",
+          "note": "Приехали с Дэвидом, Катей и Оскаром."
         }
       ]
     },
@@ -2485,6 +3227,40 @@
           "report": "reviews/source-audit/trips/los-angeles-disneyland-2007.json",
           "note": "Гуляли по аллее и смотрели звёзды; фотографии с уличным персонажем."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "los-angeles",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_file": "G:\\My Drive\\Family Travel Blog Photos\\North America\\2007 - Лос-Анджелес и Диснейленд\\Источники\\2026-10-20 - Дополнение автора, правка окончания.txt",
+              "source_sha256": "33f555aacff77e5446293f8cd0d7bd28f8c0af10abeb1e129935eda2bf450609",
+              "quote": "В то время я работала с клиентом в Лос-Анджелесе и регулярно летала туда в командировки. И однажды решила немного задержаться, чтобы Наташа прилетела ко мне и мы вместе посмотрели Лос-Анджелес, а потом отправились в Диснейленд."
+            }
+          ],
+          "report": "reviews/source-audit/trips/los-angeles-disneyland-2007.json",
+          "note": "Текущая поездка Лели и Наташи отделена от регулярных рабочих командировок."
+        },
+        {
+          "id": "long-beach",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "photo": "los-angeles/img_4183.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/los-angeles-disneyland-2007.json",
+          "note": "Отдельный город: океанариум и Queen Mary не находятся в муниципальных границах Лос-Анджелеса."
+        }
       ]
     },
     "content/americas/usa/los-angeles-disneyland-2007/disneyland/index.md": {
@@ -2507,15 +3283,70 @@
           "report": "reviews/source-audit/trips/los-angeles-disneyland-2007.json",
           "note": "Состоявшееся посещение подтверждено поздним рассказом и всем фотокомплектом, не только планом старого LJ."
         }
-      ]
+      ],
+      "place_visits": []
     },
     "content/europe/luxembourg/luxembourg-2007/grandma/index.md": {
       "source_review": "read",
-      "visits": []
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "hurth",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 14,
+              "quote": "Мы с Серегой вдвоем(!!!) ездили к бабушке на 2,5 недели. Не помню когда мы так долго были вдвоем без детей. Однако «медового месяца» как нам тут все на работе говорили не было, т.к. мы все-таки ездили к бабушке и все свое время посвящали ей и ее хозяйству. Т.ч. на самом деле отпуск получился очень напряженным и «рабочим», но смена деятельности это тоже отдых как известно. Дел переделали там кучу! Выкинули старые кресла у бабушки, купили ей в IKEA новые, новые матрасы купили там же, старые стулья Серега починил, все окна-двери ей заклеил (а то дуло много лет ужастно), всякие проводки поправил, люстры-лампочки поменяли, на кладбище у деда все привели в порядок и т.п. Просто бабушка много лет не давала ничего делать, т.к. все ей кажется что «сколько еще ей осталось там жить», а тут я просто уже «силовыми методами» выкинула, купила и все. Она и не возмущалась сильно, т.к. уже дошла с этим старьем что спина все время болела: и от лежание на кроватях и от просмотра телевизора т.к. неудобно все. Еще провели ей день рождения, готовили стол, приглашали всех ее друзей-соседей. Вообще я провела очень много времени на кухне, т.к. бабушка все худеет, есть мало, а я старалась готовить вкусненькое, чтобы она еле побольше ;-) А Серега значит по хозяйству. Еще гуляли, много ездили на машине везде (очень удачную машину нам дали на прокат, довольно высокую и бабушка в ней могла ездить помногу). Даже все вместе ездили на машине в Люксембург!!! Вытащили ее. Еще объехали опять же с бабушкой всю родню. Теперь дедовы племянники мелкими «кланами» по разным городам раскиданы, мы всех посетили. Честно говоря я без особого вроде энтузиазма, но бабушка настаивала что надо поддерживать родственные отношения, даже поэтому сама с нами поехала. А принимали нас везде так тепло и хорошо, что мы получили очень большое удовольствие от этих поездок сами. Так вот в делах большая часть времени и прошла. В центр Кельна тоже с бабушкой выбрались. Короче мы ей очень моральный дух подняли. Все-таки она сильно «закисает» когда долго одна :-("
+            }
+          ],
+          "report": "reviews/source-audit/trips/luxembourg-2007.json",
+          "note": "Две с половиной недели с бабушкой; празднование дома и бытовые дела."
+        },
+        {
+          "id": "cologne",
+          "event": "walked",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "бабушка"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 14,
+              "quote": "Мы с Серегой вдвоем(!!!) ездили к бабушке на 2,5 недели. Не помню когда мы так долго были вдвоем без детей. Однако «медового месяца» как нам тут все на работе говорили не было, т.к. мы все-таки ездили к бабушке и все свое время посвящали ей и ее хозяйству. Т.ч. на самом деле отпуск получился очень напряженным и «рабочим», но смена деятельности это тоже отдых как известно. Дел переделали там кучу! Выкинули старые кресла у бабушки, купили ей в IKEA новые, новые матрасы купили там же, старые стулья Серега починил, все окна-двери ей заклеил (а то дуло много лет ужастно), всякие проводки поправил, люстры-лампочки поменяли, на кладбище у деда все привели в порядок и т.п. Просто бабушка много лет не давала ничего делать, т.к. все ей кажется что «сколько еще ей осталось там жить», а тут я просто уже «силовыми методами» выкинула, купила и все. Она и не возмущалась сильно, т.к. уже дошла с этим старьем что спина все время болела: и от лежание на кроватях и от просмотра телевизора т.к. неудобно все. Еще провели ей день рождения, готовили стол, приглашали всех ее друзей-соседей. Вообще я провела очень много времени на кухне, т.к. бабушка все худеет, есть мало, а я старалась готовить вкусненькое, чтобы она еле побольше ;-) А Серега значит по хозяйству. Еще гуляли, много ездили на машине везде (очень удачную машину нам дали на прокат, довольно высокую и бабушка в ней могла ездить помногу). Даже все вместе ездили на машине в Люксембург!!! Вытащили ее. Еще объехали опять же с бабушкой всю родню. Теперь дедовы племянники мелкими «кланами» по разным городам раскиданы, мы всех посетили. Честно говоря я без особого вроде энтузиазма, но бабушка настаивала что надо поддерживать родственные отношения, даже поэтому сама с нами поехала. А принимали нас везде так тепло и хорошо, что мы получили очень большое удовольствие от этих поездок сами. Так вот в делах большая часть времени и прошла. В центр Кельна тоже с бабушкой выбрались. Короче мы ей очень моральный дух подняли. Все-таки она сильно «закисает» когда долго одна :-("
+            }
+          ],
+          "report": "reviews/source-audit/trips/luxembourg-2007.json",
+          "note": "Прямо сказано о поездке в центр с бабушкой; конкретного входа в собор в этом году автор не описывает."
+        }
+      ]
     },
     "content/europe/luxembourg/luxembourg-2007/story/index.md": {
       "source_review": "read",
-      "visits": []
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "luxembourg-city",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "бабушка"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 14,
+              "quote": "Мы с Серегой вдвоем(!!!) ездили к бабушке на 2,5 недели. Не помню когда мы так долго были вдвоем без детей. Однако «медового месяца» как нам тут все на работе говорили не было, т.к. мы все-таки ездили к бабушке и все свое время посвящали ей и ее хозяйству. Т.ч. на самом деле отпуск получился очень напряженным и «рабочим», но смена деятельности это тоже отдых как известно. Дел переделали там кучу! Выкинули старые кресла у бабушки, купили ей в IKEA новые, новые матрасы купили там же, старые стулья Серега починил, все окна-двери ей заклеил (а то дуло много лет ужастно), всякие проводки поправил, люстры-лампочки поменяли, на кладбище у деда все привели в порядок и т.п. Просто бабушка много лет не давала ничего делать, т.к. все ей кажется что «сколько еще ей осталось там жить», а тут я просто уже «силовыми методами» выкинула, купила и все. Она и не возмущалась сильно, т.к. уже дошла с этим старьем что спина все время болела: и от лежание на кроватях и от просмотра телевизора т.к. неудобно все. Еще провели ей день рождения, готовили стол, приглашали всех ее друзей-соседей. Вообще я провела очень много времени на кухне, т.к. бабушка все худеет, есть мало, а я старалась готовить вкусненькое, чтобы она еле побольше ;-) А Серега значит по хозяйству. Еще гуляли, много ездили на машине везде (очень удачную машину нам дали на прокат, довольно высокую и бабушка в ней могла ездить помногу). Даже все вместе ездили на машине в Люксембург!!! Вытащили ее. Еще объехали опять же с бабушкой всю родню. Теперь дедовы племянники мелкими «кланами» по разным городам раскиданы, мы всех посетили. Честно говоря я без особого вроде энтузиазма, но бабушка настаивала что надо поддерживать родственные отношения, даже поэтому сама с нами поехала. А принимали нас везде так тепло и хорошо, что мы получили очень большое удовольствие от этих поездок сами. Так вот в делах большая часть времени и прошла. В центр Кельна тоже с бабушкой выбрались. Короче мы ей очень моральный дух подняли. Все-таки она сильно «закисает» когда долго одна :-("
+            }
+          ],
+          "report": "reviews/source-audit/trips/luxembourg-2007.json",
+          "note": "Совместная автомобильная поездка с бабушкой; три обзорных кадра подтверждают город."
+        }
+      ]
     },
     "content/europe/luxembourg/luxembourg-2007/rome/index.md": {
       "source_review": "read",
@@ -2569,99 +3400,6 @@
           ],
           "report": "reviews/source-audit/trips/luxembourg-2007.json",
           "note": "Описан древнеримский город; серия IMG_4148–55 показывает маршрут группы среди руин. Отдельные храмы, арки и памятники не дробятся."
-        },
-        {
-          "id": "rome--trevi-fountain",
-          "event": "visited",
-          "participants": [
-            "Леля",
-            "Сергей"
-          ],
-          "evidence": [
-            {
-              "photo": "Италия/IMG_4123.JPG"
-            },
-            {
-              "photo": "Италия/IMG_4126.JPG"
-            },
-            {
-              "photo": "Италия/IMG_4130.JPG"
-            },
-            {
-              "photo": "Италия/IMG_4132.JPG"
-            }
-          ],
-          "report": "reviews/source-audit/trips/luxembourg-2007.json",
-          "note": "Самостоятельная ночная серия IMG_4122–33, включая Сергея у фонтана. Детали скульптур — части одного фонтана."
-        },
-        {
-          "id": "rome--spanish-steps",
-          "event": "ascended_or_walked",
-          "participants": [
-            "Леля",
-            "Сергей"
-          ],
-          "evidence": [
-            {
-              "photo": "Италия/IMG_4134.JPG"
-            },
-            {
-              "photo": "Италия/IMG_4135.JPG"
-            },
-            {
-              "photo": "Италия/IMG_4137.JPG"
-            }
-          ],
-          "report": "reviews/source-audit/trips/luxembourg-2007.json",
-          "note": "Серия IMG_4134–37 с обзором площади сверху лестницы. Соседняя церковь и дальние купола не объявляются посещёнными."
-        },
-        {
-          "id": "rome--san-petro-in-vinkoli",
-          "event": "visited",
-          "participants": [
-            "Леля",
-            "Сергей"
-          ],
-          "evidence": [
-            {
-              "photo": "Италия/IMG_4138.JPG"
-            },
-            {
-              "photo": "Италия/IMG_4140.JPG"
-            },
-            {
-              "photo": "Италия/IMG_4142.JPG"
-            },
-            {
-              "photo": "Италия/IMG_4143.JPG"
-            }
-          ],
-          "report": "reviews/source-audit/trips/luxembourg-2007.json",
-          "note": "Серия IMG_4138–43 внутри: гробница с Моисеем Микеланджело и реликварий цепей. Не отдельные музеи или географические остановки."
-        },
-        {
-          "id": "rome--capitoline-square",
-          "event": "walked",
-          "participants": [
-            "Леля",
-            "Сергей"
-          ],
-          "evidence": [
-            {
-              "photo": "Италия/IMG_4159.JPG"
-            },
-            {
-              "photo": "Италия/IMG_4160.JPG"
-            },
-            {
-              "photo": "Италия/IMG_4161.JPG"
-            },
-            {
-              "photo": "Италия/IMG_4162.JPG"
-            }
-          ],
-          "report": "reviews/source-audit/trips/luxembourg-2007.json",
-          "note": "Серия IMG_4156–62 с Сергеем на площади, конной статуей и лестницей. Вход в Капитолийские музеи не описан и не подтверждён."
         },
         {
           "id": "vatican--muzei-vatikana",
@@ -2723,6 +3461,40 @@
           "report": "reviews/source-audit/trips/luxembourg-2007.json",
           "note": "Назван в авторском рассказе; внутренние кадры IMG_4165/66 подтверждают вход."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "rome",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 16,
+              "quote": "Однако мы были верны себе и конечно же успели съездить на экскурсию автобусную с русскоязычной компанией. В этот раз мы забрались аж в Рим!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/luxembourg-2007.json",
+          "note": "Пятидневный автобусный выезд с Сергеем, включая дорогу."
+        },
+        {
+          "id": "vatican",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 19,
+              "quote": "Очень много мы там гуляли. Еще мне понравилась очень картинная галерея, а вернее больше гид мне понравился. Эта дама нам рассказывала все начиная с эпохи возрождения и по ходу объясняла чем характеризовалась живопись этого периода, какой период наступил потом, что изменилось в картинах и т.д. Водила по залам туда-сюда даже, т.е. одну картину в этом зале, потом в других, потом возращалась в первый зал к другой картине. Но как-то очень у меня в голове уложилось все наконец (надолго ли?). Еще один день у нас был посвящен Ватикану. Даже не знаю как сказать, очень двоякие ощущения. Если подходить с исторической точки зрения то конечно супер! Богато очень, коллекция искусства колосальная, роспись Секстинской капелы... Но если смотреть на все это с религиозной точки зрения у меня после этой поездки большое разочарование по поводу католической церкви :-( Все эти саркофаги пап немыслимо богатые, все эти голые античные герои везде... Не не вяжется у меня все это с церковью. Кстати сильно отличается последний папа Иоан-Павел 2. Он просил в его память только его папский герб (у каждого папы свой герб) на полу собора святого Петра выложить на полу чтобы люди по нему ходили и все. Я конечно понимаю что все эти папские сокровищницы и захронения настолько древние что не надо судить все по теперешним меркам, но... как-то отталкивающе это все для меня :-( Удивительно особенно если сравнить с моей прошлогодней поездкой по северной Италии, где в католических храмах у мощей святых я чувствовала особое одухотворение... А тут... ну музей и музей :-( Отпуск 2008"
+            }
+          ],
+          "report": "reviews/source-audit/trips/luxembourg-2007.json",
+          "note": "Отдельный день отпуска, не предыдущая поездка в Италию."
+        }
       ]
     },
     "content/americas/canada/mcmichael-2023/mcmichael/index.md": {
@@ -2754,7 +3526,8 @@
           "report": "reviews/source-audit/trips/mcmichael-2023.json",
           "note": "Самостоятельное музейное учреждение. Название коллекции не превращено в отдельное место. Городская группировка Торонто сохраняет прежнее прямое указание владельца; это не утверждение об административных границах Торонто."
         }
-      ]
+      ],
+      "place_visits": []
     },
     "content/americas/canada/mont-tremblant-2012/story/index.md": {
       "source_review": "read",
@@ -2771,6 +3544,21 @@
           ],
           "report": "reviews/source-audit/trips/mont-tremblant-2012.json",
           "note": "Катались Сергей, Леля, Наташа, Митя; бабушка гуляла из-за боли в спине. Участие Лизы в катании не выводится из общего списка гостей."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "mont-tremblant",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 23,
+              "quote": "В этом году я усиленно пыталась сдержать свои организационные порывы и провести все рождественские каникулы дома (финансовое бремя будующего Наташкиного университетского образования несколько пугает ;-)). Но... не сдержала :-) Как-то у нас уже традиция в католическое Рождество куда-то выезжать, пусть даже на пару дней. Поэтому и в этом году я за месяц где-то посмотрела, приценилась, и заказала поездку в Тремблант (Mont Tremblant). Вроде он считается одним из лучших горнолыжных курортов восточного части Северной Америки (но я не большой спец, т.ч. утверждать это не берусь). <lj-cut text=\"Продолжение и фото...\"> Находится он в Канаде, франкоязычной провиции Квебек, где-то 100-150 км. севернее Монреаля. Сначала у нас даже была идея на обратном пути остановится на денек в Монреале, но потом оказалось что это будет 25 число, ВСЕ будет закрыто и мы от этой идеи отказались.  Поехали мы большой командой: мы с детьми, мама и Лиза. На 6 человек мы сняли 1- bedroom номер (т.е. две комнаты и кухня, в кухне все кастрюльки, тарелки-ложки и посудомаечная машина :-)). "
+            }
+          ],
+          "report": "reviews/source-audit/trips/mont-tremblant-2012.json",
+          "note": "Шесть участников: Сергей, Леля, Наташа, Митя, мама Лели и Лиза."
         }
       ]
     },
@@ -2792,6 +3580,20 @@
           ],
           "report": "reviews/source-audit/trips/new-england-2015.json",
           "note": "Посещение подтверждено рассказом, имя читается на собственной фотографии."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "cape-cod",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "полуострове Кейп Код"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
         }
       ]
     },
@@ -2852,6 +3654,32 @@
           ],
           "report": "reviews/source-audit/trips/new-england-2015.json"
         }
+      ],
+      "place_visits": [
+        {
+          "id": "provincetown",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 38,
+              "quote": "Provincetown (5/4/5/4/5)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
+        },
+        {
+          "id": "plymouth",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 57,
+              "quote": "В этот город мы и отправились на следующий день"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
+        }
       ]
     },
     "content/americas/usa/new-england-2015/settlement/index.md": {
@@ -2884,6 +3712,44 @@
           ],
           "report": "reviews/source-audit/trips/new-england-2015.json",
           "note": "Посещение подтверждено рассказом, имя читается на собственной фотографии."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "portsmouth",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 101,
+              "quote": "Portsmouth, NH"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
+        },
+        {
+          "id": "ogunquit",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 122,
+              "quote": "Ogunquit, ME"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
+        },
+        {
+          "id": "burlington",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 131,
+              "quote": "Burlington, VT"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
         }
       ]
     },
@@ -2940,18 +3806,20 @@
             }
           ],
           "report": "reviews/source-audit/trips/new-england-2015.json"
-        },
+        }
+      ],
+      "place_visits": [
         {
-          "id": "boston--public-garden",
+          "id": "boston",
           "event": "visited",
           "participants": null,
           "evidence": [
             {
-              "photo": "boston/20150814_094639.jpg"
+              "source_paragraph": 143,
+              "quote": "Бостон"
             }
           ],
-          "report": "reviews/source-audit/trips/new-england-2015.json",
-          "note": "На собственном фото читается Public Garden, 1837. Не отождествлять с первым городским парком Boston Common 1634 года."
+          "report": "reviews/source-audit/trips/new-england-2015.json"
         }
       ]
     },
@@ -2970,18 +3838,20 @@
           ],
           "report": "reviews/source-audit/trips/new-england-2015.json",
           "note": "Состоявшаяся экскурсия с индивидуальными оценками; сохранить как экскурсионный маршрут, не как музей."
-        },
+        }
+      ],
+      "place_visits": [
         {
-          "id": "concord-ma--north-bridge",
+          "id": "lexington",
           "event": "visited",
           "participants": null,
           "evidence": [
             {
-              "photo": "american-revolution/20150815_135422.jpg"
+              "source_paragraph": 191,
+              "quote": "Lexington, куда мы и отправились на экскурсию"
             }
           ],
-          "report": "reviews/source-audit/trips/new-england-2015.json",
-          "note": "Сопоставлены мост и соседняя могила британских солдат (20150815_135327.jpg) с официальными материалами NPS. Конкорд добавлен в places главы; это не Конкорд в Нью-Гэмпшире. Мемориальные детали не дробятся на отдельные метки."
+          "report": "reviews/source-audit/trips/new-england-2015.json"
         }
       ]
     },
@@ -3009,6 +3879,32 @@
             {
               "source_paragraph": 236,
               "quote": "нам рассказали про американскую оружейную промышленность"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "lowell",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 209,
+              "quote": "Lowell, центр текстильной промышленности"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
+        },
+        {
+          "id": "springfield",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 233,
+              "quote": "мы заехали в другой городок с очень похожей историей"
             }
           ],
           "report": "reviews/source-audit/trips/new-england-2015.json"
@@ -3043,6 +3939,20 @@
           ],
           "report": "reviews/source-audit/trips/new-england-2015.json"
         }
+      ],
+      "place_visits": [
+        {
+          "id": "newport",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 291,
+              "quote": "С удовольствием мы посетили Ньюпорт"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
+        }
       ]
     },
     "content/americas/usa/new-england-2015/cultural-heritage/index.md": {
@@ -3072,6 +3982,20 @@
           ],
           "report": "reviews/source-audit/trips/new-england-2015.json",
           "note": "Выставка и коллекции составляют посещение одного музея."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "berkshires",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 296,
+              "quote": "The Berkshires"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-england-2015.json"
         }
       ]
     },
@@ -3200,7 +4124,304 @@
           "report": "reviews/source-audit/trips/new-york-2006.json",
           "note": "Вошли на выставку «От Эль Греко до Пикасо», спустились по спирали; семейный кадр внутри."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "new-york",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "Почему-то уже давно Нью-Йорк вызывал у меня особый интерес. Порой думалось, что может быть все-таки надо двинуться из своей деревни куда-то, где жизнь бьет ключом, где сконценрированы все финансовые потоки, а значит и самая интересная работа, самые новые, передовые технологии… Старушка Европа у нас вызывает умильные чувства, но желания там жить не вызывает вроде, так что оставались США. Хотя негативное отношение к этой стране, впитанное с молоком матери, так в крови не осталось, но здравое размышление говорило, что страна эта не зря является мировым лидером по многим вопросам (как не обидно это сознавать). Поэтому поездка в Нью-Йорк давно созревала, а тут когда Катюша Орлова нас пригласила погостить у нее (т.е. на халяву!), то мы сразу же дозрели ;-) Мама нас отпустила отдохнуть на несколько дней и мы в составе 3 человек стали готовиться к поездке. Вернее подготовиться мы и не успели. То на работе завалы, то Анютку отправляли в Москву, то какие-то вечеринки на работе. Короче даже с мыслями не собрались :-) Накануне рождественских выходный, мы поехали на работу все втроем :-) Наташку посадила я у себя в «ячейке» (у меня 2 компьютера) и так мы и проработали «семейным подрядом» до обеда. И потом выдвинулись в сторону границы. Мы наивно полагали, что народу будет не много, т.к. последнии 2 дня машин на дорогах было значительно меньше, и в офисе народу тоже не было почти. Однако таких умных оказалось достаточно и мы все-таки простояли в пробке на выезде из города часа 1,5 :-( Поэтому когда мы пересекли границу (она где-то в 120-140 км. от города), то было уже темно. Плюс нам очень не повезло в погодой – ливень стоял стеной. ВСЮ дорогу! Т.е. темно, мокро… Мы все-таки поехали на вене (хотя Серега хотел ехать более экономно на маленькой нашей машинке) и Наташка улеглась там сзади с DVD-плейром под одеяло и балдела всю дорогу. Я же боялась даже заснуть – уж больно тяжелая дорога. Хорошо у нас был с собой GPS, который уверенно вел нас с хайвея на хайвей и нам не приходилось думать в какой точке мы сейчас находимся. Но дорога наша растянулась и 800км пути заняли у нас почти 10 часов :-( Поэтому к Катюше в Манхетен мы приехали только после 1 ночи. Разгрузились и пошли ставить машину на парковку на весь срок прибывания. Катя уже сделала исследование рынка в этом вопросе и говорит: «Две улицы вправо от нас – 120. Куда будем ставить?» Мы говорим а в чем там разница? Да ни в чем, обе парковки от одной компании, обе подземные, просто... «влево я не хожу вечером одна...» Это был первый наш шок. Надо еще сказать что Манхетен это такой огромный остров (кажется где-то 35 км. на 12 км. или около того), который разделен на квадраты улицами: авеню и стритс, причем поскольку особых дворов между домами нет, то получается 2-3 дома и улица, ну метров 50 между светофорами. Т.е. «2 улицы влево от дома» это расстояние которое видно просто невооруженным вглядом! Ну мы все равно конечно поставили «налево» за 60 :-) Кстати, потом оказалось что район там не то чтобы реально плохой и страшный, а просто жилых домов там нет, поэтому ночью он просто пустынный. Потом сидели еще чай пили и болтали. Расположила нас Катя с большим комфортом! Она снимает двухуровневую квартиру вместе с подружкой. На 1 этаже у них кухня, гостинная и спальня этой подружки, а так же ванна-туалет. Вниз лестница в Катины аппартаменты. Там просто большая площадь с окнами во внутренний дворик (большие окна выше земли) и свой туалет (но без душа). Вот такое жилье. Даже не знаю как его обозвать по американским меркам. Катя говорит что вроде «1-bedroom with recreational room» (или что-то подобное). Но для 2 девочек очень хорошо мне показалось. Только сколько они за это платят!!!! Нам, бедным канадцам, цены показались заоблачными! Не могу промолчать и озвучу примерно ;-) Больше 3,5 тыс. в месяц! Но это конечно место расположения. Если идти «вправо» (влево не ходить! ;-)), то все рядом. До Бродвея 5 минут, до работы Катиной, до всего короче – ПЕШКОМ! :-)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-york-2006.json",
+          "note": "Сергей, Леля и Наташа; Катя сопровождала на части программы."
+        }
       ]
+    },
+    "content/americas/usa/new-york-2012/day-1/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "new-york--sony-wonder-technology-lab",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 5,
+              "quote": "В первый день мы утром бросили вещи и пошли исследовать город. Сначала пошли в какой-то небольшой детский музей технологий под эгидой SONY. Простенько, немного, но бесплатно ;-) Интересно было как мультики делают.Сначала на компьютере ты мог создать своего героя, а потом в специальной кабине, ты сам перед камерой танцевал (камера основные точки тела – колени, локти. плечи и т.п. фиксировала движения), а потом вместо тебя накладывали твоего героя, и получился мультик как он танцует! Даже мне было интересно :-) НУ и много подобного – робота программировал Митька, «операцию» делал через специальную «руку»...\\"
+            },
+            {
+              "photo": "IMG_0002.JPG"
+            },
+            {
+              "photo": "IMG_0006.JPG"
+            },
+            {
+              "photo": "IMG_0010.JPG"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-york-2012.json",
+          "note": "Подробный рассказ о детском музее технологий и серия IMG_0002–17 из интерактивных экспозиций. Не магазин Sony."
+        },
+        {
+          "id": "new-york--muzey-sovremennogo-iskusstva-moma",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "Потом мы пошли в музей современного (modern) искусства (MoMA). Ну-у-у-у, на любителя конечно :-) Но мы брали «наушники» и с ними намного интереснее, там и картину Дали нам «рассказали» и Пикассо. И когда тебе «подсказывают» ты видишь и понимаешь гораздо больше! Ну а импрессионистов и подсказывать не надо, от Моне мы получили большое удовольствие.\\"
+            },
+            {
+              "photo": "IMG_0022.JPG"
+            },
+            {
+              "photo": "IMG_0024.JPG"
+            },
+            {
+              "photo": "IMG_0026.JPG"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-york-2012.json",
+          "note": "Прямое описание посещения с аудиогидом, Моне, Дали и Пикассо; собственная серия внутри IMG_0022–26."
+        },
+        {
+          "id": "new-york--smotrovaya-ploshchadka-top-of-the-rock",
+          "event": "ascended",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "После этого мы полезли на смотровую площадку, правда не на Empire State Building (которая выше всего), а на Top of the Rock, с которой считается лучше вид. И действительно вид очень хороший! Плюс нет решеток, а просто стекло. Хотя у нас была бумажка где рассказывалось как какое здание называется, это все равно мало что дает, поэтому мы просто смотрели на панораму не пытаясь поять что есть что :-) Ну парк конечно и так понятно.\\"
+            },
+            {
+              "photo": "IMG_0029.JPG"
+            },
+            {
+              "photo": "IMG_0038.JPG"
+            },
+            {
+              "photo": "IMG_0040.JPG"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-york-2012.json",
+          "note": "Прямо поднялись на смотровую площадку; большая серия IMG_0028–44 с мамой и Митей за стеклом."
+        },
+        {
+          "id": "new-york--manhattan-boat-trip",
+          "event": "boat_trip",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 8,
+              "quote": "Ближе к вечеру мы совершили еще одну обзорную экскурсию, но уже на пароходике вокруг южной оконечности Манхетана, где вблизи рассмотрели и сфотографировали статую Свободы.\\"
+            },
+            {
+              "photo": "IMG_0047.JPG"
+            },
+            {
+              "photo": "IMG_0058.JPG"
+            },
+            {
+              "photo": "IMG_0061.JPG"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-york-2012.json",
+          "note": "Поездка описана и подтверждена серией IMG_0047–61 из пассажирского салона. Оператор Circle Line не назначается только по общему маршруту."
+        },
+        {
+          "id": "new-york--statuya-svobody",
+          "event": "viewed_from_boat",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 8,
+              "quote": "Ближе к вечеру мы совершили еще одну обзорную экскурсию, но уже на пароходике вокруг южной оконечности Манхетана, где вблизи рассмотрели и сфотографировали статую Свободы.\\"
+            },
+            {
+              "photo": "IMG_0049.JPG"
+            },
+            {
+              "photo": "IMG_0050.JPG"
+            },
+            {
+              "photo": "IMG_0052.JPG"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-york-2012.json",
+          "note": "Подробно рассмотрели и сняли с воды; серии IMG_0049–52. Высадка на Liberty Island и вход в памятник не описаны."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "new-york",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "Мне очень хотелось ответить каждому лично (и я постараюсь это выполнить), но читала я все в «походном режиме», т.к. мы на 4 дня уезжали в Нью Йорк в гости к Катюше, моей однокласcнице. Ездила я с мамой и Митькой, это наше уже традиционное путешествие в таком составе на мой день рождения. Один год мы по Канаде катались, в прошлом году в Вашингтон ездили. А все потому, что это у нас праздничные выходные обычно, и поэтому именно в эти дни проходит всегда чемпионат Канады по фехтованию. А проходит он всегда в разных местах по стране, и Наташка с Серегой нас обычно «бросают», ну и нам приходится развлекаться самим. В этот раз они летали в Саскатун (это очень далеко, в «центре» Канады – дыра-дырой).\\"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-york-2012.json",
+          "note": "Леля, мама и Митя приехали на четыре дня, жили у одноклассницы Кати. Катя из Нью-Йорка не смешивается с родственницей Катей в Лондоне."
+        }
+      ]
+    },
+    "content/americas/usa/new-york-2012/day-2/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "new-york--majestic-theatre",
+          "event": "attended",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя",
+            "Катя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 9,
+              "quote": "На следующей день (который был моим днем рождения) нас Катюша в качестве подарка отвела на бродвейский мюзикл «Фантом оперы». Билеты нам достались в ложе, которая прямо над сценой!!!! Мы в ней одни сидели! Сначала боялись что сбоку будет не все видно, но оказалось видно было прекрасно, мы как-будто внутри сцены сидели, все ТАК близко! Все мы в большом восторге! Потом в небольшом уютном ресторанчике распили бутылочку вина в честь праздника :-)\\"
+            },
+            {
+              "photo": "IMG_0093.JPG"
+            },
+            {
+              "photo": "IMG_0094.JPG"
+            },
+            {
+              "photo": "IMG_0095.JPG"
+            },
+            {
+              "photo": "IMG_0099.JPG"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-york-2012.json",
+          "note": "Спектакль в подаренной Катею ложе над сценой. На IMG_0093/94 читаются Majestic и Phantom, серия IMG_0095–99 внутри подтверждает театр. Другие театральные вывески в уличных видах не посещения."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/americas/usa/new-york-2012/day-3/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "new-york--tsentralnyy-park",
+          "event": "walked",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя",
+            "Катя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 10,
+              "quote": "Еще один день нас Катюша водила пешком по городу, по Центральному парку (действительно внутри него забываешь, что вокруг «каменные джунгли»), и еще пол-дня мы провели в Мэтрополинэт музее, который (как мы обсудили) ближе всего к Эрмитажу – там и египетские-древнегреческие залы, и посуда-мебель, и доспехи средневековые и конечно же много-много картин! Самое большое удовольствие мы опять же получили от импрессионистов, скажем так, эта поездка у нас прошла под их знаком.\\"
+            },
+            {
+              "photo": "IMG_0201.JPG"
+            },
+            {
+              "photo": "IMG_0205.JPG"
+            },
+            {
+              "photo": "IMG_0206.JPG"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-york-2012.json",
+          "note": "Прогулка с Катей подробно описана, собственная серия IMG_0200–10 с семьёй. Скульптуры и фонтан в парке не дробятся."
+        },
+        {
+          "id": "new-york--metropoliten-muzey",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя",
+            "Катя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 10,
+              "quote": "Еще один день нас Катюша водила пешком по городу, по Центральному парку (действительно внутри него забываешь, что вокруг «каменные джунгли»), и еще пол-дня мы провели в Мэтрополинэт музее, который (как мы обсудили) ближе всего к Эрмитажу – там и египетские-древнегреческие залы, и посуда-мебель, и доспехи средневековые и конечно же много-много картин! Самое большое удовольствие мы опять же получили от импрессионистов, скажем так, эта поездка у нас прошла под их знаком.\\"
+            },
+            {
+              "photo": "IMG_0138.JPG"
+            },
+            {
+              "photo": "IMG_0147.JPG"
+            },
+            {
+              "photo": "IMG_0180.JPG"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-york-2012.json",
+          "note": "Провели полдня; большая серия IMG_0137–198 из разных залов. Полностью прочитана авторская оценка, не только название музея."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/americas/usa/new-york-2012/day-4/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "new-york--amerikanskiy-muzey-estestvennoy-istorii",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "мама",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 11,
+              "quote": "В последний день нас чуть подвела погода, был сильный дождь, Катюша уже работала, а мы прокатились на метро в Музей Естествознания, где посмотрели кости динозавров, посетили планетарий и многое другое, а потом еще погуляли по городу и даже для интереса прошлись по магазинам :-) Так что можно сказать что всю экскурсионную программу мы выполнили и впечатление от Нью-Йорка получили.\\"
+            },
+            {
+              "photo": "IMG_0212.JPG"
+            },
+            {
+              "photo": "IMG_0213.JPG"
+            },
+            {
+              "photo": "IMG_0215.JPG"
+            }
+          ],
+          "report": "reviews/source-audit/trips/new-york-2012.json",
+          "note": "Прямо посетили в дождливый день; серия IMG_0212–218 внутри экспозиций. Катя работала и с ними не ходила."
+        }
+      ],
+      "place_visits": []
     },
     "content/americas/canada/ottawa-2015/tulips/index.md": {
       "source_review": "read",
@@ -3247,6 +4468,20 @@
           "report": "reviews/source-audit/trips/ottawa-2015.json",
           "note": "Указатель с названием Dows Lake читается на IMG_5406.JPG. Плавание и катание на лодке не описаны."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "ottawa",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 38,
+              "quote": "ездили в нашу столицу – Оттаву"
+            }
+          ],
+          "report": "reviews/source-audit/trips/ottawa-2015.json"
+        }
       ]
     },
     "content/americas/canada/ottawa-2015/ottawa/index.md": {
@@ -3264,18 +4499,20 @@
           ],
           "report": "reviews/source-audit/trips/ottawa-2015.json",
           "note": "Прогулка снаружи и по территории состоялась; экскурсии внутрь и подъёма на Башню мира не было."
-        },
+        }
+      ],
+      "place_visits": [
         {
-          "id": "ottawa--women-are-persons",
-          "event": "exterior",
+          "id": "ottawa",
+          "event": "visited",
           "participants": null,
           "evidence": [
             {
-              "photo": "ottawa/img_5601-lelkapc.jpg"
+              "source_paragraph": 88,
+              "quote": "нашего мини-путешествия"
             }
           ],
-          "report": "reviews/source-audit/trips/ottawa-2015.json",
-          "note": "Семейные снимки у скульптурной группы на Парламентском холме. Современное перемещение памятника не переносится на маршрут 2015 года."
+          "report": "reviews/source-audit/trips/ottawa-2015.json"
         }
       ]
     },
@@ -3321,7 +4558,8 @@
           "report": "reviews/source-audit/trips/ottawa-2015.json",
           "note": "Реальное посещение в составе Канадского музея истории. На фото костюмы, сцены, кухня, лодка и транспорт — музейные экспонаты, не новые страны и учреждения."
         }
-      ]
+      ],
+      "place_visits": []
     },
     "content/americas/canada/ottawa/museum-2017/index.md": {
       "source_review": "read",
@@ -3338,6 +4576,21 @@
           ],
           "report": "reviews/source-audit/trips/ottawa-2017.json",
           "note": "Прежнее название «Канадской Цивилизации» в абзаце 233 — тот же музей, а не второе учреждение. Снимки 2009 года явно отделены от 2017."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "ottawa",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 233,
+              "quote": "попали в Оттаву"
+            }
+          ],
+          "report": "reviews/source-audit/trips/ottawa-2017.json",
+          "note": "Текущий раздел относится к столичному маршруту; музей истории физически находится в Гатино, существующая региональная привязка к Оттаве сохранена."
         }
       ]
     },
@@ -3375,18 +4628,21 @@
           ],
           "report": "reviews/source-audit/trips/port-elgin-2021.json",
           "note": "Пешие прогулки и велосипеды; полный маршрут до соседних городов не утверждается."
-        },
+        }
+      ],
+      "place_visits": [
         {
-          "id": "port-elgin--harbour",
-          "event": "exterior",
+          "id": "port-elgin",
+          "event": "visited",
           "participants": null,
           "evidence": [
             {
-              "photo": "port-elgin/20210713_164848.jpg"
+              "source_paragraph": 0,
+              "quote": "мы ездим в городок Port Elgin"
             }
           ],
           "report": "reviews/source-audit/trips/port-elgin-2021.json",
-          "note": "Собственная фотография лодок и городской гавани, без утверждения прогулки на яхте."
+          "note": "Текущий отдых — Леля, её мама и Митя. Упоминание летней традиции не создаёт дат для всех предыдущих лет."
         }
       ]
     },
@@ -3550,6 +4806,21 @@
           "report": "reviews/source-audit/trips/quebec-montreal-2003.json",
           "note": "Объехали сад на вагончике; слабо цветущие посадки не отменяют посещение."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "quebec-city",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "Теперь немножко про поезду напишу. Ездили мы в нашу соседнюю франкоязычную провинцию Квебек, в города Квебек-сити и Монреаль. Я туда прошлым летом с нашими гостями ездила на экскурсию на автобусе, но Серега не был. Поэтому мы решили теперь поехать «дикарями» всей семьей. Звали всех своих знакомых, но только одна семья наших соседей смогла выбраться вместе с нами. Я была ответственная за культурную часть программы, т.к. составляла маршрут и детальное описание: во сколько, куда мы идем. Гостиницы мы заказали где-то за 1,5 месяца заранее по интернету. Мужчины больше занимались подготовкой автотранспорта и разработкой маршрута (в соответствии с моим планом)."
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-montreal-2003.json",
+          "note": "Оба города посещены; Монреаль отдельно уже связан с главой."
+        }
       ]
     },
     "content/americas/canada/quebec-virginia-2013/canada-games/index.md": {
@@ -3568,6 +4839,20 @@
           "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
           "note": "Место церемонии 17 августа 2013 установлено по сообщению правительства Канады; дата совпадает с семейными фотографиями. Церемонию открытия родители смотрели по телевизору."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "sherbrooke",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 11,
+              "quote": "в городе Sherbrook"
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
+        }
       ]
     },
     "content/americas/canada/quebec-virginia-2013/magog/index.md": {
@@ -3585,6 +4870,20 @@
           ],
           "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
           "note": "Авторский рассказ и собственные панорамы набережной сопоставлены с муниципальными сведениями о береговой зоне Магога. Не утверждается купание или прогулка на корабле."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "magog",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 63,
+              "quote": "в городке Magog"
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
         }
       ]
     },
@@ -3632,6 +4931,20 @@
           "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
           "note": "В рассказе деревянный настил; авторскую формулировку не исправляли. Официальное название Boardwalk подтверждено городским туристическим источником."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "virginia-beach",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 113,
+              "quote": "Virginia Beach – штат Вирджиния"
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
+        }
       ]
     },
     "content/americas/canada/quebec-virginia-2013/virginia-beach-2/index.md": {
@@ -3666,7 +4979,8 @@
           "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
           "note": "Велопрогулка без Сергея."
         }
-      ]
+      ],
+      "place_visits": []
     },
     "content/americas/canada/quebec-virginia-2013/virginia-beach-3/index.md": {
       "source_review": "read",
@@ -3721,19 +5035,86 @@
           "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
           "note": "Посещение корабля прямо подтверждено текстом и семейными кадрами; общий заимствованный снимок не является единственным основанием."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "norfolk",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 213,
+              "quote": "в городе Норфолк"
+            }
+          ],
+          "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
+        }
       ]
     },
     "content/americas/canada/quebec-virginia-2013/conclusion/index.md": {
       "source_review": "read",
-      "visits": []
+      "visits": [],
+      "place_visits": []
     },
     "content/americas/canada/tobermory-2014/waterfalls/index.md": {
       "source_review": "read",
-      "visits": []
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "hoggs-falls",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "waterfalls/DSC01720.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/tobermory-2014.json",
+          "note": "Указатель Hoggs Falls на собственном снимке; водопад на IMG_4068 и DSC01775."
+        },
+        {
+          "id": "inglis-falls",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "waterfalls/IMG_4086.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/tobermory-2014.json",
+          "note": "Ступенчатый каскад соответствует названию главы и официальному описанию Inglis Falls."
+        }
+      ]
     },
     "content/americas/canada/tobermory-2014/flowerpot/index.md": {
       "source_review": "read",
-      "visits": []
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "tobermory",
+          "event": "walked",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "flowerpot/IMG_4105.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/tobermory-2014.json",
+          "note": "Семья на набережной и у лодочной гавани."
+        },
+        {
+          "id": "flowerpot-island",
+          "event": "viewed_from_boat",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "flowerpot/DSC01831.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/tobermory-2014.json",
+          "note": "Столбы видны с воды, на DSC01834 видны посетители на суше, но это не доказывает высадку семьи на остров."
+        }
+      ]
     },
     "content/americas/canada/tobermory-2014/grotto/index.md": {
       "source_review": "read",
@@ -3750,11 +5131,26 @@
           "report": "reviews/source-audit/trips/tobermory-2014.json",
           "note": "Семья у края грота и на скалах. Спуск внутрь полости по этим кадрам не подтверждён."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "bruce-peninsula",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "grotto/DSC01879.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/tobermory-2014.json",
+          "note": "Прогулка к гроту и по берегу; это парк, а не только отдельная пещера."
+        }
       ]
     },
     "content/americas/canada/tobermory-2014/adventure-park/index.md": {
       "source_review": "read",
-      "visits": []
+      "visits": [],
+      "place_visits": []
     },
     "content/americas/canada/vancouver-2023/vancouver/index.md": {
       "source_review": "read",
@@ -3770,18 +5166,6 @@
             }
           ],
           "report": "reviews/source-audit/trips/vancouver-2023.json"
-        },
-        {
-          "id": "vancouver--gastown-steam-clock",
-          "event": "exterior",
-          "participants": null,
-          "evidence": [
-            {
-              "photo": "vancouver/20230211_115647.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/vancouver-2023.json",
-          "note": "Семейный снимок непосредственно у часов."
         },
         {
           "id": "stanley-park",
@@ -3808,18 +5192,6 @@
           ],
           "report": "reviews/source-audit/trips/vancouver-2023.json",
           "note": "Прогулка и собственные снимки у воды; полный обход всех 28 км не приписывается."
-        },
-        {
-          "id": "vancouver--canada-place",
-          "event": "exterior",
-          "participants": null,
-          "evidence": [
-            {
-              "photo": "vancouver/20230210_192946.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/vancouver-2023.json",
-          "note": "Ночная прогулка у подсвеченных парусов и семейный портрет у читаемой вывески. Вход на аттракцион FlyOver не утверждается."
         },
         {
           "id": "vancouver--waterfront-station",
@@ -3868,6 +5240,21 @@
           ],
           "report": "reviews/source-audit/trips/vancouver-2023.json",
           "note": "Имя дано в исходной подписи к собственному снимку интерьера. Вход в вестибюль подтверждён; ночлег в этом отеле не утверждается."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "vancouver",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "мы познакомились с самим городом"
+            }
+          ],
+          "report": "reviews/source-audit/trips/vancouver-2023.json",
+          "note": "Три поколения женщин; не приписывается присутствие Сергея или Мити."
         }
       ]
     },
@@ -4096,22 +5483,6 @@
           "note": "Явно назван среди осмотренных ночных монументов; отдельного узнаваемого кадра в комплекте не найдено."
         },
         {
-          "id": "washington-dc--tidal-basin",
-          "event": "shore_walk",
-          "participants": [
-            "Леля",
-            "мама Лели",
-            "Митя"
-          ],
-          "evidence": [
-            {
-              "photo": "story/p5221891.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/washington-2011.json",
-          "note": "Митя на берегу на p5221891. Другие люди на водных велосипедах не доказывают катание семьи."
-        },
-        {
           "id": "washington-dc--natsionalnyy-muzey-amerikanskoy-istorii",
           "event": "visited",
           "participants": [
@@ -4144,6 +5515,25 @@
           ],
           "report": "reviews/source-audit/trips/washington-2011.json",
           "note": "Все трое; IMAX и зал насекомых внутри комплекса также посетили."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "washington-dc",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "мама Лели",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 33,
+              "quote": "Каждый год, в мае месяце, в аккурат на мой день рождения, Наташка с Серегой уезжают на соревнования. Потому что у нас праздничные выходные и для соревнований это очень удобно. А я, мама и Митька остаемся одни. В прошлом году мы с компанией друзей ездили на природу. В этом году та же компания собралась в Вашингтон. Я была в Вашингтоне в Серегой и Наташей уже, но подумала что мама моя теперь с паспортом канадским, а в Штатах еще толком не была. Поэтому сначала идея была нам с ней смотаться, но куда Митьку девать? На соревнованиях ему делать нечего, оставить с Женей можно конечно (вот им радость ;-)), но как-то грустно... И решили мы его с собой взять тоже, т.к. 7 лет человеку, надо его тоже просвещать!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/washington-2011.json",
+          "note": "Леля, её мама и Митя. Сергей и Наташа на соревнованиях, не участники этой поездки."
         }
       ]
     },
@@ -4196,90 +5586,6 @@
           "note": "Состоялась, автобус доставил в гостиницу около 23 часов. Оператор не назван."
         },
         {
-          "id": "washington-dc--kapitoliy",
-          "event": "exterior",
-          "participants": null,
-          "evidence": [
-            {
-              "photo": "washington/p8300515.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
-          "note": "Семейные кадры у фасада, вход внутрь не описан. Не смешивается с экскурсией 2011."
-        },
-        {
-          "id": "washington-dc--white-house",
-          "event": "exterior",
-          "participants": null,
-          "evidence": [
-            {
-              "photo": "washington/p8300540.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
-          "note": "Семейные фото у ограды; внутрь не входили по имеющимся материалам."
-        },
-        {
-          "id": "washington-dc--jefferson-memorial",
-          "event": "visited_rotunda",
-          "participants": null,
-          "evidence": [
-            {
-              "photo": "washington/p8300558.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
-          "note": "Наташа внутри у статуи."
-        },
-        {
-          "id": "washington-dc--fdr-memorial",
-          "event": "visited",
-          "participants": null,
-          "evidence": [
-            {
-              "photo": "washington/p8300577.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
-          "note": "Семейные фотографии в скульптурном комплексе; хлебная очередь, FDR с собакой, радио и Элеонора — части одного мемориала."
-        },
-        {
-          "id": "washington-dc--world-war-ii-memorial",
-          "event": "visited",
-          "participants": null,
-          "evidence": [
-            {
-              "photo": "washington/p8300593.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
-          "note": "Семейные фотографии фонтанного комплекса и стена звёзд P8300588."
-        },
-        {
-          "id": "washington-dc--lincoln-memorial",
-          "event": "visited",
-          "participants": null,
-          "evidence": [
-            {
-              "photo": "washington/p8300611.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
-          "note": "Леля и Сергей внутри колоннады, статуя отдельно снята."
-        },
-        {
-          "id": "washington-dc--marine-corps-memorial",
-          "event": "visited",
-          "participants": null,
-          "evidence": [
-            {
-              "photo": "washington/p8300630.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
-          "note": "Собственная ночная фотография и подробный снимок щита History of the U.S. Marine Corps. Географически Арлингтон, региональная привязка Вашингтон."
-        },
-        {
           "id": "washington-dc--natsionalnaya-galereya-iskusstva",
           "event": "visited",
           "participants": null,
@@ -4291,18 +5597,6 @@
           ],
           "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
           "note": "Состоявшаяся экскурсия и внутренние снимки."
-        },
-        {
-          "id": "washington-dc--nga-sculpture-garden",
-          "event": "visited",
-          "participants": null,
-          "evidence": [
-            {
-              "photo": "washington/p8300670.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
-          "note": "Наташа у фонтана, отдельно сняты произведения сада; «заяц на камне» сопоставлен с официальным каталогом."
         },
         {
           "id": "washington-dc--natsionalnyy-muzey-aviatsii-i-kosmonavtiki",
@@ -4329,6 +5623,21 @@
           ],
           "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
           "note": "Осмотрели минералы, динозавров, посмотрели стереофильм о морских динозаврах. Все трое."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "washington-dc",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 22,
+              "quote": "Еще полгода назад наши друзья стали подбивать нас съездить на выходные перед школой в Вашингтон-Филадельфию. Мы договорились с мамой что она посидит дома с Митькой (мама пока не выездная в Штаты), а мы втроем съездим. Как обычно и бывает в последний момент друзья нас «кинули» :-Р и мы остались одни. Ехать не очень хотелось. Причин «не ехать» было много. И одни остались, и финансово истрепались с ремонтами за лето, и вообще именно в Штаты именно сейчас как-то не хотелось ;-)... Но поскольку я за это лето вообще никуда не выезжала, то мне хотелось все-таки как-то вырваться из дома хоть чуть-чуть. Опять же Наташку мы почти все лето не видели: она то в Европе, то на даче и мы ей обещали что поедем... Поэтому через все «не хочу» где-то за 4 дня до празников мы все-таки решили что надо ехать. И начали планировать в срочном порядке. Хорошо у нас была Катюша констультантом. Она училась в Филадельфии, была ни раз в Вашингтоне и мы ее 2 вечера по телефону доставали, получая нахаляву кучу ценной информации :-) Потом мы опробовали новый для себя сайт www.Priceline.com. В принципе в интернете полно сайтов которые находят разные предложения о скидках в гостиницах и там ты можешь выбрать что тебе подходит. Но в центре Вашингтона все приличное где-то было от 139$ за номер. А на этом сайте ты выбираешь район, выбираешь «звездность» и называешь свою цену и сразу кредитную карту даешь. Т.е. если какая-то гостиница соглашается, то ты уже купил (не зная что). Немножко страшно с одной стороны, но прикольно. Поэтому мы сели играть в эту «рулетку». И начиная с 30$ и тихонько увеличивая купили очень крутую гостиницу (Omni Shoreham Hotel) за 77$ за ночь, 4 звезды. Гостиница очень прикольная, 1930 года со всем представлением о крутизне того времени. Ходишь по ней как по музею: все в мраморе, везде люстры хрустальные, картины, цветы... Но при этом плоский большой телевизор в номере, все навороты в ванной и т.д. Короче мы очень довольны. 2 ночи мы провели в этой гостинице."
+            }
+          ],
+          "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
+          "note": "Сергей, Леля, Наташа; Митя остался дома с бабушкой, друзья отказались."
         }
       ]
     },
@@ -4377,6 +5686,34 @@
           "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
           "note": "В 2008 коллекция находилась в исходном здании Мериона; современный кампус Филадельфии открыт в 2012. Историческая точка выделена отдельно, с типами museum/gallery."
         }
+      ],
+      "place_visits": [
+        {
+          "id": "philadelphia",
+          "event": "attended",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 27,
+              "quote": "Утром у нас был ранний подъем и переезд в Филадельфию. Дело в том что около Филадельфии есть уникальная частная коллекция в которую мы обязательно хотели попасть, но планировали это на день отъезда в понедельник. Однако они мне ответили что в понедельник у них праздник и пришлось договариваться на воскресенье. Там все только по записи и последнее время «запуска» было в 1:30 :-( Ни то, ни се для нас, но от этого приходилось строить все свое время в Филадельфии. Поэтому чтобы хоть что-то увидеть в Филях мы выехали очень рано, проехали «сквозь» Балтимор (очень нам понравился город «на первых взгляд») без остановок и сразу припарковались в центре города, рядом с местом от куда отходят различные обзорные экскурсии. Залезли на 2-этажный открытый автобус – солнце парило нещадно (все дни были безоблачные и в районе 30). Очень слабый был гид, нес всякую чушь :-( Очень жалко, т.к. город очень красивый. Как-то «широко раскинут» с фонтанами и разными красивыми и довольно старыми (в американском понимании конечно) зданиями. Лицезрели мы «с улицы» и художественную галлерею и музей Родена, но внутрь не попали. Основная проблема этих автобусов в Филадельфии (это я прочла по интернету и потом мы это наблюдали) что вроде система как везде – билет действителен на сутки, можно выходить и заходить опять, но столько народу, что если выйдешь из автобуса, то потом фиг сядешь :-( А времени у нас было в обрез. Поэтому мы получили только общее и очень благоприятное впечатление, жаль не было больше времени на изучение этого города."
+            }
+          ],
+          "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
+          "note": "Осмотрели город с двухэтажного открытого автобуса, не выходили у каждого музея."
+        },
+        {
+          "id": "longwood-gardens",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 30,
+              "quote": "На вечер у нас тоже уже было запланировано мероприятия и поэтому оставалось несколько часов «не то ни се», мы решили сделать небольшой «крюк» и заселиться в гостиницу которую мы заказывали уже в пригороде, чтобы потом сразу домой стартовать. В этом городе (King of Prussia) еще очень большой торговый центр (прямо в 5 минутях от нашей гостиницы оказался) где мы хотели еще и пошопиться с утра для полного кайфа. Гостиница «Ширатон» – 3 звезды оказалась противоположность нашей гостинице в Вашингтоне (заказывалась тоже как «кот в мешке» по прайслисту и обошлась нам около 60$ за ночь). Современная «бетонная коробка» без всяких «излишеств» в вестибюлях, и наворотов типа «плоского телевизора» в номере, но как-то все равно более комфортная и удобная. Мы успели поселиться и даже прошвырнуться по торговому центру. Купили Наташке рюкзах для школы, как и планировали, и поняли что ничего особенно интересного для нас нет. Магазины все те же что и у нас, цены тоже, т.ч. решили с утра время на шопинг не тратить, а сразу домой ехать, чтобы раньше вернуться. Нашей последней туристической точкой был парк Longwood gardens http://www.longwoodgardens.org/ Вернее это наверное ботанический сад, или помесь ботанического сада с кучей оранжерей и парка с диковинно подстриженными кустами и деревьями с кучей разных интересных фонтанов. Что-то (очень удаленно) типа нашего Питергофа, но без дворца ;-) Я вообще не большая любительница ботаники, но получила огромное удовольствие. Кувшинки ТАКИЕ что кажется что я сяду и меня выдержат, а цветы! А всякие диковенные растения со всего света. А уж регулярные парки с фонтанами я вообще люблю. Мы же приехали не просто так, а на особое представление (в честь праздника). Причем на подъезде к парку на огромных щитах висело: «Распродано – мест нет!». Машины были со всех штатов! К нам, стоящим в очереди из машин на въезд, подошло несколько работников с вопросом: «А билеты то у вас есть?» Видимо наши онтарийские номера вызывали недоверие, но у нас в дикой Канаде тоже есть интернет и кредитные карточки, поэтому мы были полностью подготовлены и обилечены заранее :-) Летом в этом парке каждые выходные (кажется) устраивают предстваление: фонтаны подсвечиваются разными огнями и под музыку «пляшут». А в честь праздинка в фонтанам и музыке добавили еще фейерверки. Народу было!.. Причем все со своими стульями или пледами и я думаю чуть ли ни с утра занимали места ;-) Мы поняли что безнадежно опоздали и нагло решили что как только начнется мы прямо с краю дорожки в центре и примостимся. Так Серега с Наташкой и сделали (их тут же заставили сесть на землю), а я нашла себя замечательное место «в елке» (действительно не под елкой, там уже чей то плед лежал огромный, а пришлось прямо в елку влезть, но зато я стояла и видимость у меня была наверное лучше всех :)). Вот само представление хотя и интересное и грандиозное меня не так сильно впечатлило. Что-то подобное мы видели в Германии и там мне показалось намного лучше была достигнута гармония между всплесками фонтанов и музыкой, здесь больше общее «впечатление» и масштабность поражали. Но все равно было здорого и дало нам такой «заключительный аккорд» для всей нашей поездки."
+            }
+          ],
+          "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
+          "note": "Прогулка по саду, оранжереи и бассейны с кувшинками, вечернее шоу фонтанов и фейерверков."
+        }
       ]
     }
   },
@@ -4404,6 +5741,36 @@
           "note": "Прямое «затащили её в ... собор» подтверждает вход. Посещение сокровищницы не добавляется."
         }
       ],
+      "place_visits": [
+        {
+          "id": "moscow",
+          "event": "visited",
+          "participants": [
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 22,
+              "quote": "Началось все несправедливо. Серега взял на неделю больше отпуска (отгулов у него еще на несколько месяцев накопилось) и умотал в Москву. Причем как-то довольно спонтанно он это решил :-О Вдруг сказал мне, что хочет съездить, ну мы сразу билеты и купили. На работе директора повздыхали что это «совершенно непрофессионально брать 4 недели подряд!!!» причем про нас обоих :-( Вот несправедливость работать в одной команнии, я как «правильная» специально не стала 4 неделю брать, а у начальства отложилось что мы «оба сволочи» :-) Так что пока Серега в удовольствие общался в Москве, я тут как Золушка и на работе и с детьми… Но мне кажется для Сереги было приятно и полезно от меня отдохнуть и наобщался он как хотел и с кем хотел (и успел) :-) Во всяком случае впечатлений у него много получилось. Мне завидно :-)"
+            }
+          ],
+          "report": "reviews/source-audit/supplemental/grandma-2008.json",
+          "note": "Сергей летел раньше, Леля оставалась в Канаде; конкретные достопримечательности не перечислены. Не добавляется семейное посещение музеев."
+        },
+        {
+          "id": "cologne",
+          "event": "walked",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 36,
+              "quote": "Потом мы еще с бабушкой делали наезды в дальние магазины, ездили в центр города гуляли, даже затащили ее в знаменитый Кельнский собор, ели жутко жирные и жутко вкусные немецкие плюшки и гуляли по немецким рождественским базарам. А по ночам смотрели с ней кучу серий исторических сериалов, которые Серега ей накачал и привез. Отрывались по полной!"
+            }
+          ],
+          "report": "reviews/source-audit/supplemental/grandma-2008.json",
+          "note": "Прогулка вместе с бабушкой."
+        }
+      ],
       "report": "reviews/source-audit/supplemental/grandma-2008.json"
     },
     "moscow-new-year-2003": {
@@ -4411,6 +5778,21 @@
       "title": "Новый год в Москве — 2002–2003",
       "site_chapter": null,
       "visits": [],
+      "place_visits": [
+        {
+          "id": "moscow",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 19,
+              "quote": "Тут прибыли мы в Москву! Снежок валит. Вышли из самолета сразу в \"рукаве\""
+            }
+          ],
+          "report": "reviews/source-audit/supplemental/moscow-new-year-2003.json",
+          "note": "Прибытие на Новый год 2002–2003; не поездка 2012. Дата уточнена в архивном реестре владельцем."
+        }
+      ],
       "report": "reviews/source-audit/supplemental/moscow-new-year-2003.json"
     },
     "washington-2015": {
@@ -4623,25 +6005,6 @@
           "note": "Отдельные фигуры в плащах на собственных снимках подтверждают осмотр."
         },
         {
-          "id": "washington-dc--white-house",
-          "event": "exterior",
-          "participants": [
-            "Леля",
-            "Сергей"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 106,
-              "quote": "Возвращались в гостиницу уже по ночному городу, прошли мимо белого дома, он так же не велик, хоть и светится в ночи :-) Мне казалось раньше по улице ездили машины, теперь только пешеходы. Или я ошибаюсь?"
-            },
-            {
-              "photo": "20150801_212538.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/supplemental/washington-2015.json",
-          "note": "Ночной внешний осмотр, без входа."
-        },
-        {
           "id": "rehoboth-beach--beach-and-boardwalk",
           "event": "shore_walk_no_swimming",
           "participants": [
@@ -4696,6 +6059,24 @@
           ],
           "report": "reviews/source-audit/supplemental/washington-2015.json",
           "note": "Оба вернулись, осмотрели залы и пообедали там же."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "washington-dc",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 43,
+              "quote": "С тех пор как Наташка уехала учиться, я так и грущу, что вот “дети разлетаются”, останемся мы вдвоем и будет скучно и грустно :-( Этим летом, ровно посередине между отпуском в Мексике и поездке по Новой Англии, у нас выдались “одинокие праздники”, когда Наташка работала, Митька с мамой уехали с Женей на Атлантику, а мы остались вдвоем… Сидеть дома в середине лета конечно не хотелось и сначала мы запланировали поездку на озера, но после Мексики захотелось “культуры” и Серега предложил смотаться в Вашингтон, пройтись по музеям. Ок, собрались и в пятницу после работы выдвинулись в сторону государственной границы (которая от нас в часе езды). "
+            }
+          ],
+          "report": "reviews/source-audit/supplemental/washington-2015.json",
+          "note": "Самостоятельная поездка вдвоём. Наташа работала, Митя и бабушка были на Атлантике с Женей."
         }
       ],
       "report": "reviews/source-audit/supplemental/washington-2015.json"

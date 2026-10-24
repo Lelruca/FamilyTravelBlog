@@ -9,7 +9,7 @@ city: "Падуя"
 places: ["padua"]
 hero_card_image: "IMG_3510.JPG"
 auto_gallery: false
-attractions: ["padua--paduanskiy-universitet","padua--saint-anthony-basilica","padua--prato-della-valle"]
+attractions: ["padua--paduanskiy-universitet"]
 ---
 
 <p>Потом мы были в Падуи, городе где находится 2 старейший университет в Италии, чуть ли не 12xx кого-то то года. Сам город небольшой, но тоже пропитан стариной. </p>
