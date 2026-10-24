@@ -4262,10 +4262,10 @@
       "title": "\"Амстердам музейный\"",
       "draft": false,
       "source_sha256_lf": "264b333b73dbb453e61fb7aad1ce91d68c80ea003843ba5bb89ece66146e5262",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/amsterdam/index.md",
@@ -4274,10 +4274,10 @@
       "title": "\"Амстердам\"",
       "draft": false,
       "source_sha256_lf": "d90bfbafcbbc51f4660430ea793c3b59dbddefaf064ead3e0ecc9673f79cf707",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/luxembourg-orangerie/index.md",
@@ -4286,10 +4286,10 @@
       "title": "\"Люксембургский сад, музей Оранжери\"",
       "draft": false,
       "source_sha256_lf": "9fb940b439d4aee869f54b614424ae35c9f19d9b9af2897e8616350265392b30",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/notre-dame-louvre/index.md",
@@ -4298,10 +4298,10 @@
       "title": "\"Нотр Дам, Лувр, Au Lapin Agile\"",
       "draft": false,
       "source_sha256_lf": "1abcbf0b8be84f98b52eafe1d78075f40815646a536194e3a8c5d7514e29524d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/paris-left-bank/index.md",
@@ -4310,10 +4310,10 @@
       "title": "\"Париж, левый берег, Орсе\"",
       "draft": false,
       "source_sha256_lf": "82bdd703b4ac2a24d9b9630c48b6b72f543fbbc6ce36bea04fa31c2d5ea837d6",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/rembrandt/index.md",
@@ -4322,10 +4322,10 @@
       "title": "\"Рембрандт и спейс кексы\"",
       "draft": false,
       "source_sha256_lf": "abd2022d330b4ef71e3db68dfaf35b73506c9cb7c5f046008353a21bc3552f86",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/sainte-chapelle-eiffel/index.md",
@@ -4334,10 +4334,10 @@
       "title": "\"Сен-Шапель, Эйфелева башня\"",
       "draft": false,
       "source_sha256_lf": "639dfa8a207d9f2e9d180865e17d466e90977f6d707aefba3869150e646c0824",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/start/index.md",
@@ -4346,10 +4346,10 @@
       "title": "\"В Европе!\"",
       "draft": false,
       "source_sha256_lf": "d8ee27b0b3c5104c3fe36c9983557d0c9c5342804db833ddff1689f0efe5e567",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
       "file": "content/europe/netherlands/girls-europe-2017/the-hague/index.md",
@@ -4358,10 +4358,10 @@
       "title": "\"Гаага\"",
       "draft": false,
       "source_sha256_lf": "87789f6e979162ccd354ad7ba453d6bfb0b9d6f444b7008c53af11d48c656fbe",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
       "file": "content/europe/portugal/honeymoon-2017/astorga-ponferrada/index.md",
