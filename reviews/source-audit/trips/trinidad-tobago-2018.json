@@ -1,0 +1,65 @@
+{
+  "trip_path": "content/americas/trinidad-tobago/trinidad-tobago-2018",
+  "status": "scoped_photo_story_review_video_unreviewed",
+  "source": {
+    "path": "media-manifests/trinidad-tobago-2018.json",
+    "sha256": "08a65abaa3c1056362f853f696390ef735e7dbb72dc611929b20f8bb73a8a08f",
+    "kind": "photograph_manifest",
+    "read": "Глава не содержит авторского рассказа и подписей. Проверены название, вся структура страницы и реестр исходных материалов. Отдельный исходный пост отсутствует по отметке without_post."
+  },
+  "photographs": {
+    "status": "scoped_story_block_review",
+    "manifest": "media-manifests/trinidad-tobago-2018.json",
+    "method": "Целиком учтён один городской фотоэпизод, точечно просмотрены два характерных кадра: набережная и отлёт. Отдельные здания, гостиница, суда и ландшафт не идентифицируются. Полный визуальный просмотр 15 кадров не заявлен.",
+    "scoped_blocks": [
+      {
+        "chapter": "port-of-spain",
+        "object": "Городская фотозаметка Порт-оф-Спейн",
+        "reviewed": [
+          "port-of-spain/20181011_160606.jpg",
+          "port-of-spain/20181012_150606.jpg"
+        ],
+        "scope": "Только существующая городская связь всей заметки, без новых отдельных объектов."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "file": "content/americas/trinidad-tobago/trinidad-tobago-2018/port-of-spain/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Авторского текста нет; прочитаны все метаданные и проверено отсутствие подписей. Рассказ заменён городской фотолентой, два кадра проверены точечно.",
+      "objects": [
+        {
+          "label": "Порт-оф-Спейн",
+          "event": "city_photo_story",
+          "evidence": [
+            {
+              "photo": "port-of-spain/20181011_160606.jpg"
+            },
+            {
+              "photo": "port-of-spain/20181012_150606.jpg"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "port-of-spain"
+          },
+          "reason": "Сохраняется единственный город, которым названа вся фотозаметка. Отдельные архитектурные и природные объекты из фона не добавляются.",
+          "participants": null
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "city_relation_checked_video_open",
+    "questions": [],
+    "limitations": [
+      {
+        "chapter": "port-of-spain",
+        "detail": "Видеофайл на странице не просмотрен; полный визуальный просмотр всей серии не заявлен. Новые объекты из непроверенных материалов не добавляются."
+      }
+    ],
+    "repeat_check": "В главе нет ни одного конкретного именованного объекта, кроме города. Имена зданий, гостиниц, портовых объектов и островов из снимков не угадываются; новых точек нет."
+  }
+}

@@ -1502,10 +1502,10 @@
       "title": "\"Порт-оф-Спейн\"",
       "draft": false,
       "source_sha256_lf": "ffb6eb2c404f9c7a5d80dbbdbcdc4ac269390b8a2bff9043044084a5eece216c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/trinidad-tobago-2018.json"
     },
     {
       "file": "content/americas/usa/atlantic-city-philadelphia-2017/atlantic-city/index.md",
@@ -4993,11 +4993,11 @@
       "trip_path": "content/europe/russia/moscow-new-year-2012",
       "title": "\"Я не была в Москве 7 лет...\"",
       "draft": false,
-      "source_sha256_lf": "1c1497937d30e70e43ba492ec399eeacb9e99a67419f873b4c7842e0db655ed1",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "0a966a8cd8a98ba3195a1bbebde12c0d80e1701c56c64ce8e6b0967c7b262bf9",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/moscow-new-year-2012.json"
     },
     {
       "file": "content/europe/spain/barcelona-museums-2025/museums/index.md",
@@ -5150,10 +5150,10 @@
       "title": "\"Неделя на курорте\"",
       "draft": false,
       "source_sha256_lf": "5e7146be5548716084bc5a18f13d5d93eccee18138ae4ca7c52e55656a4b70b7",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/malgrat-2024.json"
     },
     {
       "file": "content/europe/spain/montserrat-2025/montserrat/index.md",

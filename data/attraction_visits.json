@@ -8991,6 +8991,25 @@
         }
       ]
     },
+    "content/europe/spain/malgrat-2024/malgrat/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "malgrat-de-mar",
+          "event": "resort_stay_and_bathing",
+          "participants": null,
+          "evidence": [
+            {
+              "source_paragraph": 25,
+              "quote": "Выбрали городок Malgrat de Mar."
+            }
+          ],
+          "report": "reviews/source-audit/trips/malgrat-2024.json",
+          "note": "Неделя отдыха, купание и вечерние прогулки прямо описаны; точный состав родственников по дням не установлен."
+        }
+      ]
+    },
     "content/americas/canada/mcmichael-2023/mcmichael/index.md": {
       "source_review": "read",
       "visits": [
@@ -9285,6 +9304,76 @@
           ],
           "report": "reviews/source-audit/trips/montserrat-2025.json",
           "note": "Прямое посещение храма и святыни на Успение, один монастырский комплекс. Известны Леля, Сергей, Наташа и Марина по обложке, в музее указано шесть человек; полный состав не угадывается."
+        }
+      ]
+    },
+    "content/europe/russia/moscow-new-year-2012/story/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "moscow--kremlin-armoury",
+          "event": "entered_guided_tour",
+          "participants": [
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 15,
+              "quote": "индивидуальную экскурcию по Кремлю и Оружейной палате"
+            }
+          ],
+          "report": "reviews/source-audit/trips/moscow-new-year-2012.json",
+          "note": "Явно описанная индивидуальная экскурсия и последующее воспоминание Мити о доспехах. Один кремлёвский музейный комплекс, без отдельных точек под каждый зал."
+        },
+        {
+          "id": "moscow--tretyakovskaya-galereya",
+          "event": "entered_with_audio_guide",
+          "participants": [
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 15,
+              "quote": "В Третьяковку я его затащила"
+            }
+          ],
+          "report": "reviews/source-audit/trips/moscow-new-year-2012.json",
+          "note": "Митя сначала сопротивлялся, но вошёл и прошёл залы с аудиогидом. Картины и купленные постеры — части того же посещения."
+        },
+        {
+          "id": "moscow--teatr-sovremennik",
+          "event": "attended",
+          "participants": [
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 17,
+              "quote": "со сцены театра «Современник»"
+            }
+          ],
+          "report": "reviews/source-audit/trips/moscow-new-year-2012.json",
+          "note": "Вечернее взрослое посещение автора; Митя не приписан. Другие взрослые в тексте не названы."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "moscow",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "Каникулы у нас замечательные получились!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/moscow-new-year-2012.json",
+          "note": "Леля и Митя, встречались с родными и друзьями. Описание не означает присутствие Сергея в поездке."
         }
       ]
     },
@@ -14114,6 +14203,27 @@
           ],
           "report": "reviews/source-audit/trips/trinidad-2017.json",
           "note": "Пепе завёз в родной город и провёз на машине. Это проезд с осмотром, без заявленных входов в театры и другие здания."
+        }
+      ]
+    },
+    "content/americas/trinidad-tobago/trinidad-tobago-2018/port-of-spain/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "port-of-spain",
+          "event": "city_photo_story",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "port-of-spain/20181011_160606.jpg"
+            },
+            {
+              "photo": "port-of-spain/20181012_150606.jpg"
+            }
+          ],
+          "report": "reviews/source-audit/trips/trinidad-tobago-2018.json",
+          "note": "Сохраняется единственный город, которым названа вся фотозаметка. Отдельные архитектурные и природные объекты из фона не добавляются."
         }
       ]
     },

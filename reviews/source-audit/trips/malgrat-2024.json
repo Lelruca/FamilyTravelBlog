@@ -1,0 +1,104 @@
+{
+  "trip_path": "content/europe/spain/malgrat-2024",
+  "status": "chapter_read_independent_source_missing",
+  "source": {
+    "path": "content/europe/spain/malgrat-2024/malgrat/index.md",
+    "sha256": "e5f6eba71a76e3b7d670b32fb0e01d54b9759e382763f7db2885c036f82fa8da",
+    "kind": "owner_text",
+    "read": "Полностью прочитан текст текущей главы. В основном JSON-архиве Facebook исходный пост не найден; реестр помечает главу without_post. Независимая исходная запись пока отсутствует, сверка с ней остаётся открытой."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/malgrat-2024.json",
+    "method": "Объекты по фотографиям не определяются. Покадровый просмотр не требуется для сохранения городской связи."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/spain/malgrat-2024/malgrat/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава прочитана, включая вывод. Сверка с независимым оригиналом остаётся открытой.",
+      "objects": [
+        {
+          "label": "Мальграт-де-Мар",
+          "event": "resort_stay_and_bathing",
+          "evidence": [
+            {
+              "source_paragraph": 25,
+              "quote": "Выбрали городок Malgrat de Mar."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "malgrat-de-mar"
+          },
+          "reason": "Неделя отдыха, купание и вечерние прогулки прямо описаны; точный состав родственников по дням не установлен.",
+          "participants": null
+        },
+        {
+          "label": "Барселона — предшествующая летняя база",
+          "event": "extended_stay_before_resort",
+          "evidence": [
+            {
+              "source_paragraph": 19,
+              "quote": "больше 2 месяцев мы жили и работали"
+            }
+          ],
+          "decision": "covered_by_trip_intro",
+          "reason": "Предыстория курортной недели; неназванные музеи и пляжи не восстанавливаются по снимкам.",
+          "participants": null
+        },
+        {
+          "label": "Лондон — практика Наташи",
+          "event": "relative_in_other_place",
+          "evidence": [
+            {
+              "source_paragraph": 17,
+              "quote": "Наташка ехала на практику в Лондон"
+            }
+          ],
+          "decision": "exclude_as_author_visit",
+          "reason": "Поездка дочери, не посещение Лондона автором.",
+          "participants": null
+        },
+        {
+          "label": "Торонто и Карибы",
+          "event": "home_and_comparison",
+          "evidence": [
+            {
+              "source_paragraph": 33,
+              "quote": "это конечно не Карибы"
+            }
+          ],
+          "decision": "exclude_as_current_visits",
+          "reason": "Дом, часовой пояс и сравнение курортов не направления этой поездки.",
+          "participants": null
+        },
+        {
+          "label": "Гостиница, бассейн и пляж",
+          "event": "resort_activities_venue_unnamed",
+          "evidence": [
+            {
+              "source_paragraph": 33,
+              "quote": "настольный теннис"
+            }
+          ],
+          "decision": "covered_by_resort",
+          "reason": "Без названия гостиницы и отдельных объектов; курортные занятия не дополнительные точки.",
+          "participants": null
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "independent_source_missing",
+    "questions": [],
+    "limitations": [
+      {
+        "chapter": "malgrat",
+        "detail": "Независимый первоисточник авторского текста не найден; текущая глава не выдаётся за проверенный оригинал."
+      }
+    ],
+    "repeat_check": "Сохранена курортная точка. Неназванные гостиница, музеи и пляжи, практика Наташи в Лондоне и сравнение с Карибами не новые места. Состав участников по дням не угадан."
+  }
+}

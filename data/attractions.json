@@ -12667,5 +12667,34 @@
       "Lope de Vega",
       "Лопе де Вега"
     ]
+  },
+  "moscow--kremlin-armoury": {
+    "title": "Московский Кремль и Оружейная палата",
+    "parent": "moscow",
+    "types": [
+      "museum",
+      "castle"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "Кремль",
+      "Оружейная палата",
+      "Kremlin",
+      "Armoury Chamber"
+    ]
   }
 }

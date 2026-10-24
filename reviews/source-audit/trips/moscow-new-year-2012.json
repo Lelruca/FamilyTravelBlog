@@ -1,0 +1,153 @@
+{
+  "trip_path": "content/europe/russia/moscow-new-year-2012",
+  "status": "public_text_audit_complete",
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\Europe\\2011-2012 - Москва\\Источники\\2012-01-10 - Я не была в Москве 7 лет.txt",
+    "sha256": "d03acd746c8a8cacf2a1fe65b311bf7b9d1daaf8a2b082caa4170c2bdb48528e",
+    "kind": "owner_text",
+    "read": "Полностью прочитан публичный исходный TXT, все авторские абзацы текущей главы и подпись к фото дома родственников. Все абзацы главы дословно сверены с TXT после допустимого разделения абзаца. Отдельное личное письмо, явно обозначенное «не для сайта», не используется для публичных объектов."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/moscow-new-year-2012.json",
+    "method": "Новые решения только по прямому публичному рассказу. Частный дом и фоновые объекты снимков не каталогизируются; полный покадровый просмотр не требуется."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/russia/moscow-new-year-2012/story/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Весь публичный рассказ и глава сверены целиком, включая будущие планы и выводы.",
+      "objects": [
+        {
+          "label": "Москва",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "Каникулы у нас замечательные получились!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "moscow"
+          },
+          "reason": "Леля и Митя, встречались с родными и друзьями. Описание не означает присутствие Сергея в поездке.",
+          "participants": [
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Московский Кремль и Оружейная палата",
+          "event": "entered_guided_tour",
+          "evidence": [
+            {
+              "source_paragraph": 15,
+              "quote": "индивидуальную экскурcию по Кремлю и Оружейной палате"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "moscow--kremlin-armoury"
+          },
+          "reason": "Явно описанная индивидуальная экскурсия и последующее воспоминание Мити о доспехах. Один кремлёвский музейный комплекс, без отдельных точек под каждый зал.",
+          "participants": [
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Третьяковская галерея",
+          "event": "entered_with_audio_guide",
+          "evidence": [
+            {
+              "source_paragraph": 15,
+              "quote": "В Третьяковку я его затащила"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "moscow--tretyakovskaya-galereya"
+          },
+          "reason": "Митя сначала сопротивлялся, но вошёл и прошёл залы с аудиогидом. Картины и купленные постеры — части того же посещения.",
+          "participants": [
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Театр «Современник»",
+          "event": "attended",
+          "evidence": [
+            {
+              "source_paragraph": 17,
+              "quote": "со сцены театра «Современник»"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "moscow--teatr-sovremennik"
+          },
+          "reason": "Вечернее взрослое посещение автора; Митя не приписан. Другие взрослые в тексте не названы.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Новогодние ёлки и другие театральные представления",
+          "event": "attended_venues_unnamed",
+          "evidence": [
+            {
+              "source_paragraph": 17,
+              "quote": "Еще мы посетили много елок"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Митя участвовал в праздниках, автор ходила и в другие театры. Названия площадок не даны, не определяются по снимкам.",
+          "participants": [
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Будущая поездка по монастырям",
+          "event": "future_idea",
+          "evidence": [
+            {
+              "source_paragraph": 23,
+              "quote": "летом проехаться по монастырям"
+            }
+          ],
+          "decision": "exclude_as_visit",
+          "reason": "Желание на будущее, не посещение в этих новогодних каникулах.",
+          "participants": [
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Америка, Европа и Канада",
+          "event": "comparison_and_home",
+          "evidence": [
+            {
+              "source_paragraph": 11,
+              "quote": "почему в Америке сервис"
+            }
+          ],
+          "decision": "exclude_as_current_visits",
+          "reason": "Сравнения из других поездок и возвращение домой.",
+          "participants": [
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "public_text_reconciled",
+    "questions": [],
+    "repeat_check": "Добавлен прямо пропущенный Кремль с Оружейной палатой как единый музейный комплекс. Третьяковка подтверждена у автора и Мити, взрослый «Современник» не приписан ребёнку. Безымянные ёлки не получили угаданные площадки; будущие монастыри исключены. Личное письмо и частный дом не становятся публичными объектами."
+  }
+}
