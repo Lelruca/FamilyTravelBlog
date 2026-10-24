@@ -1261,11 +1261,11 @@
       "trip_path": "content/americas/mexico/mexico-2015",
       "title": "\"Мексика - сенот и Эк Балан, заключение\"",
       "draft": false,
-      "source_sha256_lf": "a230fd626054294c87d77dbb737d6ce5294ce35eb9876ec1e9621a3ff5ba8d30",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "9aedd00e3d96ad651abaf12bc286fa6f13ae60dd5280d6b1a3f7cde2eb045d90",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2015.json"
     },
     {
       "file": "content/americas/mexico/mexico-2015/chichen-itza/index.md",
@@ -1274,10 +1274,10 @@
       "title": "\"Chichen Itza\"",
       "draft": false,
       "source_sha256_lf": "47111ab6ef0e2477303e9c4f5cb4ba8184c62b5103b9b06f9736ba0fec87fe66",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2015.json"
     },
     {
       "file": "content/americas/mexico/mexico-2015/coba-tulum/index.md",
@@ -1286,10 +1286,10 @@
       "title": "\"Мексика - Коба и Тулум\"",
       "draft": false,
       "source_sha256_lf": "f7b513e92c6456ee3883e8ae216a06eb78b57cbedb81286ee900a23a692a3988",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2015.json"
     },
     {
       "file": "content/americas/mexico/mexico-2015/dolphins/index.md",
@@ -1297,11 +1297,11 @@
       "trip_path": "content/americas/mexico/mexico-2015",
       "title": "\"Мексика - Дельфины\"",
       "draft": false,
-      "source_sha256_lf": "7e0b33d8681cf43c3bb587997fd24d893035a97de3bc3833f3418dcc970139ab",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "be01eea51d49c6ca25fd953d947b6d767025c11fbccf1f2b3671e346c4d4b7e0",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2015.json"
     },
     {
       "file": "content/americas/mexico/mexico-2015/introduction/index.md",
@@ -1310,10 +1310,10 @@
       "title": "\"Мексика - вступление, флора и фауна\"",
       "draft": false,
       "source_sha256_lf": "1e889725918b31807fc6fe1b4953dbaaa8a866d6e3778d2ac54391dcbbe74f67",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2015.json"
     },
     {
       "file": "content/americas/mexico/mexico-2015/resort/index.md",
@@ -1321,11 +1321,11 @@
       "trip_path": "content/americas/mexico/mexico-2015",
       "title": "\"Мексика - прелести пакетного отдыха\"",
       "draft": false,
-      "source_sha256_lf": "d231706ef18f140ef52e1e67998ee6df8b379e432917224a304ba37fcb32ce49",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "dcda9a5e6b17b9a81bd51030c481ed666479d3cff76f46fc016416593b7169cb",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2015.json"
     },
     {
       "file": "content/americas/mexico/mexico-2025/cancun-start/index.md",

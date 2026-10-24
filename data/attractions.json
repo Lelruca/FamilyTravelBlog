@@ -2702,18 +2702,6 @@
       "tower"
     ]
   },
-  "ek-balam--senot": {
-    "title": "Сенот",
-    "parent": "ek-balam",
-    "types": [
-      "cenote"
-    ],
-    "search_terms": [
-      "сенот",
-      "сеноты",
-      "cenote"
-    ]
-  },
   "escher-museum": {
     "title": "Музей Эшера",
     "parent": "the-hague",
@@ -12313,6 +12301,22 @@
       "tour",
       "архитектурный круиз",
       "прогулка на кораблике"
+    ]
+  },
+  "riviera-maya--grand-sirenis": {
+    "title": "Grand Sirenis Riviera Maya",
+    "parent": "riviera-maya",
+    "types": [
+      "hotel"
+    ],
+    "search_terms": [
+      "отель",
+      "отели",
+      "гостиница",
+      "гостиницы",
+      "hotel",
+      "Grand Sirenis",
+      "Сиренис"
     ]
   }
 }

@@ -11,6 +11,10 @@ for(const [id,a] of Object.entries(attractions))if(a.place){
  p.classification_sources.push(`data/attractions.json#${id}`);
 }
 const standaloneTypes={
+ 'coba':['archaeological_site'],
+ 'tulum':['archaeological_site'],
+ 'chichen-itza':['archaeological_site'],
+ 'ek-balam':['archaeological_site'],
  'kroller-muller':['museum','gallery'],
  'mcmichael-gallery':['museum','gallery'],
  'ballenberg':['museum'],
