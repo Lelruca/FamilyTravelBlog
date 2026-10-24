@@ -6645,7 +6645,8 @@
     "parent": "perce",
     "types": [
       "geopark",
-      "science_centre"
+      "science_centre",
+      "museum"
     ],
     "search_terms": [
       "геопарк",
@@ -6656,7 +6657,13 @@
       "научные центры",
       "наука",
       "science centre",
-      "science center"
+      "science center",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "philadelphia--khudozhestvennyy-muzey-filadelfii": {
@@ -6908,17 +6915,37 @@
     ]
   },
   "pointe-au-pere": {
-    "title": "Маяк Pointe-au-Père",
+    "title": "Морской исторический комплекс Pointe-au-Père",
     "parent": "rimouski",
     "place": "pointe-au-pere",
     "types": [
-      "tower"
+      "museum",
+      "lighthouse",
+      "ship"
     ],
     "search_terms": [
-      "башня",
-      "башни",
-      "башен",
-      "tower"
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "маяк",
+      "маяки",
+      "маяков",
+      "lighthouse",
+      "судно",
+      "корабль",
+      "корабли",
+      "яхта",
+      "шхуна",
+      "ship",
+      "schooner",
+      "Empress of Ireland",
+      "Императрица Ирландия",
+      "Onondaga",
+      "Онондага",
+      "Pointe-au-Père"
     ]
   },
   "ponferrada--zamok-tamplierov-ponferrady": {
@@ -12695,6 +12722,120 @@
       "Оружейная палата",
       "Kremlin",
       "Armoury Chamber"
+    ]
+  },
+  "gaspesie-park--ernest-laforce": {
+    "title": "Гора Ernest-Laforce",
+    "parent": "gaspesie-park",
+    "types": [
+      "mountain",
+      "trail"
+    ],
+    "search_terms": [
+      "гора",
+      "горы",
+      "холм",
+      "холмы",
+      "mountain",
+      "hill",
+      "тропа",
+      "тропы",
+      "пеший маршрут",
+      "хайкинг",
+      "trail",
+      "hiking",
+      "Гора Ernest-Laforce"
+    ]
+  },
+  "forillon--cap-bon-ami-mont-saint-alban": {
+    "title": "Тропа Cap-Bon-Ami — Mont-Saint-Alban",
+    "parent": "forillon",
+    "types": [
+      "trail",
+      "viewpoint"
+    ],
+    "search_terms": [
+      "тропа",
+      "тропы",
+      "пеший маршрут",
+      "хайкинг",
+      "trail",
+      "hiking",
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck",
+      "Тропа Cap-Bon-Ami — Mont-Saint-Alban"
+    ]
+  },
+  "gaspe--pointe-a-la-renommee-lighthouse": {
+    "title": "Маяк Pointe-à-la-Renommée",
+    "parent": "gaspe",
+    "types": [
+      "lighthouse"
+    ],
+    "search_terms": [
+      "маяк",
+      "маяки",
+      "маяков",
+      "lighthouse",
+      "Маяк Pointe-à-la-Renommée"
+    ]
+  },
+  "forillon--peninsula-fort": {
+    "title": "Форт Peninsula",
+    "parent": "forillon",
+    "types": [
+      "historic_building"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "Форт Peninsula"
+    ]
+  },
+  "carleton-sur-mer--mont-saint-joseph-oratory": {
+    "title": "Ораторий Нотр-Дам-дю-Мон-Сен-Жозеф",
+    "parent": "carleton-sur-mer",
+    "types": [
+      "chapel",
+      "viewpoint"
+    ],
+    "search_terms": [
+      "часовня",
+      "часовни",
+      "капелла",
+      "капеллы",
+      "храм",
+      "chapel",
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck",
+      "Ораторий Нотр-Дам-дю-Мон-Сен-Жозеф"
+    ]
+  },
+  "chandler--nova-lumina": {
+    "title": "Nova Lumina — ночной световой маршрут",
+    "parent": "chandler",
+    "types": [
+      "walking_route",
+      "exhibition"
+    ],
+    "search_terms": [
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "выставка",
+      "выставки",
+      "экспозиция",
+      "панорама",
+      "exhibition",
+      "Nova Lumina — ночной световой маршрут"
     ]
   }
 }

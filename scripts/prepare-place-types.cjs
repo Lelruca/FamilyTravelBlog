@@ -11,6 +11,12 @@ for(const [id,a] of Object.entries(attractions))if(a.place){
  p.classification_sources.push(`data/attractions.json#${id}`);
 }
 const standaloneTypes={
+ 'bic':['park'],
+ 'jardins-de-metis':['botanical_garden','park'],
+ 'gaspesie-park':['park'],
+ 'forillon':['park'],
+ 'miguasha':['museum','fossil_site','park'],
+ 'cap-des-rosiers':['lighthouse'],
  'great-wall-mutianyu':['historic_building'],
  'longmen-grottoes':['archaeological_site','temple','cave'],
  'montserrat':['monastery','mountain'],

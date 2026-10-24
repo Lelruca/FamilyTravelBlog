@@ -2544,13 +2544,33 @@
   },
   "pointe-au-pere": {
     "types": [
-      "tower"
+      "museum",
+      "lighthouse",
+      "ship"
     ],
     "search_terms": [
-      "башня",
-      "башни",
-      "башен",
-      "tower"
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "маяк",
+      "маяки",
+      "маяков",
+      "lighthouse",
+      "судно",
+      "корабль",
+      "корабли",
+      "яхта",
+      "шхуна",
+      "ship",
+      "schooner",
+      "Empress of Ireland",
+      "Императрица Ирландия",
+      "Onondaga",
+      "Онондага",
+      "Pointe-au-Père"
     ],
     "classification_sources": [
       "data/attractions.json#pointe-au-pere"
@@ -3787,6 +3807,138 @@
     ],
     "classification_sources": [
       "data/attractions.json#disneyland-anaheim"
+    ]
+  },
+  "bic": {
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/bic/_index.md"
+    ]
+  },
+  "jardins-de-metis": {
+    "types": [
+      "botanical_garden",
+      "park"
+    ],
+    "search_terms": [
+      "ботанический сад",
+      "ботанические сады",
+      "ботаника",
+      "botanical garden",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/jardins-de-metis/_index.md"
+    ]
+  },
+  "gaspesie-park": {
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/gaspesie-park/_index.md"
+    ]
+  },
+  "forillon": {
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/forillon/_index.md"
+    ]
+  },
+  "miguasha": {
+    "types": [
+      "museum",
+      "fossil_site",
+      "park"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "окаменелости",
+      "окаменелостей",
+      "палеонтология",
+      "fossil site",
+      "fossil cliffs",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/miguasha/_index.md"
+    ]
+  },
+  "cap-des-rosiers": {
+    "types": [
+      "lighthouse"
+    ],
+    "search_terms": [
+      "маяк",
+      "маяки",
+      "маяков",
+      "lighthouse"
+    ],
+    "classification_sources": [
+      "content/places/cap-des-rosiers/_index.md"
     ]
   },
   "great-wall-mutianyu": {

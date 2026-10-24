@@ -4313,5 +4313,13 @@
     "country_code": "PT",
     "source": "https://www.openstreetmap.org/node/5003941303",
     "query": "Named cape; primary OSM node coordinates"
+  },
+  "chandler": {
+    "lat": 48.3491804,
+    "lon": -64.6775915,
+    "name": "Chandler",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/8271776",
+    "query": "Chandler, Quebec"
   }
 }

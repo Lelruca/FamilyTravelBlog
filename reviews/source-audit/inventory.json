@@ -470,10 +470,10 @@
       "title": "\"Bic и Pointe-au-Père\"",
       "draft": false,
       "source_sha256_lf": "3114ace424cc2975b0322b91dbb9f09457411dcd32ab8a65de212876104ed396",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
       "file": "content/americas/canada/gaspe-2020/bonaventure/index.md",
@@ -482,10 +482,10 @@
       "title": "\"Île Bonaventure - северные олуши\"",
       "draft": false,
       "source_sha256_lf": "7bb8a48fd2f8738432681e87bc273bc43da111196eae905a35fcdf8d1c39f9dd",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
       "file": "content/americas/canada/gaspe-2020/carleton-miguasha/index.md",
@@ -493,11 +493,11 @@
       "trip_path": "content/americas/canada/gaspe-2020",
       "title": "\"Carleton-sur-Mer и Miguasha\"",
       "draft": false,
-      "source_sha256_lf": "ef41cf2a046938d5dc6fe82e97b977f809527dc039f4392f856b192523fa0011",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "a446b69a1cedd8d65b0e9775eb04adb78c4b790828bf380a8e75230f07f98b07",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
       "file": "content/americas/canada/gaspe-2020/forillon/index.md",
@@ -505,11 +505,11 @@
       "trip_path": "content/americas/canada/gaspe-2020",
       "title": "\"Forillon и мыс Гаспе\"",
       "draft": false,
-      "source_sha256_lf": "c586097b6ecf0281287f02abf7ef39a0fd4b3efb89ed0bb1c43b98ad32d9f2bb",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "e7466220342665e9f1e9fc39a824d3c33861175c633d6d22a36c4e27c434d55c",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
       "file": "content/americas/canada/gaspe-2020/gaspesie-park/index.md",
@@ -517,11 +517,11 @@
       "trip_path": "content/americas/canada/gaspe-2020",
       "title": "\"Парк Gaspésie - покоряем Аппалачи\"",
       "draft": false,
-      "source_sha256_lf": "3f94a0b137b520e0c0ec7758a0bd3a7f9b67db1efb6ce5c7b0b4096969f3f134",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "78acf2b7935a39badc5ed1559fc8983a20056819fba9e878ecccd7dee4edcb33",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
       "file": "content/americas/canada/gaspe-2020/jardins-de-metis/index.md",
@@ -530,10 +530,10 @@
       "title": "\"Jardins de Métis, Cap-Chat и Explore\"",
       "draft": false,
       "source_sha256_lf": "4cc4d9fee595dd66cf0121c21ea511f961bb67a5c237494d78c25794ce7f5a54",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
       "file": "content/americas/canada/gaspe-2020/perce/index.md",
@@ -541,11 +541,11 @@
       "trip_path": "content/americas/canada/gaspe-2020",
       "title": "\"Percé\"",
       "draft": false,
-      "source_sha256_lf": "6d756cd5276af856bafffb71673186ba1c140592996d46b0ebd386f06bed3d45",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "edf144c3d3c1a67367aad79a522e6a9ec3230d19cdc42b8fa31a001950aa24b9",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
       "file": "content/americas/canada/gaspe-2020/road-to-quebec/index.md",
@@ -554,10 +554,10 @@
       "title": "\"Дорога в Квебек\"",
       "draft": false,
       "source_sha256_lf": "4ae042d67d6b9fcc986bc6485e08bd1da4049d03d495316bccae352be9542969",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
       "file": "content/americas/canada/gaspe-2020/south-coast/index.md",
@@ -566,10 +566,10 @@
       "title": "\"Южный берег Гаспе\"",
       "draft": false,
       "source_sha256_lf": "436400d6a55ac3bc12b25801539c341129c449ccba53fb14753efc258cc8d821",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
       "file": "content/americas/canada/hamilton-2014/story/index.md",

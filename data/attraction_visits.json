@@ -4771,6 +4771,570 @@
       "visits": [],
       "place_visits": []
     },
+    "content/americas/canada/gaspe-2020/bonaventure/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "bonaventure-island",
+          "event": "boat_trip_and_bird_colony_hike",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 174,
+              "source_paragraph": 1,
+              "quote": "Успели! И увидели мы этих удивительных птиц."
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Высадились и дошли до колонии, угроза закрытия навигации не означает отмену состоявшейся экскурсии."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/americas/canada/gaspe-2020/forillon/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "forillon--cap-bon-ami-mont-saint-alban",
+          "event": "hiked_to_observation_tower",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_paragraph": 3,
+              "quote": "маршрут от мыса Cap-Bon-Ami до смотровой башни на горе Mont-Saint-Alban"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Один содержательный пеший маршрут со смотровой, не отдельные точки каждой лестницы."
+        },
+        {
+          "id": "gaspe--pointe-a-la-renommee-lighthouse",
+          "event": "exterior_no_ascent",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_attachment_path": "attachments.0.data.2.media.description",
+              "quote": "Pointe-a-la-Renommée Lighthouse - это маяк путешественник. На нем табличка, что он сделан в Париже в 1905 и на своем месте он отработал с 1907 пр 1975. Потом его перевезли в Квебек-сити как туристический объект и жителям потребовалось 20 лет, чтобы возвратить его на прежнее место. Этот маяк уникален и тем, он является первой в Северной Америке станцией беспроволочного телеграфа Маркони (1904). Станция была установлена для ретрансляции сообщений терпищих бедствия судов. На маяк можно было подняться вместе с экскурсией, но на франц. Мы не пошли."
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Длинная авторская подпись стала абзацем главы: названы маяк, история и прямой отказ от франкоязычного тура. Не определение по фоновому кадру."
+        },
+        {
+          "id": "forillon--peninsula-fort",
+          "event": "visited_artillery_site",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_attachment_path": "attachments.0.data.16.media.description",
+              "quote": "Историческая остановка - Peninsula Fort.\nБатарея 2 мировой войны! Пушки 1902 года выпуска :(\nМы узнали что немецкие подлодки потопили в бассейне реки Св.Лаврентия 23 судна. Канадские пушки не выстрелили ни разу. Позор..."
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Историческая остановка прямо описана в рассказе и авторской подписи; вся батарея один объект, не каждая пушка."
+        },
+        {
+          "id": "gaspe--memorial-mesto-rozhdeniya-kanady",
+          "event": "visited",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_paragraph": 6,
+              "quote": "мы посмотрели \"местро рождение Канады\""
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Конкретный посещённый мемориал, не все места биографии Картье."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "forillon",
+          "event": "hiked",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_paragraph": 3,
+              "quote": "Forillon National Park"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Подробно описан выбранный маршрут, а не только проезд мимо."
+        },
+        {
+          "id": "cap-des-rosiers",
+          "event": "exterior",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_attachment_path": "attachments.0.data.5.media.description",
+              "quote": "The Cap-des-Rosiers самый высокий маяк в Канаде (34 метра). Построен в 1858 году. Огонь поддерживался китовым жиром, потом в начале 20го века керосином, в 60х годах был элекрифицирован. Свет маяка был виден на расстоянии 40 км. Код, уникальный у каждого маяка, 15 секунд света с 5 секундными интервалами. Действует до сих пор."
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Маяк назван и содержательно описан автором; добавлен правильный тип самостоятельной географической точке. Подъём не заявлен."
+        },
+        {
+          "id": "gaspe",
+          "event": "visited",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_paragraph": 6,
+              "quote": "В самом городе Гаспе"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Остановка с мемориалом и ужином. Мыс Гаспе видели с горы, отдельный пеший выход на мыс не заявлен."
+        }
+      ]
+    },
+    "content/americas/canada/gaspe-2020/perce/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "perce--geopark-perse-i-pavilon-tektonik",
+          "event": "entered_indoor_exhibition",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 175,
+              "source_paragraph": 5,
+              "quote": "Tektonik Pavilion"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Музейную экспозицию посетили, несмотря на отсутствие удобного времени англоязычного кино. Пешеходные тропы геопарка в этот день не проходили."
+        },
+        {
+          "id": "chandler--nova-lumina",
+          "event": "attended_night_walk",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 175,
+              "source_paragraph": 7,
+              "quote": "А вечером посетили световую развлекуху -  Nova Lumina."
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Прямо описан самостоятельный вечерний маршрут. По официальным источникам расположен в Chandler, а не в Персе; добавлена правильная городская связь."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "perce",
+          "event": "stayed_and_walked",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 175,
+              "source_paragraph": 0,
+              "quote": "3 ночи"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Остановились на три ночи и гуляли по курортному городу. Hôtel le Mirage — жильё, не новый музей."
+        }
+      ]
+    },
+    "content/americas/canada/gaspe-2020/road-to-quebec/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": []
+    },
+    "content/americas/canada/gaspe-2020/south-coast/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "bonaventure-quebec--muzey-akadii",
+          "event": "entered",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 173,
+              "source_paragraph": 4,
+              "quote": "сегодня мы наконец посетили музей Акадии"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Именно нынешнее посещение, в отличие от прежних поездок по Акадии."
+        },
+        {
+          "id": "bonaventure-quebec--biopark-gaspezi",
+          "event": "entered",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 173,
+              "source_paragraph": 5,
+              "quote": "гуляя в Biopark-е"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Реальное посещение зверинца с местными животными; каждый зверь не точка."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "bonaventure-quebec",
+          "event": "visited",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 173,
+              "source_paragraph": 7,
+              "quote": "Совсем другой южный Гаспе!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Город музейного дня; лодки с лобстерами и парки пикника не дополнительные места."
+        }
+      ]
+    },
+    "content/americas/canada/gaspe-2020/bic-pointe-au-pere/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "pointe-au-pere",
+          "event": "entered_museum",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 179,
+              "source_paragraph": 7,
+              "quote": "Вот он был открыт и мы с интересом ознакомились"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Ранее точка была классифицирована только как башня. Исправлена на морской исторический комплекс с музеем; один комплекс, не три новых точки."
+        },
+        {
+          "id": "pointe-au-pere",
+          "event": "exterior_closed",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 179,
+              "source_paragraph": 6,
+              "quote": "Сейчас закрыт к посещению из-за ковида"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Маяк и домики закрыты, входы не приписываются. Музей Empress — другое открытое здание того же комплекса."
+        },
+        {
+          "id": "pointe-au-pere",
+          "event": "exterior_closed",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 179,
+              "source_paragraph": 8,
+              "quote": "Мы смогли только снаружи обойти."
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Осмотрели снаружи; в лодку не входили."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "bic",
+          "event": "walked_after_initial_denial",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 179,
+              "source_paragraph": 10,
+              "quote": "Потом с маниакальным упорством мы вернулись в парк Bic"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Первый отказ по заполненности не отменяет состоявшееся позднее посещение."
+        },
+        {
+          "id": "rimouski",
+          "event": "overnight",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 179,
+              "source_paragraph": 11,
+              "quote": "Штабуемся мы сегодня в Rimouski"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Место ночёвки; спортивный зал посещал Митя, отдельная туристическая точка отелю не создаётся."
+        }
+      ]
+    },
+    "content/americas/canada/gaspe-2020/jardins-de-metis/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "sainte-flavie--art-tsentr-marselya-ganona",
+          "event": "meal_and_art_complex",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 178,
+              "source_paragraph": 2,
+              "quote": "Center d'Art Marcel Gagnon"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Бранч, скульптуры и галерея описаны как один арт-комплекс."
+        },
+        {
+          "id": "cap-chat--vetrogenerator-eole",
+          "event": "exterior_no_tour",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 178,
+              "source_paragraph": 3,
+              "quote": "ограничились просто внешним осмотром"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Англоязычного гида не нашли; на ветряк не поднимались."
+        },
+        {
+          "id": "sainte-anne-des-monts--nauchnyy-tsentr-exploramer",
+          "event": "entered",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 178,
+              "source_paragraph": 4,
+              "quote": "Поэтому мы ограничились посещением самого центра."
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Научный центр и аквариумы посетили, круиз не состоялся из-за болезни капитана."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "jardins-de-metis",
+          "event": "entered_gardens",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 178,
+              "source_paragraph": 1,
+              "quote": "Начали мы с садов - Les Jardins de Métis."
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Все трое оценили сад; отдельные клумбы и сорта растений не новые объекты."
+        }
+      ]
+    },
+    "content/americas/canada/gaspe-2020/gaspesie-park/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "gaspesie-park--ernest-laforce",
+          "event": "summit_hike",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 177,
+              "source_paragraph": 3,
+              "quote": "Сначала залезли на гору Mount Ernest- Laforce."
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Главный конкретно названный маршрут главы, поднялись на вершину."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "gaspesie-park",
+          "event": "hiked",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 177,
+              "source_paragraph": 2,
+              "quote": "большинство дня посвятили национальному парку Gaspesie"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Реальный горный день всей тройки."
+        }
+      ]
+    },
+    "content/americas/canada/gaspe-2020/carleton-miguasha/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "carleton-sur-mer--mont-saint-joseph-oratory",
+          "event": "drove_to_viewpoint_and_hiked",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 172,
+              "source_paragraph": 2,
+              "quote": "к Oratoire Notre-Dame-du-Mont-St-Joseph"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Поднялись на машине и прошли горный маршрут; вход в ораторий не заявлен."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "carleton-sur-mer",
+          "event": "walked",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 172,
+              "source_paragraph": 1,
+              "quote": "Мы провели его довольно расслабленно в городке Carleton-sur-mer"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Посетили город; купавшиеся и загорающие люди не доказывают собственное купание."
+        },
+        {
+          "id": "miguasha",
+          "event": "entered_museum",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 172,
+              "source_paragraph": 7,
+              "quote": "Причём в музеи мы видим оригинал"
+            }
+          ],
+          "report": "reviews/source-audit/trips/gaspe-2020.json",
+          "note": "Подробно описан музей с оригиналом ископаемого. Музейный и палеонтологический тип добавлены самостоятельной точке."
+        }
+      ]
+    },
     "content/europe/germany/germany-2011/overview/index.md": {
       "source_review": "read",
       "visits": [

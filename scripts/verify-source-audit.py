@@ -81,6 +81,12 @@ for report_file in reports:
             objects+=1
             assert o.get('decision') and o.get('event') and o.get('evidence'),f'{report_file}: unexplained object'
             for e in o['evidence']:
+                evidence_paragraphs=paragraphs
+                if 'source_record_index' in e:
+                    assert r['source'].get('kind')=='facebook_profile_json','Post selection requires a Facebook source'
+                    evidence_post=posts[e['source_record_index']]
+                    evidence_text='\n'.join(d.get('post','') for d in evidence_post.get('data',[]))
+                    evidence_paragraphs=evidence_text.encode('latin1').decode('utf-8').split('\n')
                 if 'source_file' in e:
                     extra_path=Path(e['source_file'])
                     assert source_hash(extra_path)==e['source_sha256'],'Author text source changed'
@@ -108,10 +114,10 @@ for report_file in reports:
                 if 'photo' in e and r['source'].get('kind')=='photograph_manifest':
                     assert e['photo'] in photo_keys,f"Unknown source photograph: {e['photo']}"
                 if 'source_paragraph' in e:
-                    assert e['quote'] in paragraphs[e['source_paragraph']],f"{report_file}: unsupported quotation {o['label']}"
+                    assert e['quote'] in evidence_paragraphs[e['source_paragraph']],f"{report_file}: unsupported quotation {o['label']}"
                 if 'source_attachment_path' in e:
                     assert r['source'].get('kind')=='facebook_profile_json','Attachment quote requires a Facebook source'
-                    caption=post
+                    caption=evidence_post if 'source_record_index' in e else post
                     for part in e['source_attachment_path'].split('.'):
                         caption=caption[int(part)] if isinstance(caption,list) else caption[part]
                     caption=caption.encode('latin1').decode('utf-8')
