@@ -1622,10 +1622,10 @@
       "title": "\"Миннеаполис\"",
       "draft": false,
       "source_sha256_lf": "c5eead19b262f06a6797acb61febfe7ffaae731fd98b81a0e611dd2bbcb374c7",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/minneapolis-2022.json"
     },
     {
       "file": "content/americas/usa/new-england-2015/american-revolution/index.md",
@@ -3818,10 +3818,10 @@
       "title": "\"Дублин\"",
       "draft": false,
       "source_sha256_lf": "134f64ddfb9905aca147b49da72633465665b2bfaceb66aa78c28884659e039e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/dublin-2025.json"
     },
     {
       "file": "content/europe/italy/florence-2025/florentine-mosaic/index.md",
@@ -5306,10 +5306,10 @@
       "title": "\"Берн\"",
       "draft": false,
       "source_sha256_lf": "a86b0213b8b2b95fff1de76673c66488f87a1a2a1fae69c7b71929fb464a56a0",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/bern-2023.json"
     }
   ]
 }

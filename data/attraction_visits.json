@@ -857,6 +857,27 @@
         }
       ]
     },
+    "content/europe/switzerland/bern-2023/bern/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "bern",
+          "event": "walked_during_layover",
+          "participants": [
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 1,
+              "quote": "длинную пересадку на весь день в Берне"
+            }
+          ],
+          "report": "reviews/source-audit/trips/bern-2023.json",
+          "note": "Гулял Митя один. Фраза «мы с ним запланировали» означает совместное планирование, а не присутствие матери."
+        }
+      ]
+    },
     "content/europe/belgium/brussels-2008/story/index.md": {
       "source_review": "read",
       "visits": [
@@ -1961,6 +1982,109 @@
             }
           ],
           "report": "reviews/source-audit/trips/detroit-windsor-2016.json"
+        }
+      ]
+    },
+    "content/europe/ireland/dublin-2025/dublin/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "dublin--triniti-kolledzh",
+          "event": "campus_visit",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 8,
+              "quote": "Trinity College"
+            }
+          ],
+          "report": "reviews/source-audit/trips/dublin-2025.json",
+          "note": "Описаны здания кампуса; обучение детей тут не состоялось, оба выбрали другие места."
+        },
+        {
+          "id": "dublin--staraya-biblioteka-triniti-kolledzha-i-kniga-kells",
+          "event": "entered_exhibition",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 9,
+              "quote": "ходишь в наушниках и рассматриваешь стенды"
+            }
+          ],
+          "report": "reviews/source-audit/trips/dublin-2025.json",
+          "note": "Единая музейная экспозиция с библиотекой. Отдельные страницы рукописи и стенды не дополнительные точки."
+        },
+        {
+          "id": "dublin--natsionalnaya-galereya-irlandii",
+          "event": "entered",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 11,
+              "quote": "расслабилась душой в нац. галерее"
+            }
+          ],
+          "report": "reviews/source-audit/trips/dublin-2025.json",
+          "note": "Посещение состоялось, хотя картину Вермеера не нашли. Метсю и Вермеер не отдельные музеи."
+        },
+        {
+          "id": "dublin--natsionalnyy-muzey-irlandii-arkheologiya",
+          "event": "entered",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 15,
+              "quote": "забежали в музей археологии"
+            }
+          ],
+          "report": "reviews/source-audit/trips/dublin-2025.json",
+          "note": "Прямо описаны золотые изделия и болотная мумия, единая коллекция."
+        },
+        {
+          "id": "dublin--sobor-svyatogo-patrika",
+          "event": "entered",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 18,
+              "quote": "Внутри \"рыцари\" и их знамёна"
+            }
+          ],
+          "report": "reviews/source-audit/trips/dublin-2025.json",
+          "note": "Внутренний осмотр подтверждён отдельным абзацем."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "dublin",
+          "event": "layover_city_walk",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 1,
+              "quote": "пересадка в Дублине оказалась"
+            }
+          ],
+          "report": "reviews/source-audit/trips/dublin-2025.json",
+          "note": "Только Леля и Сергей по пути на выпускной дочери; дети в дублинской прогулке не заявлены."
         }
       ]
     },
@@ -8264,6 +8388,45 @@
           ],
           "report": "reviews/source-audit/trips/mexico-2015.json",
           "note": "Все четверо осмотрели город майя; отрицательная сравнительная оценка не отменяет посещения."
+        }
+      ]
+    },
+    "content/americas/usa/minneapolis-2022/minneapolis/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "minneapolis-institute-of-art",
+          "event": "entered",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "И в свободное время тоже по музеям!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/minneapolis-2022.json",
+          "note": "Музейный визит прямо описан, существующее название раскрыто заголовком большой музейной части главы. Не выводятся другие музеи из множественного числа."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "minneapolis",
+          "event": "visited",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "мальчики поехали на соревнования в Миннеаполис"
+            }
+          ],
+          "report": "reviews/source-audit/trips/minneapolis-2022.json",
+          "note": "Поехали только Сергей и Митя, девушки были в Европе."
         }
       ]
     },
