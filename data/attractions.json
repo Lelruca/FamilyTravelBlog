@@ -12193,5 +12193,96 @@
       "theater",
       "opera"
     ]
+  },
+  "lyon--notre-dame-de-fourviere": {
+    "title": "Базилика Нотр-Дам-де-Фурвьер",
+    "parent": "lyon",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "Fourvière",
+      "Fourviere",
+      "Фурвьер"
+    ]
+  },
+  "beaune--marche-aux-vins": {
+    "title": "Marché aux Vins — винные подвалы",
+    "parent": "beaune",
+    "types": [
+      "winery"
+    ],
+    "search_terms": [
+      "винодельня",
+      "винодельни",
+      "винный погреб",
+      "вино",
+      "winery",
+      "Marche aux Vins",
+      "дегустация"
+    ]
+  },
+  "bruges--holy-blood-basilica": {
+    "title": "Базилика Святой Крови",
+    "parent": "bruges",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "Basilica of the Holy Blood",
+      "Святой Крови"
+    ]
+  },
+  "antwerp--central-station": {
+    "title": "Центральный вокзал Антверпена",
+    "parent": "antwerp",
+    "types": [
+      "station"
+    ],
+    "search_terms": [
+      "вокзал",
+      "вокзалы",
+      "железнодорожная станция",
+      "station",
+      "железнодорожный вокзал"
+    ]
+  },
+  "brussels--manneken-pis": {
+    "title": "Писающий мальчик",
+    "parent": "brussels",
+    "types": [
+      "fountain",
+      "monument"
+    ],
+    "search_terms": [
+      "фонтан",
+      "фонтаны",
+      "фонтана",
+      "fountain",
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Manneken Pis",
+      "писающий мальчик"
+    ]
   }
 }

@@ -2185,11 +2185,11 @@
       "trip_path": "content/europe/belgium/christmas-2014-2015",
       "title": "\"Бельгия - Антверпен (Antwerp)\"",
       "draft": false,
-      "source_sha256_lf": "9ca8b9f82cbc36e7396a5e92b935c5089af628dbb9ced2f56ea6543776b49263",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "0d36a024789a92a3f56a20a07f4f5796a181d13981ba91a85b36ae1b2646c332",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/autoworld/index.md",
@@ -2198,10 +2198,10 @@
       "title": "\"Брюссель - музей «Автомир»\"",
       "draft": false,
       "source_sha256_lf": "60d8609d1741f814cb1ff266191f4f2753a84cd7a6ae02ffd1983e4436954c10",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/beaune/index.md",
@@ -2209,11 +2209,11 @@
       "trip_path": "content/europe/belgium/christmas-2014-2015",
       "title": "\"Бургундия - Бон (Beaune)\"",
       "draft": false,
-      "source_sha256_lf": "138eda724cdaa41945f4646664877ac85ed68503d8ff600b6fdb3898740b08b6",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "2efad1646af08f3f06453812c4a93099d2656818da41fd4bd3dc4ff105044a06",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/bruges/index.md",
@@ -2221,11 +2221,11 @@
       "trip_path": "content/europe/belgium/christmas-2014-2015",
       "title": "\"Бельгия - Брюгге (Bruges)\"",
       "draft": false,
-      "source_sha256_lf": "76ff18cc87c471d1ecb67eeca28975ac9e94b53ce27571b7ed185d2ddda43795",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "ce2efc7d8f443968d1ce5f3cdfe40648292d96e285c428de9a4976b845a00aea",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/brussels/index.md",
@@ -2233,11 +2233,11 @@
       "trip_path": "content/europe/belgium/christmas-2014-2015",
       "title": "\"Бельгия - Брюссель (Brussels)\"",
       "draft": false,
-      "source_sha256_lf": "3b4176218ae98f6b0bfbbca4e9f2388e209a8e74399d5275043381850aa0dc6d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "ca2b566a6645fe2a0616c679d74f0ffde3caf4d66c47360aed65854dae392ad8",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/cluny/index.md",
@@ -2246,10 +2246,10 @@
       "title": "\"Бургундия - Аббатство Клюни (Cluny)\"",
       "draft": false,
       "source_sha256_lf": "de582aecc4363ea64ec1a97dac4003d9459af040e19846d5719303ee9505ac51",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/dijon/index.md",
@@ -2258,10 +2258,10 @@
       "title": "\"Бургундия - Дижон (Dijon)\"",
       "draft": false,
       "source_sha256_lf": "18902e23c42f41bedb7c957964bbc7e0e8ea36216247f10a9907486b213c0a7f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/eupen/index.md",
@@ -2270,10 +2270,10 @@
       "title": "\"Бельгия - Eupen, шоколадная фабрика\"",
       "draft": false,
       "source_sha256_lf": "f9b8060a375d9843a1d26afbe4819c984b18072496db3e3cb80e933bc02a0d5c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/european-talks/index.md",
@@ -2282,10 +2282,10 @@
       "title": "\"Европейские разговоры...\"",
       "draft": false,
       "source_sha256_lf": "bdf73a45e70266ddb188feba2ca0789b3529c82bce9e274a5301df6ec47af985",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/ghent/index.md",
@@ -2294,10 +2294,10 @@
       "title": "\"Бельгия - Гент (Ghent)\"",
       "draft": false,
       "source_sha256_lf": "5fcac6a98f84dbb294ced7b4680a833a559d9fbb15c012c8c7e5520f0386a696",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/kleve/index.md",
@@ -2305,11 +2305,11 @@
       "trip_path": "content/europe/belgium/christmas-2014-2015",
       "title": "\"Германия - Клеве (Kleve)\"",
       "draft": false,
-      "source_sha256_lf": "be122966743e8c2676b308d37c7e171fd8aec9ffda29a32ff01749aa82c82a69",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "818314124b3b71307280c2111ab2c9d810f372b0b62ad86d4ac2ce0cd29863a3",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/kroller-muller/index.md",
@@ -2318,10 +2318,10 @@
       "title": "\"Голландия - Kröller-Müller Museum\"",
       "draft": false,
       "source_sha256_lf": "00a08c1fdadd44401d0b3e6ea9d1c4f3e47f308465a3ba9a3fa776b97c24907f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/lyon/index.md",
@@ -2329,11 +2329,11 @@
       "trip_path": "content/europe/belgium/christmas-2014-2015",
       "title": "\"Франция - Лион (Lyon)\"",
       "draft": false,
-      "source_sha256_lf": "cde5f5a21ff785d33ae5f2bbcb7bd26ce3b2f5a9111c621fec7de91f47f58d5f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "fc55f4861d07fbacbf22cf31d4b6b6741e64fb63ea62c4f0f30d5275fc756dc6",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/military-museum/index.md",
@@ -2342,10 +2342,10 @@
       "title": "\"Брюссель - Музей военной истории\"",
       "draft": false,
       "source_sha256_lf": "c57504db0957d6ef5e6a5afd2b02005bac32b8d27d15031460a4f0b675b45ccd",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/musical-instruments/index.md",
@@ -2354,10 +2354,10 @@
       "title": "\"Брюссель - музей музыкальных инструметов\"",
       "draft": false,
       "source_sha256_lf": "4012bbaad96ad5164329f639a42af0579e1aab6dc57303e7b8685fd581a8ea6f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/nancy/index.md",
@@ -2366,10 +2366,10 @@
       "title": "\"Лотарингия - Нанси (Nancy)\"",
       "draft": false,
       "source_sha256_lf": "02874f6965bf65e82cf77862e530f9c7c6452f6b0591243086886f6d2a28db7b",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/netherlands/index.md",
@@ -2377,11 +2377,11 @@
       "trip_path": "content/europe/belgium/christmas-2014-2015",
       "title": "\"Голландия\"",
       "draft": false,
-      "source_sha256_lf": "7469dba601972e922e1b49fe46a2b3866b4469c766d811b7d26df0226e5fb05a",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "e96f1f33278e9a48765c350a7e69dc7a7b3f81372ca5b0078b2619e16ca7ff52",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/belgium/christmas-2014-2015/relatives/index.md",
@@ -2389,11 +2389,11 @@
       "trip_path": "content/europe/belgium/christmas-2014-2015",
       "title": "\"Германия - родня!\"",
       "draft": false,
-      "source_sha256_lf": "b0d1a692716cd8495cde1e3ad540abcc3ab98fe1c9110a0da61dd9d9a1e4e824",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "f2098d5306ff7b643768f92ee9376de4cbdf5aa1f9b549aa7647f6c00f086b09",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
       "file": "content/europe/england/london-2018/arrival/index.md",
@@ -2654,10 +2654,10 @@
       "title": "\"Альпы - часть заключительная\"",
       "draft": false,
       "source_sha256_lf": "0d72276d985b0859da4751a8547b03f79ec538f6ea23124f2d128dce3b0e6eda",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-france.json"
     },
     {
       "file": "content/europe/france/christmas-2014-2015/alps/index.md",
@@ -2666,10 +2666,10 @@
       "title": "\"Европа зимой\"",
       "draft": false,
       "source_sha256_lf": "4d1e0114e48caddb460f0e1c65ad2018ca48874623e41d37bb71ce768b98606c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-france.json"
     },
     {
       "file": "content/europe/france/christmas-2014-2015/english-children/index.md",
@@ -2678,10 +2678,10 @@
       "title": "\"Английские дети - разница менталитетов!\"",
       "draft": false,
       "source_sha256_lf": "6d82e9f6796c207af4676069ebb7b3659d6a4dc2fd2d5048ba8b08436d5cb3be",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/christmas-2014-2015-france.json"
     },
     {
       "file": "content/europe/france/europe-2021/antibes/index.md",

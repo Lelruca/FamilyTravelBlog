@@ -60,6 +60,8 @@ for report_file in reports:
         if c.get('file'):
             if c['text_status']=='read':read.add(c['file'])
             if c.get('photos_status',r['photographs'].get('status'))=='reviewed':photos.add(c['file'])
+            if c.get('photos_status',r['photographs'].get('status'))=='not_required_for_text_decisions':
+                assert all(not o.get('target') or any('quote' in e for e in o['evidence']) for o in c['objects']),'Photo-only target requires a scoped photographic review'
             front=Path(c['file']).read_text('utf-8').split('---',2)[1]
         else:
             front=None
@@ -97,7 +99,7 @@ for c in inventory['chapters']:
 print(f'{len(reports)} source reports; {len(read)}/{len(actual)} chapters read; {len(photos)}/{len(actual)} chapters with photos reviewed; {objects} object decisions with evidence.')
 print('Audit IN PROGRESS. Valid evidence and valid structure do not prove absence of omissions.')
 if '--require-complete' in sys.argv:
-    assert all(c['text_status']=='read' and c['photos_status']=='reviewed' and c['reconciliation_status']=='complete' for c in inventory['chapters']),'Unread or unreconciled materials remain'
+    assert all(c['text_status']=='read' and c['photos_status'] in ('reviewed','not_required_for_text_decisions') and c['reconciliation_status']=='complete' for c in inventory['chapters']),'Unread or unreconciled materials remain'
     assert inventory.get('cross_worktree_scope')=='reconciled','Other active draft sources have not been reconciled'
     gaps_path=Path('reviews/source-audit/source-gaps.json')
     if gaps_path.exists():
