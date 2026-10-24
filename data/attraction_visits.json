@@ -4375,6 +4375,531 @@
       ],
       "place_visits": []
     },
+    "content/europe/france/europe-2021/road-south/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "paris",
+          "event": "arrival_transit",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 169,
+              "source_paragraph": 1,
+              "quote": "прямой перелёт до Парижа, а дальше на машине на юг."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "В этой главе только прибытие, без музейных посещений. Торонто — отправление; планируемый южный отдых заменён Европой."
+        }
+      ]
+    },
+    "content/europe/france/europe-2021/avignon/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "palais-des-papes",
+          "event": "entered_museum",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 168,
+              "source_paragraph": 3,
+              "quote": "В самом папском дворце мы столкнулись с новыми технологиями"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Вошли, несмотря на пробку и забытые в машине бумаги; музейный тур с планшетом состоялся."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "avignon",
+          "event": "visited",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 168,
+              "source_paragraph": 0,
+              "quote": "Сегодня мы побывали в городе Avignon."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Реальный заезд, городская прогулка и посещение дворца."
+        }
+      ]
+    },
+    "content/europe/france/europe-2021/provence/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": []
+    },
+    "content/europe/france/europe-2021/nice/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "promenade-des-anglais",
+          "event": "coastal_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.3.title",
+              "quote": "Ницца"
+            },
+            {
+              "photo": "nice/20210726_155511.jpg",
+              "observation": "Большая прибрежная серия: семья у галечного пляжа и набережной."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Десятикадровая городская фотоглава, основная серия у набережной; точные пляжные заведения не определяются."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/france/europe-2021/antibes/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "musee-picasso-antibes",
+          "event": "entered_museum",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.4.title",
+              "quote": "Антиб и музей Пикассо"
+            },
+            {
+              "photo": "antibes/20210727_113751.jpg",
+              "observation": "Скульптура и живопись Пикассо внутри музея, представитель большой музейной серии."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Самостоятельная музейная фотоистория, а не узнавание художника на случайной стене."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/france/europe-2021/marseille/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "cathedrale-major-marseille",
+          "event": "exterior_visit",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "marseille/20210728_120853.jpg",
+              "observation": "Характерный фасад и купола собора, представитель отдельной серии возле храма."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Сохранён внешний осмотр; вход внутрь по проверенному наружному кадру не утверждается."
+        },
+        {
+          "id": "chateau-d-if",
+          "event": "visited_fort",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "marseille/20210728_163643.jpg",
+              "observation": "Море и островные укрепления с открытой террасы форта; самостоятельная островная серия."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Крупный фотоэпизод островного форта. Не перепутан с ранними городскими укреплениями у Старого порта."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "marseille",
+          "event": "city_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.5.title",
+              "quote": "Марсель"
+            },
+            {
+              "photo": "marseille/20210728_135017.jpg",
+              "observation": "Городская ратуша на прогулке по Старому порту, отдельной точкой не добавлена."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Общая фотоглава города; новые названия каждому форту и фасаду не приписаны."
+        }
+      ]
+    },
+    "content/europe/france/europe-2021/grasse/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "grasse",
+          "event": "city_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.6.title",
+              "quote": "Грас"
+            },
+            {
+              "photo": "grasse/20210729_143532.jpg",
+              "observation": "Семейный кадр в старых переулках Граса."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Городская фотоглава; конкретные парфюмерные музеи и фабрики по общему определению «город парфюмеров» не добавляются."
+        }
+      ]
+    },
+    "content/europe/france/europe-2021/michelin/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": []
+    },
+    "content/europe/france/europe-2021/dacha/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": []
+    },
+    "content/europe/france/europe-2021/nice-museums/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "musee-matisse-nice",
+          "event": "entered_museum",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.9.title",
+              "quote": "Ницца - Матисс и Шагал"
+            },
+            {
+              "photo": "nice-museums/20210731_125946.jpg",
+              "observation": "Работа Матисса внутри музейного пространства в первой части специально названной музейной главы."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Отдельный музейный эпизод в главе о двух художниках. Картины не отдельные достопримечательности."
+        },
+        {
+          "id": "musee-chagall-nice",
+          "event": "entered_museum",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.9.title",
+              "quote": "Ницца - Матисс и Шагал"
+            },
+            {
+              "photo": "nice-museums/20210731_144054.jpg",
+              "observation": "Мозаика Шагала, представитель музейной серии."
+            },
+            {
+              "photo": "nice-museums/20210731_151244.jpg",
+              "observation": "Семейный кадр внутри залов с Библейским посланием Шагала."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Большая самостоятельная серия внутри музея; не только внешний фасад."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/france/europe-2021/cannes/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "cannes",
+          "event": "city_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.10.title",
+              "quote": "Канны"
+            },
+            {
+              "photo": "cannes/20210802_155713.jpg",
+              "observation": "Городской кадр улицы и озеленения."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Отдельная городская фотоглава; случайные фасады не отдельные точки."
+        }
+      ]
+    },
+    "content/europe/france/europe-2021/milan-duomo/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "duomo-milano",
+          "event": "visited_rooftop_terraces",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.11.title",
+              "quote": "Милан - Дуомо и замок Сфорца"
+            },
+            {
+              "photo": "milan-duomo/20210803_154452.jpg",
+              "observation": "Гаргульи и архитектура с уровня террас Дуомо, часть большой серии наверху."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Подтверждены террасы; не заявляется автоматический вход во все музеи комплекса."
+        },
+        {
+          "id": "castello-sforzesco",
+          "event": "exterior_and_park",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.11.title",
+              "quote": "Милан - Дуомо и замок Сфорца"
+            },
+            {
+              "photo": "milan-duomo/20210803_191828.jpg",
+              "observation": "Вид замка через парковый пруд, отдельная вечерняя серия."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "В этой главе внешний осмотр и парк, музейный визит подтверждается другой главой."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/france/europe-2021/milan-brera/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "pinacoteca-brera",
+          "event": "entered_museum",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.12.title",
+              "quote": "Милан - Брера и ночной Дуомо"
+            },
+            {
+              "photo": "milan-brera/20210804_125118.jpg",
+              "observation": "Франческо Айец, «Поцелуй», внутри большой серии Бреры."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Самостоятельный музейный блок, не отдельная точка каждой картины."
+        },
+        {
+          "id": "castello-sforzesco",
+          "event": "entered_castle_museum",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "milan-brera/20210804_144721.jpg",
+              "observation": "Исторический клавишный инструмент в музейной серии после Бреры."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Существующая музейная привязка сохранена для самостоятельного блока коллекций; отдельный музей на каждый предмет не создан."
+        },
+        {
+          "id": "duomo-milano",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.12.title",
+              "quote": "Милан - Брера и ночной Дуомо"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Ночной наружный эпизод прямо вынесен в название главы, не новый подъём на крышу."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/france/europe-2021/turin-palace/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "palazzo-reale-torino",
+          "event": "entered_museum_complex",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.13.title",
+              "quote": "Турин - дворец и Моле"
+            },
+            {
+              "photo": "turin-palace/20210805_143129.jpg",
+              "observation": "Зал королевской оружейной коллекции внутри дворцового комплекса."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Дворец и его коллекции — один комплекс; доспехи не новые точки."
+        },
+        {
+          "id": "mole-antonelliana",
+          "event": "entered_cinema_museum",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.13.title",
+              "quote": "Турин - дворец и Моле"
+            },
+            {
+              "photo": "turin-palace/20210805_173307.jpg",
+              "observation": "Персонажи фантастического кино в самостоятельном музейном блоке Моле."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Подтверждена экспозиция кино, поэтому музейный тип должен находиться в данных Моле; подъём на смотровую отдельно не приписан."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/france/europe-2021/turin-squares/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "turin",
+          "event": "city_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.14.title",
+              "quote": "Турин - площади, церкви и дорога через Альпы"
+            },
+            {
+              "photo": "turin-squares/20210806_100413.jpg",
+              "observation": "Интерьер одного из храмов городской серии; точное имя не угадано."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Городская фотоистория с церквями; самостоятельный крупный церковный блок сохранён без вымышленного названия и вынесен в вопросы."
+        }
+      ]
+    },
+    "content/europe/france/europe-2021/paris-montmartre/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "louvre",
+          "event": "exterior",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "paris-montmartre/20210808_155207.jpg",
+              "observation": "Семейный кадр на набережной у Лувра, без музейной экспозиции."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Наружный луврский этап прямо назван в заголовке. Внутренний музейный визит подтверждён на следующий день."
+        },
+        {
+          "id": "invalides",
+          "event": "entered_museum",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "paris-montmartre/20210808_145345.jpg",
+              "observation": "Историческое многоствольное оружие и французская музейная этикетка в самостоятельном военном блоке."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Крупный музейный блок действительно внутри; посещение не сведено к виду купола."
+        },
+        {
+          "id": "sacre-coeur",
+          "event": "exterior_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "photo": "paris-montmartre/20210808_211536.jpg",
+              "observation": "Фасад базилики и лестница у неё в отдельной вечерней серии."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Сохраняется внешний эпизод Монмартра. Внутренний вход и купол не приписаны."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/france/europe-2021/paris-louvre/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "sainte-chapelle",
+          "event": "entered_chapel",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.16.title",
+              "quote": "Париж - Сент-Шапель и Лувр"
+            },
+            {
+              "photo": "paris-louvre/20210809_092519.jpg",
+              "observation": "Нижняя часовня, часть большой интерьерной серии Сент-Шапель."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Осмотр внутри подтверждён большой фотоисторией."
+        },
+        {
+          "id": "louvre",
+          "event": "entered_museum",
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.16.title",
+              "quote": "Париж - Сент-Шапель и Лувр"
+            },
+            {
+              "photo": "paris-louvre/20210809_141837.jpg",
+              "observation": "Живопись Рубенса внутри большой музейной серии Лувра."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "Продолжительный музейный блок, не только пирамида снаружи; отдельные картины не новые места."
+        }
+      ],
+      "place_visits": []
+    },
     "content/europe/france/europe-friends-2019/planning/index.md": {
       "source_review": "read",
       "visits": [],

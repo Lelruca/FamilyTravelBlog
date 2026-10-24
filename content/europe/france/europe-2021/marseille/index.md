@@ -6,14 +6,13 @@ weight: 60
 city: "marseille"
 places:
   - marseille
-  - notre-dame-de-la-garde
   - cathedrale-major-marseille
   - chateau-d-if
 hero_image: "20210728_123148.jpg"
 date: "2021-07-28"
 auto_gallery: false
 draft: false
-attractions: ["notre-dame-de-la-garde","cathedrale-major-marseille","chateau-d-if"]
+attractions: ["cathedrale-major-marseille","chateau-d-if"]
 ---
 {{< row "20210728_105203.jpg 20210728_105315.jpg 20210728_105701.jpg 20210728_105731.jpg" >}}
 

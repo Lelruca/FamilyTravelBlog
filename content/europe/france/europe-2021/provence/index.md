@@ -4,8 +4,6 @@ chapter_kind: "part"
 layout: "photo-story"
 weight: 30
 city: "Saint-Paul-de-Vence"
-places:
-  - saint-paul-de-vence
 hero_image: "20210725_195950.jpg"
 date: "2021-07-25"
 auto_gallery: false

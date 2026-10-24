@@ -2690,10 +2690,10 @@
       "title": "\"Антиб и музей Пикассо\"",
       "draft": false,
       "source_sha256_lf": "8b7a4af7bf709b8618659327281fb4b59b06ecec9dbf8a12a7361d75c9ec37c8",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/avignon/index.md",
@@ -2702,10 +2702,10 @@
       "title": "\"Авиньон\"",
       "draft": false,
       "source_sha256_lf": "2a9be199a473d400858dc317ccdddba1d57390acbf47532ca9dd25c93ad9f207",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/cannes/index.md",
@@ -2713,11 +2713,11 @@
       "trip_path": "content/europe/france/europe-2021",
       "title": "\"Канны\"",
       "draft": false,
-      "source_sha256_lf": "9f8025cb0219d62f83ca141b77c62bb061d361f6e587db9f00883c187d9a5751",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "8343d294780ffa73cc3fdb42183eb9e225542fdabf15a66c145ab9465bbb0629",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/dacha/index.md",
@@ -2725,11 +2725,11 @@
       "trip_path": "content/europe/france/europe-2021",
       "title": "\"Дачные дни\"",
       "draft": false,
-      "source_sha256_lf": "3720cc2e1fe2ebefd01905d9be12dcd5c155ac27cac472597471c0f0341ee110",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "c13901dc5ced12ddb18063ba7816b3714714775a5aaf2a97a9aa9e125406bb34",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/grasse/index.md",
@@ -2738,10 +2738,10 @@
       "title": "\"Грас — город парфюмеров\"",
       "draft": false,
       "source_sha256_lf": "cc31217fdeba0f259ff7d9441871a813d7ac0fae3a69cb5e80d62ddfb5da71ee",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/marseille/index.md",
@@ -2749,11 +2749,11 @@
       "trip_path": "content/europe/france/europe-2021",
       "title": "\"Марсель\"",
       "draft": false,
-      "source_sha256_lf": "79984267702e9c7c0e08319e9f159197220642c05837b28c4599fbca5044d7df",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "3da96a83791d5614b470e1b4a5327af61f3acbb7c05f69b534273bbdbc525a43",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/michelin/index.md",
@@ -2762,10 +2762,10 @@
       "title": "\"Ужин со звездой Мишлен\"",
       "draft": false,
       "source_sha256_lf": "7585a6bc87479a54a15e7009548220eecc261643984b43a0484e5b244c83f999",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/milan-brera/index.md",
@@ -2774,10 +2774,10 @@
       "title": "\"Милан: Брера и ночной Дуомо\"",
       "draft": false,
       "source_sha256_lf": "9b11e26cb471f1697251ca1bbfbade6b234b50bd0399b612f9c5bd61cafa4832",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/milan-duomo/index.md",
@@ -2786,10 +2786,10 @@
       "title": "\"Милан: Дуомо и замок Сфорца\"",
       "draft": false,
       "source_sha256_lf": "f30cbc58dbcb6ca21e2d28a2a778e148c486f00300d8f06d09648db48c7ffd21",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/nice-museums/index.md",
@@ -2797,11 +2797,11 @@
       "trip_path": "content/europe/france/europe-2021",
       "title": "\"Ницца: Матисс и Шагал\"",
       "draft": false,
-      "source_sha256_lf": "010d9963e41d97b1d2629e54d447a03a1850c3fb39d8410805b8d8c51644f72a",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "5d8ef6759c71a3567c4d8abc480929cf1824bec4693a7c16508e7a21117ccebf",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/nice/index.md",
@@ -2810,10 +2810,10 @@
       "title": "\"Ницца\"",
       "draft": false,
       "source_sha256_lf": "9c1462ec87986d98ba515318e65500ca40f7bcec79c0036c6ee9557ba92c5132",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/paris-louvre/index.md",
@@ -2821,11 +2821,11 @@
       "trip_path": "content/europe/france/europe-2021",
       "title": "\"Париж: Сент-Шапель и Лувр\"",
       "draft": false,
-      "source_sha256_lf": "1e0e5a56688d2d8df9862621522ce741b2213a964d64d6cd89e60f32f461b6bf",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "5a4688857b8411c290c12e75f126a0c24ab0a7ed90818f4ad81c3c94a7c08cec",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/paris-montmartre/index.md",
@@ -2833,11 +2833,11 @@
       "trip_path": "content/europe/france/europe-2021",
       "title": "\"Париж: от Лувра до Монмартра\"",
       "draft": false,
-      "source_sha256_lf": "53d83a3653b8bdd41f874cac0260418583547b3cfa782f344658aa37c5987e72",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "865996766ffa204fe96b63cdf9380d8c3c737fd7bb0c466162b81ba1d73f2728",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/provence/index.md",
@@ -2845,11 +2845,11 @@
       "trip_path": "content/europe/france/europe-2021",
       "title": "\"Прованс у родных\"",
       "draft": false,
-      "source_sha256_lf": "6e6d5b0f7e756b7e7c8c3949f5ef674dd93bd7f1b8765ec0e8dfb61d132e37ec",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "3aa7993e1bfa657151d25471c50aadbd90c0054eb636689f386a9960ba6c4687",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/road-south/index.md",
@@ -2858,10 +2858,10 @@
       "title": "\"Вырвались из карантина\"",
       "draft": false,
       "source_sha256_lf": "faab8b3e3e217cc6e414b91e09246d3a38e2242b757ada2d8632cda0820382d9",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/turin-palace/index.md",
@@ -2870,10 +2870,10 @@
       "title": "\"Турин: королевский дворец и Моле\"",
       "draft": false,
       "source_sha256_lf": "d5d835ec6c454f7a517d4bf8f8623388c7beb03e1dc4434eab14e1af0cfa0b3e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-2021/turin-squares/index.md",
@@ -2881,11 +2881,11 @@
       "trip_path": "content/europe/france/europe-2021",
       "title": "\"Турин: площади, церкви и дорога через Альпы\"",
       "draft": false,
-      "source_sha256_lf": "1b8445220f5c64e8bda60cda2881af872f8ad0b5e1823f2f3357fa8a019d41ad",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "419058fcde7cc75ff35961e9384c261c7263f63be5fe69995e10dd931ecb3ec6",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
       "file": "content/europe/france/europe-friends-2019/aachen-tournai-somme/index.md",

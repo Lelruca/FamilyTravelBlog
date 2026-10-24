@@ -4,8 +4,6 @@ chapter_kind: "part"
 layout: "photo-story"
 weight: 90
 city: "nice"
-places:
-  - nice
 hero_image: "20210802_115734.jpg"
 date: "2021-07-30"
 auto_gallery: false
