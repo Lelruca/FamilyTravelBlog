@@ -5174,10 +5174,10 @@
       "title": "\"Пеньискола\"",
       "draft": false,
       "source_sha256_lf": "4c5750578a8c5c85f39ec7d464ab87c640061a4948a9ed8bd7873c3055456cb9",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/peniscola-valencia-2024.json"
     },
     {
       "file": "content/europe/spain/peniscola-valencia-2024/valencia/index.md",
@@ -5185,11 +5185,11 @@
       "trip_path": "content/europe/spain/peniscola-valencia-2024",
       "title": "\"Валенсия\"",
       "draft": false,
-      "source_sha256_lf": "e10bc7fbdcf7b23802303336c162af1b864d1f4e4cf891fd615ea8c571ee3007",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "27130c50e9123db854b81cf0390b378071cc224591f77fdf877871ef4e68ad82",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/peniscola-valencia-2024.json"
     },
     {
       "file": "content/europe/spain/poblet-2025/poblet/index.md",

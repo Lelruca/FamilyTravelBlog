@@ -11811,6 +11811,140 @@
         }
       ]
     },
+    "content/europe/spain/peniscola-valencia-2024/peniscola/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "peniscola--zamok-papy-luny",
+          "event": "visited_entry_unspecified",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 71,
+              "source_paragraph": 3,
+              "quote": "По дороге заехали в Пенисколу - замок тамплиеров"
+            }
+          ],
+          "report": "reviews/source-audit/trips/peniscola-valencia-2024.json",
+          "note": "Самостоятельный исторический рассказ и остановка по дороге; точный объём музейного входа не заявляется."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "peniscola",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 71,
+              "source_paragraph": 6,
+              "quote": "как приятная остановка между Барселоной и Валенсией хорошо"
+            }
+          ],
+          "report": "reviews/source-audit/trips/peniscola-valencia-2024.json",
+          "note": "Реальный заезд, а не только направление пути."
+        }
+      ]
+    },
+    "content/europe/spain/peniscola-valencia-2024/valencia/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "ciutat-arts-ciencies",
+          "event": "exterior_visit",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 70,
+              "source_paragraph": 0,
+              "quote": "ОЧЕНЬ красивого современного центра науки и искусства"
+            },
+            {
+              "photo": "valencia/20240727_190417.jpg",
+              "observation": "Семейный кадр на территории комплекса, снаружи Hemisfèric; не подтверждает билетный вход."
+            }
+          ],
+          "report": "reviews/source-audit/trips/peniscola-valencia-2024.json",
+          "note": "Назван в тексте, крупная фотосерия и проверенный семейный кадр подтверждают внешний осмотр; вход в музей науки или океанариум не приписан."
+        },
+        {
+          "id": "valencia-cathedral",
+          "event": "visited_entry_unspecified",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 70,
+              "source_paragraph": 0,
+              "quote": "в соблре храниться чаша Гаааля"
+            },
+            {
+              "photo": "valencia/20240728_102144.jpg",
+              "observation": "Фасад собора в текущей поездке; один проверенный кадр из посвящённой собору серии."
+            }
+          ],
+          "report": "reviews/source-audit/trips/peniscola-valencia-2024.json",
+          "note": "Объект прямо назван, авторская подпись «Священный Грааль» и серия собора. Проверен фасад; объём доступа внутрь этим кадром не устанавливается."
+        },
+        {
+          "id": "bioparc-valencia",
+          "event": "visited_entry_unspecified",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 70,
+              "source_paragraph": 2,
+              "quote": "зоопарк мой муж все равно считает самым лучшим"
+            },
+            {
+              "photo": "valencia/20240728_123039.jpg",
+              "observation": "Все трое у вывески Bioparc; конкретные экспозиции и маршрут не восстановлены по фону."
+            }
+          ],
+          "report": "reviews/source-audit/trips/peniscola-valencia-2024.json",
+          "note": "Зоопарк обсуждён в тексте, самостоятельная серия и семейный кадр у вывески подтверждают нынешний визит. Не каталогизируются отдельные животные."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "valencia",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 70,
+              "source_paragraph": 1,
+              "quote": "Но этот раз, на фоне Барселоны Валенсия нам померкла"
+            }
+          ],
+          "report": "reviews/source-audit/trips/peniscola-valencia-2024.json",
+          "note": "Повторный визит с Митей; первые раздельные посещения родителей не выданы за нынешние."
+        }
+      ]
+    },
     "content/europe/spain/poblet-2025/poblet/index.md": {
       "source_review": "read",
       "visits": [],
