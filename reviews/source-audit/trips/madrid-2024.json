@@ -1,0 +1,231 @@
+{
+  "trip_path": "content/europe/spain/madrid-2024",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 69,
+    "record_indices": [
+      69,
+      68
+    ],
+    "read": "Оба исходных поста и все шесть подписей прочитаны полностью, затем обе главы. Исправления опечаток в показе сохранены."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/madrid-2024.json",
+    "method": "Только текст и содержательные авторские подписи; фоновые городские фотографии не превращались в объекты."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/spain/madrid-2024/cathedrals-palace/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный пост и подписи прочитаны; сравнения с прежними поездками отделены от посещений.",
+      "objects": [
+        {
+          "label": "Собор Святого Франциска Великого",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 69,
+              "source_paragraph": 3,
+              "quote": "Начали с собора святого Франциска."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "san-francisco-el-grande"
+          },
+          "reason": "Личный рассказ об осмотренной живописи; художники не отдельные места.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Собор Альмудена",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 69,
+              "source_paragraph": 4,
+              "quote": "Мы нашли даже кирилицу."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "almudena-cathedral"
+          },
+          "reason": "Описан современный интерьер и надпись; точное название подтверждено авторской подписью.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Королевский дворец Мадрида",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 69,
+              "source_paragraph": 5,
+              "quote": "Королевский дворец конечно красив!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "royal-palace-madrid"
+          },
+          "reason": "Личные впечатления от покоев и музейного представления монархии.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Галерея королевских коллекций",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 69,
+              "source_paragraph": 6,
+              "quote": "мы прлучили удовольствие"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "madrid--galereya-korolevskikh-kollektsiy"
+          },
+          "reason": "Отдельно описаны два осмотренных этажа нового здания напротив дворца.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Барселона, Китай, Москва — Петербург",
+          "event": "transit_and_comparison",
+          "evidence": [
+            {
+              "source_record_index": 69,
+              "source_paragraph": 2,
+              "quote": "по сравнению с Китаем или Москва-Питер"
+            }
+          ],
+          "decision": "exclude_as_sightseeing",
+          "reason": "Начало поездки и сравнения поездов, не дополнительные посещения.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/madrid-2024/imperial-city/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный пост и подписи прочитаны; сравнения с прежними поездками отделены от посещений.",
+      "objects": [
+        {
+          "label": "Музей истории Мадрида",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 68,
+              "source_paragraph": 0,
+              "quote": "После сиесты пошли в музей истории Мадрида."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "madrid--muzey-istorii-madrida"
+          },
+          "reason": "Отрицательная оценка не отменяет состоявшегося входа.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Мадрид",
+          "event": "city_walk",
+          "evidence": [
+            {
+              "source_record_index": 68,
+              "source_paragraph": 1,
+              "quote": "Мадрид конечно впечатляет!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "madrid"
+          },
+          "reason": "Реальная прогулка и городской рассказ.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Музеи истории Лондона и Берна; Толедо",
+          "event": "comparison_not_this_trip",
+          "evidence": [
+            {
+              "source_record_index": 68,
+              "source_paragraph": 0,
+              "quote": "Хотя Митя хвалит музей Берна. Мы не были."
+            }
+          ],
+          "decision": "exclude_as_current_visits",
+          "reason": "Берн хвалит Митя, родители прямо не были. Лондон — прежний опыт, Толедо — исторический вопрос.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Plaza Mayor",
+          "event": "incidental_photo_only",
+          "evidence": [
+            {
+              "source_record_index": 68,
+              "source_paragraph": 1,
+              "quote": "Мадрид конечно впечатляет!"
+            }
+          ],
+          "decision": "remove_incidental_link",
+          "reason": "Площадь не названа и не рассказана в оригинале; серия городских фотографий не является отдельным названным рассказом о ней. Метки удалены, фотографии и авторский текст сохранены.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Метро Мадрида и Торонто",
+          "event": "transport_comparison",
+          "evidence": [
+            {
+              "source_record_index": 68,
+              "source_paragraph": 4,
+              "quote": "Удивило метро Мадрида."
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Рассказ о поездках и интервале движения, без отдельной музейной точки.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled",
+    "questions": [],
+    "repeat_check": "Пять музейных/соборных посещений подтверждены текстом. Удалена неявная связь Plaza Mayor, которой в рассказе нет. Митя не включён в участников: он упомянут только как источник оценки музея Берна. Бытовой транспорт и предыдущие посещения отделены от этой поездки."
+  }
+}

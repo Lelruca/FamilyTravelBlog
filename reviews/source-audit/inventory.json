@@ -5126,10 +5126,10 @@
       "title": "\"Соборы и Королевский дворец\"",
       "draft": false,
       "source_sha256_lf": "adf5d6fbf3d6994e2777981ec0bf5932fe15cc7b95383ab4d701a2f5df2859ab",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/madrid-2024.json"
     },
     {
       "file": "content/europe/spain/madrid-2024/imperial-city/index.md",
@@ -5137,11 +5137,11 @@
       "trip_path": "content/europe/spain/madrid-2024",
       "title": "\"Имперский город\"",
       "draft": false,
-      "source_sha256_lf": "40bf2f4092aba48ccb42ca9a729b29d45eda51caa54fbf929ba61007e9fb9064",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "ea102c3edbc83821c23e6a2e762a662c2b94f453d966fd3759bc77deb97165fb",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/madrid-2024.json"
     },
     {
       "file": "content/europe/spain/malgrat-2024/malgrat/index.md",

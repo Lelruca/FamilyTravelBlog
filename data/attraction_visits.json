@@ -9817,6 +9817,121 @@
         }
       ]
     },
+    "content/europe/spain/madrid-2024/cathedrals-palace/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "san-francisco-el-grande",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 69,
+              "source_paragraph": 3,
+              "quote": "Начали с собора святого Франциска."
+            }
+          ],
+          "report": "reviews/source-audit/trips/madrid-2024.json",
+          "note": "Личный рассказ об осмотренной живописи; художники не отдельные места."
+        },
+        {
+          "id": "almudena-cathedral",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 69,
+              "source_paragraph": 4,
+              "quote": "Мы нашли даже кирилицу."
+            }
+          ],
+          "report": "reviews/source-audit/trips/madrid-2024.json",
+          "note": "Описан современный интерьер и надпись; точное название подтверждено авторской подписью."
+        },
+        {
+          "id": "royal-palace-madrid",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 69,
+              "source_paragraph": 5,
+              "quote": "Королевский дворец конечно красив!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/madrid-2024.json",
+          "note": "Личные впечатления от покоев и музейного представления монархии."
+        },
+        {
+          "id": "madrid--galereya-korolevskikh-kollektsiy",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 69,
+              "source_paragraph": 6,
+              "quote": "мы прлучили удовольствие"
+            }
+          ],
+          "report": "reviews/source-audit/trips/madrid-2024.json",
+          "note": "Отдельно описаны два осмотренных этажа нового здания напротив дворца."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/spain/madrid-2024/imperial-city/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "madrid--muzey-istorii-madrida",
+          "event": "entered",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 68,
+              "source_paragraph": 0,
+              "quote": "После сиесты пошли в музей истории Мадрида."
+            }
+          ],
+          "report": "reviews/source-audit/trips/madrid-2024.json",
+          "note": "Отрицательная оценка не отменяет состоявшегося входа."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "madrid",
+          "event": "city_walk",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 68,
+              "source_paragraph": 1,
+              "quote": "Мадрид конечно впечатляет!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/madrid-2024.json",
+          "note": "Реальная прогулка и городской рассказ."
+        }
+      ]
+    },
     "content/europe/spain/malgrat-2024/malgrat/index.md": {
       "source_review": "read",
       "visits": [],
