@@ -2,7 +2,7 @@
   "status": "all_current_chapter_decisions_reconciled_limits_open",
   "chapters": 436,
   "trips": 72,
-  "object_decisions_in_chapters": 2273,
+  "object_decisions_in_chapters": 2274,
   "unknown_names_and_source_limits": "reviews/source-audit/QUESTIONS.md",
   "other_worktree_texts": "reviews/source-audit/worktree-scope.json",
   "standalone_source_reviews": [
@@ -2463,7 +2463,7 @@
     {
       "file": "content/europe/spain/spain-2019/gothic-quarter/index.md",
       "report": "reviews/source-audit/trips/spain-2019.json",
-      "objects": 5,
+      "objects": 6,
       "status": "decisions_and_links_reconciled"
     },
     {

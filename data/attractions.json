@@ -12409,5 +12409,58 @@
       "university",
       "college"
     ]
+  },
+  "lapin-agile": {
+    "title": "Кабаре Au Lapin Agile — «Проворный Кролик»",
+    "parent": "paris",
+    "place": "lapin-agile",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "Au Lapin Agile",
+      "Проворный Кролик",
+      "кабаре",
+      "шансон",
+      "концерт",
+      "театр",
+      "cabaret",
+      "theatre"
+    ]
+  },
+  "rome--santa-mariya-madzhore": {
+    "title": "Санта-Мария-Маджоре",
+    "parent": "rome",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "santa-maria-del-mar": {
+    "title": "Санта-Мария-дель-Мар",
+    "parent": "barcelona",
+    "place": "santa-maria-del-mar",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
   }
 }

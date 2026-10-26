@@ -3705,6 +3705,42 @@
       "data/attractions.json#disneyland-anaheim"
     ]
   },
+  "lapin-agile": {
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "Au Lapin Agile",
+      "Проворный Кролик",
+      "кабаре",
+      "шансон",
+      "концерт",
+      "театр",
+      "cabaret",
+      "theatre"
+    ],
+    "classification_sources": [
+      "data/attractions.json#lapin-agile"
+    ]
+  },
+  "santa-maria-del-mar": {
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#santa-maria-del-mar"
+    ]
+  },
   "arnhem-war-museum": {
     "types": [
       "museum"

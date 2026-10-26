@@ -13,7 +13,7 @@ hero_image: "20191222_085951.jpg"
 date: "2019-12-22"
 auto_gallery: false
 draft: false
-attractions: ["barri-gotic","barcelona-cathedral","palau-generalitat"]
+attractions: ["barri-gotic","barcelona-cathedral","palau-generalitat","santa-maria-del-mar"]
 ---
 <p> И очень интересный исторический центр, средневековые улочки, соборы, СОТНИ гаргулий и набережная!</p>
 
