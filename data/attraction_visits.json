@@ -1,5 +1,5 @@
 {
-  "status": "partial",
+  "status": "all_current_chapter_texts_reviewed_limits_open",
   "default_for_unlisted_chapters": "not_audited",
   "chapters": {
     "content/europe/andorra/andorra-pyrenees-2026/arrival/index.md": {
@@ -170,18 +170,6 @@
         {
           "id": "parlee-beach",
           "event": "visited",
-          "participants": null,
-          "evidence": [
-            {
-              "source_paragraph": 106,
-              "quote": "Следующим пунктом у нас был пляж! Я долго и упорно пыталась для себя понять теплая ли там вода и можно ли купаться (что теоретически можно я знала, но насколько реально комфортно было непонятно). Поэтому постаралась действовать наверняка и выбрала самых разрекламированный пляж - <b>Parlee beach </b><b>(4/5+/5/4)</b>. И не прогадала! Тут даже прорекламирую мотель, где мы останавливались - Parlee beach Motel, не потому что он чем-то уж больно хорош. Мотель как мотель, но он находится в пешей досягаемости от пляжа. Есть в этом что-то... правильное. Опять же пешком – бесплатно ;-) Первый день мы правда поехали на машине, т.к. не знали где и что и после 5 вечера бесплатный въезд. Пляж нам всем понравился. Песочек, вода теплая (я мерзлявая и говорю уверенно, что купаться можно и приятно! Входить в воду немножко прохладно, но потом вылезать не хочется!), довольно мелкая вначале, но в то же время можно зайти погрубже и поплавать. На пляже все хорошо продумано: туалеты, души, переодевалки, кафешки... Короче на наш взгляд пляж просто идеален :-)  Нам так понравилось место, что мы на обратную дорогу тут же еще раз этот мотель зарезервировали (вместо Монктона). "
-            }
-          ],
-          "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
-        },
-        {
-          "id": "shediac--parlee-beach-motel",
-          "event": "overnight",
           "participants": null,
           "evidence": [
             {
@@ -1116,24 +1104,6 @@
           ],
           "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
           "note": "Самостоятельная цель поездки, подробный абзац о даре Церетели; отсутствовал в данных."
-        },
-        {
-          "id": "condom--sobor-kondoma",
-          "event": "visited_entry_unspecified",
-          "participants": [
-            "Леля",
-            "Сергей",
-            "Наташа"
-          ],
-          "evidence": [
-            {
-              "source_record_index": 87,
-              "source_paragraph": 3,
-              "quote": "Городок 7 тыс. жителей, а какой собор!"
-            }
-          ],
-          "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
-          "note": "Собор обсуждается автором; по одной фразе не утверждается вход во все помещения."
         }
       ],
       "place_visits": [
@@ -3109,24 +3079,6 @@
       "source_review": "read",
       "visits": [
         {
-          "id": "bruges--holy-blood-basilica",
-          "event": "entered_and_ceremony",
-          "participants": [
-            "Леля",
-            "Сергей",
-            "Наташа",
-            "Митя"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 580,
-              "quote": "Потом в определенный час вернула в центр и повела в Basilica of the Holy Blood (Базилику Святой Крови), где почти каждый день проводят особую церемонию, вынося святыню (сгусток крови Христа?) в специальном таком сосуде к верующим и после небольшой молитвы КАЖДЫЙ может подойти и поклониться этой святыне. Мы попали в эту Базилику 7 января, в наше Рождество и нам было особенно радостно, что в этот день, несмотря на наши путешествия, мы как-то «приобщились». Людей (туристов) было достаточно. Все объявления и вступительную речь произнесли на 5 языках (фламандском, франц. и немецком (официальные языки Бельгии), англ. и испанском). А потом каждый поднимался отдельно и... 80% были православные (мы же крестимся в другую сторону, да еще обязательно 3 раза ;-)). Ну не удивительно, туристов из России было очень много, т.к. это было время именно российских новогодних праздников."
-            }
-          ],
-          "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
-          "note": "Названа по-английски и по-русски; 7 января участвовали в церемонии. Святыня учитывается внутри базилики."
-        },
-        {
           "id": "bruges--beginazh-bryugge",
           "event": "visited",
           "participants": [
@@ -3185,24 +3137,6 @@
           ],
           "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
           "note": "Площадь названа и описана; катались на колесе. Колесо и памятник Людовику XIV — детали этой остановки. Наташа осталась в гостинице."
-        },
-        {
-          "id": "lyon--notre-dame-de-fourviere",
-          "event": "entered",
-          "participants": [
-            "Леля",
-            "Сергей",
-            "Наташа",
-            "Митя"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 155,
-              "quote": "Зато внутри… мы смогли насладиться интерьерами полностью! Я обычно не делаю фотографии внутри церквей, т.к. считаю это не совсем правильным, но тут… не смогла удержаться! Мне кажется по богатству убранства больше на православную церковь похоже, а из католических мне почему-то Монреальский Нотр-Дам вспомнился (я думаю для Лиона унизительно такое сравнение, но что с нас, канадцев, взять ;-)). Не знаю, на этот собор мне кажется дня мала. Там и снаружи столько деталей! И внутри!  К сожалению фото мои ничего не могут передать :-("
-            }
-          ],
-          "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
-          "note": "Подробное описание посещённых интерьеров. Туман ограничил внешний вид, но вход внутрь прямо подтверждён рассказом."
         },
         {
           "id": "lyon--rimskiy-amfiteatr",
@@ -3775,25 +3709,7 @@
     },
     "content/europe/germany/east-germany-winter-2025/lisbon/index.md": {
       "source_review": "read",
-      "visits": [
-        {
-          "id": "lisbon--tserkov-svyatogo-rokha",
-          "event": "entered",
-          "participants": [
-            "Леля",
-            "Сергей"
-          ],
-          "evidence": [
-            {
-              "source_record_index": 40,
-              "source_paragraph": 1,
-              "quote": "Igreja de São Roque"
-            }
-          ],
-          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
-          "note": "Прямое подтверждение входа, другие неназванные церкви не отдельные точки."
-        }
-      ],
+      "visits": [],
       "place_visits": [
         {
           "id": "lisbon",
@@ -4303,35 +4219,12 @@
           "evidence": [
             {
               "source_file": "content/europe/germany/east-germany-winter-2025/vic/index.md",
-              "source_sha256": "5965e1e915cd353f81916d7ab79855299322034f830eb28e872e56a5f81c49bf",
+              "source_sha256": "abd9be56e8c5f708d7284f69fd04ec29465ef9d8cb7a224295ededf644384de3",
               "quote": "Ла Велья (La Vella) — одна из капгроссос"
             }
           ],
           "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
           "note": "Развёрнутый отдельный абзац нынешней главы о названном памятнике, не распознавание случайного прохожего или фасада."
-        },
-        {
-          "id": "vic--via-restaurant",
-          "event": "meal_experience",
-          "participants": [
-            "Леля",
-            "Сергей",
-            "Наташа"
-          ],
-          "evidence": [
-            {
-              "source_file": "media-manifests/east-germany-winter-2025-texts/vic.txt",
-              "source_sha256": "7ae361e62316592650cf288710c7af0906cc890d12aaa30bd5ebc103bda26ac6",
-              "quote": "Один из лучших гастрономических опытов в моей жизни."
-            },
-            {
-              "source_file": "content/europe/germany/east-germany-winter-2025/vic/index.md",
-              "source_sha256": "5965e1e915cd353f81916d7ab79855299322034f830eb28e872e56a5f81c49bf",
-              "quote": "VIA Restaurant — в старинном особняке Casa Fontcuberta"
-            }
-          ],
-          "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
-          "note": "Развёрнутый самостоятельный рассказ о состоявшемся обеде и конкретное имя в нынешнем тексте. Особняк отдельно не добавлен; прошлый французский ресторан с Катей и Дэвидом — только сравнение."
         }
       ],
       "place_visits": [
@@ -4433,7 +4326,30 @@
     "content/europe/france/europe-2021/provence/index.md": {
       "source_review": "read",
       "visits": [],
-      "place_visits": []
+      "place_visits": [
+        {
+          "id": "saint-paul-de-vence",
+          "event": "village_walk",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 167,
+              "source_paragraph": 0,
+              "quote": "А вечером прогулка по настоящему провенскому городку"
+            },
+            {
+              "photo": "provence/20210725_185946.jpg",
+              "observation": "Grande Fontaine: дата 1850 на каменной урне, круглый бассейн и две сводчатые арки прачечной позади. Сопоставлено с официальным турофисом Сен-Поль-де-Ванса."
+            },
+            {
+              "photo": "provence/20210725_190652.jpg",
+              "observation": "Улица каменного старого городка, дополнительный кадр той же самостоятельной серии."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-2021.json",
+          "note": "По прямому поручению владельца городок определён по большой серии. Узнаваемый фонтан и арочная прачечная совпадают с официальным описанием: https://www.saint-pauldevence.com/fiches/monuments/la-place-de-la-grande-fontaine/ и https://www.saint-pauldevence.com/pour-les-enseignants-scolaires/remontez-le-temps-2/. Фонтан и Hostellerie не отдельные точки."
+        }
+      ]
     },
     "content/europe/france/europe-2021/nice/index.md": {
       "source_review": "read",
@@ -5532,22 +5448,7 @@
     },
     "content/europe/germany/europe-autumn-2023/kleve-kevelaer/index.md": {
       "source_review": "read",
-      "visits": [
-        {
-          "id": "kevelaer--bazilika-svyatoy-marii",
-          "event": "entered_church",
-          "participants": null,
-          "evidence": [
-            {
-              "source_record_index": 93,
-              "source_paragraph": 2,
-              "quote": "Поэтому внутрь мы вошли"
-            }
-          ],
-          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
-          "note": "Сохранён основной церковный визит; точный исторический век в рассказе не использован для идентификации других церквей."
-        }
-      ],
+      "visits": [],
       "place_visits": [
         {
           "id": "kleve",
@@ -5899,26 +5800,6 @@
           ],
           "report": "reviews/source-audit/trips/europe-friends-2019.json",
           "note": "Осмотрены витражи и стенды внутри; ночной внешний осмотр был накануне."
-        },
-        {
-          "id": "reims--bazilika-sen-remi",
-          "event": "entered",
-          "participants": [
-            "Таня",
-            "Полина",
-            "Миша",
-            "Сергей",
-            "Леля",
-            "Митя"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 103,
-              "quote": "После собора, в очень возвышенном настроении мы направились в сторону подвалов с шампанским, где у нас был забронирован тур с дегустацией. Однако не смогли не завернуть в Basilique Saint-Remi. Нет, смотреть в Рейме конечно нечего, так, королевское аббатство, занесенной в список UNESCO…"
-            }
-          ],
-          "report": "reviews/source-audit/trips/europe-friends-2019.json",
-          "note": "Завернули по пути к погребам."
         },
         {
           "id": "reims--gh-martel",
@@ -6763,27 +6644,7 @@
     },
     "content/europe/france/europe-friends-2019/rouen-honfleur/index.md": {
       "source_review": "read",
-      "visits": [
-        {
-          "id": "rouen--tserkov-abbatstva-sent-uan",
-          "event": "visited_entry_unspecified",
-          "participants": [
-            "Сергей",
-            "Леля",
-            "Митя"
-          ],
-          "evidence": [
-            {
-              "source_file": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\viber.docx",
-              "source_sha256": "523739263df3cc8f8fa50c4d9342c86922a0526103658493b5c2f3350f0a781d",
-              "source_paragraph_extra": 147,
-              "quote": "Церковь аббатства Св. Уэна(St. Ouen). Само аббатство является одним из старейших во Франции (основано в 8 веке), а церковь в своём сегодняшнем виде в основном относится к 15 веку. По своим внушительным размерам она превосходит даже собор, но это совсем не главное её достоинство – сама церковь является прекрасным образцом классической пламенеющей готики и смотреть на неё – просто заглядение"
-            }
-          ],
-          "report": "reviews/source-audit/trips/europe-friends-2019.json",
-          "note": "Названа и раскрыта в рассказе; объём входа не утверждается."
-        }
-      ],
+      "visits": [],
       "place_visits": [
         {
           "id": "rouen",
@@ -7078,19 +6939,6 @@
     "content/europe/france/france-2012/paris-1/index.md": {
       "source_review": "read",
       "visits": [
-        {
-          "id": "paris--hotel-sainte-marie",
-          "event": "stayed",
-          "participants": null,
-          "evidence": [
-            {
-              "source_paragraph": 7,
-              "quote": "Hôtel Sainte-Marie"
-            }
-          ],
-          "report": "reviews/source-audit/trips/france-2012.json",
-          "note": "Имя прямо приведено автором; проживание не смешивается с осмотром достопримечательностей."
-        },
         {
           "id": "paris--fontaine-saint-michel",
           "event": "exterior",
@@ -7428,21 +7276,7 @@
     },
     "content/europe/france/france-2012/puy-du-fou/index.md": {
       "source_review": "read",
-      "visits": [
-        {
-          "id": "saumur--chateau-bouvet-ladubay",
-          "event": "stayed",
-          "participants": null,
-          "evidence": [
-            {
-              "source_paragraph": 278,
-              "quote": "Château Bouvet-Ladubay"
-            }
-          ],
-          "report": "reviews/source-audit/trips/france-2012.json",
-          "note": "Проживание и сад подтверждены рассказом и собственными снимками; не означает экскурсию в винные погреба одноимённого производителя."
-        }
-      ],
+      "visits": [],
       "place_visits": [
         {
           "id": "puy-du-fou",
@@ -7474,19 +7308,6 @@
     "content/europe/france/france-2012/cadre-noir-loire/index.md": {
       "source_review": "read",
       "visits": [
-        {
-          "id": "saumur--chateau-bouvet-ladubay",
-          "event": "stayed",
-          "participants": null,
-          "evidence": [
-            {
-              "source_paragraph": 300,
-              "quote": "Бруно нас заранее спросил"
-            }
-          ],
-          "report": "reviews/source-audit/trips/france-2012.json",
-          "note": "Продолжение проживания, подтверждённого предыдущей главой."
-        },
         {
           "id": "cadre-noir",
           "event": "visited",
@@ -7525,19 +7346,6 @@
           ],
           "report": "reviews/source-audit/trips/france-2012.json",
           "note": "Внешний осмотр с машины; экскурсия внутрь не утверждается."
-        },
-        {
-          "id": "cellettes--chateau-la-rozelle",
-          "event": "stayed",
-          "participants": null,
-          "evidence": [
-            {
-              "source_paragraph": 357,
-              "quote": "Château de La Rozelle"
-            }
-          ],
-          "report": "reviews/source-audit/trips/france-2012.json",
-          "note": "Находится в Селетте, а не в самом Блуа; география сверена по официальному адресу отеля."
         }
       ],
       "place_visits": [
@@ -8441,19 +8249,6 @@
           ],
           "report": "reviews/source-audit/trips/germany-2011.json",
           "note": "Фотография кареты у музея сохранилась также в неиспользованных архивных материалах."
-        },
-        {
-          "id": "colmar--kyriad-cite-administrative",
-          "event": "stayed",
-          "participants": null,
-          "evidence": [
-            {
-              "source_paragraph": 199,
-              "quote": "Kyriad Hotel Colmar Cite Administrative"
-            }
-          ],
-          "report": "reviews/source-audit/trips/germany-2011.json",
-          "note": "Название дословно есть в исходнике; это проживание, не музей."
         }
       ],
       "place_visits": [
@@ -8499,19 +8294,6 @@
     "content/europe/germany/germany-2011/switzerland-1/index.md": {
       "source_review": "read",
       "visits": [
-        {
-          "id": "lauterbrunnen--hotel-staubbach",
-          "event": "stayed",
-          "participants": null,
-          "evidence": [
-            {
-              "source_paragraph": 219,
-              "quote": "Hotel Staubbach"
-            }
-          ],
-          "report": "reviews/source-audit/trips/germany-2011.json",
-          "note": "Описание проживания подтверждено последующими абзацами, завтраками и семейными снимками."
-        },
         {
           "id": "lucerne--lake-lucerne",
           "event": "boat_trip",
@@ -8629,22 +8411,6 @@
           ],
           "report": "reviews/source-audit/trips/germany-2011.json",
           "note": "Семейный снимок автора рядом с памятником прямо подтверждает осмотр."
-        },
-        {
-          "id": "meiringen--tea-room-frutiger",
-          "event": "visited",
-          "participants": null,
-          "evidence": [
-            {
-              "source_paragraph": 347,
-              "quote": "туда мы и отправились испробовать это лакомство"
-            },
-            {
-              "photo": "switzerland-2/P8242199.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/germany-2011.json",
-          "note": "Название Frutal-Beck читается на собственном снимке в полном разрешении. Муниципальный справочник подтверждает кондитерскую Frutal в Майрингене. Скульптура безе у входа покрыта этим заведением."
         }
       ],
       "place_visits": [
@@ -8715,21 +8481,7 @@
     },
     "content/europe/germany/germany-2011/bavaria/index.md": {
       "source_review": "read",
-      "visits": [
-        {
-          "id": "schwangau--bei-weirich",
-          "event": "stayed_and_ate",
-          "participants": null,
-          "evidence": [
-            {
-              "source_paragraph": 391,
-              "quote": "Bei Weirich"
-            }
-          ],
-          "report": "reviews/source-audit/trips/germany-2011.json",
-          "note": "Собственное название и адрес сохранены в оригинальном DOCX, хотя в версии сайта скобка с адресом отсутствует. Авторский текст сайта не переписывался."
-        }
-      ],
+      "visits": [],
       "place_visits": [
         {
           "id": "ballenberg",
@@ -9811,40 +9563,6 @@
           "note": "Вошли и спустились в мавзолей. Отдельные надгробия не превращаются в точки."
         },
         {
-          "id": "saint-etienne-du-mont",
-          "event": "entered",
-          "participants": [
-            "Леля",
-            "Марина",
-            "Нонна"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 247,
-              "quote": "Рядом с Пантеоном - <b>Аббатство Святой Женевьевы церковь St-Etienne-du-Mont</b>. Внутреннее убранство этой церкви не похоже ни на одну другую. До революции здесь хранились мощи святой Женевьевы, которые революционеры сожгли!"
-            }
-          ],
-          "report": "reviews/source-audit/trips/girls-europe-2017.json",
-          "note": "Описано необычное внутреннее убранство; история аббатства не создаёт второго посещения."
-        },
-        {
-          "id": "saint-severin",
-          "event": "entered",
-          "participants": [
-            "Леля",
-            "Марина",
-            "Нонна"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 260,
-              "quote": "Следующей в нашем плане была <b>Церковь Сен-Северин (Saint Severin)</b> – одна из самых старых церквей Парижа, построенная ещё в 11 веке. К сожалению снаружи ее сфотографировать целиком сложно, т.к. она прямо внутри квартала. А вот внутри мы с удовольствием все рассмотрели. Наша подготовительная работа подсказывала, что надо обратить внимание на  «пальмовый лес» из колонн, особенно на некоторые колонны, закрученные спиралью. А еще бросилось в глаза, что сверху витражи старинные, а внизу - совершенно современные (тоже наверное революционеры постарались). Необычное сочетание. Как там мне говорили про французов: “Женить старое на новом”? "
-            }
-          ],
-          "report": "reviews/source-audit/trips/girls-europe-2017.json",
-          "note": "Прямое подтверждение входа и осмотра колонн/витражей."
-        },
-        {
           "id": "musee-orsay",
           "event": "entered",
           "participants": [
@@ -9860,23 +9578,6 @@
           ],
           "report": "reviews/source-audit/trips/girls-europe-2017.json",
           "note": "Посетили несмотря на смешанные впечатления. Леля пропустила арт-нуво (287), не весь музей."
-        },
-        {
-          "id": "sainte-clotilde",
-          "event": "entered_and_organ_music",
-          "participants": [
-            "Леля",
-            "Марина",
-            "Нонна"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 289,
-              "quote": "После Орсе мы зашли в Базилику Св. Клотильды, она построена в середине 19 века в стиле пламенеющей неоготики. Мы подошли к ней как раз когда темнело и она уже была подсвечена. Мы попали когда кто-то учился играть на органе. С одной стороны ночью в церкви не видно витражей, а с другой очень мистически все, почти темно, мы почти одни, орган… Как-то хорошо пошло, душевно!"
-            }
-          ],
-          "report": "reviews/source-audit/trips/girls-europe-2017.json",
-          "note": "После Орсе вошли, слушали орган и сидели почти в темноте."
         }
       ],
       "place_visits": [
@@ -9969,23 +9670,6 @@
           ],
           "report": "reviews/source-audit/trips/girls-europe-2017.json",
           "note": "Вошли во время службы, сели и слушали; не свободный осмотр всех интерьеров."
-        },
-        {
-          "id": "lapin-agile",
-          "event": "attended_cabaret",
-          "participants": [
-            "Леля",
-            "Марина",
-            "Нонна"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 407,
-              "quote": "При подготовке к поездке мы не сошлись во мнениях по поводу культурной программы. На оперу тратиться мы поскупились, и не пришли к консенсусу по Мулен Руж (типа туристическое место), поэтому Маринка нам нашла аутентичное кабаре на Монмартре. ОЧЕНЬ неожиданное место -  Au Lapin Agile. Записывались мы по интернету, причем нужный нам день был забит и мы записались только на это число. Пришли мы к 9 вечера, малюсенький домик посреди квартала, мы одни, все закрыто. И холодно стоять ждать. В наших рядах стали появляться крамольные мысли: “А оно нам надо?...” День был очень длинный, насыщенный, хотелось домой ;-)  Потом подошла еще одна группа из 3 человек, потом стали подходить “свои”, они стучали, им открывали и впускали, а мы продолжали ждать. Потом двери открыли и стали запускать нас, зрителей. На входе сверялись со списком, мы платили наличными 28 евро с человека, у нас забирали куртки, проводили в “зал”, если можно это было так назвать и четко рассаживали по местам. Темно, только красная лампа в центре, деревянные столы с лавками по периметру и в центре. Всех зрителей (нас было 20 человек всего) рассадили по периметру, разнесли по маленькому стаканчику вишневой настойки. А потом зашли артисты, 7 человек, сели за центральный стол, один за инструмент и… начали петь! Первые впечатления странные… Во-первых, трудно без языка, все на франц. языке и объявляется и какие-то шутки и даже какие-то песни-монологи со смыслом. Т.е. по нашему бардовская песня, по франц. шансон :-) После нескольких песен возникают мысли: “Ну ок, неплохо, посмотрели, любопытно, можно бы и домой…” А все представление ровно 4 часа!!! Без перерывов! И потихоньку, потихоньку, проблема языка уходит на второй план, ты втягиваешься, эти 7 человек становятся тебе уже знакомыми и родными, они от общего хора переходят на индивидуальные номера, и с гитарами, и с аккордеоном, и дуэтами… И уже кажется, что ты пришел в гости и вместе со всеми сидишь и поешь песни (они даже англоязычных подключили “мычать” под Эдит Пиаф). И совсем не хочется уходить! И эти 4 часа пролетели как один миг. Потом народ потихоньку стал убегать, мы спросили тихонечко до скольких метро и нам сказали, что надо бежать на последнюю электричку. Было ТАК обидно вставать, не дослушали мы минут 20, на выходе видели диски у них, как бы хотелось купить на память. Эх! Надо было как-то заранее продумать этот вопрос и вызвать такси. "
-            }
-          ],
-          "report": "reviews/source-audit/trips/girls-europe-2017.json",
-          "note": "Заранее записались и почти четыре часа слушали живое представление. Это подробное фактическое посещение."
         }
       ],
       "place_visits": []
@@ -10471,24 +10155,7 @@
     },
     "content/europe/portugal/honeymoon-2017/praia-das-catedrais-gijon/index.md": {
       "source_review": "read",
-      "visits": [
-        {
-          "id": "gijon--bazilika-svyatogo-serdtsa",
-          "event": "entered",
-          "participants": [
-            "Сергей",
-            "Леля"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 259,
-              "quote": "Очень нам еще понравилась  иезуитская Базилика Святого Сердца. В строительстве церкви принимал участие каталонский архитектор - последователь А. Гауди, и этим объясняется некоторая \"нестандартность\" её вида. А на церкви, на высоте 50 метров установлена 8-метровая 32-тонная скульптура Христа из белого каррарского мрамора. Жаль она стоит на узкой улице и ее не видно издалека. Изнутри не менее интересная!"
-            }
-          ],
-          "report": "reviews/source-audit/trips/honeymoon-2017.json",
-          "note": "Описана как интересная и снаружи, и изнутри. Статуя Христа на крыше — часть базилики."
-        }
-      ],
+      "visits": [],
       "place_visits": [
         {
           "id": "praia-das-catedrais",
@@ -10543,22 +10210,6 @@
     "content/europe/portugal/honeymoon-2017/oviedo/index.md": {
       "source_review": "read",
       "visits": [
-        {
-          "id": "oviedo--bazilika-san-khuan-el-real",
-          "event": "visited_entry_unspecified",
-          "participants": [
-            "Сергей",
-            "Леля"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 285,
-              "quote": "Начали мы с Церкови Святого Хуана (Basílica de San Juan El Real), построена она всего в 1912 году, но тут венчался и крестил дочь Франко и поэтому место очень \"раскрученное\" ;-)"
-            }
-          ],
-          "report": "reviews/source-audit/trips/honeymoon-2017.json",
-          "note": "Названа первой точкой прогулки, дана история. Точный объём внутреннего осмотра не установлен."
-        },
         {
           "id": "oviedo--kafedralnyy-sobor-ovedo",
           "event": "exterior_closed",
@@ -10732,22 +10383,6 @@
           ],
           "report": "reviews/source-audit/trips/honeymoon-2017.json",
           "note": "Вошли оба; Леля позже ждала в холле, Сергей продолжал изучать экспозицию. Леля не исключается из музейного посещения из-за меньшего интереса."
-        },
-        {
-          "id": "leon--bazilika-svyatogo-isidora",
-          "event": "entered_guided_fresco_visit",
-          "participants": [
-            "Сергей",
-            "Леля"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 472,
-              "quote": "Потом посетили еще одну святыню Леона - Базилику Святого Исидора с фресками - 11 век. Смотришь и диву даешься КАКОЙ скачок между 11 и 13. Это очень ценные фрески и запускают внутрь только группами с экскурсоводом несколько раз в день. Нам посчастливилось попасть на испаноговорящую экскурсию. Ничего не поняли, но посмотрели. И даже подпольно пару снимков сделали, ибо как Лешка сказал: \"Не сфоткал - как и не был\". Очень точно для нашего времени! Мне фрески напомнили наши соборы по маршруту \"Золотое кольцо\". Даже интересно как по времени соотносятся."
-            }
-          ],
-          "report": "reviews/source-audit/trips/honeymoon-2017.json",
-          "note": "Попали на испаноязычную групповую экскурсию к фрескам. Непонимание языка не отменяет входа."
         }
       ],
       "place_visits": [
@@ -11221,22 +10856,6 @@
       "source_review": "read",
       "visits": [
         {
-          "id": "viana-do-castelo--misericordia",
-          "event": "entered",
-          "participants": [
-            "Сергей",
-            "Леля"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 869,
-              "quote": "Центральная площадь Республики - гранитный фонтан, готическая ратуша и первый в Португалии Дом милосердия, который построен в 1589 году по приказу королевы. Он обалденно красивый и интересный внутри! Вместо росписи, пано из плитки с изображением религиозных сцен. "
-            }
-          ],
-          "report": "reviews/source-audit/trips/honeymoon-2017.json",
-          "note": "Прямо описан интересный интерьер здания на центральной площади. Фонтан и ратуша вокруг не становятся дополнительными точками."
-        },
-        {
           "id": "viana-do-castelo--muzey-kostyuma",
           "event": "entered",
           "participants": [
@@ -11307,22 +10926,6 @@
     "content/europe/portugal/honeymoon-2017/porto-1/index.md": {
       "source_review": "read",
       "visits": [
-        {
-          "id": "porto--tserkov-svyatogo-frantsiska",
-          "event": "entered",
-          "participants": [
-            "Сергей",
-            "Леля"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 913,
-              "quote": "Заселились и пошли смотреть окрестности. Около нас оказалась церковь св.Франциска, она же бывшая штаб-квартира францисканского ордена. Снаружи готика, внутри золото - там большое захронение богатых семей Порто - натащили :)"
-            }
-          ],
-          "report": "reviews/source-audit/trips/honeymoon-2017.json",
-          "note": "Описано золото внутри и захоронения. Отдельный храмовый музей не приписывается без рассказа о нём."
-        },
         {
           "id": "porto--dvorets-birzhi",
           "event": "entered",
@@ -11395,22 +10998,6 @@
           "note": "Центральный вокзал специально показан в самостоятельном маршруте. Не приписывается поездка с этого вокзала."
         },
         {
-          "id": "porto--tserkov-klerigush",
-          "event": "visited_tower_not_climbed",
-          "participants": [
-            "Сергей",
-            "Леля"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 963,
-              "quote": "А мы движемся дальше вверх к церкви клириков с самой высокой башней (Clérigos Church). Говорят виды... Но мы к концу путешествия дружно проголосовали вверх не лезть. А в самой церкви была свадьба!"
-            }
-          ],
-          "report": "reviews/source-audit/trips/honeymoon-2017.json",
-          "note": "Подошли к церкви, в которой была свадьба; башню решили не посещать. Точный объём внутреннего осмотра не заявлен."
-        },
-        {
           "id": "porto--lello-bookshop",
           "event": "entered_in_turns",
           "participants": [
@@ -11425,22 +11012,6 @@
           ],
           "report": "reviews/source-audit/trips/honeymoon-2017.json",
           "note": "Оба заплатили и по очереди заходили из-за рюкзака. Отрицательная оценка ажиотажа не отменяет входа."
-        },
-        {
-          "id": "porto--carmo-carmelitas",
-          "event": "exterior",
-          "participants": [
-            "Сергей",
-            "Леля"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 971,
-              "quote": "Зато потом какая площадь! Фонтан! И церковь! Вернее две разные. По закону раньше нельзя было двум церквям иметь общую стену - между ними домик в метр ширину :) Справа мужская - монашеская, слева женская - кармелиток :)"
-            }
-          ],
-          "report": "reviews/source-audit/trips/honeymoon-2017.json",
-          "note": "Названы в следующем абзаце (972), описаны две соседние церкви и разделяющий дом. Дом шириной в метр не отдельная точка; вход в церкви не утверждается."
         },
         {
           "id": "porto--muzey-soaresha-dush-reysha",
@@ -11480,38 +11051,6 @@
     "content/europe/portugal/honeymoon-2017/porto-3/index.md": {
       "source_review": "read",
       "visits": [
-        {
-          "id": "porto--tserkov-svyatogo-ildefonso",
-          "event": "exterior",
-          "participants": [
-            "Сергей",
-            "Леля"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 992,
-              "quote": "Церковь Святого Ильдефонсо"
-            }
-          ],
-          "report": "reviews/source-audit/trips/honeymoon-2017.json",
-          "note": "Названа как часть утреннего осмотра голубых фасадов. Вход не приписывается."
-        },
-        {
-          "id": "porto--capela-das-almas",
-          "event": "exterior",
-          "participants": [
-            "Сергей",
-            "Леля"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 997,
-              "quote": "На стенах часовни Алмаш жития св. Екатерины и св. Франциска:"
-            }
-          ],
-          "report": "reviews/source-audit/trips/honeymoon-2017.json",
-          "note": "Прямо названа в подписи с описанием наружных азулежу. Не случайно узнанное по фотографии здание."
-        },
         {
           "id": "porto--ramos-pinto",
           "event": "entered_and_guided_tour",
@@ -11883,24 +11422,6 @@
           ],
           "report": "reviews/source-audit/trips/iberia-2022.json",
           "note": "Подробное впечатление от света и витражей и аудиогид подтверждают внутренний осмотр."
-        },
-        {
-          "id": "leon--bazilika-svyatogo-isidora",
-          "event": "exterior_entry_unconfirmed",
-          "participants": [
-            "Леля",
-            "Наташа",
-            "Ома"
-          ],
-          "evidence": [
-            {
-              "source_record_index": 159,
-              "source_attachment_path": "attachments.0.data.12.media.description",
-              "quote": "Базилика святого Исидора - один из наиболее почитаемых в Испании образцов романского искусства. Она является одной из первых христианских церквей города (датируется IX в.)"
-            }
-          ],
-          "report": "reviews/source-audit/trips/iberia-2022.json",
-          "note": "Авторская историческая подпись перенесена в рассказ. На фоне явного закрытия прочих мест не утверждается вход в базилику, музей или пантеон."
         }
       ],
       "place_visits": [
@@ -12163,6 +11684,597 @@
           ],
           "report": "reviews/source-audit/trips/iberia-2022.json",
           "note": "Большая самостоятельная последовательность 3 июля в середине фотоглавы. Подтверждён клуатр, не все музеи и закрытые части монастыря."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/italy/italy-2022/rome-arrival/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "rome",
+          "event": "guided_city_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 153,
+              "source_paragraph": 4,
+              "quote": "И оказалась приятная экскурсия"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Экскурсия состоялась после прилёта, хотя заранее сомневались в силах. Лиссабон и Амстердам сравнения прежних поездок."
+        }
+      ]
+    },
+    "content/europe/italy/italy-2022/vatican-fountains/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "vatican--sobor-svyatogo-petra",
+          "event": "entered_basilica",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 152,
+              "source_paragraph": 3,
+              "quote": "сразу в собор святого Петра"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Все трое внутри утром почти без толпы."
+        },
+        {
+          "id": "vatican--muzei-vatikana",
+          "event": "entered_museums",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 152,
+              "source_paragraph": 6,
+              "quote": "толпой в музеях  Ватикана"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Вошли раньше времени билета, несмотря на толпу; мало фото не означает отсутствие посещения. Отдельные отделы не приписаны без текста."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/italy/italy-2022/colosseum/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "colosseum",
+          "event": "entered_arena",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 151,
+              "source_paragraph": 1,
+              "quote": "Митька затащил нас сегодня внутрь"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Первый внутренний осмотр автора после прежних внешних; подземный специальный тур не приписан."
+        },
+        {
+          "id": "castel-sant-angelo",
+          "event": "entered_castle",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 151,
+              "source_paragraph": 6,
+              "quote": "вечером Серега по замку Ангела"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Толщина стен и вид с замка в подписях подтверждают внутренний маршрут; не только вид моста."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/italy/italy-2022/rome-churches/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": []
+    },
+    "content/europe/italy/italy-2022/borghese/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "galleria-borghese",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 149,
+              "source_paragraph": 5,
+              "quote": "Достойное завершение Римской программы"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Повторный музейный визит всех троих; скульптуры Бернини и римские мозаики часть коллекции."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/italy/italy-2022/orvieto/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "orvieto--sobor-orvieto",
+          "event": "entered_cathedral",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 148,
+              "source_paragraph": 5,
+              "quote": "Внутри собор сначала теряется"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Фасад и интерьер реально осмотрены; городская прогулка отдельной географической связью сохранена."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "sacro-bosco",
+          "event": "visited_park",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 148,
+              "source_paragraph": 1,
+              "quote": "заехали в Парк Монстров - Sacro Bosco"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Посещение состоялось, несмотря на слабое впечатление."
+        }
+      ]
+    },
+    "content/europe/italy/italy-2022/monte-oliveto/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "monte-oliveto-maggiore",
+          "event": "entered_abbey",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 147,
+              "source_paragraph": 2,
+              "quote": "Единственная культурная точка по дороге - Abbazia di Monte Oliveto Maggiore"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Реально осмотрели двор, храм и фрески; Леля тоже присутствовала, хотя аудиогиды были у Сергея и Мити. Все 17 подписей прочитаны."
+        }
+      ]
+    },
+    "content/europe/italy/italy-2022/florence-uffizi/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "santa-croce-florence",
+          "event": "entered_church",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 146,
+              "source_paragraph": 4,
+              "quote": "провели 1.5 часа"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Церковь посетили с аудиогидами; могилы великих людей части комплекса."
+        },
+        {
+          "id": "uffizi",
+          "event": "guided_gallery_visit",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 146,
+              "source_paragraph": 11,
+              "quote": "Уфицци мы сегодня смотрели со специалистом"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Экскурсия состоялась, покупка билетов подтверждена последующим рассказом."
+        },
+        {
+          "id": "florence--palatstso-vekko",
+          "event": "entered_palace",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 146,
+              "source_attachment_path": "attachments.0.data.15.media.description",
+              "quote": "\"Зал 500, роспись заказывали Да Винчи и Микеланджело, но дальше экскизов дело не пошло, Великие умотали на заработки в другие места, а зал расписал Джоржо Вазари. И по мне весьма успешно..\""
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "После Уффици самостоятельный осмотр дворца; внутренний зал подтверждён авторской подписью."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/italy/italy-2022/florence-pitti/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "palazzo-pitti",
+          "event": "entered_palace_gallery",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 145,
+              "source_paragraph": 2,
+              "quote": "ходили во дворец Питти и его музеи"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Дворец с художественной коллекцией, без приписывания входа во все возможные отделы и сады Боболи."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/italy/italy-2022/florence-duomo/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "florence--sobor-santa-mariya-del-fore",
+          "event": "dome_climb",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 144,
+              "source_paragraph": 2,
+              "quote": "Поднялись на купол Дуомо"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Подъём состоялся, в том числе Сергей описал 463 ступеньки."
+        },
+        {
+          "id": "florence--muzey-opera-del-duomo",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 144,
+              "source_attachment_path": "attachments.0.data.18.media.description",
+              "quote": "Донателло - Мария Магдалина. Дерево.\nВ музее собора"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Музейный эпизод явно подписан автором «В музее собора», ранее связь пропущена."
+        },
+        {
+          "id": "bargello",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 144,
+              "source_paragraph": 5,
+              "quote": "мы пошли в мой любимый и очень уникальный музей скульптуры"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Самостоятельный музейный визит, скульптуры не места на карте."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/italy/italy-2022/medici-chapel/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "medici-chapels",
+          "event": "entered_chapels",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 143,
+              "source_paragraph": 1,
+              "quote": "Нашим завершающий аккордом была капела Медичи"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Вошли все трое; погребения и мозаика части комплекса."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/italy/italy-2022/accademia-stibbert/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "galleria-accademia",
+          "event": "entered_museum",
+          "participants": [
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 142,
+              "source_paragraph": 1,
+              "quote": "я встала в 7 и перед отъездом побежала смотреть Давида"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Первоначально исключила из плана, но утром всё-таки посетила одна; Сергей и Митя не добавлены."
+        },
+        {
+          "id": "museo-stibbert",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 142,
+              "source_paragraph": 5,
+              "quote": "На выезде из города мы заехали в Museo Stibbert"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Все трое посетили: фраза «для мальчиков» не исключает Лелю из посетителей."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/italy/italy-2022/pisa/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "pisa--pizanskiy-sobor",
+          "event": "entered_cathedral",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 141,
+              "source_paragraph": 3,
+              "quote": "А вот собор - срыв башки"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Главный комплекс реально осмотрен; подъём на башню не заявлен."
+        },
+        {
+          "id": "pisa--pizanskaya-bashnya",
+          "event": "exterior_visit",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 141,
+              "source_paragraph": 4,
+              "quote": "А башня, которая колокольня"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Главный комплекс реально осмотрен; подъём на башню не заявлен."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/italy/italy-2022/cinque-terre/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "cinque-terre",
+          "event": "boat_views_and_village_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 140,
+              "source_paragraph": 6,
+              "quote": "потом погуляли в Monterosso"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Смотрели остальные города с моря, на берег вышли гулять в Монтероссо."
+        },
+        {
+          "id": "la-spezia",
+          "event": "visited_city",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 140,
+              "source_paragraph": 6,
+              "quote": "вернулись в La Spezia"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Реальная прогулка и оценка города, не только место парковки."
+        }
+      ]
+    },
+    "content/europe/italy/italy-2022/lucca/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "lucca",
+          "event": "city_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 139,
+              "source_attachment_path": "attachments.0.data.0.media.description",
+              "quote": "Во-первых, Лукка единственный город Тосканы с полностью сохранившейся крепостной стеной! Сейчас на ней парк и пешеходные дорожки"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Прогулка по городу; стены с парком часть его общей истории."
+        }
+      ]
+    },
+    "content/europe/italy/italy-2022/pietrasanta/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "pietrasanta",
+          "event": "town_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 138,
+              "source_paragraph": 3,
+              "quote": "вечером поехали в городок Pietrasanta"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Вечерняя прогулка в городе в пяти километрах от приморской базы."
+        }
+      ]
+    },
+    "content/europe/italy/italy-2022/siena/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "siena--sienskiy-sobor",
+          "event": "entered_cathedral_complex",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 137,
+              "source_paragraph": 6,
+              "quote": "И конечно жемчужина Сиены - собор"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Внутри осмотрели открытые мраморные полы, скульптуры и библиотеку; не отдельная точка на каждого художника."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/italy/italy-2022/tivoli/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "tivoli--villa-d-este",
+          "event": "entered_villa_and_gardens",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 136,
+              "source_paragraph": 4,
+              "quote": "Ну и поехали с Серегой за культурой"
+            }
+          ],
+          "report": "reviews/source-audit/trips/italy-2022.json",
+          "note": "Вилла, фрески и парк с фонтанами осмотрены только родителями. Митя в другом месте."
         }
       ],
       "place_visits": []
@@ -12717,22 +12829,7 @@
     },
     "content/europe/england/london-2022/legal-london/index.md": {
       "source_review": "read",
-      "visits": [
-        {
-          "id": "temple-church",
-          "event": "visited_entry_unspecified",
-          "participants": null,
-          "evidence": [
-            {
-              "source_record_index": 130,
-              "source_paragraph": 1,
-              "quote": "церковь Тамплиеров"
-            }
-          ],
-          "report": "reviews/source-audit/trips/london-2022.json",
-          "note": "Остановка юридической экскурсии; текст не уточняет вход внутрь."
-        }
-      ],
+      "visits": [],
       "place_visits": [
         {
           "id": "london",
@@ -13452,50 +13549,12 @@
     },
     "content/americas/mexico/mexico-2015/resort/index.md": {
       "source_review": "read",
-      "visits": [
-        {
-          "id": "riviera-maya--grand-sirenis",
-          "event": "stayed",
-          "participants": [
-            "Леля",
-            "Сергей",
-            "Наташа",
-            "Митя"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 33,
-              "quote": "Теперь про отель отдельно хочу написать (<b>Grand Sirenis Riviera Maya</b>). Чем же нас так «пробрали»? Еще замечу, что первый раз у меня довольно много фотографий получилось «с моря». Обычно их раз-два и все, т.к. на пляж с фотоаппаратом ну один раз за отпуск специально выйдешь и все. А в наши дни человек без телефона... ну это как без плавок выйти! Поэтому гуляешь по территории и снимаешь все что кажется интересным :-)"
-            }
-          ],
-          "report": "reviews/source-audit/trips/mexico-2015.json",
-          "note": "Отель назван, ему посвящена подробная глава. Бассейны, ленивая река, пляж, клуб, игровые комнаты, шоу и питание — части одного курортного комплекса."
-        }
-      ],
+      "visits": [],
       "place_visits": []
     },
     "content/americas/mexico/mexico-2015/dolphins/index.md": {
       "source_review": "read",
-      "visits": [
-        {
-          "id": "riviera-maya--grand-sirenis",
-          "event": "watched_show",
-          "participants": [
-            "Леля",
-            "Сергей",
-            "Наташа",
-            "Митя"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 118,
-              "quote": "Именно в нашем отеле, на окраине находился дельфинарий, где каждый день были представления. Мы сначала с Серегой сходили “на разведку” (надо же гулять). Помимо бесплатных представлений, там еще предлагается очень недешевый аттракцион - купание с дельфинами. Но мы со стороны посмотрели и как-то не впечатлились. Собирают большую группу, заводят ее в воду, подводят дельфина и по очереди то потрогать дают, то погладить… Короче за 40-60 минут в воде ты реально с дельфином “общаешься” минут 5, ну 10… А если ЕЩЕ сильно доплатить, то тогда тебя дельфин может “поднять” из воды…"
-            }
-          ],
-          "report": "reviews/source-audit/trips/mexico-2015.json",
-          "note": "Дельфинарий описан как часть того же отеля, без отдельной выдуманной торговой марки. Сначала Леля и Сергей пришли на разведку, затем вся семья посмотрела бесплатное шоу."
-        }
-      ],
+      "visits": [],
       "place_visits": []
     },
     "content/americas/mexico/mexico-2015/coba-tulum/index.md": {
@@ -14192,24 +14251,6 @@
           "note": "Отдельная прогулка по району; фонтан с койотами часть её контекста."
         },
         {
-          "id": "mexico-city--tserkov-san-khuan-bautista",
-          "event": "entered_church",
-          "participants": [
-            "Леля",
-            "Сергей",
-            "Ома"
-          ],
-          "evidence": [
-            {
-              "source_record_index": 55,
-              "source_paragraph": 0,
-              "quote": "Очень красиво внутри"
-            }
-          ],
-          "report": "reviews/source-audit/trips/mexico-2025.json",
-          "note": "Внутреннее посещение прямо подтверждено."
-        },
-        {
           "id": "mexico-city--dom-muzey-trotskogo",
           "event": "entered_museum",
           "participants": [
@@ -14226,6 +14267,32 @@
           ],
           "report": "reviews/source-audit/trips/mexico-2025.json",
           "note": "Вошли, осмотрели экспозицию и могилу; выставка Ленина не другое учреждение."
+        },
+        {
+          "id": "palacio-bellas-artes",
+          "event": "attended_folkloric_ballet",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 55,
+              "source_paragraph": 4,
+              "quote": "мы пошли на балет"
+            },
+            {
+              "photo": "coyoacan-ballet/20250216_194313.jpg",
+              "observation": "Здание Дворца изящных искусств в вечернем эпизоде."
+            },
+            {
+              "photo": "coyoacan-ballet/20250216_201613.jpg",
+              "observation": "Зрительный зал Дворца изящных искусств с характерным стеклянным занавесом."
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Рассказ о посещённом балете дополнен двумя проверенными представителями серии: семья перед Дворцом изящных искусств и его зрительный зал с характерным стеклянным занавесом. Это место описанного спектакля, не случайный вид соседнего здания."
         }
       ],
       "place_visits": []
@@ -16391,42 +16458,6 @@
       "source_review": "read",
       "visits": [
         {
-          "id": "lisbon--tserkov-svyatogo-rokha",
-          "event": "entered",
-          "participants": [
-            "Сергей",
-            "Леля",
-            "Наташа",
-            "Митя"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 110,
-              "quote": "Церковь святого Роха (Igreja de São Roque) - первая в Португалии и одна из первых церквей ордена иезуитов в мире, скромная снаружи (как большинство Португальских церквей), просто покоряет своим убранством! Но без Юли мы бы просто зашли, восхитились и вышли, а она подвела нас к разным пределам и рассказала и про уникальное дерево, и про каменную мозаику (она прямо выдолблена!), показала чем португальское барокко отличается от обычного,  и главное про самый уникальный предел Иоанна Крестителя, который по заказу короля Жуана V был сделан в Италии в 1742 году, там освящен папой Римским и потом собран по месту в Лиссабоне. Все сделано лучшим мастерами из лучших материалов. Мозаичные панно, люстра, колонны из полудрагоценных камней - это была самая дорогая капелла своего времени. То были времена расцвета Португалии, когда из Бразилии везли золото кораблями :-)"
-            }
-          ],
-          "report": "reviews/source-audit/trips/portugal-spain-2016.json",
-          "note": "Подробно осмотрели с гидом капеллы и убранство. Капелла Иоанна Крестителя — часть церкви."
-        },
-        {
-          "id": "lisbon--tserkov-san-domingush",
-          "event": "entered",
-          "participants": [
-            "Сергей",
-            "Леля",
-            "Наташа",
-            "Митя"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 124,
-              "quote": "Еще одна уникальная церковь, опять же совершенно непритязательная снаружи, это как-бы “памятник” упомянутому землетрясению - Igreja de São Domingos. Внутри при восстановлении использовались камни после землетрясения и очень необычное впечатление внутри…"
-            }
-          ],
-          "report": "reviews/source-audit/trips/portugal-spain-2016.json",
-          "note": "Рассказ прямо описывает интерьер после землетрясения."
-        },
-        {
           "id": "lisbon--museu-fado",
           "event": "entered",
           "participants": [
@@ -16983,24 +17014,6 @@
           "note": "Прямо описаны вход и музей ритуальных вещей; это музейное посещение, а не только вид храма."
         },
         {
-          "id": "toledo--tserkov-santo-tome",
-          "event": "entered_to_view_painting",
-          "participants": [
-            "Сергей",
-            "Леля",
-            "Наташа",
-            "Митя"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 733,
-              "quote": "Все в Толедо связано с именем Эль Греко, Там есть дом-музей, но нам его не очень рекомендовали, т.к. картин там почти нет. Зато мы имели уникальную возможность увидеть знаменитую картину Эль Греко “Погребение графа Оргаса” в церкви Санта-Тома. Это было наше первое знакомство с испанской живописью на территории страны.  И это как-то все настроило нас на правильный ряд. Картина поистине необычна и интересна, и висит на том месте, куда была предназначена (а я стала ценить такие вещи). "
-            }
-          ],
-          "report": "reviews/source-audit/trips/portugal-spain-2016.json",
-          "note": "Видели полотно в предназначенном ему месте в церкви. Картина не отдельное посещение."
-        },
-        {
           "id": "toledo-cathedral",
           "event": "entered",
           "participants": [
@@ -17536,23 +17549,6 @@
           "note": "Осмотр внутри подтверждён описанием витража и мощей. К раке Вацлава не подходили вплотную, на башню не заявлен подъём."
         },
         {
-          "id": "prague--bazilika-svyatogo-georgiya",
-          "event": "visited_extent_unspecified",
-          "participants": [
-            "Сергей",
-            "Леля"
-          ],
-          "evidence": [
-            {
-              "source_record_index": 125,
-              "source_attachment_path": "attachments.0.data.24.media.description",
-              "quote": "Мощи Св. Людмилы (христианской бабушки Вацлава) покоятся в Храме Св. Георгия, это старинная церковь романского стиля."
-            }
-          ],
-          "report": "reviews/source-audit/trips/prague-vienna-2023.json",
-          "note": "Прямое собственное имя в авторской подписи; объём внутреннего осмотра подробно не установлен."
-        },
-        {
           "id": "prague--mala-strana",
           "event": "walked",
           "participants": [
@@ -17952,19 +17948,6 @@
           ],
           "report": "reviews/source-audit/trips/quebec-montreal-2003.json",
           "note": "Рассказ, орёл и маркировка на mq_0006. Севастополь — происхождение пушек, не посещение в 2003."
-        },
-        {
-          "id": "sainte-anne-de-beaupre--bazilika-sent-ann-de-bopre",
-          "event": "visited",
-          "participants": null,
-          "evidence": [
-            {
-              "source_paragraph": 11,
-              "quote": "А там просто красотища! Еще мы видели по дороге очень большой и живописный водопад (намного интереснее «нашего» Ниагарского ;-)). Сначала мы посетили собор (который открывается аж в 6:30). В нем даже в такое раннее время было очень много поломников и молящихся. Причем интересно очень наблюдать, как люди со всего света сидят на лавках или стоят на коленях на этих специальных подставках и каждый молится на своем языке! Мы больше чуствовали себя как туристы, хотя Наташка зажгла огромную свечку в честь своей сестрички Анечки и мы за нее помолились. В панормму, согласно плану, мы пришли к самому открытию и были первыми. Поэтому нам любезно поставили кассету с сопроводительным рассказом на русском языке! Обычно там варианты: фр., англ, испанский. Остальные надо заказывать особо (для групп больших). А тут услышали нашу русскую речь и предложили сами нам русский комментарий. Было приятно :-) Правда остальным посетителям пришлось это все тоже на русском слушать :-) После этого мы двинулись в сторону Монреаля, это где-то 300 км. Прибыли, расселились. Заказанный нами «бэд анд брекфест» оказался не настолько хорош, как он себя рекламирует :-( Но не без этого конечно. Наташка даже сначала ходила со «страшными глазами» и спрашивала: «Мама, а ты уверена что здесь хорошие люди живут?». Правда когда на следующее утро ее кормили свежевыпеченными круасанами, то она кричала что лучшей гостиницы нет на свете :-) После приезда мы выполнили большую часть программы по Монреалю."
-            }
-          ],
-          "report": "reviews/source-audit/trips/quebec-montreal-2003.json",
-          "note": "Вошли, Наташа зажгла свечу; присутствие молящихся не означает участие семьи в богослужении."
         },
         {
           "id": "sainte-anne-de-beaupre--ierusalimskaya-panorama",
@@ -18481,24 +18464,6 @@
           ],
           "report": "reviews/source-audit/trips/rockies-2018.json",
           "note": "Именованное озеро в рассказе."
-        },
-        {
-          "id": "banff--fairmont-banff-springs",
-          "event": "visited_entry_extent_unspecified",
-          "participants": [
-            "Ома",
-            "Сергей",
-            "Леля",
-            "Митя"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 0,
-              "quote": "И дошли до известной гостиницы Fairmont Banff Springs"
-            }
-          ],
-          "report": "reviews/source-audit/trips/rockies-2018.json",
-          "note": "Не приписывается ночёвка: жили в другом месте. Фраза «можно гулять» сама по себе не доказывает осмотр всех внутренних залов."
         }
       ],
       "place_visits": [
@@ -19008,22 +18973,6 @@
           "note": "Поднялись и любовались видами. Копия Давида — часть площади."
         },
         {
-          "id": "florence--bazilika-san-miniato-al-monte",
-          "event": "visited",
-          "participants": [
-            "Леля",
-            "Марина"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 169,
-              "quote": "И думаете дальше пошли вниз? Нет! Вверх! В одном из отчетов советовали подняться еще выше к церкви Сан-Миниато-аль-Монте (Basilica di San Miniato al Monte). Там и вид на город еще более красивый и сама церковь потрясающая! “В 1018 году епископ Гильдебранд решил воздвигнуть здесь церковь, которая долгое время считалась самой красивой в городе.Это одна из немногих средневековых церквей во Флоренции, которую архитекторы Возрождения не тронули. Только Баччо д’Аньоло соорудил новую колокольню взамен рухнувшей,Микеланджело во время осады 1530 года превратил в крепость стоящий тут же бенедиктинский монастырь, а Джузеппе Поджи пристроил огромную беломраморную лестницу…” Потрясающий город, тут куда не зайди, везде ТАКИЕ имена! "
-            }
-          ],
-          "report": "reviews/source-audit/trips/rome-2015-2016.json",
-          "note": "Поднялись ещё выше, есть рассказ о церкви и видах. Не добавляется отдельный монастырь или кладбище по соседству."
-        },
-        {
           "id": "santa-croce-florence",
           "event": "entered",
           "participants": [
@@ -19045,22 +18994,6 @@
     "content/europe/italy/rome-2015-2016/florence-duomo/index.md": {
       "source_review": "read",
       "visits": [
-        {
-          "id": "florence--florentiyskiy-baptisteriy",
-          "event": "entered",
-          "participants": [
-            "Леля",
-            "Марина"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 210,
-              "quote": " Лил дождик, мы как-то без очереди купли билет, который включает в себя все основные достопримечательности площади. Мы решили пойти в хронологическом порядке и мне кажется это было правильное решение. Сначала мы пошли в Баптистерий, раньше крестить было принято в отдельном помещении-церкви. В этом Баптистерии крестили всех флорентийцев вплоть до 19 века, а построен он был в 11-12 веках!!! Это одно из самых старых зданий города. Внутри на куполе мозаика 13 века и вообще тут все очень классическое, “до ренессансное”, так как МЫ привыкли видеть. Вообще иконопись древняя итальянская “на одно лицо” с нашей православной. Лично я даже не ожидала такой красоты внутри, т.к. снаружи он как-то не отличается сильно от центрального собора. "
-            }
-          ],
-          "report": "reviews/source-audit/trips/rome-2015-2016.json",
-          "note": "Вошли первыми по единому билету, описаны мозаика и двери. Не отдельная точка каждой пары дверей."
-        },
         {
           "id": "florence--sobor-santa-mariya-del-fore",
           "event": "entered_and_dome_climb",
@@ -19257,24 +19190,6 @@
           "note": "Очередь остановила от входа, прямо решили ограничиться наружным осмотром. Общий ID Колизея используется и для других лет."
         },
         {
-          "id": "rome--santa-mariya-madzhore",
-          "event": "entered",
-          "participants": [
-            "Леля",
-            "Марина",
-            "Наташа",
-            "Лиза"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 435,
-              "quote": "Санта-Мария-Маджоре (Basilica di S.Maria Maggiore)  -  самая большая церковь в Риме, как сказал нам путеводитель. Я сначала возмутилась, мол как же Собор святого Петра, а потом вспомнила, что он в Ватикане :-) Очень красиво внутри!"
-            }
-          ],
-          "report": "reviews/source-audit/trips/rome-2015-2016.json",
-          "note": "Подробный рассказ об интерьере и исповедальнях подтверждает вход."
-        },
-        {
           "id": "galleria-borghese",
           "event": "entered",
           "participants": [
@@ -19400,22 +19315,6 @@
           ],
           "report": "reviews/source-audit/trips/rome-2015-2016.json",
           "note": "Вечером вернулись к фонтану, съели желатто и гуляли."
-        },
-        {
-          "id": "rome--bazilika-santa-prassede",
-          "event": "entered",
-          "participants": [
-            "Леля",
-            "Марина"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 721,
-              "quote": "Правда по дороге попался магазин с муранским стеклом и… на одну церковь (San Pietro in Vincoli - там Моисей Микеланджело) времени потом не хватило :-) Но вот Santa Prassede мы посмотрели. Она находится совсем-совсем рядом от "
-            }
-          ],
-          "report": "reviews/source-audit/trips/rome-2015-2016.json",
-          "note": "Леля и Марина оставили девочек и сходили вдвоём; подробно описана византийская мозаика."
         }
       ],
       "place_visits": []
@@ -19454,22 +19353,6 @@
           ],
           "report": "reviews/source-audit/trips/rome-2015-2016.json",
           "note": "Вошли после собора по единому билету; экспонаты и часовня входят в музей."
-        },
-        {
-          "id": "milan--santa-mariya-delle-gratsie",
-          "event": "church_entry_and_cenacolo_visit",
-          "participants": [
-            "Леля",
-            "Марина"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 830,
-              "quote": "Метро-навигатор- темные дождливые улицы… Мы даже не знали толком что мы ищем. Видим - церковь. Пришли. Показали билеты (волновались, что не на официальном сайте брали) - все в порядке. Вот ваша группа, ждите 30 минут. Пошли внутрь церкви. Там служба, поют братья! И очень необычно сидит исповедник. Не в закрытой кабинке, а за столом и к нему люди подходят и встают на колени… Явно что-то не так :-) Стали читать материалы (дома не подготовились), оказывается фреска создана в доминиканском монастыре Санта-Мария-делле-Граци. Сама фреска нарисована в трапезной, которую разбомбили во время 2 мировой. И хотя не стало крыши и каких-то стен, но стена с фреской не пострадала! "
-            }
-          ],
-          "report": "reviews/source-audit/trips/rome-2015-2016.json",
-          "note": "Вошли в церковь во время службы, затем по билетам и с гидом осмотрели «Тайную вечерю» в трапезной (840). Само произведение не отдельное посещение."
         }
       ],
       "place_visits": [
@@ -19557,24 +19440,6 @@
           ],
           "report": "reviews/source-audit/trips/south-america-2026.json",
           "note": "Фраза продолжает «зашли»; реальный внутренний осмотр."
-        },
-        {
-          "id": "santiago-chile--tserkov-svyatogo-frantsiska",
-          "event": "entered_church",
-          "participants": [
-            "Леля",
-            "Сергей",
-            "Митя"
-          ],
-          "evidence": [
-            {
-              "source_record_index": 27,
-              "source_paragraph": 13,
-              "quote": "Стены каменные, а все остальное дерево"
-            }
-          ],
-          "report": "reviews/source-audit/trips/south-america-2026.json",
-          "note": "Самостоятельный рассказ об осмотре устройства церкви."
         }
       ],
       "place_visits": [
@@ -19680,26 +19545,7 @@
           "note": "Реконструированное поселение, кактусовый сад в составе комплекса; отдельный ботсад по каждой коллекции не создан."
         }
       ],
-      "place_visits": [
-        {
-          "id": "uquia-church",
-          "event": "entered_church",
-          "participants": [
-            "Леля",
-            "Сергей",
-            "Митя"
-          ],
-          "evidence": [
-            {
-              "source_record_index": 25,
-              "source_paragraph": 13,
-              "quote": "Iglesia San Francisco de Paula в Uquía"
-            }
-          ],
-          "report": "reviews/source-audit/trips/south-america-2026.json",
-          "note": "Подробно описаны увиденные картины; фотографировать нельзя. Отсутствие фото не отменяет визит."
-        }
-      ]
+      "place_visits": []
     },
     "content/americas/argentina/south-america-2026/hornocal/index.md": {
       "source_review": "read",
@@ -20627,24 +20473,6 @@
       "source_review": "read",
       "visits": [
         {
-          "id": "teruel--tserkov-svyatogo-petra",
-          "event": "entered_complex",
-          "participants": [
-            "Ома",
-            "Сергей",
-            "Леля",
-            "Наташа"
-          ],
-          "evidence": [
-            {
-              "source_paragraph": 4,
-              "quote": "церковь Святого Петра, при которой они лежат"
-            }
-          ],
-          "report": "reviews/source-audit/trips/teruel-2025.json",
-          "note": "Церковь и мавзолей — один посещённый комплекс; две скульптуры не отдельные объекты."
-        },
-        {
           "id": "teruel--catedral-santa-maria",
           "event": "visited_interior_described_in_author_caption",
           "participants": [
@@ -21487,22 +21315,6 @@
           ],
           "report": "reviews/source-audit/trips/vancouver-2023.json",
           "note": "Изображение ангела с солдатом сопоставлено с городским реестром искусства."
-        },
-        {
-          "id": "vancouver--le-soleil-hotel",
-          "event": "entered",
-          "participants": null,
-          "evidence": [
-            {
-              "photo": "vancouver/20230210_092426.jpg"
-            },
-            {
-              "source_attachment_path": "attachments.0.data.22.media.description",
-              "quote": "Le Soleil hotel"
-            }
-          ],
-          "report": "reviews/source-audit/trips/vancouver-2023.json",
-          "note": "Имя дано в исходной подписи к собственному снимку интерьера. Вход в вестибюль подтверждён; ночлег в этом отеле не утверждается."
         }
       ],
       "place_visits": [
@@ -21803,22 +21615,6 @@
     "content/americas/usa/washington-philadelphia-2008/washington/index.md": {
       "source_review": "read",
       "visits": [
-        {
-          "id": "washington-dc--omni-shoreham",
-          "event": "overnight",
-          "participants": null,
-          "evidence": [
-            {
-              "source_paragraph": 22,
-              "quote": "Еще полгода назад наши друзья стали подбивать нас съездить на выходные перед школой в Вашингтон-Филадельфию. Мы договорились с мамой что она посидит дома с Митькой (мама пока не выездная в Штаты), а мы втроем съездим. Как обычно и бывает в последний момент друзья нас «кинули» :-Р и мы остались одни. Ехать не очень хотелось. Причин «не ехать» было много. И одни остались, и финансово истрепались с ремонтами за лето, и вообще именно в Штаты именно сейчас как-то не хотелось ;-)... Но поскольку я за это лето вообще никуда не выезжала, то мне хотелось все-таки как-то вырваться из дома хоть чуть-чуть. Опять же Наташку мы почти все лето не видели: она то в Европе, то на даче и мы ей обещали что поедем... Поэтому через все «не хочу» где-то за 4 дня до празников мы все-таки решили что надо ехать. И начали планировать в срочном порядке. Хорошо у нас была Катюша констультантом. Она училась в Филадельфии, была ни раз в Вашингтоне и мы ее 2 вечера по телефону доставали, получая нахаляву кучу ценной информации :-) Потом мы опробовали новый для себя сайт www.Priceline.com. В принципе в интернете полно сайтов которые находят разные предложения о скидках в гостиницах и там ты можешь выбрать что тебе подходит. Но в центре Вашингтона все приличное где-то было от 139$ за номер. А на этом сайте ты выбираешь район, выбираешь «звездность» и называешь свою цену и сразу кредитную карту даешь. Т.е. если какая-то гостиница соглашается, то ты уже купил (не зная что). Немножко страшно с одной стороны, но прикольно. Поэтому мы сели играть в эту «рулетку». И начиная с 30$ и тихонько увеличивая купили очень крутую гостиницу (Omni Shoreham Hotel) за 77$ за ночь, 4 звезды. Гостиница очень прикольная, 1930 года со всем представлением о крутизне того времени. Ходишь по ней как по музею: все в мраморе, везде люстры хрустальные, картины, цветы... Но при этом плоский большой телевизор в номере, все навороты в ванной и т.д. Короче мы очень довольны. 2 ночи мы провели в этой гостинице."
-            },
-            {
-              "photo": "washington/p8290476.jpg"
-            }
-          ],
-          "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
-          "note": "Прожили две ночи, фотографии вестибюля и сада подтверждают пребывание."
-        },
         {
           "id": "washington-dc--staryy-pochtamt",
           "event": "ascent",

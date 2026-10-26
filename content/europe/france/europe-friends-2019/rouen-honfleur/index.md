@@ -11,7 +11,7 @@ places:
 trip_days: [18]
 draft_plan: false
 hero_image: "20190831_112003.jpg"
-attractions: ["rouen--tserkov-abbatstva-sent-uan"]
+attractions: []
 ---
 
 <p>Честно говоря вчера первое впечатление было печальным. Обшарпанеый город (crazy) И после Германии и после Эльзаса и даже Реймся.</p>

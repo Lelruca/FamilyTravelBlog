@@ -11,7 +11,7 @@ hero_image: "20231022_130501.jpg"
 date: "2023-10-22"
 auto_gallery: false
 draft: false
-attractions: ["kevelaer--bazilika-svyatoy-marii"]
+attractions: []
 ---
 <p>Последние выходные мы провели с немецкой частью семьи. Как же мы душевно погостили ❤️ Надо чаще общаться с родными и близкими!</p>
 

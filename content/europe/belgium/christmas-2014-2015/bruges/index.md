@@ -9,7 +9,7 @@ places:
 hero_image: "DSC03517.jpg"
 date: 2015-01-05
 auto_gallery: false
-attractions: ["bruges--holy-blood-basilica","bruges--beginazh-bryugge"]
+attractions: ["bruges--beginazh-bryugge"]
 ---
 Брюгге...
 

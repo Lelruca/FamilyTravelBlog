@@ -11,7 +11,7 @@ hero_image: "20230523_103101.jpg"
 date: "2023-05-23"
 auto_gallery: false
 draft: false
-attractions: ["prague-castle","prague--sobor-svyatogo-vita","prague--bazilika-svyatogo-georgiya","prague--mala-strana"]
+attractions: ["prague-castle","prague--sobor-svyatogo-vita","prague--mala-strana"]
 ---
 <p>Сегодня мы были на другой стороне реки, где на горе возвышается королевский дворец и главный собор святого Вита. </p>
 

@@ -3,7 +3,7 @@
   "status": "in_progress",
   "baseline_commit": "fa414a929c95a5aa99cde29446c7b66a162ff942",
   "scope": "Every chapter in content, including drafts. Sources and photographs require separate explicit review; file discovery is not reading.",
-  "cross_worktree_scope": "pending_reconciliation_of_other_active_drafts",
+  "cross_worktree_scope": "text_reconciled_material_limits_recorded",
   "trips": [
     "content/americas/argentina/south-america-2026",
     "content/americas/canada/atlantic-canada-2014",
@@ -88,7 +88,7 @@
       "source_sha256_lf": "c658d29df885602da5ed3624e25934ba164b9963eb9c2ae2914a9703caeb701a",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
@@ -100,7 +100,7 @@
       "source_sha256_lf": "7f500f1a604489357fb3400e9b9ce00d36aad411fe6deb993971cc9bce84dd29",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
@@ -112,7 +112,7 @@
       "source_sha256_lf": "019c7194f5cff025207f72197c0ad74062ad997265711707f6db3d25d55dbbd5",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
@@ -124,7 +124,7 @@
       "source_sha256_lf": "82304052ebf90dd77066e629b6298cd23c0734725750e22f43de85ff2e1e8fcb",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
@@ -136,7 +136,7 @@
       "source_sha256_lf": "c4721382a85f206011f3424deec3caded7f2eaec470f91ecb1553fb471d764e5",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
@@ -148,7 +148,7 @@
       "source_sha256_lf": "62013b2508d31021d0a8287961f3d0b362f8fabe11828c6f26b41eaf5badd198",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
@@ -160,7 +160,7 @@
       "source_sha256_lf": "26cb133cbb8a0e907abe3acd8ba348cd3b51257926c32666f91dd757d64302fe",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
@@ -172,7 +172,7 @@
       "source_sha256_lf": "9857a188bf1d397cfc1e99ee671f2700a5c37b22fdd9a34de8b0c7ab1e731c19",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
@@ -184,7 +184,7 @@
       "source_sha256_lf": "9897e765ef2c41e612009929774f01aa399ef6119f77561aad7fd83ecbb1ecd9",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
@@ -196,7 +196,7 @@
       "source_sha256_lf": "8efa7bc0c35d816659ac777a1a597b61f8533383e26eeb3421db9d60a6a07dc2",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
@@ -208,7 +208,7 @@
       "source_sha256_lf": "de7e527716bfef435ff41f159f58ec7b237657edf34a3dd76b5e1b0aed36176d",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
@@ -217,10 +217,10 @@
       "trip_path": "content/americas/argentina/south-america-2026",
       "title": "\"Чили, Сантьяго\"",
       "draft": false,
-      "source_sha256_lf": "0793632beab34ddd42b3e548701acb874f3eae52cc915edc7aae66ae08b8b2dc",
+      "source_sha256_lf": "8b4b8c00710f518bd01a81760ea421190154b3ce4ed5112d39fc7c074a5e52e7",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
@@ -232,7 +232,7 @@
       "source_sha256_lf": "2c5a7ae7cb71a9d4c76ff292d8c425c8c1926acb5934ceb4613078c86731e48c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
@@ -241,10 +241,10 @@
       "trip_path": "content/americas/argentina/south-america-2026",
       "title": "\"Гора семи цветов и древний город Тилькара\"",
       "draft": false,
-      "source_sha256_lf": "2c8d108379a2317d37b33743d7b6975811b9dcc193fda7f6e0c4f5a3a222ef56",
+      "source_sha256_lf": "d679d753975d13bcf1219eb4e54d0fabc3c5a23b9e2ce4e37f94489ad83a1d88",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
@@ -256,7 +256,7 @@
       "source_sha256_lf": "7ddc774c758fc1334e5ef3b0762d2fd6f0235865bcb97e9e21652ce25ec144b7",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
@@ -268,7 +268,7 @@
       "source_sha256_lf": "49ed2b8409d38ecfbab260e0118f3d0566f42f33f09dd94de67f2ceef19ccce6",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -280,7 +280,7 @@
       "source_sha256_lf": "fdcf1f1e7cdc9f8b15be3f9467732a22c10fcaebbe36443cdf08520826cf67c9",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -289,10 +289,10 @@
       "trip_path": "content/americas/canada/atlantic-canada-2014",
       "title": "\"День 2 - Acadian Historical Village, Parlee beach\"",
       "draft": false,
-      "source_sha256_lf": "62d3664096f4dd8b9c79282c2b029918c33993da80609ff97b423aefed464f3a",
+      "source_sha256_lf": "0d4b213ce05080203016365297472ee52f9f8e614225e95c24cae9946fa7ac23",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -304,7 +304,7 @@
       "source_sha256_lf": "3246f9e039cf2b9e4c05f6deaeee4008a53ec25b7b3a861d0089920718163b29",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -316,7 +316,7 @@
       "source_sha256_lf": "35b9fbffeb66c32cb50f3613c3bfadcb897d9cbe37c8843c1eb67b34582d839b",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -328,7 +328,7 @@
       "source_sha256_lf": "94106fd8790996cd1ba7e8864c87106fb13151f3db7951a01ba08ba6a6624cea",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -340,7 +340,7 @@
       "source_sha256_lf": "3216e22eebb5f80bbab194a98c6216498ccf2b2f7c82830c7734b1af44dbc375",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -352,7 +352,7 @@
       "source_sha256_lf": "f21200bd1d1f5b56c56a72e1966fd5cdae43cc6162f3b774daa3ed6055535344",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -364,7 +364,7 @@
       "source_sha256_lf": "60a3d09f09a6b19bc3624a78124d85ba3bec1684a8195e4f25ee38ceb9843a37",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -376,7 +376,7 @@
       "source_sha256_lf": "7355a8fd6bda4e2686e80aaff423115d62f8c0143f0e7f1ec7fb12b4b2ec8913",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -388,7 +388,7 @@
       "source_sha256_lf": "0fcdec0aa0803a6d783172066e8bc6b36e5773e79b4f8a50ca19c397b630413d",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -400,7 +400,7 @@
       "source_sha256_lf": "c68c8c17b6fb95da219c6a5cb58e083ba59eab0089df235008501c1c0dd0b5ab",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -412,7 +412,7 @@
       "source_sha256_lf": "18f24f813acebeda21c302750b73e2b5e8fae84faa18aaccbbe375d49c5f12d6",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -424,7 +424,7 @@
       "source_sha256_lf": "8946aedcf831842d902cd37eaab5bae3b674889886f7900cad3d6dc02b385df6",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -436,7 +436,7 @@
       "source_sha256_lf": "0a178c24443726b727e96c3d7bcf84dac2c525048d81c50edae3ec37c214849f",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -448,7 +448,7 @@
       "source_sha256_lf": "b8e7347d9710c55fd212fef6fa01fae484d0de1d561bae97bb5b53cbea55cb26",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-canada-2014.json"
     },
     {
@@ -472,7 +472,7 @@
       "source_sha256_lf": "3114ace424cc2975b0322b91dbb9f09457411dcd32ab8a65de212876104ed396",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
@@ -484,7 +484,7 @@
       "source_sha256_lf": "7bb8a48fd2f8738432681e87bc273bc43da111196eae905a35fcdf8d1c39f9dd",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
@@ -496,7 +496,7 @@
       "source_sha256_lf": "a446b69a1cedd8d65b0e9775eb04adb78c4b790828bf380a8e75230f07f98b07",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
@@ -508,7 +508,7 @@
       "source_sha256_lf": "e7466220342665e9f1e9fc39a824d3c33861175c633d6d22a36c4e27c434d55c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
@@ -520,7 +520,7 @@
       "source_sha256_lf": "78acf2b7935a39badc5ed1559fc8983a20056819fba9e878ecccd7dee4edcb33",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
@@ -532,7 +532,7 @@
       "source_sha256_lf": "4cc4d9fee595dd66cf0121c21ea511f961bb67a5c237494d78c25794ce7f5a54",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
@@ -544,7 +544,7 @@
       "source_sha256_lf": "edf144c3d3c1a67367aad79a522e6a9ec3230d19cdc42b8fa31a001950aa24b9",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
@@ -556,7 +556,7 @@
       "source_sha256_lf": "4ae042d67d6b9fcc986bc6485e08bd1da4049d03d495316bccae352be9542969",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
@@ -568,7 +568,7 @@
       "source_sha256_lf": "436400d6a55ac3bc12b25801539c341129c449ccba53fb14753efc258cc8d821",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/gaspe-2020.json"
     },
     {
@@ -580,7 +580,7 @@
       "source_sha256_lf": "65886dd47a66e791ad7f3a99b01edbb4fc87ba9e7fea2616ca106303ee1012c5",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/hamilton-2014.json"
     },
     {
@@ -604,7 +604,7 @@
       "source_sha256_lf": "0291a91cdb4822d913b851ef1c25641b71083692d01d9615bec236c1b07ef8d9",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/mont-tremblant-2012.json"
     },
     {
@@ -616,7 +616,7 @@
       "source_sha256_lf": "c43c64151e85d36909b97027f2236e5f4346f8c1db782e2a6e4fc10cb5255091",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_unnamed_waterfall",
       "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
@@ -628,7 +628,7 @@
       "source_sha256_lf": "b8d9ced4b1d790237ca8da26661d3945d6055efe6216382042e1ae717253dc4d",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_unnamed_waterfall",
       "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
@@ -640,7 +640,7 @@
       "source_sha256_lf": "5d92cbf6c07fb36c26ace92582f4a92b4c7873e2c17a016e8780c17595b4c08f",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_unnamed_waterfall",
       "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
@@ -652,7 +652,7 @@
       "source_sha256_lf": "65e9df1618c971b5b2e581203040b30df41f4b72705f9a0d9a7d301cb767fbfb",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_unnamed_waterfall",
       "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
@@ -664,7 +664,7 @@
       "source_sha256_lf": "7138b323017739d4b53940127e761e21b90b0c658696796f9229b724b41c636c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_unnamed_waterfall",
       "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
@@ -676,7 +676,7 @@
       "source_sha256_lf": "2158932fe8b8c4ebb5a385207399bb2c83f3ace5554ea804925c59e2372e071f",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_unnamed_waterfall",
       "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
@@ -688,7 +688,7 @@
       "source_sha256_lf": "f0c6a7ffc88f8600fa6a9f9bb3c58bbafd70e7087ff1a13b4b6b42619ab8d9a5",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_unnamed_waterfall",
       "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
@@ -700,7 +700,7 @@
       "source_sha256_lf": "188e678ce42e76a5293f9f859c3648dbb39599d19525522f28d74a2d2efe5938",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_unnamed_waterfall",
       "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
@@ -712,7 +712,7 @@
       "source_sha256_lf": "1387365ae3551de06a5058404495263a9751550a7a2e19dbca197e262946e3c0",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_unnamed_waterfall",
       "report": "reviews/source-audit/trips/north-ontario-2020.json"
     },
     {
@@ -724,7 +724,7 @@
       "source_sha256_lf": "305d1dc77b6a69a137d6df9bf8241b97af5933250d161f93f93903d0c30109bc",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/ottawa-2015.json"
     },
     {
@@ -736,7 +736,7 @@
       "source_sha256_lf": "670b7d618d0128c918cc846c39a40042807be61f88cf1ee82a477e880e73c0cb",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/ottawa-2015.json"
     },
     {
@@ -748,7 +748,7 @@
       "source_sha256_lf": "8ecddb5b66aceefc0b7bd9a229b6be776a9663adc35bf60acc283e3a4560297c",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/ottawa-2015.json"
     },
     {
@@ -772,7 +772,7 @@
       "source_sha256_lf": "bac48dc836574613a72ec02b6eccd3a56847a1aa1843cf9a2d4b06644edd5788",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/port-elgin-2021.json"
     },
     {
@@ -781,10 +781,10 @@
       "trip_path": "content/americas/canada/quebec-montreal-2003",
       "title": "\"Квебек-Монреаль\"",
       "draft": false,
-      "source_sha256_lf": "d1c18633ea36985e898dcd01d1a3d5af9fbc8cebf2da1e511fe0efafe8a7d03c",
+      "source_sha256_lf": "a1a876de6b9d889223ee893769ce819e4b92293afc8da1e76e5f8b23a74076ea",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/quebec-montreal-2003.json"
     },
     {
@@ -796,7 +796,7 @@
       "source_sha256_lf": "d0bf121b95339a54e29bcf7f9245ad6ceff9f2965bf6f23466db3ea43fafae14",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
     },
     {
@@ -808,7 +808,7 @@
       "source_sha256_lf": "2d806f1d0c7b1e2b4dbbc6368dc7b57572c5c71e96ab685ec19558974cbfb595",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
     },
     {
@@ -820,7 +820,7 @@
       "source_sha256_lf": "f74853f99b46d4fadca34895a148b9cd5a4efbd1c82c487e73287b2556da91eb",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
     },
     {
@@ -832,7 +832,7 @@
       "source_sha256_lf": "195b4d02ac8808c37f21c59fcb5e9661c87d82eaf4f93ae0feefcbb4df46a05a",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
     },
     {
@@ -844,7 +844,7 @@
       "source_sha256_lf": "cd547e2ae311e9a0ff94a4e8bc440690fb28cb84a31b2b9b3bae6ef3f18553f7",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
     },
     {
@@ -856,7 +856,7 @@
       "source_sha256_lf": "0fb3286136392939b8ea458cf370558526850244411b223618318ca735d11f9f",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/quebec-virginia-2013.json"
     },
     {
@@ -868,7 +868,7 @@
       "source_sha256_lf": "23aa6347ba4650fcd05638eaf7997b04acd752fc3c3e558e3ebfa6e9ba767d57",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_source_and_one_identity_gap",
       "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
@@ -877,10 +877,10 @@
       "trip_path": "content/americas/canada/rockies-2018",
       "title": "\"Банф\"",
       "draft": false,
-      "source_sha256_lf": "cf9dc21cac4c13684079240b09c2b09c02e4db41bf9bacb0267122f2e6c346b2",
+      "source_sha256_lf": "77af6de2616dd778cd32ff5634244d3534dc6d6fa504f7b68c073e638521007c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_source_and_one_identity_gap",
       "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
@@ -892,7 +892,7 @@
       "source_sha256_lf": "8e1c78127306653bd721d8321acb6b777bf106e77f7817b2affd4b22b4ec1c5d",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_source_and_one_identity_gap",
       "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
@@ -904,7 +904,7 @@
       "source_sha256_lf": "368003f444d615cb9651b4c728663975c611a250236f2053ddc8450e178d21d3",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_source_and_one_identity_gap",
       "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
@@ -916,7 +916,7 @@
       "source_sha256_lf": "58b834da2d014bc601aa54dec5f0ab77f61996ec7115d6997ebfab1716a5ef30",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_source_and_one_identity_gap",
       "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
@@ -928,7 +928,7 @@
       "source_sha256_lf": "2d3666a162d82d7c6ad695be01e03fb6714842b9fb7fef12d1c7ddfed5de2b69",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_source_and_one_identity_gap",
       "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
@@ -940,7 +940,7 @@
       "source_sha256_lf": "15063ae560c2fdde4b6c4c5c19095fb7a20b04e2c885b548b4250fa21053676c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_source_and_one_identity_gap",
       "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
@@ -952,7 +952,7 @@
       "source_sha256_lf": "97a76b9c23609c180a5a0dc18426452b625adbf12df8d364ca2d018594a48942",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_source_and_one_identity_gap",
       "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
@@ -964,7 +964,7 @@
       "source_sha256_lf": "d2fe26fccd836070453b897e45585398f16ddeb99a5a703c971bedbe48026d95",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_source_and_one_identity_gap",
       "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
@@ -976,7 +976,7 @@
       "source_sha256_lf": "e7e2bade714ffffc13565732e2889c36d8a7d122cebf234e3f8ab5bfe6a33f55",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_source_and_one_identity_gap",
       "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
@@ -988,7 +988,7 @@
       "source_sha256_lf": "a7d91a040b8358a7b79d1b12311ed4c9d1fd4c9481c3a7df3585b5fd28626cde",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_source_and_one_identity_gap",
       "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
@@ -1000,7 +1000,7 @@
       "source_sha256_lf": "da5da4dce032660b39b55f8977269c3c18dda151f2dba0e2db42e861424f7a55",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_source_and_one_identity_gap",
       "report": "reviews/source-audit/trips/rockies-2018.json"
     },
     {
@@ -1012,7 +1012,7 @@
       "source_sha256_lf": "0a2f6af2a05cc373a5510a15be1e8f8c2826632050a8a03b5bde68ace2281285",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/tobermory-2014.json"
     },
     {
@@ -1024,7 +1024,7 @@
       "source_sha256_lf": "8a58d6e4df4cc665cde7347172abbfc9da8b07e84b011d73ba8b56f4dfc28f69",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/tobermory-2014.json"
     },
     {
@@ -1036,7 +1036,7 @@
       "source_sha256_lf": "14fd01eae1f33377e8be7f11291735df8fe32d85f1444ed9713e27dea7eaa0de",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/tobermory-2014.json"
     },
     {
@@ -1048,7 +1048,7 @@
       "source_sha256_lf": "27f213b546eba486cff3647330ac6823d017a7b4b0251c90db71b796f384582f",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/tobermory-2014.json"
     },
     {
@@ -1060,7 +1060,7 @@
       "source_sha256_lf": "4bd1228eec71abaec084648b40e4e36ef396621c60dd8cf9f06c9fad64fea306",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_source_variants",
       "report": "reviews/source-audit/trips/toronto-2016.json"
     },
     {
@@ -1072,7 +1072,7 @@
       "source_sha256_lf": "9188021087e1f7ed52e8db74822c98a878498286adf4557e6b9156293cd54baa",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_source_variants",
       "report": "reviews/source-audit/trips/toronto-2016.json"
     },
     {
@@ -1084,7 +1084,7 @@
       "source_sha256_lf": "96684e249485aead722815ac21ba30adb83df3a298bdede8f50b28c91ddefb4d",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_source_variants",
       "report": "reviews/source-audit/trips/toronto-2016.json"
     },
     {
@@ -1096,7 +1096,7 @@
       "source_sha256_lf": "52c32bf5569650ccceb6ddac8499cd26c6dc2bcdaece9830ccc8c4fb0e75e248",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_source_variants",
       "report": "reviews/source-audit/trips/toronto-2016.json"
     },
     {
@@ -1108,7 +1108,7 @@
       "source_sha256_lf": "bf9dae9f706c39c4c521ee48bead8830efc3a81c5704044dcdb53204e26472a6",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_source_variants",
       "report": "reviews/source-audit/trips/toronto-2016.json"
     },
     {
@@ -1120,7 +1120,7 @@
       "source_sha256_lf": "0aa1025343d3aa49832775afde093d5392b7bc2cf88253ce354dc96882f3dcb8",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_source_variants",
       "report": "reviews/source-audit/trips/toronto-2016.json"
     },
     {
@@ -1129,10 +1129,10 @@
       "trip_path": "content/americas/canada/toronto-walks",
       "title": "\"Afternoon Tea and Tour в Парламенте Онтарио (2025)\"",
       "draft": false,
-      "source_sha256_lf": "62a0232fc560bf40b46fcc68ca17181178b35a66dd847b8fef860a7745b0f023",
+      "source_sha256_lf": "0ca783e62650fa261612d9d26b9e8cb005bbc6ce74e708f831b4c32e71a07368",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/toronto-walks.json"
     },
     {
@@ -1144,7 +1144,7 @@
       "source_sha256_lf": "85a8ed0d7cd4e3722c6ea5192bc573e94a54661e8c1ec8b492a6100767e13862",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/toronto-walks.json"
     },
     {
@@ -1156,7 +1156,7 @@
       "source_sha256_lf": "fa741968212c4a5e127fc9c2f80a98a5e141c2c7cca823d533e6a829c2c15705",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/toronto-walks.json"
     },
     {
@@ -1168,7 +1168,7 @@
       "source_sha256_lf": "f547a4cf42d5fb6ca2be3c841d62f184f16d2eb21b3e61de1de6905a63a90920",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/toronto-walks.json"
     },
     {
@@ -1177,10 +1177,10 @@
       "trip_path": "content/americas/canada/vancouver-2023",
       "title": "\"Ванкувер\"",
       "draft": false,
-      "source_sha256_lf": "6e42bd20daf1bbcb73f1b7f7281d7cacd59c964b9448f028e0c10a9384566b73",
+      "source_sha256_lf": "befa8a2749ccfdbe9700205fbacec90dbf2c3ade538db3812abe3638dc7cf8ed",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/vancouver-2023.json"
     },
     {
@@ -1192,7 +1192,7 @@
       "source_sha256_lf": "e868504a0431ba3bbbfa7b6060064a6a6247a1e9f5388896e0353f469d854231",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_five_names_open",
       "report": "reviews/source-audit/trips/cuba-2025.json"
     },
     {
@@ -1204,7 +1204,7 @@
       "source_sha256_lf": "de21ad107411cf83413e8611f4fc37c14ce889faa0f7962e874a35bf5e7589b3",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_five_names_open",
       "report": "reviews/source-audit/trips/cuba-2025.json"
     },
     {
@@ -1216,7 +1216,7 @@
       "source_sha256_lf": "e2f053a75db432d1d7c2d78b09a8a98e6c1860254db5b439698c289476e021ca",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_five_names_open",
       "report": "reviews/source-audit/trips/cuba-2025.json"
     },
     {
@@ -1228,7 +1228,7 @@
       "source_sha256_lf": "cc2c83451e11a2d38d389579e21b64c325a56ed2dbc1a6a46ddec40260828b04",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_unnamed_plantation",
       "report": "reviews/source-audit/trips/trinidad-2017.json"
     },
     {
@@ -1240,7 +1240,7 @@
       "source_sha256_lf": "79f22d4460c0ac95f925fd3a5c8339017020cdd5cb1236b73e5ff4213a785a8c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_unnamed_plantation",
       "report": "reviews/source-audit/trips/trinidad-2017.json"
     },
     {
@@ -1252,7 +1252,7 @@
       "source_sha256_lf": "22f7355a3d5e395159736e42ea6ed8e2a1eefd131dd28aa15b0346a12b8631cb",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_unnamed_plantation",
       "report": "reviews/source-audit/trips/trinidad-2017.json"
     },
     {
@@ -1264,7 +1264,7 @@
       "source_sha256_lf": "9aedd00e3d96ad651abaf12bc286fa6f13ae60dd5280d6b1a3f7cde2eb045d90",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_unnamed_cenote",
       "report": "reviews/source-audit/trips/mexico-2015.json"
     },
     {
@@ -1276,7 +1276,7 @@
       "source_sha256_lf": "47111ab6ef0e2477303e9c4f5cb4ba8184c62b5103b9b06f9736ba0fec87fe66",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_unnamed_cenote",
       "report": "reviews/source-audit/trips/mexico-2015.json"
     },
     {
@@ -1288,7 +1288,7 @@
       "source_sha256_lf": "f7b513e92c6456ee3883e8ae216a06eb78b57cbedb81286ee900a23a692a3988",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_unnamed_cenote",
       "report": "reviews/source-audit/trips/mexico-2015.json"
     },
     {
@@ -1297,10 +1297,10 @@
       "trip_path": "content/americas/mexico/mexico-2015",
       "title": "\"Мексика - Дельфины\"",
       "draft": false,
-      "source_sha256_lf": "be01eea51d49c6ca25fd953d947b6d767025c11fbccf1f2b3671e346c4d4b7e0",
+      "source_sha256_lf": "8a223044ac56c9eac06f98624a4ca990b558abfba3386dbcb0a0ffd5b5caccf2",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_unnamed_cenote",
       "report": "reviews/source-audit/trips/mexico-2015.json"
     },
     {
@@ -1312,7 +1312,7 @@
       "source_sha256_lf": "1e889725918b31807fc6fe1b4953dbaaa8a866d6e3778d2ac54391dcbbe74f67",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_unnamed_cenote",
       "report": "reviews/source-audit/trips/mexico-2015.json"
     },
     {
@@ -1321,10 +1321,10 @@
       "trip_path": "content/americas/mexico/mexico-2015",
       "title": "\"Мексика - прелести пакетного отдыха\"",
       "draft": false,
-      "source_sha256_lf": "dcda9a5e6b17b9a81bd51030c481ed666479d3cff76f46fc016416593b7169cb",
+      "source_sha256_lf": "64917a817283a205c627693639c369478e285c7102371577c5a8c6e9242eaaef",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_unnamed_cenote",
       "report": "reviews/source-audit/trips/mexico-2015.json"
     },
     {
@@ -1336,7 +1336,7 @@
       "source_sha256_lf": "221e9a010a21b2a4fda83a42e592dbfaa3c494dc966cebc85b175e68acff9bd2",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_questions_open",
       "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
@@ -1348,7 +1348,7 @@
       "source_sha256_lf": "c3345af0f9c56a0256708b4f8a2a4f09c05f13a1b10a2da66f3fe607be951650",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_questions_open",
       "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
@@ -1360,7 +1360,7 @@
       "source_sha256_lf": "a4d3b540413f31b8fa69310093caf6c0e9bfa9b27c783c4b17f1363ce5a792f7",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_questions_open",
       "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
@@ -1372,7 +1372,7 @@
       "source_sha256_lf": "fb0542452d158cb36d1f816f717c17aae4f3d305ae6eae3553c219b1fa7a4fbc",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_questions_open",
       "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
@@ -1381,10 +1381,10 @@
       "trip_path": "content/americas/mexico/mexico-2025",
       "title": "\"Койоакан и балет\"",
       "draft": false,
-      "source_sha256_lf": "29668a3a305fd98119df725ced9d0ca6d6c7e6b255b6bbb1ccf8c576827cd2a6",
+      "source_sha256_lf": "6dafa7b905012dfbe1a126bf7ae1a55936c4880c52c7b31c82bc87e74e6eb663",
       "text_status": "read",
-      "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "photos_status": "scoped_story_block_review",
+      "reconciliation_status": "text_reconciled_questions_open",
       "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
@@ -1396,7 +1396,7 @@
       "source_sha256_lf": "2484858045e15f623e6d7b1af867d9bb25608369ba84208d30fd30436c94bbeb",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_questions_open",
       "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
@@ -1408,7 +1408,7 @@
       "source_sha256_lf": "cf73ce611f0595c0f9dc3eed24094fefbf430262286f6e9dd82e5c83bd81fd1f",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_questions_open",
       "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
@@ -1420,7 +1420,7 @@
       "source_sha256_lf": "fb88e45ddf1eb3741fc8d63a89e06970b41de398fa4179ac6b0094b0a5d0dd7d",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_questions_open",
       "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
@@ -1432,7 +1432,7 @@
       "source_sha256_lf": "24662cce4b8e98c6d858af15854fd17448b639c19f9bd6de3a384aaafc030d4c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_questions_open",
       "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
@@ -1444,7 +1444,7 @@
       "source_sha256_lf": "e620073dd9b9226d59f6e2fc0ac209d6c2c5e99e350d0ae25dc88de68a22b34f",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_questions_open",
       "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
@@ -1456,7 +1456,7 @@
       "source_sha256_lf": "e7bb63a828f290a6e7ea4f9e85671679ce6093e5ad8281a0ac4896fdf478680f",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_questions_open",
       "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
@@ -1468,7 +1468,7 @@
       "source_sha256_lf": "e775da4f62674d8eb6d5bb58353ecb4b798cb0467752a468f6b32f08f042bcda",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_questions_open",
       "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
@@ -1480,7 +1480,7 @@
       "source_sha256_lf": "7c501045cd97a8db3966ae407fefb737823f05a12a4400475a3bc9674bc076fa",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_questions_open",
       "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
@@ -1492,7 +1492,7 @@
       "source_sha256_lf": "c5711daab6fd342da80bd61d95c53724a8af520f77975c4ae1f8a52ed5fa4070",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_questions_open",
       "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
@@ -1504,7 +1504,7 @@
       "source_sha256_lf": "ffb6eb2c404f9c7a5d80dbbdbcdc4ac269390b8a2bff9043044084a5eece216c",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "city_relation_checked_video_open",
       "report": "reviews/source-audit/trips/trinidad-tobago-2018.json"
     },
     {
@@ -1516,7 +1516,7 @@
       "source_sha256_lf": "b71af8ccc6d646efc096f75a466e442a751412b327ca93fa4da63a61e30a95d1",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json"
     },
     {
@@ -1528,7 +1528,7 @@
       "source_sha256_lf": "b160a05efd9dfede0939b549af29c8ef9da5809ad5efdd6b4b7c03015ae17237",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json"
     },
     {
@@ -1540,7 +1540,7 @@
       "source_sha256_lf": "99e6acdd3a4fdcc0c71affb00e8dd1d417ac2574a3dd0fef90ccec3e2bb3b8e1",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_unnamed_visited_places",
       "report": "reviews/source-audit/trips/chicago-2017.json"
     },
     {
@@ -1552,7 +1552,7 @@
       "source_sha256_lf": "7bcff8040365b054708ddd0a805cc2113836fec44d76b724630a4d345b25cc0e",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_unnamed_visited_places",
       "report": "reviews/source-audit/trips/chicago-2017.json"
     },
     {
@@ -1564,7 +1564,7 @@
       "source_sha256_lf": "9f11b7cadb977e5ee3e871a34d57b4f76f1012f805611447f3f5933b7d6052f9",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_unnamed_visited_places",
       "report": "reviews/source-audit/trips/chicago-2017.json"
     },
     {
@@ -1600,7 +1600,7 @@
       "source_sha256_lf": "6e3fada6329127a58b2d0e610ec0914fd17a2cb15ad796c1faab4a2194b610e6",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/los-angeles-disneyland-2007.json"
     },
     {
@@ -1612,7 +1612,7 @@
       "source_sha256_lf": "48fe8ce149c4d55ebf21dfb0a86c673843e819833bf42edef8fe2f7abf57387e",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/los-angeles-disneyland-2007.json"
     },
     {
@@ -1624,7 +1624,7 @@
       "source_sha256_lf": "c5eead19b262f06a6797acb61febfe7ffaae731fd98b81a0e611dd2bbcb374c7",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/minneapolis-2022.json"
     },
     {
@@ -1636,7 +1636,7 @@
       "source_sha256_lf": "d4d28484a17b761e58cd41b1516a95e946598fda7d94272ea2a54806c7954e32",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/new-england-2015.json"
     },
     {
@@ -1648,7 +1648,7 @@
       "source_sha256_lf": "8939063a0fa718e88840503402d84e64765ab776d82ca1f6f3ab5ae0fb44f990",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/new-england-2015.json"
     },
     {
@@ -1660,7 +1660,7 @@
       "source_sha256_lf": "2807f6b60e802c62eede35ba3953d9efc5a0279072fad01e307b767dc4edb3b0",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/new-england-2015.json"
     },
     {
@@ -1672,7 +1672,7 @@
       "source_sha256_lf": "73f19bcdaa35f48f1fdf3d42d5e098976a6ea7f0eff702a2f7b19cbb5280a791",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/new-england-2015.json"
     },
     {
@@ -1684,7 +1684,7 @@
       "source_sha256_lf": "b69d3f1fb3c5d6484e15cb4e6602c49c3ecca3a2fca10b6909d882e7d7adbec4",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/new-england-2015.json"
     },
     {
@@ -1696,7 +1696,7 @@
       "source_sha256_lf": "505a4354ab1eea7ac4112c363728b311033619c495b350d2a939184347091c6d",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/new-england-2015.json"
     },
     {
@@ -1705,10 +1705,10 @@
       "trip_path": "content/americas/usa/new-england-2015",
       "title": "\"Наше освоение Новой Англии: отцы-пилигримы\"",
       "draft": false,
-      "source_sha256_lf": "a3b6e93e2cd599ba538887e94c108965203ad262e95adadf238d95d757743d7b",
+      "source_sha256_lf": "291e69a78619879101cf3f06f1412bb0c244ace7c2f8a4d0be53913a8378e898",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/new-england-2015.json"
     },
     {
@@ -1720,7 +1720,7 @@
       "source_sha256_lf": "e913f4d06f4d9b888d0aca265e42bd0cb4d5656da54703463cfbd09efc842f1c",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/new-england-2015.json"
     },
     {
@@ -1732,7 +1732,7 @@
       "source_sha256_lf": "cd937c8734955f00ab2407a279a8862c70751970dcf0f0a2f809619a918b80f8",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/new-york-2006.json"
     },
     {
@@ -1744,7 +1744,7 @@
       "source_sha256_lf": "87a6d78e55eefeec7d95c8dbca6f54657f25a9960be0209367cdf4148b2dcdc5",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_exclusions",
       "report": "reviews/source-audit/trips/new-york-2012.json"
     },
     {
@@ -1756,7 +1756,7 @@
       "source_sha256_lf": "f135b3775ab1a50cfb4045897ae4c5b85f7c46ec0fc2840444f0a019c6f99da7",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_exclusions",
       "report": "reviews/source-audit/trips/new-york-2012.json"
     },
     {
@@ -1768,7 +1768,7 @@
       "source_sha256_lf": "3833cc03e6d1da44c2937d31db08ba4df3eac40b682b2a30a576745ffcb92d80",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_exclusions",
       "report": "reviews/source-audit/trips/new-york-2012.json"
     },
     {
@@ -1780,7 +1780,7 @@
       "source_sha256_lf": "97906ae186b16c5b6a565b63a1cad413e5f0cdcf419b1c626dc12adf5af607ab",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_exclusions",
       "report": "reviews/source-audit/trips/new-york-2012.json"
     },
     {
@@ -1792,7 +1792,7 @@
       "source_sha256_lf": "847140d43298fa4ffe7ccd4a1e3aba8841dc78dabea31eec1b63325c5052d07d",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/washington-2011.json"
     },
     {
@@ -1804,7 +1804,7 @@
       "source_sha256_lf": "c99f109d5f4b24ac9a6392d48751b51e6c4f55dd4306b6fbab2d7c4140c07433",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/washington-philadelphia-2008.json"
     },
     {
@@ -1813,10 +1813,10 @@
       "trip_path": "content/americas/usa/washington-philadelphia-2008",
       "title": "\"Вашингтон\"",
       "draft": false,
-      "source_sha256_lf": "08d4edc3bc2f902e186c73d134db5cfb9126739d861ff1a988722c5dde416815",
+      "source_sha256_lf": "3a3647d36b673243bf148040401dace226c5ae7e903d6b904fb0646f43ff819f",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/washington-philadelphia-2008.json"
     },
     {
@@ -1828,7 +1828,7 @@
       "source_sha256_lf": "f72bd32d4046991bbf2db138b69205e784f29b2793a96ede68bcf8532047427c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_unnamed_show_venues_open",
       "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
@@ -1840,7 +1840,7 @@
       "source_sha256_lf": "d07da3119ead82c17de042adfecaadeccf07cf0921328ec2eea17adfbe2613f0",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_unnamed_show_venues_open",
       "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
@@ -1852,7 +1852,7 @@
       "source_sha256_lf": "9b875e68b5c91ae28d92fc5746aab5e2bf553531fb3a82917b4942464cd8a032",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_unnamed_show_venues_open",
       "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
@@ -1864,7 +1864,7 @@
       "source_sha256_lf": "d78e24e3caeffc886f0c33ca0b33fded29c6a2c6ae026c319e701953d97c6408",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_unnamed_show_venues_open",
       "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
@@ -1876,7 +1876,7 @@
       "source_sha256_lf": "88f3573742afa37d9afe96dff7ce2e3f013d8619535654d54232139106245761",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_unnamed_show_venues_open",
       "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
@@ -1888,7 +1888,7 @@
       "source_sha256_lf": "432714df9734f753dae44b5e41fdefb8f3ba3eb9a717b6cdab3b18dd6cb07c65",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_unnamed_show_venues_open",
       "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
@@ -1900,7 +1900,7 @@
       "source_sha256_lf": "195a9a6190e2196e935a22305ce479f05ea81b5010846ed3598e6e2c48a88948",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_unnamed_show_venues_open",
       "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
@@ -1912,7 +1912,7 @@
       "source_sha256_lf": "0f4978f48b60986199871286eac900ffe76b140f433da2ab3847655827ac132d",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_unnamed_show_venues_open",
       "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
@@ -1924,7 +1924,7 @@
       "source_sha256_lf": "02a19768b6f534c0393f5f0c35e3c2ad54fba48868d4ccd22239fde0c86c4fd5",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_unnamed_show_venues_open",
       "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
@@ -1936,7 +1936,7 @@
       "source_sha256_lf": "541fcce553219956d53ae84e042981f35c1b06391b095c5eb00df0aea563f25c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_unnamed_show_venues_open",
       "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
@@ -1948,7 +1948,7 @@
       "source_sha256_lf": "b1a46ac8b16c8f6c6c3d42fa3c5debc3d1be94b09a6cfaaa7543e1db00570227",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_unnamed_show_venues_open",
       "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
@@ -1960,7 +1960,7 @@
       "source_sha256_lf": "257b227d11dcf070d5ef6fa080574762af0fec139ad34bc4d5476cbcca28f99b",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_unnamed_show_venues_open",
       "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
@@ -1972,7 +1972,7 @@
       "source_sha256_lf": "43827d179357732bcc31ef06963cacb3a22e9bf9ea9f0371344bc90cfc01715d",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_unnamed_show_venues_open",
       "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
@@ -1984,7 +1984,7 @@
       "source_sha256_lf": "64381186dd4b429a00d1742bc1319770b813b2d533ed9049c15615e0ed683b86",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_unnamed_show_venues_open",
       "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
@@ -1996,7 +1996,7 @@
       "source_sha256_lf": "58da855284f8640f9a861fbccece0fe2460ba15e06740d7fe0368ba4e26392e3",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_unnamed_show_venues_open",
       "report": "reviews/source-audit/trips/china-2019.json"
     },
     {
@@ -2008,7 +2008,7 @@
       "source_sha256_lf": "541da6be0cf2088d6c6e0dfdeff6e33e1a73ccd2f7576da2bbc46592d090b9c0",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_geography_open",
       "report": "reviews/source-audit/trips/andorra-pyrenees-2026.json"
     },
     {
@@ -2020,7 +2020,7 @@
       "source_sha256_lf": "e4bf49bdd5f8673686841c9d1c33f96cb42b9c6db183c1c3ade2e0aaa9d6e368",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_geography_open",
       "report": "reviews/source-audit/trips/andorra-pyrenees-2026.json"
     },
     {
@@ -2032,7 +2032,7 @@
       "source_sha256_lf": "f675750c3e1923684b51ef22e5cfb470c92930c635384910c0e5b6dc55ddc927",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_geography_open",
       "report": "reviews/source-audit/trips/andorra-pyrenees-2026.json"
     },
     {
@@ -2044,7 +2044,7 @@
       "source_sha256_lf": "90ca9147763dced92021dbc907b2121072ff24ba8c78bf2ae9f7853a6ee68f64",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_garden_name_open",
       "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
@@ -2056,7 +2056,7 @@
       "source_sha256_lf": "4d32d0bc68fd74b6c539d69840c51b291bbf4ec4c9884e7dcea0549188f6f0c9",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_garden_name_open",
       "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
@@ -2068,7 +2068,7 @@
       "source_sha256_lf": "0984bffe825671968ee1ba8d22d750445c7cc66641e348e3af545f5efd7bc442",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_garden_name_open",
       "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
@@ -2080,7 +2080,7 @@
       "source_sha256_lf": "ade811edbc9da3c2c7aef73f9afcf5653bce0a0329c8bf0ba097e5a6e7f622ad",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_garden_name_open",
       "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
@@ -2092,7 +2092,7 @@
       "source_sha256_lf": "b48eef33bfc06c76d6ea41de4ff7f7b2e6dfd6565daefe621df8a9ebea4cf46e",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_garden_name_open",
       "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
@@ -2101,10 +2101,10 @@
       "trip_path": "content/europe/austria/prague-vienna-2023",
       "title": "\"Praha - Hradčany и Malá Strana\"",
       "draft": false,
-      "source_sha256_lf": "e94c094209470f2f225f255c3ff411a91b0c687e83a8535e6386a4edd6280c5e",
+      "source_sha256_lf": "c697d12d1e75e9fe7226321852757571039045688c0d2d81036f2c5e81372ba3",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_garden_name_open",
       "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
@@ -2116,7 +2116,7 @@
       "source_sha256_lf": "eda3cf25431bd7f488fddc8105f3f7241c800f0e75f55396eafd3212a462eeef",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_garden_name_open",
       "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
@@ -2128,7 +2128,7 @@
       "source_sha256_lf": "e0e9c09c91a60b768b9a8c3a7a4e50e2a7142b07b00c1d9b786b1e1e54d7c53a",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_garden_name_open",
       "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
@@ -2140,7 +2140,7 @@
       "source_sha256_lf": "644e49108c6d145e561337647ef6ea51f5dd22a7395195408245e0cae5ddee27",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_garden_name_open",
       "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
@@ -2152,7 +2152,7 @@
       "source_sha256_lf": "0c9cc7439a76dcc24e2e49e7e672a6fe1120290b43492df986e7c0ca5031fd7b",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_garden_name_open",
       "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
@@ -2164,7 +2164,7 @@
       "source_sha256_lf": "20621301b9c9ecb685efd383bfffdea3fde204770baf67db5d508fee3a3ba985",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_garden_name_open",
       "report": "reviews/source-audit/trips/prague-vienna-2023.json"
     },
     {
@@ -2176,7 +2176,7 @@
       "source_sha256_lf": "172f4b0233b3cb689e13f54f87136cdc3b61f204342fae129644d23c2bba7a53",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/brussels-2008.json"
     },
     {
@@ -2188,7 +2188,7 @@
       "source_sha256_lf": "0d36a024789a92a3f56a20a07f4f5796a181d13981ba91a85b36ae1b2646c332",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2200,7 +2200,7 @@
       "source_sha256_lf": "60d8609d1741f814cb1ff266191f4f2753a84cd7a6ae02ffd1983e4436954c10",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2212,7 +2212,7 @@
       "source_sha256_lf": "2efad1646af08f3f06453812c4a93099d2656818da41fd4bd3dc4ff105044a06",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2221,10 +2221,10 @@
       "trip_path": "content/europe/belgium/christmas-2014-2015",
       "title": "\"Бельгия - Брюгге (Bruges)\"",
       "draft": false,
-      "source_sha256_lf": "ce2efc7d8f443968d1ce5f3cdfe40648292d96e285c428de9a4976b845a00aea",
+      "source_sha256_lf": "76ff18cc87c471d1ecb67eeca28975ac9e94b53ce27571b7ed185d2ddda43795",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2236,7 +2236,7 @@
       "source_sha256_lf": "ca2b566a6645fe2a0616c679d74f0ffde3caf4d66c47360aed65854dae392ad8",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2248,7 +2248,7 @@
       "source_sha256_lf": "de582aecc4363ea64ec1a97dac4003d9459af040e19846d5719303ee9505ac51",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2260,7 +2260,7 @@
       "source_sha256_lf": "18902e23c42f41bedb7c957964bbc7e0e8ea36216247f10a9907486b213c0a7f",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2272,7 +2272,7 @@
       "source_sha256_lf": "f9b8060a375d9843a1d26afbe4819c984b18072496db3e3cb80e933bc02a0d5c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2284,7 +2284,7 @@
       "source_sha256_lf": "bdf73a45e70266ddb188feba2ca0789b3529c82bce9e274a5301df6ec47af985",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2296,7 +2296,7 @@
       "source_sha256_lf": "5fcac6a98f84dbb294ced7b4680a833a559d9fbb15c012c8c7e5520f0386a696",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2308,7 +2308,7 @@
       "source_sha256_lf": "818314124b3b71307280c2111ab2c9d810f372b0b62ad86d4ac2ce0cd29863a3",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2320,7 +2320,7 @@
       "source_sha256_lf": "00a08c1fdadd44401d0b3e6ea9d1c4f3e47f308465a3ba9a3fa776b97c24907f",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2329,10 +2329,10 @@
       "trip_path": "content/europe/belgium/christmas-2014-2015",
       "title": "\"Франция - Лион (Lyon)\"",
       "draft": false,
-      "source_sha256_lf": "fc55f4861d07fbacbf22cf31d4b6b6741e64fb63ea62c4f0f30d5275fc756dc6",
+      "source_sha256_lf": "cde5f5a21ff785d33ae5f2bbcb7bd26ce3b2f5a9111c621fec7de91f47f58d5f",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2344,7 +2344,7 @@
       "source_sha256_lf": "c57504db0957d6ef5e6a5afd2b02005bac32b8d27d15031460a4f0b675b45ccd",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2356,7 +2356,7 @@
       "source_sha256_lf": "4012bbaad96ad5164329f639a42af0579e1aab6dc57303e7b8685fd581a8ea6f",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2368,7 +2368,7 @@
       "source_sha256_lf": "02874f6965bf65e82cf77862e530f9c7c6452f6b0591243086886f6d2a28db7b",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2380,7 +2380,7 @@
       "source_sha256_lf": "e96f1f33278e9a48765c350a7e69dc7a7b3f81372ca5b0078b2619e16ca7ff52",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2392,7 +2392,7 @@
       "source_sha256_lf": "f2098d5306ff7b643768f92ee9376de4cbdf5aa1f9b549aa7647f6c00f086b09",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json"
     },
     {
@@ -2404,7 +2404,7 @@
       "source_sha256_lf": "4fee8d726f301786406a0d8edf5491e4eb05b71d9db693eaf1977a17a00918be",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
@@ -2416,7 +2416,7 @@
       "source_sha256_lf": "5e10af3032c641a3bb9d04224c43ae00b8471d75c08aba609acc973d9debd041",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
@@ -2428,7 +2428,7 @@
       "source_sha256_lf": "0e07faa6f888dc3356e556d1c15992caa961425600c95cb4a6f7d4ea9f7d8bef",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
@@ -2440,7 +2440,7 @@
       "source_sha256_lf": "1be7cd24131dffa8f3c762721e3af30305e45d3ac0881882ad5cf9e66bea86ed",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
@@ -2452,7 +2452,7 @@
       "source_sha256_lf": "f034faa01ad70cacb21fb1e9e1e83a66872468f2da767f899d3a0889d988278d",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
@@ -2464,7 +2464,7 @@
       "source_sha256_lf": "53e92bf93f52e2dcf3d11f55f5990003d6103b61b7fb96e9707e45b5c866236d",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
@@ -2476,7 +2476,7 @@
       "source_sha256_lf": "5d7d0a19843b889f6c8db2f10c54fb7e5437b69e9f55f0f72acbf8368f764836",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
@@ -2488,7 +2488,7 @@
       "source_sha256_lf": "65e9b9e78fb18670c68bc5e443a74926ce6ef82dd23095d801572cc8725e7a5e",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/london-2018.json"
     },
     {
@@ -2500,7 +2500,7 @@
       "source_sha256_lf": "6be8634446f7a25f61b71053fb29f97d94fb57f595afc55e654b0dcc062907d4",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_question",
       "report": "reviews/source-audit/trips/london-2022.json"
     },
     {
@@ -2512,7 +2512,7 @@
       "source_sha256_lf": "42e3d77da26a6392b0f54032756dffe67137d010e988b318bf970bb591a1828f",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_question",
       "report": "reviews/source-audit/trips/london-2022.json"
     },
     {
@@ -2521,10 +2521,10 @@
       "trip_path": "content/europe/england/london-2022",
       "title": "\"Юридический Лондон и City\"",
       "draft": false,
-      "source_sha256_lf": "27b4d5f62f1b2a03c1d47b8dffd33776513251c5ed7323effea14335228aeb77",
+      "source_sha256_lf": "6006e61dd2c172cb33c2bcd4001ca253f0928f1a83bbd4a8d2dec507b51d1913",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_question",
       "report": "reviews/source-audit/trips/london-2022.json"
     },
     {
@@ -2536,7 +2536,7 @@
       "source_sha256_lf": "3dbdcb7807444931fb1d7d051811c0735144d864111c8572ca9ae0b0bee95edc",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_question",
       "report": "reviews/source-audit/trips/london-2022.json"
     },
     {
@@ -2548,7 +2548,7 @@
       "source_sha256_lf": "052aa20a6c524e1ed38646cc133a3e86386fc429399e2c56a58e492575d62752",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_question",
       "report": "reviews/source-audit/trips/london-2022.json"
     },
     {
@@ -2560,7 +2560,7 @@
       "source_sha256_lf": "6dd8072775fd818bbc0b869a4f21c94a7f09faa39ef66d3388b08de96da65afa",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_question",
       "report": "reviews/source-audit/trips/london-2022.json"
     },
     {
@@ -2572,7 +2572,7 @@
       "source_sha256_lf": "8983e99683a5872c5ddf029023781173175d18d3583094118c3f468b5b4ac569",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_one_question",
       "report": "reviews/source-audit/trips/london-2022.json"
     },
     {
@@ -2584,7 +2584,7 @@
       "source_sha256_lf": "7dcea98dcbdb7bb5d231deb5e67d9e3c43f105c56eab347c994cee4eb1b6df52",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/london-cambridge-2008.json"
     },
     {
@@ -2596,7 +2596,7 @@
       "source_sha256_lf": "3d142dfb9b6d75566d263f3b97adc3a0a28d7a38d1134777ac23e9a4195c791a",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json"
     },
     {
@@ -2608,7 +2608,7 @@
       "source_sha256_lf": "03ef57ed03033f4a40112e072488e7686c35a6d833815e4e0e77648050f8dad4",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json"
     },
     {
@@ -2617,10 +2617,10 @@
       "trip_path": "content/europe/france/barcelona-occitanie-2024",
       "title": "\"Кондом, арманьяк и Тулуза\"",
       "draft": false,
-      "source_sha256_lf": "4e81c69343d398e6796fd46cb27dfab1bb9aea782d1c0ad89e01490f1fdfebaf",
+      "source_sha256_lf": "d95fe4217cb80e76355dc5b928f3884796dbdf80bad7d654559249912f4c4562",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json"
     },
     {
@@ -2632,7 +2632,7 @@
       "source_sha256_lf": "9495acd50f9c2f7f9b2f80e4466d9e4d68a598d72d53b1edaeb151e39b0875aa",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json"
     },
     {
@@ -2644,7 +2644,7 @@
       "source_sha256_lf": "cfdae5c7191095cd59f346629ed530e07be421982d6b2c388d1594b4563f004d",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json"
     },
     {
@@ -2656,7 +2656,7 @@
       "source_sha256_lf": "0d72276d985b0859da4751a8547b03f79ec538f6ea23124f2d128dce3b0e6eda",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-france.json"
     },
     {
@@ -2668,7 +2668,7 @@
       "source_sha256_lf": "4d1e0114e48caddb460f0e1c65ad2018ca48874623e41d37bb71ce768b98606c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-france.json"
     },
     {
@@ -2680,7 +2680,7 @@
       "source_sha256_lf": "6d82e9f6796c207af4676069ebb7b3659d6a4dc2fd2d5048ba8b08436d5cb3be",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/christmas-2014-2015-france.json"
     },
     {
@@ -2692,7 +2692,7 @@
       "source_sha256_lf": "8b7a4af7bf709b8618659327281fb4b59b06ecec9dbf8a12a7361d75c9ec37c8",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2704,7 +2704,7 @@
       "source_sha256_lf": "2a9be199a473d400858dc317ccdddba1d57390acbf47532ca9dd25c93ad9f207",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2716,7 +2716,7 @@
       "source_sha256_lf": "8343d294780ffa73cc3fdb42183eb9e225542fdabf15a66c145ab9465bbb0629",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2728,7 +2728,7 @@
       "source_sha256_lf": "c13901dc5ced12ddb18063ba7816b3714714775a5aaf2a97a9aa9e125406bb34",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2740,7 +2740,7 @@
       "source_sha256_lf": "cc31217fdeba0f259ff7d9441871a813d7ac0fae3a69cb5e80d62ddfb5da71ee",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2752,7 +2752,7 @@
       "source_sha256_lf": "3da96a83791d5614b470e1b4a5327af61f3acbb7c05f69b534273bbdbc525a43",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2764,7 +2764,7 @@
       "source_sha256_lf": "7585a6bc87479a54a15e7009548220eecc261643984b43a0484e5b244c83f999",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2776,7 +2776,7 @@
       "source_sha256_lf": "9b11e26cb471f1697251ca1bbfbade6b234b50bd0399b612f9c5bd61cafa4832",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2788,7 +2788,7 @@
       "source_sha256_lf": "f30cbc58dbcb6ca21e2d28a2a778e148c486f00300d8f06d09648db48c7ffd21",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2800,7 +2800,7 @@
       "source_sha256_lf": "5d8ef6759c71a3567c4d8abc480929cf1824bec4693a7c16508e7a21117ccebf",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2812,7 +2812,7 @@
       "source_sha256_lf": "9c1462ec87986d98ba515318e65500ca40f7bcec79c0036c6ee9557ba92c5132",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2824,7 +2824,7 @@
       "source_sha256_lf": "5a4688857b8411c290c12e75f126a0c24ab0a7ed90818f4ad81c3c94a7c08cec",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2836,7 +2836,7 @@
       "source_sha256_lf": "865996766ffa204fe96b63cdf9380d8c3c737fd7bb0c466162b81ba1d73f2728",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2845,10 +2845,10 @@
       "trip_path": "content/europe/france/europe-2021",
       "title": "\"Прованс у родных\"",
       "draft": false,
-      "source_sha256_lf": "3aa7993e1bfa657151d25471c50aadbd90c0054eb636689f386a9960ba6c4687",
+      "source_sha256_lf": "2730625b4caf84c3c673087378d6236cea442a9979c18a6a3af27a355b94d92d",
       "text_status": "read",
-      "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "photos_status": "scoped_story_block_review",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2860,7 +2860,7 @@
       "source_sha256_lf": "faab8b3e3e217cc6e414b91e09246d3a38e2242b757ada2d8632cda0820382d9",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2872,7 +2872,7 @@
       "source_sha256_lf": "d5d835ec6c454f7a517d4bf8f8623388c7beb03e1dc4434eab14e1af0cfa0b3e",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2884,7 +2884,7 @@
       "source_sha256_lf": "419058fcde7cc75ff35961e9384c261c7263f63be5fe69995e10dd931ecb3ec6",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_and_scope_open",
       "report": "reviews/source-audit/trips/europe-2021.json"
     },
     {
@@ -2896,7 +2896,7 @@
       "source_sha256_lf": "bcc2330f6da6b14bda22c99f0c77108b7b003319a44cf54216f2218941b23f43",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -2908,7 +2908,7 @@
       "source_sha256_lf": "dd2fcfc1d1dcbbe840f8f297f0543a0c619787aa7b7b26f3c6f278202682ed9a",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -2920,7 +2920,7 @@
       "source_sha256_lf": "a3215d7c62313e2adf414e9223c0ac346e4e50a23fa6e4d7378b6229d0e3bcf2",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -2932,7 +2932,7 @@
       "source_sha256_lf": "44dac10fdf239574ea01acc7571d55657f8332d628f62bdb4214eb049f4fe425",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -2944,7 +2944,7 @@
       "source_sha256_lf": "447740ebac7a81df5f9d0814ab6fd0116427cf02fa18b62d7924eaa075374794",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -2956,7 +2956,7 @@
       "source_sha256_lf": "f27f20a231a7debb07df0a10cb90977e663f0020da4d050648d52a9c6ea64b24",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -2968,7 +2968,7 @@
       "source_sha256_lf": "956ac1390edb881e713ae9caac98be968caca8dbc59cd20be757e0a51ce00808",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -2980,7 +2980,7 @@
       "source_sha256_lf": "0003762f4ff9c3aa436f3e96a180a529357f65411a99d40c562a9cd01441b1a6",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -2992,7 +2992,7 @@
       "source_sha256_lf": "58b148aa05f66897324a99bda0ad6dc23321e9a609085da4858a10dcbe265d80",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -3004,7 +3004,7 @@
       "source_sha256_lf": "fa94620f222e891b74dd3c331f303cab00827697dfb5e2f1304e109f80ba8fd8",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -3016,7 +3016,7 @@
       "source_sha256_lf": "3de1643e6e9d84310ee24cc2f10aa7669c8e2d944efd11f646def50d2535c2ec",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -3028,7 +3028,7 @@
       "source_sha256_lf": "a915c28e003fe725b39eff1049c2a62c23aa58b688f28d1b6d5dc199416e31ff",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -3037,10 +3037,10 @@
       "trip_path": "content/europe/france/europe-friends-2019",
       "title": "\"Реймс и Риквир\"",
       "draft": false,
-      "source_sha256_lf": "414d37c43f05587d414c6279214ca2cdc11fec49860dda86c1699f051ead44b2",
+      "source_sha256_lf": "9aa1d106ac818ed8198ff731f92a696457c9ca9036f5e7f524fd339530823571",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -3052,7 +3052,7 @@
       "source_sha256_lf": "9ec1609ec23c84489cd573df4907684f2f869651a7542d8c076fbee1431b4840",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -3061,10 +3061,10 @@
       "trip_path": "content/europe/france/europe-friends-2019",
       "title": "\"Руан и Онфлёр\"",
       "draft": false,
-      "source_sha256_lf": "712d61038d39bb9fb5ed8fca7dda24c126aa68e29221852102b5e652aebf7e18",
+      "source_sha256_lf": "35f22fbdf1317e2fcebdac437df7e0952671fa1c30edcb9bc265cc620983a928",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -3076,7 +3076,7 @@
       "source_sha256_lf": "ecace5ba1599b859c8589c9d3028c5165d7d76c0392c4c27a86b1e9acaecdf55",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -3088,7 +3088,7 @@
       "source_sha256_lf": "74a9f60b1bbf0a1d6c395c865875cf6df2d226eb3feb6aa606c2b2ad4906c089",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -3100,7 +3100,7 @@
       "source_sha256_lf": "e2fd10f56a03286945183e91e3d250869ddd844c43cd3f131e21809deb73803b",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -3112,7 +3112,7 @@
       "source_sha256_lf": "bb2bbc1b63e67d819d0995c41f65e6e8287611284b18a82da7cbbaf3e50c6e5b",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_one_unnamed_museum",
       "report": "reviews/source-audit/trips/europe-friends-2019.json"
     },
     {
@@ -3121,10 +3121,10 @@
       "trip_path": "content/europe/france/france-2012",
       "title": "\"День 6 - Cadre Noir, Замки Луары\"",
       "draft": false,
-      "source_sha256_lf": "4e073044af6e8954020063af0e94167ed91417315392909a06e11eba2d13cd09",
+      "source_sha256_lf": "ce8826d8924a04d470008490f3cb9732d373b1f6f6bc7a8e48fac3a3e17ac4f6",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
@@ -3136,7 +3136,7 @@
       "source_sha256_lf": "cae5b438cdc3fc885f70ac16e51ea25d3306aa214ac7cc416a8370f68b2f79df",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
@@ -3148,7 +3148,7 @@
       "source_sha256_lf": "e46f97246c2134ea10aefb3e74082c7ea093b946ac1e47952e91fef45e0f86bd",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
@@ -3160,7 +3160,7 @@
       "source_sha256_lf": "0d37da72bdec71a07c46fe962b1e2d1acb997a6d4c35309d18511cea8ee4f1d1",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
@@ -3172,7 +3172,7 @@
       "source_sha256_lf": "75e1954a0808691e0ace8d4b0e7748895885bddbc0bf0d792760992c446035dd",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
@@ -3181,10 +3181,10 @@
       "trip_path": "content/europe/france/france-2012",
       "title": "\"Но теперь по порядку... День 1 – Париж\"",
       "draft": false,
-      "source_sha256_lf": "3634b07c727ac39a93631e56bec7e3659d4dabc067d8bc2c33987d6bc81d4935",
+      "source_sha256_lf": "5ee852e4d932441eb7124616c43ee860441f4f45babbf99e2863e2417d7121e1",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
@@ -3196,7 +3196,7 @@
       "source_sha256_lf": "a32ec0403501ebfe31dc8a12c573ae1acff59a9a86b4b85e7f72f32fbbf83eee",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
@@ -3208,7 +3208,7 @@
       "source_sha256_lf": "3da2265dfb0f6eef97778e37fe405c9e5569f83c09aa34ced666d8597677aa5b",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
@@ -3217,10 +3217,10 @@
       "trip_path": "content/europe/france/france-2012",
       "title": "\"День 5 - Puy du Fou\"",
       "draft": false,
-      "source_sha256_lf": "bc260a51017cb5a1c3f80f277ccadb3b0a00cc318b2556f647c0069f38d2d945",
+      "source_sha256_lf": "fca2faf54c78144546d701c75c262b56c45337b22b06edfeca3133ef68a0dce9",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/france-2012.json"
     },
     {
@@ -3232,7 +3232,7 @@
       "source_sha256_lf": "ca04580bd72b535fa94a5ba5d1f6e5a5edcb70d832c87dd386a6aa4ea20ffe27",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_two_names_open",
       "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
@@ -3244,7 +3244,7 @@
       "source_sha256_lf": "3cb9a461ce7572a01aadefe6459fdfdf3157538342d713302b1840f7abccacb7",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_two_names_open",
       "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
@@ -3256,7 +3256,7 @@
       "source_sha256_lf": "f8a1f2fbd51ffc1cc5f39fe9726104c51b8ba4228d4c59eaad1e1e437aca0c4a",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_two_names_open",
       "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
@@ -3268,7 +3268,7 @@
       "source_sha256_lf": "8b1b0197faf24496ed3cfc8b0da4334f61a1b575af6383d524ecac6bd3194e07",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_two_names_open",
       "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
@@ -3280,7 +3280,7 @@
       "source_sha256_lf": "3f1d96d91ff7423024e6d5a099b6a80636ba66f3d224ba3a1f4bad2c3afcd8d0",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_two_names_open",
       "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
@@ -3292,7 +3292,7 @@
       "source_sha256_lf": "f0fc695dccca1eec51b302e1c9d7898e2043d11c23d01c0b9a8caee9af9c0d63",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_two_names_open",
       "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
@@ -3304,7 +3304,7 @@
       "source_sha256_lf": "7378ed473e51c1288695581ad18ff5501b5c52088804f1ecb45162229c0dfae0",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_two_names_open",
       "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
@@ -3316,7 +3316,7 @@
       "source_sha256_lf": "cfdcc72b235c85ec11521be7cc55c53295ba80068d46fb93459854f81826ba2c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_two_names_open",
       "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
@@ -3328,7 +3328,7 @@
       "source_sha256_lf": "54f812553f99900bc14b32df944f90de8a9f3455e2b19f42accb082ae7789e5e",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_two_names_open",
       "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
@@ -3337,10 +3337,10 @@
       "trip_path": "content/europe/germany/east-germany-winter-2025",
       "title": "\"Лиссабон\"",
       "draft": false,
-      "source_sha256_lf": "7ec9e98c4ce0c24ae4277ab5df3221338685478c0284bcbda4f7ee351735e8ea",
+      "source_sha256_lf": "59f1b5aad7ea0e0c939cb34a299970a74df94ce209e3d259fc563616387ce74c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_two_names_open",
       "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
@@ -3352,7 +3352,7 @@
       "source_sha256_lf": "30d23c2d2fc83c19280037df3818c6d959f84cea365dfc2edcf0769bd39b7569",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_two_names_open",
       "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
@@ -3361,10 +3361,10 @@
       "trip_path": "content/europe/germany/east-germany-winter-2025",
       "title": "\"Снова Барселона - поездка в Вик\"",
       "draft": false,
-      "source_sha256_lf": "004681e1aecf7ff1808a32fd549fb848d118f104fbf447d60cc956afb7ec794a",
+      "source_sha256_lf": "6b21ede905c50d57c6f1954f6434e98affaf42050d55fedd33ee135fdf9e16a3",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_two_names_open",
       "report": "reviews/source-audit/trips/east-germany-winter-2025.json"
     },
     {
@@ -3376,7 +3376,7 @@
       "source_sha256_lf": "b351279f38a26f8e7791b1884e21b7bdae154c295fccdb95ddcb54d94861afa5",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3388,7 +3388,7 @@
       "source_sha256_lf": "31ac18d6a1e0fa5b5332c0c8624f24d7c68a785869325cf28ee4ff7152eae07b",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3400,7 +3400,7 @@
       "source_sha256_lf": "aa129066ae09340a3e02b4aa00652ab1a20ad7702f1d05bb9003d396f079b626",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3412,7 +3412,7 @@
       "source_sha256_lf": "7c7d84dbd90010e8508ed826fa16ac98684253715992a102a38403c70b89ea5e",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3424,7 +3424,7 @@
       "source_sha256_lf": "adc936d9610915ae2af51851c60ac3892cd8c71cbd587e7706ea8a492037fde1",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3436,7 +3436,7 @@
       "source_sha256_lf": "b3434d3da8f044f70d725b062a8000f4bcdeba29be72faa7f8a55f83fed6a1ff",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3445,10 +3445,10 @@
       "trip_path": "content/europe/germany/europe-autumn-2023",
       "title": "\"Клеве и Кевелар\"",
       "draft": false,
-      "source_sha256_lf": "b8298861617cdbbb2f871e16a298f30f618a7c5abd373b354917f5f9f1817e7d",
+      "source_sha256_lf": "e4a6d56837ded1d847b53c98a727911945ff249b1bc97d8f03449d9925a07494",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3460,7 +3460,7 @@
       "source_sha256_lf": "7d54ada1b6138d7604914bfa020437b11de13ec7f8a46531af711439016dd21c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3472,7 +3472,7 @@
       "source_sha256_lf": "d2d5ae4bd6aac0a145375823568f0da6c7dd383fb062de4902dc6c53149ebd44",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3484,7 +3484,7 @@
       "source_sha256_lf": "d1398b5a1d0f65bddf8354cdbf420c54ac89d828d20c047bf3ef41779359b5d9",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3496,7 +3496,7 @@
       "source_sha256_lf": "b233af02eead8a82404b44c1e11064297b49b2d958a1b23a716a7483ae4e618e",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3508,7 +3508,7 @@
       "source_sha256_lf": "8f85e51beeed57cd62522daafba289074a1df8eb4252c3c7f5223c4f3c06be95",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3520,7 +3520,7 @@
       "source_sha256_lf": "24868a0ae7d040dbee9c4bd610a2ea41bb6d3e35e6cc30befa6687e963fd1be8",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3529,10 +3529,10 @@
       "trip_path": "content/europe/germany/europe-autumn-2023",
       "title": "\"Митя изучает города вокруг него\"",
       "draft": false,
-      "source_sha256_lf": "0bb894bc011c5dbe05fc88c988c87abba6e6dc538d52c8412f6c097e725d1324",
+      "source_sha256_lf": "544dfd0f4beb03a78b9c64f08cc75e28480c2f78be1be04e3f54b6f6b3d7c59f",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3544,7 +3544,7 @@
       "source_sha256_lf": "72601eaec6cc7c17ce3d400a58639f53c23b9297c26161ef421fe6f59aa98228",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3556,7 +3556,7 @@
       "source_sha256_lf": "f1446f00d0ca7307716c5bbcf8c2f65d3a8af6dac0ccc6bdeedfabe786922b3f",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3568,7 +3568,7 @@
       "source_sha256_lf": "926defa5d48ba527330ecb1ea80afbb1bfbd12216017ec107604e9d7ec3a70a9",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3580,7 +3580,7 @@
       "source_sha256_lf": "71e5589bd38e7fb5b5cf35e095c8052e03d0cc3e954272b10a5089fc2bfbd4eb",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_names_open",
       "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
@@ -3589,10 +3589,10 @@
       "trip_path": "content/europe/germany/germany-2011",
       "title": "\"Эльзас\"",
       "draft": false,
-      "source_sha256_lf": "4d429621eb05780013d92e84383ff5728bb2ac5bf6acd250d65c24b239316826",
+      "source_sha256_lf": "331ab7363facd80f3e5c4e133f22cdf9f11c022a6877bb7cc7a2fd757512ed61",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
@@ -3601,10 +3601,10 @@
       "trip_path": "content/europe/germany/germany-2011",
       "title": "\"Швейцария 3\"",
       "draft": false,
-      "source_sha256_lf": "e4a351b6dbd00717e8b9626f79cb9ed9f093606ed9f285ee5c17a711a6343655",
+      "source_sha256_lf": "210004f60f6742790a5cab56778e1d0c302d667882d1c54d5716db962c38ca14",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
@@ -3616,7 +3616,7 @@
       "source_sha256_lf": "9107203ab2f9f90b4d043cbd15ba9525317ecded9edfb48224ca17869d112a1d",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
@@ -3628,7 +3628,7 @@
       "source_sha256_lf": "b6d770c5c33f81412160974fdf0d4aa3736f16602fea33ccc334d73294a44af7",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
@@ -3637,10 +3637,10 @@
       "trip_path": "content/europe/germany/germany-2011",
       "title": "\"Голландия\"",
       "draft": false,
-      "source_sha256_lf": "43efb6e4f9a1faf235d13e1500b7360da3344e9a914cad6d0c85f2d3014d6055",
+      "source_sha256_lf": "64a25924021f43dc281dd77b9ebedf1fa7c3a181a01f4a4c68a4d83a66dbd787",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
@@ -3652,7 +3652,7 @@
       "source_sha256_lf": "a84fb26351f6aad6a74feec91174c79d381a0d75097eaa44bbe65b9f49c76019",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
@@ -3664,7 +3664,7 @@
       "source_sha256_lf": "beb14c9d05c989c1a0f5ac522bc8f54c81e0b27329220ebdda4651a247e907bd",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
@@ -3673,10 +3673,10 @@
       "trip_path": "content/europe/germany/germany-2011",
       "title": "\"Швейцария 1\"",
       "draft": false,
-      "source_sha256_lf": "d4c32125c5a61ed52a20fbc7f8ae894fe9a8fcf104c88887fb789e252b7dcf3d",
+      "source_sha256_lf": "b00aa7ab2bc5b0c7047f5bf3b7a2fab46282d3345a603c066663ab5cb3de5715",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
@@ -3685,10 +3685,10 @@
       "trip_path": "content/europe/germany/germany-2011",
       "title": "\"Швейцария 2\"",
       "draft": false,
-      "source_sha256_lf": "440695b5face8d267e60d852e27ebdd6262e48be98a641f1325780c65518fac3",
+      "source_sha256_lf": "191476ed3dfb10fe0136cd633a7cfd5c84851c3cee7d3c687e3d07aa274cb871",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_explicit_identification_questions",
       "report": "reviews/source-audit/trips/germany-2011.json"
     },
     {
@@ -3700,7 +3700,7 @@
       "source_sha256_lf": "dcb75a5f3ecdacc57b3ebf33c84b81b46e394d91bc67a1f540554b91ba9dec5f",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_one_source_ambiguity",
       "report": "reviews/source-audit/trips/germany-italy-2006.json"
     },
     {
@@ -3712,7 +3712,7 @@
       "source_sha256_lf": "3eec18e7428b1b96626898e2277e6d897bc41e0b4771d2c24c9e14db01685ac0",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_one_source_ambiguity",
       "report": "reviews/source-audit/trips/germany-italy-2006.json"
     },
     {
@@ -3724,7 +3724,7 @@
       "source_sha256_lf": "ee9510d3442862c4172e344e22dd725f3bef3112d9818fdc5d58cf55d0aa7770",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_one_source_ambiguity",
       "report": "reviews/source-audit/trips/germany-italy-2006.json"
     },
     {
@@ -3736,7 +3736,7 @@
       "source_sha256_lf": "01f0c2cd44a634f6e359ad4f60e05090790c25f3ebcf3c949232b50881e0582e",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_one_source_ambiguity",
       "report": "reviews/source-audit/trips/germany-italy-2006.json"
     },
     {
@@ -3748,7 +3748,7 @@
       "source_sha256_lf": "e4e3204c30e4a637a4d61faa9683c359c03d32f4c82b7c29721b0d2cb7550566",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_one_source_ambiguity",
       "report": "reviews/source-audit/trips/germany-italy-2006.json"
     },
     {
@@ -3760,7 +3760,7 @@
       "source_sha256_lf": "ef2d6ad6360122abee438f24226c39fb6a83a7aac9304e44ace2c3ca2c560710",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_two_unnamed_visited_venues",
       "report": "reviews/source-audit/trips/germany-london-2009.json"
     },
     {
@@ -3772,7 +3772,7 @@
       "source_sha256_lf": "1b8fd53fb839c10f61ab09cfcf883de69b3e107b4109043127ff9e8a66f06808",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_two_unnamed_visited_venues",
       "report": "reviews/source-audit/trips/germany-london-2009.json"
     },
     {
@@ -3784,7 +3784,7 @@
       "source_sha256_lf": "05dce9c9c09189f2e87c5db1b0d5eee3eacf7a0bf3620bd5ec29cf52102efb3a",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_two_unnamed_visited_venues",
       "report": "reviews/source-audit/trips/germany-london-2009.json"
     },
     {
@@ -3796,7 +3796,7 @@
       "source_sha256_lf": "53cf24be676d416619321ddecac4bafed50f999f916b77c99600e4df4ab37e7e",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_two_unnamed_visited_venues",
       "report": "reviews/source-audit/trips/germany-london-2009.json"
     },
     {
@@ -3808,7 +3808,7 @@
       "source_sha256_lf": "42b181216749664f00cd9879e54c7ce41223070ad61266d9c7a0a443e87d2822",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "reviewed_with_two_unnamed_visited_venues",
       "report": "reviews/source-audit/trips/germany-london-2009.json"
     },
     {
@@ -3820,7 +3820,7 @@
       "source_sha256_lf": "134f64ddfb9905aca147b49da72633465665b2bfaceb66aa78c28884659e039e",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/dublin-2025.json"
     },
     {
@@ -3832,7 +3832,7 @@
       "source_sha256_lf": "7161f1c8d6fa1e658ef13dda4a1e44f980e6fe4c8488ac69488537578b49ed8d",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/florence-2025.json"
     },
     {
@@ -3844,7 +3844,7 @@
       "source_sha256_lf": "8a2c6971df8c2febbaa563c18219fc2d5d4480d0e4412279d4fb03bec9a082eb",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/florence-2025.json"
     },
     {
@@ -3856,7 +3856,7 @@
       "source_sha256_lf": "ff5465a0fc7638cc2afed2989791f4268e7a468e88ec91c886f3401c67bc0516",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/florence-2025.json"
     },
     {
@@ -3866,10 +3866,10 @@
       "title": "\"Давид, музей Стибберта и море\"",
       "draft": false,
       "source_sha256_lf": "ac3d14e5dc63252f86f0d0ad88efd12bdb326e2f2a71979eaa33d96a40bfa551",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/borghese/index.md",
@@ -3878,10 +3878,10 @@
       "title": "\"Галерея Боргезе\"",
       "draft": false,
       "source_sha256_lf": "561cfc3ba06669a51d945c3e81d8a45637685ac1950b0725f601817db9b9ece1",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/cinque-terre/index.md",
@@ -3890,10 +3890,10 @@
       "title": "\"Чинкве-Терре и Ла-Специя\"",
       "draft": false,
       "source_sha256_lf": "c57a6aa48c691c099942f62297a2e433ed9e8e40781e5de7101f389b921c3320",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/colosseum/index.md",
@@ -3902,10 +3902,10 @@
       "title": "\"Колизей и замок Святого Ангела\"",
       "draft": false,
       "source_sha256_lf": "bd80fb0f035bfc21cb16612778db4e7691128153155bedf02d1b64dde438bd6b",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/florence-duomo/index.md",
@@ -3913,11 +3913,11 @@
       "trip_path": "content/europe/italy/italy-2022",
       "title": "\"Флоренция - купол Дуомо и Барджелло\"",
       "draft": false,
-      "source_sha256_lf": "0720a089221129d095b7c6643c3eae340e641301f5863ff1ca7e95feba2e56ae",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "b23bbae5c5881dcf094fffd76a98dcbb34dec1d82f33d590c75d0835ff5b504c",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/florence-pitti/index.md",
@@ -3926,10 +3926,10 @@
       "title": "\"Флоренция - город с гидом и дворец Питти\"",
       "draft": false,
       "source_sha256_lf": "6c40d5a5a86f50fe4b8f1bf54cdb772f39c11f74e8894406b205f65008ea0149",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/florence-uffizi/index.md",
@@ -3938,10 +3938,10 @@
       "title": "\"Флоренция - Санта-Кроче, Уффици, Палаццо Веккьо\"",
       "draft": false,
       "source_sha256_lf": "aef8eb77f0e48455c86f53200027b5cad6d1f87d57b2b7adb5cedceddaaccf40",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/lucca/index.md",
@@ -3949,11 +3949,11 @@
       "trip_path": "content/europe/italy/italy-2022",
       "title": "\"Лукка\"",
       "draft": false,
-      "source_sha256_lf": "0921089aa69356c7e06659f356b85e16dd172e442ea5f60b8cacc3de6ff969b2",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "1c567eda486f8d72f023c1eec4258c2c16b441beec22f8cb4331e77268dd3d48",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/medici-chapel/index.md",
@@ -3961,11 +3961,11 @@
       "trip_path": "content/europe/italy/italy-2022",
       "title": "\"Флоренция - капелла Медичи\"",
       "draft": false,
-      "source_sha256_lf": "0877a580d971a60e073da136473809ebb3b2a0851778be79aba7d265f42b26c8",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "082d73cd90186e2d22a48797b41c5ab2487b2ff28d5eb76718431211bb766e1f",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/monte-oliveto/index.md",
@@ -3974,10 +3974,10 @@
       "title": "\"Монте-Оливето-Маджоре и Кьянти\"",
       "draft": false,
       "source_sha256_lf": "cd806a58b3562555126e9c60122f2ab49978608f0318d22fdae23800998f2ea5",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/orvieto/index.md",
@@ -3986,10 +3986,10 @@
       "title": "\"Парк монстров и Орвието\"",
       "draft": false,
       "source_sha256_lf": "ce888e15e11ab0408f3c258fee22b8507e36b64a46375326eb853d7ecf66ffc9",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/pietrasanta/index.md",
@@ -3998,10 +3998,10 @@
       "title": "\"Пьетрасанта\"",
       "draft": false,
       "source_sha256_lf": "d62150b80d4e08b0d7c2b603481e5459a1e5ee966b0a00966df1e21a9a234b62",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/pisa/index.md",
@@ -4009,11 +4009,11 @@
       "trip_path": "content/europe/italy/italy-2022",
       "title": "\"Пиза\"",
       "draft": false,
-      "source_sha256_lf": "0c78103d484d804921e051ac053ba889626bf6bbf599b6cb309d181071d1a3e3",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "f435d1260e2e1706b513c5143774d3fd5d2138bfa3908f55e1da3250e757bacf",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/rome-arrival/index.md",
@@ -4022,10 +4022,10 @@
       "title": "\"Рим - начало\"",
       "draft": false,
       "source_sha256_lf": "325724c60fc08a0953b2c1d539df73200008d6b703c674d2e229395272458fb9",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/rome-churches/index.md",
@@ -4033,11 +4033,11 @@
       "trip_path": "content/europe/italy/italy-2022",
       "title": "\"Церкви Рима с гидом\"",
       "draft": false,
-      "source_sha256_lf": "26574a049eb0cb275e07e6deb12f590f436efcdb08984282880a9677e106e209",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "28ae9e26c340264626afde8902b211d631fed43133db524ed0ff67ffcaa8152f",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/siena/index.md",
@@ -4045,11 +4045,11 @@
       "trip_path": "content/europe/italy/italy-2022",
       "title": "\"Сиена\"",
       "draft": false,
-      "source_sha256_lf": "3bdd93c011bd890c2806eb2d6665de64985762a452473bf91bd0051ef2f3dd13",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "source_sha256_lf": "e230ca0f7bf0be36f1f66c096b803ed06b27a8d5b007bc91b9a60a8f0d65491e",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/tivoli/index.md",
@@ -4058,10 +4058,10 @@
       "title": "\"Вилла д'Эсте в Тиволи\"",
       "draft": false,
       "source_sha256_lf": "f4585b4575a63d573ad3827058be7535a0c717cf778b33b0a1f75c5bfa3b1631",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/italy-2022/vatican-fountains/index.md",
@@ -4070,10 +4070,10 @@
       "title": "\"Ватикан, площади и фонтаны\"",
       "draft": false,
       "source_sha256_lf": "73b5886a3843a0e121df39153c32f21a8395f44a6de8b8a042a0b8b60114f2e5",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
-      "reconciliation_status": "pending",
-      "report": null
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reconciliation_status": "text_reconciled_names_open",
+      "report": "reviews/source-audit/trips/italy-2022.json"
     },
     {
       "file": "content/europe/italy/rome-2015-2016/conclusion/index.md",
@@ -4084,7 +4084,7 @@
       "source_sha256_lf": "be06ec7435bcd904e1d6a4ba2e54a8b342a70733300f0bc55714f1605edac373",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
@@ -4093,10 +4093,10 @@
       "trip_path": "content/europe/italy/rome-2015-2016",
       "title": "\"Форенция - 463 ступеньки к небу\"",
       "draft": false,
-      "source_sha256_lf": "5a5d1d07370fb8c7493d6fbd56b269917e04678c7acff3269d4163d651c08423",
+      "source_sha256_lf": "4afaa96bda189017c07ee19d9c935ec7189bde95ebb2b43d41b19ed84567a353",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
@@ -4105,10 +4105,10 @@
       "trip_path": "content/europe/italy/rome-2015-2016",
       "title": "\"Флоренция - музеи\"",
       "draft": false,
-      "source_sha256_lf": "1ba20998092b5f14c3b476dcc1bbcf6cffc85ef0110354d789ab095c8fb28f25",
+      "source_sha256_lf": "d74f1055daef8405ee762de4f73b17fdda8320a6caa5a0397ca8d668400ccc3d",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
@@ -4120,7 +4120,7 @@
       "source_sha256_lf": "28dc5a714146984b8e702bfcf166c4a31c71131b0f2fee82a8def147da7df271",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
@@ -4132,7 +4132,7 @@
       "source_sha256_lf": "4298a540826de29fa954b0c06847f12777a53648e6208c61e4bc6cbf7b37218c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
@@ -4141,10 +4141,10 @@
       "trip_path": "content/europe/italy/rome-2015-2016",
       "title": "\"Милан\"",
       "draft": false,
-      "source_sha256_lf": "5b64bec0e499a5edcf01ce11f0249f1ba0132213f1daba92f28fc6767743f56e",
+      "source_sha256_lf": "06fec530012eeab2639ea6089ee9453d3065818d211ab9e4c89985298e59ac72",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
@@ -4156,7 +4156,7 @@
       "source_sha256_lf": "04a8d628dfb0f58adbdd42d71ab820ad8eeeab88e249b235485185aadcd16f0d",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
@@ -4168,7 +4168,7 @@
       "source_sha256_lf": "8247e85024978fe5481af16c4a52abb4626f704459f7e969e2ca554ae4591bec",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
@@ -4177,10 +4177,10 @@
       "trip_path": "content/europe/italy/rome-2015-2016",
       "title": "\"Рим - Колизей, Санта-Мария-Маджоре, галерея Боргезе\"",
       "draft": false,
-      "source_sha256_lf": "ba5744321ee1decc5b237cd2d9d87060bf2a20f6a0e266042dc820bf66e87287",
+      "source_sha256_lf": "b800c125de6fec46409002d35fa612572ca4552040622286a3947b16482ad6b6",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
@@ -4192,7 +4192,7 @@
       "source_sha256_lf": "78c7adb5242ce3dc42e22eb7ca91000b7f60843a43cec58eb173144359c07eb9",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
@@ -4201,10 +4201,10 @@
       "trip_path": "content/europe/italy/rome-2015-2016",
       "title": "\"Рим - последний день\"",
       "draft": false,
-      "source_sha256_lf": "ac8af1907682588acc0a1623c12580099aec599cf56c75b251d8df71486bef17",
+      "source_sha256_lf": "4bff79bd9a60d15b0ccd657e4e85a01863e0bf530f386e8bc0634ca195502d7b",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
@@ -4216,7 +4216,7 @@
       "source_sha256_lf": "8223cd5e7996d87f8de00a6e3f5ad1c917c4cae504b3021d229afd60973527dc",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/rome-2015-2016.json"
     },
     {
@@ -4225,10 +4225,10 @@
       "trip_path": "content/europe/luxembourg/luxembourg-2007",
       "title": "\"У бабушки\"",
       "draft": false,
-      "source_sha256_lf": "b5b790ac2df1b1c0c807e396c7421d52bdd7cc5bc12b01d690a9a3db36e13449",
+      "source_sha256_lf": "26d5c97c6e796037f2a4c9dacd56548e2bcfd581cf4ea2da97ed66e347e320e6",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "one_source_identity_and_damaged_photo_open",
       "report": "reviews/source-audit/trips/luxembourg-2007.json"
     },
     {
@@ -4237,10 +4237,10 @@
       "trip_path": "content/europe/luxembourg/luxembourg-2007",
       "title": "\"Рим\"",
       "draft": false,
-      "source_sha256_lf": "c55d70e696e20c3a2178169b58569f03414bc86178cdbbc49af9746d38df9b97",
+      "source_sha256_lf": "09125706f8fdaa1eb940bbae7d809d1f17c13cae36af6ef8d220f9309bfd29d1",
       "text_status": "read",
       "photos_status": "partial_damaged_original",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "one_source_identity_and_damaged_photo_open",
       "report": "reviews/source-audit/trips/luxembourg-2007.json"
     },
     {
@@ -4252,7 +4252,7 @@
       "source_sha256_lf": "e29a8eb485c0985368efc1a3a579e592500b45df8820dc45c2956cc31a2977ae",
       "text_status": "read",
       "photos_status": "reviewed",
-      "reconciliation_status": "identifications_open",
+      "reconciliation_status": "one_source_identity_and_damaged_photo_open",
       "report": "reviews/source-audit/trips/luxembourg-2007.json"
     },
     {
@@ -4264,7 +4264,7 @@
       "source_sha256_lf": "264b333b73dbb453e61fb7aad1ce91d68c80ea003843ba5bb89ece66146e5262",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
@@ -4276,7 +4276,7 @@
       "source_sha256_lf": "d90bfbafcbbc51f4660430ea793c3b59dbddefaf064ead3e0ecc9673f79cf707",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
@@ -4288,7 +4288,7 @@
       "source_sha256_lf": "9fb940b439d4aee869f54b614424ae35c9f19d9b9af2897e8616350265392b30",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
@@ -4297,10 +4297,10 @@
       "trip_path": "content/europe/netherlands/girls-europe-2017",
       "title": "\"Нотр Дам, Лувр, Au Lapin Agile\"",
       "draft": false,
-      "source_sha256_lf": "1abcbf0b8be84f98b52eafe1d78075f40815646a536194e3a8c5d7514e29524d",
+      "source_sha256_lf": "d935e86ec92e2fd9385e6abaf02a14cd6dd74b1eacec5fad8a81cf5722ae35dc",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
@@ -4309,10 +4309,10 @@
       "trip_path": "content/europe/netherlands/girls-europe-2017",
       "title": "\"Париж, левый берег, Орсе\"",
       "draft": false,
-      "source_sha256_lf": "82bdd703b4ac2a24d9b9630c48b6b72f543fbbc6ce36bea04fa31c2d5ea837d6",
+      "source_sha256_lf": "bb8d7ba545d54adfa28a94acfea407e2402d22ca0737d1f50747ff4c37f23f4e",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
@@ -4324,7 +4324,7 @@
       "source_sha256_lf": "abd2022d330b4ef71e3db68dfaf35b73506c9cb7c5f046008353a21bc3552f86",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
@@ -4336,7 +4336,7 @@
       "source_sha256_lf": "639dfa8a207d9f2e9d180865e17d466e90977f6d707aefba3869150e646c0824",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
@@ -4348,7 +4348,7 @@
       "source_sha256_lf": "d8ee27b0b3c5104c3fe36c9983557d0c9c5342804db833ddff1689f0efe5e567",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
@@ -4360,7 +4360,7 @@
       "source_sha256_lf": "87789f6e979162ccd354ad7ba453d6bfb0b9d6f444b7008c53af11d48c656fbe",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/girls-europe-2017.json"
     },
     {
@@ -4372,7 +4372,7 @@
       "source_sha256_lf": "f381a3f401cfb185539928f53a303f7f0bc2dcd0a462491633cf74d04b3fe132",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4384,7 +4384,7 @@
       "source_sha256_lf": "54d61ca2bdde298279a2deb52b74e2751dd9985b5e1a32145a5722387b638f48",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4396,7 +4396,7 @@
       "source_sha256_lf": "2334b6a773c32183ba94a2dc35270734cfdc99368cde1cc4eb930855cf15b31f",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4408,7 +4408,7 @@
       "source_sha256_lf": "31cbe7aa75f1e53b21f5e09ff06694c4330dd9d9530e81c9e56d9d1b883b5d1c",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4420,7 +4420,7 @@
       "source_sha256_lf": "f93342023e03330c97be5150bd5cb279cc37855f98eabadc1d9e84f00f5d7bd4",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4432,7 +4432,7 @@
       "source_sha256_lf": "2491837350f5a23c62293eb6ce68396ab89b2d196845dbcffd77132869e67a3e",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4444,7 +4444,7 @@
       "source_sha256_lf": "70ee1df15c3d2f52892eec6505738453de9bf52eb2cbebf308bf324e86756c8e",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4453,10 +4453,10 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"Esposende, Viana do Castelo, Barcelos\"",
       "draft": false,
-      "source_sha256_lf": "031219e174ab76c98e6621c24573832f68a5088f6e17f3c7d4ae4c78b5f92160",
+      "source_sha256_lf": "a7596864cdb40180e3319b646b9be0f850d67fe1e56ca8b8667ca32f049b69bb",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4468,7 +4468,7 @@
       "source_sha256_lf": "558654bead4f61bb3a84ea28948f4459bc81b724d218532c5bc8ed32c7fd6b47",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4477,10 +4477,10 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"Lamego\"",
       "draft": false,
-      "source_sha256_lf": "bd7c71500be9e2ca31407d42311f97f249cbfad886be757b537c79d10be42a5e",
+      "source_sha256_lf": "e6de7b5825ee6ef38c2d04453ed40afa4cd2d824b32e75417304117c11189e59",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4489,10 +4489,10 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"León\"",
       "draft": false,
-      "source_sha256_lf": "20dbee686db7c9ba28278694f6b2c352131dbd2db00a0598a9feb95ff67006fb",
+      "source_sha256_lf": "4adf0a7aa148d1c2774cc0eabd2cecc2912ee8e755e907a32fe6231e2fc99949",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4501,10 +4501,10 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"Oviedo\"",
       "draft": false,
-      "source_sha256_lf": "3a53ddc84bfcfc3b6bbd4c30fb6de5d9887e76ef5961fcb63630d4de8cf5528d",
+      "source_sha256_lf": "896b140c9b89427dc1814cfb42bfc112cad7bcc4c661e86f13b46d32d172ee80",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4513,10 +4513,10 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"Porto — день 1\"",
       "draft": false,
-      "source_sha256_lf": "a2377cb0ed4e5c02ee13c61905d9c668d98425e3ba68c437b9b3a7f3b16df89f",
+      "source_sha256_lf": "d437dd61105c04ac859104dab963bcc5dda7e5463b0328329b7dadde54d59be3",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4525,10 +4525,10 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"Porto — день 2\"",
       "draft": false,
-      "source_sha256_lf": "bc1ac3c2dc9135435827524d9cfcf7e5ba51669caedaff0696fdbc70619e038a",
+      "source_sha256_lf": "ccd0dc09920f550548eddc1ed4a5f69f858a0c7f91c7d6d60f7d90c3838995a2",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4537,10 +4537,10 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"Porto — день 3\"",
       "draft": false,
-      "source_sha256_lf": "642217e905acef80e280931f4959081bf20a5df7f5cd3b643b3ac449ea53db80",
+      "source_sha256_lf": "61e9d1253d72cd1220572da54cf7e6df3da521bf5fef74add4297180abb62bad",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4549,10 +4549,10 @@
       "trip_path": "content/europe/portugal/honeymoon-2017",
       "title": "\"Praia das Catedrais, Cudillero, Gijón\"",
       "draft": false,
-      "source_sha256_lf": "e65e0ec66abf12ceebdb8c4e6393fb2ec72c53e69967b0bcd996b2758d1a1d13",
+      "source_sha256_lf": "f0974277429ebe58030feb77ea607a09d8b444db03fbda55e218e7cac7fc97d6",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4564,7 +4564,7 @@
       "source_sha256_lf": "6d4c5d1b82e8d9a94b886bb603415298c1ed208f7dba181f29002860ebe191cc",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4576,7 +4576,7 @@
       "source_sha256_lf": "0ba9a44028a39f1d6dd79c24ca1ce023ef1dc4a17443ee8b1fb57857e8f8d972",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_two_unnamed_venues",
       "report": "reviews/source-audit/trips/honeymoon-2017.json"
     },
     {
@@ -4588,7 +4588,7 @@
       "source_sha256_lf": "320dd8430dff7052dd9fdb04a562fee919cc62c0d160980e0949f4c09fa15b4d",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_aveiro_name_open",
       "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
@@ -4600,7 +4600,7 @@
       "source_sha256_lf": "2da5597ea6aa3dccb98d244478eb8fee69f6e90888dcf8e3e3e9c5f0788ce6d1",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_aveiro_name_open",
       "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
@@ -4612,7 +4612,7 @@
       "source_sha256_lf": "256a900ad4862a105469f8d1dc8950c8bb7dd51358fd256d6ac0d1cc2c783bce",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_aveiro_name_open",
       "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
@@ -4624,7 +4624,7 @@
       "source_sha256_lf": "af4d004abba7bb635c1660425331db5e81c1295456fd5f12ae75330b3c9137fb",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_aveiro_name_open",
       "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
@@ -4633,10 +4633,10 @@
       "trip_path": "content/europe/portugal/iberia-2022",
       "title": "\"León\"",
       "draft": false,
-      "source_sha256_lf": "ba7422c0a0469ef6d27df6d38e42690bf2ec23e7c1910a2c6f843a8c6fa82f9e",
+      "source_sha256_lf": "c9cfc618af3dd5a801755b5a4d32f0478e396a62c822a796efe066c6e5edea9e",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_aveiro_name_open",
       "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
@@ -4648,7 +4648,7 @@
       "source_sha256_lf": "9c9e5f4cda0d8c6bb4d5d2b969e989c642a57b93dce18db23a1177eb579026dc",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_aveiro_name_open",
       "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
@@ -4660,7 +4660,7 @@
       "source_sha256_lf": "115d47825fb79254f0e326b5cd3353be30426a574aa413cf918a216122e53466",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_aveiro_name_open",
       "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
@@ -4672,7 +4672,7 @@
       "source_sha256_lf": "913c4826047ea2c16a52e9de582857338a83bdb6dc06a1f753ef13e69294dd64",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_aveiro_name_open",
       "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
@@ -4684,7 +4684,7 @@
       "source_sha256_lf": "b1bdedee988a5c49414812ccbfc90604573135e24a087b08aa6a825a9c0338c4",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_aveiro_name_open",
       "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
@@ -4696,7 +4696,7 @@
       "source_sha256_lf": "1bdb2dadbe0382a9a3b1d13876389534c46a14ce5be4ae55f1f87c801f640f73",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_aveiro_name_open",
       "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
@@ -4708,7 +4708,7 @@
       "source_sha256_lf": "687e1d62e0e374c65940a9306ec9e15a5462138cc0e20e47d097cbf45fb0a1e1",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_aveiro_name_open",
       "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
@@ -4720,7 +4720,7 @@
       "source_sha256_lf": "2fcee0bd0e04fa71993d611f6877d09c161fb06bb0f0d286715b6c4f3d60d6b7",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_aveiro_name_open",
       "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
@@ -4732,7 +4732,7 @@
       "source_sha256_lf": "f5ac00d1a77e281c66c749cdc6d726e1f138924c3496436b4a7820640ccccba1",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_aveiro_name_open",
       "report": "reviews/source-audit/trips/iberia-2022.json"
     },
     {
@@ -4744,7 +4744,7 @@
       "source_sha256_lf": "d406aa985fd044ff3c2da5c006119084331349b1566c089140bc51b5f4dcbe4b",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/portugal-2024.json"
     },
     {
@@ -4756,7 +4756,7 @@
       "source_sha256_lf": "91ffd820217cbf8c6d6909063d3a15da432307c59efdf18b7c0ee894478f1593",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/portugal-2024.json"
     },
     {
@@ -4768,7 +4768,7 @@
       "source_sha256_lf": "55248cff01981110bd59c90594423ce62b84dee6781e36157e1bbf5571ba732a",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/portugal-2024.json"
     },
     {
@@ -4780,7 +4780,7 @@
       "source_sha256_lf": "866b5c2d6ca1b0f6d2d72835ec052c7872d9b79237a11c1e04e694c8a0763767",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/portugal-2024.json"
     },
     {
@@ -4792,7 +4792,7 @@
       "source_sha256_lf": "8c99b79407b40d33f355e3ad8b376c02fcc5d8702831e55daa76c68034a78a43",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/portugal-2024.json"
     },
     {
@@ -4804,7 +4804,7 @@
       "source_sha256_lf": "a0dc0a5f36fcc17b9614a7c439ed0122bd18055fbb14db7db93e016ebe05d472",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4816,7 +4816,7 @@
       "source_sha256_lf": "91828fff5b8cb8e324ffb855804260e0f7ba312b03885414b28177e1d1bd28c4",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4828,7 +4828,7 @@
       "source_sha256_lf": "06bcbe6d138a07e59d8bf7cc9e7c626d42d3d1824b8023af76c68ac2e1e12f4d",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4840,7 +4840,7 @@
       "source_sha256_lf": "666a319724eeb555abdbdb1936fc72a6e8f8f4b6195ecab23b2037429f272ddc",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4852,7 +4852,7 @@
       "source_sha256_lf": "ad0658eba478f34da56bce1dda374446957d598312b986ec8c9bd2fc142f3f3b",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4864,7 +4864,7 @@
       "source_sha256_lf": "c56556e0eeac04617e37c8037e5c487437c2a9496b97b30e339da71040420155",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4876,7 +4876,7 @@
       "source_sha256_lf": "c69db17082affc79e628bb21098bb104c6d725afd04f4e208810bc3ae650dec3",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4888,7 +4888,7 @@
       "source_sha256_lf": "50316c9f814d7cebf8c17117de39794cf0b76ea7060559447c7fbcc85fcd9f1f",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4900,7 +4900,7 @@
       "source_sha256_lf": "437b2d441abf54347b49cb964591d0d54c2ce15e4d3a3413517f05b7719772c3",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4912,7 +4912,7 @@
       "source_sha256_lf": "ad9272ca7807fb699a8d69c139fbe9efa9822a5be7aba2bfcb00935f8df49463",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4921,10 +4921,10 @@
       "trip_path": "content/europe/portugal/portugal-spain-2016",
       "title": "\"Лиссабон\"",
       "draft": false,
-      "source_sha256_lf": "e09a73dae12fdadc81421dfc2ac2e704d40d3c84100a65449471d74ad49473d4",
+      "source_sha256_lf": "cfb2de899f93db97169fbe682fa7ae10d058096a228420bb5e3342ad7ba62fbc",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4936,7 +4936,7 @@
       "source_sha256_lf": "95c769eb6598d4bedca6db4c0ad5b5dc3708fa3b772621bb6883c7d6371d65c9",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4948,7 +4948,7 @@
       "source_sha256_lf": "cb6d72e8a1b750e2bf3683080df863396f623ebc41245702c0788bf085cc3a8b",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4960,7 +4960,7 @@
       "source_sha256_lf": "fc62ba71e2045440a64906175b0894dbd0114e629061c3070e49505449f1bbf6",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4969,10 +4969,10 @@
       "trip_path": "content/europe/portugal/portugal-spain-2016",
       "title": "\"Толедо\"",
       "draft": false,
-      "source_sha256_lf": "c63d6b538c6e3318e07419b187cc8f51ef1ef413d72ea33bf85303868fb2f0e3",
+      "source_sha256_lf": "d68d308fa2f16c4ef69c5eeb5836591697bc2aa91a444a20fe095cd7a8dcdb58",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4984,7 +4984,7 @@
       "source_sha256_lf": "0bf9bc26b2089cef8f1615827d2a1da3b2080c3698a4f31102686a2273afaa91",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_with_explicit_unmapped_places",
       "report": "reviews/source-audit/trips/portugal-spain-2016.json"
     },
     {
@@ -4996,7 +4996,7 @@
       "source_sha256_lf": "0a966a8cd8a98ba3195a1bbebde12c0d80e1701c56c64ce8e6b0967c7b262bf9",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "public_text_reconciled",
       "report": "reviews/source-audit/trips/moscow-new-year-2012.json"
     },
     {
@@ -5008,7 +5008,7 @@
       "source_sha256_lf": "adfb0b942e017e8484f48498d41decbccdaae7622446916a8b1de3658edefc0e",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/barcelona-museums-2025.json"
     },
     {
@@ -5020,7 +5020,7 @@
       "source_sha256_lf": "377fc5e6dfdf5250b95cbff1880aa88b912f0db85da6b759d398c6969006aae0",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_palace_name_open",
       "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
@@ -5032,7 +5032,7 @@
       "source_sha256_lf": "73e683c033a648c0e8589ea6a016187201c42a9ec6bfaa68f789c5f9053ebfd5",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_palace_name_open",
       "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
@@ -5044,7 +5044,7 @@
       "source_sha256_lf": "f41c14f8af54b36fb0aac0cd5e83aa518df8660b5a412cbb3ef08c5fcae71781",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_palace_name_open",
       "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
@@ -5056,7 +5056,7 @@
       "source_sha256_lf": "bbc34307e09095ad0719f918e19f954a706f0ac345f81e27259229d10a1e8dcc",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_palace_name_open",
       "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
@@ -5068,7 +5068,7 @@
       "source_sha256_lf": "67e7874d025678d56a19e12828cfac13d4a4ce5a81545888298bd2ed7671261f",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_palace_name_open",
       "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
@@ -5080,7 +5080,7 @@
       "source_sha256_lf": "491bbcec99f97a46fa1a471d1810068afeee42b2bb75ef93e0222d15ac14bc9d",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_palace_name_open",
       "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
@@ -5092,7 +5092,7 @@
       "source_sha256_lf": "e349c31c0b1f99637c1cf4f05c6215c9a45ead80fa6321b27e59f553bd22e945",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_palace_name_open",
       "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
@@ -5104,7 +5104,7 @@
       "source_sha256_lf": "d7bd9c1c42525b7b5ee0f86b5e659226a5cca4fa23fbe353eb7ae20161612a51",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_palace_name_open",
       "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
@@ -5116,7 +5116,7 @@
       "source_sha256_lf": "fd48a538cfe1dd6cdf4ea176530bb658e60092ace25bd3d5b238a9570ef81a6f",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_palace_name_open",
       "report": "reviews/source-audit/trips/basque-castile-2024.json"
     },
     {
@@ -5128,7 +5128,7 @@
       "source_sha256_lf": "adf5d6fbf3d6994e2777981ec0bf5932fe15cc7b95383ab4d701a2f5df2859ab",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/madrid-2024.json"
     },
     {
@@ -5140,7 +5140,7 @@
       "source_sha256_lf": "ea102c3edbc83821c23e6a2e762a662c2b94f453d966fd3759bc77deb97165fb",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/madrid-2024.json"
     },
     {
@@ -5152,7 +5152,7 @@
       "source_sha256_lf": "5e7146be5548716084bc5a18f13d5d93eccee18138ae4ca7c52e55656a4b70b7",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "independent_source_missing",
       "report": "reviews/source-audit/trips/malgrat-2024.json"
     },
     {
@@ -5164,7 +5164,7 @@
       "source_sha256_lf": "dab2b1fdd24fa53194d18d793bb3d4b43f5dafeac5dec39fe7dff468593e140a",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/montserrat-2025.json"
     },
     {
@@ -5176,7 +5176,7 @@
       "source_sha256_lf": "4c5750578a8c5c85f39ec7d464ab87c640061a4948a9ed8bd7873c3055456cb9",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/peniscola-valencia-2024.json"
     },
     {
@@ -5188,7 +5188,7 @@
       "source_sha256_lf": "27130c50e9123db854b81cf0390b378071cc224591f77fdf877871ef4e68ad82",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/peniscola-valencia-2024.json"
     },
     {
@@ -5200,7 +5200,7 @@
       "source_sha256_lf": "5e10d6b9989127e10f9f18449a7cbe37172acb0876e751d4cf216a354c2c5b97",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/poblet-2025.json"
     },
     {
@@ -5212,7 +5212,7 @@
       "source_sha256_lf": "4b65f4bf761375e5dcfc5292c25f684be7de45d2cc51e660563bfff1ebb53f19",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_additional_source_gap_open",
       "report": "reviews/source-audit/trips/spain-2019.json"
     },
     {
@@ -5224,7 +5224,7 @@
       "source_sha256_lf": "e630d757bcbd3f5ec482f93078f62f45e54fb6e861f93aedd268d4e403b3f7c3",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_additional_source_gap_open",
       "report": "reviews/source-audit/trips/spain-2019.json"
     },
     {
@@ -5236,7 +5236,7 @@
       "source_sha256_lf": "bb3e94f00e318ae8bb6e8b11163f71315fc6463a00d6b8887767a25b2adca8a0",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_additional_source_gap_open",
       "report": "reviews/source-audit/trips/spain-2019.json"
     },
     {
@@ -5248,7 +5248,7 @@
       "source_sha256_lf": "12af74bbac6e89d672ebb6bcdb0a20a7fd096b7205a4fea529300af02020ff34",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_additional_source_gap_open",
       "report": "reviews/source-audit/trips/spain-2019.json"
     },
     {
@@ -5260,7 +5260,7 @@
       "source_sha256_lf": "aa5563aa0cc8f969fb55dffe6e49b78c8b10c0af19ecd5ad983197ae3ae21b6d",
       "text_status": "read",
       "photos_status": "scoped_story_block_review",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_additional_source_gap_open",
       "report": "reviews/source-audit/trips/spain-2019.json"
     },
     {
@@ -5272,7 +5272,7 @@
       "source_sha256_lf": "26c79c9f0dd0e06585b41883df8e3494af78aa59a5396e62e9e8afee0c3242c6",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_additional_source_gap_open",
       "report": "reviews/source-audit/trips/spain-2019.json"
     },
     {
@@ -5284,7 +5284,7 @@
       "source_sha256_lf": "a0bd79639bc30040a3590acce8a2d6b4f958d4a262eed3cfe812a586ccfdb959",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled_additional_source_gap_open",
       "report": "reviews/source-audit/trips/spain-2019.json"
     },
     {
@@ -5293,10 +5293,10 @@
       "trip_path": "content/europe/spain/teruel-2025",
       "title": "\"Валенсия, Теруэль и Альбаррасин\"",
       "draft": false,
-      "source_sha256_lf": "3cb0f04316dba8dbfc40d3976f1175eccb38ac35a745eb3aa1a8e10dfabc2c73",
+      "source_sha256_lf": "5dac55eca0e53793ef1c7fc10e4ad7bf27c2326e74f62e815bd433b1fee1ede3",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/teruel-2025.json"
     },
     {
@@ -5308,7 +5308,7 @@
       "source_sha256_lf": "a86b0213b8b2b95fff1de76673c66488f87a1a2a1fae69c7b71929fb464a56a0",
       "text_status": "read",
       "photos_status": "not_required_for_text_decisions",
-      "reconciliation_status": "pending",
+      "reconciliation_status": "text_reconciled",
       "report": "reviews/source-audit/trips/bern-2023.json"
     }
   ]

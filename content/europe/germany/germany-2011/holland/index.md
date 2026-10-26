@@ -12,7 +12,7 @@ hero_image: "2011-08-14_08.23.02.jpg"
 hero_card_position: "center 22%"
 date: 2011-08-14
 auto_gallery: false
-attractions: ["rijksmuseum", "zaandam--peter-house"]
+attractions: ["rijksmuseum","zaandam--peter-house"]
 ---
 Первая наша поездка была к родственникам, которые живут на границе с Голландией.
 

@@ -10,7 +10,7 @@ hero_image: "IMG_1310.jpg"
 date: "2018-07-03"
 auto_gallery: false
 draft: false
-attractions: ["banff--muzey-buffalo-nations-luxton","banff--ozero-minnevanka","banff--fairmont-banff-springs"]
+attractions: ["banff--muzey-buffalo-nations-luxton","banff--ozero-minnevanka"]
 ---
 <p>В самом Банфе мы прожили 4 ночи в очень неплохом курортном местечке The Hidden Ridge Resort – деревянные домики с номерами квартирного типа, и бассейн с видом на горы! Все пищат от самого городка, и он конечно живописный в горах, но… мы не фанаты такого: куча дорогих бутиков, рестораны, сувениры… Не жилой, а вычурный. </p>
 

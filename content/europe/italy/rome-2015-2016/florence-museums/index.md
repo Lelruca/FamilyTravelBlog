@@ -14,7 +14,7 @@ places:
   - bargello
   - piazzale-michelangelo
   - santa-croce-florence
-attractions: ["medici-chapels","florence--palatstso-davantsati","bargello","florence--ponte-vekko","piazzale-michelangelo","florence--bazilika-san-miniato-al-monte","santa-croce-florence"]
+attractions: ["medici-chapels","florence--palatstso-davantsati","bargello","florence--ponte-vekko","piazzale-michelangelo","santa-croce-florence"]
 ---
 <p>Следующий день был днем бесплатных музеев и мы планировали “выжать” из него все возможное! Поскольку в Уффици нам вставать ни свет не заря не надо было, мы выбрали первой точкой - капеллу Медичи.</p>
 

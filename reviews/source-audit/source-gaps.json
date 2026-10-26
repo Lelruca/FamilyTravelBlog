@@ -1,5 +1,5 @@
 {
-  "status": "in_progress",
+  "status": "data_prepared_from_all_available_texts_site_integration_separate",
   "items": [
     {
       "label": "В Вашингтон вдвоем! — август 2015",
@@ -8,7 +8,7 @@
       "section_start": "Конец абзаца 41, текстовые абзацы 43–123",
       "text_status": "read",
       "photos_status": "reviewed",
-      "data_status": "prepared_separately_site_scope_open",
+      "data_status": "reconciled",
       "question": "Полный текст и все 89 оригиналов проверены; отдельные данные сохранены в supplemental/washington-2015.json и data/attraction_visits.json#source_reviews. В снимке сайта нет главы этой поездки. Нужно учесть самостоятельный источник при последующей интеграции данных; не присоединять к 2011 году.",
       "objects_found_so_far": [
         "Национальный музей естественной истории",
@@ -24,25 +24,28 @@
         "Ocean City, Maryland — Леля купалась",
         "Ферма по обратной дороге — купили яблоки, название неизвестно"
       ],
-      "report": "reviews/source-audit/supplemental/washington-2015.json"
+      "report": "reviews/source-audit/supplemental/washington-2015.json",
+      "integration_status": "separate_source_review_exported_no_current_chapter"
     },
     {
       "label": "Новый год в Москве — 2003",
       "source": "C:/Users/user/.codex/worktrees/detroit-note/FamilyTravelBlog/content/europe/russia/moscow-new-year-2003/story/index.md",
       "text_status": "read",
       "photos_status": "unavailable_owner_scans_pending",
-      "data_status": "prepared_separately_site_scope_open",
+      "data_status": "reconciled",
       "question": "Все 145 абзацев исходного DOCX полностью прочитаны и совпадают со старым draft. Отдельные решения сохранены в supplemental/moscow-new-year-2003.json. В архиве только текст; ожидаются ранее упомянутые владельцем сканы бумажных фото. Текст не публикуется и не присоединяется к Москве 2012.",
-      "report": "reviews/source-audit/supplemental/moscow-new-year-2003.json"
+      "report": "reviews/source-audit/supplemental/moscow-new-year-2003.json",
+      "integration_status": "separate_source_review_exported_no_current_chapter"
     },
     {
       "label": "У бабушки — ноябрь 2008",
       "source": "C:/Users/user/.codex/worktrees/publish-quebec-2003/FamilyTravelBlog/content/europe/germany/germany-london-brussels-2008/grandma/index.md",
       "text_status": "read",
       "photos_status": "available_material_reviewed",
-      "data_status": "prepared_separately_site_scope_open",
+      "data_status": "reconciled",
       "question": "Весь раздел отпуска 2008 и старая глава У бабушки прочитаны. Поездка Сергея в Москву и вход с бабушкой в Кельнский собор учтены отдельно; Лондон и Брюссель сверены в своих отчётах со всеми 65 оригиналами. Самостоятельная глава о бабушке отсутствует в текущем снимке, интеграция состава остаётся открытой.",
-      "report": "reviews/source-audit/supplemental/grandma-2008.json"
+      "report": "reviews/source-audit/supplemental/grandma-2008.json",
+      "integration_status": "separate_source_review_exported_no_current_chapter"
     }
   ]
 }

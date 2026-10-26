@@ -6,7 +6,7 @@ weight: 1
 chapter_kind: "Заметка"
 layout: "photo-story"
 city: "Hürth"
-places: ["hurth"]
+places: ["hurth","cologne"]
 hero_card_image: "IMG_4109.JPG"
 auto_gallery: false
 ---

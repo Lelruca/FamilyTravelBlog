@@ -13,7 +13,7 @@ places:
   - "lapin-agile"
 date: "2017-01-20"
 source_url: "https://olgau.livejournal.com/236111.html"
-attractions: ["notre-dame-paris","louvre","montmartre","sacre-coeur","lapin-agile"]
+attractions: ["notre-dame-paris","louvre","montmartre","sacre-coeur"]
 ---
 
 <p>Рекордный день! Вышли из дома в 9:30, вернулись в 1:30, еле успели на последнюю электричку :)</p>

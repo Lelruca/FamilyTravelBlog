@@ -17,5 +17,7 @@ for(const reportPath of reportPaths){
   else source_reviews[report.source_id]={source_review:'read',title:report.title,site_chapter:null,visits,place_visits,report:reportPath};
  }
 }
-fs.writeFileSync('data/attraction_visits.json',JSON.stringify({status:'partial',default_for_unlisted_chapters:'not_audited',chapters,source_reviews},null,2)+'\n');
+const inventory=JSON.parse(fs.readFileSync('reviews/source-audit/inventory.json','utf8'));
+const allTextRead=inventory.chapters.every(c=>chapters[c.file]?.source_review==='read');
+fs.writeFileSync('data/attraction_visits.json',JSON.stringify({status:allTextRead?'all_current_chapter_texts_reviewed_limits_open':'partial',default_for_unlisted_chapters:'not_audited',chapters,source_reviews},null,2)+'\n');
 console.log(`Visit evidence exported for ${Object.keys(chapters).length} chapters; all others remain unaudited.`);

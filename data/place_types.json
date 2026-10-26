@@ -350,22 +350,6 @@
       "data/attractions.json#bioparc-valencia"
     ]
   },
-  "bodeguita-del-medio": {
-    "types": [
-      "restaurant"
-    ],
-    "search_terms": [
-      "ресторан",
-      "рестораны",
-      "бар",
-      "кабаре",
-      "restaurant",
-      "cabaret"
-    ],
-    "classification_sources": [
-      "data/attractions.json#bodeguita-del-medio"
-    ]
-  },
   "bonaventure-island": {
     "types": [
       "island"
@@ -1263,22 +1247,6 @@
       "data/attractions.json#kunsthistorisches-museum"
     ]
   },
-  "lapin-agile": {
-    "types": [
-      "restaurant"
-    ],
-    "search_terms": [
-      "ресторан",
-      "рестораны",
-      "бар",
-      "кабаре",
-      "restaurant",
-      "cabaret"
-    ],
-    "classification_sources": [
-      "data/attractions.json#lapin-agile"
-    ]
-  },
   "legoland-windsor": {
     "types": [
       "amusement_park"
@@ -2100,24 +2068,6 @@
       "data/attractions.json#nauticus"
     ]
   },
-  "notre-dame-de-la-garde": {
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ],
-    "classification_sources": [
-      "data/attractions.json#notre-dame-de-la-garde"
-    ]
-  },
   "notre-dame-paris": {
     "types": [
       "cathedral",
@@ -2882,42 +2832,6 @@
       "data/attractions.json#sagrada-familia"
     ]
   },
-  "saint-etienne-du-mont": {
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ],
-    "classification_sources": [
-      "data/attractions.json#saint-etienne-du-mont"
-    ]
-  },
-  "saint-severin": {
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ],
-    "classification_sources": [
-      "data/attractions.json#saint-severin"
-    ]
-  },
   "sainte-chapelle": {
     "types": [
       "chapel"
@@ -2932,24 +2846,6 @@
     ],
     "classification_sources": [
       "data/attractions.json#sainte-chapelle"
-    ]
-  },
-  "sainte-clotilde": {
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ],
-    "classification_sources": [
-      "data/attractions.json#sainte-clotilde"
     ]
   },
   "san-francisco-el-grande": {
@@ -3032,24 +2928,6 @@
     ],
     "classification_sources": [
       "data/attractions.json#santa-croce-florence"
-    ]
-  },
-  "santa-maria-del-mar": {
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ],
-    "classification_sources": [
-      "data/attractions.json#santa-maria-del-mar"
     ]
   },
   "santo-tomas-avila": {
@@ -3309,24 +3187,6 @@
     ],
     "classification_sources": [
       "data/attractions.json#technisches-museum-wien"
-    ]
-  },
-  "temple-church": {
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ],
-    "classification_sources": [
-      "data/attractions.json#temple-church"
     ]
   },
   "temple-heaven": {
@@ -3843,6 +3703,291 @@
     ],
     "classification_sources": [
       "data/attractions.json#disneyland-anaheim"
+    ]
+  },
+  "arnhem-war-museum": {
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ],
+    "classification_sources": [
+      "content/places/arnhem-war-museum/_index.md"
+    ]
+  },
+  "hohenzollern-castle": {
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ],
+    "classification_sources": [
+      "content/places/hohenzollern-castle/_index.md"
+    ]
+  },
+  "kootenay-national-park": {
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/kootenay-national-park/_index.md"
+    ]
+  },
+  "yoho-national-park": {
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/yoho-national-park/_index.md"
+    ]
+  },
+  "niagara-falls": {
+    "types": [
+      "waterfall"
+    ],
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall"
+    ],
+    "classification_sources": [
+      "content/places/niagara-falls/_index.md"
+    ]
+  },
+  "vaux-le-vicomte": {
+    "types": [
+      "palace",
+      "park"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/vaux-le-vicomte/_index.md"
+    ]
+  },
+  "monte-oliveto-maggiore": {
+    "types": [
+      "monastery",
+      "church"
+    ],
+    "search_terms": [
+      "монастырь",
+      "монастыри",
+      "монастыря",
+      "монастырей",
+      "аббатство",
+      "аббатства",
+      "monastery",
+      "abbey",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "content/places/monte-oliveto-maggiore/_index.md"
+    ]
+  },
+  "sacro-bosco": {
+    "types": [
+      "park",
+      "artwork"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "искусство",
+      "фреска",
+      "фрески",
+      "роспись",
+      "artwork",
+      "mural"
+    ],
+    "classification_sources": [
+      "content/places/sacro-bosco/_index.md"
+    ]
+  },
+  "los-cardones": {
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/los-cardones/_index.md"
+    ]
+  },
+  "hornocal": {
+    "types": [
+      "mountain",
+      "viewpoint"
+    ],
+    "search_terms": [
+      "гора",
+      "горы",
+      "холм",
+      "холмы",
+      "mountain",
+      "hill",
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck"
+    ],
+    "classification_sources": [
+      "content/places/hornocal/_index.md"
+    ]
+  },
+  "teotihuacan": {
+    "types": [
+      "archaeological_site"
+    ],
+    "search_terms": [
+      "археология",
+      "археологический памятник",
+      "руины",
+      "раскопки",
+      "archaeology",
+      "ruins"
+    ],
+    "classification_sources": [
+      "content/places/teotihuacan/_index.md"
+    ]
+  },
+  "chichen-itza": {
+    "types": [
+      "archaeological_site"
+    ],
+    "search_terms": [
+      "археология",
+      "археологический памятник",
+      "руины",
+      "раскопки",
+      "archaeology",
+      "ruins"
+    ],
+    "classification_sources": [
+      "content/places/chichen-itza/_index.md"
+    ]
+  },
+  "uxmal": {
+    "types": [
+      "archaeological_site"
+    ],
+    "search_terms": [
+      "археология",
+      "археологический памятник",
+      "руины",
+      "раскопки",
+      "archaeology",
+      "ruins"
+    ],
+    "classification_sources": [
+      "content/places/uxmal/_index.md"
+    ]
+  },
+  "iguazu-falls": {
+    "types": [
+      "waterfall",
+      "park"
+    ],
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ],
+    "classification_sources": [
+      "content/places/iguazu-falls/_index.md"
     ]
   },
   "sand-city": {
@@ -4411,8 +4556,7 @@
   "bussaco": {
     "types": [
       "palace",
-      "park",
-      "hotel"
+      "park"
     ],
     "search_terms": [
       "дворец",
@@ -4430,12 +4574,7 @@
       "сада",
       "садов",
       "park",
-      "garden",
-      "отель",
-      "отели",
-      "гостиница",
-      "гостиницы",
-      "hotel"
+      "garden"
     ],
     "classification_sources": [
       "content/places/bussaco/_index.md"
@@ -4632,22 +4771,6 @@
     ],
     "classification_sources": [
       "content/places/tulum/_index.md"
-    ]
-  },
-  "chichen-itza": {
-    "types": [
-      "archaeological_site"
-    ],
-    "search_terms": [
-      "археология",
-      "археологический памятник",
-      "руины",
-      "раскопки",
-      "archaeology",
-      "ruins"
-    ],
-    "classification_sources": [
-      "content/places/chichen-itza/_index.md"
     ]
   },
   "ek-balam": {

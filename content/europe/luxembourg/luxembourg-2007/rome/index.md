@@ -6,7 +6,7 @@ weight: 3
 chapter_kind: "Заметка"
 layout: "photo-story"
 city: "Rome"
-places: ["rome", "vatican"]
+places: ["rome","vatican"]
 hero_card_image: "IMG_4145.JPG"
 auto_gallery: false
 attractions: ["colosseum","rome--roman-forum","vatican--muzei-vatikana","vatican--sikstinskaya-kapella","vatican--sobor-svyatogo-petra"]

@@ -13,7 +13,7 @@ places:
   - blois
   - cellettes
 hero_image: "IMG_1565.jpg"
-attractions: ["cadre-noir","saumur--chateau-bouvet-ladubay","villandry--chateau-villandry","blois--chateau-blois","cellettes--chateau-la-rozelle"]
+attractions: ["cadre-noir","villandry--chateau-villandry","blois--chateau-blois"]
 ---
 
 {{< beside "IMG_1530.jpg" >}}

@@ -34,7 +34,7 @@ if(process.argv.includes('--sync-reports')){
       if(!reviewed)continue;
       c.text_status=reviewed.text_status;
       c.photos_status=reviewed.photos_status || (report.photographs.status==='reviewed'?'reviewed':'unreviewed');
-      c.reconciliation_status=report.status==='complete'?'complete':c.photos_status==='reviewed'?'identifications_open':'pending';
+      c.reconciliation_status=report.status==='complete'?'complete':report.reconciliation?.status || (c.photos_status==='reviewed'?'identifications_open':'pending');
       c.report=`${dir}/${name}`;
     }
   }

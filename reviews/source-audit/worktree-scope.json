@@ -1,7 +1,7 @@
 {
-  "status": "pending_editorial_reconciliation",
+  "status": "text_reconciled_material_limits_recorded",
   "baseline_chapters": 436,
-  "method": "Inventory/hash comparison only; historical publish checkouts and active drafts must be distinguished manually.",
+  "method": "После инвентаризации сравнены тексты 172 уникальных вариантов из 40 рабочих копий. Совпадающие/содержащиеся абзацы сопоставлены с уже прочитанными главами; все отличающиеся абзацы прочитаны. Это сверка текстов в рамках задания по данным, не заявление о покадровом просмотре старых фотораскладок.",
   "worktrees": [
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog",
@@ -297,7 +297,7 @@
           "file_sha256": "6bbf5c453399db39dbb79b795a70b296870e241867cc9f2a563705dcf9e00651"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/.codex/worktrees/8777/FamilyTravelBlog",
@@ -306,7 +306,7 @@
       "chapter_count": 133,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/.codex/worktrees/detroit-note/FamilyTravelBlog",
@@ -327,7 +327,7 @@
           "file_sha256": "3c36de085806f187640a91b1cac98a7b8aa2a8c21ba2fa08f17e79b45eb473ca"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
@@ -698,7 +698,7 @@
           "file_sha256": "a1f3fd7fee46c42ca7e0b2268bb861267abd9e68d0897939ebf34211c1ca9771"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/.codex/worktrees/publish-quebec-2003/FamilyTravelBlog",
@@ -723,7 +723,7 @@
         }
       ],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/all-drafts",
@@ -773,7 +773,7 @@
           "file_sha256": "f8970832d918357d80a4f01118b6252342a020f4eabf022446381ef1fd4c61cc"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/andorra-2026-review",
@@ -782,7 +782,7 @@
       "chapter_count": 317,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
@@ -1077,7 +1077,7 @@
           "file_sha256": "d24dc3519f12810db24d4b0f2614f2c1da025f280a2cf6b20e9d4432ae15f216"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/attraction-search",
@@ -1086,7 +1086,7 @@
       "chapter_count": 436,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/countries-layout",
@@ -1095,7 +1095,7 @@
       "chapter_count": 436,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/europe-autumn-review",
@@ -1155,7 +1155,7 @@
           "file_sha256": "48b9558cb2cec6653611a3ff973f44c56bc7b748c97985ec1d7e7650936e21fe"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/europe-autumn-review/.tmp/europe-autumn-publish",
@@ -1164,7 +1164,7 @@
       "chapter_count": 295,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/fix-south-america-map",
@@ -1173,7 +1173,7 @@
       "chapter_count": 247,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/lightbox-captions",
@@ -1182,7 +1182,7 @@
       "chapter_count": 218,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/occitanie-mosaics",
@@ -1257,7 +1257,7 @@
           "file_sha256": "f8970832d918357d80a4f01118b6252342a020f4eabf022446381ef1fd4c61cc"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/places-full-audit",
@@ -1266,7 +1266,7 @@
       "chapter_count": 436,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/places-geography",
@@ -1275,7 +1275,7 @@
       "chapter_count": 393,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/publish-china-progress",
@@ -1290,7 +1290,7 @@
           "file_sha256": "f0d3cbac95c19a4935a7c754b49f3083ffa1a1a3d12e66e24f29031a505ec5b1"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/publish-country-map",
@@ -1305,7 +1305,7 @@
           "file_sha256": "f0d3cbac95c19a4935a7c754b49f3083ffa1a1a3d12e66e24f29031a505ec5b1"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/publish-europe-friends-2019",
@@ -1314,7 +1314,7 @@
       "chapter_count": 182,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/publish-gaspe",
@@ -1323,7 +1323,7 @@
       "chapter_count": 218,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/publish-girls-europe-2017",
@@ -1343,7 +1343,7 @@
           "file_sha256": "b2999d8fcbb55914e8f98153add296846703a1f4d99c437ff6c07dc5ac16cf8b"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/publish-honeymoon-2017",
@@ -1352,7 +1352,7 @@
       "chapter_count": 151,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/publish-mexico-2025",
@@ -1361,7 +1361,7 @@
       "chapter_count": 305,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/publish-places",
@@ -1376,7 +1376,7 @@
           "file_sha256": "f0d3cbac95c19a4935a7c754b49f3083ffa1a1a3d12e66e24f29031a505ec5b1"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/publish-rome",
@@ -1396,7 +1396,7 @@
           "file_sha256": "b2999d8fcbb55914e8f98153add296846703a1f4d99c437ff6c07dc5ac16cf8b"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/publish-south-america-2026",
@@ -1405,7 +1405,7 @@
       "chapter_count": 233,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/publish-year-archive",
@@ -1420,7 +1420,7 @@
           "file_sha256": "f0d3cbac95c19a4935a7c754b49f3083ffa1a1a3d12e66e24f29031a505ec5b1"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/short-trips",
@@ -1429,7 +1429,7 @@
       "chapter_count": 314,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/short-trips-coords",
@@ -1438,7 +1438,7 @@
       "chapter_count": 318,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/vancouver-2023-review",
@@ -1447,7 +1447,7 @@
       "chapter_count": 318,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog-alberta-2018",
@@ -1456,7 +1456,7 @@
       "chapter_count": 326,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog-alberta-2018/.tmp/publish-rockies-2018",
@@ -1465,7 +1465,7 @@
       "chapter_count": 330,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog-east-germany-2025",
@@ -1474,7 +1474,7 @@
       "chapter_count": 163,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog-grandma-review",
@@ -1770,7 +1770,7 @@
           "file_sha256": "a1f3fd7fee46c42ca7e0b2268bb861267abd9e68d0897939ebf34211c1ca9771"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog-honeymoon-2017",
@@ -1785,7 +1785,7 @@
           "file_sha256": "f0d3cbac95c19a4935a7c754b49f3083ffa1a1a3d12e66e24f29031a505ec5b1"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
@@ -2035,7 +2035,7 @@
           "file_sha256": "f8970832d918357d80a4f01118b6252342a020f4eabf022446381ef1fd4c61cc"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog-publish-toronto",
@@ -2055,7 +2055,7 @@
           "file_sha256": "b2999d8fcbb55914e8f98153add296846703a1f4d99c437ff6c07dc5ac16cf8b"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog-spain-2019",
@@ -2064,7 +2064,7 @@
       "chapter_count": 436,
       "new_files": [],
       "changed_bodies": [],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
     },
     {
       "root": "C:/Users/user/Projects/FamilyTravelBlog-toronto-2016",
@@ -2360,7 +2360,1397 @@
           "file_sha256": "a1f3fd7fee46c42ca7e0b2268bb861267abd9e68d0897939ebf34211c1ca9771"
         }
       ],
-      "status": "inventory_only_not_editorially_reconciled"
+      "status": "text_reconciled_against_read_sources"
+    }
+  ],
+  "reconciliation": {
+    "baseline_chapters": 436,
+    "worktrees": 40,
+    "unique_text_variants": 172,
+    "variants_with_differences": 12,
+    "standalone_sources": [
+      "reviews/source-audit/supplemental/moscow-new-year-2003.json",
+      "reviews/source-audit/supplemental/grandma-2008.json",
+      "reviews/source-audit/supplemental/washington-2015.json"
+    ],
+    "old_paths": "Восемнадцать глав Рождества имеют точные текстовые соответствия в текущем бельгийском пути. Старые Лондон/Брюссель 2008 соответствуют отдельным нынешним коротким поездкам. Их данные не дублируются.",
+    "different_texts": "Детройт сопоставлен с полным ранее прочитанным DOCX и нынешними двумя главами. Различия Страны Басков — прежние редакции, опечатки, соединение абзацев и сведения, уже учтённые полными исходными постами. Манхайм и день рождения — прежние варианты, полностью покрытые дополнительными авторскими текстами. Новых неучтённых рассказанных объектов не обнаружено.",
+    "limits": "Различия порядка фотографий, мозаик и фонов в прежних ветках не являются новыми рассказами и не разбираются покадрово по уточнённому владельцем объёму. Отсутствующие исходники, повреждённый файл и непросмотренные видео перечислены в QUESTIONS.md."
+  },
+  "variants": [
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/atlantic-canada-2014/conclusion/index.md",
+      "current_file": "content/americas/canada/atlantic-canada-2014/conclusion/index.md",
+      "sha256": "7bcec9247f250a9e9ce5ae11b1c2cde833b69d0cc1eaf3ac8fb0e3be92e494c4",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/atlantic-canada-2014/day-01/index.md",
+      "current_file": "content/americas/canada/atlantic-canada-2014/day-01/index.md",
+      "sha256": "e4011304ddbaaa112e536ba208b4ff3bcd78812d36347cc7f294786e011cc176",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/atlantic-canada-2014/day-02/index.md",
+      "current_file": "content/americas/canada/atlantic-canada-2014/day-02/index.md",
+      "sha256": "7fb977acd5203bc1af5e4aa427fff1e88707c62ddc042e81531e6e1557dcba69",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/atlantic-canada-2014/day-03/index.md",
+      "current_file": "content/americas/canada/atlantic-canada-2014/day-03/index.md",
+      "sha256": "88c251281d581883ff0e71e4d848d9436b530ff96beb9c9178119e14f4fb3a60",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/atlantic-canada-2014/day-04/index.md",
+      "current_file": "content/americas/canada/atlantic-canada-2014/day-04/index.md",
+      "sha256": "2b806d6c94800412eca0c0e6a7d7e0ba8536a12da8978dd7509e5c3ee53d162e",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/atlantic-canada-2014/day-05/index.md",
+      "current_file": "content/americas/canada/atlantic-canada-2014/day-05/index.md",
+      "sha256": "5b3ae60fef1225ce2099772db0c1b1fd41a756ad3fc77777dcd757937882ef38",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/atlantic-canada-2014/day-06/index.md",
+      "current_file": "content/americas/canada/atlantic-canada-2014/day-06/index.md",
+      "sha256": "a637d206841a10a3d7c8a086fe261b2c2222b48395be1ffc27a9df16d4b08d45",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/atlantic-canada-2014/day-07/index.md",
+      "current_file": "content/americas/canada/atlantic-canada-2014/day-07/index.md",
+      "sha256": "210416e4b963a1476a9bf440216762ffe6bd6db111011c774d0b60a2b3c563d6",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/atlantic-canada-2014/day-08/index.md",
+      "current_file": "content/americas/canada/atlantic-canada-2014/day-08/index.md",
+      "sha256": "7b6155a20cef8a0e86f0417057ba2d25bda497afa43353258ffc790397fb3a7b",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/atlantic-canada-2014/day-09/index.md",
+      "current_file": "content/americas/canada/atlantic-canada-2014/day-09/index.md",
+      "sha256": "73d4cce7726999a8fd6cb5da9a10c2ce18875bb1680aa6d0a28c5d6822e7a22d",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/atlantic-canada-2014/day-10/index.md",
+      "current_file": "content/americas/canada/atlantic-canada-2014/day-10/index.md",
+      "sha256": "72031c2477c43b41debb3f402c6e47dd3bcbf6e3f4be083eb5b548a8aa3a792f",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/atlantic-canada-2014/day-11/index.md",
+      "current_file": "content/americas/canada/atlantic-canada-2014/day-11/index.md",
+      "sha256": "dd7bbbe4dfecb613cabec9ced6bfd43ba393e34198fcce4ec41be8213d3209b3",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/atlantic-canada-2014/day-12/index.md",
+      "current_file": "content/americas/canada/atlantic-canada-2014/day-12/index.md",
+      "sha256": "2e66180cc8120f73c398548d0fa0ce7992bb2f8f05b912996749c508b0b4d87e",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/atlantic-canada-2014/day-13/index.md",
+      "current_file": "content/americas/canada/atlantic-canada-2014/day-13/index.md",
+      "sha256": "d708b084a1f68444551b53d837f18661163f19729f0c986d0857ee21ca841e88",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/atlantic-canada-2014/day-14/index.md",
+      "current_file": "content/americas/canada/atlantic-canada-2014/day-14/index.md",
+      "sha256": "f448f2ebce8c298932893578c1e2cf8f416c5f84c03bb941337ee88f19cffaa3",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/quebec-virginia-2013/canada-games/index.md",
+      "current_file": "content/americas/canada/quebec-virginia-2013/canada-games/index.md",
+      "sha256": "f229372faa66a2629785e7678aab40430b602d3f6f5f9d1dd7787a0d46363350",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/quebec-virginia-2013/magog/index.md",
+      "current_file": "content/americas/canada/quebec-virginia-2013/magog/index.md",
+      "sha256": "d0e871a9c0851522e2bdbbfe5037c71a0681236ee5e983a766222f8be97cfd3e",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-1/index.md",
+      "current_file": "content/americas/canada/quebec-virginia-2013/virginia-beach-1/index.md",
+      "sha256": "8c7e12969e63dd9877faeca49414d9ccc6eb507c88789e6357022bfe8e7c73f3",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-2/index.md",
+      "current_file": "content/americas/canada/quebec-virginia-2013/virginia-beach-2/index.md",
+      "sha256": "4a11f59826364d7ad060ec5f62a4ce0aa0d8ddbfda7f756f981e316d91af8a3e",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-3/index.md",
+      "current_file": "content/americas/canada/quebec-virginia-2013/virginia-beach-3/index.md",
+      "sha256": "9405dc36ce7cefc912ff9e46615e02bdc21f633174559dc266fe205e017c1cb4",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/americas/usa/detroit-windsor-2016/story/index.md",
+      "current_file": "content/americas/usa/detroit-windsor-2016/story/index.md",
+      "sha256": "b492bb0282c67e282ab006df8ddc336f489ca96a7b46f4ca1004893bad253319",
+      "status": "different_paragraphs_read_and_reconciled",
+      "different_paragraphs": 5
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/alps/index.md",
+      "current_file": "content/europe/france/christmas-2014-2015/alps/index.md",
+      "sha256": "4b0cd3a5af044bc1fc32c6c2edc3d212009d01fcbb811365b917a3333ea18755",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/alps-final/index.md",
+      "current_file": "content/europe/france/christmas-2014-2015/alps-final/index.md",
+      "sha256": "9f88e9eed03148c742e089ca67dae733ff5be40b471db7f86cf1b0e7c4d374ba",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/english-children/index.md",
+      "current_file": "content/europe/france/christmas-2014-2015/english-children/index.md",
+      "sha256": "110496386955707e69457db7d0846acd0b47ce9eb33adfe8673d99fd24b4b28b",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/france-2012/cadre-noir-loire/index.md",
+      "current_file": "content/europe/france/france-2012/cadre-noir-loire/index.md",
+      "sha256": "7de18ea9120440f3735808582ae6d319b1ae01724f210f22138f37c77ea81688",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/france-2012/chambord-fontainebleau/index.md",
+      "current_file": "content/europe/france/france-2012/chambord-fontainebleau/index.md",
+      "sha256": "c5c566cb8d8e1395e9119fdcff0a26ed429c86f22212a5a596a4c1349deccff5",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/france-2012/le-pin-d-day/index.md",
+      "current_file": "content/europe/france/france-2012/le-pin-d-day/index.md",
+      "sha256": "7e5d5bc13f12ca3d4507fafd879469f46c3f5badc0a4a9b71d3cdd256600181a",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/france-2012/mont-saint-michel/index.md",
+      "current_file": "content/europe/france/france-2012/mont-saint-michel/index.md",
+      "sha256": "e7e66f694f8d5f6e575ccda946cc6b511062cca7cad2b1a9d54adf0d958ccd25",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/france-2012/paris-1/index.md",
+      "current_file": "content/europe/france/france-2012/paris-1/index.md",
+      "sha256": "deefeb0bec4073a9b3fc3acb0712c7470371e70838213a5cc809dca9e24f877f",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/france-2012/paris-2/index.md",
+      "current_file": "content/europe/france/france-2012/paris-2/index.md",
+      "sha256": "10482ad8f067764c91beebca8b4f4d3b28342e6897a04493b11c16d3626a5122",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/france-2012/puy-du-fou/index.md",
+      "current_file": "content/europe/france/france-2012/puy-du-fou/index.md",
+      "sha256": "b5e6d12cb48ac548c64bbe87f931720e7aab35ac22c6b64e00287c8c633b1084",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/germany/germany-2011/alsace/index.md",
+      "current_file": "content/europe/germany/germany-2011/alsace/index.md",
+      "sha256": "79335e5b49a3c3290fb569b59191a48a3a0c47e443ca31884e778c41f33425a6",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/germany/germany-2011/bavaria/index.md",
+      "current_file": "content/europe/germany/germany-2011/bavaria/index.md",
+      "sha256": "9bc1565fd9cc23ccaa54a59846806ad17bb13a7aed9124484698c954a0fba8e3",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/germany/germany-2011/belgium/index.md",
+      "current_file": "content/europe/germany/germany-2011/belgium/index.md",
+      "sha256": "afa642b9be40705109c5f0da6e617eb51b4e66c2eae9a841bdc9334c8e43cfd4",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/germany/germany-2011/castles/index.md",
+      "current_file": "content/europe/germany/germany-2011/castles/index.md",
+      "sha256": "2de3e711c799143f3388e556ab2ad764f7aa3e5327b773bf77974817525b0a7f",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/germany/germany-2011/holland/index.md",
+      "current_file": "content/europe/germany/germany-2011/holland/index.md",
+      "sha256": "20df494effcfb2e4e286d51dc74e5e1a2737e81891307cad214cf5eb9a2a66cf",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/germany/germany-2011/overview/index.md",
+      "current_file": "content/europe/germany/germany-2011/overview/index.md",
+      "sha256": "5177702a614652ab1fa969ba50a009a741344ec724046094af8dfebc7585d640",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/germany/germany-2011/switzerland-1/index.md",
+      "current_file": "content/europe/germany/germany-2011/switzerland-1/index.md",
+      "sha256": "d31560d6b2352ec3b7c084cc0bc46a29dc7bf7112f010650860b9467e8d3fb82",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/germany/germany-2011/switzerland-2/index.md",
+      "current_file": "content/europe/germany/germany-2011/switzerland-2/index.md",
+      "sha256": "0b31fe12707903b27b07cff57c98dc1e486cd987ea93b3d9de8482ba02801014",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/antwerp/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/antwerp/index.md",
+      "sha256": "8e439cea14cd3729af8e32bdeaa8ab1e2d4979a99ae67f092c65bb16931ab591",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/autoworld/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/autoworld/index.md",
+      "sha256": "e47187a9eca32ed7567c699a5d85a0f61bcd378b9afe0e79b5d348666b0f435f",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/beaune/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/beaune/index.md",
+      "sha256": "6d4598328f85cfbaf3dc1fcba8d8578f52d21c3872637989a3fb673aaf2c6344",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/bruges/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/bruges/index.md",
+      "sha256": "eea8dedc96b47bafb8ed000eeaf536e84e0e92985f2037d09ab51520a8c582a4",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/brussels/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/brussels/index.md",
+      "sha256": "716298b1b77b98d0b10008dbc0497e0941d714c107c3f8cf41dc1fa608cb596e",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/cluny/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/cluny/index.md",
+      "sha256": "908f7d700560a5396e30f1d955215684b81e2d0f3e3d9c3195f60ff907200afd",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/dijon/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/dijon/index.md",
+      "sha256": "2f7f25460a2b760586e75a404ef9725ac192e1a77a3fd31c2dd3cabe5b34d25c",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/eupen/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/eupen/index.md",
+      "sha256": "43075958075e3e836325f7b36d954308c1725f6681426d0cb67942ef562d7ffd",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/european-talks/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/european-talks/index.md",
+      "sha256": "0d25068db31a2260b7fd1364a52cc237ba98936e4d9c243b066440f263bb2e36",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/ghent/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/ghent/index.md",
+      "sha256": "694e97f71e77cfdf46188611c82163aa1bebc0fbadf333eab7d8d2b194044877",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/kleve/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/kleve/index.md",
+      "sha256": "f40bb81e38a52b2e9502156fc0812dd4ff84221fd100062d796808f6797de494",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/kroller-muller/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/kroller-muller/index.md",
+      "sha256": "646c58c10931c96babda64a3c8a71e147e18341123353cb02573bb46b2bcdb79",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/lyon/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/lyon/index.md",
+      "sha256": "2c4584c382a087883924b96336412c2bd73c1dab6a22e15e83d6f04d85dae19b",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/military-museum/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/military-museum/index.md",
+      "sha256": "7d44f73862da95ba647d5dbfef64fa099c74b1d307cb770f9bd29b6250a0d68d",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/musical-instruments/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/musical-instruments/index.md",
+      "sha256": "5fba546cc9cb626b613044f07935205c87ffddd49fef569a866bad1ce1db2ab4",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/nancy/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/nancy/index.md",
+      "sha256": "1d52fb570871db05be32edd9f24777767f58c17bdd8c7272ae4f8b18eaf7889a",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/netherlands/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/netherlands/index.md",
+      "sha256": "17fb3f5f8b89bb498cc1a26a7c333fcbfb88ca67dd55211d692bb0a329fddf06",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog",
+      "file": "content/europe/france/christmas-2014-2015/relatives/index.md",
+      "current_file": "content/europe/belgium/christmas-2014-2015/relatives/index.md",
+      "sha256": "b3b83d8ce906212224a5d10112b00e9685325b3090a9f3549df94c7a4f2872e2",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/detroit-note/FamilyTravelBlog",
+      "file": "content/europe/luxembourg/luxembourg-2007/grandma/index.md",
+      "current_file": "content/europe/luxembourg/luxembourg-2007/grandma/index.md",
+      "sha256": "0fe294d5095034d9db6011dd5775fbfc26b5e01673bba3818e872c8e1bb69306",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/detroit-note/FamilyTravelBlog",
+      "file": "content/europe/russia/moscow-new-year-2003/story/index.md",
+      "sha256": "624a350321a169880f18876c849e9c04c3f68572a48081a557d7503944147ebd",
+      "status": "covered_by_read_supplemental_source",
+      "different_paragraphs": 145
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/albufeira/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/albufeira/index.md",
+      "sha256": "9ee8c9021a71a49cbebeb2c10d74096ef8c44e228892638facbfe2037441b9f6",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/alhambra/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/alhambra/index.md",
+      "sha256": "2bfc1f34ce6552daff46d6125c479d05d19c8c16e25d0b12dea3bf75625f1daf",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/almunecar/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/almunecar/index.md",
+      "sha256": "1510bf2fc0e9f9b5430e697020bc5a0b4992bad35f0eac22ace20c5c723ec7da",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/arraiolos/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/arraiolos/index.md",
+      "sha256": "4de3e1f46a93415317b6ee2ce2f322a71c4e300fcfe1fd088a8a3f47ac176b67",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/belem/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/belem/index.md",
+      "sha256": "d1e7a5bf114882434d06caae9e4457b689ca9cb6e6b43feee98bb9c3f0c0d074",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/belmonte/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/belmonte/index.md",
+      "sha256": "da048084c79833c324a1cd05a4817fdd412bfac0833eb6ea8ad2fce6f5b49cae",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/consuegra/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/consuegra/index.md",
+      "sha256": "05bb0ca15a4f1f8f45a84fa188277df0cbf40bb8f92af00ce1355958dc1cb5a2",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/escorial-salamanca/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/escorial-salamanca/index.md",
+      "sha256": "d9993b81e1c0615e87c499d06a429f3be52e69a8b3252fc8d3ece78335682836",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/jerez-seville/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/jerez-seville/index.md",
+      "sha256": "40ee1ec7be207d05d41b57789aa089ba6d55d9c1929771174955feb25be668c5",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/lisbon/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/lisbon/index.md",
+      "sha256": "c286e38236c6f0b4dda678075f2a4a1bb782a5c00a2dc89d3c56e1621df3ad29",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/lisbon-final/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/lisbon-final/index.md",
+      "sha256": "55b504d13be38d1eb32c81b71c1c5db2ae8a27cfde296b9e342051950f215492",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/madrid/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/madrid/index.md",
+      "sha256": "3c645f71ffb3beb26e6c45920cd78cc93514995bb23b3d3003168edb910da015",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/seville/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/seville/index.md",
+      "sha256": "9651a3df7dc4a048e1cbd1372a7d924b81ad4243452bf6bdccf07247e294a116",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/sintra/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/sintra/index.md",
+      "sha256": "e35eb30cf142f7b31f77a210518646690bb44daeaf687076c52a409d4471d2ec",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/toledo/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/toledo/index.md",
+      "sha256": "201b7816d4e4b2ea1c6ad56405295b1063bbcdd8fcac9748e816aa1f0499a59b",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/new-england-redesign/FamilyTravelBlog",
+      "file": "content/europe/portugal/portugal-spain-2016/tomar-batalha-nazare/index.md",
+      "current_file": "content/europe/portugal/portugal-spain-2016/tomar-batalha-nazare/index.md",
+      "sha256": "ee234f4f0d7f11fad27de25d201410dcf5f3d39f2f639f6d67285e13eccb9338",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/publish-quebec-2003/FamilyTravelBlog",
+      "file": "content/europe/germany/germany-london-brussels-2008/brussels/index.md",
+      "current_file": "content/europe/belgium/brussels-2008/story/index.md",
+      "sha256": "e8ffc813f5d3c0e8a60c2cd03e7950a17c93983e5a16d4d135e8398b2729bd34",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/publish-quebec-2003/FamilyTravelBlog",
+      "file": "content/europe/germany/germany-london-brussels-2008/grandma/index.md",
+      "sha256": "e4e9c9d4031fa2131def6cdf023f94e8245a00d422375367d6278d7cedbb7605",
+      "status": "covered_by_read_supplemental_source",
+      "different_paragraphs": 8
+    },
+    {
+      "root": "C:/Users/user/.codex/worktrees/publish-quebec-2003/FamilyTravelBlog",
+      "file": "content/europe/germany/germany-london-brussels-2008/london/index.md",
+      "current_file": "content/europe/england/london-cambridge-2008/story/index.md",
+      "sha256": "e7af2dfdf181a57e6f12f9a222dfb49d876149f39b4b58350cae15f113cf9d9a",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/all-drafts",
+      "file": "content/europe/spain/basque-castile-2024/bilbao/index.md",
+      "current_file": "content/europe/spain/basque-castile-2024/bilbao/index.md",
+      "sha256": "d9e2f73ed4d80bdb635bc0161e2bab4564b93c676af0bba97dfc41acf9881df4",
+      "status": "different_paragraphs_read_and_reconciled",
+      "different_paragraphs": 6
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/all-drafts",
+      "file": "content/europe/spain/basque-castile-2024/isabella/index.md",
+      "current_file": "content/europe/spain/basque-castile-2024/isabella/index.md",
+      "sha256": "8d1e3062ef1737871c131b1c9875afa64ff72f9db555e29adb233640ae289236",
+      "status": "different_paragraphs_read_and_reconciled",
+      "different_paragraphs": 2
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/all-drafts",
+      "file": "content/europe/spain/basque-castile-2024/miraflores-burgos/index.md",
+      "current_file": "content/europe/spain/basque-castile-2024/miraflores-burgos/index.md",
+      "sha256": "3cdc0bbf7d93ff35bc5a819bccf2bb7021e1a1540f25f73004ebc6f81c11a154",
+      "status": "different_paragraphs_read_and_reconciled",
+      "different_paragraphs": 1
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/all-drafts",
+      "file": "content/europe/spain/basque-castile-2024/penafiel-wine/index.md",
+      "current_file": "content/europe/spain/basque-castile-2024/penafiel-wine/index.md",
+      "sha256": "ee5fdce1be7d76f0c67dbcdcb68892fd585d83b9a1717fff4cf7cc714a29dba4",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/all-drafts",
+      "file": "content/europe/spain/basque-castile-2024/san-bernabe/index.md",
+      "current_file": "content/europe/spain/basque-castile-2024/san-bernabe/index.md",
+      "sha256": "da5c7dd400246ca8103c904088786dde834395811d4bcfef0ed18162156b8ebf",
+      "status": "different_paragraphs_read_and_reconciled",
+      "different_paragraphs": 2
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/all-drafts",
+      "file": "content/europe/spain/basque-castile-2024/san-sebastian/index.md",
+      "current_file": "content/europe/spain/basque-castile-2024/san-sebastian/index.md",
+      "sha256": "800392b211bcc6e1b649e66e9696f7d33a748758942d47ec9b79be44bd3ce394",
+      "status": "different_paragraphs_read_and_reconciled",
+      "different_paragraphs": 2
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/all-drafts",
+      "file": "content/europe/spain/basque-castile-2024/segovia/index.md",
+      "current_file": "content/europe/spain/basque-castile-2024/segovia/index.md",
+      "sha256": "42cf020746c196c8f94c83f1f391bc9998982573bccc2bf945ced48f8fc69206",
+      "status": "different_paragraphs_read_and_reconciled",
+      "different_paragraphs": 2
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/all-drafts",
+      "file": "content/europe/spain/basque-castile-2024/toledo/index.md",
+      "current_file": "content/europe/spain/basque-castile-2024/toledo/index.md",
+      "sha256": "037069261a476ca29912aa9db8d9b82f024df780c06c0ee6e0695dd96aa89f4c",
+      "status": "different_paragraphs_read_and_reconciled",
+      "different_paragraphs": 1
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/americas/canada/gaspe-2020/bic-pointe-au-pere/index.md",
+      "current_file": "content/americas/canada/gaspe-2020/bic-pointe-au-pere/index.md",
+      "sha256": "58b8e81699d2bb46baffe91dbae8865f42329c8a4943ebd3d5b642625b1ad709",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/americas/canada/gaspe-2020/bonaventure/index.md",
+      "current_file": "content/americas/canada/gaspe-2020/bonaventure/index.md",
+      "sha256": "36cd33e01272aa52f6ab3a654f507c54a172b7657c5197607e67157a292b1a7c",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/americas/canada/gaspe-2020/carleton-miguasha/index.md",
+      "current_file": "content/americas/canada/gaspe-2020/carleton-miguasha/index.md",
+      "sha256": "2e52cf8ef6f5290095884fa6b59b8c0276997dbe68529b5475de92e186324f9c",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/americas/canada/gaspe-2020/gaspesie-park/index.md",
+      "current_file": "content/americas/canada/gaspe-2020/gaspesie-park/index.md",
+      "sha256": "a2b6b38583af44091649dbdb1dc6ab5bd16c933486db34e1f1aedd030867c93c",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/americas/canada/gaspe-2020/jardins-de-metis/index.md",
+      "current_file": "content/americas/canada/gaspe-2020/jardins-de-metis/index.md",
+      "sha256": "5bf04f100f8bfffa26dfe5e08234f689f46f9f21895d1cb5fcd89c1f22a6f17c",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/americas/canada/gaspe-2020/perce/index.md",
+      "current_file": "content/americas/canada/gaspe-2020/perce/index.md",
+      "sha256": "7f562ecdb95083e82a2dbe1355e95cb34153a0a5d64e43ffcb13e8c79dead544",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/americas/canada/gaspe-2020/road-to-quebec/index.md",
+      "current_file": "content/americas/canada/gaspe-2020/road-to-quebec/index.md",
+      "sha256": "02bdb41f09f5f9891040c23140f9b7bade1bad2e3af0757f46865efdf65aad60",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/americas/canada/gaspe-2020/south-coast/index.md",
+      "current_file": "content/americas/canada/gaspe-2020/south-coast/index.md",
+      "sha256": "1d91a821560dbc535db96b8fbf5f0f91acada3c3e9f1e6844c25e311eded09a0",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/americas/canada/north-ontario-2020/amethysts-canyons/index.md",
+      "current_file": "content/americas/canada/north-ontario-2020/amethysts-canyons/index.md",
+      "sha256": "c441768d115674605a7bd5c2dcf150ef5f504a7ae59e4761da59521cf350c2dc",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/americas/canada/north-ontario-2020/lake-superior/index.md",
+      "current_file": "content/americas/canada/north-ontario-2020/lake-superior/index.md",
+      "sha256": "2178369e7f6b163ac4afd7c7d593e8512acd9e6174d4d954e92f5d998729dc22",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/americas/canada/north-ontario-2020/manitoulin/index.md",
+      "current_file": "content/americas/canada/north-ontario-2020/manitoulin/index.md",
+      "sha256": "53bf4d82d31b40fd6651e62127243e42d972265226e3aa6cecd24f6fba527f4f",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/americas/canada/north-ontario-2020/red-rock/index.md",
+      "current_file": "content/americas/canada/north-ontario-2020/red-rock/index.md",
+      "sha256": "80968701c5e0d93bf08d79f158fc48bf4e902e84b718feac844cb0643ceb9d81",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/americas/canada/north-ontario-2020/sault-ste-marie/index.md",
+      "current_file": "content/americas/canada/north-ontario-2020/sault-ste-marie/index.md",
+      "sha256": "e6a6122741e6a7344108868fe76b669883cdf258d0f226e5bffed3f4506ac93b",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/austria/prague-vienna-2023/art-museums/index.md",
+      "current_file": "content/europe/austria/prague-vienna-2023/art-museums/index.md",
+      "sha256": "57e2c5bfdd84fad77222839d0f7f88ffecba4e10fec86bc5b5ed43af824e00f8",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/austria/prague-vienna-2023/hofburg/index.md",
+      "current_file": "content/europe/austria/prague-vienna-2023/hofburg/index.md",
+      "sha256": "76c8fc50393de94cc52a883dbde7911a73a02d088582d1b14bc0f5f1788b67e7",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/austria/prague-vienna-2023/last-day/index.md",
+      "current_file": "content/europe/austria/prague-vienna-2023/last-day/index.md",
+      "sha256": "62b0bcaf88c3001c59ab02bbbbc27b2b1b20b7632fc46c9647e83eb2701e7e79",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/austria/prague-vienna-2023/lisbon-transit/index.md",
+      "current_file": "content/europe/austria/prague-vienna-2023/lisbon-transit/index.md",
+      "sha256": "9dac8b1613e75d124b9818b265925045a4e23295442d0d12aa3088aaf44a8e0c",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/austria/prague-vienna-2023/opera-concert/index.md",
+      "current_file": "content/europe/austria/prague-vienna-2023/opera-concert/index.md",
+      "sha256": "7ff5f3b74a016226414f3c01045f6184f5abf321b00022c64c1f9a22023b2160",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/austria/prague-vienna-2023/prague-castle/index.md",
+      "current_file": "content/europe/austria/prague-vienna-2023/prague-castle/index.md",
+      "sha256": "3fb98a16e0fac061b917faef899fa4380705f04162fcb416086422a66fb9eb62",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/austria/prague-vienna-2023/prague-old-town/index.md",
+      "current_file": "content/europe/austria/prague-vienna-2023/prague-old-town/index.md",
+      "sha256": "8372e6a36e517b893b3cf0fd5623ccf6c2b119639e3d9b84f2aa685201f4cf06",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/austria/prague-vienna-2023/technical-military/index.md",
+      "current_file": "content/europe/austria/prague-vienna-2023/technical-military/index.md",
+      "sha256": "f48b10f638d048b783cbba7573df72f9393902b3df1596b41067ab1ceed8c771",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/austria/prague-vienna-2023/vienna-food/index.md",
+      "current_file": "content/europe/austria/prague-vienna-2023/vienna-food/index.md",
+      "sha256": "acde94d009e66f2d6898bc631c370a4da63bef8c6c174654fef5a12f2607f269",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/england/london-2022/hyde-park/index.md",
+      "current_file": "content/europe/england/london-2022/hyde-park/index.md",
+      "sha256": "ce6f21071a41d33bfb09f848d2ef7373341f2793ecb1d1f06d69079e89d44ca8",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/england/london-2022/kent/index.md",
+      "current_file": "content/europe/england/london-2022/kent/index.md",
+      "sha256": "4f6f3d8f0e364cf33e98f02a11f1c98c971a8922a76162e654202844d82a012b",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/england/london-2022/legal-london/index.md",
+      "current_file": "content/europe/england/london-2022/legal-london/index.md",
+      "sha256": "b62f8b500b6ada847596e83b78c2f7c70b3a4df65bb8124976f359234d8344ab",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/england/london-2022/leighton-house/index.md",
+      "current_file": "content/europe/england/london-2022/leighton-house/index.md",
+      "sha256": "e5bd0220411ee73011a945e9d5af6c56cd2ee284779c4402ea18d19ece8b587c",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/england/london-2022/national-gallery/index.md",
+      "current_file": "content/europe/england/london-2022/national-gallery/index.md",
+      "sha256": "4dd880c5270e63f6c5e206537d85fb81712ab393d0bfa719f92d444a7094afb9",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/england/london-2022/tate-britain/index.md",
+      "current_file": "content/europe/england/london-2022/tate-britain/index.md",
+      "sha256": "fb79bf8492a8ca2deb69b7b763ed5da66213d59a1277546373dbab0515558d72",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/accademia-stibbert/index.md",
+      "current_file": "content/europe/italy/italy-2022/accademia-stibbert/index.md",
+      "sha256": "5232e282c77a9d9c7ac73d94ce6b9161c8e67993719a8f8414a03098817b012a",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/borghese/index.md",
+      "current_file": "content/europe/italy/italy-2022/borghese/index.md",
+      "sha256": "9bda81595ce584c840128a42098f107676612e39c50a0f5ff0c9e199d9fd91bf",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/cinque-terre/index.md",
+      "current_file": "content/europe/italy/italy-2022/cinque-terre/index.md",
+      "sha256": "1958db8e1e718d3a85164a754b4efeb109d506a4c3994561bf8750e5642b3cf7",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/colosseum/index.md",
+      "current_file": "content/europe/italy/italy-2022/colosseum/index.md",
+      "sha256": "c9aa0a2f2f0a99ad3f6ee5a8b69745a73bf24fea4ee3a79dd8a8c30a77e9cc89",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/florence-duomo/index.md",
+      "current_file": "content/europe/italy/italy-2022/florence-duomo/index.md",
+      "sha256": "8f8c3ccef0368999a80e4f8f23ccadf365c4df42922f8c1375d99bedecc6e2b1",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/florence-pitti/index.md",
+      "current_file": "content/europe/italy/italy-2022/florence-pitti/index.md",
+      "sha256": "3c65b2ad059d9f2d3bb4850a651b529b6c4a17fd841c1f149c34ac7244dd95f1",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/florence-uffizi/index.md",
+      "current_file": "content/europe/italy/italy-2022/florence-uffizi/index.md",
+      "sha256": "bec93909873b488d8d31302eb4091785ccebf9a85eabdd2d1d2a3e8ab3a66353",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/lucca/index.md",
+      "current_file": "content/europe/italy/italy-2022/lucca/index.md",
+      "sha256": "a7197bcce8a567b42e719e48c876fde521bb390628d0631d7f98181dc0cb4de0",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/medici-chapel/index.md",
+      "current_file": "content/europe/italy/italy-2022/medici-chapel/index.md",
+      "sha256": "46730e8d78cdb675ff53039fd7c0fb7fb0fc13feac2ec8bdcbc825a5cc0e6030",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/monte-oliveto/index.md",
+      "current_file": "content/europe/italy/italy-2022/monte-oliveto/index.md",
+      "sha256": "e73cadf9a0fa0e87273b4bda8262ab2d3071c8bd45f726b27952051d11d25e39",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/orvieto/index.md",
+      "current_file": "content/europe/italy/italy-2022/orvieto/index.md",
+      "sha256": "2fa1d0b2513262637a0aa0cb7c918e9ee347e55a64621811d481704c1537473e",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/pisa/index.md",
+      "current_file": "content/europe/italy/italy-2022/pisa/index.md",
+      "sha256": "2eb2802038f542c68f5231ccf81ed0f856b47e0d34ec6da05a4d26c7152dfb0c",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/rome-arrival/index.md",
+      "current_file": "content/europe/italy/italy-2022/rome-arrival/index.md",
+      "sha256": "96b4227b99f53e71eb4bbef9b713ccbdcf2de4c7b2262fe42fabf6ecd3bf7d78",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/rome-churches/index.md",
+      "current_file": "content/europe/italy/italy-2022/rome-churches/index.md",
+      "sha256": "706f1f1703ae1d99d97c1cbff401860bd6204a777b16e3015a725bf1876ad305",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/siena/index.md",
+      "current_file": "content/europe/italy/italy-2022/siena/index.md",
+      "sha256": "73e6cfd48f09479a2d32c6eab99f0b9d7afba1ddf35248844cc71970753264f6",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/italy/italy-2022/vatican-fountains/index.md",
+      "current_file": "content/europe/italy/italy-2022/vatican-fountains/index.md",
+      "sha256": "30c8ee7e18783cc0c756cf125d7459caa5d40e0666cce7f5405984d9ed467628",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/portugal/iberia-2022/algarve-rest/index.md",
+      "current_file": "content/europe/portugal/iberia-2022/algarve-rest/index.md",
+      "sha256": "69cda16826fdcd2c649336496b37ae0cdc6239eb16b18b1aab2b57b9bef8fa5a",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/portugal/iberia-2022/astorga/index.md",
+      "current_file": "content/europe/portugal/iberia-2022/astorga/index.md",
+      "sha256": "d1dd3cc493ac8421256d88649e2a85a39c8e01db5db490e2f49d56d9e9ae0712",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/portugal/iberia-2022/aveiro/index.md",
+      "current_file": "content/europe/portugal/iberia-2022/aveiro/index.md",
+      "sha256": "f732fa5b6d835fb2f164a1ff0990252ec5645c89eb5ba93cc925c0dee7da86e0",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/portugal/iberia-2022/faro/index.md",
+      "current_file": "content/europe/portugal/iberia-2022/faro/index.md",
+      "sha256": "9815b904bd6db6bd6594db228e01eaaf1a6da97038b0a3bc5ee355dd7ea518a6",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/portugal/iberia-2022/leon/index.md",
+      "current_file": "content/europe/portugal/iberia-2022/leon/index.md",
+      "sha256": "9c07ce1873660c504c2216fe836cd35d33bc934afca7ea7d0f28ef147de909a8",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/portugal/iberia-2022/lisbon/index.md",
+      "current_file": "content/europe/portugal/iberia-2022/lisbon/index.md",
+      "sha256": "095e2e5e6f8203ab49d0c494ae68e8426acfcc8cdb72e55c87ca45110cf07441",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/portugal/iberia-2022/oviedo/index.md",
+      "current_file": "content/europe/portugal/iberia-2022/oviedo/index.md",
+      "sha256": "15625cbea807456a01f4751a4470c10d5eac883130c0db23b0eb75992694e5a1",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/portugal/iberia-2022/porto/index.md",
+      "current_file": "content/europe/portugal/iberia-2022/porto/index.md",
+      "sha256": "2e50bc80f20586ae5ac6ec5edd8bd65036529c0c1650e968c41c2acea7f94381",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/portugal/iberia-2022/porto-wine/index.md",
+      "current_file": "content/europe/portugal/iberia-2022/porto-wine/index.md",
+      "sha256": "aa95ffac9f79178c0bd14d01433c240a52b3821db29fe9f956e28ba12860c974",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/portugal/iberia-2022/salamanca/index.md",
+      "current_file": "content/europe/portugal/iberia-2022/salamanca/index.md",
+      "sha256": "f7f663f1ee994e5b6e0f44637ba118a56215f3f1ac3798190b24fa86b001a089",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/portugal/iberia-2022/sand-city/index.md",
+      "current_file": "content/europe/portugal/iberia-2022/sand-city/index.md",
+      "sha256": "95dde206e50bc9558e75c1a4eb84d9f415b9235aebc594fb6c0016a3f24a50e8",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/portugal/iberia-2022/santiago/index.md",
+      "current_file": "content/europe/portugal/iberia-2022/santiago/index.md",
+      "sha256": "4378d6b8fe8ebeab9e2f8e45d4d941b400c67210e5611e39b4c9f4878d9376c9",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/argentina-work",
+      "file": "content/europe/portugal/iberia-2022/seville/index.md",
+      "current_file": "content/europe/portugal/iberia-2022/seville/index.md",
+      "sha256": "fe4958c98dcb052a24f502969a17c4c22990870a3809495c514290c8612b6c7f",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/europe-autumn-review",
+      "file": "content/europe/france/barcelona-occitanie-2024/barcelona/index.md",
+      "current_file": "content/europe/france/barcelona-occitanie-2024/barcelona/index.md",
+      "sha256": "bfe5038fdf9ac1ff1d0f657cd2ec6b68ef9dade6c1d659e461180ba2156796a8",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/europe-autumn-review",
+      "file": "content/europe/france/barcelona-occitanie-2024/carcassonne/index.md",
+      "current_file": "content/europe/france/barcelona-occitanie-2024/carcassonne/index.md",
+      "sha256": "ae6aa13d1cedb94c21ed2f05ccce9b9dd1f867fe14ef0537e626205e2042c1e1",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/europe-autumn-review",
+      "file": "content/europe/france/barcelona-occitanie-2024/condom-armagnac/index.md",
+      "current_file": "content/europe/france/barcelona-occitanie-2024/condom-armagnac/index.md",
+      "sha256": "9b5c7d22624d3924d19086c29af458c73c6c33f1ddf947281c550d04ac162e5d",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/europe-autumn-review",
+      "file": "content/europe/france/barcelona-occitanie-2024/cordes-albi/index.md",
+      "current_file": "content/europe/france/barcelona-occitanie-2024/cordes-albi/index.md",
+      "sha256": "77ecf567f8a7d7cc69faa107ce01e278abdaff8eba5663812c7a2cd94d1a4819",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/europe-autumn-review",
+      "file": "content/europe/france/barcelona-occitanie-2024/dali-figueres/index.md",
+      "current_file": "content/europe/france/barcelona-occitanie-2024/dali-figueres/index.md",
+      "sha256": "02003306389fc5bf32ef0dd6055dd3a5c9788aae4b07d47b74b4cc9240018953",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/europe-autumn-review",
+      "file": "content/europe/portugal/portugal-2024/capuchos-cabo-da-roca/index.md",
+      "current_file": "content/europe/portugal/portugal-2024/capuchos-cabo-da-roca/index.md",
+      "sha256": "f3babf5328958085e50ec5b0e5d7fbd7c35fc7d1f5e4f96040d4813fe49fe549",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/europe-autumn-review",
+      "file": "content/europe/portugal/portugal-2024/lisbon-belem/index.md",
+      "current_file": "content/europe/portugal/portugal-2024/lisbon-belem/index.md",
+      "sha256": "e20e2365e9f16d464140d096792e497b31e7c9158a8da0d3716281a6d120226c",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/europe-autumn-review",
+      "file": "content/europe/portugal/portugal-2024/monserrate-palace/index.md",
+      "current_file": "content/europe/portugal/portugal-2024/monserrate-palace/index.md",
+      "sha256": "295c7a80669432c29ed5ac616cc5f7f90f7c35b904d121765524a9ad2f323f3a",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/europe-autumn-review",
+      "file": "content/europe/portugal/portugal-2024/monserrate-park/index.md",
+      "current_file": "content/europe/portugal/portugal-2024/monserrate-park/index.md",
+      "sha256": "902f2756b40283e8aebb7e5fc0d796213230f3de8b693d1e743087bca8715e5a",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/europe-autumn-review",
+      "file": "content/europe/portugal/portugal-2024/setubal/index.md",
+      "current_file": "content/europe/portugal/portugal-2024/setubal/index.md",
+      "sha256": "0a730b8b4b1d83ad6e23ac3e8ba445535684570fe24f7bfcfaca65c032bf6612",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/publish-girls-europe-2017",
+      "file": "content/europe/italy/rome-2015-2016/kleve/index.md",
+      "current_file": "content/europe/italy/rome-2015-2016/kleve/index.md",
+      "sha256": "f2fffff86f13486ab3dba84546bb8b68a1f12df86e1200d67c8dd7bdf91a5e9d",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/amsterdam/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/amsterdam/index.md",
+      "sha256": "59320109a008176500940a112330ced440b28abeb2edd63860e4da14e04ef1f4",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/barcelona-eixample/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/barcelona-eixample/index.md",
+      "sha256": "b4c059bed51ed673f86199a3259dd228c317f1a59db1610ecd3e1d404fe8014c",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/delft/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/delft/index.md",
+      "sha256": "48eb871519de10f23bb83fdae9e244817489bd46c92922969849bc874c31ef14",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/frankfurt/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/frankfurt/index.md",
+      "sha256": "cf8dee624802d6c6b5824233a05ea556255a7be560bc0e9e987534f32b9aca7a",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/gothic-quarter-beach/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/gothic-quarter-beach/index.md",
+      "sha256": "7c4cea18c17e2367c11851a6efddb8d8a6cfcc0a511c302906dc3c59f5bafb76",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/hague-rotterdam/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/hague-rotterdam/index.md",
+      "sha256": "e6e1d928d3da28e9c7fa277c0561ef636afb7da972794260ac82295ff9770053",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/kleve-kevelaer/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/kleve-kevelaer/index.md",
+      "sha256": "2c274fb218464307a66bc41606c6c17aaa5be416c2a289898e8edd9a35c95852",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/liceu-sagrada/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/liceu-sagrada/index.md",
+      "sha256": "74f025c173627bf94005e04c84e68df92df1cf6e24e1333c00097b082a8603ed",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/lorsch/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/lorsch/index.md",
+      "sha256": "45d034da78600be7db4e431c7bcbfe64c347368293f32c6da9cc4c5125dd6a2d",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/mannheim/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/mannheim/index.md",
+      "sha256": "c7eb5f58e6f12ed3b3c7d29780da3e1bf0dfabc5f2c7108a8d4fe03c7af4b987",
+      "status": "different_paragraphs_read_and_reconciled",
+      "different_paragraphs": 1
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/maritime-museum/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/maritime-museum/index.md",
+      "sha256": "59bfbf228aff42f1ef768aa32d1f33d8f45b2da25dd4c594656dbd00007b6f75",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/miro-montjuic/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/miro-montjuic/index.md",
+      "sha256": "e3969ebd0937a51a1801602358676fe240f561dfabd7af487dc8777bc8903fc5",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/mitya-birthday/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/mitya-birthday/index.md",
+      "sha256": "9367dbd0daf6d8f0d6e8a7c23147b7f2a71abbad39ba9572aabf67be24c84ccc",
+      "status": "different_paragraphs_read_and_reconciled",
+      "different_paragraphs": 1
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/mnac/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/mnac/index.md",
+      "sha256": "ea346da6e54a182b070e24c4a6d53a2224410f6c8f1f67639e1e99d05f996760",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/natasha-school/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/natasha-school/index.md",
+      "sha256": "8a2f000ac90ffd34f357a782843b378451a2ecd827604f6dfe6ef3edd871fc13",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/sant-pau/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/sant-pau/index.md",
+      "sha256": "7e3a6e22388cde1b539c6e3d0decbef4c01a8271d97f1760a9025e4f8c91cdd1",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/germany/europe-autumn-2023/stuttgart/index.md",
+      "current_file": "content/europe/germany/europe-autumn-2023/stuttgart/index.md",
+      "sha256": "bb92edc2b8bd535619a1bbe07416549d642e2b5f25400aac1103079681cb3b93",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
+    },
+    {
+      "root": "C:/Users/user/Projects/FamilyTravelBlog-north-ontario-2020",
+      "file": "content/europe/portugal/iberia-2022/oviedo/index.md",
+      "current_file": "content/europe/portugal/iberia-2022/oviedo/index.md",
+      "sha256": "0bad05bff00337a79ac64fbb735d1d47fd4e224224ddf92eaec406c9e357cbf0",
+      "status": "text_already_covered",
+      "different_paragraphs": 0
     }
   ]
 }

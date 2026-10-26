@@ -8,6 +8,7 @@ draft: false
 auto_gallery: false
 places:
   - lamego
+  - coimbra
 hero_image: "IMG_0425.JPG"
 attractions: ["lamego--svyatilishche-bogomateri-istselyayushchey","lamego--zamok-lamegu","lamego--muzey-lamegu"]
 ---

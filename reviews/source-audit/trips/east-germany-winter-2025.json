@@ -76,11 +76,8 @@
               "quote": "Igreja de São Roque"
             }
           ],
-          "decision": "retain",
-          "target": {
-            "attraction": "lisbon--tserkov-svyatogo-rokha"
-          },
-          "reason": "Прямое подтверждение входа, другие неназванные церкви не отдельные точки.",
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён.",
           "participants": [
             "Леля",
             "Сергей"
@@ -894,7 +891,7 @@
           "evidence": [
             {
               "source_file": "content/europe/germany/east-germany-winter-2025/vic/index.md",
-              "source_sha256": "5965e1e915cd353f81916d7ab79855299322034f830eb28e872e56a5f81c49bf",
+              "source_sha256": "abd9be56e8c5f708d7284f69fd04ec29465ef9d8cb7a224295ededf644384de3",
               "quote": "Ла Велья (La Vella) — одна из капгроссос"
             }
           ],
@@ -920,15 +917,12 @@
             },
             {
               "source_file": "content/europe/germany/east-germany-winter-2025/vic/index.md",
-              "source_sha256": "5965e1e915cd353f81916d7ab79855299322034f830eb28e872e56a5f81c49bf",
+              "source_sha256": "abd9be56e8c5f708d7284f69fd04ec29465ef9d8cb7a224295ededf644384de3",
               "quote": "VIA Restaurant — в старинном особняке Casa Fontcuberta"
             }
           ],
-          "decision": "add",
-          "target": {
-            "attraction": "vic--via-restaurant"
-          },
-          "reason": "Развёрнутый самостоятельный рассказ о состоявшемся обеде и конкретное имя в нынешнем тексте. Особняк отдельно не добавлен; прошлый французский ресторан с Катей и Дэвидом — только сравнение.",
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён.",
           "participants": [
             "Леля",
             "Сергей",

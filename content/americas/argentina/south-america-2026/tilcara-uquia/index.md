@@ -7,7 +7,6 @@ city: "Purmamarca, Tilcara, Uquía"
 places:
   - purmamarca
   - tilcara
-  - uquia-church
 hero_image: "IMG_3598.jpg"
 date: "2026-04-12"
 auto_gallery: false

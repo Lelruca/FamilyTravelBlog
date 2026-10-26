@@ -341,20 +341,6 @@
       "museums"
     ]
   },
-  "banff--fairmont-banff-springs": {
-    "title": "Fairmont Banff Springs",
-    "parent": "banff",
-    "types": [
-      "hotel"
-    ],
-    "search_terms": [
-      "отель",
-      "отели",
-      "гостиница",
-      "гостиницы",
-      "hotel"
-    ]
-  },
   "banff--muzey-buffalo-nations-luxton": {
     "title": "Музей Buffalo Nations Luxton",
     "parent": "banff",
@@ -949,22 +935,6 @@
       "животные",
       "биопарк",
       "zoo"
-    ]
-  },
-  "bodeguita-del-medio": {
-    "title": "Бар «Бодегита дель Медио»",
-    "parent": "havana",
-    "place": "bodeguita-del-medio",
-    "types": [
-      "restaurant"
-    ],
-    "search_terms": [
-      "ресторан",
-      "рестораны",
-      "бар",
-      "кабаре",
-      "restaurant",
-      "cabaret"
     ]
   },
   "bonaventure-island": {
@@ -2099,29 +2069,6 @@
       "prison"
     ]
   },
-  "condom--sobor-kondoma": {
-    "title": "Собор Кондома",
-    "parent": "condom",
-    "types": [
-      "cathedral",
-      "church"
-    ],
-    "search_terms": [
-      "собор",
-      "соборы",
-      "собора",
-      "соборов",
-      "cathedral",
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
   "confucius-temple-beijing": {
     "title": "Храм Конфуция, Пекин",
     "parent": "beijing",
@@ -2712,55 +2659,6 @@
       "museums"
     ]
   },
-  "florence--bazilika-san-lorentso": {
-    "title": "Базилика Сан-Лоренцо",
-    "parent": "florence",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "florence--bazilika-san-miniato-al-monte": {
-    "title": "Базилика Сан-Миниато-аль-Монте",
-    "parent": "florence",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "florence--florentiyskiy-baptisteriy": {
-    "title": "Флорентийский баптистерий",
-    "parent": "florence",
-    "types": [
-      "temple"
-    ],
-    "search_terms": [
-      "храм",
-      "храмы",
-      "храма",
-      "храмов",
-      "святилище",
-      "temple"
-    ]
-  },
   "florence--muzey-opera-del-duomo": {
     "title": "Музей Опера-дель-Дуомо",
     "parent": "florence",
@@ -3088,23 +2986,6 @@
       "кварталы",
       "district",
       "neighbourhood"
-    ]
-  },
-  "gijon--bazilika-svyatogo-serdtsa": {
-    "title": "Базилика Святого Сердца",
-    "parent": "gijon",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "gran-teatro-havana": {
@@ -3537,23 +3418,6 @@
       "hill"
     ]
   },
-  "kevelaer--bazilika-svyatoy-marii": {
-    "title": "Базилика Святой Марии",
-    "parent": "kevelaer",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
   "kleve--zamok-shvanenburg": {
     "title": "Замок Шваненбург",
     "parent": "kleve",
@@ -3695,22 +3559,6 @@
       "fortress"
     ]
   },
-  "lapin-agile": {
-    "title": "Проворный Кролик",
-    "parent": "paris",
-    "place": "lapin-agile",
-    "types": [
-      "restaurant"
-    ],
-    "search_terms": [
-      "ресторан",
-      "рестораны",
-      "бар",
-      "кабаре",
-      "restaurant",
-      "cabaret"
-    ]
-  },
   "legoland-windsor": {
     "title": "Леголенд Виндзор",
     "parent": "windsor",
@@ -3763,23 +3611,6 @@
       "виллы",
       "historic house",
       "villa"
-    ]
-  },
-  "leon--bazilika-svyatogo-isidora": {
-    "title": "Базилика Святого Исидора",
-    "parent": "leon",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "leon--leonskiy-sobor": {
@@ -3951,40 +3782,6 @@
       "музеев",
       "museum",
       "museums"
-    ]
-  },
-  "lisbon--tserkov-san-domingush": {
-    "title": "Церковь Сан-Домингуш",
-    "parent": "lisbon",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "lisbon--tserkov-svyatogo-rokha": {
-    "title": "Церковь Святого Роха",
-    "parent": "lisbon",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "london--britanskiy-muzey": {
@@ -4297,23 +4094,6 @@
       "музеев",
       "museum",
       "museums"
-    ]
-  },
-  "lucca--bazilika-san-frediano": {
-    "title": "Базилика Сан-Фредиано",
-    "parent": "lucca",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "lunenburg--muzey-rybolovstva-atlantiki": {
@@ -4865,23 +4645,6 @@
       "ruins"
     ]
   },
-  "mexico-city--tserkov-san-khuan-bautista": {
-    "title": "Церковь Сан-Хуан-Баутиста",
-    "parent": "mexico-city",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
   "milan--muzey-milanskogo-sobora": {
     "title": "Музей Миланского собора",
     "parent": "milan",
@@ -4895,23 +4658,6 @@
       "музеев",
       "museum",
       "museums"
-    ]
-  },
-  "milan--santa-mariya-delle-gratsie": {
-    "title": "Санта-Мария-делле-Грацие",
-    "parent": "milan",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "military-aviation-museum": {
@@ -6023,24 +5769,6 @@
       "museums"
     ]
   },
-  "notre-dame-de-la-garde": {
-    "title": "Базилика Нотр-Дам-де-ла-Гард",
-    "parent": "marseille",
-    "place": "notre-dame-de-la-garde",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
   "notre-dame-paris": {
     "title": "Нотр-Дам",
     "parent": "paris",
@@ -6243,23 +5971,6 @@
     "aliases": [
       "Canadian War Museum",
       "Musée canadien de la guerre"
-    ]
-  },
-  "oviedo--bazilika-san-khuan-el-real": {
-    "title": "Базилика Сан-Хуан-эль-Реаль",
-    "parent": "oviedo",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "oviedo--kafedralnyy-sobor-ovedo": {
@@ -6811,21 +6522,6 @@
       "tower"
     ]
   },
-  "pisa--pizanskiy-baptisteriy": {
-    "title": "Пизанский баптистерий",
-    "parent": "pisa",
-    "types": [
-      "temple"
-    ],
-    "search_terms": [
-      "храм",
-      "храмы",
-      "храма",
-      "храмов",
-      "святилище",
-      "temple"
-    ]
-  },
   "pisa--pizanskiy-sobor": {
     "title": "Пизанский собор",
     "parent": "pisa",
@@ -7101,57 +6797,6 @@
       "church"
     ]
   },
-  "porto--tserkov-klerigush": {
-    "title": "Церковь Клеригуш",
-    "parent": "porto",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "porto--tserkov-svyatogo-frantsiska": {
-    "title": "Церковь Святого Франциска",
-    "parent": "porto",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "porto--tserkov-svyatogo-ildefonso": {
-    "title": "Церковь Святого Ильдефонсо",
-    "parent": "porto",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
   "porto--vokzal-san-bentu": {
     "title": "Вокзал Сан-Бенту",
     "parent": "porto",
@@ -7194,23 +6839,6 @@
       "картины",
       "gallery",
       "art"
-    ]
-  },
-  "prague--bazilika-svyatogo-georgiya": {
-    "title": "Базилика Святого Георгия",
-    "parent": "prague",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "prague--mala-strana": {
@@ -7458,23 +7086,6 @@
       "civic building"
     ]
   },
-  "reims--bazilika-sen-remi": {
-    "title": "Базилика Сен-Реми",
-    "parent": "reims",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
   "reims--reymsskiy-sobor": {
     "title": "Реймсский собор",
     "parent": "reims",
@@ -7573,108 +7184,6 @@
       "обзорная площадка",
       "viewpoint",
       "observation deck"
-    ]
-  },
-  "rome--bazilika-santa-prassede": {
-    "title": "Базилика Санта-Прасседе",
-    "parent": "rome",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "rome--lateranskaya-bazilika": {
-    "title": "Латеранская базилика",
-    "parent": "rome",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "rome--san-petro-in-vinkoli": {
-    "title": "Сан-Пьетро-ин-Винколи",
-    "parent": "rome",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "rome--santa-kroche-in-dzheruzalemme": {
-    "title": "Санта-Кроче-ин-Джерузалемме",
-    "parent": "rome",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "rome--santa-mariya-madzhore": {
-    "title": "Санта-Мария-Маджоре",
-    "parent": "rome",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "rouen--tserkov-abbatstva-sent-uan": {
-    "title": "Церковь аббатства Сент-Уан",
-    "parent": "rouen",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "royal-delft": {
@@ -7784,24 +7293,6 @@
       "church"
     ]
   },
-  "saint-etienne-du-mont": {
-    "title": "Сент-Этьен-дю-Мон",
-    "parent": "paris",
-    "place": "saint-etienne-du-mont",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
   "saint-malo--sobor-sen-malo": {
     "title": "Собор Сен-Мало",
     "parent": "saint-malo",
@@ -7815,41 +7306,6 @@
       "собора",
       "соборов",
       "cathedral",
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "saint-severin": {
-    "title": "Сен-Северин",
-    "parent": "paris",
-    "place": "saint-severin",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "sainte-anne-de-beaupre--bazilika-sent-ann-de-bopre": {
-    "title": "Базилика Сент-Анн-де-Бопре",
-    "parent": "sainte-anne-de-beaupre",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
       "церковь",
       "церкви",
       "церквей",
@@ -7924,24 +7380,6 @@
       "капеллы",
       "храм",
       "chapel"
-    ]
-  },
-  "sainte-clotilde": {
-    "title": "Базилика Святой Клотильды",
-    "parent": "paris",
-    "place": "sainte-clotilde",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "sainte-flavie--art-tsentr-marselya-ganona": {
@@ -8131,24 +7569,6 @@
       "church"
     ]
   },
-  "santa-maria-del-mar": {
-    "title": "Санта-Мария-дель-Мар",
-    "parent": "barcelona",
-    "place": "santa-maria-del-mar",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
   "santiago-chile--kafedralnyy-sobor-santyago": {
     "title": "Кафедральный собор Сантьяго",
     "parent": "santiago-chile",
@@ -8217,23 +7637,6 @@
       "музеев",
       "museum",
       "museums"
-    ]
-  },
-  "santiago-chile--tserkov-svyatogo-frantsiska": {
-    "title": "Церковь Святого Франциска",
-    "parent": "santiago-chile",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "santiago-de-compostela--muzey-istorii-galisii": {
@@ -8637,21 +8040,6 @@
       "church"
     ]
   },
-  "siena--svyatilishche-svyatoy-ekateriny-sienskoy": {
-    "title": "Святилище Святой Екатерины Сиенской",
-    "parent": "siena",
-    "types": [
-      "temple"
-    ],
-    "search_terms": [
-      "храм",
-      "храмы",
-      "храма",
-      "храмов",
-      "святилище",
-      "temple"
-    ]
-  },
   "sintra--dvorets-pena": {
     "title": "Дворец Пена",
     "parent": "sintra",
@@ -8926,24 +8314,6 @@
       "museums"
     ]
   },
-  "temple-church": {
-    "title": "Церковь Темпла",
-    "parent": "london",
-    "place": "temple-church",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
   "temple-heaven": {
     "title": "Храм Неба, Пекин",
     "parent": "beijing",
@@ -8981,23 +8351,6 @@
       "раскопки",
       "archaeology",
       "ruins"
-    ]
-  },
-  "teruel--tserkov-svyatogo-petra": {
-    "title": "Церковь Святого Петра",
-    "parent": "teruel",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "the-breakers": {
@@ -9141,23 +8494,6 @@
       "музеев",
       "museum",
       "museums"
-    ]
-  },
-  "toledo--tserkov-santo-tome": {
-    "title": "Церковь Санто-Томе",
-    "parent": "toledo",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "toledo-cathedral": {
@@ -10390,24 +9726,6 @@
       "Штауббах"
     ]
   },
-  "lauterbrunnen--hotel-staubbach": {
-    "title": "Hotel Staubbach",
-    "parent": "lauterbrunnen",
-    "types": [
-      "hotel"
-    ],
-    "aliases": [
-      "Гостиница Штауббах"
-    ],
-    "search_terms": [
-      "отель",
-      "отели",
-      "гостиница",
-      "гостиницы",
-      "hotel",
-      "Гостиница Штауббах"
-    ]
-  },
   "meiringen--sherlock-holmes-monument": {
     "title": "Памятник Шерлоку Холмсу",
     "parent": "meiringen",
@@ -10427,69 +9745,6 @@
       "memorial",
       "Sherlock Holmes Statue",
       "Sherlock Holmes Monument"
-    ]
-  },
-  "meiringen--tea-room-frutiger": {
-    "title": "Кондитерская Frutal-Beck / Tea-Room Frutiger",
-    "parent": "meiringen",
-    "types": [
-      "restaurant"
-    ],
-    "aliases": [
-      "Frutal",
-      "Frutal-Beck",
-      "Tea Room Frutiger"
-    ],
-    "search_terms": [
-      "ресторан",
-      "рестораны",
-      "бар",
-      "кабаре",
-      "restaurant",
-      "cabaret",
-      "Frutal",
-      "Frutal-Beck",
-      "Tea Room Frutiger"
-    ]
-  },
-  "colmar--kyriad-cite-administrative": {
-    "title": "Kyriad Hotel Colmar Cite Administrative",
-    "parent": "colmar",
-    "types": [
-      "hotel"
-    ],
-    "aliases": [],
-    "search_terms": [
-      "отель",
-      "отели",
-      "гостиница",
-      "гостиницы",
-      "hotel"
-    ]
-  },
-  "schwangau--bei-weirich": {
-    "title": "Гостиница и ресторан Bei Weirich",
-    "parent": "schwangau",
-    "types": [
-      "hotel",
-      "restaurant"
-    ],
-    "aliases": [
-      "Bei Weirich"
-    ],
-    "search_terms": [
-      "отель",
-      "отели",
-      "гостиница",
-      "гостиницы",
-      "hotel",
-      "ресторан",
-      "рестораны",
-      "бар",
-      "кабаре",
-      "restaurant",
-      "cabaret",
-      "Bei Weirich"
     ]
   },
   "lucerne--lake-lucerne": {
@@ -10512,24 +9767,6 @@
       "Фирвальдштетское озеро",
       "Lake Lucerne",
       "Vierwaldstättersee"
-    ]
-  },
-  "paris--hotel-sainte-marie": {
-    "title": "Hôtel Sainte-Marie",
-    "parent": "paris",
-    "types": [
-      "hotel"
-    ],
-    "aliases": [
-      "Hotel Sainte-Marie"
-    ],
-    "search_terms": [
-      "отель",
-      "отели",
-      "гостиница",
-      "гостиницы",
-      "hotel",
-      "Hotel Sainte-Marie"
     ]
   },
   "paris--fontaine-saint-michel": {
@@ -10683,28 +9920,6 @@
       "Квебекская миссия"
     ]
   },
-  "saumur--chateau-bouvet-ladubay": {
-    "title": "Шато-отель Bouvet-Ladubay",
-    "parent": "saumur",
-    "types": [
-      "hotel",
-      "historic_building"
-    ],
-    "aliases": [
-      "Château Bouvet-Ladubay"
-    ],
-    "search_terms": [
-      "отель",
-      "отели",
-      "гостиница",
-      "гостиницы",
-      "hotel",
-      "историческое здание",
-      "архитектура",
-      "historic building",
-      "Château Bouvet-Ladubay"
-    ]
-  },
   "blois--chateau-blois": {
     "title": "Замок Блуа",
     "parent": "blois",
@@ -10725,28 +9940,6 @@
       "castle",
       "fortress",
       "Château royal de Blois"
-    ]
-  },
-  "cellettes--chateau-la-rozelle": {
-    "title": "Шато-отель La Rozelle",
-    "parent": "cellettes",
-    "types": [
-      "hotel",
-      "historic_building"
-    ],
-    "aliases": [
-      "Château de La Rozelle"
-    ],
-    "search_terms": [
-      "отель",
-      "отели",
-      "гостиница",
-      "гостиницы",
-      "hotel",
-      "историческое здание",
-      "архитектура",
-      "historic building",
-      "Château de La Rozelle"
     ]
   },
   "villandry--chateau-villandry": {
@@ -11017,25 +10210,6 @@
       "Port Elgin Waterfront Promenade"
     ]
   },
-  "vancouver--le-soleil-hotel": {
-    "title": "Le Soleil hotel",
-    "parent": "vancouver",
-    "types": [
-      "hotel"
-    ],
-    "aliases": [
-      "Executive Hotel Le Soleil"
-    ],
-    "search_terms": [
-      "отель",
-      "отели",
-      "гостиница",
-      "гостиницы",
-      "hotel",
-      "Le Soleil hotel",
-      "Executive Hotel Le Soleil"
-    ]
-  },
   "bathurst--appalachian-range-route": {
     "title": "Аппалачская туристическая дорога",
     "parent": "bathurst",
@@ -11089,20 +10263,6 @@
       "Acadian Historical Village"
     ],
     "place": "acadian-historical-village"
-  },
-  "shediac--parlee-beach-motel": {
-    "title": "Parlee Beach Motel",
-    "parent": "shediac",
-    "types": [
-      "hotel"
-    ],
-    "search_terms": [
-      "отель",
-      "отели",
-      "гостиница",
-      "гостиницы",
-      "hotel"
-    ]
   },
   "charlottetown--costumed-walking-tour": {
     "title": "Костюмированная экскурсия по Шарлоттауну",
@@ -11712,20 +10872,6 @@
       "Korean War Veterans Memorial"
     ]
   },
-  "washington-dc--omni-shoreham": {
-    "title": "Omni Shoreham Hotel",
-    "parent": "washington-dc",
-    "types": [
-      "hotel"
-    ],
-    "search_terms": [
-      "отель",
-      "отели",
-      "гостиница",
-      "гостиницы",
-      "hotel"
-    ]
-  },
   "philadelphia--rodin-museum": {
     "title": "Музей Родена в Филадельфии",
     "parent": "philadelphia",
@@ -12221,26 +11367,6 @@
       "opera"
     ]
   },
-  "lyon--notre-dame-de-fourviere": {
-    "title": "Базилика Нотр-Дам-де-Фурвьер",
-    "parent": "lyon",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church",
-      "Fourvière",
-      "Fourviere",
-      "Фурвьер"
-    ]
-  },
   "beaune--marche-aux-vins": {
     "title": "Marché aux Vins — винные подвалы",
     "parent": "beaune",
@@ -12255,25 +11381,6 @@
       "winery",
       "Marche aux Vins",
       "дегустация"
-    ]
-  },
-  "bruges--holy-blood-basilica": {
-    "title": "Базилика Святой Крови",
-    "parent": "bruges",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church",
-      "Basilica of the Holy Blood",
-      "Святой Крови"
     ]
   },
   "antwerp--central-station": {
@@ -12340,22 +11447,6 @@
       "tour",
       "архитектурный круиз",
       "прогулка на кораблике"
-    ]
-  },
-  "riviera-maya--grand-sirenis": {
-    "title": "Grand Sirenis Riviera Maya",
-    "parent": "riviera-maya",
-    "types": [
-      "hotel"
-    ],
-    "search_terms": [
-      "отель",
-      "отели",
-      "гостиница",
-      "гостиницы",
-      "hotel",
-      "Grand Sirenis",
-      "Сиренис"
     ]
   },
   "london--houses-of-parliament": {
@@ -12505,29 +11596,6 @@
       "Бон-Жезуш"
     ]
   },
-  "viana-do-castelo--misericordia": {
-    "title": "Дом милосердия и церковь Мизерикордия",
-    "parent": "viana-do-castelo",
-    "types": [
-      "historic_building",
-      "church"
-    ],
-    "search_terms": [
-      "историческое здание",
-      "архитектура",
-      "historic building",
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church",
-      "Misericórdia",
-      "милосердие"
-    ]
-  },
   "porto--ramos-pinto": {
     "title": "Ramos Pinto — погреба и музей",
     "parent": "porto",
@@ -12566,42 +11634,6 @@
       "bookstore",
       "Lello",
       "Леллу"
-    ]
-  },
-  "porto--carmo-carmelitas": {
-    "title": "Церкви Карму и Кармелиташ",
-    "parent": "porto",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church",
-      "Carmo",
-      "Carmelitas"
-    ]
-  },
-  "porto--capela-das-almas": {
-    "title": "Часовня Алмаш",
-    "parent": "porto",
-    "types": [
-      "chapel"
-    ],
-    "search_terms": [
-      "часовня",
-      "часовни",
-      "капелла",
-      "капеллы",
-      "храм",
-      "chapel",
-      "Capela das Almas",
-      "Алмаш"
     ]
   },
   "reims--gh-martel": {
@@ -13107,24 +12139,6 @@
       "memorial",
       "La Vella",
       "капгроссос"
-    ]
-  },
-  "vic--via-restaurant": {
-    "title": "VIA Restaurant",
-    "parent": "vic",
-    "types": [
-      "restaurant"
-    ],
-    "search_terms": [
-      "ресторан",
-      "рестораны",
-      "бар",
-      "кабаре",
-      "restaurant",
-      "cabaret",
-      "VIA Restaurant",
-      "Casa Fontcuberta",
-      "Fontcuberta"
     ]
   },
   "merida-mexico--palacio-gobierno": {
