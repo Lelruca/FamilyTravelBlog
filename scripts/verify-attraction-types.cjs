@@ -45,7 +45,7 @@ const coordinates=JSON.parse(fs.readFileSync('data/place_coordinates.json','utf8
 const dutchMuseums=search('музей').filter(id=>coordinates[attractions[id].parent]?.country_code==='NL');
 assert.deepEqual(new Set(dutchMuseums),new Set([
   'amsterdam-museum','escher-museum','mauritshuis','rembrandt-house',
-  'rijksmuseum','royal-delft','van-gogh-museum','van-loon'
+  'rijksmuseum','royal-delft','van-gogh-museum','van-loon','zaandam--peter-house'
 ]),'Dutch museum search must include names without the word museum');
 for (const [id, a] of Object.entries(attractions)) {
   assert.ok(a.types.length && a.types.every(t => types[t]), `${id}: invalid classification`);

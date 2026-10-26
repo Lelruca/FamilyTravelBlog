@@ -12,7 +12,7 @@ places:
 hero_image: "20160831_113636.jpg"
 date: 2016-08-30
 auto_gallery: false
-attractions: ["prado-museum","almudena-cathedral","royal-palace-madrid","madrid--muzey-korolevy-sofii","madrid--park-retiro"]
+attractions: ["prado-museum","almudena-cathedral","madrid--muzey-korolevy-sofii","royal-palace-madrid"]
 ---
 А вот Мадрид понравился нам всем - 5/5/5/4! Хотя во всех туристических отзывах всегда говорят, что в столице кроме музеев делать нечего. А я люблю такие имперские города - широкие проспекты, площади, памятники на каждом шагу… Ну и музей конечно мирового уровня и их много! Правда мы далеко не все смогли посетить. Из-за того, что моей семье не хватило времени в Лиссабоне, пришлось перекраивать вторую часть поездки и вместо 3 дней в Мадриде, мы пробыли только 2.
 

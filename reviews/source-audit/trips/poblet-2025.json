@@ -1,0 +1,106 @@
+{
+  "trip_path": "content/europe/spain/poblet-2025",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "kind": "facebook_profile_json",
+    "record_index": 47,
+    "timestamp": 1757815681,
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "read": "Целиком прочитан оригинальный пост Facebook и все подписи вложений, затем текущая глава и сведения о составе поездки. Служебные названия альбомов не каталогизируются."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/poblet-2025.json",
+    "method": "Решения только по авторскому рассказу и прямым содержательным подписям. Каждый снимок не рассматривается и фоновые объекты не определяются."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/spain/poblet-2025/poblet/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны полностью. Части комплексов, планы и сравнения не считаются отдельными посещениями.",
+      "objects": [
+        {
+          "label": "Монастырь Поблет",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_paragraph": 3,
+              "quote": "Мы сначала посетили монастырь цистерцианцев"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "poblet"
+          },
+          "reason": "Усыпальница королей — часть монастыря, не ещё одна точка.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Монбланк",
+          "event": "walked_and_lunch",
+          "evidence": [
+            {
+              "source_paragraph": 5,
+              "quote": "На ланч мы поехали в средневековый городок на горе Montblanc"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "montblanc"
+          },
+          "reason": "Реальное посещение, ресторан не назван.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Sant Sadurní d’Anoia — музей кавы и дегустация",
+          "event": "cancelled_due_to_flood",
+          "evidence": [
+            {
+              "source_paragraph": 9,
+              "quote": "кава оказалась не охвачена"
+            }
+          ],
+          "decision": "exclude_as_visit",
+          "reason": "Свернули с автострады, но эвакуировались от затопления. Ни музей, ни дегустация не состоялись.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Франция",
+          "event": "rejected_alternative",
+          "evidence": [
+            {
+              "source_paragraph": 1,
+              "quote": "стали смотреть даже в сторону Франции"
+            }
+          ],
+          "decision": "exclude_as_visit",
+          "reason": "Вариант маршрута, которым не поехали.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled",
+    "questions": [],
+    "repeat_check": "Сопоставлены все названные места рассказа и подписи. Отдельные экспонаты и внутренние части комплексов не добавлены. Несостоявшийся музей кавы исключён, службы и поездки отдельных членов группы учтены отдельно."
+  }
+}

@@ -1,0 +1,2632 @@
+{
+  "status": "all_current_chapter_decisions_reconciled_limits_open",
+  "chapters": 436,
+  "trips": 72,
+  "object_decisions_in_chapters": 2274,
+  "unknown_names_and_source_limits": "reviews/source-audit/QUESTIONS.md",
+  "other_worktree_texts": "reviews/source-audit/worktree-scope.json",
+  "standalone_source_reviews": [
+    "grandma-2008",
+    "moscow-new-year-2003",
+    "washington-2015"
+  ],
+  "method": "Полный перечень из отчётов прочитанных глав повторно сопоставлен с attraction_visits, places и attractions каждой главы. Каждая текущая объектная связь имеет решение с основанием; все принятые объектные/географические решения экспортированы и связаны с главами. Это проверка согласованности результата чтения, не доказательство абсолютного отсутствия пропусков и не заявление полного просмотра фотографий/видео.",
+  "results": [
+    {
+      "file": "content/europe/andorra/andorra-pyrenees-2026/arrival/index.md",
+      "report": "reviews/source-audit/trips/andorra-pyrenees-2026.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/andorra/andorra-pyrenees-2026/incles/index.md",
+      "report": "reviews/source-audit/trips/andorra-pyrenees-2026.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/andorra/andorra-pyrenees-2026/roc-del-quer/index.md",
+      "report": "reviews/source-audit/trips/andorra-pyrenees-2026.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/planning/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/day-01/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/day-02/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/day-03/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/day-04/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 15,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/day-05/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/day-06/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/day-07/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/day-08/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/day-09/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/day-10/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 16,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/day-11/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 14,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/day-12/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/day-13/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/day-14/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 11,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/atlantic-canada-2014/conclusion/index.md",
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/atlantic-city-philadelphia-2017/atlantic-city/index.md",
+      "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json",
+      "objects": 14,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/atlantic-city-philadelphia-2017/philadelphia/index.md",
+      "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json",
+      "objects": 16,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/barcelona-museums-2025/museums/index.md",
+      "report": "reviews/source-audit/trips/barcelona-museums-2025.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/barcelona-occitanie-2024/barcelona/index.md",
+      "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/barcelona-occitanie-2024/dali-figueres/index.md",
+      "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/barcelona-occitanie-2024/carcassonne/index.md",
+      "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/barcelona-occitanie-2024/condom-armagnac/index.md",
+      "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+      "objects": 9,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/barcelona-occitanie-2024/cordes-albi/index.md",
+      "report": "reviews/source-audit/trips/barcelona-occitanie-2024.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/bilbao/index.md",
+      "report": "reviews/source-audit/trips/basque-castile-2024.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/san-sebastian/index.md",
+      "report": "reviews/source-audit/trips/basque-castile-2024.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/san-bernabe/index.md",
+      "report": "reviews/source-audit/trips/basque-castile-2024.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/miraflores-burgos/index.md",
+      "report": "reviews/source-audit/trips/basque-castile-2024.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/penafiel-wine/index.md",
+      "report": "reviews/source-audit/trips/basque-castile-2024.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/valladolid/index.md",
+      "report": "reviews/source-audit/trips/basque-castile-2024.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/isabella/index.md",
+      "report": "reviews/source-audit/trips/basque-castile-2024.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/segovia/index.md",
+      "report": "reviews/source-audit/trips/basque-castile-2024.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/basque-castile-2024/toledo/index.md",
+      "report": "reviews/source-audit/trips/basque-castile-2024.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/switzerland/bern-2023/bern/index.md",
+      "report": "reviews/source-audit/trips/bern-2023.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/brussels-2008/story/index.md",
+      "report": "reviews/source-audit/trips/brussels-2008.json",
+      "objects": 14,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/chicago-2017/day-1/index.md",
+      "report": "reviews/source-audit/trips/chicago-2017.json",
+      "objects": 13,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/chicago-2017/day-2/index.md",
+      "report": "reviews/source-audit/trips/chicago-2017.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/chicago-2017/day-3/index.md",
+      "report": "reviews/source-audit/trips/chicago-2017.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/asia/china/china-2019/visas/index.md",
+      "report": "reviews/source-audit/trips/china-2019.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/asia/china/china-2019/planning/index.md",
+      "report": "reviews/source-audit/trips/china-2019.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/asia/china/china-2019/departure/index.md",
+      "report": "reviews/source-audit/trips/china-2019.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/asia/china/china-2019/qianmen-duck/index.md",
+      "report": "reviews/source-audit/trips/china-2019.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/asia/china/china-2019/forbidden-city/index.md",
+      "report": "reviews/source-audit/trips/china-2019.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/asia/china/china-2019/temple-heaven/index.md",
+      "report": "reviews/source-audit/trips/china-2019.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/asia/china/china-2019/lama-confucius-museum/index.md",
+      "report": "reviews/source-audit/trips/china-2019.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/asia/china/china-2019/great-wall-summer-palace/index.md",
+      "report": "reviews/source-audit/trips/china-2019.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/asia/china/china-2019/terracotta-army/index.md",
+      "report": "reviews/source-audit/trips/china-2019.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/asia/china/china-2019/xian/index.md",
+      "report": "reviews/source-audit/trips/china-2019.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/asia/china/china-2019/longmen-grottoes/index.md",
+      "report": "reviews/source-audit/trips/china-2019.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/asia/china/china-2019/hangzhou/index.md",
+      "report": "reviews/source-audit/trips/china-2019.json",
+      "objects": 11,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/asia/china/china-2019/shanghai/index.md",
+      "report": "reviews/source-audit/trips/china-2019.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/asia/china/china-2019/shanghai-museum-bund/index.md",
+      "report": "reviews/source-audit/trips/china-2019.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/asia/china/china-2019/disney-conclusion/index.md",
+      "report": "reviews/source-audit/trips/china-2019.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/relatives/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/european-talks/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/netherlands/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/eupen/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/dijon/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/nancy/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/cluny/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/musical-instruments/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/brussels/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/military-museum/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/bruges/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/lyon/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/beaune/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/kroller-muller/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/autoworld/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/kleve/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/antwerp/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/belgium/christmas-2014-2015/ghent/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/christmas-2014-2015/english-children/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-france.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/christmas-2014-2015/alps-final/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-france.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/christmas-2014-2015/alps/index.md",
+      "report": "reviews/source-audit/trips/christmas-2014-2015-france.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/crawford-lake-2020/crawford-lake/index.md",
+      "report": "reviews/source-audit/trips/crawford-lake-2020.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/cuba/cuba-2025/varadero/index.md",
+      "report": "reviews/source-audit/trips/cuba-2025.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/cuba/cuba-2025/havana/index.md",
+      "report": "reviews/source-audit/trips/cuba-2025.json",
+      "objects": 10,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/cuba/cuba-2025/excursions/index.md",
+      "report": "reviews/source-audit/trips/cuba-2025.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/detroit-windsor-2016/story/index.md",
+      "report": "reviews/source-audit/trips/detroit-windsor-2016.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/detroit-windsor-2016/detroit/index.md",
+      "report": "reviews/source-audit/trips/detroit-windsor-2016.json",
+      "objects": 9,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/ireland/dublin-2025/dublin/index.md",
+      "report": "reviews/source-audit/trips/dublin-2025.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/lisbon/index.md",
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/barcelona-christmas-markets/index.md",
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/barcelona-circus/index.md",
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/dresden-treasury/index.md",
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/dresden-gallery-opera/index.md",
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/moritzburg-meissen/index.md",
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/berlin-first-day/index.md",
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/berlin-museum-island/index.md",
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+      "objects": 9,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/berlin-technical-museum/index.md",
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/berlin-treptow-wall/index.md",
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/vic/index.md",
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/east-germany-winter-2025/i-love-barcelona/index.md",
+      "report": "reviews/source-audit/trips/east-germany-winter-2025.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/road-south/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/avignon/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/provence/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/nice/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/antibes/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/marseille/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/grasse/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/michelin/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/dacha/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/nice-museums/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/cannes/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/milan-duomo/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/milan-brera/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/turin-palace/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/turin-squares/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/paris-montmartre/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-2021/paris-louvre/index.md",
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/barcelona-eixample/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/maritime-museum/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/mnac/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/liceu-sagrada/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/gothic-quarter-beach/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/sant-pau/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/miro-montjuic/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/natasha-school/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/mitya-explores/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/stuttgart/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/mitya-birthday/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/frankfurt/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/lorsch/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/mannheim/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/hague-rotterdam/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/amsterdam/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/delft/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/kleve-kevelaer/index.md",
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/planning/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/paris/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 11,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/versailles/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/disney-fontainebleau/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/reims-riquewihr/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/strasbourg/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/stuttgart-hohenzollern-ulm/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/fussen-castles/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/nuremberg/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/mittenwald/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/munich-nymphenburg/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/munich-residence/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/munich-rothenburg/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/wurzburg-rudesheim/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/rhine-cologne/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/aachen-tournai-somme/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/rouen-honfleur/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/meaux/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/europe-friends-2019/conclusion/index.md",
+      "report": "reviews/source-audit/trips/europe-friends-2019.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/florence-2025/san-marco-uffizi/index.md",
+      "report": "reviews/source-audit/trips/florence-2025.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/florence-2025/free-museum-day/index.md",
+      "report": "reviews/source-audit/trips/florence-2025.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/florence-2025/florentine-mosaic/index.md",
+      "report": "reviews/source-audit/trips/florence-2025.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/france-2012/planning/index.md",
+      "report": "reviews/source-audit/trips/france-2012.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/france-2012/paris-1/index.md",
+      "report": "reviews/source-audit/trips/france-2012.json",
+      "objects": 20,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/france-2012/paris-2/index.md",
+      "report": "reviews/source-audit/trips/france-2012.json",
+      "objects": 18,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/france-2012/le-pin-d-day/index.md",
+      "report": "reviews/source-audit/trips/france-2012.json",
+      "objects": 9,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/france-2012/mont-saint-michel/index.md",
+      "report": "reviews/source-audit/trips/france-2012.json",
+      "objects": 16,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/france-2012/puy-du-fou/index.md",
+      "report": "reviews/source-audit/trips/france-2012.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/france-2012/cadre-noir-loire/index.md",
+      "report": "reviews/source-audit/trips/france-2012.json",
+      "objects": 13,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/france-2012/chambord-fontainebleau/index.md",
+      "report": "reviews/source-audit/trips/france-2012.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/france/france-2012/conclusion/index.md",
+      "report": "reviews/source-audit/trips/france-2012.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/bonaventure/index.md",
+      "report": "reviews/source-audit/trips/gaspe-2020.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/forillon/index.md",
+      "report": "reviews/source-audit/trips/gaspe-2020.json",
+      "objects": 9,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/perce/index.md",
+      "report": "reviews/source-audit/trips/gaspe-2020.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/road-to-quebec/index.md",
+      "report": "reviews/source-audit/trips/gaspe-2020.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/south-coast/index.md",
+      "report": "reviews/source-audit/trips/gaspe-2020.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/bic-pointe-au-pere/index.md",
+      "report": "reviews/source-audit/trips/gaspe-2020.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/jardins-de-metis/index.md",
+      "report": "reviews/source-audit/trips/gaspe-2020.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/gaspesie-park/index.md",
+      "report": "reviews/source-audit/trips/gaspe-2020.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/carleton-miguasha/index.md",
+      "report": "reviews/source-audit/trips/gaspe-2020.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-2011/overview/index.md",
+      "report": "reviews/source-audit/trips/germany-2011.json",
+      "objects": 11,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-2011/holland/index.md",
+      "report": "reviews/source-audit/trips/germany-2011.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-2011/belgium/index.md",
+      "report": "reviews/source-audit/trips/germany-2011.json",
+      "objects": 9,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-2011/alsace/index.md",
+      "report": "reviews/source-audit/trips/germany-2011.json",
+      "objects": 14,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-2011/switzerland-1/index.md",
+      "report": "reviews/source-audit/trips/germany-2011.json",
+      "objects": 10,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-2011/switzerland-2/index.md",
+      "report": "reviews/source-audit/trips/germany-2011.json",
+      "objects": 13,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-2011/bavaria/index.md",
+      "report": "reviews/source-audit/trips/germany-2011.json",
+      "objects": 10,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-2011/castles/index.md",
+      "report": "reviews/source-audit/trips/germany-2011.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-2011/london/index.md",
+      "report": "reviews/source-audit/trips/germany-2011.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-italy-2006/grandma/index.md",
+      "report": "reviews/source-audit/trips/germany-italy-2006.json",
+      "objects": 9,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-italy-2006/verona/index.md",
+      "report": "reviews/source-audit/trips/germany-italy-2006.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-italy-2006/padua/index.md",
+      "report": "reviews/source-audit/trips/germany-italy-2006.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-italy-2006/venice/index.md",
+      "report": "reviews/source-audit/trips/germany-italy-2006.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-italy-2006/milan/index.md",
+      "report": "reviews/source-audit/trips/germany-italy-2006.json",
+      "objects": 11,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-london-2009/grandma-kleve/index.md",
+      "report": "reviews/source-audit/trips/germany-london-2009.json",
+      "objects": 12,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-london-2009/london/index.md",
+      "report": "reviews/source-audit/trips/germany-london-2009.json",
+      "objects": 18,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-london-2009/cologne/index.md",
+      "report": "reviews/source-audit/trips/germany-london-2009.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-london-2009/bruhl/index.md",
+      "report": "reviews/source-audit/trips/germany-london-2009.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/germany/germany-london-2009/birthday/index.md",
+      "report": "reviews/source-audit/trips/germany-london-2009.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/netherlands/girls-europe-2017/start/index.md",
+      "report": "reviews/source-audit/trips/girls-europe-2017.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/netherlands/girls-europe-2017/amsterdam/index.md",
+      "report": "reviews/source-audit/trips/girls-europe-2017.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/netherlands/girls-europe-2017/rembrandt/index.md",
+      "report": "reviews/source-audit/trips/girls-europe-2017.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/netherlands/girls-europe-2017/amsterdam-museums/index.md",
+      "report": "reviews/source-audit/trips/girls-europe-2017.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/netherlands/girls-europe-2017/paris-left-bank/index.md",
+      "report": "reviews/source-audit/trips/girls-europe-2017.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/netherlands/girls-europe-2017/notre-dame-louvre/index.md",
+      "report": "reviews/source-audit/trips/girls-europe-2017.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/netherlands/girls-europe-2017/sainte-chapelle-eiffel/index.md",
+      "report": "reviews/source-audit/trips/girls-europe-2017.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/netherlands/girls-europe-2017/luxembourg-orangerie/index.md",
+      "report": "reviews/source-audit/trips/girls-europe-2017.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/netherlands/girls-europe-2017/the-hague/index.md",
+      "report": "reviews/source-audit/trips/girls-europe-2017.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/hamilton-2014/story/index.md",
+      "report": "reviews/source-audit/trips/hamilton-2014.json",
+      "objects": 9,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/baiona-combarro-cambados/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/santiago-de-compostela/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/praia-das-catedrais-gijon/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/oviedo/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/astorga-ponferrada/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/leon/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/braganca/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/douro/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/lamego/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/coimbra/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/bussaco/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/aveiro/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/guimaraes-braga/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/esposende-viana-barcelos/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/porto-1/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/porto-2/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/porto-3/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/honeymoon-2017/summary/index.md",
+      "report": "reviews/source-audit/trips/honeymoon-2017.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/aveiro/index.md",
+      "report": "reviews/source-audit/trips/iberia-2022.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/porto/index.md",
+      "report": "reviews/source-audit/trips/iberia-2022.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/porto-wine/index.md",
+      "report": "reviews/source-audit/trips/iberia-2022.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/santiago/index.md",
+      "report": "reviews/source-audit/trips/iberia-2022.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/oviedo/index.md",
+      "report": "reviews/source-audit/trips/iberia-2022.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/astorga/index.md",
+      "report": "reviews/source-audit/trips/iberia-2022.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/leon/index.md",
+      "report": "reviews/source-audit/trips/iberia-2022.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/salamanca/index.md",
+      "report": "reviews/source-audit/trips/iberia-2022.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/seville/index.md",
+      "report": "reviews/source-audit/trips/iberia-2022.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/algarve-rest/index.md",
+      "report": "reviews/source-audit/trips/iberia-2022.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/sand-city/index.md",
+      "report": "reviews/source-audit/trips/iberia-2022.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/faro/index.md",
+      "report": "reviews/source-audit/trips/iberia-2022.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/lisbon/index.md",
+      "report": "reviews/source-audit/trips/iberia-2022.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/rome-arrival/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/vatican-fountains/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/colosseum/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/rome-churches/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/borghese/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/orvieto/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/monte-oliveto/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/florence-uffizi/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/florence-pitti/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/florence-duomo/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/medici-chapel/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/accademia-stibbert/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/pisa/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/cinque-terre/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/lucca/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/pietrasanta/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/siena/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/italy-2022/tivoli/index.md",
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-2018/arrival/index.md",
+      "report": "reviews/source-audit/trips/london-2018.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-2018/stylist/index.md",
+      "report": "reviews/source-audit/trips/london-2018.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-2018/oxford/index.md",
+      "report": "reviews/source-audit/trips/london-2018.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-2018/westminster/index.md",
+      "report": "reviews/source-audit/trips/london-2018.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-2018/weekend/index.md",
+      "report": "reviews/source-audit/trips/london-2018.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-2018/museums/index.md",
+      "report": "reviews/source-audit/trips/london-2018.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-2018/excursions/index.md",
+      "report": "reviews/source-audit/trips/london-2018.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-2018/conclusions/index.md",
+      "report": "reviews/source-audit/trips/london-2018.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-2022/windsor/index.md",
+      "report": "reviews/source-audit/trips/london-2022.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-2022/national-gallery/index.md",
+      "report": "reviews/source-audit/trips/london-2022.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-2022/tate-britain/index.md",
+      "report": "reviews/source-audit/trips/london-2022.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-2022/kent/index.md",
+      "report": "reviews/source-audit/trips/london-2022.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-2022/hyde-park/index.md",
+      "report": "reviews/source-audit/trips/london-2022.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-2022/legal-london/index.md",
+      "report": "reviews/source-audit/trips/london-2022.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-2022/leighton-house/index.md",
+      "report": "reviews/source-audit/trips/london-2022.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/england/london-cambridge-2008/story/index.md",
+      "report": "reviews/source-audit/trips/london-cambridge-2008.json",
+      "objects": 27,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/los-angeles-disneyland-2007/los-angeles/index.md",
+      "report": "reviews/source-audit/trips/los-angeles-disneyland-2007.json",
+      "objects": 15,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/los-angeles-disneyland-2007/disneyland/index.md",
+      "report": "reviews/source-audit/trips/los-angeles-disneyland-2007.json",
+      "objects": 26,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/luxembourg/luxembourg-2007/grandma/index.md",
+      "report": "reviews/source-audit/trips/luxembourg-2007.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/luxembourg/luxembourg-2007/story/index.md",
+      "report": "reviews/source-audit/trips/luxembourg-2007.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/luxembourg/luxembourg-2007/rome/index.md",
+      "report": "reviews/source-audit/trips/luxembourg-2007.json",
+      "objects": 16,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/madrid-2024/cathedrals-palace/index.md",
+      "report": "reviews/source-audit/trips/madrid-2024.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/madrid-2024/imperial-city/index.md",
+      "report": "reviews/source-audit/trips/madrid-2024.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/malgrat-2024/malgrat/index.md",
+      "report": "reviews/source-audit/trips/malgrat-2024.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/mcmichael-2023/mcmichael/index.md",
+      "report": "reviews/source-audit/trips/mcmichael-2023.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2015/introduction/index.md",
+      "report": "reviews/source-audit/trips/mexico-2015.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2015/resort/index.md",
+      "report": "reviews/source-audit/trips/mexico-2015.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2015/dolphins/index.md",
+      "report": "reviews/source-audit/trips/mexico-2015.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2015/coba-tulum/index.md",
+      "report": "reviews/source-audit/trips/mexico-2015.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2015/chichen-itza/index.md",
+      "report": "reviews/source-audit/trips/mexico-2015.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2015/cenote-ek-balam/index.md",
+      "report": "reviews/source-audit/trips/mexico-2015.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2025/cancun-start/index.md",
+      "report": "reviews/source-audit/trips/mexico-2025.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2025/chichen-itza/index.md",
+      "report": "reviews/source-audit/trips/mexico-2025.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2025/progreso/index.md",
+      "report": "reviews/source-audit/trips/mexico-2025.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2025/uxmal/index.md",
+      "report": "reviews/source-audit/trips/mexico-2025.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2025/mangroves/index.md",
+      "report": "reviews/source-audit/trips/mexico-2025.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2025/merida/index.md",
+      "report": "reviews/source-audit/trips/mexico-2025.json",
+      "objects": 10,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2025/merida-to-mexico-city/index.md",
+      "report": "reviews/source-audit/trips/mexico-2025.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2025/mexico-city-center/index.md",
+      "report": "reviews/source-audit/trips/mexico-2025.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2025/post-rivera-museum/index.md",
+      "report": "reviews/source-audit/trips/mexico-2025.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2025/munal/index.md",
+      "report": "reviews/source-audit/trips/mexico-2025.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2025/chapultepec-anthropology/index.md",
+      "report": "reviews/source-audit/trips/mexico-2025.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2025/teotihuacan/index.md",
+      "report": "reviews/source-audit/trips/mexico-2025.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2025/coyoacan-ballet/index.md",
+      "report": "reviews/source-audit/trips/mexico-2025.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/mexico/mexico-2025/caribbean/index.md",
+      "report": "reviews/source-audit/trips/mexico-2025.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/minneapolis-2022/minneapolis/index.md",
+      "report": "reviews/source-audit/trips/minneapolis-2022.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/mont-tremblant-2012/story/index.md",
+      "report": "reviews/source-audit/trips/mont-tremblant-2012.json",
+      "objects": 13,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/montserrat-2025/montserrat/index.md",
+      "report": "reviews/source-audit/trips/montserrat-2025.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/russia/moscow-new-year-2012/story/index.md",
+      "report": "reviews/source-audit/trips/moscow-new-year-2012.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/new-england-2015/cape-cod/index.md",
+      "report": "reviews/source-audit/trips/new-england-2015.json",
+      "objects": 13,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/new-england-2015/pilgrims/index.md",
+      "report": "reviews/source-audit/trips/new-england-2015.json",
+      "objects": 10,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/new-england-2015/settlement/index.md",
+      "report": "reviews/source-audit/trips/new-england-2015.json",
+      "objects": 10,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/new-england-2015/boston/index.md",
+      "report": "reviews/source-audit/trips/new-england-2015.json",
+      "objects": 16,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/new-england-2015/american-revolution/index.md",
+      "report": "reviews/source-audit/trips/new-england-2015.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/new-england-2015/industrial-revolution/index.md",
+      "report": "reviews/source-audit/trips/new-england-2015.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/new-england-2015/gilded-age/index.md",
+      "report": "reviews/source-audit/trips/new-england-2015.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/new-england-2015/cultural-heritage/index.md",
+      "report": "reviews/source-audit/trips/new-england-2015.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/new-york-2006/story/index.md",
+      "report": "reviews/source-audit/trips/new-york-2006.json",
+      "objects": 30,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/new-york-2012/day-1/index.md",
+      "report": "reviews/source-audit/trips/new-york-2012.json",
+      "objects": 13,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/new-york-2012/day-2/index.md",
+      "report": "reviews/source-audit/trips/new-york-2012.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/new-york-2012/day-3/index.md",
+      "report": "reviews/source-audit/trips/new-york-2012.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/new-york-2012/day-4/index.md",
+      "report": "reviews/source-audit/trips/new-york-2012.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/sault-ste-marie/index.md",
+      "report": "reviews/source-audit/trips/north-ontario-2020.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/lake-superior/index.md",
+      "report": "reviews/source-audit/trips/north-ontario-2020.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/amethysts-canyons/index.md",
+      "report": "reviews/source-audit/trips/north-ontario-2020.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/red-rock/index.md",
+      "report": "reviews/source-audit/trips/north-ontario-2020.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/thunder-bay/index.md",
+      "report": "reviews/source-audit/trips/north-ontario-2020.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/sleeping-giant/index.md",
+      "report": "reviews/source-audit/trips/north-ontario-2020.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/nipigon-wawa/index.md",
+      "report": "reviews/source-audit/trips/north-ontario-2020.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/lake-superior-park/index.md",
+      "report": "reviews/source-audit/trips/north-ontario-2020.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/manitoulin/index.md",
+      "report": "reviews/source-audit/trips/north-ontario-2020.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/ottawa-2015/tulips/index.md",
+      "report": "reviews/source-audit/trips/ottawa-2015.json",
+      "objects": 9,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/ottawa-2015/ottawa/index.md",
+      "report": "reviews/source-audit/trips/ottawa-2015.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/ottawa-2015/museum/index.md",
+      "report": "reviews/source-audit/trips/ottawa-2015.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/ottawa/museum-2017/index.md",
+      "report": "reviews/source-audit/trips/ottawa-2017.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/peniscola-valencia-2024/peniscola/index.md",
+      "report": "reviews/source-audit/trips/peniscola-valencia-2024.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/peniscola-valencia-2024/valencia/index.md",
+      "report": "reviews/source-audit/trips/peniscola-valencia-2024.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/poblet-2025/poblet/index.md",
+      "report": "reviews/source-audit/trips/poblet-2025.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/port-elgin-2021/port-elgin/index.md",
+      "report": "reviews/source-audit/trips/port-elgin-2021.json",
+      "objects": 10,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-2024/lisbon-belem/index.md",
+      "report": "reviews/source-audit/trips/portugal-2024.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-2024/setubal/index.md",
+      "report": "reviews/source-audit/trips/portugal-2024.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-2024/monserrate-park/index.md",
+      "report": "reviews/source-audit/trips/portugal-2024.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-2024/monserrate-palace/index.md",
+      "report": "reviews/source-audit/trips/portugal-2024.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-2024/capuchos-cabo-da-roca/index.md",
+      "report": "reviews/source-audit/trips/portugal-2024.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/belem/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/lisbon/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/sintra/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/arraiolos/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/albufeira/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/jerez-seville/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/seville/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/almunecar/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/alhambra/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/consuegra/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/toledo/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/madrid/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/escorial-salamanca/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/belmonte/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/tomar-batalha-nazare/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/portugal/portugal-spain-2016/lisbon-final/index.md",
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/lisbon-transit/index.md",
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/prague-old-town/index.md",
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/prague-castle/index.md",
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/vienna-walks/index.md",
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/vienna-food/index.md",
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/hofburg/index.md",
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/opera-concert/index.md",
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/art-museums/index.md",
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/schonbrunn/index.md",
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/technical-military/index.md",
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/austria/prague-vienna-2023/last-day/index.md",
+      "report": "reviews/source-audit/trips/prague-vienna-2023.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/quebec-montreal-2003/story/index.md",
+      "report": "reviews/source-audit/trips/quebec-montreal-2003.json",
+      "objects": 28,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/quebec-virginia-2013/canada-games/index.md",
+      "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/quebec-virginia-2013/magog/index.md",
+      "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-1/index.md",
+      "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
+      "objects": 10,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-2/index.md",
+      "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-3/index.md",
+      "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/quebec-virginia-2013/conclusion/index.md",
+      "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/calgary/index.md",
+      "report": "reviews/source-audit/trips/rockies-2018.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/heritage-park/index.md",
+      "report": "reviews/source-audit/trips/rockies-2018.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/badlands/index.md",
+      "report": "reviews/source-audit/trips/rockies-2018.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/royal-tyrrell/index.md",
+      "report": "reviews/source-audit/trips/rockies-2018.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/banff/index.md",
+      "report": "reviews/source-audit/trips/rockies-2018.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/kootenay/index.md",
+      "report": "reviews/source-audit/trips/rockies-2018.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/lake-louise/index.md",
+      "report": "reviews/source-audit/trips/rockies-2018.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/yoho/index.md",
+      "report": "reviews/source-audit/trips/rockies-2018.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/icefields-parkway/index.md",
+      "report": "reviews/source-audit/trips/rockies-2018.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/jasper/index.md",
+      "report": "reviews/source-audit/trips/rockies-2018.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/edmonton/index.md",
+      "report": "reviews/source-audit/trips/rockies-2018.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/stampede/index.md",
+      "report": "reviews/source-audit/trips/rockies-2018.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/rome-2015-2016/kleve/index.md",
+      "report": "reviews/source-audit/trips/rome-2015-2016.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/rome-2015-2016/florence-uffizi/index.md",
+      "report": "reviews/source-audit/trips/rome-2015-2016.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/rome-2015-2016/florence-museums/index.md",
+      "report": "reviews/source-audit/trips/rome-2015-2016.json",
+      "objects": 10,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/rome-2015-2016/florence-duomo/index.md",
+      "report": "reviews/source-audit/trips/rome-2015-2016.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/rome-2015-2016/rome-night/index.md",
+      "report": "reviews/source-audit/trips/rome-2015-2016.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/rome-2015-2016/vatican/index.md",
+      "report": "reviews/source-audit/trips/rome-2015-2016.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/rome-2015-2016/rome-colosseum/index.md",
+      "report": "reviews/source-audit/trips/rome-2015-2016.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/rome-2015-2016/naples/index.md",
+      "report": "reviews/source-audit/trips/rome-2015-2016.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/rome-2015-2016/pompeii/index.md",
+      "report": "reviews/source-audit/trips/rome-2015-2016.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/rome-2015-2016/tivoli/index.md",
+      "report": "reviews/source-audit/trips/rome-2015-2016.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/rome-2015-2016/milan/index.md",
+      "report": "reviews/source-audit/trips/rome-2015-2016.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/italy/rome-2015-2016/conclusion/index.md",
+      "report": "reviews/source-audit/trips/rome-2015-2016.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/arrival/index.md",
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/santiago/index.md",
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/salta-purmamarca/index.md",
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/tilcara-uquia/index.md",
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/hornocal/index.md",
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/cardones/index.md",
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/salta-impressions/index.md",
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/iguazu-argentina/index.md",
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/iguazu-brazil/index.md",
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/buenos-aires/index.md",
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/recoleta-mate/index.md",
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/teatro-colon/index.md",
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/san-telmo-la-boca/index.md",
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/valparaiso/index.md",
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/modern-chile/index.md",
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/spain-2019/barcelona-arrival/index.md",
+      "report": "reviews/source-audit/trips/spain-2019.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/spain-2019/gaudi-modernisme/index.md",
+      "report": "reviews/source-audit/trips/spain-2019.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/spain-2019/gothic-quarter/index.md",
+      "report": "reviews/source-audit/trips/spain-2019.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/spain-2019/sagrada-sant-pau/index.md",
+      "report": "reviews/source-audit/trips/spain-2019.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/spain-2019/valencia/index.md",
+      "report": "reviews/source-audit/trips/spain-2019.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/spain-2019/torrevieja/index.md",
+      "report": "reviews/source-audit/trips/spain-2019.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/spain-2019/madrid/index.md",
+      "report": "reviews/source-audit/trips/spain-2019.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/europe/spain/teruel-2025/teruel-albarracin/index.md",
+      "report": "reviews/source-audit/trips/teruel-2025.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/tobermory-2014/waterfalls/index.md",
+      "report": "reviews/source-audit/trips/tobermory-2014.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/tobermory-2014/flowerpot/index.md",
+      "report": "reviews/source-audit/trips/tobermory-2014.json",
+      "objects": 7,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/tobermory-2014/grotto/index.md",
+      "report": "reviews/source-audit/trips/tobermory-2014.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/tobermory-2014/adventure-park/index.md",
+      "report": "reviews/source-audit/trips/tobermory-2014.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/toronto-2016/toronto-1/index.md",
+      "report": "reviews/source-audit/trips/toronto-2016.json",
+      "objects": 6,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/toronto-2016/new-york/index.md",
+      "report": "reviews/source-audit/trips/toronto-2016.json",
+      "objects": 9,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/toronto-2016/temagami-1/index.md",
+      "report": "reviews/source-audit/trips/toronto-2016.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/toronto-2016/temagami-2/index.md",
+      "report": "reviews/source-audit/trips/toronto-2016.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/toronto-2016/temagami-3/index.md",
+      "report": "reviews/source-audit/trips/toronto-2016.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/toronto-2016/toronto-conclusion/index.md",
+      "report": "reviews/source-audit/trips/toronto-2016.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/toronto-walks/yonge-street/index.md",
+      "report": "reviews/source-audit/trips/toronto-walks.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/toronto-walks/the-ward/index.md",
+      "report": "reviews/source-audit/trips/toronto-walks.json",
+      "objects": 8,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/toronto-walks/queens-park/index.md",
+      "report": "reviews/source-audit/trips/toronto-walks.json",
+      "objects": 3,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/toronto-walks/afternoon-tea-2025/index.md",
+      "report": "reviews/source-audit/trips/toronto-walks.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/cuba/trinidad-2017/cuba/index.md",
+      "report": "reviews/source-audit/trips/trinidad-2017.json",
+      "objects": 4,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/cuba/trinidad-2017/road/index.md",
+      "report": "reviews/source-audit/trips/trinidad-2017.json",
+      "objects": 2,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/cuba/trinidad-2017/trinidad/index.md",
+      "report": "reviews/source-audit/trips/trinidad-2017.json",
+      "objects": 5,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/trinidad-tobago/trinidad-tobago-2018/port-of-spain/index.md",
+      "report": "reviews/source-audit/trips/trinidad-tobago-2018.json",
+      "objects": 1,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/canada/vancouver-2023/vancouver/index.md",
+      "report": "reviews/source-audit/trips/vancouver-2023.json",
+      "objects": 21,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/washington-2011/story/index.md",
+      "report": "reviews/source-audit/trips/washington-2011.json",
+      "objects": 26,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/washington-philadelphia-2008/washington/index.md",
+      "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
+      "objects": 29,
+      "status": "decisions_and_links_reconciled"
+    },
+    {
+      "file": "content/americas/usa/washington-philadelphia-2008/philadelphia/index.md",
+      "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
+      "objects": 19,
+      "status": "decisions_and_links_reconciled"
+    }
+  ]
+}

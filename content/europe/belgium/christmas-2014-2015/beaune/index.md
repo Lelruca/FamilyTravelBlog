@@ -9,7 +9,7 @@ places:
 hero_image: "DSC03227.jpg"
 date: 2015-01-03
 auto_gallery: false
-attractions: ["beaune--ospis-de-bon"]
+attractions: ["beaune--marche-aux-vins","beaune--ospis-de-bon"]
 ---
 Дальше наш путь лежал в город Бон (Beaune – ну КАК это можно прочитать как Бон?!). Это винная столица Бургундии! Вдумайтесь, ВИННАЯ столица БУРГУНДИИ!..
 

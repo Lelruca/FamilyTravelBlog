@@ -9,7 +9,7 @@ places:
 hero_image: "20160903_130949.jpg"
 date: 2016-09-03
 auto_gallery: false
-attractions: ["lisbon--dvorets-azhuda","lisbon--monastyr-zheronimush","lisbon--natsionalnyy-muzey-karet","lisbon--muzey-vina-i-degustatsiya"]
+attractions: ["lisbon--dvorets-azhuda","lisbon--monastyr-zheronimush","lisbon--natsionalnyy-muzey-karet"]
 ---
 И вот наш последний день в Лиссабоне, бонусный, который не был запланирован заранее, а который получился по просьбе трудящихся в процессе поездки.
 

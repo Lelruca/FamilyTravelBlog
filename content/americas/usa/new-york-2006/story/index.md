@@ -9,7 +9,7 @@ city: "Нью-Йорк"
 places:
   - new-york
 auto_gallery: false
-attractions: ["new-york--empayr-steyt-bilding","new-york--amerikanskiy-muzey-estestvennoy-istorii","new-york--tsentralnyy-park"]
+attractions: ["new-york--empayr-steyt-bilding","new-york--amerikanskiy-muzey-estestvennoy-istorii","new-york--tsentralnyy-park","new-york--statuya-svobody","new-york--circle-line-cruise","new-york--brodvey","new-york--muzey-sovremennogo-iskusstva-moma","new-york--guggenheim"]
 ---
 
 <p>Извиняюсь за столь банальное название, но оно отражает именно те протеворечивые чувства, что вызывал у нас этот необыкновенный город :-)</p>

@@ -1,0 +1,1510 @@
+{
+  "trip_path": "content/europe/france/france-2012",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2012_ Франция.docx",
+    "sha256": "7e8e8c3df89cc7a954b226a881ea8f7a275821bcfa989d8b35d88364af2beda1",
+    "read": "Целиком прочитаны все девять глав, включая заключение, подписи, оценочные фразы и справочные цитаты. В DOCX 111 непустых текстовых абзацев: 102 полностью совпали после удаления HTML и нормализации пробелов/длинных тире с уже прочитанными главами; девять исходных заголовков прочитаны отдельно. Все 153 абзаца HTML изображений учтены отдельно."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 172,
+    "manifest": "media-manifests/france-2012.json",
+    "method": "171 оригинал с siteKeys сверен по SHA-256 и просмотрен на 15 контактных листах. Ещё одна архивная копия IMG_0982.JPG для заключения открыта отдельно и сверена по SHA-256. Заимствованные иллюстрации Кадр Нуар, Шенонсо и созданные/обработанные иллюстрации планирования и коллаж улиц не используются как самостоятельное доказательство посещения."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/france/france-2012/planning/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Швейцария",
+          "event": "previous_trip",
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "В прошлом году наша поездка"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Отсылка к поездке 2011 года, не часть Франции 2012."
+        },
+        {
+          "label": "Италия и Помпеи",
+          "event": "considered_alternative",
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "Первое что пришло в голову – Италия"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "От итальянского направления отказались; Наташа вспоминает предыдущие посещения."
+        },
+        {
+          "label": "Париж и Франция",
+          "event": "planned_then_visited",
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "может Париж и Франция"
+            }
+          ],
+          "decision": "covered_in_other_chapter",
+          "reason": "Состоявшиеся посещения подтверждены последующими главами, не одним планом."
+        },
+        {
+          "label": "Парижская площадь на иллюстрации планирования",
+          "event": "illustration",
+          "evidence": [
+            {
+              "photo": "planning/Tourist_Checking_Camera_in_Parisian_Plaza.jpg"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Выбранная владельцем иллюстрация не используется как самостоятельное свидетельство посещения."
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/france-2012/paris-1/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Париж",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "подъезжали к Парижу"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "paris"
+          }
+        },
+        {
+          "label": "Амстердам",
+          "event": "arrival_transit",
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "мы прилетеле в этом раз в Амстердам"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Указан аэропорт прилёта и прокат автомобиля; прогулка по городу не описана."
+        },
+        {
+          "label": "Москва",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "в Москве Серега наотрез"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Сравнение условий вождения."
+        },
+        {
+          "label": "Hôtel Sainte-Marie",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "Hôtel Sainte-Marie"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+        },
+        {
+          "label": "Парковка в Париже",
+          "event": "used_parking",
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "место на парковке бронировали"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Название и точный адрес отсутствуют."
+        },
+        {
+          "label": "Пешеходная экскурсия New Paris Tours",
+          "event": "attended",
+          "evidence": [
+            {
+              "source_paragraph": 8,
+              "quote": "http://www.newparistours.com/daily-tours/paris-free-tour.html"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "paris"
+          },
+          "reason": "Реально прошли 3,5 часа; остальные обсуждавшиеся гиды не считаются отдельными посещёнными объектами."
+        },
+        {
+          "label": "Площадь и фонтан Сен-Мишель",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 8,
+              "quote": "на площади св. Михаила у фонтана"
+            },
+            {
+              "photo": "paris-1/IMG_0837.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "paris--fontaine-saint-michel"
+          }
+        },
+        {
+          "label": "Нотр-Дам",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 16,
+              "quote": "от Нотр-Дама до Эйфелевой башни"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "notre-dame-paris"
+          },
+          "reason": "В первой главе наружный осмотр; вход внутрь прямо подтверждён только на следующий день."
+        },
+        {
+          "label": "Эйфелева башня",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 16,
+              "quote": "до Эйфелевой башни"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "eiffel-tower"
+          },
+          "reason": "Подъём на башню не описан."
+        },
+        {
+          "label": "Ресторан после экскурсии",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 16,
+              "quote": "почти в полном составе мы пошли туда обедать"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён."
+        },
+        {
+          "label": "Лувр: двор и фасад",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "paris-1/IMG_0877.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены."
+        },
+        {
+          "label": "Арка Каррузель",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "paris-1/IMG_0883.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "paris--arc-carrousel"
+            },
+            "reason": "Самостоятельный внешний объект на маршруте, не Триумфальная арка на площади Звезды."
+          }
+        },
+        {
+          "label": "Памятник Жанне д’Арк на площади Пирамид",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "paris-1/IMG_0894.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "paris--joan-of-arc-pyramides"
+            },
+            "reason": "Позолоченная конная статуя и окружение сопоставлены с парижским памятником."
+          }
+        },
+        {
+          "label": "Сад Тюильри",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "paris-1/IMG_0918.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены."
+        },
+        {
+          "label": "Площадь Согласия",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "paris-1/IMG_0932.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "place-concorde"
+            },
+            "reason": "На фото Луксорский обелиск и площадь; это не посещение Египта."
+          }
+        },
+        {
+          "label": "Мост Александра III",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "paris-1/IMG_0937.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "paris--pont-alexandre-iii"
+            },
+            "reason": "Мост и позолоченные фигуры на пилонах."
+          }
+        },
+        {
+          "label": "Дом инвалидов",
+          "event": "courtyard_and_exterior",
+          "evidence": [
+            {
+              "photo": "paris-1/IMG_0949.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены."
+        },
+        {
+          "label": "Церковь и отдельная башня возле Лувра",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "paris-1/IMG_0871.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Собственные названия в тексте отсутствуют; требуется точное сопоставление, не приписывается вход."
+          }
+        },
+        {
+          "label": "Музей Орсе",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 44,
+              "quote": "с удовольствием побродили по залам"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "musee-orsay"
+          },
+          "reason": "Вечерний вход и аудиогид прямо описаны, хотя автор не фотографировала внутри."
+        },
+        {
+          "label": "Нью-Йорк",
+          "event": "previous_trip",
+          "evidence": [
+            {
+              "source_paragraph": 44,
+              "quote": "после поездки в Нью-Йорк"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Отсылка к прежнему художественному опыту."
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/france-2012/paris-2/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Париж",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 50,
+              "quote": "Париж утром"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "paris"
+          }
+        },
+        {
+          "label": "Лувр",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 60,
+              "quote": "коллекцию итальянской живописи"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "louvre"
+          },
+          "reason": "Залы греческих скульптур и итальянской живописи, Джоконда и другие произведения покрыты музеем. Отсутствие фотографий внутри объяснено автором."
+        },
+        {
+          "label": "Латинский квартал",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 69,
+              "quote": "латинскому кварталу"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "paris--latinskiy-kvartal"
+          }
+        },
+        {
+          "label": "Нотр-Дам",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 69,
+              "quote": "в этот раз мы туда зашли"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "notre-dame-paris"
+          },
+          "reason": "Интерьер, витражи, придел и икона подтверждены текстом и снимками."
+        },
+        {
+          "label": "Сквер Рене-Вивиани и старейшее дерево Парижа",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 84,
+              "quote": "самое старое дерево в Париже"
+            },
+            {
+              "photo": "paris-2/IMG_1061.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "paris--square-rene-viviani"
+          },
+          "reason": "Дерево на снимке с опорами сопоставлено с городской записью о робинии 1601 года. Один объект сквера с деревом."
+        },
+        {
+          "label": "Shakespeare and Company",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "paris-2/IMG_1063.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены."
+        },
+        {
+          "label": "Фонтан Уоллеса возле Shakespeare and Company",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "paris-2/IMG_1065.jpg"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "paris"
+          },
+          "reason": "Городской питьевой фонтан на маршруте. Точный отдельный инвентарный номер не установлен; в реестре сохранён как ориентир."
+        },
+        {
+          "label": "Музей Клюни: здание",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "paris-2/IMG_1073.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "musee-cluny"
+            },
+            "reason": "Внешний осмотр средневекового Hôtel de Cluny. Вход в музейную экспозицию не утверждается."
+          }
+        },
+        {
+          "label": "Пантеон",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "paris-2/IMG_1078.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "pantheon-paris"
+            },
+            "reason": "Фото фасада; внутреннее посещение не описано."
+          }
+        },
+        {
+          "label": "Люксембургский дворец",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 94,
+              "quote": "подошли к Люксембурскому дворцу"
+            },
+            {
+              "photo": "paris-2/IMG_1084.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "paris--luxembourg-palace"
+          },
+          "reason": "Внешний вид из сада, без экскурсии по внутренним залам."
+        },
+        {
+          "label": "Люксембургский сад",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 94,
+              "quote": "вернее его сад"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "luxembourg-gardens"
+          },
+          "reason": "Скульптуры и фонтан Медичи на IMG_1085.jpg учтены в составе сада; отдельные входы в учреждения не выводятся из садовых фото."
+        },
+        {
+          "label": "Церковь Сен-Сюльпис",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "paris-2/IMG_1106.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "paris--saint-sulpice"
+            },
+            "reason": "Семейный портрет у фасада; вход внутрь не подтверждён."
+          }
+        },
+        {
+          "label": "Фонтан Сен-Сюльпис",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "paris-2/IMG_1098.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "paris--fontaine-saint-sulpice"
+            },
+            "reason": "Фонтан на площади перед церковью."
+          }
+        },
+        {
+          "label": "Улицы мушкетёров Дюма",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 102,
+              "quote": "все улочки где Дюма"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "paris"
+          },
+          "reason": "Улицы реально показаны гидом, но литературные дома героев не становятся посещёнными музеями. Коллаж Gemini не является независимым историческим фото."
+        },
+        {
+          "label": "Ресторан после второй экскурсии",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 106,
+              "quote": "посидели в ресторанчике"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён."
+        },
+        {
+          "label": "Фонтан Невинных",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 110,
+              "quote": "а там огромный фонтан"
+            },
+            {
+              "photo": "paris-2/IMG_1111.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "paris--fontaine-des-innocents"
+          },
+          "reason": "Фонтан на IMG_1111.jpg сопоставлен с городским памятником. Авторское описание двора не переписывалось."
+        },
+        {
+          "label": "Церковный фасад по дороге к Лувру",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "paris-2/IMG_0977.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Название в тексте не указано, точная идентификация отложена; вход внутрь не приписывается."
+          }
+        },
+        {
+          "label": "Сорбонна",
+          "event": "guide_biography",
+          "evidence": [
+            {
+              "source_paragraph": 69,
+              "quote": "выпускница Сарбоны"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Образование гида, не посещение университета семьёй."
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/france-2012/le-pin-d-day/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Версаль и фонтаны",
+          "event": "cancelled_plan",
+          "evidence": [
+            {
+              "source_paragraph": 118,
+              "quote": "променяли Версаль"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Решили ехать на конезавод; прежнее посещение Версаля не переносится в 2012 год."
+        },
+        {
+          "label": "Национальный конный завод Ле-Пен",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 122,
+              "quote": "Экскурсовод на самом деле просто работница этого завода"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "le-pin-au-haras"
+          },
+          "reason": "Экскурсия и лошади подтверждены текстом и фотографиями. Место получает тип конный центр."
+        },
+        {
+          "label": "Центр Джуно-Бич, пляж и бункер",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 132,
+              "quote": "провел в немецкий бункер"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "d-day-beaches--tsentr-dzhuno-bich"
+          },
+          "reason": "В музее тоже были: хроника, залы и выводы автора; бункер и пляж — части экскурсии центра, не несколько выдуманных музеев."
+        },
+        {
+          "label": "Нормандские пляжи высадки",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 132,
+              "quote": "канадского Juno Beach"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "d-day-beaches"
+          },
+          "reason": "Конкретно Джуно-Бич, не все пляжи высадки."
+        },
+        {
+          "label": "Военные кладбища",
+          "event": "historical_context",
+          "evidence": [
+            {
+              "source_paragraph": 132,
+              "quote": "Каждая страна высаживалась"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Общее описание региона. Посещение конкретного кладбища в рассказе и просмотренных фото не установлено."
+        },
+        {
+          "label": "Батарея Лонг-сюр-Мер",
+          "event": "unrealised_plan",
+          "evidence": [
+            {
+              "source_paragraph": 150,
+              "quote": "но уже устали"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Собирались после музея, но не поехали."
+        },
+        {
+          "label": "Ферма La Bretonnière en baie",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 152,
+              "quote": "http://www.bretonniere-en-baie.com/index.html"
+            }
+          ],
+          "decision": "pending_geographic_identification",
+          "reason": "Проживание, завтрак и ужин состоялись, исходная ссылка сохранена. Надёжный адрес не установлен; не подставляется произвольный город."
+        },
+        {
+          "label": "Ферма с дегустацией кальвадоса",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 154,
+              "quote": "заехали на ферму где продают кальвадос"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Отдельная от фермы проживания остановка; название не указано."
+        },
+        {
+          "label": "Бензоколонка, где спрашивали дорогу",
+          "event": "used_for_directions",
+          "evidence": [
+            {
+              "source_paragraph": 153,
+              "quote": "наподобии бензоколонки"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Адрес и название отсутствуют; не самостоятельная экскурсия."
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/france-2012/mont-saint-michel/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Мон-Сен-Мишель",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 169,
+              "quote": "мы конечно же поднялись на самый верх"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "mont-saint-michel"
+          }
+        },
+        {
+          "label": "Аббатство Мон-Сен-Мишель",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 171,
+              "quote": "В Аббатстве мы опять взяли каждому аудиогид"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "mont-saint-michel--abbatstvo-mon-sen-mishel"
+          },
+          "reason": "Церковь, монастырские залы, галереи и экспонаты покрыты одним комплексом; вход подтверждён описанием и фото."
+        },
+        {
+          "label": "Залив и дно при отливе",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 168,
+              "quote": "по дну погуляли среди ракушек"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "mont-saint-michel"
+          },
+          "reason": "Реальная прогулка, а не полный переход через залив с экскурсоводом."
+        },
+        {
+          "label": "Томблен",
+          "event": "historical_context",
+          "evidence": [
+            {
+              "source_paragraph": 174,
+              "quote": "Соседняя гора Томблен"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Историческая цитата; отдельная высадка на остров не описана."
+        },
+        {
+          "label": "Залив Фанди",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 166,
+              "quote": "после залива Фанди"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Сравнение приливов, не часть маршрута Франции."
+        },
+        {
+          "label": "Канкаль и устричная ферма",
+          "event": "unrealised_alternative",
+          "evidence": [
+            {
+              "source_paragraph": 200,
+              "quote": "или съездить в Сancale"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Выбрали Сен-Мало."
+        },
+        {
+          "label": "Сен-Мало",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 200,
+              "quote": "мы выбрали город Saint-Malo"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "saint-malo"
+          }
+        },
+        {
+          "label": "Крепостные стены Сен-Мало",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 216,
+              "quote": "обойти весь этот старый город по периметру"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "saint-malo--ramparts"
+          }
+        },
+        {
+          "label": "Замок Сен-Мало",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "mont-saint-michel/IMG_1342.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "saint-malo--castle"
+            },
+            "reason": "Внешний осмотр с городского маршрута; музей внутри не считается посещённым."
+          }
+        },
+        {
+          "label": "Пляж Бон-Секур и морской бассейн",
+          "event": "shore_walk_and_pool_view",
+          "evidence": [
+            {
+              "source_paragraph": 216,
+              "quote": "увидели необычный бассейн"
+            },
+            {
+              "photo": "mont-saint-michel/IMG_1376.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "saint-malo--bon-secours"
+          },
+          "reason": "Официальная туристическая запись сопоставлена с IMG_1376.jpg. В море походили ногами, но купальники не взяли и плавание в бассейне не приписывается."
+        },
+        {
+          "label": "Ресторан морепродуктов Сен-Мало",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 226,
+              "quote": "сели рядом"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён."
+        },
+        {
+          "label": "Дом Квебека в Сен-Мало",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 233,
+              "quote": "Зашли, оказалась квебекская миссия"
+            },
+            {
+              "photo": "mont-saint-michel/IMG_1382.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "saint-malo--maison-du-quebec"
+          },
+          "reason": "Собственный снимок входа и вывески; название подтверждено официальным туристическим справочником."
+        },
+        {
+          "label": "Собор Сен-Мало и могила Жака Картье",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 237,
+              "quote": "пошли в центральный собор"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "saint-malo--sobor-sen-malo"
+          },
+          "reason": "Могила внутри относится к этому собору, не отдельная городская точка."
+        },
+        {
+          "label": "Книжный магазин Сен-Мало",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 240,
+              "quote": "накупила себе кучу томов"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Название магазина не дано. Наташа покупала книги; не утверждается посещение конкретной сети."
+        },
+        {
+          "label": "Памятник на подходе к старому Сен-Мало",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "mont-saint-michel/IMG_1346.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Скульптура видна крупно, но подпись с собственным именем пока не прочитана."
+          }
+        },
+        {
+          "label": "Форт на прибрежном острове у Сен-Мало",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "mont-saint-michel/IMG_1377.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Вид издалека. Не приписываются высадка на остров или вход в форт."
+          }
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/france-2012/puy-du-fou/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Пюи-дю-Фу",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 261,
+              "quote": "пробыли в парке большую часть дня"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "puy-du-fou"
+          },
+          "reason": "Три шоу, ремесленные деревни, животные и фонтаны покрыты одним парком; реконструкции не обозначаются как античные памятники."
+        },
+        {
+          "label": "Шоу с птицами в Пюи-дю-Фу",
+          "event": "missed_event",
+          "evidence": [
+            {
+              "source_paragraph": 274,
+              "quote": "мы не попали"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Не следует из посещения самого парка."
+        },
+        {
+          "label": "Шато-отель Bouvet-Ladubay",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 278,
+              "quote": "Château Bouvet-Ladubay"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+        },
+        {
+          "label": "Сомюр",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 294,
+              "quote": "по городу вечером"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "saumur"
+          }
+        },
+        {
+          "label": "Замок Сомюра",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "puy-du-fou/IMG_1477.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "saumur--chateau-saumur"
+            },
+            "reason": "Внешний вид с городской прогулки. Фраза о том, что замок не выбран для экскурсии, не отменяет внешнего осмотра на фото."
+          }
+        },
+        {
+          "label": "Мост через Луару в Сомюре",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "puy-du-fou/IMG_1479.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Вид с набережной; точное имя моста не подставляется без проверки."
+          }
+        },
+        {
+          "label": "Ресторан Сомюра",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 294,
+              "quote": "ресторан нашли без проблем"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён."
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/france-2012/cadre-noir-loire/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Bouvet-Ladubay, завтрак",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 300,
+              "quote": "Бруно нас заранее спросил"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+        },
+        {
+          "label": "Кадр Нуар",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 304,
+              "quote": "видели как кадеты тренируются"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "cadre-noir"
+          },
+          "reason": "Реальная экскурсия; репетицию тоже видели по абзацу 314. Три иллюстрации трюков заимствованы и не считаются собственными фото спектакля."
+        },
+        {
+          "label": "Сомюр",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 304,
+              "quote": "du Cadre Noir"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "saumur"
+          },
+          "reason": "География конной школы, не новая экскурсия по городу."
+        },
+        {
+          "label": "Замок Вилландри",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 326,
+              "quote": "мы прошли по нему с наушниками"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "villandry--chateau-villandry"
+          },
+          "reason": "Внутреннее посещение подтверждено прямо, несмотря на невысокую авторскую оценку."
+        },
+        {
+          "label": "Сады Вилландри",
+          "event": "viewed_from_castle",
+          "evidence": [
+            {
+              "source_paragraph": 334,
+              "quote": "а вот в сам сад... не пошли"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "villandry"
+          },
+          "reason": "Увидели с верхушки замка; прогулки по садовым дорожкам не было."
+        },
+        {
+          "label": "Замок Шенонсо",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 344,
+              "quote": "ОЧЕНЬ хороший аудио гид"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "chenonceau"
+          },
+          "reason": "Посещены внутренние залы, кухня и парк с лабиринтом. Общий вид сбоку заимствован, но посещение независимо подтверждено рассказом и семейными снимками."
+        },
+        {
+          "label": "Блуа",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 372,
+              "quote": "погуляли по городу"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "blois"
+          }
+        },
+        {
+          "label": "Замок Блуа",
+          "event": "exterior_driveby",
+          "evidence": [
+            {
+              "source_paragraph": 365,
+              "quote": "замок мы даже объехали"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "blois--chateau-blois"
+          },
+          "reason": "Внешний осмотр с машины; экскурсия внутрь не утверждается."
+        },
+        {
+          "label": "Ночное световое шоу замка Блуа",
+          "event": "unrealised_plan",
+          "evidence": [
+            {
+              "source_paragraph": 357,
+              "quote": "Да и устали, проголодались"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Опцию не реализовали."
+        },
+        {
+          "label": "Шато-отель La Rozelle",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 357,
+              "quote": "Château de La Rozelle"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+        },
+        {
+          "label": "Селетт",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 357,
+              "quote": "Château de La Rozelle"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "places": "cellettes"
+          },
+          "reason": "Местоположение фактического ночлега, установлено по официальному адресу; прогулка по центру деревни не приписывается."
+        },
+        {
+          "label": "Блинная Блуа",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 365,
+              "quote": "мы остановились на кафе"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Собственное название не указано."
+        },
+        {
+          "label": "Детская площадка Блуа",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "cadre-noir-loire/IMG_1689.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Дети играли на площадке во время прогулки. Название сквера не дано."
+          }
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/france-2012/chambord-fontainebleau/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Шамбор",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 382,
+              "quote": "Внутри он огромен"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "chambord"
+          },
+          "reason": "Собственная лестница, внутренние комнаты и крыша подтверждены текстом и фото. Совет смотреть снаружи не означает, что сами внутрь не входили."
+        },
+        {
+          "label": "Шеверни",
+          "event": "cancelled_plan",
+          "evidence": [
+            {
+              "source_paragraph": 395,
+              "quote": "накануне вечером я решила планы поменять"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Заменили Фонтенбло."
+        },
+        {
+          "label": "Фонтенбло",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 399,
+              "quote": "очень хороший аудио тур"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "fontainebleau--chateau-fontainebleau"
+          },
+          "reason": "Внутренние залы, аудиогид и собственные фото; не только внешний вид дворца."
+        },
+        {
+          "label": "Версаль",
+          "event": "comparison_and_previous_visit",
+          "evidence": [
+            {
+              "source_paragraph": 395,
+              "quote": "Версаль мы уже отмели"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Упоминание и сравнение, а не текущее посещение."
+        },
+        {
+          "label": "Германия",
+          "event": "return_transit",
+          "evidence": [
+            {
+              "source_paragraph": 395,
+              "quote": "на своем пути в Германию"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Возвращение к бабушке без конкретного самостоятельного осмотра нового объекта."
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/france-2012/conclusion/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Париж, Сен-Мало, Кадр Нуар, шато в Сомюре, Фонтенбло, Шенонсо",
+          "event": "visited_summary",
+          "evidence": [
+            {
+              "source_paragraph": 433,
+              "quote": "Школу верховой езды и романтическое шатэ в Самюре"
+            }
+          ],
+          "decision": "covered_in_other_chapter",
+          "reason": "Итоговые оценки сверены с предыдущими главами; приоритет заключения учтён. Шенонсо дополнительно похвален в абзаце 435."
+        },
+        {
+          "label": "Западное побережье Атлантики",
+          "event": "future_alternative",
+          "evidence": [
+            {
+              "source_paragraph": 433,
+              "quote": "Может быть интереснее было бы доехать"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Ретроспективный вариант другого маршрута, не состоявшаяся часть этой поездки."
+        },
+        {
+          "label": "Версаль",
+          "event": "previous_visit",
+          "evidence": [
+            {
+              "source_paragraph": 433,
+              "quote": "я была там давно"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Заключение ещё раз подтверждает, что посещение было раньше."
+        },
+        {
+          "label": "Москва",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 436,
+              "quote": "как в России Москва"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Сравнение городской структуры."
+        },
+        {
+          "label": "Платная дорога, заправка в Бельгии, аптеки",
+          "event": "transit_services",
+          "evidence": [
+            {
+              "source_paragraph": 437,
+              "quote": "от аптеки к аптеке"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Бытовые остановки описаны, названия и адреса не приведены; не добавляются фиктивные POI."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_explicit_identification_questions",
+    "questions": [
+      "Не установлено название посещённой кальвадосной фермы; остальные бытовые заведения не требуют отдельных точек.",
+      "У фермы La Bretonnière en baie сохранены исходное имя и ссылка; точный населённый пункт требует дополнительного подтверждения."
+    ],
+    "repeat_check": "Каждая глава и заключение повторно сопоставлены с полным перечнем. Различены музей Орсе без фото, два разных дня Лувра/Нотр-Дама, внешние осмотры музея Клюни/Пантеона/Дома инвалидов, вход в Вилландри при отсутствии прогулки по садам, внешние замки Сомюра и Блуа, три несостоявшихся плана. Самостоятельные места получают предметные типы, а не остаются только строками названий.",
+    "external_sources": [
+      {
+        "url": "https://www.paris.fr/pages/si-le-plus-vieil-arbre-de-paris-le-robinier-du-square-viviani-nous-contait-son-histoire-6586",
+        "purpose": "Название сквера и старейшего дерева."
+      },
+      {
+        "url": "https://www.paris.fr/pages/1-lieu-3-histoires-la-fontaine-saint-michel-35340",
+        "purpose": "Фонтан на месте встречи первой экскурсии."
+      },
+      {
+        "url": "https://www.paris.fr/pages/la-fontaine-des-innocents-est-l-une-des-plus-anciennes-de-la-capitale-26746",
+        "purpose": "Идентификация фонтана IMG_1111.jpg."
+      },
+      {
+        "url": "https://www.paris.fr/pages/fontaine-raconte-moi-des-histoires-16377",
+        "purpose": "Фонтан Сен-Сюльпис."
+      },
+      {
+        "url": "https://www.musee-moyenage.fr/media/documents-pdf/mises-a-disposition/espaces-de-reception-mai-2022.pdf",
+        "purpose": "Средневековое здание музея Клюни."
+      },
+      {
+        "url": "https://www.senat.fr/connaitre-le-senat/patrimoine/lhistoire-du-palais-du-luxembourg.html",
+        "purpose": "Люксембургский дворец и фасад со стороны сада."
+      },
+      {
+        "url": "https://www.saint-malo-tourisme.com/offres/maison-du-quebec-saint-malo-fr-3646607/",
+        "purpose": "Дом Квебека, в который семья зашла."
+      },
+      {
+        "url": "https://www.saint-malo-tourisme.com/app/uploads/saint-malo-tourisme/2025/06/Saint-Malo-FALC.pdf",
+        "purpose": "Сопоставление пляжа Бон-Секур и его морского бассейна."
+      },
+      {
+        "url": "https://www.chateaudelarozelle.com/fr/page/contact-acces-hebergement-a-blois.36955.html",
+        "purpose": "La Rozelle находится в Cellettes, а не в городе Blois."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q1135624",
+        "purpose": "Географическая точка Селетта в департаменте Loir-et-Cher; не одноимённая коммуна в Charente."
+      }
+    ],
+    "new_attractions": [
+      "paris--hotel-sainte-marie",
+      "paris--fontaine-saint-michel",
+      "paris--arc-carrousel",
+      "paris--joan-of-arc-pyramides",
+      "paris--pont-alexandre-iii",
+      "paris--square-rene-viviani",
+      "paris--shakespeare-and-company",
+      "paris--luxembourg-palace",
+      "paris--saint-sulpice",
+      "paris--fontaine-saint-sulpice",
+      "paris--fontaine-des-innocents",
+      "saint-malo--ramparts",
+      "saint-malo--castle",
+      "saint-malo--bon-secours",
+      "saint-malo--maison-du-quebec",
+      "saumur--chateau-bouvet-ladubay",
+      "saumur--chateau-saumur",
+      "blois--chateau-blois",
+      "cellettes--chateau-la-rozelle",
+      "villandry--chateau-villandry",
+      "fontainebleau--chateau-fontainebleau"
+    ],
+    "new_places": [
+      "cellettes"
+    ],
+    "photo_scope": "Рассказ — основное основание. Фото учитываются только как редкое исключение: большая серия в самой главе явно заменяет рассказ о месте и позволяет читателю понять, где оно показано. Количество неопубликованных оригиналов и отдельные виды не обосновывают точку. Неназванные детали не превращаются в вопросы."
+  }
+}

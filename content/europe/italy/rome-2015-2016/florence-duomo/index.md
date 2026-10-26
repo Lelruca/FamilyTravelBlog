@@ -10,7 +10,7 @@ source_url: "https://olgau.livejournal.com/218124.html"
 hero_image: "IMG_7061.jpg"
 places:
   - florence
-attractions: ["florence--sobor-santa-mariya-del-fore","florence--florentiyskiy-baptisteriy","florence--muzey-opera-del-duomo"]
+attractions: ["florence--sobor-santa-mariya-del-fore","florence--muzey-opera-del-duomo","florence--florentiyskiy-baptisteriy"]
 ---
 <p>Новый день обещал быть очень насыщенным, т.к. нас ожидала программа во Флоренции, переезд, и вечерняя экскурсия в Риме! Плюс мы уже поняли, что “кто рано встает тому Бог подает”. Поэтому рано утром выгрузили свои вещи из номера, позавтракали и пошли наконец на центральную площадь.</p>
 

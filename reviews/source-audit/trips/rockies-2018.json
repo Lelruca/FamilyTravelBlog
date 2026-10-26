@@ -1,0 +1,984 @@
+{
+  "trip_path": "content/americas/canada/rockies-2018",
+  "status": "text_read_source_gap_open",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/Альберта/your_facebook_activity/posts/your_posts__check_ins__photos_and_videos_1.html",
+    "sha256": "9ecc4d5374ac9a8618925ca28cf67cbc889d4fc938879a0ef202fa81012d2436",
+    "kind": "facebook_html",
+    "read": "Полностью прочитаны все шесть постов поездки из HTML, четыре сохранённых исходных текста и все 12 текущих глав с авторскими подписями. Эдмонтон проверен по дословному тексту владельца в реестре. Независимый исходник Stampede пока отсутствует.",
+    "additional_files": [
+      {
+        "path": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/alberta-2018/fb-missing-posts.json",
+        "sha256": "db67e90aef1e96d6b324cfeb6c9a19f6113906973370497f03bde2997ebe94a6",
+        "role": "four_original_posts_captured_from_owner_profile"
+      },
+      {
+        "path": "media-manifests/rockies-2018.json",
+        "sha256": "b0dc571add165024ce2e370b09933c533653a328ae5745c6b78fd4b7d8ab196e",
+        "role": "author_captions_and_direct_owner_additions"
+      }
+    ]
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/rockies-2018.json",
+    "method": "Решения из авторского текста и явных подписей. Новых объектов по снимкам нет; каждый оригинал не просматривается. Музейная деревня и торговый центр — по одному комплексу."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/canada/rockies-2018/calgary/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Целиком прочитана глава и её авторские подписи; исходные посты сверены с архивом HTML, ранние четыре — с сохранёнными копиями текста. Отдельный авторский текст Эдмонтона сверён с реестром. Для Stampede независимый источник пока не найден. Фото по одному не каталогизируются.",
+      "objects": [
+        {
+          "label": "Калгари",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_file": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/alberta-2018/fb-missing-posts.json",
+              "source_sha256": "db67e90aef1e96d6b324cfeb6c9a19f6113906973370497f03bde2997ebe94a6",
+              "source_json_path": "0.text",
+              "quote": "Калгари больше всего напоминает Торонто."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "calgary"
+          },
+          "reason": "Прогулка по городу, без утверждения подъёма на башню.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Торонто, Монреаль и городской транспорт",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_file": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/alberta-2018/fb-missing-posts.json",
+              "source_sha256": "db67e90aef1e96d6b324cfeb6c9a19f6113906973370497f03bde2997ebe94a6",
+              "source_json_path": "0.text",
+              "quote": "Торонто"
+            }
+          ],
+          "decision": "exclude_as_current_visit",
+          "reason": "Сравнение городов не посещение в этой поездке.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Скульптуры центра Калгари",
+          "event": "captioned_city_details",
+          "evidence": [
+            {
+              "source_file": "media-manifests/rockies-2018.json",
+              "source_sha256": "b0dc571add165024ce2e370b09933c533653a328ae5745c6b78fd4b7d8ab196e",
+              "source_json_path": "researched_captions.0.caption",
+              "quote": "«Разговор» (Conversation) — два деловых человека. Скульптор Уильям Ходд Макэлчеран."
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Подписи по прежнему прямому поручению владельца остаются у фотографий. Каждая скульптура не получает новую отдельную метку.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/heritage-park/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Целиком прочитана глава и её авторские подписи; исходные посты сверены с архивом HTML, ранние четыре — с сохранёнными копиями текста. Отдельный авторский текст Эдмонтона сверён с реестром. Для Stampede независимый источник пока не найден. Фото по одному не каталогизируются.",
+      "objects": [
+        {
+          "label": "Heritage Park Historical Village",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_file": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/alberta-2018/fb-missing-posts.json",
+              "source_sha256": "db67e90aef1e96d6b324cfeb6c9a19f6113906973370497f03bde2997ebe94a6",
+              "source_json_path": "1.text",
+              "quote": "Heritage Park Historical Village"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "heritage-park-calgary"
+          },
+          "reason": "Целая глава названа этим музеем, авторские подписи раскрывают поезд, историческую деревню, коллекции машин и заправок. Один комплекс.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Поезд, музей заправок и автомобилей, салун и оперный театр",
+          "event": "parts_of_historical_village",
+          "evidence": [
+            {
+              "source_file": "media-manifests/rockies-2018.json",
+              "source_sha256": "b0dc571add165024ce2e370b09933c533653a328ae5745c6b78fd4b7d8ab196e",
+              "source_json_path": "photos.12.caption",
+              "quote": "Любопытный музей заправочных аппаратов"
+            }
+          ],
+          "decision": "covered_by_complex",
+          "reason": "Не создаются отдельные места для каждой части исторической деревни.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/badlands/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Целиком прочитана глава и её авторские подписи; исходные посты сверены с архивом HTML, ранние четыре — с сохранёнными копиями текста. Отдельный авторский текст Эдмонтона сверён с реестром. Для Stampede независимый источник пока не найден. Фото по одному не каталогизируются.",
+      "objects": [
+        {
+          "label": "Бэдлендс Драмхеллера и худос",
+          "event": "landscape_visit",
+          "evidence": [
+            {
+              "source_file": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/alberta-2018/fb-missing-posts.json",
+              "source_sha256": "db67e90aef1e96d6b324cfeb6c9a19f6113906973370497f03bde2997ebe94a6",
+              "source_json_path": "2.text",
+              "quote": "Сами же badlands очень живописны."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "drumheller"
+          },
+          "reason": "Рассказ описывает ландшафт и образования, без придумывания конкретной тропы или смотровой.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Старая угольная шахта",
+          "event": "entered_tour_identity_unclear",
+          "evidence": [
+            {
+              "source_file": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/alberta-2018/fb-missing-posts.json",
+              "source_sha256": "db67e90aef1e96d6b324cfeb6c9a19f6113906973370497f03bde2997ebe94a6",
+              "source_json_path": "2.text",
+              "quote": "На одну из старых шахт мы и заехали."
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Экскурсия состоялась и описана, но названия нет. Не подставляем Atlas только по близости.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/royal-tyrrell/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Целиком прочитана глава и её авторские подписи; исходные посты сверены с архивом HTML, ранние четыре — с сохранёнными копиями текста. Отдельный авторский текст Эдмонтона сверён с реестром. Для Stampede независимый источник пока не найден. Фото по одному не каталогизируются.",
+      "objects": [
+        {
+          "label": "Royal Tyrrell Museum",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_file": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/alberta-2018/fb-missing-posts.json",
+              "source_sha256": "db67e90aef1e96d6b324cfeb6c9a19f6113906973370497f03bde2997ebe94a6",
+              "source_json_path": "3.text",
+              "quote": "Royal Tyrrell Museum - очень серьезный палеонтологический музей!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "royal-tyrrell-museum"
+          },
+          "reason": "Подробный рассказ, очередь и коллекция подтверждают вход; отдельные динозавры не точки.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Драмхеллер",
+          "event": "museum_destination",
+          "evidence": [
+            {
+              "source_file": "C:/Users/user/Projects/FamilyTravelBlog/.tmp/alberta-2018/fb-missing-posts.json",
+              "source_sha256": "db67e90aef1e96d6b324cfeb6c9a19f6113906973370497f03bde2997ebe94a6",
+              "source_json_path": "3.text",
+              "quote": "На землях Альберты проживало большое кол-во динозавров."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "drumheller"
+          },
+          "reason": "Географическая связь музейной главы.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/banff/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Целиком прочитана глава и её авторские подписи; исходные посты сверены с архивом HTML, ранние четыре — с сохранёнными копиями текста. Отдельный авторский текст Эдмонтона сверён с реестром. Для Stampede независимый источник пока не найден. Фото по одному не каталогизируются.",
+      "objects": [
+        {
+          "label": "Банф",
+          "event": "stayed_and_walked",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "В самом Банфе мы прожили 4 ночи"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "banff"
+          },
+          "reason": "Ночлег и прогулки; отель Hidden Ridge входит в рассказ о размещении.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Музей Buffalo Nations Luxton",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "А в самый ливень посетили музей местных индейцев."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "banff--muzey-buffalo-nations-luxton"
+          },
+          "reason": "Вход прямо подтверждён, конкретное имя уже раскрыто отдельным текстовым абзацем главы.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Озеро Минневанка",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Первое наше знакомство с горами и главное с озерами небывалых цветов началось с Lake Minnewanka"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "banff--ozero-minnevanka"
+          },
+          "reason": "Именованное озеро в рассказе.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Fairmont Banff Springs",
+          "event": "visited_entry_extent_unspecified",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "И дошли до известной гостиницы Fairmont Banff Springs"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "Короткая прогулка до известной гостиницы без отдельного рассказа об осмотре её исторических интерьеров. Эпизод сохранён в истории Банфа.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Термальные источники Банфа",
+          "event": "bathed_venue_name_unspecified",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "каждый день ходили «оздроравливались»"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Купание прямо описано. Имя источников в тексте не дано, дополнительная точка по снимку не создаётся.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Подъём на гору",
+          "event": "ascent_mountain_unnamed",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Мы нашли 2 часовой перерыв, чтобы подняться на гору"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Состоялся подъём, но имя горы не выводится из панорамы.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Grizzly House",
+          "event": "meal",
+          "evidence": [
+            {
+              "source_file": "media-manifests/rockies-2018.json",
+              "source_sha256": "b0dc571add165024ce2e370b09933c533653a328ae5745c6b78fd4b7d8ab196e",
+              "source_json_path": "owner_added_restaurant_note.text",
+              "quote": "Ужин в Grizzly House - мясо готовим сами на раскалённом камне.Пробовали охотничий набор из бизона, кабана и оленины, а такжегремучая змеи"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Дословный текст владельца сохранён; ресторан не дробится на дегустации отдельных видов мяса.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/kootenay/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Целиком прочитана глава и её авторские подписи; исходные посты сверены с архивом HTML, ранние четыре — с сохранёнными копиями текста. Отдельный авторский текст Эдмонтона сверён с реестром. Для Stampede независимый источник пока не найден. Фото по одному не каталогизируются.",
+      "objects": [
+        {
+          "label": "Национальный парк Кутеней",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Kootenay National Park - туда мы попали спасаясь от плохой погоды."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "kootenay-national-park"
+          },
+          "reason": "Реальный выезд в другую провинцию.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Мраморный каньон",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Очень-очень красивые каньон Marble canyon."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "kootenay-national-park--mramornyy-kanon"
+          },
+          "reason": "Прямо назван и описан.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Термальные источники Кутенея",
+          "event": "bathed_venue_name_unspecified",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "И еще мы первый раз искупались с термальных источниках."
+            }
+          ],
+          "decision": "covered_by_park",
+          "reason": "Купание состоялось; конкретное имя в тексте не дано и не угадывается.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Мосты для животных и сгоревший лес",
+          "event": "landscape_details",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "И конечно впечатлили мосты для животных над дорогой"
+            }
+          ],
+          "decision": "covered_by_park",
+          "reason": "Детали дорожного и природного рассказа, не самостоятельные объекты.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/lake-louise/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Целиком прочитана глава и её авторские подписи; исходные посты сверены с архивом HTML, ранние четыре — с сохранёнными копиями текста. Отдельный авторский текст Эдмонтона сверён с реестром. Для Stampede независимый источник пока не найден. Фото по одному не каталогизируются.",
+      "objects": [
+        {
+          "label": "Озеро Луиз и тропа к Агнес",
+          "event": "hike",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "На популярную тропу к чайному домику от озера Луиз мы пошли с друзьями из Торонто"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "lake-louise"
+          },
+          "reason": "К основной четвёрке присоединились друзья из Торонто, имена в тексте не перечислены.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Озеро Агнес",
+          "event": "hiked_to",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "нашим конечным пунктом было озеро Агнесс"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "lake-louise--ozero-agnes"
+          },
+          "reason": "Все дошли, включая маму автора; снег не отдельная достопримечательность.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Озеро Морейн",
+          "event": "failed_access",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Это второе (голубое!) озеро нам так и не покорилось"
+            }
+          ],
+          "decision": "exclude_as_visit",
+          "reason": "Несколько неудачных подъездов, на автобус не поехали.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Чайный домик",
+          "event": "not_entered_queue",
+          "evidence": [
+            {
+              "source_file": "media-manifests/rockies-2018.json",
+              "source_sha256": "b0dc571add165024ce2e370b09933c533653a328ae5745c6b78fd4b7d8ab196e",
+              "source_json_path": "photos.49.caption",
+              "quote": "Народу! И на тропе и в чайный домик огромная очередь. Мы стоять не стали."
+            }
+          ],
+          "decision": "exclude_as_entry",
+          "reason": "По подписи автора в очереди стоять не стали, поэтому чай внутри не приписывается.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/yoho/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Целиком прочитана глава и её авторские подписи; исходные посты сверены с архивом HTML, ранние четыре — с сохранёнными копиями текста. Отдельный авторский текст Эдмонтона сверён с реестром. Для Stampede независимый источник пока не найден. Фото по одному не каталогизируются.",
+      "objects": [
+        {
+          "label": "Национальный парк Йохо",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "В парк Yoho  мы попали сразу после озера Луиз."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "yoho-national-park"
+          },
+          "reason": "Автор прямо сообщает последовательность.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Изумрудное озеро",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Emerald Lake (Изумрудное озеро)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "yoho-national-park--izumrudnoe-ozero"
+          },
+          "reason": "Конкретное озеро в рассказе.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Природный мост",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Мы без особого энутзиазма туда зарулили"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "yoho-national-park--prirodnyy-most"
+          },
+          "reason": "Вся группа у моста, Митя отдельно залезал на камни.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Водопад Takakkaw",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Takakkaw Falls – в переводе с индейского - «Это прекрасно!»"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "yoho-national-park--takakkaw-falls"
+          },
+          "reason": "Прямо описанный последний эпизод главы был пропущен в данных.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/icefields-parkway/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Целиком прочитана глава и её авторские подписи; исходные посты сверены с архивом HTML, ранние четыре — с сохранёнными копиями текста. Отдельный авторский текст Эдмонтона сверён с реестром. Для Stampede независимый источник пока не найден. Фото по одному не каталогизируются.",
+      "objects": [
+        {
+          "label": "Icefields Parkway",
+          "event": "scenic_drive",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "дорога между двумя этими парками - Icefields Parkway"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "icefields-parkway"
+          },
+          "reason": "Главный предмет рассказа — дорога и остановки по пути.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Peyto Lake и Crowfoot Glacier",
+          "event": "captioned_views",
+          "evidence": [
+            {
+              "source_file": "media-manifests/rockies-2018.json",
+              "source_sha256": "b0dc571add165024ce2e370b09933c533653a328ae5745c6b78fd4b7d8ab196e",
+              "source_json_path": "photos.62.caption",
+              "quote": "Peyto Lake"
+            }
+          ],
+          "decision": "covered_by_route",
+          "reason": "Прямые авторские подписи сохранены; новых отдельных точек под каждый дорожный вид не создаём.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Другие ледники, ущелья и водопады",
+          "event": "unnamed_roadside_views",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "А еще ледники, ущелья, водопады... Тут говорить нечего, надо смотреть!"
+            }
+          ],
+          "decision": "covered_by_route",
+          "reason": "Не определяем названия каждого неназванного пейзажа по фотографии.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/jasper/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Целиком прочитана глава и её авторские подписи; исходные посты сверены с архивом HTML, ранние четыре — с сохранёнными копиями текста. Отдельный авторский текст Эдмонтона сверён с реестром. Для Stampede независимый источник пока не найден. Фото по одному не каталогизируются.",
+      "objects": [
+        {
+          "label": "Джаспер",
+          "event": "stayed_and_walked",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "А вот сам городок Джаспер нам ОЧЕНЬ понравился!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "jasper"
+          },
+          "reason": "Ночлег и прогулка; частный дом, церкви и школы не дополнительные точки.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Ледник Атабаска",
+          "event": "viewed_from_cafe_terrace",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Посмотрели на все с террасы кафе и поехали дальше."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "jasper--lednik-atabaska"
+          },
+          "reason": "Автобусная экскурсия и выход на лёд НЕ состоялись: ближайших билетов не было.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Каньон Малин",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "мы замечательно прогулялись вдоль каньона (Maligne Canyon)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "jasper--kanon-malin"
+          },
+          "reason": "Прямое подтверждение прогулки.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Канатная дорога и горная тропа Джаспера",
+          "event": "closed_not_visited",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "канатная дорога была закрыта из-за ветра и на трейл в горы мы поэтому не пошли"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Закрыто из-за погоды, подъём не приписывается.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Термальные источники Джаспера",
+          "event": "closed_not_visited",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "И даже термальные источники (лучшие в этом регионе) были закрыты."
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Не путать с реальными купаниями в Банфе и Кутенее.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/edmonton/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Целиком прочитана глава и её авторские подписи; исходные посты сверены с архивом HTML, ранние четыре — с сохранёнными копиями текста. Отдельный авторский текст Эдмонтона сверён с реестром. Для Stampede независимый источник пока не найден. Фото по одному не каталогизируются.",
+      "objects": [
+        {
+          "label": "Эдмонтон",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_file": "media-manifests/rockies-2018.json",
+              "source_sha256": "b0dc571add165024ce2e370b09933c533653a328ae5745c6b78fd4b7d8ab196e",
+              "source_json_path": "edmonton_owner_text.paragraphs.0",
+              "quote": "Обратно мы возвращались уже через столицу Альберты - Эдмонтон и  прямую дорогу в Калгари. Мы не знали что ожидать от Эдмонтона, если делать поиск, то основная достопримечательность которую называют - торговый центр West Edmonton Mall. Это самый крупный мол в северной Америке. Там внутри и 2 отеля, и каток, и “улицы”, и 800 магазинов и даже водный парк атракционов! А так же разные сцены, где кто-то выступает. Такой огромный “город под крышей”, но наверное иначе как выжить тут зимой!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "edmonton"
+          },
+          "reason": "Прямой авторский текст, переданный владельцем 18 октября.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "West Edmonton Mall",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_file": "media-manifests/rockies-2018.json",
+              "source_sha256": "b0dc571add165024ce2e370b09933c533653a328ae5745c6b78fd4b7d8ab196e",
+              "source_json_path": "edmonton_owner_text.paragraphs.1",
+              "quote": "Мы честно отработали мол и получили даже больше удовольствия, чем ожидали!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "edmonton--west-edmonton-mall"
+          },
+          "reason": "Посещение всего комплекса; аквапарк, каток и гостиницы в описании не означают самостоятельные посещения каждого.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Парламент Альберты",
+          "event": "entered_guided_tour",
+          "evidence": [
+            {
+              "source_file": "media-manifests/rockies-2018.json",
+              "source_sha256": "b0dc571add165024ce2e370b09933c533653a328ae5745c6b78fd4b7d8ab196e",
+              "source_json_path": "edmonton_owner_text.paragraphs.4",
+              "quote": "А сам парламент конечно восхищает! Нам повезло попасть на бесплатную экскурсию внутрь. Узнали много фактов про провинцую, про устройство парламента, про историю женского движения."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "edmonton--alberta-legislature"
+          },
+          "reason": "Прямо сказано про бесплатную экскурсию внутрь. Это самостоятельный содержательный эпизод, ранее пропущенный.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Памятник украинским переселенцам",
+          "event": "city_walk_detail",
+          "evidence": [
+            {
+              "source_file": "media-manifests/rockies-2018.json",
+              "source_sha256": "b0dc571add165024ce2e370b09933c533653a328ae5745c6b78fd4b7d8ab196e",
+              "source_json_path": "edmonton_owner_text.paragraphs.3",
+              "quote": "Мы дошли до здания парламента - красиво! Большой монумент посвященный благодарности украинцам за “поднятие целины”. Насколько я помню для освоение земель в середине Канады думали какую национальность пригласить, чтобы и трудолюбивые и морозов не боялись, и выбрали украинцев. И они эти земли и подняли. В 1991 поставили этот памятник к 100 летию украинской иммиграции"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Учтён в прогулке, без отдельной точки или неподтверждённой исторической атрибуции.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/rockies-2018/stampede/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Целиком прочитана глава и её авторские подписи; исходные посты сверены с архивом HTML, ранние четыре — с сохранёнными копиями текста. Отдельный авторский текст Эдмонтона сверён с реестром. Для Stampede независимый источник пока не найден. Фото по одному не каталогизируются.",
+      "objects": [
+        {
+          "label": "Calgary Stampede — родео и вечернее шоу",
+          "event": "attended",
+          "evidence": [
+            {
+              "source_file": "content/americas/canada/rockies-2018/stampede/index.md",
+              "source_sha256": "fef373cd91ec28c9fabfb4f6f7efd1597f567e9f9bb6765cff96959db94bb4d1",
+              "quote": "Мы специально приурочили эту поездку к Calgary Stampede"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "calgary--kalgariyskiy-stampid"
+          },
+          "reason": "Состоявшиеся события подробно описаны в текущей главе. Независимый исходный текст этой главы в найденном HTML-архиве отсутствует; ограничение не скрывается. Разные номера шоу — один фестиваль.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled_source_and_one_identity_gap",
+    "questions": [
+      {
+        "object": "Шахта в Badlands, 2018",
+        "question": "В рассказе подробно описана экскурсия на старую угольную шахту, но не дано её имя. Как она называлась? Посещение сохранено в отчёте, Atlas или другую шахту без основания не подставляем."
+      }
+    ],
+    "limitations": [
+      {
+        "chapter": "stampede",
+        "detail": "Рассказ главы прочитан целиком, но независимый исходный авторский текст в найденном архиве HTML и файле четырёх недостающих постов не обнаружен. Сверка этой главы с оригиналом остаётся открытой."
+      }
+    ],
+    "repeat_check": "Все 12 глав сопоставлены с доступными рассказами, авторскими подписями и дополнением Эдмонтона. Добавлены прямо описанные Takakkaw Falls и вход с экскурсией в парламент. Ледник Атабаска только с террасы, без экскурсии на лёд. Морейн, горный подъём и источники Джаспера не посещены. Чайный домик без входа. Коллекции внутри Heritage Park, сцены Stampede и части мола не дробятся. Безымянные термы/гора и дорожные пейзажи не получают угаданных имён."
+  }
+}

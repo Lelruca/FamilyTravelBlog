@@ -5,6 +5,7 @@ layout: "photo-story"
 weight: 80
 day_num: 7
 auto_gallery: false
+attractions: ["fontainebleau--chateau-fontainebleau"]
 places:
   - chambord
   - fontainebleau

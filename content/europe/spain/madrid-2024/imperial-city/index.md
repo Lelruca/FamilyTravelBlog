@@ -6,12 +6,11 @@ weight: 20
 city: "Madrid"
 places:
   - madrid
-  - plaza-mayor-madrid
 hero_image: "20240802_160333.jpg"
 date: "2024-08-02"
 auto_gallery: false
 draft: false
-attractions: ["plaza-mayor-madrid","madrid--muzey-istorii-madrida"]
+attractions: ["madrid--muzey-istorii-madrida"]
 ---
 <p>После сиесты пошли в музей истории Мадрида. Хотели для себя понять почему именно Мадрид стал столицей, не Толедо, например. Но лично меня музей разочаровал. Такой информации он не дал и вообще мало именно истории. У меня пока в лидерах в этой категории остается музей истории Лондона. Хотя Митя хвалит музей Берна. Мы не были.</p>
 

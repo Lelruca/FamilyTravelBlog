@@ -1,0 +1,1393 @@
+{
+  "trip_path": "content/europe/germany/germany-2011",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2011_ Европейское турне (Швейцария, Эльзас, Германия, Голландия, Бельгия).docx",
+    "sha256": "1f3a8bca05f26e4d2c030f5d5b4d6dc51d2404e9cdc1d725373206679590b29f",
+    "read": "Полностью прочитаны девять глав сайта, включая заключение, подписи, оценки и цитированные справочные фрагменты. Из DOCX извлечены 123 непустых текстовых абзаца и 260 абзацев HTML изображений. Все текстовые абзацы сопоставлены с полностью прочитанными главами, несовпадающие прочитаны целиком отдельно. Учтены исходные названия гостиниц, отсутствующие в версии сайта."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 276,
+    "manifest": "media-manifests/germany-2011.json",
+    "method": "Все 276 архивных изображений сверены по SHA-256 и просмотрены на 24 контактных листах: 222 с siteKeys и 54 неиспользованных/дублирующих. Frutal-Beck дополнительно прочитан на оригинале в полном разрешении. EXIF Рейнского водопада проверен отдельно. Заимствованные интерьеры и иллюстрации не считались собственными свидетельствами. Снимки каньона после текста о Трюммельбахе не приписываются Трюммельбаху."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/germany/germany-2011/overview/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Хюрт, дом бабушки",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "около дома у бабушки"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "hurth"
+          },
+          "reason": "Частный адрес не публикуется; география подтверждается главой и семейными фотографиями."
+        },
+        {
+          "label": "Аквапарк возле дома бабушки",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "водный парк"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Собственное название не дано. Дети ходили почти ежедневно, взрослые — иногда; название не угадывается."
+        },
+        {
+          "label": "Ферма с животными возле дома бабушки",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "ферма, где для детишек"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Название отсутствует; на фото видны семейные посещения, но вывеска не установлена."
+        },
+        {
+          "label": "Кёльн",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 46,
+              "quote": "посещений Кельна"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "cologne"
+          }
+        },
+        {
+          "label": "Кёльнский зоопарк",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 17,
+              "quote": "походы в зоопарк"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "cologne--kyolnskiy-zoopark"
+          },
+          "reason": "Место привычных семейных посещений; в контексте пребывания у бабушки в Кёльне."
+        },
+        {
+          "label": "Phantasialand",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 17,
+              "quote": "парк атракционов Phantasialand"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "bruhl--park-phantasialand"
+          }
+        },
+        {
+          "label": "Брюль",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 18,
+              "quote": "в Брюль"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "bruhl"
+          }
+        },
+        {
+          "label": "Дворец Аугустусбург и парк",
+          "event": "exterior_and_park",
+          "evidence": [
+            {
+              "source_paragraph": 18,
+              "quote": "Дворец Augustusburg, погуляли там в парке"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "bruhl--dvorets-augustusburg"
+          },
+          "reason": "Прогулка по парку подтверждена. Посещение внутренних залов не приписывается."
+        },
+        {
+          "label": "Золинген",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 30,
+              "quote": "в г. Золинген"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "solingen"
+          },
+          "participants": [
+            "Сергей",
+            "Наташа",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Немецкий музей клинков",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 30,
+              "quote": "поездка Сереги с детьми в Немецкий музей клинков"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "solingen--nemetskiy-muzey-klinkov"
+          },
+          "reason": "Автор не была с ними; музей и его сад учитываются одним объектом.",
+          "participants": [
+            "Сергей",
+            "Наташа",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Кёльнский собор: башня и сокровищница",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 57,
+              "quote": "мы никогда не ходили в сокровищницу собора, а зря"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "cologne--kyolnskiy-sobor-i-sokrovishchnitsa"
+          },
+          "reason": "Подъём описан в абзаце 46; вход в сокровищницу подтверждают последовательность текста и фотографии. Вещи в экспозиции не являются отдельными местами."
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-2011/holland/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Неназванный город родственников у границы Нидерландов",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 75,
+              "quote": "живут на границе с Голландией"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Рассказ о посещении есть, название населённого пункта не указано."
+        },
+        {
+          "label": "Амстердам",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 82,
+              "quote": "в Амстердам - солнышко"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "amsterdam"
+          }
+        },
+        {
+          "label": "Автобусная экскурсия по Амстердаму",
+          "event": "attended",
+          "evidence": [
+            {
+              "source_paragraph": 82,
+              "quote": "Мы взяли автобусный тур по городу"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "amsterdam"
+          },
+          "reason": "Оператор и маршрут не названы; не создаётся вымышленная организация."
+        },
+        {
+          "label": "Рейксмюсеум",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 90,
+              "quote": "в Rijksmuseum"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "rijksmuseum"
+          },
+          "reason": "Внутри открытого крыла слушали аудиоэкскурсию. Реставрация остальных залов не означает, что музей не посетили."
+        },
+        {
+          "label": "Заандам",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 91,
+              "quote": "поехали в пригород"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "zaandam"
+          },
+          "reason": "Сопоставлены адресные таблички и фотографии домика."
+        },
+        {
+          "label": "Домик Петра I",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 91,
+              "quote": "музей уже закрылся"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "zaandam--peter-house"
+          },
+          "reason": "Оставлен по прямому указанию владельца. Семья приехала и осмотрела снаружи; вход внутрь не приписывается."
+        },
+        {
+          "label": "Улицы Tolstoistraat, Menschikoffstraat, Golofkinstraat, Czaar Peterstaat",
+          "event": "wayfinding",
+          "evidence": [
+            {
+              "source_paragraph": 91,
+              "quote": "названия улиц подсказывали"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "zaandam"
+          },
+          "reason": "Ориентиры поездки к домику, а не четыре отдельные экскурсии."
+        },
+        {
+          "label": "Здание на амстердамских фотографиях",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "holland/2011-08-14_08.23.02.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Собственное название в тексте не дано. Фасад не объявляется посещённым музеем или храмом без идентификации."
+          }
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-2011/belgium/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Брюссель",
+          "event": "previous_visits",
+          "evidence": [
+            {
+              "source_paragraph": 93,
+              "quote": "Одно время мне казалось"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Воспоминания и сравнение. Текущая поездка в Брюссель не описана; пересадка отдельно учтена в последней главе."
+        },
+        {
+          "label": "Пещеры Ремушам",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 98,
+              "quote": "http://www.mondesauvage.be/grottes/fr/acces.htm"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "remouchamps"
+          },
+          "reason": "Исходная ссылка, полный рассказ о входе и лодках, фото; название также прямо есть в главе сайта."
+        },
+        {
+          "label": "Подземная река Рубикон",
+          "event": "visited_as_part_of_cave",
+          "evidence": [
+            {
+              "source_paragraph": 112,
+              "quote": "по подземной реке Рубикон"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "remouchamps"
+          },
+          "reason": "Часть экскурсии по пещерам; не отдельная поездка к одноимённой итальянской реке."
+        },
+        {
+          "label": "Деревенские церкви по дороге",
+          "event": "transit_view",
+          "evidence": [
+            {
+              "source_paragraph": 99,
+              "quote": "в каждой деревне"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён."
+        },
+        {
+          "label": "Дюрбюи",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 114,
+              "quote": "Durbuy"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "durbuy"
+          }
+        },
+        {
+          "label": "Парк Топиэр",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 114,
+              "quote": "парк Topiaries"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "durbuy--park-topier"
+          }
+        },
+        {
+          "label": "Замок Дюрбюи",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "belgium/P8172006.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "durbuy--chateau-durbuy"
+            },
+            "reason": "Замок виден на семейных фотографиях из парка; внутреннее посещение не утверждается."
+          }
+        },
+        {
+          "label": "Антикварные магазины Дюрбюи",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 130,
+              "quote": "по магазинчикам"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Названия не приведены."
+        },
+        {
+          "label": "Ресторан Дюрбюи",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 130,
+              "quote": "сели в открытом ресторане"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён."
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-2011/alsace/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Лувр",
+          "event": "previous_visits",
+          "evidence": [
+            {
+              "source_paragraph": 139,
+              "quote": "По Лувру нас"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Воспоминание о прежнем автобусном туре, не посещение в этой поездке."
+        },
+        {
+          "label": "Эльзас и винная дорога",
+          "event": "visited_region",
+          "evidence": [
+            {
+              "source_paragraph": 171,
+              "quote": "винную дорогу Эльзаса"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "riquewihr"
+          },
+          "reason": "Регион и маршрут покрыты конкретными остановками, не точкой случайного центра региона."
+        },
+        {
+          "label": "Замки и руины на холмах по дороге",
+          "event": "transit_view",
+          "evidence": [
+            {
+              "source_paragraph": 147,
+              "quote": "замки, или развалины замков"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Обобщённый пейзаж без собственных названий."
+        },
+        {
+          "label": "О-Кёнигсбург",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 155,
+              "quote": "попали на англоязычную экскурссию по замку"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "haut-koenigsbourg"
+          },
+          "reason": "Вход внутрь прямо подтверждён экскурсией и собственными фото; не только вид снаружи."
+        },
+        {
+          "label": "Риквир",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 171,
+              "quote": "нами был выбран Riquewihr"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "riquewihr"
+          }
+        },
+        {
+          "label": "Крепостные стены и ворота Риквира",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 171,
+              "quote": "через настоящие городские ворота"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "riquewihr"
+          },
+          "reason": "Неназванные ворота и стены не разделяются на выдуманные самостоятельные учреждения."
+        },
+        {
+          "label": "Музей карет Риквира",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 179,
+              "quote": "каретный музей"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "riquewihr--muzey-karet"
+          },
+          "reason": "Фотография кареты у музея сохранилась также в неиспользованных архивных материалах."
+        },
+        {
+          "label": "Магазин мороженого Риквира",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 183,
+              "quote": "пошли покупать мороженное"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Собственное название отсутствует."
+        },
+        {
+          "label": "Винные подвалы Риквира",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 196,
+              "quote": "прошли где-то 3-4 подвальчика"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Нельзя распространить фото одного подвала на все 3–4. На одном снимке читаются DOPFF & IRION и Jean-Michel Bruin; требуется привязка конкретных названий, остальные не названы. Дегустировали главным образом Леля и Наташа, Сергей немного."
+        },
+        {
+          "label": "Кольмар",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 199,
+              "quote": "в Кольмар (Colmar)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "colmar"
+          }
+        },
+        {
+          "label": "Kyriad Hotel Colmar Cite Administrative",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 199,
+              "quote": "Kyriad Hotel Colmar Cite Administrative"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+        },
+        {
+          "label": "Экскурсия на паровозике по Кольмару",
+          "event": "attended",
+          "evidence": [
+            {
+              "source_paragraph": 200,
+              "quote": "туристического... паровозика"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "colmar"
+          },
+          "reason": "Оператор в тексте не указан."
+        },
+        {
+          "label": "Архитектурные объекты на фотографиях Кольмара",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "alsace/P8222039.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "На снимках есть церковь и отдельные украшенные фасады. Имена без проверки не подставляются; вход внутрь не утверждается."
+          }
+        },
+        {
+          "label": "Ресторан и фонтан в Кольмаре",
+          "event": "visited_and_exterior",
+          "evidence": [
+            {
+              "source_paragraph": 214,
+              "quote": "Рядом фонтан"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён."
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-2011/switzerland-1/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Бернский Оберланд",
+          "event": "visited_region",
+          "evidence": [
+            {
+              "source_paragraph": 219,
+              "quote": "Bernese Oberland"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "lauterbrunnen"
+          },
+          "reason": "Регион поездки покрыт конкретными остановками."
+        },
+        {
+          "label": "Лаутербруннен",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 219,
+              "quote": "Lauterbrunnen"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "lauterbrunnen"
+          }
+        },
+        {
+          "label": "Hotel Staubbach",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 219,
+              "quote": "Hotel Staubbach"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+        },
+        {
+          "label": "Юнгфрау, Шильтхорн, Титлис",
+          "event": "considered_alternatives",
+          "evidence": [
+            {
+              "source_paragraph": 226,
+              "quote": "выбирала между Jungfrau, Schilthorn, Mt Titlis"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Выбрали Пилатус. Виды окружающих гор не доказывают подъём на каждую из них."
+        },
+        {
+          "label": "Люцерн",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 226,
+              "quote": "по которому мы успели немножко погулять"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "lucerne"
+          }
+        },
+        {
+          "label": "Люцернское озеро",
+          "event": "boat_trip",
+          "evidence": [
+            {
+              "source_paragraph": 236,
+              "quote": "прокатились по озеру"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "lucerne--lake-lucerne"
+          },
+          "reason": "Часть описанного золотого маршрута из Люцерна на Пилатус."
+        },
+        {
+          "label": "Капельбрюкке",
+          "event": "walked_across",
+          "evidence": [
+            {
+              "photo": "switzerland-1/P8232056.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "lucerne--chapel-bridge"
+            },
+            "reason": "На семейном снимке виден крытый мост с живописными треугольными панелями. Идентификация сопоставлена с официальным описанием моста."
+          }
+        },
+        {
+          "label": "Пилатус и золотой маршрут",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 226,
+              "quote": "остановилась на Mt Pilatus"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "pilatus"
+          },
+          "reason": "Озёрный корабль, зубчатая дорога, вершина, смотровые тропы и спуск описаны подробно; парапланеристов только наблюдали."
+        },
+        {
+          "label": "Ресторан с фондю в Лаутербруннене",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 273,
+              "quote": "Искать ресторан с местной кухней"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён."
+        },
+        {
+          "label": "Штауббахский водопад",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 283,
+              "quote": "потащила Серегу осматривать вблизи водопад"
+            },
+            {
+              "photo": "switzerland-1/P8232121.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "lauterbrunnen--staubbach-falls"
+          },
+          "reason": "Водопад перед Hotel Staubbach сопоставлен с собственным снимком и описанием гостиницы. Дети в этот момент остались в гостинице.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-2011/switzerland-2/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Лаутербруннен, прежняя гостиница",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 288,
+              "quote": "в той же гостинице"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "lauterbrunnen"
+          },
+          "reason": "Продолжение проживания Hotel Staubbach, подтверждённого предыдущей главой."
+        },
+        {
+          "label": "Мюррен",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 293,
+              "quote": "погуляли по Mürren"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "murren"
+          }
+        },
+        {
+          "label": "Альмендхубель",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 297,
+              "quote": "Allmendhubel"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "allmendhubel"
+          },
+          "reason": "Луга, детская площадка и дорога — части одного посещения."
+        },
+        {
+          "label": "Трюммельбахские водопады",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 309,
+              "quote": "поехали смотреть Трюммельбахский водопад"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "trummelbachfaelle"
+          },
+          "reason": "Описаны вход, лифт, тоннели и каскады; отсутствие отдельной большой фотогалереи не является основанием исключения."
+        },
+        {
+          "label": "Рейхенбахский водопад",
+          "event": "narrative_inclusion_owner_confirmed",
+          "evidence": [
+            {
+              "source_paragraph": 313,
+              "quote": "Рейхенбахский водопад"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "meiringen--reykhenbakhskiy-vodopad"
+          },
+          "reason": "Сохранён по рассказу и прямому уточнению владельца. Ранее преждевременно назван только планом; эта оценка отозвана. Рассказ краток, отдельного кадра водопада в проверенных 276 изображениях не установлено; это не основание удалять объект."
+        },
+        {
+          "label": "Каньон Аарешлухт",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 321,
+              "quote": "погуляли и пофотографировали"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "aareschlucht"
+          },
+          "reason": "Вход, маршрут, выход и обратная электричка подробно описаны и подтверждены собственными фотографиями."
+        },
+        {
+          "label": "Долина Хасли, Гримзель, озеро Бриенц, Кирхет, Иннерткирхен",
+          "event": "guide_context",
+          "evidence": [
+            {
+              "source_paragraph": 319,
+              "quote": "Долина Хасли"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Цитата справочного текста о географии каньона; не доказательство отдельных остановок во всех перечисленных местах."
+        },
+        {
+          "label": "Станция Aareschlucht Ost",
+          "event": "used_station",
+          "evidence": [
+            {
+              "source_paragraph": 325,
+              "quote": "станция это – закрытая дверь в скале"
+            },
+            {
+              "photo": "switzerland-2/P8242188.jpg"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "aareschlucht"
+          },
+          "reason": "Остановка обратного транспорта, часть маршрута по каньону; не музей или отдельная экскурсия."
+        },
+        {
+          "label": "Майринген",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 339,
+              "quote": "В деревушку Майринген"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "meiringen"
+          }
+        },
+        {
+          "label": "Музей Шерлока Холмса",
+          "event": "mentioned",
+          "evidence": [
+            {
+              "source_paragraph": 339,
+              "quote": "есть даже музей Шерлока Холмса"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Текст сообщает о существовании музея. Фотографии памятника снаружи не доказывают вход в музей; самостоятельное посещение не приписывается."
+        },
+        {
+          "label": "Памятник Шерлоку Холмсу",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 339,
+              "quote": "его памятник на центральной площади"
+            },
+            {
+              "photo": "switzerland-2/P8242195.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "meiringen--sherlock-holmes-monument"
+          },
+          "reason": "Семейный снимок автора рядом с памятником прямо подтверждает осмотр."
+        },
+        {
+          "label": "Кондитерская Frutal-Beck / Tea-Room Frutiger",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 347,
+              "quote": "туда мы и отправились испробовать это лакомство"
+            },
+            {
+              "photo": "switzerland-2/P8242199.jpg"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "Кондитерская остаётся деталью рассказа о городе и меренгах, не отдельной целью музейного или культурного посещения."
+        },
+        {
+          "label": "Парк с шахматами в Майрингене",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 351,
+              "quote": "играть в шахматы в парке"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Шахматы подтверждены семейными снимками; название парка не дано."
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-2011/bavaria/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Балленберг",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 361,
+              "quote": "Т.е. вроде ходишь, смотришь"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "ballenberg"
+          },
+          "reason": "Фраза о плане в начале главы дополнена состоявшимся посещением и оценкой. Один музей под открытым небом, без отдельных точек для его зданий."
+        },
+        {
+          "label": "Канадский музей под открытым небом",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 361,
+              "quote": "У нас есть подобный музей"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Сравнение с прошлым опытом, название не приведено; к поездке 2011 не добавляется."
+        },
+        {
+          "label": "Рейнский водопад",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "bavaria/P8252216.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "places": "rhine-falls"
+            },
+            "reason": "Собственный оригинал Olympus от 25 августа 2011 14:13:56 показывает водопад и Schlössli Wörth. Объект выявлен по фото, а не из старых меток. Поездка на лодке и посещение замка не утверждаются."
+          }
+        },
+        {
+          "label": "Штайн-на-Рейне",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 371,
+              "quote": "Stein am Rhein"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "stein-am-rhein"
+          }
+        },
+        {
+          "label": "Расписные дома и фонтан старого города",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 372,
+              "quote": "домов с живописными росписями"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "stein-am-rhein"
+          },
+          "reason": "Прогулка по старому городу; входы в дома не описаны. Точные названия отдельных фасадов и фонтана требуют идентификации фотографий."
+        },
+        {
+          "label": "Неназванная пиццерия Штайна-на-Рейне",
+          "event": "declined_meal",
+          "evidence": [
+            {
+              "source_paragraph": 386,
+              "quote": "кусок пиццы предлагался за цену порядка 10 евро"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Посмотрели предложение, отказались и уехали; приём пищи не состоялся."
+        },
+        {
+          "label": "Виноградники на берегу Рейна",
+          "event": "transit_view",
+          "evidence": [
+            {
+              "source_paragraph": 387,
+              "quote": "вдоль виногадников"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Пейзаж с дороги; конкретное винодельческое хозяйство и вход в него не указаны."
+        },
+        {
+          "label": "Швангау",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 391,
+              "quote": "Schwangau"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "schwangau"
+          }
+        },
+        {
+          "label": "Гостиница и ресторан Bei Weirich",
+          "event": "stayed_and_ate",
+          "evidence": [
+            {
+              "source_paragraph": 391,
+              "quote": "Bei Weirich"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+        },
+        {
+          "label": "Поля у гостиницы в Швангау",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 397,
+              "quote": "гулять просто «в поле»"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "schwangau"
+          },
+          "reason": "Леля гуляла одна, пока остальные отдыхали; без выдуманного названия парка.",
+          "participants": [
+            "Леля"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-2011/castles/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Хоэншвангау",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 413,
+              "quote": "Экскурссия была очень интересная"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "hohenschwangau"
+          },
+          "reason": "Вышли из первого замка в абзаце 414; внутреннее посещение подтверждено, а не предполагается по виду фасада."
+        },
+        {
+          "label": "Нойшванштайн",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 428,
+              "quote": "Мне трудно все это описать, фотографировать внутри не разрешают"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "neuschwanstein"
+          },
+          "reason": "Автор описывает собственное впечатление и внутренние залы. Три фотографии интерьеров заимствованы и не использованы как единственное доказательство."
+        },
+        {
+          "label": "Концерт в Нойшванштайне",
+          "event": "missed_event",
+          "evidence": [
+            {
+              "source_paragraph": 427,
+              "quote": "жаль мы не могли остаться послушать"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Внутреннее посещение замка не означает, что слушали концерт."
+        },
+        {
+          "label": "Диснейленд",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 415,
+              "quote": "в Диснейленде"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Сравнение архитектуры, не маршрут этой поездки."
+        },
+        {
+          "label": "Мюнхен",
+          "event": "unrealised_plan",
+          "evidence": [
+            {
+              "source_paragraph": 438,
+              "quote": "не было времени заехать в Мюнхен"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Прямо указано, что не заехали."
+        },
+        {
+          "label": "Бонн, Дюссельдорф, Берлин и Дрезден",
+          "event": "previous_visits",
+          "evidence": [
+            {
+              "source_paragraph": 438,
+              "quote": "те города в которых мы были"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Перечисление прошлых впечатлений о Германии; текущие посещения не описаны. Кёльн учтён отдельно по первой главе."
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/germany-2011/london/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Лондон",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 440,
+              "quote": "улетали домой мы из Лондона"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "london"
+          }
+        },
+        {
+          "label": "Брюссель",
+          "event": "transfer",
+          "evidence": [
+            {
+              "source_paragraph": 441,
+              "quote": "там пересадка"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "План прогулки во время пересадки не состоялся, едва успели пройти границу."
+        },
+        {
+          "label": "Евротоннель под Ла-Маншем",
+          "event": "transit",
+          "evidence": [
+            {
+              "source_paragraph": 442,
+              "quote": "длинный серый тунель"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Проезд поездом, не посещение достопримечательности."
+        },
+        {
+          "label": "Леголенд Виндзор",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 443,
+              "quote": "ездили все вместе в Леголенд"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "legoland-windsor"
+          },
+          "reason": "Семья была вместе с родственниками; не добавляются отдельные миниатюры и аттракционы."
+        },
+        {
+          "label": "Виндзор",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 443,
+              "quote": "в Леголенд"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "windsor"
+          },
+          "reason": "География парка, не утверждение посещения Виндзорского замка."
+        },
+        {
+          "label": "Игровой центр",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 445,
+              "quote": "в какой-то игровой центр"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Название в тексте отсутствует; электрические машинки не определяют заведение."
+        },
+        {
+          "label": "Национальная галерея Лондона",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 446,
+              "quote": "мы ходили только в национальную галерею"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "national-gallery"
+          },
+          "reason": "Внутри слушали аудиоэкскурсии парами; Митя продолжил после двух часов.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Германия, Нидерланды, Бельгия, Франция, Швейцария, Англия",
+          "event": "trip_summary",
+          "evidence": [
+            {
+              "source_paragraph": 449,
+              "quote": "Германия, Голландия, Бельгия, Франция, Швейцария и Англия"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Итоговое перечисление стран; не основание придумывать новые остановки."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_explicit_identification_questions",
+    "questions": [
+      "Не названы аквапарк, ферма, город родственников, игровой центр и парк с шахматами; рестораны и магазины из задач определения исключены.",
+      "Идентификация отдельных амстердамских и кольмарских фасадов, винных подвалов Риквира и расписных домов Штайна-на-Рейне остаётся открытой.",
+      "Рейхенбахский водопад сохранён по рассказу и уточнению владельца; отдельный кадр среди 276 материалов не установлен. Не считать это доказательством отсутствия посещения."
+    ],
+    "repeat_check": "Каждая из девяти глав повторно сопоставлена с перечисленными объектами и текущими данными. Оставлены домик Петра и Рейхенбахский водопад. Различены дворцовый парк/внешний осмотр, входы в музеи, посещение Сергеем с детьми без автора, несостоявшиеся события и предыдущие поездки. Самостоятельному Балленбергу добавлена классификация музей для поиска. Фотографическая находка Рейнского водопада отделена от Рейхенбахского.",
+    "external_sources": [
+      {
+        "url": "https://www.staubbach.com/",
+        "purpose": "Название водопада непосредственно перед Hotel Staubbach."
+      },
+      {
+        "url": "https://www.meiringen.ch/firmenverzeichnis/86591",
+        "purpose": "Муниципальная запись Frutal / Frutiger, Bahnhofstrasse 18; сопоставлена с читаемым Frutal-Beck на семейном снимке."
+      },
+      {
+        "url": "https://www.chateaudedurbuy.be/",
+        "purpose": "Сопоставление фасада замка с фотографиями из парка Топиэр."
+      },
+      {
+        "url": "https://rheinfall.ch/",
+        "purpose": "Официальное описание Рейнского водопада и его окружения."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q214924",
+        "purpose": "Проверенная географическая точка Рейнского водопада."
+      },
+      {
+        "url": "https://www.luzern.com/en/the-city/sights/top-sights/lucernes-landmarks-the-chapel-bridge-and-its-water-tower",
+        "purpose": "Идентификация Капельбрюкке по положению моста, водонапорной башне на соседнем снимке и живописным панелям."
+      },
+      {
+        "url": "https://pilatus.ch/en/railway-cableways/tickets/golden-round-trip",
+        "purpose": "Сопоставление маршрута автора с Люцернским озером и Пилатусом."
+      }
+    ],
+    "new_attractions": [
+      "zaandam--peter-house",
+      "durbuy--chateau-durbuy",
+      "lauterbrunnen--staubbach-falls",
+      "lauterbrunnen--hotel-staubbach",
+      "meiringen--sherlock-holmes-monument",
+      "meiringen--tea-room-frutiger",
+      "colmar--kyriad-cite-administrative",
+      "schwangau--bei-weirich",
+      "lucerne--lake-lucerne",
+      "lucerne--chapel-bridge"
+    ],
+    "new_places": [
+      "rhine-falls"
+    ],
+    "photo_scope": "Рассказ — основное основание. Фото учитываются только как редкое исключение: большая серия в самой главе явно заменяет рассказ о месте и позволяет читателю понять, где оно показано. Количество неопубликованных оригиналов и отдельные виды не обосновывают точку. Неназванные детали не превращаются в вопросы."
+  }
+}

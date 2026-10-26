@@ -1,0 +1,407 @@
+{
+  "trip_path": "content/americas/cuba/cuba-2025",
+  "status": "text_audit_complete_names_unresolved",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 51,
+    "record_indices": [
+      51,
+      50,
+      49
+    ],
+    "read": "Полностью прочитаны три оригинальных поста и три текущие главы. Авторских подписей в этих постах нет. Рассказ ведёт Леля о поездке Сергея и Мити."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/cuba-2025.json",
+    "method": "Только рассказ, без распознавания многочисленных городских фонов. Большая серия Гаваны сохранена как городской рассказ, не восемь нерассказанных объектов."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/cuba/cuba-2025/varadero/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава и исходный пост прочитаны полностью. Участники и история прежнего визита сопоставлены между главами.",
+      "objects": [
+        {
+          "label": "Варадеро",
+          "event": "resort_stay",
+          "evidence": [
+            {
+              "source_record_index": 51,
+              "source_paragraph": 1,
+              "quote": "Поэтому полетели на Варадеро"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "varadero"
+          },
+          "reason": "Только Сергей и Митя, автор пересказывает их поездку и не была участницей. Точный отель не назван.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Море у Варадеро",
+          "event": "beach_holiday",
+          "evidence": [
+            {
+              "source_record_index": 51,
+              "source_paragraph": 2,
+              "quote": "Море конечно шикарное"
+            }
+          ],
+          "decision": "covered_by_resort",
+          "reason": "Пляжный отдых без точного названия пляжа; рестораны, алкоголь и сигары — бытовой рассказ.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/cuba/cuba-2025/havana/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава и исходный пост прочитаны полностью. Участники и история прежнего визита сопоставлены между главами.",
+      "objects": [
+        {
+          "label": "Гавана",
+          "event": "guided_city_tour",
+          "evidence": [
+            {
+              "source_record_index": 50,
+              "source_paragraph": 1,
+              "quote": "Серёга заказал им индивидуальную экскурсию на русском на старом автомобиле"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "havana"
+          },
+          "reason": "Реальная экскурсия отца и сына на старом автомобиле, не только несбывшееся желание.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Гавана около 20 лет назад",
+          "event": "previous_trip",
+          "evidence": [
+            {
+              "source_record_index": 50,
+              "source_paragraph": 0,
+              "quote": "когда приезжали с годовалым Митькой"
+            }
+          ],
+          "decision": "exclude_as_current_visit",
+          "reason": "Автор участвовала в прежней поездке, но это не делает её участницей 2025 года.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Капитолий",
+          "event": "unnarrated_photo_detail",
+          "evidence": [
+            {
+              "source_record_index": 50,
+              "source_paragraph": 2,
+              "quote": "В целом пожелание увидеть Гавану выполнили."
+            }
+          ],
+          "decision": "remove_incidental_link",
+          "reason": "Весь оригинальный пост и подписи проверены: объект не назван и не рассказан. Общая городская фотопрогулка не является отдельной большой серией с авторским рассказом об этом объекте. Связь capitolio-havana с главой удалена; изображения сохранены.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Большой театр Гаваны",
+          "event": "unnarrated_photo_detail",
+          "evidence": [
+            {
+              "source_record_index": 50,
+              "source_paragraph": 2,
+              "quote": "В целом пожелание увидеть Гавану выполнили."
+            }
+          ],
+          "decision": "remove_incidental_link",
+          "reason": "Весь оригинальный пост и подписи проверены: объект не назван и не рассказан. Общая городская фотопрогулка не является отдельной большой серией с авторским рассказом об этом объекте. Связь gran-teatro-havana с главой удалена; изображения сохранены.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Гаванский собор",
+          "event": "unnarrated_photo_detail",
+          "evidence": [
+            {
+              "source_record_index": 50,
+              "source_paragraph": 2,
+              "quote": "В целом пожелание увидеть Гавану выполнили."
+            }
+          ],
+          "decision": "remove_incidental_link",
+          "reason": "Весь оригинальный пост и подписи проверены: объект не назван и не рассказан. Общая городская фотопрогулка не является отдельной большой серией с авторским рассказом об этом объекте. Связь catedral-havana с главой удалена; изображения сохранены.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "La Bodeguita del Medio",
+          "event": "unnarrated_photo_detail",
+          "evidence": [
+            {
+              "source_record_index": 50,
+              "source_paragraph": 2,
+              "quote": "В целом пожелание увидеть Гавану выполнили."
+            }
+          ],
+          "decision": "remove_incidental_link",
+          "reason": "Весь оригинальный пост и подписи проверены: объект не назван и не рассказан. Общая городская фотопрогулка не является отдельной большой серией с авторским рассказом об этом объекте. Связь bodeguita-del-medio с главой удалена; изображения сохранены.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Plaza Vieja",
+          "event": "unnarrated_photo_detail",
+          "evidence": [
+            {
+              "source_record_index": 50,
+              "source_paragraph": 2,
+              "quote": "В целом пожелание увидеть Гавану выполнили."
+            }
+          ],
+          "decision": "remove_incidental_link",
+          "reason": "Весь оригинальный пост и подписи проверены: объект не назван и не рассказан. Общая городская фотопрогулка не является отдельной большой серией с авторским рассказом об этом объекте. Связь plaza-vieja-havana с главой удалена; изображения сохранены.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Эль-Морро",
+          "event": "unnarrated_photo_detail",
+          "evidence": [
+            {
+              "source_record_index": 50,
+              "source_paragraph": 2,
+              "quote": "В целом пожелание увидеть Гавану выполнили."
+            }
+          ],
+          "decision": "remove_incidental_link",
+          "reason": "Весь оригинальный пост и подписи проверены: объект не назван и не рассказан. Общая городская фотопрогулка не является отдельной большой серией с авторским рассказом об этом объекте. Связь morro-havana с главой удалена; изображения сохранены.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Христос Гаваны",
+          "event": "unnarrated_photo_detail",
+          "evidence": [
+            {
+              "source_record_index": 50,
+              "source_paragraph": 2,
+              "quote": "В целом пожелание увидеть Гавану выполнили."
+            }
+          ],
+          "decision": "remove_incidental_link",
+          "reason": "Весь оригинальный пост и подписи проверены: объект не назван и не рассказан. Общая городская фотопрогулка не является отдельной большой серией с авторским рассказом об этом объекте. Связь cristo-havana с главой удалена; изображения сохранены.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Площадь Революции",
+          "event": "unnarrated_photo_detail",
+          "evidence": [
+            {
+              "source_record_index": 50,
+              "source_paragraph": 2,
+              "quote": "В целом пожелание увидеть Гавану выполнили."
+            }
+          ],
+          "decision": "remove_incidental_link",
+          "reason": "Весь оригинальный пост и подписи проверены: объект не назван и не рассказан. Общая городская фотопрогулка не является отдельной большой серией с авторским рассказом об этом объекте. Связь plaza-revolucion-havana с главой удалена; изображения сохранены.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/cuba/cuba-2025/excursions/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава и исходный пост прочитаны полностью. Участники и история прежнего визита сопоставлены между главами.",
+      "objects": [
+        {
+          "label": "Фабрика-музей сахарного производства",
+          "event": "entered_name_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 49,
+              "source_paragraph": 1,
+              "quote": "Сначала нас отвезли на фабрику-музей по производству сахара."
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Действительный музейный визит с рассказом о процессе, соком и паровозом. Название и расположение не указаны: сохранён в реестре и вопросах, не приписан конкретной фабрике по типовой экскурсии.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Ромовый завод",
+          "event": "entered_distillery_tasting_name_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 49,
+              "source_paragraph": 8,
+              "quote": "Потом нас отвезли на дистилери где производят ром."
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Фактический осмотр производства и дегустация; не угадываются марка рома и название завода.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Мастер изготовления сигар",
+          "event": "visited_workshop_name_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 49,
+              "source_paragraph": 12,
+              "quote": "Потом отвезли к мастеру закручивающему сигары."
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Показ изготовления и проба подтверждены; не назван ни музей табака, ни конкретная фабрика.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Магазин рома и обед",
+          "event": "tasting_and_meal",
+          "evidence": [
+            {
+              "source_record_index": 49,
+              "source_paragraph": 14,
+              "quote": "дали поробовать 9 сортов рома"
+            }
+          ],
+          "decision": "covered_by_excursion",
+          "reason": "«Местный LCBO» — авторская аналогия, не филиал канадской сети на Кубе. Новая точка магазина без имени не создана.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Реконструкция индейской деревни и лодка по манграм",
+          "event": "visited_name_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 49,
+              "source_paragraph": 16,
+              "quote": "Сначала отвезли в имитацию индейской деревни."
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Даже неудачная оценка подтверждает посещение. Название Guamá в источнике отсутствует: прежняя точная метка удалена, идентификация записана в вопросы.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Крокодиловая ферма",
+          "event": "visited_name_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 49,
+              "source_paragraph": 17,
+              "quote": "Потом крокодилы, их разводят для сохранения."
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Осмотр вольеров подтверждён, но точное учреждение не названо; возможность фотографии за доплату не означает, что ею воспользовались.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Карибское море — купание и маска",
+          "event": "swam_and_snorkelled",
+          "evidence": [
+            {
+              "source_record_index": 49,
+              "source_paragraph": 18,
+              "quote": "Митька с маской несколько раз плавал"
+            }
+          ],
+          "decision": "covered_by_excursion",
+          "reason": "Место высадки и пляж не названы. С маской явно плавал Митя, а не все участники.",
+          "participants": [
+            "Митя"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled_five_names_open",
+    "questions": [
+      {
+        "object": "Сахарная фабрика-музей, Куба 2025",
+        "question": "Как называлась посещённая фабрика-музей с показом сахарного производства и поездкой на паровозе? Посещение сохранено в отчёте без угадывания учреждения."
+      },
+      {
+        "object": "Ромовый завод, Куба 2025",
+        "question": "Как назывался посещённый завод рома с производственной экскурсией и дегустацией?"
+      },
+      {
+        "object": "Мастер сигар, Куба 2025",
+        "question": "Был ли это отдельный мастер/мастерская или известное учреждение? Название в рассказе отсутствует."
+      },
+      {
+        "object": "Индейская деревня, Куба 2025",
+        "question": "Как называлась реконструкция деревни, к которой плыли по манграм? Guamá не подтверждена текстом, поэтому прежняя точная привязка снята."
+      },
+      {
+        "object": "Крокодиловая ферма, Куба 2025",
+        "question": "Как называлась посещённая ферма разведения крокодилов? Конкретное учреждение не подставлено по типовой программе экскурсии."
+      }
+    ],
+    "limitations": [
+      {
+        "chapter": "varadero",
+        "detail": "Два видео пляжной главы не просмотрены в этом аудите. Новые объекты из них не добавлялись; полный просмотр всех визуальных материалов не заявлен."
+      }
+    ],
+    "repeat_check": "Все три поста и главы сопоставлены. Удалены восемь нерассказанных отдельных гаванских точек и неустановленная точная привязка к Guamá. Пять действительно описанных, но неназванных экскурсионных учреждений сохранены с основаниями и вопросами. Леля не включена в посещения этой поездки. Недовольство экскурсиями не превращено в отказ от посещений. Тела глав, снимки и видео сохранены."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "trip_path": "content/americas/usa/minneapolis-2022",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "kind": "facebook_profile_json",
+    "record_index": 156,
+    "timestamp": 1656794322,
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "read": "Целиком прочитан исходный пост и все авторские подписи вложений, затем вся глава сайта. Служебные названия альбомов не трактуются как объекты."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/minneapolis-2022.json",
+    "method": "Решения основаны на рассказе и именованных частях опубликованной главы. Архитектура, экспонаты и фон снимков не каталогизируются. Полный покадровый просмотр не требуется и не заявлен."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/usa/minneapolis-2022/minneapolis/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Пост, подписи и глава прочитаны полностью. Состав участников отделён от планирования и других одновременно путешествовавших родственников.",
+      "objects": [
+        {
+          "label": "Миннеаполис",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "мальчики поехали на соревнования в Миннеаполис"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "minneapolis"
+          },
+          "reason": "Поехали только Сергей и Митя, девушки были в Европе.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Minneapolis Institute of Art",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "И в свободное время тоже по музеям!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "minneapolis-institute-of-art"
+          },
+          "reason": "Музейный визит прямо описан, существующее название раскрыто заголовком большой музейной части главы. Не выводятся другие музеи из множественного числа.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "North American Cup",
+          "event": "competition",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "финал North American Cup"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Соревнования в рассказе и отдельной части главы. Конкретное спортивное здание не названо, не добавляется.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Европа — поездка девушек",
+          "event": "simultaneous_other_trip",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Пока девочки в Европе загорают"
+            }
+          ],
+          "decision": "exclude_as_current_visit",
+          "reason": "Другие члены семьи в другой поездке, не часть миннеаполисского маршрута.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled",
+    "questions": [],
+    "repeat_check": "Все упомянутые объекты и дальнейшие/предыдущие направления сопоставлены с данными. Подтверждённые музейные связи сохранены, фоновых добавлений нет; состав участников не расширен до всей семьи."
+  }
+}

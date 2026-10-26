@@ -1,0 +1,110 @@
+{
+  "trip_path": "content/americas/canada/mcmichael-2023",
+  "status": "complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "kind": "facebook_profile_json",
+    "record_index": 92,
+    "timestamp": 1699206839,
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "read": "Полностью прочитаны три авторских абзаца и строка хэштега исходного поста, полностью прочитана глава сайта. Сырой JSON Facebook с личными служебными данными не копируется в Git. Дополнительно прочитаны все пять непустых подписей к 14 исходным фотографиям: имена художников и семейная подпись. Новых географических объектов они не называют."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 14,
+    "manifest": "media-manifests/mcmichael-2023.json",
+    "method": "Все 14 полных архивных оригиналов сверены по SHA-256 и визуально просмотрены на двух контактных листах. Самостоятельных дополнительных мест фото не показывают."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/canada/mcmichael-2023/mcmichael/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Музей Макмайкл",
+          "event": "visited",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "McMichael - это один из наших любимых музеев Торонто и окрестностей."
+            },
+            {
+              "source_paragraph": 1,
+              "quote": "Он всем хорош."
+            },
+            {
+              "photo": "mcmichael/20231104_140857.jpg"
+            },
+            {
+              "photo": "mcmichael/20231104_143052.jpg"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "mcmichael-gallery"
+          },
+          "reason": "Самостоятельное музейное учреждение. Название коллекции не превращено в отдельное место. Городская группировка Торонто сохраняет прежнее прямое указание владельца; это не утверждение об административных границах Торонто."
+        },
+        {
+          "label": "Торонто и окрестности",
+          "event": "navigation_group",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "музеев Торонто и окрестностей"
+            }
+          ],
+          "decision": "owner_grouping",
+          "target": {
+            "places": "toronto"
+          },
+          "reason": "Музей находится в Kleinburg; владелец ранее прямо отнесла его в навигации к Торонто. Сама поездка по Торонто из этого поста не выводится."
+        },
+        {
+          "label": "Произведения Tom Thomson, Jock Macdonald, Lawren Harris, Caven Atkins",
+          "event": "seen_museum_artworks",
+          "evidence": [
+            {
+              "source_attachment_path": "attachments.0.data.2.media.description",
+              "quote": "Tom Thomson"
+            },
+            {
+              "source_attachment_path": "attachments.0.data.7.media.description",
+              "quote": "Jock Macdonald, 1939"
+            },
+            {
+              "source_attachment_path": "attachments.0.data.8.media.description",
+              "quote": "Lawren Harris, 1929"
+            },
+            {
+              "source_attachment_path": "attachments.0.data.9.media.description",
+              "quote": "Caven Atkins, 1935"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "mcmichael-gallery"
+          },
+          "reason": "Имена художников и даты произведений в музейных подписях; не отдельные музеи или новые города."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "complete",
+    "new_attractions": [
+      "mcmichael-gallery"
+    ],
+    "retained_places": [
+      "mcmichael-gallery"
+    ],
+    "geographic_parent": "toronto",
+    "questions": [],
+    "repeat_check": "Единственный самостоятельный названный объект в полном тексте и всех 14 фотографиях сопоставлен с данными. Музей получил types museum/gallery, поисковые слова, связь с главой и предметную классификацию geographic place. Прежняя группировка владельца восстановлена.",
+    "photo_scope": "Рассказ — основное основание. Фото учитываются только как редкое исключение: большая серия в самой главе явно заменяет рассказ о месте и позволяет читателю понять, где оно показано. Количество неопубликованных оригиналов и отдельные виды не обосновывают точку. Неназванные детали не превращаются в вопросы."
+  }
+}

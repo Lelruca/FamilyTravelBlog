@@ -1,0 +1,369 @@
+{
+  "trip_path": "content/americas/canada/toronto-walks",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 154,
+    "record_indices": [
+      154,
+      112,
+      91
+    ],
+    "additional_files": [
+      {
+        "path": "G:/My Drive/Family Travel Blog Photos/North America/2022-2023 - Экскурсии по Торонто/04 - Afternoon Tea and Tour 2025/Источники/Текст Ольги.txt",
+        "sha256": "d66bc57d05d3c5704ed945dbf15f6efb43ca6fcb8f36369e001ac0c0f9d735c6"
+      }
+    ],
+    "read": "Полностью прочитаны три исходных поста, все 34 авторские подписи, отдельный архивный текст владельца 2025 года и четыре текущие главы. Ноябрьский чай 2025 отсутствует в общем JSON и сверялся с отдельным TXT, а не выдавался за найденный пост."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/toronto-walks.json",
+    "method": "Рассказ и содержательные подписи. Нового распознавания городских зданий и каталога каждого монумента не проводилось."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/canada/toronto-walks/yonge-street/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, соответствующий исходник и все подписи прочитаны; бытовые детали, предыдущее посещение и закрытые помещения отделены.",
+      "objects": [
+        {
+          "label": "Улица Янг",
+          "event": "guided_walk",
+          "evidence": [
+            {
+              "source_record_index": 154,
+              "source_paragraph": 0,
+              "quote": "экскурсии по Торонто (улица Янг)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "toronto--ulitsa-yang"
+          },
+          "reason": "Прямо названный маршрут с экскурсоводом. Имена всех участников в посте отсутствуют.",
+          "participants": null
+        },
+        {
+          "label": "Банки, первое офисное здание и восстановленные интерьеры",
+          "event": "brief_architectural_details",
+          "evidence": [
+            {
+              "source_record_index": 154,
+              "source_attachment_path": "attachments.0.data.0.media.description",
+              "quote": "Как два банка выписаны в новое здание!"
+            },
+            {
+              "source_record_index": 154,
+              "source_attachment_path": "attachments.0.data.3.media.description",
+              "quote": "Первое офисное здание"
+            },
+            {
+              "source_record_index": 154,
+              "source_attachment_path": "attachments.0.data.5.media.description",
+              "quote": "Восстановление интерьеры"
+            }
+          ],
+          "decision": "covered_by_street",
+          "reason": "Детали экскурсии без имён конкретных учреждений; названия по внешнему виду не угадываются.",
+          "participants": null
+        },
+        {
+          "label": "Дерево жизни, лилия, Адам и змей",
+          "event": "decorative_detail",
+          "evidence": [
+            {
+              "source_record_index": 154,
+              "source_attachment_path": "attachments.0.data.12.media.description",
+              "quote": "Дерево жизни, лилия - женское начало и лицо Адама - мужские. А сверху змей 😀"
+            }
+          ],
+          "decision": "covered_by_street",
+          "reason": "Авторская подпись об архитектурном украшении, не самостоятельный парк/сад или новый объект.",
+          "participants": null
+        },
+        {
+          "label": "Паб",
+          "event": "future_wish",
+          "evidence": [
+            {
+              "source_record_index": 154,
+              "source_attachment_path": "attachments.0.data.15.media.description",
+              "quote": "Паб - надо сходить 😀"
+            }
+          ],
+          "decision": "exclude_as_entered",
+          "reason": "Намерение зайти когда-нибудь, вход в паб не подтверждён.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/toronto-walks/the-ward/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, соответствующий исходник и все подписи прочитаны; бытовые детали, предыдущее посещение и закрытые помещения отделены.",
+      "objects": [
+        {
+          "label": "The Ward, центр Торонто",
+          "event": "guided_city_walk",
+          "evidence": [
+            {
+              "source_record_index": 112,
+              "source_paragraph": 1,
+              "quote": "экскурсию по центру города (район Wart)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "toronto"
+          },
+          "reason": "Реальная историческая экскурсия по району, не полный список входов в показанные здания.",
+          "participants": null
+        },
+        {
+          "label": "Новая мэрия Торонто",
+          "event": "visited_roof_terrace",
+          "evidence": [
+            {
+              "source_record_index": 112,
+              "source_paragraph": 2,
+              "quote": "мы поднялись на \"козырек\" здания новой мэрии."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "toronto-city-hall"
+          },
+          "reason": "Прямо описан подъём на наружную террасу; вход в кабинеты мэрии не приписан.",
+          "participants": null
+        },
+        {
+          "label": "Старая мэрия",
+          "event": "brief_exterior_caption",
+          "evidence": [
+            {
+              "source_record_index": 112,
+              "source_attachment_path": "attachments.0.data.0.media.description",
+              "quote": "Старая Мэрия"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Короткое название фасада, без самостоятельного рассказа и без нового маркера.",
+          "participants": null
+        },
+        {
+          "label": "Итальянский военный мемориал, египетская колонна и памятник Черчиллю",
+          "event": "outdoor_walk_details",
+          "evidence": [
+            {
+              "source_record_index": 112,
+              "source_attachment_path": "attachments.0.data.3.media.description",
+              "quote": "Слева за новой мэрией интересный уголок с большим колличеством памятников. Этот итальянское комьюнити поставила канадским войнам, освободителям Италии"
+            },
+            {
+              "source_record_index": 112,
+              "source_attachment_path": "attachments.0.data.5.media.description",
+              "quote": "А вот так сиротливо стоит египетская колонна 3 века. И памятник Черчилю."
+            }
+          ],
+          "decision": "covered_by_city_walk",
+          "reason": "Содержательные заметки сохранены в общей прогулке за мэрией. Не строится отдельный каталог каждого памятника.",
+          "participants": null
+        },
+        {
+          "label": "Мемориал Хиросимы и Нагасаки",
+          "event": "outdoor_walk_detail",
+          "evidence": [
+            {
+              "source_record_index": 112,
+              "source_attachment_path": "attachments.0.data.6.media.description",
+              "quote": "Монумент, посвященный трагедии Хиросимы и Нагасаки. Изначально огонь переносили из Хиросимы, а воду из реки Нагасаки"
+            }
+          ],
+          "decision": "covered_by_city_walk",
+          "reason": "Авторская заметка об огне и воде, один элемент рассказанного уголка памятников.",
+          "participants": null
+        },
+        {
+          "label": "Судебные здания и монументы правосудия, убитому адвокату, свободы религии и слова, присяжным",
+          "event": "outdoor_guided_walk",
+          "evidence": [
+            {
+              "source_record_index": 112,
+              "source_attachment_path": "attachments.0.data.7.media.description",
+              "quote": "Теперь подходим к зданиям суда. Монумент олицетворяющий барьеры к правосудию."
+            },
+            {
+              "source_record_index": 112,
+              "source_attachment_path": "attachments.0.data.12.media.description",
+              "quote": "Памятник перед судом (где каждый может встать на место 12-го присяжного) хорошо мне известен. Но то что он дело рук внучки Черчиля - новое."
+            }
+          ],
+          "decision": "covered_by_city_walk",
+          "reason": "Единый участок юридической прогулки. Подход к суду не означает вход в суд; фигуры ансамбля не отдельные точки.",
+          "participants": null
+        },
+        {
+          "label": "Canada Life, клуб выпускников UofT, работный дом, SickKids и Ryerson",
+          "event": "brief_city_history_captions",
+          "evidence": [
+            {
+              "source_record_index": 112,
+              "source_attachment_path": "attachments.0.data.13.media.description",
+              "quote": "Здание стаховой компании Canada Life построено всего за 18 месяцев! В начале 20 века..."
+            },
+            {
+              "source_record_index": 112,
+              "source_attachment_path": "attachments.0.data.14.media.description",
+              "quote": "Клуб (действующий), основан в начале 20 века выпускниками UofT"
+            },
+            {
+              "source_record_index": 112,
+              "source_attachment_path": "attachments.0.data.17.media.description",
+              "quote": "Внизу справа - первый \"работный дом\" в Торонто, начало 19 века. Сейчас продолжает работать как шелтер для женщин, но уже здание встроено в огромный комплекс"
+            },
+            {
+              "source_record_index": 112,
+              "source_attachment_path": "attachments.0.data.18.media.description",
+              "quote": "А эта новая башня - Sick kids - детский госпиталь. Приятная неожиданность увидеть как развивается город! Проход из старого/текущего корпуса над дорогой!"
+            },
+            {
+              "source_record_index": 112,
+              "source_attachment_path": "attachments.0.data.20.media.description",
+              "quote": "Сносят и потихоньку застраивают новым - Ryerson University"
+            }
+          ],
+          "decision": "covered_by_city_walk",
+          "reason": "Краткие исторические заметки о городской застройке; входы в клуб, больницу, шелтер и университет не заявляются, новых отдельных маркеров нет.",
+          "participants": null
+        },
+        {
+          "label": "Паспорт на покупку алкоголя",
+          "event": "historical_document",
+          "evidence": [
+            {
+              "source_record_index": 112,
+              "source_attachment_path": "attachments.0.data.15.media.description",
+              "quote": "Паспорт на покупку алкоголя в 40-50 годах 20 века! Все было очень ограничено. Паспорт выдавался на год, имел водяные знаки и пр."
+            }
+          ],
+          "decision": "exclude_as_place",
+          "reason": "Документ/иллюстрация экскурсии, не свидетельство посещения ещё одного музея.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/toronto-walks/queens-park/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, соответствующий исходник и все подписи прочитаны; бытовые детали, предыдущее посещение и закрытые помещения отделены.",
+      "objects": [
+        {
+          "label": "Парламент Онтарио",
+          "event": "guided_interior_visit",
+          "evidence": [
+            {
+              "source_record_index": 91,
+              "source_paragraph": 0,
+              "quote": "решили сходить на бесплатную экскурсию по Парламенту Онтарио."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "queens-park"
+          },
+          "reason": "Экскурсия в здании; зал и крылья подтверждены подписями. Это не только парк снаружи.",
+          "participants": null
+        },
+        {
+          "label": "Апартаменты лейтенант-губернатора",
+          "event": "not_included_this_visit",
+          "evidence": [
+            {
+              "source_record_index": 91,
+              "source_paragraph": 0,
+              "quote": "но сегодня нас туда не водили."
+            }
+          ],
+          "decision": "exclude_as_current_visit",
+          "reason": "Посещали больше 20 лет назад; в этой экскурсии помещения не открыли.",
+          "participants": null
+        },
+        {
+          "label": "Западное и восточное крылья, зал парламента, орёл, сова, символика коренных народов и первые женщины-депутаты",
+          "event": "interior_complex_details",
+          "evidence": [
+            {
+              "source_record_index": 91,
+              "source_attachment_path": "attachments.0.data.2.media.description",
+              "quote": "Западное крыло было перестроено после пожара"
+            },
+            {
+              "source_record_index": 91,
+              "source_attachment_path": "attachments.0.data.3.media.description",
+              "quote": "Восточное крыло с деревянной оригинальной отделкой"
+            },
+            {
+              "source_record_index": 91,
+              "source_attachment_path": "attachments.0.data.4.media.description",
+              "quote": "Зал парламента. Слева правящая партия, справа оппозиция"
+            }
+          ],
+          "decision": "covered_by_complex",
+          "reason": "Осмотренные части одного парламентского здания, без отдельных точек для каждой фигуры и портрета.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/toronto-walks/afternoon-tea-2025/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, соответствующий исходник и все подписи прочитаны; бытовые детали, предыдущее посещение и закрытые помещения отделены.",
+      "objects": [
+        {
+          "label": "Парламент Онтарио — Afternoon Tea and Tour",
+          "event": "guided_interior_visit_and_tea",
+          "evidence": [
+            {
+              "source_file": "G:/My Drive/Family Travel Blog Photos/North America/2022-2023 - Экскурсии по Торонто/04 - Afternoon Tea and Tour 2025/Источники/Текст Ольги.txt",
+              "source_sha256": "d66bc57d05d3c5704ed945dbf15f6efb43ca6fcb8f36369e001ac0c0f9d735c6",
+              "quote": "Afternoon Tea and Tour в здании правительства Онтарио."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "queens-park"
+          },
+          "reason": "Отдельное посещение 2025 года, не повторный пересказ экскурсии 2023 года. День съёмки неизвестен, сохранена оговорка в главе.",
+          "participants": null
+        },
+        {
+          "label": "Костюмированная живая история и рождественское оформление",
+          "event": "programme_inside_complex",
+          "evidence": [
+            {
+              "source_file": "G:/My Drive/Family Travel Blog Photos/North America/2022-2023 - Экскурсии по Торонто/04 - Afternoon Tea and Tour 2025/Источники/Текст Ольги.txt",
+              "source_sha256": "d66bc57d05d3c5704ed945dbf15f6efb43ca6fcb8f36369e001ac0c0f9d735c6",
+              "quote": "актеры в костюмах разыгрывали \"живую историю\""
+            }
+          ],
+          "decision": "covered_by_complex",
+          "reason": "Эпизоды одного посещения здания; отдельный театр, музей или точка чайной не добавляются.",
+          "participants": null
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled",
+    "questions": [],
+    "repeat_check": "Четыре главы сверены с независимыми исходниками. Янг, район Ward, терраса мэрии и два разных посещения парламента учтены. Короткие архитектурные и скульптурные детали сохранены в общей прогулке без множества отдельных точек. Апартаменты лейтенант-губернатора не посещались в 2023, паб только планировался. Состав всех групп не угадан. Авторские тела глав и фотографии не менялись."
+  }
+}

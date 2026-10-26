@@ -6,7 +6,6 @@ weight: 150
 city: "turin"
 places:
   - turin
-  - auxerre
 hero_image: "20210806_115302.jpg"
 date: "2021-08-06"
 auto_gallery: false

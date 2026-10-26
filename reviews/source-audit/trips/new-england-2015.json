@@ -1,0 +1,1082 @@
+{
+  "trip_path": "content/americas/usa/new-england-2015",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2015 лето_ Наше освоение Новой Англии_.docx",
+    "sha256": "215d892bab553f2ba3f043ba1b19961f4ca93549e5063206200dfabd76d838f7",
+    "read": "Прочитаны все 68 содержательных текстовых абзацев исходного DOCX, включая восемь заголовков; все восемь глав сайта прочитаны целиком. Оценки и заключение учтены."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "manifest": "media-manifests/new-england-2015.json",
+    "reviewed_contact_sheets": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "scope": "Все текущие оригиналы сайта из archive.files с siteKeys; остальной семейный архив не входит в эту проверку.",
+    "reviewed": 124,
+    "method": "Просмотрены все 124 используемых архивных изображения на 11 контактных листах; SHA-256 каждого сопоставлен с реестром. Авторские интернет-иллюстрации интерьеров Ньюпорта не принимались за семейные фотографии или самостоятельное доказательство посещения."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/usa/new-england-2015/cape-cod/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Кейп-Код",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "полуострове Кейп Код"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "cape-cod"
+          }
+        },
+        {
+          "label": "Ванкувер",
+          "event": "cancelled_plan",
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "Дети предлагали закончить освоения Канады и доехать до Ванкувера"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Первоначальный отвергнутый вариант маршрута."
+        },
+        {
+          "label": "Атлантическая Канада",
+          "event": "visited_other_trip",
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "прошлогодний опыт путешествия по Атлантической Канаде"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Ссылка на предыдущую поездку."
+        },
+        {
+          "label": "Коннектикут",
+          "event": "not_visited",
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "пропустили только Коннектикут"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Явно исключён из посещённых штатов."
+        },
+        {
+          "label": "Мэн, Массачусетс, Нью-Гэмпшир, Род-Айленд, Вермонт",
+          "event": "visited_regions",
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "Мы “поставили галочку”"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "reason": "Штаты маршрута; посещённые города перечислены в следующих главах."
+        },
+        {
+          "label": "Пляж Ковеллс",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "Купались мы каждый день по 2 раза"
+            },
+            {
+              "photo": "cape-cod/DSC04441.JPG"
+            }
+          ],
+          "decision": "add",
+          "reason": "Посещение подтверждено рассказом, имя читается на собственной фотографии.",
+          "target": {
+            "attraction": "cape-cod--covells-beach"
+          }
+        },
+        {
+          "label": "Коттедж на Кейп-Коде",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 7,
+              "quote": "Мы сняли"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Частное жильё без собственного названия; покрыто географией Кейп-Кода."
+        },
+        {
+          "label": "Маяки Кейп-Кода и береговые дачи",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 16,
+              "quote": "экскурсию на кораблике"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Названия маяков не указаны; виды с воды не означают вход на территории домов."
+        },
+        {
+          "label": "Студенческий летний театр",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 31,
+              "quote": "Студенческий летний театр"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Посещение оперетты подтверждено оценками, собственное название не указано."
+        },
+        {
+          "label": "Монреаль",
+          "event": "transit",
+          "evidence": [
+            {
+              "source_paragraph": 32,
+              "quote": "там переночевали и забрали детей"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Ночёвка, осмотр города не описан."
+        },
+        {
+          "label": "Торонто",
+          "event": "home",
+          "evidence": [
+            {
+              "source_paragraph": 32,
+              "quote": "Мы выехали после работы из Торонто"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Отправная точка и возвращение домой."
+        },
+        {
+          "label": "Burlington, Portsmouth, Ogunquit, Бостон, Lowell, Lexington, Newport, Plymouth, Provincetown, Berkshire",
+          "event": "visited_summary",
+          "evidence": [
+            {
+              "source_paragraph": 33,
+              "quote": "Сначала мы попали в леса штата Вермонт"
+            }
+          ],
+          "decision": "covered_in_other_chapters",
+          "reason": "Маршрутная сводка; каждый город разобран в тематической главе."
+        },
+        {
+          "label": "Гарвард",
+          "event": "ambiguous_summary",
+          "evidence": [
+            {
+              "source_paragraph": 33,
+              "quote": "мы исследовали Бостон, Гарвард, Lowell и Lexington"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "В подробной главе boston, абзац 184, прямо сказано, что ничего не увидели. Не считать вступительный перечень достаточным доказательством осмотра Гарварда."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/usa/new-england-2015/pilgrims/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Провинстаун",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 38,
+              "quote": "Provincetown (5/4/5/4/5)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "provincetown"
+          }
+        },
+        {
+          "label": "Монумент пилигримам и соседний музей",
+          "event": "visited_and_adjacent_museum",
+          "evidence": [
+            {
+              "source_paragraph": 38,
+              "quote": "И мы туда все поднялись!!!"
+            }
+          ],
+          "decision": "revise_existing_definition",
+          "target": {
+            "attraction": "provincetown--monument-piligrimam"
+          },
+          "reason": "Официально единый комплекс Pilgrim Monument and Provincetown Museum. Подъём подтверждён; отдельное посещение музея в тексте не сформулировано. Тип museum описывает комплекс, а не доказывает вход в музей."
+        },
+        {
+          "label": "Музей пиратов",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 45,
+              "quote": "дети сходили в музей пиратов вдвоем"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "provincetown--muzey-piratov"
+          },
+          "reason": "Посещение остальных членов семьи не утверждается.",
+          "participants": [
+            "Наташа",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Плимут",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 57,
+              "quote": "В этот город мы и отправились на следующий день"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "plymouth"
+          }
+        },
+        {
+          "label": "Plimoth Plantation",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 57,
+              "quote": "Plantation (5+/5+/4/4/3)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "plimoth-plantation"
+          },
+          "reason": "Единый музейный комплекс; внутренние объекты отдельно не перечисляются."
+        },
+        {
+          "label": "Mayflower II",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 77,
+              "quote": "Mayflower II"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "mayflower-ii"
+          }
+        },
+        {
+          "label": "Вирджиния, Англия, Голландия, Европа",
+          "event": "historical_context",
+          "evidence": [
+            {
+              "source_paragraph": 38,
+              "quote": "Они направлялись в Вирджинию"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "История пилигримов; не маршрут семьи в этой главе."
+        },
+        {
+          "label": "Португальское кафе",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 45,
+              "quote": "мы зашли в португальскую и съели очень вкусные пирожные"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Название отсутствует; не идентифицируется по предположению."
+        },
+        {
+          "label": "Городские здания и храм Плимута",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "pilgrims/DSC04384.JPG"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Городская прогулка подтверждена; названия красного здания и храма DSC04385.JPG не установлены."
+          }
+        },
+        {
+          "label": "Портик у набережной Плимута",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "pilgrims/DSC04380.JPG"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Портик виден на семейном кадре городской прогулки; объект под ним не показан, название не угадано."
+          }
+        }
+      ]
+    },
+    {
+      "file": "content/americas/usa/new-england-2015/settlement/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Портсмут",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 101,
+              "quote": "Portsmouth, NH"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "portsmouth"
+          }
+        },
+        {
+          "label": "Strawbery Banke",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 101,
+              "quote": "после посещения музея"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "strawbery-banke"
+          }
+        },
+        {
+          "label": "Оганквит",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 122,
+              "quote": "Ogunquit, ME"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "ogunquit"
+          }
+        },
+        {
+          "label": "Пляж Оганквит",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 122,
+              "quote": "Мы правда только ножки помочили"
+            },
+            {
+              "photo": "settlement/20150813_191210.jpg"
+            }
+          ],
+          "decision": "add",
+          "reason": "Посещение подтверждено рассказом, имя читается на собственной фотографии.",
+          "target": {
+            "attraction": "ogunquit--ogunquit-beach"
+          }
+        },
+        {
+          "label": "Ресторан с лобстерами",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 122,
+              "quote": "лобстера съела я одна"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён."
+        },
+        {
+          "label": "Берлингтон",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 131,
+              "quote": "Burlington, VT"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "burlington"
+          }
+        },
+        {
+          "label": "Озеро у Берлингтона",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 131,
+              "quote": "на берегу большого озера"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Собственное название в тексте не дано."
+        },
+        {
+          "label": "Университет Берлингтона",
+          "event": "mentioned",
+          "evidence": [
+            {
+              "source_paragraph": 131,
+              "quote": "даже университет есть"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Не описаны ни посещение, ни внешний осмотр университета."
+        },
+        {
+          "label": "Шоколадная фабрика",
+          "event": "cancelled_plan",
+          "evidence": [
+            {
+              "source_paragraph": 131,
+              "quote": "но мы решили что не в этот раз"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Экскурсия не состоялась. Точное предприятие не названо."
+        },
+        {
+          "label": "Здание с колоннами в Берлингтоне",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "settlement/DSC04287.JPG"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Название на контактном листе не прочитано; само по себе здание не подтверждает посещение университета."
+          }
+        }
+      ]
+    },
+    {
+      "file": "content/americas/usa/new-england-2015/boston/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Бостон",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 143,
+              "quote": "Бостон"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "boston"
+          }
+        },
+        {
+          "label": "Гарвард",
+          "event": "unrealized_view",
+          "evidence": [
+            {
+              "source_paragraph": 184,
+              "quote": "хотели хоть одним глазком на Гарвард посмотреть, но как-то ничего не увидели"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Проезд по Кембриджу не подтверждает осмотр университета."
+        },
+        {
+          "label": "Массачусетский технологический институт",
+          "event": "mentioned",
+          "evidence": [
+            {
+              "source_paragraph": 143,
+              "quote": "Массачусетский Технологический"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Перечисление университетов региона, посещение не описано."
+        },
+        {
+          "label": "Кембридж (Массачусетс)",
+          "event": "transit",
+          "evidence": [
+            {
+              "source_paragraph": 184,
+              "quote": "мы проехали по Кембриджу"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Сам проезд подтверждён, осмотр не описан. Не путать с существующим cambridge в Англии."
+        },
+        {
+          "label": "Тропа Свободы",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 149,
+              "quote": "Мы так и прошли, читая надписи"
+            }
+          ],
+          "decision": "add",
+          "reason": "Описание краснокирпичного маршрута сопоставлено с официальным описанием Freedom Trail; подтверждены отдельные остановки фотографиями. Не утверждается прохождение всех 16 остановок.",
+          "target": {
+            "attraction": "boston--freedom-trail"
+          }
+        },
+        {
+          "label": "Первая государственная школа, первый городской парк, балкон чтения декларации",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 157,
+              "quote": "Вот тут первая государственная школа в США"
+            }
+          ],
+          "decision": "pending_photo_identification",
+          "reason": "Конкретные объекты городского осмотра не названы; не выбирать школу или здание по одному историческому описанию."
+        },
+        {
+          "label": "Метро Бостона",
+          "event": "mentioned",
+          "evidence": [
+            {
+              "source_paragraph": 157,
+              "quote": "Самое первое метро тоже в Бостоне построили"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Историческая справка; поездка в метро не описана."
+        },
+        {
+          "label": "Музей изобразительного искусства Бостона",
+          "event": "cancelled_plan",
+          "evidence": [
+            {
+              "source_paragraph": 165,
+              "quote": "мы туда не  дошли"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Прямо сказано, что не посетили."
+        },
+        {
+          "label": "Музей науки Бостона",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 165,
+              "quote": "детском музее Науки"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "boston--muzey-nauki-bostona"
+          },
+          "reason": "Оценки музея и выставки различаются; прочерк в отдельной оценке не доказывает отсутствия участника."
+        },
+        {
+          "label": "Выставка Pixar",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 165,
+              "quote": "Мои дети даже там свой мультик"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "boston--muzey-nauki-bostona"
+          },
+          "reason": "Временная выставка внутри посещённого музея; не отдельное учреждение."
+        },
+        {
+          "label": "West End",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 181,
+              "quote": "через довольно непримечательный район - West End"
+            }
+          ],
+          "decision": "add",
+          "reason": "Пеший осмотр района подтверждён; существующая метка музея не равна географической метке района.",
+          "target": {
+            "attraction": "boston--west-end"
+          }
+        },
+        {
+          "label": "Музей Вест-Энда",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 181,
+              "quote": "Зашли и “попали”"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "boston--muzey-vest-enda"
+          }
+        },
+        {
+          "label": "Общественный сад Бостона",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "boston/20150814_094639.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены.",
+          "identification_source": "https://www.boston.gov/parks/public-garden"
+        },
+        {
+          "label": "Капитолий Массачусетса",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "boston/20150814_105125.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "identification_source": "https://www.thefreedomtrail.org/trail-sites/massachusetts-state-house",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "boston--massachusetts-state-house"
+            },
+            "reason": "На снимке семья перед узнаваемым фасадом с золотым куполом; это внешний осмотр, вход не подтверждён."
+          }
+        },
+        {
+          "label": "Старый Капитолий Бостона",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "boston/20150814_120252.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "identification_source": "https://www.thefreedomtrail.org/trail-sites/old-state-house",
+          "prior_photo_interpretation": {
+            "decision": "add",
+            "target": {
+              "attraction": "boston--old-state-house"
+            },
+            "reason": "Здание опознано по собственному снимку; официальная страница подтверждает имя и музейную функцию. Подтверждён внешний осмотр, вход в музей не описан."
+          }
+        },
+        {
+          "label": "Часовая башня на городских фотографиях",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "boston/20150814_120047.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: объект не описан в рассказе; отдельный видимый фасад, фон или деталь не является основанием для самостоятельной точки или вопроса. Снимок остаётся в исходных материалах.",
+          "prior_photo_interpretation": {
+            "decision": "pending_identification",
+            "reason": "Название на снимке не читается. Не подставлено имя по одному силуэту."
+          }
+        }
+      ]
+    },
+    {
+      "file": "content/americas/usa/new-england-2015/american-revolution/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Лексингтон",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 191,
+              "quote": "Lexington, куда мы и отправились на экскурсию"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "lexington"
+          }
+        },
+        {
+          "label": "Liberty Ride",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 191,
+              "quote": "Liberty ride (2/3/2/2/5)"
+            }
+          ],
+          "decision": "add",
+          "reason": "Состоявшаяся экскурсия с индивидуальными оценками; сохранить как экскурсионный маршрут, не как музей.",
+          "target": {
+            "attraction": "lexington--liberty-ride"
+          }
+        },
+        {
+          "label": "Бостон",
+          "event": "historical_context",
+          "evidence": [
+            {
+              "source_paragraph": 191,
+              "quote": "революционной движение зародилось в Бостоне"
+            }
+          ],
+          "decision": "covered_in_other_chapter",
+          "reason": "Исторический контекст, собственный визит описан в boston."
+        },
+        {
+          "label": "Зимний дворец",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 191,
+              "quote": "весь “штурм Зимнего”"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Ироническое сравнение; не место маршрута США."
+        },
+        {
+          "label": "Северный мост, Конкорд (Массачусетс)",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "american-revolution/20150815_135422.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены.",
+          "identification_source": "https://visitconcord.org/listings/north-bridge/"
+        }
+      ]
+    },
+    {
+      "file": "content/americas/usa/new-england-2015/industrial-revolution/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Лоуэлл",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 209,
+              "quote": "Lowell, центр текстильной промышленности"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "lowell"
+          }
+        },
+        {
+          "label": "Музей текстильной промышленности Лоуэлла",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 212,
+              "quote": "вся фабрика сейчас это национальный музей"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "lowell--natsionalnyy-istoricheskiy-park-louella"
+          },
+          "reason": "Цеха и экспозиции не получают отдельных меток."
+        },
+        {
+          "label": "Спрингфилд",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 233,
+              "quote": "мы заехали в другой городок с очень похожей историей"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "springfield"
+          }
+        },
+        {
+          "label": "Музей Спрингфилдского арсенала",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 236,
+              "quote": "нам рассказали про американскую оружейную промышленность"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "springfield--muzey-springfildskogo-arsenala"
+          }
+        },
+        {
+          "label": "Бостон, Европа, Китай, юг США",
+          "event": "historical_context",
+          "evidence": [
+            {
+              "source_paragraph": 231,
+              "quote": "производство из района Бостона"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Объяснение промышленной истории, не новые посещения."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/usa/new-england-2015/gilded-age/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Ньюпорт",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 291,
+              "quote": "С удовольствием мы посетили Ньюпорт"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "newport"
+          }
+        },
+        {
+          "label": "The Breakers",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 259,
+              "quote": "The Breakers"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "the-breakers"
+          },
+          "reason": "Сад, пляж и внутренние помещения покрыты одним объектом."
+        },
+        {
+          "label": "The Elms",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 276,
+              "quote": "The Elms"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "the-elms"
+          }
+        },
+        {
+          "label": "Генуя, Турин, Chateau d’Аньер",
+          "event": "architectural_reference",
+          "evidence": [
+            {
+              "source_paragraph": 259,
+              "quote": "образцы итальянских дворцов в Генуе и Турине"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Архитектурные образцы; во Франции и Италии в этой главе не были."
+        },
+        {
+          "label": "Другие особняки Ньюпорта",
+          "event": "not_visited",
+          "evidence": [
+            {
+              "source_paragraph": 258,
+              "quote": "Мы посетили два из них"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Число музеев организации не означает посещения всех десяти особняков."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/usa/new-england-2015/cultural-heritage/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Беркшир",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 296,
+              "quote": "The Berkshires"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "berkshires"
+          }
+        },
+        {
+          "label": "Tanglewood",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 297,
+              "quote": "Мы попали на концерт"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "tanglewood"
+          }
+        },
+        {
+          "label": "The Clark",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 313,
+              "quote": "The Clark"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "the-clark"
+          },
+          "reason": "Выставка и коллекции составляют посещение одного музея."
+        },
+        {
+          "label": "Выставка Ван Гога",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 318,
+              "quote": "Мы еще попали на"
+            }
+          ],
+          "decision": "covered_by_museum",
+          "target": {
+            "attraction": "the-clark"
+          },
+          "reason": "Временная выставка внутри The Clark, отдельное учреждение не создаётся."
+        },
+        {
+          "label": "Kröller-Müller Museum",
+          "event": "loan_source_and_other_trip",
+          "evidence": [
+            {
+              "source_paragraph": 318,
+              "quote": "И из Kröller-Müller Museum, который особенно нам дорог теперь, тоже"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Музей-кредитор выставки и отсылка к другой поездке; не посещение в Новой Англии."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_explicit_identification_questions",
+    "new_attractions": [
+      "cape-cod--covells-beach",
+      "ogunquit--ogunquit-beach",
+      "boston--public-garden",
+      "boston--massachusetts-state-house",
+      "boston--old-state-house",
+      "boston--west-end",
+      "boston--freedom-trail",
+      "lexington--liberty-ride",
+      "concord-ma--north-bridge"
+    ],
+    "questions": [
+      "Театр и маяки Кейп-Кода",
+      "Объекты прогулки по Бостону",
+      "Музей рядом с монументом: учреждение установлено по официальному сайту, отдельный вход семьи в музей прямо не подтверждён.",
+      "Городские здания и храм Плимута, портик у набережной, часовая башня Бостона и здание с колоннами в Берлингтоне требуют идентификации.",
+      "В рассказе назван первый городской парк Бостона; фотография с читаемой вывеской показывает другой парк — Public Garden. Эти основания не объединяются.",
+      "Официальное имя озера у Берлингтона, студенческого театра и маяков в тексте не дано."
+    ],
+    "external_sources": [
+      {
+        "url": "https://www.pilgrim-monument.org/",
+        "purpose": "Имя и единство комплекса монумента и музея, не доказательство семейного визита."
+      },
+      {
+        "url": "https://www.mos.org/visit/exhibits/touring/science-behind-pixar",
+        "purpose": "Выставка Pixar создана Музеем науки; открыта летом 2015. Не самостоятельный музей."
+      },
+      {
+        "url": "https://visitconcord.org/listings/north-bridge/",
+        "purpose": "Муниципальный туристический ресурс: мост, памятники и могила британских солдат находятся в Конкорде, Массачусетс."
+      },
+      {
+        "url": "https://home.nps.gov/places/grave-of-british-soldiers-at-the-north-bridge.htm",
+        "purpose": "Сопоставление могилы на собственной фотографии с официальным изображением NPS."
+      },
+      {
+        "url": "https://www.boston.gov/parks/public-garden",
+        "purpose": "Различение Public Garden и Boston Common."
+      },
+      {
+        "url": "https://www.thefreedomtrail.org/trail-sites/massachusetts-state-house",
+        "purpose": "Имя здания на семейном фото."
+      },
+      {
+        "url": "https://www.thefreedomtrail.org/trail-sites/old-state-house",
+        "purpose": "Имя здания, музейная функция; семейный вход не подтверждается."
+      },
+      {
+        "url": "https://www.meetboston.com/things-to-do/sightseeing-and-tours/walking-tours/the-freedom-trail/",
+        "purpose": "Название краснокирпичного маршрута."
+      }
+    ],
+    "geography_added": [
+      "concord-massachusetts"
+    ],
+    "repeat_check": "Повторно сопоставлены все самостоятельные объекты текста и текущих фотографий с places/attractions восьми глав. Девять новых объектов получили данные и привязки; один музейный комплекс уточнён в существующей записи. У каждого другого обнаруженного объекта оставлена связь, причина исключения либо явный вопрос идентификации. Незнакомые названия не угадывались.",
+    "photo_scope": "Рассказ — основное основание. Фото учитываются только как редкое исключение: большая серия в самой главе явно заменяет рассказ о месте и позволяет читателю понять, где оно показано. Количество неопубликованных оригиналов и отдельные виды не обосновывают точку. Неназванные детали не превращаются в вопросы."
+  }
+}

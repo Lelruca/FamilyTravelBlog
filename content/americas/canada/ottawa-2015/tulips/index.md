@@ -8,6 +8,7 @@ layout: "photo-story"
 city: "Оттава"
 places: ["ottawa"]
 auto_gallery: false
+attractions: ["ottawa--canadian-tulip-festival","ottawa--commissioners-park","ottawa--dows-lake"]
 ---
 
 <p>Вот почему я люблю путешествовать, так потому что даже простые выходные можно превратить в незабываемый отпуск полный впечатлений и вернувшись домой помотреть на мир новым взглядом :-) Происходит полная перезагрузка!</p>

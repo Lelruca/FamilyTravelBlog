@@ -8,6 +8,7 @@ layout: "photo-story"
 city: "Atlantic City"
 places: ["atlantic-city"]
 auto_gallery: false
+attractions: ["atlantic-city--beach","atlantic-city--boardwalk"]
 ---
 
 <p>Я поняла почему я все реже и реже в журнал пишу! Изменилась жизнь! Раньше текст был главным, а теперь фото. А пока фото разберешь, поместишь куда-нибудь... уже и писать некогда. Поэтому буду пробовать писать без картинок. Может поможет :-)</p>

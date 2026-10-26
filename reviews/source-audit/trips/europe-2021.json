@@ -1,0 +1,990 @@
+{
+  "trip_path": "content/europe/france/europe-2021",
+  "status": "text_audit_complete_photo_story_scope_limited",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 169,
+    "record_indices": [
+      169,
+      168,
+      167
+    ],
+    "additional_files": [
+      {
+        "path": "media-manifests/europe-2021.json",
+        "sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42"
+      }
+    ],
+    "read": "Три полных исходных поста, все тринадцать авторских подписей и все семнадцать текущих глав прочитаны. У четырнадцати глав исходный реестр прямо отмечает without_post: авторского рассказа там нет, этот факт не скрыт за словом «прочитано»."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/europe-2021.json",
+    "method": "Только основные самостоятельные музейные/дворцовые эпизоды четырнадцати фотоисторий, всего 32 представителя. Не все 500+ снимков и не каждая фоновая деталь. Неназванные места не атрибутированы по виду.",
+    "scoped_blocks": [
+      {
+        "chapter": "nice",
+        "object": "Основная фотоистория главы и проверка избыточных привязок",
+        "reviewed": [
+          "nice/20210726_155511.jpg"
+        ],
+        "scope": "Просмотрены только указанные представители больших блоков. Весь фотоархив и все отдельные предметы проверенными не объявлены."
+      },
+      {
+        "chapter": "antibes",
+        "object": "Основная фотоистория главы и проверка избыточных привязок",
+        "reviewed": [
+          "antibes/20210727_113751.jpg"
+        ],
+        "scope": "Просмотрены только указанные представители больших блоков. Весь фотоархив и все отдельные предметы проверенными не объявлены."
+      },
+      {
+        "chapter": "marseille",
+        "object": "Основная фотоистория главы и проверка избыточных привязок",
+        "reviewed": [
+          "marseille/20210728_110827.jpg",
+          "marseille/20210728_123148.jpg",
+          "marseille/20210728_163643.jpg",
+          "marseille/20210728_135017.jpg",
+          "marseille/20210728_120853.jpg"
+        ],
+        "scope": "Просмотрены только указанные представители больших блоков. Весь фотоархив и все отдельные предметы проверенными не объявлены."
+      },
+      {
+        "chapter": "grasse",
+        "object": "Основная фотоистория главы и проверка избыточных привязок",
+        "reviewed": [
+          "grasse/20210729_143532.jpg"
+        ],
+        "scope": "Просмотрены только указанные представители больших блоков. Весь фотоархив и все отдельные предметы проверенными не объявлены."
+      },
+      {
+        "chapter": "michelin",
+        "object": "Основная фотоистория главы и проверка избыточных привязок",
+        "reviewed": [
+          "michelin/20210729_190455.jpg"
+        ],
+        "scope": "Просмотрены только указанные представители больших блоков. Весь фотоархив и все отдельные предметы проверенными не объявлены."
+      },
+      {
+        "chapter": "dacha",
+        "object": "Основная фотоистория главы и проверка избыточных привязок",
+        "reviewed": [
+          "dacha/20210801_225955.jpg"
+        ],
+        "scope": "Просмотрены только указанные представители больших блоков. Весь фотоархив и все отдельные предметы проверенными не объявлены."
+      },
+      {
+        "chapter": "nice-museums",
+        "object": "Основная фотоистория главы и проверка избыточных привязок",
+        "reviewed": [
+          "nice-museums/20210731_144054.jpg",
+          "nice-museums/20210731_181800.jpg",
+          "nice-museums/20210731_151244.jpg",
+          "nice-museums/20210731_125946.jpg"
+        ],
+        "scope": "Просмотрены только указанные представители больших блоков. Весь фотоархив и все отдельные предметы проверенными не объявлены."
+      },
+      {
+        "chapter": "cannes",
+        "object": "Основная фотоистория главы и проверка избыточных привязок",
+        "reviewed": [
+          "cannes/20210802_155713.jpg"
+        ],
+        "scope": "Просмотрены только указанные представители больших блоков. Весь фотоархив и все отдельные предметы проверенными не объявлены."
+      },
+      {
+        "chapter": "milan-duomo",
+        "object": "Основная фотоистория главы и проверка избыточных привязок",
+        "reviewed": [
+          "milan-duomo/20210803_154452.jpg",
+          "milan-duomo/20210803_175437.jpg",
+          "milan-duomo/20210803_191828.jpg"
+        ],
+        "scope": "Просмотрены только указанные представители больших блоков. Весь фотоархив и все отдельные предметы проверенными не объявлены."
+      },
+      {
+        "chapter": "milan-brera",
+        "object": "Основная фотоистория главы и проверка избыточных привязок",
+        "reviewed": [
+          "milan-brera/20210804_125118.jpg",
+          "milan-brera/20210804_200232.jpg",
+          "milan-brera/20210804_144721.jpg"
+        ],
+        "scope": "Просмотрены только указанные представители больших блоков. Весь фотоархив и все отдельные предметы проверенными не объявлены."
+      },
+      {
+        "chapter": "turin-palace",
+        "object": "Основная фотоистория главы и проверка избыточных привязок",
+        "reviewed": [
+          "turin-palace/20210805_143129.jpg",
+          "turin-palace/20210805_173307.jpg"
+        ],
+        "scope": "Просмотрены только указанные представители больших блоков. Весь фотоархив и все отдельные предметы проверенными не объявлены."
+      },
+      {
+        "chapter": "turin-squares",
+        "object": "Основная фотоистория главы и проверка избыточных привязок",
+        "reviewed": [
+          "turin-squares/20210806_100413.jpg"
+        ],
+        "scope": "Просмотрены только указанные представители больших блоков. Весь фотоархив и все отдельные предметы проверенными не объявлены."
+      },
+      {
+        "chapter": "paris-montmartre",
+        "object": "Основная фотоистория главы и проверка избыточных привязок",
+        "reviewed": [
+          "paris-montmartre/20210808_134803.jpg",
+          "paris-montmartre/20210808_173422.jpg",
+          "paris-montmartre/20210808_145345.jpg",
+          "paris-montmartre/20210808_155207.jpg",
+          "paris-montmartre/20210808_211536.jpg"
+        ],
+        "scope": "Просмотрены только указанные представители больших блоков. Весь фотоархив и все отдельные предметы проверенными не объявлены."
+      },
+      {
+        "chapter": "paris-louvre",
+        "object": "Основная фотоистория главы и проверка избыточных привязок",
+        "reviewed": [
+          "paris-louvre/20210809_092519.jpg",
+          "paris-louvre/20210809_141837.jpg",
+          "paris-louvre/20210809_095853.jpg"
+        ],
+        "scope": "Просмотрены только указанные представители больших блоков. Весь фотоархив и все отдельные предметы проверенными не объявлены."
+      },
+      {
+        "chapter": "provence",
+        "object": "Определение Сен-Поль-де-Ванса по поручению владельца",
+        "reviewed": [
+          "provence/20210725_185946.jpg",
+          "provence/20210725_190652.jpg",
+          "provence/20210725_191401.jpg"
+        ],
+        "scope": "Три представителя самостоятельной серии городка; фонтан, заведение и фасады не становятся отдельными местами."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "file": "content/europe/france/europe-2021/road-south/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава и полный исходный пост со всеми подписями прочитаны.",
+      "objects": [
+        {
+          "label": "Париж — прилёт и прокат автомобиля",
+          "event": "arrival_transit",
+          "evidence": [
+            {
+              "source_record_index": 169,
+              "source_paragraph": 1,
+              "quote": "прямой перелёт до Парижа, а дальше на машине на юг."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "paris"
+          },
+          "reason": "В этой главе только прибытие, без музейных посещений. Торонто — отправление; планируемый южный отдых заменён Европой.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/avignon/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава и полный исходный пост со всеми подписями прочитаны.",
+      "objects": [
+        {
+          "label": "Авиньон",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 168,
+              "source_paragraph": 0,
+              "quote": "Сегодня мы побывали в городе Avignon."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "avignon"
+          },
+          "reason": "Реальный заезд, городская прогулка и посещение дворца.",
+          "participants": null
+        },
+        {
+          "label": "Папский дворец",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 168,
+              "source_paragraph": 3,
+              "quote": "В самом папском дворце мы столкнулись с новыми технологиями"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "palais-des-papes"
+          },
+          "reason": "Вошли, несмотря на пробку и забытые в машине бумаги; музейный тур с планшетом состоялся.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/provence/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся глава и полный исходный пост со всеми подписями прочитаны.",
+      "objects": [
+        {
+          "label": "Прованс — у родственников и прогулка по городку",
+          "event": "private_stay_and_village_walk",
+          "evidence": [
+            {
+              "source_record_index": 167,
+              "source_paragraph": 0,
+              "quote": "пригласили нас погостить у них в Провансе, недалеко от Канн."
+            }
+          ],
+          "decision": "covered_by_trip",
+          "reason": "Рассказ о частном отдыхе у родных и вечерней прогулке. Сам дом не достопримечательность. Городок отдельно подтверждён по фотографиям как Сен-Поль-де-Ванс 26.10.2026; добавлена отдельная географическая связь.",
+          "participants": null
+        },
+        {
+          "label": "Сен-Поль-де-Ванс",
+          "event": "village_walk",
+          "decision": "retain",
+          "target": {
+            "places": "saint-paul-de-vence"
+          },
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 167,
+              "source_paragraph": 0,
+              "quote": "А вечером прогулка по настоящему провенскому городку"
+            },
+            {
+              "photo": "provence/20210725_185946.jpg",
+              "observation": "Grande Fontaine: дата 1850 на каменной урне, круглый бассейн и две сводчатые арки прачечной позади. Сопоставлено с официальным турофисом Сен-Поль-де-Ванса."
+            },
+            {
+              "photo": "provence/20210725_190652.jpg",
+              "observation": "Улица каменного старого городка, дополнительный кадр той же самостоятельной серии."
+            }
+          ],
+          "reason": "По прямому поручению владельца городок определён по большой серии. Узнаваемый фонтан и арочная прачечная совпадают с официальным описанием: https://www.saint-pauldevence.com/fiches/monuments/la-place-de-la-grande-fontaine/ и https://www.saint-pauldevence.com/pour-les-enseignants-scolaires/remontez-le-temps-2/. Фонтан и Hostellerie не отдельные точки."
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/nice/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся страница и исходная запись без поста прочитаны; крупные самостоятельные эпизоды просмотрены точечно, без восстановления несуществующего авторского текста.",
+      "objects": [
+        {
+          "label": "Ницца и Английская набережная",
+          "event": "coastal_walk",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.3.title",
+              "quote": "Ницца"
+            },
+            {
+              "photo": "nice/20210726_155511.jpg",
+              "observation": "Большая прибрежная серия: семья у галечного пляжа и набережной."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "promenade-des-anglais"
+          },
+          "reason": "Десятикадровая городская фотоглава, основная серия у набережной; точные пляжные заведения не определяются.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/antibes/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся страница и исходная запись без поста прочитаны; крупные самостоятельные эпизоды просмотрены точечно, без восстановления несуществующего авторского текста.",
+      "objects": [
+        {
+          "label": "Антиб и музей Пикассо",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.4.title",
+              "quote": "Антиб и музей Пикассо"
+            },
+            {
+              "photo": "antibes/20210727_113751.jpg",
+              "observation": "Скульптура и живопись Пикассо внутри музея, представитель большой музейной серии."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "musee-picasso-antibes"
+          },
+          "reason": "Самостоятельная музейная фотоистория, а не узнавание художника на случайной стене.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/marseille/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся страница и исходная запись без поста прочитаны; крупные самостоятельные эпизоды просмотрены точечно, без восстановления несуществующего авторского текста.",
+      "objects": [
+        {
+          "label": "Марсель",
+          "event": "city_walk",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.5.title",
+              "quote": "Марсель"
+            },
+            {
+              "photo": "marseille/20210728_135017.jpg",
+              "observation": "Городская ратуша на прогулке по Старому порту, отдельной точкой не добавлена."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "marseille"
+          },
+          "reason": "Общая фотоглава города; новые названия каждому форту и фасаду не приписаны.",
+          "participants": null
+        },
+        {
+          "label": "Марсельский собор Ла-Мажор",
+          "event": "exterior_visit",
+          "evidence": [
+            {
+              "photo": "marseille/20210728_120853.jpg",
+              "observation": "Характерный фасад и купола собора, представитель отдельной серии возле храма."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "cathedrale-major-marseille"
+          },
+          "reason": "Сохранён внешний осмотр; вход внутрь по проверенному наружному кадру не утверждается.",
+          "participants": null
+        },
+        {
+          "label": "Замок Иф",
+          "event": "visited_fort",
+          "evidence": [
+            {
+              "photo": "marseille/20210728_163643.jpg",
+              "observation": "Море и островные укрепления с открытой террасы форта; самостоятельная островная серия."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "chateau-d-if"
+          },
+          "reason": "Крупный фотоэпизод островного форта. Не перепутан с ранними городскими укреплениями у Старого порта.",
+          "participants": null
+        },
+        {
+          "label": "Нотр-Дам-де-ла-Гард",
+          "event": "distant_background",
+          "evidence": [
+            {
+              "photo": "marseille/20210728_123148.jpg",
+              "observation": "Базилика видна далеко на холме за портом."
+            }
+          ],
+          "decision": "remove_incidental_link",
+          "reason": "Нет рассказа и самостоятельной серии у базилики; дальний городской силуэт не посещение. Прежняя метка удалена.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/grasse/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся страница и исходная запись без поста прочитаны; крупные самостоятельные эпизоды просмотрены точечно, без восстановления несуществующего авторского текста.",
+      "objects": [
+        {
+          "label": "Грас",
+          "event": "city_walk",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.6.title",
+              "quote": "Грас"
+            },
+            {
+              "photo": "grasse/20210729_143532.jpg",
+              "observation": "Семейный кадр в старых переулках Граса."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "grasse"
+          },
+          "reason": "Городская фотоглава; конкретные парфюмерные музеи и фабрики по общему определению «город парфюмеров» не добавляются.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/michelin/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся страница и исходная запись без поста прочитаны; крупные самостоятельные эпизоды просмотрены точечно, без восстановления несуществующего авторского текста.",
+      "objects": [
+        {
+          "label": "Ужин в ресторане",
+          "event": "meal_venue_unspecified",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.7.title",
+              "quote": "Ужин со звездой Мишлен"
+            },
+            {
+              "photo": "michelin/20210729_190455.jpg",
+              "observation": "Участники у накрытого ресторанного стола на панорамной террасе."
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/dacha/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся страница и исходная запись без поста прочитаны; крупные самостоятельные эпизоды просмотрены точечно, без восстановления несуществующего авторского текста.",
+      "objects": [
+        {
+          "label": "Дачные дни у родственников",
+          "event": "private_family_life",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.8.title",
+              "quote": "Дачные дни"
+            },
+            {
+              "photo": "dacha/20210801_225955.jpg",
+              "observation": "Семейное общение в частной гостиной."
+            }
+          ],
+          "decision": "remove_unfounded_city_visit",
+          "reason": "Личная жизнь не самостоятельная туристическая точка; метка Ниццы с этой главы снята, городской осмотр ею не подтверждается.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/nice-museums/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся страница и исходная запись без поста прочитаны; крупные самостоятельные эпизоды просмотрены точечно, без восстановления несуществующего авторского текста.",
+      "objects": [
+        {
+          "label": "Музей Матисса",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.9.title",
+              "quote": "Ницца - Матисс и Шагал"
+            },
+            {
+              "photo": "nice-museums/20210731_125946.jpg",
+              "observation": "Работа Матисса внутри музейного пространства в первой части специально названной музейной главы."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "musee-matisse-nice"
+          },
+          "reason": "Отдельный музейный эпизод в главе о двух художниках. Картины не отдельные достопримечательности.",
+          "participants": null
+        },
+        {
+          "label": "Музей Шагала",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.9.title",
+              "quote": "Ницца - Матисс и Шагал"
+            },
+            {
+              "photo": "nice-museums/20210731_144054.jpg",
+              "observation": "Мозаика Шагала, представитель музейной серии."
+            },
+            {
+              "photo": "nice-museums/20210731_151244.jpg",
+              "observation": "Семейный кадр внутри залов с Библейским посланием Шагала."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "musee-chagall-nice"
+          },
+          "reason": "Большая самостоятельная серия внутри музея; не только внешний фасад.",
+          "participants": null
+        },
+        {
+          "label": "Вечерняя Ницца, набережная и памятники",
+          "event": "city_walk_detail",
+          "evidence": [
+            {
+              "photo": "nice-museums/20210731_181800.jpg",
+              "observation": "Памятник Массена в городской прогулке после музеев; не добавлен отдельным объектом."
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Поздние городские кадры не новый подробный рассказ об отдельной набережной: её привязка с этой музейной главы снята, сохранена в самостоятельной главе Ниццы.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/cannes/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся страница и исходная запись без поста прочитаны; крупные самостоятельные эпизоды просмотрены точечно, без восстановления несуществующего авторского текста.",
+      "objects": [
+        {
+          "label": "Канны",
+          "event": "city_walk",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.10.title",
+              "quote": "Канны"
+            },
+            {
+              "photo": "cannes/20210802_155713.jpg",
+              "observation": "Городской кадр улицы и озеленения."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "cannes"
+          },
+          "reason": "Отдельная городская фотоглава; случайные фасады не отдельные точки.",
+          "participants": null
+        },
+        {
+          "label": "Дворец фестивалей",
+          "event": "unexplained_photo_detail",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.10.title",
+              "quote": "Канны"
+            }
+          ],
+          "decision": "remove_incidental_link",
+          "reason": "Не назван в рассказе и не составляет отдельной основной фотоистории главы. Метка снята; фестиваль, экскурсия и кинопоказ не приписаны.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/milan-duomo/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся страница и исходная запись без поста прочитаны; крупные самостоятельные эпизоды просмотрены точечно, без восстановления несуществующего авторского текста.",
+      "objects": [
+        {
+          "label": "Миланский Дуомо — террасы",
+          "event": "visited_rooftop_terraces",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.11.title",
+              "quote": "Милан - Дуомо и замок Сфорца"
+            },
+            {
+              "photo": "milan-duomo/20210803_154452.jpg",
+              "observation": "Гаргульи и архитектура с уровня террас Дуомо, часть большой серии наверху."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "duomo-milano"
+          },
+          "reason": "Подтверждены террасы; не заявляется автоматический вход во все музеи комплекса.",
+          "participants": null
+        },
+        {
+          "label": "Замок Сфорца",
+          "event": "exterior_and_park",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.11.title",
+              "quote": "Милан - Дуомо и замок Сфорца"
+            },
+            {
+              "photo": "milan-duomo/20210803_191828.jpg",
+              "observation": "Вид замка через парковый пруд, отдельная вечерняя серия."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "castello-sforzesco"
+          },
+          "reason": "В этой главе внешний осмотр и парк, музейный визит подтверждается другой главой.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/milan-brera/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся страница и исходная запись без поста прочитаны; крупные самостоятельные эпизоды просмотрены точечно, без восстановления несуществующего авторского текста.",
+      "objects": [
+        {
+          "label": "Пинакотека Брера",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.12.title",
+              "quote": "Милан - Брера и ночной Дуомо"
+            },
+            {
+              "photo": "milan-brera/20210804_125118.jpg",
+              "observation": "Франческо Айец, «Поцелуй», внутри большой серии Бреры."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "pinacoteca-brera"
+          },
+          "reason": "Самостоятельный музейный блок, не отдельная точка каждой картины.",
+          "participants": null
+        },
+        {
+          "label": "Музеи замка Сфорца",
+          "event": "entered_castle_museum",
+          "evidence": [
+            {
+              "photo": "milan-brera/20210804_144721.jpg",
+              "observation": "Исторический клавишный инструмент в музейной серии после Бреры."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "castello-sforzesco"
+          },
+          "reason": "Существующая музейная привязка сохранена для самостоятельного блока коллекций; отдельный музей на каждый предмет не создан.",
+          "participants": null
+        },
+        {
+          "label": "Ночной Дуомо",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.12.title",
+              "quote": "Милан - Брера и ночной Дуомо"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "duomo-milano"
+          },
+          "reason": "Ночной наружный эпизод прямо вынесен в название главы, не новый подъём на крышу.",
+          "participants": null
+        },
+        {
+          "label": "Шопинг",
+          "event": "private_shopping",
+          "evidence": [
+            {
+              "photo": "milan-brera/20210804_200232.jpg",
+              "observation": "Семейный кадр после покупки сумок."
+            }
+          ],
+          "decision": "exclude_as_sightseeing",
+          "reason": "Магазины на фоне и бренды не достопримечательности.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/turin-palace/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся страница и исходная запись без поста прочитаны; крупные самостоятельные эпизоды просмотрены точечно, без восстановления несуществующего авторского текста.",
+      "objects": [
+        {
+          "label": "Королевский дворец Турина",
+          "event": "entered_museum_complex",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.13.title",
+              "quote": "Турин - дворец и Моле"
+            },
+            {
+              "photo": "turin-palace/20210805_143129.jpg",
+              "observation": "Зал королевской оружейной коллекции внутри дворцового комплекса."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "palazzo-reale-torino"
+          },
+          "reason": "Дворец и его коллекции — один комплекс; доспехи не новые точки.",
+          "participants": null
+        },
+        {
+          "label": "Моле-Антонеллиана — музей кино",
+          "event": "entered_cinema_museum",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.13.title",
+              "quote": "Турин - дворец и Моле"
+            },
+            {
+              "photo": "turin-palace/20210805_173307.jpg",
+              "observation": "Персонажи фантастического кино в самостоятельном музейном блоке Моле."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "mole-antonelliana"
+          },
+          "reason": "Подтверждена экспозиция кино, поэтому музейный тип должен находиться в данных Моле; подъём на смотровую отдельно не приписан.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/turin-squares/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся страница и исходная запись без поста прочитаны; крупные самостоятельные эпизоды просмотрены точечно, без восстановления несуществующего авторского текста.",
+      "objects": [
+        {
+          "label": "Турин",
+          "event": "city_walk",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.14.title",
+              "quote": "Турин - площади, церкви и дорога через Альпы"
+            },
+            {
+              "photo": "turin-squares/20210806_100413.jpg",
+              "observation": "Интерьер одного из храмов городской серии; точное имя не угадано."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "turin"
+          },
+          "reason": "Городская фотоистория с церквями; самостоятельный крупный церковный блок сохранён без вымышленного названия и вынесен в вопросы.",
+          "participants": null
+        },
+        {
+          "label": "Альпы и Осер по дороге",
+          "event": "transit_and_brief_photo",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.14.title",
+              "quote": "Турин - площади, церкви и дорога через Альпы"
+            }
+          ],
+          "decision": "remove_incidental_link",
+          "reason": "Дорожные кадры и краткий неназванный эпизод не отдельная рассказанная поездка в Осер; его метка снята.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/paris-montmartre/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся страница и исходная запись без поста прочитаны; крупные самостоятельные эпизоды просмотрены точечно, без восстановления несуществующего авторского текста.",
+      "objects": [
+        {
+          "label": "Лувр — снаружи",
+          "event": "exterior",
+          "evidence": [
+            {
+              "photo": "paris-montmartre/20210808_155207.jpg",
+              "observation": "Семейный кадр на набережной у Лувра, без музейной экспозиции."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "louvre"
+          },
+          "reason": "Наружный луврский этап прямо назван в заголовке. Внутренний музейный визит подтверждён на следующий день.",
+          "participants": null
+        },
+        {
+          "label": "Дом инвалидов — Музей армии",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "photo": "paris-montmartre/20210808_145345.jpg",
+              "observation": "Историческое многоствольное оружие и французская музейная этикетка в самостоятельном военном блоке."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "invalides"
+          },
+          "reason": "Крупный музейный блок действительно внутри; посещение не сведено к виду купола.",
+          "participants": null
+        },
+        {
+          "label": "Сакре-Кёр и Монмартр",
+          "event": "exterior_walk",
+          "evidence": [
+            {
+              "photo": "paris-montmartre/20210808_211536.jpg",
+              "observation": "Фасад базилики и лестница у неё в отдельной вечерней серии."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "sacre-coeur"
+          },
+          "reason": "Сохраняется внешний эпизод Монмартра. Внутренний вход и купол не приписаны.",
+          "participants": null
+        },
+        {
+          "label": "Музей Орсе, Эйфелева башня и Lapin Agile",
+          "event": "incidental_exteriors",
+          "evidence": [
+            {
+              "photo": "paris-montmartre/20210808_134803.jpg",
+              "observation": "Эйфелева башня видна далеко за мостом на общем виде Сены."
+            }
+          ],
+          "decision": "remove_incidental_links",
+          "reason": "Нет рассказов об этих местах и самостоятельных крупных музейных/башенных серий. Убраны ссылки на Орсе, башню и кабаре; входы и концерт не заявлены.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/europe-2021/paris-louvre/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся страница и исходная запись без поста прочитаны; крупные самостоятельные эпизоды просмотрены точечно, без восстановления несуществующего авторского текста.",
+      "objects": [
+        {
+          "label": "Сент-Шапель",
+          "event": "entered_chapel",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.16.title",
+              "quote": "Париж - Сент-Шапель и Лувр"
+            },
+            {
+              "photo": "paris-louvre/20210809_092519.jpg",
+              "observation": "Нижняя часовня, часть большой интерьерной серии Сент-Шапель."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "sainte-chapelle"
+          },
+          "reason": "Осмотр внутри подтверждён большой фотоисторией.",
+          "participants": null
+        },
+        {
+          "label": "Лувр",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.16.title",
+              "quote": "Париж - Сент-Шапель и Лувр"
+            },
+            {
+              "photo": "paris-louvre/20210809_141837.jpg",
+              "observation": "Живопись Рубенса внутри большой музейной серии Лувра."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "louvre"
+          },
+          "reason": "Продолжительный музейный блок, не только пирамида снаружи; отдельные картины не новые места.",
+          "participants": null
+        },
+        {
+          "label": "Консьержери и Нотр-Дам",
+          "event": "brief_exteriors_without_story",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-2021.json",
+              "source_sha256": "e4e6d7a5e32e907a6e1e80c624ece140bc6856c9ed785f8bcdb302ce33637e42",
+              "source_json_path": "chapters.16.title",
+              "quote": "Париж - Сент-Шапель и Лувр"
+            }
+          ],
+          "decision": "remove_incidental_links",
+          "reason": "В исходном реестре нет поста, а в названии самостоятельными названы Сент-Шапель и Лувр. Краткие наружные детали не дают основания для прежних отдельных привязок; входы не приписаны.",
+          "participants": null
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled_names_and_scope_open",
+    "questions": [],
+    "limitations": [
+      {
+        "detail": "У четырнадцати глав нет исходных авторских постов по явной пометке without_post. Их большие фотоэпизоды проверены точечно; подписи к каждому снимку и точный состав посетителей не восстанавливались по лицам. Неустановленные названия и прежние избыточные привязки отражены явно."
+      }
+    ],
+    "repeat_check": "Все семнадцать глав прочитаны с учётом отсутствия текста у четырнадцати. Сохранены основные музейные и дворцовые фотоистории: Пикассо, Матисс, Шагал, Брера, королевские музеи Турина, музей кино Моле, военный музей Дома инвалидов, Сент-Шапель и Лувр. В первом парижском дне Лувр снаружи, во втором внутри. Нотр-Дам-де-ла-Гард, Орсе, Эйфелева башня, Lapin Agile, Консьержери, Нотр-Дам Парижа и отдельные другие краткие фоновые привязки сняты. Частная дача не посещение Ниццы, неизвестные городок/ресторан/церковь вынесены в вопросы. Авторские тела глав и все фотографии сохранены. 26.10.2026 по поручению владельца Сен-Поль-де-Ванс подтверждён по Grande Fontaine 1850 и сводчатой прачечной; городская связь возвращена, вопрос снят."
+  }
+}

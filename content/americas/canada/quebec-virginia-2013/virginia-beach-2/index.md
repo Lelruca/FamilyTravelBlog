@@ -8,6 +8,7 @@ auto_gallery: false
 hero_image: "DSC00972.jpg"
 places:
   - virginia-beach
+attractions: ["virginia-beach--boardwalk","virginia-beach--oceanfront-beach"]
 ---
 <p><b><u>Океан</u></b></p>
 

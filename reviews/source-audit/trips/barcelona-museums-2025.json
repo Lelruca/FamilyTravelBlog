@@ -1,0 +1,109 @@
+{
+  "trip_path": "content/europe/spain/barcelona-museums-2025",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "kind": "facebook_profile_json",
+    "record_index": 46,
+    "timestamp": 1757818420,
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "read": "Целиком прочитан оригинальный пост Facebook и все подписи вложений, затем текущая глава и сведения о составе поездки. Служебные названия альбомов не каталогизируются."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/barcelona-museums-2025.json",
+    "method": "Решения только по авторскому рассказу и прямым содержательным подписям. Каждый снимок не рассматривается и фоновые объекты не определяются."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/spain/barcelona-museums-2025/museums/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны полностью. Части комплексов, планы и сравнения не считаются отдельными посещениями.",
+      "objects": [
+        {
+          "label": "Барселона",
+          "event": "museum_day",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "нетуристическая Барселона"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "barcelona"
+          },
+          "reason": "Только музейный день, прежние посещения всех основных музеев не переносятся в этот рассказ.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Музей музыки Барселоны",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_paragraph": 1,
+              "quote": "Музей музыкальных инструментов."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "barcelona--muzey-muzyki-barselony"
+          },
+          "reason": "Прямой рассказ о коллекции; детская комната и инструменты — части музея.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Музей дизайна Барселоны",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_paragraph": 3,
+              "quote": "Второй музей - дизайна"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "barcelona--muzey-dizayna-barselony"
+          },
+          "reason": "Развёрнутое описание четырёх этажей и экологической экспозиции; ни этаж, ни стенд не отдельная точка.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Станция метро с кактусами",
+          "event": "incidental_description",
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "станция метро оформленная кактусами"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Без названия и отдельного рассказа, не создаётся объект по снимку.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled",
+    "questions": [],
+    "repeat_check": "Сопоставлены все названные места рассказа и подписи. Отдельные экспонаты и внутренние части комплексов не добавлены. Несостоявшийся музей кавы исключён, службы и поездки отдельных членов группы учтены отдельно."
+  }
+}

@@ -5,6 +5,7 @@ layout: "photo-story"
 weight: 50
 city: "Албуфейра"
 places:
+  - cabo-sao-vicente
   - albufeira
 hero_image: "20160823_165138.jpg"
 date: 2016-08-23

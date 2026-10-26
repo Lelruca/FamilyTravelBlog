@@ -1,0 +1,537 @@
+{
+  "trip_path": "content/europe/france/barcelona-occitanie-2024",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 90,
+    "record_indices": [
+      90,
+      89,
+      88,
+      87,
+      86
+    ],
+    "read": "Полностью прочитаны пять исходных постов, все четырнадцать авторских подписей и пять глав. Французский маршрут и состав семьи сопоставлены между главами."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/barcelona-occitanie-2024.json",
+    "method": "Текст и содержательные подписи; только парк Гуэля проверен точечно как большая самостоятельная серия, разрешённая владельцем.",
+    "scoped_blocks": [
+      {
+        "chapter": "barcelona",
+        "object": "Парк Гуэля",
+        "reviewed": [
+          "barcelona/20240321_135042.jpg",
+          "barcelona/20240321_132445.jpg"
+        ],
+        "scope": "Самостоятельная серия парка 21 марта, более пяти кадров. Архитектура на дальнем фоне и отдельная мебель не становятся новыми посещениями."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "file": "content/europe/france/barcelona-occitanie-2024/barcelona/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся глава, исходный пост и все подписи прочитаны; рекомендации и исторические сравнения отделены от состоявшихся остановок.",
+      "objects": [
+        {
+          "label": "Барселона",
+          "event": "family_stay_and_guided_walk",
+          "evidence": [
+            {
+              "source_record_index": 90,
+              "source_paragraph": 4,
+              "quote": "в этот раз прошли по городу с гидом - 4 часа."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "barcelona"
+          },
+          "reason": "Семейный отдых, встреча с родственниками и городская экскурсия; полный состав разных прогулок не назван.",
+          "participants": null
+        },
+        {
+          "label": "Парк Гуэля",
+          "event": "walked_park",
+          "evidence": [
+            {
+              "source_record_index": 90,
+              "source_paragraph": 3,
+              "quote": "лёгкое повторение основных любимых достопримечательностей"
+            },
+            {
+              "photo": "barcelona/20240321_135042.jpg",
+              "observation": "Характерная архитектура входа с террасы парка, один представитель большой самостоятельной серии."
+            },
+            {
+              "photo": "barcelona/20240321_132445.jpg",
+              "observation": "Семейная группа на тропе той же большой парковой серии; имена не определяются по лицам."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "barcelona--park-guel"
+          },
+          "reason": "Именно допустимый владельцем случай большой серии одного парка: отдельный последовательный блок 21 марта, не случайный фасад на прогулке. Саграда на дальнем фоне не считается посещённой.",
+          "participants": null
+        },
+        {
+          "label": "Мебель и ручки Гауди, красивые подъезды и старинные лавки",
+          "event": "brief_architectural_details",
+          "evidence": [
+            {
+              "source_record_index": 90,
+              "source_attachment_path": "attachments.0.data.17.media.description",
+              "quote": "Гауди создавал не только дома, но и такие мелочи, как дверные ручки!"
+            },
+            {
+              "source_record_index": 90,
+              "source_attachment_path": "attachments.0.data.27.media.description",
+              "quote": "Сохраняют старинные лавки. Если они попадают в программу, то у них таблички на полу при входе, они поддерживаются государством и жителями"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Не определять конкретные дома и музеи по фрагментам мебели и коротким подписям. Самостоятельные музейные входы не заявлены.",
+          "participants": null
+        },
+        {
+          "label": "Кафе-мороженое на Рамбле и ресторан братьев в Жироне",
+          "event": "food_story_and_comparison",
+          "evidence": [
+            {
+              "source_record_index": 90,
+              "source_attachment_path": "attachments.0.data.26.media.description",
+              "quote": "Вот, например, есть 3 брата, которые держат Мишелин ресторан в Жероне куда запись за несколько месяцев. И младшему брату надоело кормить\"только богачей\" и он открыл кафе-мороженое, прямо на Рамбле для всех. Но... где каждое мороженное это что-то особенное, как и положено \"Мишелену\"."
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Ресторан в Жироне — справка о семье, не посещение. Имя кафе отсутствует; короткий пищевой эпизод не даёт отдельного музея или ресторана на карте.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/barcelona-occitanie-2024/dali-figueres/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост и все подписи прочитаны; рекомендации и исторические сравнения отделены от состоявшихся остановок.",
+      "objects": [
+        {
+          "label": "Театр-музей Дали",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 89,
+              "source_paragraph": 2,
+              "quote": "Не все работы и экспозиции мне кажутся равнозначными."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "dali-theatre-museum"
+          },
+          "reason": "Личный разбор увиденных экспозиций подтверждает визит, финальное «надо заехать» — рекомендация, а не несбывшийся план.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/barcelona-occitanie-2024/carcassonne/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост и все подписи прочитаны; рекомендации и исторические сравнения отделены от состоявшихся остановок.",
+      "objects": [
+        {
+          "label": "Крепость и старый город Каркассона",
+          "event": "entered_castle_and_walked_walls",
+          "evidence": [
+            {
+              "source_record_index": 88,
+              "source_paragraph": 3,
+              "quote": "Потом залезли и в сам замок."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "carcassonne--krepost-karkasson"
+          },
+          "reason": "Зашли в замок и прошли стены; лавки, вино и отдельные башни входят в один комплекс. Наташа прямо названа в конце главы.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Каркассон",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 88,
+              "source_paragraph": 2,
+              "quote": "Каркассон это и замок и старый город внутри него."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "carcassonne"
+          },
+          "reason": "Городская часть подтверждена отдельно от замкового входа.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Бордо",
+          "event": "route_idea_unconfirmed",
+          "evidence": [
+            {
+              "source_record_index": 88,
+              "source_paragraph": 0,
+              "quote": "И винный регион Бордо"
+            }
+          ],
+          "decision": "exclude_as_visit",
+          "reason": "Желаемое направление в начале планирования, дальнейшие главы описывают Окситанию и арманьяк, а не подтверждают Бордо.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Мон-Сен-Мишель",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_record_index": 88,
+              "source_paragraph": 2,
+              "quote": "Похож на Сан Мишель"
+            }
+          ],
+          "decision": "exclude_as_visit",
+          "reason": "Сравнение атмосферы крепости, не ещё один пункт маршрута.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/barcelona-occitanie-2024/condom-armagnac/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост и все подписи прочитаны; рекомендации и исторические сравнения отделены от состоявшихся остановок.",
+      "objects": [
+        {
+          "label": "Кондом",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 2,
+              "quote": "Небольшой городок с гордым (для англоязычного уха) именем Condom"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "condom"
+          },
+          "reason": "Действительный заезд ради памятника и прогулка.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Памятник д’Артаньяну и трём мушкетёрам",
+          "event": "visited_monument",
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 1,
+              "quote": "смотреть памятник мушкетерам"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "condom--mousquetaires"
+          },
+          "reason": "Самостоятельная цель поездки, подробный абзац о даре Церетели; отсутствовал в данных.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Собор Кондома",
+          "event": "visited_entry_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 3,
+              "quote": "Городок 7 тыс. жителей, а какой собор!"
+            }
+          ],
+          "decision": "retain",
+          "reason": "Главный собор небольшого города — явно выделенный автором архитектурный памятник с фотосерией. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "target": {
+            "attraction": "condom--sobor-kondoma"
+          }
+        },
+        {
+          "label": "Музей арманьяка",
+          "event": "closed",
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 4,
+              "quote": "Музей арманьяка был закрыт"
+            }
+          ],
+          "decision": "exclude_as_entered",
+          "reason": "Закрытый музей не подменён посещённой позже винодельней.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Чайный салон и домашний шоколад",
+          "event": "tasting_and_local_help",
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 5,
+              "quote": "пошли в чайный салон"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Рассказ о гостеприимстве и помощи хозяйки; это не отдельный подтверждённый музей шоколада. Имя не угадывается.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Ларрессенгль",
+          "event": "walked_village",
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 8,
+              "quote": "Первым пунктом намеченной нам программы был город Larressingle."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "larressingle"
+          },
+          "reason": "Не просто совет: непосредственно описаны впечатления от фактического заезда.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Монреаль-дю-Жер",
+          "event": "walked_village",
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 10,
+              "quote": "Обычная деревня, пастораль."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "montreal-gers"
+          },
+          "reason": "Реальные впечатления от звуков и прогулки. Не канадский Монреаль.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Domaine de Meillan",
+          "event": "winery_visit_and_tasting",
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 11,
+              "quote": "В винодельне нас приняли как своих."
+            },
+            {
+              "source_record_index": 87,
+              "source_attachment_path": "attachments.0.data.23.media.description",
+              "quote": "Domaine de Meillan"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "places": "domaine-de-meillan"
+          },
+          "reason": "Название есть в авторской подписи. Винодельня находится в Larroque-sur-l’Osse между Кондомом и Монреалем, поэтому дана самостоятельной точкой. Сергей участвовал в дегустации со сплёвыванием, а не полностью отказался.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Тулуза",
+          "event": "stayed_and_walked",
+          "evidence": [
+            {
+              "source_record_index": 87,
+              "source_paragraph": 15,
+              "quote": "Потом мы вернулись в Тулузу."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "toulouse"
+          },
+          "reason": "Утреннюю экскурсию отменили из-за дождя, но вечером действительно гуляли. Отмена гида не отменяет город.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/france/barcelona-occitanie-2024/cordes-albi/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Вся глава, исходный пост и все подписи прочитаны; рекомендации и исторические сравнения отделены от состоявшихся остановок.",
+      "objects": [
+        {
+          "label": "Корд-сюр-Сьель",
+          "event": "walked_fortified_village",
+          "evidence": [
+            {
+              "source_record_index": 86,
+              "source_paragraph": 1,
+              "quote": "Сначала мы поехали в живописную деревню"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "cordes-sur-ciel"
+          },
+          "reason": "Подъём, старые дома и виды описаны; отдельный музейный вход в неназванный замок не приписывается.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Музей шоколада в Корд-сюр-Сьель",
+          "event": "entered_and_tasted",
+          "evidence": [
+            {
+              "source_record_index": 86,
+              "source_paragraph": 4,
+              "quote": "Зарулили мы и в музей шоколада."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "cordes-sur-ciel--muzey-shokolada"
+          },
+          "reason": "Подтверждена экспозиция шоколадных и сахарных скульптур, не производство; точное французское имя не угадано.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Альби",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 86,
+              "source_paragraph": 5,
+              "quote": "Следующим номером нашей программы был город Альби"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "albi"
+          },
+          "reason": "Реальная следующая остановка.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Собор Альби",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 86,
+              "source_paragraph": 5,
+              "quote": "зато внутри!!! Очень нам понравился!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "albi-cathedral"
+          },
+          "reason": "Внутренний осмотр прямо подтверждён, не только внешний кирпичный фасад.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled",
+    "questions": [],
+    "external_sources": [
+      {
+        "url": "https://www.tourisme-gers.com/en/patrimoine-culturel/dartagnan-et-les-3-mousquetaires/",
+        "purpose": "Официальное туристическое описание памятника Церетели у собора Кондома."
+      },
+      {
+        "url": "https://www.domainedemeillan.fr/",
+        "purpose": "Название и адрес винодельни в Larroque-sur-l’Osse."
+      },
+      {
+        "url": "https://www.tourisme-gers.com/producteur/domaine-de-meillan/",
+        "purpose": "Официальная страница производителя и GeoCoordinates 43.96228, 0.282201 для самостоятельной точки."
+      }
+    ],
+    "repeat_check": "Все пять глав сопоставлены с исходниками. Добавлены прямо рассказанные мушкетёры и винодельня, название которой подтверждается подписью. Закрытый музей арманьяка не принят за посещённый, Бордо и Мон-Сен-Мишель не добавлены. Вечерняя Тулуза сохранена вопреки отменённой утренней экскурсии. Большая серия парка Гуэля сохранена, дальняя Саграда и мебель не новые посещения. Музей шоколада и интерьер собора Альби прямо подтверждены. Авторские тела глав сохранены."
+  }
+}

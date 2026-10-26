@@ -1,0 +1,248 @@
+{
+  "trip_path": "content/europe/spain/peniscola-valencia-2024",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 71,
+    "record_indices": [
+      71,
+      70
+    ],
+    "read": "Оба полных поста, три авторские подписи и обе главы прочитаны. Перечисление прежних впечатлений отделено от нынешнего визита."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/peniscola-valencia-2024.json",
+    "method": "В преимущественно фотографической главе Валенсии проверены только представители уже названных в тексте самостоятельных серий. Один дополнительный городской кадр просмотрен и не превращён в объект.",
+    "scoped_blocks": [
+      {
+        "chapter": "valencia",
+        "object": "Упомянутые в тексте собор, Bioparc и Город искусств и наук",
+        "reviewed": [
+          "valencia/20240727_190417.jpg",
+          "valencia/20240728_102144.jpg",
+          "valencia/20240728_123039.jpg",
+          "valencia/20240727_173035.jpg"
+        ],
+        "scope": "Три именованных текстом эпизода большой фотоглавы. Последний городской кадр не дал новой точки. Не просмотрена и не каталогизирована каждая фотография."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "file": "content/europe/spain/peniscola-valencia-2024/peniscola/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны целиком. Фотографии использованы только для трёх уже названных автором эпизодов.",
+      "objects": [
+        {
+          "label": "Пеньискола и замок Папы Луны",
+          "event": "visited_entry_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 71,
+              "source_paragraph": 3,
+              "quote": "По дороге заехали в Пенисколу - замок тамплиеров"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "peniscola--zamok-papy-luny"
+          },
+          "reason": "Самостоятельный исторический рассказ и остановка по дороге; точный объём музейного входа не заявляется.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Пеньискола",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 71,
+              "source_paragraph": 6,
+              "quote": "как приятная остановка между Барселоной и Валенсией хорошо"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "peniscola"
+          },
+          "reason": "Реальный заезд, а не только направление пути.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Барселона",
+          "event": "home_base_comparison",
+          "evidence": [
+            {
+              "source_record_index": 71,
+              "source_paragraph": 7,
+              "quote": "Прошел примерно месяц как мы в Барселоне."
+            }
+          ],
+          "decision": "exclude_as_additional_excursion",
+          "reason": "Разговор о временном проживании, не ещё одна новая поездка по объектам Барселоны.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/peniscola-valencia-2024/valencia/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Глава, исходный пост и все подписи прочитаны целиком. Фотографии использованы только для трёх уже названных автором эпизодов.",
+      "objects": [
+        {
+          "label": "Валенсия",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 70,
+              "source_paragraph": 1,
+              "quote": "Но этот раз, на фоне Барселоны Валенсия нам померкла"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "valencia"
+          },
+          "reason": "Повторный визит с Митей; первые раздельные посещения родителей не выданы за нынешние.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Город искусств и наук",
+          "event": "exterior_visit",
+          "evidence": [
+            {
+              "source_record_index": 70,
+              "source_paragraph": 0,
+              "quote": "ОЧЕНЬ красивого современного центра науки и искусства"
+            },
+            {
+              "photo": "valencia/20240727_190417.jpg",
+              "observation": "Семейный кадр на территории комплекса, снаружи Hemisfèric; не подтверждает билетный вход."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "ciutat-arts-ciencies"
+          },
+          "reason": "Назван в тексте, крупная фотосерия и проверенный семейный кадр подтверждают внешний осмотр; вход в музей науки или океанариум не приписан.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Собор Валенсии",
+          "event": "visited_entry_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 70,
+              "source_paragraph": 0,
+              "quote": "в соблре храниться чаша Гаааля"
+            },
+            {
+              "photo": "valencia/20240728_102144.jpg",
+              "observation": "Фасад собора в текущей поездке; один проверенный кадр из посвящённой собору серии."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "valencia-cathedral"
+          },
+          "reason": "Объект прямо назван, авторская подпись «Священный Грааль» и серия собора. Проверен фасад; объём доступа внутрь этим кадром не устанавливается.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Bioparc Valencia",
+          "event": "visited_entry_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 70,
+              "source_paragraph": 2,
+              "quote": "зоопарк мой муж все равно считает самым лучшим"
+            },
+            {
+              "photo": "valencia/20240728_123039.jpg",
+              "observation": "Все трое у вывески Bioparc; конкретные экспозиции и маршрут не восстановлены по фону."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "bioparc-valencia"
+          },
+          "reason": "Зоопарк обсуждён в тексте, самостоятельная серия и семейный кадр у вывески подтверждают нынешний визит. Не каталогизируются отдельные животные.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Неназванный парк и пляж",
+          "event": "general_city_characteristics",
+          "evidence": [
+            {
+              "source_record_index": 70,
+              "source_paragraph": 0,
+              "quote": "огромного унивальнейшего парка, красивого широкого пляжа"
+            }
+          ],
+          "decision": "remove_overprecise_link",
+          "reason": "Характеристика Валенсии без отдельного рассказа о нынешней прогулке по конкретному парку. Неявная привязка к Садам Турии удалена; пляж не назван.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Таррагона",
+          "event": "brief_photo_caption",
+          "evidence": [
+            {
+              "source_record_index": 70,
+              "source_paragraph": 3,
+              "quote": "Оставлю тут в основном наши фото для истории."
+            }
+          ],
+          "decision": "remove_incidental_link",
+          "reason": "Только короткая подпись «Террагона» и два кадра, без рассказа и без большой самостоятельной фотосерии. Не остаётся отдельной меткой главы.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled",
+    "questions": [],
+    "repeat_check": "Сохранены рассказанные замок, Валенсия и три её прямо упомянутых объекта. Входы в отдельные музеи комплекса и точные объёмы посещений не придуманы. Удалены неявная точная привязка общего парка к Садам Турии и короткий фотоэпизод Таррагоны. Фоновая городская башня не добавлена. Все тексты и фотографии сохранены."
+  }
+}

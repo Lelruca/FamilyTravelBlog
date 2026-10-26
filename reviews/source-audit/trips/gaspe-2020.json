@@ -1,0 +1,874 @@
+{
+  "trip_path": "content/americas/canada/gaspe-2020",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 180,
+    "record_indices": [
+      174,
+      176,
+      175,
+      180,
+      173,
+      179,
+      178,
+      177,
+      172
+    ],
+    "read": "Полностью прочитаны все девять оригинальных постов и все подписи вложений, затем все девять глав. Исправленные ранее опечатки не менялись. Отдельные материалы и уточнения не потеряны внутри описаний карантинных ограничений."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/gaspe-2020.json",
+    "method": "Только авторский рассказ и содержательные авторские подписи. Новых объектов по фону снимков нет, покадровая проверка архива не выполняется."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/canada/gaspe-2020/bonaventure/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полностью прочитана глава, исходный пост и все авторские подписи; первые отказы и закрытия сопоставлены с последующими состоявшимися посещениями.",
+      "objects": [
+        {
+          "label": "Остров Бонавантюр",
+          "event": "boat_trip_and_bird_colony_hike",
+          "evidence": [
+            {
+              "source_record_index": 174,
+              "source_paragraph": 1,
+              "quote": "Успели! И увидели мы этих удивительных птиц."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "bonaventure-island"
+          },
+          "reason": "Высадились и дошли до колонии, угроза закрытия навигации не означает отмену состоявшейся экскурсии.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Геологический музей предыдущего дня",
+          "event": "previous_chapter_reference",
+          "evidence": [
+            {
+              "source_record_index": 174,
+              "source_paragraph": 5,
+              "quote": "нам вчера показывали в геологическом музее"
+            }
+          ],
+          "decision": "covered_by_previous_chapter",
+          "reason": "Повторная ссылка на Tektonik, не новый музей на острове.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/forillon/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полностью прочитана глава, исходный пост и все авторские подписи; первые отказы и закрытия сопоставлены с последующими состоявшимися посещениями.",
+      "objects": [
+        {
+          "label": "Парк Forillon",
+          "event": "hiked",
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_paragraph": 3,
+              "quote": "Forillon National Park"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "forillon"
+          },
+          "reason": "Подробно описан выбранный маршрут, а не только проезд мимо.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Тропа Cap-Bon-Ami — Mont-Saint-Alban",
+          "event": "hiked_to_observation_tower",
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_paragraph": 3,
+              "quote": "маршрут от мыса Cap-Bon-Ami до смотровой башни на горе Mont-Saint-Alban"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "forillon--cap-bon-ami-mont-saint-alban"
+          },
+          "reason": "Один содержательный пеший маршрут со смотровой, не отдельные точки каждой лестницы.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Маяк Pointe-à-la-Renommée",
+          "event": "exterior_no_ascent",
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_attachment_path": "attachments.0.data.2.media.description",
+              "quote": "Pointe-a-la-Renommée Lighthouse - это маяк путешественник. На нем табличка, что он сделан в Париже в 1905 и на своем месте он отработал с 1907 пр 1975. Потом его перевезли в Квебек-сити как туристический объект и жителям потребовалось 20 лет, чтобы возвратить его на прежнее место. Этот маяк уникален и тем, он является первой в Северной Америке станцией беспроволочного телеграфа Маркони (1904). Станция была установлена для ретрансляции сообщений терпищих бедствия судов. На маяк можно было подняться вместе с экскурсией, но на франц. Мы не пошли."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "gaspe--pointe-a-la-renommee-lighthouse"
+          },
+          "reason": "Длинная авторская подпись стала абзацем главы: названы маяк, история и прямой отказ от франкоязычного тура. Не определение по фоновому кадру.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Маяк Cap-des-Rosiers",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_attachment_path": "attachments.0.data.5.media.description",
+              "quote": "The Cap-des-Rosiers самый высокий маяк в Канаде (34 метра). Построен в 1858 году. Огонь поддерживался китовым жиром, потом в начале 20го века керосином, в 60х годах был элекрифицирован. Свет маяка был виден на расстоянии 40 км. Код, уникальный у каждого маяка, 15 секунд света с 5 секундными интервалами. Действует до сих пор."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "cap-des-rosiers"
+          },
+          "reason": "Маяк назван и содержательно описан автором; добавлен правильный тип самостоятельной географической точке. Подъём не заявлен.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Пляж Penouilli",
+          "event": "beach_visit",
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_paragraph": 4,
+              "quote": "Купались на пляже Penouilli"
+            }
+          ],
+          "decision": "covered_by_park",
+          "reason": "Митя окунулся целиком, родители только мочили ноги; всем полноценное купание не приписывается.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Маршрут к водопаду",
+          "event": "skipped",
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_paragraph": 4,
+              "quote": "решили пробросить и поехать купаться"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "От водопадного маршрута отказались.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Peninsula Fort",
+          "event": "visited_artillery_site",
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_attachment_path": "attachments.0.data.16.media.description",
+              "quote": "Историческая остановка - Peninsula Fort.\nБатарея 2 мировой войны! Пушки 1902 года выпуска :(\nМы узнали что немецкие подлодки потопили в бассейне реки Св.Лаврентия 23 судна. Канадские пушки не выстрелили ни разу. Позор..."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "forillon--peninsula-fort"
+          },
+          "reason": "Историческая остановка прямо описана в рассказе и авторской подписи; вся батарея один объект, не каждая пушка.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Гаспе — мемориал рождения Канады",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_paragraph": 6,
+              "quote": "мы посмотрели \"местро рождение Канады\""
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "gaspe--memorial-mesto-rozhdeniya-kanady"
+          },
+          "reason": "Конкретный посещённый мемориал, не все места биографии Картье.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Город Гаспе",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 176,
+              "source_paragraph": 6,
+              "quote": "В самом городе Гаспе"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "gaspe"
+          },
+          "reason": "Остановка с мемориалом и ужином. Мыс Гаспе видели с горы, отдельный пеший выход на мыс не заявлен.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/perce/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полностью прочитана глава, исходный пост и все авторские подписи; первые отказы и закрытия сопоставлены с последующими состоявшимися посещениями.",
+      "objects": [
+        {
+          "label": "Персе",
+          "event": "stayed_and_walked",
+          "evidence": [
+            {
+              "source_record_index": 175,
+              "source_paragraph": 0,
+              "quote": "3 ночи"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "perce"
+          },
+          "reason": "Остановились на три ночи и гуляли по курортному городу. Hôtel le Mirage — жильё, не новый музей.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Скала Percé Rock",
+          "event": "viewed_from_shore",
+          "evidence": [
+            {
+              "source_record_index": 175,
+              "source_paragraph": 2,
+              "quote": "Perce Rock имеет одну из самых больших"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Содержательно описана и наблюдали с террасы и берега; в ветреный день морские развлечения отменены, высадка на скалу не приписана.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Геопарк Персе и Tektonik",
+          "event": "entered_indoor_exhibition",
+          "evidence": [
+            {
+              "source_record_index": 175,
+              "source_paragraph": 5,
+              "quote": "Tektonik Pavilion"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "perce--geopark-perse-i-pavilon-tektonik"
+          },
+          "reason": "Музейную экспозицию посетили, несмотря на отсутствие удобного времени англоязычного кино. Пешеходные тропы геопарка в этот день не проходили.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Nova Lumina",
+          "event": "attended_night_walk",
+          "evidence": [
+            {
+              "source_record_index": 175,
+              "source_paragraph": 7,
+              "quote": "А вечером посетили световую развлекуху -  Nova Lumina."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "chandler--nova-lumina"
+          },
+          "reason": "Прямо описан самостоятельный вечерний маршрут. По официальным источникам расположен в Chandler, а не в Персе; добавлена правильная городская связь.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/road-to-quebec/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полностью прочитана глава, исходный пост и все авторские подписи; первые отказы и закрытия сопоставлены с последующими состоявшимися посещениями.",
+      "objects": [
+        {
+          "label": "Дорога в Квебек",
+          "event": "road_trip",
+          "evidence": [
+            {
+              "source_record_index": 180,
+              "source_paragraph": 1,
+              "quote": "отправляемся в соседнюю провинцию - Квебек"
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "reason": "Ночевали между Монреалем и Квебек-сити; точный город и отель не названы, не угадываются.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Монреаль, Торонто, Онтарио и атлантические провинции",
+          "event": "departure_comparison_and_prior_trips",
+          "evidence": [
+            {
+              "source_record_index": 180,
+              "source_paragraph": 2,
+              "quote": "стараемся избегать крупных городов"
+            }
+          ],
+          "decision": "exclude_as_current_stops",
+          "reason": "Торонто — исходная точка, Онтарио и Атлантика — прошлые поездки; в крупные города сейчас не заезжали.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/south-coast/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полностью прочитана глава, исходный пост и все авторские подписи; первые отказы и закрытия сопоставлены с последующими состоявшимися посещениями.",
+      "objects": [
+        {
+          "label": "Музей Акадии",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 173,
+              "source_paragraph": 4,
+              "quote": "сегодня мы наконец посетили музей Акадии"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "bonaventure-quebec--muzey-akadii"
+          },
+          "reason": "Именно нынешнее посещение, в отличие от прежних поездок по Акадии.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Биопарк Гаспези",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 173,
+              "source_paragraph": 5,
+              "quote": "гуляя в Biopark-е"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "bonaventure-quebec--biopark-gaspezi"
+          },
+          "reason": "Реальное посещение зверинца с местными животными; каждый зверь не точка.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Нью-Брансуик",
+          "event": "distant_view_access_closed",
+          "evidence": [
+            {
+              "source_record_index": 173,
+              "source_paragraph": 1,
+              "quote": "Через залив виден Нью Брансвик - но нам туда сейчас нельзя"
+            }
+          ],
+          "decision": "exclude_as_visit",
+          "reason": "Видели через залив, границы закрыты; в провинцию не въезжали.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Южное побережье и Бонавантюр",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 173,
+              "source_paragraph": 7,
+              "quote": "Совсем другой южный Гаспе!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "bonaventure-quebec"
+          },
+          "reason": "Город музейного дня; лодки с лобстерами и парки пикника не дополнительные места.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/bic-pointe-au-pere/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полностью прочитана глава, исходный пост и все авторские подписи; первые отказы и закрытия сопоставлены с последующими состоявшимися посещениями.",
+      "objects": [
+        {
+          "label": "Парк Bic",
+          "event": "walked_after_initial_denial",
+          "evidence": [
+            {
+              "source_record_index": 179,
+              "source_paragraph": 10,
+              "quote": "Потом с маниакальным упорством мы вернулись в парк Bic"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "bic"
+          },
+          "reason": "Первый отказ по заполненности не отменяет состоявшееся позднее посещение.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Pointe-au-Père — музей Empress of Ireland",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 179,
+              "source_paragraph": 7,
+              "quote": "Вот он был открыт и мы с интересом ознакомились"
+            }
+          ],
+          "decision": "revise_existing_definition",
+          "target": {
+            "attraction": "pointe-au-pere"
+          },
+          "reason": "Ранее точка была классифицирована только как башня. Исправлена на морской исторический комплекс с музеем; один комплекс, не три новых точки.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Маяк и домики-музеи Pointe-au-Père",
+          "event": "exterior_closed",
+          "evidence": [
+            {
+              "source_record_index": 179,
+              "source_paragraph": 6,
+              "quote": "Сейчас закрыт к посещению из-за ковида"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "pointe-au-pere"
+          },
+          "reason": "Маяк и домики закрыты, входы не приписываются. Музей Empress — другое открытое здание того же комплекса.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Подводная лодка Onondaga",
+          "event": "exterior_closed",
+          "evidence": [
+            {
+              "source_record_index": 179,
+              "source_paragraph": 8,
+              "quote": "Мы смогли только снаружи обойти."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "pointe-au-pere"
+          },
+          "reason": "Осмотрели снаружи; в лодку не входили.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Римуски",
+          "event": "overnight",
+          "evidence": [
+            {
+              "source_record_index": 179,
+              "source_paragraph": 11,
+              "quote": "Штабуемся мы сегодня в Rimouski"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "rimouski"
+          },
+          "reason": "Место ночёвки; спортивный зал посещал Митя, отдельная туристическая точка отелю не создаётся.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/jardins-de-metis/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полностью прочитана глава, исходный пост и все авторские подписи; первые отказы и закрытия сопоставлены с последующими состоявшимися посещениями.",
+      "objects": [
+        {
+          "label": "Les Jardins de Métis",
+          "event": "entered_gardens",
+          "evidence": [
+            {
+              "source_record_index": 178,
+              "source_paragraph": 1,
+              "quote": "Начали мы с садов - Les Jardins de Métis."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "jardins-de-metis"
+          },
+          "reason": "Все трое оценили сад; отдельные клумбы и сорта растений не новые объекты.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Center d’Art Marcel Gagnon",
+          "event": "meal_and_art_complex",
+          "evidence": [
+            {
+              "source_record_index": 178,
+              "source_paragraph": 2,
+              "quote": "Center d'Art Marcel Gagnon"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "sainte-flavie--art-tsentr-marselya-ganona"
+          },
+          "reason": "Бранч, скульптуры и галерея описаны как один арт-комплекс.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Éole, Cap-Chat",
+          "event": "exterior_no_tour",
+          "evidence": [
+            {
+              "source_record_index": 178,
+              "source_paragraph": 3,
+              "quote": "ограничились просто внешним осмотром"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "cap-chat--vetrogenerator-eole"
+          },
+          "reason": "Англоязычного гида не нашли; на ветряк не поднимались.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Exploramer",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 178,
+              "source_paragraph": 4,
+              "quote": "Поэтому мы ограничились посещением самого центра."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "sainte-anne-des-monts--nauchnyy-tsentr-exploramer"
+          },
+          "reason": "Научный центр и аквариумы посетили, круиз не состоялся из-за болезни капитана.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/gaspesie-park/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полностью прочитана глава, исходный пост и все авторские подписи; первые отказы и закрытия сопоставлены с последующими состоявшимися посещениями.",
+      "objects": [
+        {
+          "label": "Парк Gaspésie",
+          "event": "hiked",
+          "evidence": [
+            {
+              "source_record_index": 177,
+              "source_paragraph": 2,
+              "quote": "большинство дня посвятили национальному парку Gaspesie"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "gaspesie-park"
+          },
+          "reason": "Реальный горный день всей тройки.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Гора Ernest-Laforce",
+          "event": "summit_hike",
+          "evidence": [
+            {
+              "source_record_index": 177,
+              "source_paragraph": 3,
+              "quote": "Сначала залезли на гору Mount Ernest- Laforce."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "gaspesie-park--ernest-laforce"
+          },
+          "reason": "Главный конкретно названный маршрут главы, поднялись на вершину.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Другие смотровые и Cabot Trail",
+          "event": "unnamed_views_and_comparison",
+          "evidence": [
+            {
+              "source_record_index": 177,
+              "source_paragraph": 5,
+              "quote": "Очень напомнило нам Cabot trail."
+            }
+          ],
+          "decision": "covered_by_park",
+          "reason": "Не даются угаданные имена каждой смотровой; Cabot Trail только сравнение с прошлой поездкой.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/gaspe-2020/carleton-miguasha/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полностью прочитана глава, исходный пост и все авторские подписи; первые отказы и закрытия сопоставлены с последующими состоявшимися посещениями.",
+      "objects": [
+        {
+          "label": "Carleton-sur-Mer",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_record_index": 172,
+              "source_paragraph": 1,
+              "quote": "Мы провели его довольно расслабленно в городке Carleton-sur-mer"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "carleton-sur-mer"
+          },
+          "reason": "Посетили город; купавшиеся и загорающие люди не доказывают собственное купание.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Oratoire Notre-Dame-du-Mont-Saint-Joseph",
+          "event": "drove_to_viewpoint_and_hiked",
+          "evidence": [
+            {
+              "source_record_index": 172,
+              "source_paragraph": 2,
+              "quote": "к Oratoire Notre-Dame-du-Mont-St-Joseph"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "carleton-sur-mer--mont-saint-joseph-oratory"
+          },
+          "reason": "Поднялись на машине и прошли горный маршрут; вход в ораторий не заявлен.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Miguasha — музей и палеонтологический парк",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 172,
+              "source_paragraph": 7,
+              "quote": "Причём в музеи мы видим оригинал"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "miguasha"
+          },
+          "reason": "Подробно описан музей с оригиналом ископаемого. Музейный и палеонтологический тип добавлены самостоятельной точке.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Крытый мост, биодомики и лодка-такси",
+          "event": "brief_captioned_details",
+          "evidence": [
+            {
+              "source_record_index": 172,
+              "source_paragraph": 0,
+              "quote": "Последнии дни путешествия"
+            }
+          ],
+          "decision": "covered_by_route",
+          "reason": "Короткие бытовые подписи без конкретных собственных имён не становятся отдельными объектами.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled",
+    "questions": [],
+    "external_sources": [
+      {
+        "url": "https://parks.canada.ca/lhn-nhs/qc/pointeaupere/gestion/partenaires-partners",
+        "purpose": "Официально подтверждает единый исторический комплекс из маяка, музея Empress и Onondaga; не переносит сегодняшнюю доступность на 2020."
+      },
+      {
+        "url": "https://novalumina.bourgdepabos.com/en/",
+        "purpose": "Официальное местоположение Nova Lumina в Chandler; не приписано Персе из-за названия главы."
+      },
+      {
+        "url": "https://www.quebecmaritime.ca/cms/wp-content/uploads/Voyagistes/PresentationsEntreprisesQM_2018_FRANCAIS.pdf",
+        "purpose": "Региональный туристический материал 2018 года подтверждает историческое расположение Nova Lumina в секторе Chandler."
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/8271776",
+        "purpose": "Координата города Chandler из геокодирования OpenStreetMap, не произвольная координата самого лесного маршрута."
+      }
+    ],
+    "repeat_check": "Все девять глав и все исходные посты/подписи сопоставлены с данными. Морской комплекс Pointe-au-Père теперь находится по музейному типу, но закрытые маяк и подлодка не считаются посещёнными изнутри. Мигуаша — музей/ископаемые, Tektonik — музейная экспозиция, не пройденные тропы. Bic состоялся после первоначального отказа. Nova Lumina правильно отнесена к Chandler. Круиз Exploramer и водопадная тропа отменены; на Бонавантюр всё-таки высадились. На пляже полностью купался только Митя. Отдельные цветы, скульптуры, орудия, звери и фоновые деревни не новые точки."
+  }
+}

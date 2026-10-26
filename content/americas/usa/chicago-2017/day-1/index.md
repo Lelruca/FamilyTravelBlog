@@ -6,10 +6,10 @@ weight: 1
 chapter_kind: "Заметка"
 layout: "photo-story"
 city: "Chicago"
-places: ["chicago"]
+places: ["chicago","st-joseph-mi"]
 auto_gallery: false
 hero_image: "20171007_102517.jpg"
-attractions: ["chicago--chikagskiy-kulturnyy-tsentr","chicago--muzey-kitayskoy-immigratsii"]
+attractions: ["chicago--chikagskiy-kulturnyy-tsentr","chicago--harold-washington-library","chicago--muzey-kitayskoy-immigratsii"]
 ---
 
 <p>У нас праздники - День Благодарения и мы наконец выполняем давно запланированную поездку в Чикаго. Это третий город по численности (2.7 млн.) в Штатах после Нью Йорка и Лос Анжелеса. А в списке по Северной Америке он стоит сразу после Торонто ;) И по описанию мы видим много общего. Стоит Чикаго тоже на одном из великих озер - Мичиган (единственное, к которому у Канады нет выхода).</p>

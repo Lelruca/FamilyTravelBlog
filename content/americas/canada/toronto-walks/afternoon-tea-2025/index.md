@@ -4,7 +4,7 @@ chapter_kind: "part"
 layout: "photo-story"
 weight: 40
 city: "Toronto"
-places: ["toronto", "queens-park"]
+places: ["toronto","queens-park"]
 date: "2025-11-28"
 date_source: "Дата поста Facebook; день съёмки неизвестен"
 source_url: "https://www.facebook.com/share/p/1CcAamERLh/"

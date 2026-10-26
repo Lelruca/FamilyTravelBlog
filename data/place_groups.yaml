@@ -189,6 +189,7 @@ part_of:
   # Толедо
   toledo-cathedral: toledo
   # Торонто
+  mcmichael-gallery: toronto
   queens-park: toronto
   toronto-city-hall: toronto
   # Валенсия
@@ -252,8 +253,6 @@ part_of:
   # Bruce Peninsula
   grotto-bruce: bruce-peninsula
 
-  # Owner clarification, 2026-10-22: keep these museums inside geography.
-  mcmichael-gallery: toronto
   highland-village: cape-breton
 
 twins:

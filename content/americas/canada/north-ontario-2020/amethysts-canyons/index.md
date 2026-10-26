@@ -5,6 +5,7 @@ layout: "photo-story"
 weight: 30
 city: "Nipigon и Dorion"
 places:
+  - blue-point-amethyst-mine
   - ouimet-canyon
   - eagle-canyon
 hero_image: "20200629_162032.jpg"

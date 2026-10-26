@@ -1,0 +1,322 @@
+{
+  "trip_path": "content/europe/italy/florence-2025",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 45,
+    "record_indices": [
+      45,
+      44,
+      43
+    ],
+    "read": "Прочитаны полностью три оригинальных поста, все 25 авторских подписей и три текущие главы. Даты публикации в ноябре не выданы за даты августовской поездки."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/florence-2025.json",
+    "method": "Решения по рассказу, содержательным авторским подписям и текстовой заметке с названием мастерской. По фоновым изображениям новые объекты не распознавались."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/italy/florence-2025/san-marco-uffizi/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны целиком; музейные экспонаты отделены от самостоятельных учреждений.",
+      "objects": [
+        {
+          "label": "Монастырь-музей Сан-Марко",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 45,
+              "source_paragraph": 5,
+              "quote": "Сегодня из нового сходили в монастырь Cан Марко"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "san-marco-florence"
+          },
+          "reason": "Осмотр фресок келий; отдельные фрески не новые объекты.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Уффици",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 45,
+              "source_paragraph": 6,
+              "quote": "большую часть дня провели в Уффицы"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "uffizi"
+          },
+          "reason": "Реальное продолжительное посещение; галерея автопортретов учтена в составе музея.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Пьяццале Микеланджело",
+          "event": "walked_viewpoint",
+          "evidence": [
+            {
+              "source_record_index": 45,
+              "source_paragraph": 7,
+              "quote": "пешком подняться на площадь к Давиду"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "piazzale-michelangelo"
+          },
+          "reason": "Прямо описаны подъём и закат; копия Давида не превращается в посещение Галереи Академии в этот день.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Hotel Davanzati",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_record_index": 45,
+              "source_paragraph": 1,
+              "quote": "Hotel Davanzati"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Гостиничный рассказ о проживании и еде. Отдельной музейной или ресторанной точки не добавляется, вечернее вино сами не застали.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Рим и Барселона",
+          "event": "alternative_and_base",
+          "evidence": [
+            {
+              "source_record_index": 45,
+              "source_paragraph": 0,
+              "quote": "билеты в Рим не потянули"
+            }
+          ],
+          "decision": "exclude_as_current_sightseeing",
+          "reason": "Рим отвергнут из-за стоимости билетов; Барселона — летняя база.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/florence-2025/free-museum-day/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны целиком; музейные экспонаты отделены от самостоятельных учреждений.",
+      "objects": [
+        {
+          "label": "Палатинская галерея дворца Питти",
+          "event": "entered_palatine_gallery",
+          "evidence": [
+            {
+              "source_record_index": 44,
+              "source_paragraph": 2,
+              "quote": "сегодня мы были в другой художественной галерее — Палатина."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "palazzo-pitti"
+          },
+          "reason": "Визит конкретно в Палатинскую галерею, не во все музеи Питти и не в сады Боболи. Поисковые слова дополнены названием галереи.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Галерея Академии",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 44,
+              "source_attachment_path": "attachments.0.data.5.media.description",
+              "quote": "Поздний Микеланджело в Галерее Академии - почему-то меня он очень цепляет...."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "galleria-accademia"
+          },
+          "reason": "Посещение подтверждено авторским описанием осмотренной скульптуры и несколькими подписями, а не распознаванием случайного фона.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Капеллы Медичи",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 44,
+              "source_paragraph": 10,
+              "quote": "Зашли конечно в капеллу Медичи"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "medici-chapels"
+          },
+          "reason": "Прямой рассказ и серия содержательных подписей; мозаики и гробницы не отдельные маркеры.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Барджелло",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 44,
+              "source_attachment_path": "attachments.0.data.18.media.description",
+              "quote": "Музей Барджелло — ранний Микеланджело, «Бахус»."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "bargello"
+          },
+          "reason": "Конкретный экспонат назван автором в музее, есть ещё две музейные подписи. Основной абзац музея не называет, но источник посещение подтверждает.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Уффици — повтор в сравнении; Испания",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_record_index": 44,
+              "source_paragraph": 2,
+              "quote": "в первый день я рассказывала как в Уфицци"
+            }
+          ],
+          "decision": "exclude_as_second_visit",
+          "reason": "Не считать сравнительный пересказ предыдущего дня вторым входом в Уффици.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/florence-2025/florentine-mosaic/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны целиком; музейные экспонаты отделены от самостоятельных учреждений.",
+      "objects": [
+        {
+          "label": "Музей флорентийской мозаики",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 43,
+              "source_paragraph": 0,
+              "quote": "Музей Флорентийской мозаики."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "opificio-pietre-dure"
+          },
+          "reason": "Большой личный рассказ об экспозиции и технологии; это отдельный музей, не мастерская из следующего абзаца.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Мастерская флорентийской мозаики I Mosaici di Lastrucci",
+          "event": "visited_workshop",
+          "evidence": [
+            {
+              "source_record_index": 43,
+              "source_paragraph": 5,
+              "quote": "Мы и зашли, там мастер сидит и работает"
+            },
+            {
+              "source_file": "content/europe/italy/florence-2025/florentine-mosaic/index.md",
+              "source_sha256": "6fe4cc6fc580abe65a9563aceceb77960bfd654c0611cb9e6910ad235c769da6",
+              "quote": "I Mosaici di Lastrucci"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "florence--i-mosaici-di-lastrucci"
+          },
+          "reason": "Самостоятельный развёрнутый рассказ об экскурсии действующего мастера. Точное имя напечатано в текущей главе отдельной заметкой; не названо музеем.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Керамическая и кожаная мастерские",
+          "event": "brief_craft_and_shopping_stops",
+          "evidence": [
+            {
+              "source_record_index": 43,
+              "source_paragraph": 8,
+              "quote": "Потом зашли в кожаную мастерскую и купили мне кошелёчек."
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Коротко упомянуты без имён; не создаются вымышленные конкретные заведения.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Санта-Кроче",
+          "event": "incidental_photo_only",
+          "evidence": [
+            {
+              "source_record_index": 43,
+              "source_paragraph": 5,
+              "quote": "пошли гулять по городу"
+            }
+          ],
+          "decision": "remove_incidental_link",
+          "reason": "В исходном рассказе и всех подписях нет рассказа о Санта-Кроче. Привязка по одиночному фоновому фото удалена; само фото осталось.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled",
+    "questions": [],
+    "repeat_check": "Все три главы сопоставлены с текстом и подписями. Академия и Барджелло подтверждены авторскими музейными подписями; отрицательная прежняя оценка Палатины отделена от понравившегося нынешнего посещения. Добавлена рассказанная мастерская мозаики, имя уже было текстом на странице. Санта-Кроче удалена как фоновая привязка. Палатина доступна по собственному названию в данных Питти; другие музеи дворца и Боболи не приписаны. Авторские тела глав сохранены."
+  }
+}

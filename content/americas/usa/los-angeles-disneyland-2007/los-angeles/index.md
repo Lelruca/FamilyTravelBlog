@@ -5,7 +5,9 @@ weight: 1
 chapter_kind: "Заметка"
 layout: "photo-story"
 auto_gallery: false
+attractions: ["long-beach--aquarium-of-the-pacific","long-beach--queen-mary","long-beach--scorpion-submarine","los-angeles--hollywood-walk-of-fame"]
 places:
+  - long-beach
   - los-angeles
 ---
 

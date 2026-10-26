@@ -6,7 +6,6 @@ weight: 30
 city: "Varadero"
 places:
   - varadero
-  - guama
 hero_image: "WhatsApp_Image_2025-04-16_at_17.15.51.jpg"
 date: "2025-04-21"
 auto_gallery: false

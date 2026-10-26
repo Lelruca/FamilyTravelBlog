@@ -1,0 +1,304 @@
+{
+  "trip_path": "content/europe/portugal/portugal-2024",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 85,
+    "record_indices": [
+      85,
+      84,
+      83,
+      82,
+      81
+    ],
+    "read": "Полностью прочитаны пять исходных постов, двадцать авторских подписей (включая повтор текста Сетубала в подписи) и пять глав. Итоги дворца сопоставлены с главой парка."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/portugal-2024.json",
+    "method": "Только авторские рассказы и подписи, без каталогизации каждого садового растения, руины и фасада."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/portugal/portugal-2024/lisbon-belem/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный оригинальный пост и все подписи прочитаны. Сравнения, прежние поездки и части комплексов отделены от новых посещений.",
+      "objects": [
+        {
+          "label": "Лиссабон",
+          "event": "city_walk",
+          "evidence": [
+            {
+              "source_record_index": 85,
+              "source_paragraph": 0,
+              "quote": "первый вечер гуляли просто по городу"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "lisbon"
+          },
+          "reason": "Реальная прогулка, не посещение всех лиссабонских музеев по обобщённой фразе о прежних поездках.",
+          "participants": null
+        },
+        {
+          "label": "Белем",
+          "event": "district_walk",
+          "evidence": [
+            {
+              "source_record_index": 85,
+              "source_paragraph": 0,
+              "quote": "А субботу провели в Балеме"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "belem"
+          },
+          "reason": "Рассказ о районе, отдельные фоновые здания из фото не добавляются.",
+          "participants": null
+        },
+        {
+          "label": "Морской музей Лиссабона",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 85,
+              "source_paragraph": 0,
+              "quote": "И заново сходили в морской музей."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "museu-marinha"
+          },
+          "reason": "Повторное действительное посещение в этой поездке. Первая усталая экскурсия относится к другой поездке.",
+          "participants": null
+        },
+        {
+          "label": "Все музеи и окрестности Лиссабона",
+          "event": "previous_trips_generalisation",
+          "evidence": [
+            {
+              "source_record_index": 85,
+              "source_paragraph": 0,
+              "quote": "Все музеи не раз пройдены"
+            }
+          ],
+          "decision": "exclude_as_current_visits",
+          "reason": "Обобщение прежнего опыта, не перечень учреждений нынешнего маршрута.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/portugal-2024/setubal/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный оригинальный пост и все подписи прочитаны. Сравнения, прежние поездки и части комплексов отделены от новых посещений.",
+      "objects": [
+        {
+          "label": "Сетубал",
+          "event": "city_exploration",
+          "evidence": [
+            {
+              "source_record_index": 84,
+              "source_paragraph": 0,
+              "quote": "Одной из целей нашего \"залета в Португалию\" было изучения города Сетубал."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "setubal"
+          },
+          "reason": "Исторический центр, бульвар, пляж, кафе и молы описаны как городской опыт; отдельные имена не подставляются.",
+          "participants": null
+        },
+        {
+          "label": "Десять квартир",
+          "event": "private_property_viewings",
+          "evidence": [
+            {
+              "source_record_index": 84,
+              "source_paragraph": 1,
+              "quote": "мы посмотрели 10 квартир"
+            }
+          ],
+          "decision": "exclude_as_tourist_places",
+          "reason": "Просмотр жилья — личная задача, не десять туристических объектов. Исторические финансовые оценки сохранены дословно и здесь не проверяются как советы.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/portugal-2024/monserrate-park/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный оригинальный пост и все подписи прочитаны. Сравнения, прежние поездки и части комплексов отделены от новых посещений.",
+      "objects": [
+        {
+          "label": "Парк Монсеррат",
+          "event": "walked_park",
+          "evidence": [
+            {
+              "source_record_index": 83,
+              "source_paragraph": 2,
+              "quote": "Начали с парка Монссерат"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "monserrate"
+          },
+          "reason": "Одна часть общего комплекса, отдельно описанная в главе; прогулка с гидом. Полный состав не перенесён из другой поездки.",
+          "participants": null
+        },
+        {
+          "label": "Испанский Монсеррат и прежняя часовня",
+          "event": "historical_reference",
+          "evidence": [
+            {
+              "source_record_index": 83,
+              "source_paragraph": 2,
+              "quote": "название это место действительно ведёт от известного испанского Монссерат"
+            }
+          ],
+          "decision": "exclude_as_current_visits",
+          "reason": "История происхождения названия португальского комплекса, не поездка в Испанию и не осмотр сохранившейся часовни.",
+          "participants": null
+        },
+        {
+          "label": "Рукотворные водопады, романтические руины и растения",
+          "event": "garden_complex_details",
+          "evidence": [
+            {
+              "source_record_index": 83,
+              "source_paragraph": 3,
+              "quote": "И романтические рукотворные водопады и руитны"
+            }
+          ],
+          "decision": "covered_by_complex",
+          "reason": "Папоротники, кактусы, пробковые и прочие деревья — части одного парка, не отдельные природные точки.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/portugal-2024/monserrate-palace/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный оригинальный пост и все подписи прочитаны. Сравнения, прежние поездки и части комплексов отделены от новых посещений.",
+      "objects": [
+        {
+          "label": "Дворец Монсеррат",
+          "event": "entered_palace",
+          "evidence": [
+            {
+              "source_record_index": 82,
+              "source_paragraph": 2,
+              "quote": "Это наш с Серегой 2 визит в Монсеррат"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "monserrate"
+          },
+          "reason": "Реальный второй по счёту жизненный визит Лели и Сергея, тот же комплекс и день, что глава парка; не две разные поездки. Полный состав дополнительных спутников неизвестен.",
+          "participants": null
+        },
+        {
+          "label": "Дворец Пена",
+          "event": "comparison_and_previous_preference",
+          "evidence": [
+            {
+              "source_record_index": 82,
+              "source_paragraph": 2,
+              "quote": "Я все-таки Пена тоже люблю"
+            }
+          ],
+          "decision": "exclude_as_current_visit",
+          "reason": "Историческое сравнение и любовь к дворцу, не подтверждение посещения Пены в этой поездке.",
+          "participants": null
+        },
+        {
+          "label": "Британские музеи и тринадцать поместий Кука",
+          "event": "historical_background",
+          "evidence": [
+            {
+              "source_record_index": 82,
+              "source_paragraph": 1,
+              "quote": "для гостей Кук купил еще 13 поместий вокруг"
+            }
+          ],
+          "decision": "exclude_as_visits",
+          "reason": "Исторические сведения о коллекционере; ни британские музеи, ни соседние поместья не входят в подтверждённый маршрут.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/portugal-2024/capuchos-cabo-da-roca/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, полный оригинальный пост и все подписи прочитаны. Сравнения, прежние поездки и части комплексов отделены от новых посещений.",
+      "objects": [
+        {
+          "label": "Монастырь капуцинов",
+          "event": "guided_interior_visit",
+          "evidence": [
+            {
+              "source_record_index": 81,
+              "source_paragraph": 0,
+              "quote": "Совершенно новым для нас всех местом в Синтре стал монастырь капуцинов."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "capuchos-convent"
+          },
+          "reason": "Рассказ о посещении с гидом; кельи, столовая и пробковая отделка описаны внутри комплекса.",
+          "participants": null
+        },
+        {
+          "label": "Кельи, столовая, колокол, пробковые потолки, огород и лес",
+          "event": "monastery_complex_details",
+          "evidence": [
+            {
+              "source_record_index": 81,
+              "source_attachment_path": "attachments.0.data.8.media.description",
+              "quote": "Столовая с камнем-столом"
+            }
+          ],
+          "decision": "covered_by_complex",
+          "reason": "Части одного монастыря, не отдельные новые места на карте.",
+          "participants": null
+        },
+        {
+          "label": "Мыс Рока",
+          "event": "visited_cape",
+          "evidence": [
+            {
+              "source_record_index": 81,
+              "source_paragraph": 6,
+              "quote": "наконец доехали до самой западной точки Европы - Мыс Рока"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "cabo-da-roca"
+          },
+          "reason": "Прямое подтверждение приезда, а не план. Подъём в маяк и другие платные посещения не приписаны.",
+          "participants": null
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled",
+    "questions": [],
+    "repeat_check": "Пять глав сопоставлены целиком. Морской музей действительно повторно посетили; Монсеррат представлен парком и дворцом одного комплекса; капуцины и мыс Рока подтверждены. Испанский Монсеррат, Пена, британские музеи и поместья Кука не присоединены к нынешним посещениям. Детали садов и келий не стали новыми точками. Поимённый состав не угадан, хотя Леля и Сергей прямо названы в итогах Монсеррата. Авторские страницы не менялись."
+  }
+}

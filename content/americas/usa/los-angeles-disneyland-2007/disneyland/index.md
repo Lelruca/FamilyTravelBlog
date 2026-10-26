@@ -5,6 +5,7 @@ weight: 2
 chapter_kind: "Заметка"
 layout: "photo-story"
 auto_gallery: false
+attractions: ["disneyland-anaheim"]
 places:
   - disneyland-anaheim
 ---

@@ -1,0 +1,522 @@
+{
+  "status": "editorial_review_after_category_filter_correction",
+  "owner_instruction": "26.10.2026: отдельные обычные церкви, гостиницы и рестораны преимущественно не нужны; нужны музеи, городки и сопоставимые по значимости места.",
+  "policy": "Решение принимается по содержанию рассказа, масштабу места и роли посещения для автора. Значимые храмы с описанными интерьерами, художественными собраниями, историей или самостоятельной фотоисторией сохраняются. Формальный тип «церковь», «ресторан» и т.п. не заменяет редакционную оценку. Случайный фон, обычная ночёвка и бытовое заведение без самостоятельной культурной истории не отдельные места. Глубина текста не измеряется механическим числом строк или кадров.",
+  "removed_objects": [
+    {
+      "id": "banff--fairmont-banff-springs",
+      "title": "Fairmont Banff Springs",
+      "reason": "Короткая прогулка до известной гостиницы без отдельного рассказа об осмотре её исторических интерьеров. Эпизод сохранён в истории Банфа."
+    },
+    {
+      "id": "bodeguita-del-medio",
+      "title": "Бар «Бодегита дель Медио»",
+      "reason": "В кубинской поездке 2025 нет самостоятельного рассказа о баре и подтверждённого посещения; прежняя связь была по фоновым фотографиям."
+    },
+    {
+      "id": "notre-dame-de-la-garde",
+      "title": "Базилика Нотр-Дам-де-ла-Гард",
+      "reason": "В данной серии 2021 года базилика только на дальнем общем виде Марселя; нет самостоятельного рассказа о посещении."
+    },
+    {
+      "id": "lauterbrunnen--hotel-staubbach",
+      "title": "Hotel Staubbach",
+      "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+    },
+    {
+      "id": "meiringen--tea-room-frutiger",
+      "title": "Кондитерская Frutal-Beck / Tea-Room Frutiger",
+      "reason": "Кондитерская остаётся деталью рассказа о городе и меренгах, не отдельной целью музейного или культурного посещения."
+    },
+    {
+      "id": "colmar--kyriad-cite-administrative",
+      "title": "Kyriad Hotel Colmar Cite Administrative",
+      "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+    },
+    {
+      "id": "schwangau--bei-weirich",
+      "title": "Гостиница и ресторан Bei Weirich",
+      "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+    },
+    {
+      "id": "paris--hotel-sainte-marie",
+      "title": "Hôtel Sainte-Marie",
+      "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+    },
+    {
+      "id": "saumur--chateau-bouvet-ladubay",
+      "title": "Шато-отель Bouvet-Ladubay",
+      "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+    },
+    {
+      "id": "cellettes--chateau-la-rozelle",
+      "title": "Шато-отель La Rozelle",
+      "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+    },
+    {
+      "id": "vancouver--le-soleil-hotel",
+      "title": "Le Soleil hotel",
+      "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+    },
+    {
+      "id": "shediac--parlee-beach-motel",
+      "title": "Parlee Beach Motel",
+      "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+    },
+    {
+      "id": "washington-dc--omni-shoreham",
+      "title": "Omni Shoreham Hotel",
+      "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+    },
+    {
+      "id": "riviera-maya--grand-sirenis",
+      "title": "Grand Sirenis Riviera Maya",
+      "reason": "Это место ночёвки или обычное бытовое заведение в рассказе. Нет самостоятельного музейного, архитектурного или культурного посещения; текст о проживании/еде сохранён."
+    },
+    {
+      "id": "vic--via-restaurant",
+      "title": "VIA Restaurant",
+      "reason": "Гастрономическое впечатление подробно сохранено в рассказе о Вике. Отдельная точка ресторана не нужна для основного состава культурных мест."
+    }
+  ],
+  "removed_identification_questions": [
+    {
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "object": "Гостиница в Батерсте",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "object": "Прибрежный ресторан",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "object": "Две деревянные церкви у дороги",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "object": "Ресторан с лобстерами",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "object": "Гостиница в Шарлоттауне",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "object": "Акадийский центр и ресторан",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "object": "Гостиница около Баддека",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "object": "Ресторан у причала",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "object": "Гостиница в Сиднее",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "object": "Гостиница около Цитадели",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "object": "Лютеранская церковь Луненберга",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "object": "Англиканская церковь Луненберга",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "object": "Другие деревянные церкви",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "object": "Французское кафе в Шедиаке",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/atlantic-canada-2014.json",
+      "object": "Гостиница в Ривьер-дю-Лу",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/atlantic-city-philadelphia-2017.json",
+      "object": "Гостиница — вестибюль и номер с сейфом",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/brussels-2008.json",
+      "object": "Ресторан на Grand-Place",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/christmas-2014-2015-belgium.json",
+      "object": "Соборы Дижона",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "object": "Ресторан в главе «Ужин со звездой Мишлен», 2021",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/europe-2021.json",
+      "object": "Первая церковная серия Турина, 6 августа 2021",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+      "object": "Литые ворота Кевелара",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/france-2012.json",
+      "object": "Требуют идентификации две церковные фотографии Парижа, памятник и форт у Сен-Мало, мост в Сомюре. Входы внутрь по этим кадрам не приписываются.",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/italy-2022.json",
+      "object": "Последняя капелла Микеланджело",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/london-cambridge-2008.json",
+      "object": "Ресторан перед театром",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/london-cambridge-2008.json",
+      "object": "Вечерний ресторан с общими блюдами",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/los-angeles-disneyland-2007.json",
+      "object": "Кафе с мороженым и покупки значков/шапок",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/mont-tremblant-2012.json",
+      "object": "Не названы гостиница, короткая канатная дорога, каток/озеро, кинотеатр, гостиничное кафе и лес после возвращения.",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/new-england-2015.json",
+      "object": "Название ресторана с лобстерами",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/portugal-spain-2016.json",
+      "object": "Церкви Аррайолуша и Назаре",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/quebec-montreal-2003.json",
+      "object": "Неизвестны гостиницы, кафе с крепами, французский и греческий рестораны, водопад по дороге и место фотографии динозавра.",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/quebec-virginia-2013.json",
+      "object": "Названия гостевого дома, ресторанов, гостиницы, комнаты страха, фотостудии и торгового центра в исходнике не даны.",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/south-america-2026.json",
+      "object": "Русская православная церковь Буэнос-Айреса",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/washington-2011.json",
+      "object": "Китайский квартал и гостиница",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/washington-2011.json",
+      "object": "Рестораны и кафе",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
+      "object": "King of Prussia — гостиница Sheraton",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/washington-philadelphia-2008.json",
+      "object": "Ресторан в маленьком городе по дороге домой",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/supplemental/washington-2015.json",
+      "object": "Немецкий ресторан",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/supplemental/washington-2015.json",
+      "object": "Гостиница Вашингтона",
+      "reason": "Вне уточнённого владельцем состава мест; название не требуется."
+    },
+    {
+      "report": "reviews/source-audit/trips/los-angeles-disneyland-2007.json",
+      "object": "Гостиница возле парка",
+      "reason": "Название гостиницы не требуется по уточнённому объёму мест."
+    }
+  ],
+  "confirmed_town": {
+    "id": "saint-paul-de-vence",
+    "chapter": "content/europe/france/europe-2021/provence/index.md",
+    "photo": "provence/20210725_185946.jpg",
+    "identification_source": "https://www.saint-pauldevence.com/fiches/monuments/la-place-de-la-grande-fontaine/"
+  },
+  "retained_landmark_examples": [
+    "Саграда Фамилия",
+    "Миланский Дуомо",
+    "Собор Святого Петра",
+    "Сен-Шапель",
+    "Санта-Кроче как исторический комплекс",
+    "крупные соборы и музеи"
+  ],
+  "reviewed_restorations": [
+    {
+      "id": "mexico-city--tserkov-san-khuan-bautista",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Большой исторический храм Койоакана XVI века, прямо названный и осмотренный внутри в самостоятельном городском эпизоде."
+    },
+    {
+      "id": "oviedo--bazilika-san-khuan-el-real",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Названная цель прогулки по Овьедо с собственным рассказом об истории и отдельными фотографиями."
+    },
+    {
+      "id": "lucca--santi-giovanni-reparata",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Один из основных древних памятников Лукки, выделенный автором как отдельный этап церковно-архитектурного маршрута."
+    },
+    {
+      "id": "florence--bazilika-san-lorentso",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Базилика Медичи и самостоятельное внутреннее посещение после капелл."
+    },
+    {
+      "id": "florence--bazilika-san-miniato-al-monte",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Специально поднялись выше ради средневековой базилики; большой рассказ о её архитектуре и впечатлении."
+    },
+    {
+      "id": "gijon--bazilika-svyatogo-serdtsa",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Отдельно описаны необычная архитектура, огромная фигура Христа и увиденный интерьер."
+    },
+    {
+      "id": "kevelaer--bazilika-svyatoy-marii",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Главная цель поездки к паломническому центру; восторженный подробный рассказ об интерьере."
+    },
+    {
+      "id": "leon--bazilika-svyatogo-isidora",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Особое посещение романских фресок с экскурсией. В 2022 сохранён только подтверждённый наружный эпизод."
+    },
+    {
+      "id": "lisbon--tserkov-san-domingush",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Самостоятельный рассказ о необычном интерьере со следами землетрясения."
+    },
+    {
+      "id": "lisbon--tserkov-svyatogo-rokha",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Подробная экскурсия по капеллам, каменной мозаике и уникальному художественному собранию."
+    },
+    {
+      "id": "lucca--bazilika-san-frediano",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Названный памятник с отдельным описанием фасадной мозаики и краткого входа во время службы."
+    },
+    {
+      "id": "milan--santa-mariya-delle-gratsie",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Посещение «Тайной вечери» и монастырского комплекса; художественная цель, не рядовая церковь."
+    },
+    {
+      "id": "porto--tserkov-klerigush",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Знаковый комплекс Клеригуш — названная остановка архитектурной прогулки; подъём на башню не приписывается."
+    },
+    {
+      "id": "porto--tserkov-svyatogo-frantsiska",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Описанный внутренний осмотр готического храма с золотым убранством и захоронениями."
+    },
+    {
+      "id": "porto--tserkov-svyatogo-ildefonso",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Прямо названная цель авторского маршрута по голубым церквям Порту, с собственным фотоблоком."
+    },
+    {
+      "id": "prague--bazilika-svyatogo-georgiya",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Крупный романский памятник Пражского Града с содержательной авторской подписью."
+    },
+    {
+      "id": "reims--bazilika-sen-remi",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Отдельное посещение королевского аббатства, описанного автором как памятник ЮНЕСКО."
+    },
+    {
+      "id": "rome--bazilika-santa-prassede",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Значимая часть авторской экскурсии по истории христианства; мозаики IX века и рассказ о реликвии."
+    },
+    {
+      "id": "rome--lateranskaya-bazilika",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Один из главных храмов Рима; содержательный рассказ экскурсии об архитектуре и апостолах."
+    },
+    {
+      "id": "rome--san-petro-in-vinkoli",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Посещение ради «Моисея» Микеланджело и рассказа о его смысле; самостоятельный художественный эпизод."
+    },
+    {
+      "id": "rome--santa-kroche-in-dzheruzalemme",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Самостоятельный развёрнутый эпизод экскурсии с реликвиями и сильным личным впечатлением автора."
+    },
+    {
+      "id": "rouen--tserkov-abbatstva-sent-uan",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Большой готический памятник Руана, специально описанный и сопоставленный с собором."
+    },
+    {
+      "id": "saint-etienne-du-mont",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Описано необычное внутреннее убранство и история Святой Женевьевы, с собственным эпизодом."
+    },
+    {
+      "id": "saint-severin",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Подробный внутренний осмотр «пальмового леса» колонн и сочетания старых и новых витражей."
+    },
+    {
+      "id": "sainte-anne-de-beaupre--bazilika-sent-ann-de-bopre",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Паломнический комплекс — самостоятельная цель поездки с большим рассказом о посещении."
+    },
+    {
+      "id": "sainte-clotilde",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Самостоятельный запомнившийся вечерний эпизод с органной музыкой, а не случайный фасад."
+    },
+    {
+      "id": "santiago-chile--tserkov-svyatogo-frantsiska",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Автор выделяет старейшее здание города и подробно описывает необычное каменно-деревянное устройство."
+    },
+    {
+      "id": "temple-church",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Исторический храм тамплиеров — названная цель отдельной прогулки по юридическому Лондону."
+    },
+    {
+      "id": "teruel--tserkov-svyatogo-petra",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Единый художественно-исторический комплекс церкви и мавзолея теруэльских влюблённых."
+    },
+    {
+      "id": "toledo--tserkov-santo-tome",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Посещение ради «Погребения графа Оргаса» Эль Греко; самостоятельный художественный опыт."
+    },
+    {
+      "id": "lyon--notre-dame-de-fourviere",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Один из основных памятников Лиона, большой эмоциональный рассказ об интерьерах и собственная серия фотографий."
+    },
+    {
+      "id": "bruges--holy-blood-basilica",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Подробный самостоятельный рассказ о рождественском посещении и церемонии, важной для автора."
+    },
+    {
+      "id": "viana-do-castelo--misericordia",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Исторический Дом милосердия с отдельно описанным внутренним осмотром и панно азулежу."
+    },
+    {
+      "id": "porto--carmo-carmelitas",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Отдельно описана необычная пара храмов с узким домом между ними — узнаваемый архитектурный памятник."
+    },
+    {
+      "id": "porto--capela-das-almas",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Именованный художественный эпизод маршрута по азулежу, собственная серия панно с житиями святых."
+    },
+    {
+      "id": "lucca--san-michele-in-foro",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Крупный архитектурный памятник Лукки с отдельной историей и описанием колонн."
+    },
+    {
+      "id": "siena--san-domenico",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Базилика с реликвией Екатерины — отдельно описанный эпизод; корректное место установлено по источнику."
+    },
+    {
+      "id": "lucca--san-martino-cathedral",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Главный собор Лукки, осмотренный внутри, с рассказом о художественном убранстве и Тинторетто."
+    },
+    {
+      "id": "condom--sobor-kondoma",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Главный собор небольшого города — явно выделенный автором архитектурный памятник с фотосерией."
+    },
+    {
+      "id": "florence--florentiyskiy-baptisteriy",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Ключевой памятник флорентийского комплекса; подробный рассказ о мозаиках и внутренних посещениях."
+    },
+    {
+      "id": "pisa--pizanskiy-baptisteriy",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Одна из основных частей Поля чудес; реальное внутреннее посещение и сравнение с Флоренцией."
+    },
+    {
+      "id": "uquia-church",
+      "decision": "retain_meaningful_landmark",
+      "reason": "Целевая остановка ради уникального собрания архангелов-аркебузиров; подробный рассказ несмотря на запрет фото."
+    }
+  ],
+  "owner_examples": [
+    {
+      "id": "lapin-agile",
+      "date": "2026-10-26",
+      "reason": "Кабаре с большим самостоятельным рассказом; не ресторанная мелочь."
+    },
+    {
+      "id": "rome--santa-mariya-madzhore",
+      "date": "2026-10-26",
+      "reason": "Прямое решение владельца сохранить значимый для неё объект."
+    },
+    {
+      "id": "santa-maria-del-mar",
+      "date": "2026-10-26",
+      "reason": "Прямое решение владельца сохранить значимый для неё объект."
+    }
+  ]
+}

@@ -1,0 +1,923 @@
+{
+  "trip_path": "content/americas/canada/north-ontario-2020",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 189,
+    "record_indices": [
+      189,
+      188,
+      187,
+      186,
+      185,
+      184,
+      183,
+      182,
+      181
+    ],
+    "read": "Полностью прочитаны девять оригинальных постов и все подписи, текущие девять глав и заключение. Исправленные ранее опечатки сверены, новых правок авторского текста нет."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/north-ontario-2020.json",
+    "method": "Основа — прямой авторский текст и содержательные подписи. Отдельные здания, мосты и природные детали по изображениям не идентифицируются. Покадровый просмотр не выполняется."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/canada/north-ontario-2020/sault-ste-marie/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Пост, все подписи и вся глава прочитаны; выводы сопоставлены с описаниями отдельных дней. Состав группы уточнён по каждому раздельному маршруту.",
+      "objects": [
+        {
+          "label": "Sault Ste. Marie",
+          "event": "walked_and_overnight",
+          "evidence": [
+            {
+              "source_record_index": 189,
+              "source_paragraph": 5,
+              "quote": "Городок очень приятный"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "sault-ste-marie"
+          },
+          "reason": "Набережная и ночёвка, вся четвёрка.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "French River, Sudbury и озеро Гурон",
+          "event": "roadside_stops",
+          "evidence": [
+            {
+              "source_record_index": 189,
+              "source_attachment_path": "attachments.0.data.2.media.description",
+              "quote": "Фото сессия на French River"
+            }
+          ],
+          "decision": "covered_by_route",
+          "reason": "Подписи к дорожным остановкам, без новых угаданных музеев или маршрутов.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Центры Роберты Бондар и американская электростанция",
+          "event": "biography_and_distant_view",
+          "evidence": [
+            {
+              "source_record_index": 189,
+              "source_attachment_path": "attachments.0.data.13.media.description",
+              "quote": "Узнали мы что в этом городе родилась и выросла канадская астронавт - Roberta Bondar. Очень меня впечатлило, что такой не просто маленький, но удалённый город, растит такие кадры"
+            }
+          ],
+          "decision": "exclude_as_entries",
+          "reason": "Из рассказа о героине города и вида через реку не выводится вход в учреждения или пересечение границы США.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Ванкувер, Атлантика и Квебек",
+          "event": "rejected_options",
+          "evidence": [
+            {
+              "source_record_index": 189,
+              "source_paragraph": 1,
+              "quote": "Поэтому осталось два варианта"
+            }
+          ],
+          "decision": "exclude_as_visits",
+          "reason": "Обсуждение альтернатив, а не посещения в этой поездке.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/lake-superior/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Пост, все подписи и вся глава прочитаны; выводы сопоставлены с описаниями отдельных дней. Состав группы уточнён по каждому раздельному маршруту.",
+      "objects": [
+        {
+          "label": "Водопад Chippewa Falls",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 188,
+              "source_paragraph": 11,
+              "quote": "Начали с Chippewa Falls"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "chippewa-falls"
+          },
+          "reason": "Два порога и сравнение с картиной, один водопад.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Agawa Rock — наскальная живопись",
+          "event": "hiked",
+          "evidence": [
+            {
+              "source_record_index": 188,
+              "source_paragraph": 12,
+              "quote": "Agawa Rock Indian Pictographs Trail"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "agawa-rock"
+          },
+          "reason": "Вся четвёрка прошла маршрут, а не музей внутри здания.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Neys",
+          "event": "partial_park_visit_prison_not_seen",
+          "evidence": [
+            {
+              "source_record_index": 188,
+              "source_paragraph": 13,
+              "quote": "Мы заплутали в лесу, вышли к пляжу, обозлились и уехали."
+            }
+          ],
+          "decision": "covered_by_route",
+          "reason": "В парк заехали и вышли к пляжу, но лагерь военнопленных и полную программу не осмотрели. Не объявляется полным отказом от парка или музейным визитом.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "White River — место истории Винни-Пуха",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 188,
+              "source_attachment_path": "attachments.0.data.13.media.description",
+              "quote": "Канада - родина Винни-Пуха (White River)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "white-river"
+          },
+          "reason": "Настоящая остановка; зоопарк Лондона и Виннипег в исторической справке не посещения.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Aguasabon Falls & Gorge",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 188,
+              "source_paragraph": 15,
+              "quote": "Aguasabon Falls & Gorge"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "aguasabon-falls"
+          },
+          "reason": "Конкретный водопад и ущелье в финале дня.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Байкал и другие Великие озёра",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_record_index": 188,
+              "source_paragraph": 2,
+              "quote": "А вот Байкал"
+            }
+          ],
+          "decision": "exclude_as_visits",
+          "reason": "Цифровое сравнение озёр не текущий маршрут.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/amethysts-canyons/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Пост, все подписи и вся глава прочитаны; выводы сопоставлены с описаниями отдельных дней. Состав группы уточнён по каждому раздельному маршруту.",
+      "objects": [
+        {
+          "label": "Blue Point Amethyst Mine",
+          "event": "amethyst_digging",
+          "evidence": [
+            {
+              "source_record_index": 187,
+              "source_paragraph": 2,
+              "quote": "Blue Point Amethyst Mine."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "places": "blue-point-amethyst-mine"
+          },
+          "reason": "Развёрнутый самостоятельный эпизод, добыча аметистов стала фаворитом молодёжи в заключении. Отдельная точка у рудника, не в центре Thunder Bay.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Ouimet Canyon",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 187,
+              "source_paragraph": 3,
+              "quote": "Следующим пунктом нашей программы был Ouimet Canyon."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "ouimet-canyon"
+          },
+          "reason": "Конкретный каньон в рассказе; легендарная голова — часть пейзажа.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Eagle Canyon",
+          "event": "suspension_bridge_walk",
+          "evidence": [
+            {
+              "source_record_index": 187,
+              "source_paragraph": 5,
+              "quote": "Мы прошли тропу с подвесными мостами"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "eagle-canyon"
+          },
+          "reason": "Прогулка через два моста, не все дополнительные развлечения частного парка.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Утренний трейл и обзорные площадки",
+          "event": "missed_trail_and_obstructed_views",
+          "evidence": [
+            {
+              "source_record_index": 187,
+              "source_paragraph": 0,
+              "quote": "Мы не попали на запланированный трейл."
+            }
+          ],
+          "decision": "exclude_as_completed_trail",
+          "reason": "Трейл не нашли, названия не угадываются по описанию поворотов.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/red-rock/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Пост, все подписи и вся глава прочитаны; выводы сопоставлены с описаниями отдельных дней. Состав группы уточнён по каждому раздельному маршруту.",
+      "objects": [
+        {
+          "label": "Red Rock",
+          "event": "stayed_and_walked",
+          "evidence": [
+            {
+              "source_record_index": 186,
+              "source_paragraph": 1,
+              "quote": "Мы остановились на две ночи в небольшом городишке Red Rock"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "red-rock-ontario"
+          },
+          "reason": "Вся четвёрка жила здесь; утреннюю прогулку совершили только Леля и Митя.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Red Rock Inn",
+          "event": "stayed_and_owner_showed_building",
+          "evidence": [
+            {
+              "source_record_index": 186,
+              "source_attachment_path": "attachments.0.data.0.media.description",
+              "quote": "Отель очень интересный, самое крупное здание в городке и он пришел в упадок почти совсем, когда один энтузиаст, довольно уже пожилой человек, выкупил его и стал модернизировать комнату за комнатой... И при этом на первом этаже зал для всяких концертов или банкетов, на этажах всякие веранды, комнаты для отдыха и игры, скрепящие полы и, по словам Лизы, точно есть приведения. Очень атмосферный отель. И этот хозяин нас при заселении провел сам везде, видно что гордится."
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Подробный рассказ о размещении и хозяине сохранён, без отдельной музейной точки.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Утренняя набережная и город",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_record_index": 186,
+              "source_paragraph": 2,
+              "quote": "С утра мы вдвоем с Митей пошли гулять по городку."
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Не приписывается Сергею и Лизе.",
+          "participants": [
+            "Леля",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Вечерний горный маршрут",
+          "event": "hiked_unnamed_trail",
+          "evidence": [
+            {
+              "source_record_index": 186,
+              "source_paragraph": 3,
+              "quote": "А вечером я потащилась с молодежью на гору!"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Леля, Митя и Лиза, без утверждения участия Сергея. Имя маршрута не даётся по виду города.",
+          "participants": [
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/thunder-bay/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Пост, все подписи и вся глава прочитаны; выводы сопоставлены с описаниями отдельных дней. Состав группы уточнён по каждому раздельному маршруту.",
+      "objects": [
+        {
+          "label": "Sleeping Giant — ночной поход",
+          "event": "overnight_hike",
+          "evidence": [
+            {
+              "source_record_index": 185,
+              "source_paragraph": 1,
+              "quote": "Лиза у нас сертифицированный \"инструктор по выживанию\""
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "sleeping-giant"
+          },
+          "reason": "С рюкзаками и ночёвкой пошли только Лиза и Митя; родители уехали в город.",
+          "participants": [
+            "Лиза",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Thunder Bay",
+          "event": "walked_and_overnight",
+          "evidence": [
+            {
+              "source_record_index": 185,
+              "source_paragraph": 2,
+              "quote": "А мы с Серегой наоборот поехали"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "thunder-bay"
+          },
+          "reason": "Только родители, музейные входы не приписаны.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Водопад Kakabeka",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 185,
+              "source_attachment_path": "attachments.0.data.2.media.description",
+              "quote": "Kakabeka Falls - этот водопад ещё называют Ниагарой севера. И действительно он тоже в виде подковы, похож. Нам понравился."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "kakabeka-falls"
+          },
+          "reason": "Поездка родителей, пока молодёжь в походе.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Мемориал Терри Фокса",
+          "event": "exterior_visit",
+          "evidence": [
+            {
+              "source_record_index": 185,
+              "source_attachment_path": "attachments.0.data.10.media.description",
+              "quote": "Монумент  Тэрри Фоксу - национальный герой Канады. В 1980 году он заболел раком, потерял одну ногу и решил пересечь всю Канаду бегом собирая средства на исследования рака."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "thunder-bay--terry-fox-memorial"
+          },
+          "reason": "Содержательная авторская подпись с личным открытием истории героя, не опознание фонового памятника.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Музеи Thunder Bay",
+          "event": "closed_not_entered",
+          "evidence": [
+            {
+              "source_record_index": 185,
+              "source_paragraph": 2,
+              "quote": "Жалко музеи сейчас закрыты"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Автор прямо пишет о закрытии. По фасадам не восстанавливаются названия и посещения.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Бывший суд, аббатство, церковь и собор",
+          "event": "lodging_and_brief_architecture",
+          "evidence": [
+            {
+              "source_record_index": 185,
+              "source_attachment_path": "attachments.0.data.4.media.description",
+              "quote": "А это наша гостиница в бывшем здании городского суда"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Гостиница в здании суда и краткие городские детали, без отдельных неизвестных храмовых точек.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/sleeping-giant/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Пост, все подписи и вся глава прочитаны; выводы сопоставлены с описаниями отдельных дней. Состав группы уточнён по каждому раздельному маршруту.",
+      "objects": [
+        {
+          "label": "Sleeping Giant — короткие маршруты родителей",
+          "event": "hiked_short_trails",
+          "evidence": [
+            {
+              "source_record_index": 184,
+              "source_paragraph": 1,
+              "quote": "мы ходили на короткие маршруты"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "sleeping-giant"
+          },
+          "reason": "За детьми приехали Леля с Сергеем и прошли короткие маршруты; их не записывают в ночной поход.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Sea Lion, внутреннее озеро и животные",
+          "event": "brief_park_details",
+          "evidence": [
+            {
+              "source_record_index": 184,
+              "source_attachment_path": "attachments.0.data.1.media.description",
+              "quote": "Sea lion"
+            }
+          ],
+          "decision": "covered_by_park",
+          "reason": "Короткие подписи и пейзаж, не отдельные достопримечательности по каждому кадру.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/nipigon-wawa/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Пост, все подписи и вся глава прочитаны; выводы сопоставлены с описаниями отдельных дней. Состав группы уточнён по каждому раздельному маршруту.",
+      "objects": [
+        {
+          "label": "Nipigon",
+          "event": "roadside_stop",
+          "evidence": [
+            {
+              "source_record_index": 183,
+              "source_attachment_path": "attachments.0.data.0.media.description",
+              "quote": "Nipigon Ontario"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "nipigon"
+          },
+          "reason": "Остановка на обратном пути; короткая подпись к мосту не отдельная точка.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Mazukama Falls",
+          "event": "walked_to_falls",
+          "evidence": [
+            {
+              "source_record_index": 183,
+              "source_attachment_path": "attachments.0.data.4.media.description",
+              "quote": "Mazukama Falls - дорожка идёт через лесную чащу и первый  раз за поездку мы сильно страдали от комаров"
+            }
+          ],
+          "decision": "covered_by_route",
+          "reason": "Именованная короткая остановка, учтена в дорожном рассказе без разрастания списка точек.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Водопад за 17-м километром гравийной дороги",
+          "event": "visited_identity_unclear",
+          "evidence": [
+            {
+              "source_record_index": 183,
+              "source_attachment_path": "attachments.0.data.6.media.description",
+              "quote": "А вот этого волопада на туристической карте нет! Нас сюда отправил хозяин гостиницы. Надо свернуть с хайвея на Mazukama Falls (они прямо рядом со сьездом) и продолжить движение по гравиевой дороге до 17 км. После 17 км ехать медленно и высматривать съезд и дорожку справа"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Посетили по совету хозяина гостиницы, но название не дано. Не подставляется водопад по догадке.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Pebble Beach, Marathon",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 183,
+              "source_attachment_path": "attachments.0.data.12.media.description",
+              "quote": "Pebble beach - уникальное место. Пляж из довольно крупных булыжников. Очень разных и красивых!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "pebble-beach-marathon"
+          },
+          "reason": "Прямо описан необычный каменный пляж.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Carden Cove Beach и Wawa",
+          "event": "beach_stop_and_overnight",
+          "evidence": [
+            {
+              "source_record_index": 183,
+              "source_attachment_path": "attachments.0.data.18.media.description",
+              "quote": "Wawa - наша сегодняшняя база. Самый старый город в этих местах - начало 18 века!\nWawa в переводе с языка индейцев - дикий гусь. \nСтатуя из стали 9 метров в высоту была поставлена для привлечения туристов, когда новый хайвей обошёл город стороной :)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "wawa"
+          },
+          "reason": "В Wawa ночевали; на Carden Cove другие люди купались, собственное купание группы не заявлено.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Гусь Wawa и внутреннее озеро",
+          "event": "city_details",
+          "evidence": [
+            {
+              "source_record_index": 183,
+              "source_attachment_path": "attachments.0.data.18.media.description",
+              "quote": "Wawa - наша сегодняшняя база. Самый старый город в этих местах - начало 18 века!\nWawa в переводе с языка индейцев - дикий гусь. \nСтатуя из стали 9 метров в высоту была поставлена для привлечения туристов, когда новый хайвей обошёл город стороной :)"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "История символа города и вид озера учтены в том же городском эпизоде, без новой точки под каждую деталь.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/lake-superior-park/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Пост, все подписи и вся глава прочитаны; выводы сопоставлены с описаниями отдельных дней. Состав группы уточнён по каждому раздельному маршруту.",
+      "objects": [
+        {
+          "label": "Lake Superior Provincial Park",
+          "event": "anniversary_hike",
+          "evidence": [
+            {
+              "source_record_index": 182,
+              "source_attachment_path": "attachments.0.data.0.media.description",
+              "quote": "Сегодня мы начали свой день с парка - Lake Superior. Он огромен!\nМы решили отметить свою 28 годовщину подъёмом на горку."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "lake-superior-park"
+          },
+          "reason": "Прошли горный маршрут всей четвёркой, имя тропы не угадывается.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Pancake Bay",
+          "event": "beach_visit",
+          "evidence": [
+            {
+              "source_record_index": 182,
+              "source_attachment_path": "attachments.0.data.5.media.description",
+              "quote": "Следующим номером нашей программы был пляж. Чем южнее двигаешься, тем больше пляжных парков. Мы заехали попрощаться с озером Superior в парк Pancake Bay.  Он какой-то бескрайный, песок, прозрачная и прогретая вода.... Народу много, но поскольку размеры огромны скученности нет совсем."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "pancake-bay"
+          },
+          "reason": "Пляж посетили. Поздняя подпись уточняет, что в Superior полноценно купалась только Лиза.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Кусково и Версаль",
+          "event": "hypothetical_comparison",
+          "evidence": [
+            {
+              "source_record_index": 182,
+              "source_attachment_path": "attachments.0.data.3.media.description",
+              "quote": "Лизе трудно с нами путешествовать. Она любит ходить в удовольствие. Сидеть и наслаждаться видами, вписывать и слушать природу... \nУ нас же все наоборот. Мы работаем! Нам бы быстрее пробежать и отмучатся 😀\nКак сказал Серёга: \"Я бы по парку Кусково погулял лучше, или по Версальскому саду...\" \nПоскольку Лиза в одиночестве, то страдает - мы ее мимо красот а темпе вальса протаскиваем"
+            }
+          ],
+          "decision": "exclude_as_visits",
+          "reason": "Реплика Сергея о предпочтениях, не посещения Москвы или Франции в этой поездке.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        },
+        {
+          "label": "Manitoulin Island",
+          "event": "arrived_and_overnight",
+          "evidence": [
+            {
+              "source_record_index": 182,
+              "source_attachment_path": "attachments.0.data.9.media.description",
+              "quote": "Ночевать же сегодня мы приехали на остров Manitoulin Island - это самый большой остров в пресной воде. И он находится уже во втором ро размеру Великом озере - озере Гурон. Остров встретил нас своим знаменитым закатом."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "manitoulin-island"
+          },
+          "reason": "Реальная ночёвка на острове, а не просто сравнение с другими Великими озёрами.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/north-ontario-2020/manitoulin/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Пост, все подписи и вся глава прочитаны; выводы сопоставлены с описаниями отдельных дней. Состав группы уточнён по каждому раздельному маршруту.",
+      "objects": [
+        {
+          "label": "Cup and Saucer Trail",
+          "event": "hiked_youth_only",
+          "evidence": [
+            {
+              "source_record_index": 181,
+              "source_attachment_path": "attachments.0.data.0.media.description",
+              "quote": "Молодая часть нашей группы залезла опять на гору. Прошли знаменитый Cup and Saucer Trail"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "cup-and-saucer"
+          },
+          "reason": "Маршрут прошли только Лиза и Митя. Родители гуляли по берегу.",
+          "participants": [
+            "Лиза",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Manitoulin Island и Providence Bay",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_record_index": 181,
+              "source_attachment_path": "attachments.0.data.3.media.description",
+              "quote": "А мы с Серегой нашли променад вдоль залива озера Гурон и наслаждались прогулкой"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "manitoulin-island"
+          },
+          "reason": "Прогулка родителей по променаду; в подписи отдельно назван Providence Bay.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Купание в озере Гурон",
+          "event": "bathed_author_only",
+          "evidence": [
+            {
+              "source_record_index": 181,
+              "source_attachment_path": "attachments.0.data.6.media.description",
+              "quote": "В Superior только Лиза купалась, я решила в Гуроне наверстать. Холодно."
+            }
+          ],
+          "decision": "covered_by_island",
+          "reason": "Купалась Леля, не вся группа. В Superior автор купание не заявляет.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Паром через Гурон",
+          "event": "ferry_crossing",
+          "evidence": [
+            {
+              "source_record_index": 181,
+              "source_paragraph": 2,
+              "quote": "на пароме - давно мечталось!"
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "reason": "Состоявшийся переезд всей четвёрки, не дополнительный музей.",
+          "participants": [
+            "Сергей",
+            "Леля",
+            "Митя",
+            "Лиза"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled_one_unnamed_waterfall",
+    "questions": [
+      {
+        "object": "Неизвестный водопад после Mazukama, июль 2020",
+        "question": "Как назывался мощный водопад, к которому отправил хозяин гостиницы: по гравийной дороге после съезда на Mazukama Falls до 17-го километра, затем дорожка справа? Посещение подтверждено подписью, имя не угадано."
+      }
+    ],
+    "external_sources": [
+      {
+        "url": "https://bluepointamethystmine.ca/",
+        "purpose": "Официальные GeoCoordinates оператора: latitude 48.68517019999999, longitude -88.66284399999999. Это точка самого рудника; координата муниципального адресного указателя южнее не использована."
+      },
+      {
+        "url": "https://www.shuniah.org/directory/blue-point-amethyst-mine/",
+        "purpose": "Муниципальная запись подтверждает название и адрес рудника в Shuniah, а не в центре Thunder Bay."
+      }
+    ],
+    "repeat_check": "Все девять глав и оригинальные посты с подписями сверены. Добавлена самостоятельная точка Blue Point Amethyst Mine, явный фаворит молодёжи в итогах, и мемориал Терри Фокса из содержательной подписи. Ночной поход Sleeping Giant и Cup and Saucer только Лиза/Митя, Thunder Bay и Kakabeka только родители. Утро Red Rock только Леля/Митя, вечерний поход без Сергея. Музеи Thunder Bay закрыты. Neys посетили частично, лагерь не осмотрели. Реплики о Кускове/Версале и биография Винни не посещения. Отдельные животные, здания, мосты, школы и короткие дорожные детали не новые точки."
+  }
+}

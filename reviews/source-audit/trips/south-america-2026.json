@@ -1,0 +1,1228 @@
+{
+  "trip_path": "content/americas/argentina/south-america-2026",
+  "status": "text_audit_complete_questions_open",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 28,
+    "record_indices": [
+      28,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16,
+      15,
+      14
+    ],
+    "additional_files": [
+      {
+        "path": "media-manifests/south-america-2026.json",
+        "sha256": "5639ad0ae0d3af8a8d3b0e094e63decd61d4774e1b11a0fd58c9abb619577b20"
+      }
+    ],
+    "read": "Все пятнадцать полных исходных постов, все 52 авторские подписи, текущие пятнадцать глав и решения владельца из реестра прочитаны. Сопоставлены объединённые абзацы и сокращённые владельцем подписи."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/south-america-2026.json",
+    "method": "Решения по полному тексту и содержательным авторским подписям; фоновые здания и экспонаты не атрибутировались."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/argentina/south-america-2026/arrival/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все подписи и текущая глава прочитаны; объединение абзацев сопоставлено с исходными строками.",
+      "objects": [
+        {
+          "label": "Богота и Сантьяго — перелёт",
+          "event": "arrival_and_airport_transit",
+          "evidence": [
+            {
+              "source_record_index": 28,
+              "source_paragraph": 5,
+              "quote": "с пересадкой с Боготе"
+            }
+          ],
+          "decision": "covered_by_route",
+          "reason": "Богота — пересадка без городской прогулки. Мама осталась в Торонто, Наташа не поехала; сын прямо упомянут в подписи.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Патагония и Уругвай",
+          "event": "abandoned_itinerary_options",
+          "evidence": [
+            {
+              "source_record_index": 28,
+              "source_paragraph": 3,
+              "quote": "Кидало нас в мыслях"
+            }
+          ],
+          "decision": "exclude_abandoned_plans",
+          "reason": "Варианты подготовки, не фактический маршрут. Мексика и Мехико предыдущая поездка.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/santiago/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все подписи и текущая глава прочитаны; объединение абзацев сопоставлено с исходными строками.",
+      "objects": [
+        {
+          "label": "Сантьяго",
+          "event": "self_guided_city_walk",
+          "evidence": [
+            {
+              "source_record_index": 27,
+              "source_paragraph": 4,
+              "quote": "предоставленные сами себе"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "santiago-chile"
+          },
+          "reason": "Обзорная с гидом сорвалась, самостоятельная прогулка состоялась.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Санта-Лусия",
+          "event": "park_and_viewpoint_visit",
+          "evidence": [
+            {
+              "source_record_index": 27,
+              "source_paragraph": 6,
+              "quote": "Santa Lucia - это и парк"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "santiago-chile--kholm-santa-lusiya"
+          },
+          "reason": "Парк, историческая точка и смотровая — один объект.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Почта и центральная площадь",
+          "event": "entered_post_office",
+          "evidence": [
+            {
+              "source_record_index": 27,
+              "source_paragraph": 11,
+              "quote": "Мы зашли в здание почты"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "santiago-chile--central-post-office"
+          },
+          "reason": "Конкретный внутренний осмотр старых почтовых столов, а не случайный фасад. Центральная площадь частью городского маршрута.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Кафедральный собор Сантьяго",
+          "event": "entered_cathedral",
+          "evidence": [
+            {
+              "source_record_index": 27,
+              "source_paragraph": 12,
+              "quote": "И конечно в кафедральный собор"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "santiago-chile--kafedralnyy-sobor-santyago"
+          },
+          "reason": "Фраза продолжает «зашли»; реальный внутренний осмотр.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Церковь Святого Франциска",
+          "event": "entered_church",
+          "evidence": [
+            {
+              "source_record_index": 27,
+              "source_paragraph": 13,
+              "quote": "Стены каменные, а все остальное дерево"
+            }
+          ],
+          "decision": "retain",
+          "reason": "Автор выделяет старейшее здание города и подробно описывает необычное каменно-деревянное устройство. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "target": {
+            "attraction": "santiago-chile--tserkov-svyatogo-frantsiska"
+          }
+        }
+      ]
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/salta-purmamarca/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все подписи и текущая глава прочитаны; объединение абзацев сопоставлено с исходными строками.",
+      "objects": [
+        {
+          "label": "Сальта",
+          "event": "arrival_car_rental",
+          "evidence": [
+            {
+              "source_record_index": 26,
+              "source_paragraph": 3,
+              "quote": "взяли машину напрокат"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "salta"
+          },
+          "reason": "В этой главе прибытие и прокат; городская прогулка только позже.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Пурмамарка",
+          "event": "overnight_and_village_walk",
+          "evidence": [
+            {
+              "source_record_index": 26,
+              "source_paragraph": 5,
+              "quote": "погуляли по городку"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "purmamarca"
+          },
+          "reason": "Ночёвка, деревенская прогулка и местная еда. Неназванный отель и церковь на обложке не самостоятельные объекты.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/tilcara-uquia/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все подписи и текущая глава прочитаны; объединение абзацев сопоставлено с исходными строками.",
+      "objects": [
+        {
+          "label": "Гора семи цветов у Пурмамарки",
+          "event": "sunrise_viewpoint",
+          "evidence": [
+            {
+              "source_record_index": 25,
+              "source_paragraph": 1,
+              "quote": "Мы встали в 6:30 и в 7 уже были на горе"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "purmamarca--seven-colours-hill"
+          },
+          "reason": "Главная подробная история рассвета, не произвольная гора на заднем плане. Название прямо в текущем заголовке и подтверждено решением владельца.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Пукара-де-Тилькара",
+          "event": "visited_archaeological_complex",
+          "evidence": [
+            {
+              "source_record_index": 25,
+              "source_paragraph": 7,
+              "quote": "Мы посетили Pucará de Tilcara"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "tilcara--pukara-de-tilkara"
+          },
+          "reason": "Реконструированное поселение, кактусовый сад в составе комплекса; отдельный ботсад по каждой коллекции не создан.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Сан-Франсиско-де-Паула, Укия",
+          "event": "entered_church",
+          "evidence": [
+            {
+              "source_record_index": 25,
+              "source_paragraph": 13,
+              "quote": "Iglesia San Francisco de Paula в Uquía"
+            }
+          ],
+          "decision": "retain",
+          "reason": "Целевая остановка ради уникального собрания архангелов-аркебузиров; подробный рассказ несмотря на запрет фото. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "target": {
+            "places": "uquia-church"
+          }
+        }
+      ]
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/hornocal/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все подписи и текущая глава прочитаны; объединение абзацев сопоставлено с исходными строками.",
+      "objects": [
+        {
+          "label": "Умауака",
+          "event": "transfer_to_jeep",
+          "evidence": [
+            {
+              "source_record_index": 24,
+              "source_paragraph": 0,
+              "quote": "мы бросили машину, и нас на джипе"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "humahuaca"
+          },
+          "reason": "Пересадка на джип; городской музейный осмотр не заявлен.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Орнокаль",
+          "event": "mountain_viewpoint",
+          "evidence": [
+            {
+              "source_record_index": 24,
+              "source_paragraph": 2,
+              "quote": "Перед нами - апогей сегодняшнего дня - Cerro Hornocal"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "hornocal"
+          },
+          "reason": "Цель поездки и подъём к обзорной точке; высота в заголовке владельца не подменяет описание маршрута.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/cardones/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все подписи и текущая глава прочитаны; объединение абзацев сопоставлено с исходными строками.",
+      "objects": [
+        {
+          "label": "Ущелье Эскойпе",
+          "event": "scenic_gorge_drive",
+          "evidence": [
+            {
+              "source_record_index": 23,
+              "source_paragraph": 1,
+              "quote": "Ущелье реки Escoipe"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "salta--escoipe-gorge"
+          },
+          "reason": "Отдельный описанный природный участок пути с субтропиками и облаками.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Piedra del Molino",
+          "event": "mountain_pass_stop",
+          "evidence": [
+            {
+              "source_record_index": 23,
+              "source_paragraph": 4,
+              "quote": "Мы наверху, Piedra del Molino"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "salta--piedra-del-molino"
+          },
+          "reason": "Фактическая остановка на перевале, независимо от сдержанной оценки вида.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Лос-Кардонес",
+          "event": "visited_national_park",
+          "evidence": [
+            {
+              "source_record_index": 23,
+              "source_paragraph": 7,
+              "quote": "А дальше - национальный парк кактусов"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "los-cardones"
+          },
+          "reason": "Природная цель дня; дорога инков часть описанного маршрута, а не пеший поход по всемирной сети Qhapaq Ñan.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Винный регион",
+          "event": "alternative_not_taken",
+          "evidence": [
+            {
+              "source_record_index": 23,
+              "source_paragraph": 0,
+              "quote": "мы выбрали менее популярный маршрут"
+            }
+          ],
+          "decision": "exclude_abandoned_alternative",
+          "reason": "Винодельни вместо кактусов не посещались; дегустация в Чили позднее отдельное событие.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Центральная площадь Сальты и церкви",
+          "event": "evening_city_walk",
+          "evidence": [
+            {
+              "source_record_index": 23,
+              "source_paragraph": 9,
+              "quote": "мы погуляли по центру Сальты"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "salta--tsentralnaya-ploshchad-salty"
+          },
+          "reason": "Общая городская прогулка с колокольным звоном; точные имена соборов не угадываются.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/salta-impressions/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все подписи и текущая глава прочитаны; объединение абзацев сопоставлено с исходными строками.",
+      "objects": [
+        {
+          "label": "Археологический музей Сальты",
+          "event": "missed_due_to_flight_change",
+          "evidence": [
+            {
+              "source_record_index": 22,
+              "source_paragraph": 2,
+              "quote": "Мы в него должны были идти сегодня утром, но нам рейс перенесли"
+            }
+          ],
+          "decision": "exclude_failed_plan",
+          "reason": "Музей с мумиями описан как пропущенная цель. Визит не добавлен, название по догадке не подставлено.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Буэнос-Айрес — набережная",
+          "event": "walk_during_airport_connection",
+          "evidence": [
+            {
+              "source_record_index": 22,
+              "source_paragraph": 8,
+              "quote": "мы просто вышли и пошли гулять по набережной"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "buenos-aires"
+          },
+          "reason": "Во время пересадки действительно вышли гулять, а не только аэропорт.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Игуасу — резорт и звёзды",
+          "event": "overnight_and_stargazing",
+          "evidence": [
+            {
+              "source_record_index": 22,
+              "source_paragraph": 11,
+              "quote": "пошли смотреть на звезды"
+            }
+          ],
+          "decision": "covered_by_trip",
+          "reason": "Личная ночёвка и наблюдение неба без отдельной обсерватории. Парагвай упомянут как сосед, посещение страны не заявлено.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/iguazu-argentina/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все подписи и текущая глава прочитаны; объединение абзацев сопоставлено с исходными строками.",
+      "objects": [
+        {
+          "label": "Игуасу — аргентинская сторона",
+          "event": "waterfall_and_trails_visit",
+          "evidence": [
+            {
+              "source_record_index": 21,
+              "source_paragraph": 3,
+              "quote": "Мы приехали в национальный парк с водопадами"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "iguazu-falls"
+          },
+          "reason": "Посетили Macuco, Глотку Дьявола и верхний маршрут. Всё часть национального парка, не 275 отдельных точек.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Нижний маршрут Игуасу",
+          "event": "closed_trail",
+          "evidence": [
+            {
+              "source_record_index": 21,
+              "source_paragraph": 7,
+              "quote": "но он был закрыт"
+            }
+          ],
+          "decision": "exclude_closed_activity",
+          "reason": "Нижнюю тропу не прошли. Ниагара сравнительный пример, не посещение в этой поездке.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/iguazu-brazil/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все подписи и текущая глава прочитаны; объединение абзацев сопоставлено с исходными строками.",
+      "objects": [
+        {
+          "label": "Игуасу — бразильская сторона",
+          "event": "waterfall_panorama_walk",
+          "evidence": [
+            {
+              "source_record_index": 20,
+              "source_paragraph": 7,
+              "quote": "Мы шли по тропинке 1.5 км"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "iguazu-falls"
+          },
+          "reason": "Граница пройдена и панорамная прогулка состоялась; сомнения подготовки не отменяют визит.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Парк трёх стран — аргентинская сторона",
+          "event": "viewpoint_visit",
+          "evidence": [
+            {
+              "source_record_index": 20,
+              "source_paragraph": 10,
+              "quote": "попросили водителя завести нас в парк 3 стран"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "iguazu-falls--three-borders-viewpoint"
+          },
+          "reason": "Посетили точку в Аргентине; вид на Парагвай не въезд в него.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/buenos-aires/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все подписи и текущая глава прочитаны; объединение абзацев сопоставлено с исходными строками.",
+      "objects": [
+        {
+          "label": "Буэнос-Айрес",
+          "event": "guided_city_walk",
+          "evidence": [
+            {
+              "source_record_index": 19,
+              "source_paragraph": 5,
+              "quote": "Начали мы с ознакомительной бесплатной экскурсии"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "buenos-aires"
+          },
+          "reason": "Трёхчасовая обзорная и продолжение прогулки.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Кафедральный собор и мавзолей Сан-Мартина",
+          "event": "entered_cathedral",
+          "evidence": [
+            {
+              "source_record_index": 19,
+              "source_attachment_path": "attachments.0.data.25.media.description",
+              "quote": "Тут мавзолей Хосе де Сан-Мартину –  освободителю Аргентины от Испании. Мне он чем-то усыпальницу Наполеона напомнил. Вокруг почетный караул и школьников приводят. Смотрите какие беленькие детки (сняла их сзади)"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "buenos-aires--metropolitan-cathedral"
+          },
+          "reason": "Самостоятельный рассказ в подписи о мавзолее, карауле и школьниках; собор и его гробница один комплекс.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Книжный магазин в театре",
+          "event": "entered_bookshop",
+          "evidence": [
+            {
+              "source_record_index": 19,
+              "source_paragraph": 9,
+              "quote": "мы посетили книжный магазин в театре"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "buenos-aires--knizhnyy-magazin-v-teatre"
+          },
+          "reason": "Реальное посещение. Имя магазина, не приведённое автором, не требуется для сохранения авторского объекта.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Музей декоративного искусства",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 19,
+              "source_paragraph": 10,
+              "quote": "Митин фаворит сегодня - Музей декоративного искусства"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "buenos-aires--muzey-dekorativnogo-iskusstva"
+          },
+          "reason": "Посетили все трое; Митин фаворит не значит одиночное посещение. Русские картины — часть коллекции.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Палермо-Сохо",
+          "event": "district_walk",
+          "evidence": [
+            {
+              "source_record_index": 19,
+              "source_paragraph": 12,
+              "quote": "богемный район - Палермо Сохо"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "buenos-aires--palermo-soho"
+          },
+          "reason": "Отдельная цель вечерней прогулки прямо названа автором.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Розовый дворец, мэрия, парламент и прочие детали обзора",
+          "event": "brief_city_exteriors",
+          "evidence": [
+            {
+              "source_record_index": 19,
+              "source_attachment_path": "attachments.0.data.14.media.description",
+              "quote": "Вот \"Розовый дворец\" - правительство и президент тут работают."
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Краткие подписи общей обзорной, входы не описаны. ГУМ — сравнение, не московская поездка.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/recoleta-mate/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все подписи и текущая глава прочитаны; объединение абзацев сопоставлено с исходными строками.",
+      "objects": [
+        {
+          "label": "Кладбище Реколета",
+          "event": "entered_cemetery",
+          "evidence": [
+            {
+              "source_record_index": 18,
+              "source_paragraph": 0,
+              "quote": "День начали на кладбище"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "buenos-aires--kladbishche-rekoleta"
+          },
+          "reason": "Были все трое, хотя только Митя получил удовольствие. Отрицательное впечатление родителей не отменяет визит.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Национальный музей изящных искусств",
+          "event": "entered_gallery",
+          "evidence": [
+            {
+              "source_record_index": 18,
+              "source_paragraph": 3,
+              "quote": "А потом мы пошли в Нац. галерею"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "buenos-aires--natsionalnyy-muzey-izyashchnykh-iskusstv-argentiny"
+          },
+          "reason": "Подробная оценка коллекции; все пятнадцать подписей прочитаны, биографические города художников не маршрут.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Музей мате",
+          "event": "guided_museum_and_tasting",
+          "evidence": [
+            {
+              "source_record_index": 18,
+              "source_paragraph": 8,
+              "quote": "Мы купили билет с туром и дегустацией"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "buenos-aires--muzey-mate"
+          },
+          "reason": "Вчера лишь проходили мимо, сегодня состоялись тур и дегустация.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Район Реколета и метро",
+          "event": "district_and_transport_experience",
+          "evidence": [
+            {
+              "source_record_index": 18,
+              "source_paragraph": 6,
+              "quote": "мы решили прокатиться на метро"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Прогулка по району и поездка в метро реальны, точные станции не названы и не угадываются.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/teatro-colon/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все подписи и текущая глава прочитаны; объединение абзацев сопоставлено с исходными строками.",
+      "objects": [
+        {
+          "label": "Театр Колон",
+          "event": "opera_performance",
+          "evidence": [
+            {
+              "source_record_index": 17,
+              "source_paragraph": 10,
+              "quote": "Я такое удовольствие получила"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "buenos-aires--teatr-kolon"
+          },
+          "reason": "«Паяцы» и «Сельская честь» смотрела Леля одна. Сергей купил билет, но на оперу не пошёл. Ла Скала и Венская опера сравнения.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Концерт памяти папы Франциска",
+          "event": "attended_square_concert",
+          "evidence": [
+            {
+              "source_record_index": 17,
+              "source_paragraph": 12,
+              "quote": "Сын мой тоже счастлив «дискотекой»"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Отдельный параллельный вечер Сергея и Мити; не посещение ими театра Колон.",
+          "participants": [
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/san-telmo-la-boca/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все подписи и текущая глава прочитаны; объединение абзацев сопоставлено с исходными строками.",
+      "objects": [
+        {
+          "label": "Русская православная церковь",
+          "event": "entered_church_name_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 16,
+              "source_paragraph": 3,
+              "quote": "Воскресенье мы начали с похода в церковь"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Сан-Тельмо и воскресный антикварный рынок",
+          "event": "district_and_market_walk",
+          "evidence": [
+            {
+              "source_record_index": 16,
+              "source_paragraph": 4,
+              "quote": "по воскресеньям большой \"антикварный рынок\""
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "buenos-aires--san-telmo"
+          },
+          "reason": "Рынок часть подробно описанного района; отдельная лавка для каждой вещи не добавлена.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Ла-Бока",
+          "event": "district_walk",
+          "evidence": [
+            {
+              "source_record_index": 16,
+              "source_paragraph": 7,
+              "quote": "Следующий переезд был в Ла-Боку"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "buenos-aires--la-boka"
+          },
+          "reason": "Цветные дома и уличный футбольный праздник; вход на стадион и просмотр матча не заявлены.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Пуэрто-Мадеро",
+          "event": "district_walk",
+          "evidence": [
+            {
+              "source_record_index": 16,
+              "source_paragraph": 11,
+              "quote": "погуляли по новому, современному району - Puerto Madero"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "buenos-aires--puerto-madero"
+          },
+          "reason": "Самостоятельная описанная прогулка по новому району.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Танго-шоу",
+          "event": "attended_show_venue_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 16,
+              "source_paragraph": 14,
+              "quote": "финальной точкой нашей аргентинской поездки стало танго-шоу"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Представление состоялось; точная площадка не названа, вопрос сохранён.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/valparaiso/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все подписи и текущая глава прочитаны; объединение абзацев сопоставлено с исходными строками.",
+      "objects": [
+        {
+          "label": "Вальпараисо",
+          "event": "guided_city_walk",
+          "evidence": [
+            {
+              "source_record_index": 15,
+              "source_paragraph": 3,
+              "quote": "У нас была заказана бесплатная экскурсия"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "valparaiso"
+          },
+          "reason": "Экскурсия состоялась, хотя первая оценка отрицательная. Уличное искусство общей городской историей, без каждой росписи отдельной точкой.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Площадь и памятник Артуро Прату",
+          "event": "square_and_memorial_visit",
+          "evidence": [
+            {
+              "source_record_index": 15,
+              "source_paragraph": 4,
+              "quote": "Начали с центральной площади и памятника Артуро Прату"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "valparaiso--arturo-prat-memorial"
+          },
+          "reason": "Подробный самостоятельный рассказ гида о герое и памятнике. Военная база и видимая подлодка не музейный вход.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Немецкая добровольная пожарная станция",
+          "event": "entered_station_name_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 15,
+              "source_paragraph": 8,
+              "quote": "мы зашли на пожарную станцию"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Рассказ о разговоре с пожарным и показе машин; номер и имя бригады не названы.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Фуникулёры",
+          "event": "city_transport_background",
+          "evidence": [
+            {
+              "source_record_index": 15,
+              "source_paragraph": 9,
+              "quote": "построили 30 фуникулеров"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "История городского транспорта; проезд на конкретном подъёмнике не заявлен.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/americas/argentina/south-america-2026/modern-chile/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все подписи и текущая глава прочитаны; объединение абзацев сопоставлено с исходными строками.",
+      "objects": [
+        {
+          "label": "Винья-дель-Мар",
+          "event": "visited_coastal_city",
+          "evidence": [
+            {
+              "source_record_index": 14,
+              "source_paragraph": 1,
+              "quote": "Впитав современности"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "vina-del-mar"
+          },
+          "reason": "Переезд в современный приморский город и осмотр.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Конкон",
+          "event": "coastal_itinerary_mention",
+          "evidence": [
+            {
+              "source_record_index": 14,
+              "source_paragraph": 0,
+              "quote": "городок Конкон (Concón)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "concon"
+          },
+          "reason": "Сохранён прямо названный современный город маршрута; точный объём прогулки не уточнён.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Винодельня по дороге в Сантьяго",
+          "event": "winery_tasting_name_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 14,
+              "source_paragraph": 1,
+              "quote": "у нас была остановка на винодельне"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Леля и Митя дегустировали, Сергей как водитель в основном пил воду. Имя винодельни не угадано.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Музей доколумбова искусства",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 14,
+              "source_paragraph": 3,
+              "quote": "Музей преколумбовой цивилизации"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "santiago-chile--muzey-dokolumbova-iskusstva"
+          },
+          "reason": "Посетили все трое; «мальчики дорвались» не исключает Лелю. Мадрид и Мехико сравнения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Gran Torre Santiago",
+          "event": "view_from_apartment",
+          "evidence": [
+            {
+              "source_record_index": 14,
+              "source_paragraph": 4,
+              "quote": "кондо с обзорным видом"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Башня видна из квартиры; подъём на башню не заявлен.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled_names_open",
+    "questions": [
+      {
+        "object": "Танго-шоу Буэнос-Айреса",
+        "question": "На какой площадке было финальное танго-шоу?"
+      },
+      {
+        "object": "Пожарная станция Вальпараисо",
+        "question": "Как называется немецкая добровольная бригада, показавшая машины?"
+      },
+      {
+        "object": "Винодельня Чили",
+        "question": "Название винодельни на дороге с побережья в Сантьяго?"
+      }
+    ],
+    "limitations": [
+      {
+        "detail": "Десять видео поездки не просмотрены; сведения из звука и точные названия площадок по видео не считаются проверенными."
+      }
+    ],
+    "repeat_check": "Проверены все пятнадцать глав и их связи. Добавлены описанные почта Сантьяго, Гора семи цветов, Эскойпе, Piedra del Molino, аргентинский парк трёх стран, собор Буэнос-Айреса, Палермо-Сохо, Пуэрто-Мадеро и памятник Артуро Прату. Археологический музей Сальты пропущен из-за переноса рейса, нижняя тропа Игуасу закрыта. Театр Колон посещала только Леля; Сергей и Митя одновременно были на концерте памяти папы. Четыре неизвестных названия вынесены в вопросы, сопутствующие фоновые объекты и прежние страны не добавлены. Авторский текст и фотографии не менялись."
+  }
+}

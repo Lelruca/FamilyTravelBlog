@@ -1,0 +1,353 @@
+{
+  "status": "structure_inspected_not_a_reading_certificate",
+  "sources": [
+    {
+      "source": "G:/My Drive/Family Travel Blog Photos/Отчеты/2016 Aug - Детройт и Виндзор.docx",
+      "sha256": "1d78e72fe498a2148b6b9f7c969084ec5a60d42d0f76d308a437d93aa67083e1",
+      "direct_paragraphs": 57,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 23
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2011_ Европейское турне (Швейцария, Эльзас, Германия, Голландия, Бельгия).docx",
+      "sha256": "1f3a8bca05f26e4d2c030f5d5b4d6dc51d2404e9cdc1d725373206679590b29f",
+      "direct_paragraphs": 450,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 112
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2012_ Франция.docx",
+      "sha256": "7e8e8c3df89cc7a954b226a881ea8f7a275821bcfa989d8b35d88364af2beda1",
+      "direct_paragraphs": 439,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 146
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2013_ Квебек и Вирджиния Бич.docx",
+      "sha256": "2ba287da2f20a086fb3cc2e5bae964a2af20b7fc92ba38a1652710de1f8b0be7",
+      "direct_paragraphs": 257,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 78
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2014_ Атлантическая Канада.docx",
+      "sha256": "0b6e37b415c44fc053c28f1d490a8efc4313c339aa4c501d9c45554c0674a5d4",
+      "direct_paragraphs": 989,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 300
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2015 лето_ Наше освоение Новой Англии_.docx",
+      "sha256": "215d892bab553f2ba3f043ba1b19961f4ca93549e5063206200dfabd76d838f7",
+      "direct_paragraphs": 329,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 127
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Германия у бабушки (разные годы).docx",
+      "sha256": "243621557acf4008e1c3f1318bfc24d2a51e61bf82ed89b6a3e03370a87dcbae",
+      "direct_paragraphs": 78,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 0
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Канада - разное.docx",
+      "sha256": "79b47ac3921c68aeae4304b4f874adc54760d35e98aec4bbc8cc25a9036ee827",
+      "direct_paragraphs": 36,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [
+        {
+          "p": 28,
+          "field": "alt",
+          "text": "IMG_20121223_141100 (1)"
+        },
+        {
+          "p": 28,
+          "field": "title",
+          "text": "IMG_20121223_141100 (1)"
+        },
+        {
+          "p": 30,
+          "field": "alt",
+          "text": "IMG_20121224_124144 (1)"
+        },
+        {
+          "p": 30,
+          "field": "title",
+          "text": "IMG_20121224_124144 (1)"
+        }
+      ],
+      "image_reference_count": 2
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Онтарио (разное).docx",
+      "sha256": "cc92b2bdd74ee5d22c1b6a5fda45bf431fe2f0ecee696134724a094fb779f8a7",
+      "direct_paragraphs": 242,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 86
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\Штаты - разное.docx",
+      "sha256": "758ad0f0edcbad5b83c7b18c31692fd8c83cae0e25a93037371ee1ea8d80ad7f",
+      "direct_paragraphs": 193,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 56
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2014-2015_ Рождество в Европе (Альпы, Франция, Бельгия и немножко Германии и Голландии).docx",
+      "sha256": "737aca5a7532892ebca561ff8cc92afaad5980739ea593f9f98dd8aeba1d5f0c",
+      "direct_paragraphs": 1073,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 339
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2017 oct - Chicago.docx",
+      "sha256": "87ae6218b11e6cf4fa8bfd502b3b87c25dcdd31315bdb54b39d6f9a0c154eda3",
+      "direct_paragraphs": 173,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 62
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2015 лето_ Отдых в Мексике, майя.docx",
+      "sha256": "c039f2139eb5e067fc71eecdf71e531f5ef9adf2659a9849b79efa6914fcf50e",
+      "direct_paragraphs": 373,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 141
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2017 Город Тринидад и современная Куба.docx",
+      "sha256": "40ae5ff1dd5c3c7e7c272439eb71d7903e46248a18ab916ea2957bb142117389",
+      "direct_paragraphs": 87,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 31
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2016_ _Наши немцы в Канаде_.docx",
+      "sha256": "44392b3d0d6f01bccb065112f7460d94b580bde83a6089725a92e24599b0a9b2",
+      "direct_paragraphs": 227,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 77
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2018 март - London - мартовские каникулы.docx",
+      "sha256": "41da74df0351a392b860dd175e658475adb6285c72c1b2193b763f086fe838ae",
+      "direct_paragraphs": 263,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 57
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2015-2016_ _Римские каникулы_ (Девичник-1).docx",
+      "sha256": "611fd7ca757e0af49ff5d5c7b5795d4d492907263285423312a190ca39a96bd1",
+      "direct_paragraphs": 857,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 303
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2017 январь_ _Девичник в Европе - 2_ (Амстердам, Париж, Гаага).docx",
+      "sha256": "cd9b42a1e42a1938cdba891b2bdb7c0fafa46d0165d3d660bb72d017f6c9b64d",
+      "direct_paragraphs": 729,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 253
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2016 лето_ _Португалия-Испания -двухнедельное знакомство_.docx",
+      "sha256": "e5da6da51f367eb8dd297ed9e224b0c7725671e93f2d52e120bd51b19c233914",
+      "direct_paragraphs": 1165,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 446
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2017 лето_ Португалия-Испания север - медовый месяц.docx",
+      "sha256": "e630858831f4362d6db72625739dd17e15c3130f20c0f606283b805513fe669a",
+      "direct_paragraphs": 1098,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 332
+    },
+    {
+      "source": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\day1.docx",
+      "sha256": "029805ba7ec2fda6650b84df59054b2b49a2b1b61b24877630ad14370e202431",
+      "direct_paragraphs": 9,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "read_role": "author_source_read"
+    },
+    {
+      "source": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\day2.docx",
+      "sha256": "7724cb165a4c76a87d5feee4bf4f5efe4d64e7b593f9e1755a41b48ce89404da",
+      "direct_paragraphs": 12,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "read_role": "author_source_read"
+    },
+    {
+      "source": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\day3.docx",
+      "sha256": "6897a0b7efcac2a677451ef364f0261a160a5e4ef8b7b324cc111139771bfe0a",
+      "direct_paragraphs": 19,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "read_role": "author_source_read"
+    },
+    {
+      "source": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\day4.docx",
+      "sha256": "860c86d1bf97528299df30f254a593c7a1d39753d7da132a64e77eb0859af123",
+      "direct_paragraphs": 53,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "read_role": "author_source_read"
+    },
+    {
+      "source": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\day5.docx",
+      "sha256": "0d43531cf0688d9ff989592fafb560b1945f7a2604b1e849d239a4eca5cd4dc8",
+      "direct_paragraphs": 12,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "read_role": "author_source_read"
+    },
+    {
+      "source": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\day6.docx",
+      "sha256": "9ac47fe0cc0a761a66cf60b31b14d671e173124170fcf8e0ca2913e3ba532397",
+      "direct_paragraphs": 7,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "read_role": "author_source_read"
+    },
+    {
+      "source": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\day7.docx",
+      "sha256": "30fc26371a0e89d8217dc49a072713860fb3559a2fd531ce4eae28ceeb457960",
+      "direct_paragraphs": 9,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "read_role": "author_source_read"
+    },
+    {
+      "source": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\family-plan.docx",
+      "sha256": "fcd58321530239d8547a5aa645995c0cf6b2535deb70aec7d324d2f6ade71bbe",
+      "direct_paragraphs": 60,
+      "nested_text": [
+        {
+          "kind": "table",
+          "count": 1,
+          "status": "read_as_preparation"
+        }
+      ],
+      "notes": [],
+      "image_captions": [],
+      "read_role": "preparatory_material_not_visit_proof"
+    },
+    {
+      "source": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\intro.docx",
+      "sha256": "e0d5e27b1034b8acc0802b738b83fea4068a434d6e971f0313e78c78b1fe42be",
+      "direct_paragraphs": 7,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "read_role": "author_source_read"
+    },
+    {
+      "source": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\paris-plan.docx",
+      "sha256": "356aa7e370013b574f33c7a75a2d977fbb36a61c098c986f29091b42ebeafc71",
+      "direct_paragraphs": 63,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "read_role": "preparatory_material_not_visit_proof"
+    },
+    {
+      "source": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\plan.docx",
+      "sha256": "f585b8418fe88d41a4bbcf2ba74a7ac7e9de30b0b3e75ccc4f4d7c751897df76",
+      "direct_paragraphs": 227,
+      "nested_text": [
+        {
+          "kind": "table",
+          "count": 3,
+          "status": "read_as_preparation"
+        }
+      ],
+      "notes": [],
+      "image_captions": [],
+      "read_role": "preparatory_material_not_visit_proof"
+    },
+    {
+      "source": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\report.docx",
+      "sha256": "300f7a1f405eb027a5738cd39189bf8f55715af33cc208b1311395b2548c9ed8",
+      "direct_paragraphs": 311,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "read_role": "author_source_read"
+    },
+    {
+      "source": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\research.docx",
+      "sha256": "75aa26cca443811a8feee5a89e7090f7139fbd67db2588dca6f9cc89cc18dc8a",
+      "direct_paragraphs": 23,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "read_role": "preparatory_material_not_visit_proof"
+    },
+    {
+      "source": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\viber.docx",
+      "sha256": "523739263df3cc8f8fa50c4d9342c86922a0526103658493b5c2f3350f0a781d",
+      "direct_paragraphs": 213,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "read_role": "author_source_read"
+    },
+    {
+      "source": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2019 весна_ Китай - первый раз в Азию.docx",
+      "sha256": "65087b25c0bd0cf6eda533209bff344fc3536842399d10676b101cc896ee615d",
+      "direct_paragraphs": 895,
+      "nested_text": [],
+      "notes": [],
+      "image_captions": [],
+      "image_reference_count": 258
+    }
+  ]
+}

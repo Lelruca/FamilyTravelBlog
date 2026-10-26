@@ -1,0 +1,106 @@
+{
+  "trip_path": "content/europe/spain/montserrat-2025",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "kind": "facebook_profile_json",
+    "record_index": 41,
+    "timestamp": 1764949595,
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "read": "Целиком прочитан оригинальный пост Facebook и все подписи вложений, затем текущая глава и сведения о составе поездки. Служебные названия альбомов не каталогизируются."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/montserrat-2025.json",
+    "method": "Решения только по авторскому рассказу и прямым содержательным подписям. Каждый снимок не рассматривается и фоновые объекты не определяются."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/spain/montserrat-2025/montserrat/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны полностью. Части комплексов, планы и сравнения не считаются отдельными посещениями.",
+      "objects": [
+        {
+          "label": "Монтсеррат — монастырь, базилика и Чёрная Мадонна",
+          "event": "entered_and_service",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "К Мадонне мы подходили под звуки органа"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "montserrat"
+          },
+          "reason": "Прямое посещение храма и святыни на Успение, один монастырский комплекс. Известны Леля, Сергей, Наташа и Марина по обложке, в музее указано шесть человек; полный состав не угадывается.",
+          "participants": null
+        },
+        {
+          "label": "Канатная дорога Монтсеррата",
+          "event": "rode",
+          "evidence": [
+            {
+              "source_paragraph": 1,
+              "quote": "Мы выбрали канатку."
+            }
+          ],
+          "decision": "covered_by_complex",
+          "reason": "Зубчатый поезд только альтернативный способ подъёма, не совершённая поездка.",
+          "participants": null
+        },
+        {
+          "label": "Музей Монтсеррата",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_paragraph": 3,
+              "quote": "Потом мы пришли в музей"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "montserrat--muzey-montserrata"
+          },
+          "reason": "Прямо описаны фильм и коллекция русских икон. Не создаются отдельные точки по картинам.",
+          "participants": null
+        },
+        {
+          "label": "Полуденная служба и причастие",
+          "event": "attended_service",
+          "evidence": [
+            {
+              "source_paragraph": 5,
+              "quote": "остались на службу"
+            }
+          ],
+          "decision": "covered_by_complex",
+          "reason": "После отъезда остальных остались только Леля и Марина.",
+          "participants": [
+            "Леля",
+            "Марина"
+          ]
+        },
+        {
+          "label": "Флоренция",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "не то что во Флоренции"
+            }
+          ],
+          "decision": "exclude_as_current_visit",
+          "reason": "Сравнение коллекций с другой поездкой.",
+          "participants": null
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled",
+    "questions": [],
+    "repeat_check": "Сопоставлены все названные места рассказа и подписи. Отдельные экспонаты и внутренние части комплексов не добавлены. Несостоявшийся музей кавы исключён, службы и поездки отдельных членов группы учтены отдельно."
+  }
+}

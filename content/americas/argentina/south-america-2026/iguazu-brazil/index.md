@@ -10,6 +10,7 @@ hero_image: "20260416_102745.jpg"
 date: "2026-04-16"
 auto_gallery: false
 draft: false
+attractions: ["iguazu-falls--three-borders-viewpoint"]
 ---
 <p>"Я достаю из широких штанин<br>дубликатом бесценного груза...." - сегодня без эпиграфа Маяковского не обойтись 😀</p>
 

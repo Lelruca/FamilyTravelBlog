@@ -1,0 +1,288 @@
+{
+  "trip_path": "content/americas/canada/tobermory-2014",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\.tmp\\source-material-audit\\media-manifests\\tobermory-2014.json",
+    "sha256": "8fefa69b737dbd7d474440737e0af2ad65bb63a35c018743f60d45f4c456234c",
+    "kind": "photograph_manifest",
+    "read": "Все четыре главы и страница поездки прочитаны целиком. Все главы состоят из фотографий: manifest явно помечает without_post. Авторских рассказов, заключений и оценок в известном комплекте нет. Отсутствие текста в этом комплекте не доказывает отсутствие ещё не сверенных внешних материалов."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 65,
+    "manifest": "media-manifests/tobermory-2014.json",
+    "method": "65 архивных оригиналов сверены по SHA-256 и просмотрены полностью на шести контактных листах, включая поздние кадры 6 июля."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/canada/tobermory-2014/waterfalls/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Водопад Хоггс",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "waterfalls/DSC01720.jpg"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "hoggs-falls"
+          },
+          "reason": "Указатель Hoggs Falls на собственном снимке; водопад на IMG_4068 и DSC01775."
+        },
+        {
+          "label": "Водопад Инглис",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "waterfalls/IMG_4086.jpg"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "inglis-falls"
+          },
+          "reason": "Ступенчатый каскад соответствует названию главы и официальному описанию Inglis Falls."
+        },
+        {
+          "label": "Третий высокий водопад",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "waterfalls/DSC01714.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены."
+        },
+        {
+          "label": "Лесные тропы, каменная ограда и беседка",
+          "event": "visited_site_components",
+          "evidence": [
+            {
+              "photo": "waterfalls/DSC01726.jpg"
+            }
+          ],
+          "decision": "covered_by_sites",
+          "reason": "Части прогулок у водопадов; отдельные названия сооружений отсутствуют."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/tobermory-2014/flowerpot/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Тобермори — гавань и набережная",
+          "event": "walked",
+          "evidence": [
+            {
+              "photo": "flowerpot/IMG_4105.jpg"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "tobermory"
+          },
+          "reason": "Семья на набережной и у лодочной гавани."
+        },
+        {
+          "label": "Лодочная экскурсия из Тобермори",
+          "event": "attended",
+          "evidence": [
+            {
+              "photo": "flowerpot/IMG_20140629_133120.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены."
+        },
+        {
+          "label": "Flowerpot Island и скалы-столбы",
+          "event": "viewed_from_boat",
+          "evidence": [
+            {
+              "photo": "flowerpot/DSC01831.jpg"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "flowerpot-island"
+          },
+          "reason": "Столбы видны с воды, на DSC01834 видны посетители на суше, но это не доказывает высадку семьи на остров."
+        },
+        {
+          "label": "Затонувшее судно под водой",
+          "event": "viewed_from_boat",
+          "evidence": [
+            {
+              "photo": "flowerpot/DSC01792.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены."
+        },
+        {
+          "label": "Маяк у выхода из гавани",
+          "event": "viewed_from_boat",
+          "evidence": [
+            {
+              "photo": "flowerpot/DSC01799.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены."
+        },
+        {
+          "label": "Место пикника",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "flowerpot/20140629_152710.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены."
+        },
+        {
+          "label": "Улица с магазинами",
+          "event": "walked",
+          "evidence": [
+            {
+              "photo": "flowerpot/IMG_20140629_154128.jpg"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "tobermory"
+          },
+          "reason": "Прогулка; вход в отдельные магазины не подтверждён."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/tobermory-2014/grotto/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "The Grotto",
+          "event": "exterior_and_surroundings",
+          "evidence": [
+            {
+              "photo": "grotto/DSC01870.jpg"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "grotto-bruce"
+          },
+          "reason": "Семья у края грота и на скалах. Спуск внутрь полости по этим кадрам не подтверждён."
+        },
+        {
+          "label": "Bruce Peninsula National Park",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "grotto/DSC01879.jpg"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "bruce-peninsula"
+          },
+          "reason": "Прогулка к гроту и по берегу; это парк, а не только отдельная пещера."
+        },
+        {
+          "label": "Бухта и галечный пляж у грота",
+          "event": "shore_visit",
+          "evidence": [
+            {
+              "photo": "grotto/DSC01853.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/tobermory-2014/adventure-park/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Гостиница",
+          "event": "overnight",
+          "evidence": [
+            {
+              "photo": "adventure-park/IMG_20140630_075447.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены."
+        },
+        {
+          "label": "Верёвочный парк",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "adventure-park/DSC01894.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены."
+        },
+        {
+          "label": "Уличный бассейн",
+          "event": "swimming",
+          "evidence": [
+            {
+              "photo": "adventure-park/DSC01914.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены."
+        },
+        {
+          "label": "Ресторан",
+          "event": "visited",
+          "evidence": [
+            {
+              "photo": "adventure-park/IMG_20140630_185222.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены."
+        },
+        {
+          "label": "Пляж 6 июля 2014",
+          "event": "visited_separate_date",
+          "evidence": [
+            {
+              "photo": "adventure-park/IMG_20140706_153902.jpg"
+            }
+          ],
+          "decision": "exclude_incidental_photo",
+          "reason": "По уточнению владельца: в рассказе место не раскрыто; фотографии не дают достаточного основания для отдельной ссылки из данных. Отдельная точка и вопрос об идентификации исключены."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_explicit_identification_questions",
+    "questions": [],
+    "repeat_check": "Весь известный фотографический комплект повторно сопоставлен с объектами. Обнаружен третий высокий водопад и несоответствие даты двух пляжных кадров; оба вопроса сохранены явно. Заголовок главы не заменяет проверку изображения.",
+    "external_sources": [
+      {
+        "url": "https://www.greysauble.on.ca/portfolio/inglis-falls-conservation-area/",
+        "purpose": "Сверка ступенчатого каскада Inglis Falls."
+      },
+      {
+        "url": "https://www.greysauble.on.ca/portfolio/eugenia-falls-conservation-area/",
+        "purpose": "Кандидат для третьего водопада; окончательная идентификация не заявлена."
+      }
+    ],
+    "photo_scope": "Рассказ — основное основание. Фото учитываются только как редкое исключение: большая серия в самой главе явно заменяет рассказ о месте и позволяет читателю понять, где оно показано. Количество неопубликованных оригиналов и отдельные виды не обосновывают точку. Неназванные детали не превращаются в вопросы."
+  }
+}

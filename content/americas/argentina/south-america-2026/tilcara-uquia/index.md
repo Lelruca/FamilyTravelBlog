@@ -5,14 +5,14 @@ layout: "photo-story"
 weight: 40
 city: "Purmamarca, Tilcara, Uquía"
 places:
+  - uquia-church
   - purmamarca
   - tilcara
-  - uquia-church
 hero_image: "IMG_3598.jpg"
 date: "2026-04-12"
 auto_gallery: false
 draft: false
-attractions: ["tilcara--pukara-de-tilkara"]
+attractions: ["tilcara--pukara-de-tilkara","purmamarca--seven-colours-hill"]
 ---
 <p>Завалю вас сегодня горами 😀<br>Мы встали в 6:30 и в 7 уже были на горе, потому что AI нам сказал, что до рассвета краски особенно фактурны... Видимо, пользуемся AI мы одни, потому что других дураков не было 😀</p>
 

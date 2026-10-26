@@ -277,7 +277,8 @@
     "parent": "astorga",
     "types": [
       "cathedral",
-      "church"
+      "church",
+      "museum"
     ],
     "search_terms": [
       "собор",
@@ -292,7 +293,13 @@
       "храмы",
       "базилика",
       "базилики",
-      "church"
+      "church",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "aveiro--muzey-aveyru-monastyr-iisusa": {
@@ -332,20 +339,6 @@
       "музеев",
       "museum",
       "museums"
-    ]
-  },
-  "banff--fairmont-banff-springs": {
-    "title": "Fairmont Banff Springs",
-    "parent": "banff",
-    "types": [
-      "hotel"
-    ],
-    "search_terms": [
-      "отель",
-      "отели",
-      "гостиница",
-      "гостиницы",
-      "hotel"
     ]
   },
   "banff--muzey-buffalo-nations-luxton": {
@@ -441,48 +434,6 @@
       "наука",
       "science centre",
       "science center"
-    ]
-  },
-  "barcelona--ploshchad-ispanii": {
-    "title": "Площадь Испании",
-    "parent": "barcelona",
-    "types": [
-      "square"
-    ],
-    "search_terms": [
-      "площадь",
-      "площади",
-      "площадей",
-      "square",
-      "plaza"
-    ]
-  },
-  "barcelona--ploshchad-katalonii": {
-    "title": "Площадь Каталонии",
-    "parent": "barcelona",
-    "types": [
-      "square"
-    ],
-    "search_terms": [
-      "площадь",
-      "площади",
-      "площадей",
-      "square",
-      "plaza"
-    ]
-  },
-  "barcelona--ploshchad-sant-zhaume": {
-    "title": "Площадь Сант-Жауме",
-    "parent": "barcelona",
-    "types": [
-      "square"
-    ],
-    "search_terms": [
-      "площадь",
-      "площади",
-      "площадей",
-      "square",
-      "plaza"
     ]
   },
   "barcelona-cathedral": {
@@ -917,7 +868,8 @@
     "title": "Трептов-парк",
     "parent": "berlin",
     "types": [
-      "park"
+      "park",
+      "monument"
     ],
     "search_terms": [
       "парк",
@@ -929,7 +881,13 @@
       "сада",
       "садов",
       "park",
-      "garden"
+      "garden",
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
     ]
   },
   "bilbao-fine-arts": {
@@ -978,24 +936,8 @@
       "zoo"
     ]
   },
-  "bodeguita-del-medio": {
-    "title": "Бар «Бодегита дель Медио»",
-    "parent": "havana",
-    "place": "bodeguita-del-medio",
-    "types": [
-      "restaurant"
-    ],
-    "search_terms": [
-      "ресторан",
-      "рестораны",
-      "бар",
-      "кабаре",
-      "restaurant",
-      "cabaret"
-    ]
-  },
   "bonaventure-island": {
-    "title": "Остров Бонавантюр",
+    "title": "Остров Bonaventure",
     "parent": "perce",
     "place": "bonaventure-island",
     "types": [
@@ -2089,7 +2031,8 @@
     "parent": "rome",
     "place": "colosseum",
     "types": [
-      "archaeological_site"
+      "archaeological_site",
+      "arena"
     ],
     "search_terms": [
       "археология",
@@ -2097,7 +2040,12 @@
       "руины",
       "раскопки",
       "archaeology",
-      "ruins"
+      "ruins",
+      "арена",
+      "арены",
+      "амфитеатр",
+      "arena",
+      "amphitheatre"
     ]
   },
   "conciergerie": {
@@ -2120,31 +2068,8 @@
       "prison"
     ]
   },
-  "condom--sobor-kondoma": {
-    "title": "Собор Кондома",
-    "parent": "condom",
-    "types": [
-      "cathedral",
-      "church"
-    ],
-    "search_terms": [
-      "собор",
-      "соборы",
-      "собора",
-      "соборов",
-      "cathedral",
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
   "confucius-temple-beijing": {
-    "title": "Храм Конфуция",
+    "title": "Храм Конфуция, Пекин",
     "parent": "beijing",
     "place": "confucius-temple-beijing",
     "types": [
@@ -2702,18 +2627,6 @@
       "tower"
     ]
   },
-  "ek-balam--senot": {
-    "title": "Сенот",
-    "parent": "ek-balam",
-    "types": [
-      "cenote"
-    ],
-    "search_terms": [
-      "сенот",
-      "сеноты",
-      "cenote"
-    ]
-  },
   "escher-museum": {
     "title": "Музей Эшера",
     "parent": "the-hague",
@@ -2743,55 +2656,6 @@
       "музеев",
       "museum",
       "museums"
-    ]
-  },
-  "florence--bazilika-san-lorentso": {
-    "title": "Базилика Сан-Лоренцо",
-    "parent": "florence",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "florence--bazilika-san-miniato-al-monte": {
-    "title": "Базилика Сан-Миниато-аль-Монте",
-    "parent": "florence",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "florence--florentiyskiy-baptisteriy": {
-    "title": "Флорентийский баптистерий",
-    "parent": "florence",
-    "types": [
-      "temple"
-    ],
-    "search_terms": [
-      "храм",
-      "храмы",
-      "храма",
-      "храмов",
-      "святилище",
-      "temple"
     ]
   },
   "florence--muzey-opera-del-duomo": {
@@ -2905,7 +2769,7 @@
     ]
   },
   "forbidden-city-beijing": {
-    "title": "Запретный город",
+    "title": "Запретный город, Пекин",
     "parent": "beijing",
     "place": "forbidden-city-beijing",
     "types": [
@@ -3108,7 +2972,7 @@
     ]
   },
   "gastown": {
-    "title": "Гастаун",
+    "title": "Gastown, Vancouver",
     "parent": "vancouver",
     "place": "gastown",
     "types": [
@@ -3121,23 +2985,6 @@
       "кварталы",
       "district",
       "neighbourhood"
-    ]
-  },
-  "gijon--bazilika-svyatogo-serdtsa": {
-    "title": "Базилика Святого Сердца",
-    "parent": "gijon",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "gran-teatro-havana": {
@@ -3261,15 +3108,22 @@
       "музея",
       "музеев",
       "museum",
-      "museums"
+      "museums",
+      "Canadian Warplane Heritage Museum",
+      "Авиационный музей Гамильтона"
+    ],
+    "aliases": [
+      "Canadian Warplane Heritage Museum",
+      "Авиационный музей Гамильтона"
     ]
   },
   "hamilton--spencer-gorge-i-vodopady": {
-    "title": "Spencer Gorge и водопады",
+    "title": "Spencer Gorge, водопады Тью и Уэбстера",
     "parent": "hamilton",
     "types": [
       "canyon",
-      "waterfall"
+      "waterfall",
+      "park"
     ],
     "search_terms": [
       "каньон",
@@ -3281,7 +3135,37 @@
       "водопад",
       "водопады",
       "водопада",
-      "waterfall"
+      "waterfall",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "Spencer Gorge",
+      "Tew Falls",
+      "Tew’s Falls",
+      "Webster Falls",
+      "Webster’s Falls",
+      "Тью",
+      "Тью-Фолс",
+      "водопад Тью",
+      "водопад Уэбстера"
+    ],
+    "aliases": [
+      "Spencer Gorge",
+      "Tew Falls",
+      "Tew’s Falls",
+      "Webster Falls",
+      "Webster’s Falls",
+      "Тью",
+      "Тью-Фолс",
+      "водопад Тью",
+      "водопад Уэбстера"
     ]
   },
   "hangzhou--khram-lininsy": {
@@ -3379,7 +3263,7 @@
     ]
   },
   "heritage-park-calgary": {
-    "title": "Херитедж-парк",
+    "title": "Херитедж-парк, Калгари",
     "parent": "calgary",
     "place": "heritage-park-calgary",
     "types": [
@@ -3399,7 +3283,8 @@
     "parent": "vienna",
     "place": "hofburg",
     "types": [
-      "palace"
+      "palace",
+      "museum"
     ],
     "search_terms": [
       "дворец",
@@ -3407,7 +3292,13 @@
       "дворца",
       "дворцов",
       "резиденция",
-      "palace"
+      "palace",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "hyde-park": {
@@ -3488,10 +3379,11 @@
     ]
   },
   "joggins--muzey-okamenelostey-dzhogginsa": {
-    "title": "Музей окаменелостей Джоггинса",
+    "title": "Джоггинс — музей и скалы с окаменелостями",
     "parent": "joggins",
     "types": [
-      "museum"
+      "museum",
+      "fossil_site"
     ],
     "search_terms": [
       "музей",
@@ -3499,8 +3391,14 @@
       "музея",
       "музеев",
       "museum",
-      "museums"
-    ]
+      "museums",
+      "окаменелости",
+      "окаменелостей",
+      "палеонтология",
+      "fossil site",
+      "fossil cliffs"
+    ],
+    "place": "joggins"
   },
   "karwendel": {
     "title": "Карвендель",
@@ -3516,23 +3414,6 @@
       "холмы",
       "mountain",
       "hill"
-    ]
-  },
-  "kevelaer--bazilika-svyatoy-marii": {
-    "title": "Базилика Святой Марии",
-    "parent": "kevelaer",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "kleve--zamok-shvanenburg": {
@@ -3676,22 +3557,6 @@
       "fortress"
     ]
   },
-  "lapin-agile": {
-    "title": "Проворный Кролик",
-    "parent": "paris",
-    "place": "lapin-agile",
-    "types": [
-      "restaurant"
-    ],
-    "search_terms": [
-      "ресторан",
-      "рестораны",
-      "бар",
-      "кабаре",
-      "restaurant",
-      "cabaret"
-    ]
-  },
   "legoland-windsor": {
     "title": "Леголенд Виндзор",
     "parent": "windsor",
@@ -3713,7 +3578,8 @@
     "place": "leighton-house",
     "types": [
       "museum",
-      "gallery"
+      "gallery",
+      "historic_house"
     ],
     "search_terms": [
       "музей",
@@ -3735,24 +3601,14 @@
       "живопись",
       "картины",
       "gallery",
-      "art"
-    ]
-  },
-  "leon--bazilika-svyatogo-isidora": {
-    "title": "Базилика Святого Исидора",
-    "parent": "leon",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
+      "art",
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa"
     ]
   },
   "leon--leonskiy-sobor": {
@@ -3760,7 +3616,8 @@
     "parent": "leon",
     "types": [
       "cathedral",
-      "church"
+      "church",
+      "museum"
     ],
     "search_terms": [
       "собор",
@@ -3775,7 +3632,13 @@
       "храмы",
       "базилика",
       "базилики",
-      "church"
+      "church",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "leon--muzey-leona": {
@@ -3904,21 +3767,6 @@
       "abbey"
     ]
   },
-  "lisbon--muzey-vina-i-degustatsiya": {
-    "title": "Музей вина и дегустация",
-    "parent": "lisbon",
-    "types": [
-      "museum"
-    ],
-    "search_terms": [
-      "музей",
-      "музеи",
-      "музея",
-      "музеев",
-      "museum",
-      "museums"
-    ]
-  },
   "lisbon--natsionalnyy-muzey-karet": {
     "title": "Национальный музей карет",
     "parent": "lisbon",
@@ -3932,40 +3780,6 @@
       "музеев",
       "museum",
       "museums"
-    ]
-  },
-  "lisbon--tserkov-san-domingush": {
-    "title": "Церковь Сан-Домингуш",
-    "parent": "lisbon",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "lisbon--tserkov-svyatogo-rokha": {
-    "title": "Церковь Святого Роха",
-    "parent": "lisbon",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "london--britanskiy-muzey": {
@@ -4278,23 +4092,6 @@
       "музеев",
       "museum",
       "museums"
-    ]
-  },
-  "lucca--bazilika-san-frediano": {
-    "title": "Базилика Сан-Фредиано",
-    "parent": "lucca",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "lunenburg--muzey-rybolovstva-atlantiki": {
@@ -4846,23 +4643,6 @@
       "ruins"
     ]
   },
-  "mexico-city--tserkov-san-khuan-bautista": {
-    "title": "Церковь Сан-Хуан-Баутиста",
-    "parent": "mexico-city",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
   "milan--muzey-milanskogo-sobora": {
     "title": "Музей Миланского собора",
     "parent": "milan",
@@ -4876,23 +4656,6 @@
       "музеев",
       "museum",
       "museums"
-    ]
-  },
-  "milan--santa-mariya-delle-gratsie": {
-    "title": "Санта-Мария-делле-Грацие",
-    "parent": "milan",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "military-aviation-museum": {
@@ -5809,7 +5572,8 @@
     "title": "Американский музей естественной истории",
     "parent": "new-york",
     "types": [
-      "museum"
+      "museum",
+      "planetarium"
     ],
     "search_terms": [
       "музей",
@@ -5817,7 +5581,11 @@
       "музея",
       "музеев",
       "museum",
-      "museums"
+      "museums",
+      "планетарий",
+      "планетарии",
+      "планетария",
+      "planetarium"
     ]
   },
   "new-york--brodvey": {
@@ -5999,32 +5767,20 @@
       "museums"
     ]
   },
-  "notre-dame-de-la-garde": {
-    "title": "Базилика Нотр-Дам-де-ла-Гард",
-    "parent": "marseille",
-    "place": "notre-dame-de-la-garde",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
   "notre-dame-paris": {
     "title": "Нотр-Дам",
     "parent": "paris",
     "place": "notre-dame-paris",
     "types": [
+      "cathedral",
       "church"
     ],
     "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
       "церковь",
       "церкви",
       "церквей",
@@ -6055,7 +5811,8 @@
     "parent": "munich",
     "place": "nymphenburg",
     "types": [
-      "palace"
+      "palace",
+      "park"
     ],
     "search_terms": [
       "дворец",
@@ -6063,7 +5820,17 @@
       "дворца",
       "дворцов",
       "резиденция",
-      "palace"
+      "palace",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
     ]
   },
   "oggersheim": {
@@ -6149,7 +5916,13 @@
       "музея",
       "музеев",
       "museum",
-      "museums"
+      "museums",
+      "Canadian Children’s Museum",
+      "Musée canadien des enfants"
+    ],
+    "aliases": [
+      "Canadian Children’s Museum",
+      "Musée canadien des enfants"
     ]
   },
   "ottawa--kanadskiy-muzey-istorii": {
@@ -6164,7 +5937,17 @@
       "музея",
       "музеев",
       "museum",
-      "museums"
+      "museums",
+      "Canadian Museum of History",
+      "Canadian Museum of Civilization",
+      "Канадский музей цивилизации",
+      "Musée canadien de l’histoire"
+    ],
+    "aliases": [
+      "Canadian Museum of History",
+      "Canadian Museum of Civilization",
+      "Канадский музей цивилизации",
+      "Musée canadien de l’histoire"
     ]
   },
   "ottawa--kanadskiy-voennyy-muzey": {
@@ -6179,24 +5962,13 @@
       "музея",
       "музеев",
       "museum",
-      "museums"
-    ]
-  },
-  "oviedo--bazilika-san-khuan-el-real": {
-    "title": "Базилика Сан-Хуан-эль-Реаль",
-    "parent": "oviedo",
-    "types": [
-      "church"
+      "museums",
+      "Canadian War Museum",
+      "Musée canadien de la guerre"
     ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
+    "aliases": [
+      "Canadian War Museum",
+      "Musée canadien de la guerre"
     ]
   },
   "oviedo--kafedralnyy-sobor-ovedo": {
@@ -6605,7 +6377,8 @@
     "parent": "perce",
     "types": [
       "geopark",
-      "science_centre"
+      "science_centre",
+      "museum"
     ],
     "search_terms": [
       "геопарк",
@@ -6616,7 +6389,13 @@
       "научные центры",
       "наука",
       "science centre",
-      "science center"
+      "science center",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "philadelphia--khudozhestvennyy-muzey-filadelfii": {
@@ -6738,21 +6517,6 @@
       "tower"
     ]
   },
-  "pisa--pizanskiy-baptisteriy": {
-    "title": "Пизанский баптистерий",
-    "parent": "pisa",
-    "types": [
-      "temple"
-    ],
-    "search_terms": [
-      "храм",
-      "храмы",
-      "храма",
-      "храмов",
-      "святилище",
-      "temple"
-    ]
-  },
   "pisa--pizanskiy-sobor": {
     "title": "Пизанский собор",
     "parent": "pisa",
@@ -6868,17 +6632,32 @@
     ]
   },
   "pointe-au-pere": {
-    "title": "Маяк Пуэнт-о-Пер",
+    "title": "Морской исторический комплекс Pointe-au-Père",
     "parent": "rimouski",
     "place": "pointe-au-pere",
     "types": [
-      "tower"
+      "museum",
+      "lighthouse",
+      "ship"
     ],
     "search_terms": [
-      "башня",
-      "башни",
-      "башен",
-      "tower"
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "маяк",
+      "маяки",
+      "маяков",
+      "lighthouse",
+      "судно",
+      "корабль",
+      "корабли",
+      "яхта",
+      "шхуна",
+      "ship",
+      "schooner"
     ]
   },
   "ponferrada--zamok-tamplierov-ponferrady": {
@@ -6900,7 +6679,7 @@
     ]
   },
   "porsche-museum": {
-    "title": "Музей Порше",
+    "title": "Музей Porsche",
     "parent": "stuttgart",
     "place": "porsche-museum",
     "types": [
@@ -6949,14 +6728,21 @@
     "title": "Погреба Cálem",
     "parent": "porto",
     "types": [
-      "winery"
+      "winery",
+      "museum"
     ],
     "search_terms": [
       "винодельня",
       "винодельни",
       "винный погреб",
       "вино",
-      "winery"
+      "winery",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "porto--sady-khrustalnogo-dvortsa": {
@@ -6991,57 +6777,6 @@
       "собора",
       "соборов",
       "cathedral",
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "porto--tserkov-klerigush": {
-    "title": "Церковь Клеригуш",
-    "parent": "porto",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "porto--tserkov-svyatogo-frantsiska": {
-    "title": "Церковь Святого Франциска",
-    "parent": "porto",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "porto--tserkov-svyatogo-ildefonso": {
-    "title": "Церковь Святого Ильдефонсо",
-    "parent": "porto",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
       "церковь",
       "церкви",
       "церквей",
@@ -7094,23 +6829,6 @@
       "картины",
       "gallery",
       "art"
-    ]
-  },
-  "prague--bazilika-svyatogo-georgiya": {
-    "title": "Базилика Святого Георгия",
-    "parent": "prague",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "prague--mala-strana": {
@@ -7199,7 +6917,8 @@
     "parent": "prague",
     "place": "prague-castle",
     "types": [
-      "castle"
+      "castle",
+      "museum"
     ],
     "search_terms": [
       "замок",
@@ -7210,7 +6929,13 @@
       "крепости",
       "цитадель",
       "castle",
-      "fortress"
+      "fortress",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "prince-edward-island--nort-keyp-i-tsentr-vetrovoy-energii": {
@@ -7218,7 +6943,9 @@
     "parent": "prince-edward-island",
     "types": [
       "cape",
-      "science_centre"
+      "science_centre",
+      "museum",
+      "lighthouse"
     ],
     "search_terms": [
       "мыс",
@@ -7229,7 +6956,17 @@
       "научные центры",
       "наука",
       "science centre",
-      "science center"
+      "science center",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "маяк",
+      "маяки",
+      "маяков",
+      "lighthouse"
     ]
   },
   "prince-edward-island--plyazh-kavendish": {
@@ -7280,10 +7017,11 @@
     ]
   },
   "provincetown--monument-piligrimam": {
-    "title": "Монумент пилигримам",
+    "title": "Монумент пилигримам и музей Провинстауна",
     "parent": "provincetown",
     "types": [
-      "monument"
+      "monument",
+      "museum"
     ],
     "search_terms": [
       "памятник",
@@ -7291,7 +7029,23 @@
       "монумент",
       "мемориал",
       "monument",
-      "memorial"
+      "memorial",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "Pilgrim Monument and Provincetown Museum",
+      "Provincetown Museum",
+      "Монумент пилигримам",
+      "Музей Провинстауна"
+    ],
+    "aliases": [
+      "Pilgrim Monument and Provincetown Museum",
+      "Provincetown Museum",
+      "Монумент пилигримам",
+      "Музей Провинстауна"
     ]
   },
   "provincetown--muzey-piratov": {
@@ -7320,23 +7074,6 @@
       "общественное здание",
       "административное здание",
       "civic building"
-    ]
-  },
-  "reims--bazilika-sen-remi": {
-    "title": "Базилика Сен-Реми",
-    "parent": "reims",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "reims--reymsskiy-sobor": {
@@ -7425,7 +7162,7 @@
     ]
   },
   "roc-del-quer": {
-    "title": "Смотровая над Канильо",
+    "title": "Roc del Quer — смотровая над Канильо",
     "parent": "canillo",
     "place": "roc-del-quer",
     "types": [
@@ -7437,108 +7174,6 @@
       "обзорная площадка",
       "viewpoint",
       "observation deck"
-    ]
-  },
-  "rome--bazilika-santa-prassede": {
-    "title": "Базилика Санта-Прасседе",
-    "parent": "rome",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "rome--lateranskaya-bazilika": {
-    "title": "Латеранская базилика",
-    "parent": "rome",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "rome--san-petro-in-vinkoli": {
-    "title": "Сан-Пьетро-ин-Винколи",
-    "parent": "rome",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "rome--santa-kroche-in-dzheruzalemme": {
-    "title": "Санта-Кроче-ин-Джерузалемме",
-    "parent": "rome",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "rome--santa-mariya-madzhore": {
-    "title": "Санта-Мария-Маджоре",
-    "parent": "rome",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "rouen--tserkov-abbatstva-sent-uan": {
-    "title": "Церковь аббатства Сент-Уан",
-    "parent": "rouen",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "royal-delft": {
@@ -7648,24 +7283,6 @@
       "church"
     ]
   },
-  "saint-etienne-du-mont": {
-    "title": "Сент-Этьен-дю-Мон",
-    "parent": "paris",
-    "place": "saint-etienne-du-mont",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
   "saint-malo--sobor-sen-malo": {
     "title": "Собор Сен-Мало",
     "parent": "saint-malo",
@@ -7679,41 +7296,6 @@
       "собора",
       "соборов",
       "cathedral",
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "saint-severin": {
-    "title": "Сен-Северин",
-    "parent": "paris",
-    "place": "saint-severin",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
-  "sainte-anne-de-beaupre--bazilika-sent-ann-de-bopre": {
-    "title": "Базилика Сент-Анн-де-Бопре",
-    "parent": "sainte-anne-de-beaupre",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
       "церковь",
       "церкви",
       "церквей",
@@ -7788,24 +7370,6 @@
       "капеллы",
       "храм",
       "chapel"
-    ]
-  },
-  "sainte-clotilde": {
-    "title": "Базилика Святой Клотильды",
-    "parent": "paris",
-    "place": "sainte-clotilde",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "sainte-flavie--art-tsentr-marselya-ganona": {
@@ -7995,24 +7559,6 @@
       "church"
     ]
   },
-  "santa-maria-del-mar": {
-    "title": "Санта-Мария-дель-Мар",
-    "parent": "barcelona",
-    "place": "santa-maria-del-mar",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
   "santiago-chile--kafedralnyy-sobor-santyago": {
     "title": "Кафедральный собор Сантьяго",
     "parent": "santiago-chile",
@@ -8040,7 +7586,9 @@
     "title": "Холм Санта-Лусия",
     "parent": "santiago-chile",
     "types": [
-      "mountain"
+      "mountain",
+      "park",
+      "viewpoint"
     ],
     "search_terms": [
       "гора",
@@ -8048,7 +7596,22 @@
       "холм",
       "холмы",
       "mountain",
-      "hill"
+      "hill",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck"
     ]
   },
   "santiago-chile--muzey-dokolumbova-iskusstva": {
@@ -8064,23 +7627,6 @@
       "музеев",
       "museum",
       "museums"
-    ]
-  },
-  "santiago-chile--tserkov-svyatogo-frantsiska": {
-    "title": "Церковь Святого Франциска",
-    "parent": "santiago-chile",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
     ]
   },
   "santiago-de-compostela--muzey-istorii-galisii": {
@@ -8196,7 +7742,8 @@
     "parent": "vienna",
     "place": "schonbrunn",
     "types": [
-      "palace"
+      "palace",
+      "park"
     ],
     "search_terms": [
       "дворец",
@@ -8204,7 +7751,17 @@
       "дворца",
       "дворцов",
       "резиденция",
-      "palace"
+      "palace",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
     ]
   },
   "segovia--segoviyskiy-akveduk": {
@@ -8420,7 +7977,7 @@
     ]
   },
   "shanghai-disneyland": {
-    "title": "Диснейленд",
+    "title": "Диснейленд, Шанхай",
     "parent": "shanghai",
     "place": "shanghai-disneyland",
     "types": [
@@ -8471,21 +8028,6 @@
       "базилика",
       "базилики",
       "church"
-    ]
-  },
-  "siena--svyatilishche-svyatoy-ekateriny-sienskoy": {
-    "title": "Святилище Святой Екатерины Сиенской",
-    "parent": "siena",
-    "types": [
-      "temple"
-    ],
-    "search_terms": [
-      "храм",
-      "храмы",
-      "храма",
-      "храмов",
-      "святилище",
-      "temple"
     ]
   },
   "sintra--dvorets-pena": {
@@ -8597,7 +8139,7 @@
     ]
   },
   "stanley-park": {
-    "title": "Парк Стэнли",
+    "title": "Stanley Park, Vancouver",
     "parent": "vancouver",
     "place": "stanley-park",
     "types": [
@@ -8671,7 +8213,7 @@
     ]
   },
   "summer-palace": {
-    "title": "Летний дворец",
+    "title": "Летний дворец, Пекин",
     "parent": "beijing",
     "place": "summer-palace",
     "types": [
@@ -8762,26 +8304,8 @@
       "museums"
     ]
   },
-  "temple-church": {
-    "title": "Церковь Темпла",
-    "parent": "london",
-    "place": "temple-church",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
-    ]
-  },
   "temple-heaven": {
-    "title": "Храм Неба",
+    "title": "Храм Неба, Пекин",
     "parent": "beijing",
     "place": "temple-heaven",
     "types": [
@@ -8797,11 +8321,12 @@
     ]
   },
   "terracotta-army": {
-    "title": "Терракотовая армия",
+    "title": "Терракотовая армия, Сиань",
     "parent": "xian",
     "place": "terracotta-army",
     "types": [
-      "museum"
+      "museum",
+      "archaeological_site"
     ],
     "search_terms": [
       "музей",
@@ -8809,24 +8334,13 @@
       "музея",
       "музеев",
       "museum",
-      "museums"
-    ]
-  },
-  "teruel--tserkov-svyatogo-petra": {
-    "title": "Церковь Святого Петра",
-    "parent": "teruel",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
+      "museums",
+      "археология",
+      "археологический памятник",
+      "руины",
+      "раскопки",
+      "archaeology",
+      "ruins"
     ]
   },
   "the-breakers": {
@@ -8954,7 +8468,8 @@
     "title": "Синагога дель-Трансито",
     "parent": "toledo",
     "types": [
-      "temple"
+      "temple",
+      "museum"
     ],
     "search_terms": [
       "храм",
@@ -8962,24 +8477,13 @@
       "храма",
       "храмов",
       "святилище",
-      "temple"
-    ]
-  },
-  "toledo--tserkov-santo-tome": {
-    "title": "Церковь Санто-Томе",
-    "parent": "toledo",
-    "types": [
-      "church"
-    ],
-    "search_terms": [
-      "церковь",
-      "церкви",
-      "церквей",
-      "храм",
-      "храмы",
-      "базилика",
-      "базилики",
-      "church"
+      "temple",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "toledo-cathedral": {
@@ -9672,7 +9176,8 @@
     "title": "Театр Форда",
     "parent": "washington-dc",
     "types": [
-      "theatre"
+      "theatre",
+      "museum"
     ],
     "search_terms": [
       "театр",
@@ -9683,7 +9188,13 @@
       "оперы",
       "theatre",
       "theater",
-      "opera"
+      "opera",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
     ]
   },
   "westminster-cathedral": {
@@ -9840,7 +9351,7 @@
     ]
   },
   "yonghe-temple": {
-    "title": "Храм Ламы",
+    "title": "Храм Ламы, Пекин",
     "parent": "beijing",
     "place": "yonghe-temple",
     "types": [
@@ -9870,23 +9381,95 @@
       "plaza"
     ]
   },
-  "barcelona--park-guel": {
-    "title": "Парк Гуэль",
-    "parent": "barcelona",
+  "boston--freedom-trail": {
+    "title": "Тропа Свободы",
+    "parent": "boston",
     "types": [
-      "park"
+      "walking_route"
+    ],
+    "aliases": [
+      "Freedom Trail"
     ],
     "search_terms": [
-      "парк",
-      "парки",
-      "парка",
-      "парков",
-      "сад",
-      "сады",
-      "сада",
-      "садов",
-      "park",
-      "garden"
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "Freedom Trail"
+    ]
+  },
+  "boston--west-end": {
+    "title": "Вест-Энд",
+    "parent": "boston",
+    "types": [
+      "district"
+    ],
+    "aliases": [
+      "West End"
+    ],
+    "search_terms": [
+      "район",
+      "районы",
+      "квартал",
+      "кварталы",
+      "district",
+      "neighbourhood",
+      "West End"
+    ]
+  },
+  "cape-cod--covells-beach": {
+    "title": "Пляж Ковеллс",
+    "parent": "cape-cod",
+    "types": [
+      "beach"
+    ],
+    "aliases": [
+      "Covell’s Beach",
+      "Covell's Beach"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach",
+      "Covell’s Beach",
+      "Covell's Beach"
+    ]
+  },
+  "lexington--liberty-ride": {
+    "title": "Экскурсия Liberty Ride",
+    "parent": "lexington",
+    "types": [
+      "tour"
+    ],
+    "aliases": [
+      "Liberty Ride"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "Liberty Ride"
+    ]
+  },
+  "ogunquit--ogunquit-beach": {
+    "title": "Пляж Оганквит",
+    "parent": "ogunquit",
+    "types": [
+      "beach"
+    ],
+    "aliases": [
+      "Ogunquit Beach"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach",
+      "Ogunquit Beach"
     ]
   },
   "mcmichael-gallery": {
@@ -9920,22 +9503,6 @@
       "art"
     ]
   },
-  "highland-village": {
-    "title": "Музей Хайленд-Виллидж",
-    "parent": "cape-breton",
-    "place": "highland-village",
-    "types": [
-      "museum"
-    ],
-    "search_terms": [
-      "музей",
-      "музеи",
-      "музея",
-      "музеев",
-      "museum",
-      "museums"
-    ]
-  },
   "munich--deutsches-museum": {
     "title": "Немецкий музей науки и техники",
     "parent": "munich",
@@ -9961,6 +9528,3541 @@
       "science center",
       "Технический музей Мюнхена",
       "Deutsches Museum"
+    ]
+  },
+  "barcelona--park-guel": {
+    "title": "Парк Гуэль",
+    "parent": "barcelona",
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ]
+  },
+  "highland-village": {
+    "title": "Музей Хайленд-Виллидж",
+    "parent": "cape-breton",
+    "place": "highland-village",
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "sherbrooke--jacques-cartier-park": {
+    "title": "Парк Жак-Картье",
+    "parent": "sherbrooke",
+    "types": [
+      "park"
+    ],
+    "aliases": [
+      "Parc Jacques-Cartier",
+      "Jacques-Cartier Park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "Parc Jacques-Cartier",
+      "Jacques-Cartier Park"
+    ]
+  },
+  "magog--lake-memphremagog": {
+    "title": "Озеро Мемфремагог",
+    "parent": "magog",
+    "types": [
+      "lake"
+    ],
+    "aliases": [
+      "Lac Memphrémagog",
+      "Lake Memphremagog"
+    ],
+    "search_terms": [
+      "озеро",
+      "озёра",
+      "озера",
+      "озёр",
+      "lake",
+      "Lac Memphrémagog",
+      "Lake Memphremagog"
+    ]
+  },
+  "virginia-beach--king-neptune": {
+    "title": "Статуя Нептуна",
+    "parent": "virginia-beach",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "King Neptune",
+      "King Neptune Statue"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "King Neptune",
+      "King Neptune Statue"
+    ]
+  },
+  "virginia-beach--boardwalk": {
+    "title": "Набережная Вирджиния-Бич",
+    "parent": "virginia-beach",
+    "types": [
+      "street",
+      "walking_route"
+    ],
+    "aliases": [
+      "Virginia Beach Boardwalk"
+    ],
+    "search_terms": [
+      "улица",
+      "улицы",
+      "улиц",
+      "проспект",
+      "бульвар",
+      "набережная",
+      "набережные",
+      "street",
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "Virginia Beach Boardwalk"
+    ]
+  },
+  "virginia-beach--oceanfront-beach": {
+    "title": "Пляж Вирджиния-Бич",
+    "parent": "virginia-beach",
+    "types": [
+      "beach"
+    ],
+    "aliases": [
+      "Virginia Beach Oceanfront"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach",
+      "Virginia Beach Oceanfront"
+    ]
+  },
+  "zaandam--peter-house": {
+    "title": "Домик Петра I",
+    "parent": "zaandam",
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "Домик Петра",
+      "Czaar Peterhuisje",
+      "Tsar Peter House"
+    ],
+    "aliases": [
+      "Домик Петра",
+      "Czaar Peterhuisje",
+      "Tsar Peter House"
+    ]
+  },
+  "lauterbrunnen--staubbach-falls": {
+    "title": "Штауббахский водопад",
+    "parent": "lauterbrunnen",
+    "types": [
+      "waterfall"
+    ],
+    "aliases": [
+      "Staubbach Falls",
+      "Staubbachfall",
+      "Штауббах"
+    ],
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall",
+      "Staubbach Falls",
+      "Staubbachfall",
+      "Штауббах"
+    ]
+  },
+  "meiringen--sherlock-holmes-monument": {
+    "title": "Памятник Шерлоку Холмсу",
+    "parent": "meiringen",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Sherlock Holmes Statue",
+      "Sherlock Holmes Monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Sherlock Holmes Statue",
+      "Sherlock Holmes Monument"
+    ]
+  },
+  "lucerne--lake-lucerne": {
+    "title": "Люцернское озеро",
+    "parent": "lucerne",
+    "types": [
+      "lake"
+    ],
+    "aliases": [
+      "Фирвальдштетское озеро",
+      "Lake Lucerne",
+      "Vierwaldstättersee"
+    ],
+    "search_terms": [
+      "озеро",
+      "озёра",
+      "озера",
+      "озёр",
+      "lake",
+      "Фирвальдштетское озеро",
+      "Lake Lucerne",
+      "Vierwaldstättersee"
+    ]
+  },
+  "paris--fontaine-saint-michel": {
+    "title": "Фонтан Сен-Мишель",
+    "parent": "paris",
+    "types": [
+      "fountain",
+      "square"
+    ],
+    "aliases": [
+      "Fontaine Saint-Michel",
+      "Place Saint-Michel"
+    ],
+    "search_terms": [
+      "фонтан",
+      "фонтаны",
+      "фонтана",
+      "fountain",
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza",
+      "Fontaine Saint-Michel",
+      "Place Saint-Michel"
+    ]
+  },
+  "paris--square-rene-viviani": {
+    "title": "Сквер Рене-Вивиани и старейшее дерево Парижа",
+    "parent": "paris",
+    "types": [
+      "park"
+    ],
+    "aliases": [
+      "Square René-Viviani",
+      "Robinier du square René-Viviani"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "Square René-Viviani",
+      "Robinier du square René-Viviani"
+    ]
+  },
+  "paris--luxembourg-palace": {
+    "title": "Люксембургский дворец",
+    "parent": "paris",
+    "types": [
+      "palace",
+      "civic_building"
+    ],
+    "aliases": [
+      "Palais du Luxembourg",
+      "Сенат Франции"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "общественное здание",
+      "административное здание",
+      "civic building",
+      "Palais du Luxembourg",
+      "Сенат Франции"
+    ]
+  },
+  "paris--fontaine-des-innocents": {
+    "title": "Фонтан Невинных",
+    "parent": "paris",
+    "types": [
+      "fountain"
+    ],
+    "aliases": [
+      "Fontaine des Innocents"
+    ],
+    "search_terms": [
+      "фонтан",
+      "фонтаны",
+      "фонтана",
+      "fountain",
+      "Fontaine des Innocents"
+    ]
+  },
+  "saint-malo--ramparts": {
+    "title": "Крепостные стены Сен-Мало",
+    "parent": "saint-malo",
+    "types": [
+      "historic_building",
+      "walking_route"
+    ],
+    "aliases": [
+      "Remparts de Saint-Malo"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "Remparts de Saint-Malo"
+    ]
+  },
+  "saint-malo--bon-secours": {
+    "title": "Пляж Бон-Секур и морской бассейн",
+    "parent": "saint-malo",
+    "types": [
+      "beach"
+    ],
+    "aliases": [
+      "Plage de Bon-Secours",
+      "Piscine de Bon Secours"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach",
+      "Plage de Bon-Secours",
+      "Piscine de Bon Secours"
+    ]
+  },
+  "saint-malo--maison-du-quebec": {
+    "title": "Дом Квебека в Сен-Мало",
+    "parent": "saint-malo",
+    "types": [
+      "cultural_centre"
+    ],
+    "aliases": [
+      "Maison du Québec",
+      "Квебекская миссия"
+    ],
+    "search_terms": [
+      "культурный центр",
+      "культурные центры",
+      "culture centre",
+      "Maison du Québec",
+      "Квебекская миссия"
+    ]
+  },
+  "blois--chateau-blois": {
+    "title": "Замок Блуа",
+    "parent": "blois",
+    "types": [
+      "castle"
+    ],
+    "aliases": [
+      "Château royal de Blois"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "Château royal de Blois"
+    ]
+  },
+  "villandry--chateau-villandry": {
+    "title": "Замок Вилландри и сады",
+    "parent": "villandry",
+    "types": [
+      "castle",
+      "park"
+    ],
+    "aliases": [
+      "Château de Villandry"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "Château de Villandry"
+    ]
+  },
+  "fontainebleau--chateau-fontainebleau": {
+    "title": "Дворец Фонтенбло",
+    "parent": "fontainebleau",
+    "types": [
+      "palace",
+      "museum"
+    ],
+    "aliases": [
+      "Château de Fontainebleau"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "Château de Fontainebleau"
+    ]
+  },
+  "ottawa--canadian-tulip-festival": {
+    "title": "Канадский фестиваль тюльпанов",
+    "parent": "ottawa",
+    "types": [
+      "festival"
+    ],
+    "aliases": [
+      "Canadian Tulip Festival",
+      "Festival canadien des tulipes"
+    ],
+    "search_terms": [
+      "фестиваль",
+      "фестивали",
+      "праздник",
+      "festival",
+      "Canadian Tulip Festival",
+      "Festival canadien des tulipes"
+    ]
+  },
+  "ottawa--commissioners-park": {
+    "title": "Комиссарский парк",
+    "parent": "ottawa",
+    "types": [
+      "park"
+    ],
+    "aliases": [
+      "Commissioners Park",
+      "Parc des Commissaires"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "Commissioners Park",
+      "Parc des Commissaires"
+    ]
+  },
+  "ottawa--dows-lake": {
+    "title": "Озеро Дау",
+    "parent": "ottawa",
+    "types": [
+      "lake"
+    ],
+    "aliases": [
+      "Dow’s Lake",
+      "Dows Lake",
+      "Lac Dow"
+    ],
+    "search_terms": [
+      "озеро",
+      "озёра",
+      "озера",
+      "озёр",
+      "lake",
+      "Dow’s Lake",
+      "Dows Lake",
+      "Lac Dow"
+    ]
+  },
+  "ottawa--parliament-hill": {
+    "title": "Парламентский холм и Парламент Канады",
+    "parent": "ottawa",
+    "types": [
+      "civic_building",
+      "historic_building",
+      "park"
+    ],
+    "aliases": [
+      "Parliament Hill",
+      "Colline du Parlement",
+      "Башня мира",
+      "Peace Tower"
+    ],
+    "search_terms": [
+      "общественное здание",
+      "административное здание",
+      "civic building",
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "Parliament Hill",
+      "Colline du Parlement",
+      "Башня мира",
+      "Peace Tower"
+    ]
+  },
+  "vancouver--seawall": {
+    "title": "Набережная Ванкувера",
+    "parent": "vancouver",
+    "types": [
+      "walking_route"
+    ],
+    "aliases": [
+      "Vancouver Seawall",
+      "Seawall"
+    ],
+    "search_terms": [
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "Vancouver Seawall",
+      "Seawall"
+    ]
+  },
+  "vancouver--waterfront-station": {
+    "title": "Вокзал Waterfront Station",
+    "parent": "vancouver",
+    "types": [
+      "station",
+      "historic_building"
+    ],
+    "aliases": [
+      "Canadian Pacific Railway Station",
+      "Вокзал Уотерфронт"
+    ],
+    "search_terms": [
+      "вокзал",
+      "вокзалы",
+      "железнодорожная станция",
+      "station",
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "Canadian Pacific Railway Station",
+      "Вокзал Уотерфронт"
+    ]
+  },
+  "vancouver--angel-of-victory": {
+    "title": "Памятник «Ангел Победы»",
+    "parent": "vancouver",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Angel of Victory"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Angel of Victory"
+    ]
+  },
+  "port-elgin--beaches": {
+    "title": "Пляжи Порт-Элгина на озере Гурон",
+    "parent": "port-elgin",
+    "types": [
+      "beach",
+      "lake"
+    ],
+    "aliases": [
+      "Port Elgin beaches",
+      "Lake Huron",
+      "Гурон"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach",
+      "озеро",
+      "озёра",
+      "озера",
+      "озёр",
+      "lake",
+      "Port Elgin beaches",
+      "Lake Huron",
+      "Гурон"
+    ]
+  },
+  "port-elgin--waterfront-promenade": {
+    "title": "Набережная Порт-Элгина",
+    "parent": "port-elgin",
+    "types": [
+      "walking_route"
+    ],
+    "aliases": [
+      "Port Elgin Waterfront Promenade"
+    ],
+    "search_terms": [
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "Port Elgin Waterfront Promenade"
+    ]
+  },
+  "bathurst--appalachian-range-route": {
+    "title": "Аппалачская туристическая дорога",
+    "parent": "bathurst",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "Appalachian Range Route"
+    ],
+    "aliases": [
+      "Appalachian Range Route"
+    ]
+  },
+  "bathurst--acadian-coastal-drive": {
+    "title": "Акадийская прибрежная дорога",
+    "parent": "bathurst",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "Acadian Coastal Drive"
+    ],
+    "aliases": [
+      "Acadian Coastal Drive"
+    ]
+  },
+  "acadian-historical-village": {
+    "title": "Акадийская историческая деревня",
+    "parent": "acadian-historical-village",
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "Acadian Historical Village"
+    ],
+    "aliases": [
+      "Acadian Historical Village"
+    ],
+    "place": "acadian-historical-village"
+  },
+  "charlottetown--costumed-walking-tour": {
+    "title": "Костюмированная экскурсия по Шарлоттауну",
+    "parent": "charlottetown",
+    "types": [
+      "walking_route",
+      "tour"
+    ],
+    "search_terms": [
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "prince-edward-island--tightline-fishing": {
+    "title": "Морская рыбалка Tightline Tours",
+    "parent": "prince-edward-island",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "Deep Sea Fishing"
+    ],
+    "aliases": [
+      "Deep Sea Fishing"
+    ]
+  },
+  "cape-breton--cabot-trail": {
+    "title": "Кабот-Трейл",
+    "parent": "cape-breton",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "Cabot Trail"
+    ],
+    "aliases": [
+      "Cabot Trail"
+    ]
+  },
+  "cape-breton--skyline-trail": {
+    "title": "Скайлайн-Трейл",
+    "parent": "cape-breton",
+    "types": [
+      "trail"
+    ],
+    "search_terms": [
+      "тропа",
+      "тропы",
+      "пеший маршрут",
+      "хайкинг",
+      "trail",
+      "hiking",
+      "Skyline Trail"
+    ],
+    "aliases": [
+      "Skyline Trail"
+    ]
+  },
+  "cape-breton--highlands-national-park": {
+    "title": "Национальный парк Кейп-Бретон-Хайлендс",
+    "parent": "cape-breton",
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "Cape Breton Highlands National Park"
+    ],
+    "aliases": [
+      "Cape Breton Highlands National Park"
+    ]
+  },
+  "cape-breton--dixons-zodiac-seafari": {
+    "title": "Dixon’s Zodiac Seafari, Neil’s Harbour",
+    "parent": "cape-breton",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "louisbourg--fortress-of-louisbourg": {
+    "title": "Крепость Луисбург",
+    "parent": "louisbourg",
+    "types": [
+      "castle",
+      "museum"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "Fortress of Louisbourg"
+    ],
+    "aliases": [
+      "Fortress of Louisbourg"
+    ]
+  },
+  "sydney--giant-fiddle": {
+    "title": "Гигантская скрипка Сиднея",
+    "parent": "sydney",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Giant Fiddle"
+    ],
+    "aliases": [
+      "Giant Fiddle"
+    ]
+  },
+  "sydney--scottish-immigrants-monument": {
+    "title": "Памятник шотландским иммигрантам",
+    "parent": "sydney",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
+  },
+  "halifax--nova-scotian-crystal": {
+    "title": "Мастерская Nova Scotian Crystal",
+    "parent": "halifax",
+    "types": [
+      "factory"
+    ],
+    "search_terms": [
+      "фабрика",
+      "фабрики",
+      "завод",
+      "мануфактура",
+      "производство",
+      "factory"
+    ]
+  },
+  "halifax--wave": {
+    "title": "Скульптура «Волна»",
+    "parent": "halifax",
+    "types": [
+      "artwork"
+    ],
+    "search_terms": [
+      "искусство",
+      "фреска",
+      "фрески",
+      "роспись",
+      "artwork",
+      "mural",
+      "The Wave"
+    ],
+    "aliases": [
+      "The Wave"
+    ]
+  },
+  "lunenburg--essential-walking-tour": {
+    "title": "Пешеходная экскурсия по Луненбергу",
+    "parent": "lunenburg",
+    "types": [
+      "walking_route",
+      "tour"
+    ],
+    "search_terms": [
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "Essential Lunenburg Tour"
+    ],
+    "aliases": [
+      "Essential Lunenburg Tour"
+    ]
+  },
+  "lunenburg--academy": {
+    "title": "Академия Луненберга",
+    "parent": "lunenburg",
+    "types": [
+      "historic_academy",
+      "historic_building"
+    ],
+    "search_terms": [
+      "академия",
+      "академии",
+      "образование",
+      "academy",
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "Lunenburg Academy"
+    ],
+    "aliases": [
+      "Lunenburg Academy"
+    ]
+  },
+  "lunenburg--bluenose-ii": {
+    "title": "Блюноуз II",
+    "parent": "lunenburg",
+    "types": [
+      "ship"
+    ],
+    "search_terms": [
+      "судно",
+      "корабль",
+      "корабли",
+      "яхта",
+      "шхуна",
+      "ship",
+      "schooner",
+      "Bluenose II"
+    ],
+    "aliases": [
+      "Bluenose II"
+    ]
+  },
+  "shediac--giant-lobster": {
+    "title": "Гигантский лобстер Шедиака",
+    "parent": "shediac",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Giant Lobster"
+    ],
+    "aliases": [
+      "Giant Lobster"
+    ]
+  },
+  "kouchibouguac--mikmaq-cedar-trail": {
+    "title": "Кедровая тропа микмаков",
+    "parent": "kouchibouguac",
+    "types": [
+      "trail"
+    ],
+    "search_terms": [
+      "тропа",
+      "тропы",
+      "пеший маршрут",
+      "хайкинг",
+      "trail",
+      "hiking",
+      "Mi’kmaq Cedar Trail"
+    ],
+    "aliases": [
+      "Mi’kmaq Cedar Trail"
+    ]
+  },
+  "fredericton--soldier-for-a-day": {
+    "title": "Программа «День в солдатах»",
+    "parent": "fredericton",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "Soldier for a Day"
+    ],
+    "aliases": [
+      "Soldier for a Day"
+    ]
+  },
+  "fredericton--walking-tour": {
+    "title": "Пешеходная экскурсия по Фредриктону",
+    "parent": "fredericton",
+    "types": [
+      "walking_route",
+      "tour"
+    ],
+    "search_terms": [
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "grand-falls--waterfall": {
+    "title": "Водопад Гранд-Фолс",
+    "parent": "grand-falls",
+    "types": [
+      "waterfall"
+    ],
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall",
+      "Grand Falls waterfall"
+    ],
+    "aliases": [
+      "Grand Falls waterfall"
+    ]
+  },
+  "quebec-city--citadel": {
+    "title": "Цитадель Квебека",
+    "parent": "quebec-city",
+    "types": [
+      "castle"
+    ],
+    "aliases": [
+      "Citadelle de Québec",
+      "Quebec Citadel"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "Citadelle de Québec",
+      "Quebec Citadel"
+    ]
+  },
+  "quebec-city--carriage-tour": {
+    "title": "Каретная прогулка по Квебеку",
+    "parent": "quebec-city",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "quebec-city--russian-cannons": {
+    "title": "Русские пушки на набережной Квебека",
+    "parent": "quebec-city",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
+  },
+  "mont-tremblant--ski-resort": {
+    "title": "Горнолыжный курорт Мон-Тремблан",
+    "parent": "mont-tremblant",
+    "place": "mont-tremblant",
+    "types": [
+      "ski_resort"
+    ],
+    "aliases": [
+      "Mont Tremblant Ski Resort"
+    ],
+    "search_terms": [
+      "горнолыжный курорт",
+      "лыжи",
+      "горные лыжи",
+      "ski resort",
+      "skiing",
+      "Mont Tremblant Ski Resort"
+    ]
+  },
+  "new-york--guggenheim": {
+    "title": "Музей Соломона Гуггенхайма",
+    "parent": "new-york",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "aliases": [
+      "Solomon R. Guggenheim Museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art",
+      "Solomon R. Guggenheim Museum"
+    ]
+  },
+  "new-york--circle-line-cruise": {
+    "title": "Круиз Circle Line по нью-йоркской гавани",
+    "parent": "new-york",
+    "types": [
+      "tour"
+    ],
+    "aliases": [
+      "Circle Line"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour",
+      "Circle Line"
+    ]
+  },
+  "washington-dc--night-monuments-tour": {
+    "title": "Ночная экскурсия по монументам Вашингтона",
+    "parent": "washington-dc",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "washington-dc--washington-monument": {
+    "title": "Монумент Вашингтона",
+    "parent": "washington-dc",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Washington Monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Washington Monument"
+    ]
+  },
+  "washington-dc--lincoln-memorial": {
+    "title": "Мемориал Линкольна",
+    "parent": "washington-dc",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Lincoln Memorial"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Lincoln Memorial"
+    ]
+  },
+  "washington-dc--jefferson-memorial": {
+    "title": "Мемориал Джефферсона",
+    "parent": "washington-dc",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Thomas Jefferson Memorial"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Thomas Jefferson Memorial"
+    ]
+  },
+  "washington-dc--fdr-memorial": {
+    "title": "Мемориал Франклина Делано Рузвельта",
+    "parent": "washington-dc",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Franklin Delano Roosevelt Memorial",
+      "FDR Memorial"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Franklin Delano Roosevelt Memorial",
+      "FDR Memorial"
+    ]
+  },
+  "washington-dc--world-war-ii-memorial": {
+    "title": "Мемориал Второй мировой войны",
+    "parent": "washington-dc",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "World War II Memorial"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "World War II Memorial"
+    ]
+  },
+  "washington-dc--korean-war-memorial": {
+    "title": "Мемориал ветеранов Корейской войны",
+    "parent": "washington-dc",
+    "types": [
+      "monument"
+    ],
+    "aliases": [
+      "Korean War Veterans Memorial"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Korean War Veterans Memorial"
+    ]
+  },
+  "philadelphia--rodin-museum": {
+    "title": "Музей Родена в Филадельфии",
+    "parent": "philadelphia",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "aliases": [
+      "Rodin Museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art",
+      "Rodin Museum"
+    ]
+  },
+  "barnes-merion": {
+    "title": "Коллекция Барнса — историческое здание в Мерионе",
+    "parent": "barnes-merion",
+    "place": "barnes-merion",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "aliases": [
+      "Barnes Foundation Merion",
+      "Коллекция Барнса в Мерионе",
+      "Мерион"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art",
+      "Barnes Foundation Merion",
+      "Коллекция Барнса в Мерионе",
+      "Мерион"
+    ]
+  },
+  "atlantic-city--beach": {
+    "title": "Пляж Атлантик-Сити",
+    "parent": "atlantic-city",
+    "types": [
+      "beach"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach"
+    ]
+  },
+  "atlantic-city--boardwalk": {
+    "title": "Набережная Атлантик-Сити",
+    "parent": "atlantic-city",
+    "types": [
+      "walking_route"
+    ],
+    "aliases": [
+      "Atlantic City Boardwalk"
+    ],
+    "search_terms": [
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "Atlantic City Boardwalk"
+    ]
+  },
+  "washington-dc--us-botanic-garden": {
+    "title": "Ботанический сад США",
+    "parent": "washington-dc",
+    "types": [
+      "botanical_garden"
+    ],
+    "aliases": [
+      "United States Botanic Garden",
+      "US Botanic Garden",
+      "Exposed: The Secret Life of Roots"
+    ],
+    "search_terms": [
+      "ботанический сад",
+      "ботанические сады",
+      "ботаника",
+      "botanical garden",
+      "United States Botanic Garden",
+      "US Botanic Garden",
+      "Exposed: The Secret Life of Roots"
+    ]
+  },
+  "rehoboth-beach--beach-and-boardwalk": {
+    "title": "Пляж и набережная Рехобот-Бич",
+    "parent": "rehoboth-beach",
+    "types": [
+      "beach",
+      "walking_route"
+    ],
+    "aliases": [
+      "Rehoboth Beach",
+      "Rehoboth Boardwalk"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach",
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "Rehoboth Beach",
+      "Rehoboth Boardwalk"
+    ]
+  },
+  "ocean-city-maryland--beach": {
+    "title": "Пляж Оушен-Сити, Мэриленд",
+    "parent": "ocean-city-maryland",
+    "types": [
+      "beach"
+    ],
+    "aliases": [
+      "Ocean City Beach",
+      "Ocean City Maryland"
+    ],
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach",
+      "Ocean City Beach",
+      "Ocean City Maryland"
+    ]
+  },
+  "long-beach--aquarium-of-the-pacific": {
+    "title": "Океанариум Aquarium of the Pacific",
+    "parent": "long-beach",
+    "types": [
+      "aquarium"
+    ],
+    "aliases": [
+      "Aquarium of the Pacific",
+      "Тихоокеанский океанариум"
+    ],
+    "search_terms": [
+      "аквариум",
+      "аквариумы",
+      "аквариума",
+      "океанариум",
+      "aquarium",
+      "Aquarium of the Pacific",
+      "Тихоокеанский океанариум"
+    ]
+  },
+  "long-beach--queen-mary": {
+    "title": "Корабль-музей Queen Mary",
+    "parent": "long-beach",
+    "types": [
+      "museum",
+      "ship"
+    ],
+    "aliases": [
+      "RMS Queen Mary",
+      "Куин Мэри"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "судно",
+      "корабль",
+      "корабли",
+      "яхта",
+      "шхуна",
+      "ship",
+      "schooner",
+      "RMS Queen Mary",
+      "Куин Мэри"
+    ]
+  },
+  "long-beach--scorpion-submarine": {
+    "title": "Музейная подводная лодка Scorpion",
+    "parent": "long-beach",
+    "types": [
+      "museum",
+      "ship"
+    ],
+    "aliases": [
+      "Scorpion Submarine",
+      "советская подводная лодка"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "судно",
+      "корабль",
+      "корабли",
+      "яхта",
+      "шхуна",
+      "ship",
+      "schooner",
+      "Scorpion Submarine",
+      "советская подводная лодка"
+    ]
+  },
+  "los-angeles--hollywood-walk-of-fame": {
+    "title": "Голливудская Аллея славы",
+    "parent": "los-angeles",
+    "types": [
+      "street",
+      "monument"
+    ],
+    "aliases": [
+      "Hollywood Walk of Fame",
+      "Голливуд"
+    ],
+    "search_terms": [
+      "улица",
+      "улицы",
+      "улиц",
+      "проспект",
+      "бульвар",
+      "набережная",
+      "набережные",
+      "street",
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "Hollywood Walk of Fame",
+      "Голливуд"
+    ]
+  },
+  "disneyland-anaheim": {
+    "title": "Диснейленд в Анахайме",
+    "parent": "disneyland-anaheim",
+    "place": "disneyland-anaheim",
+    "types": [
+      "amusement_park"
+    ],
+    "aliases": [
+      "Disneyland Park",
+      "Диснейленд Калифорния"
+    ],
+    "search_terms": [
+      "парк развлечений",
+      "парки развлечений",
+      "аттракционы",
+      "amusement park",
+      "theme park",
+      "Disneyland Park",
+      "Диснейленд Калифорния"
+    ]
+  },
+  "london--royal-academy-of-arts": {
+    "title": "Королевская академия художеств",
+    "parent": "london",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ]
+  },
+  "brussels--grand-place": {
+    "title": "Гран-Плас",
+    "parent": "brussels",
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ]
+  },
+  "rome--roman-forum": {
+    "title": "Римский форум",
+    "parent": "rome",
+    "types": [
+      "archaeological_site"
+    ],
+    "search_terms": [
+      "археология",
+      "археологический памятник",
+      "руины",
+      "раскопки",
+      "archaeology",
+      "ruins"
+    ]
+  },
+  "kleve--neuer-tiergarten": {
+    "title": "Исторические сады Клеве — Neuer Tiergarten",
+    "parent": "kleve",
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ]
+  },
+  "kleve--tiergarten": {
+    "title": "Зоопарк Клеве",
+    "parent": "kleve",
+    "types": [
+      "zoo"
+    ],
+    "search_terms": [
+      "зоопарк",
+      "зоопарки",
+      "зоопарка",
+      "зоопарков",
+      "животные",
+      "биопарк",
+      "zoo"
+    ]
+  },
+  "london--tower-of-london": {
+    "title": "Тауэр",
+    "parent": "london",
+    "types": [
+      "castle",
+      "museum"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "london--thames-boat-trip": {
+    "title": "Прогулка на кораблике по Темзе",
+    "parent": "london",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "london--big-ben": {
+    "title": "Биг-Бен",
+    "parent": "london",
+    "types": [
+      "tower",
+      "clock"
+    ],
+    "search_terms": [
+      "башня",
+      "башни",
+      "башен",
+      "tower",
+      "часы",
+      "куранты",
+      "астрономические часы",
+      "clock"
+    ]
+  },
+  "london--buckingham-palace": {
+    "title": "Букингемский дворец",
+    "parent": "london",
+    "types": [
+      "palace"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ]
+  },
+  "new-york--manhattan-boat-trip": {
+    "title": "Прогулка на пароходике у Манхэттена",
+    "parent": "new-york",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "new-york--majestic-theatre": {
+    "title": "Театр Majestic",
+    "parent": "new-york",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ]
+  },
+  "beaune--marche-aux-vins": {
+    "title": "Marché aux Vins — винные подвалы",
+    "parent": "beaune",
+    "types": [
+      "winery"
+    ],
+    "search_terms": [
+      "винодельня",
+      "винодельни",
+      "винный погреб",
+      "вино",
+      "winery"
+    ]
+  },
+  "antwerp--central-station": {
+    "title": "Центральный вокзал Антверпена",
+    "parent": "antwerp",
+    "types": [
+      "station"
+    ],
+    "search_terms": [
+      "вокзал",
+      "вокзалы",
+      "железнодорожная станция",
+      "station"
+    ]
+  },
+  "brussels--manneken-pis": {
+    "title": "Писающий мальчик",
+    "parent": "brussels",
+    "types": [
+      "fountain",
+      "monument"
+    ],
+    "search_terms": [
+      "фонтан",
+      "фонтаны",
+      "фонтана",
+      "fountain",
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
+  },
+  "chicago--harold-washington-library": {
+    "title": "Библиотека Гарольда Вашингтона",
+    "parent": "chicago",
+    "types": [
+      "library"
+    ],
+    "search_terms": [
+      "библиотека",
+      "библиотеки",
+      "библиотек",
+      "книги",
+      "library"
+    ]
+  },
+  "chicago--architecture-cruise": {
+    "title": "Архитектурный круиз по Чикаго",
+    "parent": "chicago",
+    "types": [
+      "tour"
+    ],
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "london--houses-of-parliament": {
+    "title": "Парламент — Вестминстерский дворец",
+    "parent": "london",
+    "types": [
+      "palace",
+      "civic_building"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "общественное здание",
+      "административное здание",
+      "civic building"
+    ]
+  },
+  "rome--trevi-fountain": {
+    "title": "Фонтан Треви",
+    "parent": "rome",
+    "types": [
+      "fountain"
+    ],
+    "search_terms": [
+      "фонтан",
+      "фонтаны",
+      "фонтана",
+      "fountain"
+    ]
+  },
+  "rome--pantheon": {
+    "title": "Пантеон",
+    "parent": "rome",
+    "types": [
+      "historic_building"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
+  },
+  "lisbon--museu-fado": {
+    "title": "Музей фаду",
+    "parent": "lisbon",
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "lisbon--museu-azulejo": {
+    "title": "Музей азулежу",
+    "parent": "lisbon",
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "seville--metropol-parasol": {
+    "title": "Метрополь Парасоль — «Грибы»",
+    "parent": "seville",
+    "types": [
+      "viewpoint"
+    ],
+    "search_terms": [
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck"
+    ]
+  },
+  "baiona--monterreal-fortress": {
+    "title": "Крепость Монтерреаль",
+    "parent": "baiona",
+    "types": [
+      "castle"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ]
+  },
+  "braga--bom-jesus-do-monte": {
+    "title": "Святилище Бон-Жезуш-ду-Монти",
+    "parent": "braga",
+    "types": [
+      "church",
+      "temple"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "храма",
+      "храмов",
+      "святилище",
+      "temple"
+    ]
+  },
+  "porto--ramos-pinto": {
+    "title": "Ramos Pinto — погреба и музей",
+    "parent": "porto",
+    "types": [
+      "winery",
+      "museum"
+    ],
+    "search_terms": [
+      "винодельня",
+      "винодельни",
+      "винный погреб",
+      "вино",
+      "winery",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "porto--lello-bookshop": {
+    "title": "Книжный магазин Lello",
+    "parent": "porto",
+    "types": [
+      "bookshop"
+    ],
+    "search_terms": [
+      "книжный магазин",
+      "книжные магазины",
+      "книги",
+      "bookshop",
+      "bookstore"
+    ]
+  },
+  "reims--gh-martel": {
+    "title": "Погреба Champagne GH Martel & Co",
+    "parent": "reims",
+    "types": [
+      "winery"
+    ],
+    "search_terms": [
+      "винодельня",
+      "винодельни",
+      "винный погреб",
+      "вино",
+      "winery"
+    ]
+  },
+  "strasbourg--city-history-museum": {
+    "title": "Исторический музей Страсбурга",
+    "parent": "strasbourg",
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "yoho-national-park--takakkaw-falls": {
+    "title": "Водопад Такакко (Takakkaw Falls)",
+    "parent": "yoho-national-park",
+    "types": [
+      "waterfall"
+    ],
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall"
+    ]
+  },
+  "edmonton--alberta-legislature": {
+    "title": "Парламент Альберты",
+    "parent": "edmonton",
+    "types": [
+      "historic_building"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
+  },
+  "teruel--catedral-santa-maria": {
+    "title": "Кафедральный собор Санта-Мария-де-Медиавилья",
+    "parent": "teruel",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "hangzhou--lin-biao-bunker": {
+    "title": "Бункер Линь Бяо",
+    "parent": "hangzhou",
+    "types": [
+      "museum",
+      "historic_building"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
+  },
+  "hangzhou--meijiawu-tea-plantation": {
+    "title": "Чайная плантация Meijiawu Longjing",
+    "parent": "hangzhou",
+    "types": [
+      "tea_plantation"
+    ],
+    "search_terms": [
+      "чайная плантация",
+      "чайные плантации",
+      "плантация",
+      "плантации",
+      "чай",
+      "tea plantation"
+    ]
+  },
+  "madrid--casa-museo-lope-de-vega": {
+    "title": "Дом-музей Лопе де Вега",
+    "parent": "madrid",
+    "types": [
+      "museum",
+      "historic_house"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa"
+    ]
+  },
+  "moscow--kremlin-armoury": {
+    "title": "Московский Кремль и Оружейная палата",
+    "parent": "moscow",
+    "types": [
+      "museum",
+      "castle"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ]
+  },
+  "gaspesie-park--ernest-laforce": {
+    "title": "Гора Ernest-Laforce",
+    "parent": "gaspesie-park",
+    "types": [
+      "mountain",
+      "trail"
+    ],
+    "search_terms": [
+      "гора",
+      "горы",
+      "холм",
+      "холмы",
+      "mountain",
+      "hill",
+      "тропа",
+      "тропы",
+      "пеший маршрут",
+      "хайкинг",
+      "trail",
+      "hiking"
+    ]
+  },
+  "forillon--cap-bon-ami-mont-saint-alban": {
+    "title": "Тропа Cap-Bon-Ami — Mont-Saint-Alban",
+    "parent": "forillon",
+    "types": [
+      "trail",
+      "viewpoint"
+    ],
+    "search_terms": [
+      "тропа",
+      "тропы",
+      "пеший маршрут",
+      "хайкинг",
+      "trail",
+      "hiking",
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck"
+    ]
+  },
+  "gaspe--pointe-a-la-renommee-lighthouse": {
+    "title": "Маяк Pointe-à-la-Renommée",
+    "parent": "gaspe",
+    "types": [
+      "lighthouse"
+    ],
+    "search_terms": [
+      "маяк",
+      "маяки",
+      "маяков",
+      "lighthouse"
+    ]
+  },
+  "forillon--peninsula-fort": {
+    "title": "Форт Peninsula",
+    "parent": "forillon",
+    "types": [
+      "historic_building"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
+  },
+  "carleton-sur-mer--mont-saint-joseph-oratory": {
+    "title": "Ораторий Нотр-Дам-дю-Мон-Сен-Жозеф",
+    "parent": "carleton-sur-mer",
+    "types": [
+      "chapel",
+      "viewpoint"
+    ],
+    "search_terms": [
+      "часовня",
+      "часовни",
+      "капелла",
+      "капеллы",
+      "храм",
+      "chapel",
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck"
+    ]
+  },
+  "chandler--nova-lumina": {
+    "title": "Nova Lumina — ночной световой маршрут",
+    "parent": "chandler",
+    "types": [
+      "walking_route",
+      "exhibition"
+    ],
+    "search_terms": [
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route",
+      "выставка",
+      "выставки",
+      "экспозиция",
+      "панорама",
+      "exhibition"
+    ]
+  },
+  "thunder-bay--terry-fox-memorial": {
+    "title": "Мемориал Терри Фокса",
+    "parent": "thunder-bay",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
+  },
+  "prague--karlov-most": {
+    "title": "Карлов мост",
+    "parent": "prague",
+    "types": [
+      "bridge"
+    ],
+    "search_terms": [
+      "мост",
+      "мосты",
+      "моста",
+      "мостов",
+      "bridge"
+    ]
+  },
+  "florence--i-mosaici-di-lastrucci": {
+    "title": "Мастерская мозаики I Mosaici di Lastrucci",
+    "parent": "florence",
+    "types": [
+      "factory"
+    ],
+    "search_terms": [
+      "фабрика",
+      "фабрики",
+      "завод",
+      "мануфактура",
+      "производство",
+      "factory"
+    ]
+  },
+  "condom--mousquetaires": {
+    "title": "Памятник д’Артаньяну и трём мушкетёрам",
+    "parent": "condom",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
+  },
+  "bilbao--guggenheim": {
+    "title": "Музей Гуггенхайма",
+    "parent": "bilbao",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ]
+  },
+  "san-sebastian--monte-igueldo": {
+    "title": "Монте-Игельдо: фуникулер и парк",
+    "parent": "san-sebastian",
+    "types": [
+      "amusement_park",
+      "viewpoint"
+    ],
+    "search_terms": [
+      "парк развлечений",
+      "парки развлечений",
+      "аттракционы",
+      "amusement park",
+      "theme park",
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck"
+    ]
+  },
+  "burgos--arco-santa-maria": {
+    "title": "Ворота Святой Марии",
+    "parent": "burgos",
+    "types": [
+      "historic_building"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
+  },
+  "berlin--memorial-zhertvam-kholokosta": {
+    "title": "Мемориал жертвам Холокоста",
+    "parent": "berlin",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
+  },
+  "berlin--staraya-natsionalnaya-galereya": {
+    "title": "Старая национальная галерея",
+    "parent": "berlin",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ]
+  },
+  "vic--la-vella": {
+    "title": "Памятник Ла Велья",
+    "parent": "vic",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
+  },
+  "merida-mexico--palacio-gobierno": {
+    "title": "Дворец правительства Юкатана",
+    "parent": "merida-mexico",
+    "types": [
+      "palace",
+      "artwork"
+    ],
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "искусство",
+      "фреска",
+      "фрески",
+      "роспись",
+      "artwork",
+      "mural"
+    ]
+  },
+  "merida-mexico--quinta-montes-molina": {
+    "title": "Quinta Montes Molina",
+    "parent": "merida-mexico",
+    "types": [
+      "historic_house",
+      "museum"
+    ],
+    "search_terms": [
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "merida-mexico--cenote-noc-ac": {
+    "title": "Сенот Noc Ac",
+    "parent": "merida-mexico",
+    "types": [
+      "cenote"
+    ],
+    "search_terms": [
+      "сенот",
+      "сеноты",
+      "cenote"
+    ]
+  },
+  "mexico-city--monumento-revolucion": {
+    "title": "Монумент Революции",
+    "parent": "mexico-city",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
+  },
+  "santiago-chile--central-post-office": {
+    "title": "Главпочтамт Сантьяго",
+    "parent": "santiago-chile",
+    "types": [
+      "civic_building"
+    ],
+    "search_terms": [
+      "общественное здание",
+      "административное здание",
+      "civic building"
+    ]
+  },
+  "purmamarca--seven-colours-hill": {
+    "title": "Гора семи цветов",
+    "parent": "purmamarca",
+    "types": [
+      "mountain"
+    ],
+    "search_terms": [
+      "гора",
+      "горы",
+      "холм",
+      "холмы",
+      "mountain",
+      "hill"
+    ]
+  },
+  "salta--escoipe-gorge": {
+    "title": "Ущелье Эскойпе",
+    "parent": "salta",
+    "types": [
+      "canyon"
+    ],
+    "search_terms": [
+      "каньон",
+      "каньоны",
+      "ущелье",
+      "ущелья",
+      "canyon",
+      "gorge"
+    ]
+  },
+  "salta--piedra-del-molino": {
+    "title": "Перевал Piedra del Molino",
+    "parent": "salta",
+    "types": [
+      "viewpoint"
+    ],
+    "search_terms": [
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck"
+    ]
+  },
+  "iguazu-falls--three-borders-viewpoint": {
+    "title": "Парк трёх стран — Аргентина",
+    "parent": "iguazu-falls",
+    "types": [
+      "viewpoint",
+      "park"
+    ],
+    "search_terms": [
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ]
+  },
+  "buenos-aires--metropolitan-cathedral": {
+    "title": "Кафедральный собор Буэнос-Айреса",
+    "parent": "buenos-aires",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "buenos-aires--palermo-soho": {
+    "title": "Палермо-Сохо",
+    "parent": "buenos-aires",
+    "types": [
+      "district"
+    ],
+    "search_terms": [
+      "район",
+      "районы",
+      "квартал",
+      "кварталы",
+      "district",
+      "neighbourhood"
+    ]
+  },
+  "buenos-aires--puerto-madero": {
+    "title": "Пуэрто-Мадеро",
+    "parent": "buenos-aires",
+    "types": [
+      "district"
+    ],
+    "search_terms": [
+      "район",
+      "районы",
+      "квартал",
+      "кварталы",
+      "district",
+      "neighbourhood"
+    ]
+  },
+  "valparaiso--arturo-prat-memorial": {
+    "title": "Памятник Артуро Прату",
+    "parent": "valparaiso",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
+  },
+  "frankfurt--oper-frankfurt": {
+    "title": "Франкфуртская опера",
+    "parent": "frankfurt",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ]
+  },
+  "rotterdam--erasmus-university": {
+    "title": "Университет Эразма Роттердамского",
+    "parent": "rotterdam",
+    "types": [
+      "university"
+    ],
+    "search_terms": [
+      "университет",
+      "университеты",
+      "университета",
+      "колледж",
+      "university",
+      "college"
+    ]
+  },
+  "lapin-agile": {
+    "title": "Кабаре Au Lapin Agile — «Проворный Кролик»",
+    "parent": "paris",
+    "place": "lapin-agile",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ]
+  },
+  "rome--santa-mariya-madzhore": {
+    "title": "Санта-Мария-Маджоре",
+    "parent": "rome",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "santa-maria-del-mar": {
+    "title": "Санта-Мария-дель-Мар",
+    "parent": "barcelona",
+    "place": "santa-maria-del-mar",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "florence--bazilika-san-lorentso": {
+    "title": "Базилика Сан-Лоренцо",
+    "parent": "florence",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "florence--bazilika-san-miniato-al-monte": {
+    "title": "Базилика Сан-Миниато-аль-Монте",
+    "parent": "florence",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "gijon--bazilika-svyatogo-serdtsa": {
+    "title": "Базилика Святого Сердца",
+    "parent": "gijon",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "kevelaer--bazilika-svyatoy-marii": {
+    "title": "Базилика Святой Марии",
+    "parent": "kevelaer",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "leon--bazilika-svyatogo-isidora": {
+    "title": "Базилика Святого Исидора",
+    "parent": "leon",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "lisbon--tserkov-san-domingush": {
+    "title": "Церковь Сан-Домингуш",
+    "parent": "lisbon",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "lisbon--tserkov-svyatogo-rokha": {
+    "title": "Церковь Святого Роха",
+    "parent": "lisbon",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "lucca--bazilika-san-frediano": {
+    "title": "Базилика Сан-Фредиано",
+    "parent": "lucca",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "milan--santa-mariya-delle-gratsie": {
+    "title": "Санта-Мария-делле-Грацие",
+    "parent": "milan",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "porto--tserkov-klerigush": {
+    "title": "Церковь Клеригуш",
+    "parent": "porto",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "porto--tserkov-svyatogo-frantsiska": {
+    "title": "Церковь Святого Франциска",
+    "parent": "porto",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "porto--tserkov-svyatogo-ildefonso": {
+    "title": "Церковь Святого Ильдефонсо",
+    "parent": "porto",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "prague--bazilika-svyatogo-georgiya": {
+    "title": "Базилика Святого Георгия",
+    "parent": "prague",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "reims--bazilika-sen-remi": {
+    "title": "Базилика Сен-Реми",
+    "parent": "reims",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "rome--bazilika-santa-prassede": {
+    "title": "Базилика Санта-Прасседе",
+    "parent": "rome",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "rome--lateranskaya-bazilika": {
+    "title": "Латеранская базилика",
+    "parent": "rome",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "rome--san-petro-in-vinkoli": {
+    "title": "Сан-Пьетро-ин-Винколи",
+    "parent": "rome",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "rome--santa-kroche-in-dzheruzalemme": {
+    "title": "Санта-Кроче-ин-Джерузалемме",
+    "parent": "rome",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "rouen--tserkov-abbatstva-sent-uan": {
+    "title": "Церковь аббатства Сент-Уан",
+    "parent": "rouen",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "saint-etienne-du-mont": {
+    "title": "Сент-Этьен-дю-Мон",
+    "parent": "paris",
+    "place": "saint-etienne-du-mont",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "saint-severin": {
+    "title": "Сен-Северин",
+    "parent": "paris",
+    "place": "saint-severin",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "sainte-anne-de-beaupre--bazilika-sent-ann-de-bopre": {
+    "title": "Базилика Сент-Анн-де-Бопре",
+    "parent": "sainte-anne-de-beaupre",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "sainte-clotilde": {
+    "title": "Базилика Святой Клотильды",
+    "parent": "paris",
+    "place": "sainte-clotilde",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "santiago-chile--tserkov-svyatogo-frantsiska": {
+    "title": "Церковь Святого Франциска",
+    "parent": "santiago-chile",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "temple-church": {
+    "title": "Церковь Темпла",
+    "parent": "london",
+    "place": "temple-church",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "teruel--tserkov-svyatogo-petra": {
+    "title": "Церковь Святого Петра",
+    "parent": "teruel",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "toledo--tserkov-santo-tome": {
+    "title": "Церковь Санто-Томе",
+    "parent": "toledo",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "lyon--notre-dame-de-fourviere": {
+    "title": "Базилика Нотр-Дам-де-Фурвьер",
+    "parent": "lyon",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "bruges--holy-blood-basilica": {
+    "title": "Базилика Святой Крови",
+    "parent": "bruges",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "viana-do-castelo--misericordia": {
+    "title": "Дом милосердия и церковь Мизерикордия",
+    "parent": "viana-do-castelo",
+    "types": [
+      "historic_building",
+      "church"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "porto--carmo-carmelitas": {
+    "title": "Церкви Карму и Кармелиташ",
+    "parent": "porto",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "porto--capela-das-almas": {
+    "title": "Часовня Алмаш",
+    "parent": "porto",
+    "types": [
+      "chapel"
+    ],
+    "search_terms": [
+      "часовня",
+      "часовни",
+      "капелла",
+      "капеллы",
+      "храм",
+      "chapel"
+    ]
+  },
+  "lucca--san-michele-in-foro": {
+    "title": "Сан-Микеле-ин-Форо",
+    "parent": "lucca",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "siena--san-domenico": {
+    "title": "Базилика Сан-Доменико — Святая Екатерина",
+    "parent": "siena",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "identification_source": "https://santacaterina.siena.it/basilica-di-san-domenico/"
+  },
+  "lucca--san-martino-cathedral": {
+    "title": "Собор Святого Мартина в Лукке",
+    "parent": "lucca",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "condom--sobor-kondoma": {
+    "title": "Собор Кондома",
+    "parent": "condom",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "florence--florentiyskiy-baptisteriy": {
+    "title": "Флорентийский баптистерий",
+    "parent": "florence",
+    "types": [
+      "temple"
+    ],
+    "search_terms": [
+      "храм",
+      "храмы",
+      "храма",
+      "храмов",
+      "святилище",
+      "temple"
+    ]
+  },
+  "pisa--pizanskiy-baptisteriy": {
+    "title": "Пизанский баптистерий",
+    "parent": "pisa",
+    "types": [
+      "temple"
+    ],
+    "search_terms": [
+      "храм",
+      "храмы",
+      "храма",
+      "храмов",
+      "святилище",
+      "temple"
+    ]
+  },
+  "mexico-city--tserkov-san-khuan-bautista": {
+    "title": "Церковь Сан-Хуан-Баутиста",
+    "parent": "mexico-city",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "oviedo--bazilika-san-khuan-el-real": {
+    "title": "Базилика Сан-Хуан-эль-Реаль",
+    "parent": "oviedo",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "lucca--santi-giovanni-reparata": {
+    "title": "Санти-Джованни-э-Репарата",
+    "parent": "lucca",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
     ]
   },
   "munich--ns-dokumentationszentrum": {

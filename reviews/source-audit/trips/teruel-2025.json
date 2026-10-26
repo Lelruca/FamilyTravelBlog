@@ -1,0 +1,155 @@
+{
+  "trip_path": "content/europe/spain/teruel-2025",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "kind": "facebook_profile_json",
+    "record_index": 42,
+    "timestamp": 1764219187,
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "read": "Целиком прочитан оригинальный пост Facebook и все подписи вложений, затем текущая глава и сведения о составе поездки. Служебные названия альбомов не каталогизируются."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/teruel-2025.json",
+    "method": "Решения только по авторскому рассказу и прямым содержательным подписям. Каждый снимок не рассматривается и фоновые объекты не определяются."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/spain/teruel-2025/teruel-albarracin/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны полностью. Части комплексов, планы и сравнения не считаются отдельными посещениями.",
+      "objects": [
+        {
+          "label": "Валенсия и мюзикл «Ромео и Джульетта»",
+          "event": "attended_show",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Наташа потащила нас на мюзикл"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "valencia"
+          },
+          "reason": "Спектакль состоялся; точный театр не назван и не угадывается.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Теруэль",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 1,
+              "quote": "Теруэль с большим кол-вом памятников"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "teruel"
+          },
+          "reason": "Прогулка по городу и явно рассказанные объекты.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Церковь Святого Петра и мавзолей влюблённых",
+          "event": "entered_complex",
+          "evidence": [
+            {
+              "source_paragraph": 4,
+              "quote": "церковь Святого Петра, при которой они лежат"
+            }
+          ],
+          "decision": "retain",
+          "reason": "Единый художественно-исторический комплекс церкви и мавзолея теруэльских влюблённых. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Наташа"
+          ],
+          "target": {
+            "attraction": "teruel--tserkov-svyatogo-petra"
+          }
+        },
+        {
+          "label": "Альбаррасин",
+          "event": "walked_and_climbed",
+          "evidence": [
+            {
+              "source_paragraph": 6,
+              "quote": "мы с удовольствием побродили по средневековым улочкам"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "albarracin"
+          },
+          "reason": "Вся группа дошла, включая маму автора. Название отельной смотровой или каждой лестницы не придумывается.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Четыре башни Теруэля и Пиза",
+          "event": "architecture_and_comparison",
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "Четыре знаменитые «башни-близнецы»"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Имена отдельных башен и входы не заявлены, Пиза только сравнение.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Кафедральный собор Теруэля",
+          "event": "visited_interior_described_in_author_caption",
+          "evidence": [
+            {
+              "source_attachment_path": "attachments.0.data.15.media.description",
+              "quote": "Catedral de Santa María de Mediavilla (Кафедральный собор Теруэля)\nИменно в нём находится знаменитый деревянный позднеготический ретабло (иконостас/алтарь), один из главных шедевров города."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "teruel--catedral-santa-maria"
+          },
+          "reason": "Не определение по случайному фону: авторская подпись прямо называет собор и рассказывает о деревянном ретабло внутри. Сама подпись остаётся без изменений.",
+          "participants": [
+            "Ома",
+            "Сергей",
+            "Леля",
+            "Наташа"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled",
+    "questions": [],
+    "repeat_check": "Сопоставлены все названные места рассказа и подписи. Отдельные экспонаты и внутренние части комплексов не добавлены. Несостоявшийся музей кавы исключён, службы и поездки отдельных членов группы учтены отдельно."
+  }
+}

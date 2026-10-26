@@ -1,0 +1,80 @@
+{
+  "trip_path": "content/europe/switzerland/bern-2023",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "kind": "facebook_profile_json",
+    "record_index": 111,
+    "timestamp": 1695835468,
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "read": "Целиком прочитан исходный пост и все авторские подписи вложений, затем вся глава сайта. Служебные названия альбомов не трактуются как объекты."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/bern-2023.json",
+    "method": "Решения основаны на рассказе и именованных частях опубликованной главы. Архитектура, экспонаты и фон снимков не каталогизируются. Полный покадровый просмотр не требуется и не заявлен."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/switzerland/bern-2023/bern/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Пост, подписи и глава прочитаны полностью. Состав участников отделён от планирования и других одновременно путешествовавших родственников.",
+      "objects": [
+        {
+          "label": "Берн",
+          "event": "walked_during_layover",
+          "evidence": [
+            {
+              "source_paragraph": 1,
+              "quote": "длинную пересадку на весь день в Берне"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "bern"
+          },
+          "reason": "Гулял Митя один. Фраза «мы с ним запланировали» означает совместное планирование, а не присутствие матери.",
+          "participants": [
+            "Митя"
+          ]
+        },
+        {
+          "label": "Женева — соревнования",
+          "event": "onward_destination",
+          "evidence": [
+            {
+              "source_paragraph": 1,
+              "quote": "Соревнования в Женеве"
+            }
+          ],
+          "decision": "exclude_as_bern_visit",
+          "reason": "Дальнейшая цель названа, но о Женеве эта глава не рассказывает. Не добавляется отдельная ссылка.",
+          "participants": [
+            "Митя"
+          ]
+        },
+        {
+          "label": "Городские здания и мосты на фото",
+          "event": "unidentified_background",
+          "evidence": [
+            {
+              "source_paragraph": 2,
+              "quote": "Так с ней и гуляет."
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Название ни одного отдельного объекта не дано; не определяем по каждому снимку собор, башню или мост.",
+          "participants": [
+            "Митя"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled",
+    "questions": [],
+    "repeat_check": "Все упомянутые объекты и дальнейшие/предыдущие направления сопоставлены с данными. Подтверждённые музейные связи сохранены, фоновых добавлений нет; состав участников не расширен до всей семьи."
+  }
+}

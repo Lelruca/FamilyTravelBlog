@@ -11,7 +11,7 @@ date: "2025-12-13"
 auto_gallery: false
 draft: false
 source_url: "https://www.facebook.com/media/set/?set=pcb.1338054744787724"
-attractions: ["berlin--muzeynyy-ostrov","berlin--staryy-muzey","berlin--novyy-muzey","berlin--muzey-bode","berlin--panorama-pergamona","berlin--berlinskiy-sobor"]
+attractions: ["berlin--muzeynyy-ostrov","berlin--staryy-muzey","berlin--novyy-muzey","berlin--muzey-bode","berlin--panorama-pergamona","berlin--berlinskiy-sobor","berlin--staraya-natsionalnaya-galereya"]
 ---
 <p>Мы сегодня совершили «музейный марафон» — все 5 (вернее 4,5 — Пергамон закрыт на реконструкцию, но работает временная экспозиция). Это всё «Музейный остров». Музеев 5, но я бы сказала, что три из них в сумме — это один Британский музей в Лондоне (только побольше будет 😉). Мы не планировали всё, но ошиблись и первым попали во «внеплановый».</p>
 

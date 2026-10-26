@@ -1,0 +1,29 @@
+{
+  "status": "partial_correction_full_trip_audit_in_progress",
+  "trip_path": "content/europe/germany/germany-2011",
+  "file": "content/europe/germany/germany-2011/holland/index.md",
+  "object": {
+    "label": "Домик Петра I",
+    "target": {
+      "attraction": "zaandam--peter-house"
+    },
+    "event": "exterior",
+    "decision": "include",
+    "reason": "По указанию владельца объект оставлен в данных. Семья приехала к домику, но музей уже закрылся. Вход внутрь не приписывается.",
+    "evidence": [
+      {
+        "source_paragraph": 91,
+        "quote": "музей уже закрылся"
+      },
+      {
+        "source_paragraph": 91,
+        "quote": "даже снаружи мы мало увидели"
+      }
+    ]
+  },
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2011_ Европейское турне (Швейцария, Эльзас, Германия, Голландия, Бельгия).docx",
+    "sha256": "1f3a8bca05f26e4d2c030f5d5b4d6dc51d2404e9cdc1d725373206679590b29f"
+  },
+  "limitations": "Это запись отдельной подтверждённой поправки. Полный аудит девяти глав и всех исходных фотографий ещё не завершён."
+}

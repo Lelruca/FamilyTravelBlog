@@ -5,6 +5,7 @@ layout: "photo-story"
 weight: 60
 day_num: 5
 auto_gallery: false
+attractions: []
 places:
   - puy-du-fou
   - saumur

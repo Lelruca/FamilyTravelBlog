@@ -14,7 +14,7 @@ places:
 hero_image: "P1010044.JPG"
 hero_card_image: "P1010044.JPG"
 auto_gallery: false
-attractions: ["cologne--kyolnskiy-zoopark-i-akvarium","bruhl--park-phantasialand"]
+attractions: ["kleve--neuer-tiergarten","kleve--tiergarten","cologne--kyolnskiy-zoopark-i-akvarium","bruhl--park-phantasialand"]
 ---
 
 <p>Ну вот, сегодня последний рабочий день моей первой недели после отпуска. Вроде я наконец немножко проснулась и голова у меня прояснилась (что-то трудно переход во времени обратно мне пошел) и можно собраться с мыслями и написать отчет о поездке.</p>

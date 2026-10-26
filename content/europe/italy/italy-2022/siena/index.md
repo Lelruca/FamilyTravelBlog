@@ -10,7 +10,7 @@ hero_image: "20220904_163645.jpg"
 date: "2022-09-04"
 auto_gallery: false
 draft: false
-attractions: ["siena--sienskiy-sobor","siena--svyatilishche-svyatoy-ekateriny-sienskoy"]
+attractions: ["siena--sienskiy-sobor","siena--san-domenico"]
 ---
 <p>А мы сегодня выдвинулись обратно в сторону Рима. Шесть дней покупались в теплом море от души, сочетая с экскурсиями! <br>Наша последняя остановка в  Тоскане - город Сиена!<br>Как же удачно получилось, что именно этот город оказался последним! Мы конечно подустали, и все города чем-то похожи друг на друга, но Сиена совсем другая!</p>
 

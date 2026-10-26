@@ -1,71 +1,822 @@
 {
-  "museum": {"title":"Музей","search_terms":["музей","музеи","музея","музеев","museum","museums"]},
-  "gallery": {"title":"Художественная галерея","search_terms":["галерея","галереи","галерею","галерей","картинная галерея","картинные галереи","художественная галерея","художественные галереи","пинакотека","искусство","живопись","картины","gallery","art"]},
-  "cathedral": {"title":"Собор","search_terms":["собор","соборы","собора","соборов","cathedral"]},
-  "church": {"title":"Церковь","search_terms":["церковь","церкви","церквей","храм","храмы","базилика","базилики","church"]},
-  "temple": {"title":"Храм","search_terms":["храм","храмы","храма","храмов","святилище","temple"]},
-  "chapel": {"title":"Часовня","search_terms":["часовня","часовни","капелла","капеллы","храм","chapel"]},
-  "monastery": {"title":"Монастырь","search_terms":["монастырь","монастыри","монастыря","монастырей","аббатство","аббатства","monastery","abbey"]},
-  "palace": {"title":"Дворец","search_terms":["дворец","дворцы","дворца","дворцов","резиденция","palace"]},
-  "castle": {"title":"Замок или крепость","search_terms":["замок","замки","замка","замков","крепость","крепости","цитадель","castle","fortress"]},
-  "park": {"title":"Парк или сад","search_terms":["парк","парки","парка","парков","сад","сады","сада","садов","park","garden"]},
-  "botanical_garden": {"title":"Ботанический сад","search_terms":["ботанический сад","ботанические сады","ботаника","botanical garden"]},
-  "zoo": {"title":"Зоопарк","search_terms":["зоопарк","зоопарки","зоопарка","зоопарков","животные","биопарк","zoo"]},
-  "aquarium": {"title":"Аквариум","search_terms":["аквариум","аквариумы","аквариума","океанариум","aquarium"]},
-  "amusement_park": {"title":"Парк развлечений","search_terms":["парк развлечений","парки развлечений","аттракционы","amusement park","theme park"]},
-  "square": {"title":"Площадь","search_terms":["площадь","площади","площадей","square","plaza"]},
-  "street": {"title":"Улица или набережная","search_terms":["улица","улицы","улиц","проспект","бульвар","набережная","набережные","street"]},
-  "district": {"title":"Район или квартал","search_terms":["район","районы","квартал","кварталы","district","neighbourhood"]},
-  "town": {"title":"Город","search_terms":["город","города","городок","town","city"]},
-  "theatre": {"title":"Театр","search_terms":["театр","театры","театра","театров","опера","оперы","theatre","theater","opera"]},
-  "concert_hall": {"title":"Концертная площадка","search_terms":["концерт","концерты","концертный зал","музыка","concert"]},
-  "university": {"title":"Университет","search_terms":["университет","университеты","университета","колледж","university","college"]},
-  "historic_academy": {"title":"Историческая академия","search_terms":["академия","академии","образование","academy"]},
-  "library": {"title":"Библиотека","search_terms":["библиотека","библиотеки","библиотек","книги","library"]},
-  "historic_house": {"title":"Исторический дом или вилла","search_terms":["исторический дом","особняк","особняки","вилла","виллы","historic house","villa"]},
-  "historic_building": {"title":"Историческое здание","search_terms":["историческое здание","архитектура","historic building"]},
-  "historic_hospital": {"title":"Исторический госпиталь","search_terms":["госпиталь","госпитали","больница","больницы","hospital"]},
-  "civic_building": {"title":"Общественное здание","search_terms":["общественное здание","административное здание","civic building"]},
-  "cultural_centre": {"title":"Культурный центр","search_terms":["культурный центр","культурные центры","culture centre"]},
-  "science_centre": {"title":"Научный центр","search_terms":["научный центр","научные центры","наука","science centre","science center"]},
-  "exhibition": {"title":"Выставка","search_terms":["выставка","выставки","экспозиция","панорама","exhibition"]},
-  "treasury": {"title":"Сокровищница","search_terms":["сокровищница","сокровищницы","сокровища","treasury"]},
-  "monument": {"title":"Памятник","search_terms":["памятник","памятники","монумент","мемориал","monument","memorial"]},
-  "artwork": {"title":"Произведение искусства","search_terms":["искусство","фреска","фрески","роспись","artwork","mural"]},
-  "archaeological_site": {"title":"Археологический памятник","search_terms":["археология","археологический памятник","руины","раскопки","archaeology","ruins"]},
-  "arena": {"title":"Арена","search_terms":["арена","арены","амфитеатр","arena","amphitheatre"]},
-  "mausoleum": {"title":"Мавзолей","search_terms":["мавзолей","усыпальница","гробница","mausoleum"]},
-  "cemetery": {"title":"Кладбище","search_terms":["кладбище","кладбища","некрополь","cemetery"]},
-  "prison": {"title":"Историческая тюрьма","search_terms":["тюрьма","тюрьмы","prison"]},
-  "tower": {"title":"Башня","search_terms":["башня","башни","башен","tower"]},
-  "viewpoint": {"title":"Смотровая площадка","search_terms":["смотровая площадка","смотровые площадки","обзорная площадка","viewpoint","observation deck"]},
-  "bridge": {"title":"Мост","search_terms":["мост","мосты","моста","мостов","bridge"]},
-  "aqueduct": {"title":"Акведук","search_terms":["акведук","акведуки","aqueduct"]},
-  "natural_arch": {"title":"Природный мост","search_terms":["природный мост","природная арка","natural bridge","natural arch"]},
-  "fountain": {"title":"Фонтан","search_terms":["фонтан","фонтаны","фонтана","fountain"]},
-  "clock": {"title":"Исторические часы","search_terms":["часы","куранты","астрономические часы","clock"]},
-  "station": {"title":"Вокзал","search_terms":["вокзал","вокзалы","железнодорожная станция","station"]},
-  "factory": {"title":"Фабрика или мастерская","search_terms":["фабрика","фабрики","завод","мануфактура","производство","factory"]},
-  "industrial_heritage": {"title":"Промышленное наследие","search_terms":["промышленное наследие","индустриальное наследие","техника","industrial heritage"]},
-  "windmill": {"title":"Мельница","search_terms":["мельница","мельницы","ветряная мельница","windmill"]},
-  "winery": {"title":"Винодельня или винный погреб","search_terms":["винодельня","винодельни","винный погреб","вино","winery"]},
-  "equestrian_centre": {"title":"Школа верховой езды","search_terms":["верховая езда","конная школа","лошади","equestrian"]},
-  "festival": {"title":"Фестиваль","search_terms":["фестиваль","фестивали","праздник","festival"]},
-  "restaurant": {"title":"Ресторан, бар или кабаре","search_terms":["ресторан","рестораны","бар","кабаре","restaurant","cabaret"]},
-  "hotel": {"title":"Отель","search_terms":["отель","отели","гостиница","гостиницы","hotel"]},
-  "shopping_centre": {"title":"Торговый центр","search_terms":["торговый центр","торговые центры","магазины","shopping mall"]},
-  "market": {"title":"Рынок","search_terms":["рынок","рынки","базар","market"]},
-  "bookshop": {"title":"Книжный магазин","search_terms":["книжный магазин","книжные магазины","книги","bookshop","bookstore"]},
-  "lake": {"title":"Озеро","search_terms":["озеро","озёра","озера","озёр","lake"]},
-  "island": {"title":"Остров","search_terms":["остров","острова","островов","island"]},
-  "cape": {"title":"Мыс","search_terms":["мыс","мысы","мыса","cape"]},
-  "mountain": {"title":"Гора или холм","search_terms":["гора","горы","холм","холмы","mountain","hill"]},
-  "beach": {"title":"Пляж","search_terms":["пляж","пляжи","пляжа","побережье","beach"]},
-  "canyon": {"title":"Каньон или ущелье","search_terms":["каньон","каньоны","ущелье","ущелья","canyon","gorge"]},
-  "waterfall": {"title":"Водопад","search_terms":["водопад","водопады","водопада","waterfall"]},
-  "glacier": {"title":"Ледник","search_terms":["ледник","ледники","ледника","glacier"]},
-  "cave": {"title":"Пещера или грот","search_terms":["пещера","пещеры","грот","гроты","cave","grotto"]},
-  "cenote": {"title":"Сенот","search_terms":["сенот","сеноты","cenote"]},
-  "trail": {"title":"Пешеходная тропа","search_terms":["тропа","тропы","пеший маршрут","хайкинг","trail","hiking"]},
-  "geopark": {"title":"Геопарк","search_terms":["геопарк","геопарки","геология","geopark"]}
+  "museum": {
+    "title": "Музей",
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "gallery": {
+    "title": "Художественная галерея",
+    "search_terms": [
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ]
+  },
+  "cathedral": {
+    "title": "Собор",
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral"
+    ]
+  },
+  "church": {
+    "title": "Церковь",
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "temple": {
+    "title": "Храм",
+    "search_terms": [
+      "храм",
+      "храмы",
+      "храма",
+      "храмов",
+      "святилище",
+      "temple"
+    ]
+  },
+  "chapel": {
+    "title": "Часовня",
+    "search_terms": [
+      "часовня",
+      "часовни",
+      "капелла",
+      "капеллы",
+      "храм",
+      "chapel"
+    ]
+  },
+  "monastery": {
+    "title": "Монастырь",
+    "search_terms": [
+      "монастырь",
+      "монастыри",
+      "монастыря",
+      "монастырей",
+      "аббатство",
+      "аббатства",
+      "monastery",
+      "abbey"
+    ]
+  },
+  "palace": {
+    "title": "Дворец",
+    "search_terms": [
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ]
+  },
+  "castle": {
+    "title": "Замок или крепость",
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress"
+    ]
+  },
+  "park": {
+    "title": "Парк или сад",
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ]
+  },
+  "botanical_garden": {
+    "title": "Ботанический сад",
+    "search_terms": [
+      "ботанический сад",
+      "ботанические сады",
+      "ботаника",
+      "botanical garden"
+    ]
+  },
+  "zoo": {
+    "title": "Зоопарк",
+    "search_terms": [
+      "зоопарк",
+      "зоопарки",
+      "зоопарка",
+      "зоопарков",
+      "животные",
+      "биопарк",
+      "zoo"
+    ]
+  },
+  "aquarium": {
+    "title": "Аквариум",
+    "search_terms": [
+      "аквариум",
+      "аквариумы",
+      "аквариума",
+      "океанариум",
+      "aquarium"
+    ]
+  },
+  "amusement_park": {
+    "title": "Парк развлечений",
+    "search_terms": [
+      "парк развлечений",
+      "парки развлечений",
+      "аттракционы",
+      "amusement park",
+      "theme park"
+    ]
+  },
+  "square": {
+    "title": "Площадь",
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ]
+  },
+  "street": {
+    "title": "Улица или набережная",
+    "search_terms": [
+      "улица",
+      "улицы",
+      "улиц",
+      "проспект",
+      "бульвар",
+      "набережная",
+      "набережные",
+      "street"
+    ]
+  },
+  "district": {
+    "title": "Район или квартал",
+    "search_terms": [
+      "район",
+      "районы",
+      "квартал",
+      "кварталы",
+      "district",
+      "neighbourhood"
+    ]
+  },
+  "town": {
+    "title": "Город",
+    "search_terms": [
+      "город",
+      "города",
+      "городок",
+      "town",
+      "city"
+    ]
+  },
+  "theatre": {
+    "title": "Театр",
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ]
+  },
+  "concert_hall": {
+    "title": "Концертная площадка",
+    "search_terms": [
+      "концерт",
+      "концерты",
+      "концертный зал",
+      "музыка",
+      "concert"
+    ]
+  },
+  "university": {
+    "title": "Университет",
+    "search_terms": [
+      "университет",
+      "университеты",
+      "университета",
+      "колледж",
+      "university",
+      "college"
+    ]
+  },
+  "historic_academy": {
+    "title": "Историческая академия",
+    "search_terms": [
+      "академия",
+      "академии",
+      "образование",
+      "academy"
+    ]
+  },
+  "library": {
+    "title": "Библиотека",
+    "search_terms": [
+      "библиотека",
+      "библиотеки",
+      "библиотек",
+      "книги",
+      "library"
+    ]
+  },
+  "historic_house": {
+    "title": "Исторический дом или вилла",
+    "search_terms": [
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa"
+    ]
+  },
+  "historic_building": {
+    "title": "Историческое здание",
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
+  },
+  "historic_hospital": {
+    "title": "Исторический госпиталь",
+    "search_terms": [
+      "госпиталь",
+      "госпитали",
+      "больница",
+      "больницы",
+      "hospital"
+    ]
+  },
+  "civic_building": {
+    "title": "Общественное здание",
+    "search_terms": [
+      "общественное здание",
+      "административное здание",
+      "civic building"
+    ]
+  },
+  "cultural_centre": {
+    "title": "Культурный центр",
+    "search_terms": [
+      "культурный центр",
+      "культурные центры",
+      "culture centre"
+    ]
+  },
+  "science_centre": {
+    "title": "Научный центр",
+    "search_terms": [
+      "научный центр",
+      "научные центры",
+      "наука",
+      "science centre",
+      "science center"
+    ]
+  },
+  "exhibition": {
+    "title": "Выставка",
+    "search_terms": [
+      "выставка",
+      "выставки",
+      "экспозиция",
+      "панорама",
+      "exhibition"
+    ]
+  },
+  "treasury": {
+    "title": "Сокровищница",
+    "search_terms": [
+      "сокровищница",
+      "сокровищницы",
+      "сокровища",
+      "treasury"
+    ]
+  },
+  "monument": {
+    "title": "Памятник",
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
+  },
+  "artwork": {
+    "title": "Произведение искусства",
+    "search_terms": [
+      "искусство",
+      "фреска",
+      "фрески",
+      "роспись",
+      "artwork",
+      "mural"
+    ]
+  },
+  "archaeological_site": {
+    "title": "Археологический памятник",
+    "search_terms": [
+      "археология",
+      "археологический памятник",
+      "руины",
+      "раскопки",
+      "archaeology",
+      "ruins"
+    ]
+  },
+  "arena": {
+    "title": "Арена",
+    "search_terms": [
+      "арена",
+      "арены",
+      "амфитеатр",
+      "arena",
+      "amphitheatre"
+    ]
+  },
+  "mausoleum": {
+    "title": "Мавзолей",
+    "search_terms": [
+      "мавзолей",
+      "усыпальница",
+      "гробница",
+      "mausoleum"
+    ]
+  },
+  "cemetery": {
+    "title": "Кладбище",
+    "search_terms": [
+      "кладбище",
+      "кладбища",
+      "некрополь",
+      "cemetery"
+    ]
+  },
+  "prison": {
+    "title": "Историческая тюрьма",
+    "search_terms": [
+      "тюрьма",
+      "тюрьмы",
+      "prison"
+    ]
+  },
+  "tower": {
+    "title": "Башня",
+    "search_terms": [
+      "башня",
+      "башни",
+      "башен",
+      "tower"
+    ]
+  },
+  "viewpoint": {
+    "title": "Смотровая площадка",
+    "search_terms": [
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck"
+    ]
+  },
+  "bridge": {
+    "title": "Мост",
+    "search_terms": [
+      "мост",
+      "мосты",
+      "моста",
+      "мостов",
+      "bridge"
+    ]
+  },
+  "aqueduct": {
+    "title": "Акведук",
+    "search_terms": [
+      "акведук",
+      "акведуки",
+      "aqueduct"
+    ]
+  },
+  "natural_arch": {
+    "title": "Природный мост",
+    "search_terms": [
+      "природный мост",
+      "природная арка",
+      "natural bridge",
+      "natural arch"
+    ]
+  },
+  "fountain": {
+    "title": "Фонтан",
+    "search_terms": [
+      "фонтан",
+      "фонтаны",
+      "фонтана",
+      "fountain"
+    ]
+  },
+  "clock": {
+    "title": "Исторические часы",
+    "search_terms": [
+      "часы",
+      "куранты",
+      "астрономические часы",
+      "clock"
+    ]
+  },
+  "station": {
+    "title": "Вокзал",
+    "search_terms": [
+      "вокзал",
+      "вокзалы",
+      "железнодорожная станция",
+      "station"
+    ]
+  },
+  "factory": {
+    "title": "Фабрика или мастерская",
+    "search_terms": [
+      "фабрика",
+      "фабрики",
+      "завод",
+      "мануфактура",
+      "производство",
+      "factory"
+    ]
+  },
+  "industrial_heritage": {
+    "title": "Промышленное наследие",
+    "search_terms": [
+      "промышленное наследие",
+      "индустриальное наследие",
+      "техника",
+      "industrial heritage"
+    ]
+  },
+  "windmill": {
+    "title": "Мельница",
+    "search_terms": [
+      "мельница",
+      "мельницы",
+      "ветряная мельница",
+      "windmill"
+    ]
+  },
+  "winery": {
+    "title": "Винодельня или винный погреб",
+    "search_terms": [
+      "винодельня",
+      "винодельни",
+      "винный погреб",
+      "вино",
+      "winery"
+    ]
+  },
+  "equestrian_centre": {
+    "title": "Школа верховой езды",
+    "search_terms": [
+      "верховая езда",
+      "конная школа",
+      "лошади",
+      "equestrian"
+    ]
+  },
+  "festival": {
+    "title": "Фестиваль",
+    "search_terms": [
+      "фестиваль",
+      "фестивали",
+      "праздник",
+      "festival"
+    ]
+  },
+  "restaurant": {
+    "title": "Ресторан, бар или кабаре",
+    "search_terms": [
+      "ресторан",
+      "рестораны",
+      "бар",
+      "кабаре",
+      "restaurant",
+      "cabaret"
+    ]
+  },
+  "hotel": {
+    "title": "Отель",
+    "search_terms": [
+      "отель",
+      "отели",
+      "гостиница",
+      "гостиницы",
+      "hotel"
+    ]
+  },
+  "shopping_centre": {
+    "title": "Торговый центр",
+    "search_terms": [
+      "торговый центр",
+      "торговые центры",
+      "магазины",
+      "shopping mall"
+    ]
+  },
+  "market": {
+    "title": "Рынок",
+    "search_terms": [
+      "рынок",
+      "рынки",
+      "базар",
+      "market"
+    ]
+  },
+  "bookshop": {
+    "title": "Книжный магазин",
+    "search_terms": [
+      "книжный магазин",
+      "книжные магазины",
+      "книги",
+      "bookshop",
+      "bookstore"
+    ]
+  },
+  "lake": {
+    "title": "Озеро",
+    "search_terms": [
+      "озеро",
+      "озёра",
+      "озера",
+      "озёр",
+      "lake"
+    ]
+  },
+  "island": {
+    "title": "Остров",
+    "search_terms": [
+      "остров",
+      "острова",
+      "островов",
+      "island"
+    ]
+  },
+  "cape": {
+    "title": "Мыс",
+    "search_terms": [
+      "мыс",
+      "мысы",
+      "мыса",
+      "cape"
+    ]
+  },
+  "mountain": {
+    "title": "Гора или холм",
+    "search_terms": [
+      "гора",
+      "горы",
+      "холм",
+      "холмы",
+      "mountain",
+      "hill"
+    ]
+  },
+  "beach": {
+    "title": "Пляж",
+    "search_terms": [
+      "пляж",
+      "пляжи",
+      "пляжа",
+      "побережье",
+      "beach"
+    ]
+  },
+  "canyon": {
+    "title": "Каньон или ущелье",
+    "search_terms": [
+      "каньон",
+      "каньоны",
+      "ущелье",
+      "ущелья",
+      "canyon",
+      "gorge"
+    ]
+  },
+  "waterfall": {
+    "title": "Водопад",
+    "search_terms": [
+      "водопад",
+      "водопады",
+      "водопада",
+      "waterfall"
+    ]
+  },
+  "glacier": {
+    "title": "Ледник",
+    "search_terms": [
+      "ледник",
+      "ледники",
+      "ледника",
+      "glacier"
+    ]
+  },
+  "cave": {
+    "title": "Пещера или грот",
+    "search_terms": [
+      "пещера",
+      "пещеры",
+      "грот",
+      "гроты",
+      "cave",
+      "grotto"
+    ]
+  },
+  "cenote": {
+    "title": "Сенот",
+    "search_terms": [
+      "сенот",
+      "сеноты",
+      "cenote"
+    ]
+  },
+  "trail": {
+    "title": "Пешеходная тропа",
+    "search_terms": [
+      "тропа",
+      "тропы",
+      "пеший маршрут",
+      "хайкинг",
+      "trail",
+      "hiking"
+    ]
+  },
+  "geopark": {
+    "title": "Геопарк",
+    "search_terms": [
+      "геопарк",
+      "геопарки",
+      "геология",
+      "geopark"
+    ]
+  },
+  "walking_route": {
+    "title": "Пешеходный маршрут",
+    "search_terms": [
+      "пешеходный маршрут",
+      "прогулка",
+      "walking trail",
+      "walking route"
+    ]
+  },
+  "tour": {
+    "title": "Экскурсионный маршрут",
+    "search_terms": [
+      "экскурсия",
+      "экскурсии",
+      "экскурсионный маршрут",
+      "tour"
+    ]
+  },
+  "harbour": {
+    "title": "Гавань",
+    "search_terms": [
+      "гавань",
+      "гавани",
+      "порт",
+      "порты",
+      "марина",
+      "harbour",
+      "harbor",
+      "marina"
+    ]
+  },
+  "lighthouse": {
+    "title": "Маяк",
+    "search_terms": [
+      "маяк",
+      "маяки",
+      "маяков",
+      "lighthouse"
+    ]
+  },
+  "fossil_site": {
+    "title": "Место окаменелостей",
+    "search_terms": [
+      "окаменелости",
+      "окаменелостей",
+      "палеонтология",
+      "fossil site",
+      "fossil cliffs"
+    ]
+  },
+  "ship": {
+    "title": "Судно",
+    "search_terms": [
+      "судно",
+      "корабль",
+      "корабли",
+      "яхта",
+      "шхуна",
+      "ship",
+      "schooner"
+    ]
+  },
+  "ski_resort": {
+    "title": "Горнолыжный курорт",
+    "search_terms": [
+      "горнолыжный курорт",
+      "лыжи",
+      "горные лыжи",
+      "ski resort",
+      "skiing"
+    ]
+  },
+  "casino": {
+    "title": "Казино",
+    "search_terms": [
+      "казино",
+      "casino"
+    ]
+  },
+  "planetarium": {
+    "title": "Планетарий",
+    "search_terms": [
+      "планетарий",
+      "планетарии",
+      "планетария",
+      "planetarium"
+    ]
+  },
+  "tea_plantation": {
+    "title": "Чайная плантация",
+    "search_terms": [
+      "чайная плантация",
+      "чайные плантации",
+      "плантация",
+      "плантации",
+      "чай",
+      "tea plantation"
+    ]
+  },
+  "mine": {
+    "title": "Рудник, шахта или карьер",
+    "search_terms": [
+      "рудник",
+      "рудники",
+      "шахта",
+      "шахты",
+      "карьер",
+      "карьеры",
+      "добыча",
+      "mine",
+      "quarry"
+    ]
+  }
 }

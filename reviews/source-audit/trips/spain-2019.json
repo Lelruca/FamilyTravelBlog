@@ -1,0 +1,762 @@
+{
+  "trip_path": "content/europe/spain/spain-2019",
+  "status": "text_read_one_additional_source_gap",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/Испания 2019/your_facebook_activity/posts/your_posts__check_ins__photos_and_videos_1.html",
+    "sha256": "f6a3e755b70db939db910538090ee8d40789b9e6ac0a17399f69ebf0ee891e47",
+    "kind": "facebook_html",
+    "read": "Полностью прочитаны три относящихся к поездке поста (23, 28 и 29 декабря), текущие семь глав, все авторские подписи и добавление Торревьехи. Два поста от 6–7 декабря про университет и лошадь к поездке не относятся. Отдельная исходная запись добавления Торревьехи пока не найдена."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/spain-2019.json",
+    "method": "Проверены текст и размер самостоятельных серий, точечно 7 характерных кадров пяти уже именованных больших фотоэпизодов. Полный просмотр архива и поиск каждой детали не выполнялись. Короткие проходные серии не стали отдельными связями.",
+    "additional_originals": [
+      {
+        "key": "gaudi-modernisme/20191222_122209.jpg",
+        "source": "G:/My Drive/Family Travel Blog Photos/Europe/2019 - Рождественская Испания (Девичник трёх поколений)/03 - Барселона, Гауди и модерн/02_20191222_122209.jpg",
+        "sha256": "88675109caf19e1a76ef83753d7702c10f8ea55c327e65b0001bf2410621351a"
+      },
+      {
+        "key": "gaudi-modernisme/20191222_125201.jpg",
+        "source": "G:/My Drive/Family Travel Blog Photos/Europe/2019 - Рождественская Испания (Девичник трёх поколений)/03 - Барселона, Гауди и модерн/06_20191222_125201.jpg",
+        "sha256": "d8311cdddd2255724044897835e786ac6bcfd7c4c76e416133fd905bbfc48105"
+      },
+      {
+        "key": "gothic-quarter/20191222_090107.jpg",
+        "source": "G:/My Drive/Family Travel Blog Photos/Europe/2019 - Рождественская Испания (Девичник трёх поколений)/02 - Барселона, Готический квартал/02_20191222_090107.jpg",
+        "sha256": "d2d0f0e5f3044052f887a83ead81ac0cefbef197b4ed8f080e3ac30bfd6d37f3"
+      },
+      {
+        "key": "gothic-quarter/20191222_092134.jpg",
+        "source": "G:/My Drive/Family Travel Blog Photos/Europe/2019 - Рождественская Испания (Девичник трёх поколений)/02 - Барселона, Готический квартал/10_20191222_092134.jpg",
+        "sha256": "e9610f5152f68ab43a096bb11425646fdd64b544dd8ef253d30eba3c690ed5a4"
+      },
+      {
+        "key": "gothic-quarter/20191222_102455.jpg",
+        "source": "G:/My Drive/Family Travel Blog Photos/Europe/2019 - Рождественская Испания (Девичник трёх поколений)/02 - Барселона, Готический квартал/25_20191222_102455.jpg",
+        "sha256": "92cf637a79d4ed85e9ca5d2efadc3b8ea20d0a94a115832e06d48e518904ee65"
+      },
+      {
+        "key": "sagrada-sant-pau/20191223_121159.jpg",
+        "source": "G:/My Drive/Family Travel Blog Photos/Europe/2019 - Рождественская Испания (Девичник трёх поколений)/04 - Барселона, Саграда Фамилия и Сант-Пау/11_20191223_121159.jpg",
+        "sha256": "b1febe7a0c68e1fba120115a419ad700d5d2919bb772a2896fdd057730c71724"
+      },
+      {
+        "key": "sagrada-sant-pau/20191222_152059.jpg",
+        "source": "G:/My Drive/Family Travel Blog Photos/Europe/2019 - Рождественская Испания (Девичник трёх поколений)/04 - Барселона, Саграда Фамилия и Сант-Пау/21_20191222_152059.jpg",
+        "sha256": "08a561e7f0ced9db4afdba8d167f12a2fb7820caf8aa2d4bfb97544d1a880197"
+      }
+    ],
+    "scoped_blocks": [
+      {
+        "chapter": "gaudi-modernisme",
+        "object": "Дворец Гуэля",
+        "reviewed": [
+          "gaudi-modernisme/20191222_122209.jpg",
+          "gaudi-modernisme/20191222_125201.jpg"
+        ],
+        "scope": "Только самостоятельная серия дворца; без отдельных домов и предметов."
+      },
+      {
+        "chapter": "gothic-quarter",
+        "object": "Собор и Дворец Женералитата",
+        "reviewed": [
+          "gothic-quarter/20191222_090107.jpg",
+          "gothic-quarter/20191222_092134.jpg",
+          "gothic-quarter/20191222_102455.jpg"
+        ],
+        "scope": "Только две крупные именованные серии; не каждый проходной храм."
+      },
+      {
+        "chapter": "sagrada-sant-pau",
+        "object": "Сант-Пау и Дворец музыки",
+        "reviewed": [
+          "sagrada-sant-pau/20191223_121159.jpg",
+          "sagrada-sant-pau/20191222_152059.jpg"
+        ],
+        "scope": "Две большие самостоятельные серии, внешний осмотр без приписывания концертов и музейных туров."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "file": "content/europe/spain/spain-2019/barcelona-arrival/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава прочитана целиком, сопоставлена с исходными постами и содержательными фотоэпизодами; сведения только в подзаголовках не выдаются за авторский рассказ. В Торревьехе сохраняется открытая сверка независимого исходника.",
+      "objects": [
+        {
+          "label": "Барселона",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Первый - Барселона."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "barcelona"
+          },
+          "reason": "Начало поездки трёх поколений женщин, Сергей только советовал маршрут из другой поездки.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Площадь Каталонии, площадь Испании, Волшебный фонтан и ночная Саграда",
+          "event": "brief_photo_stops",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Барселона с первых шагов действительно показала"
+            }
+          ],
+          "decision": "exclude_as_separate_chapter_links",
+          "reason": "Несколько проходных кадров каждого места без собственного рассказа. Убраны отдельные связи этой главы. Содержательное посещение Саграды сохранено в своей главе.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/spain-2019/gaudi-modernisme/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Глава прочитана целиком, сопоставлена с исходными постами и содержательными фотоэпизодами; сведения только в подзаголовках не выдаются за авторский рассказ. В Торревьехе сохраняется открытая сверка независимого исходника.",
+      "objects": [
+        {
+          "label": "Гауди и модерн Барселоны",
+          "event": "architectural_walk",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Гауди меня честно потряс!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "barcelona"
+          },
+          "reason": "Рассказ о восприятии архитектуры, не доказательство входа в каждый дом.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Дворец Гуэля",
+          "event": "entered_photo_story",
+          "evidence": [
+            {
+              "photo": "gaudi-modernisme/20191222_122209.jpg"
+            },
+            {
+              "photo": "gaudi-modernisme/20191222_125201.jpg"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "palau-guell"
+          },
+          "reason": "Самостоятельная именованная серия из 9 кадров дворца; точечно проверены фасад и интерьер. Это большой фотоэпизод, а не один фон.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Каса-Батльо, Каса-Мила и дома на Диагонали",
+          "event": "architecture_within_city_walk",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "очень необычно все придумано"
+            }
+          ],
+          "decision": "exclude_as_separate_links",
+          "reason": "Общее впечатление от Гауди не доказывает отдельные содержательные визиты каждого дома. Убраны прежние связи Батльо и Мила; внешний городской фотоматериал остаётся в главе.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Tim Hortons",
+          "event": "meal_stop",
+          "evidence": [
+            {
+              "source_file": "content/europe/spain/spain-2019/gaudi-modernisme/index.md",
+              "source_sha256": "6181f2c904544a6e7bd4f2636195c6557ff0d7925f90532f2e80c3f55747ce86",
+              "quote": "Tim Hortons"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Один бытовой кадр, не новая достопримечательность.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/spain-2019/gothic-quarter/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Глава прочитана целиком, сопоставлена с исходными постами и содержательными фотоэпизодами; сведения только в подзаголовках не выдаются за авторский рассказ. В Торревьехе сохраняется открытая сверка независимого исходника.",
+      "objects": [
+        {
+          "label": "Готический квартал",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "исторический центр"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "barri-gotic"
+          },
+          "reason": "Средневековые улицы и архитектура прямо раскрыты рассказом.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Кафедральный собор Барселоны",
+          "event": "exterior_photo_story",
+          "evidence": [
+            {
+              "photo": "gothic-quarter/20191222_092134.jpg"
+            },
+            {
+              "source_file": "content/europe/spain/spain-2019/gothic-quarter/index.md",
+              "source_sha256": "08c4377deafc1298124e1dd6bc2eac58f4a713300921d2feb877607006dabef3",
+              "quote": "Кафедральный собор"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "barcelona-cathedral"
+          },
+          "reason": "Большая отдельная серия собора, прилегающей рождественской ярмарки и деталей прогулки. Проверен характерный кадр у стен; вход внутрь не приписывается.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Дворец Женералитата",
+          "event": "entered_photo_story",
+          "evidence": [
+            {
+              "photo": "gothic-quarter/20191222_102455.jpg"
+            },
+            {
+              "source_file": "content/europe/spain/spain-2019/gothic-quarter/index.md",
+              "source_sha256": "08c4377deafc1298124e1dd6bc2eac58f4a713300921d2feb877607006dabef3",
+              "quote": "Дворец Женералитата"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "palau-generalitat"
+          },
+          "reason": "Большой именованный фотоэпизод площади и дворца из 9 кадров, характерный кадр подтверждает внутренний двор. Каждая колонна и зал не точка.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Площадь Сант-Жауме и Санта-Мария-дель-Мар",
+          "event": "city_walk_details",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "соборы, СОТНИ гаргулий и набережная"
+            }
+          ],
+          "decision": "exclude_as_separate_links",
+          "reason": "Площадь остаётся частью городской прогулки. Санта-Мария-дель-Мар отдельно восстановлена прямым решением владельца 26.10.2026; её подзаголовок и фотоблок сохранены.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Набережная и шоколад с чуррос",
+          "event": "walk_and_meal",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "набережная"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Бытовые и городские детали без дополнительных точек.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Санта-Мария-дель-Мар",
+          "event": "visit_extent_unspecified",
+          "decision": "retain",
+          "target": {
+            "attraction": "santa-maria-del-mar"
+          },
+          "participants": null,
+          "evidence": [
+            {
+              "source_file": "content/europe/spain/spain-2019/gothic-quarter/index.md",
+              "source_sha256": "08c4377deafc1298124e1dd6bc2eac58f4a713300921d2feb877607006dabef3",
+              "quote": "Санта-Мария-дель-Мар"
+            }
+          ],
+          "reason": "По прямому уточнению владельца 26.10.2026 место сохраняется, несмотря на краткость эпизода. Авторский подзаголовок и два снимка дают читателю понятную привязку. Внутренний осмотр по этим сведениям отдельно не утверждается."
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/spain-2019/sagrada-sant-pau/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Глава прочитана целиком, сопоставлена с исходными постами и содержательными фотоэпизодами; сведения только в подзаголовках не выдаются за авторский рассказ. В Торревьехе сохраняется открытая сверка независимого исходника.",
+      "objects": [
+        {
+          "label": "Саграда Фамилия",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "А Саграда - сильная, очень сильная!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "sagrada-familia"
+          },
+          "reason": "Самостоятельное содержательное впечатление автора и большая серия; ночные проходные кадры не дублируют это посещение в первой главе.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Госпиталь Сант-Пау",
+          "event": "exterior_photo_story",
+          "evidence": [
+            {
+              "photo": "sagrada-sant-pau/20191223_121159.jpg"
+            },
+            {
+              "source_file": "content/europe/spain/spain-2019/sagrada-sant-pau/index.md",
+              "source_sha256": "41bfdc5a04f71be5854a2b4bafd840253e8a6d59efb2667a5d4b62905e6d4ec8",
+              "quote": "Госпиталь Сант-Пау"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "sant-pau"
+          },
+          "reason": "Самостоятельная именованная серия из 10 кадров; точечная проверка фасада. Вход в музейную экспозицию из внешнего осмотра не выводится.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Дворец каталонской музыки",
+          "event": "exterior_photo_story",
+          "evidence": [
+            {
+              "photo": "sagrada-sant-pau/20191222_152059.jpg"
+            },
+            {
+              "source_file": "content/europe/spain/spain-2019/sagrada-sant-pau/index.md",
+              "source_sha256": "41bfdc5a04f71be5854a2b4bafd840253e8a6d59efb2667a5d4b62905e6d4ec8",
+              "quote": "Дворец каталонской музыки"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "palau-musica-catalana"
+          },
+          "reason": "Самостоятельная именованная серия из 7 кадров. Подтверждён внешний осмотр; концерт и осмотр зала не приписываются.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Поезд в Валенсию",
+          "event": "transport",
+          "evidence": [
+            {
+              "source_file": "content/europe/spain/spain-2019/sagrada-sant-pau/index.md",
+              "source_sha256": "41bfdc5a04f71be5854a2b4bafd840253e8a6d59efb2667a5d4b62905e6d4ec8",
+              "quote": "Поезд в Валенсию"
+            }
+          ],
+          "decision": "covered_by_itinerary",
+          "reason": "Переезд, не отдельная достопримечательность.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/spain-2019/valencia/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава прочитана целиком, сопоставлена с исходными постами и содержательными фотоэпизодами; сведения только в подзаголовках не выдаются за авторский рассказ. В Торревьехе сохраняется открытая сверка независимого исходника.",
+      "objects": [
+        {
+          "label": "Валенсия",
+          "event": "guided_walk",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "мне тоже очень понравился город!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "valencia"
+          },
+          "reason": "Три женщины; упоминание февральского посещения мужа не означает присутствие Сергея сейчас.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Сады Турии",
+          "event": "walked",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Посередине города огромный парк (русло отведенной реки)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "valencia--sady-turii"
+          },
+          "reason": "Прямо описанный парк и городской маршрут.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Город искусств и наук",
+          "event": "exterior_complex",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Тут же выстроен парк искусств"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "ciutat-arts-ciencies"
+          },
+          "reason": "Описана архитектура комплекса; в оперу, планетарий, музей науки и океанариум по этому тексту не входили.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Кафедральный собор Валенсии",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Кафедральный собор показался мне"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "valencia-cathedral"
+          },
+          "reason": "Внутренние фрески и часовня Грааля раскрыты прямо в рассказе. Часовня — часть одного собора.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Биопарк Валенсии",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Зоопарк классный конечно"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "bioparc-valencia"
+          },
+          "reason": "Посетили по рекомендации Сергея; сам он в этой поездке не присутствовал.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Пляж и променад",
+          "event": "visited_no_bathing_claim",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Потом мы проверили пляж"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Прямой береговой эпизод, купание не заявлено.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Рынки, площади, Лонха и розарий",
+          "event": "city_walk_details",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "памятники ЮНЕСКО, модерн, рынки, площади"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Не создаётся точка для каждого здания и короткой остановки экскурсии.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/spain-2019/torrevieja/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава прочитана целиком, сопоставлена с исходными постами и содержательными фотоэпизодами; сведения только в подзаголовках не выдаются за авторский рассказ. В Торревьехе сохраняется открытая сверка независимого исходника.",
+      "objects": [
+        {
+          "label": "Торревьеха",
+          "event": "family_christmas_and_walk",
+          "evidence": [
+            {
+              "source_file": "content/europe/spain/spain-2019/torrevieja/index.md",
+              "source_sha256": "b471973a910ff1518d8ad38c4f967f528845fa97881008d715a7b50726ae3e3e",
+              "quote": "Мой брат уже давно купил себе"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "torrevieja"
+          },
+          "reason": "Прочитан авторский рассказ, добавленный на страницу отдельно от трёх постов. Независимая исходная запись этого дополнения в найденном HTML отсутствует; ограничение сохранено.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Променад, кафе и вечерняя прогулка",
+          "event": "family_city_stops",
+          "evidence": [
+            {
+              "source_file": "content/europe/spain/spain-2019/torrevieja/index.md",
+              "source_sha256": "b471973a910ff1518d8ad38c4f967f528845fa97881008d715a7b50726ae3e3e",
+              "quote": "прекрасный променад вдоль моря"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Семейный эпизод целиком; не создаются точки для частного дома брата и кафе.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/spain/spain-2019/madrid/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава прочитана целиком, сопоставлена с исходными постами и содержательными фотоэпизодами; сведения только в подзаголовках не выдаются за авторский рассказ. В Торревьехе сохраняется открытая сверка независимого исходника.",
+      "objects": [
+        {
+          "label": "Мадрид",
+          "event": "city_visit_and_tour_bus",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "кататься по городу на туристическом автобусе"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "madrid"
+          },
+          "reason": "Автобусный обзор состоялся в первый день; дальнейшую программу выполнили, а не отменили из-за очередей.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "El Medico",
+          "event": "attended_musical",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "испанский мюзикл - El Medico"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Три женщины посмотрели спектакль; точный театр не назван и не придуман.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Музей Прадо",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Мы с мамой целый день отдали музею Прадо!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "prado-museum"
+          },
+          "reason": "Целый день с аудиогидом только Леля и Ома. Наташа проводила самостоятельную программу.",
+          "participants": [
+            "Леля",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Дом-музей Лопе де Вега",
+          "event": "entered_french_guided_tour",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "В дом-музей Лопа де Вега"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "madrid--casa-museo-lope-de-vega"
+          },
+          "reason": "Наташа сходила с франкоязычной группой; автор с мамой отказались из-за языка. Это состоявшийся отдельный музейный визит, ранее пропущенный.",
+          "participants": [
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Экскурсия об инквизиции и вечерние бары",
+          "event": "guided_walk_and_nightlife",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "на англоязычную экскурсию про инквизицию"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Отдельная программа только Наташи. Название маршрута/баров не дано; не добавляются угаданные учреждения.",
+          "participants": [
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Сан-Франциско-эль-Гранде, Альмудена и Пласа-Майор",
+          "event": "brief_or_grouped_city_photos",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "Все мои планы на \"погулять\""
+            }
+          ],
+          "decision": "exclude_as_separate_links",
+          "reason": "Нет самостоятельного авторского рассказа этих объектов. Короткие или смешанные уличные серии остаются в прогулке по Мадриду; отдельные связи убраны.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Барселона и предыдущие поездки",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "житель провинции я начала в Барселоне"
+            }
+          ],
+          "decision": "covered_by_other_chapters",
+          "reason": "Не повторяем одни и те же посещения во всех главах с упоминанием города.",
+          "participants": [
+            "Леля",
+            "Ома",
+            "Наташа"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled_additional_source_gap_open",
+    "questions": [],
+    "limitations": [
+      {
+        "chapter": "torrevieja",
+        "detail": "Авторский текст главы прочитан полностью, но его независимый первоисточник отсутствует в найденных трёх постах HTML. Дополнение не объявлено сверенным с отдельным оригиналом."
+      }
+    ],
+    "repeat_check": "Все семь глав сверены. Восстановлен музей Лопе де Вега только у Наташи, Прадо только у Лели с мамой. Убраны 11 лишних отдельных связей по коротким или смешанным фотосериям. Сохранены самостоятельные большие именованные фотоэпизоды дворца Гуэля, собора, Женералитата, Сант-Пау и Дворца музыки с явным ограничением объёма осмотра. Музеи Города искусств и наук из описания фасадов не считаются посещёнными. Сергей лишь рекомендовал места; в поездке три женщины."
+  }
+}

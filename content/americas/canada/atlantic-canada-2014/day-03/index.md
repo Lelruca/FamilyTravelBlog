@@ -6,8 +6,10 @@ layout: "photo-story"
 weight: 40
 day_num: 3
 auto_gallery: false
+attractions: ["parlee-beach"]
 source_url: "https://olgau.livejournal.com/182595.html"
 places:
+  - parlee-beach
   - hopewell-rocks
 hero_image: "IMG_4227.jpg"
 ---

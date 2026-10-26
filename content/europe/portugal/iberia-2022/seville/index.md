@@ -10,6 +10,7 @@ hero_image: "20220626_215823.jpg"
 date: "2022-06-26"
 auto_gallery: false
 draft: false
+attractions: ["seville--sevilskiy-alkasar"]
 ---
 {{< row "20220626_164745.jpg 20220626_164757.jpg" >}}
 

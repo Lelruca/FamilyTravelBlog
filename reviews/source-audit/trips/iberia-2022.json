@@ -1,0 +1,940 @@
+{
+  "trip_path": "content/europe/portugal/iberia-2022",
+  "status": "text_audit_complete_one_name_open",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 166,
+    "record_indices": [
+      166,
+      165,
+      164,
+      163,
+      162,
+      160,
+      159,
+      158,
+      155,
+      157,
+      161,
+      156
+    ],
+    "additional_files": [
+      {
+        "path": "media-manifests/iberia-2022.json",
+        "sha256": "837d1fa563e472765d34c2ea8db41f8f11717cf7e22e70a909e47c4f7f328fee"
+      }
+    ],
+    "read": "Полностью прочитаны одиннадцать исходных постов, все авторские подписи и тринадцать глав. Два поста Леона относятся к одной главе. В реестре прямо отмечены without_post для Севильи, отдыха в Алгарве и Лиссабона: несуществующий рассказ не заявлен прочитанным. Дополнительно полностью прочитан пост 156 о параллельной поездке мальчиков в Миннеаполис: он подтверждает отдельный состав участников, не маршрут Иберии."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/iberia-2022.json",
+    "method": "Текст и содержательные подписи. Только четыре самостоятельные преимущественно фотографические главы проверены точечно, всего пять разных кадров, без каталога скульптур и фоновых фасадов.",
+    "scoped_blocks": [
+      {
+        "chapter": "seville",
+        "object": "Большая серия Алькасара",
+        "reviewed": [
+          "seville/20220626_164745.jpg",
+          "seville/20220626_165641.jpg"
+        ],
+        "scope": "Самостоятельная большая фотоистория; просмотрены лишь указанные представители. Каждый снимок не объявлен проверенным."
+      },
+      {
+        "chapter": "algarve-rest",
+        "object": "Региональная фотоглава отдыха",
+        "reviewed": [
+          "algarve-rest/20220629_134333.jpg"
+        ],
+        "scope": "Самостоятельная большая фотоистория; просмотрены лишь указанные представители. Каждый снимок не объявлен проверенным."
+      },
+      {
+        "chapter": "sand-city",
+        "object": "Парк песчаных скульптур",
+        "reviewed": [
+          "sand-city/20220630_131413.jpg"
+        ],
+        "scope": "Самостоятельная большая фотоистория; просмотрены лишь указанные представители. Каждый снимок не объявлен проверенным."
+      },
+      {
+        "chapter": "lisbon",
+        "object": "Большая серия клуатра Жеронимуш",
+        "reviewed": [
+          "lisbon/20220703_105154.jpg"
+        ],
+        "scope": "Самостоятельная большая фотоистория; просмотрены лишь указанные представители. Каждый снимок не объявлен проверенным."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "file": "content/europe/portugal/iberia-2022/aveiro/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны; исходники Леона сопоставлены с одной главой.",
+      "objects": [
+        {
+          "label": "Авейру",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 166,
+              "source_paragraph": 1,
+              "quote": "заехали в мой очень любимый городок Aveiro"
+            },
+            {
+              "source_record_index": 156,
+              "source_paragraph": 0,
+              "quote": "Пока девочки в Европе загорают;  мальчики поехали на соревнования в Миннеаполис"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "aveiro"
+          },
+          "reason": "Остановка и прогулка по дороге в Порто.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Музей в Авейру",
+          "event": "entered_name_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 166,
+              "source_paragraph": 1,
+              "quote": "в музей забежать"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Музейное посещение явно заявлено, но имя отсутствует. Существующий музей-монастырь Иисуса не подставлен автоматически по городу; вопрос сохранён.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Лиссабон и Порто — прибытие и ночёвка",
+          "event": "arrival_and_onward_stay",
+          "evidence": [
+            {
+              "source_record_index": 166,
+              "source_paragraph": 1,
+              "quote": "прилетели в Лиссабон, взяли машину и поехали в Порто"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "porto"
+          },
+          "reason": "Порто — фактическая база; прилёт в Лиссабон сам по себе не музейная экскурсия.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/porto/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны; исходники Леона сопоставлены с одной главой.",
+      "objects": [
+        {
+          "label": "Порто",
+          "event": "guided_city_walk",
+          "evidence": [
+            {
+              "source_record_index": 165,
+              "source_paragraph": 1,
+              "quote": "Мы вчера прошли весь центр с экскурсоводом."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "porto"
+          },
+          "reason": "Почти шесть часов экскурсии, Ома и Наташа прямо названы.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Вокзал, кафедральный собор, прочие церкви, кафе, корабельная лавка и шоколад",
+          "event": "brief_city_details",
+          "evidence": [
+            {
+              "source_record_index": 165,
+              "source_attachment_path": "attachments.0.data.11.media.description",
+              "quote": "Вокзал"
+            },
+            {
+              "source_record_index": 165,
+              "source_attachment_path": "attachments.0.data.22.media.description",
+              "quote": "Кафедральный собор"
+            },
+            {
+              "source_record_index": 165,
+              "source_attachment_path": "attachments.0.data.7.media.description",
+              "quote": "Лавка в которой вручную делают макеты кораблей"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Краткие подписи общей прогулки, без самостоятельного рассказа о конкретных зданиях; входы и точные названия не угадываются.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/porto-wine/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны; исходники Леона сопоставлены с одной главой.",
+      "objects": [
+        {
+          "label": "Погреба Cálem",
+          "event": "guided_visit_and_tasting",
+          "evidence": [
+            {
+              "source_record_index": 164,
+              "source_paragraph": 1,
+              "quote": "В первом доме Calem очень интересная экскурсия"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "porto--pogreba-calem"
+          },
+          "reason": "Описана экскурсия и дегустация; южный берег агломерации — Vila Nova de Gaia. Ома пробовала понемногу, Леля и Наташа допивали, не Сергей.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Ramos Pinto",
+          "event": "guided_office_and_cellar_visit_tasting",
+          "evidence": [
+            {
+              "source_record_index": 164,
+              "source_paragraph": 5,
+              "quote": "Во втором доме Ramos Pinto была экскурсия"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "porto--ramos-pinto"
+          },
+          "reason": "Отдельный посещённый дом портвейна с историческим офисом и дегустацией; не слит с Cálem.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Бразилия, винтажи, сорта и бочки",
+          "event": "producer_history_and_exhibits",
+          "evidence": [
+            {
+              "source_record_index": 164,
+              "source_paragraph": 5,
+              "quote": "первый дом вышел на рынок Бразилии"
+            }
+          ],
+          "decision": "exclude_as_separate_places",
+          "reason": "История фирмы, страны сбыта и предметы одной экскурсии, не новые поездки.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/santiago/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны; исходники Леона сопоставлены с одной главой.",
+      "objects": [
+        {
+          "label": "Сантьяго-де-Компостела",
+          "event": "guided_city_walk",
+          "evidence": [
+            {
+              "source_record_index": 163,
+              "source_paragraph": 2,
+              "quote": "Мы взяли гида и она нам раскрыла весь старый город."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "santiago-de-compostela"
+          },
+          "reason": "Реальная городская экскурсия, приехали автомобилем.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Собор Сантьяго-де-Компостела",
+          "event": "entered_not_mass",
+          "evidence": [
+            {
+              "source_record_index": 163,
+              "source_paragraph": 1,
+              "quote": "На службу мы не пошли, но помолились сами."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "santiago-de-compostela--sobor-santyago-de-kompostela"
+          },
+          "reason": "Посетили собор и молились, но не присутствовали на богослужении.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Камино — пути Святого Иакова",
+          "event": "observed_pilgrims_not_walked",
+          "evidence": [
+            {
+              "source_record_index": 163,
+              "source_paragraph": 0,
+              "quote": "Мы же, как просто туристы, приехали на машине."
+            }
+          ],
+          "decision": "exclude_as_hike",
+          "reason": "Рассказ о паломниках не означает, что семья прошла стокилометровый маршрут.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Часовня тамплиеров, монастырь Святого Мартина, церковь Марии Саломеи и крусеро",
+          "event": "brief_tour_captions",
+          "evidence": [
+            {
+              "source_record_index": 163,
+              "source_attachment_path": "attachments.0.data.6.media.description",
+              "quote": "Часовня тамплиеров"
+            },
+            {
+              "source_record_index": 163,
+              "source_attachment_path": "attachments.0.data.9.media.description",
+              "quote": "Монастырь святого Мартина"
+            },
+            {
+              "source_record_index": 163,
+              "source_attachment_path": "attachments.0.data.16.media.description",
+              "quote": "Одна из 4 в мире церквей посвящённая Марии Саломеи - матери святого Якова, которая была повитухой, принявшей Христа"
+            }
+          ],
+          "decision": "covered_by_city_walk",
+          "reason": "Исторические заметки общей экскурсии, не отдельные развёрнутые посещения. Не утверждаются самостоятельные музейные входы.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/oviedo/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны; исходники Леона сопоставлены с одной главой.",
+      "objects": [
+        {
+          "label": "Овьедо",
+          "event": "city_walk",
+          "evidence": [
+            {
+              "source_record_index": 162,
+              "source_paragraph": 2,
+              "quote": "А Овьедо надо просто гулять, много!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "oviedo"
+          },
+          "reason": "Развёрнутый городской рассказ и прогулка.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Собор Овьедо",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 162,
+              "source_paragraph": 3,
+              "quote": "внутри мне почему-то  не сильно зашёл."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "oviedo--kafedralnyy-sobor-ovedo"
+          },
+          "reason": "Отрицательная оценка интерьера подтверждает осмотр внутри.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Музей изобразительных искусств Астурии",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 162,
+              "source_paragraph": 3,
+              "quote": "А вот художественный музей это просто жемчужина!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "oviedo--muzey-izobrazitelnykh-iskusstv-asturii"
+          },
+          "reason": "Зал апостолов Эль Греко и другие художники — коллекция одного музея.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "San Juan el Real, уличная скульптура, обувные и книжные лавки, сидр",
+          "event": "brief_city_stops",
+          "evidence": [
+            {
+              "source_record_index": 162,
+              "source_attachment_path": "attachments.0.data.3.media.description",
+              "quote": "Basílica de San Juan El Real - 20 век. В ней венчался  и крестил дочь Франко. Поэтому она очень-очень!"
+            },
+            {
+              "source_record_index": 162,
+              "source_paragraph": 5,
+              "quote": "А потом пошли пить сидр!"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Базилика кратко подписана, остальные остановки без названий; не добавляются отдельные памятники и заведения.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/astorga/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны; исходники Леона сопоставлены с одной главой.",
+      "objects": [
+        {
+          "label": "Собор Асторги",
+          "event": "visited_entry_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 160,
+              "source_paragraph": 1,
+              "quote": "кафедральный собор Святой Девы Марии."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "astorga--kafedralnyy-sobor-astorgi"
+          },
+          "reason": "Объект прямо рассказан, но точный объём осмотра помещений не восстанавливается из общего архитектурного описания.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Епископский дворец Гауди",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 160,
+              "source_paragraph": 2,
+              "quote": "Мы с удовольствием его осмотрели."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "astorga--episkopskiy-dvorets-gaudi"
+          },
+          "reason": "Внешний вид понравился меньше интерьера; внутри действительно были.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Асторга и шоколад",
+          "event": "walk_and_tasting",
+          "evidence": [
+            {
+              "source_record_index": 160,
+              "source_paragraph": 3,
+              "quote": "Ещё погуляли по городу, продегустировали шоколад местных фабрик"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "astorga"
+          },
+          "reason": "Дегустация не означает вход на производство или в музей шоколада.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/leon/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны; исходники Леона сопоставлены с одной главой.",
+      "objects": [
+        {
+          "label": "Леонский собор",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 159,
+              "source_paragraph": 0,
+              "quote": "А аудиогид рассказывает"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "leon--leonskiy-sobor"
+          },
+          "reason": "Подробное впечатление от света и витражей и аудиогид подтверждают внутренний осмотр.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Леон — праздник святых Хуана и Педро",
+          "event": "city_festival",
+          "evidence": [
+            {
+              "source_record_index": 159,
+              "source_paragraph": 1,
+              "quote": "Наташка и ночью выходила к молодёжи."
+            },
+            {
+              "source_record_index": 161,
+              "source_paragraph": 0,
+              "quote": "Ночная программа насыщенная!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "leon"
+          },
+          "reason": "Праздничная прогулка семьи; ночью к молодёжи отдельно выходила Наташа.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Базилика Святого Исидора",
+          "event": "exterior_entry_unconfirmed",
+          "evidence": [
+            {
+              "source_record_index": 159,
+              "source_attachment_path": "attachments.0.data.12.media.description",
+              "quote": "Базилика святого Исидора - один из наиболее почитаемых в Испании образцов романского искусства. Она является одной из первых христианских церквей города (датируется IX в.)"
+            }
+          ],
+          "decision": "retain",
+          "reason": "Особое посещение романских фресок с экскурсией. В 2022 сохранён только подтверждённый наружный эпизод. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ],
+          "target": {
+            "attraction": "leon--bazilika-svyatogo-isidora"
+          }
+        },
+        {
+          "label": "Дом Гауди и прочие места Леона",
+          "event": "closed_or_brief_exterior",
+          "evidence": [
+            {
+              "source_record_index": 159,
+              "source_attachment_path": "attachments.0.data.11.media.description",
+              "quote": "Тоже здание Гауди"
+            },
+            {
+              "source_record_index": 159,
+              "source_paragraph": 1,
+              "quote": "другие места были закрыты."
+            }
+          ],
+          "decision": "exclude_as_interior_visits",
+          "reason": "Краткая подпись без самостоятельного рассказа и общий факт закрытий, без придуманного музейного входа.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/salamanca/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны; исходники Леона сопоставлены с одной главой.",
+      "objects": [
+        {
+          "label": "Саламанка",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_record_index": 158,
+              "source_paragraph": 1,
+              "quote": "По дороге мы заехали"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "salamanca"
+          },
+          "reason": "Фактическая остановка при изменении маршрута.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Старый собор Саламанки",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 158,
+              "source_paragraph": 1,
+              "quote": "внутрь двух кафедральный соборов зайти (старого и нового)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "salamanca--staryy-sobor-salamanki"
+          },
+          "reason": "Оба собора прямо перечислены как посещённые внутри.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Новый собор Саламанки",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 158,
+              "source_paragraph": 1,
+              "quote": "внутрь двух кафедральный соборов зайти (старого и нового)"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "salamanca--novyy-sobor-salamanki"
+          },
+          "reason": "Отдельный реальный вход в соседний собор.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Музей ар-нуво и ар-деко",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_record_index": 158,
+              "source_paragraph": 1,
+              "quote": "случайно попали в музей арт-нова."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "salamanca--muzey-ar-nuvo-i-ar-deko"
+          },
+          "reason": "Незапланированный, но состоявшийся музейный визит всей женской группы.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Университетские фасады и дальнейший север Португалии",
+          "event": "exterior_and_cancelled_route",
+          "evidence": [
+            {
+              "source_record_index": 158,
+              "source_paragraph": 1,
+              "quote": "посмотреть фасады университетов"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Снаружи, не университетский музейный тур. Продолжение северного маршрута отменено ради тепла юга.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/seville/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся фото-страница и её исходная запись реестра прочитаны; авторского поста нет по явной пометке without_post. Крупный эпизод проверен точечно.",
+      "objects": [
+        {
+          "label": "Севилья",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_file": "media-manifests/iberia-2022.json",
+              "source_sha256": "837d1fa563e472765d34c2ea8db41f8f11717cf7e22e70a909e47c4f7f328fee",
+              "source_json_path": "chapters.8.title",
+              "quote": "Sevilla"
+            },
+            {
+              "source_record_index": 158,
+              "source_paragraph": 0,
+              "quote": "В Севилью - горячо нами любимую."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "seville"
+          },
+          "reason": "В исходном реестре глава without_post; нынешняя страница — 23 фотографии без рассказа.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        },
+        {
+          "label": "Севильский Алькасар",
+          "event": "entered_palace",
+          "evidence": [
+            {
+              "photo": "seville/20220626_164745.jpg",
+              "observation": "Patio de las Doncellas, характерный двор дворца Педро I."
+            },
+            {
+              "photo": "seville/20220626_165641.jpg",
+              "observation": "Внутренние арки и помещения того же самостоятельного дворцового эпизода."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "seville--sevilskiy-alkasar"
+          },
+          "reason": "Почти вся отдельная глава — большая серия дворца, а не один фоновый кадр. Проверены только два представителя, не каждый орнамент; авторский рассказ не придуман.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/algarve-rest/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся фото-страница и её исходная запись реестра прочитаны; авторского поста нет по явной пометке without_post. Крупный эпизод проверен точечно.",
+      "objects": [
+        {
+          "label": "Алгарве — отдых",
+          "event": "holiday_stay",
+          "evidence": [
+            {
+              "source_file": "media-manifests/iberia-2022.json",
+              "source_sha256": "837d1fa563e472765d34c2ea8db41f8f11717cf7e22e70a909e47c4f7f328fee",
+              "source_json_path": "chapters.9.title",
+              "quote": "Отдых в Algarve"
+            },
+            {
+              "photo": "algarve-rest/20220629_134333.jpg",
+              "observation": "Отдых у воды/пляжные зонты; точное заведение не устанавливается."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "algarve"
+          },
+          "reason": "44 снимка без исходного поста. Сохранена региональная глава; названия пляжей, отеля, скал, ресторанов и бассейнов по изображениям не выдуманы.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/sand-city/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Глава, исходный пост и все подписи прочитаны; исходники Леона сопоставлены с одной главой.",
+      "objects": [
+        {
+          "label": "SandCity",
+          "event": "visited_sculpture_park",
+          "evidence": [
+            {
+              "source_record_index": 157,
+              "source_paragraph": 0,
+              "quote": "SandCity, Algavre, Portugal"
+            },
+            {
+              "photo": "sand-city/20220630_131413.jpg",
+              "observation": "Самостоятельная большая серия парка песчаной скульптуры, семейная прогулка на электрокаре."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "sand-city"
+          },
+          "reason": "24 кадра отдельной подписанной автором главы. Каждая песчаная фигура не новая страна или достопримечательность.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/faro/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Глава, исходный пост и все подписи прочитаны; исходники Леона сопоставлены с одной главой.",
+      "objects": [
+        {
+          "label": "Фару",
+          "event": "city_walk",
+          "evidence": [
+            {
+              "source_record_index": 155,
+              "source_paragraph": 0,
+              "quote": "Ну и конечно красивый старый город!!!"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "faro"
+          },
+          "reason": "Короткий авторский городской рассказ, а аэропорт и IKEA — характеристика города, не отдельные посещения.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Ома"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/portugal/iberia-2022/lisbon/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Вся фото-страница и её исходная запись реестра прочитаны; авторского поста нет по явной пометке without_post. Крупный эпизод проверен точечно.",
+      "objects": [
+        {
+          "label": "Лиссабон и Белем",
+          "event": "city_and_district_walk",
+          "evidence": [
+            {
+              "source_file": "media-manifests/iberia-2022.json",
+              "source_sha256": "837d1fa563e472765d34c2ea8db41f8f11717cf7e22e70a909e47c4f7f328fee",
+              "source_json_path": "chapters.12.title",
+              "quote": "Lisboa"
+            },
+            {
+              "photo": "lisbon/20220703_105154.jpg",
+              "observation": "Внутренний двор Жеронимуш подтверждает белемскую часть серии."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "belem"
+          },
+          "reason": "17 кадров без исходного поста. Город и район сохранены; не все здания фотопрогулки становятся точками.",
+          "participants": null
+        },
+        {
+          "label": "Монастырь Жеронимуш",
+          "event": "entered_cloister",
+          "evidence": [
+            {
+              "photo": "lisbon/20220703_105154.jpg",
+              "observation": "Клуатр монастыря: характерная мануэлиновая галерея, осмотр изнутри двора."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "lisbon--monastyr-zheronimush"
+          },
+          "reason": "Большая самостоятельная последовательность 3 июля в середине фотоглавы. Подтверждён клуатр, не все музеи и закрытые части монастыря.",
+          "participants": null
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled_aveiro_name_open",
+    "questions": [
+      {
+        "object": "Музей в Авейру, июнь 2022",
+        "question": "Как назывался музей, куда заехали по пути в Порто? В рассказе он не назван; музей-монастырь Иисуса из словаря не подставлен без подтверждения."
+      }
+    ],
+    "repeat_check": "Все тринадцать глав сопоставлены. Добавлены явные экскурсии Cálem и Ramos Pinto, участницы — Леля, Наташа и Ома. Сергей и Митя были в другой поездке (отдельный пост об этом не включался в маршрут); для фотоглав состав не определён по лицам. Камино не пройден, богослужение в Сантьяго не посещали, университеты Саламанки только снаружи. Реально вошли в два собора и музей ар-нуво Саламанки, музей Овьедо и дворец Гауди. Крупные фотоглавы подтвердили Алькасар и клуатр Жеронимуш; отдельные фоновые церкви и песчаные фигуры не стали точками. Рестораны, пляжи и отели не угадывались. Авторские тела глав сохранены."
+  }
+}

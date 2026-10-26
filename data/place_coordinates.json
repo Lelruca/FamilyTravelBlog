@@ -4239,5 +4239,111 @@
     "country_code": "CU",
     "source": "https://www.openstreetmap.org/relation/5887667",
     "query": "Ciego de Ávila, Cuba"
+  },
+  "concord-massachusetts": {
+    "lat": 42.4605189,
+    "lon": -71.3488963,
+    "name": "Concord, Massachusetts",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/1840166",
+    "query": "Concord Massachusetts",
+    "note": "Concord, Middlesex County, Massachusetts; North Bridge photographed during Liberty Ride, not Concord in New Hampshire."
+  },
+  "cellettes": {
+    "lat": 47.528055555555554,
+    "lon": 1.3805555555555555,
+    "name": "Cellettes, Loir-et-Cher",
+    "country_code": "FR",
+    "source": "https://www.wikidata.org/wiki/Q1135624",
+    "query": "Cellettes Loir-et-Cher",
+    "note": "Ночлег в Château de La Rozelle, 15 bis rue de la Rozelle. Не относится к одноимённой коммуне в Charente и не находится в самом городе Blois."
+  },
+  "barnes-merion": {
+    "lat": 39.9978692,
+    "lon": -75.2407181,
+    "name": "Историческое здание коллекции Барнса, Мерион",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/way/705808932",
+    "query": "Barnes Arboretum, Merion, Pennsylvania — former Barnes gallery building, current Maguire Art Museum; historical occupancy verified at https://www.sju.edu/maguire-art-museum/about"
+  },
+  "rehoboth-beach": {
+    "lat": 38.7164771,
+    "lon": -75.0835107,
+    "name": "Рехобот-Бич, Делавэр",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/380444",
+    "query": "Рехобот-Бич, Делавэр; city, not a precise position of a swimmer on the beach"
+  },
+  "ocean-city-maryland": {
+    "lat": 38.3315412,
+    "lon": -75.0874151,
+    "name": "Оушен-Сити, Мэриленд",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/13299347",
+    "query": "Оушен-Сити, Мэриленд; city, not a precise position of a swimmer on the beach"
+  },
+  "long-beach": {
+    "lat": 33.7690164,
+    "lon": -118.191604,
+    "name": "Лонг-Бич",
+    "country_code": "US",
+    "source": "https://www.openstreetmap.org/relation/112100",
+    "query": "Лонг-Бич, California, USA; municipal geographic term"
+  },
+  "st-joseph-mi": {
+    "lat": 42.10976,
+    "lon": -86.48002,
+    "name": "St. Joseph, Michigan",
+    "country_code": "US",
+    "source": "https://gateway.okhistory.org/explore/locations/p13982/",
+    "query": "Saint Joseph, Michigan; verified geographic record"
+  },
+  "monte-da-ravasqueira": {
+    "lat": 38.74655555555556,
+    "lon": -8.00775,
+    "name": "Monte da Ravasqueira",
+    "country_code": "PT",
+    "source": "https://www.visitalentejo.pt/fotos/editor2/pdfs/alentejo_en.pdf",
+    "query": "Monte da Ravasqueira, Arraiolos; regional tourism GPS"
+  },
+  "cabo-sao-vicente": {
+    "lat": 37.0226155,
+    "lon": -8.9966125,
+    "name": "Cabo de São Vicente",
+    "country_code": "PT",
+    "source": "https://www.openstreetmap.org/node/5003941303",
+    "query": "Named cape; primary OSM node coordinates"
+  },
+  "chandler": {
+    "lat": 48.3491804,
+    "lon": -64.6775915,
+    "name": "Chandler",
+    "country_code": "CA",
+    "source": "https://www.openstreetmap.org/relation/8271776",
+    "query": "Chandler, Quebec"
+  },
+  "blue-point-amethyst-mine": {
+    "lat": 48.6851702,
+    "lon": -88.662844,
+    "name": "Blue Point Amethyst Mine",
+    "country_code": "CA",
+    "source": "https://bluepointamethystmine.ca/",
+    "query": "Blue Point Amethyst Mine official GeoCoordinates"
+  },
+  "provender-house": {
+    "lat": 51.3117843,
+    "lon": 0.8307077,
+    "name": "Provender House",
+    "country_code": "GB",
+    "source": "https://www.openstreetmap.org/node/255415813",
+    "query": "Provender Norton Kent (Olga Romanoff)"
+  },
+  "domaine-de-meillan": {
+    "lat": 43.96228,
+    "lon": 0.282201,
+    "name": "Domaine de Meillan",
+    "country_code": "FR",
+    "source": "https://www.tourisme-gers.com/producteur/domaine-de-meillan/",
+    "query": "Domaine de Meillan Larroque-sur-l’Osse, official tourism GeoCoordinates"
   }
 }

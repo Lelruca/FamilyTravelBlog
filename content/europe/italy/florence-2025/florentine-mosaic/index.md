@@ -7,12 +7,11 @@ city: "Florence"
 places:
   - florence
   - opificio-pietre-dure
-  - santa-croce-florence
 hero_image: "20250804_114517.jpg"
 date: "2025-08-04"
 auto_gallery: false
 draft: false
-attractions: ["opificio-pietre-dure","santa-croce-florence"]
+attractions: ["opificio-pietre-dure","florence--i-mosaici-di-lastrucci"]
 ---
 <p>В третий день я наконец добралась до музея, о котором давно мечтала, но никогда не попадала. Музей Флорентийской мозаики. Эта мозаика уникальна! Она делается из цельных кусочков камней, вырезается по форме и собирается как пазл. Но МАЛО этого, внутри камня подбирают требуемые переходы цветов и тени!!!</p>
 

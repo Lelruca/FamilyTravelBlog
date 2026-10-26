@@ -1,0 +1,665 @@
+{
+  "trip_path": "content/americas/canada/quebec-virginia-2013",
+  "status": "materials_reviewed_identifications_open",
+  "source": {
+    "path": "G:\\My Drive\\Family Travel Blog Photos\\Отчеты\\2013_ Квебек и Вирджиния Бич.docx",
+    "sha256": "2ba287da2f20a086fb3cc2e5bae964a2af20b7fc92ba38a1652710de1f8b0be7",
+    "read": "Полностью прочитаны все 95 непустых текстовых абзацев DOCX, включая заголовки, исходную вступительную заметку, подписи и заключение; полностью прочитаны все шесть глав сайта."
+  },
+  "photographs": {
+    "status": "reviewed",
+    "reviewed": 93,
+    "manifest": "media-manifests/quebec-virginia-2013.json",
+    "method": "Все 93 архивных изображения с siteKeys сверены по SHA-256 и просмотрены на восьми контактных листах. Это также включает прежние варианты сканов, которые не обязательно сейчас показаны. Восстановленные версии семейных портретов просмотрены; указатель DSC00814.JPG дополнительно открыт крупно. Заимствованный общий вид линкора не принимался за семейный кадр."
+  },
+  "chapters": [
+    {
+      "file": "content/americas/canada/quebec-virginia-2013/canada-games/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Шербрук",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 11,
+              "quote": "в городе Sherbrook"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "sherbrooke"
+          }
+        },
+        {
+          "label": "Canada Games",
+          "event": "attended",
+          "evidence": [
+            {
+              "source_paragraph": 20,
+              "quote": "пошли смотреть финалы"
+            }
+          ],
+          "decision": "covered_by_geography",
+          "target": {
+            "places": "sherbrooke"
+          },
+          "reason": "Спортивное событие; не музей. Наташа участвовала в соревнованиях, родители и Митя приехали к финалам."
+        },
+        {
+          "label": "Университетские общежития спортсменов",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 11,
+              "quote": "в общежитиях которых спортсмены и жили"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Учреждения не названы; нельзя установить по этому обобщению, где именно жила Наташа. Родителям проживание в кампусе не приписывается.",
+          "participants": [
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Спортивный зал фехтования",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 21,
+              "quote": "Одна дорожка и целый зал народа"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Название площадки в тексте отсутствует; на просмотренных снимках точное название не установлено."
+        },
+        {
+          "label": "Парк Жак-Картье в Шербруке",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 51,
+              "quote": "отправились на церемонию закрытия"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "sherbrooke--jacques-cartier-park"
+          },
+          "reason": "Место церемонии 17 августа 2013 установлено по сообщению правительства Канады; дата совпадает с семейными фотографиями. Церемонию открытия родители смотрели по телевизору."
+        },
+        {
+          "label": "Торонто, Кингстон, Оттава",
+          "event": "transit",
+          "evidence": [
+            {
+              "source_paragraph": 9,
+              "quote": "с заездом в Кингстон и соединяясь с автобусами из Оттавы"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Описание отправки спортивной команды; не самостоятельный осмотр семьёй всех трёх городов."
+        },
+        {
+          "label": "Британская Колумбия и другие провинции",
+          "event": "teams_mentioned",
+          "evidence": [
+            {
+              "source_paragraph": 31,
+              "quote": "BC кажется"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Команды и символика провинций, не посещение этих провинций."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/quebec-virginia-2013/magog/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Магог",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 63,
+              "quote": "в городке Magog"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "magog"
+          }
+        },
+        {
+          "label": "Гостевой дом B&B в Магоге",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 63,
+              "quote": "Bed & Breakfast"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Название не дано; проживание покрыто географией города."
+        },
+        {
+          "label": "Озеро Мемфремагог",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 85,
+              "quote": "на берегу озера"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "magog--lake-memphremagog"
+          },
+          "reason": "Авторский рассказ и собственные панорамы набережной сопоставлены с муниципальными сведениями о береговой зоне Магога. Не утверждается купание или прогулка на корабле."
+        },
+        {
+          "label": "Береговой парк Магога",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 93,
+              "quote": "До парка на берегу нам было минут 10 пешком"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Прогулка и игры подтверждены. Муниципальная страница описывает Parc de la Baie-de-Magog (pointe Merry), но конкретная часть парка на снимках требует уточнения; название не подставляется как окончательное."
+        },
+        {
+          "label": "Горы возле Магога",
+          "event": "future_plan",
+          "evidence": [
+            {
+              "source_paragraph": 85,
+              "quote": "вот планирую туда на лыжах махнуть теперь"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Это намерение вернуться зимой, а не состоявшееся посещение горнолыжного курорта."
+        },
+        {
+          "label": "Ресторан в Магоге",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 107,
+              "quote": "в ресторане посидели, вино попили"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён."
+        },
+        {
+          "label": "Монреаль, Германия, Торонто",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 107,
+              "quote": "от Монреаля такое же ощущение хорошей расслабленности"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Сравнения с жизнью и другими поездками."
+        },
+        {
+          "label": "Шербрук",
+          "event": "cross_reference",
+          "evidence": [
+            {
+              "source_paragraph": 63,
+              "quote": "Сначала мы поехали к Наташке на закрытие игр"
+            }
+          ],
+          "decision": "covered_in_other_chapter",
+          "reason": "Посещение описано в canada-games."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-1/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Вирджиния-Бич",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 113,
+              "quote": "Virginia Beach – штат Вирджиния"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "virginia-beach"
+          }
+        },
+        {
+          "label": "Северная Каролина",
+          "event": "cancelled_plan",
+          "evidence": [
+            {
+              "source_paragraph": 113,
+              "quote": "но там ожидались обложные дожди"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Отказались от первоначального варианта отдыха."
+        },
+        {
+          "label": "Нью-Йорк",
+          "event": "transit_view",
+          "evidence": [
+            {
+              "source_paragraph": 117,
+              "quote": "Объехали по кольцу и Нью-Йорк, посмотрели на его небоскребы"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Вид с объездной дороги отмечен явно; остановка и осмотр города не описаны. Не выдавать транзит за отдельную экскурсию по Нью-Йорку."
+        },
+        {
+          "label": "Вермонт",
+          "event": "transit",
+          "evidence": [
+            {
+              "source_paragraph": 116,
+              "quote": "попали в леса штата Вермонт"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Проезд в сторону океана, отдельный осмотр не описан."
+        },
+        {
+          "label": "Статуя Нептуна",
+          "event": "exterior",
+          "evidence": [
+            {
+              "source_paragraph": 118,
+              "quote": "побежали к океану и к Нептуну"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "virginia-beach--king-neptune"
+          },
+          "reason": "Семейный снимок 20130818_232622.jpg подтверждает непосредственный осмотр статуи.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Пляж Вирджиния-Бич",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 122,
+              "quote": "это длинный пляж с хорошим песком"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "virginia-beach--oceanfront-beach"
+          }
+        },
+        {
+          "label": "Набережная Вирджиния-Бич",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 122,
+              "quote": "набережная"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "virginia-beach--boardwalk"
+          },
+          "reason": "В рассказе деревянный настил; авторскую формулировку не исправляли. Официальное название Boardwalk подтверждено городским туристическим источником."
+        },
+        {
+          "label": "Гостиница на набережной",
+          "event": "stayed",
+          "evidence": [
+            {
+              "source_paragraph": 121,
+              "quote": "заказали просто гостиницу"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён."
+        },
+        {
+          "label": "Куба",
+          "event": "cancelled_alternative",
+          "evidence": [
+            {
+              "source_paragraph": 112,
+              "quote": "всякие Кубы никак не вставали в расписание"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Альтернатива отпуску, не часть маршрута."
+        },
+        {
+          "label": "Макдональдс по дороге",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 116,
+              "quote": "только Макдональдсы"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Сеть названа, конкретный адрес и населённый пункт не установлены."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-2/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Пляж Вирджиния-Бич",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 131,
+              "quote": "пляжу я ставлю 10 баллов из 10"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "virginia-beach--oceanfront-beach"
+          }
+        },
+        {
+          "label": "Набережная Вирджиния-Бич",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 144,
+              "quote": "велосипед кататься по набережной"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "virginia-beach--boardwalk"
+          },
+          "reason": "Велопрогулка без Сергея.",
+          "participants": [
+            "Леля",
+            "Наташа",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Экскурсия к дельфинам",
+          "event": "mentioned_offer",
+          "evidence": [
+            {
+              "source_paragraph": 131,
+              "quote": "специальные кораблики возят вблизи их смотреть"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Дельфинов наблюдали с пляжа; поездку на корабле автор не утверждает."
+        },
+        {
+          "label": "Комната страха",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 144,
+              "quote": "сходили в комнату страха"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Посещение всей семьи описано, собственное название не указано."
+        },
+        {
+          "label": "Фотостудия костюмированного портрета",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 149,
+              "quote": "сфотографироваться всей семьей в костюмах"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Название студии не дано; костюмированные декорации не размечаются как историческое место."
+        },
+        {
+          "label": "Торговый центр",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 155,
+              "quote": "Ездили вечерами в большой торговый центр"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Название не дано; визит подтверждён для Лели и Наташи.",
+          "participants": [
+            "Леля",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Ресторан-буфет",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 141,
+              "quote": "ездили на машине в ресторан-буфет"
+            }
+          ],
+          "decision": "exclude_owner_place_scope",
+          "reason": "По уточнению владельца 26.10.2026 отдельные обычные церкви, гостиницы и рестораны не нужны в списке мест. Эпизод остаётся в авторском рассказе и реестре, но самостоятельная поисковая/географическая точка исключена. Основной город или музейный комплекс сохранён."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/quebec-virginia-2013/virginia-beach-3/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Аквариум Вирджинии",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 160,
+              "quote": "Были мы, во-первых, в"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "virginia-beach--akvarium-virdzhinii"
+          }
+        },
+        {
+          "label": "Военно-исторический авиационный музей",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 173,
+              "quote": "военно-исторический авиационный музей"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "military-aviation-museum"
+          },
+          "reason": "Самолёты и залы учитываются в составе одного музея."
+        },
+        {
+          "label": "Авиапоказ музейных самолётов",
+          "event": "missed_event",
+          "evidence": [
+            {
+              "source_paragraph": 174,
+              "quote": "мы не попали в нужные даты"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Посещение музея не доказывает посещение ежегодного авиашоу."
+        },
+        {
+          "label": "Военная база возле Вирджиния-Бич",
+          "event": "mentioned",
+          "evidence": [
+            {
+              "source_paragraph": 179,
+              "quote": "в этих местах большая военная база"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Объяснение профессии экскурсоводов и пролётов самолётов; посещение базы не описано."
+        },
+        {
+          "label": "Наутикус",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 213,
+              "quote": "в музее \"Наутикус\" в городе Норфолк"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "nauticus"
+          }
+        },
+        {
+          "label": "Линкор «Висконсин»",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 238,
+              "quote": "Мы по нему полазили конечно"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "norfolk--linkor-viskonsin"
+          },
+          "reason": "Посещение корабля прямо подтверждено текстом и семейными кадрами; общий заимствованный снимок не является единственным основанием."
+        },
+        {
+          "label": "Норфолк",
+          "event": "visited",
+          "evidence": [
+            {
+              "source_paragraph": 213,
+              "quote": "в городе Норфолк"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "norfolk"
+          }
+        },
+        {
+          "label": "Япония и Ирак",
+          "event": "historical_context",
+          "evidence": [
+            {
+              "source_paragraph": 237,
+              "quote": "отправили в Ирак"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "История военной службы корабля, не маршрут семьи."
+        }
+      ]
+    },
+    {
+      "file": "content/americas/canada/quebec-virginia-2013/conclusion/index.md",
+      "text_status": "read",
+      "objects": [
+        {
+          "label": "Вирджиния-Бич и пляж",
+          "event": "visited_summary",
+          "evidence": [
+            {
+              "source_paragraph": 251,
+              "quote": "Океан и пляж очень хорошие"
+            }
+          ],
+          "decision": "covered_in_other_chapter",
+          "reason": "Повторная оценка уже описанного отпуска."
+        },
+        {
+          "label": "Куба",
+          "event": "comparison",
+          "evidence": [
+            {
+              "source_paragraph": 251,
+              "quote": "чем от отдыха «все включено» на Кубе"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Сравнение с другим отдыхом."
+        },
+        {
+          "label": "Мексика",
+          "event": "conversation",
+          "evidence": [
+            {
+              "source_paragraph": 254,
+              "quote": "Вы из Мексики!"
+            }
+          ],
+          "decision": "exclude",
+          "reason": "Разговор с другими гостями отеля, не поездка в Мексику."
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "reviewed_with_explicit_identification_questions",
+    "new_attractions": [
+      "sherbrooke--jacques-cartier-park",
+      "magog--lake-memphremagog",
+      "virginia-beach--king-neptune",
+      "virginia-beach--boardwalk",
+      "virginia-beach--oceanfront-beach"
+    ],
+    "existing_museums_verified": [
+      "military-aviation-museum",
+      "nauticus",
+      "norfolk--linkor-viskonsin",
+      "virginia-beach--akvarium-virdzhinii"
+    ],
+    "questions": [
+      "Названия общежития спортсменов и спортивного зала не установлены.",
+      "Точный участок берегового парка Магога требует уточнения."
+    ],
+    "repeat_check": "Все шесть глав повторно сопоставлены с перечнем объектов. Четыре существующие музейные/аквариумные метки подтверждены, пять пропусков получили данные и привязки. Несостоявшиеся планы, транзит и исторические сравнения отделены от посещений.",
+    "external_sources": [
+      {
+        "url": "https://www.canada.ca/en/news/archive/2013/08/2013-canada-summer-games.html",
+        "purpose": "Место и дата церемонии закрытия Canada Games: Jacques-Cartier Park, 17 августа 2013."
+      },
+      {
+        "url": "https://vbpublicart.org/gallery/king-neptune",
+        "purpose": "Идентификация статуи, снятой семьёй."
+      },
+      {
+        "url": "https://www.visitvirginiabeach.com/experiences/attractions/boardwalk/",
+        "purpose": "Название набережной и географическая связь с пляжем."
+      },
+      {
+        "url": "https://www.ville.magog.qc.ca/parc/parc-de-la-baie-de-magog-pointe-merry/",
+        "purpose": "Муниципальные сведения о береговой зоне Магога и озере; точное название участка парка пока не внесено."
+      }
+    ],
+    "photo_scope": "Рассказ — основное основание. Фото учитываются только как редкое исключение: большая серия в самой главе явно заменяет рассказ о месте и позволяет читателю понять, где оно показано. Количество неопубликованных оригиналов и отдельные виды не обосновывают точку. Неназванные детали не превращаются в вопросы."
+  }
+}

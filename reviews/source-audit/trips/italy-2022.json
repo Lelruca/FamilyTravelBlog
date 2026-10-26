@@ -1,0 +1,1447 @@
+{
+  "trip_path": "content/europe/italy/italy-2022",
+  "status": "text_audit_complete_questions_open",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 153,
+    "record_indices": [
+      152,
+      151,
+      150,
+      149,
+      148,
+      147,
+      145,
+      144,
+      142,
+      141,
+      140,
+      139,
+      138,
+      137,
+      136,
+      153,
+      146,
+      143
+    ],
+    "additional_files": [
+      {
+        "path": "media-manifests/italy-2022.json",
+        "sha256": "2950144be74f7ab743952403bf4f4d64a91f4018bab595ead02b85b94f067dab"
+      }
+    ],
+    "read": "Все восемнадцать полных исходных постов, все авторские подписи и восемнадцать текущих глав прочитаны целиком. Сопоставлены заключения, подписи и исправления показа; авторский текст не менялся."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/italy-2022.json",
+    "method": "Основа полный рассказ и содержательные подписи. Фотографии фона не атрибутировались и все кадры просмотренными не объявлены."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/italy/italy-2022/rome-arrival/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Рим — обзорная экскурсия",
+          "event": "guided_city_walk",
+          "evidence": [
+            {
+              "source_record_index": 153,
+              "source_paragraph": 4,
+              "quote": "И оказалась приятная экскурсия"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "rome"
+          },
+          "reason": "Экскурсия состоялась после прилёта, хотя заранее сомневались в силах. Лиссабон и Амстердам сравнения прежних поездок.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Римские колонны, Витториано, обелиск и Пантеон",
+          "event": "brief_city_sights",
+          "evidence": [
+            {
+              "source_record_index": 153,
+              "source_attachment_path": "attachments.0.data.8.media.description",
+              "quote": "Одна из двух сохранившихся римских коллон - колонна Траяна (посвящена завоеванию Румынии). На ней поставили святого Петра"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Короткие подписи общего обзора, без самостоятельных историй и без утверждения внутренних визитов.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/vatican-fountains/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Собор Святого Петра",
+          "event": "entered_basilica",
+          "evidence": [
+            {
+              "source_record_index": 152,
+              "source_paragraph": 3,
+              "quote": "сразу в собор святого Петра"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "vatican--sobor-svyatogo-petra"
+          },
+          "reason": "Все трое внутри утром почти без толпы.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Купол Святого Петра",
+          "event": "dome_climb",
+          "evidence": [
+            {
+              "source_record_index": 152,
+              "source_paragraph": 3,
+              "quote": "Митька совершил восхождение на купол"
+            }
+          ],
+          "decision": "covered_by_complex",
+          "reason": "На купол поднялся только Митя. Не отдельный собор для каждого яруса.",
+          "participants": [
+            "Митя"
+          ]
+        },
+        {
+          "label": "Музеи Ватикана",
+          "event": "entered_museums",
+          "evidence": [
+            {
+              "source_record_index": 152,
+              "source_paragraph": 6,
+              "quote": "толпой в музеях  Ватикана"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "vatican--muzei-vatikana"
+          },
+          "reason": "Вошли раньше времени билета, несмотря на толпу; мало фото не означает отсутствие посещения. Отдельные отделы не приписаны без текста.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Площади и фонтаны Рима",
+          "event": "self_guided_fountain_walk",
+          "evidence": [
+            {
+              "source_record_index": 152,
+              "source_paragraph": 9,
+              "quote": "самостоятельно прошли маршрут \"площади и фонтаны Рима\""
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Quattro Fontane, Испанская лестница, Barcaccia, фонтан Пантеона, Четырёх рек и Нептуна названы в кратких подписях одного маршрута; не разрастаются в каталог каждой чаши.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/colosseum/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Колизей",
+          "event": "entered_arena",
+          "evidence": [
+            {
+              "source_record_index": 151,
+              "source_paragraph": 1,
+              "quote": "Митька затащил нас сегодня внутрь"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "colosseum"
+          },
+          "reason": "Первый внутренний осмотр автора после прежних внешних; подземный специальный тур не приписан.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Замок Святого Ангела",
+          "event": "entered_castle",
+          "evidence": [
+            {
+              "source_record_index": 151,
+              "source_paragraph": 6,
+              "quote": "вечером Серега по замку Ангела"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "castel-sant-angelo"
+          },
+          "reason": "Толщина стен и вид с замка в подписях подтверждают внутренний маршрут; не только вид моста.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Арки Константина и Тита",
+          "event": "brief_ancient_city_details",
+          "evidence": [
+            {
+              "source_record_index": 151,
+              "source_attachment_path": "attachments.0.data.6.media.description",
+              "quote": "Арка Константина"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Краткие подписи общего древнеримского маршрута, не отдельные рассказанные посещения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Неназванная последняя капелла Микеланджело",
+          "event": "caption_identity_uncertain",
+          "evidence": [
+            {
+              "source_record_index": 151,
+              "source_attachment_path": "attachments.0.data.15.media.description",
+              "quote": "Это последняя капелла расписанная Микеланджело, после знаменитой Сикстинской..."
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Авторская подпись есть, название отсутствует. Не превращена в догадку о доступе к Паолинской капелле.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/rome-churches/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Санта-Прасседе",
+          "event": "entered_church_with_guide",
+          "evidence": [
+            {
+              "source_record_index": 150,
+              "source_attachment_path": "attachments.0.data.0.media.description",
+              "quote": "Одна из первых, это ещё \"подпольная\" христианская  церковь Basilica of Saint Praxedes. Тут сохранились мозаики 9 века!"
+            }
+          ],
+          "decision": "retain",
+          "reason": "Значимая часть авторской экскурсии по истории христианства; мозаики IX века и рассказ о реликвии. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "target": {
+            "attraction": "rome--bazilika-santa-prassede"
+          }
+        },
+        {
+          "label": "Латеранская базилика",
+          "event": "entered_church_with_guide",
+          "evidence": [
+            {
+              "source_record_index": 150,
+              "source_attachment_path": "attachments.0.data.4.media.description",
+              "quote": "А вот самый первый \"официальных\" храм, заложенный самим императором Константином, который сначала снял запрет на Христианство, а потом и сделал его официальный религией! Конечно он реконструирован много раз, но не перестроен как собор святого Петра, заложенные позже. Храм посвящён Иоану Предтечи.\nBasilica di San Giovanni in Laterano"
+            }
+          ],
+          "decision": "retain",
+          "reason": "Один из главных храмов Рима; содержательный рассказ экскурсии об архитектуре и апостолах. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "target": {
+            "attraction": "rome--lateranskaya-bazilika"
+          }
+        },
+        {
+          "label": "Санта-Кроче-ин-Джерузалемме",
+          "event": "entered_church_with_guide",
+          "evidence": [
+            {
+              "source_record_index": 150,
+              "source_attachment_path": "attachments.0.data.11.media.description",
+              "quote": "Говоря об императоре Константине, нельзя не вспомнить о его матери Елене, которая была христианкой и в 70 лет ей было ведение отправится в Иерусалим за святынями. Она была первая, кто это сделал из христиан. Нашла и привезла многие. Этому посвящена Базилика святого Креста Иерусалимского."
+            }
+          ],
+          "decision": "retain",
+          "reason": "Самостоятельный развёрнутый эпизод экскурсии с реликвиями и сильным личным впечатлением автора. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "target": {
+            "attraction": "rome--santa-kroche-in-dzheruzalemme"
+          }
+        },
+        {
+          "label": "Сан-Пьетро-ин-Винколи",
+          "event": "entered_church_with_guide",
+          "evidence": [
+            {
+              "source_record_index": 150,
+              "source_attachment_path": "attachments.0.data.17.media.description",
+              "quote": "Храм святого Петра в виригах тоже одна из первых, построенная по принципу базилики.\nBasilica di San Pietro in Vincoli al Colle Oppio"
+            }
+          ],
+          "decision": "retain",
+          "reason": "Посещение ради «Моисея» Микеланджело и рассказа о его смысле; самостоятельный художественный эпизод. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "target": {
+            "attraction": "rome--san-petro-in-vinkoli"
+          }
+        },
+        {
+          "label": "Санта-Мария-Маджоре",
+          "event": "entered_church_with_guide",
+          "evidence": [
+            {
+              "source_record_index": 150,
+              "source_attachment_path": "attachments.0.data.22.media.description",
+              "quote": "Santa Maria Maggiore - одна из 4 официальных базилик Ватикана. Посвящена деве Марии. Тут мы провели больше часа в теологической экскурсии на тему всего что связано с Богоматерью и историей её почитания церковью.\nГлавная святыня - доски яслей в которых положили новорождённого Христа. Но там много пределов и в каждом свое...."
+            }
+          ],
+          "decision": "retain",
+          "reason": "Владелец прямо восстановила базилику 26.10.2026; в главе описано фактическое внутреннее посещение. Общий фильтр обычных церквей к этому объекту не применяется.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "target": {
+            "attraction": "rome--santa-mariya-madzhore"
+          }
+        },
+        {
+          "label": "Реликвии, скульптуры и места событий",
+          "event": "religious_depictions_and_comparisons",
+          "evidence": [
+            {
+              "source_record_index": 150,
+              "source_attachment_path": "attachments.0.data.14.media.description",
+              "quote": "И вот тут лично у меня произошёл просто срыв шаблона! Мы же много посещаем храмов в свои поездки. И, например, в огромном соборе Милана главная святыня - гвоздь, которым Христа распяли. И висит тот гвоздь высоко под куполом и опускают раз в 100 лет по праздникам...\nА этой же церкви мы были почти единственные посетители. И там в ОДНОЙ \"ветрине\" - и гвоздь, и части креста, и табличка с креста, и шипы с тернового венца...\nМне кажется тут должны быть сотни паломников! Но какая-то она \"нераскрученная\" что-ли...."
+            }
+          ],
+          "decision": "covered_by_churches",
+          "reason": "Милан и Иерусалим сравнение/исторический рассказ; Моисей и отдельные реликвии не самостоятельные точки.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/borghese/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Галерея Боргезе",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 149,
+              "source_paragraph": 5,
+              "quote": "Достойное завершение Римской программы"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "galleria-borghese"
+          },
+          "reason": "Повторный музейный визит всех троих; скульптуры Бернини и римские мозаики часть коллекции.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/orvieto/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Сакро-Боско — Парк монстров",
+          "event": "visited_park",
+          "evidence": [
+            {
+              "source_record_index": 148,
+              "source_paragraph": 1,
+              "quote": "заехали в Парк Монстров - Sacro Bosco"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "sacro-bosco"
+          },
+          "reason": "Посещение состоялось, несмотря на слабое впечатление.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Орвието и его собор",
+          "event": "entered_cathedral",
+          "evidence": [
+            {
+              "source_record_index": 148,
+              "source_paragraph": 5,
+              "quote": "Внутри собор сначала теряется"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "orvieto--sobor-orvieto"
+          },
+          "reason": "Фасад и интерьер реально осмотрены; городская прогулка отдельной географической связью сохранена.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Винная вилла — ночёвка",
+          "event": "planned_tasting_at_unnamed_stay",
+          "evidence": [
+            {
+              "source_record_index": 148,
+              "source_attachment_path": "attachments.0.data.26.media.description",
+              "quote": "Остановились сегодня на вилле. Сейчас пойдём на тестирование вина и в бассейн. Потом домашний ужин :)"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Имя виллы не названо; намерение дегустации в этой подписи не подменено точным посещением известного производителя.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/monte-oliveto/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Монте-Оливето-Маджоре",
+          "event": "entered_abbey",
+          "evidence": [
+            {
+              "source_record_index": 147,
+              "source_paragraph": 2,
+              "quote": "Единственная культурная точка по дороге - Abbazia di Monte Oliveto Maggiore"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "monte-oliveto-maggiore"
+          },
+          "reason": "Реально осмотрели двор, храм и фрески; Леля тоже присутствовала, хотя аудиогиды были у Сергея и Мити. Все 17 подписей прочитаны.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Семейная винодельня Кьянти",
+          "event": "winery_tasting_name_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 147,
+              "source_attachment_path": "attachments.0.data.22.media.description",
+              "quote": "Митька после первого дня пить отказывается. Но на тестирование мы его взяли. Пусть лучше закладывает правильное отношение к алкоголю. Было очень образовательно. Про chianti classico мы теперь знаем много 😀"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Дегустация и семейный обед описаны подробно, имя не приведено. Не угадывать по числу номеров/бутылок.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Места жизни святого Бенедикта",
+          "event": "depicted_history",
+          "evidence": [
+            {
+              "source_record_index": 147,
+              "source_attachment_path": "attachments.0.data.11.media.description",
+              "quote": "Юноша нашел глубокую и темную пещеру, куда его и спустили на долгие 3 года.\nМонах (похоже тот же что благословил) приносил ему пищу и звоном колокольчика давал знать время молитвы.\nТут и посрамил первый раз св Бенедикт диавола, который камнем разбил колокольчик...но как гид умолчал зараза\nЗакончив с отшельничеством он поселился рядом в пещере и просвещал пейзан в вопросах богословия. Наслышанные о его набожности, группа монахов пришла звать его на аббатство."
+            }
+          ],
+          "decision": "covered_by_abbey",
+          "reason": "Пещера и соседние монастыри — сюжеты фресок, не дополнительные остановки. Монтепульчано и Кьянти винные районы переезда, не все винодельни.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/florence-uffizi/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Санта-Кроче",
+          "event": "entered_church",
+          "evidence": [
+            {
+              "source_record_index": 146,
+              "source_paragraph": 4,
+              "quote": "провели 1.5 часа"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "santa-croce-florence"
+          },
+          "reason": "Церковь посетили с аудиогидами; могилы великих людей части комплекса.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Уффици",
+          "event": "guided_gallery_visit",
+          "evidence": [
+            {
+              "source_record_index": 146,
+              "source_paragraph": 11,
+              "quote": "Уфицци мы сегодня смотрели со специалистом"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "uffizi"
+          },
+          "reason": "Экскурсия состоялась, покупка билетов подтверждена последующим рассказом.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Палаццо Веккьо",
+          "event": "entered_palace",
+          "evidence": [
+            {
+              "source_record_index": 146,
+              "source_attachment_path": "attachments.0.data.15.media.description",
+              "quote": "\"Зал 500, роспись заказывали Да Винчи и Микеланджело, но дальше экскизов дело не пошло, Великие умотали на заработки в другие места, а зал расписал Джоржо Вазари. И по мне весьма успешно..\""
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "florence--palatstso-vekko"
+          },
+          "reason": "После Уффици самостоятельный осмотр дворца; внутренний зал подтверждён авторской подписью.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/florence-pitti/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Питти и его музеи",
+          "event": "entered_palace_gallery",
+          "evidence": [
+            {
+              "source_record_index": 145,
+              "source_paragraph": 2,
+              "quote": "ходили во дворец Питти и его музеи"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "palazzo-pitti"
+          },
+          "reason": "Дворец с художественной коллекцией, без приписывания входа во все возможные отделы и сады Боболи.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Санта-Тринита, Санта-Мария-Новелла и дворец Медичи",
+          "event": "brief_guided_city_details",
+          "evidence": [
+            {
+              "source_record_index": 145,
+              "source_attachment_path": "attachments.0.data.5.media.description",
+              "quote": "Фрески Гирландайо. На ней все семейство Медичи.\nChurch of Santa Trinita"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Названные детали городского тура и фреска, без самостоятельных больших рассказов; музейные входы во дворцы не приписаны.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/florence-duomo/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Дуомо — купол Брунеллески",
+          "event": "dome_climb",
+          "evidence": [
+            {
+              "source_record_index": 144,
+              "source_paragraph": 2,
+              "quote": "Поднялись на купол Дуомо"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "florence--sobor-santa-mariya-del-fore"
+          },
+          "reason": "Подъём состоялся, в том числе Сергей описал 463 ступеньки.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Флорентийский баптистерий",
+          "event": "entered_baptistery",
+          "evidence": [
+            {
+              "source_record_index": 144,
+              "source_paragraph": 4,
+              "quote": "баптистарий украшен византийской мозайкой"
+            }
+          ],
+          "decision": "retain",
+          "reason": "Ключевой памятник флорентийского комплекса; подробный рассказ о мозаиках и внутренних посещениях. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "target": {
+            "attraction": "florence--florentiyskiy-baptisteriy"
+          }
+        },
+        {
+          "label": "Музей Опера-дель-Дуомо",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 144,
+              "source_attachment_path": "attachments.0.data.18.media.description",
+              "quote": "Донателло - Мария Магдалина. Дерево.\nВ музее собора"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "florence--muzey-opera-del-duomo"
+          },
+          "reason": "Музейный эпизод явно подписан автором «В музее собора», ранее связь пропущена.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Барджелло",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 144,
+              "source_paragraph": 5,
+              "quote": "мы пошли в мой любимый и очень уникальный музей скульптуры"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "bargello"
+          },
+          "reason": "Самостоятельный музейный визит, скульптуры не места на карте.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Колокольня Джотто",
+          "event": "not_climbed",
+          "evidence": [
+            {
+              "source_record_index": 144,
+              "source_attachment_path": "attachments.0.data.9.media.description",
+              "quote": "Говорят вид с колокольни на купол интереснее. Проверять не стали 😀"
+            }
+          ],
+          "decision": "exclude_unperformed_activity",
+          "reason": "Вид с колокольни только чужая рекомендация, сами не поднимались.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/medici-chapel/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Капеллы Медичи",
+          "event": "entered_chapels",
+          "evidence": [
+            {
+              "source_record_index": 143,
+              "source_paragraph": 1,
+              "quote": "Нашим завершающий аккордом была капела Медичи"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "medici-chapels"
+          },
+          "reason": "Вошли все трое; погребения и мозаика части комплекса.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Базилика Сан-Лоренцо",
+          "event": "entered_church",
+          "evidence": [
+            {
+              "source_record_index": 143,
+              "source_paragraph": 3,
+              "quote": "Ещё зашли в базилику святого Лоренцо"
+            }
+          ],
+          "decision": "retain",
+          "reason": "Базилика Медичи и самостоятельное внутреннее посещение после капелл. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "target": {
+            "attraction": "florence--bazilika-san-lorentso"
+          }
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/accademia-stibbert/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Галерея Академии",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 142,
+              "source_paragraph": 1,
+              "quote": "я встала в 7 и перед отъездом побежала смотреть Давида"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "galleria-accademia"
+          },
+          "reason": "Первоначально исключила из плана, но утром всё-таки посетила одна; Сергей и Митя не добавлены.",
+          "participants": [
+            "Леля"
+          ]
+        },
+        {
+          "label": "Музей Стибберта",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 142,
+              "source_paragraph": 5,
+              "quote": "На выезде из города мы заехали в Museo Stibbert"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "museo-stibbert"
+          },
+          "reason": "Все трое посетили: фраза «для мальчиков» не исключает Лелю из посетителей.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Марина-ди-Пьетрасанта",
+          "event": "seaside_stay_and_swimming",
+          "evidence": [
+            {
+              "source_record_index": 142,
+              "source_attachment_path": "attachments.0.data.14.media.description",
+              "quote": "Marina di Pietrasanta  - только небо, только солнце и песок!\nВода теплая и прозрачная!"
+            }
+          ],
+          "decision": "covered_by_trip",
+          "reason": "Приморская база с купанием; не подмена отдельным городом Пьетрасанта в пяти километрах. Отель не назван.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Русская церковь по дороге",
+          "event": "incidental_photo",
+          "evidence": [
+            {
+              "source_record_index": 142,
+              "source_attachment_path": "attachments.0.data.8.media.description",
+              "quote": "Вдруг по дороге... Надо прогуглить. Ну не зря наши во Флоренции творили. Видимо как и в Ницце без Храма творить не могли."
+            }
+          ],
+          "decision": "exclude_incidental_object",
+          "reason": "Автор сама пишет «Надо прогуглить», самостоятельного рассказа нет — не атрибутируется в метку.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/pisa/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Пизанский собор",
+          "event": "entered_cathedral",
+          "evidence": [
+            {
+              "source_record_index": 141,
+              "source_paragraph": 3,
+              "quote": "А вот собор - срыв башки"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "pisa--pizanskiy-sobor"
+          },
+          "reason": "Главный комплекс реально осмотрен; подъём на башню не заявлен.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Пизанская башня",
+          "event": "exterior_visit",
+          "evidence": [
+            {
+              "source_record_index": 141,
+              "source_paragraph": 4,
+              "quote": "А башня, которая колокольня"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "pisa--pizanskaya-bashnya"
+          },
+          "reason": "Главный комплекс реально осмотрен; подъём на башню не заявлен.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Пизанский баптистерий",
+          "event": "entered_baptistery",
+          "evidence": [
+            {
+              "source_record_index": 141,
+              "source_paragraph": 3,
+              "quote": "Но внутри пустой"
+            }
+          ],
+          "decision": "retain",
+          "reason": "Одна из основных частей Поля чудес; реальное внутреннее посещение и сравнение с Флоренцией. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "target": {
+            "attraction": "pisa--pizanskiy-baptisteriy"
+          }
+        },
+        {
+          "label": "Прочие площади и церкви Пизы",
+          "event": "brief_city_walk",
+          "evidence": [
+            {
+              "source_record_index": 141,
+              "source_attachment_path": "attachments.0.data.18.media.description",
+              "quote": "Santa Maria della Spina\nМаленькая, как игрушечная!"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Короткие подписи дополнительных фасадов/памятников, без новых точек на каждую деталь. План города прошли не весь.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/cinque-terre/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Чинкве-Терре и Монтероссо",
+          "event": "boat_views_and_village_walk",
+          "evidence": [
+            {
+              "source_record_index": 140,
+              "source_paragraph": 6,
+              "quote": "потом погуляли в Monterosso"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "cinque-terre"
+          },
+          "reason": "Смотрели остальные города с моря, на берег вышли гулять в Монтероссо.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Ла-Специя",
+          "event": "visited_city",
+          "evidence": [
+            {
+              "source_record_index": 140,
+              "source_paragraph": 6,
+              "quote": "вернулись в La Spezia"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "la-spezia"
+          },
+          "reason": "Реальная прогулка и оценка города, не только место парковки.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Тропа Монтероссо — Вернацца, Риомаджоре, Портовенере",
+          "event": "uncompleted_itinerary",
+          "evidence": [
+            {
+              "source_record_index": 140,
+              "source_paragraph": 6,
+              "quote": "План мы не выполнили полностью"
+            }
+          ],
+          "decision": "exclude_unperformed_plan",
+          "reason": "Не выдавать перечисленный план за выполненный маршрут: отказались из-за жары, береговых посещений этих городков и тропы нет.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/lucca/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Лукка и крепостные стены",
+          "event": "city_walk",
+          "evidence": [
+            {
+              "source_record_index": 139,
+              "source_attachment_path": "attachments.0.data.0.media.description",
+              "quote": "Во-первых, Лукка единственный город Тосканы с полностью сохранившейся крепостной стеной! Сейчас на ней парк и пешеходные дорожки"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "lucca"
+          },
+          "reason": "Прогулка по городу; стены с парком часть его общей истории.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Сан-Микеле-ин-Форо",
+          "event": "church_visit_extent_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 139,
+              "source_attachment_path": "attachments.0.data.3.media.description",
+              "quote": "И сразу попадаем на площадь  с церковью св. архангела Михаила (San Michele in Foro). Именно на этом месте располагался римский форум – центр древнего города. Первая церковь появилась здесь ещё в 8 столетии, а нынешний облик она приобрела после перестройки, длившейся с 11 по 14 век."
+            }
+          ],
+          "decision": "retain",
+          "reason": "Крупный архитектурный памятник Лукки с отдельной историей и описанием колонн. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "target": {
+            "attraction": "lucca--san-michele-in-foro"
+          }
+        },
+        {
+          "label": "Санти-Джованни-э-Репарата",
+          "event": "church_visit_extent_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 139,
+              "source_attachment_path": "attachments.0.data.8.media.description",
+              "quote": "А дальше ещё одна значимая для Лукки церковь (Santi Giovanni e Reparata). Она была основана ещё в 5 веке."
+            }
+          ],
+          "decision": "retain",
+          "reason": "Один из основных древних памятников Лукки, выделенный автором как отдельный этап церковно-архитектурного маршрута. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "target": {
+            "attraction": "lucca--santi-giovanni-reparata"
+          }
+        },
+        {
+          "label": "Собор Святого Мартина",
+          "event": "entered_cathedral",
+          "evidence": [
+            {
+              "source_record_index": 139,
+              "source_attachment_path": "attachments.0.data.12.media.description",
+              "quote": "Заворачиваем за угол и вот оказывается главный кафедральный собор - St Martin Cathedral"
+            },
+            {
+              "source_record_index": 139,
+              "source_attachment_path": "attachments.0.data.14.media.description",
+              "quote": "И внутри красотища!"
+            }
+          ],
+          "decision": "retain",
+          "reason": "Главный собор Лукки, осмотренный внутри, с рассказом о художественном убранстве и Тинторетто. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "target": {
+            "attraction": "lucca--san-martino-cathedral"
+          }
+        },
+        {
+          "label": "Сан-Фредиано",
+          "event": "brief_entry_during_service",
+          "evidence": [
+            {
+              "source_record_index": 139,
+              "source_attachment_path": "attachments.0.data.27.media.description",
+              "quote": "Думаете это все? Нет!\nSan Frediano Basilica\nБазилика св. Фридиано (San Frediano) выделяется мозаикой 13 столетия, на фасаде. Внутри она тоже не подвержена изменениям ренессанса (что редкость), но была служба и мы только заглянули."
+            }
+          ],
+          "decision": "retain",
+          "reason": "Названный памятник с отдельным описанием фасадной мозаики и краткого входа во время службы. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "target": {
+            "attraction": "lucca--bazilika-san-frediano"
+          }
+        },
+        {
+          "label": "Местный музей Лукки",
+          "event": "entered_museum_name_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 139,
+              "source_attachment_path": "attachments.0.data.30.media.description",
+              "quote": "Ещё мы зашли в местный музей (были почти единственными, за нами смотрительница ходила по всем залам).\nОчень неплохие интерьеры с\nгабеленами и небольшая картинная галерея. \nКороче Лукку очень рекомендуем!"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Музей действительно посетили, но имя не названо. Не угадывать Palazzo Mansi только по гобеленам.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Площадь амфитеатра, ворота и Madonna dello Stellario",
+          "event": "brief_city_details",
+          "evidence": [
+            {
+              "source_record_index": 139,
+              "source_attachment_path": "attachments.0.data.26.media.description",
+              "quote": "Рыночная площвдь расположена на месте бывшего древнеримского амфитеатра, от которого осталась только овальная форма. Доказывает значимость Лукки а римское время"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Краткие детали общей прогулки, без отдельного рассказа о каждой скульптуре.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/pietrasanta/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Пьетрасанта",
+          "event": "town_walk",
+          "evidence": [
+            {
+              "source_record_index": 138,
+              "source_paragraph": 3,
+              "quote": "вечером поехали в городок Pietrasanta"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "pietrasanta"
+          },
+          "reason": "Вечерняя прогулка в городе в пяти километрах от приморской базы.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Каррарские мраморные горы",
+          "event": "distant_view",
+          "evidence": [
+            {
+              "source_record_index": 138,
+              "source_paragraph": 3,
+              "quote": "мы смотрим на Carrara"
+            }
+          ],
+          "decision": "covered_by_route",
+          "reason": "Вид издалека; поездка в карьер и экскурсия по добыче не заявлены.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Городские скульптуры, собор, фрески и галереи",
+          "event": "brief_city_art_details",
+          "evidence": [
+            {
+              "source_record_index": 138,
+              "source_attachment_path": "attachments.0.data.18.media.description",
+              "quote": "Арт галерея - одна из многих"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Автор рассказывает про атмосферу художественного городка; конкретная галерея/храм с современной росписью не названы. Не угадываются.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/siena/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Сиенский собор и его библиотека",
+          "event": "entered_cathedral_complex",
+          "evidence": [
+            {
+              "source_record_index": 137,
+              "source_paragraph": 6,
+              "quote": "И конечно жемчужина Сиены - собор"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "siena--sienskiy-sobor"
+          },
+          "reason": "Внутри осмотрели открытые мраморные полы, скульптуры и библиотеку; не отдельная точка на каждого художника.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Сан-Доменико — реликвия Святой Екатерины",
+          "event": "church_visit",
+          "evidence": [
+            {
+              "source_record_index": 137,
+              "source_attachment_path": "attachments.0.data.14.media.description",
+              "quote": "Собор святой Катерины Сиенской - одной из 2 святых покровителей Италии. В нем голова святой, тело в Риме (чтобы никому не обидно...)."
+            }
+          ],
+          "decision": "retain",
+          "reason": "Базилика с реликвией Екатерины — отдельно описанный эпизод; корректное место установлено по источнику. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "target": {
+            "attraction": "siena--san-domenico"
+          }
+        },
+        {
+          "label": "Пьяцца-дель-Кампо и контрады",
+          "event": "square_and_neighbourhood_story",
+          "evidence": [
+            {
+              "source_record_index": 137,
+              "source_attachment_path": "attachments.0.data.33.media.description",
+              "quote": "Мы застали демонстрацию одного из контрад на центральной площади под бой барабанов и размахивая флагов"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Реальная демонстрация с флагами, но не сами скачки Палио. Все музеи контрад как категория не посещения. Банк и башни краткие детали обзора.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/italy/italy-2022/tivoli/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полный исходный пост, все авторские подписи и текущая глава прочитаны.",
+      "objects": [
+        {
+          "label": "Вилла д’Эсте",
+          "event": "entered_villa_and_gardens",
+          "evidence": [
+            {
+              "source_record_index": 136,
+              "source_paragraph": 4,
+              "quote": "Ну и поехали с Серегой за культурой"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "tivoli--villa-d-este"
+          },
+          "reason": "Вилла, фрески и парк с фонтанами осмотрены только родителями. Митя в другом месте.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Парк аттракционов под Римом",
+          "event": "visited_unnamed_amusement_park",
+          "evidence": [
+            {
+              "source_record_index": 136,
+              "source_paragraph": 1,
+              "quote": "У нас на карусели пошёл один Митька"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Посетил только Митя; название не дано, не угадывать Rainbow MagicLand по соседству с аутлетом.",
+          "participants": [
+            "Митя"
+          ]
+        },
+        {
+          "label": "Аутлет",
+          "event": "private_shopping",
+          "evidence": [
+            {
+              "source_record_index": 136,
+              "source_paragraph": 1,
+              "quote": "я прошлась по магазинам"
+            }
+          ],
+          "decision": "exclude_private_service",
+          "reason": "Личная покупочная прогулка Лели, не достопримечательность.",
+          "participants": [
+            "Леля"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled_names_open",
+    "questions": [
+      {
+        "object": "Винная вилла у Орвието",
+        "question": "Название первой виллы и состоялась ли объявленная дегустация?"
+      },
+      {
+        "object": "Семейная винодельня Кьянти",
+        "question": "Название поместья, где дегустировали и обедали после Монте-Оливето?"
+      },
+      {
+        "object": "Местный музей Лукки",
+        "question": "Как назывался музей с гобеленами и картинной галереей?"
+      },
+      {
+        "object": "Парк аттракционов под Римом",
+        "question": "Название парка, где Митя провёл день один, пока родители поехали в Тиволи?"
+      }
+    ],
+    "limitations": [
+      {
+        "detail": "Единственное видео поездки не просмотрено; возможные сведения из звука не считаются проверенными. Неустановленные названия пяти эпизодов сохранены в вопросах."
+      }
+    ],
+    "repeat_check": "Все восемнадцать глав сопоставлены с данными. Восстановлены Санта-Прасседе, музей Опера-дель-Дуомо, три церкви Лукки; Святилище Екатерины заменено на фактически описанную базилику Сан-Доменико. Академию посетила Леля одна вопреки первоначальному отказу; Стибберт все трое, виллу д’Эсте только родители. Купол Святого Петра только Митя; колокольню Джотто не посещали. План тропы Чинкве-Терре и остановок не исполнен, остальные городки видели с моря. Музей Лукки и винодельня Кьянти — реальные посещения с неизвестными названиями, не пропущены молча."
+  }
+}

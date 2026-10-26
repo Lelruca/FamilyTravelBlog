@@ -12,7 +12,7 @@ places:
   - parlee-beach
   - shediac
 hero_image: "IMG_4152.jpg"
-attractions: ["parlee-beach"]
+attractions: ["parlee-beach","acadian-historical-village","bathurst--acadian-coastal-drive"]
 ---
 
 <p>C утра мы выдвинулись в сторону нашей «деревни» - <b>Acadian Historical Village</b>. </p>

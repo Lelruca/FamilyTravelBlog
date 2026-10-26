@@ -1,0 +1,1039 @@
+{
+  "trip_path": "content/europe/germany/europe-autumn-2023",
+  "status": "text_audit_complete_questions_open",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "kind": "facebook_profile_json",
+    "record_index": 110,
+    "record_indices": [
+      110,
+      109,
+      108,
+      107,
+      105,
+      104,
+      103,
+      102,
+      101,
+      100,
+      99,
+      98,
+      97,
+      96,
+      95,
+      94,
+      93,
+      113,
+      114,
+      115
+    ],
+    "additional_files": [
+      {
+        "path": "media-manifests/europe-autumn-2023.json",
+        "sha256": "87ae1fd0ee99a4143f148618e34269f2fbc9b90d10e285547843634caca7a5c1"
+      },
+      {
+        "path": "media-manifests/europe-autumn-2023-texts/owner-2026-10-15-mitya-opera.txt",
+        "sha256": "93b547b71b114e86f93fa1d7ea708fbfc7f0028061cf9221e65ce225ea9b1658"
+      },
+      {
+        "path": "media-manifests/europe-autumn-2023-texts/owner-2026-10-15-liceu-opera.txt",
+        "sha256": "ad9087e15123be2b8a6336d5f1b94a467451932b13a3dbe2685d59160199c670"
+      },
+      {
+        "path": "media-manifests/europe-autumn-2023-texts/owner-2026-10-15-mitya-dorm-raw.md",
+        "sha256": "7c6a537531a658df04d1be2a42493096a53f184763af17ed36a484b01b8c5fa7"
+      },
+      {
+        "path": "media-manifests/europe-autumn-2023-texts/owner-2026-10-15-figaro-full-raw.md",
+        "sha256": "5235c1a9a356e35168c0e705e845c7d65d755f036df12bc91d9cf0439a739cf7"
+      },
+      {
+        "path": "media-manifests/europe-autumn-2023-texts/owner-2026-10-15-mannheim-intro.txt",
+        "sha256": "0f18840f5587e835b8084cf1bcfb34bee601e00d0851ebeb8107212cf05ccd2a"
+      }
+    ],
+    "read": "Семнадцать основных постов и три августовских поста Мити, все 97 авторских подписей, восемнадцать текущих глав и полные дополнительные отзывы/письмо владельца прочитаны. Митя путешествовал отдельно в августе, родители приехали осенью."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/europe-autumn-2023.json",
+    "method": "Основа текст и подписи; только два представителя самостоятельных августовских фотоисторий для дворца Манхайма и замка Гейдельберга.",
+    "scoped_blocks": [
+      {
+        "chapter": "mitya-explores",
+        "object": "Дворцовые фотоистории Мити",
+        "reviewed": [
+          "mitya-explores/facebook_762175055709032.jpg",
+          "mitya-explores/facebook_762181832375021.jpg"
+        ],
+        "scope": "Два представителя больших серий, не просмотр каждого фона и не каталог всех снимков."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "file": "content/europe/germany/europe-autumn-2023/barcelona-eixample/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Эшампль",
+          "event": "district_walk",
+          "evidence": [
+            {
+              "source_record_index": 110,
+              "source_paragraph": 1,
+              "quote": "район Эшампль"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "barcelona--eshampl"
+          },
+          "reason": "Прогулка родителей по району; Наташа присоединилась вечером. Её яхтенная прогулка не описана как отдельная достопримечательность.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/maritime-museum/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Морской музей Барселоны",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 109,
+              "source_paragraph": 2,
+              "quote": "Начали с морского музея"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "museu-maritim-barcelona"
+          },
+          "reason": "Наташа после утреннего кофе ушла по делам, музей посетили родители. Галера и модели — экспонаты.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Памятник Колумбу",
+          "event": "brief_caption",
+          "evidence": [
+            {
+              "source_record_index": 109,
+              "source_attachment_path": "attachments.0.data.3.media.description",
+              "quote": "Серега углядел на статуе Колумба богиню Гекату (богиня преисподни и смери), прообраз статуи Свободы. Я и не знала... (как обычно)"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Короткая деталь прогулки, не самостоятельный рассказ. Статуя Свободы только сравнение.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/mnac/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Национальный музей искусства Каталонии",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 108,
+              "source_paragraph": 1,
+              "quote": "Музей искусства Каталонии нас потряс"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "mnac"
+          },
+          "reason": "Опоздание по расписанию не отменило вход. Все 26 подписей прочитаны; перенесённые фрески не поездки к исходным церквям.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/liceu-sagrada/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Лисеу",
+          "event": "opera_performance",
+          "evidence": [
+            {
+              "source_record_index": 107,
+              "source_paragraph": 0,
+              "quote": "Слушали \"Евгения Онегина\" в театре Liceu"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "liceu"
+          },
+          "reason": "Наташа присутствовала: дополнительный полный отзыв Фигаро прямо говорит «С Наташей (в Барселоне) мы сидели».",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        },
+        {
+          "label": "Саграда Фамилия",
+          "event": "entered_basilica",
+          "evidence": [
+            {
+              "source_record_index": 107,
+              "source_paragraph": 3,
+              "quote": "Меня в Саграде впечатляет СВЕТ"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "sagrada-familia"
+          },
+          "reason": "Реальный повторный визит внутри, не только покупка билета. Точный состав группы внутри не расширен по одной покупке Наташи.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/gothic-quarter-beach/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Готический квартал",
+          "event": "district_walk",
+          "evidence": [
+            {
+              "source_record_index": 105,
+              "source_paragraph": 0,
+              "quote": "есть готический квартал"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "barri-gotic"
+          },
+          "reason": "Уличная прогулка с горгульями; отдельный собор не добавлен по краткому общему упоминанию.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Пляж Побленоу",
+          "event": "beach_and_swimming",
+          "evidence": [
+            {
+              "source_record_index": 105,
+              "source_paragraph": 1,
+              "quote": "Потом мы ездили купаться"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "poblenou-beach"
+          },
+          "reason": "Реальное купание и обратная прогулка по променаду.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Парк Гуэль",
+          "event": "failed_ticket_attempt",
+          "evidence": [
+            {
+              "source_record_index": 105,
+              "source_paragraph": 2,
+              "quote": "билетов на сегодня нет"
+            }
+          ],
+          "decision": "exclude_failed_plan",
+          "reason": "Дошли до парка, но билетов не было: вход не приписан. Не путать с успешным посещением других поездок.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/sant-pau/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Сант-Пау",
+          "event": "entered_historic_hospital",
+          "evidence": [
+            {
+              "source_record_index": 104,
+              "source_paragraph": 1,
+              "quote": "Hospital Sant Pau"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "sant-pau"
+          },
+          "reason": "Описанный осмотр модернистского госпиталя, а не первоначальный госпиталь 1401 года.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Жилые районы и пляж",
+          "event": "city_shopping_and_swimming",
+          "evidence": [
+            {
+              "source_record_index": 104,
+              "source_paragraph": 7,
+              "quote": "Во второй половине дня ездили купаться"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Станции метро не точные названия пляжей и не самостоятельные достопримечательности.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/miro-montjuic/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Фонд Жоана Миро",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 103,
+              "source_paragraph": 0,
+              "quote": "А послали нас в музей Миро"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "fundacio-miro"
+          },
+          "reason": "Реальный осмотр коллекции; Кандинский сравнение.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Замок Монжуик и канатная дорога",
+          "event": "cable_car_and_fort_visit",
+          "evidence": [
+            {
+              "source_record_index": 103,
+              "source_paragraph": 1,
+              "quote": "Наверху оказался огромный форт"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "montjuic-castle"
+          },
+          "reason": "Подъём на канатке состоялся, форт осмотрен для прогулки. Не весь парк каждой отдельной точкой.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Дворец Гуэля",
+          "event": "entered_palace",
+          "evidence": [
+            {
+              "source_record_index": 103,
+              "source_paragraph": 2,
+              "quote": "Повела Серегу в дом Гуэля"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "palau-guell"
+          },
+          "reason": "Этот раз с Сергеем. «Нам с мамой понравился» — память предыдущего посещения, Ома не участник нынешнего.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/natasha-school/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Учебный кампус Наташи",
+          "event": "entered_campus_name_unspecified",
+          "evidence": [
+            {
+              "source_record_index": 102,
+              "source_paragraph": 0,
+              "quote": "внутри она нас провела"
+            }
+          ],
+          "decision": "pending_identification",
+          "reason": "Осмотр кампуса с дочерью подтверждён, точное имя школы не названо и не угадано.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/mitya-explores/index.md",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Манхайм и университет",
+          "event": "student_city_exploration",
+          "evidence": [
+            {
+              "source_record_index": 115,
+              "source_paragraph": 0,
+              "quote": "Mannheim, Germany"
+            },
+            {
+              "source_record_index": 115,
+              "source_attachment_path": "attachments.0.data.9.media.description",
+              "quote": "Mannheim University"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "mannheim"
+          },
+          "reason": "Самостоятельный августовский эпизод Мити, до приезда родителей.",
+          "participants": [
+            "Митя"
+          ]
+        },
+        {
+          "label": "Дворец Манхайма — университет",
+          "event": "university_courtyard",
+          "evidence": [
+            {
+              "source_record_index": 115,
+              "source_attachment_path": "attachments.0.data.9.media.description",
+              "quote": "Mannheim University"
+            },
+            {
+              "photo": "mitya-explores/facebook_762175055709032.jpg",
+              "observation": "Дворцовый двор университета, представитель самостоятельной серии Манхайма."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "mannheim-palace"
+          },
+          "reason": "Двор подтверждён; музейные залы по наружному фото не приписаны.",
+          "participants": [
+            "Митя"
+          ]
+        },
+        {
+          "label": "Оггерсхайм",
+          "event": "accidental_stop_and_walk",
+          "evidence": [
+            {
+              "source_record_index": 114,
+              "source_paragraph": 1,
+              "quote": "ended up in a small town called Oggersheim"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "oggersheim"
+          },
+          "reason": "Митя проехал станцию Лорш и реально гулял в Оггерсхайме. Лорш в этом эпизоде только несостоявшееся направление.",
+          "participants": [
+            "Митя"
+          ]
+        },
+        {
+          "label": "Гейдельберг и замок",
+          "event": "castle_story_block",
+          "evidence": [
+            {
+              "source_record_index": 113,
+              "source_paragraph": 0,
+              "quote": "Heidelberg"
+            },
+            {
+              "photo": "mitya-explores/facebook_762181832375021.jpg",
+              "observation": "Модель Гейдельбергского замка внутри самостоятельного большого замкового блока."
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "heidelberg-castle"
+          },
+          "reason": "Сохранён основной замковый фотоэпизод и музейный осмотр Мити; прочие здания не атрибутировались.",
+          "participants": [
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/stuttgart/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Музей Porsche",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 101,
+              "source_paragraph": 3,
+              "quote": "Поэтому этот раз у нас Porsche"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "porsche-museum"
+          },
+          "reason": "Посетили родители и Митя, машины и VR не отдельные места.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Музей Mercedes-Benz",
+          "event": "previous_trip_reference",
+          "evidence": [
+            {
+              "source_record_index": 101,
+              "source_paragraph": 3,
+              "quote": "мы в нем с ребятами уже были в 2019 году"
+            }
+          ],
+          "decision": "exclude_previous_visit",
+          "reason": "В 2023 заменили его Porsche.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Вильгельма — зоопарк и ботанический сад",
+          "event": "visited_zoo_botanical_complex",
+          "evidence": [
+            {
+              "source_record_index": 101,
+              "source_paragraph": 6,
+              "quote": "не смогли пропустить зоопарк Штутгарта"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "wilhelma"
+          },
+          "reason": "Отец и сын явно инициаторы; автор описывает собственное впечатление, не исключена из группы.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/mitya-birthday/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Фехтовальные соревнования",
+          "event": "sports_event",
+          "evidence": [
+            {
+              "source_record_index": 100,
+              "source_paragraph": 0,
+              "quote": "повезли его на соревнования"
+            }
+          ],
+          "decision": "covered_by_trip",
+          "reason": "Участник Митя, родители сопровождали; точная площадка в тексте не названа.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Мишленовский ресторан",
+          "event": "cancelled_birthday_plan",
+          "evidence": [
+            {
+              "source_record_index": 100,
+              "source_paragraph": 12,
+              "quote": "Ресторан он прогулял"
+            }
+          ],
+          "decision": "exclude_failed_plan",
+          "reason": "Подарочный ресторан заменён соревнованиями, визит не состоялся.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Франкфуртская опера — новое здание",
+          "event": "opera_performance",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-autumn-2023.json",
+              "source_sha256": "87ae1fd0ee99a4143f148618e34269f2fbc9b90d10e285547843634caca7a5c1",
+              "source_json_path": "owner_text_changes.3.paragraphs.4",
+              "quote": "Мы сфотографировались у здания старой оперы, но представления сейчас в основном в новом здании. Зал простой, современный и удобный. Такая немецкая практичность без красоты 🙂 Хотя фойе и буфет интересные."
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "frankfurt--oper-frankfurt"
+          },
+          "reason": "«Женитьба Фигаро» была в новом здании. Старую оперу фотографировали снаружи, не подменять ею площадку спектакля.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/frankfurt/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Штедель",
+          "event": "entered_gallery",
+          "evidence": [
+            {
+              "source_record_index": 99,
+              "source_paragraph": 1,
+              "quote": "С удовольствием посетили музей живописи - Städel Museum"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "staedel"
+          },
+          "reason": "Музейный визит семьи, подписи прочитаны; недовольство современным этажом не отменяет визит.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Собор Святого Варфоломея",
+          "event": "entered_cathedral",
+          "evidence": [
+            {
+              "source_record_index": 99,
+              "source_paragraph": 2,
+              "quote": "Внутри тоже неожиданно аскетично"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "frankfurt-cathedral"
+          },
+          "reason": "Внутренний осмотр прямо описан.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Исторический музей Франкфурта",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 99,
+              "source_paragraph": 3,
+              "quote": "Потом зашли в музей истории города"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "frankfurt--istoricheskiy-muzey-frankfurta"
+          },
+          "reason": "Отрицательная оценка не означает пропущенный музей.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/lorsch/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Лоршское аббатство",
+          "event": "visited_ruins",
+          "evidence": [
+            {
+              "source_record_index": 98,
+              "source_paragraph": 1,
+              "quote": "Знаменит развалинами монастыря Лорш"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "lorsch-abbey"
+          },
+          "reason": "Родители осматривали, Митя в это время в университете. Ратуша, фонтан табака и неназванная церковь краткие детали общей прогулки.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/mannheim/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Манхаймский дворец — университет",
+          "event": "entered_university",
+          "evidence": [
+            {
+              "source_record_index": 97,
+              "source_paragraph": 1,
+              "quote": "Мы спокойно зашли внутрь. И даже в аудиторию заглянули"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "mannheim-palace"
+          },
+          "reason": "Вход в университет подтверждён, но музей центральных залов только описан как существующий — не приписан автоматически. Бауманка и Лефортовский дворец сравнения.",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ]
+        },
+        {
+          "label": "Митины первые дни и неназванные церкви",
+          "event": "student_life_and_unnamed_churches",
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-autumn-2023.json",
+              "source_sha256": "87ae1fd0ee99a4143f148618e34269f2fbc9b90d10e285547843634caca7a5c1",
+              "source_json_path": "owner_text_changes.2.paragraphs.6",
+              "quote": "Сегодня выиграл в викторине на знание Германии (история и география, но это его конек), а после занятий пошел смотреть церкви (наши таскания его по музеям с пеленок дают свои плоды). С ним пошел австралиец – дорвались два заокеанских товарища до европейских ценностей 🙂 "
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Дополнительное письмо прочитано полностью. Митя и австралиец ходили смотреть церкви, имён нет; общежитие и бытовые магазины не туристические точки.",
+          "participants": [
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/hague-rotterdam/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Гаага",
+          "event": "guided_city_walk",
+          "evidence": [
+            {
+              "source_record_index": 96,
+              "source_paragraph": 2,
+              "quote": "Мы удачно начали с обзорной экскурсии"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "the-hague"
+          },
+          "reason": "Двухчасовая обзорная состоялась.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Маурицхёйс",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 96,
+              "source_paragraph": 4,
+              "quote": "Mauritshuis - восхитительная коллекция"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "mauritshuis"
+          },
+          "reason": "Реальный музейный визит.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Музей Эшера",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 96,
+              "source_paragraph": 5,
+              "quote": "А потом музей Эшера"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "escher-museum"
+          },
+          "reason": "Второй самостоятельный музей дня.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Erasmus University Rotterdam",
+          "event": "campus_walk",
+          "evidence": [
+            {
+              "source_record_index": 96,
+              "source_paragraph": 9,
+              "quote": "Вот и погуляли"
+            }
+          ],
+          "decision": "add",
+          "target": {
+            "attraction": "rotterdam--erasmus-university"
+          },
+          "reason": "Прошлись по кампусу, персональную экскурсию не предоставили. Три школы Испании здесь только пересказ подготовки Мити без названий.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/amsterdam/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Рейксмюсеум",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 95,
+              "source_paragraph": 0,
+              "quote": "мы весь день посвятили искусству"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "rijksmuseum"
+          },
+          "reason": "Два музея явно названы в полном рассказе, не только куплены билеты.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        },
+        {
+          "label": "Музей Ван Гога",
+          "event": "entered_museum",
+          "evidence": [
+            {
+              "source_record_index": 95,
+              "source_paragraph": 1,
+              "quote": "Серега получил удовольствие от Ван Гога"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "van-gogh-museum"
+          },
+          "reason": "Посетили все трое, не один Сергей.",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/delft/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Royal Delft — музей и фабрика",
+          "event": "entered_factory_museum",
+          "evidence": [
+            {
+              "source_record_index": 94,
+              "source_paragraph": 0,
+              "quote": "Музей и фабрика королевского фарфора в Дельфте"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "royal-delft"
+          },
+          "reason": "Производство и музей один комплекс, копия «Ночного дозора» не отдельный Рейксмюсеум.",
+          "participants": null
+        }
+      ]
+    },
+    {
+      "file": "content/europe/germany/europe-autumn-2023/kleve-kevelaer/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Полная глава, её исходные посты, подписи и дополнительные авторские редакции прочитаны.",
+      "objects": [
+        {
+          "label": "Клеве",
+          "event": "family_stay",
+          "evidence": [
+            {
+              "source_record_index": 93,
+              "source_paragraph": 2,
+              "quote": "Гостили мы в небольшом городе Kleve"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "kleve"
+          },
+          "reason": "Фактическое пребывание у родных, не новый список фасадов.",
+          "participants": null
+        },
+        {
+          "label": "Базилика Святой Марии в Кевеларе",
+          "event": "entered_church",
+          "evidence": [
+            {
+              "source_record_index": 93,
+              "source_paragraph": 2,
+              "quote": "Поэтому внутрь мы вошли"
+            }
+          ],
+          "decision": "retain",
+          "reason": "Главная цель поездки к паломническому центру; восторженный подробный рассказ об интерьере. Пересмотрено по содержанию рассказа 26.10.2026: тип «церковь» сам по себе не причина исключения.",
+          "participants": null,
+          "target": {
+            "attraction": "kevelaer--bazilika-svyatoy-marii"
+          }
+        },
+        {
+          "label": "Соседние часовни и православная церковь",
+          "event": "brief_pilgrimage_context",
+          "evidence": [
+            {
+              "source_record_index": 93,
+              "source_paragraph": 3,
+              "quote": "много рядом часовен, церквей"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Общее описание паломнического центра, без утверждения о каждом внутреннем посещении.",
+          "participants": null
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled_names_open",
+    "questions": [
+      {
+        "object": "Школа Наташи в Барселоне",
+        "question": "Как называлась школа осмотренного кампуса? Автор не приводит имя."
+      }
+    ],
+    "limitations": [
+      {
+        "detail": "Шесть видео не просмотрены; сведения из звука не объявлены проверенными. Два представителя августовских фотоисторий не означают полный просмотр фотоархива."
+      }
+    ],
+    "repeat_check": "Все восемнадцать глав и содержательные подписи сопоставлены с данными. Добавлены новое здание Франкфуртской оперы и кампус Erasmus; музей и фабрика Royal Delft сохранены одним комплексом. Парк Гуэль без билетов, Mercedes-Benz только в 2019, ресторан дня рождения отменён. Дворец Манхайма посещали как университет, а не автоматически как музей. Августовские самостоятельные поездки Мити не приписаны родителям. Авторский текст сохранён."
+  }
+}

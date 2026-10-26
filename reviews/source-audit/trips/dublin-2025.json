@@ -1,0 +1,178 @@
+{
+  "trip_path": "content/europe/ireland/dublin-2025",
+  "status": "text_audit_complete",
+  "source": {
+    "path": "G:/My Drive/Family Travel Blog Photos/FB full archive/this_profile's_activity_across_facebook/posts/profile_posts_1.json",
+    "kind": "facebook_profile_json",
+    "record_index": 48,
+    "timestamp": 1747326514,
+    "sha256": "ebe0ed8402a245e43520a39bc3f885d0860a199e53a2e1d9bc2246be44b01d99",
+    "read": "Целиком прочитан исходный пост и все авторские подписи вложений, затем вся глава сайта. Служебные названия альбомов не трактуются как объекты."
+  },
+  "photographs": {
+    "status": "not_required_for_text_decisions",
+    "manifest": "media-manifests/dublin-2025.json",
+    "method": "Решения основаны на рассказе и именованных частях опубликованной главы. Архитектура, экспонаты и фон снимков не каталогизируются. Полный покадровый просмотр не требуется и не заявлен."
+  },
+  "chapters": [
+    {
+      "file": "content/europe/ireland/dublin-2025/dublin/index.md",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
+      "reading": "Пост, подписи и глава прочитаны полностью. Состав участников отделён от планирования и других одновременно путешествовавших родственников.",
+      "objects": [
+        {
+          "label": "Дублин",
+          "event": "layover_city_walk",
+          "evidence": [
+            {
+              "source_paragraph": 1,
+              "quote": "пересадка в Дублине оказалась"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "places": "dublin"
+          },
+          "reason": "Только Леля и Сергей по пути на выпускной дочери; дети в дублинской прогулке не заявлены.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Тринити-колледж",
+          "event": "campus_visit",
+          "evidence": [
+            {
+              "source_paragraph": 8,
+              "quote": "Trinity College"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "dublin--triniti-kolledzh"
+          },
+          "reason": "Описаны здания кампуса; обучение детей тут не состоялось, оба выбрали другие места.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Старая библиотека и Книга Келлс",
+          "event": "entered_exhibition",
+          "evidence": [
+            {
+              "source_paragraph": 9,
+              "quote": "ходишь в наушниках и рассматриваешь стенды"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "dublin--staraya-biblioteka-triniti-kolledzha-i-kniga-kells"
+          },
+          "reason": "Единая музейная экспозиция с библиотекой. Отдельные страницы рукописи и стенды не дополнительные точки.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Национальная галерея Ирландии",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_paragraph": 11,
+              "quote": "расслабилась душой в нац. галерее"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "dublin--natsionalnaya-galereya-irlandii"
+          },
+          "reason": "Посещение состоялось, хотя картину Вермеера не нашли. Метсю и Вермеер не отдельные музеи.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Национальный музей Ирландии — археология",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_paragraph": 15,
+              "quote": "забежали в музей археологии"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "dublin--natsionalnyy-muzey-irlandii-arkheologiya"
+          },
+          "reason": "Прямо описаны золотые изделия и болотная мумия, единая коллекция.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Собор Святого Патрика",
+          "event": "entered",
+          "evidence": [
+            {
+              "source_paragraph": 18,
+              "quote": "Внутри \"рыцари\" и их знамёна"
+            }
+          ],
+          "decision": "retain",
+          "target": {
+            "attraction": "dublin--sobor-svyatogo-patrika"
+          },
+          "reason": "Внутренний осмотр подтверждён отдельным абзацем.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Пабы и Сент-Стивенс-Грин",
+          "event": "captioned_city_stops",
+          "evidence": [
+            {
+              "source_paragraph": 14,
+              "quote": "Зашли в паб"
+            }
+          ],
+          "decision": "covered_by_city",
+          "reason": "Пабы без названий, парк назван краткой авторской подписью. Учтены в прогулке, без добавления каждой остановки.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        },
+        {
+          "label": "Барселона — выпускной",
+          "event": "onward_destination",
+          "evidence": [
+            {
+              "source_paragraph": 0,
+              "quote": "на выпускной в Барселону"
+            }
+          ],
+          "decision": "exclude_as_dublin_visit",
+          "reason": "Цель дальнейшего перелёта, не дополнительный объект дублинского рассказа.",
+          "participants": [
+            "Сергей",
+            "Леля"
+          ]
+        }
+      ]
+    }
+  ],
+  "reconciliation": {
+    "status": "text_reconciled",
+    "questions": [],
+    "repeat_check": "Все упомянутые объекты и дальнейшие/предыдущие направления сопоставлены с данными. Подтверждённые музейные связи сохранены, фоновых добавлений нет; состав участников не расширен до всей семьи."
+  }
+}
