@@ -18831,6 +18831,766 @@
       "visits": [],
       "place_visits": []
     },
+    "content/americas/argentina/south-america-2026/arrival/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": []
+    },
+    "content/americas/argentina/south-america-2026/santiago/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "santiago-chile--kholm-santa-lusiya",
+          "event": "park_and_viewpoint_visit",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 27,
+              "source_paragraph": 6,
+              "quote": "Santa Lucia - это и парк"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Парк, историческая точка и смотровая — один объект."
+        },
+        {
+          "id": "santiago-chile--central-post-office",
+          "event": "entered_post_office",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 27,
+              "source_paragraph": 11,
+              "quote": "Мы зашли в здание почты"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Конкретный внутренний осмотр старых почтовых столов, а не случайный фасад. Центральная площадь частью городского маршрута."
+        },
+        {
+          "id": "santiago-chile--kafedralnyy-sobor-santyago",
+          "event": "entered_cathedral",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 27,
+              "source_paragraph": 12,
+              "quote": "И конечно в кафедральный собор"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Фраза продолжает «зашли»; реальный внутренний осмотр."
+        },
+        {
+          "id": "santiago-chile--tserkov-svyatogo-frantsiska",
+          "event": "entered_church",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 27,
+              "source_paragraph": 13,
+              "quote": "Стены каменные, а все остальное дерево"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Самостоятельный рассказ об осмотре устройства церкви."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "santiago-chile",
+          "event": "self_guided_city_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 27,
+              "source_paragraph": 4,
+              "quote": "предоставленные сами себе"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Обзорная с гидом сорвалась, самостоятельная прогулка состоялась."
+        }
+      ]
+    },
+    "content/americas/argentina/south-america-2026/salta-purmamarca/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "salta",
+          "event": "arrival_car_rental",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 26,
+              "source_paragraph": 3,
+              "quote": "взяли машину напрокат"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "В этой главе прибытие и прокат; городская прогулка только позже."
+        },
+        {
+          "id": "purmamarca",
+          "event": "overnight_and_village_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 26,
+              "source_paragraph": 5,
+              "quote": "погуляли по городку"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Ночёвка, деревенская прогулка и местная еда. Неназванный отель и церковь на обложке не самостоятельные объекты."
+        }
+      ]
+    },
+    "content/americas/argentina/south-america-2026/tilcara-uquia/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "purmamarca--seven-colours-hill",
+          "event": "sunrise_viewpoint",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 25,
+              "source_paragraph": 1,
+              "quote": "Мы встали в 6:30 и в 7 уже были на горе"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Главная подробная история рассвета, не произвольная гора на заднем плане. Название прямо в текущем заголовке и подтверждено решением владельца."
+        },
+        {
+          "id": "tilcara--pukara-de-tilkara",
+          "event": "visited_archaeological_complex",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 25,
+              "source_paragraph": 7,
+              "quote": "Мы посетили Pucará de Tilcara"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Реконструированное поселение, кактусовый сад в составе комплекса; отдельный ботсад по каждой коллекции не создан."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "uquia-church",
+          "event": "entered_church",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 25,
+              "source_paragraph": 13,
+              "quote": "Iglesia San Francisco de Paula в Uquía"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Подробно описаны увиденные картины; фотографировать нельзя. Отсутствие фото не отменяет визит."
+        }
+      ]
+    },
+    "content/americas/argentina/south-america-2026/hornocal/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "humahuaca",
+          "event": "transfer_to_jeep",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 24,
+              "source_paragraph": 0,
+              "quote": "мы бросили машину, и нас на джипе"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Пересадка на джип; городской музейный осмотр не заявлен."
+        },
+        {
+          "id": "hornocal",
+          "event": "mountain_viewpoint",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 24,
+              "source_paragraph": 2,
+              "quote": "Перед нами - апогей сегодняшнего дня - Cerro Hornocal"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Цель поездки и подъём к обзорной точке; высота в заголовке владельца не подменяет описание маршрута."
+        }
+      ]
+    },
+    "content/americas/argentina/south-america-2026/cardones/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "salta--escoipe-gorge",
+          "event": "scenic_gorge_drive",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 23,
+              "source_paragraph": 1,
+              "quote": "Ущелье реки Escoipe"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Отдельный описанный природный участок пути с субтропиками и облаками."
+        },
+        {
+          "id": "salta--piedra-del-molino",
+          "event": "mountain_pass_stop",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 23,
+              "source_paragraph": 4,
+              "quote": "Мы наверху, Piedra del Molino"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Фактическая остановка на перевале, независимо от сдержанной оценки вида."
+        },
+        {
+          "id": "salta--tsentralnaya-ploshchad-salty",
+          "event": "evening_city_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 23,
+              "source_paragraph": 9,
+              "quote": "мы погуляли по центру Сальты"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Общая городская прогулка с колокольным звоном; точные имена соборов не угадываются."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "los-cardones",
+          "event": "visited_national_park",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 23,
+              "source_paragraph": 7,
+              "quote": "А дальше - национальный парк кактусов"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Природная цель дня; дорога инков часть описанного маршрута, а не пеший поход по всемирной сети Qhapaq Ñan."
+        }
+      ]
+    },
+    "content/americas/argentina/south-america-2026/salta-impressions/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "buenos-aires",
+          "event": "walk_during_airport_connection",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 22,
+              "source_paragraph": 8,
+              "quote": "мы просто вышли и пошли гулять по набережной"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Во время пересадки действительно вышли гулять, а не только аэропорт."
+        }
+      ]
+    },
+    "content/americas/argentina/south-america-2026/iguazu-argentina/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "iguazu-falls",
+          "event": "waterfall_and_trails_visit",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 21,
+              "source_paragraph": 3,
+              "quote": "Мы приехали в национальный парк с водопадами"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Посетили Macuco, Глотку Дьявола и верхний маршрут. Всё часть национального парка, не 275 отдельных точек."
+        }
+      ]
+    },
+    "content/americas/argentina/south-america-2026/iguazu-brazil/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "iguazu-falls--three-borders-viewpoint",
+          "event": "viewpoint_visit",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 20,
+              "source_paragraph": 10,
+              "quote": "попросили водителя завести нас в парк 3 стран"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Посетили точку в Аргентине; вид на Парагвай не въезд в него."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "iguazu-falls",
+          "event": "waterfall_panorama_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 20,
+              "source_paragraph": 7,
+              "quote": "Мы шли по тропинке 1.5 км"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Граница пройдена и панорамная прогулка состоялась; сомнения подготовки не отменяют визит."
+        }
+      ]
+    },
+    "content/americas/argentina/south-america-2026/buenos-aires/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "buenos-aires--metropolitan-cathedral",
+          "event": "entered_cathedral",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 19,
+              "source_attachment_path": "attachments.0.data.25.media.description",
+              "quote": "Тут мавзолей Хосе де Сан-Мартину –  освободителю Аргентины от Испании. Мне он чем-то усыпальницу Наполеона напомнил. Вокруг почетный караул и школьников приводят. Смотрите какие беленькие детки (сняла их сзади)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Самостоятельный рассказ в подписи о мавзолее, карауле и школьниках; собор и его гробница один комплекс."
+        },
+        {
+          "id": "buenos-aires--knizhnyy-magazin-v-teatre",
+          "event": "entered_bookshop",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 19,
+              "source_paragraph": 9,
+              "quote": "мы посетили книжный магазин в театре"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Реальное посещение. Имя магазина, не приведённое автором, не требуется для сохранения авторского объекта."
+        },
+        {
+          "id": "buenos-aires--muzey-dekorativnogo-iskusstva",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 19,
+              "source_paragraph": 10,
+              "quote": "Митин фаворит сегодня - Музей декоративного искусства"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Посетили все трое; Митин фаворит не значит одиночное посещение. Русские картины — часть коллекции."
+        },
+        {
+          "id": "buenos-aires--palermo-soho",
+          "event": "district_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 19,
+              "source_paragraph": 12,
+              "quote": "богемный район - Палермо Сохо"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Отдельная цель вечерней прогулки прямо названа автором."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "buenos-aires",
+          "event": "guided_city_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 19,
+              "source_paragraph": 5,
+              "quote": "Начали мы с ознакомительной бесплатной экскурсии"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Трёхчасовая обзорная и продолжение прогулки."
+        }
+      ]
+    },
+    "content/americas/argentina/south-america-2026/recoleta-mate/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "buenos-aires--kladbishche-rekoleta",
+          "event": "entered_cemetery",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 18,
+              "source_paragraph": 0,
+              "quote": "День начали на кладбище"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Были все трое, хотя только Митя получил удовольствие. Отрицательное впечатление родителей не отменяет визит."
+        },
+        {
+          "id": "buenos-aires--natsionalnyy-muzey-izyashchnykh-iskusstv-argentiny",
+          "event": "entered_gallery",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 18,
+              "source_paragraph": 3,
+              "quote": "А потом мы пошли в Нац. галерею"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Подробная оценка коллекции; все пятнадцать подписей прочитаны, биографические города художников не маршрут."
+        },
+        {
+          "id": "buenos-aires--muzey-mate",
+          "event": "guided_museum_and_tasting",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 18,
+              "source_paragraph": 8,
+              "quote": "Мы купили билет с туром и дегустацией"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Вчера лишь проходили мимо, сегодня состоялись тур и дегустация."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/americas/argentina/south-america-2026/teatro-colon/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "buenos-aires--teatr-kolon",
+          "event": "opera_performance",
+          "participants": [
+            "Леля"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 17,
+              "source_paragraph": 10,
+              "quote": "Я такое удовольствие получила"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "«Паяцы» и «Сельская честь» смотрела Леля одна. Сергей купил билет, но на оперу не пошёл. Ла Скала и Венская опера сравнения."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/americas/argentina/south-america-2026/san-telmo-la-boca/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "buenos-aires--san-telmo",
+          "event": "district_and_market_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 16,
+              "source_paragraph": 4,
+              "quote": "по воскресеньям большой \"антикварный рынок\""
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Рынок часть подробно описанного района; отдельная лавка для каждой вещи не добавлена."
+        },
+        {
+          "id": "buenos-aires--la-boka",
+          "event": "district_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 16,
+              "source_paragraph": 7,
+              "quote": "Следующий переезд был в Ла-Боку"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Цветные дома и уличный футбольный праздник; вход на стадион и просмотр матча не заявлены."
+        },
+        {
+          "id": "buenos-aires--puerto-madero",
+          "event": "district_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 16,
+              "source_paragraph": 11,
+              "quote": "погуляли по новому, современному району - Puerto Madero"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Самостоятельная описанная прогулка по новому району."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/americas/argentina/south-america-2026/valparaiso/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "valparaiso--arturo-prat-memorial",
+          "event": "square_and_memorial_visit",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 15,
+              "source_paragraph": 4,
+              "quote": "Начали с центральной площади и памятника Артуро Прату"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Подробный самостоятельный рассказ гида о герое и памятнике. Военная база и видимая подлодка не музейный вход."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "valparaiso",
+          "event": "guided_city_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 15,
+              "source_paragraph": 3,
+              "quote": "У нас была заказана бесплатная экскурсия"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Экскурсия состоялась, хотя первая оценка отрицательная. Уличное искусство общей городской историей, без каждой росписи отдельной точкой."
+        }
+      ]
+    },
+    "content/americas/argentina/south-america-2026/modern-chile/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "santiago-chile--muzey-dokolumbova-iskusstva",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 14,
+              "source_paragraph": 3,
+              "quote": "Музей преколумбовой цивилизации"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Посетили все трое; «мальчики дорвались» не исключает Лелю. Мадрид и Мехико сравнения."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "vina-del-mar",
+          "event": "visited_coastal_city",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 14,
+              "source_paragraph": 1,
+              "quote": "Впитав современности"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Переезд в современный приморский город и осмотр."
+        },
+        {
+          "id": "concon",
+          "event": "coastal_itinerary_mention",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 14,
+              "source_paragraph": 0,
+              "quote": "городок Конкон (Concón)"
+            }
+          ],
+          "report": "reviews/source-audit/trips/south-america-2026.json",
+          "note": "Сохранён прямо названный современный город маршрута; точный объём прогулки не уточнён."
+        }
+      ]
+    },
     "content/europe/spain/spain-2019/barcelona-arrival/index.md": {
       "source_review": "read",
       "visits": [],

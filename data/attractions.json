@@ -8176,7 +8176,9 @@
     "title": "Холм Санта-Лусия",
     "parent": "santiago-chile",
     "types": [
-      "mountain"
+      "mountain",
+      "park",
+      "viewpoint"
     ],
     "search_terms": [
       "гора",
@@ -8184,7 +8186,22 @@
       "холм",
       "холмы",
       "mountain",
-      "hill"
+      "hill",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck"
     ]
   },
   "santiago-chile--muzey-dokolumbova-iskusstva": {
@@ -13178,6 +13195,164 @@
     ],
     "search_terms": [
       "Монумент Революции",
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
+  },
+  "santiago-chile--central-post-office": {
+    "title": "Главпочтамт Сантьяго",
+    "parent": "santiago-chile",
+    "types": [
+      "civic_building"
+    ],
+    "search_terms": [
+      "Главпочтамт Сантьяго",
+      "общественное здание",
+      "административное здание",
+      "civic building"
+    ]
+  },
+  "purmamarca--seven-colours-hill": {
+    "title": "Гора семи цветов",
+    "parent": "purmamarca",
+    "types": [
+      "mountain"
+    ],
+    "search_terms": [
+      "Гора семи цветов",
+      "гора",
+      "горы",
+      "холм",
+      "холмы",
+      "mountain",
+      "hill"
+    ]
+  },
+  "salta--escoipe-gorge": {
+    "title": "Ущелье Эскойпе",
+    "parent": "salta",
+    "types": [
+      "canyon"
+    ],
+    "search_terms": [
+      "Ущелье Эскойпе",
+      "каньон",
+      "каньоны",
+      "ущелье",
+      "ущелья",
+      "canyon",
+      "gorge"
+    ]
+  },
+  "salta--piedra-del-molino": {
+    "title": "Перевал Piedra del Molino",
+    "parent": "salta",
+    "types": [
+      "viewpoint"
+    ],
+    "search_terms": [
+      "Перевал Piedra del Molino",
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck"
+    ]
+  },
+  "iguazu-falls--three-borders-viewpoint": {
+    "title": "Парк трёх стран — Аргентина",
+    "parent": "iguazu-falls",
+    "types": [
+      "viewpoint",
+      "park"
+    ],
+    "search_terms": [
+      "Парк трёх стран — Аргентина",
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ]
+  },
+  "buenos-aires--metropolitan-cathedral": {
+    "title": "Кафедральный собор Буэнос-Айреса",
+    "parent": "buenos-aires",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "Кафедральный собор Буэнос-Айреса",
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "buenos-aires--palermo-soho": {
+    "title": "Палермо-Сохо",
+    "parent": "buenos-aires",
+    "types": [
+      "district"
+    ],
+    "search_terms": [
+      "Палермо-Сохо",
+      "район",
+      "районы",
+      "квартал",
+      "кварталы",
+      "district",
+      "neighbourhood"
+    ]
+  },
+  "buenos-aires--puerto-madero": {
+    "title": "Пуэрто-Мадеро",
+    "parent": "buenos-aires",
+    "types": [
+      "district"
+    ],
+    "search_terms": [
+      "Пуэрто-Мадеро",
+      "район",
+      "районы",
+      "квартал",
+      "кварталы",
+      "district",
+      "neighbourhood"
+    ]
+  },
+  "valparaiso--arturo-prat-memorial": {
+    "title": "Памятник Артуро Прату",
+    "parent": "valparaiso",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "Памятник Артуро Прату",
       "памятник",
       "памятники",
       "монумент",

@@ -10,7 +10,7 @@ hero_image: "20260410_172451.jpg"
 date: "2026-04-10"
 auto_gallery: false
 draft: false
-attractions: ["santiago-chile--kholm-santa-lusiya","santiago-chile--kafedralnyy-sobor-santyago","santiago-chile--tserkov-svyatogo-frantsiska"]
+attractions: ["santiago-chile--kholm-santa-lusiya","santiago-chile--kafedralnyy-sobor-santyago","santiago-chile--tserkov-svyatogo-frantsiska","santiago-chile--central-post-office"]
 ---
 <p>Мы прилетели в Сантьяго, нас встретил владелец апартаментов в аэропорту. Мы разговорились. Он инженер, который помнит Альендо и коммунистов у власти и переживает что нынешний президент опять из левых. А ведь Чили это самая развитая экономика Южной Америки, с упором на "рыночную экономику". Он много лет прожил в Бразилии, дочка у него там и бывшая жена. Но дочка вся "делает карьеру" и вот "заморозила яйцеклетки за 3000$". По его мнению лучше бы на эти деньги сгоняла бы в Париж и привезла им внука! 😀<br>Короче одни проблемы по всему миру - левые правительства и молодежь не рожает 😀<br>Он же нам рассказал и про образование, и про интересную церковь, и где поужинать дешево и вкусно чилийскую кухню.</p>
 

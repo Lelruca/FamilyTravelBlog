@@ -86,10 +86,10 @@
       "title": "\"Полетели\"",
       "draft": false,
       "source_sha256_lf": "c658d29df885602da5ed3624e25934ba164b9963eb9c2ae2914a9703caeb701a",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
       "file": "content/americas/argentina/south-america-2026/buenos-aires/index.md",
@@ -97,11 +97,11 @@
       "trip_path": "content/americas/argentina/south-america-2026",
       "title": "\"Буэнос-Айрес срыв башки!!!!\"",
       "draft": false,
-      "source_sha256_lf": "701eeb0b04ac1cf6aad863d79e2c9f230f0ae99c1001fa5a4c72ed45be6d4363",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "7f500f1a604489357fb3400e9b9ce00d36aad411fe6deb993971cc9bce84dd29",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
       "file": "content/americas/argentina/south-america-2026/cardones/index.md",
@@ -109,11 +109,11 @@
       "trip_path": "content/americas/argentina/south-america-2026",
       "title": "\"Парк кактусов Лос-Кардонес и Сальта\"",
       "draft": false,
-      "source_sha256_lf": "902e233a2ac5095a09d8d91cfb0ac93be21ec572f692e8f0320b5db3075f760d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "019c7194f5cff025207f72197c0ad74062ad997265711707f6db3d25d55dbbd5",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
       "file": "content/americas/argentina/south-america-2026/hornocal/index.md",
@@ -122,10 +122,10 @@
       "title": "\"Орнокаль — 4800 м\"",
       "draft": false,
       "source_sha256_lf": "82304052ebf90dd77066e629b6298cd23c0734725750e22f43de85ff2e1e8fcb",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
       "file": "content/americas/argentina/south-america-2026/iguazu-argentina/index.md",
@@ -134,10 +134,10 @@
       "title": "\"Водопады Игуасу — Аргентина\"",
       "draft": false,
       "source_sha256_lf": "c4721382a85f206011f3424deec3caded7f2eaec470f91ecb1553fb471d764e5",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
       "file": "content/americas/argentina/south-america-2026/iguazu-brazil/index.md",
@@ -145,11 +145,11 @@
       "trip_path": "content/americas/argentina/south-america-2026",
       "title": "\"Водопады Игуасу — Бразилия\"",
       "draft": false,
-      "source_sha256_lf": "a81f59f15d3daf95c6ec26e5517fd7ffd3997f584a681a268a7a19c1153ab61e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "62013b2508d31021d0a8287961f3d0b362f8fabe11828c6f26b41eaf5badd198",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
       "file": "content/americas/argentina/south-america-2026/modern-chile/index.md",
@@ -158,10 +158,10 @@
       "title": "\"Современное Чили\"",
       "draft": false,
       "source_sha256_lf": "26cb133cbb8a0e907abe3acd8ba348cd3b51257926c32666f91dd757d64302fe",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
       "file": "content/americas/argentina/south-america-2026/recoleta-mate/index.md",
@@ -170,10 +170,10 @@
       "title": "\"Риколета и мате\"",
       "draft": false,
       "source_sha256_lf": "9857a188bf1d397cfc1e99ee671f2700a5c37b22fdd9a34de8b0c7ab1e731c19",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
       "file": "content/americas/argentina/south-america-2026/salta-impressions/index.md",
@@ -182,10 +182,10 @@
       "title": "\"Небо Южного полушария\"",
       "draft": false,
       "source_sha256_lf": "9897e765ef2c41e612009929774f01aa399ef6119f77561aad7fd83ecbb1ecd9",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
       "file": "content/americas/argentina/south-america-2026/salta-purmamarca/index.md",
@@ -194,10 +194,10 @@
       "title": "\"Пурмамарка\"",
       "draft": false,
       "source_sha256_lf": "8efa7bc0c35d816659ac777a1a597b61f8533383e26eeb3421db9d60a6a07dc2",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
       "file": "content/americas/argentina/south-america-2026/san-telmo-la-boca/index.md",
@@ -205,11 +205,11 @@
       "trip_path": "content/americas/argentina/south-america-2026",
       "title": "\"Сан-Тельмо, Ла-Бока и танго\"",
       "draft": false,
-      "source_sha256_lf": "dad0b568ad468487df268508f10bbd84841ca77e0934ab1e74180e18747563be",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "de7e527716bfef435ff41f159f58ec7b237657edf34a3dd76b5e1b0aed36176d",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
       "file": "content/americas/argentina/south-america-2026/santiago/index.md",
@@ -217,11 +217,11 @@
       "trip_path": "content/americas/argentina/south-america-2026",
       "title": "\"Чили, Сантьяго\"",
       "draft": false,
-      "source_sha256_lf": "a3da613172cddf3e5170526343683778f430cf11fc5749753ef749aeb5e1c807",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "0793632beab34ddd42b3e548701acb874f3eae52cc915edc7aae66ae08b8b2dc",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
       "file": "content/americas/argentina/south-america-2026/teatro-colon/index.md",
@@ -230,10 +230,10 @@
       "title": "\"Культурный вечер — театр Колон\"",
       "draft": false,
       "source_sha256_lf": "2c5a7ae7cb71a9d4c76ff292d8c425c8c1926acb5934ceb4613078c86731e48c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
       "file": "content/americas/argentina/south-america-2026/tilcara-uquia/index.md",
@@ -241,11 +241,11 @@
       "trip_path": "content/americas/argentina/south-america-2026",
       "title": "\"Гора семи цветов и древний город Тилькара\"",
       "draft": false,
-      "source_sha256_lf": "fc554bd5a5a589f0a67be4fc81515bdcfa1b68017dc449b79df511770e52d133",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "2c8d108379a2317d37b33743d7b6975811b9dcc193fda7f6e0c4f5a3a222ef56",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
       "file": "content/americas/argentina/south-america-2026/valparaiso/index.md",
@@ -253,11 +253,11 @@
       "trip_path": "content/americas/argentina/south-america-2026",
       "title": "\"Вальпараисо\"",
       "draft": false,
-      "source_sha256_lf": "05fa834e493a0714f153b8ac496c2bf959a80fae76dfbb5557b23a2a27047a8c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "7ddc774c758fc1334e5ef3b0762d2fd6f0235865bcb97e9e21652ce25ec144b7",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/south-america-2026.json"
     },
     {
       "file": "content/americas/canada/atlantic-canada-2014/conclusion/index.md",

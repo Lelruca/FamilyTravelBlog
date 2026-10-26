@@ -10,6 +10,7 @@ hero_image: "20260420_151954.jpg"
 date: "2026-04-20"
 auto_gallery: false
 draft: false
+attractions: ["valparaiso--arturo-prat-memorial"]
 ---
 <p>Мы на пути домой. Перелетели обратно в Чили, взяли машину и поехали на побережье Тихого океана (примерно 100 км) в город UNESCO Вальпараисо.</p>
 
