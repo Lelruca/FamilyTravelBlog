@@ -1334,10 +1334,10 @@
       "title": "\"Канкун: начало\"",
       "draft": false,
       "source_sha256_lf": "221e9a010a21b2a4fda83a42e592dbfaa3c494dc966cebc85b175e68acff9bd2",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
       "file": "content/americas/mexico/mexico-2025/caribbean/index.md",
@@ -1346,10 +1346,10 @@
       "title": "\"Карибское море\"",
       "draft": false,
       "source_sha256_lf": "c3345af0f9c56a0256708b4f8a2a4f09c05f13a1b10a2da66f3fe607be951650",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
       "file": "content/americas/mexico/mexico-2025/chapultepec-anthropology/index.md",
@@ -1358,10 +1358,10 @@
       "title": "\"Чапультепек и антропологический музей\"",
       "draft": false,
       "source_sha256_lf": "a4d3b540413f31b8fa69310093caf6c0e9bfa9b27c783c4b17f1363ce5a792f7",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
       "file": "content/americas/mexico/mexico-2025/chichen-itza/index.md",
@@ -1370,10 +1370,10 @@
       "title": "\"Чичен-Ица\"",
       "draft": false,
       "source_sha256_lf": "fb0542452d158cb36d1f816f717c17aae4f3d305ae6eae3553c219b1fa7a4fbc",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
       "file": "content/americas/mexico/mexico-2025/coyoacan-ballet/index.md",
@@ -1382,10 +1382,10 @@
       "title": "\"Койоакан и балет\"",
       "draft": false,
       "source_sha256_lf": "29668a3a305fd98119df725ced9d0ca6d6c7e6b255b6bbb1ccf8c576827cd2a6",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
       "file": "content/americas/mexico/mexico-2025/mangroves/index.md",
@@ -1394,10 +1394,10 @@
       "title": "\"Мангровый лес\"",
       "draft": false,
       "source_sha256_lf": "2484858045e15f623e6d7b1af867d9bb25608369ba84208d30fd30436c94bbeb",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
       "file": "content/americas/mexico/mexico-2025/merida-to-mexico-city/index.md",
@@ -1406,10 +1406,10 @@
       "title": "\"Кепка, зоопарк Мериды и перелет в Мехико\"",
       "draft": false,
       "source_sha256_lf": "cf73ce611f0595c0f9dc3eed24094fefbf430262286f6e9dd82e5c83bd81fd1f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
       "file": "content/americas/mexico/mexico-2025/merida/index.md",
@@ -1417,11 +1417,11 @@
       "trip_path": "content/americas/mexico/mexico-2025",
       "title": "\"Мерида\"",
       "draft": false,
-      "source_sha256_lf": "ed4b21ac241216b208d8e46733f693cfc9ba2af5afe01a0e9e0ed51caaf2b496",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "fb88e45ddf1eb3741fc8d63a89e06970b41de398fa4179ac6b0094b0a5d0dd7d",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
       "file": "content/americas/mexico/mexico-2025/mexico-city-center/index.md",
@@ -1430,10 +1430,10 @@
       "title": "\"Мехико: центр\"",
       "draft": false,
       "source_sha256_lf": "24662cce4b8e98c6d858af15854fd17448b639c19f9bd6de3a384aaafc030d4c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
       "file": "content/americas/mexico/mexico-2025/munal/index.md",
@@ -1442,10 +1442,10 @@
       "title": "\"Картины MUNAL\"",
       "draft": false,
       "source_sha256_lf": "e620073dd9b9226d59f6e2fc0ac209d6c2c5e99e350d0ae25dc88de68a22b34f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
       "file": "content/americas/mexico/mexico-2025/post-rivera-museum/index.md",
@@ -1453,11 +1453,11 @@
       "trip_path": "content/americas/mexico/mexico-2025",
       "title": "\"Почта, Ривера и музей искусства\"",
       "draft": false,
-      "source_sha256_lf": "2b2a6bc036abfb99fbe729bc06caaf956f64a46183787b2919a2c47ef9fbfc48",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "e7bb63a828f290a6e7ea4f9e85671679ce6093e5ad8281a0ac4896fdf478680f",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
       "file": "content/americas/mexico/mexico-2025/progreso/index.md",
@@ -1466,10 +1466,10 @@
       "title": "\"Прогресо и юкатанская кухня\"",
       "draft": false,
       "source_sha256_lf": "e775da4f62674d8eb6d5bb58353ecb4b798cb0467752a468f6b32f08f042bcda",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
       "file": "content/americas/mexico/mexico-2025/teotihuacan/index.md",
@@ -1478,10 +1478,10 @@
       "title": "\"Теотиуакан и канатные дороги\"",
       "draft": false,
       "source_sha256_lf": "7c501045cd97a8db3966ae407fefb737823f05a12a4400475a3bc9674bc076fa",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
       "file": "content/americas/mexico/mexico-2025/uxmal/index.md",
@@ -1490,10 +1490,10 @@
       "title": "\"Ушмаль\"",
       "draft": false,
       "source_sha256_lf": "c5711daab6fd342da80bd61d95c53724a8af520f77975c4ae1f8a52ed5fa4070",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/mexico-2025.json"
     },
     {
       "file": "content/americas/trinidad-tobago/trinidad-tobago-2018/port-of-spain/index.md",

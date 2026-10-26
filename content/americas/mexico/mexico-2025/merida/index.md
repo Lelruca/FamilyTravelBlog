@@ -10,7 +10,7 @@ hero_image: "20250211_103048.jpg"
 date: "2025-02-11"
 auto_gallery: false
 draft: false
-attractions: ["merida-mexico--sobor-svyatogo-ildefonso","merida-mexico--dom-montekho","merida-mexico--bulvar-montekho","merida-mexico--antropologicheskiy-muzey-meridy"]
+attractions: ["merida-mexico--sobor-svyatogo-ildefonso","merida-mexico--dom-montekho","merida-mexico--bulvar-montekho","merida-mexico--antropologicheskiy-muzey-meridy","merida-mexico--palacio-gobierno","merida-mexico--quinta-montes-molina","merida-mexico--cenote-noc-ac"]
 ---
 <p>В моем плане на Мериду было отведено с опаской 3 часа, с низкими ожиданиями. Но нам так понравился город!</p>
 

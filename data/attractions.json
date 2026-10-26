@@ -13109,5 +13109,81 @@
       "Casa Fontcuberta",
       "Fontcuberta"
     ]
+  },
+  "merida-mexico--palacio-gobierno": {
+    "title": "Дворец правительства Юкатана",
+    "parent": "merida-mexico",
+    "types": [
+      "palace",
+      "artwork"
+    ],
+    "search_terms": [
+      "Дворец правительства Юкатана",
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "искусство",
+      "фреска",
+      "фрески",
+      "роспись",
+      "artwork",
+      "mural"
+    ]
+  },
+  "merida-mexico--quinta-montes-molina": {
+    "title": "Quinta Montes Molina",
+    "parent": "merida-mexico",
+    "types": [
+      "historic_house",
+      "museum"
+    ],
+    "search_terms": [
+      "Quinta Montes Molina",
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "merida-mexico--cenote-noc-ac": {
+    "title": "Сенот Noc Ac",
+    "parent": "merida-mexico",
+    "types": [
+      "cenote"
+    ],
+    "search_terms": [
+      "Сенот Noc Ac",
+      "сенот",
+      "сеноты",
+      "cenote"
+    ]
+  },
+  "mexico-city--monumento-revolucion": {
+    "title": "Монумент Революции",
+    "parent": "mexico-city",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "Монумент Революции",
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
   }
 }

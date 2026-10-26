@@ -12921,6 +12921,674 @@
         }
       ]
     },
+    "content/americas/mexico/mexico-2025/cancun-start/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "cancun",
+          "event": "overnight_stay",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 67,
+              "source_paragraph": 5,
+              "quote": "заселились в центре Канкуна"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Фактическая ночёвка после задержки рейса; гостиница и аэропорт не самостоятельные достопримечательности."
+        }
+      ]
+    },
+    "content/americas/mexico/mexico-2025/chichen-itza/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "chichen-itza",
+          "event": "visited_archaeological_complex",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 66,
+              "source_paragraph": 12,
+              "quote": "Мы в этот раз гида не брали"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Самостоятельный осмотр комплекса, мать достигла цели поездки. Пирамида Кукулькана, стадион и барельефы — части одного комплекса, не отдельные точки."
+        }
+      ]
+    },
+    "content/americas/mexico/mexico-2025/progreso/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "progreso",
+          "event": "beach_stay_and_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 65,
+              "source_paragraph": 1,
+              "quote": "нашей базой стал курортный городок Progreso"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "База на Мексиканском заливе, прогулка и еда. Купание прямо подтверждено для Лели, не автоматически для всей группы."
+        }
+      ]
+    },
+    "content/americas/mexico/mexico-2025/uxmal/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "uxmal",
+          "event": "visited_archaeological_complex",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 64,
+              "source_paragraph": 9,
+              "quote": "Шикарный комплекс!"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Пирамида Волшебника, двор монашек, поле игры, дом голубей и дворец правителя охвачены одним археологическим комплексом."
+        }
+      ]
+    },
+    "content/americas/mexico/mexico-2025/mangroves/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": []
+    },
+    "content/americas/mexico/mexico-2025/merida/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "merida-mexico--sobor-svyatogo-ildefonso",
+          "event": "entered_during_organ_service",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 62,
+              "source_paragraph": 4,
+              "quote": "мы попали на службу с ораном"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Внутреннее посещение, не просто фасад."
+        },
+        {
+          "id": "merida-mexico--dom-montekho",
+          "event": "entered_house_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 62,
+              "source_paragraph": 6,
+              "quote": "Внутри уже не раз перестроено. Вход бесплатный."
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Дом и его коллекция одним объектом."
+        },
+        {
+          "id": "merida-mexico--palacio-gobierno",
+          "event": "entered_murals",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 62,
+              "source_paragraph": 8,
+              "quote": "Ну вошли, сфоткали пару"
+            },
+            {
+              "source_record_index": 62,
+              "source_attachment_path": "attachments.0.data.15.media.description",
+              "quote": "Palacio de Gobierno del Estado de Yucatán"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Большой самостоятельный рассказ об интерьерах и фресках; отдельные сюжеты фресок не места посещения."
+        },
+        {
+          "id": "merida-mexico--bulvar-montekho",
+          "event": "walked",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 62,
+              "source_paragraph": 9,
+              "quote": "направились к бульвару Монтего"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Прогулка описана; памятник основателям включён в её контекст."
+        },
+        {
+          "id": "merida-mexico--quinta-montes-molina",
+          "event": "guided_house_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 62,
+              "source_paragraph": 10,
+              "quote": "Нам рассказали и показали как жила семья"
+            },
+            {
+              "source_record_index": 62,
+              "source_attachment_path": "attachments.0.data.31.media.description",
+              "quote": "Quinta Montes Molina"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Отдельное посещение дома-музея; название в авторской подписи. Совет пропустить после визита не отменяет посещение."
+        },
+        {
+          "id": "merida-mexico--antropologicheskiy-muzey-meridy",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 62,
+              "source_paragraph": 11,
+              "quote": "мы посетили антропологический музей"
+            },
+            {
+              "source_record_index": 62,
+              "source_attachment_path": "attachments.0.data.34.media.description",
+              "quote": "Museo Regional de Antropología, Palacio Cantón"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Реально посетили, несмотря на отрицательную оценку."
+        },
+        {
+          "id": "merida-mexico--cenote-noc-ac",
+          "event": "swimming",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 62,
+              "source_paragraph": 17,
+              "quote": "поехали купаться"
+            },
+            {
+              "source_record_index": 62,
+              "source_attachment_path": "attachments.0.data.50.media.description",
+              "quote": "Cenote Noc Ac"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Назван автором в подписи к завершающему эпизоду; отдельный природный объект, не безымянный сенот предыдущего дня."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "merida-mexico",
+          "event": "city_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 62,
+              "source_paragraph": 0,
+              "quote": "нам так понравился город"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Городская прогулка значительно подробнее первоначального трёхчасового плана."
+        }
+      ]
+    },
+    "content/americas/mexico/mexico-2025/merida-to-mexico-city/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "merida-mexico--zoopark-meridy",
+          "event": "entered_zoo_name_unspecified",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 61,
+              "source_paragraph": 6,
+              "quote": "мы поехали в зоопарк"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Посещение несомненно, но имя зоопарка не названо; сохранён общий авторский объект, не подставлено Centenario."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/americas/mexico/mexico-2025/mexico-city-center/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "mexico-city--park-alameda-sentral",
+          "event": "park_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 60,
+              "source_paragraph": 1,
+              "quote": "идем пешком вдоль старейшего парка"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Прогулка у парка, внутренние отдельные скульптуры не новые объекты."
+        },
+        {
+          "id": "palacio-bellas-artes",
+          "event": "exterior_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 60,
+              "source_paragraph": 1,
+              "quote": "Огибаем музей изящных искусств"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "В этой главе наружный осмотр, не музейная экспозиция."
+        },
+        {
+          "id": "zocalo",
+          "event": "square_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 60,
+              "source_paragraph": 2,
+              "quote": "Центральная площадь"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Площадь и вид дворца; вход во дворец не заявлен и отдельной музейной точкой не добавлен."
+        },
+        {
+          "id": "mexico-city--kafedralnyy-sobor-mekhiko",
+          "event": "visited_entry_unspecified",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 60,
+              "source_paragraph": 3,
+              "quote": "Кафедральный собор Мехико"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Собор описан самостоятельно. Общая фраза о заходах в церкви не доказывает точный внутренний маршрут собора."
+        },
+        {
+          "id": "mexico-city--templo-mayor",
+          "event": "observed_ruins",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 60,
+              "source_paragraph": 4,
+              "quote": "руины древнего ацтекского города"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Видимые руины, билетный вход в раскопки и музей не заявлен."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/americas/mexico/mexico-2025/post-rivera-museum/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "palacio-postal",
+          "event": "entered_post_office",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 59,
+              "source_paragraph": 3,
+              "quote": "Роскошные интерьеры и до сих пор работает как почта"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Действующая почта с осмотром интерьеров."
+        },
+        {
+          "id": "mexico-city--freski-diego-rivery-v-ministerstve-obrazovaniya",
+          "event": "entered_mural_complex",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 59,
+              "source_paragraph": 4,
+              "quote": "Муралы Диего Риверы в Министерстве образования"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Посещение трёхэтажного комплекса фресок; не отдельная точка на каждую роспись."
+        },
+        {
+          "id": "munal",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 59,
+              "source_paragraph": 6,
+              "quote": "Нам все очень понравился музей"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Бывшее Министерство связи и художественный музей — одно здание; дополнительная глава продолжает тот же визит."
+        },
+        {
+          "id": "mexico-city--monumento-revolucion",
+          "event": "exterior_evening_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 59,
+              "source_paragraph": 9,
+              "quote": "мы пошли гулять к монументу революции"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Отдельная цель вечерней прогулки; подъём и музей внутри не заявлены."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/americas/mexico/mexico-2025/munal/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "munal",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 58,
+              "source_paragraph": 0,
+              "quote": "Хочу запомнить для себя картины"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Все 28 авторских подписей прочитаны. Картины, статуя Карла IV у входа и изображённые города не отдельные музейные точки."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/americas/mexico/mexico-2025/chapultepec-anthropology/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "chapultepec-castle",
+          "event": "entered_palace_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 57,
+              "source_paragraph": 1,
+              "quote": "начали с посещения дворца Чапультепек"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Реальное посещение дворца. Парк и памятник кадетам описаны в контексте комплекса, не отдельный музей."
+        },
+        {
+          "id": "museo-antropologia",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 57,
+              "source_paragraph": 3,
+              "quote": "зависли там на 5 (!!!) часов"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Леля, Сергей и Ома посетили; Ома читала подписи с переводчиком. Все 33 подписи прочитаны, Паленке и копии пирамид — экспонаты, не поездки к оригиналам."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/americas/mexico/mexico-2025/teotihuacan/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "mexico-city--muzey-sumayya",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_file": "media-manifests/mexico-2025-texts/soumaya.txt",
+              "source_sha256": "d1828067ace41bb30efc9f2c81993aac6fcefa9ea7615563721d5bf40e2fb5fd",
+              "quote": "А на обратном пути мы заехали в музей Сумайя."
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Дополнительный авторский текст прочитан целиком и сопоставлен с музейными подписями. Гуггенхайм Нью-Йорка только сравнение, картины не новые места."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "teotihuacan",
+          "event": "visited_archaeological_complex",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 56,
+              "source_attachment_path": "attachments.0.data.0.media.description",
+              "quote": "Пирамида Солнца"
+            },
+            {
+              "source_record_index": 56,
+              "source_attachment_path": "attachments.0.data.9.media.description",
+              "quote": "Я и пирамида 😀"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Самостоятельная археологическая серия и план предыдущего дня; пирамиды Солнца, Луны и Пернатого Змея один комплекс."
+        }
+      ]
+    },
+    "content/americas/mexico/mexico-2025/coyoacan-ballet/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "coyoacan",
+          "event": "district_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 55,
+              "source_paragraph": 1,
+              "quote": "Мы довольно долго гуляли по району"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Отдельная прогулка по району; фонтан с койотами часть её контекста."
+        },
+        {
+          "id": "mexico-city--tserkov-san-khuan-bautista",
+          "event": "entered_church",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 55,
+              "source_paragraph": 0,
+              "quote": "Очень красиво внутри"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Внутреннее посещение прямо подтверждено."
+        },
+        {
+          "id": "mexico-city--dom-muzey-trotskogo",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 55,
+              "source_paragraph": 1,
+              "quote": "в музей Троцкого зашли"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Вошли, осмотрели экспозицию и могилу; выставка Ленина не другое учреждение."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/americas/mexico/mexico-2025/caribbean/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": [
+        {
+          "id": "cancun",
+          "event": "beach_and_swimming",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Ома"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 54,
+              "source_paragraph": 0,
+              "quote": "Быть в Мексике и не окунуться в Карибском море невозможно"
+            }
+          ],
+          "report": "reviews/source-audit/trips/mexico-2025.json",
+          "note": "Финальный пляжный день. Леля явно описывает собственное купание; точный пляж не угадан."
+        }
+      ]
+    },
     "content/americas/usa/minneapolis-2022/minneapolis/index.md": {
       "source_review": "read",
       "visits": [
