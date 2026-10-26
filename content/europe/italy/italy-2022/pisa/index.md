@@ -10,7 +10,7 @@ hero_image: "20220831_135226.jpg"
 date: "2022-08-31"
 auto_gallery: false
 draft: false
-attractions: ["pisa--pizanskiy-sobor","pisa--pizanskaya-bashnya"]
+attractions: ["pisa--pizanskiy-sobor","pisa--pizanskaya-bashnya","pisa--pizanskiy-baptisteriy"]
 ---
 <p>Пиза<br>Вот чем хорош "смешанный отдых". С утра небо хмурилось и даже накрапывало. Мы ни капли не расстроились и поехали в Пизу. Всего 30  минут :)<br>И очень нам там понравилось! А приехали уже солнышко и можно купаться!</p>
 

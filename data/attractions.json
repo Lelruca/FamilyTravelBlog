@@ -12462,5 +12462,728 @@
       "базилики",
       "church"
     ]
+  },
+  "florence--bazilika-san-lorentso": {
+    "title": "Базилика Сан-Лоренцо",
+    "parent": "florence",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "florence--bazilika-san-miniato-al-monte": {
+    "title": "Базилика Сан-Миниато-аль-Монте",
+    "parent": "florence",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "gijon--bazilika-svyatogo-serdtsa": {
+    "title": "Базилика Святого Сердца",
+    "parent": "gijon",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "kevelaer--bazilika-svyatoy-marii": {
+    "title": "Базилика Святой Марии",
+    "parent": "kevelaer",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "leon--bazilika-svyatogo-isidora": {
+    "title": "Базилика Святого Исидора",
+    "parent": "leon",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "lisbon--tserkov-san-domingush": {
+    "title": "Церковь Сан-Домингуш",
+    "parent": "lisbon",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "lisbon--tserkov-svyatogo-rokha": {
+    "title": "Церковь Святого Роха",
+    "parent": "lisbon",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "lucca--bazilika-san-frediano": {
+    "title": "Базилика Сан-Фредиано",
+    "parent": "lucca",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "milan--santa-mariya-delle-gratsie": {
+    "title": "Санта-Мария-делле-Грацие",
+    "parent": "milan",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "porto--tserkov-klerigush": {
+    "title": "Церковь Клеригуш",
+    "parent": "porto",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "porto--tserkov-svyatogo-frantsiska": {
+    "title": "Церковь Святого Франциска",
+    "parent": "porto",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "porto--tserkov-svyatogo-ildefonso": {
+    "title": "Церковь Святого Ильдефонсо",
+    "parent": "porto",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "prague--bazilika-svyatogo-georgiya": {
+    "title": "Базилика Святого Георгия",
+    "parent": "prague",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "reims--bazilika-sen-remi": {
+    "title": "Базилика Сен-Реми",
+    "parent": "reims",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "rome--bazilika-santa-prassede": {
+    "title": "Базилика Санта-Прасседе",
+    "parent": "rome",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "rome--lateranskaya-bazilika": {
+    "title": "Латеранская базилика",
+    "parent": "rome",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "rome--san-petro-in-vinkoli": {
+    "title": "Сан-Пьетро-ин-Винколи",
+    "parent": "rome",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "rome--santa-kroche-in-dzheruzalemme": {
+    "title": "Санта-Кроче-ин-Джерузалемме",
+    "parent": "rome",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "rouen--tserkov-abbatstva-sent-uan": {
+    "title": "Церковь аббатства Сент-Уан",
+    "parent": "rouen",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "saint-etienne-du-mont": {
+    "title": "Сент-Этьен-дю-Мон",
+    "parent": "paris",
+    "place": "saint-etienne-du-mont",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "saint-severin": {
+    "title": "Сен-Северин",
+    "parent": "paris",
+    "place": "saint-severin",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "sainte-anne-de-beaupre--bazilika-sent-ann-de-bopre": {
+    "title": "Базилика Сент-Анн-де-Бопре",
+    "parent": "sainte-anne-de-beaupre",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "sainte-clotilde": {
+    "title": "Базилика Святой Клотильды",
+    "parent": "paris",
+    "place": "sainte-clotilde",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "santiago-chile--tserkov-svyatogo-frantsiska": {
+    "title": "Церковь Святого Франциска",
+    "parent": "santiago-chile",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "temple-church": {
+    "title": "Церковь Темпла",
+    "parent": "london",
+    "place": "temple-church",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "teruel--tserkov-svyatogo-petra": {
+    "title": "Церковь Святого Петра",
+    "parent": "teruel",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "toledo--tserkov-santo-tome": {
+    "title": "Церковь Санто-Томе",
+    "parent": "toledo",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "lyon--notre-dame-de-fourviere": {
+    "title": "Базилика Нотр-Дам-де-Фурвьер",
+    "parent": "lyon",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "Fourvière",
+      "Fourviere",
+      "Фурвьер"
+    ]
+  },
+  "bruges--holy-blood-basilica": {
+    "title": "Базилика Святой Крови",
+    "parent": "bruges",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "Basilica of the Holy Blood",
+      "Святой Крови"
+    ]
+  },
+  "viana-do-castelo--misericordia": {
+    "title": "Дом милосердия и церковь Мизерикордия",
+    "parent": "viana-do-castelo",
+    "types": [
+      "historic_building",
+      "church"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "Misericórdia",
+      "милосердие"
+    ]
+  },
+  "porto--carmo-carmelitas": {
+    "title": "Церкви Карму и Кармелиташ",
+    "parent": "porto",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "Carmo",
+      "Carmelitas"
+    ]
+  },
+  "porto--capela-das-almas": {
+    "title": "Часовня Алмаш",
+    "parent": "porto",
+    "types": [
+      "chapel"
+    ],
+    "search_terms": [
+      "часовня",
+      "часовни",
+      "капелла",
+      "капеллы",
+      "храм",
+      "chapel",
+      "Capela das Almas",
+      "Алмаш"
+    ]
+  },
+  "lucca--san-michele-in-foro": {
+    "title": "Сан-Микеле-ин-Форо",
+    "parent": "lucca",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "siena--san-domenico": {
+    "title": "Базилика Сан-Доменико — Святая Екатерина",
+    "parent": "siena",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "identification_source": "https://santacaterina.siena.it/basilica-di-san-domenico/"
+  },
+  "lucca--san-martino-cathedral": {
+    "title": "Собор Святого Мартина в Лукке",
+    "parent": "lucca",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "condom--sobor-kondoma": {
+    "title": "Собор Кондома",
+    "parent": "condom",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "florence--florentiyskiy-baptisteriy": {
+    "title": "Флорентийский баптистерий",
+    "parent": "florence",
+    "types": [
+      "temple"
+    ],
+    "search_terms": [
+      "храм",
+      "храмы",
+      "храма",
+      "храмов",
+      "святилище",
+      "temple"
+    ]
+  },
+  "pisa--pizanskiy-baptisteriy": {
+    "title": "Пизанский баптистерий",
+    "parent": "pisa",
+    "types": [
+      "temple"
+    ],
+    "search_terms": [
+      "храм",
+      "храмы",
+      "храма",
+      "храмов",
+      "святилище",
+      "temple"
+    ]
+  },
+  "mexico-city--tserkov-san-khuan-bautista": {
+    "title": "Церковь Сан-Хуан-Баутиста",
+    "parent": "mexico-city",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "oviedo--bazilika-san-khuan-el-real": {
+    "title": "Базилика Сан-Хуан-эль-Реаль",
+    "parent": "oviedo",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "lucca--santi-giovanni-reparata": {
+    "title": "Санти-Джованни-э-Репарата",
+    "parent": "lucca",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
   }
 }

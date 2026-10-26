@@ -5,6 +5,7 @@ layout: "photo-story"
 weight: 40
 city: "Purmamarca, Tilcara, Uquía"
 places:
+  - uquia-church
   - purmamarca
   - tilcara
 hero_image: "IMG_3598.jpg"

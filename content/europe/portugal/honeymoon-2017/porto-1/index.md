@@ -10,7 +10,7 @@ compact_hotel_address: true
 places:
   - porto
 hero_image: "20170708_153418.jpg"
-attractions: ["porto--dvorets-birzhi"]
+attractions: ["porto--dvorets-birzhi","porto--tserkov-svyatogo-frantsiska"]
 ---
 
 <p>Сегодня мы расстались со своим домиком-машинкой. Кстати я боялась, что будет трудно переезжать каждый день - нисколько! Как-то легко это прошло и даже где ночевали по 2 ночи как-то давило, хотелось двигаться вперед.</p>

@@ -9,7 +9,7 @@ auto_gallery: false
 places:
   - porto
 hero_image: "IMG_0880.JPG"
-attractions: ["porto--pogreba-calem","porto--vokzal-san-bentu","porto--lello-bookshop","porto--muzey-soaresha-dush-reysha","porto--sady-khrustalnogo-dvortsa"]
+attractions: ["porto--pogreba-calem","porto--vokzal-san-bentu","porto--lello-bookshop","porto--muzey-soaresha-dush-reysha","porto--sady-khrustalnogo-dvortsa","porto--tserkov-klerigush","porto--carmo-carmelitas"]
 ---
 
 <p>Сегодняшний день мы начали с портвейна, вернее его поисков. Кажется все очень просто. С нашего берега видно все винные дома, с крупными, святящимися надписями. Но нам в гостинице сказали, что идти в те что сразу за мостом пошло, мол толпы народу и атмосфера не та. А вот если уйти далеко, да залезть в гору повыше, то там уж...</p>

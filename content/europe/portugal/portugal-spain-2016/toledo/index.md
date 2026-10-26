@@ -10,7 +10,7 @@ places:
 hero_image: "20160830_103534.jpg"
 date: 2016-08-30
 auto_gallery: false
-attractions: ["toledo--sinagoga-del-transito","toledo-cathedral"]
+attractions: ["toledo--sinagoga-del-transito","toledo-cathedral","toledo--tserkov-santo-tome"]
 ---
 Ну вот опять написание отчета у меня прервалось. Но зато остались короткие сообщения в Вайбере, которые я посылала по ходу поездки близким. Они и фотографии позволяют оживить в памяти не только где были, но и какие эмоции нас разделяли в тот момент ;-)
 

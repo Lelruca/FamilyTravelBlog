@@ -3741,6 +3741,78 @@
       "data/attractions.json#santa-maria-del-mar"
     ]
   },
+  "saint-etienne-du-mont": {
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#saint-etienne-du-mont"
+    ]
+  },
+  "saint-severin": {
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#saint-severin"
+    ]
+  },
+  "sainte-clotilde": {
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#sainte-clotilde"
+    ]
+  },
+  "temple-church": {
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ],
+    "classification_sources": [
+      "data/attractions.json#temple-church"
+    ]
+  },
   "arnhem-war-museum": {
     "types": [
       "museum"
