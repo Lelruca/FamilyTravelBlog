@@ -13360,5 +13360,40 @@
       "monument",
       "memorial"
     ]
+  },
+  "frankfurt--oper-frankfurt": {
+    "title": "Франкфуртская опера",
+    "parent": "frankfurt",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "Франкфуртская опера",
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ]
+  },
+  "rotterdam--erasmus-university": {
+    "title": "Университет Эразма Роттердамского",
+    "parent": "rotterdam",
+    "types": [
+      "university"
+    ],
+    "search_terms": [
+      "Университет Эразма Роттердамского",
+      "университет",
+      "университеты",
+      "университета",
+      "колледж",
+      "university",
+      "college"
+    ]
   }
 }

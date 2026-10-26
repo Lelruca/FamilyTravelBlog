@@ -4900,6 +4900,671 @@
       ],
       "place_visits": []
     },
+    "content/europe/germany/europe-autumn-2023/barcelona-eixample/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "barcelona--eshampl",
+          "event": "district_walk",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 110,
+              "source_paragraph": 1,
+              "quote": "район Эшампль"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Прогулка родителей по району; Наташа присоединилась вечером. Её яхтенная прогулка не описана как отдельная достопримечательность."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/europe-autumn-2023/maritime-museum/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "museu-maritim-barcelona",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 109,
+              "source_paragraph": 2,
+              "quote": "Начали с морского музея"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Наташа после утреннего кофе ушла по делам, музей посетили родители. Галера и модели — экспонаты."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/europe-autumn-2023/mnac/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "mnac",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 108,
+              "source_paragraph": 1,
+              "quote": "Музей искусства Каталонии нас потряс"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Опоздание по расписанию не отменило вход. Все 26 подписей прочитаны; перенесённые фрески не поездки к исходным церквям."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/europe-autumn-2023/liceu-sagrada/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "liceu",
+          "event": "opera_performance",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Наташа"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 107,
+              "source_paragraph": 0,
+              "quote": "Слушали \"Евгения Онегина\" в театре Liceu"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Наташа присутствовала: дополнительный полный отзыв Фигаро прямо говорит «С Наташей (в Барселоне) мы сидели»."
+        },
+        {
+          "id": "sagrada-familia",
+          "event": "entered_basilica",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 107,
+              "source_paragraph": 3,
+              "quote": "Меня в Саграде впечатляет СВЕТ"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Реальный повторный визит внутри, не только покупка билета. Точный состав группы внутри не расширен по одной покупке Наташи."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/europe-autumn-2023/gothic-quarter-beach/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "barri-gotic",
+          "event": "district_walk",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 105,
+              "source_paragraph": 0,
+              "quote": "есть готический квартал"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Уличная прогулка с горгульями; отдельный собор не добавлен по краткому общему упоминанию."
+        },
+        {
+          "id": "poblenou-beach",
+          "event": "beach_and_swimming",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 105,
+              "source_paragraph": 1,
+              "quote": "Потом мы ездили купаться"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Реальное купание и обратная прогулка по променаду."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/europe-autumn-2023/sant-pau/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "sant-pau",
+          "event": "entered_historic_hospital",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 104,
+              "source_paragraph": 1,
+              "quote": "Hospital Sant Pau"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Описанный осмотр модернистского госпиталя, а не первоначальный госпиталь 1401 года."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/europe-autumn-2023/miro-montjuic/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "fundacio-miro",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 103,
+              "source_paragraph": 0,
+              "quote": "А послали нас в музей Миро"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Реальный осмотр коллекции; Кандинский сравнение."
+        },
+        {
+          "id": "montjuic-castle",
+          "event": "cable_car_and_fort_visit",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 103,
+              "source_paragraph": 1,
+              "quote": "Наверху оказался огромный форт"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Подъём на канатке состоялся, форт осмотрен для прогулки. Не весь парк каждой отдельной точкой."
+        },
+        {
+          "id": "palau-guell",
+          "event": "entered_palace",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 103,
+              "source_paragraph": 2,
+              "quote": "Повела Серегу в дом Гуэля"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Этот раз с Сергеем. «Нам с мамой понравился» — память предыдущего посещения, Ома не участник нынешнего."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/europe-autumn-2023/natasha-school/index.md": {
+      "source_review": "read",
+      "visits": [],
+      "place_visits": []
+    },
+    "content/europe/germany/europe-autumn-2023/mitya-explores/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "mannheim-palace",
+          "event": "university_courtyard",
+          "participants": [
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 115,
+              "source_attachment_path": "attachments.0.data.9.media.description",
+              "quote": "Mannheim University"
+            },
+            {
+              "photo": "mitya-explores/facebook_762175055709032.jpg",
+              "observation": "Дворцовый двор университета, представитель самостоятельной серии Манхайма."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Двор подтверждён; музейные залы по наружному фото не приписаны."
+        },
+        {
+          "id": "heidelberg-castle",
+          "event": "castle_story_block",
+          "participants": [
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 113,
+              "source_paragraph": 0,
+              "quote": "Heidelberg"
+            },
+            {
+              "photo": "mitya-explores/facebook_762181832375021.jpg",
+              "observation": "Модель Гейдельбергского замка внутри самостоятельного большого замкового блока."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Сохранён основной замковый фотоэпизод и музейный осмотр Мити; прочие здания не атрибутировались."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "mannheim",
+          "event": "student_city_exploration",
+          "participants": [
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 115,
+              "source_paragraph": 0,
+              "quote": "Mannheim, Germany"
+            },
+            {
+              "source_record_index": 115,
+              "source_attachment_path": "attachments.0.data.9.media.description",
+              "quote": "Mannheim University"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Самостоятельный августовский эпизод Мити, до приезда родителей."
+        },
+        {
+          "id": "oggersheim",
+          "event": "accidental_stop_and_walk",
+          "participants": [
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 114,
+              "source_paragraph": 1,
+              "quote": "ended up in a small town called Oggersheim"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Митя проехал станцию Лорш и реально гулял в Оггерсхайме. Лорш в этом эпизоде только несостоявшееся направление."
+        }
+      ]
+    },
+    "content/europe/germany/europe-autumn-2023/stuttgart/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "porsche-museum",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 101,
+              "source_paragraph": 3,
+              "quote": "Поэтому этот раз у нас Porsche"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Посетили родители и Митя, машины и VR не отдельные места."
+        },
+        {
+          "id": "wilhelma",
+          "event": "visited_zoo_botanical_complex",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 101,
+              "source_paragraph": 6,
+              "quote": "не смогли пропустить зоопарк Штутгарта"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Отец и сын явно инициаторы; автор описывает собственное впечатление, не исключена из группы."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/europe-autumn-2023/mitya-birthday/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "frankfurt--oper-frankfurt",
+          "event": "opera_performance",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_file": "media-manifests/europe-autumn-2023.json",
+              "source_sha256": "87ae1fd0ee99a4143f148618e34269f2fbc9b90d10e285547843634caca7a5c1",
+              "source_json_path": "owner_text_changes.3.paragraphs.4",
+              "quote": "Мы сфотографировались у здания старой оперы, но представления сейчас в основном в новом здании. Зал простой, современный и удобный. Такая немецкая практичность без красоты 🙂 Хотя фойе и буфет интересные."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "«Женитьба Фигаро» была в новом здании. Старую оперу фотографировали снаружи, не подменять ею площадку спектакля."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/europe-autumn-2023/frankfurt/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "staedel",
+          "event": "entered_gallery",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 99,
+              "source_paragraph": 1,
+              "quote": "С удовольствием посетили музей живописи - Städel Museum"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Музейный визит семьи, подписи прочитаны; недовольство современным этажом не отменяет визит."
+        },
+        {
+          "id": "frankfurt-cathedral",
+          "event": "entered_cathedral",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 99,
+              "source_paragraph": 2,
+              "quote": "Внутри тоже неожиданно аскетично"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Внутренний осмотр прямо описан."
+        },
+        {
+          "id": "frankfurt--istoricheskiy-muzey-frankfurta",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 99,
+              "source_paragraph": 3,
+              "quote": "Потом зашли в музей истории города"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Отрицательная оценка не означает пропущенный музей."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/europe-autumn-2023/lorsch/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "lorsch-abbey",
+          "event": "visited_ruins",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 98,
+              "source_paragraph": 1,
+              "quote": "Знаменит развалинами монастыря Лорш"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Родители осматривали, Митя в это время в университете. Ратуша, фонтан табака и неназванная церковь краткие детали общей прогулки."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/europe-autumn-2023/mannheim/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "mannheim-palace",
+          "event": "entered_university",
+          "participants": [
+            "Леля",
+            "Сергей"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 97,
+              "source_paragraph": 1,
+              "quote": "Мы спокойно зашли внутрь. И даже в аудиторию заглянули"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Вход в университет подтверждён, но музей центральных залов только описан как существующий — не приписан автоматически. Бауманка и Лефортовский дворец сравнения."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/europe-autumn-2023/hague-rotterdam/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "mauritshuis",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 96,
+              "source_paragraph": 4,
+              "quote": "Mauritshuis - восхитительная коллекция"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Реальный музейный визит."
+        },
+        {
+          "id": "escher-museum",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 96,
+              "source_paragraph": 5,
+              "quote": "А потом музей Эшера"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Второй самостоятельный музей дня."
+        },
+        {
+          "id": "rotterdam--erasmus-university",
+          "event": "campus_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 96,
+              "source_paragraph": 9,
+              "quote": "Вот и погуляли"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Прошлись по кампусу, персональную экскурсию не предоставили. Три школы Испании здесь только пересказ подготовки Мити без названий."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "the-hague",
+          "event": "guided_city_walk",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 96,
+              "source_paragraph": 2,
+              "quote": "Мы удачно начали с обзорной экскурсии"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Двухчасовая обзорная состоялась."
+        }
+      ]
+    },
+    "content/europe/germany/europe-autumn-2023/amsterdam/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "rijksmuseum",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 95,
+              "source_paragraph": 0,
+              "quote": "мы весь день посвятили искусству"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Два музея явно названы в полном рассказе, не только куплены билеты."
+        },
+        {
+          "id": "van-gogh-museum",
+          "event": "entered_museum",
+          "participants": [
+            "Леля",
+            "Сергей",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_record_index": 95,
+              "source_paragraph": 1,
+              "quote": "Серега получил удовольствие от Ван Гога"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Посетили все трое, не один Сергей."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/europe-autumn-2023/delft/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "royal-delft",
+          "event": "entered_factory_museum",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 94,
+              "source_paragraph": 0,
+              "quote": "Музей и фабрика королевского фарфора в Дельфте"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Производство и музей один комплекс, копия «Ночного дозора» не отдельный Рейксмюсеум."
+        }
+      ],
+      "place_visits": []
+    },
+    "content/europe/germany/europe-autumn-2023/kleve-kevelaer/index.md": {
+      "source_review": "read",
+      "visits": [
+        {
+          "id": "kevelaer--bazilika-svyatoy-marii",
+          "event": "entered_church",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 93,
+              "source_paragraph": 2,
+              "quote": "Поэтому внутрь мы вошли"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Сохранён основной церковный визит; точный исторический век в рассказе не использован для идентификации других церквей."
+        }
+      ],
+      "place_visits": [
+        {
+          "id": "kleve",
+          "event": "family_stay",
+          "participants": null,
+          "evidence": [
+            {
+              "source_record_index": 93,
+              "source_paragraph": 2,
+              "quote": "Гостили мы в небольшом городе Kleve"
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-autumn-2023.json",
+          "note": "Фактическое пребывание у родных, не новый список фасадов."
+        }
+      ]
+    },
     "content/europe/france/europe-friends-2019/planning/index.md": {
       "source_review": "read",
       "visits": [],

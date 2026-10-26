@@ -3374,10 +3374,10 @@
       "title": "\"Амстердам\"",
       "draft": false,
       "source_sha256_lf": "b351279f38a26f8e7791b1884e21b7bdae154c295fccdb95ddcb54d94861afa5",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/barcelona-eixample/index.md",
@@ -3386,10 +3386,10 @@
       "title": "\"Барселона: Эшампль\"",
       "draft": false,
       "source_sha256_lf": "31ac18d6a1e0fa5b5332c0c8624f24d7c68a785869325cf28ee4ff7152eae07b",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/delft/index.md",
@@ -3398,10 +3398,10 @@
       "title": "\"Дельфт: королевский фарфор\"",
       "draft": false,
       "source_sha256_lf": "aa129066ae09340a3e02b4aa00652ab1a20ad7702f1d05bb9003d396f079b626",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/frankfurt/index.md",
@@ -3410,10 +3410,10 @@
       "title": "\"Франкфурт\"",
       "draft": false,
       "source_sha256_lf": "7c7d84dbd90010e8508ed826fa16ac98684253715992a102a38403c70b89ea5e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/gothic-quarter-beach/index.md",
@@ -3422,10 +3422,10 @@
       "title": "\"Готический квартал и пляж\"",
       "draft": false,
       "source_sha256_lf": "adc936d9610915ae2af51851c60ac3892cd8c71cbd587e7706ea8a492037fde1",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/hague-rotterdam/index.md",
@@ -3433,11 +3433,11 @@
       "trip_path": "content/europe/germany/europe-autumn-2023",
       "title": "\"Гаага и Роттердам\"",
       "draft": false,
-      "source_sha256_lf": "626d70b73703732cb1fd000f9202451f97ba330e376b3b9fadc600c621924624",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "b3434d3da8f044f70d725b062a8000f4bcdeba29be72faa7f8a55f83fed6a1ff",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/kleve-kevelaer/index.md",
@@ -3446,10 +3446,10 @@
       "title": "\"Клеве и Кевелар\"",
       "draft": false,
       "source_sha256_lf": "b8298861617cdbbb2f871e16a298f30f618a7c5abd373b354917f5f9f1817e7d",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/liceu-sagrada/index.md",
@@ -3458,10 +3458,10 @@
       "title": "\"Опера в Лисеу и Саграда Фамилия\"",
       "draft": false,
       "source_sha256_lf": "7d54ada1b6138d7604914bfa020437b11de13ec7f8a46531af711439016dd21c",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/lorsch/index.md",
@@ -3470,10 +3470,10 @@
       "title": "\"Лорш\"",
       "draft": false,
       "source_sha256_lf": "d2d5ae4bd6aac0a145375823568f0da6c7dd383fb062de4902dc6c53149ebd44",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/mannheim/index.md",
@@ -3482,10 +3482,10 @@
       "title": "\"Mannheim\"",
       "draft": false,
       "source_sha256_lf": "d1398b5a1d0f65bddf8354cdbf420c54ac89d828d20c047bf3ef41779359b5d9",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/maritime-museum/index.md",
@@ -3494,10 +3494,10 @@
       "title": "\"Набережная и морской музей\"",
       "draft": false,
       "source_sha256_lf": "b233af02eead8a82404b44c1e11064297b49b2d958a1b23a716a7483ae4e618e",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/miro-montjuic/index.md",
@@ -3506,10 +3506,10 @@
       "title": "\"Миро, Монжуик и дворец Гуэля\"",
       "draft": false,
       "source_sha256_lf": "8f85e51beeed57cd62522daafba289074a1df8eb4252c3c7f5223c4f3c06be95",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/mitya-birthday/index.md",
@@ -3517,11 +3517,11 @@
       "trip_path": "content/europe/germany/europe-autumn-2023",
       "title": "\"Митин день рождения: соревнования и опера\"",
       "draft": false,
-      "source_sha256_lf": "c404df73ed49b9b3a412d0bbf97a8ea4fb9e37a16d8450994022841b1d3df0da",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "source_sha256_lf": "24868a0ae7d040dbee9c4bd610a2ea41bb6d3e35e6cc30befa6687e963fd1be8",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/mitya-explores/index.md",
@@ -3530,10 +3530,10 @@
       "title": "\"Митя изучает города вокруг него\"",
       "draft": false,
       "source_sha256_lf": "0bb894bc011c5dbe05fc88c988c87abba6e6dc538d52c8412f6c097e725d1324",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "scoped_story_block_review",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/mnac/index.md",
@@ -3542,10 +3542,10 @@
       "title": "\"Музей искусства Каталонии\"",
       "draft": false,
       "source_sha256_lf": "72601eaec6cc7c17ce3d400a58639f53c23b9297c26161ef421fe6f59aa98228",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/natasha-school/index.md",
@@ -3554,10 +3554,10 @@
       "title": "\"День с Наташей\"",
       "draft": false,
       "source_sha256_lf": "f1446f00d0ca7307716c5bbcf8c2f65d3a8af6dac0ccc6bdeedfabe786922b3f",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/sant-pau/index.md",
@@ -3566,10 +3566,10 @@
       "title": "\"Госпиталь Сант-Пау\"",
       "draft": false,
       "source_sha256_lf": "926defa5d48ba527330ecb1ea80afbb1bfbd12216017ec107604e9d7ec3a70a9",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/europe-autumn-2023/stuttgart/index.md",
@@ -3578,10 +3578,10 @@
       "title": "\"Штутгарт: музей Porsche и зоопарк\"",
       "draft": false,
       "source_sha256_lf": "71e5589bd38e7fb5b5cf35e095c8052e03d0cc3e954272b10a5089fc2bfbd4eb",
-      "text_status": "unread",
-      "photos_status": "unreviewed",
+      "text_status": "read",
+      "photos_status": "not_required_for_text_decisions",
       "reconciliation_status": "pending",
-      "report": null
+      "report": "reviews/source-audit/trips/europe-autumn-2023.json"
     },
     {
       "file": "content/europe/germany/germany-2011/alsace/index.md",
