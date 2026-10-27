@@ -8,10 +8,11 @@ continent: "Europe"
 country: "Italy"
 geo_countries:
   - germany
+  - france
   - netherlands
   - italy
   - vatican
-cover_where: "Германия, Италия, Ватикан"
+cover_where: "Германия, Франция, Италия, Ватикан"
 cover_title: "Римские каникулы"
 cover_subtitle: "Девичник-1"
 cover_when: "2015–2016"
