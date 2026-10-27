@@ -45,10 +45,16 @@
               "source_sha256": "67cd3f296b6ff17fa7cb5fb84bab7b27f88d4d12d6966869f5ba7ba3f18b8689",
               "source_json_path": "geo_records.0.place",
               "quote": "Incles"
+            },
+            {
+              "source_file": "reviews/source-audit/owner-answers-2026-10-27.json",
+              "source_sha256": "fef6d0df9c31569f1c85415e643cdde6b7c54700447813d842aeceab7d1ad72c",
+              "source_json_path": "paragraphs.0",
+              "quote": "Но в ЮНЕСКО попало не это, а долина Мадриу-Перафита-Кларор - там до сих пор живут по старинке. А мы прошли долину Инклес по низу и посмотрели на горы сверху."
             }
           ],
           "report": "reviews/source-audit/trips/andorra-pyrenees-2026.json",
-          "note": "Глава посвящена одной большой серии прогулки. Согласованное имя главы и сохранённая проверка карты маршрута указывают Incles; отдельно перечисленные на карте направления не считаются пройденными тропами."
+          "note": "Глава посвящена одной большой серии прогулки. Согласованное имя главы и сохранённая проверка карты маршрута указывают Incles; отдельно перечисленные на карте направления не считаются пройденными тропами. Владелец прямо подтвердила маршрут в восстановленном абзаце; вопрос закрыт."
         }
       ]
     },
@@ -1555,10 +1561,16 @@
               "source_record_index": 74,
               "source_paragraph": 1,
               "quote": "Palacio Real Testamentario de Isabel la Católica"
+            },
+            {
+              "source_file": "reviews/source-audit/owner-answers-2026-10-27.json",
+              "source_sha256": "fef6d0df9c31569f1c85415e643cdde6b7c54700447813d842aeceab7d1ad72c",
+              "source_json_path": "paragraphs.1",
+              "quote": "Medina del Campo: метка Palacio Real Testamentario верна, слова «дворец Дуэньяс» в тексте оставить как есть."
             }
           ],
           "report": "reviews/source-audit/trips/basque-castile-2024.json",
-          "note": "Сохранено прямо указанное испанское название. Русское «Дуэньяс» не породило второй дворец; расхождение вынесено в вопросы."
+          "note": "Сохранено прямо указанное испанское название. Русское «Дуэньяс» не породило второй дворец; расхождение закрыто ответом владельца. Владелец подтвердила метку Palacio Real Testamentario; авторское «дворец Дуэньяс» сохраняется дословно."
         },
         {
           "id": "santo-tomas-avila",
@@ -6514,6 +6526,34 @@
           ],
           "report": "reviews/source-audit/trips/europe-friends-2019.json",
           "note": "Все шестеро утром до отъезда друзей; история Кандинского и работы подробно обсуждаются."
+        },
+        {
+          "id": "munich--ns-dokumentationszentrum",
+          "event": "entered",
+          "participants": [
+            "Таня",
+            "Полина",
+            "Миша",
+            "Сергей",
+            "Леля",
+            "Митя"
+          ],
+          "evidence": [
+            {
+              "source_file": "C:\\Users\\user\\Projects\\FamilyTravelBlog\\Отчеты\\europe-friends-2019\\viber.docx",
+              "source_sha256": "523739263df3cc8f8fa50c4d9342c86922a0526103658493b5c2f3350f0a781d",
+              "source_paragraph_extra": 208,
+              "quote": "Музей нац  социализма 3/4/5 - 5/5/5+"
+            },
+            {
+              "source_file": "reviews/source-audit/owner-answers-2026-10-27.json",
+              "source_sha256": "fef6d0df9c31569f1c85415e643cdde6b7c54700447813d842aeceab7d1ad72c",
+              "source_json_path": "paragraphs.3",
+              "quote": "TEAM_HANDOFF.md: владелец подтвердила, что рассказ о центре национал-социализма ещё находится в «дописывать». Уточнение снимает прежний вопрос аудита о музее национал-социализма."
+            }
+          ],
+          "report": "reviews/source-audit/trips/europe-friends-2019.json",
+          "note": "Посещение всех шестерых подтверждено итоговыми оценками; точное учреждение подтверждено владельцем и сохранено в TEAM_HANDOFF.md. Рассказ остаётся в «дописывать»; новый текст не сочиняется. Дахау и Нюрнберг из подготовительных планов не подставлены."
         }
       ],
       "place_visits": [

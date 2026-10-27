@@ -11,7 +11,6 @@ places:
   - cape-breton
   - highland-village
   - baddeck
-  - cape-breton
 hero_image: "IMG_4488.jpg"
 attractions: ["highland-village"]
 ---
