@@ -1,0 +1,23 @@
+{
+  "merge_commit": "b6ba1f0",
+  "reviewed_chapters": [
+    "content/americas/canada/atlantic-canada-2014/day-07/index.md",
+    "content/europe/andorra/andorra-pyrenees-2026/incles/index.md",
+    "content/europe/france/europe-friends-2019/munich-rothenburg/index.md"
+  ],
+  "changes": [
+    "Atlantic day 07: only metadata changed; duplicate cape-breton removed; narrative and photo markup unchanged.",
+    "Incles: owner-approved introductory paragraph read; Madriu is a mention, Incles is the hike.",
+    "Munich/Rothenburg: only museum metadata changed; source ratings and saved owner confirmation reconciled."
+  ],
+  "owner_answers": "reviews/source-audit/owner-answers-2026-10-27.json",
+  "legacy_snapshot": "reviews/places-audit-2026-10-22.json is historical; current checks use source-audit reports.",
+  "limits": "UI/country-map changes remain with Claude. Repository-only Node validation does not read private DOCX/photo originals.",
+  "validation": {
+    "repository": "75 reports; 436 chapters; 2326 decisions; 657 linked attractions; 775 links; exact visit/evidence/participant export checked",
+    "original_sources": "verify-source-audit.py passed: 75 reports; 436 chapters; 91 fully photo-reviewed chapters; original-source hashes and quotations verified",
+    "regressions": "In-memory corrupted text, lost visit evidence, unexplained attraction and unexpected export all rejected; workspace files not modified by these tests",
+    "build": "Production build passed, 1757 pages; verify-places: 352 geographic places, 577 direct links; 541 geographic names and search vocabulary verified",
+    "limits": "77 questions and 14 material limitations remain; passing checks does not prove absolute completeness."
+  }
+}
