@@ -29,5 +29,7 @@
  {"key":"p014","from":"Мои открытия в Русском музее.","to":"","note":"line dropped: the owner gave the new order without it, 2026-11-03"},
  {"key":"p014","from":"Интересно, что в Русском и Третьяковке","to":"Поэтому интересно, что в Русском и Третьяковке","note":"owner edit in chat 2026-11-03"},
  {"key":"p014","from":"художники и разные. Я конечно","to":"художники, и разные.\nЯ конечно","note":"paragraph split by the owner in chat 2026-11-03; comma at the owner request"},
- {"key":"p014","from":"новые имена! Скульптор","to":"новые имена!\nСкульптор","note":"paragraph split by the owner in chat 2026-11-03"}
+ {"key":"p014","from":"новые имена! Скульптор","to":"новые имена!\nСкульптор","note":"paragraph split by the owner in chat 2026-11-03"},
+ {"key":"p016","from":"Куда можно сходить без QR кода?","to":"В Москве наступил локдаун. Куда можно сходить без QR кода?","note":"owner addition in chat 2026-11-03"},
+ {"key":"p016","from":"понравилось. А потом мы спустились","to":"понравилось.\nА потом мы спустились","note":"paragraph split: upper and lower church photos by meaning, owner request 2026-11-03"}
 ]
