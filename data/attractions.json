@@ -13087,5 +13087,1052 @@
       "Музей нацизма",
       "NS-Dokumentationszentrum"
     ]
+  },
+  "tretyakov-gallery": {
+    "title": "Третьяковская галерея",
+    "parent": "moscow",
+    "place": "tretyakov-gallery",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ]
+  },
+  "new-tretyakov-gallery": {
+    "title": "Новая Третьяковка",
+    "parent": "moscow",
+    "place": "new-tretyakov-gallery",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ]
+  },
+  "satire-theatre": {
+    "title": "Театр сатиры",
+    "parent": "moscow",
+    "place": "satire-theatre",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ]
+  },
+  "moscow-operetta-theatre": {
+    "title": "Театр оперетты",
+    "parent": "moscow",
+    "place": "moscow-operetta-theatre",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ]
+  },
+  "kolomenskoe": {
+    "title": "Коломенское",
+    "parent": "moscow",
+    "place": "kolomenskoe",
+    "types": [
+      "park",
+      "church",
+      "historic_house"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa"
+    ]
+  },
+  "moscow-kremlin": {
+    "title": "Московский Кремль",
+    "parent": "moscow",
+    "place": "moscow-kremlin",
+    "types": [
+      "castle",
+      "palace"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ]
+  },
+  "armoury-chamber": {
+    "title": "Оружейная палата",
+    "parent": "moscow",
+    "place": "armoury-chamber",
+    "types": [
+      "museum",
+      "treasury"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "сокровищница",
+      "сокровищницы",
+      "сокровища",
+      "treasury"
+    ]
+  },
+  "russian-museum": {
+    "title": "Русский музей",
+    "parent": "saint-petersburg",
+    "place": "russian-museum",
+    "types": [
+      "museum",
+      "gallery",
+      "palace"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art",
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ]
+  },
+  "cathedral-christ-saviour": {
+    "title": "Храм Христа Спасителя",
+    "parent": "moscow",
+    "place": "cathedral-christ-saviour",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "marfo-mariinsky-convent": {
+    "title": "Марфо-Мариинская обитель",
+    "parent": "moscow",
+    "place": "marfo-mariinsky-convent",
+    "types": [
+      "monastery",
+      "church",
+      "museum"
+    ],
+    "search_terms": [
+      "монастырь",
+      "монастыри",
+      "монастыря",
+      "монастырей",
+      "аббатство",
+      "аббатства",
+      "monastery",
+      "abbey",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "vdnh": {
+    "title": "ВДНХ",
+    "parent": "moscow",
+    "place": "vdnh",
+    "types": [
+      "exhibition",
+      "park"
+    ],
+    "search_terms": [
+      "выставка",
+      "выставки",
+      "экспозиция",
+      "панорама",
+      "exhibition",
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ]
+  },
+  "pushkin-museum": {
+    "title": "Музей имени Пушкина",
+    "parent": "moscow",
+    "place": "pushkin-museum",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ]
+  },
+  "hermitage": {
+    "title": "Эрмитаж",
+    "parent": "saint-petersburg",
+    "place": "hermitage",
+    "types": [
+      "museum",
+      "gallery",
+      "palace"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art",
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ]
+  },
+  "hermitage-theatre": {
+    "title": "Эрмитажный театр",
+    "parent": "saint-petersburg",
+    "place": "hermitage-theatre",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ]
+  },
+  "red-square": {
+    "title": "Красная площадь",
+    "parent": "moscow",
+    "place": "red-square",
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ]
+  },
+  "saint-basils-cathedral": {
+    "title": "Собор Василия Блаженного",
+    "parent": "moscow",
+    "place": "saint-basils-cathedral",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "gum-moscow": {
+    "title": "ГУМ",
+    "parent": "moscow",
+    "place": "gum-moscow",
+    "types": [
+      "shopping_centre",
+      "historic_building"
+    ],
+    "search_terms": [
+      "торговый центр",
+      "торговые центры",
+      "магазины",
+      "shopping mall",
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
+  },
+  "alexander-garden": {
+    "title": "Александровский сад",
+    "parent": "moscow",
+    "place": "alexander-garden",
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ]
+  },
+  "muzeon": {
+    "title": "Парк искусств «Музеон»",
+    "parent": "moscow",
+    "place": "muzeon",
+    "types": [
+      "park",
+      "artwork"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden",
+      "искусство",
+      "фреска",
+      "фрески",
+      "роспись",
+      "artwork",
+      "mural"
+    ]
+  },
+  "krymskaya-embankment": {
+    "title": "Крымская набережная",
+    "parent": "moscow",
+    "place": "krymskaya-embankment",
+    "types": [
+      "street"
+    ],
+    "search_terms": [
+      "улица",
+      "улицы",
+      "улиц",
+      "проспект",
+      "бульвар",
+      "набережная",
+      "набережные",
+      "street"
+    ]
+  },
+  "mkhat-gorky": {
+    "title": "МХАТ имени Горького",
+    "parent": "moscow",
+    "place": "mkhat-gorky",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ]
+  },
+  "sfera-theatre": {
+    "title": "Театр «Сфера»",
+    "parent": "moscow",
+    "place": "sfera-theatre",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ]
+  },
+  "mossovet-theatre": {
+    "title": "Театр имени Моссовета",
+    "parent": "moscow",
+    "place": "mossovet-theatre",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ]
+  },
+  "maly-theatre": {
+    "title": "Малый театр",
+    "parent": "moscow",
+    "place": "maly-theatre",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ]
+  },
+  "kazan-cathedral-spb": {
+    "title": "Казанский собор",
+    "parent": "saint-petersburg",
+    "place": "kazan-cathedral-spb",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "savior-on-spilled-blood": {
+    "title": "Спас на Крови",
+    "parent": "saint-petersburg",
+    "place": "savior-on-spilled-blood",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "mikhailovsky-castle": {
+    "title": "Михайловский замок",
+    "parent": "saint-petersburg",
+    "place": "mikhailovsky-castle",
+    "types": [
+      "castle",
+      "palace",
+      "museum"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "mikhailovsky-garden": {
+    "title": "Михайловский сад",
+    "parent": "saint-petersburg",
+    "place": "mikhailovsky-garden",
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ]
+  },
+  "nevsky-prospect": {
+    "title": "Невский проспект",
+    "parent": "saint-petersburg",
+    "place": "nevsky-prospect",
+    "types": [
+      "street"
+    ],
+    "search_terms": [
+      "улица",
+      "улицы",
+      "улиц",
+      "проспект",
+      "бульвар",
+      "набережная",
+      "набережные",
+      "street"
+    ]
+  },
+  "moskovsky-station-spb": {
+    "title": "Московский вокзал",
+    "parent": "saint-petersburg",
+    "place": "moskovsky-station-spb",
+    "types": [
+      "station"
+    ],
+    "search_terms": [
+      "вокзал",
+      "вокзалы",
+      "железнодорожная станция",
+      "station"
+    ]
+  },
+  "saint-isaacs-cathedral": {
+    "title": "Исаакиевский собор",
+    "parent": "saint-petersburg",
+    "place": "saint-isaacs-cathedral",
+    "types": [
+      "cathedral",
+      "church",
+      "museum"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "admiralty-spb": {
+    "title": "Адмиралтейство",
+    "parent": "saint-petersburg",
+    "place": "admiralty-spb",
+    "types": [
+      "historic_building"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
+  },
+  "kunstkamera": {
+    "title": "Кунсткамера",
+    "parent": "saint-petersburg",
+    "place": "kunstkamera",
+    "types": [
+      "museum"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "rostral-columns": {
+    "title": "Ростральные колонны",
+    "parent": "saint-petersburg",
+    "place": "rostral-columns",
+    "types": [
+      "monument"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
+  },
+  "palace-bridge": {
+    "title": "Дворцовый мост",
+    "parent": "saint-petersburg",
+    "place": "palace-bridge",
+    "types": [
+      "bridge"
+    ],
+    "search_terms": [
+      "мост",
+      "мосты",
+      "моста",
+      "мостов",
+      "bridge"
+    ]
+  },
+  "trinity-bridge-spb": {
+    "title": "Троицкий мост",
+    "parent": "saint-petersburg",
+    "place": "trinity-bridge-spb",
+    "types": [
+      "bridge"
+    ],
+    "search_terms": [
+      "мост",
+      "мосты",
+      "моста",
+      "мостов",
+      "bridge"
+    ]
+  },
+  "bolsheokhtinsky-bridge": {
+    "title": "Большеохтинский мост",
+    "parent": "saint-petersburg",
+    "place": "bolsheokhtinsky-bridge",
+    "types": [
+      "bridge"
+    ],
+    "search_terms": [
+      "мост",
+      "мосты",
+      "моста",
+      "мостов",
+      "bridge"
+    ]
+  },
+  "smolny-cathedral": {
+    "title": "Смольный собор",
+    "parent": "saint-petersburg",
+    "place": "smolny-cathedral",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "chizhik-pyzhik": {
+    "title": "Чижик-Пыжик",
+    "parent": "saint-petersburg",
+    "place": "chizhik-pyzhik",
+    "types": [
+      "artwork",
+      "monument"
+    ],
+    "search_terms": [
+      "искусство",
+      "фреска",
+      "фрески",
+      "роспись",
+      "artwork",
+      "mural",
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial"
+    ]
+  },
+  "university-sphinxes": {
+    "title": "Сфинксы на Университетской набережной",
+    "parent": "saint-petersburg",
+    "place": "university-sphinxes",
+    "types": [
+      "monument",
+      "artwork"
+    ],
+    "search_terms": [
+      "памятник",
+      "памятники",
+      "монумент",
+      "мемориал",
+      "monument",
+      "memorial",
+      "искусство",
+      "фреска",
+      "фрески",
+      "роспись",
+      "artwork",
+      "mural"
+    ]
+  },
+  "anichkov-bridge": {
+    "title": "Аничков мост",
+    "parent": "saint-petersburg",
+    "place": "anichkov-bridge",
+    "types": [
+      "bridge"
+    ],
+    "search_terms": [
+      "мост",
+      "мосты",
+      "моста",
+      "мостов",
+      "bridge"
+    ]
+  },
+  "peter-and-paul-fortress": {
+    "title": "Петропавловская крепость",
+    "parent": "saint-petersburg",
+    "place": "peter-and-paul-fortress",
+    "types": [
+      "castle",
+      "museum",
+      "cathedral"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral"
+    ]
+  },
+  "prince-vladimir-cathedral": {
+    "title": "Князь-Владимирский собор",
+    "parent": "saint-petersburg",
+    "place": "prince-vladimir-cathedral",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "pantaleimon-bridge": {
+    "title": "Пантелеймоновский мост",
+    "parent": "saint-petersburg",
+    "place": "pantaleimon-bridge",
+    "types": [
+      "bridge"
+    ],
+    "search_terms": [
+      "мост",
+      "мосты",
+      "моста",
+      "мостов",
+      "bridge"
+    ]
+  },
+  "ploshchad-vosstaniya": {
+    "title": "Площадь Восстания",
+    "parent": "saint-petersburg",
+    "place": "ploshchad-vosstaniya",
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ]
+  },
+  "admiralteyskaya-metro": {
+    "title": "Станция метро «Адмиралтейская»",
+    "parent": "saint-petersburg",
+    "place": "admiralteyskaya-metro",
+    "types": [
+      "station"
+    ],
+    "search_terms": [
+      "вокзал",
+      "вокзалы",
+      "железнодорожная станция",
+      "station"
+    ]
+  },
+  "petrograd-side": {
+    "title": "Петроградская сторона",
+    "parent": "saint-petersburg",
+    "place": "petrograd-side",
+    "types": [
+      "district"
+    ],
+    "search_terms": [
+      "район",
+      "районы",
+      "квартал",
+      "кварталы",
+      "district",
+      "neighbourhood"
+    ]
   }
 }

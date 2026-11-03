@@ -4345,5 +4345,389 @@
     "country_code": "FR",
     "source": "https://www.tourisme-gers.com/producteur/domaine-de-meillan/",
     "query": "Domaine de Meillan Larroque-sur-l’Osse, official tourism GeoCoordinates"
+  },
+  "saint-petersburg": {
+    "lat": 59.938732,
+    "lon": 30.316229,
+    "name": "Санкт-Петербург",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/421007",
+    "query": "Санкт-Петербург"
+  },
+  "tretyakov-gallery": {
+    "lat": 55.7413613,
+    "lon": 37.6202196,
+    "name": "Третьяковская галерея",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/1907261",
+    "query": "Третьяковская галерея Лаврушинский"
+  },
+  "new-tretyakov-gallery": {
+    "lat": 55.7348087,
+    "lon": 37.6062274,
+    "name": "Новая Третьяковка",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/node/2468882311",
+    "query": "Новая Третьяковка Крымский Вал"
+  },
+  "satire-theatre": {
+    "lat": 55.7683955,
+    "lon": 37.595425,
+    "name": "Театр сатиры",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/16682983",
+    "query": "Театр сатиры Москва"
+  },
+  "moscow-operetta-theatre": {
+    "lat": 55.760226,
+    "lon": 37.6162947,
+    "name": "Московский государственный академический театр оперетты",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/way/46513023",
+    "query": "Театр оперетты Москва"
+  },
+  "kolomenskoe": {
+    "lat": 55.6608111,
+    "lon": 37.6634938,
+    "name": "Музей-заповедник «Коломенское»",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/1722886",
+    "query": "Коломенское музей-заповедник"
+  },
+  "moscow-kremlin": {
+    "lat": 55.7516212,
+    "lon": 37.618122,
+    "name": "Московский Кремль",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/1360641",
+    "query": "Московский Кремль"
+  },
+  "armoury-chamber": {
+    "lat": 55.7495644,
+    "lon": 37.6134241,
+    "name": "Оружейная палата",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/1359335",
+    "query": "Оружейная палата Кремль"
+  },
+  "russian-museum": {
+    "lat": 59.9385848,
+    "lon": 30.3288929,
+    "name": "Русский музей",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/2614475",
+    "query": "Русский музей Михайловский дворец"
+  },
+  "cathedral-christ-saviour": {
+    "lat": 55.7445243,
+    "lon": 37.6055105,
+    "name": "Храм Христа Спасителя",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/7314898",
+    "query": "Храм Христа Спасителя"
+  },
+  "marfo-mariinsky-convent": {
+    "lat": 55.7377636,
+    "lon": 37.6228921,
+    "name": "Марфо-Мариинская обитель милосердия",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/16467332",
+    "query": "Марфо-Мариинская обитель"
+  },
+  "vdnh": {
+    "lat": 55.8339464,
+    "lon": 37.6218032,
+    "name": "Выставка достижений народного хозяйства",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/1250525",
+    "query": "Выставка достижений народного хозяйства"
+  },
+  "pushkin-museum": {
+    "lat": 55.747285,
+    "lon": 37.6054233,
+    "name": "Государственный музей изобразительных искусств имени А. С. Пушкина",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/2421978",
+    "query": "Государственный музей изобразительных искусств имени Пушкина"
+  },
+  "hermitage": {
+    "lat": 59.9412076,
+    "lon": 30.3154865,
+    "name": "Государственный Эрмитаж",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/8092294",
+    "query": "Государственный Эрмитаж"
+  },
+  "hermitage-theatre": {
+    "lat": 59.9426353,
+    "lon": 30.3177572,
+    "name": "Эрмитажный театр",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/1084724",
+    "query": "Эрмитажный театр"
+  },
+  "red-square": {
+    "lat": 55.7535908,
+    "lon": 37.6215013,
+    "name": "Красная площадь",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/1577673",
+    "query": "Red Square Moscow"
+  },
+  "saint-basils-cathedral": {
+    "lat": 55.7524736,
+    "lon": 37.6231624,
+    "name": "Собор Василия Блаженного",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/3030568",
+    "query": "Saint Basil's Cathedral Moscow"
+  },
+  "gum-moscow": {
+    "lat": 55.7547031,
+    "lon": 37.6214378,
+    "name": "Государственный универсальный магазин (ГУМ)",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/3330565",
+    "query": "GUM department store Moscow"
+  },
+  "alexander-garden": {
+    "lat": 55.7521461,
+    "lon": 37.6135068,
+    "name": "Александровский сад",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/1362325",
+    "query": "Alexander Garden Moscow"
+  },
+  "muzeon": {
+    "lat": 55.7353919,
+    "lon": 37.6073423,
+    "name": "Парк искусств Музеон",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/3224482",
+    "query": "Muzeon Park of Arts Moscow"
+  },
+  "krymskaya-embankment": {
+    "lat": 55.7364667,
+    "lon": 37.6054793,
+    "name": "Крымская набережная",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/way/160191346",
+    "query": "Krymskaya Embankment Moscow"
+  },
+  "mkhat-gorky": {
+    "lat": 55.7614993,
+    "lon": 37.6037219,
+    "name": "МХАТ им. Горького",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/way/47675276",
+    "query": "Gorky Moscow Art Theatre"
+  },
+  "sfera-theatre": {
+    "lat": 55.7702238,
+    "lon": 37.6087055,
+    "name": "Сфера",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/node/2568132718",
+    "query": "Sfera Theatre Moscow"
+  },
+  "mossovet-theatre": {
+    "lat": 55.7680642,
+    "lon": 37.5966898,
+    "name": "Театр имени Моссовета",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/16682982",
+    "query": "Mossovet Theatre Moscow"
+  },
+  "maly-theatre": {
+    "lat": 55.7597497,
+    "lon": 37.6206313,
+    "name": "Малый театр",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/85762",
+    "query": "Maly Theatre Moscow"
+  },
+  "kazan-cathedral-spb": {
+    "lat": 59.9344639,
+    "lon": 30.3246395,
+    "name": "Казанский собор",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/11763697",
+    "query": "Kazan Cathedral, Saint Petersburg"
+  },
+  "savior-on-spilled-blood": {
+    "lat": 59.9402957,
+    "lon": 30.3288438,
+    "name": "Храм Воскресения Христова на Крови",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/node/7114212687",
+    "query": "Храм Воскресения Христова на Крови"
+  },
+  "mikhailovsky-castle": {
+    "lat": 59.9403826,
+    "lon": 30.3385382,
+    "name": "Михайловский замок",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/238571",
+    "query": "Saint Michael's Castle, Saint Petersburg"
+  },
+  "mikhailovsky-garden": {
+    "lat": 59.9398165,
+    "lon": 30.332886,
+    "name": "Михайловский сад",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/2614476",
+    "query": "Mikhailovsky Garden, Saint Petersburg"
+  },
+  "nevsky-prospect": {
+    "lat": 59.9339762,
+    "lon": 30.3284017,
+    "name": "Невский проспект",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/node/291557399",
+    "query": "Невский проспект, Санкт-Петербург"
+  },
+  "moskovsky-station-spb": {
+    "lat": 59.9293565,
+    "lon": 30.3623224,
+    "name": "Московский вокзал",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/2404499",
+    "query": "Московский вокзал, Санкт-Петербург"
+  },
+  "saint-isaacs-cathedral": {
+    "lat": 59.9340785,
+    "lon": 30.306142,
+    "name": "Исаакиевский собор",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/3229838",
+    "query": "Saint Isaac's Cathedral"
+  },
+  "admiralty-spb": {
+    "lat": 59.9379882,
+    "lon": 30.3087883,
+    "name": "Адмиралтейство",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/2612859",
+    "query": "Адмиралтейство, Санкт-Петербург"
+  },
+  "kunstkamera": {
+    "lat": 59.9415277,
+    "lon": 30.3036769,
+    "name": "Музей антропологии и этнографии имени Петра Великого",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/3296328",
+    "query": "Kunstkamera"
+  },
+  "rostral-columns": {
+    "lat": 59.94467,
+    "lon": 30.3050315,
+    "name": "Ростральная колонна",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/19710429",
+    "query": "Ростральная колонна"
+  },
+  "palace-bridge": {
+    "lat": 59.9411768,
+    "lon": 30.3081001,
+    "name": "Дворцовый мост",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/3283437",
+    "query": "Palace Bridge, Saint Petersburg"
+  },
+  "trinity-bridge-spb": {
+    "lat": 59.9488918,
+    "lon": 30.3273501,
+    "name": "Троицкий мост",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/6793935",
+    "query": "Trinity Bridge, Saint Petersburg"
+  },
+  "bolsheokhtinsky-bridge": {
+    "lat": 59.9426612,
+    "lon": 30.4011891,
+    "name": "Большеохтинский мост",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/3276725",
+    "query": "Bolsheokhtinsky Bridge"
+  },
+  "smolny-cathedral": {
+    "lat": 59.9488851,
+    "lon": 30.395391,
+    "name": "Смольный собор",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/2864743",
+    "query": "Smolny Cathedral"
+  },
+  "chizhik-pyzhik": {
+    "lat": 59.9417003,
+    "lon": 30.3380182,
+    "name": "Чижик-Пыжик",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/node/2513007719",
+    "query": "Чижик-Пыжик"
+  },
+  "university-sphinxes": {
+    "lat": 59.937077,
+    "lon": 30.2911776,
+    "name": "Древнеегипетский сфинкс",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/node/1191476126",
+    "query": "Сфинкс Университетская набережная"
+  },
+  "anichkov-bridge": {
+    "lat": 59.9332945,
+    "lon": 30.3434109,
+    "name": "Аничков мост",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/5537267",
+    "query": "Аничков мост"
+  },
+  "peter-and-paul-fortress": {
+    "lat": 59.9500646,
+    "lon": 30.311686,
+    "name": "Петропавловская крепость",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/227969",
+    "query": "Peter and Paul Fortress"
+  },
+  "prince-vladimir-cathedral": {
+    "lat": 59.9516953,
+    "lon": 30.2954264,
+    "name": "Князь-Владимирский собор",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/way/109067002",
+    "query": "Князь-Владимирский собор"
+  },
+  "pantaleimon-bridge": {
+    "lat": 59.9421306,
+    "lon": 30.3383093,
+    "name": "Пантелеймоновский мост",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/5517944",
+    "query": "Пантелеймоновский мост"
+  },
+  "ploshchad-vosstaniya": {
+    "lat": 59.9307747,
+    "lon": 30.3619092,
+    "name": "площадь Восстания",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/way/638352776",
+    "query": "площадь Восстания"
+  },
+  "admiralteyskaya-metro": {
+    "lat": 59.9361341,
+    "lon": 30.3138978,
+    "name": "Адмиралтейская",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/node/1440436739",
+    "query": "Адмиралтейская"
+  },
+  "petrograd-side": {
+    "lat": 59.9607612,
+    "lon": 30.3066231,
+    "name": "Петроградская сторона",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/1312683",
+    "query": "Петроградская сторона"
   }
 }

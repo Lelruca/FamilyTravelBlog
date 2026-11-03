@@ -55,6 +55,11 @@ const dataFile = path.join("data", "photos", tripSlug + ".json");
 const rotateFile = path.join("data", "photos", tripSlug + ".rotate.json");
 const rotate = fs.existsSync(rotateFile) ? JSON.parse(fs.readFileSync(rotateFile, "utf8")) : {};
 const turn = { 90: ",transpose=1", 180: ",transpose=1,transpose=1", 270: ",transpose=2" };
+// Agreed crops of the shown copy: data/photos/<trip>.crop.json, e.g. { "piter/IMG_1.jpg": [x, y, w, h] } as fractions
+// of the upright photo (the wall around a painting cut away); the original on Drive stays whole
+const cropFile = path.join("data", "photos", tripSlug + ".crop.json");
+const crops = fs.existsSync(cropFile) ? JSON.parse(fs.readFileSync(cropFile, "utf8")) : {};
+const cropFilter = c => c ? `,crop=iw*${c[2]}:ih*${c[3]}:iw*${c[0]}:ih*${c[1]}` : "";
 const data = fs.existsSync(dataFile) ? JSON.parse(fs.readFileSync(dataFile, "utf8")) : {};
 let made = 0, kept = 0;
 pairs.forEach(({ folder, ch }) => {
@@ -67,15 +72,18 @@ pairs.forEach(({ folder, ch }) => {
     const name = displayName(f);
     const out = path.join(outDir, name);
     const rot = rotate[`${ch}/${name}`] || 0;
-    const stale = !fs.existsSync(out) || fs.statSync(out).mtimeMs < fs.statSync(src).mtimeMs || (data[`${ch}/${name}`] || {}).rotate !== (rot || undefined);
+    const crop = crops[`${ch}/${name}`];
+    const prev = data[`${ch}/${name}`] || {};
+    const stale = !fs.existsSync(out) || fs.statSync(out).mtimeMs < fs.statSync(src).mtimeMs || prev.rotate !== (rot || undefined) ||
+      JSON.stringify(prev.crop) !== JSON.stringify(crop);
     if (stale) {
-      // ffmpeg applies the EXIF rotation; scale the long side down to 2000 px (never up)
+      // ffmpeg applies the EXIF rotation; crop first (at full size), then scale the long side down to 2000 px (never up)
       execFileSync("ffmpeg", ["-v", "error", "-y", "-i", src, "-vf",
-        `scale='if(gt(iw,ih),min(${LONG_SIDE},iw),-2)':'if(gt(iw,ih),-2,min(${LONG_SIDE},ih))'${turn[rot] || ""}`, "-q:v", "3", out]);
+        `${(turn[rot] || "").slice(1)}${turn[rot] ? "," : ""}${cropFilter(crop).slice(1)}${crop ? "," : ""}scale='if(gt(iw,ih),min(${LONG_SIDE},iw),-2)':'if(gt(iw,ih),-2,min(${LONG_SIDE},ih))'`, "-q:v", "3", out]);
       made++;
     } else kept++;
     const [w, h] = probe(out);
-    data[`${ch}/${name}`] = { w, h, source: `${folder}/${f}`, ...(rot ? { rotate: rot } : {}) };
+    data[`${ch}/${name}`] = { w, h, source: `${folder}/${f}`, ...(rot ? { rotate: rot } : {}), ...(crop ? { crop } : {}) };
   }
 });
 fs.mkdirSync(path.dirname(dataFile), { recursive: true });

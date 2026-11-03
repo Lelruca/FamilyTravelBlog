@@ -63,12 +63,17 @@ cfg.chapters.forEach((ch, n) => {
   // [{ after, file }], the file holding that post's text); later "after" indexes count the inserted lines
   for (const ins of (ch.inserts || []).slice().sort((a, b) => b.after - a.after))
     paras.splice(ins.after + 1, 0, ...fs.readFileSync(ins.file, "utf8").replace(/\r/g, "").split("\n").filter(l => l.trim() && !isTags(l)));
-  const mine = manifest.photos.filter(p => p.chapter === ch.slug);
+  // (a zz_ file stays in the Drive archive only, as in make-display-copies)
+  const mine = manifest.photos.filter(p => p.chapter === ch.slug && !/^zz_/.test(path.basename(p.archive_name)));
   const photos = mine.map(p => displayName(p.archive_name));
   const byPos = Object.fromEntries(mine.map(p => [String(p.source_position), displayName(p.archive_name)]));
   const capByPos = Object.fromEntries(mine.map(p => [String(p.source_position), fixCaption(ch.key, p.source_position, p.caption || "")]));
   // a caption repeating a paragraph is already on the page as text: not written over the photo again
-  for (const p of mine) if (p.caption && paras.some(t => sameText(t, fixCaption(ch.key, p.source_position, p.caption)))) textCaps.add(`${ch.slug}/${displayName(p.archive_name)}`);
+  // (or the whole post at once: several paragraphs in one caption)
+  const lettersOf = s => s.toLowerCase().replace(/[^\p{L}\p{N}]/gu, "");
+  const allText = lettersOf(paras.join("\n"));
+  for (const p of mine) if (p.caption && (paras.some(t => sameText(t, fixCaption(ch.key, p.source_position, p.caption))) ||
+    p.caption.includes("\n") && allText.includes(lettersOf(fixCaption(ch.key, p.source_position, p.caption))))) textCaps.add(`${ch.slug}/${displayName(p.archive_name)}`);
   const name = t => t.replace(/^([LRT]:)?(\d+[a-z]?)$/, (all, k, num) => (k || "") + (byPos[num] || "MISSING" + num));
   const raw = layout.chapters[ch.slug] || { blocks: [] };
   const hero = raw.hero && name(String(raw.hero));
@@ -104,8 +109,11 @@ cfg.chapters.forEach((ch, n) => {
     }
     // "paras": [a, b] — the post's paragraphs a…b stand inside, next to the photo (its caption, if any, after them)
     if (b.kind === "beside") {
-      const inner = (b.paras ? paras.slice(b.paras[0], b.paras[1] + 1).map(t => `<p>${esc(t)}</p>`) : [])
-        .concat(capByPos[String(b.items)] || !b.paras ? [note(String(b.items))] : []);
+      // ("join": true — the lines stay one paragraph, with line breaks)
+      const lines = b.paras ? paras.slice(b.paras[0], b.paras[1] + 1).map(esc) : [];
+      const inner = (b.join ? [`<p>${lines.join("<br>")}</p>`] : lines.map(t => `<p>${t}</p>`))
+        // (a caption already standing as a paragraph is not repeated under the photo)
+        .concat((capByPos[String(b.items)] && !textCaps.has(`${ch.slug}/${byPos[String(b.items)]}`)) || !b.paras ? [note(String(b.items))] : []);
       return `{{< beside photo="${b.names}"${b.side ? ` side="${b.side}"` : ""} >}}\n${inner.join("\n")}\n{{< /beside >}}`;
     }
     return `{{< ${b.kind} "${b.names}" >}}`;

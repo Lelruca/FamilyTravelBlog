@@ -35,11 +35,19 @@ for (const m of album.matchAll(/media\/[\w]+\/(\d+)\.jpg" \/><\/a><table[^]*?<di
 const posts = [];
 for (const sec of html.split("<section").slice(1)) {
   const date = (sec.match(/<footer>.*?<div>([A-Z][a-z]{2} \d{2}, \d{4} [^<]+)<\/div>/) || [])[1];
-  const imgs = [...sec.matchAll(/<img src="(your_facebook_activity\/posts\/media\/[^"]+)" \/><\/a><div>Photos<\/div>(?:<div>([^]*?)<\/div>)?<\/div>/g)];
-  if (!date || !imgs.length) continue;  // birthday wishes on friends' walls etc.
-  // the post text is the block right after the media grid
-  const tail = sec.slice(sec.lastIndexOf("<div>Photos</div>"));
-  const text = decode((tail.match(/<\/div><\/div><\/div><\/div><\/div><div><div>([^]*?)<\/div><div><\/div><\/div>/) || [])[1] || "");
+  // the div after each photo names its album: "Photos", "Mobile uploads", ...
+  const imgs = [...sec.matchAll(/<img src="(your_facebook_activity\/posts\/media\/[^"]+\.jpg)" \/><\/a><div>[^<]*<\/div>(?:<div>([^]*?)<\/div>)?<\/div>|<video src="(your_facebook_activity\/posts\/media\/[^"]+)"[^]*?<\/video>/g)]
+    .map(m => Object.assign([m[0], m[1] || m[3], m[2]], { index: m.index }));
+  // status updates have text only; birthday wishes on friends' walls and shares are skipped
+  const status = sec.includes("updated her status.</h2>");
+  if (!date || !imgs.length && !status) continue;
+  let text;
+  if (imgs.length) {
+    // the post text is the block right after the media grid
+    const last = imgs[imgs.length - 1];
+    const tail = sec.slice(last.index + last[0].length);
+    text = decode((tail.match(/<\/div><\/div><\/div><\/div><\/div><div><div>([^]*?)<\/div><div><\/div><\/div>/) || [])[1] || "");
+  } else text = decode((sec.match(/<\/h2><div><div><div><div>([^]*?)<\/div><div><\/div>/) || [])[1] || "");
   posts.push({
     timestamp: ts(date),
     data: [{ post: mojibake(text) }],
