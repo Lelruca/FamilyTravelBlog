@@ -14134,5 +14134,123 @@
       "district",
       "neighbourhood"
     ]
+  },
+  "gorky-park": {
+    "title": "Парк Горького",
+    "parent": "moscow",
+    "place": "gorky-park",
+    "types": [
+      "park"
+    ],
+    "search_terms": [
+      "парк",
+      "парки",
+      "парка",
+      "парков",
+      "сад",
+      "сады",
+      "сада",
+      "садов",
+      "park",
+      "garden"
+    ]
+  },
+  "church-gregory-neocaesarea": {
+    "title": "Храм Григория Неокесарийского",
+    "parent": "moscow",
+    "place": "church-gregory-neocaesarea",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "igumnov-house": {
+    "title": "Дом Игумнова",
+    "parent": "moscow",
+    "place": "igumnov-house",
+    "types": [
+      "historic_house"
+    ],
+    "search_terms": [
+      "исторический дом",
+      "особняк",
+      "особняки",
+      "вилла",
+      "виллы",
+      "historic house",
+      "villa"
+    ]
+  },
+  "moscow-eparchial-house": {
+    "title": "Епархиальный дом",
+    "parent": "moscow",
+    "place": "moscow-eparchial-house",
+    "types": [
+      "historic_building",
+      "church"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "petrovka-38": {
+    "title": "Петровка, 38",
+    "parent": "moscow",
+    "place": "petrovka-38",
+    "types": [
+      "historic_building"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
+  },
+  "pushkin-square": {
+    "title": "Пушкинская площадь",
+    "parent": "moscow",
+    "place": "pushkin-square",
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ]
+  },
+  "house-with-knight": {
+    "title": "Дом с рыцарем",
+    "parent": "moscow",
+    "place": "house-with-knight",
+    "types": [
+      "historic_building"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
   }
 }

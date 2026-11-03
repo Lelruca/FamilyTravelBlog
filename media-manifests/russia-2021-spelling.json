@@ -31,5 +31,11 @@
  {"key":"p014","from":"художники и разные. Я конечно","to":"художники, и разные.\nЯ конечно","note":"paragraph split by the owner in chat 2026-11-03; comma at the owner request"},
  {"key":"p014","from":"новые имена! Скульптор","to":"новые имена!\nСкульптор","note":"paragraph split by the owner in chat 2026-11-03"},
  {"key":"p016","from":"Куда можно сходить без QR кода?","to":"В Москве наступил локдаун. Куда можно сходить без QR кода?","note":"owner addition in chat 2026-11-03"},
- {"key":"p016","from":"понравилось. А потом мы спустились","to":"понравилось.\nА потом мы спустились","note":"paragraph split: upper and lower church photos by meaning, owner request 2026-11-03"}
+ {"key":"p016","from":"понравилось. А потом мы спустились","to":"понравилось.\nА потом мы спустились","note":"paragraph split: upper and lower church photos by meaning, owner request 2026-11-03"},
+ {"key":"p016","from":"P.S. Фотографировать внутри нельзя. Но блогер во мне победил православного грешника...","to":"","note":"moved by the owner after the upper-church paragraph (her chat 2026-11-03, P.S. dropped); text in .tmp hram-first-visit-owner.txt"},
+ {"key":"p016","from":"Это моё первое посещение. В предыдущие приезды меня Серега отговорил, мол \"новодел\", а потом без меня ходил и ему понравилось 😀","to":"","note":"moved by the owner after the upper-church paragraph (chat 2026-11-03)"},
+ {"key":"p017","from":"любовались церквями и дошли","to":"любовались церквями...\nИ дошли","note":"split for the church photos the owner placed after «любовались церквями» (chat 2026-11-03)"},
+ {"key":"p017","from":"И дошли до Марфо-Мариинской обители милосердия, организованной в 1909 году Великой княгиней Елизаветой Федоровной,","to":"И совершенно случайно дошли до Марфо-Мариинской обители милосердия (она такая неприметная с улицы). Ее организовала в 1909 году Великая княгиня Елизавета Федоровна,","note":"owner rewrite in chat 2026-11-03"},
+ {"key":"p017","from":"о Сергии Радонежском в Третьяковке).","to":"о Сергии Радонежском в Третьяковке). Это прямо такое же необычное ощущение как когда видишь работы Микеланджело в тех церквях для которых он творил. Для меня это было прямо открытием всей поездки!","note":"owner addition in chat 2026-11-03 (typos: Микеланджелов тех, эта было)"},
+ {"key":"p017","from":"Жаль я не успела все послушать (у меня встреча), но мама осталась и думаю все потом мне расскажет.","to":"","note":"replaced by the owner rewrite (bridge to the walking tour), chat 2026-11-03; text in .tmp tour-owner.txt"}
 ]

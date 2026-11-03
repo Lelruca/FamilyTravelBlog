@@ -4729,5 +4729,61 @@
     "country_code": "RU",
     "source": "https://www.openstreetmap.org/relation/1312683",
     "query": "Петроградская сторона"
+  },
+  "gorky-park": {
+    "lat": 55.7270939,
+    "lon": 37.6002408,
+    "name": "Парк Горького",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/2791365",
+    "query": "Парк Горького, Москва"
+  },
+  "church-gregory-neocaesarea": {
+    "lat": 55.7375518,
+    "lon": 37.6193516,
+    "name": "Церковь Григория Неокесарийского в Дербицах",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/11661228",
+    "query": "Григория Неокесарийского"
+  },
+  "igumnov-house": {
+    "lat": 55.7327789,
+    "lon": 37.6129618,
+    "name": "Дом купца Игумнова",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/16561997",
+    "query": "Дом Игумнова"
+  },
+  "moscow-eparchial-house": {
+    "lat": 55.77204,
+    "lon": 37.6128303,
+    "name": "Московский епархиальный дом",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/way/45903933",
+    "query": "Лихов переулок 6"
+  },
+  "petrovka-38": {
+    "lat": 55.769914,
+    "lon": 37.613455,
+    "name": "38 с1, улица Петровка",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/13561876",
+    "query": "Петровка 38"
+  },
+  "pushkin-square": {
+    "lat": 55.7652553,
+    "lon": 37.6053056,
+    "name": "Пушкинская площадь",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/node/4948140722",
+    "query": "Пушкинская площадь, Москва"
+  },
+  "house-with-knight": {
+    "lat": 55.772906,
+    "lon": 37.6125853,
+    "name": "2/12, Садовая-Самотёчная улица",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/way/31951013",
+    "query": "Садовая-Самотёчная улица 2"
   }
 }
