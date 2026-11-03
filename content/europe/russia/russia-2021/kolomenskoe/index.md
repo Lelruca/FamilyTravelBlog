@@ -12,7 +12,7 @@ hero_crop: "center 55%"
 hero_card_position: "center 55%"
 date: "2021-10-22"
 auto_gallery: false
-draft: true
+draft: false
 ---
 <p>Коломенское</p>
 

@@ -14,7 +14,7 @@ hero_crop: "center 18%"
 hero_card_position: "center 18%"
 date: "2021-10-23"
 auto_gallery: false
-draft: true
+draft: false
 ---
 {{< row "20211023_113010.jpg 20211103_132044.jpg" >}}
 

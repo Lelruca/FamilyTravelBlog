@@ -36,7 +36,11 @@ for (const ch of cfg.chapters) {
   // a paragraph may hold several lines of the post joined by <br> (a list or table)
   const got = [...body.matchAll(/<p>([\s\S]*?)<\/p>/g)].flatMap(m => decode(m[1].replace(/<br\s*\/?>/g, "\n")).split("\n"));
   if (got.length !== want.length) fail(`${slug}: ${got.length} paragraphs on the page, ${want.length} in the post`);
-  want.forEach((p, i) => { if (got[i] !== p) fail(`${slug}: paragraph ${i + 1} differs:\n      post: ${JSON.stringify(p.slice(0, 80))}\n      page: ${JSON.stringify((got[i] || "").slice(0, 80))}`); });
+  // paragraphs the layout moves next to a photo (trip-config "moved": ["<start of the paragraph>"]) may stand elsewhere
+  const moved = t => (ch.moved || []).some(m => t.trim().startsWith(m));
+  const gotInOrder = got.filter(t => !moved(t)), wantInOrder = want.filter(t => !moved(t));
+  for (const t of want.filter(moved)) if (!got.includes(t)) fail(`${slug}: moved paragraph missing: ${JSON.stringify(t.slice(0, 80))}`);
+  wantInOrder.forEach((p, i) => { if (gotInOrder[i] !== p) fail(`${slug}: paragraph ${i + 1} differs:\n      post: ${JSON.stringify(p.slice(0, 80))}\n      page: ${JSON.stringify((gotInOrder[i] || "").slice(0, 80))}`); });
   paragraphs += want.length;
   // photos: the cover and every photo link of the chapter
   const header = html.slice(html.indexOf('class="essay-header"'), html.indexOf('class="essay-body"'));
@@ -46,7 +50,8 @@ for (const ch of cfg.chapters) {
   const notR2 = shown.filter(u => !u.startsWith(base)); if (notR2.length) fail(`${slug}: not from R2: ${notR2.slice(0, 3).join(" ")}`);
   // a photo of another chapter of the trip used as this chapter's cover (key "chapter/name") is counted there
   const names = shown.filter(u => u.includes(`/${slug}/`)).map(u => decodeURIComponent(u.split("/").pop()));
-  const expected = manifest.photos.filter(p => p.chapter === slug).map(p => displayName(p.archive_name));
+  // (a zz_ file stays in the Drive archive only, as in gen-fb-trip-pages and make-display-copies)
+  const expected = manifest.photos.filter(p => p.chapter === slug && !/^zz_/.test(path.basename(p.archive_name))).map(p => displayName(p.archive_name));
   const missing = expected.filter(n => !names.includes(n)), extra = names.filter(n => !expected.includes(n));
   // the chapter cover stays in the story too (the owner's rule): once in the header and once in the text is right
   const cover = [...header.matchAll(/href="([^"]+\.jpg)"[^>]*data-photo-lightbox/g)].map(m => decodeURIComponent(m[1].split("/").pop()));
@@ -59,12 +64,15 @@ for (const ch of cfg.chapters) {
   if (twice.length) fail(`${slug}: photos shown twice: ${twice.join(" ")}`);
   photos += names.length;
   // captions
-  for (const p of manifest.photos.filter(p => p.chapter === slug && p.caption)) {
+  for (const p of manifest.photos.filter(p => p.chapter === slug && p.caption && !/^zz_/.test(path.basename(p.archive_name)))) {
     const attrs = [...html.matchAll(/data-caption="([^"]*)"/g)].map(m => decode(m[1]));
     // a long caption may be shown as a paragraph next to its photo instead (class photo-note)
     const notes = [...body.matchAll(/<p class="photo-note">([\s\S]*?)<\/p>/g)].map(m => decode(m[1].replace(/<br>/g, "\n")));
     const cap = fixCaption(ch.key, p.source_position, p.caption);
-    if (!attrs.includes(cap) && !notes.some(n => n.includes(cap)) && !want.some(t => sameText(t, cap))) fail(`${slug}: caption of ${displayName(p.archive_name)} missing or changed`);
+    // (or the whole caption is several paragraphs of the text, as gen-fb-trip-pages counts it)
+    const letters = s => s.toLowerCase().replace(/[^\p{L}\p{N}]/gu, "");
+    const inText = cap.includes("\n") && letters(want.join("\n")).includes(letters(cap));
+    if (!attrs.includes(cap) && !notes.some(n => n.includes(cap)) && !want.some(t => sameText(t, cap)) && !inText) fail(`${slug}: caption of ${displayName(p.archive_name)} missing or changed`);
     else captions++;
   }
 }

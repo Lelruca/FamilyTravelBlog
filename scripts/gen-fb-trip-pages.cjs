@@ -48,6 +48,8 @@ const chapterDate = (slug, post) => {
 
 const report = [];
 const textCaps = new Set();
+// captions that repeat a paragraph of the text (not repeated next to their photo in a beside block)
+const parCaps = new Set();
 cfg.chapters.forEach((ch, n) => {
   // a chapter without a post (trip-config "originals") has photos only, its text is written later
   // trip-config "post": { key, feedOrder, paras: [a, b] } — a chapter of chosen originals that shows paragraphs a…b
@@ -73,7 +75,10 @@ cfg.chapters.forEach((ch, n) => {
   const lettersOf = s => s.toLowerCase().replace(/[^\p{L}\p{N}]/gu, "");
   const allText = lettersOf(paras.join("\n"));
   for (const p of mine) if (p.caption && (paras.some(t => sameText(t, fixCaption(ch.key, p.source_position, p.caption))) ||
-    p.caption.includes("\n") && allText.includes(lettersOf(fixCaption(ch.key, p.source_position, p.caption))))) textCaps.add(`${ch.slug}/${displayName(p.archive_name)}`);
+    p.caption.includes("\n") && allText.includes(lettersOf(fixCaption(ch.key, p.source_position, p.caption))))) {
+    textCaps.add(`${ch.slug}/${displayName(p.archive_name)}`);
+    parCaps.add(`${ch.slug}/${displayName(p.archive_name)}`);
+  }
   const name = t => t.replace(/^([LRT]:)?(\d+[a-z]?)$/, (all, k, num) => (k || "") + (byPos[num] || "MISSING" + num));
   const raw = layout.chapters[ch.slug] || { blocks: [] };
   const hero = raw.hero && name(String(raw.hero));
@@ -113,7 +118,7 @@ cfg.chapters.forEach((ch, n) => {
       const lines = b.paras ? paras.slice(b.paras[0], b.paras[1] + 1).map(esc) : [];
       const inner = (b.join ? [`<p>${lines.join("<br>")}</p>`] : lines.map(t => `<p>${t}</p>`))
         // (a caption already standing as a paragraph is not repeated under the photo)
-        .concat((capByPos[String(b.items)] && !textCaps.has(`${ch.slug}/${byPos[String(b.items)]}`)) || !b.paras ? [note(String(b.items))] : []);
+        .concat((capByPos[String(b.items)] && !parCaps.has(`${ch.slug}/${byPos[String(b.items)]}`)) || !b.paras ? [note(String(b.items))] : []);
       return `{{< beside photo="${b.names}"${b.side ? ` side="${b.side}"` : ""} >}}\n${inner.join("\n")}\n{{< /beside >}}`;
     }
     return `{{< ${b.kind} "${b.names}" >}}`;

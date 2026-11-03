@@ -17,7 +17,7 @@ hero_image: "20211107_113519.jpg"
 hero_card_position: "center 60%"
 date: "2021-11-07"
 auto_gallery: false
-draft: true
+draft: false
 ---
 <p>Пошли с мамой в продуктовый, решили пару переулков лишних пройти и... до магазина не дошли! А шли и любовались церквями...</p>
 
