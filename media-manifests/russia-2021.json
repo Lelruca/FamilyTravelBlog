@@ -9483,7 +9483,15 @@
   "skipped": [],
   "cover": {
     "shown": {
-      "archive_name": "00 - Обложка/01_20211026_141653.jpg",
+      "archive_name": "00 - Обложка/01_20211026_141620.jpg",
+      "kind": "original",
+      "original_relative_path": "2021 Осень + декабрь/Россия/20211026_141620.jpg",
+      "note": "Обложка поездки по выбору владельца 2026-11-06: Леля на Большом Каменном мосту, за ней Кремль; оригинал без обработки",
+      "bytes": 2709556,
+      "sha256": "2040fc0464562b3bd0c54eb5ac240c37621cbd6953a5b8d0cb823a3a2953bb77"
+    },
+    "previous": {
+      "archive_name": "00 - Обложка/zz_прежняя_20211026_141653.jpg",
       "kind": "original",
       "original_relative_path": "2021 Осень + декабрь/Россия/20211026_141653.jpg",
       "note": "Обложка поездки по выбору владельца 2026-11-02: Леля на Большом Каменном мосту, за ней Кремль",
@@ -9498,10 +9506,10 @@
   ],
   "archive_verified": true,
   "drive_sync_verified": true,
-  "drive_sync_checked": "2026-11-06T04:56:09.005Z",
+  "drive_sync_checked": "2026-11-06T05:15:50.186Z",
   "drive_trip_folder_id": "1zovmB3gzhC7TPtVJ4OGlToMUn1MAflXt",
   "r2": {
-    "checked": "2026-11-06T05:00:26.955Z",
+    "checked": "2026-11-06T05:16:14.011Z",
     "base": "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/",
     "copies": [
       {
