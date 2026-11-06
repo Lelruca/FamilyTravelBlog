@@ -4785,5 +4785,69 @@
     "country_code": "RU",
     "source": "https://www.openstreetmap.org/way/31951013",
     "query": "Садовая-Самотёчная улица 2"
+  },
+  "moscow-metro": {
+    "lat": 55.7754192,
+    "lon": 37.6574188,
+    "name": "Метро Комсомольская",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/node/1149504146",
+    "query": "Комсомольская метро Москва"
+  },
+  "bauman-university": {
+    "lat": 55.7657397,
+    "lon": 37.6831336,
+    "name": "МГТУ им. Баумана",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/node/2828437710",
+    "query": "МГТУ им. Баумана, 2-я Бауманская"
+  },
+  "moscow-cathedral-mosque": {
+    "lat": 55.7789417,
+    "lon": 37.6269913,
+    "name": "Московская соборная мечеть",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/way/128264422",
+    "query": "Московская соборная мечеть"
+  },
+  "nikulin-circus": {
+    "lat": 55.770419,
+    "lon": 37.6201739,
+    "name": "Московский цирк Никулина",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/86444",
+    "query": "Цирк Никулина"
+  },
+  "bolshoi-theatre": {
+    "lat": 55.7601296,
+    "lon": 37.6186118,
+    "name": "Большой театр",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/node/6061084593",
+    "query": "Большой театр, Москва"
+  },
+  "kamergersky-lane": {
+    "lat": 55.7599414,
+    "lon": 37.6135265,
+    "name": "Камергерский переулок",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/way/848200363",
+    "query": "Камергерский переулок"
+  },
+  "central-telegraph": {
+    "lat": 55.7583099,
+    "lon": 37.6116443,
+    "name": "Центральный телеграф",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/451292",
+    "query": "Центральный телеграф"
+  },
+  "reutov": {
+    "lat": 55.7622453,
+    "lon": 37.856555,
+    "name": "Реутов",
+    "country_code": "RU",
+    "source": "https://www.openstreetmap.org/relation/2142174",
+    "query": "Реутов, Московская область"
   }
 }

@@ -9,9 +9,8 @@ places:
   - new-tretyakov-gallery
   - muzeon
   - krymskaya-embankment
-hero_image: "20211023_114105.jpg"
-hero_crop: "center 18%"
-hero_card_position: "center 18%"
+hero_image: "20211023_123916.jpg"
+hero_card_position: "center 50%"
 date: "2021-10-23"
 auto_gallery: false
 draft: false
@@ -28,7 +27,7 @@ draft: false
 
 {{< row "20211023_123111.jpg 20211023_123144.jpg" >}}
 
-{{< row "20211023_123916.jpg 20211023_123434.jpg" >}}
+{{< row "20211023_123434.jpg" >}}
 
 {{< row "20211023_123537.jpg 20211023_123812.jpg" >}}
 

@@ -14252,5 +14252,120 @@
       "архитектура",
       "historic building"
     ]
+  },
+  "moscow-metro": {
+    "title": "Московское метро",
+    "parent": "moscow",
+    "place": "moscow-metro",
+    "types": [
+      "station"
+    ],
+    "search_terms": [
+      "вокзал",
+      "вокзалы",
+      "железнодорожная станция",
+      "station"
+    ]
+  },
+  "bauman-university": {
+    "title": "МГТУ им. Баумана",
+    "parent": "moscow",
+    "place": "bauman-university",
+    "types": [
+      "university"
+    ],
+    "search_terms": [
+      "университет",
+      "университеты",
+      "университета",
+      "колледж",
+      "university",
+      "college"
+    ]
+  },
+  "moscow-cathedral-mosque": {
+    "title": "Соборная мечеть",
+    "parent": "moscow",
+    "place": "moscow-cathedral-mosque",
+    "types": [
+      "temple"
+    ],
+    "search_terms": [
+      "храм",
+      "храмы",
+      "храма",
+      "храмов",
+      "святилище",
+      "temple"
+    ]
+  },
+  "nikulin-circus": {
+    "title": "Цирк Никулина",
+    "parent": "moscow",
+    "place": "nikulin-circus",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ]
+  },
+  "bolshoi-theatre": {
+    "title": "Большой театр",
+    "parent": "moscow",
+    "place": "bolshoi-theatre",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ]
+  },
+  "kamergersky-lane": {
+    "title": "Камергерский переулок",
+    "parent": "moscow",
+    "place": "kamergersky-lane",
+    "types": [
+      "street"
+    ],
+    "search_terms": [
+      "улица",
+      "улицы",
+      "улиц",
+      "проспект",
+      "бульвар",
+      "набережная",
+      "набережные",
+      "street"
+    ]
+  },
+  "central-telegraph": {
+    "title": "Центральный телеграф",
+    "parent": "moscow",
+    "place": "central-telegraph",
+    "types": [
+      "historic_building"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
   }
 }
