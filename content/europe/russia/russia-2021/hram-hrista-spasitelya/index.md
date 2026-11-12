@@ -13,6 +13,7 @@ hero_card_position: "center 68%"
 date: "2021-11-04"
 auto_gallery: false
 draft: false
+attractions: ["cathedral-christ-saviour","moscow-metro"]
 ---
 <p>В Москве наступил локдаун. Куда можно сходить без QR кода? В самое демократичное место - Храм! Что мы с мамой сегодня и сделали. Храм Христа Спасителя. </p>
 

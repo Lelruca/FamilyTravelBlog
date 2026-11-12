@@ -4,7 +4,7 @@
 // Photos not placed by the layout go after the last paragraph, so none is lost while the layout is in progress.
 //
 // Usage: node scripts/gen-fb-trip-pages.cjs <trip-config.json> <pages.json> [layout.json]
-//   pages.json: { dir, trip: { front matter of _index.md }, chapters: { <slug>: { title, city, places, kind? } } }
+//   pages.json: { dir, trip: { front matter of _index.md }, chapters: { <slug>: { title, city, places, attractions?, kind? } } }
 //   layout.json: { draft, cover, cover_position, chapters: { <slug>: { hero, hero_crop, card (the photo of the chapter tile
 //                  on the trip page when it should differ from the cover), joins: [[from, to]], blocks: [
 //                  { after: <paragraph index, -1 = before the first>, kind: "row"|"mosaic", items: "L:3 5 7" },
@@ -138,6 +138,12 @@ cfg.chapters.forEach((ch, n) => {
   const m = pages.chapters[ch.slug];
   const dir = `${tripDir}/${ch.slug}`;
   fs.mkdirSync(dir, { recursive: true });
+  // Keep reviewed search links when a later photo/text layout regenerates the chapter.
+  // An explicit array in pages.json (including []) overrides the existing tags.
+  const previousFront = fs.existsSync(`${dir}/index.md`)
+    ? fs.readFileSync(`${dir}/index.md`, "utf8").match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/)?.[1] || "" : "";
+  const attractions = m.attractions !== undefined ? `attractions: ${JSON.stringify(m.attractions)}`
+    : previousFront.match(/^attractions:[^\r\n]*(?:\r?\n[ \t]+-[^\r\n]*)*/m)?.[0];
   fs.writeFileSync(`${dir}/index.md`, `---
 title: ${yaml(m.title)}
 chapter_kind: "${m.kind || "part"}"
@@ -147,7 +153,7 @@ city: ${yaml(m.city)}
 places:${yaml(m.places)}${m.aliases ? `
 aliases:${yaml(m.aliases)}` : ""}
 ${hero ? `hero_image: ${yaml(hero)}\n` : ""}${raw.hero_crop ? `hero_crop: ${yaml(raw.hero_crop)}\n` : ""}${raw.card ? `hero_card_image: ${yaml(name(String(raw.card)))}\n` : ""}${raw.hero_card_position ? `hero_card_position: ${yaml(raw.hero_card_position)}\n` : ""}date: "${chapterDate(ch.slug, post)}"
-auto_gallery: false
+auto_gallery: false${attractions ? `\n${attractions}` : ""}
 draft: ${draft}
 ---
 ${body.join("\n\n")}

@@ -19,6 +19,7 @@ hero_image: "20211028_051110.jpg"
 date: "2021-10-28"
 auto_gallery: false
 draft: false
+attractions: ["moskovsky-station-spb","nevsky-prospect","admiralty-spb","saint-isaacs-cathedral","kunstkamera","rostral-columns","palace-bridge","trinity-bridge-spb","bolsheokhtinsky-bridge"]
 ---
 <p>В Москве сегодня начался локдаун. Закрыто все - магазины (кроме продуктов), парикмахерские и салоны, работы... только музеи и театры открыты! Но они теперь с QR кодом.</p>
 

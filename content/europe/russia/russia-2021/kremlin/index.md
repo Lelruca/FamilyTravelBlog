@@ -15,6 +15,7 @@ hero_image: "20211026_101719.jpg"
 date: "2021-10-26"
 auto_gallery: false
 draft: false
+attractions: ["moscow-kremlin","red-square","saint-basils-cathedral","gum-moscow","alexander-garden"]
 ---
 <p>Я шагаю по Москве!<br> Слов нет, одни восторженные эмоции! Мы с мамой сегодня гуляли по Кремлю и ходили в Оружейную палату (о ней позже).<br>Внутрь путь лежит через Троицкие ворота.</p>
 

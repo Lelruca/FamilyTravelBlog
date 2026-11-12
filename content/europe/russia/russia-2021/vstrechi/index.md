@@ -13,6 +13,7 @@ hero_card_position: "center 18%"
 date: "2021-11-01"
 auto_gallery: false
 draft: false
+attractions: []
 ---
 <p>Все в Москве и Питере было интересно, красиво и до боли знакомо, но все это было НЕ ГЛАВНОЕ в этой поездке!</p>
 

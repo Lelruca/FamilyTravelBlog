@@ -22,6 +22,7 @@ hero_image: "20211030_133140.jpg"
 date: "2021-10-30"
 auto_gallery: false
 draft: false
+attractions: ["smolny-cathedral","chizhik-pyzhik","saint-isaacs-cathedral","university-sphinxes","rostral-columns","peter-and-paul-fortress","prince-vladimir-cathedral","anichkov-bridge","pantaleimon-bridge","petrograd-side","admiralteyskaya-metro","ploshchad-vosstaniya"]
 ---
 <p>На третий день я решила "сдаться" профессионалам и взять экскурсию по городу на микроавтобусе - такая приятная, небольшая группа. Экскурсовод, как и ожидается от города глубокой культуры, был высокообразованным интеллектуалом и рассказывал интересно и глубоко.</p>
 

@@ -11,6 +11,7 @@ hero_image: "20211020_115422.jpg"
 date: "2021-10-20"
 auto_gallery: false
 draft: false
+attractions: ["moscow--tretyakovskaya-galereya"]
 ---
 <p>Для русского (советского) человека посетить Москву стоит только ради похода в Третьяковскую галерею!</p>
 

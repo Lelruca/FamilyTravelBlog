@@ -16,6 +16,7 @@ hero_card_position: "center 50%"
 date: "2021-11-17"
 auto_gallery: false
 draft: false
+attractions: ["kamergersky-lane","gum-moscow"]
 ---
 <p>У меня пошел обратный отсчет нахождения в Москве, пятая неделя пребывания. Я бы сказала, что я вышла на третий этап "восприятия действительности".</p>
 

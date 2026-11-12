@@ -16,6 +16,7 @@ hero_image: "20211121_194011.jpg"
 date: "2021-10-27"
 auto_gallery: false
 draft: false
+attractions: ["satire-theatre","moscow-operetta-theatre","mkhat-gorky","sfera-theatre","mossovet-theatre","maly-theatre"]
 ---
 <p>Мы с мамой сегодня приобщились к театру! Спектакль не выбирали, взяли те билеты, что подошли нам по времени из доступного.  Осталось всего несколько дней до закрытия доступа в музеи и театры без QR-кода, поэтому мы используем время на полную катушку. </p>
 

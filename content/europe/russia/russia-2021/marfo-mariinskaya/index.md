@@ -18,6 +18,7 @@ hero_card_position: "center 60%"
 date: "2021-11-07"
 auto_gallery: false
 draft: false
+attractions: ["igumnov-house","church-gregory-neocaesarea","marfo-mariinsky-convent","house-with-knight","moscow-eparchial-house","petrovka-38","pushkin-square"]
 ---
 <p>Пошли с мамой в продуктовый, решили пару переулков лишних пройти и... до магазина не дошли! А шли и любовались церквями...</p>
 

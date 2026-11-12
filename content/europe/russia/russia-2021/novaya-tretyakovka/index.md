@@ -14,6 +14,7 @@ hero_card_position: "center 50%"
 date: "2021-10-23"
 auto_gallery: false
 draft: false
+attractions: ["new-tretyakov-gallery","muzeon","krymskaya-embankment"]
 ---
 {{< row "20211023_113010.jpg 20211103_132044.jpg" >}}
 

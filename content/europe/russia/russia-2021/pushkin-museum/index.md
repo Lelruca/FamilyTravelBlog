@@ -12,6 +12,7 @@ hero_image: "20211111_132108.jpg"
 date: "2021-11-12"
 auto_gallery: false
 draft: false
+attractions: ["pushkin-museum","new-tretyakov-gallery"]
 ---
 <h3 class="essay-section">Пушкинский музей</h3>
 

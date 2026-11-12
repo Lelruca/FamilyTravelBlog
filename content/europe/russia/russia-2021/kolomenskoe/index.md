@@ -13,6 +13,7 @@ hero_card_position: "center 55%"
 date: "2021-10-22"
 auto_gallery: false
 draft: false
+attractions: ["kolomenskoe"]
 ---
 <p>Коломенское</p>
 
