@@ -31,3 +31,35 @@ for (const id of ['kolomenskoe', 'louvre', 'rijksmuseum', 'moscow--tretyakovskay
 }
 assert.ok(!ids.has('tretyakov-gallery'), 'Unused duplicate Tretyakov definition must not be a result');
 console.log(`Verified ${sights.length} attraction results in ${pages.size} places: every fragment exists and has chapter links.`);
+
+// Links to different chapters must have different visible labels and use the real TOC number.
+let chapterLinks = 0;
+for (const [city, page] of pages) {
+  for (const block of page.matchAll(/<div\b[^>]*class=(?:"city-sight"|city-sight)[^>]*>([\s\S]*?)<\/div>/g)) {
+    const labels = new Map();
+    for (const link of block[1].matchAll(/<a\b([^>]*\bhref=[^>]*)>([\s\S]*?)<\/a>/g)) {
+      const href = link[1].match(/\bhref=(?:"([^"]+)"|([^\s>]+))/).slice(1).find(Boolean);
+      const label = link[2].replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+      assert.ok(!labels.has(label) || labels.get(label) === href, city + ': indistinguishable chapter links: ' + label);
+      labels.set(label, href);
+      const number = Number(label.match(/ · гл\. (\d+)$/)?.[1]);
+      assert.ok(number > 0, city + ': missing chapter number in ' + label);
+      const chapterPath = new URL(href, 'https://example.invalid').pathname.replace(/^.*?\/(europe|americas|asia)\//, '$1/');
+      const chapter = fs.readFileSync(path.join(build, chapterPath, 'index.html'), 'utf8');
+      const toc = chapter.match(/<ol\b[^>]*class=(?:"toc-list"|toc-list)[^>]*>([\s\S]*?)<\/ol>/)?.[1];
+      assert.ok(toc, href + ': missing chapter table of contents');
+      const current = [...toc.matchAll(/<li\b[^>]*>([\s\S]*?)<\/li>/g)].find(m => m[1].includes('aria-current=page') || m[1].includes('aria-current="page"'));
+      const tocNumber = current?.[1].match(/<span\b[^>]*class=(?:"n"|n)[^>]*>(\d+)<\/span>/)?.[1];
+      assert.equal(number, Number(tocNumber), href + ': link number differs from table of contents');
+      assert.match(link[1], /\btitle=/, href + ': missing full chapter title');
+      chapterLinks++;
+    }
+  }
+}
+const moscow = pages.get('moscow');
+const kremlin = moscow.match(/<div class=city-sight id=a-moscow-kremlin>([\s\S]*?)<\/div>/)[1];
+const armoury = moscow.match(/<div class=city-sight id=a-armoury-chamber>([\s\S]*?)<\/div>/)[1];
+assert.ok(kremlin.includes('/russia-2021/kremlin/') && !kremlin.includes('/russia-2021/oruzheynaya-palata/'), 'Kremlin must link to its own 2021 chapter');
+assert.ok(armoury.includes('/russia-2021/oruzheynaya-palata/'), 'Armoury must link to its own 2021 chapter');
+assert.match(armoury, /2021 · Я шагаю по Москве · гл\. 7/);
+console.log(`Verified ${chapterLinks} distinct chapter labels against their tables of contents; Kremlin/Armoury separation passed.`);

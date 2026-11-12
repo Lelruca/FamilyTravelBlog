@@ -67,21 +67,20 @@
 
   {{- if $sights }}
   <section id="city-sights" role="tabpanel" aria-labelledby="city-tab-sights" hidden>
-  {{- /* a sight and a button per chapter about it, labelled «year · trip» («2016 · Римские каникулы»); two chapters of one
-         trip become «2017-1 · …», «2017-2 · …»; the chapter's title is in the button's title */ -}}
+  {{- /* Compact links retain the year and trip; the actual table-of-contents chapter number distinguishes them.
+         The complete chapter title stays in the tooltip and accessible name. */ -}}
   {{- range $sights }}
     <div class="city-sight" id="a-{{ .id }}">
       <h3>{{ .title }}</h3>
       <span class="city-years">
-      {{- $keys := slice }}{{ range $sightCh.Get .id }}{{ $keys = $keys | append .Parent.RelPermalink }}{{ end }}
-      {{- $seen := slice }}
       {{- range $sightCh.Get .id }}
+        {{- $chapter := . }}
         {{- $trip := .Parent }}
         {{- $year := printf "%v" ($trip.Params.trip_year | default (.Date.Format "2006")) }}
         {{- $name := strings.TrimRight "!" ($trip.Params.cover_title | default $trip.Title) }}
-        {{- $n := add 1 (len (where $seen "." $trip.RelPermalink)) }}{{ $seen = $seen | append $trip.RelPermalink }}
-        {{- if gt (len (where $keys "." $trip.RelPermalink)) 1 }}{{ $year = printf "%s-%d" $year $n }}{{ end }}
-      <a href="{{ .RelPermalink }}" title="{{ .Title }}" aria-label="{{ .Title }} · {{ $name }}, {{ $year }}">{{ $year }} · {{ $name }}</a>
+        {{- $number := 0 }}
+        {{- range $i, $ch := $trip.Pages.ByWeight }}{{ if eq $ch.RelPermalink $chapter.RelPermalink }}{{ $number = add $i 1 }}{{ end }}{{ end }}
+      <a href="{{ .RelPermalink }}" title="{{ .Title }}" aria-label="{{ .Title }} · {{ $name }}, {{ $year }}, глава {{ $number }}">{{ $year }} · {{ $name }} · гл. {{ $number }}</a>
       {{- end }}
       </span>
     </div>
