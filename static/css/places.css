@@ -53,7 +53,7 @@
 .city-sight h3{margin:0 0 6px;font:600 16px/1.35 Inter,system-ui,sans-serif}
 .city-years{display:flex;flex-wrap:wrap;gap:6px}
 .city-years a{max-width:100%;border:1px solid #cfe3df;border-radius:999px;padding:3px 11px;color:#1f7a6f;text-decoration:none;font:500 14px/1.4 Inter,system-ui,sans-serif;white-space:normal;overflow-wrap:anywhere}
-.city-sight:target{background:#f1f8f6;border-radius:8px;padding-left:10px;padding-right:10px}
+.city-sight:target{background:#f1f8f6;border-radius:8px}
 .city-back{display:inline-block;margin-top:28px;font-size:14px;color:#2a9d8f;text-decoration:underline}
 @media(hover:hover){.city-ch:hover{border-left-color:#2a9d8f}.city-ch:hover .city-ch-title{color:#2a9d8f}.city-years a:hover{background:#2a9d8f;border-color:#2a9d8f;color:#fff}}
 @media(max-width:640px){#places-list section:not(.folded) h2,#sights-found h2,.city-tabs{top:56px}#place-map{height:420px}.city-head h1{font-size:30px}.city-tabs button{padding:8px 13px;font-size:14px}}
