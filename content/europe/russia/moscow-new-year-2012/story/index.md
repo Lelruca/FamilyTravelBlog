@@ -9,7 +9,7 @@ city: "Москва"
 places:
   - moscow
 auto_gallery: false
-attractions: ["moscow--tretyakovskaya-galereya","moscow--teatr-sovremennik","moscow--kremlin-armoury"]
+attractions: ["moscow--tretyakovskaya-galereya","moscow--teatr-sovremennik","moscow-kremlin","armoury-chamber"]
 ---
 
 <p>Даже не верится. Сижу уже на работе, а вчера утром по Москве ехала :-)</p>

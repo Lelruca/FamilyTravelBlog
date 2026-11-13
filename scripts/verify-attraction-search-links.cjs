@@ -30,6 +30,7 @@ for (const id of ['kolomenskoe', 'louvre', 'rijksmuseum', 'moscow--tretyakovskay
   assert.ok(ids.has(id), id + ': missing published result');
 }
 assert.ok(!ids.has('tretyakov-gallery'), 'Unused duplicate Tretyakov definition must not be a result');
+assert.ok(!ids.has('moscow--kremlin-armoury'), 'Combined Kremlin/Armoury tag must not duplicate the two canonical sights');
 console.log(`Verified ${sights.length} attraction results in ${pages.size} places: every fragment exists and has chapter links.`);
 
 // Links to different chapters must have different visible labels and use the real TOC number.
@@ -61,5 +62,8 @@ const kremlin = moscow.match(/<div class=city-sight id=a-moscow-kremlin>([\s\S]*
 const armoury = moscow.match(/<div class=city-sight id=a-armoury-chamber>([\s\S]*?)<\/div>/)[1];
 assert.ok(kremlin.includes('/russia-2021/kremlin/') && !kremlin.includes('/russia-2021/oruzheynaya-palata/'), 'Kremlin must link to its own 2021 chapter');
 assert.ok(armoury.includes('/russia-2021/oruzheynaya-palata/'), 'Armoury must link to its own 2021 chapter');
+for (const [name, block] of [['Kremlin', kremlin], ['Armoury', armoury]]) {
+  assert.ok(block.includes('/moscow-new-year-2012/story/'), name + ': missing the shared 2012 story');
+}
 assert.match(armoury, /2021 · Я шагаю по Москве · гл\. 7/);
 console.log(`Verified ${chapterLinks} distinct chapter labels against their tables of contents; Kremlin/Armoury separation passed.`);

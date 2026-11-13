@@ -2,7 +2,7 @@
   "status": "all_current_chapter_decisions_reconciled_limits_open",
   "chapters": 436,
   "trips": 72,
-  "object_decisions_in_chapters": 2274,
+  "object_decisions_in_chapters": 2275,
   "unknown_names_and_source_limits": "reviews/source-audit/QUESTIONS.md",
   "other_worktree_texts": "reviews/source-audit/worktree-scope.json",
   "standalone_source_reviews": [
@@ -1797,7 +1797,7 @@
     {
       "file": "content/europe/russia/moscow-new-year-2012/story/index.md",
       "report": "reviews/source-audit/trips/moscow-new-year-2012.json",
-      "objects": 7,
+      "objects": 8,
       "status": "decisions_and_links_reconciled"
     },
     {
