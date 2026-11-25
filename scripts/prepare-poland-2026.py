@@ -45,14 +45,14 @@ LONG_SIDE = 2000
 # A photo is its number in the chapter folder, or (chapter, number) for one that the owner put into another
 # chapter's folder; the archive stage moves it into the folder of the chapter that shows it.
 CHAPTERS = [
- dict(slug='wroclaw-1', folder='01 - Вроцлав - 1', title='Вроцлав - 1', source='Вроцлав - 1.md', date='2026-11-14',
-  city='Вроцлав', places=['wroclaw'], hero=39, layout={
+ dict(slug='wroclaw-1', folder='01 - Вроцлав - 1', title='Вроцлав - первое впечатление', source_title='Вроцлав - 1', source='Вроцлав - 1.md', date='2026-11-14',
+  city='Вроцлав', places=['wroclaw'], hero=42, layout={
    1: [('r', [1])],
    3: [('r', [2, 3])],
    4: [('m', [4, 5, 6])],
    6: [('r', [21, 32, 22]), ('r', [27, 23, 24]), ('r', [28]), ('r', [29, 30, 25]), ('r', [26, 31])],
    7: [('r', [7, 11, 8]), ('r', [15]), ('r', [13, 14, 72]), ('r', [9, 10, 16]), ('r', [17, 18]), ('r', [19, 20])],
-   8: [('r', [34, 35]), ('r', [33, 36]), ('r', [37, 38]), ('r', [40, 74, 41]), ('r', [42, 43])],
+   8: [('r', [34, 35]), ('r', [33, 36]), ('r', [37, 38]), ('r', [39]), ('r', [40, 74, 41]), ('r', [43])],
    9: [('r', [44, 47, 46]), ('r', [45, 48]), ('r', [50, 54, 55]), ('r', [53, 52, 51]), ('v', 49), ('r', [57, 56, 58]), ('v', 59)],
    10: [('r', [60, 62, 65]), ('r', [68, 71])],
    11: [('r', [66, 69, 70])],
@@ -60,7 +60,7 @@ CHAPTERS = [
    15: [('r', [61, 63])],
    16: [('r', [12])]},
   unused={73: 'WhatsApp copy of photo 58 (the lamplighter): same frame, smaller'}),
- dict(slug='wroclaw-2', folder='02 - Вроцлав - 2', title='Вроцлав - 2', source='Вроцлав - 2.md', date='2026-11-15',
+ dict(slug='wroclaw-2', folder='02 - Вроцлав - 2', title='Вроцлав - панорама и гномики', source_title='Вроцлав - 2', source='Вроцлав - 2.md', date='2026-11-15',
   city='Вроцлав', places=['wroclaw'], hero=36, layout={
    2: [('r', [13, 14])],
    3: [('r', [26, 15]), ('r', [16, 17]), ('r', [18, 22, 23]), ('r', [19, 21]), ('r', [24, 25])],
@@ -75,7 +75,7 @@ CHAPTERS = [
    11: [('r', [59, 60])]},
   unused={4: 'Same file as Wroclaw 1 photo 40 (shown there, day 1)', 7: 'Same file as Wroclaw 1 photo 58 (shown there, day 1)',
           61: 'Same file as Wroclaw 1 photo 74 (shown there, day 1)'}),
- dict(slug='krakow-1', folder='03 - Краков - 1', title='Краков - 1', source='Краков - 1.md', date='2026-11-16',
+ dict(slug='krakow-1', folder='03 - Краков - 1', title='Краков - Рыночная площадь и костёлы', source_title='Краков - 1', source='Краков - 1.md', date='2026-11-16',
   city='Краков', places=['krakow'], hero=52, layout={
    1: [('r', [50, 37])],
    2: [('r', [19, 20]), ('r', [21, 5]), ('x', [25, 32, 38])],
@@ -88,7 +88,7 @@ CHAPTERS = [
    10: [('r', [8, 7])],
    11: [('x', [34]), ('r', [35, 36])]},
   unused={}),
- dict(slug='krakow-2', folder='04 - Краков - 2', title='Краков - 2', source='Краков - 2.md', date='2026-11-17',
+ dict(slug='krakow-2', folder='04 - Краков - 2', title='Краков - музеи и Вавель', source_title='Краков - 2', source='Краков - 2.md', date='2026-11-17',
   city='Краков', places=['krakow'], hero=32, layout={
    2: [('r', [1, 26]), ('x', [5, 2, 7]), ('r', [11, 13, 9]), ('r', [18, 15]), ('r', [12, 14, 16])],
    3: [('r', [4, 21, 23]), ('x', [19, 24]), ('r', [22, 25])],
@@ -102,7 +102,7 @@ CHAPTERS = [
    9: [('r', [65, 66]), ('r', [67, 68]), ('r', [69, 70])]},
   unused={i: 'Museum label or information screen: source of a caption, not a photo of the story'
           for i in [3, 6, 8, 10, 17, 20, 57, 59, 71, 77, 85, 88, 90]}),
- dict(slug='krakow-3', folder='05 - Краков - 3', title='Краков - 3', source='Краков - 3.md', date='2026-11-18',
+ dict(slug='krakow-3', folder='05 - Краков - 3', title='Соляные шахты Велички', source_title='Краков - 3', source='Краков - 3.md', date='2026-11-18',
   city='Краков, Величка', places=['krakow', 'wieliczka'], hero=14, layout={
    1: [('r', [27, 2])],
    3: [('r', [3, 4, 8])],
@@ -115,7 +115,8 @@ CHAPTERS = [
    12: [('r', [39])]},
   unused={7: 'Near-duplicate of photo 6: the same salt sculpture of Kinga in the same second, from the second phone'}),
 ]
-TRIP_COVER = dict(chapter='krakow-1', photo=53, position='center 48%')  # the owner asked for a city view
+# The owner's choice on 24 Nov 2026 (first a Kraków city view, which cut the church): Tumski island over the Oder
+TRIP_COVER = dict(chapter='wroclaw-1', photo=39, position='center 60%')
 # Sights named in each chapter text (data/attractions.json)
 ATTRACTIONS = {
  'wroclaw-1': ['wroclaw--muzey-vroclavskogo-universiteta', 'wroclaw--tumskiy-ostrov', 'wroclaw--kafedralnyy-sobor'],
@@ -327,7 +328,7 @@ def check():
     # sources: chapter texts and caption files are on Drive; captions are verbatim from the caption files
     for c in CHAPTERS:
         title, paras = paragraphs(SOURCES / c['source'])
-        if title != c['title']: problems.append(f"{c['slug']}: source title {title!r}")
+        if title != c.get('source_title', c['title']): problems.append(f"{c['slug']}: source title {title!r}")
         if max(c['layout']) > len(paras): problems.append(f"{c['slug']}: layout refers to paragraph {max(c['layout'])} of {len(paras)}")
     print('\n'.join(problems) if problems else f'OK: {len(inv)} files, {sum(len(v) for v in order.values())} shown, layout rules hold.')
     return not problems
@@ -547,6 +548,54 @@ attractions: {json.dumps(ATTRACTIONS[c['slug']])}
     print(f"Rendered {len(m['chapters'])} chapters, {sum(len(s['paragraphs']) for s in m['sources'])} paragraphs.")
 
 
+def relayout():
+    """Apply later changes of CHAPTERS (hero, blocks, titles) and TRIP_COVER to the archived trip: renumber the
+    shown originals on Drive to the new page order (NN_), update the manifest and the sources in data/photos."""
+    m = load(MANIFEST)
+    _, byref, order, problems = plan()
+    assert not problems, problems
+    photos = {tuple(p['inventory_ref']): p for p in m['photos']}
+    renames = []
+    for c in CHAPTERS:
+        for pos, ref in enumerate(order[c['slug']], 1):
+            p = photos[ref]
+            new = f"{p['archive_name'].split('/')[0]}/{pos:02d}_{p['original_filename']}"
+            p['position'] = pos
+            if new != p['archive_name']: renames.append((p, new))
+    for p, new in renames:  # two steps, so that no new name meets an old one
+        src = ARCHIVE / p['archive_name']
+        assert sha(src) == p['original_sha256'], src
+        src.rename(src.with_name('tmp_' + src.name))
+    for p, new in renames:
+        tmp = ARCHIVE / p['archive_name']
+        tmp = tmp.with_name('tmp_' + tmp.name)
+        dest = ARCHIVE / new
+        assert not dest.exists(), dest
+        tmp.rename(dest)
+        assert sha(dest) == p['original_sha256'], dest
+        for cp in m['r2']['copies']:
+            if cp['archive_name'] == p['archive_name']: cp['archive_name'] = new
+        p['archive_name'] = new
+    kinds = {'r': 'row', 'x': 'exhibit-row', 'm': 'mosaic', 'v': 'video', 'b': 'beside'}
+    for mc, c in zip(m['chapters'], CHAPTERS):
+        assert mc['slug'] == c['slug']
+        name_of = lambda r: site_name(byref[r if isinstance(r, tuple) else (c['slug'], r)]['name'])
+        mc.update(title=c['title'], source_title=c.get('source_title', c['title']), hero_image=name_of(c['hero']),
+                  blocks=[dict(after_paragraph=pa, kind=kinds[k], photos=[name_of(r) for r in (it if isinstance(it, list) else [it])])
+                          for pa, bl in c['layout'].items() for k, it in bl])
+    cover = byref[TRIP_COVER['chapter'], TRIP_COVER['photo']]
+    m['trip_cover'] = dict(chapter=TRIP_COVER['chapter'], site_filename=site_name(cover['name']), position=TRIP_COVER['position'])
+    data_file = ROOT / 'data/photos/poland-2026.json'
+    data = load(data_file)
+    for p in m['photos']:
+        key = f"{p['chapter']}/{p['site_filename']}"
+        if key in data: data[key]['source'] = p['archive_name']
+    data_file.write_text(json.dumps(dict(sorted(data.items())), ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
+    m['drive_sync_verified'] = False
+    save_manifest(m)
+    print(f'Renamed {len(renames)} originals on Drive; chapters, cover and sources updated. Run check-drive-sync --write next.')
+
+
 def verify_site(site):
     """A built site (hugo -d <site>): texts verbatim and in order, each shown photo exactly once and from R2, captions."""
     m, problems, shown_total = load(MANIFEST), [], 0
@@ -580,4 +629,4 @@ def verify_site(site):
 if __name__ == '__main__':
     stage = sys.argv[1] if len(sys.argv) > 1 else 'check'
     if stage == 'verify-site': verify_site(sys.argv[2])
-    else: {'check': check, 'archive': archive, 'display': display, 'posters': posters, 'captions': captions, 'verify-r2': verify_r2, 'render': render}[stage]()
+    else: {'check': check, 'archive': archive, 'display': display, 'posters': posters, 'captions': captions, 'relayout': relayout, 'verify-r2': verify_r2, 'render': render}[stage]()

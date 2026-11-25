@@ -1,5 +1,5 @@
 ---
-title: "Вроцлав - 2"
+title: "Вроцлав - панорама и гномики"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 20

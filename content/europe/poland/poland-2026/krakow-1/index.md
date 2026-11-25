@@ -1,5 +1,5 @@
 ---
-title: "Краков - 1"
+title: "Краков - Рыночная площадь и костёлы"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 30

@@ -146,14 +146,14 @@
     }
   ],
   "trip_cover": {
-    "chapter": "krakow-1",
-    "site_filename": "20261118_150818.jpg",
-    "position": "center 48%"
+    "chapter": "wroclaw-1",
+    "site_filename": "20261114_152134.jpg",
+    "position": "center 60%"
   },
   "chapters": [
     {
       "slug": "wroclaw-1",
-      "title": "Вроцлав - 1",
+      "title": "Вроцлав - первое впечатление",
       "weight": 10,
       "date": "2026-11-14",
       "city": "Вроцлав",
@@ -162,7 +162,7 @@
       ],
       "folder": "01 - Вроцлав - 1",
       "source": "Источники/Вроцлав - 1.md",
-      "hero_image": "20261114_152134.jpg",
+      "hero_image": "20261114_152528.jpg",
       "blocks": [
         {
           "after_paragraph": 1,
@@ -308,6 +308,13 @@
           "after_paragraph": 8,
           "kind": "row",
           "photos": [
+            "20261114_152134.jpg"
+          ]
+        },
+        {
+          "after_paragraph": 8,
+          "kind": "row",
+          "photos": [
             "PXL_20261114_142146074.jpg",
             "motion_photo_4783434609239792884.jpg",
             "20261114_152313.jpg"
@@ -317,7 +324,6 @@
           "after_paragraph": 8,
           "kind": "row",
           "photos": [
-            "20261114_152528.jpg",
             "20261114_152554.jpg"
           ]
         },
@@ -428,11 +434,12 @@
             "20261114_142750.jpg"
           ]
         }
-      ]
+      ],
+      "source_title": "Вроцлав - 1"
     },
     {
       "slug": "wroclaw-2",
-      "title": "Вроцлав - 2",
+      "title": "Вроцлав - панорама и гномики",
       "weight": 20,
       "date": "2026-11-15",
       "city": "Вроцлав",
@@ -662,11 +669,12 @@
             "20261115_183842.jpg"
           ]
         }
-      ]
+      ],
+      "source_title": "Вроцлав - 2"
     },
     {
       "slug": "krakow-1",
-      "title": "Краков - 1",
+      "title": "Краков - Рыночная площадь и костёлы",
       "weight": 30,
       "date": "2026-11-16",
       "city": "Краков",
@@ -866,11 +874,12 @@
             "20261117_131054.jpg"
           ]
         }
-      ]
+      ],
+      "source_title": "Краков - 1"
     },
     {
       "slug": "krakow-2",
-      "title": "Краков - 2",
+      "title": "Краков - музеи и Вавель",
       "weight": 40,
       "date": "2026-11-17",
       "city": "Краков",
@@ -1189,11 +1198,12 @@
             "PXL_20261118_105248206.jpg"
           ]
         }
-      ]
+      ],
+      "source_title": "Краков - 2"
     },
     {
       "slug": "krakow-3",
-      "title": "Краков - 3",
+      "title": "Соляные шахты Велички",
       "weight": 50,
       "date": "2026-11-18",
       "city": "Краков, Величка",
@@ -1338,7 +1348,8 @@
             "20261119_072113.jpg"
           ]
         }
-      ]
+      ],
+      "source_title": "Краков - 3"
     }
   ],
   "photos": [
@@ -1348,7 +1359,7 @@
         "wroclaw-1",
         39
       ],
-      "archive_name": "01 - Вроцлав - 1/01_20261114_152134.jpg",
+      "archive_name": "01 - Вроцлав - 1/40_20261114_152134.jpg",
       "original_filename": "20261114_152134.jpg",
       "owner_folder": "01 - Вроцлав - 1",
       "original_bytes": 2586474,
@@ -1362,7 +1373,7 @@
       "onedrive_sha256_matches": true,
       "used": true,
       "unused_reason": null,
-      "position": 1,
+      "position": 40,
       "site_filename": "20261114_152134.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_152134.jpg",
       "drive_id": "1ZWFf2Yi9myWh2TSl3BAOD6D7HouNy3vR"
@@ -2347,7 +2358,7 @@
         "wroclaw-1",
         40
       ],
-      "archive_name": "01 - Вроцлав - 1/40_PXL_20261114_142146074.jpg",
+      "archive_name": "01 - Вроцлав - 1/41_PXL_20261114_142146074.jpg",
       "original_filename": "PXL_20261114_142146074.jpg",
       "owner_folder": "01 - Вроцлав - 1",
       "original_bytes": 2707351,
@@ -2361,7 +2372,7 @@
       "onedrive_sha256_matches": true,
       "used": true,
       "unused_reason": null,
-      "position": 40,
+      "position": 41,
       "site_filename": "PXL_20261114_142146074.jpg",
       "r2_key": "poland-2026/wroclaw-1/PXL_20261114_142146074.jpg",
       "drive_id": "1TqeAPguU6z5aIuJDHazo8soTxzNS6BhU"
@@ -2372,7 +2383,7 @@
         "wroclaw-1",
         74
       ],
-      "archive_name": "01 - Вроцлав - 1/41_motion_photo_4783434609239792884.jpg",
+      "archive_name": "01 - Вроцлав - 1/42_motion_photo_4783434609239792884.jpg",
       "original_filename": "motion_photo_4783434609239792884.jpg",
       "owner_folder": "01 - Вроцлав - 1",
       "original_bytes": 613537,
@@ -2386,7 +2397,7 @@
       "onedrive_sha256_matches": true,
       "used": true,
       "unused_reason": null,
-      "position": 41,
+      "position": 42,
       "site_filename": "motion_photo_4783434609239792884.jpg",
       "r2_key": "poland-2026/wroclaw-1/motion_photo_4783434609239792884.jpg",
       "drive_id": "1iH8ecTMhkdBnPo5SQ754x1K__7HaeqRT"
@@ -2397,7 +2408,7 @@
         "wroclaw-1",
         41
       ],
-      "archive_name": "01 - Вроцлав - 1/42_20261114_152313.jpg",
+      "archive_name": "01 - Вроцлав - 1/43_20261114_152313.jpg",
       "original_filename": "20261114_152313.jpg",
       "owner_folder": "01 - Вроцлав - 1",
       "original_bytes": 4036074,
@@ -2411,7 +2422,7 @@
       "onedrive_sha256_matches": true,
       "used": true,
       "unused_reason": null,
-      "position": 42,
+      "position": 43,
       "site_filename": "20261114_152313.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_152313.jpg",
       "drive_id": "1cjAGf-WLzLpkp745y6oKRcp71wQ8Gd1h"
@@ -2422,7 +2433,7 @@
         "wroclaw-1",
         42
       ],
-      "archive_name": "01 - Вроцлав - 1/43_20261114_152528.jpg",
+      "archive_name": "01 - Вроцлав - 1/01_20261114_152528.jpg",
       "original_filename": "20261114_152528.jpg",
       "owner_folder": "01 - Вроцлав - 1",
       "original_bytes": 1793049,
@@ -2436,7 +2447,7 @@
       "onedrive_sha256_matches": true,
       "used": true,
       "unused_reason": null,
-      "position": 43,
+      "position": 1,
       "site_filename": "20261114_152528.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_152528.jpg",
       "drive_id": "1RxSiCEcN-FN6eBAOnCGpee8N_4Ezdhwk"
@@ -9476,7 +9487,7 @@
   "originals_verified": true,
   "drive_sync_verified": true,
   "r2_verified": true,
-  "drive_sync_checked": "2026-11-25T01:42:55.677Z",
+  "drive_sync_checked": "2026-11-25T02:56:36.388Z",
   "drive_trip_folder_id": "1Sv81tI-MygijtBiMBRra1ou61CapzlJC",
   "r2": {
     "bucket": "family-travel-photos",
@@ -13456,7 +13467,7 @@
       {
         "key": "poland-2026/wroclaw-1/20261114_152134.jpg",
         "kind": "photo",
-        "archive_name": "01 - Вроцлав - 1/01_20261114_152134.jpg",
+        "archive_name": "01 - Вроцлав - 1/40_20261114_152134.jpg",
         "original_sha256": "ee56abd2913f8e6ffcd55207e9b87540753841a9fc7567942da1381a794379da",
         "bytes": 558763,
         "sha256": "e499eff977c3d38e46426af11929d12f71edd4e9bb5a653d4e13c38337dc4528",
@@ -13475,7 +13486,7 @@
       {
         "key": "poland-2026/wroclaw-1/20261114_152313.jpg",
         "kind": "photo",
-        "archive_name": "01 - Вроцлав - 1/42_20261114_152313.jpg",
+        "archive_name": "01 - Вроцлав - 1/43_20261114_152313.jpg",
         "original_sha256": "ae2b20dd2257dcf5a6aee0e1158b316c0800b5d5b5781bccca5f04edb4eb2338",
         "bytes": 659921,
         "sha256": "483541fa8c8476e3061d2e09719aab33974d8a3ca75ec0cac15d4f4e2e815b9e",
@@ -13494,7 +13505,7 @@
       {
         "key": "poland-2026/wroclaw-1/20261114_152528.jpg",
         "kind": "photo",
-        "archive_name": "01 - Вроцлав - 1/43_20261114_152528.jpg",
+        "archive_name": "01 - Вроцлав - 1/01_20261114_152528.jpg",
         "original_sha256": "2c49fe46cbc729a81e112b69a4ee218bec38b7421c1e8d2f8c547574c9d29331",
         "bytes": 395474,
         "sha256": "de16e00eb6e5dd520b15fb79be1f54428ccd6ac39bd5a1b274a59e56472ebef3",
@@ -14044,7 +14055,7 @@
       {
         "key": "poland-2026/wroclaw-1/PXL_20261114_142146074.jpg",
         "kind": "photo",
-        "archive_name": "01 - Вроцлав - 1/40_PXL_20261114_142146074.jpg",
+        "archive_name": "01 - Вроцлав - 1/41_PXL_20261114_142146074.jpg",
         "original_sha256": "7c18d30397031df3fbe4a481f9bf3e70a6fb08b070b8234b157516cd28646634",
         "bytes": 477714,
         "sha256": "43dfbd0b16aaa0e9ddd288b145cd456754cf499749c05cda9ab12407e3799ce3",
@@ -14091,7 +14102,7 @@
         "h": 1920,
         "recipe": {
           "tool": "ffmpeg",
-          "frame_at_seconds": 2.0,
+          "frame_at_seconds": 2,
           "of": "screen copy of the video"
         },
         "public_verified": "2026-11-25T01:58:32.640956+00:00"
@@ -14155,7 +14166,7 @@
       {
         "key": "poland-2026/wroclaw-1/motion_photo_4783434609239792884.jpg",
         "kind": "photo",
-        "archive_name": "01 - Вроцлав - 1/41_motion_photo_4783434609239792884.jpg",
+        "archive_name": "01 - Вроцлав - 1/42_motion_photo_4783434609239792884.jpg",
         "original_sha256": "88b488ac566a944211e9405ba81a543f644ddffb22cdec4799b4e64cf5f90a1e",
         "bytes": 303547,
         "sha256": "e6e2536b8f069dbc1570ba3d36056f2c9aba2e3fe1473fac546a5a31c50a0235",

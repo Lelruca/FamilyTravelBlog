@@ -1,5 +1,5 @@
 ---
-title: "Краков - 2"
+title: "Краков - музеи и Вавель"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 40

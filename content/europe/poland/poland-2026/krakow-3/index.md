@@ -1,5 +1,5 @@
 ---
-title: "Краков - 3"
+title: "Соляные шахты Велички"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 50
