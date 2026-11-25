@@ -1,0 +1,29 @@
+{
+  "lelya": { "title": "Леля", "aliases": ["Ольга"] },
+  "seryozha": { "title": "Серёжа", "aliases": ["Сережа", "Сергей"] },
+  "natasha": { "title": "Наташа", "aliases": [] },
+  "natasha-p": {
+    "title": "Наташа П",
+    "aliases": [],
+    "note": "Из Германии; приезжала с Валерой в Канаду в 2016 году. Отдельный человек от Наташи."
+  },
+  "mitya": { "title": "Митя", "aliases": [] },
+  "oma": {
+    "title": "Ома",
+    "aliases": [],
+    "note": "Отдельный человек от Бабушки."
+  },
+  "babushka": {
+    "title": "Бабушка",
+    "aliases": [],
+    "note": "Отдельный человек от Омы."
+  },
+  "katya": { "title": "Катя", "aliases": [] },
+  "liza": { "title": "Лиза", "aliases": [] },
+  "marina": { "title": "Марина", "aliases": [] },
+  "nonna": { "title": "Нонна", "aliases": [] },
+  "tanya": { "title": "Таня", "aliases": [] },
+  "polina": { "title": "Полина", "aliases": [] },
+  "misha": { "title": "Миша", "aliases": [] },
+  "valera": { "title": "Валера", "aliases": [] }
+}

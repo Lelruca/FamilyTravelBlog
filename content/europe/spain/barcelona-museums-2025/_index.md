@@ -8,7 +8,7 @@ geo_countries:
 trip_year: 2025
 trip_start: "2025-07"
 trip_end: "2025-07"
-cover_who: "Ома, Сережа и Леля"
+cover_who: "Ома, Серёжа и Леля"
 title: "2025 — Бесплатное воскресенье в музеях Барселоны"
 date: "2025-07-13"
 cover_where: "Испания · Барселона"

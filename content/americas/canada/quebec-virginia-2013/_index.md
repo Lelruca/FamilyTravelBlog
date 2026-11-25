@@ -16,5 +16,5 @@ cover_where: "Канада (Квебек), США (Вирджиния)"
 cover_title: "Canada Games и Вирджиния Бич"
 cover_subtitle: "Отдых в США"
 cover_when: "Лето 2013"
-cover_who: "Сережа, Леля, Наташа и Митя"
+cover_who: "Серёжа, Леля, Наташа и Митя"
 ---

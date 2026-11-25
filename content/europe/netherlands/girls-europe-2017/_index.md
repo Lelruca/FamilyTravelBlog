@@ -17,6 +17,6 @@ cover_where: "Амстердам, Париж, Гаага"
 cover_title: "Девичник в Европе"
 cover_subtitle: "Дубль два"
 cover_when: "Январь 2017"
-cover_who: "Ольга, Марина и Нонна"
+cover_who: "Леля, Марина и Нонна"
 cover_position: "center center"
 ---

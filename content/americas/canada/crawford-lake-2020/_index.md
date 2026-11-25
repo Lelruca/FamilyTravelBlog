@@ -13,7 +13,7 @@ geo_countries:
 cover_where: "Канада · Ontario"
 cover_title: "Crawford Lake"
 cover_when: "Ноябрь 2020"
-cover_who: "Сережа и Леля"
+cover_who: "Серёжа и Леля"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/crawford-lake-2020/crawford-lake/20201120_160918.jpg"
 cover_position: "center 50%"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"

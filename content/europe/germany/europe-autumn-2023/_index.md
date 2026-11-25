@@ -15,7 +15,7 @@ cover_where: "Барселона, Штутгарт, Франкфурт, Mannheim
 cover_title: "Навещаем детей в Европе"
 cover_subtitle: "К Мите на 20-летие"
 cover_when: "Октябрь 2023"
-cover_who: "Сережа и Леля (с Наташей и Митей)"
+cover_who: "Серёжа и Леля (с Наташей и Митей)"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/europe-autumn-2023/hague-rotterdam/20231018_123722.jpg"
 cover_position: "center 58%"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"

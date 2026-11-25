@@ -16,6 +16,6 @@ cover_where: "Германия и Англия"
 cover_title: "К бабушке через Лондон"
 cover_subtitle: "Митя - первое путешествие"
 cover_when: "Октябрь–ноябрь 2009"
-cover_who: "Ольга, Сергей и Митя"
+cover_who: "Леля, Серёжа и Митя"
 cover_mobile_fit: true
 ---

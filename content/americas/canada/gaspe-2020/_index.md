@@ -13,7 +13,7 @@ cover_where: "Канада: Квебек, полуостров Гаспе"
 cover_title: "Полуостров Гаспе"
 cover_subtitle: "На языке индейцев - \"край земли\""
 cover_when: "Июль – август 2020"
-cover_who: "Сережа, Леля и Митя"
+cover_who: "Серёжа, Леля и Митя"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/gaspe-2020/forillon/IMG_3232.jpg"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
 draft: false

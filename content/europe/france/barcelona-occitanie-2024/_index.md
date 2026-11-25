@@ -14,7 +14,7 @@ cover_where: "Барселона, Фигерас, Каркассон, Тулуз
 cover_title: "Барселона и Окситания"
 cover_subtitle: "Мы с Наташей признались в любви к Франции"
 cover_when: "Март 2024"
-cover_who: "Сережа, Леля и Наташа"
+cover_who: "Серёжа, Леля и Наташа"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/barcelona-occitanie-2024/carcassonne/20240322_141045.jpg"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
 readable_photos: true

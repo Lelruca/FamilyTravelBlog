@@ -13,7 +13,7 @@ cover_where: "Бильбао, Сан-Себастьян, Бургос, Валь�
 cover_title: "Страна Басков, Кастилия и Мадрид"
 cover_subtitle: "По следам Изабеллы Кастильской"
 cover_when: "Июль 2024"
-cover_who: "Ома, Сережа, Леля и Наташа"
+cover_who: "Ома, Серёжа, Леля и Наташа"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/basque-castile-2024/san-sebastian/20240710_143620.jpg"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
 ---

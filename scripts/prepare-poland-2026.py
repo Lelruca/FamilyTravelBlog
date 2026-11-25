@@ -500,7 +500,7 @@ geo_countries:
 cover_where: "Вроцлав, Краков, Величка"
 cover_title: "Наша Польша"
 cover_when: "Ноябрь 2026"
-cover_who: "Сережа, Леля и Наташа"
+cover_who: "Серёжа, Леля и Наташа"
 cover_image: "{BASE}{SLUG}/{cover['chapter']}/{cover['site_filename']}"
 cover_position: "{cover['position']}"
 draft: {DRAFT}

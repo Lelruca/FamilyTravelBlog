@@ -15,7 +15,7 @@ cover_where: "Lisboa, Praha, Wien"
 cover_title: "Прага и Вена"
 cover_subtitle: "2 города за 9 дней"
 cover_when: "Май 2023"
-cover_who: "Сережа и Леля (и Катя в Вене)"
+cover_who: "Серёжа и Леля (и Катя в Вене)"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/prague-vienna-2023/schonbrunn/20230527_114843.jpg"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
 draft: false

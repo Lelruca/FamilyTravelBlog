@@ -14,5 +14,5 @@ cover_where: "Мексика: Юкатан"
 cover_title: "Отдых в Мексике"
 cover_subtitle: "Майя"
 cover_when: "Лето 2015"
-cover_who: "Сережа, Леля, Наташа и Митя"
+cover_who: "Серёжа, Леля, Наташа и Митя"
 ---

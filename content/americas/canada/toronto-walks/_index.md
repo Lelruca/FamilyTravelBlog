@@ -15,7 +15,7 @@ cover_where: "Канада · Toronto"
 cover_title: "Экскурсии по Торонто"
 cover_subtitle: "Открываем город, в котором живём"
 cover_when: "2022–2025"
-cover_who: "Сережа и Леля"
+cover_who: "Серёжа и Леля"
 aliases: 
   - /americas/canada/toronto-yonge-2022/
   - /americas/canada/toronto-center-2023/
