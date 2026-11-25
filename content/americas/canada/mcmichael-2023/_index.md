@@ -19,4 +19,6 @@ cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/mcmichael-2023
 cover_position: "center 50%"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
 draft: false
+participants: ["lelya","seryozha"]
+participant_families: []
 ---

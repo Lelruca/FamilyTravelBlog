@@ -13,6 +13,8 @@ geo_countries:
 cover_title: "Китай - первый раз в Азию!"
 cover_when: "Март 2019"
 cover_who: "Ома, Серёжа, Леля и Митя"
+participants: ["lelya","seryozha","mitya","oma"]
+participant_families: []
 ---
 
 <style>

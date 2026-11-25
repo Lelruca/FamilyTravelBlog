@@ -13,4 +13,7 @@ geo_countries:
 readable_photos: true
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/los-angeles-disneyland-2007/disneyland/img_4357.jpg"
 cover_position: "center 35%"
+participants: ["lelya","natasha"]
+cover_who: "Леля и Наташа"
+participant_families: []
 ---

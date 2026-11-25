@@ -17,4 +17,6 @@ cover_title: "Рождество в Альпах"
 cover_subtitle: "У Кати на лыжах"
 cover_when: "Зима 2014–2015"
 cover_who: "Ома, Серёжа, Леля, Наташа и Митя"
+participants: ["lelya","seryozha","natasha","mitya","oma","babushka","katya","david"]
+participant_families: ["solomon"]
 ---

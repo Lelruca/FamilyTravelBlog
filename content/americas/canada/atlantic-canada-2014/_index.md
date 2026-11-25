@@ -14,4 +14,6 @@ cover_where: "Канада: Нью-Брансуик, Новая Шотланди
 cover_title: "Атлантическая Канада"
 cover_when: "Август 2014"
 cover_who: "Серёжа, Леля, Наташа и Митя"
+participants: ["lelya","seryozha","natasha","mitya"]
+participant_families: []
 ---

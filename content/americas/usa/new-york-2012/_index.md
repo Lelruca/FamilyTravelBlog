@@ -14,4 +14,7 @@ geo_countries:
 readable_photos: true
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/new-york-2012/day-3/img_0180.jpg"
 cover_position: "center 55%"
+participants: ["lelya","oma","mitya","katya-o"]
+cover_who: "Леля, Ома, Митя и Катя О"
+participant_families: []
 ---

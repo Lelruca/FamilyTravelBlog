@@ -16,4 +16,6 @@ cover_who: "Серёжа, Леля и Наташа"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/poland-2026/wroclaw-1/20261114_152134.jpg"
 cover_position: "center 60%"
 draft: false
+participants: ["lelya","seryozha","natasha"]
+participant_families: []
 ---

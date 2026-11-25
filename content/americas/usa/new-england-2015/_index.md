@@ -15,4 +15,6 @@ cover_where: "США: Новая Англия"
 cover_title: "Наше освоение Новой Англии"
 cover_when: "Лето 2015"
 cover_who: "Ома, Серёжа, Леля, Наташа и Митя"
+participants: ["lelya","seryozha","natasha","mitya","oma"]
+participant_families: []
 ---

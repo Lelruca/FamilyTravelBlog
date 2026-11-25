@@ -18,4 +18,6 @@ cover_subtitle: "Митя - первое путешествие"
 cover_when: "Октябрь–ноябрь 2009"
 cover_who: "Леля, Серёжа и Митя"
 cover_mobile_fit: true
+participants: ["lelya","seryozha","mitya","babushka","katya","david"]
+participant_families: ["solomon"]
 ---

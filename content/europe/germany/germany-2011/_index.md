@@ -22,4 +22,6 @@ cover_title: "Первый автопробег по Европе!"
 cover_subtitle: "Лето у бабушки"
 cover_when: "Лето 2011"
 cover_who: "Бабушка, Серёжа, Леля, Наташа и Митя"
+participants: ["lelya","seryozha","natasha","mitya","babushka","katya","david"]
+participant_families: ["solomon"]
 ---

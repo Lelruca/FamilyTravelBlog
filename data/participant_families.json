@@ -1,0 +1,20 @@
+{
+  "shiro": {
+    "title": "Семья Широ",
+    "members": ["liza", "zhenya", "lena-shiro"]
+  },
+  "pukha": {
+    "title": "Семья Пуха",
+    "members": ["valera", "natasha-p"]
+  },
+  "gorbunov": {
+    "title": "Семья Горбуновых",
+    "members": ["tanya", "polina", "misha"]
+  },
+  "solomon": {
+    "title": "Семья Соломон",
+    "members": ["katya", "david"],
+    "members_complete": false,
+    "note": "Катя, её муж Дэвид и дети. Дети учитываются семейной группой, их отдельные профили пока не заведены. Состав конкретной поездки хранится отдельно от членства в семье."
+  }
+}

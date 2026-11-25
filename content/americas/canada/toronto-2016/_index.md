@@ -17,4 +17,6 @@ cover_title: "Наши немцы в Канаде"
 cover_subtitle: ""
 cover_when: "Лето 2016"
 cover_who: "Наташа П и Валера, все мы"
+participants: ["lelya","seryozha","natasha-p","valera","liza","zhenya","lena-shiro","oma"]
+participant_families: ["shiro","pukha"]
 ---

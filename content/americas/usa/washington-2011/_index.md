@@ -14,4 +14,7 @@ geo_countries:
 readable_photos: true
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/washington-2011/cover/p5221891-wide.jpg"
 cover_position: "center 50%"
+participants: ["lelya","oma","mitya"]
+cover_who: "Леля, Ома и Митя"
+participant_families: []
 ---

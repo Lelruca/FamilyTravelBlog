@@ -19,4 +19,6 @@ cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/iberia-2022/al
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
 readable_photos: true
 draft: false
+participants: ["lelya","natasha","oma"]
+participant_families: []
 ---

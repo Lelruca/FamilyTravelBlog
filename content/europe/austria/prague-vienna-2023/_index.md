@@ -19,4 +19,6 @@ cover_who: "Серёжа и Леля (и Катя в Вене)"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/prague-vienna-2023/schonbrunn/20230527_114843.jpg"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
 draft: false
+participants: ["lelya","seryozha","katya"]
+participant_families: []
 ---

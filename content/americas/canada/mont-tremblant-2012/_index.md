@@ -14,4 +14,7 @@ geo_countries:
 readable_photos: true
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/mont-tremblant-2012/story/img_20121223_141100.jpg"
 cover_position: "center 55%"
+participants: ["lelya","seryozha","natasha","mitya","oma","liza"]
+cover_who: "Леля, Серёжа, Наташа, Митя, Ома и Лиза"
+participant_families: []
 ---

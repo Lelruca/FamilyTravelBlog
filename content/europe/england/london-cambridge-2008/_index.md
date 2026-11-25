@@ -13,4 +13,7 @@ geo_countries: ["england"]
 readable_photos: true
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/london-cambridge-2008/story/PB150054.JPG"
 strict_photo_cap: true
+participants: ["lelya","seryozha","katya","david"]
+cover_who: "Леля, Серёжа, Катя и Дэвид"
+participant_families: ["solomon"]
 ---

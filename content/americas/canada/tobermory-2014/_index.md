@@ -19,4 +19,6 @@ cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/tobermory-2014
 cover_position: "center 50%"
 source_url: ""
 draft: false
+participants: ["lelya","seryozha","mitya"]
+participant_families: []
 ---

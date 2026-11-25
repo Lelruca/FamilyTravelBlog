@@ -18,4 +18,6 @@ cover_who: "Серёжа, Леля и Митя"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/italy-2022/siena/20220904_145534.jpg"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
 draft: false
+participants: ["lelya","seryozha","mitya"]
+participant_families: []
 ---

@@ -19,4 +19,6 @@ cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/south-america-
 cover_position: "center 60%"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
 draft: false
+participants: ["lelya","seryozha","mitya"]
+participant_families: []
 ---

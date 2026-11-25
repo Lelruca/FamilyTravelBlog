@@ -1,0 +1,1488 @@
+{
+  "americas/argentina/south-america-2026": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Леля, Серёжа и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/argentina/south-america-2026/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Леля, Серёжа и Митя\""
+      }
+    ]
+  },
+  "americas/canada/atlantic-canada-2014": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля, Наташа и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/canada/atlantic-canada-2014/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа, Леля, Наташа и Митя\""
+      }
+    ]
+  },
+  "americas/canada/crawford-lake-2020": {
+    "people": [
+      "lelya",
+      "seryozha"
+    ],
+    "families": [],
+    "label": "Серёжа и Леля",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/canada/crawford-lake-2020/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа и Леля\""
+      }
+    ]
+  },
+  "americas/canada/gaspe-2020": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/canada/gaspe-2020/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа, Леля и Митя\""
+      }
+    ]
+  },
+  "americas/canada/hamilton-2014": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Леля, Серёжа, Наташа и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/americas/canada/hamilton-2014/story/index.md",
+        "quote": "Наташке нашей туда надо было съездить на встречу. Сама она в такую даль на машине не ездит и я вызвалась ее отвезти. Ну а если ехать, то надо наконец осмотреться! Поискала, что есть интересного в Гамильтоне и к моему удивлению там МНОГО того, что мне хотелось бы посетить и увидеть!  А когда я дошла до музея авиации, поняла что это судьба (после нашего посеще"
+      }
+    ]
+  },
+  "americas/canada/mcmichael-2023": {
+    "people": [
+      "lelya",
+      "seryozha"
+    ],
+    "families": [],
+    "label": "Серёжа и Леля",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/canada/mcmichael-2023/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа и Леля\""
+      }
+    ]
+  },
+  "americas/canada/mont-tremblant-2012": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya",
+      "oma",
+      "liza"
+    ],
+    "families": [],
+    "label": "Леля, Серёжа, Наташа, Митя, Ома и Лиза",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/americas/canada/mont-tremblant-2012/story/index.md",
+        "quote": "Поехали мы большой командой: мы с детьми, мама и Лиза. На 6 человек мы сняли 1- bedroom номер (т.е. две комнаты и кухня, в кухне все кастрюльки, тарелки-ложки и посудомаечная машина :-)). "
+      }
+    ]
+  },
+  "americas/canada/north-ontario-2020": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "mitya",
+      "liza"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля, Митя и Лиза",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/canada/north-ontario-2020/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа, Леля, Митя и Лиза\""
+      }
+    ]
+  },
+  "americas/canada/ottawa": {
+    "people": [
+      "lelya"
+    ],
+    "families": [],
+    "label": "Леля",
+    "status": "needs-owner",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/americas/canada/ottawa/museum-2017/index.md",
+        "quote": "с знакомыми из Москвы, наконец попали во вновь открытый этаж, посвященный истории Канады. "
+      }
+    ],
+    "questions": [
+      "Кто ездил в 2017 году с автором и московскими знакомыми?"
+    ]
+  },
+  "americas/canada/ottawa-2015": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya",
+      "liza",
+      "zhenya"
+    ],
+    "families": [
+      "shiro"
+    ],
+    "label": "Леля, Серёжа, Наташа, Митя, Лиза и Женя",
+    "status": "needs-owner",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/americas/canada/ottawa-2015/tulips/index.md",
+        "quote": "мы путешествовали большой семьей, я бы даже сказала кланом! Мы втроем с Митькой, Наташа приехала к нам из Монреаля (ей к столице сильно ближе), с нами же приехали из Торонто Жена с Лизой и Оля с Петром! А в Оттаве нас принимали наши замечательные друзья – Лена с Мишей и Анютой! Вот такой «толпой» мы и гуляли по городу!"
+      },
+      {
+        "kind": "owner_confirmation",
+        "date": "2026-11-25",
+        "quote": "Лиза та же, что в Римских каникулах и Северном Онтарио. Семья Широ: Лиза, Женя и Лена."
+      }
+    ],
+    "questions": [
+      "Уточнить группы Оли с Петром и Лены с Мишей и Анютой. Широ: Женя и Лиза подтверждены; Лена Широ не отождествляется с хозяйкой Лены из Оттавы."
+    ]
+  },
+  "americas/canada/port-elgin-2021": {
+    "people": [
+      "lelya",
+      "mitya",
+      "oma"
+    ],
+    "families": [],
+    "label": "Ома, Леля и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/canada/port-elgin-2021/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома, Леля и Митя\""
+      }
+    ]
+  },
+  "americas/canada/quebec-montreal-2003": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha"
+    ],
+    "families": [],
+    "label": "Леля, Серёжа и Наташа",
+    "status": "needs-owner",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/americas/canada/quebec-montreal-2003/story/index.md",
+        "quote": "только одна семья наших соседей смогла выбраться вместе с нами. Я была ответственная за культурную часть программы, т.к. составляла маршрут и детальное описание: во сколько, куда мы идем. Гостиницы мы заказали где-то за 1,5 месяца заранее по интернету. Мужчины больше занимались подготовкой автотранспорта и разработкой маршрута (в соответствии с моим планом)."
+      }
+    ],
+    "questions": [
+      "Какая семья соседей участвовала? В рассказе названы Леля, Серёжа и Наташа, Митя ещё не родился."
+    ]
+  },
+  "americas/canada/quebec-virginia-2013": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля, Наташа и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/canada/quebec-virginia-2013/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа, Леля, Наташа и Митя\""
+      }
+    ]
+  },
+  "americas/canada/rockies-2018": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "mitya",
+      "oma"
+    ],
+    "families": [],
+    "label": "Ома, Серёжа, Леля и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/canada/rockies-2018/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома, Серёжа, Леля и Митя\""
+      }
+    ]
+  },
+  "americas/canada/tobermory-2014": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля и Митя с друзьями",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/canada/tobermory-2014/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа, Леля и Митя с друзьями\""
+      }
+    ]
+  },
+  "americas/canada/toronto-2016": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha-p",
+      "valera",
+      "liza",
+      "zhenya",
+      "lena-shiro",
+      "oma"
+    ],
+    "families": [
+      "shiro",
+      "pukha"
+    ],
+    "label": "Наташа П и Валера, все мы",
+    "status": "needs-owner",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/canada/toronto-2016/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Наташа П и Валера, все мы\""
+      },
+      {
+        "kind": "story",
+        "file": "content/americas/canada/toronto-2016/new-york/index.md",
+        "quote": "Наташа с Валерой, я и Жена, моя двоюродный брат) двинулась покорять Нью-Йорк. Мы провели там 2 ночи и за это время успели:"
+      },
+      {
+        "kind": "story",
+        "file": "content/americas/canada/toronto-2016/temagami-3/index.md",
+        "quote": "без Лены не справился 🙂"
+      },
+      {
+        "kind": "story",
+        "file": "content/americas/canada/toronto-2016/temagami-1/index.md",
+        "quote": "мы там с Серегой спали одну ночь – очень удобно, только лестница вертикальная) – 2 места,  два дивана, которые раскладываются в общей комнате (там занавеска их разделяет) – это уже 8 человек. И при необходимости стол раскладывается и еще 2 можно положить. Вот тут план:"
+      },
+      {
+        "kind": "story",
+        "file": "content/americas/canada/toronto-2016/temagami-1/index.md",
+        "quote": "мама моя не решилась ехать на так долго, но нам было жутко любопытно и мы решили нагрянуть с инспекцией!"
+      }
+    ],
+    "questions": [
+      "Полный состав «все мы»: были ли Наташа и Митя из основной семьи, кто участвовал в отдельных частях?"
+    ]
+  },
+  "americas/canada/toronto-walks": {
+    "people": [
+      "lelya",
+      "seryozha"
+    ],
+    "families": [],
+    "label": "Серёжа и Леля",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/canada/toronto-walks/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа и Леля\""
+      }
+    ]
+  },
+  "americas/canada/vancouver-2023": {
+    "people": [
+      "lelya",
+      "natasha",
+      "oma"
+    ],
+    "families": [],
+    "label": "Ома, Леля и Наташа",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/canada/vancouver-2023/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома, Леля и Наташа\""
+      }
+    ]
+  },
+  "americas/cuba/cuba-2025": {
+    "people": [
+      "seryozha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Серёжа и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/cuba/cuba-2025/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа и Митя\""
+      }
+    ]
+  },
+  "americas/cuba/trinidad-2017": {
+    "people": [
+      "lelya",
+      "seryozha"
+    ],
+    "families": [],
+    "label": "Леля и Серёжа",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/americas/cuba/trinidad-2017/road/index.md",
+        "quote": "Митька с нами не очень хотел ехать и мы решили вдвоем поехать. Пепе заехал за нами ровно в 6:30 утра (поездка заняла ровно 12 часов и стоила нам 230 конвертируемых пессо). Было страшновато садиться в эту машину. Долгий путь, непонятные дороги, старая мягкая подвеска... Ремни еще не изобрели! И первые 15 минут было непривычно и страшно, а потом как-то приспос"
+      }
+    ]
+  },
+  "americas/mexico/mexico-2015": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля, Наташа и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/mexico/mexico-2015/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа, Леля, Наташа и Митя\""
+      }
+    ]
+  },
+  "americas/mexico/mexico-2025": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "oma"
+    ],
+    "families": [],
+    "label": "Ома, Серёжа и Леля",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/mexico/mexico-2025/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома, Серёжа и Леля\""
+      }
+    ]
+  },
+  "americas/trinidad-tobago/trinidad-tobago-2018": {
+    "people": [
+      "lelya"
+    ],
+    "families": [],
+    "label": "Леля",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/trinidad-tobago/trinidad-tobago-2018/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Леля\""
+      }
+    ]
+  },
+  "americas/usa/atlantic-city-philadelphia-2017": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha"
+    ],
+    "families": [],
+    "label": "Леля, Серёжа и Наташа",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/americas/usa/atlantic-city-philadelphia-2017/philadelphia/index.md",
+        "quote": "мы втроем (с Наташей) спонтанно поехали \"на море\" покупаться в наш лонг викенд. Первое что нам попалось относительно дешево и близко был - Atlantic city, который в 900 км. Так вот, замечательно отдохнув и накупавшись мы так расслабились... что оставили паспорта в сейфе отеля. Обнаружили это ровно на середине пути. Первый порыв был развернуться и ехать обратн"
+      }
+    ]
+  },
+  "americas/usa/chicago-2017": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "oma",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Леля, Серёжа, Ома и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/americas/usa/chicago-2017/day-1/index.md",
+        "quote": "в составе 4 человек с мамой и Митей (Наташка нам радостно помахала) и заночевали в городке St.Joseph на противоположном берегу озера Мичиган, не доехав до Чикаго 150 км (что сильно дешевое). С утра заехали посмотреть на новое для нас озеро. Где-то там за водой Чикаго :)"
+      }
+    ]
+  },
+  "americas/usa/detroit-windsor-2016": {
+    "people": [
+      "lelya",
+      "seryozha"
+    ],
+    "families": [],
+    "label": "Леля и Серёжа",
+    "status": "needs-owner",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/americas/usa/detroit-windsor-2016/detroit/index.md",
+        "quote": "А в Детройт мы потом вернулись с детьми, но тоже на один день и только в Дирборн. Так что вернемся еще. Тем более от Торонто каких-то 3,5 часа!"
+      }
+    ],
+    "questions": [
+      "Подтвердить состав повторного посещения Дирборна, фотографии которого входят в поездку."
+    ]
+  },
+  "americas/usa/los-angeles-disneyland-2007": {
+    "people": [
+      "lelya",
+      "natasha"
+    ],
+    "families": [],
+    "label": "Леля и Наташа",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/americas/usa/los-angeles-disneyland-2007/los-angeles/index.md",
+        "quote": "чтобы Наташа прилетела ко мне и мы вместе посмотрели Лос-Анджелес, а потом отправились в Диснейленд."
+      }
+    ]
+  },
+  "americas/usa/minneapolis-2022": {
+    "people": [
+      "seryozha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Серёжа и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/usa/minneapolis-2022/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа и Митя\""
+      }
+    ]
+  },
+  "americas/usa/new-england-2015": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya",
+      "oma"
+    ],
+    "families": [],
+    "label": "Ома, Серёжа, Леля, Наташа и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/americas/usa/new-england-2015/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома, Серёжа, Леля, Наташа и Митя\""
+      }
+    ]
+  },
+  "americas/usa/new-york-2006": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "katya-o"
+    ],
+    "families": [],
+    "label": "Леля, Серёжа, Наташа и Катя О",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/americas/usa/new-york-2006/story/index.md",
+        "quote": "Катюша Орлова нас пригласила погостить у нее (т.е. на халяву!), то мы сразу же дозрели ;-) Мама нас отпустила отдохнуть на несколько дней и мы в составе 3 человек стали готовиться к поездке. Вернее подготовиться мы и не успели. То на работе завалы, то Анютку отправляли в Москву, то какие-то вечеринки на работе. Короче даже с мыслями не собрались :-) Накануне"
+      },
+      {
+        "kind": "owner_confirmation",
+        "date": "2026-11-25",
+        "quote": "Нью-йоркскую одноклассницу Катюшу Орлову обозначаем «Катя О»; отдельно от Кати из Лондона."
+      }
+    ]
+  },
+  "americas/usa/new-york-2012": {
+    "people": [
+      "lelya",
+      "oma",
+      "mitya",
+      "katya-o"
+    ],
+    "families": [],
+    "label": "Леля, Ома, Митя и Катя О",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/americas/usa/new-york-2012/day-1/index.md",
+        "quote": "Ездила я с мамой и Митькой, это наше уже традиционное путешествие в таком составе на мой день рождения. Один год мы по Канаде катались, в прошлом году в Вашингтон ездили. А все потому, что это у нас праздничные выходные обычно, и поэтому именно в эти дни проходит всегда чемпионат Канады по фехтованию. А проходит он всегда в разных местах по стране, и Наташка"
+      },
+      {
+        "kind": "owner_confirmation",
+        "date": "2026-11-25",
+        "quote": "Нью-йоркскую одноклассницу Катюшу Орлову обозначаем «Катя О»; отдельно от Кати из Лондона."
+      }
+    ]
+  },
+  "americas/usa/washington-2011": {
+    "people": [
+      "lelya",
+      "oma",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Леля, Ома и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/americas/usa/washington-2011/story/index.md",
+        "quote": "А я, мама и Митька остаемся одни. В прошлом году мы с компанией друзей ездили на природу. В этом году та же компания собралась в Вашингтон. Я была в Вашингтоне в Серегой и Наташей уже, но подумала что мама моя теперь с паспортом канадским, а в Штатах еще толком не была. Поэтому сначала идея была нам с ней смотаться, но куда Митьку девать? На соревнованиях ем"
+      }
+    ]
+  },
+  "americas/usa/washington-philadelphia-2008": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha"
+    ],
+    "families": [],
+    "label": "Леля, Серёжа и Наташа",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/americas/usa/washington-philadelphia-2008/washington/index.md",
+        "quote": "она посидит дома с Митькой (мама пока не выездная в Штаты), а мы втроем съездим. Как обычно и бывает в последний момент друзья нас «кинули» :-Р и мы остались одни. Ехать не очень хотелось. Причин «не ехать» было много. И одни остались, и финансово истрепались с ремонтами за лето, и вообще именно в Штаты именно сейчас как-то не хотелось ;-)... Но поскольку я "
+      }
+    ]
+  },
+  "asia/china/china-2019": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "mitya",
+      "oma"
+    ],
+    "families": [],
+    "label": "Ома, Серёжа, Леля и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/asia/china/china-2019/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома, Серёжа, Леля и Митя\""
+      }
+    ]
+  },
+  "europe/andorra/andorra-pyrenees-2026": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля и Наташа",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/andorra/andorra-pyrenees-2026/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа, Леля и Наташа\""
+      }
+    ]
+  },
+  "europe/austria/prague-vienna-2023": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "katya"
+    ],
+    "families": [],
+    "label": "Серёжа и Леля (и Катя в Вене)",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/austria/prague-vienna-2023/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа и Леля (и Катя в Вене)\""
+      }
+    ]
+  },
+  "europe/belgium/brussels-2008": {
+    "people": [
+      "lelya",
+      "seryozha"
+    ],
+    "families": [],
+    "label": "Леля и Серёжа",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/europe/belgium/brussels-2008/story/index.md",
+        "quote": "съездили с Серегой в Брюссель (это как и Амстердам всего 2 часа на машине от бабушки!). Я была уже там с экскурсией с Наташей, Серега был первый раз. Но нам обоим очень понравился этот город. Какой-то он... правильной пропорции. "
+      }
+    ]
+  },
+  "europe/belgium/christmas-2014-2015": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya",
+      "oma"
+    ],
+    "families": [],
+    "label": "Ома, Серёжа, Леля, Наташа и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/belgium/christmas-2014-2015/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома, Серёжа, Леля, Наташа и Митя\""
+      }
+    ]
+  },
+  "europe/england/london-2018": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "mitya",
+      "katya"
+    ],
+    "families": [
+      "solomon"
+    ],
+    "label": "Леля, Серёжа, Митя и Катя",
+    "status": "needs-owner",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/europe/england/london-2018/arrival/index.md",
+        "quote": "Дэвид был в командировке). Детей в семье трое - 10, 9 и 6 лет. Все трое в крутых частных школах. Старший в школе при Вестминстерском аббатстве. Было очень интересно наблюдать и узнавать как у них что со школами работает."
+      }
+    ],
+    "questions": [
+      "Уточнить правило включения семьи Соломон; Дэвид в командировке, Катя и дети присутствовали."
+    ]
+  },
+  "europe/england/london-2022": {
+    "people": [
+      "lelya",
+      "katya"
+    ],
+    "families": [],
+    "label": "Леля у Кати",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/england/london-2022/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Леля у Кати\""
+      }
+    ]
+  },
+  "europe/england/london-cambridge-2008": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "katya",
+      "david"
+    ],
+    "families": [
+      "solomon"
+    ],
+    "label": "Леля, Серёжа, Катя и Дэвид",
+    "status": "needs-owner",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/europe/england/london-cambridge-2008/story/index.md",
+        "quote": "Встретились мы с Катей и Дэвидом перед театром, но оказалось что это еще не все. Люди после работы и уже заказали прямо в соседнем с театром доме места в ресторане. Не знаю, почему-то именно этот ресторан произвел на меня какое-то неизгладимое впечатление своей... едой. Я и не знала наверное что еда может быть действительно особенно ВКУСНОЙ в приличном месте"
+      }
+    ],
+    "questions": [
+      "Уточнить правило включения принимающей семьи Соломон."
+    ]
+  },
+  "europe/france/barcelona-occitanie-2024": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля и Наташа",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/france/barcelona-occitanie-2024/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа, Леля и Наташа\""
+      }
+    ]
+  },
+  "europe/france/christmas-2014-2015": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya",
+      "oma",
+      "babushka",
+      "katya",
+      "david"
+    ],
+    "families": [
+      "solomon"
+    ],
+    "label": "Ома, Серёжа, Леля, Наташа и Митя",
+    "status": "needs-owner",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/france/christmas-2014-2015/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома, Серёжа, Леля, Наташа и Митя\""
+      },
+      {
+        "kind": "story",
+        "file": "content/europe/france/christmas-2014-2015/alps/index.md",
+        "quote": "Жили мы с моей мамой в семье родственников. Редкостно душевные люди! Так было хорошо и интересно с ними. Они и о бабушке нашей заботятся, почти каждый день у нее бывают, и нас так принимали, что я уже за эту неделю как-то расслабилась. Хотя понятно, что это не самая легкая часть нашего отдыха была, трудно конечно что бабушка так далеко от нас теперь... Это тема отдельного разговора, но в целом кон"
+      },
+      {
+        "kind": "story",
+        "file": "content/europe/france/christmas-2014-2015/alps-final/index.md",
+        "quote": "Дэвид нас спросил, на кого утром варить овсянку? У меня просто приступ гомерического хохота сразу возник :-) Отказаться было неловко, и мы все в первый день завтракали овсянкой :-) И кстати, было вкусно! Лично мне понравилось, мы бы и дальше с удовольствием так завтракали, но альтернативой каждое утро были свежевыпеченные круассаны и другие плюшки :-) А вот традиционные англ. овощи мы не заценили "
+      }
+    ],
+    "questions": [
+      "Уточнить правило включения семей, к которым приезжали в гости: в рассказе также есть немецкая неделя у Бабушки."
+    ]
+  },
+  "europe/france/europe-2021": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля, Наташа и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/france/europe-2021/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа, Леля, Наташа и Митя\""
+      }
+    ]
+  },
+  "europe/france/europe-friends-2019": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "mitya",
+      "tanya",
+      "polina",
+      "misha"
+    ],
+    "families": [
+      "gorbunov"
+    ],
+    "label": "Таня, Полина, Миша, Леля, Серёжа и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/france/europe-friends-2019/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Таня, Полина, Миша, Леля, Серёжа и Митя\""
+      }
+    ]
+  },
+  "europe/france/france-2012": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya",
+      "babushka"
+    ],
+    "families": [],
+    "label": "Бабушка, Серёжа, Леля, Наташа и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/france/france-2012/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Бабушка, Серёжа, Леля, Наташа и Митя\""
+      }
+    ]
+  },
+  "europe/germany/east-germany-winter-2025": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha"
+    ],
+    "families": [],
+    "label": "Серёжа и Леля, в гостях у Наташи",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/germany/east-germany-winter-2025/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа и Леля, в гостях у Наташи\""
+      }
+    ]
+  },
+  "europe/germany/europe-autumn-2023": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Серёжа и Леля (с Наташей и Митей)",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/germany/europe-autumn-2023/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа и Леля (с Наташей и Митей)\""
+      }
+    ]
+  },
+  "europe/germany/germany-2011": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya",
+      "babushka",
+      "katya",
+      "david"
+    ],
+    "families": [
+      "solomon"
+    ],
+    "label": "Бабушка, Серёжа, Леля, Наташа и Митя",
+    "status": "needs-owner",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/germany/germany-2011/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Бабушка, Серёжа, Леля, Наташа и Митя\""
+      },
+      {
+        "kind": "story",
+        "file": "content/europe/germany/germany-2011/london/index.md",
+        "quote": "Катюше заехать хотя бы на пару дней, посмотреть как детишки растут и дать возможность нашим детям узнать друг друга.\r\n\r\nВ этом году мы из Германии не на самолете летели, а на поезде под Ламаншем! По деньгам то же самое, но зато не надо в аэропорт ехать и в Лондоне из аэропорта. Билеты у нас были с пересадкой. Сначала из Кельна в Брюссель, а там пересадка уже на экспресс до Лондона. Пересадка у нас"
+      },
+      {
+        "kind": "story",
+        "file": "content/europe/germany/germany-2011/london/index.md",
+        "quote": "Дэвид спокойно и уверенно нас вел к цели. И оказалось все не так страшно! Да, может быть мы не очень много атракционов смогли посетить, но погуляли хорошо, посмотрели, покатались достаточно. Меня Вика (2 года) поразила, которая сознательно сидела и терпела пока ей рисовали картинку на лице!\r\n\r\nИнтересно было наблюдать общение детей между собой. Митька конечно плох с маленькими, т.к. он привык сам "
+      }
+    ],
+    "questions": [
+      "Уточнить правило включения принимающей семьи Соломон."
+    ]
+  },
+  "europe/germany/germany-italy-2006": {
+    "people": [
+      "lelya",
+      "babushka"
+    ],
+    "families": [],
+    "label": "Леля и Бабушка",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/europe/germany/germany-italy-2006/grandma/index.md",
+        "quote": "к бабушке, без всех, как в былые времена. Мечта просто :-)"
+      }
+    ]
+  },
+  "europe/germany/germany-london-2009": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "mitya",
+      "babushka",
+      "katya",
+      "david"
+    ],
+    "families": [
+      "solomon"
+    ],
+    "label": "Леля, Серёжа и Митя",
+    "status": "needs-owner",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/germany/germany-london-2009/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Леля, Серёжа и Митя\""
+      },
+      {
+        "kind": "story",
+        "file": "content/europe/germany/germany-london-2009/london/index.md",
+        "quote": "Катюша недавно вышла на работу, няня одна дома «зашивается», Катя после работы бежит домой и тоже «зашивается». На работе тоже приходится работать все 100% времени, т.к. уходит она рано. Вот такое вот тяжелое время, когда все «заезженные» и поэтому и напряжения между всеми больше... А тут мы – здрасьте! Но скажу честно, даже если бы я немножко мозгами раскинула и подумала не только о своих желания"
+      },
+      {
+        "kind": "story",
+        "file": "content/europe/germany/germany-london-2009/london/index.md",
+        "quote": "Дэвидом (который его не одергивал, а разговаривал «на равных») вел себя безобразно :-( На фоне Катиных детей было конечно стыдно за его поведение и уровень развития :-) Но... для нас и это хороший результат :-)"
+      },
+      {
+        "kind": "story",
+        "file": "content/europe/germany/germany-london-2009/birthday/index.md",
+        "quote": "бабушка никуда не хотела ходить, то еда не такая, то продует от двери, то сидеть неудобно... А сейчас что-то на наших витаминах у нее и кости перестали болеть, и простужаться она стала меньше (т-т-т), короче согласилась она пойти куда-нибудь в ресторан отмечать. Одни ее соседи заболели, поэтому мы решили просто пойти семьей, т.к. нас было немало, да один Митька с его энергией создает видимость цел"
+      }
+    ],
+    "questions": [
+      "Уточнить правило включения принимающей семьи Соломон."
+    ]
+  },
+  "europe/ireland/dublin-2025": {
+    "people": [
+      "lelya",
+      "seryozha"
+    ],
+    "families": [],
+    "label": "Серёжа и Леля",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/ireland/dublin-2025/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа и Леля\""
+      }
+    ]
+  },
+  "europe/italy/florence-2025": {
+    "people": [
+      "lelya",
+      "seryozha"
+    ],
+    "families": [],
+    "label": "Серёжа и Леля",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/italy/florence-2025/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа и Леля\""
+      }
+    ]
+  },
+  "europe/italy/italy-2022": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/italy/italy-2022/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа, Леля и Митя\""
+      }
+    ]
+  },
+  "europe/italy/rome-2015-2016": {
+    "people": [
+      "lelya",
+      "natasha",
+      "liza",
+      "marina"
+    ],
+    "families": [],
+    "label": "Леля, Марина, Наташа и Лиза",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/italy/rome-2015-2016/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Леля, Марина, Наташа и Лиза\""
+      }
+    ]
+  },
+  "europe/luxembourg/luxembourg-2007": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "babushka"
+    ],
+    "families": [],
+    "label": "Леля, Серёжа и Бабушка",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/europe/luxembourg/luxembourg-2007/grandma/index.md",
+        "quote": "Мы с Серегой вдвоем(!!!) ездили к бабушке на 2,5 недели. Не помню когда мы так долго были вдвоем без детей. Однако «медового месяца» как нам тут все на работе говорили не было, т.к. мы все-таки ездили к бабушке и все свое время посвящали ей и ее хозяйству. Т.ч. на самом деле отпуск получился очень напряженным и «рабочим», но смена деятельности это тоже отдых"
+      }
+    ]
+  },
+  "europe/netherlands/girls-europe-2017": {
+    "people": [
+      "lelya",
+      "marina",
+      "nonna"
+    ],
+    "families": [],
+    "label": "Леля, Марина и Нонна",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/netherlands/girls-europe-2017/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Леля, Марина и Нонна\""
+      }
+    ]
+  },
+  "europe/poland/poland-2026": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля и Наташа",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/poland/poland-2026/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа, Леля и Наташа\""
+      }
+    ]
+  },
+  "europe/portugal/honeymoon-2017": {
+    "people": [
+      "lelya",
+      "seryozha"
+    ],
+    "families": [],
+    "label": "Леля и Серёжа",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/portugal/honeymoon-2017/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Леля и Серёжа\""
+      }
+    ]
+  },
+  "europe/portugal/iberia-2022": {
+    "people": [
+      "lelya",
+      "natasha",
+      "oma"
+    ],
+    "families": [],
+    "label": "Ома, Леля и Наташа",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/portugal/iberia-2022/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома, Леля и Наташа\""
+      }
+    ]
+  },
+  "europe/portugal/portugal-2024": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "oma"
+    ],
+    "families": [],
+    "label": "Ома, Серёжа и Леля",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/portugal/portugal-2024/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома, Серёжа и Леля\""
+      }
+    ]
+  },
+  "europe/portugal/portugal-spain-2016": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля, Наташа и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/portugal/portugal-spain-2016/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа, Леля, Наташа и Митя\""
+      }
+    ]
+  },
+  "europe/russia/moscow-new-year-2012": {
+    "people": [
+      "lelya",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Леля и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "story",
+        "file": "content/europe/russia/moscow-new-year-2012/story/index.md",
+        "quote": "Это Митька мне сегодня по дороге в школу говорил, и я с ним полностью согласна! Вообще мальчика своего я еле-еле уговорила обратно уехать, он только решил встретиться с папой и серьезно поговорить с ним, что пора переезжать обратно в Москву. Уж очень ему там понравилось. И мне тоже :-)"
+      }
+    ]
+  },
+  "europe/russia/russia-2021": {
+    "people": [
+      "lelya",
+      "oma",
+      "katya"
+    ],
+    "families": [],
+    "label": "Ома и Леля",
+    "status": "needs-owner",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/russia/russia-2021/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома и Леля\""
+      },
+      {
+        "kind": "story",
+        "file": "content/europe/russia/russia-2021/teatry/index.md",
+        "quote": "Потом приехала Катя из Лондона. Сначала встретилась с родственниками и привезла целые авоськи с гостинцами!"
+      }
+    ],
+    "questions": [
+      "Подтвердить, к какой московской поездке относится Таня: 2012, 2021 или обе. Марина из Волгограда не отождествляется автоматически с Мариной из Римских каникул."
+    ]
+  },
+  "europe/spain/barcelona-museums-2025": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "oma"
+    ],
+    "families": [],
+    "label": "Ома, Серёжа и Леля",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/spain/barcelona-museums-2025/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома, Серёжа и Леля\""
+      }
+    ]
+  },
+  "europe/spain/barcelona-november-2026": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля, Наташа и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/spain/barcelona-november-2026/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Сережа, Леля, Наташа и Митя\""
+      }
+    ]
+  },
+  "europe/spain/basque-castile-2024": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "oma"
+    ],
+    "families": [],
+    "label": "Ома, Серёжа, Леля и Наташа",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/spain/basque-castile-2024/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома, Серёжа, Леля и Наташа\""
+      }
+    ]
+  },
+  "europe/spain/madrid-2024": {
+    "people": [
+      "lelya",
+      "seryozha"
+    ],
+    "families": [],
+    "label": "Серёжа и Леля",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/spain/madrid-2024/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа и Леля\""
+      }
+    ]
+  },
+  "europe/spain/malgrat-2024": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля, Наташа и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/spain/malgrat-2024/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа, Леля, Наташа и Митя\""
+      }
+    ]
+  },
+  "europe/spain/montserrat-2025": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "marina"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля, Наташа и Марина",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/spain/montserrat-2025/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа, Леля, Наташа и Марина\""
+      }
+    ]
+  },
+  "europe/spain/peniscola-valencia-2024": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "mitya"
+    ],
+    "families": [],
+    "label": "Серёжа, Леля и Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/spain/peniscola-valencia-2024/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Серёжа, Леля и Митя\""
+      }
+    ]
+  },
+  "europe/spain/poblet-2025": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "oma"
+    ],
+    "families": [],
+    "label": "Ома, Серёжа и Леля",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/spain/poblet-2025/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома, Серёжа и Леля\""
+      }
+    ]
+  },
+  "europe/spain/spain-2019": {
+    "people": [
+      "lelya",
+      "natasha",
+      "oma"
+    ],
+    "families": [],
+    "label": "Ома, Леля и Наташа",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/spain/spain-2019/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома, Леля и Наташа\""
+      }
+    ]
+  },
+  "europe/spain/teruel-2025": {
+    "people": [
+      "lelya",
+      "seryozha",
+      "natasha",
+      "oma"
+    ],
+    "families": [],
+    "label": "Ома, Серёжа, Леля и Наташа",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/spain/teruel-2025/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Ома, Серёжа, Леля и Наташа\""
+      }
+    ]
+  },
+  "europe/switzerland/bern-2023": {
+    "people": [
+      "mitya"
+    ],
+    "families": [],
+    "label": "Митя",
+    "status": "reviewed",
+    "evidence": [
+      {
+        "kind": "existing_metadata",
+        "file": "content/europe/switzerland/bern-2023/_index.md",
+        "base_commit": "04d34aa",
+        "quote": "cover_who: \"Митя\""
+      }
+    ]
+  }
+}

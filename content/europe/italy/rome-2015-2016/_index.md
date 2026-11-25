@@ -21,4 +21,6 @@ cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016
 cover_position: "center 40%"
 cover_who: "Леля, Марина, Наташа и Лиза"
 source_url: "https://olgau.livejournal.com/222167.html"
+participants: ["lelya","natasha","liza","marina"]
+participant_families: []
 ---

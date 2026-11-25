@@ -17,4 +17,6 @@ cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/spain-2019/cov
 cover_position: "center 80%"
 source_url: "https://www.facebook.com/olga.ukolova.754"
 draft: false
+participants: ["lelya","natasha","oma"]
+participant_families: []
 ---

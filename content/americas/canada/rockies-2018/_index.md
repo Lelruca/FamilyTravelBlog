@@ -18,4 +18,6 @@ cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rockies-2018/i
 cover_position: "center 72%"
 source_url: "https://www.facebook.com/olga.ukolova.754"
 draft: false
+participants: ["lelya","seryozha","mitya","oma"]
+participant_families: []
 ---

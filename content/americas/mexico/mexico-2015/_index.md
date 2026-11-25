@@ -15,4 +15,6 @@ cover_title: "Отдых в Мексике"
 cover_subtitle: "Майя"
 cover_when: "Лето 2015"
 cover_who: "Серёжа, Леля, Наташа и Митя"
+participants: ["lelya","seryozha","natasha","mitya"]
+participant_families: []
 ---

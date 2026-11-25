@@ -14,8 +14,10 @@ cover_where: "Испания · Барселона"
 cover_title: "Барселона"
 cover_subtitle: "Родительский визит"
 cover_when: "Ноябрь 2026"
-cover_who: "Сережа, Леля, Наташа и Митя"
+cover_who: "Серёжа, Леля, Наташа и Митя"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/barcelona-november-2026/story/20261122_120551.jpg"
 cover_position: "center 60%"
 draft: false
+participants: ["lelya","seryozha","natasha","mitya"]
+participant_families: []
 ---

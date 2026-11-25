@@ -14,4 +14,7 @@ geo_countries:
 readable_photos: true
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/washington-philadelphia-2008/washington/p8300515.jpg"
 cover_position: "center 38%"
+participants: ["lelya","seryozha","natasha"]
+cover_who: "Леля, Серёжа и Наташа"
+participant_families: []
 ---

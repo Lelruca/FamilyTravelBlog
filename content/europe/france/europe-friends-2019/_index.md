@@ -18,6 +18,8 @@ geo_countries:
   - "germany"
   - "austria"
   - "belgium"
+participants: ["lelya","seryozha","mitya","tanya","polina","misha"]
+participant_families: ["gorbunov"]
 ---
 
 <style>

@@ -15,4 +15,6 @@ cover_title: "Франция классическая"
 cover_subtitle: "Лето у бабушки"
 cover_when: "Лето 2012"
 cover_who: "Бабушка, Серёжа, Леля, Наташа и Митя"
+participants: ["lelya","seryozha","natasha","mitya","babushka"]
+participant_families: []
 ---
