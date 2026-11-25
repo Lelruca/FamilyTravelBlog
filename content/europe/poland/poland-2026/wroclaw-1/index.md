@@ -9,7 +9,7 @@ places:
 hero_image: "20261114_152528.jpg"
 date: "2026-11-14"
 auto_gallery: false
-draft: true
+draft: false
 attractions: ["wroclaw--rynochnaya-ploshchad", "wroclaw--ratusha", "wroclaw--muzey-vroclavskogo-universiteta", "wroclaw--oratorium-marianum", "wroclaw--tumskiy-ostrov", "wroclaw--kafedralnyy-sobor"]
 ---
 <p>С Польшей у нас любви с первого взгляда не сложилось 🙂 </p>

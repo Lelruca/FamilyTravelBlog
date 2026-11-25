@@ -9,7 +9,7 @@ places:
 hero_image: "20261118_140414.jpg"
 date: "2026-11-16"
 auto_gallery: false
-draft: true
+draft: false
 attractions: ["krakow--gorodskaya-stena", "krakow--rynochnaya-ploshchad", "krakow--sukonnye-ryady", "krakow--mariatskiy-kostel", "krakow--bazilika-svyatogo-frantsiska", "krakow--pavilon-vyspyanskogo", "krakow--collegium-maius", "krakow--kostel-svyatoy-anny", "krakow--eros-svyazannyy"]
 ---
 <p>В Кракове мы провели полных 3 дня вместе с Наташей. Она, конечно, страдала от холода больше всех, к хорошему быстро привыкаешь 😃 Но в целом было действительно промозгло, и половину времени шли дожди. Я расскажу «по темам», а не по дням. Мы жили внутри Старого города и почти никуда из него не выходили. И там нам было не скучно! Краков - это древняя польская столица, которая не пострадала во время Второй мировой войны, и сохранились её прекрасные костёлы, королевский дворец, а также множество музеев.</p>

@@ -9,7 +9,7 @@ places:
 hero_image: "20261117_141801.jpg"
 date: "2026-11-17"
 auto_gallery: false
-draft: true
+draft: false
 attractions: ["krakow--muzey-chartoryyskikh", "krakow--galereya-v-sukennitsakh", "krakow--vavelskiy-zamok", "krakow--vavelskiy-sobor"]
 ---
 <p>Краков очень порадовал своими музеями! Я последние годы очень ценю именно организацию музейного дела, и тут Краков очень сильно выступил!</p>

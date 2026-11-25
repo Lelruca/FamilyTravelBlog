@@ -117,6 +117,7 @@ CHAPTERS = [
 ]
 # The owner's choice on 24 Nov 2026 (first a Kraków city view, which cut the church): Tumski island over the Oder
 TRIP_COVER = dict(chapter='wroclaw-1', photo=39, position='center 60%')
+DRAFT = 'false'  # published with the owner's «Публикуем», 24 Nov 2026
 # Sights named in each chapter text or in the owner's photo captions (data/attractions.json)
 ATTRACTIONS = {
  'wroclaw-1': ['wroclaw--rynochnaya-ploshchad', 'wroclaw--ratusha', 'wroclaw--muzey-vroclavskogo-universiteta', 'wroclaw--oratorium-marianum',
@@ -482,8 +483,8 @@ def render():
     m = load(MANIFEST)
     TRIP.mkdir(parents=True, exist_ok=True)
     country = ROOT / 'content/europe/poland/_index.md'
-    # a draft until the trip is published (set both to draft: false then), so production shows no empty country
-    if not country.exists(): country.write_text('---\ntitle: "Польша"\ncountry: "Poland"\ncontinent: "Europe"\ndraft: true\n---\n', encoding='utf-8')
+    # the country page is a draft as long as the trip is, so that production never shows an empty country
+    country.write_text(f'---\ntitle: "Польша"\ncountry: "Poland"\ncontinent: "Europe"\ndraft: {DRAFT}\n---\n', encoding='utf-8')
     cover = m['trip_cover']
     (TRIP / '_index.md').write_text(f'''---
 title: "Наша Польша"
@@ -502,7 +503,7 @@ cover_when: "Ноябрь 2026"
 cover_who: "Сережа, Леля и Наташа"
 cover_image: "{BASE}{SLUG}/{cover['chapter']}/{cover['site_filename']}"
 cover_position: "{cover['position']}"
-draft: true
+draft: {DRAFT}
 ---
 ''', encoding='utf-8')
     for c in m['chapters']:
@@ -543,7 +544,7 @@ places:{places}
 hero_image: {json.dumps(c['hero_image'])}
 date: "{c['date']}"
 auto_gallery: false
-draft: true
+draft: {DRAFT}
 attractions: {json.dumps(ATTRACTIONS[c['slug']])}
 ---
 ''' + '\n\n'.join(body) + '\n', encoding='utf-8')
