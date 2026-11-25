@@ -1,6 +1,6 @@
 ---
 title: "Исторический музей — июль 2017"
-draft: false
+draft: true
 date: 2017-07-16
 weight: 1
 chapter_kind: "Заметка"

@@ -2,7 +2,7 @@
 title: "Оттава"
 type: "trips"
 multi_visit: true
-draft: false
+draft: true
 date: 2017-07-16
 trip_year: 2017
 trip_start: "2017-07"
