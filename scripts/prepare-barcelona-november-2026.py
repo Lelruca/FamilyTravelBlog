@@ -102,7 +102,7 @@ CAPTIONS = {
 }
 CAPTION_FIXES = [('комьютера', 'компьютера')]  # obvious typo only, display
 ATTRACTIONS = ['barcelona--ploshchad-katalonii']
-DRAFT = 'true'
+DRAFT = 'false'  # published with the owner's «Публикуй», 25 Nov 2026
 
 
 def order():
@@ -221,7 +221,7 @@ trip_end: "2026-11"
 date: "2026-11-19"
 cover_where: "Испания · Барселона"
 cover_title: "Барселона"
-cover_subtitle: "Родительские дни"
+cover_subtitle: "Родительский визит"
 cover_when: "Ноябрь 2026"
 cover_who: "Сережа, Леля, Наташа и Митя"
 cover_image: "{BASE}{cover['r2_key']}"
@@ -239,7 +239,7 @@ draft: {DRAFT}
                 body.append('{{< ' + ('exhibit-row' if k == 'x' else 'row') + ' "' + ' '.join(by_index[i]['site_filename'] for i in it) + '" >}}')
     (TRIP / CHAPTER).mkdir(exist_ok=True)
     (TRIP / CHAPTER / 'index.md').write_text(f'''---
-title: "Родительские дни"
+title: "Родительский визит"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 10

@@ -1,5 +1,5 @@
 ---
-title: "Родительские дни"
+title: "Родительский визит"
 chapter_kind: "part"
 layout: "photo-story"
 weight: 10
@@ -9,7 +9,7 @@ places:
 hero_image: "20261122_150447.jpg"
 date: "2026-11-19"
 auto_gallery: false
-draft: true
+draft: false
 attractions: ["barcelona--ploshchad-katalonii"]
 ---
 <p>Вторую часть отпуска мы провели в Барселоне. Вот где ВСЕГДА прекрасная погода! Мы приехали в +20! Настроение соответствующее. Дети разбежались на работу и учёбу, а мы — гулять, гулять, на море и по городу. </p>
