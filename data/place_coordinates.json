@@ -4849,5 +4849,29 @@
     "country_code": "RU",
     "source": "https://www.openstreetmap.org/relation/2142174",
     "query": "Реутов, Московская область"
+  },
+  "wroclaw": {
+    "lat": 51.1089776,
+    "lon": 17.0326689,
+    "name": "Wrocław",
+    "country_code": "PL",
+    "source": "https://www.openstreetmap.org/relation/451516",
+    "query": "Wrocław"
+  },
+  "krakow": {
+    "lat": 50.0619474,
+    "lon": 19.9368564,
+    "name": "Kraków",
+    "country_code": "PL",
+    "source": "https://www.openstreetmap.org/relation/449696",
+    "query": "Kraków"
+  },
+  "wieliczka": {
+    "lat": 49.9823773,
+    "lon": 20.0602114,
+    "name": "Wieliczka",
+    "country_code": "PL",
+    "source": "https://www.openstreetmap.org/relation/2751961",
+    "query": "Wieliczka"
   }
 }

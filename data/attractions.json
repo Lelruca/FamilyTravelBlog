@@ -14367,5 +14367,435 @@
       "архитектура",
       "historic building"
     ]
+  },
+  "wroclaw--muzey-vroclavskogo-universiteta": {
+    "title": "Музей Вроцлавского университета",
+    "parent": "wroclaw",
+    "types": [
+      "museum",
+      "university"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "университет",
+      "университеты",
+      "университета",
+      "колледж",
+      "university",
+      "college"
+    ]
+  },
+  "wroclaw--kafedralnyy-sobor": {
+    "title": "Кафедральный собор Святого Иоанна Крестителя",
+    "parent": "wroclaw",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "wroclaw--tumskiy-ostrov": {
+    "title": "Тумский остров",
+    "parent": "wroclaw",
+    "types": [
+      "island",
+      "district"
+    ],
+    "search_terms": [
+      "остров",
+      "острова",
+      "островов",
+      "island",
+      "район",
+      "районы",
+      "квартал",
+      "кварталы",
+      "district",
+      "neighbourhood"
+    ]
+  },
+  "wroclaw--natsionalnyy-muzey": {
+    "title": "Национальный музей во Вроцлаве",
+    "parent": "wroclaw",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ]
+  },
+  "wroclaw--ratslavitskaya-panorama": {
+    "title": "Рацлавицкая панорама",
+    "parent": "wroclaw",
+    "types": [
+      "museum",
+      "artwork"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "искусство",
+      "фреска",
+      "фрески",
+      "роспись",
+      "artwork",
+      "mural"
+    ]
+  },
+  "wroclaw--most-pokayannits": {
+    "title": "Мост покаянниц (смотровая площадка)",
+    "parent": "wroclaw",
+    "types": [
+      "viewpoint",
+      "bridge"
+    ],
+    "search_terms": [
+      "смотровая площадка",
+      "смотровые площадки",
+      "обзорная площадка",
+      "viewpoint",
+      "observation deck",
+      "мост",
+      "мосты",
+      "моста",
+      "мостов",
+      "bridge"
+    ]
+  },
+  "wroclaw--gnomiki": {
+    "title": "Вроцлавские гномики",
+    "parent": "wroclaw",
+    "types": [
+      "artwork"
+    ],
+    "search_terms": [
+      "искусство",
+      "фреска",
+      "фрески",
+      "роспись",
+      "artwork",
+      "mural"
+    ]
+  },
+  "krakow--rynochnaya-ploshchad": {
+    "title": "Рыночная площадь",
+    "parent": "krakow",
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ]
+  },
+  "krakow--mariatskiy-kostel": {
+    "title": "Мариацкий костёл",
+    "parent": "krakow",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "krakow--bazilika-svyatogo-frantsiska": {
+    "title": "Базилика Святого Франциска Ассизского",
+    "parent": "krakow",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "krakow--pavilon-vyspyanskogo": {
+    "title": "Павильон Выспянского",
+    "parent": "krakow",
+    "types": [
+      "artwork"
+    ],
+    "search_terms": [
+      "искусство",
+      "фреска",
+      "фрески",
+      "роспись",
+      "artwork",
+      "mural"
+    ]
+  },
+  "krakow--collegium-maius": {
+    "title": "Collegium Maius",
+    "parent": "krakow",
+    "types": [
+      "university",
+      "museum"
+    ],
+    "search_terms": [
+      "университет",
+      "университеты",
+      "университета",
+      "колледж",
+      "university",
+      "college",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "krakow--kostel-svyatoy-anny": {
+    "title": "Костёл Святой Анны",
+    "parent": "krakow",
+    "types": [
+      "church"
+    ],
+    "search_terms": [
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "krakow--gorodskaya-stena": {
+    "title": "Городская стена",
+    "parent": "krakow",
+    "types": [
+      "historic_building"
+    ],
+    "search_terms": [
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
+  },
+  "krakow--eros-svyazannyy": {
+    "title": "Скульптура «Эрос связанный»",
+    "parent": "krakow",
+    "types": [
+      "artwork"
+    ],
+    "search_terms": [
+      "искусство",
+      "фреска",
+      "фрески",
+      "роспись",
+      "artwork",
+      "mural"
+    ]
+  },
+  "krakow--muzey-chartoryyskikh": {
+    "title": "Музей Чарторыйских",
+    "parent": "krakow",
+    "types": [
+      "museum",
+      "gallery"
+    ],
+    "search_terms": [
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums",
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art"
+    ]
+  },
+  "krakow--galereya-v-sukennitsakh": {
+    "title": "Галерея польского искусства XIX века в Суконных рядах",
+    "parent": "krakow",
+    "types": [
+      "gallery",
+      "museum"
+    ],
+    "search_terms": [
+      "галерея",
+      "галереи",
+      "галерею",
+      "галерей",
+      "картинная галерея",
+      "картинные галереи",
+      "художественная галерея",
+      "художественные галереи",
+      "пинакотека",
+      "искусство",
+      "живопись",
+      "картины",
+      "gallery",
+      "art",
+      "музей",
+      "музеи",
+      "музея",
+      "музеев",
+      "museum",
+      "museums"
+    ]
+  },
+  "krakow--vavelskiy-zamok": {
+    "title": "Вавельский замок",
+    "parent": "krakow",
+    "types": [
+      "castle",
+      "palace"
+    ],
+    "search_terms": [
+      "замок",
+      "замки",
+      "замка",
+      "замков",
+      "крепость",
+      "крепости",
+      "цитадель",
+      "castle",
+      "fortress",
+      "дворец",
+      "дворцы",
+      "дворца",
+      "дворцов",
+      "резиденция",
+      "palace"
+    ]
+  },
+  "krakow--vavelskiy-sobor": {
+    "title": "Вавельский собор",
+    "parent": "krakow",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "krakow--krakovskaya-opera": {
+    "title": "Краковская опера",
+    "parent": "krakow",
+    "types": [
+      "theatre"
+    ],
+    "search_terms": [
+      "театр",
+      "театры",
+      "театра",
+      "театров",
+      "опера",
+      "оперы",
+      "theatre",
+      "theater",
+      "opera"
+    ]
+  },
+  "wieliczka--solyanaya-shakhta": {
+    "title": "Соляная шахта Величка",
+    "parent": "wieliczka",
+    "types": [
+      "mine",
+      "industrial_heritage"
+    ],
+    "search_terms": [
+      "рудник",
+      "рудники",
+      "шахта",
+      "шахты",
+      "карьер",
+      "карьеры",
+      "добыча",
+      "mine",
+      "quarry",
+      "промышленное наследие",
+      "индустриальное наследие",
+      "техника",
+      "industrial heritage"
+    ]
   }
 }
