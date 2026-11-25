@@ -1,60 +1,60 @@
-#place-explorer,#place-city{color:#1e293b} #place-explorer [hidden],#place-city [hidden]{display:none!important}
+#place-explorer,#place-city{color:var(--ink)} #place-explorer [hidden],#place-city [hidden]{display:none!important}
 .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
-#place-explorer header p{margin-top:10px}.place-context{display:block;color:#64748b;font-size:14px;line-height:1.6}
-.place-tools{display:flex;gap:12px;align-items:end;margin:24px 0 10px;flex-wrap:wrap}.place-search{flex:1;min-width:180px}.place-tools input,.place-tools select,.place-modes button,#place-map-reset{border:1px solid #cbd5e1;border-radius:8px;background:white;padding:10px 14px;color:#1e293b}.place-tools input{width:100%;font-size:16px}
+#place-explorer header p{margin-top:10px}.place-context{display:block;color:var(--ink-muted);font-size:14px;line-height:1.6}
+.place-tools{display:flex;gap:12px;align-items:end;margin:24px 0 10px;flex-wrap:wrap}.place-search{flex:1;min-width:180px}.place-tools input,.place-tools select,.place-modes button,#place-map-reset{border:1px solid var(--line-strong);border-radius:8px;background:white;padding:10px 14px;color:var(--ink)}.place-tools input{width:100%;font-size:16px}
 .place-field{position:relative}.place-tools input{padding-right:40px}.place-tools input::-webkit-search-cancel-button{display:none}
-.place-clear{position:absolute;top:50%;right:6px;transform:translateY(-50%);width:30px;height:30px;border:0;border-radius:50%;background:#f1f5f9;color:#475569;font-size:18px;line-height:30px;padding:0;cursor:pointer}
-.place-clear:hover{background:#e2e8f0;color:#1e293b}.place-field select{padding-right:34px;max-width:300px;text-overflow:ellipsis}.place-field select~.place-clear{right:28px;width:24px;height:24px;line-height:24px;font-size:16px}
-.place-field:has(.place-clear:not([hidden])) select{padding-right:58px}.place-modes{display:flex;gap:4px}.place-modes button[aria-pressed=true]{background:#1e293b;color:white;border-color:#1e293b}
-#place-explorer :focus-visible,#place-city :focus-visible{outline:2px solid #2a9d8f;outline-offset:2px}.place-results-line{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 14px;margin-bottom:12px}#place-results{margin:0}
-#place-reset{background:none;border:0;padding:6px 0;color:#2a9d8f;font:inherit;font-size:14px;text-decoration:underline;cursor:pointer}
+.place-clear{position:absolute;top:50%;right:6px;transform:translateY(-50%);width:30px;height:30px;border:0;border-radius:50%;background:var(--paper);color:var(--ink-muted);font-size:18px;line-height:30px;padding:0;cursor:pointer}
+.place-clear:hover{background:var(--line);color:var(--ink)}.place-field select{padding-right:34px;max-width:300px;text-overflow:ellipsis}.place-field select~.place-clear{right:28px;width:24px;height:24px;line-height:24px;font-size:16px}
+.place-field:has(.place-clear:not([hidden])) select{padding-right:58px}.place-modes{display:flex;gap:4px}.place-modes button[aria-pressed=true]{background:var(--accent-fill);color:white;border-color:var(--accent-fill)}
+#place-explorer :focus-visible,#place-city :focus-visible{outline:2px solid var(--accent);outline-offset:2px}.place-results-line{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 14px;margin-bottom:12px}#place-results{margin:0}
+#place-reset{background:none;border:0;padding:6px 0;color:var(--accent);font:inherit;font-size:14px;text-decoration:underline;cursor:pointer}
 
 /* the list: compact rows under each country; the heading of an open country stays on top while scrolling;
    a tap on it folds the country, «Свернуть все страны» leaves just their names */
 /* folded, the list reads as a table of countries; the open country gets a grey heading that stays on top */
-#places-list section{scroll-margin-top:60px;border-bottom:1px solid #e2e8f0}
+#places-list section{scroll-margin-top:60px;border-bottom:1px solid var(--line)}
 #places-list section:not(.folded){padding-bottom:8px}
 #places-list section.folded .place-row{display:none}
 #places-list h2{margin:0}
-#places-list section:not(.folded) h2{position:sticky;top:60px;z-index:2;background:#f3f6f5}
-.place-country-toggle{display:flex;justify-content:space-between;align-items:center;gap:8px;width:100%;text-align:left;padding:11px 12px;font:500 17px/1.3 Inter,system-ui,sans-serif;color:#1e293b;background:none;border:0;cursor:pointer}
-.place-country-toggle .place-arrow{flex-shrink:0;color:#64748b;transition:transform 200ms}
+#places-list section:not(.folded) h2{position:sticky;top:60px;z-index:2;background:var(--paper)}
+.place-country-toggle{display:flex;justify-content:space-between;align-items:center;gap:8px;width:100%;text-align:left;padding:11px 12px;font:500 17px/1.3 Inter,system-ui,sans-serif;color:var(--ink);background:none;border:0;cursor:pointer}
+.place-country-toggle .place-arrow{flex-shrink:0;color:var(--ink-muted);transition:transform 200ms}
 #places-list section:not(.folded) .place-arrow{transform:rotate(180deg)}
-#sights-found h2{position:sticky;top:60px;z-index:2;margin:0;padding:8px 12px 6px;background:#f3f6f5;font:600 12px/1.4 Inter,system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:#64748b}
+#sights-found h2{position:sticky;top:60px;z-index:2;margin:0;padding:8px 12px 6px;background:var(--paper);font:600 12px/1.4 Inter,system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-muted)}
 #sights-found .place-row{padding-left:12px}
-.place-row{display:flex;align-items:baseline;gap:8px;padding:5px 12px 5px 24px;color:#1e293b;text-decoration:none;font-size:15px;line-height:1.35;border-radius:6px}
-.place-orig{color:#94a3b8;font-size:13px}
+.place-row{display:flex;align-items:baseline;gap:8px;padding:5px 12px 5px 24px;color:var(--ink);text-decoration:none;font-size:15px;line-height:1.35;border-radius:6px}
+.place-orig{color:var(--ink-faint);font-size:13px}
 #sights-found{margin-top:14px}
-@media(hover:hover){.place-row:hover,.place-country-toggle:hover{background:#f1f5f4}.place-row:hover .place-title,.place-country-toggle:hover{color:#2a9d8f}}
+@media(hover:hover){.place-row:hover,.place-country-toggle:hover{background:var(--accent-wash)}.place-row:hover .place-title,.place-country-toggle:hover{color:var(--accent)}}
 @media(prefers-reduced-motion:reduce){.place-country-toggle .place-arrow{transition:none}}
 
 /* the map: a point opens a small window with the name and «К заметкам →» */
-#place-map{height:520px;max-height:65dvh;border-radius:8px;background:#e2e8f0;z-index:0}#place-map-status{margin:10px 0}#place-map-reset{margin-bottom:20px;font-size:14px}.place-pin{background:none;border:0}.place-pin span{display:block;width:18px;height:18px;margin:5px;background:#2a9d8f;border:3px solid white;border-radius:50%;box-shadow:0 1px 5px #475569}.place-cluster{background:#2a9d8f;border:3px solid #d9efeb;border-radius:50%;color:white;text-align:center;font:600 14px/34px sans-serif}.leaflet-tooltip{color:#1e293b}
+#place-map{height:520px;max-height:65dvh;border-radius:8px;background:var(--line);z-index:0}#place-map-status{margin:10px 0}#place-map-reset{margin-bottom:20px;font-size:14px}.place-pin{background:none;border:0}.place-pin span{display:block;width:18px;height:18px;margin:5px;background:var(--accent-fill);border:3px solid white;border-radius:50%;box-shadow:0 1px 5px rgba(0,0,0,.35)}.place-cluster{background:var(--accent-fill);border:3px solid var(--accent-soft);border-radius:50%;color:white;text-align:center;font:600 14px/34px sans-serif}.leaflet-tooltip{color:var(--ink)}
 .place-pop{display:flex;flex-direction:column;gap:8px;min-width:160px}
-.place-pop-name{font:600 17px/1.3 Lora,Georgia,serif;color:#1e293b!important;text-decoration:none}
-.place-pop-sight{color:#1e293b!important;font-size:14px;line-height:1.3;text-decoration:none;margin-top:-4px}
-.place-pop-more{color:#64748b;font-size:13px;margin-top:-4px}
-.place-pop-go{align-self:flex-start;background:#2a9d8f;color:#fff!important;border-radius:8px;padding:6px 12px;text-decoration:none;font-size:14px}
+.place-pop-name{font:600 17px/1.3 Lora,Georgia,serif;color:var(--ink)!important;text-decoration:none}
+.place-pop-sight{color:var(--ink)!important;font-size:14px;line-height:1.3;text-decoration:none;margin-top:-4px}
+.place-pop-more{color:var(--ink-muted);font-size:13px;margin-top:-4px}
+.place-pop-go{align-self:flex-start;background:var(--accent-fill);color:#fff!important;border-radius:8px;padding:6px 12px;text-decoration:none;font-size:14px}
 
 /* the page of a place: «Поездки | Достопримечательности» */
 .city-head h1{font-size:36px;line-height:1.15;margin:0}
-.city-sub{color:#64748b;font-size:14px;margin:6px 0 0}
-.city-meta{color:#64748b;font-size:14px;margin:4px 0 0}
-.city-tabs{position:sticky;top:60px;z-index:3;display:flex;gap:6px;margin:20px 0 4px;padding:10px 0;background:#fff;border-bottom:1px solid #e2e8f0}
-.city-tabs button{flex:0 0 auto;border:1px solid #e2e8f0;background:#fff;border-radius:999px;padding:8px 16px;font:500 15px Inter,system-ui,sans-serif;color:#1e293b;cursor:pointer}
-.city-tabs button[aria-selected=true]{background:#2a9d8f;border-color:#2a9d8f;color:#fff}
+.city-sub{color:var(--ink-muted);font-size:14px;margin:6px 0 0}
+.city-meta{color:var(--ink-muted);font-size:14px;margin:4px 0 0}
+.city-tabs{position:sticky;top:60px;z-index:3;display:flex;gap:6px;margin:20px 0 4px;padding:10px 0;background:#fff;border-bottom:1px solid var(--line)}
+.city-tabs button{flex:0 0 auto;border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 16px;font:500 15px Inter,system-ui,sans-serif;color:var(--ink);cursor:pointer}
+.city-tabs button[aria-selected=true]{background:var(--accent-fill);border-color:var(--accent-fill);color:#fff}
 .city-trip{margin:22px 0 6px}
 .city-trip h2{font-size:20px;line-height:1.3;margin:0}
-.city-when{color:#64748b;font-size:13px;margin:2px 0 4px}
-.city-ch{display:block;padding:9px 0 9px 14px;margin:4px 0 0;border-left:2px solid #e2e8f0;color:#1e293b;text-decoration:none}
+.city-when{color:var(--ink-muted);font-size:13px;margin:2px 0 4px}
+.city-ch{display:block;padding:9px 0 9px 14px;margin:4px 0 0;border-left:2px solid var(--line);color:var(--ink);text-decoration:none}
 .city-ch-title{display:block;font-size:16px;font-weight:500;line-height:1.4}
-.city-ch-sights{display:block;font-size:14px;color:#64748b;margin-top:2px;line-height:1.45}
-.city-sight{padding:9px 0 10px;border-bottom:1px solid #eef2f1;scroll-margin-top:130px}
+.city-ch-sights{display:block;font-size:14px;color:var(--ink-muted);margin-top:2px;line-height:1.45}
+.city-sight{padding:9px 0 10px;border-bottom:1px solid var(--line);scroll-margin-top:130px}
 .city-sight h3{margin:0 0 6px;font:600 16px/1.35 Inter,system-ui,sans-serif}
 .city-years{display:flex;flex-wrap:wrap;gap:6px}
-.city-years a{max-width:100%;border:1px solid #cfe3df;border-radius:999px;padding:3px 11px;color:#1f7a6f;text-decoration:none;font:500 14px/1.4 Inter,system-ui,sans-serif;white-space:normal;overflow-wrap:anywhere}
-.city-sight:target{background:#f1f8f6;border-radius:8px}
-.city-back{display:inline-block;margin-top:28px;font-size:14px;color:#2a9d8f;text-decoration:underline}
-@media(hover:hover){.city-ch:hover{border-left-color:#2a9d8f}.city-ch:hover .city-ch-title{color:#2a9d8f}.city-years a:hover{background:#2a9d8f;border-color:#2a9d8f;color:#fff}}
+.city-years a{max-width:100%;border:1px solid var(--accent-soft);border-radius:999px;padding:3px 11px;color:var(--accent);text-decoration:none;font:500 14px/1.4 Inter,system-ui,sans-serif;white-space:normal;overflow-wrap:anywhere}
+.city-sight:target{background:var(--accent-wash);border-radius:8px}
+.city-back{display:inline-block;margin-top:28px;font-size:14px;color:var(--accent);text-decoration:underline}
+@media(hover:hover){.city-ch:hover{border-left-color:var(--accent)}.city-ch:hover .city-ch-title{color:var(--accent)}.city-years a:hover{background:var(--accent-fill);border-color:var(--accent-fill);color:#fff}}
 @media(max-width:640px){#places-list section:not(.folded) h2,#sights-found h2,.city-tabs{top:56px}#place-map{height:420px}.city-head h1{font-size:30px}.city-tabs button{padding:8px 13px;font-size:14px}}
 @media(pointer:coarse){.city-years{gap:8px}.city-years a{padding:8px 14px}}

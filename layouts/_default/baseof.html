@@ -4,7 +4,7 @@
     {{- block "head" . }}{{ partial "head.html" . }}{{ end -}}
   </head>
   {{- /* Resolve accent color: walk ancestors root→page, last write wins (most specific) */}}
-  {{- $accent := .Site.Params.defaultAccent | default "#4f7396" -}}
+  {{- $accent := .Site.Params.defaultAccent | default "#1f7a6f" -}}
   {{- range .Ancestors -}}
     {{- with .Params.accent_color -}}{{- $accent = . -}}{{- end -}}
   {{- end -}}
@@ -45,7 +45,7 @@
         <button type="button" id="photo-lightbox-prev" class="photo-lightbox-nav photo-lightbox-prev" aria-label="Предыдущее фото">‹</button>
         <img referrerpolicy="no-referrer" id="photo-lightbox-image" class="photo-lightbox-image" alt="" />
         <button type="button" id="photo-lightbox-next" class="photo-lightbox-nav photo-lightbox-next" aria-label="Следующее фото">›</button>
-        <div id="photo-lightbox-caption" class="photo-lightbox-caption" hidden style="position:absolute;bottom:12px;left:50%;transform:translateX(-50%);width:max-content;max-width:min(90%,48rem);padding:8px 16px;border-radius:4px;font-size:14px;line-height:1.45;color:#fff;background:rgba(18,84,120,.92);white-space:pre-line"></div>
+        <div id="photo-lightbox-caption" class="photo-lightbox-caption" hidden style="position:absolute;bottom:12px;left:50%;transform:translateX(-50%);width:max-content;max-width:min(90%,48rem);padding:8px 16px;border-radius:4px;font-size:14px;line-height:1.45;color:#fff;background:rgba(21,94,85,.92);white-space:pre-line"></div>
         <div id="photo-lightbox-counter" class="photo-lightbox-counter"></div>
       </div>
     </div>

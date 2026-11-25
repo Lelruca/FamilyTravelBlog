@@ -28,8 +28,8 @@
 .photo-essay .essay-cover-link{display:block;position:relative;width:fit-content;max-width:100%}
 .photo-essay .essay-cover{display:block;width:auto;height:auto;max-width:100%;max-height:var(--cap-h);border-radius:3px;background:#efece6}
 .photo-essay[data-semantic-paragraphs] .essay-body p:has(+ p:not(.topic-break)){margin-bottom:0}
-.photo-essay .essay-body p.letter-text{color:#49657a}
-.photo-essay .essay-body p{max-width:var(--text);margin:0 0 .8em;font-size:18px;line-height:1.8}.photo-essay .essay-body h3.essay-section{max-width:var(--text);margin:2.2em 0 .8em;font-size:22px;line-height:1.3;font-weight:600;color:#1f2937}
+.photo-essay .essay-body p.letter-text{color:#49657a} /* Митин текст в рассказе (Мангейм, осень 2023): свой сине-серый цвет оставлен по решению владельца, это не цвет сайта */
+.photo-essay .essay-body p{max-width:var(--text);margin:0 0 .8em;font-size:18px;line-height:1.8}.photo-essay .essay-body h3.essay-section{max-width:var(--text);margin:2.2em 0 .8em;font-size:22px;line-height:1.3;font-weight:600;color:var(--ink)}
 .photo-essay .essay-group{margin:var(--group-mt) 0 var(--group-mb)}
 .photo-essay .essay-group + .essay-group{margin-top:calc(var(--essay-gap) - var(--group-mb))}
 .photo-essay .essay-photo{display:block;position:relative;overflow:hidden;min-width:0;background:#efece6;border-radius:2px}
@@ -44,7 +44,7 @@
 .photo-essay .essay-mosaic.is-laid>.essay-photo{position:absolute;aspect-ratio:auto}
 .photo-essay .essay-overlay{position:absolute;left:0;right:0;bottom:0;padding:40px 16px 14px;color:#fff;font-size:15px;line-height:1.4;background:linear-gradient(transparent,rgba(0,0,0,.62))}
 /* the author's caption of a photo (partial story-photo-caption.html): temporarily in colour for the owner's review */
-.photo-essay .essay-authorcap{position:absolute;left:0;right:0;bottom:0;padding:6px 10px 0;border-bottom:7px solid rgba(18,84,120,.86);background:rgba(18,84,120,.86);background-clip:padding-box;color:#fff;font-size:13px;line-height:1.35;white-space:pre-line;display:-webkit-box;-webkit-line-clamp:3;line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.photo-essay .essay-authorcap{position:absolute;left:0;right:0;bottom:0;padding:6px 10px 0;border-bottom:7px solid rgba(21,94,85,.86);background:rgba(21,94,85,.86);background-clip:padding-box;color:#fff;font-size:13px;line-height:1.35;white-space:pre-line;display:-webkit-box;-webkit-line-clamp:3;line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .photo-essay .essay-cap{margin:6px 0 0;font-size:14px;line-height:1.5;font-style:italic;color:#77736a}
 .photo-essay .essay-cap span{display:block}
 .photo-essay .essay-cap span::before{content:"— "}

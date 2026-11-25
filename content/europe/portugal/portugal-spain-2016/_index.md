@@ -10,7 +10,6 @@ geo_countries:
   - spain
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/portugal-spain-2016/sintra/20160822_121406.jpg"
 cover_position: "center 55%"
-accent_color: "#2f6f8f"
 # надписи на плитке главной и обложке поездки; title поездки не меняется
 trip_start: "2016-08"
 trip_end: "2016-09"

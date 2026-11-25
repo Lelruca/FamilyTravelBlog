@@ -3,8 +3,26 @@
 @tailwind utilities;
 
 @layer base {
+  /* The site's one colour: teal, in five strengths, on neutral greys (no blue-grey anywhere).
+     --accent       text links, numbers, outlines, thin lines (dark enough to read as text)
+     --accent-fill  filled things: chosen filter, map countries we visited, dots, pins, buttons with white text
+     --accent-deep  hover on a link, the chosen country on the map, the caption band on photos
+     --accent-soft  quiet fills: continents on the world map, underlines, chip borders
+     --accent-wash  the palest tint: «Люди» plates, a row under the mouse
+     The map, «По годам», «Поиск» and the stories all take their colours from here. */
   :root {
-    --accent: #4f7396;
+    --accent: #1f7a6f;
+    --accent-fill: #2a9d8f;
+    --accent-deep: #155e55;
+    --accent-soft: #a8dad5;
+    --accent-wash: #e8f4f2;
+    --ink: #171717;
+    --ink-muted: #6b6b6b;
+    --ink-faint: #8a8a8a;
+    --line: #e5e5e5;
+    --line-strong: #d4d4d4;
+    --paper: #f5f5f4;
+    --land: #d6d6d3;
   }
 
   /* overflow-x: clip, not hidden: hidden on html/body breaks the sticky site bar */
@@ -217,10 +235,10 @@
 }
 
 @layer utilities {
-  .text-accent   { color: var(--accent, #4f7396); }
-  .bg-accent     { background-color: var(--accent, #4f7396); }
-  .border-accent { border-color: var(--accent, #4f7396); }
-  .ring-accent   { --tw-ring-color: var(--accent, #4f7396); }
+  .text-accent   { color: var(--accent, #1f7a6f); }
+  .bg-accent     { background-color: var(--accent, #1f7a6f); }
+  .border-accent { border-color: var(--accent, #1f7a6f); }
+  .ring-accent   { --tw-ring-color: var(--accent, #1f7a6f); }
 
   .photo-wide      { @apply w-full md:w-[86%] md:mx-auto; }
   .photo-two-col   { @apply w-full; }
