@@ -12,6 +12,6 @@ geo_countries: ["england"]
 readable_photos: true
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/london-2018/arrival/20180313_171346.jpg"
 participants: ["lelya","seryozha","mitya","katya"]
-cover_who: "Леля, Серёжа, Митя и Катя"
+cover_who: "Леля, Серёжа, Митя и семья Соломон"
 participant_families: ["solomon"]
 ---

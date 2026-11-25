@@ -14,11 +14,11 @@ cover_where: "Канада · Ontario · Bruce Peninsula"
 cover_title: "Тобермори"
 cover_subtitle: "Водопады, острова и Грот"
 cover_when: "Июнь 2014"
-cover_who: "Серёжа, Леля и Митя с друзьями"
+cover_who: "Леля, Серёжа, Митя и семья Белолиповых"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/tobermory-2014/flowerpot/DSC01831.jpg"
 cover_position: "center 50%"
 source_url: ""
 draft: false
-participants: ["lelya","seryozha","mitya"]
-participant_families: []
+participants: ["lelya","seryozha","mitya","olya-belolipov","petr-belolipov"]
+participant_families: ["belolipov"]
 ---

@@ -13,10 +13,10 @@ cover_where: "Англия: London, Windsor, Kent"
 cover_title: "Лондон нетуристический"
 cover_subtitle: "В гости к сестре"
 cover_when: "Ноябрь 2022"
-cover_who: "Леля у Кати"
+cover_who: "Леля и семья Соломон"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/london-2022/tate-britain/20221123_105804.jpg"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
 draft: false
 participants: ["lelya","katya"]
-participant_families: []
+participant_families: ["solomon"]
 ---

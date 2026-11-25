@@ -14,7 +14,7 @@ geo_countries:
 readable_photos: true
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/moscow-new-year-2012/cover/p1072431.jpg"
 cover_position: "center 55%"
-participants: ["lelya","mitya"]
-cover_who: "Леля и Митя"
+participants: ["lelya","mitya","tanya"]
+cover_who: "Леля, Митя и Таня"
 participant_families: []
 ---

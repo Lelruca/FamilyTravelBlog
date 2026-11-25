@@ -13,11 +13,11 @@ cover_where: "Россия: Москва и Санкт-Петербург"
 cover_title: "Я шагаю по Москве"
 cover_subtitle: "Пять недель в России в ковид"
 cover_when: "Октябрь – ноябрь 2021"
-cover_who: "Ома и Леля"
+cover_who: "Леля, Ома, Катя и Таня"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/russia-2021/cover/20211026_141620.jpg"
 cover_position: "center 25%"
 source_url: "https://www.facebook.com/olga.ukolova.754"
 draft: false
-participants: ["lelya","oma","katya"]
+participants: ["lelya","oma","katya","tanya"]
 participant_families: []
 ---

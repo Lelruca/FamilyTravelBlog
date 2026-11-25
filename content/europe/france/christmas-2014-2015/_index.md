@@ -16,7 +16,7 @@ cover_where: "Франция (Альпы)"
 cover_title: "Рождество в Альпах"
 cover_subtitle: "У Кати на лыжах"
 cover_when: "Зима 2014–2015"
-cover_who: "Ома, Серёжа, Леля, Наташа и Митя"
-participants: ["lelya","seryozha","natasha","mitya","oma","babushka","katya","david"]
-participant_families: ["solomon"]
+cover_who: "Леля, Серёжа, Наташа, Митя, Ома, Бабушка, семья Соломон и семья Пуха"
+participants: ["lelya","seryozha","natasha","mitya","oma","babushka","katya","david","natasha-p","valera"]
+participant_families: ["solomon","pukha"]
 ---

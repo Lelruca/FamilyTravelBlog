@@ -19,7 +19,7 @@ cover_where: "Франция, Бельгия, Германия, Голланди
 cover_title: "Европа зимой"
 cover_subtitle: "Неожиданный маршрут"
 cover_when: "Зима 2014–2015"
-cover_who: "Ома, Серёжа, Леля, Наташа и Митя"
-participants: ["lelya","seryozha","natasha","mitya","oma"]
-participant_families: []
+cover_who: "Леля, Серёжа, Наташа, Митя, Ома и семья Пуха"
+participants: ["lelya","seryozha","natasha","mitya","oma","natasha-p","valera"]
+participant_families: ["pukha"]
 ---

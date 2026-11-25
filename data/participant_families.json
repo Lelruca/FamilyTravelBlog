@@ -11,6 +11,10 @@
     "title": "Семья Горбуновых",
     "members": ["tanya", "polina", "misha"]
   },
+  "belolipov": {
+    "title": "Семья Белолиповых",
+    "members": ["olya-belolipov", "petr-belolipov"]
+  },
   "solomon": {
     "title": "Семья Соломон",
     "members": ["katya", "david"],

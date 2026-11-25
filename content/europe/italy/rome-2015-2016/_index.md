@@ -19,8 +19,8 @@ cover_when: "2015–2016"
 draft: false
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/rome-2015-2016/rome-colosseum/IMG_20160106_124057.jpg"
 cover_position: "center 40%"
-cover_who: "Леля, Марина, Наташа и Лиза"
+cover_who: "Леля, Наташа, Лиза, Марина, Бабушка, семья Пуха и семья Соломон"
 source_url: "https://olgau.livejournal.com/222167.html"
-participants: ["lelya","natasha","liza","marina"]
-participant_families: []
+participants: ["lelya","natasha","liza","marina","natasha-p","valera","babushka","katya"]
+participant_families: ["pukha","solomon"]
 ---

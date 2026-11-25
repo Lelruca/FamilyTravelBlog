@@ -16,7 +16,7 @@ cover_where: "Канада (Торонто, Темагами), США (Нью-Й
 cover_title: "Наши немцы в Канаде"
 cover_subtitle: ""
 cover_when: "Лето 2016"
-cover_who: "Наташа П и Валера, все мы"
-participants: ["lelya","seryozha","natasha-p","valera","liza","zhenya","lena-shiro","oma"]
+cover_who: "Леля, Серёжа, Ома, Наташа, Митя, семья Широ и семья Пуха"
+participants: ["lelya","seryozha","natasha-p","valera","liza","zhenya","lena-shiro","oma","natasha","mitya"]
 participant_families: ["shiro","pukha"]
 ---
