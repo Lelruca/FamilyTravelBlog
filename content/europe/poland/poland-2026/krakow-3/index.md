@@ -11,7 +11,7 @@ hero_image: "PXL_20261116_165225425.jpg"
 date: "2026-11-18"
 auto_gallery: false
 draft: true
-attractions: ["wieliczka--solyanaya-shakhta", "krakow--krakovskaya-opera"]
+attractions: ["wieliczka--solyanaya-shakhta", "wieliczka--chasovnya-svyatoy-kingi", "krakow--krakovskaya-opera"]
 ---
 <p>Когда мы ехали в Краков, то ВСЕ, кто там уже бывал, сразу говорили - главное, посетите соляные шахты в Величке! И правда, это одна из 12 достопримечательностей UNESCO, включённых в самый первый его список в 1978 году! Т. е. лучшее из возможного!!!</p>
 

@@ -27,7 +27,7 @@
        exact sight on the city's «Достопримечательности» tab. Unused dictionary definitions have no destination. */ -}}
 {{- $sights := slice -}}
 {{- $usedSights := slice -}}
-{{- range where site.RegularPages "Draft" false -}}
+{{- range site.RegularPages -}}
   {{- with .Params.attractions }}{{ $usedSights = $usedSights | union . }}{{ end -}}
 {{- end -}}
 {{- range $id, $a := site.Data.attractions -}}

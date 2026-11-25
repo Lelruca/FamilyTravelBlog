@@ -14797,5 +14797,104 @@
       "техника",
       "industrial heritage"
     ]
+  },
+  "wroclaw--rynochnaya-ploshchad": {
+    "title": "Рыночная площадь",
+    "parent": "wroclaw",
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ]
+  },
+  "wroclaw--ratusha": {
+    "title": "Ратуша",
+    "parent": "wroclaw",
+    "types": [
+      "civic_building",
+      "historic_building"
+    ],
+    "search_terms": [
+      "общественное здание",
+      "административное здание",
+      "civic building",
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
+  },
+  "wroclaw--oratorium-marianum": {
+    "title": "Ораториум Марианум",
+    "parent": "wroclaw",
+    "types": [
+      "concert_hall"
+    ],
+    "search_terms": [
+      "концерт",
+      "концерты",
+      "концертный зал",
+      "музыка",
+      "concert"
+    ]
+  },
+  "wroclaw--sobor-marii-magdaliny": {
+    "title": "Собор Святой Марии Магдалины",
+    "parent": "wroclaw",
+    "types": [
+      "cathedral",
+      "church"
+    ],
+    "search_terms": [
+      "собор",
+      "соборы",
+      "собора",
+      "соборов",
+      "cathedral",
+      "церковь",
+      "церкви",
+      "церквей",
+      "храм",
+      "храмы",
+      "базилика",
+      "базилики",
+      "church"
+    ]
+  },
+  "krakow--sukonnye-ryady": {
+    "title": "Суконные ряды",
+    "parent": "krakow",
+    "types": [
+      "market",
+      "historic_building"
+    ],
+    "search_terms": [
+      "рынок",
+      "рынки",
+      "базар",
+      "market",
+      "историческое здание",
+      "архитектура",
+      "historic building"
+    ]
+  },
+  "wieliczka--chasovnya-svyatoy-kingi": {
+    "title": "Часовня Святой Кинги",
+    "parent": "wieliczka",
+    "types": [
+      "chapel"
+    ],
+    "search_terms": [
+      "часовня",
+      "часовни",
+      "капелла",
+      "капеллы",
+      "храм",
+      "chapel"
+    ]
   }
 }

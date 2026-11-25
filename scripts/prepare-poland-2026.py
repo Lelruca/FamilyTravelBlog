@@ -117,14 +117,16 @@ CHAPTERS = [
 ]
 # The owner's choice on 24 Nov 2026 (first a Kraków city view, which cut the church): Tumski island over the Oder
 TRIP_COVER = dict(chapter='wroclaw-1', photo=39, position='center 60%')
-# Sights named in each chapter text (data/attractions.json)
+# Sights named in each chapter text or in the owner's photo captions (data/attractions.json)
 ATTRACTIONS = {
- 'wroclaw-1': ['wroclaw--muzey-vroclavskogo-universiteta', 'wroclaw--tumskiy-ostrov', 'wroclaw--kafedralnyy-sobor'],
- 'wroclaw-2': ['wroclaw--natsionalnyy-muzey', 'wroclaw--ratslavitskaya-panorama', 'wroclaw--most-pokayannits', 'wroclaw--gnomiki'],
- 'krakow-1': ['krakow--gorodskaya-stena', 'krakow--rynochnaya-ploshchad', 'krakow--mariatskiy-kostel', 'krakow--bazilika-svyatogo-frantsiska',
+ 'wroclaw-1': ['wroclaw--rynochnaya-ploshchad', 'wroclaw--ratusha', 'wroclaw--muzey-vroclavskogo-universiteta', 'wroclaw--oratorium-marianum',
+               'wroclaw--tumskiy-ostrov', 'wroclaw--kafedralnyy-sobor'],
+ 'wroclaw-2': ['wroclaw--natsionalnyy-muzey', 'wroclaw--ratslavitskaya-panorama', 'wroclaw--sobor-marii-magdaliny', 'wroclaw--most-pokayannits',
+               'wroclaw--gnomiki'],
+ 'krakow-1': ['krakow--gorodskaya-stena', 'krakow--rynochnaya-ploshchad', 'krakow--sukonnye-ryady', 'krakow--mariatskiy-kostel', 'krakow--bazilika-svyatogo-frantsiska',
               'krakow--pavilon-vyspyanskogo', 'krakow--collegium-maius', 'krakow--kostel-svyatoy-anny', 'krakow--eros-svyazannyy'],
  'krakow-2': ['krakow--muzey-chartoryyskikh', 'krakow--galereya-v-sukennitsakh', 'krakow--vavelskiy-zamok', 'krakow--vavelskiy-sobor'],
- 'krakow-3': ['wieliczka--solyanaya-shakhta', 'krakow--krakovskaya-opera'],
+ 'krakow-3': ['wieliczka--solyanaya-shakhta', 'wieliczka--chasovnya-svyatoy-kingi', 'krakow--krakovskaya-opera'],
 }
 
 # Captions: the owner's photo captions on her five Facebook posts about Poland (personal profile, read in Chrome

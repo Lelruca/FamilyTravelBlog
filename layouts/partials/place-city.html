@@ -16,7 +16,7 @@
   {{- range .Params.attractions }}{{ with index $attr . }}{{ if or (eq .parent $slug) (eq (index $partOf .parent) $slug) }}{{ $pages = $pages | union (slice $p) }}{{ end }}{{ end }}{{ end -}}
 {{- end -}}
 {{- $chapters := slice -}}
-{{- range sort $pages "Date" }}{{ if and .IsPage (not .Draft) }}{{ $chapters = $chapters | append . }}{{ end }}{{ end -}}
+{{- range sort $pages "Date" }}{{ if .IsPage }}{{ $chapters = $chapters | append . }}{{ end }}{{ end -}}
 
 {{- /* trips in the order of their first chapter here */ -}}
 {{- $trips := slice -}}{{- $seen := slice -}}
