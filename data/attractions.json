@@ -14896,5 +14896,19 @@
       "храм",
       "chapel"
     ]
+  },
+  "barcelona--ploshchad-katalonii": {
+    "title": "Площадь Каталонии",
+    "parent": "barcelona",
+    "types": [
+      "square"
+    ],
+    "search_terms": [
+      "площадь",
+      "площади",
+      "площадей",
+      "square",
+      "plaza"
+    ]
   }
 }
