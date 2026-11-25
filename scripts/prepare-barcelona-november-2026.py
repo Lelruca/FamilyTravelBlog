@@ -80,19 +80,19 @@ TEXT = [
  'Прекрасно провели время!',
 ]
 # Photos: numbers of the inventory (capture-time order). After paragraph N: ('r', row) · ('x', row with labels) · ('v', video).
-HERO = 41  # the beach in the sun: «Вот где ВСЕГДА прекрасная погода!»
+HERO = 25  # the owner's choice, 25 Nov 2026: «Вот это фото главное» — the four of them in the square (was the beach, 41)
 LAYOUT = {
- 1: [('r', [1, 2]), ('r', [4, 5]), ('r', [43, 42, 44])],
+ 1: [('r', [1, 2]), ('r', [4, 5]), ('r', [41]), ('r', [43, 42, 44])],
  2: [('r', [48, 6])],
  3: [('r', [7, 8])],
- 4: [('r', [23, 24]), ('r', [25, 22]), ('x', [26, 27, 20]), ('r', [29, 30]), ('v', 28), ('r', [31, 32]), ('r', [33, 34, 35]),
+ 4: [('r', [23, 24, 22]), ('x', [26, 27, 20]), ('r', [29, 30]), ('v', 28), ('r', [31, 32]), ('r', [33, 34, 35]),
      ('r', [36, 37, 38]), ('r', [39, 40, 45]), ('r', [49, 10]), ('r', [9, 13]), ('r', [11, 12])],
  5: [('r', [3, 17]), ('x', [16, 18, 19])],
  6: [('r', [46, 47])],
  7: [('r', [14, 15])],
  8: [('r', [21])],
 }
-TRIP_COVER = dict(photo=21, position='center 55%')  # the four of them by the Gamba in Port Vell
+TRIP_COVER = dict(photo=25, position='center 60%')  # the same main photo on the collection card (was the Gamba, 21)
 # Captions: verbatim from the owner's Facebook post (personal profile, album pcb.40990267303890776, read 24 Nov 2026)
 FB_POST = 'pcb.40990267303890776'
 CAPTIONS = {
@@ -254,6 +254,37 @@ attractions: {json.dumps(ATTRACTIONS)}
 ---
 ''' + '\n\n'.join(body) + '\n', encoding='utf-8')
     print('Rendered the trip and its chapter.')
+
+
+def relayout():
+    """After a change of HERO/LAYOUT: renumber the originals on Drive to the new page order (NN_), update the manifest
+    and the sources in data/photos. Copies on R2 keep their names."""
+    m = load(MANIFEST)
+    seq, o = order()
+    by_index = {p['inventory_index']: p for p in m['photos']}
+    renames = []
+    for pos, i in enumerate(seq, 1):
+        p = by_index[i]; p['position'] = pos
+        new = f"{FOLDER}/{pos:02d}_{p['original_filename']}"
+        if new != p['archive_name']: renames.append((p, new))
+    for p, new in renames:
+        src = ARCHIVE / p['archive_name']; assert sha(src) == p['original_sha256'], src
+        src.rename(src.with_name('tmp_' + src.name))
+    for p, new in renames:
+        tmp = (ARCHIVE / p['archive_name']); tmp = tmp.with_name('tmp_' + tmp.name)
+        dest = ARCHIVE / new; assert not dest.exists(), dest
+        tmp.rename(dest); assert sha(dest) == p['original_sha256'], dest
+        for c in m['r2']['copies']:
+            if c['archive_name'] == p['archive_name']: c['archive_name'] = new
+        p['archive_name'] = new
+    data_file = ROOT / f'data/photos/{SLUG}.json'; data = load(data_file)
+    for p in m['photos']:
+        k = f"{CHAPTER}/{p['site_filename']}"
+        if k in data: data[k]['source'] = p['archive_name']
+    data_file.write_text(json.dumps(dict(sorted(data.items())), ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
+    m['drive_sync_verified'] = False
+    save_manifest(m)
+    print(f'Renamed {len(renames)} originals; run check-drive-sync --write next.')
 
 
 def verify_site(site):
