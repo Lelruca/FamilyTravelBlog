@@ -817,7 +817,7 @@
         },
         {
           "after_paragraph": 9,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261116_112130.jpg",
             "20261116_110809.jpg",
@@ -859,7 +859,7 @@
         },
         {
           "after_paragraph": 11,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261117_130831.jpg"
           ]
@@ -4921,8 +4921,8 @@
       "position": 8,
       "site_filename": "20261117_122844.jpg",
       "r2_key": "poland-2026/krakow-1/20261117_122844.jpg",
-      "caption_source": "Старинная нумерация - \"под белочкой\"",
-      "drive_id": "1I28sRFgJcOj51aYXnRehp_V4MIDoKh7G"
+      "drive_id": "1I28sRFgJcOj51aYXnRehp_V4MIDoKh7G",
+      "caption_source": "Старинная нумерация - \"под белочкой\""
     },
     {
       "chapter": "krakow-1",
@@ -4947,8 +4947,8 @@
       "position": 9,
       "site_filename": "20261117_124508.jpg",
       "r2_key": "poland-2026/krakow-1/20261117_124508.jpg",
-      "caption_source": "Дом в 3 окна был стандартом. За 4-е надо было сильно даплачивать налоги и поэтому некоторые потом вынуждены были 4-е окно заделывать",
-      "drive_id": "1aiiQqoz2cjjIn5KwnhQJ55H9aCaty2R-"
+      "drive_id": "1aiiQqoz2cjjIn5KwnhQJ55H9aCaty2R-",
+      "caption_source": "Дом в 3 окна был стандартом. За 4-е надо было сильно даплачивать налоги и поэтому некоторые потом вынуждены были 4-е окно заделывать"
     },
     {
       "chapter": "krakow-1",
@@ -4973,8 +4973,8 @@
       "position": 10,
       "site_filename": "20261117_135529.jpg",
       "r2_key": "poland-2026/krakow-1/20261117_135529.jpg",
-      "caption_source": "Тушить факелы",
-      "drive_id": "17eY8OTV5aE5I8NUN3sirHf_rJ5IR0gsz"
+      "drive_id": "17eY8OTV5aE5I8NUN3sirHf_rJ5IR0gsz",
+      "caption_source": "Тушить факелы"
     },
     {
       "chapter": "krakow-1",
@@ -5199,8 +5199,8 @@
       "position": 19,
       "site_filename": "20261117_125823.jpg",
       "r2_key": "poland-2026/krakow-1/20261117_125823.jpg",
-      "caption_source": "Нож в Суконных рядах — символ Магдебургского права, которое Краков получил в 1257 году. Город обрёл самоуправление и собственный суд, с правом судить и наказывать преступников.",
-      "drive_id": "1pfwMbBAKv00snGbtyssvbnAkUcAfCMQt"
+      "drive_id": "1pfwMbBAKv00snGbtyssvbnAkUcAfCMQt",
+      "caption_source": "Нож в Суконных рядах — символ Магдебургского права, которое Краков получил в 1257 году. Город обрёл самоуправление и собственный суд, с правом судить и наказывать преступников."
     },
     {
       "chapter": "krakow-1",
@@ -5425,8 +5425,8 @@
       "position": 28,
       "site_filename": "20261118_133241.jpg",
       "r2_key": "poland-2026/krakow-1/20261118_133241.jpg",
-      "caption_source": "Францисканский храм — росписи Станислава Выспянского.",
-      "drive_id": "1qV0-c2rJI1DLdQWXyhBYcwFgN3_Yhjh0"
+      "drive_id": "1qV0-c2rJI1DLdQWXyhBYcwFgN3_Yhjh0",
+      "caption_source": "Францисканский храм — росписи Станислава Выспянского."
     },
     {
       "chapter": "krakow-1",
@@ -5676,7 +5676,9 @@
       "position": 38,
       "site_filename": "20261116_112130.jpg",
       "r2_key": "poland-2026/krakow-1/20261116_112130.jpg",
-      "drive_id": "1fU5YvGNcE5WmANFu5nByghpeJXDL5esI"
+      "drive_id": "1fU5YvGNcE5WmANFu5nByghpeJXDL5esI",
+      "caption_source": "Collegium Maius — старейшее здание Ягеллонского университета.",
+      "caption_approval": "owner in chat, 2026-11-24"
     },
     {
       "chapter": "krakow-1",
@@ -5976,7 +5978,9 @@
       "position": 50,
       "site_filename": "20261117_130831.jpg",
       "r2_key": "poland-2026/krakow-1/20261117_130831.jpg",
-      "drive_id": "1FoiQLCMhJw-6HNCc3Y5w_5xpkGDd88f4"
+      "drive_id": "1FoiQLCMhJw-6HNCc3Y5w_5xpkGDd88f4",
+      "caption_source": "«Eros Bendato» («Связанный Эрос») — скульптура Игоря Миторая.",
+      "caption_approval": "owner in chat, 2026-11-24"
     },
     {
       "chapter": "krakow-1",
@@ -6126,8 +6130,8 @@
       "position": 4,
       "site_filename": "20261117_102245.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_102245.jpg",
-      "caption_source": "Портрет княгини Изабелы Чарторыйской, 1796 год.",
-      "drive_id": "1S0lbv0FmZoC3iGVpy6vbq4pp0wU6a6Gn"
+      "drive_id": "1S0lbv0FmZoC3iGVpy6vbq4pp0wU6a6Gn",
+      "caption_source": "Портрет княгини Изабелы Чарторыйской, 1796 год."
     },
     {
       "chapter": "krakow-2",
@@ -6152,8 +6156,8 @@
       "position": 5,
       "site_filename": "20261117_101833.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_101833.jpg",
-      "caption_source": "Портрет князя Константина Чарторыйского, 1821 год.",
-      "drive_id": "134baUjeXqRgX2KNVEtr6aaT3Cs4o6BFl"
+      "drive_id": "134baUjeXqRgX2KNVEtr6aaT3Cs4o6BFl",
+      "caption_source": "Портрет князя Константина Чарторыйского, 1821 год."
     },
     {
       "chapter": "krakow-2",
@@ -6178,8 +6182,8 @@
       "position": 6,
       "site_filename": "20261117_102821.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_102821.jpg",
-      "caption_source": "Портрет Лукаша Опалинского, 1635–1640 годы.",
-      "drive_id": "1aW4QpmZU4AHCRVyNRA5SocqiIw87a8m5"
+      "drive_id": "1aW4QpmZU4AHCRVyNRA5SocqiIw87a8m5",
+      "caption_source": "Портрет Лукаша Опалинского, 1635–1640 годы."
     },
     {
       "chapter": "krakow-2",
@@ -6479,8 +6483,8 @@
       "position": 18,
       "site_filename": "20261117_105044.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_105044.jpg",
-      "caption_source": "Микеле ди Якопо Тозини. «Венера-победительница». Около 1565–1575 годов.",
-      "drive_id": "1mHXU1L1tn7VqWxOJDySvW5LukP06C6Wv"
+      "drive_id": "1mHXU1L1tn7VqWxOJDySvW5LukP06C6Wv",
+      "caption_source": "Микеле ди Якопо Тозини. «Венера-победительница». Около 1565–1575 годов."
     },
     {
       "chapter": "krakow-2",
@@ -6605,8 +6609,8 @@
       "position": 23,
       "site_filename": "20261118_141453.jpg",
       "r2_key": "poland-2026/krakow-2/20261118_141453.jpg",
-      "caption_source": "Январий Суходольский. «Отступление из-под Москвы. Эпизод 1812 года», 1854.",
-      "drive_id": "1oBecJbQXgLF60XWfHYa57KmkWMtNQd7M"
+      "drive_id": "1oBecJbQXgLF60XWfHYa57KmkWMtNQd7M",
+      "caption_source": "Январий Суходольский. «Отступление из-под Москвы. Эпизод 1812 года», 1854."
     },
     {
       "chapter": "krakow-2",
@@ -7031,8 +7035,8 @@
       "position": 40,
       "site_filename": "PXL_20261118_103953867.jpg",
       "r2_key": "poland-2026/krakow-2/PXL_20261118_103953867.jpg",
-      "caption_source": "Надгробие Владислава II Ягайло — короля Польши и основателя династии Ягеллонов. В 1410 году он возглавил польско-литовское войско, разгромившее Тевтонский орден в Грюнвальдской битве.",
-      "drive_id": "1g_QdOBYLdPLHK7r8m-21WL0HDJtOhdyQ"
+      "drive_id": "1g_QdOBYLdPLHK7r8m-21WL0HDJtOhdyQ",
+      "caption_source": "Надгробие Владислава II Ягайло — короля Польши и основателя династии Ягеллонов. В 1410 году он возглавил польско-литовское войско, разгромившее Тевтонский орден в Грюнвальдской битве."
     },
     {
       "chapter": "krakow-2",
@@ -7057,8 +7061,8 @@
       "position": 41,
       "site_filename": "PXL_20261118_103922629.jpg",
       "r2_key": "poland-2026/krakow-2/PXL_20261118_103922629.jpg",
-      "caption_source": "Символическое надгробие Владислава III Варненчика — сына Ягайло, короля Польши и Венгрии. В 1444 году он погиб в битве с турками под Варной, в возрасте 20 лет. Его тело так и не нашли.",
-      "drive_id": "19wMvJxY16zesrM9bzf86cLQ28jfk3Mwq"
+      "drive_id": "19wMvJxY16zesrM9bzf86cLQ28jfk3Mwq",
+      "caption_source": "Символическое надгробие Владислава III Варненчика — сына Ягайло, короля Польши и Венгрии. В 1444 году он погиб в битве с турками под Варной, в возрасте 20 лет. Его тело так и не нашли."
     },
     {
       "chapter": "krakow-2",
@@ -7208,8 +7212,8 @@
       "position": 47,
       "site_filename": "PXL_20261118_105738408.jpg",
       "r2_key": "poland-2026/krakow-2/PXL_20261118_105738408.jpg",
-      "caption_source": "Это **надгробный памятник королю Яну III Собескому и его жене Марии Казимире**, созданный в 1753–1760 годах. Вверху — их портреты в медальонах, на рельефе — битва под Веной, внизу — турецкие пленники. Так увековечили военную славу короля.",
-      "drive_id": "1YqGq8UVn0OvHCA3hy49DorstMt_NiDGc"
+      "drive_id": "1YqGq8UVn0OvHCA3hy49DorstMt_NiDGc",
+      "caption_source": "Это **надгробный памятник королю Яну III Собескому и его жене Марии Казимире**, созданный в 1753–1760 годах. Вверху — их портреты в медальонах, на рельефе — битва под Веной, внизу — турецкие пленники. Так увековечили военную славу короля."
     },
     {
       "chapter": "krakow-2",

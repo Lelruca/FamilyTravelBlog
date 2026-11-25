@@ -83,9 +83,9 @@ CHAPTERS = [
    6: [('r', [51, 31]), ('r', [27, 26]), ('r', [28, 29, 30])],
    7: [('x', [43, 46, 45]), ('r', [44, 49]), ('r', [47, 48])],
    8: [('r', [40, 41, 42])],
-   9: [('r', [10, 6, 9]), ('r', [12, 14]), ('r', [13, 16]), ('r', [11, 15, 17])],
+   9: [('x', [10, 6, 9]), ('r', [12, 14]), ('r', [13, 16]), ('r', [11, 15, 17])],
    10: [('r', [8, 7])],
-   11: [('r', [34]), ('r', [35, 36])]},
+   11: [('x', [34]), ('r', [35, 36])]},
   unused={}),
  dict(slug='krakow-2', folder='04 - Краков - 2', title='Краков - 2', source='Краков - 2.md', date='2026-11-17',
   city='Краков', places=['krakow'], hero=32, layout={
@@ -134,6 +134,9 @@ CAPTIONS = {
  ('krakow-1', 33): dict(text='Нож в Суконных рядах — символ Магдебургского права, которое Краков получил в 1257 году. Город обрёл самоуправление и собственный суд, с правом судить и наказывать преступников.'),
  ('krakow-1', 43): dict(text='Францисканский храм — росписи Станислава Выспянского.'),
  ('krakow-1', 38): dict(text='Тушить факелы'),
+ # proposed by Codex, approved by the owner in chat on 24 Nov 2026 («Да, добавь»); not in her caption files
+ ('krakow-1', 10): dict(text='Collegium Maius — старейшее здание Ягеллонского университета.', approved='owner in chat, 2026-11-24'),
+ ('krakow-1', 34): dict(text='«Eros Bendato» («Связанный Эрос») — скульптура Игоря Миторая.', approved='owner in chat, 2026-11-24'),
  ('krakow-2', 2): dict(text='Портрет князя Константина Чарторыйского, 1821 год.'),
  ('krakow-2', 5): dict(text='Портрет княгини Изабелы Чарторыйской, 1796 год.'),
  ('krakow-2', 7): dict(text='Портрет Лукаша Опалинского, 1635–1640 годы.'),
@@ -163,6 +166,47 @@ def paragraphs(path):
     return lines[0][2:], [l for l in lines[1:] if l.strip()]
 def ratio(o): return o['w'] / o['h']
 def orient(o): return 'V' if o['h'] > o['w'] * 1.05 else ('H' if o['w'] > o['h'] * 1.05 else 'S')
+
+
+def caption_fields(ref):
+    cap = CAPTIONS.get(tuple(ref))
+    if not cap: return {}
+    return dict(caption_source=cap['text'], **({'caption_approval': cap['approved']} if cap.get('approved') else {}))
+
+
+def shown_caption(p, m):
+    text = p.get('caption_source')
+    if not text: return None
+    for f in m['caption_fixes']:
+        if f['photo'] == ' '.join(map(str, p['inventory_ref'])):
+            for a, b in f['fixes']: text = text.replace(a, b)
+    return text
+
+
+def captions():
+    """Bring the manifest, the block kinds and data/photos in line with CAPTIONS (no new copies needed)."""
+    m = load(MANIFEST)
+    for p in m['photos']:
+        for k in ('caption_source', 'caption_approval'): p.pop(k, None)
+        p.update(caption_fields(p['inventory_ref']))
+    kinds = {'r': 'row', 'x': 'exhibit-row', 'm': 'mosaic', 'v': 'video', 'b': 'beside'}
+    for c, cfg in zip(m['chapters'], CHAPTERS):
+        assert c['slug'] == cfg['slug']
+        flat = [(p, k) for p, bl in cfg['layout'].items() for k, it in bl]
+        assert len(flat) == len(c['blocks'])
+        for b, (para, k) in zip(c['blocks'], flat):
+            assert b['after_paragraph'] == para
+            b['kind'] = kinds[k]
+    data_file = ROOT / 'data/photos/poland-2026.json'
+    data = load(data_file)
+    for p in m['photos']:
+        key = f"{p['chapter']}/{p['site_filename']}"
+        if key in data:
+            data[key].pop('caption', None)
+            if shown_caption(p, m): data[key]['caption'] = shown_caption(p, m)
+    data_file.write_text(json.dumps(dict(sorted(data.items())), ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
+    save_manifest(m)
+    print(f"{sum(1 for v in data.values() if v.get('caption'))} captions in data/photos/poland-2026.json.")
 
 
 def plan():
@@ -230,7 +274,7 @@ def check():
     # sources: chapter texts and caption files are on Drive; captions are verbatim from the caption files
     caption_text = ''.join((SOURCES / f).read_text(encoding='utf-8') for f in CAPTION_FILES)
     for k, cap in CAPTIONS.items():
-        if cap['text'] not in caption_text: problems.append(f'caption not in the caption files: {k}')
+        if cap['text'] not in caption_text and not cap.get('approved'): problems.append(f'caption not in the caption files: {k}')
     for c in CHAPTERS:
         title, paras = paragraphs(SOURCES / c['source'])
         if title != c['title']: problems.append(f"{c['slug']}: source title {title!r}")
@@ -272,7 +316,7 @@ def archive():
                 onedrive_source=o.get('onedrive_source'), onedrive_sha256_matches=o.get('onedrive_sha256_matches'),
                 used='unused' not in s, unused_reason=s.get('unused'), position=s.get('position'),
                 site_filename=sn if 'unused' not in s else None, r2_key=f"{SLUG}/{s['chapter']}/{sn}" if 'unused' not in s else None,
-                **({'caption_source': CAPTIONS[ref]['text']} if ref in CAPTIONS else {})))
+                **caption_fields(ref)))
         name_of = lambda r: site_name(byref[r if isinstance(r, tuple) else (c['slug'], r)]['name'])
         blocks = [dict(after_paragraph=p, kind={'r': 'row', 'x': 'exhibit-row', 'm': 'mosaic', 'v': 'video', 'b': 'beside'}[k],
                        photos=[name_of(r) for r in (it if isinstance(it, list) else [it])])
@@ -326,15 +370,11 @@ def display():
                        bytes=dest.stat().st_size, sha256=sha(dest), w=w, h=h, recipe=recipe)
     with ThreadPoolExecutor(6) as pool:
         results = list(pool.map(make, [p for p in m['photos'] if p['used']]))
-    fixes = {f['photo']: f['fixes'] for f in m['caption_fixes']}
     for p, c in results:
         copies.append(c)
         if p['kind'] == 'video': continue
         entry = dict(w=c['w'], h=c['h'], source=p['archive_name'])
-        if p.get('caption_source'):
-            text = p['caption_source']
-            for a, b in fixes.get(' '.join(map(str, p['inventory_ref'])), []): text = text.replace(a, b)
-            entry['caption'] = text
+        if shown_caption(p, m): entry['caption'] = shown_caption(p, m)
         data[f"{p['chapter']}/{p['site_filename']}"] = entry
     (ROOT / 'data/photos/poland-2026.json').write_text(json.dumps(dict(sorted(data.items())), ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
     m['r2'] = dict(bucket='family-travel-photos', base=BASE, copies=sorted(copies, key=lambda c: c['key']), verified=None)
@@ -491,4 +531,4 @@ def verify_site(site):
 if __name__ == '__main__':
     stage = sys.argv[1] if len(sys.argv) > 1 else 'check'
     if stage == 'verify-site': verify_site(sys.argv[2])
-    else: {'check': check, 'archive': archive, 'display': display, 'posters': posters, 'verify-r2': verify_r2, 'render': render}[stage]()
+    else: {'check': check, 'archive': archive, 'display': display, 'posters': posters, 'captions': captions, 'verify-r2': verify_r2, 'render': render}[stage]()
