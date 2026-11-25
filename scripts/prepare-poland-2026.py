@@ -18,6 +18,7 @@ Stages (python -I scripts/prepare-poland-2026.py <stage>):
   -- then: node scripts/check-drive-sync.cjs "Europe/2026 - Польша" --write
   display    screen copies (2000 px long side, EXIF rotation, no upscaling, no EXIF/GPS) and H.264 copies of the
              HEVC videos into static/r2/poland-2026/<chapter>/, sizes and captions into data/photos/poland-2026.json
+  captions   photo captions from the owner's Facebook posts (FB_CAPTIONS) into the manifest and data/photos
   -- then: node scripts/upload-to-r2.cjs poland-2026
   verify-r2  fetch every public R2 URL and compare its bytes (SHA-256) with the local copy
   render     write the trip and chapter pages
@@ -125,28 +126,82 @@ ATTRACTIONS = {
  'krakow-3': ['wieliczka--solyanaya-shakhta', 'krakow--krakovskaya-opera'],
 }
 
-# Captions: the owner's caption files, verbatim; `fix` lists the only display corrections.
-CAPTION_FILES = ['Краков - 1 - подписи.md', 'Краков - 2 - подписи.md']
-CAPTIONS = {
- ('krakow-1', 25): dict(text='Старинная нумерация - "под белочкой"'),
- ('krakow-1', 32): dict(text='Дом в 3 окна был стандартом. За 4-е надо было сильно даплачивать налоги и поэтому некоторые потом вынуждены были 4-е окно заделывать',
-                        fix=[('даплачивать', 'доплачивать')]),
- ('krakow-1', 33): dict(text='Нож в Суконных рядах — символ Магдебургского права, которое Краков получил в 1257 году. Город обрёл самоуправление и собственный суд, с правом судить и наказывать преступников.'),
- ('krakow-1', 43): dict(text='Францисканский храм — росписи Станислава Выспянского.'),
- ('krakow-1', 38): dict(text='Тушить факелы'),
- # proposed by Codex, approved by the owner in chat on 24 Nov 2026 («Да, добавь»); not in her caption files
- ('krakow-1', 10): dict(text='Collegium Maius — старейшее здание Ягеллонского университета.', approved='owner in chat, 2026-11-24'),
- ('krakow-1', 34): dict(text='«Eros Bendato» («Связанный Эрос») — скульптура Игоря Миторая.', approved='owner in chat, 2026-11-24'),
- ('krakow-2', 2): dict(text='Портрет князя Константина Чарторыйского, 1821 год.'),
- ('krakow-2', 5): dict(text='Портрет княгини Изабелы Чарторыйской, 1796 год.'),
- ('krakow-2', 7): dict(text='Портрет Лукаша Опалинского, 1635–1640 годы.'),
- ('krakow-2', 19): dict(text='Микеле ди Якопо Тозини. «Венера-победительница». Около 1565–1575 годов.'),
- ('krakow-2', 87): dict(text='Январий Суходольский. «Отступление из-под Москвы. Эпизод 1812 года», 1854.'),
- ('krakow-2', 58): dict(text='Надгробие Владислава II Ягайло — короля Польши и основателя династии Ягеллонов. В 1410 году он возглавил польско-литовское войско, разгромившее Тевтонский орден в Грюнвальдской битве.'),
- ('krakow-2', 56): dict(text='Символическое надгробие Владислава III Варненчика — сына Ягайло, короля Польши и Венгрии. В 1444 году он погиб в битве с турками под Варной, в возрасте 20 лет. Его тело так и не нашли.'),
- ('krakow-2', 72): dict(text='Это **надгробный памятник королю Яну III Собескому и его жене Марии Казимире**, созданный в 1753–1760 годах. Вверху — их портреты в медальонах, на рельефе — битва под Веной, внизу — турецкие пленники. Так увековечили военную славу короля.',
-                        fix=[('**', '')]),
-}
+# Captions: the owner's photo captions on her five Facebook posts about Poland (personal profile, read in Chrome
+# on 24 Nov 2026), verbatim, emoji included. They supersede the earlier caption files (archived in «Источники»):
+# same texts, a few later edits by her. Photos were matched to the originals by a 6x6 fingerprint of the Facebook
+# copy (.tmp/poland-2026/fb-captions.json); two captions name the same place shown on another frame here.
+# Not used: «Вот до Церкви технологии дошли!!!» (donation terminal) and «Асаф…» (organ figure) — those two
+# photos are not in her Drive selection.
+FB_POSTS = {'wroclaw-1': 'pcb.40742818735302302', 'wroclaw-2': 'pcb.40767182536199255', 'krakow-1': 'pcb.40986548600929313',
+            'krakow-2': 'pcb.40988195647431275', 'krakow-3': 'pcb.40988373230746850'}
+FB_CAPTIONS = [  # (Facebook photo id, chapter, original file name, caption[, note])
+ ('40742758985308277', 'wroclaw-1', '20261114_144923.jpg', 'Здание университета'),
+ ('40742763041974538', 'wroclaw-1', '20261114_145212.jpg', 'Бесконечная очередь'),
+ ('40742764881974354', 'wroclaw-1', '20261114_145236.jpg', 'Минерва, богиня мудрости. Её легко узнать: шлем, рядом сова, а на щите голова Медузы Горгоны. Для университета самая подходящая хозяйка 🙂'),
+ ('40742766348640874', 'wroclaw-1', '20261114_145532.jpg', 'Герб Габсбургов: двуглавый орёл, а вокруг гербы их земель (Арагон, Сицилия, Иерусалим, Бургундия, Милан, Моравия, Тироль...). Университет основал в 1702 году император Леопольд I, поэтому Габсбурги здесь повсюду.'),
+ ('40742768071974035', 'wroclaw-1', '20261114_150010.jpg', 'Императорская лестница. Говорят, самая парадная лестница во Вроцлаве. На её сводах аллегории всех силезских княжеств'),
+ ('40742769911973851', 'wroclaw-1', '20261114_150101.jpg', 'Ораториум Марианум. Барочный зал, построен в 1728–1741 годах как часовня, с 1810 года это музыкальный зал университета.', 'another frame of the same hall on Facebook'),
+ ('40742778751972967', 'wroclaw-1', '20261114_151224.jpg', 'Город на 12 островах основан'),
+ ('40742780835306092', 'wroclaw-1', '20261114_151355.jpg', 'Вокзал и очень современные узкие трамваи'),
+ ('40742802458637263', 'wroclaw-1', '20261114_154738.jpg', 'Это колонна Христа Царя Вселенной. Подпись:\nХристос Царь Вселенной. Колонну поставили за Кафедральным собором в 2000 году, к тысячелетию Вроцлавской епархии.'),
+ ('40742805788636930', 'wroclaw-1', '20261114_163313.jpg', 'Очень прикольно ходить и читать вывески'),
+ ('40743070085277167', 'wroclaw-1', '20261114_162959.jpg', 'Разруха - в головах!'),
+ ('40742734841977358', 'wroclaw-1', '20261114_135901.jpg', 'Ну прямо наши пятиэтажки вдоль дороги!'),
+ ('40742746468642862', 'wroclaw-1', '20261114_143528.jpg', 'Ратуша на Рыночной площади. Готика, строили её почти 250 лет, с конца 13 до середины 16 века. Считается старейшей сохранившейся ратушей в Польше.', 'another frame of the same building on Facebook'),
+ ('40742750498642459', 'wroclaw-2', '20261114_143845.jpg', 'Собор Святой Марии Магдалины.'),
+ ('40742755488641960', 'wroclaw-1', '20261114_144701.jpg', 'Университетский дворик'),
+ ('40767126812871494', 'wroclaw-2', '20261115_111722.jpg', 'Саркофаг князя Генриха IV Праведного, 1290 год. Камень, до сих пор видны остатки раскраски и позолоты.'),
+ ('40767131336204375', 'wroclaw-2', '20261115_112442.jpg', 'Бог Отец с Адамом и Евой в раю, 1537 год. Надгробная картина-эпитафия из костёла Святой Елизаветы, художник местный, вроцлавский.'),
+ ('40767132776204231', 'wroclaw-2', '20261115_112812.jpg', 'Вот у меня первое впечатление было от этого зала - "шкатулка палех". Как интересно работает наш мозг.'),
+ ('40767135746203934', 'wroclaw-2', '20261115_113628.jpg', 'Святая Ядвига, 1704–1705 годы. Скульптор Томас Вайсфельд, из костёла Святого Креста.'),
+ ('40767137159537126', 'wroclaw-2', '20261115_113654.jpg', 'Святой Варфоломей, 1704–1705 годы. Скульптор Томас Вайсфельд, из костёла Святого Креста.'),
+ ('40767139492870226', 'wroclaw-2', '20261115_114742.jpg', 'Замки тоже произведения искусства!'),
+ ('40767140659536776', 'wroclaw-2', '20261115_115637.jpg', 'Мечник и Вацлав, 1857 год. Художник Леон Каплиньский, сцена из поэмы Мальчевского «Мария»: отец героини и её муж.'),
+ ('40767141959536646', 'wroclaw-2', '20261115_120925.jpg', 'Хеленка, 1900 год. Станислав Выспянский написал свою маленькую дочь.'),
+ ('40767143062869869', 'wroclaw-2', '20261115_121029.jpg', 'Валигура, войт из Воли Юстовской, 1874 год. Художник Анджей Грабовский. Войт — это деревенский староста,'),
+ ('40986239060960267', 'krakow-1', '20261116_154535.jpg', '"Француз под Москвой"'),
+ ('40986239780960195', 'krakow-1', '20261117_093923.jpg', 'С такой командой позитива не получишь'),
+ ('40986239704293536', 'krakow-1', '20261118_140406.jpg', 'Мариацкий костёл'),
+ ('40986354507615389', 'krakow-1', '20261117_122844.jpg', 'Старинная нумерация - "под белочкой"'),
+ ('40986354610948712', 'krakow-1', '20261117_124508.jpg', 'Дом в 3 окна был стандартом. За 4-е надо было сильно даплачивать налоги и поэтому некоторые потом вынуждены были 4-е окно заделывать'),
+ ('40986355050948668', 'krakow-1', '20261117_125823.jpg', 'Нож в Суконных рядах — символ Магдебургского права, которое Краков получил в 1257 году. Город обрёл самоуправление и собственный суд, с правом судить и наказывать преступников.'),
+ ('40986448700939303', 'krakow-1', '20261118_133241.jpg', 'Францисканский храм — росписи Станислава Выспянского.'),
+ ('40986448660939307', 'krakow-1', '20261118_133341.jpg', 'Францисканский храм — росписи Станислава Выспянского.'),
+ ('40986448427605997', 'krakow-1', '20261118_133547.jpg', 'Францисканский храм — росписи Станислава Выспянского.'),
+ ('40986448550939318', 'krakow-1', 'PXL_20261118_123413316.jpg', 'Францисканский храм — росписи Станислава Выспянского.'),
+ ('40986448647605975', 'krakow-1', 'PXL_20261118_123606904.jpg', 'Францисканский храм — росписи Станислава Выспянского.'),
+ ('40986461344271372', 'krakow-1', '20261116_112130.jpg', 'Collegium Maius — старейшее здание Ягеллонского университета.'),
+ ('40986463754271131', 'krakow-1', '20261116_111555.jpg', 'Университетский храм Святой Анны'),
+ ('40986471744270332', 'krakow-1', '20261117_130831.jpg', '«Eros Bendato» («Связанный Эрос») — скульптура Игоря Миторая.'),
+ ('40986472050936968', 'krakow-1', '20261117_135529.jpg', 'Тушить факелы'),
+ ('40986472040936969', 'krakow-2', '20261117_142537.jpg', 'Висла'),
+ ('40986472117603628', 'krakow-1', '20261118_132449.jpg', 'Pawilon Wyspiańskiego,'),
+ ('40986472210936952', 'krakow-1', '20261118_132509.jpg', 'Pawilon Wyspiańskiego,'),
+ ('40986472790936894', 'krakow-1', '20261118_132554.jpg', 'Pawilon Wyspiańskiego,'),
+ ('40988044400779733', 'krakow-2', '20261117_143414.jpg', 'Вавель'),
+ ('40987775870806586', 'krakow-2', '20261117_101400.jpg', 'Музей Чарторыйских'),
+ ('40987773037473536', 'krakow-2', '20261117_102245.jpg', 'Портрет княгини Изабелы Чарторыйской, 1796 год.'),
+ ('40987772954140211', 'krakow-2', '20261117_101833.jpg', 'Портрет князя Константина Чарторыйского, 1821 год.'),
+ ('40987772927473547', 'krakow-2', '20261117_102821.jpg', 'Портрет Лукаша Опалинского, 1635–1640 годы.'),
+ ('40987772827473557', 'krakow-2', '20261117_102914.jpg', 'Маршальские жезлы - очень меня впечатлили!'),
+ ('40987772967473543', 'krakow-2', '20261117_103147.jpg', 'Шатер, захваченый у турков - победа над ними очень великое дело поляков!'),
+ ('40987879140796259', 'krakow-2', '20261117_105044.jpg', 'Микеле ди Якопо Тозини. «Венера-победительница». Около 1565–1575 годов - первоначально висела в паре с Леонардо'),
+ ('40987946184122888', 'krakow-2', '20261118_150124.jpg', 'Галерея польского искусства XIX века в Суконных рядах (Sukiennice)'),
+ ('40987946410789532', 'krakow-2', '20261118_141453.jpg', 'Январий Суходольский. «Отступление из-под Москвы. Эпизод 1812 года», 1854'),
+ ('40988044334113073', 'krakow-2', '20261117_140513.jpg', 'Вавель'),
+ ('40988044434113063', 'krakow-2', '20261117_143638.jpg', 'Собор с часовнями'),
+ ('40988044034113103', 'krakow-2', '20261117_153412.jpg', 'Очень мне освящение понравилось, оно конечно электрическое, но в виде свечей и прямо "темно" там в залах!'),
+ ('40988075574109949', 'krakow-2', '45b7e0dd-c6e7-4539-98c2-ebefe1ca454c.jpg', 'Серега с Gemini'),
+ ('40988130127437827', 'krakow-2', 'PXL_20261118_103754979.jpg', 'Собор Святых Станислава и Вацлава'),
+ ('40988130234104483', 'krakow-2', 'PXL_20261118_103922629.jpg', 'Символическое надгробие Владислава III Варненчика — сына Ягайло, короля Польши и Венгрии. В 1444 году он погиб в битве с турками под Варной, в возрасте 20 лет. Его тело так и не нашли.'),
+ ('40988132637437576', 'krakow-2', 'PXL_20261118_103953867.jpg', 'Надгробие Владислава II Ягайло — короля Польши и основателя династии Ягеллонов. В 1410 году он возглавил польско-литовское войско, разгромившее Тевтонский орден в Грюнвальдской битве.'),
+ ('40988132337437606', 'krakow-2', 'PXL_20261118_104625843.jpg', 'Наверх!'),
+ ('40988132687437571', 'krakow-2', 'PXL_20261118_105738408.jpg', 'Это надгробный памятник королю Яну III Собескому и его жене Марии Казимире, созданный в 1753–1760 годах. Вверху — их портреты в медальонах, на рельефе — битва под Веной, внизу — турецкие пленники. Так увековечили военную славу короля.'),
+ ('40988132994104207', 'krakow-2', 'PXL_20261118_110449472.jpg', 'Надгробие Казимира IV Ягеллончика — сына Ягайло, короля Польши и великого князя литовского. Победив Тевтонский орден в Тринадцатилетней войне, он вернул Польше выход к морю. Мраморное надгробие создали Вит Ствош и Йорг Хубер около 1492 года.'),
+ ('40988132824104224', 'krakow-2', 'PXL_20261118_111005120.jpg', 'Тадеуш Костюшко'),
+]
+CAPTION_FILES = ['Краков - 1 - подписи.md', 'Краков - 2 - подписи.md']  # earlier source, kept in the archive
+CAPTION_FIXES = [('даплачивать', 'доплачивать'), ('захваченый', 'захваченный'), ('освящение понравилось', 'освещение понравилось')]  # obvious typos only, display
 VIDEO_POSTERS = {'wroclaw-1/PXL_20261114_144817606.mp4': 2.0}  # first frame blurred; the lamplighter at 2 s
 VIDEO_RECIPE = ['-map', '0:v:0', '-map', '0:a:0', '-c:v', 'libx264', '-preset', 'slow', '-crf', '23', '-pix_fmt', 'yuv420p',
                 '-c:a', 'aac', '-b:a', '128k', '-movflags', '+faststart', '-map_metadata', '-1']
@@ -168,35 +223,35 @@ def ratio(o): return o['w'] / o['h']
 def orient(o): return 'V' if o['h'] > o['w'] * 1.05 else ('H' if o['w'] > o['h'] * 1.05 else 'S')
 
 
-def caption_fields(ref):
-    cap = CAPTIONS.get(tuple(ref))
-    if not cap: return {}
-    return dict(caption_source=cap['text'], **({'caption_approval': cap['approved']} if cap.get('approved') else {}))
+def caption_fields(p):
+    hit = [c for c in FB_CAPTIONS if c[1] == p['chapter'] and c[2] == p['original_filename']]
+    if not hit or not p['used']: return {}
+    c = hit[0]
+    return dict(caption_source=c[3], caption_from=f"facebook photo {c[0]} ({FB_POSTS[c[1]]})", **({'caption_note': c[4]} if len(c) > 4 else {}))
 
 
 def shown_caption(p, m):
     text = p.get('caption_source')
     if not text: return None
-    for f in m['caption_fixes']:
-        if f['photo'] == ' '.join(map(str, p['inventory_ref'])):
-            for a, b in f['fixes']: text = text.replace(a, b)
+    for a, b in m.get('caption_fixes', []): text = text.replace(a, b)
     return text
 
 
 def captions():
-    """Bring the manifest, the block kinds and data/photos in line with CAPTIONS (no new copies needed)."""
+    """Captions from FB_CAPTIONS into the manifest and data/photos; a row with a captioned photo becomes an exhibit row
+    (labels under the photos). No new copies needed."""
     m = load(MANIFEST)
     for p in m['photos']:
-        for k in ('caption_source', 'caption_approval'): p.pop(k, None)
-        p.update(caption_fields(p['inventory_ref']))
-    kinds = {'r': 'row', 'x': 'exhibit-row', 'm': 'mosaic', 'v': 'video', 'b': 'beside'}
-    for c, cfg in zip(m['chapters'], CHAPTERS):
-        assert c['slug'] == cfg['slug']
-        flat = [(p, k) for p, bl in cfg['layout'].items() for k, it in bl]
-        assert len(flat) == len(c['blocks'])
-        for b, (para, k) in zip(c['blocks'], flat):
-            assert b['after_paragraph'] == para
-            b['kind'] = kinds[k]
+        for k in ('caption_source', 'caption_approval', 'caption_from', 'caption_note'): p.pop(k, None)
+        p.update(caption_fields(p))
+    assert sum(1 for p in m['photos'] if p.get('caption_source')) == len(FB_CAPTIONS), 'a caption found no photo'
+    m['caption_fixes'] = [list(f) for f in CAPTION_FIXES]
+    m['text_policy'] = "Chapter texts verbatim from the owner's files; photo captions verbatim from her Facebook posts; display fixes of obvious typos in caption_fixes."
+    captioned = {(p['chapter'], p['site_filename']) for p in m['photos'] if p.get('caption_source')}
+    for c in m['chapters']:
+        for b in c['blocks']:
+            if b['kind'] in ('row', 'exhibit-row'):
+                b['kind'] = 'exhibit-row' if any((c['slug'], n) in captioned for n in b['photos']) else 'row'
     data_file = ROOT / 'data/photos/poland-2026.json'
     data = load(data_file)
     for p in m['photos']:
@@ -251,8 +306,6 @@ def plan():
                     oa = ''.join(orient(byref[r if isinstance(r, tuple) else (c['slug'], r)]) for r in a)
                     ob = ''.join(orient(byref[r if isinstance(r, tuple) else (c['slug'], r)]) for r in b)
                     if oa in ('VH', 'HV') and oa == ob: problems.append(f"{c['slug']} p{para}: two {oa} rows in a row {a} {b}")
-    for (ch, i) in CAPTIONS:
-        if (ch, i) not in byref: problems.append(f'caption for unknown photo {ch} {i}')
     return inv, byref, order, problems
 
 
@@ -272,9 +325,6 @@ def check():
     for o in inv:
         if digests.get((o['chapter_folder'], o['name'])) != o['sha256']: problems.append(f"changed since inventory: {o['chapter_folder']}/{o['name']}")
     # sources: chapter texts and caption files are on Drive; captions are verbatim from the caption files
-    caption_text = ''.join((SOURCES / f).read_text(encoding='utf-8') for f in CAPTION_FILES)
-    for k, cap in CAPTIONS.items():
-        if cap['text'] not in caption_text and not cap.get('approved'): problems.append(f'caption not in the caption files: {k}')
     for c in CHAPTERS:
         title, paras = paragraphs(SOURCES / c['source'])
         if title != c['title']: problems.append(f"{c['slug']}: source title {title!r}")
@@ -316,7 +366,7 @@ def archive():
                 onedrive_source=o.get('onedrive_source'), onedrive_sha256_matches=o.get('onedrive_sha256_matches'),
                 used='unused' not in s, unused_reason=s.get('unused'), position=s.get('position'),
                 site_filename=sn if 'unused' not in s else None, r2_key=f"{SLUG}/{s['chapter']}/{sn}" if 'unused' not in s else None,
-                **caption_fields(ref)))
+))
         name_of = lambda r: site_name(byref[r if isinstance(r, tuple) else (c['slug'], r)]['name'])
         blocks = [dict(after_paragraph=p, kind={'r': 'row', 'x': 'exhibit-row', 'm': 'mosaic', 'v': 'video', 'b': 'beside'}[k],
                        photos=[name_of(r) for r in (it if isinstance(it, list) else [it])])
@@ -333,8 +383,7 @@ def archive():
         history=['Owner selected the photos into five chapter folders and wrote the texts and captions (Drive «Отчеты»), 24 Nov 2026.',
                  'Codex prepared the inventory, captions and a first paragraph assignment (script not committed, 24 Nov 2026).',
                  'Claude archived, laid out and published the draft from it, 24 Nov 2026 (scripts/prepare-poland-2026.py).'],
-        text_policy='Chapter texts and captions verbatim from the owner\'s files; display fixes listed in caption_fixes.',
-        caption_fixes=[dict(photo=f'{k[0]} {k[1]}', fixes=v['fix']) for k, v in CAPTIONS.items() if v.get('fix')],
+        text_policy='Chapter texts verbatim from the owner\'s files; captions are set by the captions stage.',
         sources=sources, caption_sources=caption_sources, moved_between_folders=moves,
         trip_cover=dict(chapter=TRIP_COVER['chapter'], site_filename=site_name(cover['name']), position=TRIP_COVER['position']),
         chapters=chapters, photos=photos, originals_verified=True, drive_sync_verified=False, r2_verified=False)

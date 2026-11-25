@@ -10,26 +10,20 @@
     "Codex prepared the inventory, captions and a first paragraph assignment (script not committed, 24 Nov 2026).",
     "Claude archived, laid out and published the draft from it, 24 Nov 2026 (scripts/prepare-poland-2026.py)."
   ],
-  "text_policy": "Chapter texts and captions verbatim from the owner's files; display fixes listed in caption_fixes.",
+  "text_policy": "Chapter texts verbatim from the owner's files; photo captions verbatim from her Facebook posts; display fixes of obvious typos in caption_fixes.",
   "caption_fixes": [
-    {
-      "photo": "krakow-1 32",
-      "fixes": [
-        [
-          "даплачивать",
-          "доплачивать"
-        ]
-      ]
-    },
-    {
-      "photo": "krakow-2 72",
-      "fixes": [
-        [
-          "**",
-          ""
-        ]
-      ]
-    }
+    [
+      "даплачивать",
+      "доплачивать"
+    ],
+    [
+      "захваченый",
+      "захваченный"
+    ],
+    [
+      "освящение понравилось",
+      "освещение понравилось"
+    ]
   ],
   "sources": [
     {
@@ -196,7 +190,7 @@
         },
         {
           "after_paragraph": 6,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261114_144923.jpg",
             "20261114_150636-0.jpg",
@@ -205,7 +199,7 @@
         },
         {
           "after_paragraph": 6,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261114_150010.jpg",
             "20261114_145118.jpg",
@@ -214,14 +208,14 @@
         },
         {
           "after_paragraph": 6,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261114_150101.jpg"
           ]
         },
         {
           "after_paragraph": 6,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261114_150123.jpg",
             "20261114_150136.jpg",
@@ -230,7 +224,7 @@
         },
         {
           "after_paragraph": 6,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261114_145532.jpg",
             "20261114_150156.jpg"
@@ -247,7 +241,7 @@
         },
         {
           "after_paragraph": 7,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261114_143528.jpg"
           ]
@@ -280,7 +274,7 @@
         },
         {
           "after_paragraph": 7,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261114_144701.jpg",
             "20261114_144800.jpg"
@@ -288,7 +282,7 @@
         },
         {
           "after_paragraph": 8,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261114_151355.jpg",
             "20261114_151511.jpg"
@@ -296,7 +290,7 @@
         },
         {
           "after_paragraph": 8,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261114_151224.jpg",
             "20261114_151632.jpg"
@@ -371,7 +365,7 @@
         },
         {
           "after_paragraph": 9,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261114_154738.jpg",
             "20261114_154446.jpg",
@@ -413,7 +407,7 @@
         },
         {
           "after_paragraph": 14,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261114_163313.jpg",
             "20261114_170144.jpg"
@@ -421,7 +415,7 @@
         },
         {
           "after_paragraph": 15,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261114_155332.jpg",
             "20261114_162959.jpg"
@@ -467,7 +461,7 @@
         },
         {
           "after_paragraph": 3,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261115_111722.jpg",
             "20261115_112041.jpg"
@@ -475,7 +469,7 @@
         },
         {
           "after_paragraph": 3,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261115_112252.jpg",
             "20261115_113628.jpg",
@@ -484,7 +478,7 @@
         },
         {
           "after_paragraph": 3,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261115_112442.jpg",
             "20261115_113326.jpg"
@@ -492,7 +486,7 @@
         },
         {
           "after_paragraph": 3,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261115_114742.jpg",
             "20261115_114758.jpg"
@@ -500,14 +494,14 @@
         },
         {
           "after_paragraph": 4,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261115_112812.jpg"
           ]
         },
         {
           "after_paragraph": 4,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261115_115637.jpg",
             "20261115_120354.jpg"
@@ -515,7 +509,7 @@
         },
         {
           "after_paragraph": 4,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261115_120925.jpg",
             "20261115_121029.jpg"
@@ -538,7 +532,7 @@
         },
         {
           "after_paragraph": 6,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261115_142101.jpg",
             "20261114_143845.jpg",
@@ -693,7 +687,7 @@
         },
         {
           "after_paragraph": 2,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261116_154535.jpg",
             "20261117_093923.jpg"
@@ -758,7 +752,7 @@
         },
         {
           "after_paragraph": 6,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261118_140406.jpg",
             "20261117_123947.jpg"
@@ -792,7 +786,7 @@
         },
         {
           "after_paragraph": 7,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261118_133341.jpg",
             "20261118_133702.jpg"
@@ -800,7 +794,7 @@
         },
         {
           "after_paragraph": 7,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261118_133547.jpg",
             "PXL_20261118_123606904.jpg"
@@ -808,7 +802,7 @@
         },
         {
           "after_paragraph": 8,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261118_132449.jpg",
             "20261118_132509.jpg",
@@ -851,7 +845,7 @@
         },
         {
           "after_paragraph": 10,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261116_111555.jpg",
             "20261116_110947.jpg"
@@ -889,7 +883,7 @@
       "blocks": [
         {
           "after_paragraph": 2,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261117_101400.jpg",
             "20261117_110945.jpg"
@@ -906,7 +900,7 @@
         },
         {
           "after_paragraph": 2,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "PXL_20261117_093054478.jpg",
             "20261117_103403.jpg",
@@ -923,7 +917,7 @@
         },
         {
           "after_paragraph": 2,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261117_103147.jpg",
             "20261117_103747.jpg",
@@ -957,7 +951,7 @@
         },
         {
           "after_paragraph": 4,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261118_150124.jpg"
           ]
@@ -986,7 +980,7 @@
         },
         {
           "after_paragraph": 5,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261117_140513.jpg",
             "20261117_140836.jpg"
@@ -994,7 +988,7 @@
         },
         {
           "after_paragraph": 5,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261117_142537.jpg",
             "20261117_140940.jpg"
@@ -1002,7 +996,7 @@
         },
         {
           "after_paragraph": 5,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261117_141829.jpg",
             "20261117_143414.jpg"
@@ -1018,7 +1012,7 @@
         },
         {
           "after_paragraph": 5,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261117_143638.jpg",
             "20261117_143813.jpg",
@@ -1027,7 +1021,7 @@
         },
         {
           "after_paragraph": 6,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "PXL_20261118_103754979.jpg",
             "PXL_20261118_103808796.jpg"
@@ -1147,7 +1141,7 @@
         },
         {
           "after_paragraph": 8,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261117_153412.jpg",
             "20261117_153450.jpg",
@@ -1164,7 +1158,7 @@
         },
         {
           "after_paragraph": 8,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "20261117_154433.jpg",
             "45b7e0dd-c6e7-4539-98c2-ebefe1ca454c.jpg",
@@ -1173,7 +1167,7 @@
         },
         {
           "after_paragraph": 9,
-          "kind": "row",
+          "kind": "exhibit-row",
           "photos": [
             "PXL_20261118_104625843.jpg",
             "PXL_20261118_104630285.jpg"
@@ -1496,7 +1490,9 @@
       "position": 6,
       "site_filename": "20261114_135901.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_135901.jpg",
-      "drive_id": "1X1j_ddjJ7z76Tdu5dbNdwzW_UD2lJOlN"
+      "drive_id": "1X1j_ddjJ7z76Tdu5dbNdwzW_UD2lJOlN",
+      "caption_source": "Ну прямо наши пятиэтажки вдоль дороги!",
+      "caption_from": "facebook photo 40742734841977358 (pcb.40742818735302302)"
     },
     {
       "chapter": "wroclaw-1",
@@ -1546,7 +1542,9 @@
       "position": 8,
       "site_filename": "20261114_144923.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_144923.jpg",
-      "drive_id": "1zV8F67cFJp4C8Rqb3oqnckCCLzf5fikQ"
+      "drive_id": "1zV8F67cFJp4C8Rqb3oqnckCCLzf5fikQ",
+      "caption_source": "Здание университета",
+      "caption_from": "facebook photo 40742758985308277 (pcb.40742818735302302)"
     },
     {
       "chapter": "wroclaw-1",
@@ -1621,7 +1619,9 @@
       "position": 11,
       "site_filename": "20261114_150010.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_150010.jpg",
-      "drive_id": "1j6ebnmfbPmYGA3HLi1QNnM86cpEyjouP"
+      "drive_id": "1j6ebnmfbPmYGA3HLi1QNnM86cpEyjouP",
+      "caption_source": "Императорская лестница. Говорят, самая парадная лестница во Вроцлаве. На её сводах аллегории всех силезских княжеств",
+      "caption_from": "facebook photo 40742768071974035 (pcb.40742818735302302)"
     },
     {
       "chapter": "wroclaw-1",
@@ -1671,7 +1671,9 @@
       "position": 13,
       "site_filename": "20261114_145212.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_145212.jpg",
-      "drive_id": "1MdnRikV98bx6Bh96K9EOHZ6kbD8NhI9F"
+      "drive_id": "1MdnRikV98bx6Bh96K9EOHZ6kbD8NhI9F",
+      "caption_source": "Бесконечная очередь",
+      "caption_from": "facebook photo 40742763041974538 (pcb.40742818735302302)"
     },
     {
       "chapter": "wroclaw-1",
@@ -1696,7 +1698,10 @@
       "position": 14,
       "site_filename": "20261114_150101.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_150101.jpg",
-      "drive_id": "16dIWdY-v31O9hBurlMWcV_qZZcnInxcT"
+      "drive_id": "16dIWdY-v31O9hBurlMWcV_qZZcnInxcT",
+      "caption_source": "Ораториум Марианум. Барочный зал, построен в 1728–1741 годах как часовня, с 1810 года это музыкальный зал университета.",
+      "caption_from": "facebook photo 40742769911973851 (pcb.40742818735302302)",
+      "caption_note": "another frame of the same hall on Facebook"
     },
     {
       "chapter": "wroclaw-1",
@@ -1771,7 +1776,9 @@
       "position": 17,
       "site_filename": "20261114_145236.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_145236.jpg",
-      "drive_id": "1LfsX6IRS7D8w1xuK94Ara3-r1ZSyIheR"
+      "drive_id": "1LfsX6IRS7D8w1xuK94Ara3-r1ZSyIheR",
+      "caption_source": "Минерва, богиня мудрости. Её легко узнать: шлем, рядом сова, а на щите голова Медузы Горгоны. Для университета самая подходящая хозяйка 🙂",
+      "caption_from": "facebook photo 40742764881974354 (pcb.40742818735302302)"
     },
     {
       "chapter": "wroclaw-1",
@@ -1796,7 +1803,9 @@
       "position": 18,
       "site_filename": "20261114_145532.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_145532.jpg",
-      "drive_id": "1dVBLmhDNIND_J-XomqOnBBPpZQPuYYQ4"
+      "drive_id": "1dVBLmhDNIND_J-XomqOnBBPpZQPuYYQ4",
+      "caption_source": "Герб Габсбургов: двуглавый орёл, а вокруг гербы их земель (Арагон, Сицилия, Иерусалим, Бургундия, Милан, Моравия, Тироль...). Университет основал в 1702 году император Леопольд I, поэтому Габсбурги здесь повсюду.",
+      "caption_from": "facebook photo 40742766348640874 (pcb.40742818735302302)"
     },
     {
       "chapter": "wroclaw-1",
@@ -1921,7 +1930,10 @@
       "position": 23,
       "site_filename": "20261114_143528.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_143528.jpg",
-      "drive_id": "1RHRHxba88oPQRc3GQPOvjvziypVqv8K7"
+      "drive_id": "1RHRHxba88oPQRc3GQPOvjvziypVqv8K7",
+      "caption_source": "Ратуша на Рыночной площади. Готика, строили её почти 250 лет, с конца 13 до середины 16 века. Считается старейшей сохранившейся ратушей в Польше.",
+      "caption_from": "facebook photo 40742746468642862 (pcb.40742818735302302)",
+      "caption_note": "another frame of the same building on Facebook"
     },
     {
       "chapter": "wroclaw-1",
@@ -2146,7 +2158,9 @@
       "position": 32,
       "site_filename": "20261114_144701.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_144701.jpg",
-      "drive_id": "1aRNgCCJkJoD8B5IIwnfGucAPZuRBMchK"
+      "drive_id": "1aRNgCCJkJoD8B5IIwnfGucAPZuRBMchK",
+      "caption_source": "Университетский дворик",
+      "caption_from": "facebook photo 40742755488641960 (pcb.40742818735302302)"
     },
     {
       "chapter": "wroclaw-1",
@@ -2196,7 +2210,9 @@
       "position": 34,
       "site_filename": "20261114_151355.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_151355.jpg",
-      "drive_id": "14ld3QLjnYiOtBqhUxvJxPGGZ3NbvTFlw"
+      "drive_id": "14ld3QLjnYiOtBqhUxvJxPGGZ3NbvTFlw",
+      "caption_source": "Вокзал и очень современные узкие трамваи",
+      "caption_from": "facebook photo 40742780835306092 (pcb.40742818735302302)"
     },
     {
       "chapter": "wroclaw-1",
@@ -2246,7 +2262,9 @@
       "position": 36,
       "site_filename": "20261114_151224.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_151224.jpg",
-      "drive_id": "1mtZlYqGBhwtFCVDdLnAWmgCEknB2Eu07"
+      "drive_id": "1mtZlYqGBhwtFCVDdLnAWmgCEknB2Eu07",
+      "caption_source": "Город на 12 островах основан",
+      "caption_from": "facebook photo 40742778751972967 (pcb.40742818735302302)"
     },
     {
       "chapter": "wroclaw-1",
@@ -2771,7 +2789,9 @@
       "position": 57,
       "site_filename": "20261114_154738.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_154738.jpg",
-      "drive_id": "1JcIPHUZrCKaKwrmqlG8-NOp-bzAZizI2"
+      "drive_id": "1JcIPHUZrCKaKwrmqlG8-NOp-bzAZizI2",
+      "caption_source": "Это колонна Христа Царя Вселенной. Подпись:\nХристос Царь Вселенной. Колонну поставили за Кафедральным собором в 2000 году, к тысячелетию Вроцлавской епархии.",
+      "caption_from": "facebook photo 40742802458637263 (pcb.40742818735302302)"
     },
     {
       "chapter": "wroclaw-1",
@@ -3071,7 +3091,9 @@
       "position": 69,
       "site_filename": "20261114_163313.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_163313.jpg",
-      "drive_id": "1_EAQPEcC1__cWY9S28iU6C1CW5Rvgn61"
+      "drive_id": "1_EAQPEcC1__cWY9S28iU6C1CW5Rvgn61",
+      "caption_source": "Очень прикольно ходить и читать вывески",
+      "caption_from": "facebook photo 40742805788636930 (pcb.40742818735302302)"
     },
     {
       "chapter": "wroclaw-1",
@@ -3146,7 +3168,9 @@
       "position": 72,
       "site_filename": "20261114_162959.jpg",
       "r2_key": "poland-2026/wroclaw-1/20261114_162959.jpg",
-      "drive_id": "173MbiUpiQ9KLt2a-1C-irOZZHV_R34am"
+      "drive_id": "173MbiUpiQ9KLt2a-1C-irOZZHV_R34am",
+      "caption_source": "Разруха - в головах!",
+      "caption_from": "facebook photo 40743070085277167 (pcb.40742818735302302)"
     },
     {
       "chapter": "wroclaw-1",
@@ -3346,7 +3370,9 @@
       "position": 6,
       "site_filename": "20261115_111722.jpg",
       "r2_key": "poland-2026/wroclaw-2/20261115_111722.jpg",
-      "drive_id": "1CDdHtCc4--_aoRBIINDEB2Map1ePFGgv"
+      "drive_id": "1CDdHtCc4--_aoRBIINDEB2Map1ePFGgv",
+      "caption_source": "Саркофаг князя Генриха IV Праведного, 1290 год. Камень, до сих пор видны остатки раскраски и позолоты.",
+      "caption_from": "facebook photo 40767126812871494 (pcb.40767182536199255)"
     },
     {
       "chapter": "wroclaw-2",
@@ -3421,7 +3447,9 @@
       "position": 9,
       "site_filename": "20261115_113628.jpg",
       "r2_key": "poland-2026/wroclaw-2/20261115_113628.jpg",
-      "drive_id": "1CcKZIzgUf2m15X4Nm400Jt2CWc5Y1B2s"
+      "drive_id": "1CcKZIzgUf2m15X4Nm400Jt2CWc5Y1B2s",
+      "caption_source": "Святая Ядвига, 1704–1705 годы. Скульптор Томас Вайсфельд, из костёла Святого Креста.",
+      "caption_from": "facebook photo 40767135746203934 (pcb.40767182536199255)"
     },
     {
       "chapter": "wroclaw-2",
@@ -3446,7 +3474,9 @@
       "position": 10,
       "site_filename": "20261115_113654.jpg",
       "r2_key": "poland-2026/wroclaw-2/20261115_113654.jpg",
-      "drive_id": "1_mTeSW17KrWM3AseuB8Ekg8IW7_Oqswr"
+      "drive_id": "1_mTeSW17KrWM3AseuB8Ekg8IW7_Oqswr",
+      "caption_source": "Святой Варфоломей, 1704–1705 годы. Скульптор Томас Вайсфельд, из костёла Святого Креста.",
+      "caption_from": "facebook photo 40767137159537126 (pcb.40767182536199255)"
     },
     {
       "chapter": "wroclaw-2",
@@ -3471,7 +3501,9 @@
       "position": 11,
       "site_filename": "20261115_112442.jpg",
       "r2_key": "poland-2026/wroclaw-2/20261115_112442.jpg",
-      "drive_id": "1fWU3yqnNLP_JiBBvsuMtUNymOT9pp76A"
+      "drive_id": "1fWU3yqnNLP_JiBBvsuMtUNymOT9pp76A",
+      "caption_source": "Бог Отец с Адамом и Евой в раю, 1537 год. Надгробная картина-эпитафия из костёла Святой Елизаветы, художник местный, вроцлавский.",
+      "caption_from": "facebook photo 40767131336204375 (pcb.40767182536199255)"
     },
     {
       "chapter": "wroclaw-2",
@@ -3521,7 +3553,9 @@
       "position": 13,
       "site_filename": "20261115_114742.jpg",
       "r2_key": "poland-2026/wroclaw-2/20261115_114742.jpg",
-      "drive_id": "1p07xWKUAGTgTjIrQSkmGTaiLg8JysFhq"
+      "drive_id": "1p07xWKUAGTgTjIrQSkmGTaiLg8JysFhq",
+      "caption_source": "Замки тоже произведения искусства!",
+      "caption_from": "facebook photo 40767139492870226 (pcb.40767182536199255)"
     },
     {
       "chapter": "wroclaw-2",
@@ -3571,7 +3605,9 @@
       "position": 15,
       "site_filename": "20261115_112812.jpg",
       "r2_key": "poland-2026/wroclaw-2/20261115_112812.jpg",
-      "drive_id": "1mfwpAoWWcmghrzGZ3-SSU61v4jGoygqm"
+      "drive_id": "1mfwpAoWWcmghrzGZ3-SSU61v4jGoygqm",
+      "caption_source": "Вот у меня первое впечатление было от этого зала - \"шкатулка палех\". Как интересно работает наш мозг.",
+      "caption_from": "facebook photo 40767132776204231 (pcb.40767182536199255)"
     },
     {
       "chapter": "wroclaw-2",
@@ -3596,7 +3632,9 @@
       "position": 16,
       "site_filename": "20261115_115637.jpg",
       "r2_key": "poland-2026/wroclaw-2/20261115_115637.jpg",
-      "drive_id": "1yfsvHeU-zR2wrYi60a4qJeomqer2vHG4"
+      "drive_id": "1yfsvHeU-zR2wrYi60a4qJeomqer2vHG4",
+      "caption_source": "Мечник и Вацлав, 1857 год. Художник Леон Каплиньский, сцена из поэмы Мальчевского «Мария»: отец героини и её муж.",
+      "caption_from": "facebook photo 40767140659536776 (pcb.40767182536199255)"
     },
     {
       "chapter": "wroclaw-2",
@@ -3646,7 +3684,9 @@
       "position": 18,
       "site_filename": "20261115_120925.jpg",
       "r2_key": "poland-2026/wroclaw-2/20261115_120925.jpg",
-      "drive_id": "1llZde5ET1mK6cj7olQ5Ao0nvyjHCJLdF"
+      "drive_id": "1llZde5ET1mK6cj7olQ5Ao0nvyjHCJLdF",
+      "caption_source": "Хеленка, 1900 год. Станислав Выспянский написал свою маленькую дочь.",
+      "caption_from": "facebook photo 40767141959536646 (pcb.40767182536199255)"
     },
     {
       "chapter": "wroclaw-2",
@@ -3671,7 +3711,9 @@
       "position": 19,
       "site_filename": "20261115_121029.jpg",
       "r2_key": "poland-2026/wroclaw-2/20261115_121029.jpg",
-      "drive_id": "1NeO1ywoVVqjBGgEmvUHtR0JD9mnfXKn1"
+      "drive_id": "1NeO1ywoVVqjBGgEmvUHtR0JD9mnfXKn1",
+      "caption_source": "Валигура, войт из Воли Юстовской, 1874 год. Художник Анджей Грабовский. Войт — это деревенский староста,",
+      "caption_from": "facebook photo 40767143062869869 (pcb.40767182536199255)"
     },
     {
       "chapter": "wroclaw-2",
@@ -3796,7 +3838,9 @@
       "position": 24,
       "site_filename": "20261114_143845.jpg",
       "r2_key": "poland-2026/wroclaw-2/20261114_143845.jpg",
-      "drive_id": "1BEyciJqqJvlbY452qgPZ4wEmA_aYAtGd"
+      "drive_id": "1BEyciJqqJvlbY452qgPZ4wEmA_aYAtGd",
+      "caption_source": "Собор Святой Марии Магдалины.",
+      "caption_from": "facebook photo 40742750498642459 (pcb.40767182536199255)"
     },
     {
       "chapter": "wroclaw-2",
@@ -4821,7 +4865,9 @@
       "position": 4,
       "site_filename": "20261116_154535.jpg",
       "r2_key": "poland-2026/krakow-1/20261116_154535.jpg",
-      "drive_id": "1FMyDjwwMru63ULUjjnZPpXMZedneHl3_"
+      "drive_id": "1FMyDjwwMru63ULUjjnZPpXMZedneHl3_",
+      "caption_source": "\"Француз под Москвой\"",
+      "caption_from": "facebook photo 40986239060960267 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -4846,7 +4892,9 @@
       "position": 5,
       "site_filename": "20261117_093923.jpg",
       "r2_key": "poland-2026/krakow-1/20261117_093923.jpg",
-      "drive_id": "16MDI9D9kLbcdnXCOrWHq-mgTh1V-z6MS"
+      "drive_id": "16MDI9D9kLbcdnXCOrWHq-mgTh1V-z6MS",
+      "caption_source": "С такой командой позитива не получишь",
+      "caption_from": "facebook photo 40986239780960195 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -4922,7 +4970,8 @@
       "site_filename": "20261117_122844.jpg",
       "r2_key": "poland-2026/krakow-1/20261117_122844.jpg",
       "drive_id": "1I28sRFgJcOj51aYXnRehp_V4MIDoKh7G",
-      "caption_source": "Старинная нумерация - \"под белочкой\""
+      "caption_source": "Старинная нумерация - \"под белочкой\"",
+      "caption_from": "facebook photo 40986354507615389 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -4948,7 +4997,8 @@
       "site_filename": "20261117_124508.jpg",
       "r2_key": "poland-2026/krakow-1/20261117_124508.jpg",
       "drive_id": "1aiiQqoz2cjjIn5KwnhQJ55H9aCaty2R-",
-      "caption_source": "Дом в 3 окна был стандартом. За 4-е надо было сильно даплачивать налоги и поэтому некоторые потом вынуждены были 4-е окно заделывать"
+      "caption_source": "Дом в 3 окна был стандартом. За 4-е надо было сильно даплачивать налоги и поэтому некоторые потом вынуждены были 4-е окно заделывать",
+      "caption_from": "facebook photo 40986354610948712 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -4974,7 +5024,8 @@
       "site_filename": "20261117_135529.jpg",
       "r2_key": "poland-2026/krakow-1/20261117_135529.jpg",
       "drive_id": "17eY8OTV5aE5I8NUN3sirHf_rJ5IR0gsz",
-      "caption_source": "Тушить факелы"
+      "caption_source": "Тушить факелы",
+      "caption_from": "facebook photo 40986472050936968 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -5200,7 +5251,8 @@
       "site_filename": "20261117_125823.jpg",
       "r2_key": "poland-2026/krakow-1/20261117_125823.jpg",
       "drive_id": "1pfwMbBAKv00snGbtyssvbnAkUcAfCMQt",
-      "caption_source": "Нож в Суконных рядах — символ Магдебургского права, которое Краков получил в 1257 году. Город обрёл самоуправление и собственный суд, с правом судить и наказывать преступников."
+      "caption_source": "Нож в Суконных рядах — символ Магдебургского права, которое Краков получил в 1257 году. Город обрёл самоуправление и собственный суд, с правом судить и наказывать преступников.",
+      "caption_from": "facebook photo 40986355050948668 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -5250,7 +5302,9 @@
       "position": 21,
       "site_filename": "20261118_140406.jpg",
       "r2_key": "poland-2026/krakow-1/20261118_140406.jpg",
-      "drive_id": "10PU3XcTHtQBSnzFt0xBti5T0Y3wdOSX6"
+      "drive_id": "10PU3XcTHtQBSnzFt0xBti5T0Y3wdOSX6",
+      "caption_source": "Мариацкий костёл",
+      "caption_from": "facebook photo 40986239704293536 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -5426,7 +5480,8 @@
       "site_filename": "20261118_133241.jpg",
       "r2_key": "poland-2026/krakow-1/20261118_133241.jpg",
       "drive_id": "1qV0-c2rJI1DLdQWXyhBYcwFgN3_Yhjh0",
-      "caption_source": "Францисканский храм — росписи Станислава Выспянского."
+      "caption_source": "Францисканский храм — росписи Станислава Выспянского.",
+      "caption_from": "facebook photo 40986448700939303 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -5476,7 +5531,9 @@
       "position": 30,
       "site_filename": "PXL_20261118_123413316.jpg",
       "r2_key": "poland-2026/krakow-1/PXL_20261118_123413316.jpg",
-      "drive_id": "11V_hdG_sMsp4JJpj0CnuJXuTOHGoTI5t"
+      "drive_id": "11V_hdG_sMsp4JJpj0CnuJXuTOHGoTI5t",
+      "caption_source": "Францисканский храм — росписи Станислава Выспянского.",
+      "caption_from": "facebook photo 40986448550939318 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -5501,7 +5558,9 @@
       "position": 31,
       "site_filename": "20261118_133341.jpg",
       "r2_key": "poland-2026/krakow-1/20261118_133341.jpg",
-      "drive_id": "1131KLxgmCp9sV5KxWgQQ3TSCYi4wI-oC"
+      "drive_id": "1131KLxgmCp9sV5KxWgQQ3TSCYi4wI-oC",
+      "caption_source": "Францисканский храм — росписи Станислава Выспянского.",
+      "caption_from": "facebook photo 40986448660939307 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -5551,7 +5610,9 @@
       "position": 33,
       "site_filename": "20261118_133547.jpg",
       "r2_key": "poland-2026/krakow-1/20261118_133547.jpg",
-      "drive_id": "1xhBsSdkdYcdEcV6gMWI3wx5BbOzmZ_os"
+      "drive_id": "1xhBsSdkdYcdEcV6gMWI3wx5BbOzmZ_os",
+      "caption_source": "Францисканский храм — росписи Станислава Выспянского.",
+      "caption_from": "facebook photo 40986448427605997 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -5576,7 +5637,9 @@
       "position": 34,
       "site_filename": "PXL_20261118_123606904.jpg",
       "r2_key": "poland-2026/krakow-1/PXL_20261118_123606904.jpg",
-      "drive_id": "1SCtLO35QXyR6GuGUYgwolynCu2nRIUpG"
+      "drive_id": "1SCtLO35QXyR6GuGUYgwolynCu2nRIUpG",
+      "caption_source": "Францисканский храм — росписи Станислава Выспянского.",
+      "caption_from": "facebook photo 40986448647605975 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -5601,7 +5664,9 @@
       "position": 35,
       "site_filename": "20261118_132449.jpg",
       "r2_key": "poland-2026/krakow-1/20261118_132449.jpg",
-      "drive_id": "1Qy0K_jMDdyn74Y9xA_1FhixlVIuB5qU-"
+      "drive_id": "1Qy0K_jMDdyn74Y9xA_1FhixlVIuB5qU-",
+      "caption_source": "Pawilon Wyspiańskiego,",
+      "caption_from": "facebook photo 40986472117603628 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -5626,7 +5691,9 @@
       "position": 36,
       "site_filename": "20261118_132509.jpg",
       "r2_key": "poland-2026/krakow-1/20261118_132509.jpg",
-      "drive_id": "1rdKppKFc-BHy9K293VM77nbaWvfP3F06"
+      "drive_id": "1rdKppKFc-BHy9K293VM77nbaWvfP3F06",
+      "caption_source": "Pawilon Wyspiańskiego,",
+      "caption_from": "facebook photo 40986472210936952 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -5651,7 +5718,9 @@
       "position": 37,
       "site_filename": "20261118_132554.jpg",
       "r2_key": "poland-2026/krakow-1/20261118_132554.jpg",
-      "drive_id": "1RnpdgFNv2jyzMOeoinAnuGjVFIN3hlFN"
+      "drive_id": "1RnpdgFNv2jyzMOeoinAnuGjVFIN3hlFN",
+      "caption_source": "Pawilon Wyspiańskiego,",
+      "caption_from": "facebook photo 40986472790936894 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -5678,7 +5747,7 @@
       "r2_key": "poland-2026/krakow-1/20261116_112130.jpg",
       "drive_id": "1fU5YvGNcE5WmANFu5nByghpeJXDL5esI",
       "caption_source": "Collegium Maius — старейшее здание Ягеллонского университета.",
-      "caption_approval": "owner in chat, 2026-11-24"
+      "caption_from": "facebook photo 40986461344271372 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -5928,7 +5997,9 @@
       "position": 48,
       "site_filename": "20261116_111555.jpg",
       "r2_key": "poland-2026/krakow-1/20261116_111555.jpg",
-      "drive_id": "1gehpIIW7IKQHSDvyl6JeLBIQ3Z8w4fiY"
+      "drive_id": "1gehpIIW7IKQHSDvyl6JeLBIQ3Z8w4fiY",
+      "caption_source": "Университетский храм Святой Анны",
+      "caption_from": "facebook photo 40986463754271131 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -5980,7 +6051,7 @@
       "r2_key": "poland-2026/krakow-1/20261117_130831.jpg",
       "drive_id": "1FoiQLCMhJw-6HNCc3Y5w_5xpkGDd88f4",
       "caption_source": "«Eros Bendato» («Связанный Эрос») — скульптура Игоря Миторая.",
-      "caption_approval": "owner in chat, 2026-11-24"
+      "caption_from": "facebook photo 40986471744270332 (pcb.40986548600929313)"
     },
     {
       "chapter": "krakow-1",
@@ -6080,7 +6151,9 @@
       "position": 2,
       "site_filename": "20261117_101400.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_101400.jpg",
-      "drive_id": "1xKBKA7ZmZLzsVqsTiCDKhtwyh8vTrVPT"
+      "drive_id": "1xKBKA7ZmZLzsVqsTiCDKhtwyh8vTrVPT",
+      "caption_source": "Музей Чарторыйских",
+      "caption_from": "facebook photo 40987775870806586 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -6131,7 +6204,8 @@
       "site_filename": "20261117_102245.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_102245.jpg",
       "drive_id": "1S0lbv0FmZoC3iGVpy6vbq4pp0wU6a6Gn",
-      "caption_source": "Портрет княгини Изабелы Чарторыйской, 1796 год."
+      "caption_source": "Портрет княгини Изабелы Чарторыйской, 1796 год.",
+      "caption_from": "facebook photo 40987773037473536 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -6157,7 +6231,8 @@
       "site_filename": "20261117_101833.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_101833.jpg",
       "drive_id": "134baUjeXqRgX2KNVEtr6aaT3Cs4o6BFl",
-      "caption_source": "Портрет князя Константина Чарторыйского, 1821 год."
+      "caption_source": "Портрет князя Константина Чарторыйского, 1821 год.",
+      "caption_from": "facebook photo 40987772954140211 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -6183,7 +6258,8 @@
       "site_filename": "20261117_102821.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_102821.jpg",
       "drive_id": "1aW4QpmZU4AHCRVyNRA5SocqiIw87a8m5",
-      "caption_source": "Портрет Лукаша Опалинского, 1635–1640 годы."
+      "caption_source": "Портрет Лукаша Опалинского, 1635–1640 годы.",
+      "caption_from": "facebook photo 40987772927473547 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -6258,7 +6334,9 @@
       "position": 9,
       "site_filename": "20261117_102914.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_102914.jpg",
-      "drive_id": "1-0MCON8p5giMBWGgx376B8uZ9emyfk_6"
+      "drive_id": "1-0MCON8p5giMBWGgx376B8uZ9emyfk_6",
+      "caption_source": "Маршальские жезлы - очень меня впечатлили!",
+      "caption_from": "facebook photo 40987772827473557 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -6333,7 +6411,9 @@
       "position": 12,
       "site_filename": "20261117_103147.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_103147.jpg",
-      "drive_id": "1bgDfqzIs6buwU5Av--a_5YufVHXVSMs2"
+      "drive_id": "1bgDfqzIs6buwU5Av--a_5YufVHXVSMs2",
+      "caption_source": "Шатер, захваченый у турков - победа над ними очень великое дело поляков!",
+      "caption_from": "facebook photo 40987772967473543 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -6484,7 +6564,8 @@
       "site_filename": "20261117_105044.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_105044.jpg",
       "drive_id": "1mHXU1L1tn7VqWxOJDySvW5LukP06C6Wv",
-      "caption_source": "Микеле ди Якопо Тозини. «Венера-победительница». Около 1565–1575 годов."
+      "caption_source": "Микеле ди Якопо Тозини. «Венера-победительница». Около 1565–1575 годов - первоначально висела в паре с Леонардо",
+      "caption_from": "facebook photo 40987879140796259 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -6584,7 +6665,9 @@
       "position": 22,
       "site_filename": "20261118_150124.jpg",
       "r2_key": "poland-2026/krakow-2/20261118_150124.jpg",
-      "drive_id": "1jnA6zsiS-KhlSQ2N4YXI63PJToKYfmfF"
+      "drive_id": "1jnA6zsiS-KhlSQ2N4YXI63PJToKYfmfF",
+      "caption_source": "Галерея польского искусства XIX века в Суконных рядах (Sukiennice)",
+      "caption_from": "facebook photo 40987946184122888 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -6610,7 +6693,8 @@
       "site_filename": "20261118_141453.jpg",
       "r2_key": "poland-2026/krakow-2/20261118_141453.jpg",
       "drive_id": "1oBecJbQXgLF60XWfHYa57KmkWMtNQd7M",
-      "caption_source": "Январий Суходольский. «Отступление из-под Москвы. Эпизод 1812 года», 1854."
+      "caption_source": "Январий Суходольский. «Отступление из-под Москвы. Эпизод 1812 года», 1854",
+      "caption_from": "facebook photo 40987946410789532 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -6710,7 +6794,9 @@
       "position": 27,
       "site_filename": "20261117_140513.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_140513.jpg",
-      "drive_id": "1XlUeWJHJFlUcJ0PnM7hNBqMkeTzwuax0"
+      "drive_id": "1XlUeWJHJFlUcJ0PnM7hNBqMkeTzwuax0",
+      "caption_source": "Вавель",
+      "caption_from": "facebook photo 40988044334113073 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -6760,7 +6846,9 @@
       "position": 29,
       "site_filename": "20261117_142537.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_142537.jpg",
-      "drive_id": "14WiU0FgEr9YalZLvYaQSS9hGqQ1kQuTH"
+      "drive_id": "14WiU0FgEr9YalZLvYaQSS9hGqQ1kQuTH",
+      "caption_source": "Висла",
+      "caption_from": "facebook photo 40986472040936969 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -6835,7 +6923,9 @@
       "position": 32,
       "site_filename": "20261117_143414.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_143414.jpg",
-      "drive_id": "1LkkltLaTmDcSbmQkdEsk17DcacxscMsE"
+      "drive_id": "1LkkltLaTmDcSbmQkdEsk17DcacxscMsE",
+      "caption_source": "Вавель",
+      "caption_from": "facebook photo 40988044400779733 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -6910,7 +7000,9 @@
       "position": 35,
       "site_filename": "20261117_143638.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_143638.jpg",
-      "drive_id": "1TmMsL3nBuUqDW_lQoe6a3cPkFMS30AeA"
+      "drive_id": "1TmMsL3nBuUqDW_lQoe6a3cPkFMS30AeA",
+      "caption_source": "Собор с часовнями",
+      "caption_from": "facebook photo 40988044434113063 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -6985,7 +7077,9 @@
       "position": 38,
       "site_filename": "PXL_20261118_103754979.jpg",
       "r2_key": "poland-2026/krakow-2/PXL_20261118_103754979.jpg",
-      "drive_id": "1TW8HpYmUCxeXC8tGbtCtqB7EAlOYovgb"
+      "drive_id": "1TW8HpYmUCxeXC8tGbtCtqB7EAlOYovgb",
+      "caption_source": "Собор Святых Станислава и Вацлава",
+      "caption_from": "facebook photo 40988130127437827 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -7036,7 +7130,8 @@
       "site_filename": "PXL_20261118_103953867.jpg",
       "r2_key": "poland-2026/krakow-2/PXL_20261118_103953867.jpg",
       "drive_id": "1g_QdOBYLdPLHK7r8m-21WL0HDJtOhdyQ",
-      "caption_source": "Надгробие Владислава II Ягайло — короля Польши и основателя династии Ягеллонов. В 1410 году он возглавил польско-литовское войско, разгромившее Тевтонский орден в Грюнвальдской битве."
+      "caption_source": "Надгробие Владислава II Ягайло — короля Польши и основателя династии Ягеллонов. В 1410 году он возглавил польско-литовское войско, разгромившее Тевтонский орден в Грюнвальдской битве.",
+      "caption_from": "facebook photo 40988132637437576 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -7062,7 +7157,8 @@
       "site_filename": "PXL_20261118_103922629.jpg",
       "r2_key": "poland-2026/krakow-2/PXL_20261118_103922629.jpg",
       "drive_id": "19wMvJxY16zesrM9bzf86cLQ28jfk3Mwq",
-      "caption_source": "Символическое надгробие Владислава III Варненчика — сына Ягайло, короля Польши и Венгрии. В 1444 году он погиб в битве с турками под Варной, в возрасте 20 лет. Его тело так и не нашли."
+      "caption_source": "Символическое надгробие Владислава III Варненчика — сына Ягайло, короля Польши и Венгрии. В 1444 году он погиб в битве с турками под Варной, в возрасте 20 лет. Его тело так и не нашли.",
+      "caption_from": "facebook photo 40988130234104483 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -7213,7 +7309,8 @@
       "site_filename": "PXL_20261118_105738408.jpg",
       "r2_key": "poland-2026/krakow-2/PXL_20261118_105738408.jpg",
       "drive_id": "1YqGq8UVn0OvHCA3hy49DorstMt_NiDGc",
-      "caption_source": "Это **надгробный памятник королю Яну III Собескому и его жене Марии Казимире**, созданный в 1753–1760 годах. Вверху — их портреты в медальонах, на рельефе — битва под Веной, внизу — турецкие пленники. Так увековечили военную славу короля."
+      "caption_source": "Это надгробный памятник королю Яну III Собескому и его жене Марии Казимире, созданный в 1753–1760 годах. Вверху — их портреты в медальонах, на рельефе — битва под Веной, внизу — турецкие пленники. Так увековечили военную славу короля.",
+      "caption_from": "facebook photo 40988132687437571 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -7263,7 +7360,9 @@
       "position": 49,
       "site_filename": "PXL_20261118_110449472.jpg",
       "r2_key": "poland-2026/krakow-2/PXL_20261118_110449472.jpg",
-      "drive_id": "1a79bV7UVhBIpowKUUzWyOVEUTgIrGDtP"
+      "drive_id": "1a79bV7UVhBIpowKUUzWyOVEUTgIrGDtP",
+      "caption_source": "Надгробие Казимира IV Ягеллончика — сына Ягайло, короля Польши и великого князя литовского. Победив Тевтонский орден в Тринадцатилетней войне, он вернул Польше выход к морю. Мраморное надгробие создали Вит Ствош и Йорг Хубер около 1492 года.",
+      "caption_from": "facebook photo 40988132994104207 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -7463,7 +7562,9 @@
       "position": 57,
       "site_filename": "PXL_20261118_111005120.jpg",
       "r2_key": "poland-2026/krakow-2/PXL_20261118_111005120.jpg",
-      "drive_id": "1HWVwsHf1d-fJ3lQMkEvKzVfOyQcM7vZv"
+      "drive_id": "1HWVwsHf1d-fJ3lQMkEvKzVfOyQcM7vZv",
+      "caption_source": "Тадеуш Костюшко",
+      "caption_from": "facebook photo 40988132824104224 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -7738,7 +7839,9 @@
       "position": 68,
       "site_filename": "20261117_153412.jpg",
       "r2_key": "poland-2026/krakow-2/20261117_153412.jpg",
-      "drive_id": "1zGK3XIZM97BqYi3IFc9Ph8S8sCltNCXt"
+      "drive_id": "1zGK3XIZM97BqYi3IFc9Ph8S8sCltNCXt",
+      "caption_source": "Очень мне освящение понравилось, оно конечно электрическое, но в виде свечей и прямо \"темно\" там в залах!",
+      "caption_from": "facebook photo 40988044034113103 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -7888,7 +7991,9 @@
       "position": 74,
       "site_filename": "45b7e0dd-c6e7-4539-98c2-ebefe1ca454c.jpg",
       "r2_key": "poland-2026/krakow-2/45b7e0dd-c6e7-4539-98c2-ebefe1ca454c.jpg",
-      "drive_id": "1_GsgTq27CnRzqMkeBdrfBdT4AvtcwRq6"
+      "drive_id": "1_GsgTq27CnRzqMkeBdrfBdT4AvtcwRq6",
+      "caption_source": "Серега с Gemini",
+      "caption_from": "facebook photo 40988075574109949 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
@@ -7938,7 +8043,9 @@
       "position": 76,
       "site_filename": "PXL_20261118_104625843.jpg",
       "r2_key": "poland-2026/krakow-2/PXL_20261118_104625843.jpg",
-      "drive_id": "1GUkd7p6Z95pVyl9FgyUqhNE3LMlrEESV"
+      "drive_id": "1GUkd7p6Z95pVyl9FgyUqhNE3LMlrEESV",
+      "caption_source": "Наверх!",
+      "caption_from": "facebook photo 40988132337437606 (pcb.40988195647431275)"
     },
     {
       "chapter": "krakow-2",
