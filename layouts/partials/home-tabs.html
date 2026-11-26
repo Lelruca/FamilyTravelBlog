@@ -1,9 +1,10 @@
-{{- /* Two halves of the diary under the home heading: «Путешествия» (the home page) and «Вылазки» (/short-trips/).
-       Light tabs, the current one underlined. Context: "trips" or "short". */ -}}
+{{- /* Three tabs under the home heading: «Путешествия» (the home page), «Вылазки» (/short-trips/) and «Люди» (/people/).
+       Light tabs, the current one underlined. Context: "trips", "short" or "people". */ -}}
 {{- $current := . -}}
-<nav class="home-tabs" aria-label="Путешествия и вылазки">
+<nav class="home-tabs" aria-label="Путешествия, вылазки и люди">
   <a href="{{ site.Home.RelPermalink }}"{{ if eq $current "trips" }} aria-current="page"{{ end }}>Путешествия</a>
   <a href="{{ "short-trips/" | relURL }}"{{ if eq $current "short" }} aria-current="page"{{ end }}>Вылазки</a>
+  <a href="{{ "people/" | relURL }}"{{ if eq $current "people" }} aria-current="page"{{ end }}>Люди</a>
 </nav>
 <style>
 .home-tabs{display:flex;gap:32px;border-bottom:1px solid #e5e5e5;margin:0 0 28px}

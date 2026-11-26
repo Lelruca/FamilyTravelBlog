@@ -1,0 +1,150 @@
+{{ define "main" }}
+{{- /* «Люди» — the third tab next to «Путешествия» and «Вылазки»: the same heading and tabs as the home page.
+       A row of pills — «Все» and one per person or friends' family, ordered by the number of trips (ties alphabetically) —
+       over the trip tiles (trips and short trips together, newest first, the same tiles as on the home page).
+       «Все» is chosen at first; a pill shows only that person's (or family's) trips. The chosen pill is filled with
+       the site's teal, as the chosen continent on «По странам». On a phone the pills are one row that scrolls sideways,
+       as the continents on «По странам», so the photos start right under them.
+       Data: each trip lists its people (people: [id…]) and the friends' families that came (participant_families: [id…]);
+       data/people.json names everyone (family: <id> for members of friends' families),
+       data/participant_families.json names the families.
+       A family member gets a pill of their own only when they also travelled without their family;
+       a family's pill shows the trips marked with that family.
+       The choice lives in the address (#natasha, #family-pukha), so «Назад» from a trip returns to the same choice. */ -}}
+{{ partial "home-style.html" . }}
+{{- $trips := where site.Pages "Params.people" "!=" nil -}}
+{{- $pills := slice -}}
+{{- range $id, $p := site.Data.people -}}
+  {{- $mine := where $trips "Params.people" "intersect" (slice $id) -}}
+  {{- if $mine -}}
+    {{- $own := true -}}
+    {{- with $p.family -}}
+      {{- $fam := . -}}
+      {{- $own = false -}}
+      {{- range $mine }}{{ if not (in (.Params.participant_families | default slice) $fam) }}{{ $own = true }}{{ end }}{{ end -}}
+    {{- end -}}
+    {{- if $own -}}
+      {{- $pills = $pills | append (dict "key" $id "title" $p.title "n" (len $mine) "order" (printf "%05d %s" (sub 10000 (len $mine)) $p.title)) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- range $id, $f := site.Data.participant_families -}}
+  {{- $mine := where $trips "Params.participant_families" "intersect" (slice $id) -}}
+  {{- if $mine -}}
+    {{- $pills = $pills | append (dict "key" (printf "family-%s" $id) "title" $f.title "n" (len $mine) "order" (printf "%05d %s" (sub 10000 (len $mine)) $f.title)) -}}
+  {{- end -}}
+{{- end -}}
+{{- /* newest first, as on the home page: by trip_start (year-month), trips without it by trip_year */ -}}
+{{- $rows := slice -}}
+{{- range $trips -}}
+  {{- $rows = $rows | append (dict "key" (.Params.trip_start | default (printf "%v-00" .Params.trip_year)) "page" .) -}}
+{{- end -}}
+<div class="site-wrap">
+  <header class="home-intro">
+    <h1>{{ site.Title }}</h1>
+    {{ with site.Home.Content }}<div class="lead">{{ . }}</div>{{ end }}
+  </header>
+  {{ partial "home-tabs.html" "people" }}
+
+  <nav class="people-pills" id="people-pills" aria-label="Чьи поездки показать">
+    <a class="people-pill" href="#all" data-key="all" aria-current="true"><span class="people-pill-name">Все</span><span class="people-pill-n">{{ len $trips }}</span></a>
+    {{- range sort $pills "order" }}
+    <a class="people-pill" href="#{{ .key }}" data-key="{{ .key }}"><span class="people-pill-name">{{ .title }}</span><span class="people-pill-n">{{ .n }}</span></a>
+    {{- end }}
+    <button type="button" class="people-pill people-more" id="people-more" hidden aria-expanded="false">Ещё</button>
+  </nav>
+
+  <section class="trip-tiles" id="people-trips" aria-label="Поездки">
+    {{- range sort $rows "key" "desc" }}
+    {{- $t := .page }}
+    <div class="trip-tile-cell" data-people="{{ delimit $t.Params.people " " }}" data-families="{{ delimit ($t.Params.participant_families | default slice) " " }}">{{ partial "trip-tile.html" $t }}</div>
+    {{- end }}
+  </section>
+</div>
+<style>
+.people-pills{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 28px}
+.people-pill{display:inline-flex;align-items:baseline;gap:7px;flex:none;white-space:nowrap;padding:7px 15px;border:1px solid var(--line-strong);border-radius:999px;background:#fff;color:var(--ink);font:500 15px/1.3 Inter,system-ui,sans-serif;transition:border-color .2s}
+.people-pill-n{font-size:13px;color:var(--ink-muted)}
+.people-pill:hover{border-color:var(--ink)}
+.people-pill[aria-current="true"]{background:var(--accent-fill);border-color:var(--accent-fill);color:#fff}
+.people-pill[aria-current="true"] .people-pill-n{color:rgba(255,255,255,.85)}
+.people-pill:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.people-pill[hidden]{display:none}
+.people-more{cursor:pointer;color:var(--ink-muted);border-style:dashed}
+.people-more:hover{color:var(--ink)}
+@media(max-width:700px){
+  /* one row that scrolls sideways, edge to edge, so the photos start right under it */
+  .people-pills{flex-wrap:nowrap;overflow-x:auto;margin:0 -16px 20px;padding:2px 16px 4px;scrollbar-width:none}
+  .people-pills::-webkit-scrollbar{display:none}
+  .people-pill{padding:7px 13px;font-size:15px}
+}
+</style>
+<script>
+(() => {
+  const bar = document.getElementById('people-pills');
+  const pills = [...bar.querySelectorAll('a.people-pill')];
+  const more = document.getElementById('people-more');
+  const cells = [...document.querySelectorAll('#people-trips .trip-tile-cell')];
+  const phone = matchMedia('(max-width:700px)');
+  let open = false;
+  /* Computer: exactly one row — the pills that fit, in their order, then «Ещё N ▾»; «Все» and the chosen pill
+     always stay in the row. «Ещё» opens all of them («Свернуть ▴» folds back). Phone: the row scrolls sideways. */
+  const fit = () => {
+    pills.forEach((p) => { p.hidden = false; });
+    if (phone.matches) { more.hidden = true; return; }
+    if (open) { more.hidden = false; more.textContent = 'Свернуть ▴'; more.setAttribute('aria-expanded', 'true'); return; }
+    more.hidden = false;
+    more.textContent = `Ещё ${pills.length} ▾`;
+    const gap = parseFloat(getComputedStyle(bar).columnGap) || 8;
+    const room = bar.clientWidth;
+    const w = pills.map((p) => p.getBoundingClientRect().width);
+    const total = w.reduce((s, x) => s + x, 0) + gap * (pills.length - 1);
+    if (total <= room) { more.hidden = true; return; }
+    const reserve = more.getBoundingClientRect().width + gap;
+    const chosen = pills.findIndex((p) => p.getAttribute('aria-current') === 'true');
+    const keep = new Set([0, chosen]);
+    let used = [...keep].reduce((s, i) => s + w[i] + gap, 0);
+    /* in order, with no gaps: the first pill that does not fit ends the row (the chosen one is already in it) */
+    let full = false;
+    pills.forEach((p, i) => {
+      if (keep.has(i) || full) return;
+      if (used + w[i] + gap + reserve <= room) { keep.add(i); used += w[i] + gap; } else full = true;
+    });
+    pills.forEach((p, i) => { p.hidden = !keep.has(i); });
+    more.textContent = `Ещё ${pills.length - keep.size} ▾`;
+    more.setAttribute('aria-expanded', 'false');
+  };
+  more.addEventListener('click', () => { open = !open; fit(); });
+  const show = () => {
+    const key = decodeURIComponent(location.hash.slice(1)) || 'all';
+    const pill = bar.querySelector(`[data-key="${CSS.escape(key)}"]`) || bar.querySelector('[data-key="all"]');
+    const k = pill.dataset.key;
+    bar.querySelectorAll('.people-pill').forEach((p) => p.removeAttribute('aria-current'));
+    pill.setAttribute('aria-current', 'true');
+    const fam = k.startsWith('family-') ? k.slice(7) : '';
+    cells.forEach((c) => {
+      if (k === 'all') { c.hidden = false; return; }
+      const list = (fam ? c.dataset.families : c.dataset.people).split(' ');
+      c.hidden = !list.includes(fam || k);
+    });
+    fit();
+    align();
+  };
+  /* on a phone the chosen pill may sit off the side of the row: bring it to the middle of the row,
+     without moving the page; again once the page and its fonts have loaded, since pill widths change then */
+  const align = () => {
+    const pill = bar.querySelector('[aria-current="true"]');
+    if (!pill || bar.scrollWidth <= bar.clientWidth) return;
+    const b = bar.getBoundingClientRect(), r = pill.getBoundingClientRect();
+    if (r.left < b.left + 16 || r.right > b.right - 16) bar.scrollLeft += (r.left + r.width / 2) - (b.left + b.width / 2);
+  };
+  const refit = () => { fit(); align(); };
+  let t;
+  window.addEventListener('hashchange', show);
+  window.addEventListener('resize', () => { clearTimeout(t); t = setTimeout(refit, 120); });
+  window.addEventListener('load', refit);
+  if (document.fonts) document.fonts.ready.then(refit);
+  show();
+})();
+</script>
+{{ end }}
