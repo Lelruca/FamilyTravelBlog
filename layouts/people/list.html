@@ -1,7 +1,8 @@
 {{ define "main" }}
 {{- /* «Люди» — the third tab next to «Путешествия» and «Вылазки»: the same heading and tabs as the home page.
        A row of pills — «Все» and one per person or friends' family, ordered by the number of trips (ties alphabetically) —
-       over the trip tiles (trips and short trips together, newest first, the same tiles as on the home page).
+       over the trip tiles (trips and short trips together, newest first, the same tiles as on the home page;
+       a short trip's name starts with its year, «2025 — Поблет и Монбланк», as on «Вылазки»).
        «Все» is chosen at first; a pill shows only that person's (or family's) trips. The chosen pill is filled with
        the site's teal, as the chosen continent on «По странам». On a phone the pills are one row that scrolls sideways,
        as the continents on «По странам», so the photos start right under them.
@@ -57,7 +58,9 @@
   <section class="trip-tiles" id="people-trips" aria-label="Поездки">
     {{- range sort $rows "key" "desc" }}
     {{- $t := .page }}
-    <div class="trip-tile-cell" data-people="{{ delimit $t.Params.people " " }}" data-families="{{ delimit ($t.Params.participant_families | default slice) " " }}">{{ partial "trip-tile.html" $t }}</div>
+    {{- /* a short trip carries the year before its name, as on «Вылазки» (not for one visited many times) */ -}}
+    {{- $tile := $t -}}{{- if and $t.Params.short_trip (not $t.Params.multi_visit) }}{{ $tile = dict "page" $t "year" $t.Params.trip_year }}{{ end }}
+    <div class="trip-tile-cell" data-people="{{ delimit $t.Params.people " " }}" data-families="{{ delimit ($t.Params.participant_families | default slice) " " }}">{{ partial "trip-tile.html" $tile }}</div>
     {{- end }}
   </section>
 </div>

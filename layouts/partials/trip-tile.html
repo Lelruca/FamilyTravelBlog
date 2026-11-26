@@ -1,7 +1,10 @@
 {{- /* Trip tile on the home page: the trip's cover photo with its name large over it, bottom left.
        Texts come from cover_where / cover_title / cover_subtitle / cover_when / cover_who
-       (falls back to the trip title). Details (where, when · who) appear on mouse hover. */ -}}
-{{- $trip := . -}}
+       (falls back to the trip title). Details (where, when · who) appear on mouse hover.
+       Called with the trip page, or with (dict "page" <trip> "year" <year>) to put the year before the name,
+       «2025 — Поблет и Монбланк», as short trips are named on «Вылазки» (used on «Люди»). */ -}}
+{{- $trip := . -}}{{- $year := "" -}}
+{{- if reflect.IsMap . }}{{ $trip = .page }}{{ $year = .year }}{{ end -}}
 {{- $cover := $trip.Params.home_cover_image | default $trip.Params.cover_image | default "" -}}
 {{- $src := "" -}}
 {{- if hasPrefix $cover "http" -}}
@@ -16,7 +19,7 @@
   {{- with $src }}<img referrerpolicy="no-referrer" src="{{ . }}" alt="" loading="lazy"{{ with ($trip.Params.home_cover_position | default $trip.Params.cover_position) }} style="object-position: {{ . }};"{{ end }}>{{ end }}
   <div class="trip-tile-text">
     {{- with $trip.Params.cover_where }}<p class="trip-tile-where">{{ . }}</p>{{ end }}
-    <h2 class="trip-tile-title">{{ $trip.Params.cover_title | default $trip.Title }}</h2>
+    <h2 class="trip-tile-title">{{ with $year }}{{ . }} — {{ end }}{{ $trip.Params.cover_title | default $trip.Title }}</h2>
     {{- with $trip.Params.cover_subtitle }}<p class="trip-tile-sub">{{ . }}</p>{{ end }}
     {{- with $meta }}<p class="trip-tile-meta">{{ delimit . " · " }}</p>{{ end }}
   </div>
