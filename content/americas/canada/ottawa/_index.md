@@ -15,7 +15,7 @@ geo_countries:
 readable_photos: true
 aliases:
   - /americas/canada/ottawa-2017/
-cover_who: "Леля, Серёжа и Наташа"
+cover_who: "Серёжа, Леля и Наташа"
 participant_families: []
 people: ["lelya","seryozha","natasha"]
 ---

@@ -13,7 +13,7 @@ geo_countries: ["england"]
 readable_photos: true
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/london-cambridge-2008/story/PB150054.JPG"
 strict_photo_cap: true
-cover_who: "Леля, Серёжа и семья Соломон"
+cover_who: "Серёжа, Леля и семья Соломон"
 participant_families: ["solomon"]
 people: ["lelya","seryozha","katya","david"]
 ---

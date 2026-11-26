@@ -15,7 +15,7 @@ geo_countries:
   - canada
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/detroit-windsor-2016/cover/20160806_133129.jpg"
 cover_title: "Детройт и музей Форда"
-cover_who: "Леля, Серёжа, Наташа и Митя"
+cover_who: "Серёжа, Леля, Наташа и Митя"
 participant_families: []
 people: ["lelya","seryozha","natasha","mitya"]
 ---

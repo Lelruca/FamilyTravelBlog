@@ -18,7 +18,7 @@ cover_where: "Португалия, Испания"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/honeymoon-2017/baiona-combarro-cambados/20170624_103939.jpg"
 cover_position: "center center"
 cover_when: "Июнь — июль 2017"
-cover_who: "Леля и Серёжа"
+cover_who: "Серёжа и Леля"
 participant_families: []
 people: ["lelya","seryozha"]
 ---

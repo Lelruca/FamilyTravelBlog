@@ -14,7 +14,7 @@ geo_countries:
 cover_where: "Чили, Аргентина, Бразилия"
 cover_title: "Мы в Южной Америке!"
 cover_when: "Апрель 2026"
-cover_who: "Леля, Серёжа и Митя"
+cover_who: "Серёжа, Леля и Митя"
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/south-america-2026/hornocal/facebook_1433105028616028.jpg"
 cover_position: "center 60%"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"

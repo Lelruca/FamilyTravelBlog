@@ -14,7 +14,7 @@ geo_countries:
 readable_photos: true
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/new-york-2006/story/IMG_3634.jpg"
 cover_position: "center top"
-cover_who: "Леля, Серёжа, Наташа и Катя О"
+cover_who: "Серёжа, Леля, Наташа и Катя О"
 participant_families: []
 people: ["lelya","seryozha","natasha","katya-o"]
 ---

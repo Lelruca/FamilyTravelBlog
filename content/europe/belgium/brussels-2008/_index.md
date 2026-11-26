@@ -13,7 +13,7 @@ geo_countries: ["belgium"]
 readable_photos: true
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/brussels-2008/story/PB250105.JPG"
 strict_photo_cap: true
-cover_who: "Леля и Серёжа"
+cover_who: "Серёжа и Леля"
 participant_families: []
 people: ["lelya","seryozha"]
 ---

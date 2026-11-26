@@ -13,7 +13,7 @@ geo_countries: ["usa"]
 readable_photos: true
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/chicago-2017/day-2/20171008_110611.jpg"
 strict_photo_cap: true
-cover_who: "Леля, Серёжа, Ома и Митя"
+cover_who: "Ома, Серёжа, Леля и Митя"
 participant_families: []
 people: ["lelya","seryozha","oma","mitya"]
 ---

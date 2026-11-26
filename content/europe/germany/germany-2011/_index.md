@@ -21,7 +21,7 @@ cover_where: "Германия, Голландия, Бельгия, Англия
 cover_title: "Первый автопробег по Европе!"
 cover_subtitle: "Лето у бабушки"
 cover_when: "Лето 2011"
-cover_who: "Леля, Серёжа, Наташа, Митя, Бабушка и семья Соломон"
+cover_who: "Бабушка, Серёжа, Леля, Наташа, Митя и семья Соломон"
 participant_families: ["solomon"]
 people: ["lelya","seryozha","natasha","mitya","babushka","katya","david"]
 ---
