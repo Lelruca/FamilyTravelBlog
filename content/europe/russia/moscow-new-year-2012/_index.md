@@ -16,5 +16,5 @@ cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/moscow-new-yea
 cover_position: "center 55%"
 cover_who: "Леля, Митя и Таня"
 participant_families: []
-people: ["lelya","mitya","tanya"]
+people: ["lelya","mitya","tanya","sveta"]
 ---

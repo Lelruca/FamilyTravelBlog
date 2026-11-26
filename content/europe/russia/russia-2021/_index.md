@@ -19,5 +19,5 @@ cover_position: "center 25%"
 source_url: "https://www.facebook.com/olga.ukolova.754"
 draft: false
 participant_families: []
-people: ["lelya","oma","katya","tanya"]
+people: ["lelya","oma","katya","tanya","sveta"]
 ---
