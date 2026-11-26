@@ -22,6 +22,6 @@ source_url: "https://www.facebook.com/profile.php?id=100057496327433"
 readable_photos: true
 semantic_paragraph_spacing: true
 draft: false
-participant_families: []
-people: ["lelya","seryozha","natasha","mitya"]
+participant_families: ["pukha"]
+people: ["lelya","seryozha","natasha","mitya","valera","natasha-p"]
 ---
