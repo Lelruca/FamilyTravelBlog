@@ -13,8 +13,8 @@ geo_countries: ["germany", "italy"]
 readable_photos: true
 strict_photo_cap: true
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/germany-italy-2006/grandma/IMG_3405.JPG"
-participants: ["lelya","babushka"]
 cover_who: "Леля и Бабушка"
 participant_families: []
+people: ["lelya","babushka"]
 ---
 

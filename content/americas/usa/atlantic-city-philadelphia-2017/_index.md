@@ -13,7 +13,7 @@ geo_countries:
   - usa
 readable_photos: true
 cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/atlantic-city-philadelphia-2017/atlantic-city/20170804_183844.jpg"
-participants: ["lelya","seryozha","natasha"]
 cover_who: "Леля, Серёжа и Наташа"
 participant_families: []
+people: ["lelya","seryozha","natasha"]
 ---

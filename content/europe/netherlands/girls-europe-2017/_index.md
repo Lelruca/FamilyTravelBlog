@@ -19,6 +19,6 @@ cover_subtitle: "Дубль два"
 cover_when: "Январь 2017"
 cover_who: "Леля, Марина и Нонна"
 cover_position: "center center"
-participants: ["lelya","marina","nonna"]
 participant_families: []
+people: ["lelya","marina","nonna"]
 ---

@@ -17,6 +17,6 @@ cover_title: "Canada Games и Вирджиния Бич"
 cover_subtitle: "Отдых в США"
 cover_when: "Лето 2013"
 cover_who: "Серёжа, Леля, Наташа и Митя"
-participants: ["lelya","seryozha","natasha","mitya"]
 participant_families: []
+people: ["lelya","seryozha","natasha","mitya"]
 ---

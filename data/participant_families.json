@@ -1,23 +1,18 @@
 {
   "shiro": {
-    "title": "Семья Широ",
-    "members": ["liza", "zhenya", "lena-shiro"]
+    "title": "Семья Широ"
   },
   "pukha": {
-    "title": "Семья Пуха",
-    "members": ["valera", "natasha-p"]
+    "title": "Семья Пуха"
   },
   "gorbunov": {
-    "title": "Семья Горбуновых",
-    "members": ["tanya", "polina", "misha"]
+    "title": "Семья Горбуновых"
   },
   "belolipov": {
-    "title": "Семья Белолиповых",
-    "members": ["olya-belolipov", "petr-belolipov"]
+    "title": "Семья Белолиповых"
   },
   "solomon": {
     "title": "Семья Соломон",
-    "members": ["katya", "david"],
     "members_complete": false,
     "note": "Катя, её муж Дэвид и дети. Дети учитываются семейной группой, их отдельные профили пока не заведены. Состав конкретной поездки хранится отдельно от членства в семье."
   }

@@ -12,14 +12,14 @@ cover_position: "center 70%"
 cover_title: "Путешествуем с друзьями"
 cover_subtitle: "Автопробег по Франции и Германии"
 cover_when: "14 августа — 2 сентября 2019"
-cover_who: "Таня, Полина, Миша, Леля, Серёжа и Митя"
+cover_who: "Леля, Серёжа, Митя и семья Горбуновых"
 geo_countries:
   - "france"
   - "germany"
   - "austria"
   - "belgium"
-participants: ["lelya","seryozha","mitya","tanya","polina","misha"]
 participant_families: ["gorbunov"]
+people: ["lelya","seryozha","mitya","tanya","polina","misha"]
 ---
 
 <style>

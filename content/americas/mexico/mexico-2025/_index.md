@@ -18,6 +18,6 @@ cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/mexico-2025/ch
 cover_position: "center 0%"
 source_url: "https://www.facebook.com/profile.php?id=100057496327433"
 draft: false
-participants: ["lelya","seryozha","oma"]
 participant_families: []
+people: ["lelya","seryozha","oma"]
 ---

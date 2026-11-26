@@ -19,6 +19,6 @@ cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/malgrat-2024/m
 cover_position: "center 40%"
 source_url: ""
 draft: false
-participants: ["lelya","seryozha","natasha","mitya"]
 participant_families: []
+people: ["lelya","seryozha","natasha","mitya"]
 ---

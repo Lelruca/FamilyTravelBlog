@@ -20,6 +20,6 @@ source_url: "https://www.facebook.com/profile.php?id=100057496327433"
 readable_photos: true
 balanced_mosaics: true
 draft: false
-participants: ["lelya","seryozha","natasha"]
 participant_families: []
+people: ["lelya","seryozha","natasha"]
 ---

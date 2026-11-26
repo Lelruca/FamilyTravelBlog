@@ -19,6 +19,6 @@ cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/trinidad-tobag
 cover_position: "center 50%"
 source_url: ""
 draft: false
-participants: ["lelya"]
 participant_families: []
+people: ["lelya"]
 ---

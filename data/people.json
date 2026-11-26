@@ -1,13 +1,31 @@
 {
-  "lelya": { "title": "Леля", "aliases": ["Ольга"] },
-  "seryozha": { "title": "Серёжа", "aliases": ["Сережа", "Сергей"] },
-  "natasha": { "title": "Наташа", "aliases": [] },
+  "lelya": {
+    "title": "Леля",
+    "aliases": [
+      "Ольга"
+    ]
+  },
+  "seryozha": {
+    "title": "Серёжа",
+    "aliases": [
+      "Сережа",
+      "Сергей"
+    ]
+  },
+  "natasha": {
+    "title": "Наташа",
+    "aliases": []
+  },
   "natasha-p": {
     "title": "Наташа П",
     "aliases": [],
-    "note": "Из Германии; приезжала с Валерой в Канаду в 2016 году. Отдельный человек от Наташи."
+    "note": "Из Германии; приезжала с Валерой в Канаду в 2016 году. Отдельный человек от Наташи.",
+    "family": "pukha"
   },
-  "mitya": { "title": "Митя", "aliases": [] },
+  "mitya": {
+    "title": "Митя",
+    "aliases": []
+  },
   "oma": {
     "title": "Ома",
     "aliases": [],
@@ -18,18 +36,83 @@
     "aliases": [],
     "note": "Отдельный человек от Омы."
   },
-  "katya": { "title": "Катя", "aliases": [], "note": "Из Лондона; отдельный человек от Кати О." },
-  "katya-o": { "title": "Катя О", "aliases": ["Катюша Орлова"], "note": "Одноклассница, принимала в Нью-Йорке в 2006 и 2012 годах. Обозначение подтверждено владельцем 25 ноября 2026." },
-  "david": { "title": "Дэвид", "aliases": [], "note": "Семья Кати из Лондона." },
-  "liza": { "title": "Лиза", "aliases": [], "note": "Одна и та же Лиза в Оттаве-2015, Римских каникулах и Северном Онтарио; подтверждено владельцем 25 ноября 2026." },
-  "zhenya": { "title": "Женя", "aliases": [], "note": "Семья Широ." },
-  "lena-shiro": { "title": "Лена", "aliases": [], "note": "Семья Широ; не отождествлять с другими Ленами по одному имени." },
-  "olya-belolipov": { "title": "Оля", "aliases": [], "note": "Семья Белолиповых; отдельный человек от Лели (Ольги)." },
-  "petr-belolipov": { "title": "Пётр", "aliases": ["Петр"], "note": "Семья Белолиповых." },
-  "marina": { "title": "Марина", "aliases": [] },
-  "nonna": { "title": "Нонна", "aliases": [] },
-  "tanya": { "title": "Таня", "aliases": [] },
-  "polina": { "title": "Полина", "aliases": [] },
-  "misha": { "title": "Миша", "aliases": [] },
-  "valera": { "title": "Валера", "aliases": [] }
+  "katya": {
+    "title": "Катя",
+    "aliases": [],
+    "note": "Из Лондона; отдельный человек от Кати О.",
+    "family": "solomon"
+  },
+  "katya-o": {
+    "title": "Катя О",
+    "aliases": [
+      "Катюша Орлова"
+    ],
+    "note": "Одноклассница, принимала в Нью-Йорке в 2006 и 2012 годах. Обозначение подтверждено владельцем 25 ноября 2026."
+  },
+  "david": {
+    "title": "Дэвид",
+    "aliases": [],
+    "note": "Семья Кати из Лондона.",
+    "family": "solomon"
+  },
+  "liza": {
+    "title": "Лиза",
+    "aliases": [],
+    "note": "Одна и та же Лиза в Оттаве-2015, Римских каникулах и Северном Онтарио; подтверждено владельцем 25 ноября 2026.",
+    "family": "shiro"
+  },
+  "zhenya": {
+    "title": "Женя",
+    "aliases": [],
+    "note": "Семья Широ.",
+    "family": "shiro"
+  },
+  "lena-shiro": {
+    "title": "Лена",
+    "aliases": [],
+    "note": "Семья Широ; не отождествлять с другими Ленами по одному имени.",
+    "family": "shiro"
+  },
+  "olya-belolipov": {
+    "title": "Оля",
+    "aliases": [],
+    "note": "Семья Белолиповых; отдельный человек от Лели (Ольги).",
+    "family": "belolipov"
+  },
+  "petr-belolipov": {
+    "title": "Пётр",
+    "aliases": [
+      "Петр"
+    ],
+    "note": "Семья Белолиповых.",
+    "family": "belolipov"
+  },
+  "marina": {
+    "title": "Марина",
+    "aliases": []
+  },
+  "nonna": {
+    "title": "Нонна",
+    "aliases": []
+  },
+  "tanya": {
+    "title": "Таня",
+    "aliases": [],
+    "family": "gorbunov"
+  },
+  "polina": {
+    "title": "Полина",
+    "aliases": [],
+    "family": "gorbunov"
+  },
+  "misha": {
+    "title": "Миша",
+    "aliases": [],
+    "family": "gorbunov"
+  },
+  "valera": {
+    "title": "Валера",
+    "aliases": [],
+    "family": "pukha"
+  }
 }

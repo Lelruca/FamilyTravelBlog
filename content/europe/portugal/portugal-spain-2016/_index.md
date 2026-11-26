@@ -18,8 +18,8 @@ cover_title: "Португалия-Испания"
 cover_subtitle: "Двухнедельное знакомство"
 cover_when: "Лето 2016"
 cover_who: "Серёжа, Леля, Наташа и Митя"
-participants: ["lelya","seryozha","natasha","mitya"]
 participant_families: []
+people: ["lelya","seryozha","natasha","mitya"]
 ---
 
 <!-- карта маршрута из LJ (доступна только по http, на https-сайте не покажется — загрузить в Google Drive): http://ic.pics.livejournal.com/olgau/8466657/13648/13648_600.jpg -->

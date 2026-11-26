@@ -18,6 +18,6 @@ cover_image: "https://pub-960c15be4df04139842369d59c9b04fc.r2.dev/russia-2021/co
 cover_position: "center 25%"
 source_url: "https://www.facebook.com/olga.ukolova.754"
 draft: false
-participants: ["lelya","oma","katya","tanya"]
 participant_families: []
+people: ["lelya","oma","katya","tanya"]
 ---

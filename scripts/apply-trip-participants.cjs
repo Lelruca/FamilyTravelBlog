@@ -10,6 +10,15 @@ const families = JSON.parse(read('data/participant_families.json'));
 const register = JSON.parse(read('data/trip_participants.json'));
 const check = process.argv.includes('--check');
 const trips = [];
+const familyMembers = Object.fromEntries(Object.keys(families).map(id => [id, []]));
+for (const [id, person] of Object.entries(people)) {
+  if (person.family !== undefined) {
+    assert(families[person.family], `${id}: unknown family ${person.family}`);
+    familyMembers[person.family].push(id);
+  }
+}
+for (const id of ['oma', 'babushka', 'seryozha', 'lelya', 'natasha', 'mitya'])
+  assert.equal(people[id].family, undefined, `${id}: main family must retain individual profiles`);
 function scan(dir) {
   for (const entry of fs.readdirSync(path.join(root, dir), {withFileTypes: true})) {
     const file = `${dir}/${entry.name}`;
@@ -21,9 +30,7 @@ function scan(dir) {
 scan('content');
 assert.deepEqual(Object.keys(register).sort(), trips.sort(), 'Participant register must cover every trip and contain no orphan trips');
 for (const [id, family] of Object.entries(families)) {
-  assert(family.title && Array.isArray(family.members) && family.members.length, `Invalid family ${id}`);
-  assert.equal(new Set(family.members).size, family.members.length, `Duplicate members in ${id}`);
-  for (const member of family.members) assert(people[member], `Unknown member ${member} in ${id}`);
+  assert(family.title && familyMembers[id].length, `Invalid or empty family ${id}`);
 }
 let changed = 0;
 const pending = [];
@@ -35,7 +42,7 @@ for (const [trip, record] of Object.entries(register)) {
   assert.equal(new Set(record.families).size, record.families.length, `${trip}: duplicate families`);
   for (const id of record.families) {
     assert(families[id], `${trip}: unknown family ${id}`);
-    assert(families[id].members.some(member => record.people.includes(member)), `${trip}: family has no confirmed participant`);
+    assert(familyMembers[id].some(member => record.people.includes(member)), `${trip}: family has no confirmed participant`);
   }
   assert(record.label && !/Сережа|Сергей|Ольга/u.test(record.label), `${trip}: noncanonical participant label`);
   assert(['reviewed', 'needs-owner'].includes(record.status), `${trip}: invalid review status`);
@@ -48,7 +55,8 @@ for (const [trip, record] of Object.entries(register)) {
   const before = read(file);
   const after = before.replace(/^(---\r?\n)([\s\S]*?)(\r?\n---)/, (_, open, front, close) => {
     const newline = before.includes('\r\n') ? '\r\n' : '\n';
-    for (const [key, value] of Object.entries({participants: record.people, participant_families: record.families, cover_who: record.label})) {
+    front = front.replace(/^participants:[^\r\n]*(?:\r?\n[ \t]+-[^\r\n]*)*\r?\n?/m, '');
+    for (const [key, value] of Object.entries({people: record.people, participant_families: record.families, cover_who: record.label})) {
       const field = `${key}: ${JSON.stringify(value)}`;
       const existing = new RegExp(`^${key}:[^\\r\\n]*(?:\\r?\\n[ \\t]+-[^\\r\\n]*)*`, 'm');
       front = existing.test(front) ? front.replace(existing, field) : front + newline + field;
